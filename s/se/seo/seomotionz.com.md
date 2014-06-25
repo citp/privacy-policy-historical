@@ -1,146 +1,162 @@
-> *The following text is extracted and transformed from the seomotionz.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124012id_/http%3A//seomotionz.com/%3Fpage_id%3D595) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomotionz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135739id_/http%3A//seomotionz.com/%3Fpage_id%3D595) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Motionz
 
-Your privacy is very important to us. Accordingly, we have developed this Policy 
+Your privacy is very important to us. Accordingly, we have developed this Policy
 
-in order for you to understand how we collect, use, communicate and make use 
+in order for you to understand how we collect, use, communicate and make use
 
-of personal information. The following outlines our Privacy Policy. 
+of personal information. The following outlines our Privacy Policy.
 
-When accessing our Website, SEO Motionz will learn certain information about 
+When accessing our Website, SEO Motionz will learn certain information about
 
 you during your visit.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology 
+Similar to other commercial Web sites, our Web site utilizes a standard technology
 
-called “cookies” (see explanation below, “What Are Cookies?”) 
+called “cookies” (see explanation below, “What Are Cookies?”)
 
-and Web server logs to collect information about how our Web site is used. Information 
+and Web server logs to collect information about how our Web site is used. Information
 
-gathered through cookies and Web server logs may include the date and time of 
+gathered through cookies and Web server logs may include the date and time of
 
-visits, the pages viewed, time spent at our Web site, and the Web sites visited 
+visits, the pages viewed, time spent at our Web site, and the Web sites visited
 
 just before and just after our Web site, your IP address.
 
 **What Are Cookies?**
 
-A cookie is a very small text document, which often includes an anonymous unique 
+A cookie is a very small text document, which often includes an anonymous unique
 
-identifier. When you visit a Web site, that site’s computer asks your computer 
+identifier. When you visit a Web site, that site’s computer asks your computer
 
-for permission to store this file in a part of your hard drive specifically 
+for permission to store this file in a part of your hard drive specifically
 
-designated for cookies. Each Web site can send its own cookie to your browser 
+designated for cookies. Each Web site can send its own cookie to your browser
 
-if your browser’s preferences allow it, but (to protect your privacy) your browser 
+if your browser’s preferences allow it, but (to protect your privacy) your browser
 
-only permits a Web site to access the cookies it has already sent to you, not 
+only permits a Web site to access the cookies it has already sent to you, not
 
 the cookies sent to you by other sites.
 
 **IP Addresses**
 
-IP addresses are used by your computer every time you are connected to the 
+IP addresses are used by your computer every time you are connected to the
 
-Internet. Your IP address is a number that is used by computers on the network 
+Internet. Your IP address is a number that is used by computers on the network
 
-to identify your computer. IP addresses are automatically collected by our web 
+to identify your computer. IP addresses are automatically collected by our web
 
-server as part of demographic and profile data known as “traffic data” 
+server as part of demographic and profile data known as “traffic data”
 
 so that data (such as the Web pages you request) can be sent to you.
 
 **Email Information**
 
-If you choose to correspond with us through email, we may retain the content 
+If you choose to correspond with us through email, we may retain the content
 
-of your email messages together with your email address and our responses. We 
+of your email messages together with your email address and our responses. We
 
-provide the same protections for these electronic communications that we employ 
+provide the same protections for these electronic communications that we employ
 
 in the maintenance of information received online, mail and telephone.
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering 
+Broadly speaking, we use personal information for purposes of administering
 
-our business activities, providing customer service and making available other 
+our business activities, providing customer service and making available other
 
 items and services to our customers and prospective customers.
 
-SEO Motionz will not obtain personally-identifying information about you when you 
+SEO Motionz will not obtain personally-identifying information about you when you
 
-visit our site, unless you choose to provide such information to us, nor will 
+visit our site, unless you choose to provide such information to us, nor will
 
-such information be sold or otherwise transferred to unaffiliated third parties 
+such information be sold or otherwise transferred to unaffiliated third parties
 
 without the approval of the user at the time of collection.
 
-We may disclose information when legally compelled to do so, in other words, 
+We may disclose information when legally compelled to do so, in other words,
 
-when we, in good faith, believe that the law requires it or for the protection 
+when we, in good faith, believe that the law requires it or for the protection
 
 of our legal rights.
 
 **A Special Note About Children**
 
-Children are not eligible to use our web site and services and we ask that 
+Children are not eligible to use our web site and services and we ask that
 
-minors (under the age of 13) do not submit any personal information to us. If 
+minors (under the age of 13) do not submit any personal information to us. If
 
-you are a minor, you can use this site only in conjunction with permission and 
+you are a minor, you can use this site only in conjunction with permission and
 
 guidance from your parents or guardians.
 
 **How Do We Protect Your Information and Secure Information Transmissions?**
 
-Email is not recognized as a secure medium of communication. For this reason, 
+Email is not recognized as a secure medium of communication. For this reason,
 
-we request that you do not send private information to us by email. However, 
+we request that you do not send private information to us by email. However,
 
-doing so is allowed, but at your own risk. Some of the information you may enter 
+doing so is allowed, but at your own risk. Some of the information you may enter
 
-on our Web site may be transmitted securely via a secure medium known as Secure 
+on our Web site may be transmitted securely via a secure medium known as Secure
 
 Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-SEO Motionz may use software programs to create summary statistics, which are used 
+SEO Motionz may use software programs to create summary statistics, which are used
 
-for such purposes as assessing the number of visitors to the different sections 
+for such purposes as assessing the number of visitors to the different sections
 
-of our site, what information is of most and least interest, determining technical 
+of our site, what information is of most and least interest, determining technical
 
 design specifications, and identifying system performance or problem areas.
 
-For site security purposes and to ensure that this service remains available 
+For site security purposes and to ensure that this service remains available
 
-to all users, SEO Motionz uses software programs to monitor network traffic to identify 
+to all users, SEO Motionz uses software programs to monitor network traffic to identify
 
 unauthorized attempts to upload or change information, or otherwise cause damage.
 
+**Third Party Policy**
+
+We use third-party advertising companies to serve ads when you visit our Web site.
+
+These companies may use aggregated information (not including your name, address,
+
+email address or telephone number) about your visits to this and other Web sites in order
+
+to provide advertisements about goods and services of interest to you. If you would like
+
+more information about this practice and to know your choices about not having this
+
+information used by these companies,
+
+please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Policy Changes**
 
-We reserve the right to amend this privacy policy at any time with or without 
+We reserve the right to amend this privacy policy at any time with or without
 
-notice. However, please be assured that if the Privacy Policy changes in the 
+notice. However, please be assured that if the Privacy Policy changes in the
 
-future, we will not use the personal information you have submitted to us under 
+future, we will not use the personal information you have submitted to us under
 
-this Privacy Policy in a manner that is materially inconsistent with this Privacy 
+this Privacy Policy in a manner that is materially inconsistent with this Privacy
 
 Policy, without your prior consent.
 
-We are committed to conducting our business in accordance with these principles 
+We are committed to conducting our business in accordance with these principles
 
-in order to ensure that the confidentiality of personal information is protected 
+in order to ensure that the confidentiality of personal information is protected
 
-and maintained. 
+and maintained.
 
-**Contact**
+Contact
 
-If you have any questions regarding this Policy, or your dealings with our 
+If you have any questions regarding this Policy, or your dealings with our
 
 web site, please contact us.
 
