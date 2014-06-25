@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215162445id_/http%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101921id_/http%3A//aha.io/legal/privacy_policy) for the most accurate reproduction.*
 
 # Aha! | Privacy Policy
 
@@ -29,6 +29,8 @@ When you register for the Service, we ask for personal information such as your 
 Aha! Labs Inc. may use the personal information you provide to operate the Service and tailor it to your needs, for billing, identification and authentication, to contact and communicate with you about the Service and your use of the Service, send you marketing materials (subject to your opt-out option), for research purposes, and to generally improve the content and functionality of the Service.
 
 Aha! Labs Inc. may also share your personal information with its third-party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other services we use to operate the Service and maintain a high quality user experience. 
+
+The Service does not support "do not track" requests.
 
 ### Log Files
 
