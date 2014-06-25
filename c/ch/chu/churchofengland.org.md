@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928183140id_/http%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchofengland.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055540id_/http%3A//www.churchofengland.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,13 +39,11 @@ For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for th
 
 This policy may change from time to time.  You should check this policy occasionally to ensure you are aware of the most recent version which will apply each time you access this website.
 
-## Find Your Local Church
+  *   * 
 
-### Set Your Location
+
+###  Find Your Local Church
 
 Enter postcode or town/city
 
 Tip: Find your **local church** and set it as your **default location** to view your latest services and events on this page
-
-[Find your local CofE school](https://web.archive.org/education.aspx "Find your local CofE school")  
-
