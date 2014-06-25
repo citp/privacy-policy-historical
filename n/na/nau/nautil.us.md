@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nautil.us privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126173409id_/http%3A//nautil.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautil.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120233id_/http%3A//nautil.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nautilus
 
