@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127163256id_/http%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverorg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093426id_/http%3A//discoverorg.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | :: DiscoverOrg- IT Org Charts, IT Sales Leads::
+# Privacy Policy | DiscoverOrg- IT Org Charts, IT Sales Leads
 
 Privacy Policy
 
@@ -33,5 +33,7 @@ We may use anonymous cookies to record non-personal information such as website 
 Links to Other Websites and from Other Websites
 
 The site and our service may contain links and pointers to the other related World Wide Web Internet sites. DiscoverOrg is not responsible for any content of such Web Sites or the privacy or other commercial practices of such Web Sites, and, unless states otherwise. The links do not imply DiscoverOrg’s endorsement of, or association with, the linked sites, unless otherwise stated. We encourage all visitors and users of our system to review the privacy policies of each site they visit.
+
+Supplemental geopolitical data supplied by [GeoNames](http://www.geonames.org/)
 
 If you have any questions about our Privacy Policy, the practices, or use of the web site please contact [privacy@discoverorg.com](mailto:privacy@discoverorg.com)
