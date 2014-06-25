@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227090335id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110711id_/https%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
 # The Pragmatic Bookshelf | Our Commitment to Privacy
 
@@ -38,6 +38,12 @@ Our shopping cart system passes the contact and order information to our payment
 We have a close relationship with [The Pragmatic Studio](http://pragmaticstudio.com/), who prepare content and courses under our Pragmatic brand. We share information with them.
 
 We will not disclose your information to any other third parties.
+
+### Analytics
+
+We use Google Analytics to measure the use of our site. As part of this, we use Google Analytics Demographics and Interest Reporting. This does not give us specific information about you—we see aggregated data. However, you can opt out using Google’s [Ads Settings](https://www.google.com/settings/ads).
+
+Our intent is to use this information to tune the way we organize our site and the information it contains.
 
 ### Confidentiality and Security
 
