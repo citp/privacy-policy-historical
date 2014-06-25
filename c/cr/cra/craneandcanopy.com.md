@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120024731id_/http%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104642id_/http%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Crane & Canopy
 
@@ -47,4 +47,4 @@ Crane & Canopy may change this Privacy Policy from time to time at our sole disc
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [privacy@craneandcanopy.com](mailto:privacy@craneandcanopy.com)
 
-© 2013 Crane & Canopy Inc.  All rights reserved. 
+© 2013/2014 Crane & Canopy Inc.  All rights reserved.
