@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607012328id_/http%3A//citymob.co.za/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymob.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044418id_/http%3A//superbalist.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - citymob.co.za
+# Superbalist - Privacy Policy
 
-##### Privacy Policy
+**Privacy Policy**
 
-We are committed to protecting your privacy. This privacy policy discloses how we obtain and use personal information collected on Citymob. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These policies may be changed at any time, but any changes will be posted here so please review this policy regularly.
+We are committed to protecting your privacy. This privacy policy discloses how we obtain and use personal information collected on Superbalist. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These policies may be changed at any time, but any changes will be posted here so please review this policy regularly.
 
 The privacy practices set forth in this privacy policy are for this website only. If you link to other websites, please review the privacy policies posted on those sites.
 
-##### Personal information
+**Personal information**
 
-We may collect certain information about your visit such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the Site, analyze trends, and administer the Site.
+We may collect certain information about your visit such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the internet; the date and time you access the site; the pages that you access while at the site and the internet address of the website from which you linked directly to our site. This information is used to help improve the site, analyze trends, and administer the site.
 
-Using Citymob requires the following information:
+Using Superbalist requires the following information: 
 
-  * Name / Billing Details / Email Address / Password / Nearest City
-
-
-
-The following optional information will be used to manage your Citymob account and can be voluntarily added to your profile. Certain information is required in order to process a transaction:
-
-  * Gender / Language / Race/ Date of birth / Facebook account / various other demographic data/ Credit Card details (not stored by us)/ Debit Card details
+  * Name / Billing Details / Email Address / Password
 
 
 
-The personal information above is collected, stored, processed and used for the following purposes: User registration and account management; Provision of services offered by Citymob; As market research to improve our service; Dispatch newsletter on special promotional deals.
+The following optional information will be used to manage your Superbalist account and can be voluntarily added to your profile. Certain information is required in order to process a transaction:
+
+  * Gender / Language / Race/ Date of birth / Facebook account / various other demographic data/ Credit Card details (not stored by us)/ Debit Card details (not stored by us)
+
+
+
+The personal information above is collected, stored, processed and used for the following purposes: User registration and account management; Provision of services offered by Superbalist; As market research to improve our service; Dispatch newsletter on special promotional deals.
 
 Any analysis is carried out with no relation to the personal data. The user will remain anonymous.
 
-##### Sharing of data
+**Sharing of data**
 
-Citymob may from time to time share your information with its stakeholders, including participating vendors.
+Superbalist may from time to time share your information with its stakeholders, including participating vendors.
 
-##### Data access
+**Data access**
 
-The customer can demand access to personal data stored in the Citymob database by requesting it. We will also remove your data from our database on request, unless there is a legal reason why we need to keep the data. Access can be gained, the data can be corrected, and any concerns related to the use of your data can be raised by writing to info@Citymob.co.za. Please include a certified copy of your identity document.
+The customer can demand access to personal data stored in the Superbalist database by requesting it. We will also remove your data from our database on request, unless there is a legal reason why we need to keep the data. Access can be gained, the data can be corrected, and any concerns related to the use of your data can be raised by writing to  **support@superbalist.com**. Please include a certified copy of your identity document.
 
-##### Analytics
+**Analytics**
 
-Citymob uses various tracking programs offered by third parties such as Google Analytics, a web analytics service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. For further information visit www.aboutcookies.org . You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. By accepting these terms you agree to the processing of your data by Google in the manner described and for the foregoing purpose.
+Superbalist uses various tracking programs offered by third parties such as Google Analytics, a web analytics service provided by Google Inc. ("Google"). This program uses cookies, which are text files placed on your computer that provide the analysis and tracking of the usage of the site. The information generated by the cookie about your use of this website (including your IP address) is transmitted to a Google server in the U.S. and stored there. For further information visit [ **www.aboutcookies.org**](http://www.aboutcookies.org/). You can set your browser not to accept cookies and the above website tells you how to remove cookies from your browser. By accepting these terms you agree to the processing of your data by Google in the manner described and for the foregoing purpose.
 
-By registering on Citymob you provide your consent to allowing us to communicate various messages relating to promotions, special offers, discounts and the like associated with our online store. The form of communication will include but will not be limited to electronic mail, mobile communications (SMS), telephone calls and direct mail.
+By registering on Superbalist you provide your consent to allowing us to communicate various messages relating to promotions, special offers, discounts and the like associated with our online store. The form of communication will include but will not be limited to electronic mail, mobile communications (SMS), telephone calls and direct mail.
