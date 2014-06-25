@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrinkpictures.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115110326id_/http%3A//www.shrinkpictures.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrinkpictures.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084232id_/http%3A//www.shrinkpictures.com/privacy.php) for the most accurate reproduction.*
 
 # Resize Images online
 
@@ -10,6 +10,8 @@ During your usage of this website some personal information may be collected, su
 
 Our website is automated and purges any temporary files, including resized images within 2 hours.
 
+You retain all rights to all images that we resize.
+
 You can optionally send resized images as an email attachment.  We do log all instances of every email sent from our site for the sole purpose of monitoring for abuse.  Once you resize an image, you are able to email the resized photo, we record all such activity to prevent abuse.  The only time we send email to any person is as the result of an enquiry via our contact form.
 
 We do collect statistical information about the options chosen to resize pictures.  This information is collated and used by us to improve the tools we provide for your use.
@@ -17,3 +19,5 @@ We do collect statistical information about the options chosen to resize picture
 If you contact us using our contact form making a comment about our website or services, we may at our sole discretion publish any such comments.  We will always remove any personal identifing information before publishing any comment.
 
 Above all, we respect your privacy and never pass on any personal or identifiable information to any 3rd Party.
+
+Last updated 20131204 
