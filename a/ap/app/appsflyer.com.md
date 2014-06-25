@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217104122id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014057id_/http%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Apps Marketing analytics & Tracking | Privacy Policy
 
-AppsFlyer provides a software development kit which allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“ **Customers** ”) and the end-users of those Customers (“ **End Users** ”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at [www.appsflyer.com/privacy-policy](https://web.archive.org/web/20131217104122id_/http://www.appsflyer.com/privacy-policy/www.appsflyer.com/privacy-policy)
+AppsFlyer provides a software development kit which allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“ **Customers** ”) and the end-users of those Customers (“ **End Users** ”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at [www.appsflyer.com/privacy-policy](https://web.archive.org/web/20140626014057id_/http://www.appsflyer.com/privacy-policy/www.appsflyer.com/privacy-policy)
 
 We respect the right to privacy of Customers and End Users. Your ability to make informed choices about the use of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of any information we receive.
 
@@ -44,7 +44,7 @@ Notwithstanding anything to the contrary herein, we may transfer data we have co
 
 **Cookies**
 
-A cookie is a small piece of text that is sent to a browser. The browser provides this piece of text to the originating server when the visitor returns.  AppsFlyer uses cookies to help implement its tarcking technology. AppsFlyer does not store any Personal Information in cookies. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of AppsFlyer may not function properly when cookies are disabled or removed.
+A cookie is a small piece of text that is sent to a browser. The browser provides this piece of text to the originating server when the visitor returns.  AppsFlyer uses cookies to help implement its tracking technology. AppsFlyer does not store any Personal Information in cookies. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of AppsFlyer may not function properly when cookies are disabled or removed.
 
 **Use of AppsFlyer by Children**
 
