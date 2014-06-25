@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethicaljobs.com.au privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203215id_/http%3A//www.ethicaljobs.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicaljobs.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013936id_/http%3A//www.ethicaljobs.com.au/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy — EthicalJobs.com.au - Community Jobs, Environmental Jobs & Not-For-Profit Jobs
+# Privacy Policy – EthicalJobs.com.au
 
 **1\. EthicalJobs.com.au's commitment to maintaining your privacy**
 
