@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127110204id_/http%3A//www.tweetadder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112320id_/https%3A//www.tweetadder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Twitter Marketing Software - Twitter Adder - Professional Twitter Marketing Tools - Automatic Twitter Software - Automate Twitter Posts, Auto Twitter Followback, Unfollow, Mass Tweets, Twitter Search, more ..
+# Privacy Policy | TweetAdder Software- Social Promotion, Twitter Management, Marketing, Build Twitter Followers,
 
 Tweet Adder strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -39,5 +39,3 @@ This policy and the use of this Site are governed by the law. If a dispute arise
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-##### [Home](http://tweetadder.com/) | [Contact Us](http://tweetadder.com/contact-us) | [Screen Shots](http://tweetadder.com/screenshots) | [Privacy Policy](http://tweetadder.com/privacy-policy) | [Terms of Use](http://tweetadder.com/terms-and-conditions) | [Affiliate Log In](http://tweetadder.com/idevaffiliate)
