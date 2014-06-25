@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102135632id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062249id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Chat Software - Privacy Policy - Live Chat Software, Help Desk Software, Customer Support Software
 
-[](https://privacy.truste.com/privacy-seal/Stardevelop-Pty-Ltd/validation?validationId=a542961a-6a52-43cd-a816-8eb46a6f536e)
-
 ## Effective on July 17, 2012
 
-This privacy statement describes how Stardevelop Pty Ltd collects and uses the personal information you provide on our Web site: stardevelop.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-Stardevelop Pty Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at sales@stardevelop.com. If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. You may also view our privacy policy on the TRUSTe site at [stardevelop.com Privacy Policy](https://privacy.truste.com/reseller/privacy-policy/Stardevelop-Pty-Ltd/certified/c16e1966-d69d-4cc5-8676-e524caef050b "Stardevelop Pty Ltd Privacy Policy")
+This privacy statement describes how Stardevelop Pty Ltd collects and uses the personal information you provide on our web site: stardevelop.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## We collect the following personal information from you:
 
