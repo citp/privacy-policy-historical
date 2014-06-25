@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the lyricstaal.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208195400id_/http%3A//www.lyricstaal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstaal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001824id_/http%3A//www.lyricstaal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lyricstaal
 
 [](http://www.lyricstaal.com/)
 
 Navigation Menu+
+
+  
+
 
 This Privacy Policy governs the manner in which Lyricstaal collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.lyricstaal.com](http://www.lyricstaal.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Lyricstaal.   **Personal identification information** We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.   **Non-personal identification information** We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.   **Web browser cookies** Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.   **How we use collected information** Lyricstaal may collect and use Users personal information for the following purposes:
 
@@ -22,6 +25,3 @@ We may use the email address to respond to their inquiries, questions, and/or ot
 [http://www.lyricstaal.com](http://www.lyricstaal.com/)  
 India  
 info@lyricstaal.com [Contact us page](http://www.lyricstaal.com/contact-us/) This document was last updated on April 01, 2013
-
-  
-
