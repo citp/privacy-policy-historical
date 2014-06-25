@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207040123id_/http%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124728id_/https%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
 
-# SermonSpice - Privacy Policy
+# Privacy Policy | SermonSpice
 
 _Effective and Last Modified: December 31, 2012_
 
@@ -135,5 +135,3 @@ Parents can give written parental consent for their child to use Salem Websites,
 
 
 
-
- 
