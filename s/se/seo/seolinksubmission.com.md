@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206204652id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232336id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Directory Submission, Free Link Directory, Free Web Directory, Add Your Web Site, Free Local Directory, Submit Your Url
 
@@ -22,14 +22,32 @@ We respect our clients' right to privacy online. We hold detailed client informa
 
 Latest Comments 
 
-Comment Author **losangeleswedding** / Sep 14, 2013 
+Comment Author **jackmarkson0** / Jun 17, 2014 
 
-Good Website For Wedding
+Awesome Deals.. http://www.globester.com/
 
 * * *
 
-Comment Author **peoplesinnovation** / Aug 16, 2013 
+Comment Author **petergomes76webs** / Jun 5, 2014 
 
-this site very good !  
+Best Website Design Company
+
+* * *
+
+Comment Author **Tyreonwheels** / May 29, 2014 
+
+Awesome services........... given by tyreonwheels.com 
+
+* * *
+
+Comment Author **Andrew Boucher** / Mar 24, 2014 
+
+Great information stuff here..! We got best results from there services to our websites. Thanks & Regards Andrew.
+
+* * *
+
+Comment Author **juneliao** / Feb 17, 2014 
+
+Great website!  
   
 ---|---|---
