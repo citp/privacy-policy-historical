@@ -1,480 +1,948 @@
-<!--The following is the downloaded HTML source of the badcock.com privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225181736id_/http%3A//www.badcock.com/general/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the badcock.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625065258id_/http%3A//www.badcock.com/privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>Badcock &amp;more - Badcock will treat you right!</title>
-<link rel="stylesheet" type="text/css" href="/css/badcock.css">
-<link rel="stylesheet" type="text/css" href="/css/badcock-web.css">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Terms &amp; Conditions | Badcock &amp;more
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSHXDB"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"9e48181345","applicationID":"2593828","transactionName":"ZgEEZBACC0ZUAhJQW19LJ2MyTBVHXBcHWk0fBRVAGg==","queueTime":15,"applicationTime":42,"ttGuid":"3964C9157C328C98","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8AWFdUGwEFXVJaBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071"><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+659787066+-1965253052"></script><link href="FKQ_UI_Assets/css/bootstrap.css?v=100" rel="stylesheet" media="screen, print"><link href="FKQ_UI_Assets/css/styles.css" rel="stylesheet" media="screen"><link href="FKQ_UI_Assets/css/bootstrap-responsive.css?v=100" rel="stylesheet" media="screen"><link rel="icon" href="favicon.ico">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+                try { //Try to get the IP address, 
+                    GetIP();
+                } catch (err) { /**/ }
+
+                //Method wraps the core logic of Getting the IP in order to seamlessly toggle between the possibility of an already
+                //set cookie, and the need to get the IP address.
+                function GetIP() {
+                    var ipCookie = GetCookie("BDCK.CurrentIP");
+                    var thisIP;
+
+                    if (ipCookie == null || ipCookie == "") {
+                        thisIP = GetIP_Worker();
+                        //alert(thisIP);
+                        SetCookie("BDCK.CurrentIP", thisIP, 3);
+                    }
+                    else {
+                        thisIP = ipCookie;
+                    }
+
+                    return thisIP;
+                }
+
+                function GetIP_Worker() {
+                    if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
+                        var xmlhttp_for_ip = new XMLHttpRequest();
+                    }
+                    else { //Alternate and older browsers - code for IE6, IE5
+                        var xmlhttp_for_ip = new ActiveXObject("Microsoft.XMLHTTP");
+                    }
+                    xmlhttp_for_ip.open("GET", "http://api.hostip.info/get_json.php", false);
+                    xmlhttp_for_ip.send();
+                    var responseString = xmlhttp_for_ip.responseText;
+                    try {
+                        hostipInfo = jQuery.parseJSON(responseString);
+                        return hostipInfo.ip;
+                    }
+                    catch (err) {
+                        return "";
+                    }
+                }
+
+            });
 
 
+    </script>
 
-<script language="javascript" type="text/javascript">
-<!-- //
-function openit(sURL){
-	newwindow=open(sURL,"newwin","scrollbars=yes, toolbar=no, directories=no, menu bar=no, resizable=yes, status=no, width=780, height=650");
+   
+</head>
+<body>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSHXDB"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NSHXDB');</script>
+    <!-- End Google Tag Manager -->
+
+    <form method="post" action="/privacy.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-1687560804,-1080527330,-1939951303,-569449246,659787066,-1965253052">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkzNDg3MDE0Ng9kFgJmD2QWAgIDEGRkFgYCAw9kFhICAw9kFgJmDxYCHgRUZXh0Bf0WPGxpIGNsYXNzPSJtdXRlZCI+QnJvd3NlIGJ5IFR5cGU6PC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPXNvZmFzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU29mYXMiPlNvZmFzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPWxvdmVzZWF0cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkxvdmVzZWF0cyI+TG92ZXNlYXRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPXNlY3Rpb25hbCBzb2ZhcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNlY3Rpb25hbCBTb2ZhcyI+U2VjdGlvbmFsIFNvZmFzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPWNoYWlzZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJDaGFpc2VzIj5DaGFpc2VzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPUNoYWlycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNoYWlycyI+Q2hhaXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPXJlY2xpbmVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlJlY2xpbmVycyI+UmVjbGluZXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPXNsZWVwZXIgc29mYXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTbGVlcGVyIFNvZmFzIj5TbGVlcGVyIFNvZmFzPC9hPjwvbGk+PGJyLz48bGkgY2xhc3M9Im11dGVkIj5Ccm93c2UgQWNjZW50czo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUxJVklOR1JPT00mc2M9QWNjZW50IFRhYmxlc3xDb2ZmZWUgVGFibGVzfEVuZCBUYWJsZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJBY2NlbnQgVGFibGVzIj5BY2NlbnQgVGFibGVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPW90dG9tYW5zIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iT3R0b21hbnMiPk90dG9tYW5zPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPW1lZGlhIGNlbnRlcnN8VFYgQ29uc29sZXN8RW50ZXJ0YWlubWVudCBDZW50ZXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTWVkaWEgQ2VudGVycyI+TWVkaWEgQ2VudGVyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1hcmVhIHJ1Z3MgaG9tZSBkZWNvciIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkFyZWEgUnVncyI+QXJlYSBSdWdzPC9hPjwvbGk+PGJyLz48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUxJVklOR1JPT00mc2M9c2FsZXwwIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1jb2xsZWN0aW9ufDAiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTaG9wIEJ5IENvbGxlY3Rpb24iPlNob3AgQnkgQ29sbGVjdGlvbjwvYT48L2xpPmQCBA9kFgJmDxYCHwAF4xw8bGkgY2xhc3M9Im11dGVkIj5Ccm93c2UgYnkgU2l6ZTo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPVR3aW4gQmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlR3aW4gQmVkcyI+VHdpbiBCZWRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1mdWxsIGJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJGdWxsIEJlZHMiPkZ1bGwgQmVkczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9cXVlZW4gYmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlF1ZWVuIEJlZHMiPlF1ZWVuIEJlZHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPWtpbmcgYmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IktpbmcgQmVkcyI+S2luZyBCZWRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1kYXliZWRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRGF5YmVkcyI+RGF5YmVkczwvYT48L2xpPjxici8+PGxpIGNsYXNzPSJtdXRlZCI+QnJvd3NlIGJ5IFR5cGU6PC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1iZWRyb29tIGNoZXN0cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNoZXN0cyI+Q2hlc3RzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1NZWRpYSBDaGVzdHN8WW91dGggTWVkaWEgQ2hlc3RzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTWVkaWEgQ2hlc3RzIj5NZWRpYSBDaGVzdHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPURyZXNzZXJzICUyNiBNaXJyb3JzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRHJlc3NlcnMgJiBNaXJyb3JzIj5EcmVzc2VycyAmIE1pcnJvcnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPWJlZHJvb20gbmlnaHRzdGFuZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJOaWdodHN0YW5kcyI+TmlnaHRzdGFuZHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPUxpbmVuc3xQaWxsb3dzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTGluZW5zIj5MaW5lbnM8L2E+PC9saT48YnIvPjxsaSBjbGFzcz0ibXV0ZWQiPllvdXRoIEJlZHJvb208L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPVR3aW4gQmVkc3xZb3V0aCBUd2luIEJlZHN8WW91dGggUXVlZW4gQmVkc3xZb3V0aCBGdWxsIEJlZHN8QnVuayBCZWRzfFlvdXRoIEZ1bGwgQmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IllvdXRoIEJlZCI+WW91dGggQmVkPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1CdW5rIEJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJCdW5rIEJlZHMiPkJ1bmsgQmVkczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9dHJ1bmRsZSBiZWRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iVHJ1bmRsZSBCZWQiPlRydW5kbGUgQmVkPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1Zb3V0aCBHcm91cHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTaG9wIGJ5IENvbGxlY3Rpb24gWW91dGgiPlNob3AgYnkgQ29sbGVjdGlvbiBZb3V0aDwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1zYWxlfDEiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTYWxlIEl0ZW1zIj5TYWxlIEl0ZW1zPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1jb2xsZWN0aW9ufDEiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTaG9wIEJ5IENvbGxlY3Rpb24iPlNob3AgQnkgQ29sbGVjdGlvbjwvYT48L2xpPmQCBQ9kFgJmDxYCHwAFoBA8bGkgY2xhc3M9Im11dGVkIj5Gb3JtYWwgRGluaW5nOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPWZvcm1hbCBkaW5pbmcgdGFibGVzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iVGFibGVzIj5UYWJsZXM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPURJTklORyZzYz1mb3JtYWwgZGluaW5nIGNoYWlycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNoYWlycyI+Q2hhaXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9U2VydmVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNlcnZlcnMiPlNlcnZlcnM8L2E+PC9saT48YnIvPjxsaSBjbGFzcz0ibXV0ZWQiPkJyb3dzZSBieSBUeXBlOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPWNoaW5hIGNhYmluZXRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ2FiaW5ldHMiPkNhYmluZXRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9Q2FzdWFsIERpbmluZyBCYXJzdG9vbHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJCYXJzdG9vbHMiPkJhcnN0b29sczwvYT48L2xpPjxici8+PGxpIGNsYXNzPSJtdXRlZCI+Q2FzdWFsIERpbmluZzo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPURJTklORyZzYz1jYXN1YWwgZGluaW5nIHRhYmxlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlRhYmxlcyI+VGFibGVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9Y2FzdWFsIGRpbmluZyBjaGFpcnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJDaGFpcnMiPkNoYWlyczwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9c2FsZXwyIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPWNvbGxlY3Rpb258MiIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNob3AgQnkgQ29sbGVjdGlvbiI+U2hvcCBCeSBDb2xsZWN0aW9uPC9hPjwvbGk+ZAIGD2QWAmYPFgIfAAWIEDxsaSBjbGFzcz0ibXV0ZWQiPkJyb3dzZSBieSBTaXplOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz10d2luIHNpemUgbWF0dHJlc3NlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlR3aW4gU2l6ZSI+VHdpbiBTaXplPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURESU5HJnNjPWZ1bGwgc2l6ZSBtYXR0cmVzc2VzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRnVsbCBTaXplIj5GdWxsIFNpemU8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9cXVlZW4gc2l6ZSBtYXR0cmVzc2VzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iUXVlZW4gU2l6ZSI+UXVlZW4gU2l6ZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1raW5nIHNpemUgbWF0dHJlc3NlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IktpbmcgU2l6ZSI+S2luZyBTaXplPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURESU5HJnNjPWNyaWIgc2l6ZSBtYXR0cmVzc2VzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ3JpYiBTaXplIj5DcmliIFNpemU8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9YnVua2llIGJvYXJkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkJ1bmtpZSBCb2FyZHMiPkJ1bmtpZSBCb2FyZHM8L2E+PC9saT48YnIvPjxsaSBjbGFzcz0ibXV0ZWQiPkJyb3dzZSBieSBUeXBlOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1hZGp1c3RhYmxlIGJhc2VzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQWRqdXN0YWJsZSBCYXNlcyI+QWRqdXN0YWJsZSBCYXNlczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1QaWxsb3dzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iUGlsbG93cyI+UGlsbG93czwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURESU5HJnNjPXNhbGV8MyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT5kAgcPZBYCZg8WAh8ABZAMPGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPVJlZnJpZ2VyYXRvcnMgJTI2IEZyZWV6ZXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iUmVmcmlnZXJhdG9ycyAmIEZyZWV6ZXJzIj5SZWZyaWdlcmF0b3JzICYgRnJlZXplcnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFQUExJQU5DRVMmc2M9V2FzaGVycyAlMjYgRHJ5ZXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iV2FzaGVycyAmIERyeWVycyI+V2FzaGVycyAmIERyeWVyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QVBQTElBTkNFUyZzYz1SYW5nZXMgJTI2IE1pY3Jvd2F2ZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJSYW5nZXMgJiBNaWNyb3dhdmVzIj5SYW5nZXMgJiBNaWNyb3dhdmVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPWRpc2h3YXNoZXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRGlzaHdhc2hlcnMiPkRpc2h3YXNoZXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPUNvb2t3YXJlIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ29va3dhcmUiPkNvb2t3YXJlPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPVZhY3V1bXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJWYWN1dW1zIj5WYWN1dW1zPC9hPjwvbGk+PGJyLz48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFQUExJQU5DRVMmc2M9c2FsZXw0IiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPmQCCA9kFgJmDxYCHwAF7Qg8bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUVMRUNUUk9OSUMmc2M9VGVsZXZpc2lvbnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJUZWxldmlzaW9ucyI+VGVsZXZpc2lvbnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUVMRUNUUk9OSUMmc2M9Q29tcHV0ZXJzICUyNiBUYWJsZXRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ29tcHV0ZXJzICYgVGFibGV0cyI+Q29tcHV0ZXJzICYgVGFibGV0czwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RUxFQ1RST05JQyZzYz1Ib21lIFRoZWF0ZXJ8U3RlcmVvcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkhvbWUgVGhlYXRlciI+SG9tZSBUaGVhdGVyPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1FTEVDVFJPTklDJnNjPWVsZWN0cm9uaWMgYWNjZXNzb3JpZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJFbGVjdHJvbmljIEFjY2Vzc29yaWVzIj5FbGVjdHJvbmljIEFjY2Vzc29yaWVzPC9hPjwvbGk+PGJyLz48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUVMRUNUUk9OSUMmc2M9c2FsZXw1IiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPmQCCQ9kFgJmDxYCHwAF4AY8bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUhPTUVPRkZJQ0Umc2M9ZGVza3MiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJEZXNrcyI+RGVza3M8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUhPTUVPRkZJQ0Umc2M9Ym9va2Nhc2VzICUyNiBzdG9yYWdlIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQm9va2Nhc2VzICYgU3RvcmFnZSI+Qm9va2Nhc2VzICYgU3RvcmFnZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9SE9NRU9GRklDRSZzYz1vZmZpY2UgY2hhaXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iT2ZmaWNlIENoYWlycyI+T2ZmaWNlIENoYWlyczwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1IT01FT0ZGSUNFJnNjPXNhbGV8NiIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT5kAgoPZBYCZg8WAh8ABccNPGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BQ0NFU1NSWSZzYz1hY2NlbnQgZnVybml0dXJlIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQWNjZW50IEZ1cm5pdHVyZSI+QWNjZW50IEZ1cm5pdHVyZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9TGFtcHMgJTI2IExpZ2h0aW5nIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTGFtcHMgJiBMaWdodGluZyI+TGFtcHMgJiBMaWdodGluZzwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9VGFibGUgVG9wIEFjY2Vzc29yaWVzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iVGFibGUgVG9wIEFjY2Vzc29yaWVzIj5UYWJsZSBUb3AgQWNjZXNzb3JpZXM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFDQ0VTU1JZJnNjPXdhbGwgZGVjb3IiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJXYWxsIERlY29yIj5XYWxsIERlY29yPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BQ0NFU1NSWSZzYz1TaWxrcyAlMjYgRmxvcmFscyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNpbGtzICYgRmxvcmFscyI+U2lsa3MgJiBGbG9yYWxzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BQ0NFU1NSWSZzYz1saW5lbnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJMaW5lbnMiPkxpbmVuczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9Rmxvb3JpbmciICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJoZWFkZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJGbG9vcmluZyI+Rmxvb3Jpbmc8L2E+PC9saT48YnIvPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9c2FsZXw3IiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPmQCCw9kFgJmDxYCHwAF9gY8bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPVNFQVNPTkFMJnNjPUxhd24gJTI2IEdhcmRlbiIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ikxhd24gJiBHYXJkZW4iPkxhd24gJiBHYXJkZW48L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPVNFQVNPTkFMJnNjPUdyaWxscyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkdyaWxscyI+R3JpbGxzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1TRUFTT05BTCZzYz1haXIgY29uZGl0aW9uZXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iaGVhZGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQWlyIENvbmRpdGlvbmVycyI+QWlyIENvbmRpdGlvbmVyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9U0VBU09OQUwmc2M9SGVhdGVycyAlMjYgRmlyZXBsYWNlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImhlYWRlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkhlYXRlcnMgJiBGaXJlcGxhY2VzIj5IZWF0ZXJzICYgRmlyZXBsYWNlczwvYT48L2xpPjxici8+ZAIFD2QWAgIBD2QWCAIBDxYEHglpbm5lcmh0bWwFDiZuYnNwOzo6Jm5ic3A7HgdWaXNpYmxlaGQCAg8WAh8CaBYEZg8WBB4EaHJlZgUaL3Byb2R1Y3RzZWFyY2guYXNweD9jPSZzYz0fAWVkAgIPFgIfAmhkAgMPFgIfAQUWVGVybXMgJmFtcDsgQ29uZGl0aW9uc2QCBA9kFgYCAQ8QZGQWAQIBZAIDDxBkZBYBZmQCBQ8PFgIfAAUYU2hvd2luZyAwIC0gMCBvZiAwIGl0ZW1zZGQCCQ9kFhJmD2QWAmYPFgIfAAX9FjxsaSBjbGFzcz0ibXV0ZWQiPkJyb3dzZSBieSBUeXBlOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1zb2ZhcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNvZmFzIj5Tb2ZhczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1sb3Zlc2VhdHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJMb3Zlc2VhdHMiPkxvdmVzZWF0czwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1zZWN0aW9uYWwgc29mYXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTZWN0aW9uYWwgU29mYXMiPlNlY3Rpb25hbCBTb2ZhczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1jaGFpc2VzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ2hhaXNlcyI+Q2hhaXNlczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1DaGFpcnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJDaGFpcnMiPkNoYWlyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1yZWNsaW5lcnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJSZWNsaW5lcnMiPlJlY2xpbmVyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1zbGVlcGVyIHNvZmFzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2xlZXBlciBTb2ZhcyI+U2xlZXBlciBTb2ZhczwvYT48L2xpPjxici8+PGxpIGNsYXNzPSJtdXRlZCI+QnJvd3NlIEFjY2VudHM6PC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPUFjY2VudCBUYWJsZXN8Q29mZmVlIFRhYmxlc3xFbmQgVGFibGVzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQWNjZW50IFRhYmxlcyI+QWNjZW50IFRhYmxlczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1vdHRvbWFucyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ik90dG9tYW5zIj5PdHRvbWFuczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9TElWSU5HUk9PTSZzYz1tZWRpYSBjZW50ZXJzfFRWIENvbnNvbGVzfEVudGVydGFpbm1lbnQgQ2VudGVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ik1lZGlhIENlbnRlcnMiPk1lZGlhIENlbnRlcnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUxJVklOR1JPT00mc2M9YXJlYSBydWdzIGhvbWUgZGVjb3IiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJBcmVhIFJ1Z3MiPkFyZWEgUnVnczwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1MSVZJTkdST09NJnNjPXNhbGV8MCIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUxJVklOR1JPT00mc2M9Y29sbGVjdGlvbnwwIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2hvcCBCeSBDb2xsZWN0aW9uIj5TaG9wIEJ5IENvbGxlY3Rpb248L2E+PC9saT5kAgEPZBYCZg8WAh8ABeMcPGxpIGNsYXNzPSJtdXRlZCI+QnJvd3NlIGJ5IFNpemU6PC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1Ud2luIEJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJUd2luIEJlZHMiPlR3aW4gQmVkczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9ZnVsbCBiZWRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRnVsbCBCZWRzIj5GdWxsIEJlZHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPXF1ZWVuIGJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJRdWVlbiBCZWRzIj5RdWVlbiBCZWRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1raW5nIGJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJLaW5nIEJlZHMiPktpbmcgQmVkczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9ZGF5YmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkRheWJlZHMiPkRheWJlZHM8L2E+PC9saT48YnIvPjxsaSBjbGFzcz0ibXV0ZWQiPkJyb3dzZSBieSBUeXBlOjwvbGk+PGxpIGNsYXNzPSJkaXZpZGVyIj48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9YmVkcm9vbSBjaGVzdHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJDaGVzdHMiPkNoZXN0czwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9TWVkaWEgQ2hlc3RzfFlvdXRoIE1lZGlhIENoZXN0cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ik1lZGlhIENoZXN0cyI+TWVkaWEgQ2hlc3RzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1EcmVzc2VycyAlMjYgTWlycm9ycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkRyZXNzZXJzICYgTWlycm9ycyI+RHJlc3NlcnMgJiBNaXJyb3JzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1iZWRyb29tIG5pZ2h0c3RhbmRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTmlnaHRzdGFuZHMiPk5pZ2h0c3RhbmRzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1MaW5lbnN8UGlsbG93cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkxpbmVucyI+TGluZW5zPC9hPjwvbGk+PGJyLz48bGkgY2xhc3M9Im11dGVkIj5Zb3V0aCBCZWRyb29tPC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURST09NUyZzYz1Ud2luIEJlZHN8WW91dGggVHdpbiBCZWRzfFlvdXRoIFF1ZWVuIEJlZHN8WW91dGggRnVsbCBCZWRzfEJ1bmsgQmVkc3xZb3V0aCBGdWxsIEJlZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJZb3V0aCBCZWQiPllvdXRoIEJlZDwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9QnVuayBCZWRzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQnVuayBCZWRzIj5CdW5rIEJlZHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRFJPT01TJnNjPXRydW5kbGUgYmVkcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlRydW5kbGUgQmVkIj5UcnVuZGxlIEJlZDwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9WW91dGggR3JvdXBzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2hvcCBieSBDb2xsZWN0aW9uIFlvdXRoIj5TaG9wIGJ5IENvbGxlY3Rpb24gWW91dGg8L2E+PC9saT48YnIvPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9c2FsZXwxIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2FsZSBJdGVtcyI+U2FsZSBJdGVtczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVEUk9PTVMmc2M9Y29sbGVjdGlvbnwxIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iU2hvcCBCeSBDb2xsZWN0aW9uIj5TaG9wIEJ5IENvbGxlY3Rpb248L2E+PC9saT5kAgIPZBYCZg8WAh8ABaAQPGxpIGNsYXNzPSJtdXRlZCI+Rm9ybWFsIERpbmluZzo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPURJTklORyZzYz1mb3JtYWwgZGluaW5nIHRhYmxlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlRhYmxlcyI+VGFibGVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9Zm9ybWFsIGRpbmluZyBjaGFpcnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJDaGFpcnMiPkNoYWlyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPVNlcnZlcnMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTZXJ2ZXJzIj5TZXJ2ZXJzPC9hPjwvbGk+PGJyLz48bGkgY2xhc3M9Im11dGVkIj5Ccm93c2UgYnkgVHlwZTo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPURJTklORyZzYz1jaGluYSBjYWJpbmV0cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNhYmluZXRzIj5DYWJpbmV0czwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPUNhc3VhbCBEaW5pbmcgQmFyc3Rvb2xzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQmFyc3Rvb2xzIj5CYXJzdG9vbHM8L2E+PC9saT48YnIvPjxsaSBjbGFzcz0ibXV0ZWQiPkNhc3VhbCBEaW5pbmc6PC9saT48bGkgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1ESU5JTkcmc2M9Y2FzdWFsIGRpbmluZyB0YWJsZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJUYWJsZXMiPlRhYmxlczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPWNhc3VhbCBkaW5pbmcgY2hhaXJzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iQ2hhaXJzIj5DaGFpcnM8L2E+PC9saT48YnIvPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RElOSU5HJnNjPXNhbGV8MiIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPURJTklORyZzYz1jb2xsZWN0aW9ufDIiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTaG9wIEJ5IENvbGxlY3Rpb24iPlNob3AgQnkgQ29sbGVjdGlvbjwvYT48L2xpPmQCAw9kFgJmDxYCHwAFiBA8bGkgY2xhc3M9Im11dGVkIj5Ccm93c2UgYnkgU2l6ZTo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9dHdpbiBzaXplIG1hdHRyZXNzZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJUd2luIFNpemUiPlR3aW4gU2l6ZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1mdWxsIHNpemUgbWF0dHJlc3NlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkZ1bGwgU2l6ZSI+RnVsbCBTaXplPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURESU5HJnNjPXF1ZWVuIHNpemUgbWF0dHJlc3NlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlF1ZWVuIFNpemUiPlF1ZWVuIFNpemU8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9a2luZyBzaXplIG1hdHRyZXNzZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJLaW5nIFNpemUiPktpbmcgU2l6ZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1jcmliIHNpemUgbWF0dHJlc3NlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNyaWIgU2l6ZSI+Q3JpYiBTaXplPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1CRURESU5HJnNjPWJ1bmtpZSBib2FyZHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJCdW5raWUgQm9hcmRzIj5CdW5raWUgQm9hcmRzPC9hPjwvbGk+PGJyLz48bGkgY2xhc3M9Im11dGVkIj5Ccm93c2UgYnkgVHlwZTo8L2xpPjxsaSBjbGFzcz0iZGl2aWRlciI+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9YWRqdXN0YWJsZSBiYXNlcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkFkanVzdGFibGUgQmFzZXMiPkFkanVzdGFibGUgQmFzZXM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUJFRERJTkcmc2M9UGlsbG93cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlBpbGxvd3MiPlBpbGxvd3M8L2E+PC9saT48YnIvPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QkVERElORyZzYz1zYWxlfDMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTYWxlIEl0ZW1zIj5TYWxlIEl0ZW1zPC9hPjwvbGk+ZAIED2QWAmYPFgIfAAWQDDxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QVBQTElBTkNFUyZzYz1SZWZyaWdlcmF0b3JzICUyNiBGcmVlemVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlJlZnJpZ2VyYXRvcnMgJiBGcmVlemVycyI+UmVmcmlnZXJhdG9ycyAmIEZyZWV6ZXJzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPVdhc2hlcnMgJTI2IERyeWVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ildhc2hlcnMgJiBEcnllcnMiPldhc2hlcnMgJiBEcnllcnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFQUExJQU5DRVMmc2M9UmFuZ2VzICUyNiBNaWNyb3dhdmVzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iUmFuZ2VzICYgTWljcm93YXZlcyI+UmFuZ2VzICYgTWljcm93YXZlczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QVBQTElBTkNFUyZzYz1kaXNod2FzaGVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkRpc2h3YXNoZXJzIj5EaXNod2FzaGVyczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QVBQTElBTkNFUyZzYz1Db29rd2FyZSIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNvb2t3YXJlIj5Db29rd2FyZTwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QVBQTElBTkNFUyZzYz1WYWN1dW1zIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iVmFjdXVtcyI+VmFjdXVtczwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BUFBMSUFOQ0VTJnNjPXNhbGV8NCIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT5kAgUPZBYCZg8WAh8ABe0IPGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1FTEVDVFJPTklDJnNjPVRlbGV2aXNpb25zIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iVGVsZXZpc2lvbnMiPlRlbGV2aXNpb25zPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1FTEVDVFJPTklDJnNjPUNvbXB1dGVycyAlMjYgVGFibGV0cyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkNvbXB1dGVycyAmIFRhYmxldHMiPkNvbXB1dGVycyAmIFRhYmxldHM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUVMRUNUUk9OSUMmc2M9SG9tZSBUaGVhdGVyfFN0ZXJlb3MiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJIb21lIFRoZWF0ZXIiPkhvbWUgVGhlYXRlcjwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9RUxFQ1RST05JQyZzYz1lbGVjdHJvbmljIGFjY2Vzc29yaWVzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRWxlY3Ryb25pYyBBY2Nlc3NvcmllcyI+RWxlY3Ryb25pYyBBY2Nlc3NvcmllczwvYT48L2xpPjxici8+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1FTEVDVFJPTklDJnNjPXNhbGV8NSIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT5kAgYPZBYCZg8WAh8ABeAGPGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1IT01FT0ZGSUNFJnNjPWRlc2tzIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRGVza3MiPkRlc2tzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1IT01FT0ZGSUNFJnNjPWJvb2tjYXNlcyAlMjYgc3RvcmFnZSIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkJvb2tjYXNlcyAmIFN0b3JhZ2UiPkJvb2tjYXNlcyAmIFN0b3JhZ2U8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUhPTUVPRkZJQ0Umc2M9b2ZmaWNlIGNoYWlycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9Ik9mZmljZSBDaGFpcnMiPk9mZmljZSBDaGFpcnM8L2E+PC9saT48YnIvPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9SE9NRU9GRklDRSZzYz1zYWxlfDYiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTYWxlIEl0ZW1zIj5TYWxlIEl0ZW1zPC9hPjwvbGk+ZAIHD2QWAmYPFgIfAAXHDTxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9YWNjZW50IGZ1cm5pdHVyZSIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkFjY2VudCBGdXJuaXR1cmUiPkFjY2VudCBGdXJuaXR1cmU8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFDQ0VTU1JZJnNjPUxhbXBzICUyNiBMaWdodGluZyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkxhbXBzICYgTGlnaHRpbmciPkxhbXBzICYgTGlnaHRpbmc8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFDQ0VTU1JZJnNjPVRhYmxlIFRvcCBBY2Nlc3NvcmllcyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlRhYmxlIFRvcCBBY2Nlc3NvcmllcyI+VGFibGUgVG9wIEFjY2Vzc29yaWVzPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1BQ0NFU1NSWSZzYz13YWxsIGRlY29yIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iV2FsbCBEZWNvciI+V2FsbCBEZWNvcjwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9U2lsa3MgJTI2IEZsb3JhbHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJTaWxrcyAmIEZsb3JhbHMiPlNpbGtzICYgRmxvcmFsczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9QUNDRVNTUlkmc2M9bGluZW5zIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iTGluZW5zIj5MaW5lbnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFDQ0VTU1JZJnNjPUZsb29yaW5nIiAgZGF0YS1ldmVudC1jYXRlZ29yeT0iZm9vdGVyIiBkYXRhLWV2ZW50LWFjdGlvbj0ibmF2aWdhdGlvbiIgZGF0YS1ldmVudC1sYWJlbD0iRmxvb3JpbmciPkZsb29yaW5nPC9hPjwvbGk+PGJyLz48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPUFDQ0VTU1JZJnNjPXNhbGV8NyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IlNhbGUgSXRlbXMiPlNhbGUgSXRlbXM8L2E+PC9saT5kAggPZBYCZg8WAh8ABfYGPGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1TRUFTT05BTCZzYz1MYXduICUyNiBHYXJkZW4iICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJMYXduICYgR2FyZGVuIj5MYXduICYgR2FyZGVuPC9hPjwvbGk+PGxpPjxhIGNsYXNzID0idHJhY2stZXZlbnQiIGhyZWY9Imh0dHA6Ly9iYWRjb2NrLmNvbS9wcm9kdWN0c2VhcmNoLmFzcHg/Yz1TRUFTT05BTCZzYz1HcmlsbHMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJHcmlsbHMiPkdyaWxsczwvYT48L2xpPjxsaT48YSBjbGFzcyA9InRyYWNrLWV2ZW50IiBocmVmPSJodHRwOi8vYmFkY29jay5jb20vcHJvZHVjdHNlYXJjaC5hc3B4P2M9U0VBU09OQUwmc2M9YWlyIGNvbmRpdGlvbmVycyIgIGRhdGEtZXZlbnQtY2F0ZWdvcnk9ImZvb3RlciIgZGF0YS1ldmVudC1hY3Rpb249Im5hdmlnYXRpb24iIGRhdGEtZXZlbnQtbGFiZWw9IkFpciBDb25kaXRpb25lcnMiPkFpciBDb25kaXRpb25lcnM8L2E+PC9saT48bGk+PGEgY2xhc3MgPSJ0cmFjay1ldmVudCIgaHJlZj0iaHR0cDovL2JhZGNvY2suY29tL3Byb2R1Y3RzZWFyY2guYXNweD9jPVNFQVNPTkFMJnNjPUhlYXRlcnMgJTI2IEZpcmVwbGFjZXMiICBkYXRhLWV2ZW50LWNhdGVnb3J5PSJmb290ZXIiIGRhdGEtZXZlbnQtYWN0aW9uPSJuYXZpZ2F0aW9uIiBkYXRhLWV2ZW50LWxhYmVsPSJIZWF0ZXJzICYgRmlyZXBsYWNlcyI+SGVhdGVycyAmIEZpcmVwbGFjZXM8L2E+PC9saT48YnIvPmRk2IOcZ2iXy0Q4O57ehULxRkWZetsQkn4DOkcIPmJ4pDU=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
 }
-// -->
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
 
 
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-		<script type="text/javascript">_uacct = "UA-31640-1";urchinTracker();</script>
-
-</head>
-<!-- V3.4 RAD 2007-12-10 13:30 KS -->
-
-<body bottommargin="0" rightmargin="0" leftmargin="7" topmargin="5" bgcolor="#E3E3C5">
-
-<table width="750" height="100%" cellspacing="0" cellpadding="0" border="0" class="bodybg">
-	<tbody><tr>
-		<td colspan="3" width="100%" height="1">
-
-		<table width="100%" cellpadding="0" cellspacing="0">
-			<tbody>
-				<tr>
-					<td class="mediumtoptop">
-					<table width="100%" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td>
-<!-- START LOGO -->
-<a href="/viewHomePage.do"><img src="/images/header/badcock_logo.gif" alt="Click here to return to the homepage." width="242" height="92" border="0"></a>
-<!-- END LOGO --></td>
-							<td>
-<table width="100%" height="1" border="0" cellpadding="4" cellspacing="0">
-	<tbody><tr>
-		<td align="right">
-		<table width="1" height="1" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-			<!-- This file is not for the home page - the home page file is user_login_home.jsp -->
-
-			<td class="fullborder" width="1">
-			<div align="CENTER"><a href="/viewHomePage.do"><img src="/images/buttons_bt/bt_home.gif" border="0"></a></div>
-			</td>
-
-			<!-- Rev01: 05/18/04 - jb -->
-			<td class="noleftborder" width="1">
-			<div align="CENTER"><a href="/general/help.jsp"><img src="/images/buttons_bt/bt_help.gif" border="0"></a></div>
-			</td>
-			<!-- End Rev01 -->
-
-			<td class="noleftborder" width="1">
-			<div align="CENTER"><a href="/general/help.jsp"> <img src="/images/buttons_bt/bt_questionmark.gif" border="0"></a></div>
-			</td>
-			</tr>
-		</tbody></table>
-
-		</td>
-	</tr>
-	<tr>
-		<td align="right" valign="bottom"><img src="/images/header/ampresand.gif" align="bottom"></td>
-	</tr>
-</tbody></table>
-<!-- END TOP RIGHT LOGIN SECTION --></td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td>
+<script src="/WebResource.axd?d=qlf3EyvIREKQUqkQLvUaAWDgM1uzKz_9F2Fc6qZWSsGPZR8ar6mwAK8qz8YkUywgshGELl5GuLsPm40sfhdxhHkiva4nYVks9YJ-qS_xZN41&amp;t=635217168300000000" type="text/javascript"></script>
 
 
+<script src="/ScriptResource.axd?d=4_c1vq-XVkLpO0NFWEqPy4p8meVF0Ptpk2zKMxYduYPoU5eamT__PgkcDls2o5myRu5OrCqStKwhfx8GG-UpST754ZnSJs11V8nZ5xc5ZuNRC9bpdlbbpt_c1tK8YGYYDI1EaKzCDR3x3A48lAXHo4Cl9laD0sU8u2IHfxrZyKAmqTBcuyPsn2WaL7vFD9Gh0&amp;t=6119e399" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
 
+<script src="/ScriptResource.axd?d=rs9MjnRBeK_FzYsBy-zB7W0r8GGjMCEemAY21ePZ3Kn4AWAJRUZonF1vEwLTzLZpUL2Nl1EW9i8rkd1B83JAxoN0wTPevdTiwO0Q1Rmqg2l_KakyiU_nGhieJS2gP8qU2aUnG-H6cq7Pj59mEGvvXxfQAo9FUPPn6scvmDVHlbdCO8FIVTJL137UrLQu3aDpQP3wBt8eKHH0w7KgxsKPeQ2&amp;t=6119e399" type="text/javascript"></script>
+<div class="aspNetHidden">
 
-<table width="100%" height="10" cellpadding="0" cellspacing="0" border="0" style="background-color: #666666;">
-	<tbody><tr>
-		<td align="left"><img style="WIDTH: 11px; HEIGHT: 23px" height="9" alt="" src="/images/nav_curves/lt_top_curve.gif"></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=159" class="linkwhite">Electronics</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=144" class="linkwhite">Appliances</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=37" class="linkwhite">Living&nbsp;Room</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=1" class="linkwhite">Bedroom</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=77" class="linkwhite">Dining&nbsp;Room</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=85" class="linkwhite">Home&nbsp;Office</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=94" class="linkwhite">Accessories</a></td>
-
-		<td width="3" class="dark"><span class="topmenudevide">|</span></td>
-
-	
-
-		<td align="center" class="dark"><a href="/viewDeptCategory.do?catid=203" class="linkwhite">Floor&nbsp;Covering</a></td>
-
-
-		<td align="right"><img style="WIDTH: 11px; HEIGHT: 23px" height="9" alt="" src="/images/nav_curves/rt_top_curve.gif"></td>
-	</tr>
-</tbody></table>
-</td>
-				</tr>
-				<tr>
-					<td class="topsearch">
-
-<table width="100%" valign="middle" border="0" class="topsearch">
-	<tbody><tr>
-
-		<td width="50%" valign="middle"><!-- BEGIN TOP SEARCH AREA -->
-		<form name="searchForm" method="POST" action="/viewSearchResultPage.do">
-		<div style="margin: 0px; padding: 0px; vertical-align: absmiddle">
-		Search <input type="text" name="searchParam" class="small"> <input type="image" src="/images/buttons_bt/bt_top_go.gif" alt=""></div>
-		</form>
-		<!-- END TOP SEARCH AREA --></td>
-
-
-		<td width="50%" align="right"><!-- BEGIN TOP TOOLS NAVIGATION; customer service, dealer opportunities,etc. -->
-		<table width="75%" border="0" class="default">
-			<tbody><tr>
-				<td align="center"><a href="/general/credit.jsp" class="linksmaller2">Credit Application</a></td>
-				<td align="center"><a href="/general/locator.jsp" class="linksmaller2">Store Locator</a></td>
-				<td align="center"><a href="/viewCustomerServicePage.do" class="linksmaller2">Customer Service</a></td>
-				<td align="center"><a href="/viewDealerOpPage.do" class="linksmaller2">Dealer Opportunities</a></td>
-				<td align="center"><a href="/viewMediaPage.do" class="linksmaller2">News &amp; Media</a></td>
-			</tr>
-		</tbody></table>
-		<!-- END TOP TOOLS NAVIGATION; customer service, dealer opportunities,etc. -->
-		</td>
-	</tr>
-</tbody></table></td>
-				</tr>
-			</tbody>
-		</table>
-
-		</td>
-	</tr>
-	<tr>
-		<td>
-<!-- Modified by Jyanes 04/28/06 added cellpadding and cellspacing -->
-<table cellspacing="0" cellpadding="0" class="default">
-	<tbody><tr>
-		<td><!-- START MAIN -->
-		<div class="largerbold"><b>W.S. Badcock Corporation Privacy Policy</b></div>
-
-		<p><img src="/images/dealer_ops/store.gif" align="right" hspace="10" vspace="10"><b>COMMITMENT TO OUR CUSTOMERS:
-		</b></p>
-		<p>Today, data is transported at speeds and through avenues that in
-		earlier years we could never have imagined. But technology, with all
-		its wonders, does not diminish W.S. Badcock Corporation's ("Badcock")
-		ongoing responsibility to our customers. Keeping customer information
-		secure is a top priority for all of us at Badcock. At Badcock, we are
-		dedicated to protecting your privacy and handling your information in
-		a secure and confidential manner. The privacy of your information is
-		protected not only by state and federal laws, but even more
-		importantly, by Badcock's commitment to you. We know that having trust
-		and confidence in the companies you do business with is important to
-		you. And we value the trust you have placed in us to protect your
-		information. We are sending you this privacy notice to help you
-		understand how we handle the personal information about you that we
-		collect. Unless we indicate otherwise, the term
-		"information" in this Privacy Policy means information that
-		specifically identifies you. This Privacy Policy applies to all
-		current and former customers of Badcock.</p>
-		<p><b>We are committed to the privacy of your customer information and
-		will use strict security standards to protect it.</b></p>
-		<p>Badcock is committed to the security of customer information. All
-		Badcock employees and others associated with us are held accountable
-		for adhering to strict policies and procedures to prevent any misuse
-		of your information. Our operational and data processing are in a
-		secure environment that protects customer information from being
-		accessed inappropriately by third parties. We maintain customer
-		information only in accordance with Badcock's internal security
-		standards. We regularly review our processes and keep abreast of new
-		technology.</p>
-		<p><b>We collect only information that is needed to serve you and
-		administer our business. </b></p>
-		<p>In the process of serving you, we become aware of certain
-		"nonpublic personal information" information about you that
-		is not available publicly. This information comes to us from a variety
-		of sources including:</p>
-
-		<ul>
-			<li>Information you provide directly to us on applications or
-			otherwise (such as Social Security number, assets and income).</li>
-			<li>Information related to your transactions with us, or others (such
-			as your account balance, payment history, parties to transactions and
-			account usage).</li>
-			<li>Information we receive about your transactions with nonaffiliated
-			third parties.</li>
-			<li>Information that we receive from a consumer reporting agency.</li>
-		</ul>
-
-
-		<p><b>We carefully limit and control the sharing of your information.
-		</b></p>
-		<p>Regardless of the customer relationship and in order to protect
-		customer privacy, we carefully control the way in which any
-		information about customers is shared. We do not disclose information
-		about our customers or former customers to anyone, except as outlined
-		in this policy or as permitted or required by law. We limit the
-		collection and use of information about our customers to that which is
-		necessary to administer our business, provide superior service and
-		offer opportunities that we think will be of interest to our
-		customers. We also use customer information for identification
-		purposes to protect customer accounts and guard against unauthorized
-		access to information. In accordance with the Fair Credit Reporting
-		Act, we share customer information with reputable information
-		reporting agencies. We may also report customer information to
-		government regulators, law enforcement agencies, as permitted or
-		required by a variety of federal and state laws, such as in response
-		to a subpoena, or in connection with legal process. We do not share
-		information with nonaffiliated companies unless you have given us
-		permission to do so or unless we provide you, in advance, the
-		opportunity to "opt-out" and direct us not to make thes disclosures of
-		your personal information. As your personal information is not shared
-		in this manner by us, there is no need for you to opt-out of this
-		practice. Federal law allows us to share the types of information
-		described in the preceding paragraph in certain circumstances:</p>
-
-		<ul>
-			<li>We may disclose information we collect, as described above to
-			companies that perform marketing services on our behalf or to other
-			financial institutions with whom we have joint marketing agreements.
-			</li>
-			<li>We may share your information with companies that we hire to
-			perform necessary account-servicing functions at our direction to
-			manage, service and maintain your account. In these circumstances, we
-			have written agreements that require the parties we are sharing your
-			information with to keep it safe and confidential and to use it only
-			for the purposes we specify.</li>
-		</ul>
-
-		<p>Please note that third parties may have access to information
-		related to Badcock customers that has been obtained independently of
-		Badcock (through credit rating agencies or public records such as
-		deeds of trust, for example). Mailings and solicitations based on this
-		information are not within Badcock's control.</p>
-
-
-		<p><b>We do not sell any information. </b></p>
-		<p>We do not permit list brokers, mail-order businesses,
-		telemarketers, or other marketing companies to contact you to promote
-		their products or services, and we do not sell, lend, or give out your
-		information for this purpose. If you are a former customer, we
-		maintain the confidentiality of your personal information as if you
-		were still a customer.</p>
-
-
-		<p><b>We limit employee access to your information. </b></p>
-		<p>Only authorized Badcock employees, who are trained in the proper
-		handling of customer information, are authorized to access or use
-		customer information. We restrict access to your personal and
-		financial information to those employees who need to know that
-		information to provide product of services to you. All Badcock
-		employees are governed by a code of conduct that includes the
-		responsibility to protect the confidentiality of customers' financial
-		and other personal information. Employees are bound by this Privacy
-		Policy and are educated on implementing Badcock's security principles
-		and practices. Employees who violate our Privacy Policy will be
-		subject to our normal disciplinary process.</p>
-
-
-		<p><b>We strive to maintain the accuracy of your information.</b></p>
-		<p>We work to ensure that the information concerning you is accurate
-		in all aspects. If we become aware of inaccuracies in our records, we
-		will take prompt steps to make appropriate corrections.</p>
-		<p><b>We are committed to customer privacy on our website. </b></p>
-		<p>Badcock is equally committed to protecting the privacy of customer
-		information on the Internet.</p>
-		<p><b>We encourage you to partner with us in safeguarding your
-		information.</b></p>
-		<p>Badcock's commitment to protecting your customer information is a
-		company-wide priority that shapes our daily actions. We encourage you
-		to be just as diligent as you follow steps to protect against
-		unauthorized access to information. This Privacy Policy and our
-		practices are subject to change. As significant changes occur, we will
-		update this policy, and we will let you know about them.</p>
-		<p><b>Badcock's use of Cookies </b></p>
-		<p>Cookies are pieces of information that some web sites transfer to
-		the computer that is browsing that web site ("Cookies"), and
-		are used for record-keeping purposes at many web sites. Use of Cookies
-		makes web-surfing easier by performing certain functions such as
-		saving your site passwords, lists of potential purchases, and your
-		personal preferences regarding your use of the particular web site.
-		Many consider the use of Cookies to be an industry standard. Badcock
-		uses Cookies on its web site. Your browser is probably set to accept
-		Cookies. However, if you would prefer not to receive Cookies, you can
-		alter the configuration of your browser to refuse Cookies. If you
-		choose to have your browser refuse Cookies, it is possible that some
-		areas of our site will not function properly when you view them.</p>
-		<p>Badcock reserves the right to change this policy at any time by
-		posting a new privacy policy at this location. You can
-		<a href="/viewCustomerServicePage.do?page=contact" class="linkbold">contact us</a>
-        with any further questions or comments.</p>
-		<p><strong>Copyright © 2001, W.S. Badcock Corporation. All rights
-		reserved </strong></p>
-
-		<!-- END MAIN --></td>
-		<td width="135" valign="top" class="rightnav"><!-- START RIGHT --> 
-
-
-
-<!-- RIGHT NAV CELL START -->
-
-<div align="center">
-<table width="125" class="tablecell">
-	<tbody><tr>
-		<td align="center">
-		<div align="center"><img src="/images/headers_hd/rt_col_hd_my_shop_tools.gif" alt="" border="0"></div>
-		</td>
-	</tr>
-	<tr>
-		<td class="bordertop"><img src="/images/right_nav/arrow.gif" alt="" border="0">&nbsp;<a href="/viewBestSellersPage.do" class="linksmaller2">Best Sellers</a></td>
-	</tr>
-	<tr>
-		<td><img src="/images/right_nav/arrow.gif" alt="" border="0">&nbsp;<a href="/viewSpecialsPage.do" class="linksmaller2">Specials</a></td>
-	</tr>
-
-	<!--<tr>
-    <td><img src="/images/right_nav/arrow.gif" alt="" border="0">&nbsp;Wish List</td>
-  </tr>-->
-</tbody></table>
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAY1Pj8lZwltXISFToEFAQyRrTt4ZFlGwOUusXrWClNO8071XgHjzfZvsDr2iMtO78/XazrVi0ln0N33V0Cx/XKvUv4+AZr5zEfS65OabSyZuZXq8FIEV9NmnzhW1XVtjJeUlpmKiCuYdsFRH9eMCIe33ItmXkKKR4xKjRzf1WxOcw==">
 </div>
-<br>
-<div align="center">
-<table width="135" class="tablecell">
-	<tbody><tr>
-		<td align="center">
-		<div align="center"><img src="/images/headers_hd/rt_col_hd_new_promos.gif" alt="" border="0"></div>
-		</td>
-	</tr>
-	<tr>
-		<td class="bordertop">
-		<div align="center">
-		<img src="/images/right_nav/18months.jpg" width="113" height="168" alt="" border="0">
-			</div>
-		</td>
-	</tr>
-</tbody></table>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+    
+
+ <link href="../FKQ_UI_Assets/css/slick.css" rel="stylesheet" media="screen">
+
+<div class="topPage hidden-phone">
 </div>
- <!-- END RIGHT --></td>
-	</tr>
-
-</tbody></table>
-
-
-		</td>
-	</tr>
-	<tr>
-		<td class="mediumbottom">
-<form name="searchFormB" method="post" action="/viewSearchResultPage.do"><span style="margin: 0px; padding: 0px; vertical-align: absmiddle"> Search <input type="text" name="searchParam" class="small"> <input type="image" src="/images/buttons_bt/bt_bottom_go.gif" alt=""> </span>
-</form></td>
-	</tr>
-	<tr>
-		<td class="bottomaddress">
 
 
 
-
-
-
-<table width="100%" height="1" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/nav_curves/lt_bottom_curve.gif" alt="" width="10" height="22" border="0"></td>
-		<td class="footerwhite" height="22" width="25%">Dealer Opportunities</td>
-		<td class="footerwhite" height="22" width="25%">Careers</td>
-		<td class="footerwhite" height="22" width="25%">About Us</td>
-		<td class="footerwhitenoborder" height="22" width="25%">Need Help?</td>
-		<td><img src="/images/nav_curves/rt_bottom_curve.gif" alt="" width="14" height="22" border="0"></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td class="default" valign="top"><br>
-		• <a href="/viewDealerOpPage.do?page=letter" class="link">Prospective Dealers</a> <br>
-		• <a href="/viewDealerOpPage.do?page=faq" class="link">Dealer FAQ</a><br>
-		</td>
-		<td class="default" valign="top"><br>
-		• <a href="/viewCareersPage.do" class="link">Job Opportunities</a>
-		<br>
-		• 
-		
-		
-		<a href="/viewHRForm.do?page=contact" class="link">Contact Human Resources</a>
-		<br>
-		</td>
-		<td class="default" valign="top"><br>
-		• <a href="/viewAboutPage.do?page=management" class="link">Our Management</a> <br>
-		• <a href="/viewAboutPage.do?page=ataglance" class="link">Badcock &amp;more At a Glance</a><br>
-		</td>
-		<td class="default" valign="top"><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <a href="/viewCustomerServicePage.do" class="link">Customer Service</a>
-		<br>
-		
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-		
-		<br>
-		</td>
-		<td></td>
-	</tr>
-</tbody></table><br></td>
-	</tr>
-	<tr>
-		<td class="topbottom">
-
-<div align="center">
-<table width="100%" border="0" class="bodybg">
-	<tbody><tr>
-		<td align="center" width="110"><a href="/general/credit.jsp" class="linkblack">Credit App</a></td>
-		<td align="center" width="110"><a href="/viewCustomerServicePage.do" class="linkblack">Contact Us</a></td>
-		<td align="center" width="110"><a href="/viewAboutPage.do" class="linkblack">About Us</a></td>
-		<td align="center" width="110"><a href="/viewCareersPage.do" class="linkblack">Careers</a></td>
-		<td align="center" width="110"><a href="/viewDealerOpPage.do" class="linkblack">Dealer Opportunities</a></td>
-		<td align="center" width="110"><a href="/general/emptraining.jsp" class="linkblack">Employee Training</a></td>
-		<td align="center" width="110"><a href="/general/privacy.jsp" class="linkblack">Privacy</a></td>
-	</tr>
-</tbody></table>
+<div class="container">
+    <div class="row margin-top">
+        <div class="span6">
+         <a href="/default.aspx" class="badcock-logo-top"></a>
+        </div>
+        <div class="span3 pull-right hide-print">
+            
+            <input name="ctl00$header1$TextAddressSearch" type="text" value="Find a store near you" id="ctl00_header1_TextAddressSearch" class="search-query header-store-field m-field search_address" onfocus="if(this.value=='Find a store near you')this.value=''; " onblur="if(this.value!='Find a store near you')this.value='Find a store near you'; ">
+      
+            
+        </div>
+        <div class="span3 pull-right hide-print">
+            
+            <input name="ctl00$header1$TxtSearchBadcock" type="text" value="Search Badcock.com" id="ctl00_header1_TxtSearchBadcock" class="search-query m-field" onkeypress="return EnterEvent(event)" onfocus="if(this.value=='Search Badcock.com')this.value=''; " onblur="if(this.value!='Search Badcock.com')this.value='Search Badcock.com'; ">
+            
+        </div>
+        <div class="span6 header-right-tablet pull-right">
+            <div class="navbar pull-right">
+                <ul class="nav">
+                    <li><a href="/storelocator.aspx?applyforcredit=1"><small>Apply for Credit</small></a></li>
+                    <li><a href="/ads.aspx"><small>In-Store Ads</small></a></li>
+                    <li><a href="https://paymentcenter.badcock.com/" target="_blank"><small>Pay Your Bill</small></a></li>
+                    
+                    <li style="margin-right: -5px;" class="visible-desktop"><a href="https://www.facebook.com/badcockfurniture" target="_blank">
+                        <img src="/FKQ_UI_Assets/img/fb_icon.png"></a></li>
+					<li class="hidden-desktop header-social-btn mobile-clear-left"><a href="https://www.facebook.com/badcockfurniture" target="_blank">
+                        <img src="/FKQ_UI_Assets/img/fb_icon_lg.png"></a></li>
+                    <li class="visible-desktop"><a href="http://pinterest.com/badcockhome/" target="_blank">
+                        <img src="/FKQ_UI_Assets/img/pinterest_icon.png"></a></li>
+					<li class="hidden-desktop header-social-btn"><a href="http://pinterest.com/badcockhome/" target="_blank">
+                        <img src="/FKQ_UI_Assets/img/pinterest_icon_lg.png"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
-</td>
-	</tr>
-	<tr>
-		<td class="bottomaddress"><!--06/04: Created - Author: jbrannan-->
-
-<table width="100%" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td width="20"><img src="/images/footer/sm_ampresand_drk_beige.gif" alt="" border="0"></td>
-		<td align="center"><span class="copyright">© Badcock Home
-		Furnishing Centers &amp;&nbsp;More</span></td>
-	</tr>
-	<tr>
-		<td width="20"></td>
-		<td align="center"><span class="copyright"> All Rights Reserved</span></td>
-	</tr>
-</tbody></table></td>
-	</tr>
-</tbody></table>
+<div class="container">
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container">
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar">
+                    </span>
+                </button>
+                <div class="nav-collapse collapse">
+                    
+                    <ul class="nav">
+                        <li class="dropdown"><a>LIVING ROOM</a>
+                            <ul class="dropdown-menu livingroom-icon">
+                                <li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sofas" data-event-category="header" data-event-action="navigation" data-event-label="Sofas">Sofas</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=loveseats" data-event-category="header" data-event-action="navigation" data-event-label="Loveseats">Loveseats</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sectional sofas" data-event-category="header" data-event-action="navigation" data-event-label="Sectional Sofas">Sectional Sofas</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=chaises" data-event-category="header" data-event-action="navigation" data-event-label="Chaises">Chaises</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=Chairs" data-event-category="header" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=recliners" data-event-category="header" data-event-action="navigation" data-event-label="Recliners">Recliners</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sleeper sofas" data-event-category="header" data-event-action="navigation" data-event-label="Sleeper Sofas">Sleeper Sofas</a></li><br><li class="muted">Browse Accents:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=Accent Tables|Coffee Tables|End Tables" data-event-category="header" data-event-action="navigation" data-event-label="Accent Tables">Accent Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=ottomans" data-event-category="header" data-event-action="navigation" data-event-label="Ottomans">Ottomans</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=media centers|TV Consoles|Entertainment Centers" data-event-category="header" data-event-action="navigation" data-event-label="Media Centers">Media Centers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=area rugs home decor" data-event-category="header" data-event-action="navigation" data-event-label="Area Rugs">Area Rugs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sale|0" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=collection|0" data-event-category="header" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
 
 
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>BEDROOM</a>
+                            <ul class="dropdown-menu bedroom-icon">
+                                <li class="muted">Browse by Size:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Twin Beds" data-event-category="header" data-event-action="navigation" data-event-label="Twin Beds">Twin Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=full beds" data-event-category="header" data-event-action="navigation" data-event-label="Full Beds">Full Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=queen beds" data-event-category="header" data-event-action="navigation" data-event-label="Queen Beds">Queen Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=king beds" data-event-category="header" data-event-action="navigation" data-event-label="King Beds">King Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=daybeds" data-event-category="header" data-event-action="navigation" data-event-label="Daybeds">Daybeds</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=bedroom chests" data-event-category="header" data-event-action="navigation" data-event-label="Chests">Chests</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Media Chests|Youth Media Chests" data-event-category="header" data-event-action="navigation" data-event-label="Media Chests">Media Chests</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Dressers %26 Mirrors" data-event-category="header" data-event-action="navigation" data-event-label="Dressers &amp; Mirrors">Dressers &amp; Mirrors</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=bedroom nightstands" data-event-category="header" data-event-action="navigation" data-event-label="Nightstands">Nightstands</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Linens|Pillows" data-event-category="header" data-event-action="navigation" data-event-label="Linens">Linens</a></li><br><li class="muted">Youth Bedroom</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Twin Beds|Youth Twin Beds|Youth Queen Beds|Youth Full Beds|Bunk Beds|Youth Full Beds" data-event-category="header" data-event-action="navigation" data-event-label="Youth Bed">Youth Bed</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Bunk Beds" data-event-category="header" data-event-action="navigation" data-event-label="Bunk Beds">Bunk Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=trundle beds" data-event-category="header" data-event-action="navigation" data-event-label="Trundle Bed">Trundle Bed</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Youth Groups" data-event-category="header" data-event-action="navigation" data-event-label="Shop by Collection Youth">Shop by Collection Youth</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=sale|1" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=collection|1" data-event-category="header" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>DINING ROOM</a>
+                            <ul class="dropdown-menu dining-icon">
+                                <li class="muted">Formal Dining:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=formal dining tables" data-event-category="header" data-event-action="navigation" data-event-label="Tables">Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=formal dining chairs" data-event-category="header" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=Servers" data-event-category="header" data-event-action="navigation" data-event-label="Servers">Servers</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=china cabinets" data-event-category="header" data-event-action="navigation" data-event-label="Cabinets">Cabinets</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=Casual Dining Barstools" data-event-category="header" data-event-action="navigation" data-event-label="Barstools">Barstools</a></li><br><li class="muted">Casual Dining:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=casual dining tables" data-event-category="header" data-event-action="navigation" data-event-label="Tables">Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=casual dining chairs" data-event-category="header" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=sale|2" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=collection|2" data-event-category="header" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>MATTRESSES</a>
+                            <ul class="dropdown-menu mattresses-icon">
+                                <li class="muted">Browse by Size:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=twin size mattresses" data-event-category="header" data-event-action="navigation" data-event-label="Twin Size">Twin Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=full size mattresses" data-event-category="header" data-event-action="navigation" data-event-label="Full Size">Full Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=queen size mattresses" data-event-category="header" data-event-action="navigation" data-event-label="Queen Size">Queen Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=king size mattresses" data-event-category="header" data-event-action="navigation" data-event-label="King Size">King Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=crib size mattresses" data-event-category="header" data-event-action="navigation" data-event-label="Crib Size">Crib Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=bunkie boards" data-event-category="header" data-event-action="navigation" data-event-label="Bunkie Boards">Bunkie Boards</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=adjustable bases" data-event-category="header" data-event-action="navigation" data-event-label="Adjustable Bases">Adjustable Bases</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=Pillows" data-event-category="header" data-event-action="navigation" data-event-label="Pillows">Pillows</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=sale|3" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>APPLIANCES</a>
+                            <ul class="dropdown-menu appliances-icon">
+                                <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Refrigerators %26 Freezers" data-event-category="header" data-event-action="navigation" data-event-label="Refrigerators &amp; Freezers">Refrigerators &amp; Freezers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Washers %26 Dryers" data-event-category="header" data-event-action="navigation" data-event-label="Washers &amp; Dryers">Washers &amp; Dryers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Ranges %26 Microwaves" data-event-category="header" data-event-action="navigation" data-event-label="Ranges &amp; Microwaves">Ranges &amp; Microwaves</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=dishwashers" data-event-category="header" data-event-action="navigation" data-event-label="Dishwashers">Dishwashers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Cookware" data-event-category="header" data-event-action="navigation" data-event-label="Cookware">Cookware</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Vacuums" data-event-category="header" data-event-action="navigation" data-event-label="Vacuums">Vacuums</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=sale|4" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>ELECTRONICS</a>
+                            <ul class="dropdown-menu electronics-icon">
+                                <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Televisions" data-event-category="header" data-event-action="navigation" data-event-label="Televisions">Televisions</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Computers %26 Tablets" data-event-category="header" data-event-action="navigation" data-event-label="Computers &amp; Tablets">Computers &amp; Tablets</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Home Theater|Stereos" data-event-category="header" data-event-action="navigation" data-event-label="Home Theater">Home Theater</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=electronic accessories" data-event-category="header" data-event-action="navigation" data-event-label="Electronic Accessories">Electronic Accessories</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=sale|5" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>HOME OFFICE</a>
+                            <ul class="dropdown-menu home-office-icon">
+                                <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=desks" data-event-category="header" data-event-action="navigation" data-event-label="Desks">Desks</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=bookcases %26 storage" data-event-category="header" data-event-action="navigation" data-event-label="Bookcases &amp; Storage">Bookcases &amp; Storage</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=office chairs" data-event-category="header" data-event-action="navigation" data-event-label="Office Chairs">Office Chairs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=sale|6" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="dropdown"><a>HOME DECOR</a>
+                            <ul class="dropdown-menu home-decor-icon">
+                                <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=accent furniture" data-event-category="header" data-event-action="navigation" data-event-label="Accent Furniture">Accent Furniture</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Lamps %26 Lighting" data-event-category="header" data-event-action="navigation" data-event-label="Lamps &amp; Lighting">Lamps &amp; Lighting</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Table Top Accessories" data-event-category="header" data-event-action="navigation" data-event-label="Table Top Accessories">Table Top Accessories</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=wall decor" data-event-category="header" data-event-action="navigation" data-event-label="Wall Decor">Wall Decor</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Silks %26 Florals" data-event-category="header" data-event-action="navigation" data-event-label="Silks &amp; Florals">Silks &amp; Florals</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=linens" data-event-category="header" data-event-action="navigation" data-event-label="Linens">Linens</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Flooring" data-event-category="header" data-event-action="navigation" data-event-label="Flooring">Flooring</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=sale|7" data-event-category="header" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                            </ul>
+                        </li>
+                        
+                        <li class="dropdown"><a>SEASONAL</a>
+                            <ul class="dropdown-menu seasonal-icon">
+                                <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Lawn %26 Garden" data-event-category="header" data-event-action="navigation" data-event-label="Lawn &amp; Garden">Lawn &amp; Garden</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Grills" data-event-category="header" data-event-action="navigation" data-event-label="Grills">Grills</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=air conditioners" data-event-category="header" data-event-action="navigation" data-event-label="Air Conditioners">Air Conditioners</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Heaters %26 Fireplaces" data-event-category="header" data-event-action="navigation" data-event-label="Heaters &amp; Fireplaces">Heaters &amp; Fireplaces</a></li><br>
+
+
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Navbar
+     ================================================== -->
+     <script type="text/javascript">
+     function EnterEvent(e) {
+         if (e.keyCode == 13) {
+             search_address(this.value);
+            __doPostBack('System.Web.UI.WebControls.Button', "");
+        }
+    }
+
+    $(document).ready(function () {
+        //Implements logic flow in the header
+        $('.search_address').keypress(function (e) {
+            if (e.keyCode == '13') {
+                e.preventDefault();
+                try {
+                    search_address(this.value);
+                }
+                catch (err) { /**/ }
+
+                var millisecondsToWait = 1000;
+                setTimeout(function () {
+                    window.location.href = '/storelocator.aspx';
+                }, millisecondsToWait);
+            }
+        });
+
+        //Implements logic flow from the UI in searchlocator.aspx - Enter in search box
+        $('.search_address2').keypress(function (e) {
+            if (e.keyCode == '13') {
+                e.preventDefault();
+                try {
+                    search_address(this.value);
+                }
+                catch (err) { /**/ }
+
+                var millisecondsToWait = 1000;
+                setTimeout(function () {
+                    window.location.href = '/storelocator.aspx';
+                }, millisecondsToWait);
+            }
+        });
+
+        //Implements logic flow from the UI in searchlocator.aspx - enter button
+        $('.search_address_button').click(function (e) {
+            _address = $(".search_address2").val()
+            try {
+                search_address(_address);
+            }
+            catch (err) { /**/ }
+
+            var millisecondsToWait = 1000;
+            setTimeout(function () {
+                window.location.href = '/storelocator.aspx';
+            }, millisecondsToWait);
+        });
+    });
+
+    function search_address(address) {
+        if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
+            var xmlhttp_for_mapsv3 = new XMLHttpRequest();
+        }
+        else { //Alternate and older browsers - code for IE6, IE5
+            var xmlhttp_for_mapsv3 = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        try
+        {
+            xmlhttp_for_mapsv3.open("GET", "http://maps.google.com/maps/api/geocode/xml?address=" + address + "&sensor=false ", false);
+            xmlhttp_for_mapsv3.send();
+            ajax_interop("ImportXml", address + "|" + xmlhttp_for_mapsv3.responseText + "|" + $('#appendedDropdownButton option:selected').text());
+        } 
+        catch (err)
+        { //If the client side search fails execute on the server
+            ajax_interop("ImportXml", address + "|RunAtServer");
+        }
+
+        //var xmlDoc = xmlhttp.responseText;
+
+        
+    }
+
+    function ajax_interop(operation, _value) {
+        //_value = encodeURIComponent(_value).replaceAll(/'/g, "%27");
+        _value = _value.replace(/'/g, '%27');
+        _value = _value.replace('(', '&#40');
+        _value = _value.replace(')', '&#41');
+
+        var data = "{'_data': '" + _value + "'}";
+
+
+        var _url = "";
+        if (operation == "ImportXml") { var _url = "/googleMapV3Interop.asmx/ImportXml"; }
+        //add more operations as needed
+
+        if (_url != "") {
+            $.ajax(
+                {
+                    type: "POST",
+                    url: _url,
+                    data: data,
+                    contentType: "application/json; charset=utf-8",
+                    success: function (msg) {
+                        ajax_success(msg.d, true);
+                    },
+                    error: ajax_failed
+                });
+        }
+    }
+
+    
+
+    function ajax_failed(result) {
+//        alert("error: " + result.status + ' ' + result.statusText);
+    }
+
+    function ajax_failed_silent(result) {
+        //silent
+    }
+
+    function ajax_success(result, isSilent) {
+        if (!isSilent) { }
+//        { alert("success: " + result); }
+        return false;
+    }
+
+    function GetCookie(name) {
+        // cool approach from http://stackoverflow.com/questions/10730362/javascript-get-cookie-by-name
+        var parts = document.cookie.split(name + "=");
+        if (parts.length == 2) return parts.pop().split(';').shift();
+    }
+
+    function SetCookie(name, value, exdays) {
+        // Yoink!  http://www.w3schools.com/js/js_cookies.asp
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+        document.cookie = name + "=" + value;
+    }
+
+    </script>
+    <input type="submit" name="ctl00$header1$HiddenBtn" value="Button" id="ctl00_header1_HiddenBtn" style="display:none">
+
+    
+    
+<!-- BREADCRUMBS
+================================================== -->
+<div class="container-fluid breadcrumbContainer hidden-phone">
+    <div class="row-fluid">
+        <div class="container">
+            <div class="span12">
+                <ul class="breadcrumb">
+                    <li><a href="/default.aspx">Badcock &amp;more</a> <span id="ctl00_body_TermsBreadCrumb_divider1" class="divider">::</span></li>
+                    
+                    
+                    <li id="ctl00_body_TermsBreadCrumb_FinalCrumbNoAnchor" class="active">Terms &amp; Conditions</li>
+                    
+                </ul>
+                <!-- end span12-->
+            </div>
+            <!-- end container-->
+        </div>
+        <!-- end row-fluid-->
+    </div>
+    <!-- end container-fluid-->
+</div>
+<!-- END BREADCRUMBS
+============================================ -->
+
+    <div id="ctl00_body_ContentBlock20">
+	<div class="container">
+    <div class="row-fluid">
+        <div class="span12">
+            <h4 class="georgia">Privacy Policy</h4>
+            &nbsp;
+        </div>
+        <p>
+            At Badcock, we take your privacy seriously, and we want you to know how we collect, use, share and protect information about you. By interacting with Badcock, you consent to our use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically.
+        </p>
+        <p>This Privacy Policy tells you:</p>
+        <ul>
+            <li>What information we collect</li>
+            <li>How we use that information</li>
+            <li>How we may share that information</li>
+            <li>How we protect your information</li>
+            <li>How we protect your information</li>
+            <li>Your choices regarding your personal information</li>
+            <li>How do you access and update your information</li>
+        </ul>
+        <p class="georgia">Information We Collect</p>
+        <p> <strong>Information You Give Us</strong>
+        </p>
+        <p>
+            Information You Give Us
+We receive and may store any information you enter on our website or give to us in our stores. For example, we collect information from you when you place an order, create an account, call us with a question, create a wish list or use any of our services.
+        </p>
+        <p>The information we collect from you includes things like:</p>
+        <ul>
+            <li>Your name</li>
+            <li>Your mailing address</li>
+            <li>Your e-mail address</li>
+            <li>Your phone (or mobile) number</li>
+            <li>Your credit card number and other payment information</li>
+            <li>Your driver's license number</li>
+            <li>
+                Credit application information, such as your Social Security number
+            </li>
+            <li>
+                Demographic and lifestyle information, such as age, personal interests and product preferences
+            </li>
+            <li>
+                send unsolicited or unauthorized email on behalf of Badcock, including promotions and/or advertising of products or services;
+            </li>
+        </ul>
+        <p>&nbsp;</p>
+        <p> <strong>Information from Other Sources</strong>
+        </p>
+        <p>
+            We may also receive information about you from other sources, including third parties that help us update, expand and analyze our records and identify new customers.
+        </p>
+        <p>
+            We collect data that’s publicly available. For example, information you submit in a public forum (e.g. a blog, chat room, or social network) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances.
+        </p>
+        <p>
+            We may also obtain information provided by a third party. For instance, we obtain information from companies that can enhance our existing customer information to improve the accuracy and add to the information we have about our customers (for example, adding address information). This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you.
+        </p>
+        <p>
+            <strong>Automated Information Collection</strong>
+        </p>
+        <p>
+            We collect information related to your interactions with our website and apps to create a superior, personalized shopping experience, whether you are online or in our stores. This information includes your IP address, browsing behavior while on our site, browser and device characteristics, and referring URLs.
+        </p>
+        <p>
+            This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, search terms and IP-based geographic location, helps us recognize you, customize your website experience and make our marketing messages more relevant.
+        </p>
+        <p>
+            This information is collected and stored using a variety of common technologies, including but not limited to various types of cookies, web beacons, and tags. Our website is not designed to respond to "do not track" requests from browsers. These technologies may also allow us to identify you as a particular Badcock retail store customer when you visit our website, and to link your activities on our website to your interactions with us in our stores.
+        </p>
+        <p>
+            To help us understand and enhance our interactions with you, we may permit web analytics and other providers to collect and process information on our website using the technologies described above. We also may share personal information with those providers.
+        </p>
+        <p>
+            <strong>Location Information</strong>
+        </p>
+        <p>
+            Our website may collect certain information such as the type of mobile device you're using or your specific location to help you search for one of our stores. To allow any application to identify your location, you must enable this functionality through your mobile device's settings to allow the use of technologies such as Wi-Fi, GPS signals, cell tower position, or other technologies. Badcock has no control over your device's settings.
+        </p>
+        <p class="georgia">How We Use the Information We Collect</p>
+        <p>Examples of how we use the information we collect include:</p>
+        <p>
+            <strong>Product and Service Fulfillment</strong>
+        </p>
+        <ul>
+            <li>
+                Fulfill and manage purchases, orders, payments, returns/exchanges, or requests for information about our products and services in our stores, website, or mobile website, or to otherwise serve you
+            </li>
+            <li>Connect with Badcock on social media platforms</li>
+            <li>Provide services such as a shopping list</li>
+            <li>Administer sweepstakes and contests</li>
+        </ul>
+        <p>
+            <strong>Our Marketing Purposes</strong>
+        </p>
+        <ul>
+            <li>
+                Deliver coupons, mobile coupons, newsletters, in-store receipt messages, e-mails, mobile messages, and social media notifications
+            </li>
+            <li>
+                Provide interactive features of the website or mobile applications, such as product reviews or marketing communications and other information regarding products, services and promotions
+            </li>
+            <li>Administer promotions, surveys, and focus groups</li>
+        </ul>
+        <p>
+            <strong>Internal Operations</strong>
+        </p>
+        <ul>
+            <li>
+                Improve the effectiveness of our website, stores, mobile experience, and marketing efforts
+            </li>
+            <li>
+                Conduct research and analysis, including focus groups and surveys
+            </li>
+            <li>
+                Perform other business activities as needed, or as described elsewhere in this policy
+            </li>
+            <li>Establishing and managing your accounts with us</li>
+            <li>
+                Communicating things like special events, sweepstakes, promotions and surveys
+            </li>
+            <li>Processing Badcock credit applications</li>
+            <li>
+                Identifying you on our website and tailoring advertisements and offers to you (both on our website and on other websites) based on your interactions with us in our stores and online
+            </li>
+            <li>
+                Facilitating interactions with Badcock and others, such as enabling you to e-mail a link to a friend
+            </li>
+            <li>Operating, evaluating and improving our business</li>
+        </ul>
+        <p>
+            <strong>Fraud Prevention</strong>
+        </p>
+        <ul>
+            <li>
+                To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business (e.g. product recalls)
+            </li>
+        </ul>
+        <p>
+            <strong>Fraud Prevention</strong>
+        </p>
+        <p>
+            For example, assist law enforcement and respond to legal/regulatory inquiries.
+        </p>
+        <p>
+            <strong>Data Retention</strong>
+        </p>
+        <p>
+            We will retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes, and enforce our agreements.
+        </p>
+        <p class="georgia">How We Share the Information We Collect</p>
+        <p>
+            <strong>Service Providers</strong>
+        </p>
+        <p>
+            We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, marketing communications, mobile marketing, research analytics providers, web hosting providers, call center service providers, sweepstakes vendors, credit providers, payment processors, coupon delivery vendors, data enhancement, or fraud prevention providers) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+        </p>
+        <p>
+            <strong>Elsewhere at Your Direction</strong>
+        </p>
+        <p>
+            At your direction or request, we may share your information. For example, if you create a gift registry or shopping list and elect to make it available to the public, your information will be accessible on our website, mobile or social applications, and on kiosks in our stores.
+        </p>
+        <p>
+            <strong>Business Transfers</strong>
+        </p>
+        <p>
+            We may share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. We also may retain a copy of the information.
+        </p>
+        <p>
+            We may share personal information in connection with financial products or services related to our business such as private label credit cards. We may also share personal information in connection with co-branded product or service offerings. For example, if you apply for a Badcock credit card, we may share your personal information with our banking partners that issue the card.
+        </p>
+        <p class="georgia">How We Protect the Information We Collect</p>
+        <p>
+            <strong>Security Methods</strong>
+        </p>
+        <p>
+            We maintain administrative, technical and physical safeguards to protect your personal information. When we collect or transmit sensitive information such as a credit or debit card number, we use industry standard methods to protect that information. However, no e-commerce solution, website, database or system is completely secure or “hacker proof.” You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+        </p>
+        <p>
+            <strong>E-mail Security</strong>
+        </p>
+        <p>
+            "Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+        </p>
+        <p>
+            <strong>Badcock Cookies</strong>
+        </p>
+        <p>
+            The help function of your browser should contain instructions to set your computer to accept all cookies, to notify you when a cookie is issued, or to not receive cookies at any time. If you set your computer to not receive cookies at any time, certain personalized services cannot be provided to you, and accordingly, you may not be able to take full advantage of all of the Badcock.com features.
+        </p>
+        <p class="georgia">Your Choices Regarding the Information We Collect</p>
+        <p>You may choose to:</p>
+        <ul>
+            <li>
+                Stop receiving marketing or promotional e-mails, direct mail, phone and mobile marketing communications
+            </li>
+            <li>Update and correct your personal information</li>
+            <li>
+                Request that we no longer use your information to provide you services
+            </li>
+        </ul>
+        <p>
+            <strong>Postal Mail</strong>
+        </p>
+        <p>
+            If you do not wish to receive catalogs, coupons, and other promotional mail,
+            <a href="contact.aspx">contact us</a>
+            or call 800-223-2625 to opt out.
+        </p>
+        <p>
+            <strong>Telephone</strong>
+        </p>
+        <p>
+            If you do not wish to receive promotional telephone calls,
+            <a href="contact.aspx">contact us</a>
+            or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address.
+        </p>
+        <p>
+            <strong>E-mail</strong>
+        </p>
+        <p>
+            If you do not wish to receive promotional telephone calls,
+            <a href="contact.aspx">contact us</a>
+            or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address.
+        </p>
+        <p>
+            <strong>Mobile</strong>
+        </p>
+        <p>
+            We may distribute mobile coupons and text messages to mobile devices of customers who have requested this information via an opt in request. Specific opt out instruction will be contained in each text message.
+        </p>
+        <p>
+            To do any of the above, you may also let us know by sending a letter with your request and current contact information to:
+        </p>
+        <address>
+            W.S. Badcock Corporation
+P.O. Box 497
+Attention: Marketing Department
+Mulberry, FL 33860
+        </address>
+        <p>
+            <strong>Protecting Children's Privacy</strong>
+        </p>
+        <p>
+            We are committed to protecting children's privacy on the Internet and we do not knowingly collect personal information from children under the age of 13.
+        </p>
+        <p>
+            <strong>Links to Other Website</strong>
+        </p>
+        <p>
+            Our website may link to other websites, many of which have their own privacy policies. Be sure to review the privacy policy on the site you're visiting.
+        </p>
+        <p>
+            <strong>Social Media Widgets</strong>
+        </p>
+        <p>
+            Our website includes social media features, such as the Facebook Like button, Pinterest, and Twitter (and Widgets, such as the Share this button or interactive mini-programs that run on our site). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+        </p>
+        <p>
+            <strong>Privacy Policy Updates</strong>
+        </p>
+        <p>
+            We may need to update our Privacy Policy as Badcock and our customers grow and evolve or to comply with law. If we make material changes, including any change in ownership or uses of your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective, as well as inform you of any choices you may have with respect to these changes.
+        </p>
+        <p>
+            If you have any questions about our Privacy Policy or practices, we'll do our best to answer them. Here's how to contact us:
+        </p>
+        <p>
+            <strong>Phone:</strong>
+        </p>
+        <p>1-800-BADCOCK (1-800-223-2625)</p>
+        <p>
+            <strong>E-mail:</strong>
+        </p>
+        <p>
+            <a href="mailto:PrivacyManager@Badcock.com">PrivacyManager@Badcock.com</a>
+        </p>
+        <p>
+            <strong>Address</strong>
+        </p>
+        <address>
+            W.S. Badcock Corporation
+            <br>
+            P.O. Box 497
+            <br>
+            Attention: Marketing Department
+            <br>
+            Mulberry, FL 33860
+        </address>
+        <p class="georgia">How Do You Access and Update Your Personal Information?</p>
+        <p>
+            In order to keep your personal information accurate and complete, you can access or update some of it in the following ways:
+        </p>
+        <p>
+            If you have created a Badcock.com account, you can log in and update your account information, including contact, billing, and shipping information.
+        </p>
+        <p>
+            <a href="contact.aspx">Contact us</a>
+            with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect.
+        </p>
+        <p>
+            <strong>Privacy Policy Scope</strong>
+        </p>
+        <p>
+            This privacy policy applies to all current or former guest personal information.
+        </p>
+    </div>
+</div>
+</div>
+
+    
+<!-- EMAIL SIGNUP   
+	  ================================================== -->     
+		<div class="container">
+			<div class="emailSignup">
+			
+			<div class="row">
+			<div class="span5"><p><em>SIGN UP</em> <span style="color: #ffffff; font-size: 40px; padding:5px; font-family: georgia;">&amp;</span> <em>SAVE on your favorite products!</em></p></div>
+			<div class="span6">
+				<div class="input-append">
+                    <input name="ctl00$email1$Email" type="text" id="ctl00_email1_Email" placeholder="Enter Your Email Address" class="m-field btm-email-field">
+			    <p class="btn text-center">
+                <a id="ctl00_email1_LinkButton1" href="javascript:__doPostBack('ctl00$email1$LinkButton1','')" style="color:White;">Sign up »</a>
+                
+                </p>
+                    
+			    <!-- end input append--></div>     	
+				<!-- /span6--></div>
+			<!-- /row-fluid--></div>
+			<!-- end emailSignup--></div>
+		<!-- end container--></div>
+
+	 <!-- END EMAIL SIGNUP   
+	 ================================================== -->     
+    
+
+<!-- Footer ================================================== -->
+<footer class="footer">
+    <!-- Begin Container-->
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span2">
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle ">LIVING ROOM <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sofas" data-event-category="footer" data-event-action="navigation" data-event-label="Sofas">Sofas</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=loveseats" data-event-category="footer" data-event-action="navigation" data-event-label="Loveseats">Loveseats</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sectional sofas" data-event-category="footer" data-event-action="navigation" data-event-label="Sectional Sofas">Sectional Sofas</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=chaises" data-event-category="footer" data-event-action="navigation" data-event-label="Chaises">Chaises</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=Chairs" data-event-category="footer" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=recliners" data-event-category="footer" data-event-action="navigation" data-event-label="Recliners">Recliners</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sleeper sofas" data-event-category="footer" data-event-action="navigation" data-event-label="Sleeper Sofas">Sleeper Sofas</a></li><br><li class="muted">Browse Accents:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=Accent Tables|Coffee Tables|End Tables" data-event-category="footer" data-event-action="navigation" data-event-label="Accent Tables">Accent Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=ottomans" data-event-category="footer" data-event-action="navigation" data-event-label="Ottomans">Ottomans</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=media centers|TV Consoles|Entertainment Centers" data-event-category="footer" data-event-action="navigation" data-event-label="Media Centers">Media Centers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=area rugs home decor" data-event-category="footer" data-event-action="navigation" data-event-label="Area Rugs">Area Rugs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=sale|0" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=LIVINGROOM&amp;sc=collection|0" data-event-category="footer" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
+
+
+                        </ul>
+                        <a name="livingroom" class="BottomAnchor"></a>
+                    </li>
+                </ul> 	 
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">BEDROOM <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li class="muted">Browse by Size:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Twin Beds" data-event-category="footer" data-event-action="navigation" data-event-label="Twin Beds">Twin Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=full beds" data-event-category="footer" data-event-action="navigation" data-event-label="Full Beds">Full Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=queen beds" data-event-category="footer" data-event-action="navigation" data-event-label="Queen Beds">Queen Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=king beds" data-event-category="footer" data-event-action="navigation" data-event-label="King Beds">King Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=daybeds" data-event-category="footer" data-event-action="navigation" data-event-label="Daybeds">Daybeds</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=bedroom chests" data-event-category="footer" data-event-action="navigation" data-event-label="Chests">Chests</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Media Chests|Youth Media Chests" data-event-category="footer" data-event-action="navigation" data-event-label="Media Chests">Media Chests</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Dressers %26 Mirrors" data-event-category="footer" data-event-action="navigation" data-event-label="Dressers &amp; Mirrors">Dressers &amp; Mirrors</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=bedroom nightstands" data-event-category="footer" data-event-action="navigation" data-event-label="Nightstands">Nightstands</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Linens|Pillows" data-event-category="footer" data-event-action="navigation" data-event-label="Linens">Linens</a></li><br><li class="muted">Youth Bedroom</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Twin Beds|Youth Twin Beds|Youth Queen Beds|Youth Full Beds|Bunk Beds|Youth Full Beds" data-event-category="footer" data-event-action="navigation" data-event-label="Youth Bed">Youth Bed</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Bunk Beds" data-event-category="footer" data-event-action="navigation" data-event-label="Bunk Beds">Bunk Beds</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=trundle beds" data-event-category="footer" data-event-action="navigation" data-event-label="Trundle Bed">Trundle Bed</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=Youth Groups" data-event-category="footer" data-event-action="navigation" data-event-label="Shop by Collection Youth">Shop by Collection Youth</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=sale|1" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDROOMS&amp;sc=collection|1" data-event-category="footer" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
+
+
+                        </ul>
+                        <a name="bedrooms" class="BottomAnchor"></a>
+                    </li>
+                </ul> 	  
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">DINING ROOM <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li class="muted">Formal Dining:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=formal dining tables" data-event-category="footer" data-event-action="navigation" data-event-label="Tables">Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=formal dining chairs" data-event-category="footer" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=Servers" data-event-category="footer" data-event-action="navigation" data-event-label="Servers">Servers</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=china cabinets" data-event-category="footer" data-event-action="navigation" data-event-label="Cabinets">Cabinets</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=Casual Dining Barstools" data-event-category="footer" data-event-action="navigation" data-event-label="Barstools">Barstools</a></li><br><li class="muted">Casual Dining:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=casual dining tables" data-event-category="footer" data-event-action="navigation" data-event-label="Tables">Tables</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=casual dining chairs" data-event-category="footer" data-event-action="navigation" data-event-label="Chairs">Chairs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=sale|2" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=DINING&amp;sc=collection|2" data-event-category="footer" data-event-action="navigation" data-event-label="Shop By Collection">Shop By Collection</a></li>
+
+
+                        </ul>
+                        <a name="dining" class="BottomAnchor"></a>
+                    </li>
+                </ul>
+            </div>
+ 	  
+            <div class="span2">
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">MATTRESSES <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li class="muted">Browse by Size:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=twin size mattresses" data-event-category="footer" data-event-action="navigation" data-event-label="Twin Size">Twin Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=full size mattresses" data-event-category="footer" data-event-action="navigation" data-event-label="Full Size">Full Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=queen size mattresses" data-event-category="footer" data-event-action="navigation" data-event-label="Queen Size">Queen Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=king size mattresses" data-event-category="footer" data-event-action="navigation" data-event-label="King Size">King Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=crib size mattresses" data-event-category="footer" data-event-action="navigation" data-event-label="Crib Size">Crib Size</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=bunkie boards" data-event-category="footer" data-event-action="navigation" data-event-label="Bunkie Boards">Bunkie Boards</a></li><br><li class="muted">Browse by Type:</li><li class="divider"></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=adjustable bases" data-event-category="footer" data-event-action="navigation" data-event-label="Adjustable Bases">Adjustable Bases</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=Pillows" data-event-category="footer" data-event-action="navigation" data-event-label="Pillows">Pillows</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=BEDDING&amp;sc=sale|3" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                        </ul>                        
+                        <a name="bedding" class="BottomAnchor"></a>
+                    </li>
+                </ul>
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">APPLIANCES <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Refrigerators %26 Freezers" data-event-category="footer" data-event-action="navigation" data-event-label="Refrigerators &amp; Freezers">Refrigerators &amp; Freezers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Washers %26 Dryers" data-event-category="footer" data-event-action="navigation" data-event-label="Washers &amp; Dryers">Washers &amp; Dryers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Ranges %26 Microwaves" data-event-category="footer" data-event-action="navigation" data-event-label="Ranges &amp; Microwaves">Ranges &amp; Microwaves</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=dishwashers" data-event-category="footer" data-event-action="navigation" data-event-label="Dishwashers">Dishwashers</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Cookware" data-event-category="footer" data-event-action="navigation" data-event-label="Cookware">Cookware</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=Vacuums" data-event-category="footer" data-event-action="navigation" data-event-label="Vacuums">Vacuums</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=APPLIANCES&amp;sc=sale|4" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                        </ul>
+                        <a name="appliances" class="BottomAnchor"></a>
+                    </li>
+ 	            </ul> 	    	    
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">ELECTRONICS <span class="ExpandIcon">[+]</span></a></li>
+ 	    	        <li class="HidableMenu Hidden">
+                        <ul>
+                            <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Televisions" data-event-category="footer" data-event-action="navigation" data-event-label="Televisions">Televisions</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Computers %26 Tablets" data-event-category="footer" data-event-action="navigation" data-event-label="Computers &amp; Tablets">Computers &amp; Tablets</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=Home Theater|Stereos" data-event-category="footer" data-event-action="navigation" data-event-label="Home Theater">Home Theater</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=electronic accessories" data-event-category="footer" data-event-action="navigation" data-event-label="Electronic Accessories">Electronic Accessories</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ELECTRONIC&amp;sc=sale|5" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                        </ul>
+                        <a name="electronic" class="BottomAnchor"></a>
+                    </li>
+                </ul>
+            </div>
+ 	  
+            <div class="span2">
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">HOME OFFICE <span class="ExpandIcon">[+]</span></a></li> 	  		
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=desks" data-event-category="footer" data-event-action="navigation" data-event-label="Desks">Desks</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=bookcases %26 storage" data-event-category="footer" data-event-action="navigation" data-event-label="Bookcases &amp; Storage">Bookcases &amp; Storage</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=office chairs" data-event-category="footer" data-event-action="navigation" data-event-label="Office Chairs">Office Chairs</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=HOMEOFFICE&amp;sc=sale|6" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+ 	                    </ul>
+                        <a name="homeoffice" class="BottomAnchor"></a>
+                    </li> 	   
+                </ul> 	  
+                <ul class="unstyled Togglable">
+                    <li class="georgia"><a class="lr_toggle">HOME DECOR <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=accent furniture" data-event-category="footer" data-event-action="navigation" data-event-label="Accent Furniture">Accent Furniture</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Lamps %26 Lighting" data-event-category="footer" data-event-action="navigation" data-event-label="Lamps &amp; Lighting">Lamps &amp; Lighting</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Table Top Accessories" data-event-category="footer" data-event-action="navigation" data-event-label="Table Top Accessories">Table Top Accessories</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=wall decor" data-event-category="footer" data-event-action="navigation" data-event-label="Wall Decor">Wall Decor</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Silks %26 Florals" data-event-category="footer" data-event-action="navigation" data-event-label="Silks &amp; Florals">Silks &amp; Florals</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=linens" data-event-category="footer" data-event-action="navigation" data-event-label="Linens">Linens</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=Flooring" data-event-category="footer" data-event-action="navigation" data-event-label="Flooring">Flooring</a></li><br><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=ACCESSRY&amp;sc=sale|7" data-event-category="footer" data-event-action="navigation" data-event-label="Sale Items">Sale Items</a></li>
+
+
+                        </ul>
+                        <a name="accessry" class="BottomAnchor"></a>
+                    </li>
+                </ul> 	   
+                <ul class="unstyled Togglable"> 	  
+                    <li class="georgia"><a class="lr_toggle">SEASONAL <span class="ExpandIcon">[+]</span></a></li>
+                    <li class="HidableMenu Hidden">
+                        <ul>
+                            <li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Lawn %26 Garden" data-event-category="footer" data-event-action="navigation" data-event-label="Lawn &amp; Garden">Lawn &amp; Garden</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Grills" data-event-category="footer" data-event-action="navigation" data-event-label="Grills">Grills</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=air conditioners" data-event-category="footer" data-event-action="navigation" data-event-label="Air Conditioners">Air Conditioners</a></li><li><a class="track-event" href="http://badcock.com/productsearch.aspx?c=SEASONAL&amp;sc=Heaters %26 Fireplaces" data-event-category="footer" data-event-action="navigation" data-event-label="Heaters &amp; Fireplaces">Heaters &amp; Fireplaces</a></li><br>
+
+
+                        </ul>
+                        <a name="seasonal" class="BottomAnchor"></a>
+                    </li>
+                </ul>
+            </div>
+ 	 
+            <div id="ctl00_footer1_FooterBlock1">
+	<div class="span2"><ul class="unstyled">
+<li class="georgia">CUSTOMER SERVICE</li>
+<li><a class="white_link" href="/contact.aspx">Contact Us</a></li>
+<li><a class="white_link" href="/financing.aspx">Financing</a></li>
+<li><a class="white_link" href="/faq.aspx">FAQ</a></li>
+<li><a class="white_link" href="/storelocator.aspx">Store Locator</a></li>
+<li><a class="white_link" href="/storelocator.aspx?applyforcredit=1">Apply for Credit</a></li>
+<li><a class="white_link" href="/planningdelivery.aspx">Planning Your Delivery</a></li>
+</ul>
 
 
 
 
 
+            &nbsp;</div>
+<div class="span2"><ul class="unstyled">
+<li class="georgia">HELPFUL INFORMATION</li>
+<li><a class="white_link" href="/protectionplans.aspx">Protection Plans</a></li>
+<li><a class="white_link" href="/productrecalls.aspx">Product Recalls</a></li>
+<li><a class="white_link" href="/terms.aspx">Terms &amp; Conditions</a></li>
+<li><a class="white_link" href="/returnrefund.aspx">Return &amp; Refund Policy</a></li>
+<li><a class="white_link" href="/privacy.aspx">Privacy Policy</a></li>
+<li><a class="white_link" href="/promotion1.aspx">Promotions</a></li>
+</ul>
 
-</body></html>
+
+
+
+
+            &nbsp;</div>
+<div class="span2"><ul class="unstyled">
+<li class="georgia">MY TOOLS</li>
+<li><a class="white_link" href="/about.aspx">Company Overview</a></li>
+<li><a class="white_link" href="/careers.aspx">Careers</a></li>
+<li><a class="white_link" href="/ads.aspx">In-Store Ads</a></li>
+<li><a class="white_link" href="/becomeadealer.aspx">Becoming a Dealer</a></li>
+<li><a class="white_link" href="/wishlist.aspx">My Wish List</a></li>
+</ul>
+
+
+
+
+
+            &nbsp;</div>
+</div>
+ 	 
+        <!--- end row-fluid-->
+        </div>
+    <!-- end Container-->
+    </div>
+ 	
+</footer>
+
+<!-- Javascript ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.min.js"></script>
+<script type="text/javascript" src="/FKQ_UI_Assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/FKQ_UI_Assets/js/showhide.js"></script>
+
+
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.pack.js"></script>
+
+<script type="text/javascript" src="/FKQ_UI_Assets/js/jquery_start.js"></script>
+
+
+    </form>
+
+    <script>
+        $(function () {
+            $(".track-event").click(function () {
+                var category = $(this).data('event-category');
+                var action = $(this).data('event-action');
+                var label = $(this).data('event-label');
+
+
+                ga('send', 'event', category, action, label);
+            });
+        });
+    </script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
