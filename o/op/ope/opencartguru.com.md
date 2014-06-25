@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencartguru.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020163844id_/http%3A//opencartguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencartguru.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105922id_/https%3A//opencartguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
