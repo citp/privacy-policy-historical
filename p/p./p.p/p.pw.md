@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p.pw privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030164901id_/http%3A//p.pw/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p.pw privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101921id_/http%3A//p.pw/privacy) for the most accurate reproduction.*
 
 # P.pw - Privacy
 
