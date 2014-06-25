@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014005620id_/http%3A//fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142414id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
-# Fermilab Disclaimer
+# Fermilab | Fermilab Disclaimer
 
-**Fermi National Accelerator Laboratory**  
-**Fermi Research Alliance, LLC.**
+###  Fermi National Accelerator Laboratory  
+Fermi Research Alliance, LLC.
 
-**_Security Notice_**
+This web site is served by a computer system on a U.S. Government owned network. The Department of Energy and Fermilab computer security personnel monitor this web site for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this web site, you are expressly consenting to these monitoring activities.
 
-This web site is served by a computer system on a U.S. Government owned network. The Department of Energy and Fermilab computer security personnel monitor this web site for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this web site, you are expressly consenting to these monitoring activities. 
+Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation are prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 (Pub. L. 99-474) and the National Information Infrastructure Protection Act of 1996 (Pub. L. 104-294), (18 U.S.C. 1030), or other applicable criminal laws.
 
-Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation are prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 (Pub. L. 99-474) and the National Information Infrastructure Protection Act of 1996 (Pub. L. 104-294), (18 U.S.C. 1030), or other applicable criminal laws. 
-
-The public is authorized to read all pages that are not protected by password or other access controls, whether or not those pages were intended for the general public's interests. 
+The public is authorized to read all pages that are not protected by password or other access controls, whether or not those pages were intended for the general public's interests.
 
 Fermilab policy and rules for computing, including appropriate use, may be found at <http://security.fnal.gov/policies/cpolicy.html>
-
-* * *
-
-**_Privacy Notice_**  
-
 
 We collect no information about you when you visit this site except whatever you choose to send, for example through web-based forms or email, and some portion of whatever your web browser automatically sends to web sites you visit.
 
 **The information we do automatically collect and store includes the following:**
 
   * the Internet Protocol (IP) address from which you access the Internet (e.g., 192.255.238.66), whether your own or provided as a proxy by your Internet Service Provider (ISP),
-  * the date and time you access our site, 
-  * the pages you visit (recorded by the text and other files that compose that page), 
-  * the URL of the web page (if any) from which you linked directly to our site, 
+  * the date and time you access our site,
+  * the pages you visit (recorded by the text and other files that compose that page),
+  * the URL of the web page (if any) from which you linked directly to our site,
   * the total number of packets and bytes you exchange with our site, categorized by protocol header information.
 
 
@@ -38,7 +31,7 @@ We use summary statistics of the above information to help us make our site more
 
 This information is **not** shared with anyone for any commercial purpose whatsoever. It is used as a source of anonymous statistical information and to diagnose network problems and intrusion attempts.
 
-**Use of cookies:**
+ **Use of cookies:**
 
 In addition, we use Google Analytics to collect and analyze this information. Google Analytics uses a persistent cookie to track your usage of our site. This is classified as a Tier 2 usage under OMB Memorandum M-10-22. If you wish, you may opt out of Google Analytics by disabling cookies in your browser. If you choose to opt out of Google Analytics tracking, you will still have access to all of the information on this site.
 
@@ -48,12 +41,7 @@ We use the summary statistics to help us make our site more useful to visitors, 
 
 Email you send us may be forwarded as needed in order to make the best possible response. Also, you should be aware that email to some destination addresses may be archived, possibly in a way visible to the public. Unless you have reliable information to the contrary, you should never assume that email you send is confidential or ephemeral.
 
-Notwithstanding everything in this Privacy Notice, any information we can collect may be used for security purposes as explained in our Security Notice. 
-
-* * *
-
-**_Fermilab Disclaimers, Copyright Status and Site Use Notice_**  
-
+Notwithstanding everything in this Privacy Notice, any information we can collect may be used for security purposes as explained in our Security Notice.
 
 Fermi National Accelerator Laboratory (Fermilab) is operated by Fermi Research Alliance, LLC. for the U.S. Department of Energy under contract DE-AC02-07CH11359. As such the following rules apply:
 
@@ -71,10 +59,4 @@ Fermilab is not responsible for the contents of any offsite pages referenced.
 
 * * *
 
-[Go to the Fermilab home page](http://www.fnal.gov/)
-
-* * *
-
-The URL for this page is http://www.fnal.gov/pub/disclaim.html Last updated September 29, 2011
-
-[webmaster@fnal.gov](mailto:webmaster@fnal.gov)
+The URL for this page is http://www.fnal.gov/pub/disclaim.html 
