@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209075005id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115527id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
 
-# Disclosure Policy/Privacy Policy - Tricia's Treasures
+# Disclosure Policy/Privacy Policy | Tricia's Treasures
+
+### Disclosure policy/Privacy Policy
+
+### This policy is valid from 22 May 2013
 
  This blog is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest.
+
+To get your own policy, go to http://www.disclosurepolicy.org
+
+### Privacy Policy
 
 **What information do we collect?** We collect information from you when you Leave a comment or enter a giveaway.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
