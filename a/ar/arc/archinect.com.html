@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2013-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130926190722id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625130200id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://archive.org/includes/analytics.js?v=cf34f82"></script>
-<!-- 1380222432 -->
+<!-- 1403701313 -->
 
 	<title>Privacy Policy | Archinect</title>
 
@@ -123,8 +123,8 @@
      				e.preventDefault();
      				var form = this;
 
-				if( typeof( arc_remove_editor ) == 'function' ) {
-					arc_remove_editor('form.arc_ajax .editor');
+				if( typeof( arc_remove_editor_423 ) == 'function' ) {
+					arc_remove_editor_423($('form.arc_ajax .editor').attr('id'));
 				}
 				$(".CommentForm").hide();
 				arc_filterform(form);
@@ -147,15 +147,15 @@
 						}
 						$(form).replaceWith(data);
 						$(".CommentForm").slideDown();
-						if( typeof( arc_editor ) == 'function' ) {
-								arc_editor('form.arc_ajax .editor');
+						if( typeof( arc_editor_423 ) == 'function' ) {
+							arc_editor_423($('form.arc_ajax .editor').attr('id'));
 						}
 					}
 				});
 			}
 
 		function arc_filterform(form){
-			if(typeof( arc_editor ) == 'function' && $(form).find('.editor').length > 0){
+			if(typeof( arc_editor_423 ) == 'function' && $(form).find('.editor').length > 0){
 				$(form).find('.editor').each(function(editor_key, editor_value){
 					var start = '';
 					var end = '';
@@ -181,9 +181,14 @@
 							}
 						});
 					}
-					arc_remove_editor($(editor_value));
+                    arc_remove_editor_423($(editor_value).attr('id'));
 					$(editor_value).val($(body_html).html());
-					arc_editor($(editor_value));
+                    if($(editor_value).attr('name') != 'chunk_html[]') {
+                        arc_editor_423($(editor_value).attr('id'));
+                    }
+                    else {
+                        arc_editor_feature_423($(editor_value).attr('id'));
+                    }
 				});
 			}
 			return true;
@@ -193,12 +198,15 @@
 			$('form.arc_ajax').live('submit', arc_submitajax);
 
 			$('form input.Filtering').live('click', function(){
+                for(var i in CKEDITOR.instances) {
+                    CKEDITOR.instances[i].updateElement();
+                }
 				var referer = $(this);
 				var form = $(this).parents('form');
 				$(".CommentForm").hide();
 				arc_filterform(form);
 				$(this).removeClass('Filtering').die("click");
-				setTimeout(function(){  $(referer).click(); }, 500);
+                setTimeout(function(){  $(referer).click(); }, 500);
 				return false;
 			});
 		});
@@ -882,7 +890,9 @@ playback timings (ms):
   LoadShardBlock: 1719.981 (3)
   esindex: 0.007
 --></div>
-		
+				
+
+
 	  </div><!--/.Header-->
 
 
