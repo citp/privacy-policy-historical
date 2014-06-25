@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rssorange.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212154429id_/http%3A//rssorange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssorange.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122337id_/http%3A//rssorange.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of RSS Orange - | RSS Orange
+# Privacy Policy of RSS Orange
 
 At RSS Orange, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by RSS Orange and how it is used. 
 
@@ -36,4 +36,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-This privacy policy is current as of, Thu, 12 Dec 2013
+This privacy policy is current as of, Wed, 25 Jun 2014
