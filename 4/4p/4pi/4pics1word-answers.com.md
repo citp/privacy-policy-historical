@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4pics1word-answers.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101093647id_/http%3A//4pics1word-answers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4pics1word-answers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054321id_/http%3A//4pics1word-answers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 4 Pics 1 Word Answers : 4 Pics 1 Word Answers
+# Privacy Policy - 4 Pics 1 Word Answers
 
 **4pics1word-Answers.com, LLC Privacy Policy**
 
@@ -38,6 +38,7 @@ This Privacy Policy covers the treatment of user information. It does not apply 
   * Connection Speed
   * Time of Visit
   * Referring Site, Application, or Service
+  * Age, Gender, and Interests
 
 
 
@@ -66,6 +67,7 @@ Specifically:
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to 4pics1word-Answers.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to 4pics1word-Answers and/or to other sites on the Internet.
   * Google’s use of DoubleClick location data allows it and its partners to collect information derived from an end user’s GPS, wifi or cell tower data.
+  * We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
   * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/).
 
 
@@ -92,6 +94,6 @@ _Changes to the Privacy Policy:_ 4pics1word-Answers reserves the right, at our d
 
 _Security_ : 4pics1word-Answers uses all reasonable means to safeguard data against unauthorized use and theft.
 
-_Contact Us:_ If you have questions about privacy please contact us at privacy@4pics1word-Answers.com 
+_Contact Us:_ If you have questions about privacy please contact us at privacy@answersnetwork.com. 
 
 **Effective date:** January 1, 2013 ****
