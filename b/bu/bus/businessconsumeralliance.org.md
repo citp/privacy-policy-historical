@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessconsumeralliance.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123143951id_/http%3A//businessconsumeralliance.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessconsumeralliance.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075655id_/http%3A//www.businessconsumeralliance.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
