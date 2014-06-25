@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the communityos.org privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611063240id_/http%3A//www.visionlink.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityos.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054134id_/http%3A//www.visionlink.org/visionlink-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VisionLink
+# Privacy Policy | VisionLink.org
+
+**Privacy Policy**
 
 It is the policy of VisionLink to respect the privacy of individuals who visit the web site and provide comments to us.  We collect addresses, names and other identifying and contact information from users of the Site in order to provide the Service and correspond with customers about any questions relating to the Service.  Occasionally we may use this information to send users information about the Services. 
 
