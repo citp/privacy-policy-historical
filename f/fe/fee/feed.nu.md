@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feed.nu privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914172221id_/http%3A//feed.nu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feed.nu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055418id_/http%3A//feed.nu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Feed.nu - Blog to app generator
 
