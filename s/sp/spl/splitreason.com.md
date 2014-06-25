@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214053440id_/http%3A//www.splitreason.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splitreason.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052536id_/http%3A//www.splitreason.com/info/privacy) for the most accurate reproduction.*
 
 # SPLITREASON.COM - Video game themed geek t-shirts, gamer t-shirts, hats, hoodies, mugs, stickers and posters
 
