@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wrestlingfeed.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211023547id_/http%3A//wrestlingfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingfeed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071848id_/http%3A//wrestlingfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wrestlingfeed
 
-April 24, 2011 || {4,549 views} 
+April 24, 2011 || {5,553 views} 
 
 We care about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy.
 
@@ -27,7 +27,6 @@ The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 
 
 _Note: Our Privacy Policy might Update from Time to Time, it is Your Responsibility to be updated._
 
-  
   
 
   *[April 24, 2011]: 2011-04-24
