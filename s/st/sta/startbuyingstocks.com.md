@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224022204id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startbuyingstocks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053547id_/http%3A//startbuyingstocks.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Start Buying Stocks When You Are Young
 
