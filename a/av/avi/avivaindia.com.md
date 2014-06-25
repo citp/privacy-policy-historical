@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avivaindia.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813185703id_/http%3A//www.avivaindia.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avivaindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134337id_/http%3A//avivaindia.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Aviva India - Privacy Policy
 
