@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cs.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805101111id_/http%3A//webcenters.netscape.compuserve.com/menu/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112130id_/http%3A//webcenters.netscape.compuserve.com/menu/privacy.jsp) for the most accurate reproduction.*
 
 # CompuServe's Privacy Policy
 
@@ -30,4 +30,4 @@ If we decide to change our privacy policy for CompuServe.com, we will post those
 
 Questions regarding the above statement should be directed to CompuServe Interactive Services, Inc. (email: actionteam@compuserve.com) for clarification. To return to the Site, please use the "Back" button on your browser.
 
-CompuServe is committed to protecting children's online privacy. Click [here to see CompuServe's special ](https://web.archive.org/kidsprivacy)[Children's Privacy Policy.](https://web.archive.org/kidsprivacy)
+CompuServe is committed to protecting children's online privacy. Click [here to see CompuServe's special ](https://web.archive.org/menu/kids.jsp)[Children's Privacy Policy.](https://web.archive.org/menu/kids.jsp)
