@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemoneyinlife.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527183102id_/http%3A//www.makemoneyinlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyinlife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130001id_/http%3A//www.makemoneyinlife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | MakeMoneyInLife.com
 
 Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
@@ -22,7 +22,7 @@ As is true of most websites, we gather certain information automatically and sto
 Cookies  
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-Some of our [business](http://www.makemoneyinlife.com/how-to-promote-and-expand-business.html) partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]
 
 Third Party Advertisers Links
 
