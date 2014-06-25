@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029023501id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171253id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PCGameSupply.com - Privacy Policy
 
@@ -11,6 +11,9 @@ By using the Company's web sites, you acknowledge that you have read this Privac
 If, after review, you still have questions about any portion of this Privacy Policy, please contact the Company using the contact information provided at the bottom of this Privacy Policy.
 
 ## Information Collection and Use
+
+  
+
 
 ### Personal Information
 
