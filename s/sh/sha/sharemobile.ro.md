@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sharemobile.ro privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116064924id_/http%3A//sharemobile.ro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharemobile.ro privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112422id_/http%3A//sharemobile.ro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.everbuying.com/Wholesale-Cell-Phone-Accessories-b-667.html)
 
 We collect user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
