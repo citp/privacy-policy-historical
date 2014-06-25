@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226103056id_/http%3A//www.homestayin.com/privacy/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestayin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091417id_/http%3A//www.homestayin.com/privacy/privacy.do) for the most accurate reproduction.*
 
-# Homestay - Find homestay families and book homestay accommodation - HomestayIn
+# Homestay Booking Services - Homestayin's Privacy Policy
 
 ####  1\. Collection of Personal Information
 
