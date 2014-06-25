@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsfinder.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224071528id_/http%3A//wolfnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsfinder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081759id_/http%3A//wolfnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WolfNet.com
 
