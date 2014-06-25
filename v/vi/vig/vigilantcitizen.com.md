@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110164914id_/http%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091829id_/http%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Vigilant Citizen - The Vigilant Citizen
+# Privacy Policy - The Vigilant Citizen
 
 **Privacy Policy for www.vigilantcitizen.com**
 
