@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atherys.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221031023id_/http%3A//atherys.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atherys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072400id_/http%3A//atherys.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | A'therys Ascended / Atherys Ascended
+# Privacy Policy - A'therys Ascended
 
-This Privacy Policy governs the manner in which Gazamo collects, uses, maintains and discloses information collected from users of the <http://gazamo.com/> website. This privacy policy applies to the Site and all products and services offered by Gazamo.
+This Privacy Policy governs the manner in which Atherys collects, uses, maintains and discloses information collected from users of this web site. This privacy policy applies to the site and all products and services offered by Atherys.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Gazamo collects and uses Users personal information for the following purposes:  
+We collect and use personal information for the following purposes:  
 \- To personalize user experience - We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
 \- To improve our Site  
 \- We continually strive to improve our website offerings based on the information and feedback we receive from you.  
@@ -47,37 +47,6 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Google Adsense**
+**Google AdSense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-**Changes to this privacy policy**
-
-Gazamo has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Gazamo  
-<http://gazamo.com/>  
-[webmaster@gazamo.com](mailto:webmaster@gazamo.com)
-
-This document was last updated on April 14, 2012
-
-[ ](http://atherys.com/)
-
-[ ](https://web.archive.org/media/atherys-ascended-minecraft-server-trailer.6/popout)
-
-###  Welcome to the plane of A'therys, mortal. 
-
-You have arrived at an auspicious time. For seven thousand years, gods have ruled the men of the Mortal Plane, an Age of Balance unchanging across the eons. But no more. As the Second Calling dawned, the gods were called from the plane, leaving humanity to its own devices.
-
-Where in this strife will you stand? Close to the strongholds of the six nations, serving in military or economy? Perhaps a greater organization beckons to you, a guild of knowledge or shadow? Or will you forge your own path, as the Mortal Heroes once did, ignoring your fellow man and the few lingering gods in the world? These choices are but the beginning, Adventurer. Take up your mantle of sword or sorcery, sharp wit or strength immeasurable, and awaken from your slumber. A'therys awaits. 
-
-  
-[ ](http://www.dragonbyte-tech.com/ "Skin By Dragonbyte Tech ")   
-[ "DragonByte MMO" ](http://www.dragonbyte-tech.com/vbecommerce.php?do=product&productid=182) Theme by [ DragonByte Technologies ](http://www.dragonbyte-tech.com/)
+Some of the adverts that may appear on our site from time to time, may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at 
