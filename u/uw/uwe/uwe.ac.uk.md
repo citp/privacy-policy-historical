@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104152136id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwe.ac.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073539id_/http%3A//www.uwe.ac.uk/aboutus/websiteinformation/privacy) for the most accurate reproduction.*
 
 # Privacy - UWE Bristol: Website information
 
@@ -10,7 +10,7 @@ Please see the University's [Cookie Policy](https://web.archive.org/aboutus/webs
 
 ## Information you supply
 
-As you use this web site, you may be asked to provide personal information by entering it on a web page, and submitting it to the University by clicking a button or link (this includes discussion boards and feedback forms). Generally, this information will be requested to help us provide a service. However, whenever you enter such information on a web page, the University has legal obligations to you about the ways in which it may use and store the data you provide. We will treat that data in accordance with current legislation and aim to follow best Internet practice. The data will not be supplied to anyone outside the University without your consent unless required by law, and when stored in a database, this will be in accordance with the Data Protection Act 1998.
+As you use this web site, you may be asked to provide personal information by entering it on a web page, and submitting it to the University by clicking a button or link (this includes discussion boards and feedback forms). Generally, this information will be requested to help us provide a service. However, whenever you enter such information on a web page, the University has legal obligations to you about the ways in which it may use and store the data you provide. We will treat that data in accordance with current legislation and aim to follow best Internet practice. The data will not be supplied to anyone outside the University without your consent unless required by law, and when stored in a database, this will be in accordance with the Data Protection Act 1998. International student enquiries are managed by [UniQuest](http://www.uni-quest.co.uk/).
 
 ## Information we gather
 
