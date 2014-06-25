@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booklikes.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214132753id_/http%3A//booklikes.com/page/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklikes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121101id_/http%3A//booklikes.com/page/11/privacy-policy) for the most accurate reproduction.*
 
-# BookLikes • Page
+# Privacy Policy • BookLikes
 
 BookLikes ("BookLikes", "we", "us", or "our") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website available at booklikes.com (the "Site") and/or BookLikes's other domains, products, services, and/or content (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy; please read it carefully.
 
