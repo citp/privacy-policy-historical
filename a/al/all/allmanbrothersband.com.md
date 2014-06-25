@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2013-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130729040732id_/http%3A//www.allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134144id_/http%3A//www.allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
 
 # Hittin' The Web with The Allman Brothers Band :: Where Music Plus Friends Equals Family
 
