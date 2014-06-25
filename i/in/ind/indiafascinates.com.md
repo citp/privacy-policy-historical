@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111040529id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112601id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Fascinates
 
