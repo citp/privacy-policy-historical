@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227045233id_/http%3A//www.chilternrailways.co.uk/c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilternrailways.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133222id_/http%3A//chilternrailways.co.uk/c/privacy) for the most accurate reproduction.*
 
 # Chiltern Railways - Privacy & Legal
 
-This is the Privacy Policy of The Chiltern Railway Company Ltd trading as Chiltern Railways. This policy sets out our procedures regarding the collection and use of your personal information. The Chiltern Railway Company Ltd is a company registered in England and Wales whose company number is 3007939 and registered office is Marylebone Station, Great Central House, Melcombe Place, London, NW1 6JJ.
+This is the Privacy Policy of The Chiltern Railway Company Ltd trading as Chiltern Railways. This policy sets out our procedures regarding the collection and use of your personal information. The Chiltern Railway Company Ltd is a company registered in England and Wales whose company number is 3007939 and registered office is 1 Admiral Way, Doxford International Business Park, Sunderland, SR3 3XP.
 
 This Privacy Policy will inform you of the following: 
 
