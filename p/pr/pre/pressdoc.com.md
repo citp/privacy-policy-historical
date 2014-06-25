@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921064150id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053508id_/https%3A//pr.co/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - PressDoc
+# Privacy Policy - pr.co
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order or view a PressDoc.
+We collect information from you when you register on our site, place an order or view a press release.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing or billing address, phone number or credit card information.
 
@@ -53,10 +53,10 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 ## Terms of Service
 
-Please also visit our [Terms of Service](https://web.archive.org/terms_of_service) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://pressdoc.com/terms_of_service](https://web.archive.org/terms_of_service).
+Please also visit our [Terms of Service](https://web.archive.org/terms_of_service) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://pr.co/terms_of_service](https://web.archive.org/terms_of_service).
 
 ## Your Consent
 
 By using our site, you consent to our online privacy policy.
 
-For questions or concerns about our site, please contact [support@pressdoc.com](mailto:support@pressdoc.com).
+For questions or concerns about our site, please contact [support@pr.co](mailto:support@pr.co).
