@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153113id_/http%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011337id_/https%3A//www.websense.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Websense.com
 
@@ -13,13 +13,15 @@
     * [ Accolades](https://web.archive.org/content/accolades.aspx)
   * [Events](https://web.archive.org/content/events.aspx)
 
-  * [Careers](https://web.archive.org/content/careers.aspx)
-
   * [Legal](https://web.archive.org/content/legal.aspx)
 
     * [ Privacy Policy](https://web.archive.org/content/privacy-policy.aspx)
+    * [ Product Development Practices](https://web.archive.org/content/product-development-practices.aspx)
     * [ Anti-Censorship Policy](https://web.archive.org/content/censorship-policy.aspx)
     * [ Copyright and Trademarks](https://web.archive.org/content/copyright.aspx)
+    * [ Technical Support](https://web.archive.org/content/legal-technical-support.aspx)
+  * [Corporate Responsibility](https://web.archive.org/content/corporate-responsibility.aspx)
+
   * [News and Views](https://web.archive.org/content/news-and-views.aspx)
 
   * [Blocked by Websense?](https://web.archive.org/content/blocked-by-websense.aspx)
@@ -34,6 +36,9 @@
     * [ Office Directions](https://web.archive.org/content/office-directions.aspx)
   * [Websense Executive Briefing Center](https://web.archive.org/content/websense-executive-briefing-center.aspx)
 
+  * [Careers](https://web.archive.org/content/careers.aspx)
+
+    * [ Careers Listing](https://web.archive.org/content/careers-listing.aspx)
 
 
 
