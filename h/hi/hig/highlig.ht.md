@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118224205id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080252id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
 
 # Highlight | Privacy Policy
 
@@ -16,15 +16,15 @@ When you use our Service we may collect Personal Information and other informati
 
 In operating our Service, we may use a technology called "cookies" to help provide additional functionality and analyze Site usage more accurately. If you are interested, your Web browser should contain a Help section that explains how to receive notifications when you receive a new cookie and how to turn cookies off. 
 
-**A Note About Location:** Our Service is designed to help you learn more about other people nearby, and we use your location information (e.g., by using the GPS on your mobile device) to provide the functionality of our Service. If a person near you also uses our Service, their profile may be displayed on your mobile device - showing their name, profile photo(s), mutual friends, a snapshot of their approximate location, and anything else they have chosen to share. Please keep in mind that other users can see this information about you, and they may use it or disclose it to other individuals or entities outside of our control and without your knowledge. Your information may be subject to abuse, misuse, and monitoring by others, and you share this information at your own risk. 
+**A Note About Location and Context:** Our Service is designed to help you learn more about other people nearby, and we use your location and contextual information (e.g., by using the GPS, Bluetooth, and other sensors on your mobile device) to provide the functionality of our Service. If a person near you also uses our Service, their profile may be displayed on your mobile device - showing their name, profile photo(s), mutual friends, a snapshot of their approximate location, and anything else they have agreed to share. Please keep in mind that other users can see this information about you, and they may use it or disclose it to other individuals or entities outside of our control and without your knowledge. Your information may be subject to abuse, misuse, and monitoring by others, and you share this information at your own risk. 
 
-You may also choose to connect our Service to your other social network profiles, such as foursquare and Twitter. If you choose to connect any additional profiles, we may at times use your check-in data and your post information to identify your location. If you do not wish to share information from foursquare and Twitter, you may disconnect these profiles at any time. 
+You may also choose to connect our Service to your other social network profiles providers, such as foursquare, Instagram, LinkedIn, and Twitter. If you choose to connect any additional profiles, we may at times use your check-in data and your post information to identify your location. If you do not wish to share information from such services, you may disconnect these profiles at any time. 
 
 ## How do we use your information?
 
 We use the Personal Information you provide in a manner that is consistent with this Privacy Policy. For example, we may use it: 
 
-  * to provide the core functionality of the Service (e.g., displaying your profile to people nearby);
+  * to provide the core functionality of the Service (e.g., displaying your profile, location, and contextual information to people nearby and providing our users with personalized notifications about others nearby);
   * to monitor your use of the Service and improve the user experience;
   * to respond to your comments and inquiries;
   * to communicate with you regarding the Service; and
@@ -38,7 +38,7 @@ Highlight cares deeply about your privacy and, without your prior consent, we wi
 
 ## Your control
 
-You can use the Site without providing any Personal Information. If you choose not to provide any Personal Information, you may not be able to use certain parts of the Service. For example, to use the Highlight mobile application, you currently need to log in with your Facebook account. 
+You can use the Site without providing any Personal Information. If you choose not to provide any Personal Information, you may not be able to use certain parts of the Service. For example, to use the Highlight mobile application, you currently need to log in with your Facebook or (in some cases) LinkedIn account.. 
 
 ## Exclusions
 
@@ -54,11 +54,11 @@ This Service may contain links to other websites not operated or controlled by H
 
 ## Third party login
 
-The Service requires you to sign in with your Facebook account to access logged in features. When you log in using Facebook, we will collect relevant information necessary to enable the Service to access Facebook, and Facebook will provide us with access to certain information that you have provided to it. We will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Facebook uses, stores and discloses your information is governed by its policies, and Highlight shall have no liability or responsibility for its privacy practices or other actions. 
+The Service requires you to sign in with Facebook or (in some cases) LinkedIn to access logged in features. When you log in using your Facebook or LinkedIn account, we will collect relevant information necessary to enable the Service to access this third party account, and the third party will provide us with access to certain information that you have provided to it. We will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which third parties like Facebook and LinkedIn use, store and disclose your information is governed by their policies, and Highlight shall have no liability or responsibility for its privacy practices or other actions. 
 
-To help you quickly set up a profile, the Service imports some of your data from Facebook and adds it to your Highlight profile, including your job title, company, and your Facebook profile picture(s). These data may be visible to other Highlight users, regardless of whether those users are your friends on Facebook. You can edit certain parts of your Highlight profile in the settings.
+To help you quickly set up a profile, the Service imports some of your data from third party services like Facebook and LinkedIn and adds it to your Highlight profile, including your job title, company, and your profile picture(s) from these third party services. These data may be visible to other Highlight users, regardless of whether those users are your friends on the third party service. You can edit certain parts of your Highlight profile in the settings.
 
-You may at times have the option of posting your Highlight activities to other social networking service like Facebook or Twitter. You acknowledge that if you choose to use this feature, your friends, followers and subscribers on any social networking services you have enabled will be able to view such activity. 
+You also acknowledge that other Highlight users may “highlight” you or mention you in their posts, notes, and/or encounter summaries, and that such mentions may be shared on a third party service like Facebook. 
 
 You also acknowledge that other Highlight users may “highlight” you or mention you in their posts, notes, and/or encounter summaries, and that such mentions may be shared on Facebook. 
 
@@ -74,6 +74,6 @@ We may occasionally modify this Privacy Policy. When we do, we will let you know
 
 Again, if you have feedback, comments, or questions about this Privacy Policy you can contact us anytime at [privacy@highlig.ht](mailto:privacy@highlig.ht). To keep your Personal Information accurate, complete and current, please contact us, and we will take reasonable steps to update or correct the Personal Information in our possession that you have previously provided.
 
-Thanks for trying out Highlight! 
+Thanks for using Highlight! 
 
-Last updated on November 20, 2013. 
+Last updated on December 12, 2013. 
