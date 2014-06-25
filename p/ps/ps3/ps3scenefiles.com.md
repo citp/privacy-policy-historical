@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the ps3scenefiles.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805175601id_/http%3A//www.ps3scenefiles.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3scenefiles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083025id_/http%3A//www.ps3scenefiles.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PS3SceneFiles
+
+  
+
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
