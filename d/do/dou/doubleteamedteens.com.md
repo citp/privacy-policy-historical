@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the doubleteamedteens.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504062549id_/http%3A//www.doubleteamedteens.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleteamedteens.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094610id_/http%3A//doubleteamedteens.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
