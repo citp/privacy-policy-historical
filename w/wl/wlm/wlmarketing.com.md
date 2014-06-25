@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wlmarketing.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010041118id_/http%3A//www.wlmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlmarketing.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044817id_/http%3A//www.wlmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
-# WL Marketing - Privacy Policy
+# Privacy Policy and Terms of Service
 
 **What information do we collect?**
 
@@ -30,6 +30,18 @@ The email address you provide for order processing, will be used to send you inf
 **Our Services**
 
 With all submissions that we make to promote your website, we do our best to ensure that everything is optimized according to our past experiences and successes. Because each website is unique, though, absolute results cannot be guaranteed.
+
+**Awaiting Client Action Orders And Credits**
+
+From time to time, an order may be put in an 'awaiting client action' state either by you (when you 'hold' the order), or by a member of our staff if certain further information is required to process the order (non-working URL, etc.) 
+
+We will give reminders on a regular basis for such orders. As resources must be allocated to support these orders, if orders are left in the 'awaiting client state' for 3 months without further action, they will be considered completed. 
+
+Credits in the system may be set to expire if there has been no activity for 9 months.
+
+**Ordering**
+
+By ordering, you agree that the credit card or other payment method you are using belongs to you, or you have explicit permission to use it. In the event of a chargeback or dispute, you, the person placing the order and agreeing to this terms of service, has sole responsibility for the charges incurred.
 
 **Do we use cookies?**
 
