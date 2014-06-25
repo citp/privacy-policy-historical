@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parfois.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119032627id_/http%3A//www.parfois.com/index.php%3Fpais%3Duk%26id%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parfois.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132025id_/http%3A//www.parfois.com/index.php%3Fpais%3Duk%26id%3D29) for the most accurate reproduction.*
 
 # Privacy Policy Parfois
 
@@ -71,5 +71,5 @@ Parfois will occasionally update this Statement of Privacy to reflect company an
 
 ## Contact Information
 
-Parfois welcomes your comments regarding this Statement of Privacy. If you believe that Parfois has not adhered to this Statement, please [contact us](https://web.archive.org/web/20131119032627id_/http%3A//index.php?id=27). We will take into consideration your suggestions to promptly determine and try to solve the problem.  
+Parfois welcomes your comments regarding this Statement of Privacy. If you believe that Parfois has not adhered to this Statement, please [contact us](https://web.archive.org/web/20140625132025id_/http%3A//index.php?id=27). We will take into consideration your suggestions to promptly determine and try to solve the problem.  
 
