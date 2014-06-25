@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008155607id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102243id_/http%3A//foreclosureindia.com/privacy.html) for the most accurate reproduction.*
 
-# ForeclosureIndia.com | Listings Foreclosure Homes | Foreclosures for Sale | Bank Foreclosures | Hyderabad, Vishakapatnam, Vijayawada and 23 other cities
-
-  
-
-
-## Privacy Policy
+# ForeclosureIndia.com | Privacy Policy
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the 4Closure website (ForeclosureIndia.com) work and to keep it safe.
 
@@ -42,6 +37,3 @@ We use a number of mechanisms (encryption, passwords, physical security) to prot
 Users who use any of the features on ForeclosureIndia.com agree and accept that they have been fully informed by ForeclosureIndia.com that the use of features may lead to publication of any personal information posted by them while using any specific feature on ForeclosureIndia.com. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves.
 
 We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next visit or after 7 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to support@foreclosureindia.com
-
-  
-
