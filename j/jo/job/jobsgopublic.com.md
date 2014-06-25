@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022231336id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130118id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
 
 # cookies | jobsgopublic - Public Sector Jobs and Careers
 
@@ -49,6 +49,8 @@ Our sites use a cookie called _aspire_session or _RMS_Front_End_session so our s
 _Performance cookies_ – These are cookies we set in order to give us an understanding of our users' movements and activities so that we can improve our service and your user experience. For example, we often use Google Analytics to collect and monitor information about how our sites are being used. Google Analytics logs selected information about the pages that you visit, how long you are on the site, and how you found us . The cookies that Google set on our site do not collect or store any of your personal information (e.g. your name or address). We do not allow Google to use or share our analytics data.
 
 _Advertising cookies_ \- We use services like Google Adserver to be able to provide advertising tailored around your interests, for example in identifying the most relevant job adverts. This service uses cookies to gather information about the adverts that you click on in order to present you with the most relevant information, as well as to track an advert's performance. As with Google Analytics, no personal information is collect or stored so these cookies cannot be used to identify you.
+
+Jobsgopublic uses retargeting cookies to provide you with personalised adverts when you visit other selected websites.
 
 ## Are cookies dangerous?
 
