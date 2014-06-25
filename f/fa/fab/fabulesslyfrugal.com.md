@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222043258id_/http%3A//fabulesslyfrugal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulesslyfrugal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112239id_/http%3A//fabulesslyfrugal.com/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fabulessly Frugal: A Coupon Blog sharing Amazon Deals, Printable Coupons, DIY, How to Extreme Coupon, and Make Ahead Meals
+# Privacy Policy | Fabulessly Frugal
 
 Privacy Policy for www.fabulesslyfrugal.com
 
