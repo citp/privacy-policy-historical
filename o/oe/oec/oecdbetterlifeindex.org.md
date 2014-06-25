@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oecdbetterlifeindex.org privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115064325id_/http%3A//www.oecdbetterlifeindex.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oecdbetterlifeindex.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113400id_/http%3A//www.oecdbetterlifeindex.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # OECD Better Life Index
 
