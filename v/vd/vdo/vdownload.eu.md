@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdownload.eu privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213063626id_/http%3A//vdownload.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdownload.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625195452id_/http%3A//vdownload.eu/privacy) for the most accurate reproduction.*
 
 # vDownload.eu
 
@@ -32,6 +32,6 @@ AdCash, as a third party vendor, uses cookies to serve ads on your site.
 
 AdCash's use of the cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting AdCash's ad and content network privacy policy by clicking the link mentioned earlier.
+Users may opt out of the use of the cookie by visiting AdCash's privacy policy by clicking the link mentioned earlier.
 
 LiveInternet.ru also uses cookies to provide us with traffic statistics to help us improve our website.
