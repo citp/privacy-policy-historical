@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215151530id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miusoccer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090017id_/http%3A//miusoccer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | miusoccer.com
 
@@ -59,3 +59,6 @@ Changes to our Privacy Policy
 If we decide to change our privacy policy, we will post those changes on this page.
 
 http://miusoccer.com/privacy
+
+  
+
