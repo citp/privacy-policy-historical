@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archeagesource.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815055315id_/http%3A//archeagesource.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archeagesource.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063804id_/http%3A//archeagesource.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ArcheAge Source
 
