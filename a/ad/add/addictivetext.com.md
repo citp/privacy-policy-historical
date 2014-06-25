@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictivetext.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818145323id_/http%3A//antification.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictivetext.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074401id_/http%3A//antification.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Antification
 
@@ -11,6 +11,8 @@ We will not distribute or share your information with outside companies except t
 If you give us permission to email you, when we do it’s about something we think is great (not just good). However, you can unsubscribe at any time by clicking the link stating such at the bottom of any of our emails. We don’t want to be sending things you don’t want any more than we want to get offers for prescription drugs from Quebec. We don’t knowingly collect personal data from children. Not only is that the law in most nations, most of them don’t even invest in financial publications or business tools anyway.
 
 Our website improves based on analytical usage data. This non-personal data collected via cookies or other methods helps us understand what sections of our site people spend the most time on and what areas are the most useful to our visitors and clients. Our website does provide the opportunity for visitors and clients to use a secure transmission method to send information. All order forms require secure transmission.
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and use that information to provide measurement services and target ads. The use of cookies by third parties can be disabled in your browser settings. You can opt out of customized ads in Facebook [on this page](http://www.facebook.com/ads/website_custom_audiences/).
 
 We have implemented security policies, rules and technical measures to protect the personal data entered during the order process from: unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, and accidental loss. All our employees and data and payment processors who have access to, or are associated with, the processing of personal data are contractually obliged to respect the confidentiality of our visitors’ personal data and are subject to monitoring.
 
