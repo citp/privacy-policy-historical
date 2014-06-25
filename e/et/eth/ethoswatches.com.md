@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904183419id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethoswatches.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234046id_/http%3A//www.ethoswatches.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,12 +10,11 @@ Note: the privacy practices set forth in this privacy policy are for this websit
 
 Collection of Information
 
-  
 We may collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfil Your specific request, unless You give us permission to use it in another manner, for example to add You to one of our mailing lists.
 
 Cookie/Tracking Technology
 
-The website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if You previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+The website may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if You previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. By collecting data based on user demographics including age and gender, the website does not utilize such information to individually identify a visitor. The data gathered is only referred to for providing better offers based on group segmentation and improving the user experience and interface.
 
 Distribution of Information
 
