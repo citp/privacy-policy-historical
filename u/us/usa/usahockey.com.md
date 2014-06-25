@@ -1,84 +1,103 @@
-> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216000806id_/http%3A//www.usahockey.com/page/show/966221-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usahockey.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625200154id_/http%3A//www.usahockey.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Organization | About | USA Hockey National
+# Privacy Policy | Legal | Sport Ngin
 
-This Privacy Statement governs your use of usahockey.com, shopusahockey.com, and usahockeyregistration.com.  These Web sites (these “Sites”) are owned and operated by USA Hockey, Inc. (“USAH,” “we” or “us”) or by third party vendors on behalf of USAH.  USAH is the national governing body for the sport of amateur hockey in the United States.
+Your privacy is very important to us. To better protect your privacy, we provide this notice explaining our online information practices on how your information is collected and used at this Sport Ngin site (the “Policy”).
 
-This Online Privacy Statement.  We are committed to respecting the personal privacy of the individuals who use our Sites.  This online Privacy Statement  (this “Privacy Statement”) describes our current policies and practices with regard to the personal information we collect through our Sites.  The term “personal information” means individually identifiable information about an individual collected through our Sites, including without limitation, the name, age, telephone number, e-mail address, mailing address, or other information of that individual provided through any of our Sites.
+Before you submit any information on this site, please read this Policy for an explanation of how we will treat your personal information. By using this Sport Ngin site you consent to the collection and use of your personal information as outlined in this Policy.
 
-Children Under 13.  We recognize the need to provide additional privacy protections for children who visit our Sites. To read about our privacy statement regarding protections for children who are under 13, click here. We do not permit individuals under the age of 13 to place orders on our Sites or to engage in certain activities on our Sites without the permission of a parent or guardian.
+Your use of any part of any Sport Ngin site indicates your acceptance of this Policy and of the collection and use of your personal information in accordance with this Policy.
 
-Terms of Use. This Privacy Statement is part of the Terms of Use for our Sites.  Please be sure to read the Terms of Use.  By using our Sites, you agree to be bound by the Terms of Use.  If you do not agree to the Terms of Use, you must not use our Sites.
+Sport Ngin sites do not knowingly solicit any personally identifiable information from children under the age of 13. In addition, Sport Ngin sites do not knowingly obtain, retain or use information from anyone who indicates that they are under the age of 13. Accordingly, children under the age of 13 may be restricted from participating in certain features and transactions on Sport Ngin sites. All Sport Ngin Websites strictly adhere to Children's Online Privacy Protection Act of 1998 or COPPA.
 
-Your Consent.  By using any of our Sites, you consent to the collection, use and disclosure of your personal information as described in this Privacy Statement.   If you do not consent to the terms of this Privacy Statement, you must not use our Sites.
+### Table of Contents
 
-Changes to this Privacy Statement.  This Privacy Statement describes our current policies and practices regarding personal information collected through our Sites.  We reserve the right to update or modify this Privacy Statement at any time without prior notice.  We will do so by posting an updated or modified version of this Privacy Statement on our Sites.  Your use of any of our Sites following any such change constitutes your agreement that personal information collected from or about you through our Sites after the revised Privacy Statement is posted will be subject to the terms of the revised Privacy Statement.  For this reason, we encourage you to review this Privacy Statement regularly.
+  1. #### The Information We Collect
 
-You may access the current version of this Privacy Statement by clicking on the button marked “Privacy Statement.”
+  2. #### How We Use The Information
 
-This Privacy Statement was last revised on August 27, 2007.
+  3. #### With Whom The Information May Be Shared
 
-What Personal Information Is Collected Through Our Sites. We collect the personal information you supply when you use our Sites, for example, the information you provide when you register for membership in USAH or register for an event on any of our Sites, place an order in our online store at ShopUSAHockey.com (our “Store”), request an e-mail newsletter, ask a question, enter a contest or sweepstakes or complete a survey.  This information may include your name, your address, your e-mail address and any other personal or preference information you share with us.
+  4. #### Collection Of Information By Third-Party Sites And Sponsors
 
-How We Use Personal Information.  We use your personal information to provide the information, offerings and services you request, confirm your membership to USAH or your registration to an event, or to fill orders you place in our Store.  For example, we use your e-mail address to respond to your comments and questions or to send e-mail newsletters.  We may use your personal information to personalize our Sites to meet your specific needs.
+  5. #### Third Party Advertising and Sites
 
-We also use personal information collected through our Sites to improve the content and functionality of our Sites, to better understand our visitors and members, to improve our offerings and services, and to market our events, offerings and services to our visitors and members.  In addition, we use personal information to contact you with offers and information about events, offerings and services from other organizations that we believe will be of interest to you.  If you would prefer that we not contact you for such purposes, you may indicate this preference by sending an email to unsubscribe-all@usahockey.org or by writing us at
+  6. #### Right to Deliver and Send Commercial Messages
 
-USA Hockey, Inc.,  
-1775 Bob Johnson Drive  
-Colorado Springs, CO 80906  
-Attn.: MIS Department.
+  7. #### Cookies
 
-We will use reasonable efforts to honor such requests.  You must understand, however, that even if you “opt-out,” you may still receive communications from us, for example, if we receive your contact information from another source or if we initiated the communication before we received your “opt-out” request.
+  8. #### Our Commitment To Security
 
-Disclosure of Personal Information.  We share personal information collected through our Sites with our affiliated organizations (such as other hockey associations, leagues or teams) and other organizations that are part of our affiliates, who may use this information in ways similar to how we use this information.   In addition, we reserve the right to share personal information with local hockey organizations, including without limitation those described below under “Links to Local Hockey Organization Sites.”  We also share personal information collected through our Sites with selected third party business partners, who use the information to provide special opportunities and offers to you.
+  9. #### How To Contact Us
 
-If you would prefer that we not share your personal information with our affiliated organizations or business partners, you may indicate this preference by sending an email to
+  10. #### Online Registration
 
-unsubscribe-all@usahockey.org
+  11. #### Updates
 
-or by writing us at;
 
-USA Hockey, Inc.,  
-1775 Bob Johnson Drive  
-Colorado Springs, CO 80906  
-Attn.: Member Services.
 
-We will use reasonable efforts to honor such requests.  You must understand, however, that even if you “opt-out,” you may still receive communications from our affiliated organizations or business partners, for example, if they received your contact information from another source or if they initiated the communication before we received your “opt-out” request.
 
-We share personal information collected through our Sites with third party vendors who act for us or on our behalf, for example, to help us process or fill your orders, run promotions or provide other support services.  Our affiliates and our business partners may also share personal information with vendors who provide support services to them.  These vendors need information about you in order to perform their functions.  These vendors are not authorized to use the information we share with them (or that our affiliates and business partners share with them) for any purpose other than to provide services to us, our affiliates or our business partners.   
+### Privacy Policy
 
-USAH has engaged certain third party service providers to perform services on behalf of USAH in connection with the management and operation of certain features of our Sites (including without limitation operation of our Store and our Sites’ registration functionality). As such, in connection with the Store, TMP will have access to and will use the personally identifiable information you provide in connection with your purchases on the Store, subject to the terms of USAH’s agreement with TMP. TMP may use your data for payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis.
+  1. #### The Information We Collect
 
-In addition, there may be some other, limited circumstances in which we may share or transfer personal information in our databases to a third party, for example, to comply with a legal requirement, for the administration of justice, to protect the security of our systems or service, or in the event of a merger, reorganization, dissolution or similar event.
+On this site you can register for a user account, order products, vote in polls or otherwise express an opinion, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, and fax number.
 
-Other Information Collected Through Our Sites. We use technology that tells us how visitors use our Sites, for example, which pages they view, which links they use and which search terms they input.  This information is called “click-stream data.”  Click-stream data helps us determine what is important to you and what is not.  It helps us decide what content and features to add and what to discard.  It also helps us determine whether our Site is easy to use or whether we need to redesign certain pages and links.  Click-stream data does not identify you personally.
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 98, Windows 2000 or Mac OS) and the domain name of your Internet service provider.
 
-We also use technology to collect the following information and other information of a similar nature:  the name of your Internet service provider; your IP address; your operating system (Windows, Macintosh, Unix, and so on); and your browser type (Netscape, Internet Explorer, and so on).  We use this information to compile statistics about the technology used by our visitors.  These statistics help us improve our Site and make it more compatible with the technology used by our visitors.
+  2. #### How We Use the Information
 
-Cookies. Our Sites uses certain software technology known as “cookies.”  Cookies are small text files that a web site places on a visitor’s computer browser to store certain information about the visitor, such as a visitor’s preferences.  Some web browsers provide you with the ability to turn off or refuse cookies.  However, if you turn off cookies or refuse cookies, some of the features of our Sites may not function properly.
+Information is stored securely in an encrypted database and is accessible only by the registered and a licensed member of your organization’s governing board. The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities.
 
-Links To Local Hockey Organization Web Pages Hosted On Our Sites. Our Site located at usahockey.com contains web pages that are controlled (at least in part) by local hockey organizations (e.g., local hockey associations, leagues or teams) that are affiliated with, but not controlled by, USAH.  Although USAH provides the tools and space for these local hockey organizations to post content on their web pages, subject to certain guidelines, these local organizations (and not USAH) control the content they post on or information they collect through their web pages.  USAH expressly disclaims any responsibility for the data practices of these local organizations or their web pages.  You should contact these organizations directly about any content posted on their web pages or to learn how they collect and use information collected through their web pages.
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage. We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-Links to Other Web Sites.  This privacy policy applies only to our Sites. These Sites contain links to other web sites, including those of advertisers and sponsors.  These other web sites have their own policies regarding privacy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information about yourself.  In addition, you may have linked to one of our Sites through another site. For example, in certain cases you may have linked to one of our Sites through banner advertising on another site.  In such cases, the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-Security To protect your credit card number and other personal information when you shop in our Store, we use VeriSign SSL encryption technology. Your credit card number is digitally scrambled to ensure that is not read by unauthorized third parties. If you're still concerned about internet security, please contact our customer service department to submit your order by telephone or fax. Although we will use all reasonable efforts to safeguard the confidentiality of any visitor information collected on our Sites, USAH and its vendors will have no liability for disclosure of any visitor information obtained due to errors in transmission or the unauthorized acts of third parties.
+  3. #### With Whom the Information May Be Shared.
 
-Transfer of Data Abroad. If you are visiting our Sites from a country other than the countries in which our servers are located (currently the United States), the placing of an order in our Store, or other various communications may necessarily result in the transfer of information across international boundaries. By visiting our Sites and communicating electronically with us, you consent to the processing and transfer of your data as set out in this Privacy Policy.
+Your information also may be provided to an entity that acquires all or any part of any of the Sport Ngin companies’ assets or in a merger or acquisition. Further, we may disclose information to law enforcement or other government officials and if asked to disclose it by subpoena, court order or other legal process.
 
-Accessing and Updating Your Information. You always have the opportunity to review and change the information you provide to us by logging into any of our Sites and entering in the new information yourself. You can edit your name, contact information and preferences by logging into the applicable account management section of usahockey.com or shopusahockey.com, however, on usahockeyregistration.com you can only update your e–mail address.
+While Sport Ngin is careful in choosing its sponsors and advertisers, we are only responsible for content on our own sites and for use of your personally identifiable information by us. All third parties associated with Sport Ngin (including, but not limited to, advertisers, sponsors and other Internet sites) with whom we share information have independent privacy and data collection practices. We encourage you to read the privacy policy of every website that you visit. Sport Ngin can not control this collection of information and cannot be responsible or liable for the policies or actions of third parties.
 
-You may ask to have your account information removed from our active databases; however, because we keep track of past purchases, we cannot delete information associated with past purchases. Also, as a security measure we "back up" the data stored on our systems, and such prior information cannot be completely removed from our databases. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+  4. #### Collection of Information by Third Party Sites and Sponsors
 
-Questions About This Privacy Statement.
+Our sites contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. We may sometimes offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors/entrants voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the third party sponsors' use of this information.
 
-If you have any questions about this Privacy Statement or concerns about the way we process your personal information, please contact us at
+  5. #### Third Party Advertising and Sites
 
-USA Hockey, Inc.,  
-1775 Bob Johnson Drive  
-Colorado Springs, CO 80906  
-Attn.: Internet Communications.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-or (800) 566-3288  
-or fax at (719) 538-1160  
-or comments@usahockey.org.
+The Network Advertising Initiative (NAI) is a self-regulatory initiative tasked with helping advertisers and publishers develop and maintain industry standards and best practices, and as part of this has developed an opt-out mechanism for website visitors who do not wish to be tracked by several advertisers.
+
+  6. #### Right to Deliver and Send Commercial Messages
+
+You agree to receive commercial messages from Sport Ngin or any third party chosen by Sport Ngin (thereafter Sport Ngin Commercial partners) on any device you use to access and operate Sport Ngin products and services and which may be based on characteristics derived from information explicitly or implicitly provided by you, such as your location, to Sport Ngin and which will be treated according to our Privacy Policy.
+
+Commercial messages are messages sent on your Sport Ngin account or email address for commercial purposes for Sport Ngin or Sport Ngin Commercial partners’ products and services. Commercial messages sent bySport Ngin or Sport Ngin Commercial partners to your email address will include a one click opt-out option.
+
+  7. #### Cookies
+
+To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. These Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering with us.
+
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
+
+  8. #### Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+  9. #### How to Contact Us
+
+If you have any questions or concerns about the Sport Ngin online policy for this site or its implementation you may contact us at 612-379-1030 or at support@ngin.com.
+
+  10. #### Online Registration
+
+When asked to submit personal billing information, it is important to know that this information is used only for payment processing verification. Sport Ngin does not distribute sell or otherwise exploit this information in any way. For security reasons complete credit card numbers are never saved or stored.
+
+  11. #### Updates
+
+From time to time, we may update this privacy notice. We will note the date the Policy was changed at either the top or bottom of the Policy, to keep you informed of when updates occur. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
+
+
+
+
+LAST UPDATED: January 23, 2013 © Sport Ngin, 2014. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
