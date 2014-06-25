@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227032710id_/http%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenefits.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234910id_/http%3A//www.zenefits.com/privacy) for the most accurate reproduction.*
 
 # Zenefits
 
@@ -74,7 +74,8 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 [support@Zenefits.com](mailto:support@Zenefits.com)
 
-Zenefits Insurance Services  
-650 Church St #3  
+Zenefits FTW Insurance Services  
+303 Second Street  
+Suite 450, North Tower  
 San Francisco, CA  
-94114 
+94107 
