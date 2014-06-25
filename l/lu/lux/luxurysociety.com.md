@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011202519id_/http%3A//luxurysociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurysociety.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053603id_/http%3A//luxurysociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Luxury Society - Privacy Policy
 
-This Website is edited by LUXURY SOCIETY SAS, a French Company with limited liability incorporated under n° 507 619 823 RCS Paris and hosted by WOPATA, 73, rue Leyteire, 33000 Bordeaux FRANCE.
+This Website is edited by Digital Luxury Group, DLG SA, a Swiss Company incorporated under n° CHE-101.525.197 in Geneva and hosted by WOPATA, 73, rue Leyteire, 33000 Bordeaux FRANCE.
 
-As LUXURY SOCIETY is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) or alternatively you can contact us at: LUXURY SOCIETY - Privacy Policy at 231 rue Saint Honoré 75001 Paris FRANCE.
+As LUXURY SOCIETY is a community that is all about trust we feel it is important to share our privacy policy with you. If you have any questions about this policy we can be reached by email at [privacy@luxurysociety.com](mailto:privacy@luxurysociety.com) or alternatively you can contact us at: LUXURY SOCIETY - Privacy Policy, Digital Luxury Group, DLG SA at 7 avenue Krieg, 1208 Geneva, Switzerland.
 
 The Luxury Society Site contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
 
