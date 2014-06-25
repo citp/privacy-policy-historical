@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraroeder.com privacy policy that was archived on 2012-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120204224416id_/http%3A//www.lauraroeder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraroeder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082827id_/http%3A//lkrsocialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Social Media Marketing Made Easy | Facebook & Twitter for Business
 
@@ -41,6 +41,6 @@ If you have questions concerning your account, please visit our contact page. If
 Our address is:
 
 Roeder Studios, Inc.  
-3435 Ocean Park Bl #107 PMB 296  
-Santa Monica, California 90405  
+5524 Bee Caves Road, #J6  
+Austin, Texas 78746  
 United States
