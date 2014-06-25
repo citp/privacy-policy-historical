@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230033824id_/http%3A//www.myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083734id_/https%3A//myfooddiary.com/Home/Privacy) for the most accurate reproduction.*
 
 # MyFoodDiary Privacy Policy
 
