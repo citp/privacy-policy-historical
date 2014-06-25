@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockwatch.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207135517id_/http%3A//www.stockwatch.com/utilit/utilit_privac.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockwatch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235103id_/http%3A//www.stockwatch.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# Stockwatch > Utility > Disclaimer
+# Stockwatch
 
 ## General Information
 
