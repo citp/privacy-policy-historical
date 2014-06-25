@@ -1,24 +1,53 @@
-> *The following text is extracted and transformed from the picswalls.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120043827id_/http%3A//www.picswalls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picswalls.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103045id_/http%3A//www.picswalls.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Wallpapers
+# Privacy Policy - PicsWalls.com
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+The owners and operators of picswalls.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners. 
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+**User Accounts**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+Membership is an optional part of the picswalls.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments. 
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, picswalls.com has no access or control over these cookies that may be used by third party advertisers. 
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password. 
 
-**Collection of Personal Information**  
-When visiting picswalls.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+**Personally Identified Data**
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian. 
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material. 
 
-If you have any questions regarding the privacy policy of picswalls.com then you may contact us at PicsWallscom@yahoo.com 
+**Server Logs**
+
+Like most web sites, picswalls.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics. 
+
+**Cookies**
+
+While browsing picswalls.com, a small number of text files referred to as "cookies" may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of picswalls.com will function as expected without cookies enabled. 
+
+**Third-Party Advertisers**
+
+In order to cover the costs of providing wallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by picswalls.com's privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date. 
+
+_Google Adsense:_
+
+We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+**Sharing/Selling of Data**
+
+picswalls.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
+
+**Account Cancellation**
+
+Upon request, your picswalls.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
+
+**Data Retention**
+
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.
+
+For any problems or questions don't hesitate to [contact us](http://www.picswalls.com/page/contact/). 
