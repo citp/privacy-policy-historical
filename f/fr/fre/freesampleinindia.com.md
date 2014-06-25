@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freesampleinindia.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213152854id_/http%3A//freesampleinindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesampleinindia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063213id_/http%3A//freesampleinindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Samples | Free Stuff India | Free Deals | Freebies
+# Privacy Policy
+
+### Privacy Policy
 
 This privacy policy applies to the use of FreeSampleinIndia.com.
 
@@ -47,3 +49,5 @@ We follow accepted industry standards to protect any personal information you ha
 **Legal Disclaimer**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+
+[](http://www.hupso.com/share/)
