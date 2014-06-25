@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817142535id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010916id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - software for surveys
 
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20130817142535id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20140626010916id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia newsletter #3](https://web.archive.org/news/askia-newsletter-062013)
+#### [Introducing a new user area!](https://web.archive.org/news/askia-zendesk-help-centre)
 
-We’ve finished analysing the results of our User **Survey** and want to share them with you. We’re also going to be at the Insight **show** in a couple of weeks and we’ve got some people we’d like you to meet. And finally, we’ve been building new controls for askia **face** for iPad and Android so that you can show more engaging **screens** using Javascript and HTML. 
+As part of our continued effort to keep you up to date with Askia’s technical information & documentation we have launched the [Askia Help Centre](https://support.askia.com/hc/en-us) which spans all of our apps and includes articles and resources to help in your day-to-day management of Askia software. 
