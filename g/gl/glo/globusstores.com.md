@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824090212id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052235id_/http%3A//www.globusstores.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globus Stores Pvt. Ltd.
 
@@ -43,6 +43,7 @@ While you use our website, we may have automatic access to (receive and collect)
 While you are transacting on our website **personally identifiable information** collected about you may include:
 
   
+
 
   * First and last name. 
   * Email addresses. 
@@ -170,11 +171,13 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 Cookies
 
-  1. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about how you browse our website. 
+    1. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about how you browse our website. 
+
   
 
-  2. For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. 
-  3. Cookies help us to improve our Website and to deliver a better and more customized service. They enable us: 
+
+  1. For the same reason, we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. 
+  2. Cookies help us to improve our Website and to deliver a better and more customized service. They enable us:
     1. To estimate usage numbers and patterns. 
     2. To store information about your preferences, and so allow us to customize our Website according to your individual interests. 
     3. To speed up your searches. 
@@ -188,7 +191,7 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. www.globus.in reserves the right to send you certain service related communication, considered to be a part of your www.globus.in account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
 
-We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in “My Account”. If you still face an issue then you may contact us at **022 30783515** or email us at [cs@globusmail.com](mailto:cs@globusmail.com)
+We provide you with the opportunity to opt-out of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product / service but do not wish to receive any additional marketing material from us, you can indicate your preferences. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by selecting your preferences in “My Account”. If you still face an issue then you may contact us at **022 61705701**  or email us at [cs@globusmail.com](mailto:cs@globusmail.com)
 
 Upon request, we will remove / block your personally identifiable information from our database, thereby canceling your registration. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
 
