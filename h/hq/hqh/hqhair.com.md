@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805181911id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqhair.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123239id_/http%3A//www.hqhair.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy | HQHair.com
 
 **This is a Secure Website**
 
-This site uses a VeriSign SSL123 Certificate to offer secure communications by encrypting all data to and from the site. VeriSign has checked and verified the site's registered domain name.
+This site uses a VeriSign SSL123 Certificate to offer secure communications by encrypting all data to and from the site. VeriSign has checked and verified the site's registered domain name. 
 
 We are committed to protecting our customer’s privacy. We are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
@@ -20,7 +20,7 @@ In the event that we sell or buy any business or assets, we may disclose your pe
 
 We operate an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. Your opt-in preference to receive promotional emails from websites owned by The Hut Group of companies will be recorded at the point of registration and as part of the sales process. You can unsubscribe from any of these emails at any time.
 
-This website employs VeriSign and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
+This website employs VeriSign industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
 
 It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
 
