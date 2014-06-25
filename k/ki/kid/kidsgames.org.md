@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105203538id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071236id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen.com Privacy policy
 
@@ -206,4 +206,4 @@ UpToTen reserves the right, at all times, to modify or to renew its privacy poli
 
 [Contact us](http://www.uptoten.com/contact_us.php)
 
-™, ® , © 1999 - 2013 UpToTen All rights reserved.
+™, ® , © 1999 -  UpToTen All rights reserved.
