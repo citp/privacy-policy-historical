@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206171505id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134508id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutor.com
 
@@ -25,6 +25,10 @@ You trust us with your Personal Information. So, we do everything we can to make
 
 
 
+### Information from Facebook
+
+Tutor.com allows you to sign up and/or log in to Tutor.com using your Facebook account. If you sign up using Facebook, or otherwise link your Facebook and Tutor.com accounts, Facebook will ask your permission to share certain personal information from your Facebook account with Tutor.com. This may include your first name, last name, email address, gender, general location, a link to your Facebook profile, your time zone, birthday, profile picture, your "likes" and your list of friends. If you choose to grant Facebook that permission, it will share that information with Tutor.com on an ongoing basis and we will treat information we receive from Facebook the same as if you provided that information directly to Tutor.com. You can control the information that we receive from Facebook using the [privacy settings](https://www.facebook.com/settings) in your Facebook account.
+
 ### You and Your Parents Control Your Personal Information
 
 You can visit the Your Account section of this website anytime to see personal information we have collected about you, and you can tell us if you want to receive any promotional mail or email from us.
@@ -49,7 +53,7 @@ If we have reason to believe that disclosing your Personal Identification is req
 
 Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services and the performance of our advertising. Unless you give us permission, the cookies we use do not store any personally identifying information. For example, If you choose the option to “remember my email address” on our login page, we will store the information we need to identify you on your next visit in a cookie on your computer.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.fetchback.com/optout.html).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/choices/).
 
 ### Links to Other Sites
 
@@ -60,6 +64,6 @@ Sometimes, we link to other sites. Tutor.com does not make these sites, and we c
 If you have any questions, comments or concerns about Tutor.com's privacy policy, you can contact us:
 
 Tutor.com  
-9 East 40th St, 2nd Floor  
-New York, NY 10016  
+555 West 18th Street   
+New York, NY 10011  
 [direct@tutor.com](mailto:direct@tutor.com)
