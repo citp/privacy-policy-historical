@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102070431id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113244id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy (Peoples Gas)
-
-[Home Page](http://www.peoplesgasdelivery.com/default.aspx) > Privacy Policy >
 
 ## Peoples Gas ("PGL")
 
@@ -22,11 +20,11 @@ By using the website, you agree to be bound by this Privacy Policy. Please check
 
 ## Creating an Online Profile
 
-If you create an online profile to access various services related to your residential account or other applications involving your business account on the website, you may be asked to submit personal information such as your account number, name, last 4 of SSN/FEIN and e-mail address. You may also be asked to submit additional personal information or financial information to use specific services. We will protect all information that you provide us on the website, as set forth below:
+If you create an online profile to access various services related to your residential account or other applications involving your business account on the website, you may be asked to submit personal information such as your account number, name, last 4 of SSN/FEIN and email address. You may also be asked to submit additional personal information or financial information to use specific services. We will protect all information that you provide us on the website, as set forth below:
 
-  1. The personal information you provide us enables you to access self-service options offered on our website. To better serve you, we may use your email address to contact you in response to inquiries, or provide you with energy-related information. This information will be accessible to anyone who has access to your e-mail. You will have the option to opt out of email marketing messages at anytime.
+  1. The personal information you provide us enables you to access self-service options offered on our website. To better serve you, we may use your email address to contact you in response to inquiries, or provide you with energy-related information. This information will be accessible to anyone who has access to your email. You will have the option to opt out of email marketing messages at anytime.
   2. In order to provide you with services offered on the website, or to complete transactions or requests initiated by you on the website, we may transfer you to a website operated by third parties that help us provide services to you. In such cases, we will have agreements with those parties under which they will agree to maintain the confidentiality of your personal information and to use it only for the purpose of helping us serve you. We only transfer or share information to those who have a privacy policy at least as stringent or substantially similar to PGL.
-  3. Other than as set forth herein, we will not disclose your personal information to third parties without your written consent (which consent may be obtained electronically, such as by e-mail), unless we reasonably believe that the disclosure is essential to the conduct of PGL's business, including but not limited to where such disclosure is necessary to (a) comply with the law, legal process or our regulators, (b) collect unpaid bills, (c) enable PGL's employees or consultants to provide service to you and to otherwise perform their duties, (d) comply with interchange functions, (e) obtain and provide credit reporting information, or (f) resolve customer disputes or inquiries. We do not provide your personal information to third parties for the purpose of telemarketing, e-mail or direct-mail solicitation.
+  3. Other than as set forth herein, we will not disclose your personal information to third parties without your written consent (which consent may be obtained electronically, such as by email), unless we reasonably believe that the disclosure is essential to the conduct of PGL's business, including but not limited to where such disclosure is necessary to (a) comply with the law, legal process or our regulators, (b) collect unpaid bills, (c) enable PGL's employees or consultants to provide service to you and to otherwise perform their duties, (d) comply with interchange functions, (e) obtain and provide credit reporting information, or (f) resolve customer disputes or inquiries. We do not provide your personal information to third parties for the purpose of telemarketing, email or direct-mail solicitation.
   4. You should protect the confidentiality of your username and password. You are responsible for all activity on the website accessed by your username and password. Access by PGL's employees or consultants to any personal information you provide is limited to only that necessary to provide the business service offered and to otherwise allow such employees or consultants to perform their duties.
 
 
@@ -72,3 +70,5 @@ While browsing the website, you may encounter hypertext links to other websites 
 If you have any questions about this policy, please [contact us](https://accel.peoplesgasdelivery.com/secure/ssl/contact.aspx "Contact Us").
 
 Back to Top
+
+* * *
