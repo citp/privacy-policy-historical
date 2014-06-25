@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgerankchecker.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111055600id_/http%3A//edgerankchecker.com/edgerank/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgerankchecker.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054928id_/https%3A//www.edgerankchecker.com/edgerank/privacy) for the most accurate reproduction.*
 
 # EdgeRank Checker Privacy Policy | EdgeRank Checker
 
@@ -34,7 +34,7 @@ EdgeRank Checker may periodically update this policy. We will notify you about s
 
 Any questions about this Privacy Policy should be addressed to support at EdgeRankChecker.com.
 
-  * [Connect now for your free score, Go Pro and get 2 weeks free!](https://www.edgerankchecker.com/member)
-  * [Login with Facebook](https://www.edgerankchecker.com/member)
+  * [Connect now for your free score, Go Pro and get 2 weeks free!](https://web.archive.org/member)
+  * [Login with Facebook](https://web.archive.org/member)
 
 
