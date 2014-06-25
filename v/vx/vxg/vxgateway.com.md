@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vxgateway.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806051110id_/https%3A//www.vxgateway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vxgateway.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160247id_/https%3A//www.vxgateway.com/privacy) for the most accurate reproduction.*
 
 # VX GATEWAY : Cloud Payment Framework
 
@@ -44,21 +44,24 @@ Our affiliates may use all of the nonpublic personal information we disclose to 
 **Your Right To Limit Marketing**  
 You may direct us not to allow our affiliates to use your nonpublic personal information to market their products or services (see How To Opt Out below). Your choice to stop marketing from our affiliates will apply until you tell us to change your choice. 
 
-**How to Opt Out**  
-You may modify your profile to direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by doing the following steps; 
+**How to opt-out**  
+You may modify your profile to direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your non-public personal information that we disclose to them to market their products or services to you by doing the following steps; 
 
   1. Login at www.vxgateway.com
   2. Go to VXLOOP Menu & Select My Profile 
-  3. Check the Opt Out Of Emails box and Submit 
+  3. Check the opt-out Of Emails box and Submit 
 
 
 
-Your opt-out will apply to all BIDUWIN & VX Gateway Accounts, however you will not be blocked from receiving critical emails from BIDUWIN & VX Gateway that we deem to be important to provide the service. Categories of Certain Nonaffiliated Third Parties to Whom We Disclose Information and the Categories of Information We Disclose We may disclose nonpublic personal information about you to certain nonaffiliated third parties that perform services or functions on our behalf, such as financial data processing companies that process and maintain your account records for us, or to financial institutions with whom we have written agreements to jointly offer, endorse or sponsor a financial product or service. We may disclose the following nonpublic personal information about you to those nonaffiliated third parties mentioned above:
+Your opt-out will apply to all VX account(s), however you will not be blocked from receiving critical emails from VX that we deem to be important to provide the service. Categories of certain non-affiliated third parties to whom we disclose information, and the categories of information we disclose, may disclose non-public personal information about you to certain non-affiliated third parties that perform services or functions on our behalf; including (but not limited to) financial data processing companies that process and maintain your account records for us, and financial institutions with whom we have written agreements to jointly offer, endorse or sponsor a financial product or service. We may disclose the following non-public personal information about you to those nonaffiliated third parties mentioned above:
 
   * Information we receive from you on applications or other forms;
-  * Information about your transactions with us, such as your account balance, transaction history and parties to the transaction; and 
+  * Information about your transactions with us, including (but not limited to) your account balance, transaction history, and parties to the transaction; and
   * Information we receive from a public source.
 
 
 
-When we disclose nonpublic personal information about you under these circumstances, we require that the nonaffiliated third party agree not to disclose the information, or to use the information for any other purpose. Other than as described in this section, we do not disclose any nonpublic personal information about you to any nonaffiliated third parties, except as permitted by law. We do not disclose or sell nonpublic personal information about you to nonaffiliated third parties for the purpose of marketing non-financial products or services. Information Concerning Former and Inactive Members If you happen to close your account(s) with us at some point in time, or if you become an inactive customer, we will adhere to the privacy policies and practices as described in this Notice. 
+When we disclose non-public personal information about you under these circumstances, we require that the non-affiliated third party agrees not to disclose your information, or use the information for any purpose other than those stated above. Other than as described in this section, we do not disclose any non-public personal information about you to any non-affiliated third parties, except as permitted by law. We do not disclose or sell non-public personal information about you to non-affiliated third parties for the purpose of marketing non-financial products or services. 
+
+**Information concerning former and inactive members**  
+If you happen to close your VX account(s) with us at some point in time, or if you become an inactive customer, we will adhere to the privacy policies and practices as described in this privacy policy notice.
