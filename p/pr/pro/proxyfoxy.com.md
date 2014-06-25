@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyfoxy.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205181351id_/http%3A//www.proxyfoxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyfoxy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112425id_/http%3A//proxyfoxy.com/privacy.php) for the most accurate reproduction.*
 
 # Proxy Foxy
 
@@ -55,7 +55,7 @@ ProxyRod has the discretion to update this privacy policy at any time. When we d
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131205181351id_/http%3A//www.proxyfoxy.com/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20140625112425id_/http%3A//proxyfoxy.com/terms.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
