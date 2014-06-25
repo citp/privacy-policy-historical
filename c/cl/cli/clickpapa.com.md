@@ -1,73 +1,135 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003054013id_/http%3A//clickpapa.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061329id_/http%3A//www.clickpapa.com/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy Policy
 
-### I. General
+## Privacy Policy
 
-  1. The operative parties referred to in this policy are COMPANY and you, the user of this site. 
-    1. COMPANY is the publisher and operator of the websites listed at the beginning of this policy. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to COMPANY. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to the websites listed at the beginning of this policy. 
-    2. You, the User – As the user of this SITE, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
-  2. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
+#### Company Practices
 
+The following statement describes the overall company practices of ClickPapa Ad Network, including advertising on our network of websites, and products and services that are offered by ClickPapa Ad Network. This policy does not apply to the practices of companies that ClickPapa Ad Network does not own or control, or to people that ClickPapa Ad Network does not employ.
 
+#### Non-Personally Identifiable Consumer Data
 
-### II. Revisions to this Policy
+ClickPapa Ad Network delivers advertisements across multiple channels and media, including to web surfers who visit any of the hundreds of websites that are a part of ClickPapa Ad Network's network. With respect to individuals who visit those sites, we, and/or one or more of our third party advertising technology vendors, may collect what is known as "Click Stream Data." Click Stream Data is anonymous, and includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us or a third party advertising technology vendor. We, and/or a third party advertising technology vendor, may use different types of technologies to collect this type of information, including cookies and web beacons (1x1 pixels).
 
-We reserve the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after you have clicked the “refresh” button on your browser, you may presume that no changes have been made since the last reading of the policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
+#### How Collected Information is Used
 
-### III. Personal information that we collect
+The non-personally identifiable data that ClickPapa Ad Network and/or its third party advertising technology vendors collect are used for marketing and sales efforts to better target advertisements to people across the different websites they visit. ClickPapa Ad Network may also use the non-personally identifiable data to better target content to individuals in an effort to create a personally relevant experience for each person. The data are also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If a consumer elects to provide ClickPapa Ad Network with personally identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer's preferences and behaviors, and for other ClickPapa Ad Network sales and marketing efforts.
 
-Visitors to our site and services will have multiple manners of interactivity with us. Depending upon your level of interaction, we will collect different information about you. The type of information collected is as follows: 
+#### Personally Identifiable Consumer Data
 
-  1. A. Members - Members are those users who interact with our services in a way which requires registration, such as by uploading content to the SITE. Members will be prompted to provide their e-mail address in the process of registering a username. 
-  2. B. Browsers - Browsers are visitors to the site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering devises (explained below). 
+ClickPapa Ad Network uses ad serving technology from Cox Digital Services. Personal information is collected from ClickPapa Ad Network publishers to establish a business account. Publishers should refer to the Cox Digital Services Privacy Policy for more information.
 
+#### Sharing With Third Parties
 
+All personally identifiable data provided by individuals is maintained in confidence by ClickPapa Ad Network. There are instances, however, in which personally identifiable and non-personally identifiable information is shared with third parties, as described below. The non-personally identifiable data may be shared with third-party partners of ClickPapa Ad Network on an anonymous basis. In addition to the above, there is also the possibility that ClickPapa Ad Network, or part(s) of the company, may one day be purchased by, or merged with, another company. If that's the case, the acquiring (or merging) company will have access to your information. Finally, ClickPapa Ad Network may share information on individuals as it deems necessary to comply with a court order or to cooperate with government and law enforcement officials.
 
-### IV. How we collect information from you
+#### Third-Party Advertising Technology Vendors
 
-  1. A. Passive Collection – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your browser information, your geographic location and other session data. 
-  2. B. Active Collection – we collect information from you, such as your e-mail address, when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, but we reserve the right to add additional information collection portals. 
+ClickPapa Ad Network also works with various third party advertising technology vendors. Although the majority of the online advertisements on ClickPapa Ad Network sites are displayed by ClickPapa Ad Network, we also allow third-party ad serving companies, including other ad networks, to display advertisements on our sites. These vendors may also use cookies, web beacons, and similar technologies to collect Click Stream Data. These companies may offer you a way to opt-out of ad targeting based on their cookies, and some of them are also members of the Network Advertising Initiative. You may find more information by clicking on the company names above and following the links to the Web sites of each company.
 
+#### Security Precautions
 
+ClickPapa Ad Network and it’s advertising technology partners make significant efforts to maintain the security of its network and the data we collect. We use various technologies, including, in certain instances, encryption, to ensure the high security standards. Any data that is stored on ClickPapa Ad Network's servers is treated as confidential and is not generally available to the public. ClickPapa Ad Network has an internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who we reasonably believe need to know such information for the purpose of performing their jobs. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although we use reasonable efforts to protect information, the possibility of somebody defeating our security measures does exist.
 
-### V. How we use your information
+#### Consumer Choice
 
-The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you, such as automatic log-in capabilities and storage of preferences. Member login information and e-mail addresses may be disclosed to third parties for the purpose of providing certain features or third-party upgrades as requested by the Member. We are not responsible for how third parties use your information, and You should become familiar with such third parties’ privacy policies prior to requesting their services. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally may use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future. 
+Non-Personally Identifiable Consumer Data - Use of Cookies & Opting-Out ClickPapa Ad Network uses technology, including technology from its third party advertising technology vendors, which include cookies and web beacons (1x1 pixels), to deliver better, targeted marketing messages to the web surfer. These tools are used to collect non-personally identifiable data to provide better and more relevant services and messages to that user. We believe that the use of such tools assists in providing a more meaningful web-surfing experience, but you may opt-out of the use of ClickPapa Ad Network cookies and those of our third party advertising technology vendors if you would like. To do so, you can disable cookies on your browser.
 
-We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services, if applicable. We also use your information for market research purposes – in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+#### Miscellaneous
 
-### VI. Special Cases.
+A Special Note About the European Union European Union web surfers understand and consent to the processing of personal information in the United States.
 
-It is our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, we may disclose personal information about Browsers or Members, or information regarding your use of the Services or Sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: 
+#### Changes to Our Privacy Policy
 
-  1. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; 
-  2. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other user policies; 
-  3. To operate our Services properly; 
-  4. To protect ourselves, our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
-  5. We will always cooperate with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
-  6. We may provide members of the media with summarized User statistics upon request, but we will not provide individual User information. 
+The issue of privacy is an evolving one. ClickPapa Ad Network is committed to the constant monitoring and examination of its privacy practices, and may, from time to time, institute changes to its Privacy Policy. In the event that any material changes are made to the company's privacy practices, we will promptly make changes to this privacy policy that discloses the changes. 
 
+#### Effective Date
 
+This Privacy Policy has been in effect since February 1, 2014.
 
-### VII. Transmittals from Us
+#### Contacting Us
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by disabling the notifications on your User profile page. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account. 
+For more information, or if you have questions or concerns regarding ClickPapa Ad Network's Privacy Policy, please contact us, or you can send correspondence to the following address:
 
-If you provide your information to us, use the SITE, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law. 
+## CONTACT
 
-### VIII. Public Forums and Other Public Areas:
+Goldman Media Group Co.
 
-Public Forums – at the time of the instatement of this Policy, we currently offer Users the option to comment in public forums, to send private messages to other Users, and to comment on other User’s profiles, and we reserve the right to offer other interactive features in the future. We also provide services that allow Members to post messages or comments to the public. Any and all information posted to the SITE, whether as a comment to a video or any other post, should immediately be considered to be public information. 
+H-6640 Csongrád, Dózsa György square 18.
 
-### IX. Our Commitment to Data Security.
+Tax ID: HU24299125
 
-We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures. 
+General info: info@clickpapa.com
 
-### X. How to Access or Modify Your Information.
+## __Latest news
 
-We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [clickpapa@clickpapa.com](mailto:clickpapa@clickpapa.com)
+2014-06-17
 
-### XI. Where to Direct Questions About Our Privacy Policy.
+### Everything is working fine now! Sorry for the issues! 
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [clickpapa@clickpapa.com](mailto:clickpapa@clickpapa.com)
+As you may have noticed, we had dificuilties in the past days around our network's performance. From today 7pm GMT we had outage due to hardware and software issues till around 10pm GMT.
+
+Our JavaScript codes and static contents were served normally, as they not caused any downtime in your pages, but no banners, popups, imads, and redirects were shown during this period.
+
+This is unpleasant, we know it, as these are the busiest hours in many territories of US, Canada, South America, Australia, and Asia. Of course you will get compensation for this accident.
+
+As you know, were are new, we're working on the latest technologies we can use, we improve our system and architecture as hard as we can, but things like this happens sometimes.
+
+Thank you for your patience, we really appriciate that.
+
+\--  
+Zsolt  
+CTO
+
+2014-05-18
+
+### Stat problems are solved!
+
+Stat problems solved! Thank you for you patience! 2014-05-17
+
+### Stat problems
+
+We have troubles with the statistics, but it will be fixed ASAP.
+
+[All news](https://web.archive.org/news)
+
+## __Upcoming events
+
+2014-08-14
+
+### Qwebec Expo 2014, Montreal
+
+2014-09-19
+
+### Webmaster Access 2014, Amsterdam
+
+2014-09-22
+
+### The European Summit Fall 2014, Prague
+
+## __Passed events
+
+2014-05-28
+
+### Internext Expo 15th Anniversary New Orleans, May 28 - 31, 2014
+
+2014-03-27
+
+### The Phoenix Forum 2014 - Phoenix, March 27-29 2014
+
+2014-03-05
+
+### The European Summit 2014 - Barcelona, Marc 5 - 8, 2014
+
+2014-01-11
+
+### Internext Expo 2014 - Las Vegas, Jan 11 - 14, 2014
+
+2013-11-29
+
+### Eurowebtainment 2013 - Vienna, Nov 27 - 29, 2013
+
+2013-09-24
+
+### The European Summit, in Budapest
