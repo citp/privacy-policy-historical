@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soleilselene.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095527id_/http%3A//www.soleilselene.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soleilselene.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081600id_/http%3A//hergoodlife.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Soleil Selene®
+# Privacy Policy – Her Good Life
 
-This Privacy Policy governs the manner in which Soleil Selene collects, uses, maintains and discloses information collected from users of the http://www.soleilselene.com website.
+This Privacy Policy governs the manner in which Soleil Selene collects, uses, maintains and discloses information collected from users of the http://hergoodlife.com website.
 
 ### Your Personal Information
 
@@ -24,4 +24,4 @@ We may, occasionally, include links to third party sites have separate and indep
 
 The contents of this policy may be updated at any time. If we decide to change our privacy policy, we will post those changes on this page.
 
-If you have any questions regarding this policy, you may email us at leilani@soleilselene.com
+If you have any questions regarding this policy, you may email us at leilani@hergoodlife.com
