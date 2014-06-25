@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903023257id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111046id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
-# Driver Finder - Privacy Policy
+# DriverFinder - Privacy Policy
 
 * * *
 
@@ -8,11 +8,13 @@ This Privacy Policy describes the terms of our commitment to your privacy.
 
 ### Persons or Parties Covered
 
-This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Terms of Service contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
+This Privacy Policy covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our web site, try and/or use our product, or when you contact our customer support or sales departments. This Privacy Policy is intended to cover all visitors to this website, affiliates or business partners, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. People who join marketing endeavors (e.g. "affiliates") promoted by this website are called "Members" and are covered by this Privacy Policy. Anyone who orders, attempts to order, or receives a sold product advertised on or delivered from this website, even at no cost, is called a "Customer" and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Terms of Service contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website" and/or "Site" and/or "We".
+
+DeskToolSoft Inc's application DriverFinder 3.5.0 has been provisionally certified by the TRUSTe's Trusted Download Program signifying that the DriverFinder application has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the DriverFinder application, please contact us at DeskToolsSoft, located at 548 Market Street, San Francisco, CA 94104 or by email at support@desktoolssoft.com or by phone at (408) 600-1418. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=518&sealid=112)**. The TRUSTe Trusted Download program covers only the certified software downloaded from this site. Trusted Download certification does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
 ### Persons Excluded From This Website Are Still Covered
 
-In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
+Persons excluded from this website due to the Terms of Service or from denial of service by the website, who nonetheless unlawfully view this site remain subject to the terms of this Privacy Policy and is in violation of the Terms of Service.
 
 ### Persons Under 18 Years Of Age Are Excluded From This Website
 
@@ -24,39 +26,70 @@ Acceptance of the terms of this Privacy Policy is a portion of the consideration
 
 ### A Note To California Residents (Online Privacy Protection Act Of 2003 - OPPA)
 
-It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the Terms of Service you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the Terms of Service you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.) This Privacy Policy also is subject to change without notice. You are required to read it prior to using the website. By interacting with the website you agree to the terms and conditions of the Privacy Policy. By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
+It is the intent of the Privacy Policy to comply with the California Act. Various provisions throughout this Privacy Policy address requirements of the act. In summary, you must presume that we collect electronic information from all visitors. This is not usually personally identifiable. If you purchase a product or service via this website (and thereby become covered by the Act), the Terms of Service you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties. There is no way you can modify this information and you have no right to do so. Under the terms of the Terms of Service you have no right to view or receive any information about our database. In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in order to insure that the website is releasing information to the correct party. Other provisions of the OPPA may exempt this website from complying. While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information. (You should know that merchant service providers do not allow us access to your credit card information.)
 
-### About The Personal Information This Website Collects And How It Is Used
+We reserve the right to modify this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes to this privacy statement, our Home page, and other places we deem appropriate. We will also notify You via the Software when changes have been made to this Privacy Policy, and other documents such as our EULA, Terms of Service, etc. 
 
-This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
+### Why We Collect Personal Information
 
-### Visitor, Subscriber, Member, Or Customer Information Obtained From 'Registration'
+This Website only collects your Personal Information, where it is required, to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services.
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website. This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+### About the Personal Information the DriverFinder Application Collects And How It Is Used
 
-Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing. This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer.
+The driver scanning, matching and updating technology present in our software is designed to collect Hardware IDs and software signatures present in the system and routes this data back to our driver servers. We use this information so that our driver servers can respond back to our software with a list of recommended driver updates and other software relevant to the discovered hardware. While in trial-mode (pre-purchase, unregistered), this information is not tied in any way to any personal information. Post-purchase (registered) and after activation of the software the information is linked to your personal information. This information is also used to handle any technical, product, or customer support requests that you may send to us. Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services. 
 
-### Online Ordering
+### About the Personal Information This Website Collects And How It Is Used
 
-Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers. In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password. You should consider all this information available to the website. This information is used to deliver the product, but under the Terms of Service you also approve its use for general solicitation purposes.
+This website routinely collects information about its visitors, members, and customers. This information is obtained in various ways, such as:
+
+### Visitor, Member, Or Customer Information Obtained From 'Registration'
+
+Registration means that the Visitor, Member or Customer takes active, positive steps to communicate information to this website. This can include pages where you register for Customer Support; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product.
+
+For Customer Support registration instances, data is collected by:  
+DeskToolsSoft at the [DeskToolsSoft/DriverFinder Customer Support Portal](http://desktoolssoft.com/support/).  
+548 Market Street  
+San Francisco, CA 94104  
+E-mail: info[at]desktoolssoft[dot]com 
+
+For Product Registration instances, data is collected by:  
+[Safecart](https://www.safecart.com/)  
+1205 - 4464 Markham Street Victoria, BC V8Z 7X8  
+E-mail: customersupport[at]safecart[dot]com 
+
+For general inquiries, data is collected by:  
+DriverFinder at the [DriverFinder Contact Us form](http://driverfinderpro.com/contact.php).  
+548 Market Street  
+San Francisco, CA 94104  
+E-mail: info[at]driverfinderpro[dot]com 
+
+### Commitment to Data Security
+
+This Website DOES NOT store credit card information. We work with a select number of 3rd party payment processors who serve as a trusted intermediary to handle e-commerce transactions with our Customers. Our e-commerce partners handle e-commerce on secure servers which encrypt all of our Customers' personal information. To learn more about how our e-commerce partners manage the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statements located on their purchase pages.
+
+This Website has security measures in place, such as the following, to protect against the loss, misuse and alteration of your Personal Information in our customer database. Personal Information provided is stored in secure facilities with access restricted to authorized personnel only. We also have in place a series of access-control procedures required for retrieval of personal information. Further, this Website is regularly tested for security breaches to protect against unauthorized viewing of Personal Information. Although we make substantial efforts to store any Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, no one - including this Website - can guarantee complete security.
 
 ### Visitor Email Inquiries
 
-Website visitors who wish to communicate with the website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any 'submission' provisions of the Terms of Service or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
+Visitors who wish to communicate with the Website do so under two conditions: one, they give their permission for contact by the website; two, they are subject to any 'submission' provisions of the Terms of Service or this Privacy Policy. While your email address may or may not be used to solicit you, it is added to the website's general solicitation database.
 
 ### Customer Email Or Testimonials
 
 If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit.
 
+However, we will not, under any circumstances, share, merge, rent or sell your Personal Information in ways other than as outlined in this Privacy Policy. We also do not trade or exchange mailing lists with any other organization.
+
 Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
 ### Information Obtained From Referring Email Or Referring Urls
 
-If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must assume that referred emails or web pages may appear to come from your email. You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals.
+If you send a friend an email about this Site or if you send our url or that of one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend. You must accept full responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional, that results from said referrals.
 
-### Information Obtained From Voluntary Visitor, Subscriber, Member Or Customer Surveys
+### Information Obtained From Voluntary Visitor, Member Or Customer Surveys
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes or used by the site itself for product design or solicitation purposes.
+
+However, we will not, under any circumstances, share, merge, rent or sell your Personal Information in ways other than as outlined in this Privacy Policy. We also do not trade or exchange mailing lists with any other organization.
 
 ### Information Obtained From Electronic Means And 'Cookies'
 
@@ -66,57 +99,44 @@ Many websites, including this one, collect information about your computer, your
 
 Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-A special note about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) they use.
-
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
-
 ### Opt-Out Information
 
 DriverFinder provides a number of ways for you to OPT OUT of receiving additional information from us. Note that this option does not apply to communication sent for the purposes of administering orders, contracts, support, product safety warnings, software updates, or other administrative and transactional notices. If you do not wish to continue receiving additional information or certain marketing materials (e.g., e-mail messages), you can opt-out of receiving these materials by following the unsubscribe instructions provided in the materials. 
 
-In addition, you may contact us at our Online Support Portal at <http://www.desktoolssoft.com/support/> to futher relay any desire to opt out of receiving further communication from us. 
+In addition, you can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to us by accessing your account at our [Customer Support portal](http://www.desktoolssoft.com/support/) or by contacting our Customer Support department at support[at]driverfinderpro[dot]com. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting Customer Support, we may verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
 
-### How Information May Be Used
+### Sharing Your Personal Information
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+This Website is committed to protecting your privacy. We will not, under any circumstances, share, rent or sell your Personal Information in ways other than as outlined in this Privacy Policy nor does this Website trade or exchange mailing lists with any other organization. This Website only shares your Personal Information with our contractors that assist us in our efforts to fulfill our obligations to you, and then only with partners that commit to adhere to the same level of commitment as We do to protect your privacy and data. We use 3rd party payment processing companies to invoice you for goods and services and these companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-### Information That Is Not Shared
-
-Credit card information or other financial information is not usually known to the website. However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies. However, the provider of such information gives express permission to use it in fraud investigation or for litigation.
+The 3rd party payment processing company we use is:  
+[Safecart](https://www.safecart.com/)  
+1205 - 4464 Markham Street Victoria, BC V8Z 7X8  
+E-mail: customersupport[at]safecart[dot]com 
 
 ### Bulletin Boards And Public Forums
 
-Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
+Visitors, Members, or Customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk. You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services.
 
 ### E-Mail
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
-
-### Data Security
-
-This website takes measures to protect its data that contains information related to you. However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information. You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you.
+By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database.
 
 ### Questions, Comments, or Report of Incidents
 
 You may direct questions, comments or reports to: info [at] driverfinderpro [dot] com.
 
-### Revisions To This Privacy Policy Without Notice
+### Revisions To This Privacy Policy
 
-This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+We reserve the right to modify this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes to this privacy statement, our Home page, and other places we deem appropriate. We will also notify You via the Software when changes have been made to this Privacy Policy, and other documents such as our EULA, Terms of Service, etc. 
 
 ### Latest Update
 
-This Privacy Policy was last updated on: October 21, 2011.
+This Privacy Policy was last updated on: May 9, 2014.
 
 ### Disputes
 
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues.
+As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and Terms of Service issues.
 
 Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association. Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association, 335 Madison Avenue, Floor 10, New York, New York, 10017-4605. Hearing will take place in the city or county of the Seller.
 
