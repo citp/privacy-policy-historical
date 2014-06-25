@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the churchleaders.com privacy policy that was archived on 2013-08-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130826061235id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the churchleaders.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625110103id_/http%3A//www.churchleaders.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
 	<base href="http://www.churchleaders.com/">
@@ -18,7 +18,7 @@
     <!--[if IE 7]>
     <style type="text/css">@import 'http://www.churchleaders.com/themes/churchleaders/css/screen-IE7.css';</style>  
 	<![endif]-->  
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=141506565868184"></script><script type="text/javascript" src="http://www.churchleaders.com/compress.php?js,js/framework/prototype,js/control_tabs,js/functions,js/banman,js/newsletters"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://www.churchleaders.com/compress.php?js,js/framework/prototype,js/control_tabs,js/functions,js/xaxis,js/newsletters"></script>
 
     <script type="text/javascript" src="http://www.churchleaders.com/js/jquery-1.6.3.min.js"> </script>
     <script type="text/javascript" src="http://www.churchleaders.com/js/jquery.hoverIntent.js"> </script>
@@ -34,6 +34,14 @@
 		});
 	jQuery(document).ready(function(){
 			jQuery("#FindYourMinistryMenu").hoverIntent({
+				interval: 60, // milliseconds delay before onMouseOver
+				over: expandThis, 
+				timeout: 150, // milliseconds delay before onMouseOut
+				out: collapseThis
+			});
+		});
+	jQuery(document).ready(function(){
+			jQuery("#FindMyMinistryMenu").hoverIntent({
 				interval: 60, // milliseconds delay before onMouseOver
 				over: expandThis, 
 				timeout: 150, // milliseconds delay before onMouseOut
@@ -108,52 +116,74 @@
                                         
                 
      
+     	<meta property="fb:admins" content="100000741681624,530924611">
         <meta name="y_key" content="a6e42806134c4030">
         <script async="" src="http://disqus.com/forums/churchleaders/count.js"></script></head><body id="article"><div id="fb-root"></div>
-		<script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=141506565868184";
-          fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
         <script>
-		  window.fbAsyncInit = function() {
+			window.fbAsyncInit = function() {
+			FB.init({
+			  appId      : '141506565868184', // App ID
+			  channelUrl : 'channel.html', // Channel File
+			  status     : true, // check login status
+			  cookie     : true, // enable cookies to allow the server to access the session
+			  xfbml      : true  // parse XFBML
+			});
+			
 			FB.Event.subscribe('edge.create', function(targetUrl) {
 			  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
 			  _gaq.push(['_trackEvent', 'Social Interaction', 'Facebook Like', 'ChurchLeaders']);
-			});
-			FB.Event.subscribe('edge.remove', function(targetUrl) {
-			  _gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
-			});
-			FB.Event.subscribe('message.send', function(targetUrl) {
-			  _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
-			});
+			});		
 		  };
+		  // Load the SDK Asynchronously
+		  (function(d){
+			 var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement('script'); js.id = id; js.async = true;
+			 js.src = "//connect.facebook.net/en_US/all.js";
+			 ref.parentNode.insertBefore(js, ref);
+		   }(document));
 		</script>
+        <!-- FB Audience Tag -->
+        <script>(function() {
+          var _fbq = window._fbq || (window._fbq = []);
+          if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+          }
+          _fbq.push(['addPixelId', "862125600470237"]);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(["track", "PixelInitialized", {}]);
+        </script>
+        <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=862125600470237&amp;ev=NoScript" /></noscript>
+        <!-- End FB Audience Tag -->
 
 	
     
 		<div id="container">
         	<div id="Cat">
 			<div id="header">
-    <!--<div id="utility"><vte:include file="templates/churchleaders/box/fb_login.tpl" /></div>-->
     <script type="text/javascript" src="js/lang.php"> </script>
-    <div id="internal_branding">
-        <a href="http://www.churchleaders.com/" title="Go to homepage"><img src="http://www.churchleaders.com/themes/churchleaders/images/logo_small.gif" alt="ChurchLeaders.com"><br>Lead Better Every Day&nbsp;</a>
-        <div class="advertisement">
-        <div id="is-mobile"></div>
-        <script language="javascript" type="text/javascript">
-		if (jQuery('#is-mobile').is(':hidden')) {
-		  BMP_728x90_ROS();
-		}
-		if (jQuery('#is-mobile').is(':visible')) {
-		  BMP_728x90_TABLET();
-		}
-        </script>
+    
+        <div id="internal_branding">
+            <a href="http://www.churchleaders.com/" title="Go to homepage"><img src="http://www.churchleaders.com/themes/churchleaders/images/logo_small.gif" alt="ChurchLeaders.com"><br>Lead Better Every Day&nbsp;</a>
+            <div class="advertisement">
+            <div id="is-mobile"></div>
+            <script language="javascript" type="text/javascript">
+            if (jQuery('#is-mobile').is(':hidden')) {
+              BMP_728x90_ROS();
+            }
+            if (jQuery('#is-mobile').is(':visible')) {
+              BMP_728x90_TABLET();
+            }
+            </script>
+            </div>
         </div>
-    </div>
-        <div id="global-navigation">
+        	<div id="global-navigation">
 <script type="text/javascript">
 function noLink()
 {
@@ -269,184 +299,8 @@ function noLink()
         
     </div>
 </div>
-        
-<div id="whats_hot_nav">
+     
     
-        	
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-                <h5>Trending:</h5>
-                <ul>
-<li><a href="http://www.churchleaders.com/pastors/videos-for-pastors/168910-the-most-misinterpreted-verse-in-the-bible.html" target="_self">The Most Misinterpreted Verse</a></li>
-<li><a href="http://www.churchleaders.com/pastors/videos-for-pastors/168738-the-church-revolution.html" target="_self">Church Revolution</a></li>
-<li><a href="http://www.churchleaders.com/pastors/videos-for-pastors/168911-bill-hybels-the-work-habits-of-a-leader.html" target="_self">Hybels on Habits</a></li>
-</ul>
-                
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-            	
-            
-        
-    <div class="addthis-utility-links">
-        <span class="followus-title">Follow Us</span>
-        <div class="addthis_toolbox addthis_16x16_style addthis_default_style">
-        <a href="http://www.facebook.com/ChurchLeaders" title="Follow us on Facebook"><img src="http://www.churchleaders.com/files/mini-fb-icon.gif" alt="Follow on Facebook"></a>
-        <a href="http://www.twitter.com/churchlead" title="Follow on Twitter"><img src="http://www.churchleaders.com/files/mini-twitter-icon.gif" alt="Follow on Twitter"></a>
-        <a href="http://pinterest.com/churchleaders" title="Follow us on Pinterest"><img src="http://www.churchleaders.com/files/mini-pinterest-icon.gif" alt="Follow on Pinterest"></a>
-        <a href="https://plus.google.com/103689596833597932815" title="Follow us on Google Plus"><img src="http://www.churchleaders.com/files/mini-google-icon.gif" alt="Follow on Google Plus"></a>
-        <a href="http://www.churchleaders.com/about-rss-feeds.html" title="Subscribe via RSS"><img src="http://www.churchleaders.com/files/mini-rss-icon.gif" alt="Subscribe via RSS"></a>
-        </div>
-    </div>
-</div>
-
 </div>
             </div>
 			<div id="content">
@@ -463,6 +317,9 @@ function noLink()
                     <div id="content_main_bottom">
                         <div id="article_body">
                         
+                        <!-- START Easter PowerPoint -->
+                                
+                        <!-- END Easter PowerPoint -->
                         <!-- START Working For God -->
                                 
                         <!-- END Working For God -->
@@ -545,6 +402,7 @@ function noLink()
 <p>Not to sell or rent contact information lists to third parties for the purposes of e-mail marketing. ChurchLeaders.com may sell advertising in its e-mail publications to other companies.</p>
 <p>To send periodicals and e-mail communications only to those who request them. Sometimes people subscribe for their friends, and while this cannot be prevented, every issue of the free newsletter explains how to unsubscribe.</p>
 <p>Cookies &amp; Tracking Pixels: We collect non-personally identifiable information through the use of tracking pixels. A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with.</p>
+<p>Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
 <p>Questions or concerns regarding ChurchLeaders.com’s privacy policy may be directed to our Managing Editor, ChurchLeaders.com, 2230 Oak Ridge Way, Vista, CA 92081, (800) 991-6011, privacy@churchleaders.com.</p>
                     	</div>
                     </div>
@@ -580,22 +438,22 @@ function noLink()
                     </vte:foreach>-->
                 <ul class="latest_news">
                 	
-                    <li><a href="worship/worship-articles/169818-susan-godwin-unpacking-the-in-christ-alone-debate.html" title="Unpacking the &quot;In Christ Alone&quot; Debate">Unpacking the "In Christ Alone" Debate</a>
+                    <li><a href="youth/youth-leaders-blogs/175152-3-disciplines-every-youth-leader-needs-to-succeed.html" title="3 Disciplines Every Youth Leader Needs to Succeed">3 Disciplines Every Youth Leader Needs to Succeed</a>
                     </li>
                     
-                    <li><a href="pastors/pastor-articles/169812-10-most-admired-qualities-in-leadership-today.html" title="10 Most Admired Qualities in Leadership Today">10 Most Admired Qualities in Leadership Today</a>
+                    <li><a href="worship/worship-blogs/175151-surely-my-life-is-worth-more-than-nineteen-feet-of-stuff-right.html" title="Surely My Life Is Worth More Than Nineteen Feet of Stuff. Right?">Surely My Life Is Worth More Than Nineteen Feet of Stuff. Right?</a>
                     </li>
                     
-                    <li><a href="pastors/pastor-articles/169811-7-casualties-of-a-people-pleaser-in-leadership.html" title="7 Casualties of a People-Pleaser in Leadership">7 Casualties of a People-Pleaser in Leadership</a>
+                    <li><a href="worship/worship-blogs/175150-the-best-question-you%E2%80%99ve-never-asked.html" title="The Best Question You’ve Never Asked">The Best Question You’ve Never Asked</a>
                     </li>
                     
-                    <li><a href="pastors/pastor-articles/169800-michigan-church-baptizes-500-in-one-evening.html" title="Michigan Church Baptizes 500 in One Evening">Michigan Church Baptizes 500 in One Evening</a>
+                    <li><a href="smallgroups/small-group-blogs/175149-5-essential-ingredients-of-groups-that-make-disciples.html" title="5 Essential Ingredients of Groups that Make Disciples">5 Essential Ingredients of Groups that Make Disciples</a>
                     </li>
                     
-                    <li><a href="children/childrens-ministry-videos/169774-equipping-kids-to-be-friendly.html" title="Equipping Kids to Be Friendly">Equipping Kids to Be Friendly</a>
+                    <li><a href="smallgroups/small-group-blogs/175148-how-to-sustain-prayer.html" title="How to Sustain Prayer">How to Sustain Prayer</a>
                     </li>
                     
-                    <li><a href="children/childrens-ministry-videos/169773-cars-for-kids.html" title="Cars for Kids?">Cars for Kids?</a>
+                    <li><a href="pastors/pastor-blogs/175147-how-good-is-good-enough-to-lead-in-a-church.html" title="How Good Is &quot;Good Enough&quot; to Lead in a Church">How Good Is "Good Enough" to Lead in a Church</a>
                     </li>
                     </ul>
                 <div class="more_popular_news"><a href="http://www.churchleaders.com/resource-category/news-features?sort_by=most_popular">Popular News &amp; Features</a></div>
@@ -626,13 +484,14 @@ function noLink()
         </div>
     	
 <div id="footer">
-    <span>Copyright © 2013 ChurchLeaders.com</span>
+    <span>Copyright © 2014 ChurchLeaders.com</span>
     <a href="http://www.churchleaders.com/privacy.html" title="Privacy">Privacy</a>
     <a href="http://www.churchleaders.com/terms-of-use.html" title="Terms of Use">Terms of Use</a>
     <a href="http://outreachmediagroup.com/advertising-options/ChurchLeaders-advertising/" title="Advertise on ChurchLeaders.com">Advertise</a>
     <a href="http://www.churchleaders.com/mission-statement.html" title="About Us">About Us</a>
     <a href="http://www.churchleaders.com/subscribe-newsletter.html" title="Newsletter">Newsletter Signup</a>
     <a href="http://www.churchleaders.com/contact.html" title="Contact Us">Contact Us</a>
+    <a href="http://outreachmedia.applicantpro.com/jobs/" title="We're Hiring" target="_blank"><strong>We're Hiring</strong></a>
     <a href="http://www.churchleaders.com/feedback.html" title="Please give us feedback" class="feedbackTab">feedback</a>
 </div>
 
@@ -654,5 +513,56 @@ var disqus_shortname = 'churchleaders';
   (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
 </script>
+<style type="text/css">
+#WallpaperCanvas{
+display:none;
+height:100%;
+position:fixed;
+top:0;
+left:50%;
+margin-left:-490px;
+width:980px;
+-webkit-box-shadow: 0px 0 10px 0px #121212;
+box-shadow: 0px 0 10px 0px #121212;
+background-color:#FFF;
+padding:0 0 0 4px;
+z-index:1;
+}
+#WallpaperAd{
+display:none;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+z-index:-1;
+}
+@media screen and (min-width: 1025px) and (min-height:650px)
+{
+	#WallpaperAd,
+	#WallpaperCanvas{
+	display:block;
+	}
+	#container{
+	position: relative;
+	left: 50%;
+	margin-left: -490px;
+	padding:0 4px;
+	}
+	#footer{
+	width:976px;
+	}
+}
+</style>
+
+    <div id="WallpaperAd">
+        <div id="WallpaperCanvas"></div>
+        <script language="javascript" type="text/javascript">
+            if (screen.availWidth>=1025 && screen.availHeight>=650){
+                XaxisWallpaper();
+            }
+        </script>
+    </div>
+
 
     </div></body></html>
