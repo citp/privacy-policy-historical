@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actstudent.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218183707id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actstudent.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075515id_/http%3A//www.act.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ACT
 
@@ -35,13 +35,13 @@ ACT uses your Personal Information to:
 
 ## Marketing by Third Parties
 
-ACT honors your preferences with regard to sharing your Personal Information outside ACT for marketing purposes. Prior to our sharing your Personal Information with our affiliates or other third parties for marketing purposes, you will be given the opportunity to indicate whether you wish your information to be shared with such parties.
+ACT honors your preferences with regard to sharing your Personal Information with third parties for their marketing purposes. Prior to our sharing your Personal Information with our affiliates or other third parties for marketing purposes, you will be given the opportunity to indicate whether you wish your information to be shared with such parties.
 
 ## Disclosure of Your Personal Information
 
 ### Generally
 
-Additionally, ACT will not sell or disclose your Personal Information to third parties except with your consent, or as set forth below:
+Additionally, ACT will not sell or disclose your Personal Information to third parties except with your consent, in accordance with this Privacy Policy, or as set forth below:
 
   * If you are under 18 years of age, we may provide your Personal Information to your parent or guardian, who may direct us to release the information to third parties.
   * We may share Personal Information within the ACT family of companies.
@@ -58,15 +58,17 @@ Personal Information collected from you in connection with test registration is 
 
 ACT strives to provide you with choices with regard to our use of your Personal Information. For example, although we may occasionally use your Personal Information to contact you regarding products or services of ACT we think might interest you, you will be given instructions on how to opt out of receiving further communications of this nature by email. Note, however, that in such a case, you would still receive program-related messages and similar transactional communications by email. In addition, as noted above, you will have the opportunity to choose not to receive marketing materials from our affiliates or third parties.
 
-## Log Files and Cookies
+## Log Files, Cookies, and Web Beacons
 
 In addition, when you access the Site, certain non-personal information is automatically logged about your visit. This information may include your operating system, screen settings, Web browser software, and referring website, if any. It is used for system improvement and administration, security, statistical analysis purposes, and other internal business purposes.
 
-Cookies are small text files that a website can send to a user's browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences and other user information. Cookies used by the Site do not contain your Personal Information. We use cookies in order to properly route users through the Site, customize users' experiences on the Site, and to help us improve the Site. Most browsers are initially set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies in order to use certain services on the Site, including test registration.
+This Site may use third party services for analytics purposes. These third party services collect information anonymously and reports website trends without identifying individual visitors. These third party services use their own cookies to track visitor interactions. Website owners can view a variety of reports containing aggregate information about how visitors interact with their website so they can improve their website and how people find it. We do not control these third party cookies and their use may be governed by the privacy policies of the third party services employing these cookies.
+
+Cookies are small text files that a website can send to a user's browser for storage on the hard drive. Cookies can make use of the Web easier by saving and administering status, preferences and other user information. Cookies used by the Site do not contain your Personal Information. This Site also may use Web beacons, which are small strings of code that provide a method for delivering a graphic image on a Web page or in an email message for the purpose of transferring data. We may use cookies and Web beacons in order to properly route users through the Site, customize users' experiences on the Site, to help us send you information about products and services you may be interested in, and to help us improve the Site. Most browsers are initially set to accept cookies but users can change the setting to block cookies. Although disabling cookies will not interfere with your ability to access the Site, users will need to accept cookies in order to use certain services on the Site, including test registration. Users can disable the ability of Web beacons to capture information by blocking cookies.
 
 ## Links to Other Sites
 
-The Site may contain links to other sites provided by third parties. ACT does not control the privacy policies or practices of these websites. You should review the privacy policy of the third party offering the website before providing any personal information at these websites. ACT is not responsible for the content or practices of any linked third party websites, and we provide these links solely for the convenience and information of our visitors.
+The Site may contain links to other sites provided by third parties. ACT does not control the privacy policies or practices of these websites. You should review the privacy policy of the third party offering the website before providing any information at these websites. ACT is not responsible for the content or practices of any linked third party websites, and we provide these links solely for the convenience and information of our visitors.
 
 ## Children's Privacy
 
@@ -82,6 +84,6 @@ ACT reserves the right to modify this Privacy Policy at any time, so you should 
 
 ## Effective Date
 
-The effective date of this Privacy Policy is April 26, 2011.
+The effective date of this Privacy Policy is December 30, 2013.
 
 If you have any questions or comments about this Privacy Policy or your Personal Information, you may contact us at <http://www.act.org/contacts/feedback.html>, or at ACT, Inc., 500 ACT Drive, P.O. Box 168, Iowa City, Iowa 52243-0168, Attn: Webmaster.
