@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808121009id_/http%3A//www.americangolf.co.uk/Privacy-Policy/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100015id_/http%3A//americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,7 +108,7 @@ Of course, the Internet is made up of a large number of international connection
 
 #### Governing law
 
-This Privacy Policy forms part of the website [Terms of Use](http://www.americangolf.co.uk/Terms-Conditions/terms,en_GB,pg.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
+This Privacy Policy forms part of the website [Terms of Use](http://americangolf.co.uk/content/terms.html?fid=Terms-Conditions) and as such shall be governed by and construed in accordance with the laws of England & Wales. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England & Wales.
 
 #### Questions
 
