@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029000921id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyleague.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095224id_/http%3A//www.fantasyleague.com/Content/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Fantasy League
 
@@ -13,6 +13,7 @@ In using our website and associated services, we may collect and process the fol
   * i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
   * ii. Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase. 
   * iii. Information provided to us when you communicate with us for any reason.
+  * iv. Google Analytics Demographics and Interest Reporting. This is to be used for Fantasy League own research purposes, in order to deliver the most enjoyable service possible.
 
 
 
@@ -93,8 +94,8 @@ We welcome any queries, comments or requests you may have regarding this Privacy
 
 Privacy Manager  
 Fantasy League Limited  
-1 Lawfords Wharf  
-Lyme Street  
-London NW1 0SF
+Leeder House  
+6 Erskine Road  
+London NW3 3AJ
 
 Email: info@fantasyleague.com
