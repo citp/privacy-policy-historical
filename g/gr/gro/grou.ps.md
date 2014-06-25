@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grou.ps privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031112813id_/http%3A//grou.ps/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grou.ps privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215313id_/http%3A//grou.ps/home/privacy-policy) for the most accurate reproduction.*
 
 # GROU.PS | Privacy Policy
 
@@ -24,7 +24,7 @@ Users should be aware that other websites visited before entering GROU.PS might 
 
 **Content and Use of Networks**
 
-When you post Content (or send messages) in any Social Network(s) on the GROU.PS Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal%Proxy-Connection: keep-alive Cache-Control: max-age=0 Data in such Content. The GROU.PS Platform keeps track of Content that you have uploaded to a Social Network on GROU.PS as well as the top Users for a Network. Such information, displayed with your GROU.PS ID and photo, if you uploaded one, is available to Users and visitors of the GROU.PS Platform. In addition, the GROU.PS Platform enables other Users to invite you to use Social Networks on GROU.PS.
+When you post Content (or send messages) in any Social Network(s) on the GROU.PS Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal Data in such Content. The GROU.PS Platform keeps track of Content that you have uploaded to a Social Network on GROU.PS as well as the top Users for a Network. Such information, displayed with your GROU.PS ID and photo, if you uploaded one, is available to Users and visitors of the GROU.PS Platform. In addition, the GROU.PS Platform enables other Users to invite you to use Social Networks on GROU.PS.
 
 Because you may voluntarily disclose any Personal Data in these public areas, you should be careful about the information you choose to disclose. GROU.PS does not control that disclosure, and is not liable in any way for anyone's use or misuse of the information in the disclosure. In other words, use caution and judgment here.
 
