@@ -1,26 +1,20 @@
-> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013152316id_/http%3A//downloadbox.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121639id_/http%3A//downloadbox.to/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy - DownloadBox
 
-_**Privacy Policy**_
+Effective date: 
+
+_**17 November 2013**_
 
  **Your Privacy**
 
-DownloadBox.Org is committed to protecting your privacy. DownloadBox.Org does not sell trade or rent your personal information to other companies. DownloadBox.Org will not collect any personal information about you except when you specifically and knowingly provide such information.
+Downloadbox.to is committed to protecting your privacy. Downloadbox.to does not sell trade or rent your personal information to other companies. Data collected only for internal log to improved site performance.
 
-By using our Web site, you consent to the collection and use of this information by DownloadBox.Org. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, DownloadBox.Org may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+By using our Web site, you consent to the collection and use of this information by Downloadbox.to. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Downloadbox.to may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
- **Third Party Advertising**
+ **Third Party Advertising**  
+Links to Other Sites:  
+Our Site contains links to other web sites. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. If You choose to visit an advertiser by clicking third party link, or a banner ad or other type of advertisement, You will be directed to that third party's web site. We link to a web site or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies or other files on Your computer, collect data or solicit personal information from You. Other sites follow different rules regarding the use or disclosure of the personal information You submit to them. We encourage You to read the privacy policies or statements of the other web sites You visit.
 
-Shall be updated if/when we have any.
-
- **Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
- **Modification of Privacy Policy**
-
-DownloadBox.Org reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
-
-  
-
+ **Modification of Privacy Policy**  
+Downloadbox.to reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
