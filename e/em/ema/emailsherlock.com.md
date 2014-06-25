@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015091242id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090552id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
 
 # EmailSherlock.com Privacy Policy
 
@@ -14,7 +14,7 @@ When you conduct a search in the Website, we will not collect any personally ide
 
 **Searches For You**
 
-When someone conducts a search based on your email address, we do not collect that email address for any purpose other than to present the results of that search, and to cache the results of that search for indexing by search engines. To prevent these search results from being cached for indexing, please contact us at optout@emailsherlock.com. In order for us to remove the cached information, your opt-out request must include the email address in question and your full name. 
+When someone conducts a search based on your email address, we do not collect that email address for any purpose other than to present the results of that search, and to cache the results of that search for indexing by search engines. To prevent these search results from being cached for indexing, please remove your profiles public information from the social network from which there is a result. Once done, click the Update Now button on your results page. If your data is removed from the social networks, it will be removed from our cache also. 
 
 **Log Files**
 
