@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrowow.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220033217id_/http%3A//www.astrowow.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrowow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122432id_/http%3A//astrowow.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Astrowow.com - Privacy policy, astrology software, astrology report, free horoscopes :: Privacy Policy
 
