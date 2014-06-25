@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extendstudio.com privacy policy that was archived on 2013-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130921221028id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extendstudio.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113254id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Extendstudio.com | Privacy Policy | Flash &amp; Dreamweaver Extensions | Professional Flash and Dreamweaver Components | Cost-effective | Site Design and Development</title>
@@ -29,6 +29,8 @@
 <!-- CSS Zone -->
 
 <link href="http://www.extendstudio.com/css/layouts/CSSLayouts.css" rel="stylesheet" type="text/css">
+
+
 <link href="css/1/form.css" rel="stylesheet" type="text/css" media="screen">
 
 <link href="css/1/1.css" rel="stylesheet" type="text/css" media="screen">
@@ -59,7 +61,20 @@
 
 <script type="text/javascript" src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
 
+<script type="text/javascript">
+function applyCSS() {
+        var randomNr = Math.floor(Math.random() * 100000001);
+        var css = "http://www.extendstudio.com/assets/menu/menu.css?" + randomNr;
+        var ss = document.createElement("link");
+        ss.type = "text/css";
+        ss.rel = "stylesheet";
+        ss.href = css;
+        document.getElementsByTagName("head")[0].appendChild(ss);
+    }
 
+applyCSS();
+
+</script><link type="text/css" rel="stylesheet" href="http://www.extendstudio.com/assets/menu/menu.css?82684356">
 <script type="text/javascript" src="javascript/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
 <script type="text/javascript" src="javascript/fancybox/jquery.fancybox-1.3.1.js"></script>
 <link rel="stylesheet" type="text/css" href="javascript/fancybox/jquery.fancybox-1.3.1.css" media="screen">
@@ -72,7 +87,8 @@
 		//-------------------------------------------------------------------------------------
 		$("a.mb").each(function(){
 			var fancyOptions = {
-				'titleShow': false
+				'titleShow': false,
+'scrolling' : 'auto'
 			};
 			var anchorHref = $(this).attr('href');
 			
@@ -135,6 +151,25 @@
 
 
 
+<style type="text/css">
+
+.xtd-social{
+    margin-top:-9px;
+    float: right;
+}
+.xtd-social-item{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 9px;
+}
+
+.last{
+	margin-right:0;
+}
+
+</style>
+
 </head>
 
 <body>
@@ -151,6 +186,10 @@
     <div class="top-holder">
 
       <div class="top-menu-wrap">
+	<div class="xtd-social">
+         <a title="Follow Extend Studio on Facebook" href="https://www.facebook.com/ExtendStudio" target="_blank"><img class="xtd-social-item" src="http://www.extendstudio.com/assets/fb.png" alt="Follow us on Facebook"></a>	
+         <a title="Get in touch with us" href="http://www.extendstudio.com/contact.html"><img class="xtd-social-item last" src="http://www.extendstudio.com/assets/mail.png" alt="Send us an email"></a>	
+	</div>	
       <div class="head-link fl-right" style="height:51px;" onclick="window.location='http://www.extendstudio.com/'"></div>
 
 	    <ul id="top-menu" style="padding-top:37px; padding-right:3px">
@@ -187,54 +226,26 @@
 
     </div>
 
-    <div id="menu-wrap-iefix">
+    <div id="menu-wrap-iefix" style="z-index:99999 !important;height:52px !important;margin-top:15px;">
 
-      <div class="menu-wrap" style="width:980px">
-	<div style="float:left; width:750px">
-        <ul id="menu">
-
-          <li><a href="index.html" class="home ">Home<span></span></a></li>
-
-          <li class="v-delimiter"></li>
-
-          <li><a href="products/dreamweaver-extensions.html" class="dw-extensions ">Dw Extensions<span></span></a></li>
-
-          <li class="v-delimiter"></li>
-
-          <li><a href="dreamweaver-templates.html" class="dw-templates">Dw Extensions<span></span></a></li>
-		  
-          <li class="v-delimiter"></li>
-
-          <li><a href="products/flash-components.html" class="fl-components ">Fl Components<span></span></a></li>
-
-          <li class="v-delimiter"></li>
-	  
-	            <!--<li><a href="products/air-applications.html" class="air <!--">AIR Applications<span></span></a></li> 
-
-          <li class="v-delimiter"></li> -->
-
-          <li><a href="support.html" class="support ">Support <span></span></a></li>
-
-          <li class="v-delimiter"></li>
-
-          <li><a href="store.html" class="store ">Store<span></span></a></li>
-
-          <li class="v-delimiter"></li>
-
-          <li><a href="company.html" class="company current">Company <span></span></a></li>
-         
-         <li class="v-delimiter"></li>
-
-          <li><a href="/blog" class="blog ">Blog <span></span></a></li>
-	
-
+      <div style="width:980px">
+		
+<div class="navbar">
+        <ul class="menu-items">
+            <li class="first-level-item "><a title="Extend Studio Homepage" href="http://www.extendstudio.com/index.html">Home</a> </li>
+            <li class="first-level-item dropdown ">
+                <a title="Dreamweaver Extensions" href="http://www.extendstudio.com/products/dreamweaver-extensions.html"><span class="dw">Dw</span> Extensions</a></li>
+            <li class="first-level-item"><a title="Dreamweaver Templates" href="http://www.extendstudio.com/dreamweaver-templates.html"><span class="dw">Dw</span> Templates</a></li>
+            <li class="first-level-item "><a title="ExtendStudio Flash Components" href="http://www.extendstudio.com/products/flash-components.html"><span class="fl">Fl</span> Components</a></li>
+            <li class="first-level-item "><a title="Customer Support" href="http://www.extendstudio.com/support.html">Support</a></li>
+            <li class="first-level-item "><a title="Extend Studio Store" href="http://www.extendstudio.com/store.html">Store</a></li>
+            <li class="first-level-item current"><a title="About Extend Studio " href="http://www.extendstudio.com/company.html">Company</a></li>
+            <li class="first-level-item "><a title="Extend Studio Blog" href="http://www.extendstudio.com/blog">Blog</a></li>
         </ul>
-	</div>
-	
 
- </div>
+    </div>
+ 	</div>
     <div class="clear-both">&nbsp;</div>
-    
 
     </div>
 
@@ -244,7 +255,7 @@
 
 	
 	
-<!--div style="width:981px; height:53px; padding-bottom:10px; margin-bottom: 10px; margin:0 auto;position: relative;left: -15px;top: -31px;z-index: 99999;"><a href="http://www.extendstudio.com/newsletter/n113_110713/newsletter.html" target="_blank"><img src="http://extendstudio.com/images/offers-and-sales/summer_sale_top_bar.png" border="0" alt="Holiday Offers"/></a></div --> 
+<!--div style="width:981px; height:40px; padding-bottom:10px; margin-bottom: 10px; margin:0 auto;position: relative;left: -14px;top: -31px;z-index: 99999;"><a href="http://www.extendstudio.com/newsletter/n125_291113/newsletter.html" target="_blank"><img src="http://extendstudio.com/images/black_friday_2013_ending.png" border="0" alt="Holiday Offers"/></a></div--> 
 
        
 
@@ -403,7 +414,7 @@ Extend Studio is the data controller of all personal data gathered from this sit
 
           <strong>Support Email:</strong> support@extendstudio.com<br>
 
-          <strong>Help Desk</strong>: support is available on the forum 24/7<br>
+          <strong>Help Desk</strong>: support is available on the help desk forum (we answer in maximum one business day)<br>
 
           <strong>Sales Email:</strong> sales@extendstudio.com <br>
 
@@ -421,7 +432,7 @@ Extend Studio is the data controller of all personal data gathered from this sit
 
       <ul id="footer-menu">
 
-        <li id="copyright"> © 2005 - 2013 Extend Studio </li>
+        <li id="copyright"> © 2005 - 2014 Extend Studio </li>
 
         <li class="v-delimiter"></li>
 
