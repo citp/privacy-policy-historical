@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219194809id_/http%3A//vandvshop.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133043id_/http%3A//vandvshop.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | V & V Shop
+# Privacy Policy | V & V ShopV & V Shop
 
 Thanks for visiting [**vandvshop.com**](http://vandvshop.com/) and reviewing our privacy policy.
 
