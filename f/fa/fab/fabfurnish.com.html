@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fabfurnish.com privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205001253id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fabfurnish.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625233043id_/http%3A//www.fabfurnish.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" version="HTML+RDFa 1.1"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,10 +19,9 @@
 
                 
                     
-<link rel="stylesheet" type="text/css" href="http://1.fimg.in/css/live/alice-min.1386159371.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://1.fimg.in/css/live/alice-min.1403155548.css" media="all">
             
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RK7G"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-    
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RK7G"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAIHUlRADwUHV1JU"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>    
     <script type="text/javascript">
     var _gaq = _gaq || [];
     
@@ -30,7 +29,7 @@
             <!--[if lte IE 8]>
                     <script src="http://1.fimg.in/js/modernizr.custom.52848.js" type="text/javascript"></script>
             <![endif]-->
-<script src="http://1.fimg.in/js/live/alice-1386159375.js" type="text/javascript"></script>            
+<script src="http://1.fimg.in/js/live/alice-1403155554.js" type="text/javascript"></script>            
     
     <script>
         function afterLoadHead(){
@@ -57,23 +56,28 @@ var  dataLayer = new Array();
       <div id="bestPriceHeadTxt" class="fss txtGray"><span class="orngArrowTop"></span>Find a better price for any product, &amp; we would refund twice the price difference! Submit a lower available price within 7 days of purchase to <a href="mailto:bestprice@fabfurnish.com">bestprice@fabfurnish.com</a></div>
     </div>
     |
-    <div class="otherHighlights">100% AUTHENTIC PRODUCTS | <a class="sel-login " href="http://www.fabfurnish.com/customer-reviews/" title="Customer Stories" rel="follow">CUSTOMER STORIES</a> </div>
+    <div class="otherHighlights"> 100% AUTHENTIC PRODUCTS | <a class="sel-login " href="http://www.fabfurnish.com/customer-reviews/" title="Customer Stories" rel="follow">CUSTOMER STORIES</a> </div>
   </div>
-  <div class="logoutnewab">
-    <div><a href="http://www.fabfurnish.com/contact/">CONTACT US</a> +91 124 6733300      <span class="fses">(10 AM - 7 PM) </span>
-      &nbsp;|&nbsp;</div>
-    <div id="help_menu">Help<div id="menu1choices" style="display:none;">
-<div id="track_order"><a href="/index/trackorder/">Track Order</a></div>
-<div id="return_policy"><a href="/return_policy/">Return Policy</a></div>
-<div id="shipping_policy"><a href="/faq#faq_shipping_delivery">Shipping Policy</a></div>
-<div id="faq"><a href="/faq/">FAQ</a></div>
-</div>&nbsp;|&nbsp;</div>
-    <div><a class="sel-home-my-account " href="http://www.fabfurnish.com/customer/account/create/" title="Register" rel="follow">Register</a> | <a class="sel-login " href="http://www.fabfurnish.com/customer/account/login/" title="Login" rel="follow">Login</a></div>
+  <div class="logoutnewab l-relative">
+    <div id="help_menu">Help<span class="heplArrowIcon"></span>&nbsp;|&nbsp;</div>
+    <div>
+        <a class="sel-home-my-account " href="http://www.fabfurnish.com/customer/account/create/" title="Sign up" rel="follow">
+        Sign up<span class="fsxs"> &amp; GET Rs. 5000 VOUCHERS</span></a> | 
+            
+        <a class="sel-login " href="http://www.fabfurnish.com/customer/account/login/" title="Login" rel="follow">Login</a>
+    </div>
+   <div id="menu1choices" style="display:none;" class="heplChoices">
+<div id="contact_us" class="mrxm"><a href="http://www.fabfurnish.com/contact/">Contact Us</a></div>
+<div id="track_order" class="mrxm"><a href="http://www.fabfurnish.com/index/trackorder/">Track Order</a></div>
+<div id="return_policy" class="mrxm"><a href="http://www.fabfurnish.com/return_policy/">Return Policy</a></div>
+<div id="shipping_policy" class="mrxm"><a href="http://www.fabfurnish.com/faq/#tabsNewfaq-7">Shipping Policy</a></div>
+<div id="faq"><a href="http://www.fabfurnish.com/faq/">FAQ</a></div>
+</div> 
   </div>
 </div>
  
        
-            <a href="http://www.fabfurnish.com/" title="Furniture Online – FabFurnish.com" class="hdLogo"></a>
+            <a id="header_logo" href="http://www.fabfurnish.com/" title="Furniture Online – FabFurnish.com" class="hdLogo"></a>
         
         
         <form id="search" class="hdSearch ui-formRounded ssg">
@@ -86,31 +90,32 @@ var  dataLayer = new Array();
 <div id="topsearch" class="webtrekSearch">
 
 <div id="topsearch_catalog" style="display:block;">
-<a href="/home-decor/?q=Cushion%20Covers">Cushion Covers</a>
-<a href="/kitchen-dining/?q=Corelle">Corelle</a>
 <a href="/furniture/?q=Recliners">Recliners</a>
-<a href="/bed-bath/?q=Laundry%20Baskets">Laundry Baskets</a>
-<a href="/home-decor/?q=Rugs">Rugs</a>
+<a href="/bed-bath/?q=Diwan%20Sets">Diwan Sets</a>
+<a href="/kitchen-dining/?q=Corelle">Corelle</a>
+<a href="/furniture/?q=Sofas">Sofas</a>
+<a href="/home-decor/?q=Wall%20Clocks">Wall Clocks</a>
 </div>
 
 <div id="topsearch_furniture" style="display:none;">
-<a href="/furniture/?q=Beanbags">Beanbags</a>
+<a href="/furniture/?q=Sofas">Sofas</a>
 <a href="/furniture/?q=Recliners">Recliners</a>
-<a href="/furniture/?q=Shoe%20Racks">Shoe Racks</a>
-<a href="/furniture/?q=Wardrobes">Wardrobes</a>
+<a href="/furniture/?q=Wall%20Shelves">Wall Shelves</a>
+<a href="/furniture/?q=Study%20Tables">Study Tables</a>
+<a href="/furniture/?q=Sofa%20Beds">Sofa Beds</a>
 </div>
 
 <div id="topsearch_bed-bath" style="display:none;">
-<a href="/bed-bath/?q=Bed%20Sheets">Bed Sheets</a>
 <a href="/bed-bath/?q=Diwan%20Sets">Diwan Sets</a>
 <a href="/bed-bath/?q=Laundry%20Baskets">Laundry Baskets</a>
 <a href="/bed-bath/?q=Bombay%20Dyeing">Bombay Dyeing</a>
+<a href="/bed-bath/?q=Bedsheets">Bedsheets</a>
 </div>
 
 <div id="topsearch_home-decor" style="display:none;">
-<a href="/home-decor/?q=Rugs">Rugs</a>
-<a href="/home-decor/?q=Cushion%20Covers">Cushion Covers</a>
-<a href="/home-decor/?q=Wall%20Decor">Wall Decor</a>
+<a href="/home-decor/?q=Mirrors">Mirrors</a>
+<a href="/home-decor/?q=Key%20Holders">Key Holders</a>
+<a href="/home-decor/?q=Wall%20Clocks">Wall Clocks</a>
 <a href="/home-decor/?q=Photo%20Frames">Photo Frames</a>
 </div>
 
@@ -121,14 +126,15 @@ var  dataLayer = new Array();
 </div>
 
 <div id="topsearch_kitchen-dining" style="display:none;">
+<a href="/kitchen-dining/?q=Tupperware">Tupperware</a>
+<a href="/kitchen-dining/?q=Dinner%20Sets">Dinner Sets</a>
 <a href="/kitchen-dining/?q=Corelle">Corelle</a>
-<a href="/kitchen-dining/?q=Lunch%20Boxes">Lunch Boxes</a>
-<a href="/kitchen-dining/?q=Borosil">Borosil</a>
-<a href="/kitchen-dining/?q=Alfresco">Alfresco</a>
+<a href="/kitchen-dining/?q=Trays">Trays</a>
+<a href="/kitchen-dining/?q=Spice%20Racks">Spice Racks</a>
 </div>
 
 <div id="topsearch_kids-baby" style="display:none;">
-<a href="/kids-baby/?q=Games%20For%20Boys">Games for Boys</a>
+<a href="/kids-baby/?q=Kids%20Bedsheets">Kids Bedsheets</a>
 <a href="/kids-baby/?q=Toys%20For%20Kids">Toys for Kids</a>
 <a href="/kids-baby/?q=Kids%20Furniture">Kids Furniture</a>
 </div>
@@ -177,11 +183,79 @@ var  dataLayer = new Array();
                
 <div class="fabMenu">   
 <ul class="fabMenuTabbed">
-  <li class="fabMenuMainCat fabMenuMainHomeIcon1"> 
-    <a class="fabMenuMainCatLink" href="http://www.fabfurnish.com/">
-      <span class="fabMenuMainHomeIcon">&nbsp;</span>
+  <li class="fabMenuMainCat newProdMenu"> 
+    <a id="cat_New" class="fabMenuMainCatLink">
+      <span>New</span>
     </a>
-  </li>  <li class="fabMenuMainCat "> 
+      <style>
+.newProdMenu{
+height:270px!important;
+}
+.newProdMenuNoBorder{
+border:none!important;
+}
+.newProdMenuImage{
+padding-left:0px!important;
+}
+.newProdMenu .fabMenuMainCatLink{
+color:#F88B30;
+font-weight:bold;
+text-shadow: 1px 1px 0 #FFFFFF;
+}
+.fabMenuMainCatHover.newProdMenu{
+border-left: 2px solid #CCCCCC;
+padding: 7px 13px 8px 11px!important;
+}
+</style>
+<div class="fabMenuMainCatItmCont fsm fabMenuMainCat_0 main-nav-layer-default" style="display: none;">
+  <div class="fab-nav">
+    <div class="nav-left">
+      <ul class="newProdMenu">
+        <li><a id="new_cat_fur" href="http://www.fabfurnish.com/furniture/new-products">Furniture</a></li>
+        <li><a id="new_cat_fur_1" href="http://www.fabfurnish.com/furniture/living-room/new-products">Living Room Furniture</a></li>
+        <li><a id="new_cat_fur_2" href="http://www.fabfurnish.com/furniture/bedroom/new-products">Bedroom Furniture</a></li>
+        <li><a id="new_cat_fur_3" href="http://www.fabfurnish.com/furniture/multi-purpose-storage">Multi Purpose Storage</a></li>
+        
+        <li><a id="new_cat_fur_5" href="http://www.fabfurnish.com/furniture/workspaces/new-products">Work Spaces</a></li>
+        <li class="nav-image newProdMenuImage"> <a title="Bar Cabinet" id="new_cat_fur_6" href="http://www.fabfurnish.com/furniture/bar-cabinet/new-products/"><img src="http://1.fimg.in/cms/header/mainNav/newProd/20140603/New-F.jpg" width="170" height="150" border="0" alt="Bar Cabinet"></a></li>
+      </ul>
+    </div>
+    <div class="nav-left">
+      <ul class="newProdMenu">
+        <li><a id="new_cat_knd" href="http://www.fabfurnish.com/kitchen-dining/new-products">Kitchen &amp; Dining</a></li>
+        <li><a id="new_cat_knd_1" href="http://www.fabfurnish.com/kitchen-dining/kitchen-tools/new-products">Kitchen Tools</a></li>
+        <li><a id="new_cat_knd_2" href="http://www.fabfurnish.com/kitchen-dining/kitchen-storage/new-products">Kitchen Storage</a></li>
+        <li><a id="new_cat_knd_3" href="http://www.fabfurnish.com/kitchen-dining/tableware/new-products">Tableware</a></li>
+        <li><a id="new_cat_knd_4" href="http://www.fabfurnish.com/kitchen-dining/coffee-tea/new-products">Coffee &amp; Tea</a></li>
+        <li><a id="new_cat_knd_5" href="http://www.fabfurnish.com/kitchen-dining/barware-drinkware/new-products">Bar &amp; Drinkware</a></li>
+        <li><a id="new_cat_knd_6" href="http://www.fabfurnish.com/kitchen-dining/cleaning-household/new-products">Cleaning &amp; Household</a></li>
+        <li class="nav-image newProdMenuImage"><a title="Kitchen Accessories" id="new_cat_knd_7" href="http://www.fabfurnish.com/new-products/kitchen-dining/kitchen-storage/"><img src="http://1.fimg.in/cms/header/mainNav/newProd/20140616/New-K.jpg" width="170" height="150" border="0" alt="Kitchen Accessories"></a></li>
+      </ul>
+    </div>
+    <div class="nav-left">
+      <ul class="newProdMenu">
+        <li><a id="new_cat_dec" href="http://www.fabfurnish.com/home-decor/new-products">Décor</a></li>
+        <li><a id="new_cat_dec_1" href="http://www.fabfurnish.com/home-decor/wall-decor/new-products">Wall Décor</a></li>
+        <li><a id="new_cat_dec_2" href="http://www.fabfurnish.com/home-decor/home-accents/new-products">Home Accents</a></li>
+        <li><a id="new_cat_dec_3" href="http://www.fabfurnish.com/home-decor/photo-frames-albums/new-products">Photo Frames &amp; Albums</a></li>
+        <li><a id="new_cat_dec_4" href="http://www.fabfurnish.com/home-decor/curtains-accessories/new-products">Curtains &amp; Accessories</a></li>
+        <li><a id="new_cat_dec_5" href="http://www.fabfurnish.com/home-decor/garden-patio/new-products">Garden &amp; Patio</a></li>
+        <li class="nav-image newProdMenuImage"> <a title="Games" id="new_cat_dec_6" href="http://www.fabfurnish.com/home-decor/games/new-products/"><img src="http://1.fimg.in/cms/header/mainNav/newProd/20140603/New-D.jpg" width="170" height="150" border="0" alt="Games"></a></li>
+      </ul>
+    </div>
+    <div class="nav-left newProdMenuNoBorder">
+      <ul class="newProdMenu">
+        <li><a id="new_cat_bnb" href="http://www.fabfurnish.com/bed-bath/new-products">Bed &amp; Bath</a></li>
+        <li><a id="new_cat_bnb_1" href="http://www.fabfurnish.com/bed-bath/bed-linen/new-products">Bed Linen</a></li>
+        <li><a id="new_cat_bnb_2" href="http://www.fabfurnish.com/bed-bath/bath-linen/new-products">Bath</a></li>
+        <li class="nav-image newProdMenuImage"> <a title="Bath Mats" id="new_cat_bnb_3" href="http://www.fabfurnish.com/new-products/bed-bath/bed-sheets/"><img src="http://1.fimg.in/cms/header/mainNav/newProd/20140616/New-B.jpg" width="170" height="150" border="0" alt="Bath Mats"></a></li>
+      </ul>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+  </li>    
+    <li class="fabMenuMainCat "> 
     <a class="fabMenuMainCatLink " href="http://www.fabfurnish.com/furniture/" id="cat_131">
       <span>Furniture</span>
     </a><div class="fabMenuMainCatItmCont fsm fabMenuMainCat_1 main-nav-layer-default">
@@ -189,54 +263,59 @@ var  dataLayer = new Array();
  <div class="fab-nav">
     <div class="nav-left">  <ul>
       <li><a id="l2cat_138" href="http://www.fabfurnish.com/furniture/living-room/">Living Room Furniture</a></li>
-      <li><a id="l3cat_164" href="http://www.fabfurnish.com/furniture/coffee-accent-tables/">Coffee &amp; Accent Tables</a></li>
+      <li><a id="l3cat_164" href="http://www.fabfurnish.com/furniture/coffee-accent-tables/">Coffee &amp; Side Tables</a></li>
       <li><a id="l3cat_145" href="http://www.fabfurnish.com/furniture/chairs-recliners/">Chairs &amp; Recliners</a></li>
       <li><a id="l3cat_139" href="http://www.fabfurnish.com/furniture/ottomans-benches-stools/">Ottomans, Benches &amp; Stools</a></li>
       <li><a id="l3cat_207" href="http://www.fabfurnish.com/furniture/sofas-sectionals/">Sofas &amp; Sectionals</a></li>
             <li><a href="http://www.fabfurnish.com/furniture/living-room/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_154" href="http://www.fabfurnish.com/furniture/bedroom/">Bedroom Furniture</a></li>
       <li><a id="l3cat_160" href="http://www.fabfurnish.com/furniture/beds/">Beds</a></li>
-      <li><a id="l3cat_157" href="http://www.fabfurnish.com/furniture/bed-dressers/">Dressing Tables</a></li>
-      <li><a id="l3cat_214" href="http://www.fabfurnish.com/furniture/wall-shelves/">Wall Shelves</a></li>
-      <li><a id="l3cat_159" href="http://www.fabfurnish.com/furniture/wardrobes/">Wardrobes</a></li>
-            <li><a href="http://www.fabfurnish.com/furniture/bedroom/" class="all-link">View more</a></li>  </ul>    </div>
-  <div class="nav-left">  <ul>
+      <li><a id="l3cat_156" href="http://www.fabfurnish.com/furniture/bed-tables/">Bedside Tables</a></li>
+      <li><a id="l3cat_203" href="http://www.fabfurnish.com/furniture/chest-of-drawers/">Chest of Drawers</a></li>
+      <li><a id="l3cat_158" href="http://www.fabfurnish.com/furniture/bed-sets/">Bedroom Sets</a></li>
+            <li><a href="http://www.fabfurnish.com/furniture/bedroom/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_147" href="http://www.fabfurnish.com/furniture/dining-room/">Dining Room Furniture</a></li>
+      <li><a id="l3cat_205" href="http://www.fabfurnish.com/furniture/dining-sets/">Dining Sets</a></li>
       <li><a id="l3cat_148" href="http://www.fabfurnish.com/furniture/dining-tables/">Dining Tables</a></li>
       <li><a id="l3cat_152" href="http://www.fabfurnish.com/furniture/dining-chairs/">Dining Chairs</a></li>
-      <li><a id="l3cat_151" href="http://www.fabfurnish.com/furniture/dining-sideboards/">Sideboards</a></li>
-        </ul>  <ul>
-      <li><a id="l2cat_213" href="http://www.fabfurnish.com/furniture/other-essentials/">Other Essentials</a></li>
-      <li><a id="l3cat_679" href="http://www.fabfurnish.com/furniture/shoe-racks/">Shoe Racks</a></li>
-      <li><a id="l3cat_511" href="http://www.fabfurnish.com/furniture/furniture-accessories/">Furniture Accessories</a></li>
-      <li><a id="l3cat_422" href="http://www.fabfurnish.com/furniture/laptop-tables/">Laptop Tables &amp; Pads</a></li>
-      <li><a id="l3cat_400" href="http://www.fabfurnish.com/furniture/safes/">Safes</a></li>
-            <li><a href="http://www.fabfurnish.com/furniture/other-essentials/" class="all-link">View more</a></li>  </ul>    </div>
+      <li><a id="l3cat_151" href="http://www.fabfurnish.com/furniture/dining-sideboards/">Kitchen Cabinets &amp; Sideboards</a></li>
+        </ul>    </div>
   <div class="nav-left">  <ul>
+      <li><a id="l2cat_213" href="http://www.fabfurnish.com/furniture/home-improvement/">Home Improvement</a></li>
+      <li><a id="l3cat_833" href="http://www.fabfurnish.com/furniture/collapsible-wardrobes/">Collapsible Wardrobes</a></li>
+      <li><a id="l3cat_679" href="http://www.fabfurnish.com/furniture/shoe-racks/">Shoe Racks</a></li>
+      <li><a id="l3cat_400" href="http://www.fabfurnish.com/furniture/safes/">Safes</a></li>
+      <li><a id="l3cat_724" href="http://www.fabfurnish.com/furniture/multi-purpose-storage/">Multi Purpose Storage</a></li>
+            <li><a href="http://www.fabfurnish.com/furniture/home-improvement/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_210" href="http://www.fabfurnish.com/furniture/bar/">Bar Furniture</a></li>
       <li><a id="l3cat_417" href="http://www.fabfurnish.com/furniture/bar-cabinet/">Bar Cabinets</a></li>
       <li><a id="l3cat_212" href="http://www.fabfurnish.com/furniture/bar-stools/">Bar Stools</a></li>
         </ul>  <ul>
-      <li><a id="l2cat_132" href="http://www.fabfurnish.com/furniture/workspaces/">Workspaces</a></li>
+      <li><a id="l2cat_132" href="http://www.fabfurnish.com/furniture/study-room/">Study Room Furniture</a></li>
+      <li><a id="l3cat_422" href="http://www.fabfurnish.com/furniture/laptop-tables/">Laptop Tables &amp; Pads</a></li>
       <li><a id="l3cat_678" href="http://www.fabfurnish.com/furniture/study-tables/">Study Tables</a></li>
+      <li><a id="l3cat_137" href="http://www.fabfurnish.com/furniture/filing-storage/">Filing &amp; Storage</a></li>
       <li><a id="l3cat_136" href="http://www.fabfurnish.com/furniture/office-chairs/">Office Chairs</a></li>
+        </ul>    </div>
+  <div class="nav-left">  <ul>
+      <li><a id="l2cat_344" href="http://www.fabfurnish.com/furniture/outdoor/">Outdoor Furniture</a></li>
+      <li><a id="l3cat_420" href="http://www.fabfurnish.com/furniture/swings/">Swings</a></li>
+      <li><a id="l3cat_354" href="http://www.fabfurnish.com/furniture/hammocks/">Hammocks</a></li>
+      <li><a id="l3cat_421" href="http://www.fabfurnish.com/furniture/gazebo/">Gazebos</a></li>
+      <li><a id="l3cat_847" href="http://www.fabfurnish.com/furniture/patio/">Patio Furniture</a></li>
         </ul>  </div>
   
-  <div style="clear:both;">    <div class="nav-left nav-noborderbottom nav-nosublink">
-      <ul>
-<li><a id="l2cat_344" href="http://www.fabfurnish.com/furniture/outdoor/">Outdoor Furniture</a></li>
-      </ul>
-    </div>  </div>
+  <div style="clear:both;">  </div>
 </div>
 <div class="nav-right">
       <ul>
   <li class="first">SPECIALS</li>
-  <li><a href="/furniture/new-products">New Arrivals</a></li>
-  <li><a href="/furniture/?price=*-1999">Under Rs 1999</a></li>
-  <li><a href="/crazy-deal/">Hottest Offers</a></li>
+  <li><a href="http://www.fabfurnish.com/furniture/new-products">New Arrivals</a></li>
+  <li><a href="http://www.fabfurnish.com/furniture/?price=*-1999">Under Rs 1999</a></li>
+  <li><a href="http://www.fabfurnish.com/end-of-season-sale/">Hottest Offers</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/furniture/recliners/"><img src="http://1.fimg.in/cms/header/mainNav/20130530/furniture01.jpg" width="170" height="150" border="0" alt="Recliners"></a>
+  <a title="Coffee Tables" href="http://www.fabfurnish.com/furniture/coffee-tables/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/Funiture.jpg" width="170" height="150" border="0" alt="Coffee Tables"></a>
       </div>
   </div></div>
   
@@ -250,7 +329,7 @@ var  dataLayer = new Array();
       <li><a id="l2cat_92" href="http://www.fabfurnish.com/bed-bath/bed-linen/">Bed</a></li>
       <li><a id="l3cat_418" href="http://www.fabfurnish.com/bed-bath/bed-in-a-bag/">Bed In A Bag</a></li>
       <li><a id="l3cat_222" href="http://www.fabfurnish.com/bed-bath/bedspreads/">Bedspreads</a></li>
-      <li><a id="l3cat_100" href="http://www.fabfurnish.com/bed-bath/bed-sheet-sets/">Bed Sheet Sets</a></li>
+      <li><a id="l3cat_100" href="http://www.fabfurnish.com/bed-bath/bed-sheets/">Bed Sheets</a></li>
       <li><a id="l3cat_94" href="http://www.fabfurnish.com/bed-bath/quilts-blankets/">Quilts/Blankets</a></li>
             <li><a href="http://www.fabfurnish.com/bed-bath/bed-linen/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_86" href="http://www.fabfurnish.com/bed-bath/bath-linen/">Bath</a></li>
@@ -265,12 +344,13 @@ var  dataLayer = new Array();
 <div class="nav-right">
       <ul>
   <li class="first">SPECIALS</li>
-  <li><a href="/bed-bath/new-products">New Arrivals</a></li>
-          <li><a href="/bed-bath/?q=Solid%20Sheets">Solid Bed Sheets</a></li>
-  <li><a href="/bed-bath/?price=199-749">Under Rs 749</a></li>
+  <li><a href="http://www.fabfurnish.com/bed-bath/new-products">New Arrivals</a></li>
+          <li><a href="http://www.fabfurnish.com/bed-bath/?q=Solid%20Sheets">Solid Bed Sheets</a></li>
+          <li><a href="http://www.fabfurnish.com/bed-bath/bed-linen/manasa--ratan-jaipur">Jaipuri Prints</a></li>
+  <li><a href="http://www.fabfurnish.com/bed-bath/?price=199-749">Under Rs 749</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/bed-bath/bath-linen/"><img src="http://1.fimg.in/cms/header/mainNav/20131113/bed-bath.jpg" width="170" height="150" border="0" alt="Bath Linen"></a>
+  <a title="Bed Sheets" href="http://www.fabfurnish.com/bed-bath/bed-sheets/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/b-b.jpg" width="154" height="154" border="0" alt="Bed Sheets"></a>
       </div>
   </div></div>
   
@@ -290,7 +370,7 @@ var  dataLayer = new Array();
       <li><a id="l3cat_533" href="http://www.fabfurnish.com/home-decor/window-curtains/">Window Curtains</a></li>
       <li><a id="l3cat_534" href="http://www.fabfurnish.com/home-decor/door-curtains/">Door Curtains</a></li>
       <li><a id="l3cat_535" href="http://www.fabfurnish.com/home-decor/long-door-curtains/">Long Door Curtains</a></li>
-      <li><a id="l3cat_286" href="http://www.fabfurnish.com/home-decor/accessories/">Accessories</a></li>
+      <li><a id="l3cat_286" href="http://www.fabfurnish.com/home-decor/curtain-accessories/">Curtain Accessories</a></li>
             <li><a href="http://www.fabfurnish.com/home-decor/curtains-accessories/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_304" href="http://www.fabfurnish.com/home-decor/candles-fragrances/">Candles &amp; Fragrances</a></li>
       <li><a id="l3cat_310" href="http://www.fabfurnish.com/home-decor/candles/">Candles</a></li>
@@ -307,9 +387,10 @@ var  dataLayer = new Array();
       <li><a id="l2cat_172" href="http://www.fabfurnish.com/home-decor/vases-and-flowers/">Vases &amp; Flowers</a></li>
       <li><a id="l3cat_633" href="http://www.fabfurnish.com/home-decor/vases/">Vases</a></li>
       <li><a id="l3cat_632" href="http://www.fabfurnish.com/home-decor/flowers/">Flowers</a></li>
+      <li><a id="l3cat_792" href="http://www.fabfurnish.com/home-decor/indoor-plants/">Indoor Plants</a></li>
         </ul>  <ul>
       <li><a id="l2cat_49" href="http://www.fabfurnish.com/home-decor/rug-carpets/">Rugs &amp; Carpets</a></li>
-      <li><a id="l3cat_576" href="http://www.fabfurnish.com/home-decor/yoga-mats/">Yoga Mats</a></li>
+      <li><a id="l3cat_677" href="http://www.fabfurnish.com/home-decor/multipurpose-mats/">Multipurpose Mats</a></li>
       <li><a id="l3cat_293" href="http://www.fabfurnish.com/home-decor/area-rugs/">Area Rugs</a></li>
       <li><a id="l3cat_294" href="http://www.fabfurnish.com/home-decor/door-mats/">Doormats</a></li>
       <li><a id="l3cat_296" href="http://www.fabfurnish.com/home-decor/floor-runners/">Floor Runners</a></li>
@@ -318,6 +399,7 @@ var  dataLayer = new Array();
       <li><a id="l2cat_288" href="http://www.fabfurnish.com/home-decor/cushions-throws/">Cushions &amp; Throws</a></li>
       <li><a id="l3cat_178" href="http://www.fabfurnish.com/home-decor/cushion-covers/">Cushion Covers</a></li>
       <li><a id="l3cat_290" href="http://www.fabfurnish.com/home-decor/cushion-inserts/">Cushion Inserts</a></li>
+      <li><a id="l3cat_98" href="http://www.fabfurnish.com/home-decor/filled-cushions/">Filled Cushions</a></li>
       <li><a id="l3cat_289" href="http://www.fabfurnish.com/home-decor/throws/">Throws</a></li>
         </ul>  <ul>
       <li><a id="l2cat_322" href="http://www.fabfurnish.com/home-decor/home-accents/">Home Accents</a></li>
@@ -329,6 +411,7 @@ var  dataLayer = new Array();
       <li><a id="l2cat_336" href="http://www.fabfurnish.com/home-decor/religion-spirituality/">Religion &amp; Spirituality</a></li>
       <li><a id="l3cat_699" href="http://www.fabfurnish.com/home-decor/feng-shui/">Feng Shui</a></li>
       <li><a id="l3cat_338" href="http://www.fabfurnish.com/home-decor/figurines/">Figurines</a></li>
+      <li><a id="l3cat_339" href="http://www.fabfurnish.com/home-decor/mandirs/">Mandirs</a></li>
       <li><a id="l3cat_337" href="http://www.fabfurnish.com/home-decor/prayer-accessories/">Prayer Accessories</a></li>
         </ul>    </div>
   <div class="nav-left">  <ul>
@@ -336,7 +419,7 @@ var  dataLayer = new Array();
       <li><a id="l3cat_700" href="http://www.fabfurnish.com/home-decor/natural-plants/">Natural Plants</a></li>
       <li><a id="l3cat_408" href="http://www.fabfurnish.com/home-decor/windchimes/">Windchimes</a></li>
       <li><a id="l3cat_174" href="http://www.fabfurnish.com/home-decor/pots-planters/">Pots &amp; Planters</a></li>
-      <li><a id="l3cat_324" href="http://www.fabfurnish.com/home-decor/garden-decor/">Garden Décor</a></li>
+      <li><a id="l3cat_325" href="http://www.fabfurnish.com/home-decor/watering-cans/">Watering Cans</a></li>
             <li><a href="http://www.fabfurnish.com/home-decor/garden-patio/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_650" href="http://www.fabfurnish.com/home-decor/hardware/">Hardware</a></li>
       <li><a id="l3cat_654" href="http://www.fabfurnish.com/home-decor/handles/">Handles</a></li>
@@ -345,9 +428,8 @@ var  dataLayer = new Array();
       <li><a id="l3cat_651" href="http://www.fabfurnish.com/home-decor/knobs/">Knobs</a></li>
         </ul>  <ul>
       <li><a id="l2cat_682" href="http://www.fabfurnish.com/home-decor/other-accessories/">Other Accessories</a></li>
-      <li><a id="l3cat_684" href="http://www.fabfurnish.com/home-decor/bags/">Bags</a></li>
+      <li><a id="l3cat_791" href="http://www.fabfurnish.com/home-decor/skins-mousepads/">Skins &amp; Mousepads</a></li>
       <li><a id="l3cat_681" href="http://www.fabfurnish.com/home-decor/umbrellas/">Umbrellas</a></li>
-      <li><a id="l3cat_683" href="http://www.fabfurnish.com/home-decor/laptop-tablet-sleeves/">Laptop &amp; Tablet Sleeves</a></li>
         </ul>  </div>
   
   <div style="clear:both;">    <div class="nav-left nav-noborderbottom nav-nosublink">
@@ -364,10 +446,11 @@ var  dataLayer = new Array();
       <ul>
   <li class="first">SPECIALS</li>
   <li><a href="/home-decor/new-products/">New Arrivals</a></li>
+          
   <li><a href="/home-decor/?price=75-499">Under Rs 499</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/home-decor/home-accents/"><img src="http://1.fimg.in/cms/header/mainNav/20130819/decor03.jpg" width="170" height="150" border="0" alt="Home Accents"></a>
+  <a title="Flowers" href="/home-decor/flowers/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/Decor.jpg" width="176" height="176" border="0" alt="Flowers"></a>
       </div>
   </div>
 
@@ -387,9 +470,10 @@ var  dataLayer = new Array();
   <div class="nav-left">  <ul>
       <li><a id="l2cat_65" href="http://www.fabfurnish.com/lighting/ceiling-lights/">Ceiling Lights</a></li>
       <li><a id="l3cat_435" href="http://www.fabfurnish.com/lighting/decorative-mood-lighting/">Decorative &amp; Mood Lighting</a></li>
+      <li><a id="l3cat_434" href="http://www.fabfurnish.com/lighting/picture-display-lights/">Picture &amp; Display Lights</a></li>
       <li><a id="l3cat_433" href="http://www.fabfurnish.com/lighting/pendants/">Pendants</a></li>
-      <li><a id="l3cat_432" href="http://www.fabfurnish.com/lighting/chandeliers/">Chandeliers</a></li>
-        </ul>  </div>
+      <li><a id="l3cat_299" href="http://www.fabfurnish.com/lighting/fixtures/">Fixtures</a></li>
+            <li><a href="http://www.fabfurnish.com/lighting/ceiling-lights/" class="all-link">View more</a></li>  </ul>  </div>
   
   <div style="clear:both;">    <div class="nav-left nav-noborderbottom nav-nosublink">
       <ul>
@@ -403,16 +487,20 @@ var  dataLayer = new Array();
       <ul>
 <li><a id="l2cat_578" href="http://www.fabfurnish.com/lighting/string-lights/">String Lights</a></li>
       </ul>
-    </div>  </div>
+    </div>    <div class="nav-left nav-noborderbottom nav-nosublink">
+      <ul>
+<li><a id="l2cat_436" href="http://www.fabfurnish.com/lighting/outdoor-lights/">Outdoor Lights</a></li>
+      </ul>
+    </div><div style="clear:both;"></div>  </div>
 </div>
 <div class="nav-right">
       <ul>
   <li class="first">SPECIALS</li>
-  <li><a href="/lighting/new-products">New Arrivals</a></li>
-  <li><a href="/lighting/?price=*-1999">Under Rs 1999</a></li>
+  <li><a href="http://www.fabfurnish.com/lighting/new-products">New Arrivals</a></li>
+  <li><a href="http://www.fabfurnish.com/lighting/?price=*-1999">Under Rs 1999</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/lighting/table-lamps/"><img src="http://1.fimg.in/cms/header/mainNav/20131113/Lighting.jpg" width="170" height="150" border="0" alt="Table Lamps"></a>
+  <a title="Wall Lights" href="http://www.fabfurnish.com/lighting/wall-lights/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/light.jpg" width="170" height="150" border="0" alt="Wall Lights"></a>
       </div>
   </div>
  
@@ -477,6 +565,7 @@ var  dataLayer = new Array();
         </ul>  <ul>
       <li><a id="l2cat_115" href="http://www.fabfurnish.com/kitchen-dining/cooktops-burners/">Cooktops &amp; Burners</a></li>
       <li><a id="l3cat_454" href="http://www.fabfurnish.com/kitchen-dining/metal-top/">Metal Tops</a></li>
+      <li><a id="l3cat_453" href="http://www.fabfurnish.com/kitchen-dining/built-in-hobs/">Built in Hobs</a></li>
       <li><a id="l3cat_452" href="http://www.fabfurnish.com/kitchen-dining/glass-top/">Glass Tops</a></li>
         </ul>  </div>
   
@@ -497,27 +586,82 @@ var  dataLayer = new Array();
 <div class="nav-right">
       <ul>
   <li class="first">SPECIALS</li>
-  <li><a href="/kitchen-dining/new-products">New Arrivals</a></li>
-  <li><a href="/kitchen-dining/?price=83-499">Under Rs 499</a></li>
+  <li><a href="http://www.fabfurnish.com/kitchen-dining/new-products">New Arrivals</a></li>
+          
+  <li><a href="http://www.fabfurnish.com/kitchen-dining/?price=83-499">Under Rs 499</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/kitchen-dining/dinner-sets/"><img src="http://1.fimg.in/cms/header/mainNav/Kitchen_&amp;_Dining.png" width="170" height="150" border="0" alt="Dining Sets"></a>
+  <a title="Wok Pan" href="http://www.fabfurnish.com/kitchen-dining/wok-pan/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/kitchen-dining.jpg" width="170" height="150" border="0" alt="Wok Pan"></a>
       </div>
   </div>
 </div>
   
     </li>  <li class="fabMenuMainCat "> 
-    <a class="fabMenuMainCatLink " href="http://www.fabfurnish.com/kids-baby/" id="cat_17">
-      <span>Kids &amp; Baby</span>
+    <a class="fabMenuMainCatLink " href="http://www.fabfurnish.com/luggage-bags/" id="cat_702">
+      <span>Luggage &amp; Bags</span>
     </a><div class="fabMenuMainCatItmCont fsm fabMenuMainCat_6 main-nav-layer-default">
 
  <div class="fab-nav">
     <div class="nav-left">  <ul>
+      <li><a id="l2cat_706" href="http://www.fabfurnish.com/luggage-bags/backpacks/">Backpacks</a></li>
+      <li><a id="l3cat_731" href="http://www.fabfurnish.com/luggage-bags/school-backpacks/">School Bags</a></li>
+      <li><a id="l3cat_730" href="http://www.fabfurnish.com/luggage-bags/travel-backpacks/">Travel Backpacks</a></li>
+      <li><a id="l3cat_729" href="http://www.fabfurnish.com/luggage-bags/messenger-bags/">Messenger Bags</a></li>
+      <li><a id="l3cat_719" href="http://www.fabfurnish.com/luggage-bags/rucksacks/">Rucksacks</a></li>
+            <li><a href="http://www.fabfurnish.com/luggage-bags/backpacks/" class="all-link">View more</a></li>  </ul>  <ul>
+      <li><a id="l2cat_703" href="http://www.fabfurnish.com/luggage-bags/handbags/">Handbags</a></li>
+      <li><a id="l3cat_709" href="http://www.fabfurnish.com/luggage-bags/sling-bags/">Sling Bags</a></li>
+      <li><a id="l3cat_708" href="http://www.fabfurnish.com/luggage-bags/totes/">Totes</a></li>
+      <li><a id="l3cat_727" href="http://www.fabfurnish.com/luggage-bags/clutches/">Clutches</a></li>
+      <li><a id="l3cat_728" href="http://www.fabfurnish.com/luggage-bags/wallets/">Wallets</a></li>
+        </ul>    </div>
+  <div class="nav-left">  <ul>
+      <li><a id="l2cat_732" href="http://www.fabfurnish.com/luggage-bags/business-bags/">Business Bags</a></li>
+      <li><a id="l3cat_735" href="http://www.fabfurnish.com/luggage-bags/laptop-bags/">Laptop Bags</a></li>
+      <li><a id="l3cat_734" href="http://www.fabfurnish.com/luggage-bags/over-nighter-bags/">Over Nighter Bags</a></li>
+        </ul>  <ul>
+      <li><a id="l2cat_740" href="http://www.fabfurnish.com/luggage-bags/duffles-sports-bags/">Duffles &amp; Sports Bags</a></li>
+      <li><a id="l3cat_743" href="http://www.fabfurnish.com/luggage-bags/travel-duffle/">Travel Duffle</a></li>
+        </ul>    </div>
+  <div class="nav-left">  <ul>
+      <li><a id="l2cat_705" href="http://www.fabfurnish.com/luggage-bags/luggage/">Luggage</a></li>
+      <li><a id="l3cat_737" href="http://www.fabfurnish.com/luggage-bags/soft-sided/">Soft Sided</a></li>
+      <li><a id="l3cat_717" href="http://www.fabfurnish.com/luggage-bags/trolley-bags/">Trolley Bags</a></li>
+        </ul>  <ul>
+      <li><a id="l2cat_744" href="http://www.fabfurnish.com/luggage-bags/cases-sleeves/">Cases &amp; Sleeves</a></li>
+      <li><a id="l3cat_746" href="http://www.fabfurnish.com/luggage-bags/laptop-tablet-sleeves/">Laptop &amp; Tablet Sleeves</a></li>
+      <li><a id="l3cat_745" href="http://www.fabfurnish.com/luggage-bags/mobile-cases/">Mobile Cases</a></li>
+        </ul>  </div>
+  
+  <div style="clear:both;">    <div class="nav-left nav-noborderbottom nav-nosublink">
+      <ul>
+<li><a id="l2cat_704" href="http://www.fabfurnish.com/luggage-bags/travel-accessories/">Travel Accessories</a></li>
+      </ul>
+    </div>  </div>
+</div>
+<div class="nav-right">
+      <ul>
+  <li class="first">SPECIALS</li>
+  <li><a href="http://www.fabfurnish.com/luggage-bags/new-products">New Arrivals</a></li>
+  <li><a href="http://www.fabfurnish.com/luggage-bags/?price=*-1499">Under Rs 1499</a></li>
+      </ul>
+      <div class="nav-image">
+  <a title="Totes" href="http://www.fabfurnish.com/luggage-bags/totes/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/bag.jpg" width="170" height="150" border="0" alt="Totes"></a>
+      </div>
+  </div></div>
+  
+    </li>  <li class="fabMenuMainCat "> 
+    <a class="fabMenuMainCatLink " href="http://www.fabfurnish.com/kids-baby/" id="cat_17">
+      <span>Kids &amp; Baby</span>
+    </a><div class="fabMenuMainCatItmCont fsm fabMenuMainCat_7 main-nav-layer-default">
+
+ <div class="fab-nav">
+    <div class="nav-left">  <ul>
       <li><a id="l2cat_27" href="http://www.fabfurnish.com/kids-baby/baby-toys/">Toys</a></li>
+      <li><a id="l3cat_773" href="http://www.fabfurnish.com/kids-baby/electronic-toys/">Electronic Toys</a></li>
+      <li><a id="l3cat_754" href="http://www.fabfurnish.com/kids-baby/musical-toys/">Musical Toys</a></li>
       <li><a id="l3cat_359" href="http://www.fabfurnish.com/kids-baby/educational-activity/">Educational &amp; Activity</a></li>
       <li><a id="l3cat_663" href="http://www.fabfurnish.com/kids-baby/arts-crafts/">Arts &amp; Crafts</a></li>
-      <li><a id="l3cat_381" href="http://www.fabfurnish.com/kids-baby/vehicles/">Vehicles</a></li>
-      <li><a id="l3cat_368" href="http://www.fabfurnish.com/kids-baby/infant-toys/">Infant Toys</a></li>
             <li><a href="http://www.fabfurnish.com/kids-baby/baby-toys/" class="all-link">View more</a></li>  </ul>  <ul>
       <li><a id="l2cat_34" href="http://www.fabfurnish.com/kids-baby/kids-linen/">Kids Linen</a></li>
       <li><a id="l3cat_510" href="http://www.fabfurnish.com/kids-baby/kids-cushions/">Kids Cushions</a></li>
@@ -527,7 +671,9 @@ var  dataLayer = new Array();
         </ul>    </div>
   <div class="nav-left">  <ul>
       <li><a id="l2cat_32" href="http://www.fabfurnish.com/kids-baby/kids-furniture/">Kids Furniture</a></li>
-      <li><a id="l3cat_35" href="http://www.fabfurnish.com/kids-baby/toy-storage/">Toy Storage</a></li>
+      <li><a id="l3cat_655" href="http://www.fabfurnish.com/kids-baby/kids-wardrobes/">Kids Wardrobes</a></li>
+      <li><a id="l3cat_37" href="http://www.fabfurnish.com/kids-baby/kids-chairs/">Kids Chairs</a></li>
+      <li><a id="l3cat_36" href="http://www.fabfurnish.com/kids-baby/kids-beds/">Kids Beds</a></li>
         </ul>  <ul>
       <li><a id="l2cat_391" href="http://www.fabfurnish.com/kids-baby/children-books/">Children Books &amp; Stationery</a></li>
       <li><a id="l3cat_392" href="http://www.fabfurnish.com/kids-baby/activity-books/">Activity Books</a></li>
@@ -535,7 +681,13 @@ var  dataLayer = new Array();
         </ul>    </div>
   <div class="nav-left">  <ul>
       <li><a id="l2cat_274" href="http://www.fabfurnish.com/kids-baby/baby-gear/">Baby Gear</a></li>
-      <li><a id="l3cat_394" href="http://www.fabfurnish.com/kids-baby/infant-utilities/">Infant Utilities</a></li>
+      <li><a id="l3cat_393" href="http://www.fabfurnish.com/kids-baby/other-infant-carriers/">Other Infant Carriers</a></li>
+      <li><a id="l3cat_275" href="http://www.fabfurnish.com/kids-baby/strollers/">Strollers</a></li>
+      <li><a id="l3cat_282" href="http://www.fabfurnish.com/kids-baby/car-seats/">Car Seats</a></li>
+      <li><a id="l3cat_277" href="http://www.fabfurnish.com/kids-baby/bath-potty-change/">Bath Potty &amp; Change</a></li>
+        </ul>  <ul>
+      <li><a id="l2cat_18" href="http://www.fabfurnish.com/kids-baby/nursery/">Nursery</a></li>
+      <li><a id="l3cat_20" href="http://www.fabfurnish.com/kids-baby/bassinets-cradles/">Bassinets &amp; Cradles</a></li>
         </ul>  </div>
   
   <div style="clear:both;">    <div class="nav-left nav-noborderbottom nav-nosublink">
@@ -558,20 +710,24 @@ var  dataLayer = new Array();
       <ul>
 <li><a id="l2cat_656" href="http://www.fabfurnish.com/kids-baby/kids-decor/">Kids Decor</a></li>
       </ul>
-    </div>  </div>
+    </div>    <div class="nav-left nav-noborderbottom nav-nosublink">
+      <ul>
+<li><a id="l2cat_726" href="http://www.fabfurnish.com/kids-baby/party-supplies/">Party Supplies</a></li>
+      </ul>
+    </div><div style="clear:both;"></div>  </div>
 </div>
 <div class="nav-right">
       <ul>
   <li class="first">SPECIALS</li>
-  <li><a href="/kids-baby/new-products/">New Arrivals</a></li>
-  <li><a href="/new-products/kids-baby/?price=*-599">Under Rs 599</a></li>
+  <li><a href="http://www.fabfurnish.com/kids-baby/new-products/">New Arrivals</a></li>
+  <li><a href="http://www.fabfurnish.com/new-products/kids-baby/?price=*-599">Under Rs 599</a></li>
       </ul>
       <div class="nav-image">
-  <a href="/kids-baby/kids-furniture/"><img src="http://1.fimg.in/cms/header/mainNav/20131113/kids-baby.jpg" width="170" height="150" border="0" alt="Kids Furniture"></a>
-      </div>
+  <a title="Play Sets Craft Sets" href="http://www.fabfurnish.com/kids-baby/play-sets-craft-sets/"><img src="http://1.fimg.in/cms/header/mainNav/20140603/Kids.jpg" width="170" height="150" border="0" alt="Play Sets Craft Sets"></a>
   </div></div>
   
-    </li>  <style type="text/css">
+    </div></li>  <style type="text/css">
+/*
 .christmasLogo{
     background: none repeat scroll 0 0 #FFFFFF;
     border: 0 none;
@@ -581,16 +737,28 @@ var  dataLayer = new Array();
     top: -82px;
     width: 181px;
 }
+
 .christmasLogo img{
     height: 77px;
     width: auto;
 }
+*/
+
+.fabMenuMainCat_6 {
+    left: 205px;
+}
+.fabMenuMainCat_7 {
+    right: 0;
+}
 </style>
 
-<li class="fabMenuMainCat" onclick="window.location.href='/crazy-deal-kitchen-dining/'"><a class="fabMenuMainCatLink" href="/crazy-deal-kitchen-dining/"><span>SALE %</span></a></li>
-<li class="fabMenuMainCat" onclick="window.location.href='/premium-home'">
-<a class="fabMenuMainCatLink mydream" href="/premium-home"><span><img style="margin-top:-5px" src="http://1.fimg.in/cms/header/mainNav/Premium-tab.png" width="69" height="18"></span></a></li>
-<li class="christmasLogo"><a href="http://www.fabfurnish.com/" title="Furniture Online – FabFurnish.com"><img src="http://1.fimg.in/cms/header/logo-christmas-13.png" width="181" height="77" alt="Furniture Online – FabFurnish.com"></a></li></ul></div>
+<li class="fabMenuMainCat" onclick="window.location.href='http://www.fabfurnish.com/end-of-season-sale/'"><a class="fabMenuMainCatLink" href="http://www.fabfurnish.com/end-of-season-sale/"><span>SALE %</span></a></li>
+<li class="fabMenuMainCat" onclick="window.location.href='http://www.fabfurnish.com/premium-home'">
+<a class="fabMenuMainCatLink mydream" href="http://www.fabfurnish.com/premium-home"><span><img style="margin-top:-5px" src="http://1.fimg.in/cms/header/mainNav/Premium-tab.png" width="69" height="18"></span></a></li>
+
+<!--
+<li class="christmasLogo"><a href="http://www.fabfurnish.com/" title="Furniture Online – FabFurnish.com"><img src="http://1.fimg.in/cms/header/logo-christmas-13.png" width="181" height="77" alt="Furniture Online – FabFurnish.com"></a></li>
+--></ul></div>
         </nav> 
 </header>
 <input type="hidden" id="popup_delay" name="popup_delay" value="15"><div id="loadId" style="display:none;"><img width="31" height="31" src="http://1.fimg.in/images/local_v2/icons/loader.gif" alt="Loading.."><br>Please wait..</div>
@@ -620,6 +788,81 @@ var  dataLayer = new Array();
     width: 73%;
 }
 </style>
+    <div class="window escClose" id="popupBox_map">
+  <div class="popCon2 center-ct">
+      <div>
+
+          <span class="hplazyImageCampaignPopup">
+            <span class="hp-itm-imageWrapperCampaignPopup" img-data="http://1.fimg.in/images/local_v2/content/signUpBg_050614.jpg">
+                <noscript>
+                <img src="http://1.fimg.in/images/local_v2/content/signUpBg_050614.jpg" alt="Signup Popup" />
+                </noscript>
+            </span>
+        </span>
+      </div>
+    <div class="popclose"> <a href="javascript:void(0)" class="close popConCloseIcon" onclick="document.getElementById('popupBox_map').style.display = 'none';">  </a></div>
+    
+   
+      <form action="" name="formCampaign" id="formCampaignId" class="popform" onsubmit="submitmyformnew();return false;">
+      <div class="popBoxInputNew mtm mbm center-ct clearfix">
+          <div class="signUpError mts fss"><p id="errorDivNew" style="display:none;">Invalid email address - Try again</p></div>
+          <input class="popInputBox center-ct pam" id="email" name="email" value="Enter your email address..." maxlength="50" type="text">
+          <div class="popgender"><input class="popBoxBtn lfloat womenBtn" name="" value="female" type="submit" onclick="getGender('female');"> 
+<!--           <input class="popBoxBtn rfloat menBtn" name="" value="male" type="submit"  onclick="getGender('male');"/>-->
+           <input type="hidden" name="gender" id="gender" val="">
+       </div>
+       
+       
+       <div id="successDiv" class="email-text-container" style="display: none;text-align: center;">Congratulations! <br>You've successfully registered.</div>
+       <input name="YII_CSRF_TOKEN" id="token" value="e0543b95a3444b957c789dcaf2ca0891645e1e50" type="hidden">
+      </div>
+    </form>
+    
+  </div>
+</div>
+    <div id="mask" class="escClose"></div>
+    <script>
+        
+        function getGender(gender){
+            $("#gender").val(gender);
+        }
+</script>
+<script type="text/javascript">
+function lazyloadCampaignPopup(element, e){
+    if(!element.hasClass('loaded') && !element.children('.itm-img').length) {
+            var distY = element.offset().top;
+            var distReal = distY - $(window).scrollTop();
+            if (distReal < $(window).height()) {
+                var imgDiv = element.children('.hp-itm-imageWrapperCampaignPopup');
+                var imgSrc = imgDiv.attr('img-data');
+                var productName = imgDiv.attr('title');
+                if (imgSrc.indexOf('lazyloadShowCampaignPopup') == -1) {
+                    imgDiv.html('<img alt="' + productName + '" class="itm-img" style="display:none" src="' + imgSrc + '" onload="lazyloadShowCampaignPopup($(this));" >');
+                }
+             }
+      }
+ }
+    function lazyloadShowCampaignPopup(el) {
+        el.parents('.hplazyImageCampaignPopup').addClass('loaded');
+        el.parent().show();
+        el.fadeIn();
+    
+    }
+    function afterLoadCampaignPopup(){
+        $('.hplazyImageCampaignPopup').each(function(){lazyloadCampaignPopup($(this), 1000);});
+        }
+        if (window.addEventListener) {
+              window.addEventListener("load", afterLoadCampaignPopup, false);
+        } else{
+        window.attachEvent('onload', afterLoadCampaignPopup);
+        }
+           
+</script>
+       <div class="livefeedhide" style="display: none;"></div>
+<div class="recentlyFeedCont" style="display:none"></div>
+<script>
+    var showRecentlySoldItemsFeed = 'cmspage';
+</script>
 
 <div class="l-pageWrapper l-hasSidebarAndAside cms-staticpage">
     <h2 class="ui-borderBottom pbs mbs">Privacy Policy</h2>
@@ -691,6 +934,7 @@ Payments that you make through the Site will be processed by our company Alix Re
   <div class="box-bd">
     <p>The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to <a href="http://www.allaboutcookies.org" target="_blank">http://www.allaboutcookies.org</a> or to find out about removing them from your browser, go to <a href="http://www.allaboutcookies.org/manage-cookies/index.html" target="_blank">http://www.allaboutcookies.org/manage-cookies/index.html</a>.</p>
     <p class="mtm">The Site uses technology from Google Analytics and Webtrekk GmbH (www.webtrekk.de) through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.</p>
+<p class="mtm">The Site has also implemented Google Analytics Demographics and Interest Reporting feature. This will help us segment our customer base in terms of demographics (age, gender) and interest (affinity towards a category), which would enable us to market our offerings on Google Display Network, personalized to your browsing behaviour. However, if you intend to opt out of this feature, you may do so via <a href="https://www.google.com/settings/ads" target="_blank">https://www.google.com/settings/ads</a>.</p>
   </div>
 </div>
 <div class="box">
@@ -752,8 +996,8 @@ Payments that you make through the Site will be processed by our company Alix Re
     <footer id="footer" class="ui-bgGreyn ui-bgWhite clearfix">
     <div class="l-pageWrapper ptm pbm mtl ui-Topborder">
     <style>
-.Footer-Social-Links a, .Footer-order-Links a        { background:url(http://1.fimg.in/cms/footer/20131030/Sprites-Footer-301013.png) no-repeat; display: inline-block; height: 35px;
-       margin-left: 3px; vertical-align: middle; width: 34px;}
+.Footer-Social-Links a, .Footer-order-Links a        { background:url(http://1.fimg.in/cms/footer/20140613/Footer-Sprite-13062014.png) no-repeat; display: inline-block; height: 23px;
+       margin-left: 3px; vertical-align: middle; width: 23px;}
 
 .Footer-order-Links {
     clear: right;
@@ -773,82 +1017,104 @@ Payments that you make through the Site will be processed by our company Alix Re
     height: 45px;
     width: 55px;
 }
+.Footer-Social-Links a { 
+       margin-left: 10px;
+}
+.Footer-Social-Links a.fb {
+    background-position: -8px -8px;
+}
+.Footer-Social-Links a.google {
+    background-position: -44px -8px;
+}
+.Footer-Social-Links a.tw {
+    background-position: -80px -8px;
+}
+.Footer-Social-Links a.pin {
+    background-position: -116px -8px;
+}
+.Footer-Social-Links a.yt {
+    background-position: -153px -8px;
+}
  .Footer-Social-Links a.ins {
-    background-position: -230px 0;
+    background-position: -187px -8px;
 }
 
+.Footer-Social-Links a.in {
+    background-position: -225px -8px;
+}
 </style>
 <div class="Footer-Top-Links clearfix">
       <div class="Footer-About-Us fsxs mbm clearfix">
          <div class="mbs">
           <p class="lfloat mrs">ABOUT US</p> -
-            <a class="mls mrs" href="/about_us/">Who We Are</a> /
-            <a class="mls mrs" href="/contact/">Contact Us</a> /
-            <a class="mls mrs" href="/showroom/">Showrooms</a>
+            <a class="mls mrs" href="http://www.fabfurnish.com/about_us/">Who We Are</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/contact/">Contact Us</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/showroom/">Showrooms</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/contact#contactAffiliate">Affiliate Related Queries</a>
           </div>
           <div class="mbs">
            <p class="lfloat mrs">CUSTOMER SERVICE</p> -
-            <a rel="nofollow" class="mls mrs" href="/faq/">FAQ</a> /
-            <a rel="nofollow" class="mls mrs" href="/faq#faq_shipping_delivery">Shipping</a> /
-            <a rel="nofollow" class="mls mrs" href="/faq#faq_cancellation">Cancellation</a> /
-            <a rel="nofollow" class="mls mrs" href="/return_policy/">Returns</a> /
-            <a rel="nofollow" class="mls mrs" href="/bulk-orders/">Bulk Orders</a> /
-            <a rel="nofollow" class="mls mrs" href="/customer-reviews/">Customer Stories</a>
+            <a class="mls mrs" href="http://www.fabfurnish.com/faq/">FAQ</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/faq/#tabsNewfaq-7">Shipping</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/faq/#tabsNewfaq-4">Cancellation</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/return_policy/">Returns</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/bulk-orders/">Bulk Orders</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/customer-reviews/">Customer Stories</a>
 
           </div>
           <div class="mbs">
             <p class="lfloat mrs">OUR BLOG</p> -
             <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/">Home</a> /
             <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/home-garden/">Home &amp; Garden</a> /
-            <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/do-it-yourself/">Do-It-Yourself</a> /
+            <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/do-it-yourself/">DIY Ideas</a> /
             <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/entertain-fabulously/">Style Quotient</a> /
             <a class="mls mrs" target="_blank" href="http://blog.fabfurnish.com/fabulous-living/">Fab Decor</a>
           </div>
           <div class="mbs">
             <p class="lfloat mrs">TOP BRANDS</p> -
-            <a class="mls mrs" href="/swayam/">Swayam</a> /
-            <a class="mls mrs" href="/fab-home/">Fab Home</a> /
-            <a class="mls mrs" href="/kingselect/">KingSelect</a> /
-            <a class="mls mrs" href="/mom-italy/">MOM-Italy</a> /
-            <a class="mls mrs" href="/elmwood/">Elmwood</a> /
-            <a class="mls mrs" href="/corelle/">Corelle</a> /
-            <a class="mls mrs" href="/blossoms/">Blossoms</a> /
-            <a class="mls mrs" href="/bombay-dyeing/">Bombay Dyeing</a> /
-<a class="mls mrs" href="/brands/">All brands</a> 
+            <a class="mls mrs" href="http://www.fabfurnish.com/swayam/">Swayam</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/fab-home/">Fab Home</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/kingselect/">KingSelect</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/mom-italy/">MOM-Italy</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/elmwood/">Elmwood</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/corelle/">Corelle</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/tupperware/">Tupperware</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/bombay-dyeing/">Bombay Dyeing</a> /
+<a class="mls mrs" href="/brands/">All Brands</a> 
           </div>
           <div class="mbs">
             <p class="lfloat mrs">TOP CATEGORIES</p> -
-            <a class="mls mrs" rel="nofollow" href="/furniture/">Furniture</a> /
-            <a class="mls mrs" rel="nofollow" href="/bed-bath/">Bed &amp; Bath</a> /
-            <a class="mls mrs" rel="nofollow" href="/home-decor/">Decor</a> /
-            <a class="mls mrs" rel="nofollow" href="/lighting/">Lighting</a> /
-            <a class="mls mrs" rel="nofollow" href="/kitchen-dining/">Kitchen &amp; Dining</a> /
-            <a class="mls mrs" rel="nofollow" href="/kids-baby/">Kids &amp; Baby</a>
+            <a class="mls mrs" href="http://www.fabfurnish.com/furniture/">Furniture</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/bed-bath/">Bed &amp; Bath</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/home-decor/">Decor</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/lighting/">Lighting</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/kitchen-dining/">Kitchen &amp; Dining</a> /
+            <a class="mls mrs" href="http://www.fabfurnish.com/kids-baby/">Kids &amp; Baby</a>
           </div>
         </div>
         
         <div class="Footer-Social-Links">
-            <a class="fb" title="Facebook" target="_blank" href="https://www.facebook.com/fabfurnish"></a>
-            <a class="tw" title="Twitter" target="_blank" href="https://twitter.com/fabfurnishindia"></a>
+<a href="https://www.facebook.com/fabfurnish" target="_blank" title="Facebook" class="fb"></a>
+<a class="google" title="Google +" rel="publisher" target="_blank" href="https://plus.google.com/+Fabfurnish/posts"></a>
+<a class="tw" title="Twitter" target="_blank" href="https://twitter.com/fabfurnishindia"></a>
+<a class="pin" title="Pinterest" target="_blank" href="http://pinterest.com/fabfurnish/"></a>
+<a class="yt" title="Youtube" target="_blank" href="http://www.youtube.com/fabfurnish/"></a>
 <a class="ins" title="Instagram" target="_blank" href="http://instagram.com/fabfurnishindia"></a>
-            <a class="pin" title="Pinterest" target="_blank" href="http://pinterest.com/fabfurnish/"></a>
-            <a class="in" title="LinkedIn" target="_blank" href="http://www.linkedin.com/company/fabfurnish"></a>
-            <a class="google" title="Google +" rel="publisher" target="_blank" href="https://plus.google.com/u/0/112263864491483284025/posts"></a>
-            <a class="yt" title="Youtube" target="_blank" href="http://www.youtube.com/fabfurnish/"></a>
-        </div>
+<a class="in" title="LinkedIn" target="_blank" href="http://www.linkedin.com/company/fabfurnish"></a>
+</div>
         <div class="Footer-order-Links">
-        <a class="blk" rel="nofollow" title="Bulk Order" href="/bulk-orders/"></a>
-            <a class="card" title="E-Gift Card" href="/gift-cards/"></a>
+        <a class="blk" title="Bulk Order" href="http://www.fabfurnish.com/bulk-orders/"></a>
+            <a class="card" title="Gift Cards" href="http://www.fabfurnish.com/gift-cards/"></a>
         </div>
         </div>                <div class="ThreeBoxes clearfix">
             <style>
 
-.tenthousand        { background:url(http://1.fimg.in/cms/footer/20131030/Sprites-Footer-301013.png) no-repeat -4px -47px;}
-.Hundred                { background:url(http://1.fimg.in/cms/footer/20131030/Sprites-Footer-301013.png) no-repeat -87px -47px;}
+.tenthousand        { background:url(http://1.fimg.in/cms/footer/20140613/Footer-Sprite-13062014.png) no-repeat -4px -47px;}
+.Hundred          { background:url(http://1.fimg.in/cms/footer/20140613/Footer-Sprite-13062014.png) no-repeat -87px -47px;}
 </style>
 <div class="Box">
             <div class="stamp tenthousand "></div>
-                <p>Wide collection of 20k+ handpicked products</p>
+                <p>Wide collection of 50k+ handpicked products</p>
             </div>
             <div class="Box marginBox">
             <div class="stamp Hundred"></div>
@@ -869,12 +1135,12 @@ Payments that you make through the Site will be processed by our company Alix Re
                                 </div>
                                 </div>
 
-                                <input type="hidden" name="YII_CSRF_TOKEN" id="token" value="2dc6a9ab49eb04a4a54ab1d0f0ca1acb7c8bb33c">
+                                <input type="hidden" name="YII_CSRF_TOKEN" id="token" value="e0543b95a3444b957c789dcaf2ca0891645e1e50">
                                 <div class="s-success msgBox mbs mts footer_sign_success" style="display: none">
                                     Congratulations! You've successfully signed up.                                </div>
                             </form>
                             <div class="fss lhs txtLightGray footerNewsletterNote">
-                                Sign up for the latest offers and news, and get welcome voucher of <span class="WebRupee">Rs. </span>2000/-.                            </div>
+                                Sign up for the latest offers and news, and get welcome voucher of <span class="WebRupee">Rs. </span>5000/-.                            </div>
                         </div>
                     </div>
             
@@ -885,34 +1151,21 @@ Payments that you make through the Site will be processed by our company Alix Re
         
         
        <div class="Footer-Tags clearfix">
-<a href="/home-decor/photo-frames-albums/">Photo Frames</a>,
-<a href="/furniture/">Furniture</a>,
-<a href="/furniture/sofa-sets/">Sofa Set</a>,
-<a href="/home-decor/curtains-accessories/">Curtains</a>,
-<!--<a href="/furniture/sofas-sectionals/">Sofa</a>,-->
-<a href="/furniture/workspaces/">Office Furniture</a>,
-<a href="/furniture/study-tables/">Study Tables</a>,
-<a href="/furniture/shoe-racks/">Shoe Racks</a>,
-<a href="/bed-bath/bed-sheet-sets/">Bed Sheets</a>,
-<a href="/bed-bath/bathroom-accessories/">Bathroom Accessories</a>,
-<!--<a href="/kitchen-dining/kitchen-accessories/">Kitchen Accessories</a>,-->
-<b><a href="/gosf/">GOSF 2013</a></b>,
-<a href="/home-decor/wall-clocks/">Wall Clocks</a>,
-<a href="/kitchen-dining/dinner-sets/">Dinner Sets</a>,
-<a href="/home-decor/wall-decals-stickers/">Wall Decals</a>,
-<a href="/home-decor/wall-decals-stickers/">Wall Stickers</a>,
-<a href="/furniture/wardrobes/">Wardrobe</a>,
-<a href="/home-decor/cushions-throws/">Cushion</a>,
-<a href="/kids-baby/kids-furniture/">Kids Furniture</a>,
-<a href="/kitchen-dining/">Kitchenware</a>,
-<a href="/kitchen-dining/coffee-tea/">Floor Lamps</a>,
-<a href="/lighting/study-lamps/">Study Lamps</a>,
-<a href="/furniture/beds/">Wooden Beds</a>,
-<a href="/kitchen-dining/barware-drinkware/">Barware</a>,
-<a href="/solid-wood-furniture/">Solid Wood Furniture</a>
+<a href="http://www.fabfurnish.com/gifts/birthday/">Birthday Gifts</a>,
+<a href="http://www.fabfurnish.com/gifts/">Buy Gifts</a>,
+<a href="http://www.fabfurnish.com/furniture/chest-of-drawers/">Chest of Drawers</a>,
+<a href="http://www.fabfurnish.com/kitchen-dining/mugs/">Coffee Mugs</a>,
+<a href="http://www.fabfurnish.com/bed-bath/diwan-sets/">Diwan Sets</a>,
+<a href="http://www.fabfurnish.com/furniture/entertainment-tv-units/">Entertainment TV Units</a>,
+<a href="http://www.fabfurnish.com/furniture/mirrors/">Mirrors</a>,
+<a href="http://www.fabfurnish.com/furniture/sofa-beds/">Sofa cum Bed</a>,
+<a href="http://www.fabfurnish.com/solid-wood-furniture/">Solid Wood Furniture</a>,
+<a href="http://www.fabfurnish.com/luggage-bags/school-backpacks/">Buy School Bags</a>,
+<a href="http://www.fabfurnish.com/gifts/wedding/">Wedding Gifts</a>,
+<a href="http://www.fabfurnish.com/furniture/beds/">Wooden Beds</a>
 </div> 
         <style>
-ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:url(http://1.fimg.in/cms/footer/20131030/Sprites-Footer-301013.png); margin-right:5px; float:left;}
+ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:url(http://1.fimg.in/cms/footer/20140613/Footer-Sprite-13062014.png); margin-right:5px; float:left;}
 .Footer-Credit.clearfix .Nortan {
     margin-left: 110px;
 }
@@ -922,7 +1175,11 @@ ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:ur
     border-right: 1px solid #CCCCCC;
     width: 40px;
 }
+
+#partnerLinksDiv > span {color: #666666; cursor: pointer; margin: 0 5px;}
+#partnerLinksDiv > span:hover {text-decoration: underline;}
 </style>
+
 <div class="Footer-Credit clearfix">
         <div class="Nortan"><a onclick="window.open('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.fabfurnish.com&amp;lang=en','norton','width=600,height=400');" href="javascript:void();">Nortan Secured</a></div>
             <ul class="PaymentMethod">
@@ -932,20 +1189,45 @@ ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:ur
             <li class="IconSmall Dinner" title="Diners Club International">Diners Club International</li>
                 <li class="IconBig NetBank" title="Net Banking">Netbanking</li>
                 <li class="IconBig CashOnDelivery" title="Cash on Delivery">Cash on Delivery</li>
-                <li class="IconBig PartPay" title="Part payment"><a rel="nofollow" href="/partpay-faq/" style="display:block;">Part payment</a></li>
+                <li class="IconBig PartPay" title="Part payment"><a href="/partpay-faq/" style="display:block;">Part payment</a></li>
                 <li class="IconBig ZeroEmi" title="EMI">EMI</li>
             </ul>
         </div>
         <div class="FooterPrivacy clearfix">
-        <p><a rel="nofollow" href="/privacy/">Privacy Policy</a> | <a rel="nofollow" href="/terms_and_conditions/">Terms of Use</a></p>
-            <div class="RightFabfurnish">© 2013 All Rights Reserved  |  FabFurnish.com  -  India's Largest Online Home Store</div>
+        <p><a href="http://www.fabfurnish.com/privacy/">Privacy Policy</a> | <a href="http://www.fabfurnish.com/terms_and_conditions/">Terms of Use</a> | <a href="http://www.fabfurnish.com/glossary/">Glossary</a></p>
+            <div class="RightFabfurnish">© 2014 All Rights Reserved  |  FabFurnish.com  -  India's Largest Online Home Store</div>
             <div class="PartnerSite">
-            <div class="fsxs">
-           <div class="lfloat mrs">PARTNER SITES</div> -
-            <a class="mls mrs" target="_blank" rel="nofollow" href="http://www.jabong.com/">Jabong</a> /
-            <a class="mls mrs" target="_blank" rel="nofollow" href="http://www.foodpanda.in/">FoodPanda</a> /
-            <a class="mls mrs" target="_blank" rel="nofollow" href="http://www.cuponation.in/">Cuponation</a>
-         </div></div>
+            <div id="partnerLinksDiv" class="fsxs">
+
+    <script type="text/javascript">
+        var partnerLinks = new Array();
+
+        partnerLinks['pl1'] = "http://www.jabong.com/";
+        partnerLinks['pl2'] = "http://www.foodpanda.in/";
+        partnerLinks['pl3'] = "http://www.cuponation.in/";
+        partnerLinks['pl4'] = "http://www.officeyes.com/";
+        partnerLinks['pl5'] = "http://www.printvenue.com/";
+        partnerLinks['pl6'] = "http://www.wimdu.in/";
+
+        document.getElementById("partnerLinksDiv").onclick = function (e) {
+            var id = e.target.getAttribute("id"),
+                t  = partnerLinks[id];
+
+            if (typeof t !== "undefined") {
+                window.open(t, "_blank");
+            }
+        };
+    </script>
+
+            <div class="lfloat mrs">PARTNER SITES</div> -
+            <span id="pl1" title="Jabong">Jabong</span> / 
+            <span id="pl2" title="FoodPanda">FoodPanda</span> / 
+            <span id="pl3" title="Cuponation">Cuponation</span> / 
+            <span id="pl4" title="OfficeYes">OfficeYes</span> / 
+            <span id="pl5" title="PrintVenue">PrintVenue</span> / 
+            <span id="pl6" title="Wimdu">Wimdu</span>
+            </div>
+          </div>
         </div>    </div>
 </footer>
 <!--INDFUR-1044 -->
@@ -965,7 +1247,7 @@ ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:ur
 <p class="mbm  txtGray normal h2">Track Order(s)</p>
         <div class="box-bdr pam">
                     <form id="form-track-order" action="/index/trackorder" method="post">
-<div style="display:none"><input type="hidden" value="2dc6a9ab49eb04a4a54ab1d0f0ca1acb7c8bb33c" name="YII_CSRF_TOKEN"></div>                    <label class="mbs  strong required" value="For multiple orders, separate them with a comma" for="TrackOrderForm_ordernumber">Order Number(s) <span class="required">*</span></label>                    <p>
+<div style="display:none"><input type="hidden" value="e0543b95a3444b957c789dcaf2ca0891645e1e50" name="YII_CSRF_TOKEN"></div>                    <label class="mbs  strong required" value="For multiple orders, separate them with a comma" for="TrackOrderForm_ordernumber">Order Number(s) <span class="required">*</span></label>                    <p>
                         <input class="mbs ui-inputText" value="For multiple orders, put a comma in between order numbers" maxlength="60" name="TrackOrderForm[ordernumber]" id="TrackOrderForm_ordernumber" type="text">                    
                     </p>
                    <div class="s-error pbs fss">&nbsp;</div>
@@ -986,7 +1268,8 @@ ul.PaymentMethod li    { height:24px; text-indent:-100000px; background-image:ur
 
 <div id="orderTrackingTab" class="orderTrackingTab leftTabs" style="display:none;"> <a href="javascript:void(0)" class="orderTrackingTab leftTabsLink" data-reveal-id="orderTracking"></a></div>      
  </div>
-    <!-- JS of footer -->
+    
+<!-- JS of footer -->
 <script>
 function afterLoadFooter(){    
 // js delay for displaying right selection menu - starts
@@ -1056,12 +1339,21 @@ $("ul.fabMenuTabbed").hoverIntent( config_main_out );
 function mainNavHideAll(){
   $(this).find('.main-nav-layer-default').css('display','none');
 }
-//INDFUR-1020
+//INDFUR-1422
 $(function() {
     $('#help_menu').hover(function() {
-        $(this).addClass('helpMenuOpen');
+        $('.heplChoices').show();
+        $('.heplArrowIcon').show();
     }, function() {
-        $(this).removeClass('helpMenuOpen');
+        $('.heplChoices').hide();
+        $('.heplArrowIcon').hide();
+    });
+    $('.heplChoices').hover(function() {
+        $(this).show();
+        $('.heplArrowIcon').show();
+    }, function() {
+        $(this).hide();
+        $('.heplArrowIcon').hide();
     });
 });
 }
@@ -1071,8 +1363,7 @@ if (window.addEventListener) {
 } else {
              window.attachEvent('onload',afterLoadFooter);
 }
-</script> 
-</div>
+</script> </div>
 
 <!-- Webtrekk begin - Template: cmspage -->
 <script type="text/javascript">
@@ -1087,7 +1378,7 @@ var webtrekkProjectConfig = {
 <script type="text/javascript">
 /*<![CDATA[*/
 var wt = new webtrekkV3();
-var myCookie = new wt.cookieManager("subscription");
+var myCookie = new wt.cookieManager("subscription", 365);
 wt.mediaCode = "wt_af;wt_co;wt_dp;wt_em;wt_m_dp;wt_m_re;wt_m_sb;wt_m_sn;wt_nl;wt_pc;wt_rf;wt_re;wt_sb1;wt_sb2;wt_sb3;wt_sn1;wt_sn2;wt_sn3;wt_sm;wt_db;wt_sa";
 
 wt.contentId = "shop.pc.privacy";
@@ -1109,7 +1400,8 @@ wt.customSessionParameter = {
     1 : "0",
     2 : "",
     3 : "0",
-    6 : myCookie.get('subID')
+    6 : myCookie.get('subID'),
+    7 : ""
 }; 
 
 wt.customParameter = {
@@ -1147,6 +1439,7 @@ function webTrek(){
 }
 </script>
 
+
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-29649891-1']);
@@ -1155,8 +1448,8 @@ function webTrek(){
 
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
-                'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' :
+                'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(ga, s);
     })();
@@ -1235,8 +1528,7 @@ if (window.addEventListener) {window.addEventListener("load",afterLoadSociomatic
 <!--  end Sociomatic tracking -->
     
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","0ad55a624f",767336,"NlVbMkFRCBZZAEdeCQ8fehNARAkIFwBeREkIXl0DSw==",0,113,new Date().getTime()]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"0ad55a624f","applicationID":"767336","transactionName":"NlVbMkFRCBZZAEdeCQ8fehNARAkIFwBeREkIXl0DSw==","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 
-
-<script type="text/javascript" async="" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
