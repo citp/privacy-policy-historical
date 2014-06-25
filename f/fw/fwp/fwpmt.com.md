@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwpmt.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811183350id_/http%3A//www.fwpmt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwpmt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161616id_/http%3A//fwpmt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Wordpress Magazine Themes - FWPMT dot Com
+# Free Wordpress Magazine Themes – FWPMT dot Com » Privacy Policy
 
 We can be reached via e-mail at support[at]fwpmt.com or by using our support system.
 
