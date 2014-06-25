@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillcrush.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323153657id_/http%3A//skillcrush.com/grace/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillcrush.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050659id_/http%3A//skillcrush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skillcrush
 
