@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921141141id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164616id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
 
 # ANDHRA PRADESH
-
-| 
 
 ###  Privacy Policy for www.onefivenine.com 
 
@@ -27,5 +25,3 @@ Google, as a third party vendor, uses cookies to serve ads on www.onefivenine.co
 Google's use of the DART cookie enables it to serve ads to users based on their visit to www.onefivenine.com and other sites on the Internet. 
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
-
-**Information We Collect** By providing us your email address or other contact information (for instance, by "following," "liking," or adding the Explore India application to or within any account you have on Facebook or another third-party website or network, linking your account to the Service, or taking similar action on Facebook or another third party website or network, or by otherwise providing your email address or other contact information to us), you authorize us to use the email address or other contact information to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications (including without limitation via email or "push" notifications) of activity on the Service **Your Choice** You may decline to disclose personal information through the Service, in which case we may not be able to provide certain services to you. You may request us to delete all of the information about you that we have received from Facebook by contacting us at info@onefivenine.com. You may also review or correct the personal information about you that we keep on file.  | 
