@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122932id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060318id_/http%3A//www.magazineline.com/magazineline/privacypolicy.htm) for the most accurate reproduction.*
 
 # Magazineline - America's First Choice Magazine Store Since 1974
 
-[Customer Service](https://web.archive.org/web/20131106122932id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
+[Customer Service](https://web.archive.org/web/20140625060318id_/http%3A//www.magazineline.com/magazineline/customerservice.htm) Privacy & Security Policy
 
 Privacy & Security
 
@@ -37,7 +37,7 @@ Our Commitment to Privacy
 > 
 
 > 
-> Using your information in such a manner ensures you do not experience a frustrating lapse in service or otherwise encounter any account difficulties. If you would like to discuss our customer contact programs or specify a preference for how you are contacted, please call our customer service department at (800) 959-1676 (M-F, 9am-8pm, ET) or [email us](https://web.archive.org/haupt/cs_email.aspx).
+> Using your information in such a manner ensures you do not experience a frustrating lapse in service or otherwise encounter any account difficulties. If you would like to discuss our customer contact programs or specify a preference for how you are contacted, please call our customer service department at (800) 959-1676 (M-F, 9am-9pm, ET) or [email us](https://web.archive.org/haupt/cs_email.aspx).
 > 
 > **With Whom Do We Share Information?**  
 >  When you place an order, your name and address, and the name and address of any gift recipients, is sent to each of the publishers of the magazines you ordered so that they can fulfill your subscriptions. If you order a digital subscription your email address is also forwarded to that publisher. 
@@ -53,7 +53,7 @@ Our Commitment to Privacy
 >   1. Log in to your account, and then choose Change Email/Options
 >   2. Click the email preferences link in an email you receive from us
 >   3. Email us
->   4. Call us Toll-Free at (800) 959-1676 (M-F, 9am – 8pm, ET) 
+>   4. Call us Toll-Free at (800) 959-1676 (M-F, 9am – 9pm, ET) 
 >   5. Write us at:   
 >  MagazineLine  
 >  P.O. Box 30404  
@@ -85,7 +85,7 @@ Our Security Pledge
 >  **Prefer to Order Via Phone?  
 >  **Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call 8am - midnight, seven days a week. 
 > 
-> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20131106122932id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
+> You may also contact us by mail or fax. [Click here](https://web.archive.org/web/20140625060318id_/http%3A//www.magazineline.com/magazineline/contactus.htm) to view our address and other relevant contact information.
 > 
 > Back to Top
 
