@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014073210id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073131id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Media Job Search Canada - Customer Service > Privacy Policy
+# Privacy Policy - Media Job Search Canada
 
 ## Privacy Policy
-
-    
 
 All personal information on Resumes posted on **Media Job Search Canada Inc.'s** corporate websites; [www.mediajobsearchcanada.com](http://www.mediajobsearchcanada.com/) / [www.mediajobsearchcanada.net](http://www.mediajobsearchcanada.net/) / [www.mjsc.ca](http://www.mjsc.ca/) is protected by the **Government of Canada's Internet Privacy Act.**   
 
@@ -14,7 +12,7 @@ For more information on **MJSC's Privacy Statement** in full read the complete s
 
 For more information on the "Internet Privacy Act" visit:  [www.privcom.gc.ca](http://www.privcom.gc.ca/)
 
-### Updated August 12, 2011.
+###  Updated November 22, 2013.
 
 Your privacy is very important to us. Rest assured that all information collected through our **( 1 )** visitor tracking program, the personal information provided on **( 2 )** posted resumes and the username and password information through our **( 3 )** login service remains with Media Job Search Canada Inc. and is never shared with outside sources.
 
@@ -27,8 +25,5 @@ Your privacy is very important to us. Rest assured that all information collecte
   
 If you have any questions on this statement, please contact us for more information [mjsc@mediajobsearchcanada.com](mailto:mjsc@mediajobsearchcanada.com)
 
-**Corey Fuchs - Owner, President & C.E.O.  
-Media Job Search Canada Inc.**
-
-  
-
+**Corey Fuchs - Owner, President & C.E.O.**  
+**Media Job Search Canada Inc.**
