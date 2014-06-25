@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026081328id_/http%3A//www.moovly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055107id_/http%3A//www.moovly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Moovly
 
@@ -83,8 +83,8 @@ We will occasionally update this privacy statement to reflect changes in our ser
 If you have questions regarding this statement, you may contact us at: 
 
 Moovly NV  
-Z.1 Researchpark 310  
-B-1731 Zellik  
+Lambroekstraat 5A  
+B-1831 Diegem  
 Belgium   
 Email: [info@Moovly.com](mailto:info@instruxion.com)
 
