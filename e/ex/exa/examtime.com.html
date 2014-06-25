@@ -1,113 +1,126 @@
-<!--The following is the downloaded HTML source of the examtime.com privacy policy that was archived on 2013-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130823032457id_/https%3A//my.examtime.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the examtime.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625234827id_/https%3A//www.examtime.com/en/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
+<title>ExamTime - Privacy Policy</title>
+<meta content="chrome=1" http-equiv="X-UA-Compatible">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="learning, study" itemprop="educationalUse" name="educationalUse">
+<meta content="mixed" itemprop="interactivityType" name="interactivityType">
+<meta content="true" itemprop="isFamilyFriendly" name="isFamilyFriendly">
+<link href="https://plus.google.com/114290945179145475748/" rel="publisher">
 <meta content="telephone=no" name="format-detection">
-<meta content="width=device-width" name="viewport">
 
-<link href="/assets/application-9f86ee27bf4ee2ff9e11fc0c07511053.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if !IE]-->
+<link href="/assets/application-2165301bcdecb223c5430a7f7c7462ae.css" media="all" rel="stylesheet" type="text/css">
+<!--[endif]-->
+<!--[if lte IE 9]>
+<link href="/assets/application_vendor-00144d1572f5249bb019375716c17a99.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/application_global-84ff892c1f2145305637e735923e61cf.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/assets/application_gems-a0c947f298e0d36b55595e723f93521d.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if gte IE 10]>
+<link href="/assets/application-2165301bcdecb223c5430a7f7c7462ae.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/assets/application-print-f1fb84167634cf1a20b223502a6d3b71.css" media="print" rel="stylesheet" type="text/css">
 
-<script src="/assets/application-c38320b523ab8af54166ca53e06c810c.js" type="text/javascript"></script>
-<script src="/assets/pages/public/manifest-e9f3b72441fe3f5e3475b73a37947b34.js" type="text/javascript"></script>
+<script src="/assets/application-ef511218801a8c69fadeb4307ab5cc7d.js" type="text/javascript"></script>
 <script>
-  //<![CDATA[
-    I18n.defaultLocale = "en";
-    I18n.locale = "en";
-    I18n.fallbacks = true;
-    I18n.date_format = "dd/mm/yy";
-    I18n.moment_date_format = "DD/MM/YYYY";
-    MOMENT_LANG.language_from_locale(I18n.locale, I18n.defaultLocale);
-    
-    $(document).ready(function() {
-    
-    // Helper methods to infer the actual class path
-    // from a JSON object that represents a StudyAid
-    //
-    // TODO: DRY out methods
-    Routes = (function(routes) {
-      var get_path = function(options, action) {
-        if (options && options.type && options.id_arr) {
-          action = action || "";
-          var method = action + "_" + options.type.toUnderscore() + '_path';
-    
-          return Routes[method].apply(Routes, options.id_arr);
-        } else {
-          throw new Error("Route parameter missing: type");
-        }
+  I18n.defaultLocale = "en";
+  I18n.locale = "en";
+  I18n.fallbacks = true;
+  I18n.date_format = "dd/mm/yy";
+  I18n.moment_date_format = "DD/MM/YYYY";
+  MOMENT_LANG.language_from_locale(I18n.locale, I18n.defaultLocale);
+  
+  $(document).ready(function() {
+  
+  // Helper methods to infer the actual class path
+  // from a JSON object that represents a StudyAid
+  //
+  // TODO: DRY out methods
+  Routes = (function(routes) {
+    var get_path = function(options, action) {
+      if (options && options.type && options.id_arr) {
+        action = action || "";
+        var method = action + "_" + options.type.toUnderscore() + '_path';
+  
+        return Routes[method].apply(Routes, options.id_arr);
+      } else {
+        throw new Error("Route parameter missing: type");
       }
-    
-      routes.new_subject_study_aid_class_path = function( subject, study_aid ) {
-        if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
-          method = 'new_subject_' + study_aid.type.toUnderscore() + '_path';
-          return Routes[method].apply(Routes, [subject, study_aid]);
-        } else {
-          throw new Error("Route parameter missing: type");
-        }
+    }
+  
+    routes.new_subject_study_aid_class_path = function( subject, study_aid ) {
+      if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
+        method = 'new_subject_' + study_aid.type.toUnderscore() + '_path';
+        return Routes[method].apply(Routes, [subject, study_aid]);
+      } else {
+        throw new Error("Route parameter missing: type");
       }
-    
-      routes.subject_study_aid_class_path = function( subject, study_aid ) {
-        if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
-          method = 'subject_' + study_aid.type.toUnderscore() + '_path';
-          return Routes[method].apply(Routes, [subject, study_aid]);
-        } else {
-          throw new Error("Route parameter missing: type");
-        }
+    }
+  
+    routes.subject_study_aid_class_path = function( subject, study_aid ) {
+      if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
+        method = 'subject_' + study_aid.type.toUnderscore() + '_path';
+        return Routes[method].apply(Routes, [subject, study_aid]);
+      } else {
+        throw new Error("Route parameter missing: type");
       }
-    
-      routes.edit_study_aid_class_path = function( study_aid ) {
-        if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
-          method = 'edit_' + study_aid.type.toUnderscore() + '_path';
-          return Routes[method].apply(Routes, [study_aid]);
-        } else {
-          throw new Error("Route parameter missing: type");
-        }
+    }
+  
+    routes.edit_study_aid_class_path = function( study_aid ) {
+      if ( typeof(study_aid) == 'object' && 'type' in study_aid ) {
+        method = 'edit_' + study_aid.type.toUnderscore() + '_path';
+        return Routes[method].apply(Routes, [study_aid]);
+      } else {
+        throw new Error("Route parameter missing: type");
       }
-    
-      routes.delete_post_path = function(options) {
-        if(options && options.type){
-          var type = options.type.toUnderscore(),
-              method = type + "_" + type + "_delete_" + type + "_popup_path";
-    
-          return Routes[method].apply(Routes, options.id_arr);
-        }
+    }
+  
+    routes.delete_post_path = function(options) {
+      if(options && options.type){
+        var type = options.type.toUnderscore(),
+            method = type + "_" + type + "_delete_" + type + "_popup_path";
+  
+        return Routes[method].apply(Routes, options.id_arr);
       }
-    
-      routes.edit_post_path = function(options) {
-        return get_path(options, "edit");
-      }
-    
-      routes.new_comment_path = function(options) {
-        return get_path(options, "new");
-      }
-    
-      routes.options = {};
-    
-      return routes;
-    
-    })( Routes || {} );
-    
-    Routes.options.prefix = "/en";
-    
-    });
-  //]]>
+    }
+  
+    routes.edit_post_path = function(options) {
+      return get_path(options, "edit");
+    }
+  
+    routes.new_comment_path = function(options) {
+      return get_path(options, "new");
+    }
+  
+    routes.options = {};
+  
+    return routes;
+  
+  })( Routes || {} );
+  
+  Routes.options.prefix = "/en";
+  
+  });
 </script>
 
 
 
-
+<script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/2.2-latest/MathJax.js?config=TeX-AMS_HTML-full.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="05Z5PDGr09GM8nW2uNOeVn0x9C/cZvTOpyaTY3w5mWc=" name="csrf-token">
-<meta content="chrome=1" http-equiv="X-UA-Compatible">
-<title>ExamTime - Changing the way you learn</title>
-<meta content="Examtime is an online study environment that helps you prepare for exams. Sign up for free to create and share mind maps, flash cards and quizzes!" name="description">
-<meta content="Mindmaps, flashcards, practice questions, quiz, quizzes, revision, exams, exam preparations, study tools, online study tools, online revision, examtime, online study, study tips, test, mind maps" name="keywords">
+<meta content="RNPiJn5RP0hmZTBq9W01NM1GWDk0IRU3cFAkntMInzc=" name="csrf-token">
+
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
 <body class="en">
 <div class="container" id="landing">
 <div class="flash_message">
 
 </div>
+<link href="/assets/pages/legals-01f26651fbdf264d5a136eadeeb51917.css" media="screen" rel="stylesheet" type="text/css">
 <h1 class="center">
 PRIVACY POLICY
 </h1>
@@ -285,27 +298,7 @@ To notify you about changes to our services.
 We may also use your data, or permit selected third parties to
 use your data, to provide you with information about goods and
 services which may be of interest to you and we or they may
-contact you about these by post or telephone.
-</p>
-<p>
-If you are an existing customer, we will only contact you by
-electronic means (e-mail or SMS) with information about our own
-products and services similar to those which were the subject of
-a previous subscription by you or sale to you. You will be given
-the opportunity to "opt out" and if you do so we will not send
-you any further such electronic communication.
-</p>
-<p>
-If you are a new customer, and where we permit selected third
-parties to use your data, we (or they) will contact you by
-electronic means only if you have specifically consented to this.
-</p>
-<p>
-If you would like us to use your data in this way, or to pass
-your details on to third parties for marketing purposes, please
-tick the relevant box situated on the form on which we collect
-your data (the subscription application form or the registration
-form).
+contact you about these by email, post or telephone.
 </p>
 <p>
 We do not disclose information about identifiable individuals to
@@ -488,12 +481,12 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","c4af05883b","716845","dAldQBRZDw1QRRoRB1ADQBsWRAoXVFRMPhZYClpXHw==",522,267,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","c4af05883b","716845","dAldQBRZDw1QRRoRB1ADQBsWRAoXVFRMPhZYClpXHw==",14,301,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript">
 _gaq.push(['_setAccount', 'UA-34963630-1']);
-_gaq.push(['_setDomainName', 'examtime.com']);
+_gaq.push(['_setDomainName', 'www.examtime.com']);
 _gaq.push(['_setAllowLinker', true]);
-track_goal('/signup');
+_gaq.push(['_trackPageview']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
