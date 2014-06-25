@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226164141id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114722id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheWHOot
 
@@ -99,5 +99,3 @@ If you have any concerns or questions about our Privacy Policy, please contact u
 We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 _Privacy Policy last updated on 11 September 2012._
-
-## Around The WHOot - Sharing the best from the web with you
