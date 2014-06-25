@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020040451id_/http%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064539id_/http%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Grass Valley
+# Privacy Policy | Grass Valley, A Belden Brand
 
 Your Privacy Is Important to Us!
 
