@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209233023id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061702id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
 
 # WinkPress Privacy Policy | WinkPress ;)
 
