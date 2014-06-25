@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210063748id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteproperties.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061230id_/http%3A//websiteproperties.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,6 @@ We make every effort to ensure that doing business with us is as simple and unen
 
 In addition to the contractual protection of our client’s information, we have also used appropriate technical safeguards in the collection and delivery of the information stored on our website. All areas of our site that contain client confidential information are password protected. Data is stored in a password protected commercial database product and is encrypted and transmitted via Secure Socket Layer (SSL) technology.
 
-If at anytime you wish to have your email address removed from our database you may either select the "unsubscribe" link included at the bottom of all of our email correspondance, log into your member account and mark your email address "Opt-Out" in your email profile or contact us at [clientcare@websiteproperties.com](mailto:clientcare@websiteproperties.com) and we will be happy to remove your name from our distribution list.
+If at any time you wish to have your email address removed from our database you may either select the "unsubscribe" link included at the bottom of all of our email correspondence, log into your member account and mark your email address "Opt-Out" in your email profile or contact us at [clientcare@websiteproperties.com](mailto:clientcare@websiteproperties.com) and we will be happy to remove your name from our distribution list.
 
-If you have any questions or concerns regarding the Privacy Policy in use on our website please direct you inquiries to   **private@websiteproperties.com**
+If you have any questions or concerns regarding the Privacy Policy in use on our website please direct your inquiries to   **private@websiteproperties.com**
