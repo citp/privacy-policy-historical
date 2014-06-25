@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121155116id_/http%3A//www.criver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104953id_/http%3A//www.criver.com/privacy-policy) for the most accurate reproduction.*
 
 # Charles River Website Privacy Policy
 
