@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camlive.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227195807id_/http%3A//www.camlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camlive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091248id_/http%3A//www.camlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # CamLive - Privacy Policy
 
