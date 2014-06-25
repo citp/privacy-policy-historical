@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techbuzz.in privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815011136id_/http%3A//www.techbuzz.in/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbuzz.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003402id_/http%3A//www.techbuzz.in/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Computer Tips And Tricks, Gadgets, How-To, Life - 2.0 Style
 
@@ -50,3 +50,16 @@ By using our site, you consent to our online privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 http://www.techbuzz.in/online-privacy-policy.php
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Online%20Privacy%20Policy%20-%20http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&t=Online%20Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Online%20Privacy%20Policy&body=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&title=Online%20Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&title=Online%20Privacy%20Policy&notes=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%2C%20place%20an%20order%2C%20subscribe%20to%20our%20newsletter%2C%20respond%20to%20a%20survey%20or%20fill%20out%20a%20form.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20ma "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&title=Online%20Privacy%20Policy&srcURL=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&srcTitle=Computer+Tips+And+Tricks%2C+Gadgets%2C+How-To%2C+Life+-+2.0+Style+Get+latest+technology+updates+and+computer+tips+and+tricks. "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&title=Online%20Privacy%20Policy&source=Computer+Tips+And+Tricks%2C+Gadgets%2C+How-To%2C+Life+-+2.0+Style+Get+latest+technology+updates+and+computer+tips+and+tricks.&summary=What%20information%20do%20we%20collect%3F%0D%0A%0D%0AWe%20collect%20information%20from%20you%20when%20you%20register%20on%20our%20site%2C%20place%20an%20order%2C%20subscribe%20to%20our%20newsletter%2C%20respond%20to%20a%20survey%20or%20fill%20out%20a%20form.%0D%0A%0D%0AWhen%20ordering%20or%20registering%20on%20our%20site%2C%20as%20appropriate%2C%20you%20ma "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.techbuzz.in%2Fonline-privacy-policy&Title=Online%20Privacy%20Policy "BlinkList")
+  * 
+
