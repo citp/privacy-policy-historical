@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dragonnest.eu privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205110319id_/http%3A//dragonnest.eu/en/Legal/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dragonnest.eu privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625134809id_/http%3A//www.dragonnest.eu/en/Legal/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head id="Head1"><style media="screen"></style>
         <meta charset="utf-8">
@@ -7,11 +7,15 @@
         <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <meta name="description" content="Dragon Nest EU">
         <meta name="keywords" content="Dragon Nest EU">
-        <link href="/Content/themes/en/Site.css" rel="stylesheet">
+        <meta property="og:title" content="Dragon Nest EU - The Number 1 Action RPG">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://www.dragonnest.eu">
+        <meta property="og:image" content="http://www.dragonnest.eu/images/dragonnest.jpg">
+        <link href="/Content/themes/en/Site.css?v=1" rel="stylesheet">
 
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/modernizr-2.5.3.js"></script>
 
-        <script src="/Scripts/jquery-1.9.0.js"></script>
+        <script src="/Scripts/jquery-1.9.1.js"></script>
 
         <script src="/Scripts/jquery.validate.min.js"></script>
 
@@ -27,119 +31,79 @@
 
         <script src="/Scripts/mirolink.validate.js"></script>
 
+        <script src="/Scripts/sitemenu.js"></script>
+
         
+
+        
+
     <script type="text/javascript">
         var loginFormValidator;
-        var username = "";
-        var timeout = 500;
-        var closetimer = 0;
-        var ddmenuitem = 0;
-        var currentMenu = 0;
-        function jsddm_open() {
-            jsddm_canceltimer();
-            jsddm_close();
-            ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
-            currentMenu = $(this);
-            currentMenu.addClass("hover");
-        }
-
-        function jsddm_close() {
-            if (ddmenuitem) {
-                ddmenuitem.css('visibility', 'hidden');
-            }
-
-            if (currentMenu)
-                currentMenu.removeClass("hover");
-        }
-
-        function jsddm_timer()
-        { closetimer = window.setTimeout(jsddm_close, timeout); }
-
-        function jsddm_canceltimer() {
-            if (closetimer) {
-                window.clearTimeout(closetimer);
-                closetimer = null;
-            }
-        }
-        $(document).ready(function () {
-            $('#jsddm > li').bind('mouseover', jsddm_open);
-            $('#jsddm > li').bind('mouseout', jsddm_timer);
-        });
-        document.onclick = jsddm_close;
-    </script>
-    <script type="text/javascript">
-        jQuery.browser = {}; (function () {
-            jQuery.browser.msie = false;
-            jQuery.browser.version = 0; if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
-                jQuery.browser.msie = true; jQuery.browser.version = RegExp.$1;
-            } 
-        })();
-        $(function () {
-            var isIe6 = (typeof document.body.style.maxHeight === "undefined");
-            //Fix Png In IE6 Only
-            if (isIe6) {
-                DD_belatedPNG.fix('img');
-            }
-        })
-    </script>
+        var username = "";       
+    </script>    
 </head>
-<body style="zoom: 1;">
+<body>
     
     <!-- header sitemap -->    
     <div class="header">
-        <div id="topMenu">
-            <ul id="jsddm">
-                <li id="gameMenu"><a href="/en/Game">
-                    &nbsp;</a>
-                    <ul>
-                        <li><a href="/en/Game/Manual">Online Manual</a></li>
-                        <li><a href="/en/Game/About">About Dragon Nest</a></li>
-                        <li class="lastItem"><a href="/en/Game/Class">Class</a></li>
-                     </ul>
-                  </li>
-                   <li id="communityMenu">
-                    <a href="/en/Community/News">&nbsp;</a>
-                     <ul>
-                        <li><a href="/en/Community/News">News</a></li>
-                       
-                       <li class="lastItem"><a href="/en/Community/Event">Event</a></li>
-                      </ul>
-                  </li>                  
-                  <li id="forumMenu">
-                    <a href="http://forum.dragonnest.eu/">&nbsp;</a>
-                  </li>
-                  <li id="logoMenu">
-                    <a href="/" title="Dragon Nest Europe">&nbsp;</a>
-                  </li>
-                  <li id="shopMenu">
-                    <a href="/en/Shop/Hot-Item">&nbsp;</a>
-                      <ul>
-                         <li><a href="/en/Shop/Hot-Item">Brand-New</a></li>
-                         <li class="lastItem"><a href="/en/Shop/Charge-Cash">Buy Althea Crowns</a></li>
-                      </ul>
-                  </li>
-                  <li id="mediaMenu">
-                    <a href="/en/Media">&nbsp;</a>
-                      <ul>
-                        <li><a href="/en/Media/Video">Video</a></li>
-                        <li><a href="/en/Media/Artwork">Artwork</a></li>
-                        <li><a href="/en/Media/Wallpaper">Wallpaper</a></li>
-                        <li class="lastItem"><a href="/en/Media/ScreenShot">Screenshots</a></li>
-                      </ul>
-                  </li>
-                  <li id="supportMenu">
-                    <a href="/en/Support/Game-Download">&nbsp;</a>
-                      <ul>
-                         <li><a href="/en/Support/Game-Download">Game Download</a></li>
-                         <li><a href="/en/Support/Feedback">Mail Support</a></li>
-                         <li><a href="/en/Support/Find-ID-And-Password">Recover ID/Password</a></li>
-                      </ul>
-                  </li>
-               </ul>   
-             </div>
-             <div class="header_down">
-                 <a href="/" title=""><img src="/Images/en/top_middle_text.png" width="256" height="63" alt=""></a>
-             </div>
+          
+
+<div id="topMenu">
+    <ul id="jsddm">
+        <li id="gameMenu"><a href="/en/Game">&nbsp;</a>
+            <ul>
+                <li><a href="/en/Game/Manual">Online Manual</a></li>
+                <li><a href="/en/Game/About">About Dragon Nest</a></li>
+                <li class="lastItem"><a href="/en/Game/Class">Class</a></li>
+            </ul>
+        </li>
+        <li id="communityMenu">
+            <a href="/en/Community/News">&nbsp;</a>
+            <ul>
+                <li><a href="/en/Community/News">News</a></li>
+                
+                <li class="lastItem"><a href="/en/Community/Event">Event</a></li>
+            </ul>
+        </li>
+        <li id="forumMenu">
+            <a href="http://forum.dragonnest.eu/">&nbsp;</a>
+        </li>
+        <li id="logoMenu">
+            <a href="/" title="Dragon Nest Europe">&nbsp;</a>
+        </li>
+        <li id="shopMenu">
+            <a href="/en/Shop/Hot-Item">&nbsp;</a>
+            <ul>
+                <li><a href="/en/Shop/Hot-Item">Brand-New</a></li>
+                
+                <li class="lastItem"><a href="/en/Shop/Charge-Cash">Buy Althea Crowns</a></li>
+            </ul>
+        </li>
+        <li id="mediaMenu">
+            <a href="/en/Media">&nbsp;</a>
+            <ul>
+                <li><a href="/en/Media/Video">Video</a></li>
+                <li><a href="/en/Media/Artwork">Artwork</a></li>
+                <li><a href="/en/Media/Wallpaper">Wallpaper</a></li>
+                <li class="lastItem"><a href="/en/Media/ScreenShot">Screenshots</a></li>
+            </ul>
+        </li>
+        <li id="supportMenu">
+            <a href="/en/Support/Game-Download">&nbsp;</a>
+            <ul>
+                <li><a href="/en/Support/Game-Download">Game Download</a></li>
+                <li><a href="/en/Support/Feedback">Mail Support</a></li>
+                <li><a href="/en/Support/Find-ID-And-Password">Recover ID/Password</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<div class="header_down">
+    <a href="/" title="">
+        <img src="/Images/en/top_middle_text.png" width="256" height="63" alt=""></a>
+</div>
+
+
     </div>
     <!-- content sitemap -->   
     <div id="body">
@@ -179,107 +143,139 @@
                     <div class="main_content_right">
                         <div class="main_content_right_box">
                             
-                    <div class="right_login" id="right_login">                     
-                    
-                        
-                        <form method="post" id="loginForm" action="/en/Member/Login" novalidate="novalidate">
-                            <div class="left">
-                                <input id="txtUsername" name="username" type="text" value="" class="watermark">
-                                <span><input id="txtPassword" name="password" type="text" onkeydown="clickButton();" maxlength="8" class="watermark"></span>
-                            </div>
-                            <div>
-                                <input id="right_submit_login" type="image" src="/images/en/button_login.png" alt="Login" width="62" height="52">
-                            </div>
-                            <div class="clear main_partiallogin_input">
-                                <input id="chkRememberUsername" name="chkRememberUsername" value="true" type="checkbox">Remember Username
-                            </div>
-                            <div class="error"></div>
-                        </form>
-                        <div id="repalceloginform" class="hidden">
-                            <div>Welcome!</div>
-                            <div><form method="post" id="signOutForm" action="/en/Member/Sign-Out"><label id="loginFormlabel">ID : </label>&nbsp; &nbsp;<a href="#" onclick="$('#signOutForm').submit();">[ Sign Out ]</a>
-                                </form><a href="/en/Member/Account-Info">&nbsp;[ Account Info ]</a>&nbsp; | &nbsp;<a href="/en/Support/Find_Id">[ Change Password ]</a></div>                    
-                            <div id="imageButton"><a href="/en/Support/Game-Download"><img src="/Images/en/game_download.jpg" width="222" height="42" alt="Game Download"></a></div>
-                        </div>
-                        <div id="loginForm_botton">
-                            <div class="small_font">
-                                <a href="/en/Support/Find-ID-And-Password">Forgot your username?</a> <a href="/en/Support/Forgot_password?id=2">Forgot your password?</a>
-                            </div>
-                            <div id="imageButton">
-                                <a href="/en/Member/Sign-Up" onclick="signUpClick();"><img src="/images/en/free_sign_up.jpg" width="222" height="42" alt=""></a>
-                                <a onclick="loginWithFacebookClick(); return false;" id="login_with_facebook_button"><img src="/images/en/login_with_facebook.jpg" width="222" height="42" alt="" class="link"></a>
-                                <a href="/en/Support/Game-Download" onclick="downloadClick();"><img src="/Images/en/game_download.jpg" width="222" height="42" alt="Game Download"></a>
-                            </div>
-                        </div>
-                    </div>
+<div class="right_login" id="right_login">
+    
+
+    <form method="post" id="loginForm" action="/en/Member/Login">
+        <div class="left">
+            <input id="txtUsername" name="username" type="text" value="">
+            <input id="txtPassword" name="password" type="password" onkeydown="clickButton();" maxlength="20">
+        </div>
+        <div>
+            <input id="right_submit_login" type="image" src="/images/en/button_login.png" alt="Login" width="62" height="52">
+        </div>
+        <div class="clear main_partiallogin_input">
+            <input id="chkRememberUsername" name="chkRememberUsername" value="true" type="checkbox">Remember Username
+        </div>
+        <div class="error"></div>
+    </form>
+    <div id="repalceloginform" class="hidden">
+        <div>Welcome!</div>
+        <div>
+            <form method="post" id="signOutForm" action="/en/Member/Sign-Out">
+                <label id="loginFormlabel">ID : </label>&nbsp; &nbsp;<a href="#" onclick="$('#signOutForm').submit();">[ Sign Out ]</a>
+            </form>
+            <a href="/en/Member/Account-Info">&nbsp;[ Account Info ]</a>
+            <br>
+            <a href="/en/ReferFriend">&nbsp;[ Refer Friend ]</a>
+            <br>
+            <a href="/en/Support/Find_Id">[ Change Password ]</a>
+        </div>
+        <div id="imageButton">
+            <a href="/en/Support/Game-Download">
+                <img src="/Images/en/game_download.jpg" width="222" height="42" alt="Game Download"></a>
+        </div>
+    </div>
+    <div id="loginForm_botton">
+        <div class="small_font">
+            <a href="/en/Support/Find-ID-And-Password">Forgot your username?</a> <a href="/en/Support/Forgot_password?id=2">Forgot your password?</a>
+        </div>
+        <div id="imageButton">
+            <a href="/en/Member/Sign-Up" onclick="signUpClick();">
+                <img src="/images/en/free_sign_up.jpg" width="222" height="42" alt=""></a>
+            <a onclick="loginWithFacebookClick(); return false;" id="login_with_facebook_button">
+                <img src="/images/en/login_with_facebook.jpg" width="222" height="42" alt="" class="link"></a>
+            <a href="/en/Support/Game-Download" onclick="downloadClick();">
+                <img src="/Images/en/game_download.jpg" width="222" height="42" alt="Game Download"></a>
+        </div>
+    </div>
+</div>
+
+<div id="poolPart">
+    
+</div>
+
 <script type="text/javascript">
     function afterUserLoginedWithFacebook(username) {
-            if (username.length > 0) {
-                document.getElementById("loginForm").style.display = "none";
-                document.getElementById("loginForm_botton").style.display = "none";
-                document.getElementById("repalceloginform").style.display = "block";
-                $("#loginFormlabel").text("ID" + " " + ":" + " " + username);
-            }
+        if (username.length > 0) {
+            document.getElementById("loginForm").style.display = "none";
+            document.getElementById("loginForm_botton").style.display = "none";
+            document.getElementById("repalceloginform").style.display = "block";
+            $("#loginFormlabel").text("ID" + " " + ":" + " " + username);
         }
-    
-    
-      function clickButton() 
-      {     
-       if (event.keyCode == 13) 
-       {
-           $('#loginForm').submit(function (event) {
-            event.preventDefault();
-            if (!$('#loginForm').valid())
-                return;
-            
-            var data = $(this).serialize();
-            var url = $(this).attr('action');
-            $.post(url, data, function (response) {
-                if (response.authResult == "pass") {
+    }
+
+
+    function TryToLogin(url, data) {
+        $.post(url, data, function (response) {
+            response = jQuery.parseJSON(response);
+            if (response.authResult == "pass") {
+                if (typeof (response.redirectUrl) != "undefined" &&
+                    response.redirectUrl != null && response.redirectUrl.length > 0) {
+                    location.href = response.redirectUrl;
+                    return;
+                }
+                username = response.ID;
+                afterUserLoginedWithFacebook(response.ID);
+
+//                $.pubsub('publishSync', "loginCompleate", null);
+                $('#poolPart').load('/en/Home/PollHTML');
+                try {
+
                     $("#txtPassword").val("");
                     if (!$("#chkRememberUsername").prop("checked")) {
                         $("#txtUsername").val("");
                     }
-                    username = response.ID;
-                    afterUserLoginedWithFacebook(response.ID);
-                } else {
-                    var element = $("#right_submit_login");
-                    var errorPanel = $(wrapErrorMessageWithPanel(response.message));
-                    popupErrorPanel(errorPanel, element);
+
                 }
-            });
+                catch (err) {
+                    //Handle errors here
+                }
+
+            } else {
+                var element = $("#right_submit_login");
+                var errorPanel = $(wrapErrorMessageWithPanel(response.message));
+                popupErrorPanel(errorPanel, element);
+            }
         });
-       }
-     }
-    
-    
+    }
+
+    function clickButton() {
+        if (event.keyCode == 13) {
+            $('#loginForm').submit(function (event) {
+                //event.preventDefault();                
+            });
+        }
+    }
+
+
     function afterSignOut() {
         username = "";
         document.getElementById("loginForm").style.display = "block";
         document.getElementById("loginForm_botton").style.display = "block";
         document.getElementById("repalceloginform").style.display = "none";
     }
-    
-    $(document).ready(function () {       
+
+    $(document).ready(function () {
         $("#imageButton img").each(function () {
             $(this).hover(function () {
                 $(this).attr("src", $(this).attr("src").replace(".jpg", "_hover.jpg"));
             }, function () {
                 $(this).attr("src", $(this).attr("src").replace("_hover", ""));
-            });        
+            });
         });
 
-        $("#txtUsername").watermark("ID", {useNative: false});
-        $("#txtPassword").watermark("PASSWORD", {useNative: false});
+        $("#txtUsername").watermark("ID", { useNative: false });
+        $("#txtPassword").watermark("PASSWORD", { useNative: false });
 
         var isOpera = !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
-    // Opera 8.0+ (UA detection to detect Blink/v8-powered Opera)
+        // Opera 8.0+ (UA detection to detect Blink/v8-powered Opera)
         var isFirefox = typeof InstallTrigger !== 'undefined';   // Firefox 1.0+
         var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
-            // At least Safari 3+: "[object HTMLElementConstructor]"
+        // At least Safari 3+: "[object HTMLElementConstructor]"
         var isChrome = !!window.chrome && !isOpera;              // Chrome 1+
         var isIE = /*@cc_on!@*/false || document.documentMode;   // At least IE6
-        
+
         var popHeight = 393;
         var popWidth = 518;
         if (isIE) {
@@ -289,59 +285,43 @@
             popHeight = 335;
             popWidth = 465;
         }
-        $("#login_with_facebook_button").popupWindow({ 
-		    windowURL:"/en/Member/Login-With-Facebook",
- 		        width:popWidth,
- 		        height:popHeight ,
- 		        centerBrowser:1
+        $("#login_with_facebook_button").popupWindow({
+            windowURL: "/en/Member/Login-With-Facebook",
+            width: popWidth,
+            height: popHeight,
+            centerBrowser: 1
         });
-        
+
         $('#loginForm').submit(function (event) {
             event.preventDefault();
             if (!$('#loginForm').valid())
                 return;
-            
+
             var data = $(this).serialize();
             var url = $(this).attr('action');
-            $.post(url, data, function (response) {
-                if (response.authResult == "pass") {
-                    if (typeof(response.redirectUrl) != "undefined" && 
-                        response.redirectUrl != null && response.redirectUrl.length > 0) {
-                        location.href = response.redirectUrl;
-                        return;
-                    }
-                    
-                    $("#txtPassword").val("");
-                    if (!$("#chkRememberUsername").prop("checked")) {
-                        $("#txtUsername").val("");
-                    }
-                    username = response.ID;
-                    afterUserLoginedWithFacebook(response.ID);
-                } else {
-                    var element = $("#right_submit_login");
-                    var errorPanel = $(wrapErrorMessageWithPanel(response.message));
-                    popupErrorPanel(errorPanel, element);
-                }
-            });
+            TryToLogin(url, data);
         });
-        
-        loginFormValidator = $("#loginForm").validate({ 
-                rules: {
-                    username: {required: true},
-                    password: {required: true}
-                },
-                messages: {
-                    username: {required: wrapErrorMessageWithPanel("Please enter a valid username.")},
-                    password: {required: wrapErrorMessageWithPanel("Please enter a valid password.")}
-                },
-                success:"valid",
-                errorElement: "div",
-                errorPlacement: function(error, element) {
-                    
-                }
+
+
+
+
+        loginFormValidator = $("#loginForm").validate({
+            rules: {
+                username: { required: true },
+                password: { required: true }
+            },
+            messages: {
+                username: { required: wrapErrorMessageWithPanel("Please enter a valid username.") },
+                password: { required: wrapErrorMessageWithPanel("Please enter a valid password.") }
+            },
+            success: "valid",
+            errorElement: "div",
+            errorPlacement: function (error, element) {
+
+            }
         });
-        
-        
+
+
         $('#signOutForm').submit(function (event) {
             event.preventDefault();
             var data = $(this).serialize();
@@ -350,7 +330,7 @@
                 if (response.result == "success") {
                     window.location.href = "/";
                     afterSignOut();
-                    
+
                 } else {
                     alert(response.message);
                 }
@@ -358,6 +338,7 @@
         });
     });
 </script>
+
                             <div class="right_channel_title">
                                 Corporate
                             </div>
@@ -382,8 +363,9 @@
 			            </ul>
                     </div>
 
+
                     <div class="right_down_box">
-                        <a href="http://www.dragonnest.eu/en/Member/Transfer" target="_blank"><img src="http://image.dragonnest.eu/u/20130929/side_04.jpg" width="242" height="116" alt="Side_01"></a>
+                        <a href="http://www.dragonnest.eu/en/ReferFriend" target="_blank"><img src="http://image.dragonnest.eu/u/20140212/banner.jpg" width="242" height="116" alt="Side: Refer a friend"></a>
                     </div>
 
                         </div>
@@ -403,108 +385,112 @@
         <div class="footer">
             
 
-        <div id="foot_logo">
-            <a href="/"><img src="/images/en/footer_dn_logo.png" width="133" height="32" alt="Dragon Nest EU - The Number 1 Action RPG"></a>
-        </div>
-        <div class="f_menu">
+<div id="foot_logo">
+    <a href="/">
+        <img src="/images/en/footer_dn_logo.png" width="133" height="32" alt="Dragon Nest EU - The Number 1 Action RPG"></a>
+</div>
+<div class="f_menu">
+    <ul>
+        <li>
+            <h3>
+                <a href="/en/Game">
+                    Game</a></h3>
             <ul>
-                <li>
-                    <h3>
-                        <a href="/en/Game">
-                            Game</a></h3>
-                    <ul>
-                        <li><a href="/en/Game/Manual">
-                            Online Manual</a></li>
-                        <li><a href="/en/Game/About">
-                            About Dragon Nest</a></li>
-                        <li><a href="/en/Game/Class">
-                            Class</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <h3>
-                        <a href="/en/Community/News">
-                            Community</a></h3>
-                    <ul>
-                        <li><a href="/en/Community/News">
-                            News</a></li>
-                        
-                            <li><a href="/en/Community/Event">Event</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <h3>
-                        <a href="http://forum.dragonnest.eu/">
-                            Forum</a></h3>
-                </li>
-                <li>
-                    <h3>
-                        <a href="/en/Media">
-                            Media</a></h3>
-                    <ul>
-                        <li><a href="/en/Media/Video">
-                            Video</a></li>
-                        <li><a href="/en/Media/Artwork">
-                            Artwork</a></li>
-                        <li><a href="/en/Media/Wallpaper">
-                            Wallpaper</a></li>
-                        <li><a href="/en/Media/ScreenShot">
-                            Screenshots</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <h3>
-                        <a href="/en/Shop/Hot-Item">
-                            Shop</a></h3>
-                    <ul>
-                        <li><a href="/en/Shop/Hot-Item">
-                            Brand-New</a></li>
-                        <li><a href="/en/Shop/Charge-Cash">
-                            Buy Althea Crowns</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <h3>
-                        <a href="/en/Support/Game-Download">
-                            Support</a></h3>
-                    <ul>
-                        <li><a href="/en/Support/Game-Download">
-                            Game Download</a></li>
-                        <li><a href="/en/Support/Feedback">
-                            Mail Support</a></li>
-                        <li><a href="/en/Support/Find-ID-And-Password">
-                            Recover ID/Password</a></li>
-                    </ul>
-                </li>
-                <li class="last_li">
-                    <h3>
-                        <a href="/en/Legal">
-                            Corporate</a></h3>
-                    <ul>
-                        <li><a href="/en/Legal/Terms">
-                            Terms and Conditions</a></li>
-                        <li><a href="/en/Legal/Privacy">
-                            Privacy Policy</a></li>
-                    </ul>
-                </li>
+                <li><a href="/en/Game/Manual">
+                    Online Manual</a></li>
+                <li><a href="/en/Game/About">
+                    About Dragon Nest</a></li>
+                <li><a href="/en/Game/Class">
+                    Class</a></li>
             </ul>
-        </div>
-        <div class="footer_bottom">
-            <div class="footer_bottom_logo">
-                <a href="http://www.shandagames.com/us-en/index.html" target="_blank">
-                    <img src="/images/en/footer_t_shandagames.png" width="145" height="32" alt="SHANDA GAMES"></a></div>
-            <div id="footer_eyedentity_logo" class="footer_bottom_logo">
-                <a href="http://www.eyedentitygames.com/eng/" target="_blank">
-                    <img src="/images/en/footer_eyedentity.png" width="184" height="19" alt="EYEDENTITY GAMES"></a></div>
-            <div id="copyright">
-                Copyright © 2013 SDGI Shanda Games and Eyedentity Games Inc. All Rights Reserverd. <div id="mirolink">Powered by <a href="http://www.mirolink.cn/">镜琪互动 Mirolink Interactive</a></div>
-            </div>
-            <div class="left">
-                <img src="/images/en/footer_pcgi.png" width="49" height="60" alt="12 - PCGI Info" style="padding-right: 20px">
-                <img src="/images/en/footer_usk.png" width="60" height="60" alt="12 - USK">
-            </div>
-        </div>
-        
+        </li>
+        <li>
+            <h3>
+                <a href="/en/Community/News">
+                    Community</a></h3>
+            <ul>
+                <li><a href="/en/Community/News">
+                    News</a></li>
+                
+                <li><a href="/en/Community/Event">Event</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <a href="http://forum.dragonnest.eu/">
+                    Forum</a></h3>
+        </li>
+        <li>
+            <h3>
+                <a href="/en/Media">
+                    Media</a></h3>
+            <ul>
+                <li><a href="/en/Media/Video">
+                    Video</a></li>
+                <li><a href="/en/Media/Artwork">
+                    Artwork</a></li>
+                <li><a href="/en/Media/Wallpaper">
+                    Wallpaper</a></li>
+                <li><a href="/en/Media/ScreenShot">
+                    Screenshots</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <a href="/en/Shop/Hot-Item">
+                    Shop</a></h3>
+            <ul>
+                <li><a href="/en/Shop/Hot-Item">
+                    Brand-New</a></li>
+                <li><a href="/en/Shop/Charge-Cash">
+                    Buy Althea Crowns</a></li>
+            </ul>
+        </li>
+        <li>
+            <h3>
+                <a href="/en/Support/Game-Download">
+                    Support</a></h3>
+            <ul>
+                <li><a href="/en/Support/Game-Download">
+                    Game Download</a></li>
+                <li><a href="/en/Support/Feedback">
+                    Mail Support</a></li>
+                <li><a href="/en/Support/Find-ID-And-Password">
+                    Recover ID/Password</a></li>
+            </ul>
+        </li>
+        <li class="last_li">
+            <h3>
+                <a href="/en/Legal">
+                    Corporate</a></h3>
+            <ul>
+                <li><a href="/en/Legal/Terms">
+                    Terms and Conditions</a></li>
+                <li><a href="/en/Legal/Privacy">
+                    Privacy Policy</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<div class="footer_bottom">
+    <div class="footer_bottom_logo">
+        <a href="http://www.shandagames.com/us-en/index.html" target="_blank">
+            <img src="/images/en/footer_t_shandagames.png" width="145" height="32" alt="SHANDA GAMES"></a>
+    </div>
+    <div id="footer_eyedentity_logo" class="footer_bottom_logo">
+        <a href="http://www.eyedentitygames.com/eng/" target="_blank">
+            <img src="/images/en/footer_eyedentity.png" width="184" height="19" alt="EYEDENTITY GAMES"></a>
+    </div>
+    <div id="copyright">
+          Copyright © 2013-2014 Shanda Games International Europe GmbH and Eyedentity Games Inc. All Rights Reserved.
+      
+    </div>
+    <div class="left">
+       
+        <img src="/images/en/footer_usk.png" width="60" height="60" alt="12 - USK">
+    </div>
+</div>
+
         </div>
     </footer>
     
