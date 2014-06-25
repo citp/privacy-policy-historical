@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the keralites.net privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006010733id_/http%3A//www.keralites.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralites.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075103id_/http%3A//keralites.net/privacy.html) for the most accurate reproduction.*
 
 # Keralites Community Network - Related Useful Links
 
-   
-[ ](http://keralites.net/)  
-  | 
+| 
 
 ** Privacy Statement--Keralites.net  
 **  
@@ -30,5 +28,3 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Keralites.net may disclose information in situations where we reasonably believe that it is necessary to identify, contact, or bring legal proceedings against someone who is misusing the site, using the site without proper authorisation, is interfering with the rights of Keralites.net, or when Keralites.net believes that the law requires such disclosure. In addition, the information may be used to verify your compliance with the Keralites.net Web site Terms of Use.
 
 By using or visiting this site, you acknowledge that you have read, understood, and agree to be bound by this Policy and the Keralites.net Terms of Use, both now and in the future.
-
-|   
