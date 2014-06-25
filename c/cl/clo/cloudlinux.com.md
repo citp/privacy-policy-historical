@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudlinux.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102195842id_/http%3A//www.cloudlinux.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudlinux.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131657id_/http%3A//cloudlinux.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Cloud Linux, Inc. (“ **Cloud Linux** ”) respects the privacy of anyone who uses the CloudLinux website ([ _www.cloudlinux.com_](https://web.archive.org/web/20131102195842id_/http://www.cloudlinux.com/company/privacy/www.cloudlinux.com)).
+Cloud Linux, Inc. (“ **Cloud Linux** ”) respects the privacy of anyone who uses the CloudLinux website ([ _www.cloudlinux.com_](https://web.archive.org/web/20140625131657id_/http://cloudlinux.com/company/privacy/www.cloudlinux.com)).
 
 CloudLinux gathers important information from our visitors and users. CloudLinux publishes this Privacy Policy to communicate how CloudLinux gathers and uses information about you, how CloudLinux protects it, and how you can participate in its protection.
 
@@ -86,4 +86,4 @@ CloudLinux gives you the ability to access, modify or update your information at
 
 **Additional Information**
 
-Questions regarding this Privacy Policy or the security measures taken by CloudLinux should be directed to CloudLinux by emailing [ _info@cloudlinux.com_](https://web.archive.org/web/20131102195842id_/http://www.cloudlinux.com/company/privacy/info@cloudlinux.com).
+Questions regarding this Privacy Policy or the security measures taken by CloudLinux should be directed to CloudLinux by emailing [ _info@cloudlinux.com_](https://web.archive.org/web/20140625131657id_/http://cloudlinux.com/company/privacy/info@cloudlinux.com).
