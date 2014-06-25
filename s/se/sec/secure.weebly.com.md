@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secure.weebly.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911003812id_/http%3A//secure.weebly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.weebly.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103901id_/http%3A//secure.weebly.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Politique de confidentialité
 
 ### What This Privacy Policy Covers
 
@@ -137,4 +137,4 @@ Weebly, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@weebly.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**Last updated on August 9th 2013.**
+**Last updated on June 25th 2014.**
