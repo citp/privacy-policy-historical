@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208115512id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081033id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » WPCanada
+# Privacy Policy - WPCanada
 
 **Introduction**  
 WPCanada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
