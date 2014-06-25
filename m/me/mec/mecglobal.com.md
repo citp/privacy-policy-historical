@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016130857id_/http%3A//www.mecglobal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecglobal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084859id_/http%3A//www.mecglobal.com/privacy) for the most accurate reproduction.*
 
-# MEC | Privacy
+# MEC Global | Privacy Policy | MEC
 
 ### Privacy Policy
 
@@ -18,7 +18,7 @@ For information on how we collect and use information that is collected directly
 
 We do not collect personally identifiable information ("PII") from users online through advertisements we manage on behalf of our clients unless users affirmatively and deliberately choose to release that information by submitting it, in a text field for example. PII generally refers to identifying information such as an individual's name, mailing address, phone number or e-mail address.
 
-Non-Personal Information Collected by our Services
+### Non-Personal Information Collected by our Services
 
 We do collect non-personally identifiable information ("Non-PII) to identify computers that we have interacted with before. For instance, by using Non-PII, we may be able to identify a computer that has previously seen an advertisement we launched on behalf of a client. In the context of Non-PII, whenever we refer to ‘you' or ‘yours,' please remember that we may be referring to a computer and not an identifiable person since we generally do not know who is using a computer at any particular time.
 
@@ -28,7 +28,7 @@ We may collect Non-PII regarding your web browsing, usage or interactions with a
 
 We collect Non-PII through the use of cookies, pixels and related technologies. A cookie is a file on your browser that uniquely identifies your browser and computer. A pixel is a line of code which is used by a website or third party t to assign online activities to a computer or browser. The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page. Additional Non-PII from an earlier period or interaction may be included in the pixel. Though Non-PII does not personally identify anyone, we are still committed to giving users the opportunity to exercise choice about the Non-PII we collect. See Section titled: **User Choice - Opting Out of Receiving Cookies**
 
-Europe
+### Europe
 
 Please note - in some countries an IP address is considered PII by applicable law. If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as PII.
 
