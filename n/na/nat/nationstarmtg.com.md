@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Nationstar Mortgage | Privacy Policy
+
+Effective September 2013
 
 At Nationstar Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared. 
 
@@ -11,7 +13,7 @@ Please see our [Consumer Privacy Notice](https://web.archive.org/Content/documen
 We collect nonpublic personal information about you, including: 
 
   * Information we receive from you on applications, surveys, online registrations or other forms (such as your name, address, assets, income and debt)
-  * Information about your transactions with us, our affiliates or others (such as account balance, payment history or information about our communications with you)
+  * Information about your transactions with us, our affiliates or others (such as account balance, transcation history or information about our communications with you)
   * Information about your creditworthiness, credit history and other facts about you that we obtain from consumer reporting agencies or from providers of marketing and demographic information
   * Information from other outside sources regarding their employment, credit or other relationship with you or verifying representations made by you, such as your employment history, loan balances or your property insurance coverage
 
@@ -115,6 +117,12 @@ On their own, cookies or Web beacons do not contain or reveal any personally ide
 
 Your ongoing use of our Web sites constitutes your acceptance of this Privacy Policy, and you specifically agree to our described use of cookies and Web beacons. You may adjust your browser to reject cookies from us or from any other site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Web sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
+### Targeted Advertising
+
+We may also use technologies to collect information about your online activities over time and across third party websites or other online services (behavioral tracking). We believe that this online behavioral tracking helps to provide you with more relevant advertising based upon on the websites you visit. Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of this Nationstar Mortgage website. 
+
+You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on this website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest based advertising generally. Please note that the Nationstar Mortgage website does not respond or honor “Do Not Track” requests. 
+
 ###  Secure Email
 
 A message for all Nationstar’s clients and business partners: as part of Nationstar’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
@@ -133,12 +141,12 @@ You can respond to Nationstar secure emails with secure replies, and there is al
 
 ####  Where can I get more information?
 
-[Secure Email User Guide](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
-[ Secure Email Quick Reference](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
+[Secure Email User Guide](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
+[ Secure Email Quick Reference](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
 
 ####  Privacy Options and Solicitations
 
-  * To make privacy elections, [click here](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
-  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
+  * To make privacy elections, [click here](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
+  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20140625163650id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
 
 
