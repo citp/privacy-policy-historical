@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openlearning.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805175324id_/https%3A//www.openlearning.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlearning.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111804id_/https%3A//www.openlearning.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy (OpenLearning)
+# Privacy Policy - OpenLearning
 
 This will set this old revision of the page as the latest revision. Do you wish to proceed? 
 
@@ -8,25 +8,24 @@ This will set this old revision of the page as the latest revision. Do you wish 
 
 We collect information from you when you register on our site, respond to a survey or fill out a form.
 
-We collect information on your use of the site and any information you enter or upload including comments, new and ammended content, submissions, rating, tagging, and any other input you make on the site.
+We collect information on your use of the site and any information you enter or upload including comments, new and amended content, submissions, rating, tagging, and any other input you make on the site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or other information. You may, however, visit our site anonymously.
+When interacting or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or other information. You may, however, visit our site anonymously however the majority of courses on our site will require registration.
+
+Individual courses being administered by third parties on the site may explicitly request additional information from you when you enrol in their courses. 
 
 ### What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience (your information helps us to better respond to your individual needs)
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * For research into learning and/or teaching and/or on-line engagement (our site is designed by educational researchers with a passion for discovering and sharing the most effective ways of facilitating learning and teaching which is engaging)
+  * To improve customer service: (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send periodic emails: The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-; To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; For research into learning and/or teaching and/or on-line engagement (our site is designed by educational researchers with a passion for discovering and sharing the most effective ways of facilitating learning and teaching which is engaging)
-
-; To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-; To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 ### How do we protect your information?
 
@@ -34,7 +33,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Your private financial information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ### Do we use cookies?
 
@@ -71,6 +70,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 <https://openlearning.com/>    
-Sydney, NSW 2000   
+Sydney, NSW 2000  
 Australia    
 [support@openlearning.com](mailto:support@openlearning.com)
