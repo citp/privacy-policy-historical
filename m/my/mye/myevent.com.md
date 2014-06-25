@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126194905id_/http%3A//www.myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122603id_/https%3A//myevent.com/1/privacy_policy.htm) for the most accurate reproduction.*
 
 # Make Your Own Personal Website | Easy Website Builder and Design Templates
 
@@ -40,7 +40,7 @@ We use this information to notify contest winners and award prizes, to monitor s
 
 A "cookie" is an element of data which is a piece of text, not a program and that a website can send to the User's browser, which may then be stored on a User's computer system. The Site can access the information from a cookie sent to a User's computer system. MyEvent.com/Websiteworks.com does place cookies on Users' computer systems. MyEvent.com/Websiteworks.com cannot access other cookies sent by other web sites or the information contained therein. We use cookies to track usage of the Site and further customize User's experience when such is visiting the Site. By tracking usage, MyEvent.com/Websiteworks.com can best determine what features of the Site best serve each User. When a User revisits the Site, we will recognize such User by the cookie and may tailor her/his visit accordingly. Users may decline the cookie by using the appropriate feature of its web client software, if available, however, some functionality of the Site may not function properly if the User declines the cookie. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use a third-party live chat service called Liveperson that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate such as clickstream data in order to better serve our customers. We also use Google's keyword analytics to track clickstream data. 
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is/is not covered by our privacy policy. We do/do not have access or control over these cookies. 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. 
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information. 
 
