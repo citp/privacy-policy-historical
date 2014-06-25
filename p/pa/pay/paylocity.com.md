@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylocity.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221082330id_/http%3A//www.paylocity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylocity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044210id_/http%3A//paylocity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Paylocity
 
