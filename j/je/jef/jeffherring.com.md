@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216154011id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054558id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Profitable Content Marketing – Articles marketing and more – Jeff Herring's Blog
+# Privacy Policy — Profitable Content Marketing – Jeff Herring's Blog
 
-#### What information does Mustang Marketing LLC collect and how do we collect it?
+#### What information does Jeff Herring LLC collect and how do we collect it?
 
-Mustang Marketing LLC only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Mustang Marketing LLC collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
+Jeff Herring LLC only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Jeff Herring LLC collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
 #### How do we use this information?
 
-This information is used for internal marketing purposes only.  **Mustang Marketing LLC does not sell, exchange, or release your personal information** (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
+This information is used for internal marketing purposes only.  **Jeff Herring LLC does not sell, exchange, or release your personal information** (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
 #### What are cookies and how do we use them?
 
@@ -16,4 +16,4 @@ Cookies help track a person’s “session” while online. By showing how and w
 
 #### How do we store your information?
 
-Your information is stored at the list server that delivers Mustang Marketing LLC newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Mustang Marketing LLC’s newsletters. All of the newsletters that are sent to you by Mustang Marketing LLC include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link.
+Your information is stored at the list server that delivers Jeff Herring LLC newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Jeff Herring LLC’s newsletters. All of the newsletters that are sent to you by Jeff Herring LLC include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link.
