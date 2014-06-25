@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumastrology.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023001542id_/http%3A//www.premiumastrology.com/process/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumastrology.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121742id_/http%3A//www.premiumastrology.com/process/info/privacy.php) for the most accurate reproduction.*
 
 # Premium Astrology - Privacy Policy
 
