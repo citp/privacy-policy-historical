@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the cosmobox.org privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011085958id_/http%3A//www.cosmobox.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmobox.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072113id_/http%3A//www.cosmobox.org/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Cosmobox.org
+# Cosmobox 2.0 - Secure cloud storage!
+
+**Importance of your Privacy Policy**
+
+This COSMOBOX Website Privacy Policy ("Privacy Policy") covers our treatment of personally identifiable information and other information that we collect when you:   
+(a) access or use the website located at Cosmobox.org (the "Website");   
+(b) become a Member (as defined in the COSMOBOX Website Terms and Conditions ("Terms and Conditions"); and/or   
+(c) use the Services (as defined in the Terms and Conditions). The Website is an Internet property of COSMOBOX Ltd. and its affiliated companies (COSMOBOX," "we" or "us"). 
 
 **Personally Identifiable Information Collected**
 
@@ -66,6 +73,6 @@ At your request, we will inform you of what PII we have on file for you. In addi
 
 COSMOBOX reserves the right to change or update this Privacy Policy at any time by posting a notice on the Website that we are changing our Privacy Policy. If the manner in which we use PII changes, COSMOBOX will notify users by: (a) sending the modified policy to our users via e-mail; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your PII in this different manner. At any time that you do not agree with the changes, you must opt out by contacting us. Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy.
 
-**Contact Us**
+**Contact**
 
 If you have any questions about this Privacy Policy, the practices of the Website or your dealings with the Website, please contact us using our Support Portal. 
