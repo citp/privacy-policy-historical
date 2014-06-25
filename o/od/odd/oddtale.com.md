@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oddtale.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224074701id_/http%3A//oddtale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddtale.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230834id_/http%3A//oddtale.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OddTale.ComOddTale.Com
+# Privacy Policy | OddTale.Com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@http://oddtale.com.
 
