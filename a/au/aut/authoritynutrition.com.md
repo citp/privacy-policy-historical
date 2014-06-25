@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215003911id_/http%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritynutrition.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122906id_/http%3A//authoritynutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
