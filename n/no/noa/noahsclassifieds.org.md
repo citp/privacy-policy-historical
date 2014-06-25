@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the noahsclassifieds.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601113749id_/http%3A//www.noahsclassifieds.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noahsclassifieds.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073146id_/http%3A//www.noahsclassifieds.org/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Noah's Classifieds - The Ultimate php E-Commerce Classified Ads Website Application Software on the Web
+# Privacy Policy
 
- Noah's Classifieds Web-Application Software Terms of Service 2012
+В Noah's Classifieds Web-Application Software Terms of Service 2013
 
 Privacy Policy  
 What information do we collect?
@@ -28,9 +28,8 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-
-**(CONTINUED BELOW)**
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.В   
+В 
 
 ; To send periodic emails
 
@@ -72,7 +71,7 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on December 1, 2012
+This policy was last modified on June 4, 2013
 
 Contacting Us
 
@@ -80,4 +79,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.noahsclassifieds.org
 
-[ http://noahhelp.zendesk.com/home](http://noahhelp.zendesk.com/home)
+<http://noahhelp.zendesk.com/home>  
+В   
+  
+Noah's Classifieds, Inc. Phoenix, Arizona.
