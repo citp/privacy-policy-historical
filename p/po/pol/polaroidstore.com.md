@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020191329id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroidstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083825id_/http%3A//www.polaroidstore.com/privacy.asp) for the most accurate reproduction.*
 
 # Polaroid Store - Privacy Policy
 
-Welcome to PolaroidStore.com! PolaroidStore.com ("Website") is an interactive online service operated by eAccess Solutions, Inc. ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
+This website is owned and operated by eAccess Solutions, Inc. eAccess is responsible for taking your order, shipping it and providing you excellent customer service. For this reason "eAccess Solutions, Inc." will appear on your credit card statement for any purchase that you make on this website. We hope you enjoy your shopping experience with us!
+
+PolaroidStore.com ("Website") is an interactive online service operated by eAccess Solutions, Inc. ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov).
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources (unless specifically stated). 
 
@@ -82,4 +84,4 @@ We will respond to your request and, if applicable and appropriate, make the req
 I. SOLE STATEMENT   
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website. 
 
-2013 eAccess Solutions, Inc. All Rights Reserved.
+2014 eAccess Solutions, Inc. All Rights Reserved.
