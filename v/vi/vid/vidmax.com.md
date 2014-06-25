@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601070520id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidmax.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065559id_/http%3A//vidmax.com/privacy) for the most accurate reproduction.*
 
-# Funny Videos, Crazy Videos, Video Clips :: Vidmax.com
-
-## Privacy Statement
+# VidMax.com | Videos to the Max!
 
 Vidmax.com is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
