@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdramastars.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003258id_/http%3A//www.kdramastars.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdramastars.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002904id_/http%3A//www.kdramastars.com/privacypolicy) for the most accurate reproduction.*
 
 # KDramaStars
 
@@ -10,7 +10,7 @@ We may collect personal information about you when you register with KDramaStars
 
 When KDramaStars asks you for details about yourself this is because we want to ensure that we give you a service that's tailored for you. We ask for as little information as possible in order to make it a quick and easy process. The information you give us isn't sold on to other companies and we have a serious and dedicated commitment to the security of your information.
 
-WHAT INFORMATION MIGHT I HAVE TO GIVE AS A USER OF KDRAMASTARS?
+#### WHAT INFORMATION MIGHT I HAVE TO GIVE AS A USER OF KDRAMASTARS?
 
 If you register for services, we ask you for a small amount of information. We do this so that we can give you a service that's tailored for you, and so that we may serve you better. We only collect the minimum information required to identify you and to ensure that we provide you with appropriate information. Details we collect may include:
 
@@ -20,22 +20,22 @@ address;
 telephone number;  
 e-mail address.
 
-IS MY INFORMATION SECURE?
+#### IS MY INFORMATION SECURE?
 
 Yes. We take the security of your personal data extremely seriously. We have implemented technology and security policies designed to protect the personal data under our control. We also follow strict security procedures as required by the US Data Protection Act 1998. These cover the storage and disclosure of any information you've provided, and the prevention of unauthorized access.
 
-CAN ANYBODY ELSE WHO'S USING KDRAMASTARS ACCESS MY PERSONAL DETAILS?
+#### CAN ANYBODY ELSE WHO'S USING KDRAMASTARS ACCESS MY PERSONAL DETAILS?
 
 No. All personal information given to KDramaStars is secured and stored away from public access.
 
-CAN I CORRECT OR CHANGE ANY DETAILS I'VE GIVEN TO YOU?
+#### CAN I CORRECT OR CHANGE ANY DETAILS I'VE GIVEN TO YOU?
 
 Yes. You can make changes to any of the information you gave us when you registered.
 
-THIRD PARTY LINKS
+#### THIRD PARTY LINKS
 
 KDramaStars contains links to other sites. We cannot assume responsibility for any other site's content or information handling practices. We encourage you to review each site's privacy policy before entering into transactions with them.
 
-CONTACT US:
+#### Contact us:
 
-E-mail : info@kdramastars.com
+E-mail : info at kdramastars.com
