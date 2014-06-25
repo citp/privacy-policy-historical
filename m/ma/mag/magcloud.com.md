@@ -1,332 +1,127 @@
-> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110003038id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magcloud.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625195227id_/http%3A//www.magcloud.com/about/privacy) for the most accurate reproduction.*
 
-# Online Privacy Statement | HP® Official Site
+# Privacy Policy. Book publishing services | Blurb Books
 
-## HP respects your privacy
+### Privacy Policy | Your Privacy Rights
 
-HP and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way information about you and your online activity is collected and how that information is used. This statement is readily available on our HP.com home page and at the bottom of every HP web page.
+Blurb (“Blurb”, “us” or “we”) respects the privacy of the visitors to its Website, the home page of which is located at http://www.blurb.com (“Website”)and its App downloadable to your app-enabled mobile device (“App”). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and Anonymous Information you submit to us through our Website or App. Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms set forth in the Blurb Terms and Conditions that you can find at [Terms and Conditions](https://web.archive.org/terms) and which incorporate this Privacy Policy by reference.
 
-HP was a founding sponsor of the Council of Better Business Bureau's Online Privacy Program and is a BBB Accredited Business. HP privacy practices are consistent with the BBB Code of Business Practices and we proudly display the BBB seal.
+“Personal Information” is information about you that is personally identifiable to you, like your name, address, email address, or phone number, as well as other non-public information that is associated with the foregoing. “Anonymous Information” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy.
 
-[](http://www.bbb.org/sanjose/business-reviews/computers-networks/hewlett-packard-in-palo-alto-ca-207934)[](http://sanjose.bbb.org/Business-Report/Hewlett-Packard-207934)
+#### User Consent
 
-In the development of HP's privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards.
+By submitting Personal Information through our Website or App, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.
 
-HP complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. HP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HP's certification, please visit <http://www.export.gov/safeharbor/>. [](http://www.export.gov/safeharbor/). HP has also established a set of binding corporate rules ("BCR"), which have been approved by all Data Protection Regulators in the EEA and Switzerland, effective June 2011. The BCRs ensure that personal data of covered individuals in the EEA is adequately protected while being processed by any of HP's global entities.
+**Your Personal Information may be processed by Blurb in the country where it was collected as well as transferred to and processed in other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.**
 
-In compliance with the Safe Harbor Principles and BCR requirements, HP commits to resolve complaints about your privacy and our collection or use of your personal information. HP has further committed to refer unresolved privacy complaints from E.U. citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HP does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: <http://www.bbb.org/us/safe-harbor-complaints>. [](http://www.bbb.org/us/safe-harbor-complaints)
+#### Dispute Resolution
 
-HP has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and related practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability, and choice regarding the collection and use of personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. The TRUSTe program does not cover information that may be collected through any software downloaded from this Web site. If you have questions or complaints regarding our Privacy Statement or practices, please contact HP using the contact information included at the end of this Statement. If you are not satisfied with our response, you can refer your complaint to TRUSTe.
+Blurb participates in both the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Blurb has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Blurb’s certification, please visit <http://www.export.gov/safeharbor/>. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below).
 
-[](https://privacy.truste.com/privacy-seal/Hewlett-Packard/validation?rid=4647e2b4-9e49-42f5-bef6-c6a4aaecd89b "TRUSTe online privacy certification")
+If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at http://watchdog.truste.com/pvr.php?page=complaint, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, [click here](http://www.truste.com/consumer-privacy/index.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
-How HP uses automatic data collection tools:
+#### Collection of Personal Information
 
-  
+The Personal Information we gather from you helps us learn about visitors to the Website or users of the App, our customers and potential customers. We use this information to provide the Services to you, to better tailor the features, performance and support of our products and services, and to offer you additional information and opportunities.
 
+#### Personal Information You Provide to Us
 
-## 1\. Scope of this Privacy Statement
+We collect Personal Information that you submit to us voluntarily through our Website or App.
 
-HP is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. This Privacy Statement applies to all HP-owned websites, domains, services, applications, and products, and those of our wholly owned subsidiaries ("HP sites or services"), except that a privacy policy or statement specific to a particular HP program, product, or service may supersede or supplement this Privacy Statement.
+  * When you register on the Website or App, we will collect your full name and username, a password, and an email address.
+  * When you use the App, we also collect information on your location and the App allows you to share your content with others in different locations and on some social media sites.
+  * When you create your profile on the Website or App after registering, we will collect on an optional basis other Personal Information, such as hobbies, interests, additional contact information, etc.
+  * When you order products or services on the Website or App, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
+  * When you subscribe to a Blurb newsletter, we will collect your email address.
+  * When you contact us to submit comments, questions or feedback using the forms on the Website or in the App, we will collect your name, email address and your comment, question or feedback.
+  * When you participate in one of our surveys, we may collect additional profile information.
+  * When you use the “Save Contacts” function to save e-mail addresses to which you have sent announcements, we will collect and store such e-mail addresses.
+  * When you contact us using the request forms on the Website or in the App, we will collect your name, email address and your comment or question that you enter into the form.
+  * When you post messages on the message boards of the Website, or in the App, the information contained in your posting will be stored on our servers and other users will be able to see it.
+  * When you contact us by sending us an email, we will collect your email address and any information contained in the email you send us and any information attached to the email.
 
-  
 
 
-## Links to non-HP websites
+Please note that Content that you use for your Books or that you contribute to other Members for their Books might also contain Personal Information. Please be mindful that such Content may be made available to others (including through the use of the Book preview functionality) as content of your Books or the Books of other Members to which you contributed Content and that you therefore should only use and contribute Content that you are comfortable sharing under these conditions.
 
-HP sites or services may provide links to third-party applications, products, services, or websites for your convenience and information. If you access those links, you will leave the HP site. HP does not control those third party sites or their privacy practices, which may differ from HP's practices. We do not endorse or make any representations about third-party sites. The personal data you choose to provide to or that is collected by these third parties is not covered by the HP Privacy Statement. We encourage you to review the privacy policy of any site you interact with before allowing the collection and use of your personal information.
+#### Personal Information Collected Via Technology
 
-We may also provide social media features that enable you to share information with your social networks and to interact with HP on various social media sites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+As you navigate our Website or App, certain information may also be passively collected, including your Internet protocol address, browser type, domain names, access times, operating system, mouse clicks, mouse movements, scrolling activity. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. This type of information is collected to analyze the use of our services and solutions and to make them more useful to you. Like other aspects of our services, we use a third party service provider for some or all of this type of data collection and analysis; these third party service providers may also independently collect information about you as described in “Disclosure of Personal Information” below.
 
-  
+An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
 
+“Cookies” are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website or App. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website or App may not work properly.
 
-## 2\. Collection of personal information
+#### Personal Information We Receive From Other Sources
 
-HP collects, exports, and uses personal information to better serve you and personalize your experience and interaction with HP. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where required.
+We may receive Personal Information about you from other sources like mobile device, telephone or fax or from companies that provide our services by way of a co-branded or private-labeled website (“Partner Companies”), and for our App, this includes location based services accessed by our App for certain features in the App. If you choose to disable location based services, some features of the App may not work properly. We may add this information to the information we have already collected from you via our Website or App in order to improve the products and services we provide.
 
-HP may collect personal information from you to complete various transactions, such as:
+#### Use of Information
 
-  
+In general, Personal Information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We may also use your Personal Information to provide you with the Blurb newsletters, surveys, or promotional emails regarding changes and upgrades to our products and services and for other marketing purposes of Blurb or our partners, should you request to receive such communications from us.
 
+We may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyze request patterns and usage patterns so that we may enhance our products and services. We may disclose this Anonymous Information to third parties contracted by Blurb to provide marketing services designed to promote our products and services. Blurb reserves the right to use and disclose Anonymous Information to third parties in its discretion.
 
-  * product or service orders, activations, and registrations
-  * profile creation and user verification
-  * information requests
-  * marketing or support subscriptions
-  * contest entries or survey participation
-  * instant credit applications
-  * job applications
+#### Feedback
 
+If you provide feedback on any of our products and services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Information. Blurb will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
 
+#### Disclosure of Personal Information
 
-The types of personal information you provide to us may include:
+Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share your Personal Information with third parties and we will not disclose financial information that is part of your Personal Information unless you ask us to do so.
 
-  
+We may share your Personal Information with third parties to provide you with the products and services that we offer you through the Website or App. These third parties are required not to use your Personal Information other than to provide the products and services requested by Blurb and are bound by confidentiality agreements with regard to their use of such information. You expressly consent to the sharing of your Personal Information with our contractors and third party service providers for the sole purpose of providing products and services to you.
 
+If you use the Book Preview functionality of the Services, any Personal Information contained in the Book Content of the Book(s) for which you have selected Book Preview will be made publicly available to visitors of the Website or App, including search engines.
 
-  * contact information, such as name, address, telephone number, and email address
-  * financial information, such as your credit/debit card number or other billing information
-  * government issued identification number and salary
-  * other unique information such as user IDs and passwords, product and service preferences, contact preferences, educational and employment background, and job interest data
-  * in some cases, your business contact data may be provided to HP by a designated entity within your business or enterprise (such as a member of your IT department)
+We may enter into co-branding or co-promotional agreements with third parties pursuant to which we may share Personal Information with such third parties. For example, we may enter into agreements with Partner Companies pursuant to which we provide the Partner Companies with a URL and a customer registration page co-branded with, or private labeled by, the Partner Companies, and the Partner Companies distributes and promotes the URL to its customers. A Partner Company may have access to Personal Information that we collect from their customers. As a result, if you register on the Website or App through a Partner Company, we may provide your Personal Information to the Partner Company. Please note, however, that we do not control the privacy practices of these third parties.
 
+We use third-party advertising and/or web analytics companies to serve ads and/or to provide us web analytics when you visit our Website or App. These companies may use information about your visits to this and other websites (e.g., through the use of cookies) in order to provide advertisements about goods and services of interest to you, to provide us analyses of how our site is used. Although we do not authorize these third parties to collect your Personal Information from our Website or App, they may associate data collected about your use of our Website or App with the personally identifiable information they have collected about you from other websites. **If you would like to opt out of third-party advertising behavior collection and use from your use of our Website, you may do so at<http://www.networkadvertising.org/managing/opt_out.asp>. If you would like to opt out of third-party advertising behavior collection and use from your use of our App, you may do so [here](http://www.flurry.com/user-opt-out.html).**
 
+We may share some or all of your Personal Information with companies under common control such as any subsidiaries, joint ventures, or parent company (collectively, “Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
 
-If you apply for instant credit, we may ask you to provide additional personal information such as salary, government issued identification number, banking/financial account information, and other information to authenticate you and verify credit worthiness. This information will be used by our financial services providers in determining whether to extend you credit and how much to extend.
+If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
-If you choose to use a "tell-a-friend" or a similar referral program on our site, we will ask you for your friend's e-mail address, social media handle, phone number, or other contact information to send your friend an invitation to participate in the program.
+Regardless of any choices you make regarding your Personal Information (as described below), we may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Blurb; or (b) to protect and defend the rights or property of Blurb or users of our Services.
 
-If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any public forum on an HP site, social network, blog, or other such forum, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor HP have control over. HP is not responsible for the personal information you choose to provide in these forums.
+#### Your California Privacy Rights
 
-In addition to the information you provide, HP may also collect information during your visit to an HP website, web-based application, or a website "powered by" another company on behalf of HP, through our Automatic Data Collection Tools, which include Web beacons, cookies, and embedded Web links. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived. They may also collect information about your Internet Protocol (IP) address, unique device identifier, clickstream behavior (i.e., the pages you view, the links you click, and other actions you take in connection with HP websites or "powered by" websites) and product information. HP may also use some of these Automatic Data Collection Tools in connection with certain emails and communications sent from HP and therefore may collect information using these tools when you open the email or click on a link contained in the email. To learn more, read How HP uses automatic data collection tools.
+If you are a California resident, you may request and obtain from us, once a year, free of charge, certain information about the Personal Information (if any) we disclosed to third parties for their marketing purposes in the preceding calendar year. This information would include a list of the categories of Personal Information that we shared and the names and mailing addresses of all third parties with which we shared Personal Information in the preceding calendar year. If you would like to make such a request, please submit your request to [Customer Support](https://support.blurb.com/anonymous_requests/new?locale=1).
 
-HP also collects information from publicly or commercially available sources that it deems credible. Such information may include your name, address, email address, preferences, interests, and demographic/profile data. The information HP collects from its public or commercial sources may be used along with the information HP collects when you visit HP's sites. For example, HP may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area.
+#### Your Choices Regarding Your Personal Information
 
-  
+We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the communication you receive or by contacting us directly (please see contact information below). Despite your indicated preferences, we may send you communications regarding the services we provide to you, such as transaction reports, notices about BookSmart updates, notices of new Website or App releases, and notices regarding changes to the Website or App, updates to our Terms of Use, Privacy Policy, or other policies.
 
+You may change any of the Personal Information in your account by editing your online profile or by sending an email to us at the email address set forth below.
 
-## 3\. How we use your information
+#### Regarding Children
 
-The information HP collects to understand your needs and interests helps HP deliver a consistent and personalized experience. For example, HP may use your information to
+We do not intentionally gather Personal Information about visitors who are under the age of 13.
 
-  
+#### Other Sites
 
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
 
-  * assist you in completing a transaction or order
-  * prevent and detect security threats, fraud or other malicious activity
-  * communicate with you about products and services
-  * provide and improve service and support
-  * update you on new services and benefits
-  * provide personalized promotional offers
-  * select content to be communicated to you
-  * personalize some HP websites
-  * measure performance of marketing initiatives, ads, and websites "powered by" another company on HP's behalf
-  * allow you to participate in contests and surveys
-  * contact you regarding HP products or services
+#### Security
 
+Blurb is committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure.
 
+Blurb has implemented industry-standard electronic means of protecting your Personal Information. We store Personal Information behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers, and we have implemented technology to detect intrusions. We also require you to enter a password to access your account information. In addition, Blurb protects your Personal Information from unauthorized physical access by storing your Personal Information in a controlled facility. Except as provided elsewhere in this Privacy Policy, Blurb limits access to Personal Information in electronic databases to those persons (including employees and contractors) in Blurb’s organization who have a business need for such access. Lastly, we conduct periodic internal audits and vulnerability scans to ensure compliance with these security measures and generate security incident logs that track Information useful in screening for attempted abuse of or unauthorized access to your Personal Information.
 
-We will give you the opportunity to choose your privacy preferences regarding the marketing communications we send (see Your choices and selecting your privacy preferences).
+Even though Blurb has taken significant steps to ensure that your Personal Information is not intercepted, accessed, used, or disclosed by unauthorized persons, you should know that Blurb cannot fully eliminate security risks associated with Personal Information.
 
-Credit card information is used only for payment processing and fraud prevention. Salary information, government issued identification number and other sensitive personal information is not used for any other purpose by our financial services providers or HP and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
+#### Contact Us
 
-  
+Should you have any questions or concerns regarding this Privacy Policy, please contact us through [Customer Support](https://support.blurb.com/anonymous_requests/new?locale=1) or:
 
+Blurb, Inc.  
+Attention: Chief Financial Officer  
+580 California Street, Suite 300  
+San Francisco, CA 94104  
+USA
 
-## 4\. How we share your information
+#### Privacy Policy Updates
 
-HP will not sell, rent or lease your personal information to others except as described in this Statement. HP shares personal information in the following ways:
+This Privacy Statement is a living document. As part of the Blurb Terms and Conditions, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms and Conditions.
 
-HP retains service providers and suppliers to deliver complete products, services and customer solutions and to assist HP with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, marketing, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required by contract to keep confidential and secure the information received on behalf of HP and may not use it for any purpose other than to carry out the services they are performing for HP.
-
-From time to time, HP participates in marketing initiatives with other companies, including websites "powered by" another company on behalf of HP. As part of these initiatives, certain HP services and marketing communications may be delivered at the same time as those from other companies. Some of these services and communications offer you the option to share personal information with both HP and the other companies participating in these initiatives. For example, you may receive marketing communications from HP and other companies or have the opportunity to register online for software products from multiple companies. If you choose to provide personal information only to HP, HP will not share this information with the other companies participating in that marketing initiative. If you choose to provide personal information to the other companies, that personal information will be handled according to the privacy policy of those companies, which may differ from HP's policies and practices.
-
-HP may transfer your personal information to other HP-owned business entities in the US and Worldwide. By accessing HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities.
-
-Except as described in this Statement, HP will not share the personal information you provide to HP with non-HP third parties without your permission, unless to: (i) respond to duly authorized information requests of police and governmental authorities; (ii) comply with any law, regulation, subpoena, or court order; (iii) investigate and help prevent security threats, fraud or other malicious activity; (iv) enforce/protect the rights and properties of HP or its subsidiaries; or (v) protect the rights or personal safety of HP, our employees, and third parties on or using HP property when allowed and in line with the requirements of applicable law.
-
-Circumstances may arise where, whether for strategic or other business reasons, HP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is HP's practice to seek appropriate protection for information in these types of transactions.
-
-  
-
-
-## 5\. Children's privacy
-
-HP does not knowingly collect information from children under the age of 13, or 14 in Korea, and does not target its websites to children under these ages. We encourage parents and guardians to take an active role in their children's online and mobile activities and interests.
-
-## 6\. Your choices and selecting your privacy preferences
-
-HP gives you the choice of receiving a variety of information that complements our products and services. You can subscribe to receive certain product- and service-specific information and also choose to receive HP general communications. We give you a choice regarding delivery of HP general communications by postal mail, email, telephone, or mobile device.
-
-You can make or change your choices about receiving either subscription or general communications at the data collection point or by using other methods, which are listed in the following sections. This option does not apply to communications primarily for the purpose of administering order completion, contracts, support, product safety warnings, driver updates, or other administrative and transactional notices where the primary purpose of these communications is not promotional in nature.
-
-  
-
-
-## Subscription communications
-
-Subscription communications include email newsletters, software updates, etc. that may be expressly requested by you or which you consented to receive. After you request such communications, you may opt out of receiving them by using one of the following methods:
-
-  
-
-
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email subscription communication.
-  * To unsubscribe from messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
-  * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions. Access to many HP subscriptions is available at the [Subscriber's Choice web page](http://www.hp.com/united-states/subscribe/gateway/).
-  * Write to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507). Be sure to provide your name, relevant contact information, and specific relevant information about the HP subscriptions that you no longer wish to receive.
-
-
-
-Please be aware that when you opt out of receiving certain subscription communications, it may affect the services you have chosen to receive from HP where accepting the communications is a condition of receiving the services.
-
-  
-
-
-## HP general communications
-
-HP general communications provide information about products, services, and/or support. This may include new product or services information, special offers, or invitations to participate in market research or compliance reviews.
-
-You will often be able to use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) to indicate whether you want to receive general communications from HP. HP Passport is a single-login service that lets you register with HP Passport-enabled websites using a single-user identifier and password of your choice. HP Passport uses cookies to store your basic personal information so you don't have to retype it when you return to one of HP's many websites in the future. HP Passport also allows you to set your privacy preferences. Your preferences will apply across HP websites, email, and other communication vehicles that use HP Passport.
-
-If you are unable to use HP Passport, you may opt out of receiving these general communications by using one of the following methods:
-
-  
-
-
-  * Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.
-  * To unsubscribe from messages delivered to mobile devices, reply to the message with the words "STOP" or "END."
-  * Write to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507). Be sure to provide your name, relevant contact information, and specific relevant information about your privacy preferences.
-
-
-
-## 7\. Access to and accuracy of your information
-
-HP strives to keep your personal information accurately recorded. We have implemented technology, management processes and policies to help maintain data accuracy. HP provides individuals with reasonable access to personal information that they provided to HP and the reasonable ability to review and correct it or ask for anonymization, blockage, or deletion, as applicable. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your data. To view and change the personal information that you directly provided to HP you can return to the web page where you originally submitted your data and follow the instructions on that web page, use [HP Passport](https://passport2.hp.com/hppcf/modifyuser.do?hpappid=privacy) where enabled, or contact the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507).
-
-  
-
-
-## 8\. Keeping your personal information secure
-
-HP takes seriously the trust you place in us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, HP utilizes reasonable and appropriate physical, technical, and administrative procedures to safeguard the information we collect and process. HP retains data only as required or permitted by local law and while it has a legitimate business purpose.
-
-When collecting or transferring sensitive information such as credit card information we use a variety of additional security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. The personal information you provide us is stored on computer systems located in controlled facilities which have limited access. When we transmit highly confidential information (such as credit card number or password) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-Credit card numbers are used only for processing payments and are not used for other purposes. As part of real-time payment processing, HP subscribes to fraud management services. This service provides HP with an extra level of security to guard against credit card fraud and to protect your financial data.
-
-  
-
-
-## 9\. Changes to this statement
-
-If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect.
-
-  
-
-
-## 10\. Contacting us
-
-We value your opinions. If you have comments or questions about our Privacy Statement, please send them to the [HP Privacy Office](https://h41268.www4.hp.com/live/index.aspx?qid=11507) or write to us at the following address:
-
-  
-
-
- **Canada, Most of Latin American, and US:**  
-HP Privacy Mailbox   
-11445 Compaq Center Drive W.   
-Mailstop 040307   
-Houston, Texas 77070   
-USA 
-
-**Mexico:**  
-Hewlett-Packard   
-Legal Department  
-Prolongación Reforma No. 700   
-Colonia Lomas de Santa Fe   
-México, D.F., C.P.01210 
-
-**Europe, Middle East, and Africa:**  
-EMEA Privacy Office   
-Hewlett Packard   
-MS 250   
-1 Avenue du Canada   
-HP Les Ulis -91947 – France 
-
-**Asia-Pacific and Japan:**  
-HP APJ Privacy Office   
-Hewlett Packard   
-PO Box 384   
-Concord West, NSW 2138  
-Australia
-
-Rev. November 2012
-
-  
-
-
-## How HP uses automatic data collection tools
-
-The following sections provide additional information about commonly-used web technology tools.
-
-  
-
-
-## Cookies
-
-A "cookie" is a small data file transferred by a website to your computer's hard drive. HP or its service providers send cookies when you surf our site or sites where our ads appear, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site, sites that are "powered by" another company on HP's behalf, or sites where our ads appear may give us access to information about your browsing behavior, which we may use to personalize your experience. Cookies are typically classified as either "session" cookies or "persistent" cookies.
-
-  
-
-
-  * Session cookies do not stay on your computer after you close your browser.
-  * Persistent cookies remain on your computer until you delete them or they expire. Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
-
-
-
-In certain countries you may also adjust your HP.com and associated cookie preferences by using a preference manager tool available on the site you are visiting.
-
-You can find information on popular browsers and how to adjust your cookie preferences in the help and support section of your browser.
-
-From time to time, HP will use Flash local shared objects (LSOs) to store Flash content information and preferences. LSOs perform similar functions to HTML browser cookies and deposit small files on your computer, which are commonly called Flash cookies. Flash cookies are different from browser cookies and cookie management tools provided by your browser may not remove Flash cookies. To learn more about Flash Cookies and how to manage the related privacy and storage settings, please visit the [Adobe Systems website ](http://www.adobe.com/). 
-
-  
-
-
-## Web beacons
-
-Some HP.com and third-party web pages, applications, and HTML-formatted email use Web beacons alone or in conjunction with cookies to compile information about your website usage and your interaction with email, as well as to measure performance on hp.com, applications, and websites "powered by" another company on HP's behalf. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on your computer such as cookies, the time and date of a page viewed, and a description of the page where the web beacon is placed. Depending on the context, web beacons may also refer to content on a third-party server, and may be used by service providers to deliver relevant advertising to you.
-
-You may be able to disable web beacons in email messages by not downloading images contained in the message you receive (this feature varies depending on the email software used on your personal computer). However, doing this may not always disable a web beacon or other automatic data collection tools in the email message due to specific email software capabilities. For more information about this, please refer to the information provided by your email software or service provider.
-
-If you choose to receive marketing emails or newsletters from HP as specified in Your choices and selecting your privacy preferences, HP may automatically collect personal information about you. For example, through web beacons and personalized URLs embedded in these emails or newsletters, HP can track whether you've opened those messages and whether you've clicked on links contained within those messages. For more information on embedded web links, see below.
-
-  
-
-
-## Embedded Web links
-
-Emails from HP, Internet keyboard keys preconfigured by HP, and promotional icons preinstalled on your PC desktop often use links designed to lead you to a relevant area on the Web, after redirection through HP's servers. The redirection system allows HP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
-
-In emails, such web links may also allow HP to determine whether you have clicked a link in an email, and this information about the interaction may be connected to your personal identity. If you do not want HP to collect information about the links that you click, you can:
-
-  
-
-
-  * change your choice about how you receive communications from HP (i.e. choose a text-based version of the message where available) or choose not to click links in an email that HP sends
-  * delete the promotional icons preinstalled by HP on your PC desktop or choose not to click on those
-  * reconfigure the Internet keyboard keys on certain PC models to launch a destination URL of your choice by using the instructions provided with your PC
-
-
-
-## HP ads and offerings on third-party websites
-
-HP contracts with service providers to place ads on websites owned by third parties. In addition, some websites may be "powered by" a service provider to provide HP offers on HP's behalf. These service providers may send cookies from and use web beacons on these third-party websites and on hp.com. The cookies and web beacons may enable HP to collect information about the pages you viewed and the links you clicked.
-
-You can learn more about network advertising and how to opt out by visiting [http://www.aboutads.info ](http://www.aboutads.info/).
-
-  
-
-
-## Additional information about webOS devices 
-
-In addition to the collection and usage practices described in the HP Online Privacy Statement, this information applies to webOS and the software and services associated with webOS. HP collects and uses webOS-specific information in the following ways:
-
-  
-
-
-  *  **Account Set-Up.** If you set up an account to receive services we provide through your webOS device, we will collect your name, phone number, email address and account settings to process your registration and provide those services.
-  *  **On-Device Services.** If you use services we provide through your webOS device, we will collect information relevant to providing the services and as you designate. For example:
-    *  **Device Diagnostics, Analytics and Updates.** In order to improve our product and service offerings, your webOS device includes remote diagnostics, analytics, and software update services. Your webOS device collects technical information related to your device (including serial number, unique device identifier, diagnostic information, usage and crash logs, application configurations, etc.) as required to help identify and troubleshoot issues, and to provide and improve service.
-    *  **Back-up and Restore.** When you use a back-up and restore service for data stored on your device, we will automatically and regularly collect information related to your contacts, calendar, tasks, email and messaging, including online account usernames; account credentials and settings; memos; text/MMS/IM messages and conversations; phone call logs; web bookmarks and cookies; installed App Catalog applications; and preferences, including Location Service preferences to help enable retrieval of that data when restoring or replacing your device. Additional details, including how to turn "off' the feature can be found at Using Backup.
-    *  **Location-Based Services.** When you use location-based services, we will collect, transmit, maintain, process, and use your location and usage data (including both real time geographic information and information that can be used to approximate location) in order to provide location-based and related services, and to enhance your device experience.
-
-
-
-You may choose whether or not to provide your personal information to us. If you choose not to do so, you may not be able to take advantage of certain webOS products, services, offers, or options that depend on personal information.
-
-For your convenience and information, webOS devices may provide links to third-party websites or include applications from third parties. HP does not control those third-party sites or applications, nor does HP control their privacy practices, which may differ from HP's practices. We do not endorse or make any representations about third-party websites or applications. The personal data you choose to provide to or that is collected by these third parties is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company you interact with before allowing the collection your personal information.
-
-Because HP operates globally, information we gather may be made available to our worldwide business units and subsidiaries. If you are in the European Economic Area, please note that the personal information you provide will be transferred outside the European Economic Area for use by HP and its affiliates and subsidiaries for the purposes described above. By using webOS devices, HP websites, registering for an account or service, or otherwise providing HP with your personal information, you consent to this transfer of your personal information throughout the global HP network of entities. 
-
-Back to top
+This Policy was last updated on October 4, 2012.
