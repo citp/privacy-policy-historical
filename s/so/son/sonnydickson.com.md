@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sonnydickson.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029180037id_/http%3A//sonnydickson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonnydickson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064615id_/http%3A//sonnydickson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SonnyDickson
 
 Last updated: August 2013
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://SonnyDickson.com.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://sonnydickson.com.
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
@@ -29,4 +29,4 @@ SonnyDickson has no control over, and assumes no responsibility for, the content
 SonnyDickson may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 **Contact Us**  
-If you have any questions about this Privacy Policy, please contact us.
+If you have any questions about this Privacy Policy, please [contact us](http://sonnydickson.com/contact/).
