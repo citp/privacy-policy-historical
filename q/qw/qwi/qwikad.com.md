@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126073200id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121639id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# qwikad.com - online US classifieds
+# Ohio - Qwikad.com - Online US classifieds
 
 ## Privacy Policy
 
-**The following data is collected and stored:**
+The following data is collected and stored:
 
 **Personal Information**
 
