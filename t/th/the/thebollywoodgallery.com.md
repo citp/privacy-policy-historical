@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208031752id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055917id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bollywood | Tamil | Telugu | Malayalam | Kannada | English | News | Photos |
+# Privacy Policy
 
-**Privacy Policy** for www.thebollywoodgallery.com
+**Privacy Policy** for www.thebollywoodgallery.com   **UPDATED ON APRIL 30-2014**
 
- **Contact Email: mankindlover@gmail.com**
+ **Contact Email:  indianmoviespot@gmail.com**
 
 At www.thebollywoodgallery.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.thebollywoodgallery.com and how it is used.
 
@@ -18,15 +18,19 @@ www.thebollywoodgallery.com does use cookies to store information about visitors
 
  **DoubleClick DART Cookie**
 
- **.::** Google, as a third party vendor, uses cookies to serve ads on www.thebollywoodgallery.com.
+ **.::** [Google](http://thebollywoodgallery.com/nokia-joining-hands-with-googles-arch-rival-microsoft/), as a third party vendor, uses cookies to serve ads on www.thebollywoodgallery.com.
 
- **.::** Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.thebollywoodgallery.com and other sites on the Internet.
+ **.::** [Google](http://thebollywoodgallery.com/nokia-joining-hands-with-googles-arch-rival-microsoft/)‘s use of the DART cookie enables it to serve ads to users based on their visit to www.thebollywoodgallery.com and other sites on the Internet.
 
- **.::** Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – **[http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)**
+ **.::** Users may opt out of the use of the DART cookie by visiting the [Google](http://thebollywoodgallery.com/nokia-joining-hands-with-googles-arch-rival-microsoft/) ad and content network privacy policy at the following URL – **[http://www.](http://www.google.com/privacy_ads.html)[google](http://thebollywoodgallery.com/nokia-joining-hands-with-googles-arch-rival-microsoft/).com/privacy_ads.html**
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
- **Google Adsense** ****
+ **[Google](http://thebollywoodgallery.com/nokia-joining-hands-with-googles-arch-rival-microsoft/) Adsense** ****
+
+ **Infolinks**
+
+ **Kontera**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thebollywoodgallery.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
