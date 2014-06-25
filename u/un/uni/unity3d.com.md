@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207084848id_/http%3A//unity3d.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unity3d.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044857id_/http%3A//unity3d.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Unity - Privacy Policy
 
-Last updated: 16 May 2013
+Last updated: May 16, 2013
 
 Unity Technologies ApS (“Unity”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive from users of:
 
