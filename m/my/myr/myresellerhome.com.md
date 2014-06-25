@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myresellerhome.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126230453id_/http%3A//myresellerhome.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myresellerhome.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063237id_/http%3A//myresellerhome.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to MyResellerHome.com - The Ultimate place for Reseller Hosting, We provide everything needed to become a Hosting Reseller.
 
