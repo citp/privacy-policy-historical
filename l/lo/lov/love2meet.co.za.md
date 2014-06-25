@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love2meet.co.za privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119212248id_/http%3A//love2meet.news24.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2meet.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625230344id_/http%3A//love2meet.news24.com/s/help/privacy.php) for the most accurate reproduction.*
 
 # love2meet - Privacy Policy
 
