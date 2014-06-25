@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchsuggests.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026165307id_/http%3A//searchsuggests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsuggests.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045953id_/http%3A//searchsuggests.com/privacy) for the most accurate reproduction.*
 
-# Search Suggests: Privacy policy
+# searchsuggests.com: Privacy policy
 
 **Your privacy**
 
