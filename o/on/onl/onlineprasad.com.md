@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003083034id_/http%3A//onlineprasad.com/Privacy-Policy-pid-5803.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053617id_/http%3A//onlineprasad.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • OnlinePrasad.com
+# Privacy Policy – OnlinePrasad.com
 
-This privacy policy sets out how OnlinePrasad.com uses and protects any information that you give **OnlinePrasad.com** when you use this website.
+This privacy policy sets out how OnlinePrasad.com uses and protects any information that you give  **OnlinePrasad.com**  when you use this website.
 
-**OnlinePrasad.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**OnlinePrasad.com**  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**OnlinePrasad.com** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/10/2012.
+**OnlinePrasad.com**  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/10/2012.
 
 **What we collect**
 
@@ -58,16 +58,6 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to **contact@onlineprasad.com**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **contact@onlineprasad.com**
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below:
-
-OnlinePrasad.com
-
-+91-9933421341
-
-contact@onlineprasad.com
