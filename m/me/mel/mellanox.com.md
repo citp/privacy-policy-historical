@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205202433id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626004315id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
@@ -64,23 +64,6 @@ Except as otherwise required by applicable law, no part of any copyrighted mater
 
 Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.
 
-#### **_Conflict Minerals Policy Statement  
-_**
-
-Mellanox Technologies Inc. and Mellanox Technologies Ltd ("Mellanox") are committed to source their raw materials, components and parts from suppliers that respect human rights, integrity and environmental regulations. 
-
-Mellanox is also committed to comply with the OECD Due Diligence Guidance as well as Section 1502 of the Dodd-Frank Act, which aims to prevent the use of minerals helping directly or indirectly to finance or benefit armed groups in the Democratic Republic of the Congo (DRC) or in adjoining countries ("conflict minerals"). 
-
-The U.S. Securities and Exchange Commission (SEC) has adopted rules requiring publicly traded companies to disclose whether they use tantalum, tin, gold or tungsten that originated in the DRC or an adjoining country and if so, to issue a report identifying their products that are not conflict free and their due diligence efforts to determine the source and chain of custody of the metals. 
-
-Mellanox requires that suppliers whose products contain tantalum, tin, gold and tungsten to provide written evidence of due diligence (EICC-GeSI Conflict Minerals template) that traces these minerals back through the supply chain, and to confirm their source is not from the conflict region - DRC. 
-
-Mellanox expects suppliers to take similar measures with their suppliers to ensure compliance throughout the supply chain of these "conflict minerals" used in their parts/components/material. 
-
-Contact for Mellanox conflict Minerals: Yossi Adi ([yossiad@mellanox.com](mailto:yossiad@mellanox.com)) 
-
-August 2013 
-
 #### **_Changes to this Privacy Policy  
 _**
 
@@ -103,4 +86,4 @@ _**
 
 If you have any questions about this Privacy Policy, please contact us at: [info@mellanox.com](mailto:info@mellanox.com)
 
-Copyright © 1999 - 2013 by Mellanox Technologies, Ltd.  All rights reserved.
+Copyright © 1999 - 2014 by Mellanox Technologies, Ltd.  All rights reserved.
