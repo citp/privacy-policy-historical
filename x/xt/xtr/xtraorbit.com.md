@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018162549id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145951id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
-# XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, Perfect Money, PayPal, Payza, AlertPay and Credit Cards Payments Accepted.
+# XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, Perfect Money, PayPal, Payza, Egopay and Credit Cards Payments Accepted.
 
-|  |  |   
+|  |  |  |   
 ---|---|---  
 |  | 
 
@@ -66,13 +66,24 @@ XtraOrbit reserves the right to add, delete, or modify any provision of its Priv
 |   
 ---|---  
   
+[ ](http://www.xtraorbit.com/core/about/quotes.php)  
+---  
+|   
+I'm yet to see a web hosting company with a nice and down to earth way of responding to customers or clients like you.
+
+I apprecite your level of response and how you responded.   
+  
+|    
+**Sesan Abayomi**  
+Nigeria  
+  
   
   
   
 ---  
 [](https://web.archive.org/core/docs/main_terms.php)  
   
-Major payment methods are accepted, We accept major **credit** and **debit cards** , [**Perfect Money**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/perfect-money.php), [**Paypal**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/paypal.php), [**Skrill**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/skrill.php), [**Moneybookers**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/moneybookers.php), [**Payza**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/payza.php), [**AlertPay**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/alertpay.php) and **Google Checkout**.
+Major payment methods are accepted, We accept major **credit** and **debit cards** , [**Perfect Money**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/perfect-money.php), [**Egopay**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/egopay.php), [**Paypal**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/paypal.php), [**Skrill**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/skrill.php), [**Moneybookers**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/moneybookers.php), [**Payza**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/payza.php), [**AlertPay**](http://www.xtraorbit.com/web-hosting-and-domain-registration/pay-with/alertpay.php) and **Google Checkout**.
 
 So, you are free to order or register single domain names, bulk domain names, web hosting, cPanel hosting, website design and website templates Instantly using any of the above payment methods. 
 
