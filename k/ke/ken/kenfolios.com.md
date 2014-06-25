@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenfolios.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213231559id_/http%3A//www.kenfolios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenfolios.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111402id_/http%3A//www.kenfolios.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy KenFolios
+# Privacy Policy | KenFolios
 
 ### Privacy Policy:
 
@@ -14,7 +14,7 @@ KenFolios also collects potentially personally-identifying information like Inte
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to KenFolios.com’s websites choose to interact with KenFolios in ways that require KenFolios to gather personally-identifying information. The amount and type of information that KenFolios gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [kenfolios.com](http://www.kenfolios.com/goto/http://54.221.247.130/) to provide a username and email address. Those who engage in transactions with KenFolios are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, KenFolios collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with KenFolios. KenFolios does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to KenFolios.com’s websites choose to interact with KenFolios in ways that require KenFolios to gather personally-identifying information. The amount and type of information that KenFolios gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [kenfolios.com](http://54.221.247.130/) to provide a username and email address. Those who engage in transactions with KenFolios are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, KenFolios collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with KenFolios. KenFolios does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
