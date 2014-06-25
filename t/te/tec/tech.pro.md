@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tech.pro privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143444id_/http%3A//tech.pro/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech.pro privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053136id_/http%3A//tech.pro/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tech.Pro
+# Privacy Policy - Tech.pro
 
 Tech.pro is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience while furthering your professional life.
 
-Note: Any reference to "we," "us", "our website" or Tech.pro are references to the [www.Tech.pro](http://www.tech.pro/) site (the "Website") and all of our partner web sites. Tech.pro may provide links to the websites of many other companies to which this policy does not apply. We cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties.
+Note: Any reference to "we," "us", "our website" or Tech.pro are references to the [tech.pro](http://tech.pro/) site (the "Website") and all of our partner web sites. Tech.pro may provide links to the websites of many other companies to which this policy does not apply. We cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties. Tech.pro is a fully owned subsidiary of Single Integrated Operations Portal, Inc.
 
 We at Tech.pro are committed to good privacy practices regarding your personal information. Your loyalty as a community member, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Tech.pro an enjoyable and satisfying one. This privacy statement explains data collection and use practices of Tech.pro it may be amended from time to time as we adapt to a changing business, technological, and regulatory environment. 
 
@@ -21,6 +21,9 @@ We will maintain and protect the personal information under our control. We have
 >  Bldg J. Suite 245  
 >  Houston, TX 77070 
 
+  
+
+
 ### A. THE INFORMATION WE GATHER.
 
 We gather two types of information about users:
@@ -32,10 +35,10 @@ The non-personally identifiable information we collect helps us identify the mos
 Cookies allow us to serve you better and more efficiently, and to personalize your experience with the Services. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
 
 Third Party Advertisers   
-Please note that our advertisers and their designees, as well as other third parties, may collect information about you through cookies or other technologies when they serve advertisements through the Services or when you visit their web site(s). If you wish to not have this information used for the purpose of serving you targeted ads, you should be able to prevent the collection of that information via privacy settings of your browser. Please refer to the documentation accompanying your browser. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Please note that our advertisers and their designees, as well as other third parties, may collect information about you through cookies or other technologies when they serve advertisements through the Services or when you visit their web site(s). If you wish to not have this information used for the purpose of serving you targeted ads, you should be able to prevent the collection of that information via privacy settings of your browser. Please refer to the documentation accompanying your browser. Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 Links to Other Sites   
-This Website contains links to other sites that are not owned or controlled by this company and our policies. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies only to information collected by this Website.
+This Website contains links to other sites that are not owned or controlled by this company and our policies. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. This privacy statement applies only to information collected by this Website. 
 
   2. Personally identifiable information: In certain areas of the Services, such as those in which you complete a profile, submit your writings, create a new account, or enter Tech.pro -sponsored contests or promotions, we may request that you provide us with certain personally identifiable information, such as your e-mail address, name, zip code, profession, or work experience. We will, in such situations, seek to identify which informational items are required and which are optional. When a user chooses to create a Tech.pro advertisement we also collect billing information.
 
@@ -48,6 +51,7 @@ The Services are not available to children under 13 years of age. We do not know
 Please note that we cannot control the acts of users of the Services. All members and visitors should be aware that, when they disclose personally identifiable information in a resume or profile or other medium, the information may be collected and used by others to send that person unsolicited email from other parties outside Tech.pro. In the event that you encounter any Tech.pro user who is improperly collecting or using information about you or other users, please contact [info@tech.pro](mailto:info@tech.pro). 
 
 
+  
 
 
 ### B. HOW WE USE (AND DO NOT USE) THE INFORMATION WE GATHER.
@@ -62,11 +66,15 @@ Please note that Tech.pro reserves the right to disclose information submitted b
 
 If Tech.pro is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. Tech.pro reserves the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer or disposition of any portion or all of Tech.pro’s or its affiliated entities' assets or stock.
 
-Subject to the foregoing, tech.pro uses your personally identifying information in several ways:
+Subject to the foregoing, Tech.pro uses your personally identifying information in several ways:
 
     * to customize various aspects of the Services to your preferences;
 
     * to determine which advertisements or sponsor messages will appear on your screen;
+
+    * in connection with your use of the Services, we may send you service announcements, administrative messages, and other information. You may opt out of some of those communications;
+
+    * if other users already have your email, or other information that identifies you, we may show them your publicly visible Tech.pro Profile information, such as your name and photo;
 
     * to send to you Tech.pro solicitations, product announcements, and the like that we feel may be of interest to you (you may "opt out" of receiving these materials, as provided below);
 
@@ -95,6 +103,7 @@ In addition to the circumstances described above, Tech.pro may disclose your per
   6. Email to a Friend: If you choose to use our referral service to tell another person about a job, we will ask you for that person's email address. We will automatically send that person a one-time email inviting him or her to visit the site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses.
 
 
+  
 
 
 ### C. SECURITY
@@ -102,6 +111,9 @@ In addition to the circumstances described above, Tech.pro may disclose your per
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [info@tech.pro](mailto:info@tech.pro).
+
+  
+
 
 ### D. SURVEYS AND SWEEPSTAKES
 
@@ -111,6 +123,9 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use this information to notify contest winners and award prizes, to monitor Website use, to personalize the site, to send participants an email, and to measure participants' demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+  
+
+
 ### E. SOCIAL MEDIA FEATURES
 
 Our Web site includes Social Media Features, such as Widgets, that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. These Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
@@ -119,15 +134,19 @@ Our Web site includes Social Media Features, such as Widgets, that run on our si
 
 If you contribute to any user generated forum on this Website (for example: answers, debate, comments), you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
+  
+
+
 ### G. CORRECTING PERSONAL INFORMATION
 
 If you would like to have your personally identifiable information removed from Tech.pro’s database, or would like to correct an error in such information, please contact us at [info@tech.pro](mailto:info@tech.pro), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Tech.pro databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; if you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you may have provided.
 
-  1. Access: If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at tech.pro or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+  1. Access: If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at Tech.pro or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
   2. Data Retention: We will retain your information for as long as your account is active or as needed to provide you Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, contact us at [info@tech.pro](mailto:info@tech.pro). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 
+  
 
 
 ### H. CHANGES TO THIS PRIVACY POLICY
