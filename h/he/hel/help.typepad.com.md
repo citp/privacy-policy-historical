@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the help.typepad.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231060506id_/http%3A//www.typepad.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.typepad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110950id_/http%3A//www.typepad.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Typepad
 
