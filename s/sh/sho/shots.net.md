@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204182838id_/http%3A//www.shots.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125946id_/http%3A//www.shots.net/static/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# shots | Creative Connections
+# shots.net
+
+Advertisement
+
+[]()
 
 ### Privacy & Cookie Policy
 
@@ -186,3 +190,7 @@ Please be aware that MBI does not control and is not responsible for websites th
 a. provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and 
 
 b. maintain and promptly update the Registration Data to keep it fully up to date.
+
+Media Business Insight Limited  
+Company number 8248880 (England & Wales)  
+Registered address: C/O Top Right Group, The Prow, 1 Wilder Walk, London W1B 5AP 
