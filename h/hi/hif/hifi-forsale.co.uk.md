@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813051019id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112226id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy on hifi-forsale Buy sell advertise second hand hifi & home theatre equipment
+# HiFi Forsale - Privacy Statement
 
 **Privacy Statement**
 
