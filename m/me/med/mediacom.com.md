@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221081020id_/http%3A//www.mediacom.com/en/hygiene/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacom.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015140id_/http%3A//www.mediacom.com/en/hygiene/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: MediaCom
+
+You have sucessfully opted out of tracking
 
 MediaCom Holdings Ltd. ("MediaCom") is a part of GroupM Worldwide, Inc., and has adopted these privacy principles for the website located at www.mediacom.com. This Privacy Policy applies only to the website on which it appears, and not to any other MediaCom, GroupM or other website or service. This Privacy Policy also provides information about activities we undertake across internet websites on behalf of MediaCom clients.
 
