@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811033908id_/https%3A//www.bigmiketrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010405id_/https%3A//www.bigmiketrading.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Big Mike Trading Forum
 
