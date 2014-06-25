@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the drdrum.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822003942id_/http%3A//www.drdrum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdrum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111445id_/http%3A//www.drdrum.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
+
+** What information do we collect?**
 
 We collect information from you when you place an order. 
 
@@ -28,6 +30,8 @@ After a transaction, your private information (credit cards, social security num
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+If you do not want to be tracked via cookies you can disable cookies in your browser’s settings. If you need help on how to disable cookies, please refer to the support site for the particular browser that you are using.
 
 **Do we disclose any information to outside parties?**
 
@@ -58,3 +62,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [ http://www.drdrum.com](http://www.drdrum.com/)
+
+support@drdrum.com
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives
