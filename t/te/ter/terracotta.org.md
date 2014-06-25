@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830040301id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102735id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
 
 # Legal Copyright & Privacy | Terracotta
 
@@ -52,4 +52,4 @@ We will use reasonable efforts to comply with your request within five (5) busin
 
 **What We Do to Secure Your Information.** We store data on servers located behind our firewall, in order to protect against the unauthorized access to or compromise of information contained on our servers, such as your Personal Information. However, you should know that in the present technological environment, no security measures are perfect, and that neither we nor any other Internet site can fully eliminate these security risks.
 
-**Further Questions?** Our mailing address is 575 Florida Street, Suite 100; San Francisco, California 94110; USA. We may be reached by telephone at 415.738.4000. If you have any questions about this Privacy Statement or the data privacy practices described in it, please feel free to contact us at privacy@terracotta.org or at the address or telephone number listed above.
+**Further Questions?** Our mailing address is 140 New Montgomery St., Suite 1500; San Francisco, California 94105; USA. We may be reached by telephone at 415.738.4000. If you have any questions about this Privacy Statement or the data privacy practices described in it, please feel free to contact us at privacy@terracotta.org or at the address or telephone number listed above.
