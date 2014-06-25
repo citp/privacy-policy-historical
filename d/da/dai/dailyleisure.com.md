@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailyleisure.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130114251id_/http%3A//dailyleisure.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyleisure.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113113id_/http%3A//dailyleisure.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Daily Leisure
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Filament.io **0** Flares ×
+**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Filament.io **0** Flares ×
 
 ### Disclosure Policy
 
@@ -15,3 +15,8 @@ Daily Leisure respects your privacy. You personal information, email address and
 Third Party ad servers or ad networks may use cookies to track users activities on this website to measure advertisement effectiveness. Daily Leisure has no access or control over these cookies that may be used by third party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. Daily Leisure privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+  
+
+
+Subscribe to the Newsletter!
