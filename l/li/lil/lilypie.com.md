@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208221414id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095155id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
 **OVERVIEW**  
-In this Privacy Policy, "us", "we" or "our" means Lilypie.com (ABN 85 889 855 062). Lilypie.com allows you to receive newsletters, send feedback and use the Lilypie tickers. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
+In this Privacy Policy, "us", "we" or "our" means Lilypie.com (ABN 72 866 880 115). Lilypie.com allows you to receive newsletters, send feedback and use the Lilypie tickers. We use the information that we collect about you to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. 
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. We encourage you to ask questions and to be very cautious before you disclose your personal information to others. 
 
