@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007165647id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainerroad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053708id_/http%3A//www.trainerroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TrainerRoad.com
 
@@ -75,8 +75,8 @@ This policy was last modified on 3/7/2011.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-748 south meadows ste a9 #201  
-Reno, NV 89511  
+140 Washington St LL-80  
+Reno, NV 89503  
 US  
 [support@trainerroad.com](mailto:support@trainerroad.com)  
 775-624-3999 
