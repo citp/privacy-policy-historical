@@ -1,55 +1,55 @@
-> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225014856id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064919id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SkinCareRx.com Privacy Policy
 
   *   * [SEE ALL BRANDS](https://web.archive.org/skin-care-brands.html)
 
 
-  * [Anti-Aging (1037)](http://skincarerx.com/d:Anti-Aging.html)
-  * [Hydrating (557)](http://skincarerx.com/d:Hydrating.html)
-  * [Cream (544)](http://skincarerx.com/d:Cream.html)
-  * [Brightening (458)](http://skincarerx.com/d:Brightening.html)
-  * [Acne Care (381)](http://skincarerx.com/d:Acne+Care.html)
-  * [Firming (369)](http://skincarerx.com/d:Firming.html)
-  * [Eminence (167)](http://skincarerx.com/b:Eminence.html)
+  * [Anti-Aging (1014)](http://skincarerx.com/d:Anti-Aging.html)
+  * [Hydrating (539)](http://skincarerx.com/d:Hydrating.html)
+  * [Cream (473)](http://skincarerx.com/d:Cream.html)
+  * [Brightening (443)](http://skincarerx.com/d:Brightening.html)
+  * [Firming (400)](http://skincarerx.com/d:Firming.html)
+  * [Acne Care (351)](http://skincarerx.com/d:Acne+Care.html)
+  * [Eminence (169)](http://skincarerx.com/b:Eminence.html)
   * [Dermalogica (95)](http://skincarerx.com/b:Dermalogica.html)
   * [Bumble and bumble (86)](http://skincarerx.com/b:Bumble+and+bumble.html)
-  * [La Roche-Posay (80)](http://skincarerx.com/b:La+Roche-Posay.html)
-  * [Elemis (78)](http://skincarerx.com/b:Elemis.html)
-  * [Murad (71)](http://skincarerx.com/b:Murad.html)
-  * [Treatments (926)](http://skincarerx.com/pt:Treatments.html)
-  * [Travel Size Products (690)](http://skincarerx.com/pt:Travel+Size+Products.html)
-  * [Cleansers (402)](http://skincarerx.com/pt:Cleansers.html)
-  * [Moisturizers (302)](http://skincarerx.com/pt:Moisturizers.html)
-  * [Sunscreen (220)](http://skincarerx.com/pt:Sunscreen.html)
-  * [Masks (187)](http://skincarerx.com/pt:Masks.html)
-  * [Aging (1135)](http://skincarerx.com/co:Aging.html)
-  * [Fine Lines & Wrinkles (698)](http://skincarerx.com/co:Fine+Lines+%26+Wrinkles.html)
-  * [Sun Damage (511)](http://skincarerx.com/co:Sun+Damage.html)
-  * [Acne (463)](http://skincarerx.com/co:Acne.html)
-  * [Dehydrated Skin (425)](http://skincarerx.com/co:Dehydrated+Skin.html)
-  * [Dull Skin (359)](http://skincarerx.com/co:Dull+Skin.html)
-  * [Normal-Dry (1205)](http://skincarerx.com/st:Normal-Dry.html)
-  * [Mature (1125)](http://skincarerx.com/st:Mature.html)
-  * [Combination (958)](http://skincarerx.com/st:Combination.html)
-  * [Oily-Acne Prone (928)](http://skincarerx.com/st:Oily-Acne+Prone.html)
-  * [Dry-Very Dry (876)](http://skincarerx.com/st:Dry-Very+Dry.html)
-  * [Sensitive-Dry (625)](http://skincarerx.com/st:Sensitive-Dry.html)
-  * [Antioxidant (384)](http://skincarerx.com/it:Antioxidant.html)
-  * [Green Tea (332)](http://skincarerx.com/it:Green+Tea.html)
-  * [Peptide (321)](http://skincarerx.com/it:Peptide.html)
-  * [Aloe Vera (221)](http://skincarerx.com/it:Aloe+Vera.html)
-  * [Alpha Hydroxy Acid (191)](http://skincarerx.com/it:Alpha+Hydroxy+Acid.html)
-  * [Vitamin C (165)](http://skincarerx.com/it:Vitamin+C.html)
+  * [La Roche-Posay (78)](http://skincarerx.com/b:La+Roche-Posay.html)
+  * [Peter Thomas Roth (69)](http://skincarerx.com/b:Peter+Thomas+Roth.html)
+  * [Elemis (68)](http://skincarerx.com/b:Elemis.html)
+  * [Treatments (842)](http://skincarerx.com/pt:Treatments.html)
+  * [Travel Size Products (581)](http://skincarerx.com/pt:Travel+Size+Products.html)
+  * [Cleansers (353)](http://skincarerx.com/pt:Cleansers.html)
+  * [Moisturizers (300)](http://skincarerx.com/pt:Moisturizers.html)
+  * [Sunscreen (198)](http://skincarerx.com/pt:Sunscreen.html)
+  * [Masks (161)](http://skincarerx.com/pt:Masks.html)
+  * [Aging (1107)](http://skincarerx.com/co:Aging.html)
+  * [Fine Lines & Wrinkles (701)](http://skincarerx.com/co:Fine+Lines+%26+Wrinkles.html)
+  * [Sun Damage (489)](http://skincarerx.com/co:Sun+Damage.html)
+  * [Acne (429)](http://skincarerx.com/co:Acne.html)
+  * [Dehydrated Skin (409)](http://skincarerx.com/co:Dehydrated+Skin.html)
+  * [Dull Skin (343)](http://skincarerx.com/co:Dull+Skin.html)
+  * [Normal-Dry (1124)](http://skincarerx.com/st:Normal-Dry.html)
+  * [Mature (1093)](http://skincarerx.com/st:Mature.html)
+  * [Combination (928)](http://skincarerx.com/st:Combination.html)
+  * [Oily-Acne Prone (879)](http://skincarerx.com/st:Oily-Acne+Prone.html)
+  * [Dry-Very Dry (829)](http://skincarerx.com/st:Dry-Very+Dry.html)
+  * [Sensitive-Dry (615)](http://skincarerx.com/st:Sensitive-Dry.html)
+  * [Antioxidant (342)](http://skincarerx.com/it:Antioxidant.html)
+  * [Green Tea (310)](http://skincarerx.com/it:Green+Tea.html)
+  * [Peptide (278)](http://skincarerx.com/it:Peptide.html)
+  * [Alpha Hydroxy Acid (176)](http://skincarerx.com/it:Alpha+Hydroxy+Acid.html)
+  * [Aloe Vera (175)](http://skincarerx.com/it:Aloe+Vera.html)
+  * [Vitamin C (164)](http://skincarerx.com/it:Vitamin+C.html)
 
   
 | 
 
 Last updated February 5, 2010
 
-Thank you for visiting SkinCareRx.com ("SkinCareRx"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with SkinCareRx is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20131225014856id_/http%3A//skincarerx.com/disclaimer.html).
+Thank you for visiting SkinCareRx.com ("SkinCareRx"). We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with SkinCareRx is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we secure and use the information we collect. This Privacy Policy should be read in conjunction with our [Terms of Service](https://web.archive.org/web/20140625064919id_/http%3A//skincarerx.com/disclaimer.html).
 
-When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20131225014856id_/http%3A//skincarerx.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us using one of the methods listed on the [Contact Us](https://web.archive.org/web/20140625064919id_/http%3A//skincarerx.com/contactus.html) page of our Web site. Please address your questions or concerns to the Customer Service department.
 
 SkinCareRx will occasionally update this Privacy Policy. When a revision is made we will revise the "last updated" date on this page. We encourage you to check the date of our Privacy Policy each time you visit our Web site for any updates or changes. Your use of our Web site constitutes your consent to this Privacy Policy, including any changes or updates.
 
@@ -59,7 +59,7 @@ SkinCareRx will occasionally update this Privacy Policy. When a revision is made
 
 Our Site is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices concerning our Site and have our privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20131225014856id_/http%3A//skincarerx.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact the Customer Service using on of the methods a listed on the [Contact Us](https://web.archive.org/web/20140625064919id_/http%3A//skincarerx.com/contactus.html) page of our Site. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 [](http://www.truste.org/ivalidate.php?url=skincarerx.com&sealid=101)
 
@@ -109,7 +109,7 @@ As an example, Facebook collects certain information via cookies and Web beacons
 
     * Age: We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on our Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
 
-    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20131225014856id_/http%3A//skincarerx.com/contactus.html) page of our Site.
+    * Product Reviews: You may choose to submit a product review. If you post a review, you have the option to enter your name and email address. If you submit a review, your name or alias will be visible to other users but your email address will be kept private. Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to our Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information. Your review or comment might be altered or deleted if inappropriate words or terms have been used. You may withdraw your review at any time by contacting our Customer Service department. Contact information for Customer Service can be found on the [Contact Us](https://web.archive.org/web/20140625064919id_/http%3A//skincarerx.com/contactus.html) page of our Site.
 
     * External Reviews: We use a series of external review services such as Bizrate.com to permit shoppers to rate their experiences while visiting and shopping at our Sites. After placing an order at our Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from our Site, whether or not you choose to provide feedback. Your feedback is collected by the external service, not us, and is governed by their privacy policies. Contact the respective review service to view their privacy polices (for example, Bizrate's privacy policy is available at <http://shop.bizrate.com/content/privacy.html>)
 
