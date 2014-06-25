@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wantlive.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209065730id_/http%3A//www.wantlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantlive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102143id_/http%3A//www.wantlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Wantlive - Privacy Policy
 
