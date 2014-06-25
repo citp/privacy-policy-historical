@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numberfire.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005748id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numberfire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090935id_/http%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ The information we gather enables us to personalize, improve and continue to ope
 
 Account Information: 
 
-When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. 
+When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Services and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Services, and to highlight specific offers from marketing partners. You may unsubscribe from these messages through your Account settings or through our email provider in accordance with CAN-SPAM regulatuions, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes. 
 
 User Content:
 
