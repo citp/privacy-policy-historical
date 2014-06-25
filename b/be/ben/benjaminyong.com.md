@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benjaminyong.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606203313id_/http%3A//benjaminyong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjaminyong.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065307id_/http%3A//benjaminyong.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Affiliate Marketing For Malaysians
+# Privacy Policy - BenjaminYong.com | Affiliate Marketing For Asia
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
