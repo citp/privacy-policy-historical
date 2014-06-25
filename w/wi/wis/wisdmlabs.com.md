@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisdmlabs.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223110819id_/http%3A//wisdmlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdmlabs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091815id_/http%3A//wisdmlabs.com/privacy) for the most accurate reproduction.*
 
-# privacy - WisdmLabs
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -34,14 +34,17 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  **[http://wisdmlabs.com](http://wisdmlabs.com/)**  
-Office No. 1, Ground Floor,  
-Manas Vastu, Opp.Sachin Industrial Estate,  
-Shelarpada, Kolbad  
-Thane, Maharashtra 400601  
-India
+**<http://wisdmlabs.com/contact-us/>**
 
-  info@WisdmLabs.com  
-+91-22-25470435
+Address :
 
-  This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+102, 2nd Floor, Vraj Vihar,  
+Opp. Makhmali Lake,  
+LBS Road,  
+Thane (W) – 400602
+
+Contact : +91-22-25410406  
+Email: info@wisdmlabs.com  
+Skype ID: wisdmlabs
+
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
