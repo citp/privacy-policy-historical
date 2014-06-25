@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129223148id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookplus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135302id_/http%3A//comicbookplus.com%3Fcbplus%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Comic Book Plus
 
@@ -29,6 +29,16 @@ We may disclose and use personally identifiable information in special circumsta
 ## Cookies
 
 A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer's memory. We employ cookie technology to help visitors and subscribers move faster through our site. You can turn off the ability to receive any of these cookies by adjusting the browser in your computer, BUT you should note that if you do so, the functionality of this Web site could be SERIOUSLY affected. If you wish to find out more about cookies, or how to refuse cookies, please visit the Interactive Advertising Bureau's web site at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Amazon.
+
+These third-party ad servers or ad networks use technology in the advertisements and links that appear on ComicBookPlus.com sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+ComicBookPlus.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ComicBookPlus.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 ## Special Note About Google Advertising
 
