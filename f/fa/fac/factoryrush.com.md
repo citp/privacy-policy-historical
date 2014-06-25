@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the factoryrush.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223092426id_/http%3A//factoryrush.com/privacy/%23tab4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryrush.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091146id_/http%3A//factoryrush.com/privacy) for the most accurate reproduction.*
 
 # Factory Rush - Our Policies
 
 At Factory Rush, we endeavor to provide you the best shopping experience at every step. We take an extra care to ensure that your order reaches you safe, intact and timely.
 
-We’re currently charging INR 49 as shipping charges on every product you purchase from Factory Rush. The product you shop for FREE is also applicable in paying the shipping cost. 
+For all the subsequent purchases of Rs. 1000 or more, we will deliver the order to your doorstep Free of cost. A shipping charge of Rs. 59 will be applicable to all orders under Rs. 1000. 
 
 Our goal is to deliver the product within 5-7 working days, if you live in metros. It could extend to 8-10 working days from the day the order is placed with us depending on the where it is supposed to deliver. However, there might be circumstances beyond our control where this timeline cannot be maintained. In such cases, we ensure that the product reaches you within 12-15 days of purchase.
 
@@ -23,25 +23,15 @@ We will keep you informed on the status of your order including delays if any. I
 
 We make an earnest effort to make sure that product listed on our website is available in stock and that the prices shown are correct. In the unlikely event when we’re not able to send your order or replacement due to unavailability of the product in our warehouse, we will inform you within a maximum of 2 working days from the date you place the order. 
 
-While we stand behind the high quality and design of our products, we stand by you, too. If you are dissatisfied for any reason, our return and exchange process is simple offering an easy 15 days return policy for you. You can conveniently return any product and avail either another product from our site or credits or refund.
+While we stand behind the high quality and design of our products, we stand by you, too. If you are dissatisfied for any reason, our replacement process is simple offering an easy 15 days replacement policy for you. You can conveniently return any product and avail another product from our site.
 
-Returns would be applicable in following cases:  
-1\. Return only priced pair  
-In this case, you have to shop a pair having equal or more amount than the returned pair. If you are not doing so, then please make sure that you are also returning the free pair.
-
-2\. Return only free pair  
-In this case, you can shop another free pair of equal or lesser amount than the returned pair.
-
-3\. Return both free and priced pair  
-If you want both the pairs to be returned then you can either shop new pairs in the same amount or we will process the refund for your purchases or the store credits.
-
-Returned products must be unused and should have original packaging and tags that they are shipped with. The product would be acceptable only if:
+Products returned for replacement must be unused and should have original packaging and tags that they are shipped with. The product would be acceptable only if:
 
 * The product delivered was damaged
 * The product delivered was not as described at the time of purchase
 * The product ordered does not fit to size
 
-Kindly follow the below mentioned Return steps:
+Kindly follow the below mentioned steps to send the replacement products back to Factory Rush:
 
 * Place the item in its original packaging
 * Mention your order number on a paper or attach the original invoice
