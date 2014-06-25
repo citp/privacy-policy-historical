@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116030925id_/http%3A//blog.fooyoh.com/fooyoh/entry/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooyoh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060634id_/http%3A//fooyoh.com/privacypolicy) for the most accurate reproduction.*
 
-# FOOYOH BLOG - Privacy Policy
+# FOOYOH ENTERTAINMENT - Privacy Policy
 
 Fooyoh Privacy Notice  
 Fooyoh.com ("Fooyoh") recognizes that its customers, visitors, users, and others who use www.fooyoh.com or other web sites owned or operated by Fooyoh (the "Fooyoh Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Fooyoh Sites. Fooyoh provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Fooyoh Sites. This Privacy Notice is incorporated into and is subject to the Fooyoh Terms of Use. Your use of the Fooyoh Sites and any personal information you provide on the Fooyoh Sites remains subject to the terms of this Privacy Notice and our Terms of Use. Please note that any content posted at the direction of Users onto the Fooyoh Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
