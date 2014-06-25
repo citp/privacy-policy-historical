@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the plrdealer.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206112143id_/http%3A//plrdealer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrdealer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045725id_/http%3A//plrdealer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLR Dealer
-
-Privacy Policy
+# Privacy Policy PLR Dealer
 
 The following describes the Privacy Policy for our plrdealer.com website.
 
@@ -53,4 +51,4 @@ We have included links on this website for your use and reference. We are not re
 
 **QUESTIONS/COMMENTS/CONCERNS** : If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-[https://jasonoickle.zendesk.com](https://jasonoickle.zendesk.com/ "Contact Us Here")
+[http://support.plrdealer.com](http://support.plrdealer.com/ "Contact Us Here")
