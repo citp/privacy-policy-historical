@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetravelmoms.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031081339id_/http%3A//thetravelmoms.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmoms.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101809id_/http%3A//touristmeetstraveler.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy,The Travel Moms
+# Privacy Policy - Tourist Meets Traveler,Tourist Meets Traveler
 
 **DATA COLLECTION:**
 
