@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206112622id_/http%3A//money2020.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money2020.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073243id_/http%3A//money2020.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Money2020
+# Privacy Policy | Money20/20
 
-Money2020 (“we” or “us”) recognizes the importance of respecting the privacy of those who visit our website (our “Site”).  We believe it is important for you to know how we treat the information about you that we receive during your visits to our Site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard various types of information, including the personally identifiable information you provide to us via our Site.
+Money20/20 (“we” or “us”) recognizes the importance of respecting the privacy of those who visit our website (our “Site”).  We believe it is important for you to know how we treat the information about you that we receive during your visits to our Site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard various types of information, including the personally identifiable information you provide to us via our Site.
 
 This Privacy Policy applies only to the information that we collect on our Site and not to any information that we collect through other methods or sources, including sites owned or operated by our affiliates, vendors, or partners.  Please note that when you link from our Site to other websites, this Privacy Policy no longer applies.
 
@@ -46,7 +46,7 @@ Therefore, you should not expect that all of your Personally Identifiable Inform
 
 **5\. User Choices on Collection and Use of Information**
 
-We may, from time to time, send you e-mail regarding our products and services. In addition, if you signed up for our mailing list, we may occasionally send you direct mail about products and services that we feel may be of interest to you.  Only Money2020 (or agents working on behalf of Money2020) will send you these direct mailings and only if you indicated that you do not object to these offers.  If you do not want to receive such e-mails or mailings, simply tell us when you give us your personal information.  Or, at any time, you can modify your account information to no longer receive such offers and mailings.
+We may, from time to time, send you e-mail regarding our products and services. In addition, if you signed up for our mailing list, we may occasionally send you direct mail about products and services that we feel may be of interest to you.  Only Money20/20 (or agents working on behalf of Money20/20) will send you these direct mailings and only if you indicated that you do not object to these offers.  If you do not want to receive such e-mails or mailings, simply tell us when you give us your personal information.  Or, at any time, you can modify your account information to no longer receive such offers and mailings.
 
 You also have choices with respect to cookies.  By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.  If you choose to reject all cookies, some parts of our Site may not work properly.
 
@@ -70,7 +70,7 @@ If you have any questions or comments about this Privacy Policy, or if you would
 
 E-mailing us at:  [info@money2020.com](mailto:info@money2020.com)  
 Writing us at:  
-Money2020, LLC  
+Money20/20, LLC  
 317 Madison Avenue, Suite 1717  
 New York, NY 10017  
 ***** 
