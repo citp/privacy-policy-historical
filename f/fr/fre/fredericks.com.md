@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110191151id_/http%3A//www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000136id_/http%3A//www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Security & Privacy
 
-### Privacy Policy
+### Frederick's of Hollywood Privacy Policy
 
-We are committed to protecting your privacy and maintaining a safe, quality online experience for our customers. This privacy policy applies to websites sponsored by Frederick’s of Hollywood and our affiliates. Please read the complete privacy policy below, as well as our [Terms and Conditions of Use](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-TermsUse), and [contact us](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-ContactUs) if you have any questions.
+We are committed to protecting your privacy and maintaining a safe, quality online experience for our customers. This privacy policy applies to websites sponsored by Frederick’s of Hollywood and our affiliates, including [www.fredericks.com](http://www.fredericks.com/) and [www.ohyesido.com](http://www.ohyesido.com/). Please read the complete privacy policy below, as well as our [Terms and Conditions of Use](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/CustServ-TermsUse), and [contact us](http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-ContactUs) if you have any questions.
 
 **Information We Collect**  
 We may collect information (such as your name, mailing address, email address, telephone number, transaction information, credit card information, age, gender, and birth month and year) when you: 
@@ -16,9 +16,9 @@ We may collect information (such as your name, mailing address, email address, t
   * Enter your information with us online and then abandon your shopping cart;
   * Subscribe to receive our emails or catalogs;
   * Participate in a contest, sweepstakes, promotion or survey;
-  * Post comments to our message boards, personal web pages, chat rooms and blogs on some of our websites;
+  * Post comments to our message boards, personal web pages, chat rooms and blogs on some of our websites (see Voluntary Posting below);
   * Are referred to us through a marketing promotion; or
-  * Visit our websites.
+  * Visit our websites (see Cookies and Web Beacons below).
 
 
 
@@ -35,7 +35,7 @@ We may use your personal information to:
 
 
 
-You always have the right to "opt out" of receiving communications from us.
+You always have the right to "opt out" of receiving communications from us (see Making Communication Choices below).
 
 **Information We Share**  
 We may share your personal information in the following ways: 
@@ -64,7 +64,7 @@ Your web browser offers so-called “cookies” which, if you allow their use, s
 Some pages on our websites may contain electronic images known as web beacons, which are also called “single-pixel gifs”. These images allow us to count users who have visited those pages and to deliver co-branded services. We also may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information but they are a technique we use to compile aggregated statistics about usage on our websites. Web beacons collect only a limited range of information, including the time and date of page view, cookie number and description of the page on which the web beacon resides.
 
 **Third-Party Ads**  
-We use a third-party service provider to service internet ads on our behalf. This provider may collect anonymous information about your visits to our websites, and your interaction with our products and services. Information about your visits to this and other websites may be used for targeted advertising purposes. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process, meaning that your name, mailing address, email address or telephone number is not collected. For more information about this practice and to understand your option not to have this anonymous information used by our third party provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use a third-party provider to place our internet ads. The provider may collect anonymous information about your visits to our websites, and your interaction with our products and services. The provider may also use information about your visits to this and other websites to target advertisements for merchandise and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process, meaning that your name, mailing address, email address or telephone number is not collected. If you would like more information about this practice and your option not to have this anonymous information used by our third party provider, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). To opt-out of Google Display Network ads, please [click here](https://www.google.com/settings/ads).
 
 **Security**  
 We use a variety of technologies and processes to protect customer data. We use Secure Socket Layer (SSL) encryption technology whenever transmitting sensitive data such as credit and debit card information. Your personal information may also be protected by the password you created when you registered at any of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it at any time by following the instructions on the applicable website. However, absolute security can never be guaranteed. We will never request your credit card or other personal information by email. If you receive an email that appears to be a request from us for personal information, do not respond as this may be a "phishing" scam designed to steal your personal information. Email is not a secure means of communication. Never include in an email your credit card number or other sensitive information. We will only request such information during secure transactions at our fredericks.com website.
@@ -79,7 +79,7 @@ Our websites are not intended for use by children and we do not knowingly collec
 We update this Privacy Policy as we believe is necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our website to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personal information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered website visitors information on material changes to this Privacy Policy.
 
 **Your California Privacy Rights**  
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for our direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please contact us using one of the methods listed below. In your request, please include your postal address and specify that you want a "Your Frederick’s California Privacy Rights Notice." Please allow at least 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for our direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to us (see Contact Us below). In your request, please include your postal address and specify that you want a "Your Frederick’s California Privacy Rights Notice." Please allow at least 30 days for a response.
 
 **Contact Us**  
 To "opt out" or make other choices about receiving communications, to update your personal information, to place an order, or to submit comments or ask questions about our privacy policy, please contact us by email, telephone or postal mail:
@@ -90,4 +90,4 @@ P.O. Box 2949
 Phoenix, AZ 85062-2949  
 (800) 323-9525
 
-Updated: October 2011 
+Updated: January 2014 
