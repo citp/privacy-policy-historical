@@ -1,128 +1,47 @@
-> *The following text is extracted and transformed from the sharpbrains.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621142619id_/http%3A//www.sharpbrains.com/z/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpbrains.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070725id_/http%3A//sharpbrains.com/z/your-privacy) for the most accurate reproduction.*
 
-# Your Privacy | SharpBrains
+# Privacy Policy Statement | SharpBrains
 
-**SharpBrains, Inc PRIVACY POLICY AND TERMS OF SERVICE**  
-Effective Date: November 1, 2006
+**What infor­ma­tion do we collect?**
 
-**INTRODUCTION  
-**This Privacy Policy applies to information that users transmit to SharpBrainsÂ  through SharpBrainsÂ  website at <http://www.sharpbrains.com/> (the “Site”).  
-Â 
+We col­lect infor­ma­tion from you when you place an order, sub­scribe to our newslet­ter or fill out a form.
 
-SharpBrains is committed to your privacy. This Privacy Policy is designed to inform you of what information we collect from you on our Site and how we and our affiliates use that information.  
-Â 
+When order­ing or reg­is­ter­ing on our site, as appro­pri­ate, you may be asked to enter your: name or e-mail address. You may, how­ever, visit our site anonymously.
 
-To put it simply: We will not sell, share or trade personal information we collect about you with any outside company for marketing or solicitation without your permission.  
-Â 
+Google, as a third party ven­dor, uses cook­ies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Inter­net. Users may opt out of the use of the DART cookie by vis­it­ing the Google ad and con­tent net­work pri­vacy policy.
 
-Please direct any questions regarding this Privacy Policy to us by email at [customerservice@sharpbrains.com](mailto:customerservice@sharpbrains.com) or by phone at 888-SHARP-OK.  
-Â 
+**Do we dis­close any infor­ma­tion to out­side parties?**
 
-Â 
+We do not sell, trade, or oth­er­wise trans­fer to out­side par­ties your per­son­ally iden­ti­fi­able infor­ma­tion. This does not include trusted third par­ties who assist us in oper­at­ing our web­site, con­duct­ing our busi­ness, or ser­vic­ing you, so long as those par­ties agree to keep this infor­ma­tion con­fi­den­tial. We may also release your infor­ma­tion when we believe release is appro­pri­ate to com­ply with the law, enforce our site poli­cies, or pro­tect ours or oth­ers rights, prop­erty, or safety.
 
-**WHAT WE COLLECT AND WHEN  
-Â ** **Personally Identifiable Information  
-**We collect personally identifiable information on our Site:Â 
+**What do we use your infor­ma­tion  for?**
 
-We collect personally identifiable information on our Site:Â 
+Any of the infor­ma­tion we col­lect from you may be used in one of the fol­low­ing ways:
 
-  * When you purchase goods or services from us;
-  * When you send email or comment through the Site;
+; To per­son­al­ize your expe­ri­ence  
+(your infor­ma­tion helps us to bet­ter respond to your indi­vid­ual needs)
 
+; To improve cus­tomer ser­vice  
+(your infor­ma­tion helps us to more effec­tively respond to your cus­tomer ser­vice requests and sup­port needs)
 
+; To process trans­ac­tions  
+Your infor­ma­tion, whether pub­lic or pri­vate, will not be sold, exchanged, trans­ferred, or given to any other com­pany for any rea­son what­so­ever, with­out your con­sent, other than for the express pur­pose of deliv­er­ing the pur­chased prod­uct or ser­vice requested.
 
-The types of information collected include your Internet Protocol (IP) address, name, age, credit card information, billing and shipping addresses, email address, telephone number, and additional contact and transaction-related information, as well as any additional information you choose to include in communications to us.  
-Â 
+; To send peri­odic emails  
+The email address you pro­vide for order pro­cess­ing, may be used to send you infor­ma­tion and updates per­tain­ing to your order, in addi­tion to receiv­ing occa­sional com­pany news, updates, related prod­uct or ser­vice infor­ma­tion, etc.
 
-We consider each of the above types of information to be “Personally Identifiable Information” because it is individually identifiable information about you.  
-Â 
+**How do we pro­tect your information?**
 
-Â 
+We imple­ment a vari­ety of secu­rity mea­sures to main­tain the safety of your per­sonal infor­ma­tion when you place an order or enter, sub­mit, or access your per­sonal information.
 
-**Other Information  
-Â ** **In the following circumstances we collect information that is not personally identifiable:Â  ** **In the following circumstances we collect information that is not personally identifiable:Â  **
+We offer the use of a secure server. All sup­plied sensitive/credit infor­ma­tion is trans­mit­ted via Secure Socket Layer (SSL) tech­nol­ogy and then encrypted into our Pay­ment gate­way providers data­base only to be acces­si­ble by those autho­rized with spe­cial access rights to such sys­tems, and are required to?keep the infor­ma­tion confidential.
 
- ****In the following circumstances we collect information that is not personally identifiable:Â  
+After a trans­ac­tion, your pri­vate infor­ma­tion (credit cards, social secu­rity num­bers, finan­cials, etc.) will not be stored on our servers.
 
-  * When you complete forms on the Site, compose web reflective journals, or correspond with us by post, phone or fax we may store portions of those communications; or
-  * When you navigate the Site, we log various types of information to help manage and improve our Site, services, and marketing, in general and for you in particular. (For example, we identify items such as domains and browser types to understand how our Site is used and to report these statistics in the aggregate to the vendors that manage the technology of the Site. We also record your IP address and any information you enter and we keep track of which pages you click on.)
+**Do we use cookies?**
 
+Yes, we use cook­ies to help us remem­ber and process the items in your shop­ping cart and keep track of advertisements.
 
+**Your Con­sent**
 
-Â 
-
-**Cookies, etc.**  
-Â 
-
-Like many websites, we use cookies and other standard web technology to collect information for our own use.  
-Â 
-
-A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie and to permit you to refuse it. In some cases refusing a cookie will hamper your navigation of our Site.  
-Â 
-
-Cookies make it easier for you to use the site and for us to offer opt-in and opt-out opportunities, and they enable us to follow your navigation through the site and customize it to your interests. They allow us to remember your identity and preferences so we can display content appropriate for you and your interests and so we can better market and sell our products and services to you.  
-Â 
-
-Although we contract with third parties to manage the use of these technologies, the information is only used to help manage our own websites and deliver products and information to you. The third parties are obligated by contract to keep the information confidential and are prohibited from using it for any other purpose.  
-Â   
-Â 
-
-**HOW WE USE YOUR PERSONALLY IDENTIFIABLE INFORMATION**  
-Â 
-
-We use your personally identifiable information (and at times other information we collect) to:Â 
-
-  * Authenticate your visits;
-  * Send you information and products; or
-  * Help us make you aware of and provide services and products that may be of interest to you.
-
-
-
-We also use the information to manage and improve our Site.  
-Â 
-
-If you have opted in to receiving marketing information, such as newsletters or notices about new products and services that may become available, we use your personal information to customize and deliver that information to you.  
-Â 
-
-Â 
-
-**LIMITED DISCLOSURE OF YOUR PERSONAL INFORMATION TO THIRD PARTIES**  
-Â 
-
-We do not share personally identifiable information with our affiliates except in order to fulfill your orders as requested. We do not disclose your personally identifiable information to unaffiliated third parties.  
-Â 
-
-We also disclose personally identifiable information as permitted or required by law or as required by subpoena, search warrant, or other legal process.  
-Â 
-
-As our business evolves, we may sell, transfer or otherwise share some or all of our assets, including information provided by you, in connection with a merger, reorganization or sale of some or all of our assets or in the event of bankruptcy. In any such event, personally identifiable and other information may be one of the assets transferred. We will post notice before personal information is transferred and becomes subject to a different privacy policy.  
-Â 
-
-**CHOICE  
-Â ** ******Choosing NOT to disclose personal information  
-Â ** **You are not required to register to gain access to many areas of the Site. If you use the Site’s personalized services, however, we will treat your personal information as described in this Privacy Policy.  
-Â ** **You are not required to register to gain access to many areas of the Site. If you use the Site’s personalized services, however, we will treat your personal information as described in this Privacy Policy.Â  ** **MORE ON PRIVACY  
-Â ** ******Children’s online privacy protection  
-Â ** **SharpBrains understands the importance of protecting children’s privacy, especially in an online environment. The Site is not designed for or directed at children. It is our policy not to knowingly collect or maintain information about anyone under the age of 13.  
-Â **
-
-You are not required to register to gain access to many areas of the Site. If you use the Site’s personalized services, however, we will treat your personal information as described in this Privacy Policy.Â SharpBrains understands the importance of protecting children’s privacy, especially in an online environment. The Site is not designed for or directed at children. It is our policy not to knowingly collect or maintain information about anyone under the age of 13.Â  **Links to third party sites  
-Â ** **The Site contains links to third party websites. We assume no responsibility for the information practices of those websites. We encourage visitors to review each site’s privacy policy before disclosing any personal information on that site.  
-Â ** **The Site contains links to third party websites. We assume no responsibility for the information practices of those websites. We encourage visitors to review each site’s privacy policy before disclosing any personal information on that site.Â  ** **Phishing  
-Â ** **We do not and will not, at any time, request personal information in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as “phishing” are of great concern to us. Safeguarding information to help protect you from identity theft is one of our priorities. For more information about phishing, visit the Federal Trade Commission at<http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.pdf>  
-Â **
-
-The Site contains links to third party websites. We assume no responsibility for the information practices of those websites. We encourage visitors to review each site’s privacy policy before disclosing any personal information on that site.Â We do not and will not, at any time, request personal information in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as “phishing” are of great concern to us. Safeguarding information to help protect you from identity theft is one of our priorities. For more information about phishing, visit the Federal Trade Commission at Â  **Security  
-Â ** **The Site uses one or more of SSL encryption, firewalls and self-updating anti-virus software to protect personal information. User purchase information is encrypted.  
-Â ** **The Site uses one or more of SSL encryption, firewalls and self-updating anti-virus software to protect personal information. User purchase information is encrypted.Â  ** **CHANGES TO THIS POLICY**  
-Â 
-
-The Site uses one or more of SSL encryption, firewalls and self-updating anti-virus software to protect personal information. User purchase information is encrypted.Â Â We may make changes to this Privacy Statement at any time. However, we will attempt to notify you via email beforehand of any material change and provide you with the opportunity to opt-out. The most current version of the Privacy Policy can be found at <http://sharpbrains.com/z/your-privacy/>Â 
-
-Â 
-
-**CONTACT  
-****Â  ** **Please direct any questions regarding this Privacy Policy to us by email at[customerservice@sharpbrains.com](mailto:customerservice@sharpbrains.com) or by phone at 888-SHARP-OK.  
-Â Â ** **Please direct any questions regarding this Privacy Policy to us by email at or by phone at 888-SHARP-OK.Â  Â **
-
- ****Please direct any questions regarding this Privacy Policy to us by email at or by phone at 888-SHARP-OK.Â  Â 
+By using our site, you con­sent to our online pri­vacy policy.
