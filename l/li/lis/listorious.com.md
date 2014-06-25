@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204213649id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043539id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
 # Muck Rack - Privacy Policy
 
