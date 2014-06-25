@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediawhite.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160743id_/http%3A//www.mediawhite.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediawhite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120446id_/http%3A//mediawhite.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # mediawhite.com
 
@@ -18,4 +18,4 @@ Media White is dedicated in serving it users by protecting their privacy. We str
 
 ### Contact Information
 
-If you have any queries or questions regarding the Privacy statement, please feel free to contact us,[ cleck here to Contact us](https://web.archive.org/web/20131103160743id_/http%3A//www.mediawhite.com/contact.html)
+If you have any queries or questions regarding the Privacy statement, please feel free to contact us,[ cleck here to Contact us](https://web.archive.org/web/20140625120446id_/http%3A//mediawhite.com/contact.html)
