@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgdone.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116004858id_/http%3A//imgdone.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131917id_/http%3A//imgdone.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # imgdone.com » More Information » Privacy Policy
 
