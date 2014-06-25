@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolspeak.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918214707id_/http%3A//www.schoolspeak.com/Public/PrivacyPolicy.aspx%3FCommunity%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolspeak.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000137id_/http%3A//www.schoolspeak.com/Public/PrivacyPolicy.aspx%3FCommunity%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,14 +85,7 @@ Each User, by clicking the "I Accept" box, using the Website, or providing conse
   
 If you have any questions, suggestions, or concerns regarding our Privacy Policy, please contact:
 
-Attn: Privacy Department  
-SchoolSpeak Inc.  
-1250 Oakmead Pkwy.  
-Suite 210  
-Sunnyvale, CA 94085-4037
-
-Phone: 877-773-2513, and   
-email: [privacy@schoolspeak.com](mailto:privacy@schoolspeak.com)  
+Attn: Privacy Department, SchoolSpeak, Inc., 1250 Oakmead Pkwy., Suite 210, Sunnyvale, CA 94085, Phone: 877-773-2513, and email: [privacy@schoolspeak.com](mailto:privacy@schoolspeak.com)  
 Effective Date: Aug 24, 2007   
   
    
