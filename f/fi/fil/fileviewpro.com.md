@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileviewpro.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040638id_/http%3A//www.fileviewpro.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileviewpro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105556id_/http%3A//fileviewpro.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FileViewPro - Open Any File With ONE Program! - Developed by Microsoft Partner.
 
