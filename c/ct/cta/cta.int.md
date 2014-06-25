@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cta.int privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219114815id_/http%3A//www.cta.int/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cta.int privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094932id_/http%3A//cta.int/en/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy statement
+# Privicay statement
 
 For site management, information is collected for statistical purposes. CTA uses software programs to create summary statistics for such purposes as assessing what information is of most and least interest or identifying system performance or problem areas.
 
