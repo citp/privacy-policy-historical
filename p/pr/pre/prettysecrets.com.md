@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettysecrets.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209085534id_/http%3A//prettysecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettysecrets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095424id_/http%3A//prettysecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PrettySecrets.com
 
