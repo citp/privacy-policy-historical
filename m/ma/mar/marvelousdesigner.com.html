@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marvelousdesigner.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806034723id_/http%3A//marvelousdesigner.com/footer/policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marvelousdesigner.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083430id_/http%3A//www.marvelousdesigner.com/footer/policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>   
 	<!-- head 템플릿 영역 -->    
@@ -39,7 +39,10 @@
 	<!--[if lt IE 9]><link rel="stylesheet" href="/common/css/ie8.css" type="text/css" media="all" /><![endif]-->
 
 	<!-- jQuery CDN -->	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.3.min.js"></script>
+
+    <!-- Ajax Address Paging -->
+    <script type="text/javascript" src="/common/js/jquery.address-1.5.min.js"></script>	
 
 	<!-- 공통 GNB js -->
 	<script type="text/javascript" src="/common/js/gnb.js"></script>
@@ -53,11 +56,28 @@
 	<!-- Video js-->
 	<script type="text/javascript" src="/common/build/mediaelement-and-player.min.js"></script>
 
+	<!-- JWPLAYER -->
+	<script type="text/javascript" src="/common/jwplayer/jwplayer.js"></script>
+	<script type="text/javascript">jwplayer.key="CK+lZ59t/Y4jyVmMGxWqZu4mpvCfy/xFyLY8wA==";</script>
+
 	<script type="text/javascript">
 	    $(document).ready(function () {
 	        //공통 로그인 로드
-	        $('#loginbox2').load("/loginbox.aspx");
-		});
+	        
+            $('#loginbox2').load("/loginbox.aspx");
+
+	        LOGINUSERID = $("#txtloginid").text();
+	        
+	        // 로그아웃
+	        $(document).on('click', '.btnLogout', function () {
+	            var url = '/API/svcMember.svc/Logout';
+	            $.getJSON(url, function (data) {
+	                window.location.href = "/";
+	            });
+	        });
+
+	        
+	    });
 	</script>
 
 	<!-- 페이지 헤더 자동삽입 영역 -->
@@ -93,7 +113,7 @@
 		<section class="headerArea">
 			<h1 class="logo" tabindex="1"><a href="/"><img src="/common/images/main/logo.png" border="0" alt="MD3 LOGO"></a></h1>
 			<!-- 구매 버튼 -->
-			<p class="try"><a href="/marvelousdesigner/pricing/beta.aspx" class="button">START NOW</a></p>
+			<p class="try"><a href="/marvelousdesigner/pricing/" class="button">START NOW</a></p>
 		</section>
 
 		<nav id="gnb" role="navigation">				
@@ -103,7 +123,7 @@
 						<ul class="inner">
 							<li><a href="/marvelousdesigner/overview/">Overview</a></li>
 							<li><a href="/marvelousdesigner/features/">Features</a></li>
-							<li><a href="/marvelousdesigner/pricing/beta.aspx">Pricing</a></li>
+							<li><a href="/marvelousdesigner/pricing/">Pricing</a></li>
 							<li><a href="/marvelousdesigner/system/">System Requirements</a></li>
                             <li><a href="/marvelousdesigner/faq.aspx">FAQ</a></li>
 							<li><a href="/marvelousdesigner/archive/">Archive</a></li>
@@ -118,10 +138,12 @@
 						</ul>
 					</div>
 				</li>
-				<li class="m3"><a href="/learn/lessons.aspx">Learn</a>
+				<li class="m3"><a href="/learn/">Learn</a>
 					<div class="subMenu">
 						<ul class="inner">
+							<li><a href="/learn/">How It Works</a></li>							
 							<li><a href="/learn/lessons.aspx">Lessons</a></li>
+							<li><a href="/learn/tips.aspx">Tips&amp;Tricks</a></li>
 						</ul>
 					</div>
 				</li>
@@ -129,14 +151,29 @@
 					<div class="subMenu">
 						<ul class="inner">
 							<li><a href="/community/forum/">Forum</a></li>
-							<li><a href="/community/gallery/">Gallery</a></li>							
+							<li><a href="/community/gallery/">Gallery</a></li>
+							
 						</ul>
 					</div>
-				</li>					
-				<!--<li class="m5"><a href="/market/">Store</a></li>-->
-				<li class="m6"><div id="loginbox2"></div></li>
+				</li>
+				<li class="m5"><a href="/support/">Support</a>
+					<div class="subMenu">
+						<ul class="inner">
+							<li><a href="/support/faq">Q&amp;A</a></li>							
+							<li><a href="/support/AskUS">Ask Us</a></li>
+						</ul>
+					</div>
+				</li>
+				<li class="m6"><a href="/market/">MD Store</a></li>
+				<li class="m7">
+					<div id="loginbox2"></div>
+					
+				</li>
 			</ul>			
 		</nav>
+
+		<!-- Market Header -->
+		<div id="contentsMarket" role="main"></div>
     </header>
 	<!-- //헤더 템플릿 : 끝 -->
 	
@@ -276,7 +313,7 @@
 		<p>
 			CLO respects your right to make choices about the ways we collect, use and disclose information about you. We generally ask you to indicate your choices at the time and on the page where you provide your personal information. <br><br>
 
-			When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at <a href="mailto:support@marvelousdesigner.com" target="_blank">support@marvelousdesigner.com</a>, or by unsubscribing on your profile page; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the “opt-out” provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists. <br><br>
+			When you provide personal information, we may offer you a choice as to whether you would like to receive further communications from us and/or from our partners, such as communications related to updates, upgrades, special offers and pricing. You have the right to withdraw your consent at any time. If you decide you no longer want to receive promotional messages from us, you may let us know by e-mailing us at <a href="mailto:inquiries@marvelousdesigner.com" target="_blank">inquiries@marvelousdesigner.com</a>, or by unsubscribing on your profile page; please specify which consent you are revoking in your e-mail to us. Please note, however, if you give us permission to add your contact information to our Partner’s mailing list and later withdraw your permission, you will have to contact our Partner (or use the “opt-out” provided in the e-mails our Partner sends you) to have your name removed from our Partner’s mailing lists. <br><br>
 
 			If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our Property). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this Property.
 		</p>
@@ -290,7 +327,7 @@
 
 			We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. <br><br>
 
-			If you would like to review, correct or challenge your personal information, please contact us by e-mail at <a href="mailto:support@marvelousdesigner.com" target="_blank">support@marvelousdesigner.com</a> <br><br>
+			If you would like to review, correct or challenge your personal information, please contact us by e-mail at <a href="mailto:inquiries@marvelousdesigner.com" target="_blank">inquiries@marvelousdesigner.com</a> <br><br>
 
 			If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
 		</p>
@@ -302,12 +339,12 @@
 
 		<h4 class="tit">Children’s Privacy</h4>
 		<p>
-			This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by e-mail at <a href="mailto:support@marvelousdesigner.com" target="_blank">support@marvelousdesigner.com</a>, and we will take reasonable steps to remove that information from our databases.
+			This Property is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this Property unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by e-mail at <a href="mailto:inquiries@marvelousdesigner.com" target="_blank">inquiries@marvelousdesigner.com</a>, and we will take reasonable steps to remove that information from our databases.
 		</p>
 
 		<h4 class="tit">How to Contact Us</h4>
 		<p>
-			If you have any questions, comments, or concerns regarding this Privacy Policy or our privacy practices, or have privacy-related questions not answered online, you may contact us by e-mail at <a href="mailto:support@marvelousdesigner.com" target="_blank">support@marvelousdesigner.com</a>. Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.
+			If you have any questions, comments, or concerns regarding this Privacy Policy or our privacy practices, or have privacy-related questions not answered online, you may contact us by e-mail at <a href="mailto:inquiries@marvelousdesigner.com" target="_blank">inquiries@marvelousdesigner.com</a>. Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.
 			You may write to us in your own language.
 		</p>
 
@@ -326,16 +363,18 @@
 				<li><a href="/footer/policy.aspx">Privacy Policy</a><span>l</span></li>
 				<li><a href="/footer/license.aspx">License Agreement</a><span>l</span></li>
 				<li><a href="/footer/authorized.aspx">Authorized Reseller</a><span>l</span></li>
-				<li><a href="/footer/contactus.aspx">Contact Us</a></li>
+				<li><a href="/footer/contactus.aspx">Contact Us</a><span>l</span></li>
+				<li><a href="/support/">Support</a></li>
 			</ul>
 			<p class="copy">
 				Copyright (c) 2013 CLO Virtual Fashion Inc. All Rights Reserved. 
-				<a href="mailto:support@marvelousdesigner.com" target="_blank">support@marvelousdesigner.com</a>
+				<a href="mailto:inquiries@marvelousdesigner.com" target="_blank">
+inquiries@marvelousdesigner.com</a>
 			</p>
 			<ul class="sns">			
-				<li><a href="https://www.facebook.com/clovirtualfashion" title="Facebook" class="btnSprite icoFacebook" target="_blank"></a></li>
-				<li><a href="https://twitter.com/MD_CLO3D" title="Twitter" class="btnSprite icoTwitter" target="_blank"></a></li>
-				<li><a href="http://pinterest.com/CLO3D/‎" title="Pinterest" class="btnSprite icoPinterest" target="_blank"></a>	</li>
+				<li><a href="https://www.facebook.com/marvelousdesigner" title="Facebook" class="btnSprite icoFacebook" target="_blank"></a></li>
+				<li><a href="http://www.youtube.com/user/marvelousdesigner3" title="YouTube" class="btnSprite icoTwitter" target="_blank"></a></li>
+				<li><a href="http://instagram.com/clovirtualfashion" title="Instagram" class="btnSprite icoPinterest" target="_blank"></a>	</li>
 			</ul>
 		</div>
     </footer>	
@@ -343,7 +382,7 @@
 	<script type="text/javascript">
 		// 퀵메뉴 스크립트
 		var quick_menu = $('#top'); //변수 ID 설정
-		var quick_top = 350; //top 위치
+		var quick_top = 650; //top 위치
 
 		/* quick menu initialization */
 		quick_menu.css('top', $(window).height());
@@ -351,7 +390,7 @@
 		$(document).ready(function () {
 			quick_menu.animate({
 				"top": $(document).scrollTop() + quick_top + "px"
-			}, 700);
+			}, 100);
 			$(window).scroll(function () {
 				quick_menu.stop();
 				quick_menu.animate({
