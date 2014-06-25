@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806103049id_/http%3A//naac.gov.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naac.gov.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064923id_/http%3A//www.naac.gov.in/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Welcome to National Assessment and Accreditation Council
+# NATIONAL ASSESSMENT AND ACCREDITATION COUNCIL (NAAC)
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
