@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2013-08-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130805124110id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppbs.org privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625114840id_/http%3A//www.shoppbs.org/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<meta http-equiv="Pragma" content="no-cache">
-	<title>Shop PBS</title>
-<link rel="stylesheet" type="text/css" href="http://QPBS.imageg.net/css/PG_QPBS_global.css">
-<link rel="stylesheet" type="text/css" href="http://QPBS.imageg.net/css/PG_QPBS_helpDesk.css">
-
+        <meta http-equiv="Pragma" content="no-cache">
+        <title>Shop PBS</title>
+        <link rel="stylesheet" type="text/css" href="http://QPBS.imageg.net/css/PG_QPBS_global.css">
+        <link rel="stylesheet" type="text/css" href="http://QPBS.imageg.net/css/PG_QPBS_helpDesk.css">
+        
        <link rel="stylesheet" type="text/css" href="http://QPBS.imageg.net/include/cardinal.css">
    
 
@@ -78,12 +78,13 @@ function jump(url)
 }
 </script>
 
-</head>
+	</head>
 
-<body class="medium" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
-<div id="mainWrapper">
-	<div id="mainArea"><a name="top"></a>
-	
+    <body class="medium" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" rightmargin="0">
+        <div id="mainWrapper">
+            <div id="mainArea">
+            	<a name="top"></a>
+            	
 <!--  Do not edit/add js scripts here. Use the min-cat project. Config file: /ant-min-cat/site-head-js.xml -->
 <script src="http://QPBS.imageg.net/min-cat/site-head-js.xml.min.js" type="text/javascript"></script>
 <!--  end min-cat section -->
@@ -194,7 +195,6 @@ function getSREDID(){
 	
 <!--[if IE]>
 <style>
-#hdr_search_bar{margin:0px;margin-top:-12px;margin-left:29px;text-align:left;}
 #mainContent{margin-top:0px;}
 </style>
 <![endif]-->
@@ -247,31 +247,49 @@ function getSREDID(){
 		}
 		return true;
 	}
-	function valCatForm(frm) {
-		for(var i=0;i < frm.elements.length;i++) {
-			if(frm.elements[i].name != "addr2" && frm.elements[i].name != "emailAddress" && frm.elements[i].name != "emailAddress2" && frm.elements[i].name != "" && !checklength(frm.elements[i].value)) {
-				if(!document.layers) frm.elements[i].style.backgroundColor='yellow';
-				frm.elements[i].value = '';
-				alert("Please fill out all required fields.");
-				frm.elements[i].focus();
-				return false;
-			} else {
-				if(!document.layers) frm.elements[i].style.backgroundColor='#FFFFFF';
+	
+	
+function validateEmail(testEmail) {
+var emailRegExp =/^([a-zA-Z0-9_\.\‘\-\&\(\)\/\,\@\’\\\~\+\*$\#\<\>\”\?\|\[\]\{\}]{1})+\@(([a-zA-Z0-9_\‘\-\&\(\)\/\,\@\’\\\~\+\*$\#\<\>\”\?\|\[\]\{\}]{1})+\.)+([a-zA-Z0-9_\.\‘\-\&\(\)\/\,\@\’\\\~\+\*$\#\<\>\”\?\|\[\]\{\}]{2,4})+$/;
+return emailRegExp.test(testEmail);
+} 
+
+function valCatForm(frm) {
+	for(var i=0;i < frm.elements.length;i++) {
+		if(frm.elements[i].name != "addr2" && frm.elements[i].name != "emailAddress" && frm.elements[i].name != "emailAddress2" && frm.elements[i].name != "" && !checklength(frm.elements[i].value)) {
+			if(!document.layers) frm.elements[i].style.backgroundColor='yellow';
+			frm.elements[i].value = '';
+			alert("Please fill out all required fields.");
+			frm.elements[i].focus();
+			return false;
+		} else {
+					if(!document.layers) frm.elements[i].style.backgroundColor='#FFFFFF';
 			}
 		}
 		if(frm.state.options[frm.state.selectedIndex].value == "null") {
-		alert("Please select a State.");
-		if(!document.layers) frm.state.style.backgroundColor='yellow';
-		return false;
-	    }
-		if (frm.emailAddress.value != frm.emailAddress2.value) {
-			alert("Please enter a valid email address.");
-			if(!document.layers) frm.emailAddress.style.backgroundColor='yellow';
-			if(!document.layers) frm.emailAddress2.style.backgroundColor='yellow';
-			frm.emailAddress.focus();
+			alert("Please select a State.");
+			if(!document.layers) frm.state.style.backgroundColor='yellow';
 			return false;
-		}
-		return true;
+	    }
+	    if (frm.emailAddress.value != '' && frm.emailAddress2.value != '')
+		{
+		  if (frm.emailAddress.value != frm.emailAddress2.value) {		
+			  alert("Your Email does not match.");
+			  if(!document.layers) frm.emailAddress.style.backgroundColor='yellow';
+			  if(!document.layers) frm.emailAddress2.style.backgroundColor='yellow';
+		      frm.emailAddress.focus();
+			 return false;
+		  }	
+           else{
+				if (!validateEmail(frm.emailAddress.value))
+				{
+					alert("Please be certain you have entered a valid email address.");
+					return false;
+				}
+				
+			}
+	  }
+	return true;
 	}
 
 	function valForm(frm) {
@@ -404,8 +422,10 @@ function setItUpEmail(lightBox, closeIt){
 </script>
 <div id="mastHead">
 	<ul>
-		<li><a href="http://www.pbs.org/" class="pbsTopMast" title="PBS.ORG" target="_blank">PBS.ORG</a></li>
-		<li><span class="purchaseTopMast">Your Purchase Helps support our innovative and educational programming.</span></li>
+		<li><a href="http://www.pbs.org/" class="first" title="PBS.org" target="_blank">PBS.org</a></li>
+		<li><a href="/family/index.jsp?categoryId=10794048&amp;clickid=main_kidsshop_txt" onclick="javascript: kidsShopPopUp();return false;" title="Kids Shop" class="kidsshoptxt">PBS KIDS Shop</a></li>
+		<li><a href="http://teacher.shop.pbs.org/home/index.jsp?clickid=topnav_teachershop_txt" title="Teacher Shop" target="_blank">Teacher Shop</a></li>
+		<li><a href="/EmailSignup/index.jsp" class="save" title="Save 15%">Sign up for email and get 15% off</a></li>
 	</ul>
 </div>
 
@@ -451,7 +471,7 @@ function setItUpEmail(lightBox, closeIt){
 				<input type="hidden" name="_ID_" value="qpbs.86"> 
 				<input type="hidden" name="targetPage" id="targetPage" value="">
 				<input type="hidden" name="emailPref" value="Y">
-				<input type="hidden" name="datetime" value="Sat Feb 01 2020 01:34:11 GMT+0000 (Coordinated Universal Time)">
+				<input type="hidden" name="datetime" value="Sat Feb 01 2020 01:34:07 GMT+0000 (Coordinated Universal Time)">
 				<div id="lbEmailForm_left"><div class="email_li3"></div>Email</div>
 				<div id="lbEmailForm_right"><input type="text" value="" id="emailAddress" name="emailAddress"></div>
 				<br clear="all">
@@ -575,13 +595,15 @@ function setItUpEmail(lightBox, closeIt){
 				<div id="lbEmailForm_left"><div class="email_li3"></div>Zip</div>
 				<div id="lbEmailForm_right"><input type="text" value="" name="zip"></div>
 				<br clear="all">
+				
 				<div id="lbEmailForm_left"><div class="form_blank_gif"></div>Email</div>
 				<div id="lbEmailForm_right"><input type="text" value="" name="emailAddress"></div>
 				<br clear="all">
 				<div id="lbEmailForm_left"><div class="form_blank_gif"></div>Confirm Email</div>
 				<div id="lbEmailForm_right"><input type="text" value="" name="emailAddress2"></div>
+				
 				<br clear="all">
-				<div id="lbEmailForm_header">Would you like to receive mailers from other reputable organizations?</div>
+				<div id="lbEmailForm_header">I agree to receive the PBS catalog in the mail.</div>
 				<div id="lbEmailForm_left"><input type="checkbox" value="Y" name="email3rdParty"> Yes</div>
 				<div id="lbEmailForm_right">
 				</div>
@@ -614,8 +636,9 @@ document.emailForm.datetime.value = formdate;
 		
 	<!-- PBSorsoType: % -->
 	<!-- PBSorsoCode: 0 -->
+	
 
-		<div id="hdr_pbs_logo">
+		<div id="hdr_pbs_logo"><!--main default logo-->
 			<a href="/home/index.jsp?clickid=mainnav_home_img">
 				<img src="http://QPBS.imageg.net/images/pbs_logo.gif" border="0">
 			</a>
@@ -623,385 +646,353 @@ document.emailForm.datetime.value = formdate;
 
 
 		
-		<div id="hdr_search_box">
-			<div id="hdr_search_bar2">
-				<ul>
-					<li><a href="/catalogQuickOrder/index.jsp" class="quickOrder" title="Catalog Quick Order">Catalog Quick Order</a></li>
-					<li><a href="javascript:void(0);" onclick="setItUpEmail('lightBoxCatalog','emailCloseIt');" class="requestCat" title="Request A Catalog">Request A Catalog</a></li>
-					<li><a href="/EmailSignup/index.jsp" class="emailSign" title="Sign Up For Email">Sign Up For Email</a></li>
-				</ul>
-			</div>
-	
-			<div id="hdr_search_bar">
-			<!-- begin search form -->
-				<form name="search" action="/search/controller.jsp" method="get">
+		<div class="links-area">
+			<ul>
+				<li class="phone">1-800-531-4727</li>
+				<li class="break"></li>
+				<a href="/coreg/index.jsp?step=register"><li class="myaccount">My Account</li></a>
+				<li class="break"></li>
+				<a href="/cart/index.jsp?clickid=topnav_cart_txt"><li class="cart">Cart</li></a>
+			</ul>
+		</div>
+		
+		<div class="search-area">
+			<form name="search" action="/search/controller.jsp" method="get">
+				<div class="input">
 					<input type="text" name="kw" value="keyword or item #" class="hdr_search_input" onfocus="this.value='';">
+				</div>
+				<div class="input-button">
 					<input type="submit" value="" id="hdrgobtn" name="go" align="top" onclick="return verifySearchTermObject('search');">
-				</form>
-			</div>
+				</div>
+			</form>
 		</div>
-	
-		<div id="hdr_cart_box">
-			<div id="hdr_cart_top">
-				<ul>
-					<li><a href="https://www.shoppbs.org/coreg/index.jsp?step=register&amp;clickid=topnav_myAccount_txt" title="My Account" class="myAccount">My Account</a></li>
-					<li><a href="https://www.shoppbs.org/coreg/index.jsp?step=ot&amp;clickid=topnav_trackOrder_txt" title="Track My Order" class="trackOrder"> Track Your Order</a></li>
-				</ul>
-			</div>
-			
-			<div id="hdr_cart_btm">
-				<a class="hdr_cart" href="/cart/index.jsp?clickid=topnav_cart_txt"> </a><span id="items" class="bold_weight hdr_cartMoney">$0.00&nbsp;(0 items)</span>
-			</div>
-		</div>
-	</div>
+		
+		
+<script type="text/javascript">
+	function main_menu_show(what) { document.getElementById(what).style.display="block"; }
+	function main_menu_hide(what) { document.getElementById(what).style.display="none"; }
+</script>
+<div class="main-menu">
+			<ul class="nav">
+				<li class="highlight recently-broadcast">
+					<a class="topnav" href="/category/index.jsp?categoryId=1413205">Recently Broadcast</a>
+				</li>
 
-	<div id="hdr_middle_row">
-		<ul>
-			<li><a href="/family/index.jsp?categoryId=1789689&amp;clickid=main_newreleases_txt" title="New Releases" class="newreleasestxt">New Releases</a></li>
-	 		<li><a href="/family/index.jsp?categoryId=1409719&amp;clickid=main_bestsellers_txt" title="Best Sellers" class="bestsellerstxt">Best Sellers</a></li>
-	 		<li><a href="/family/index.jsp?categoryId=1413205&amp;clickid=main_featured_txt" title="Recently Broadcast" class="featuredtxt">Recently Broadcast</a></li>
-	 		<li><a href="/programsaz/index.jsp?clickid=main_programsaz_txt" title="Programs A-Z" class="programsaztxt">Programs A-Z</a></li>
-			<li><a href="http://teacher.shop.pbs.org/home/index.jsp?clickid=topnav_teachershop_txt" target="_blank" title="Teacher Shop" class="teachershoptxt">Teacher Shop</a></li>
-			<li><a href="/family/index.jsp?categoryId=10794048&amp;clickid=main_kidsshop_txt" onclick="javascript: kidsShopPopUp();return false;" title="Kids Shop" class="kidsshoptxt">Kids Shop</a></li>
-	 </ul>
-	</div>
+				<li class="action topics" onmouseover="main_menu_show('menu-topics')" onmouseout="main_menu_hide('menu-topics')">
+					<a class="topnav" href="/category/index.jsp?categoryId=1378002">Topics</a>
 
-	<div id="hdr_bottom_row">
-		<!--[if IE]>
-<style>
-#nav_subnav_line{margin-left:0px;}
-</style>
-<![endif]-->
+					<div class="nav-dropdown topics" id="menu-topics">
+						<ul class="twocolumn">
+
+							<a class="level-0" href="/family/index.jsp?categoryId=29650486&amp;cp=1378002"><li>Downton Abbey Collection</li></a>
 
 
 
-<div id="nav_shopbyinterest" style="display:none;">
-	<a href="/category/index.jsp?categoryId=1378002" class="navLink"><div id="nav_subnav_title" class="nav_shopbyinterest" onmouseover="javascript:toggleNav('nav_shopbyinterest','on');" onmouseout="javascript:toggleNav('nav_shopbyinterest','off');"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_shopbyinterest','on');" onmouseout="javascript:toggleNav('nav_shopbyinterest','off');">
-		<ul><a href="/family/index.jsp?categoryId=11302190&amp;cp=1378002"><li>Downton Abbey Collection</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=17766526&amp;cp=1378002"><li>Downton Abbey Apparel</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=13133773&amp;cp=1378002"><li>Apparel</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/category/index.jsp?categoryId=1955891&amp;cp=1378002"><li>Award Winners</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1409719&amp;cp=1378002"><li>Best Sellers</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3354761&amp;cp=1378002"><li>Blu-ray</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2474635&amp;cp=1378002"><li>Bookshop</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=11302193&amp;cp=1378002"><li>Britmania</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3953966&amp;cp=1378002"><li>CREATE TV</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883349&amp;cp=1378002"><li>Cooking</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3589055&amp;cp=1378002"><li>Customer Favorites</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=4110620&amp;cp=1378002"><li>Go Green</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=13133777&amp;cp=1378002"><li>Home Decor</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=13064461&amp;cp=1378002"><li>Jewelry</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=10935604&amp;cp=1378002"><li>Kids</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1401343&amp;cp=1378002"><li>Music</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1789689&amp;cp=1378002"><li>New Releases</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/category/index.jsp?categoryId=3303574&amp;cp=1378002"><li>PBS Parents </li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/category/index.jsp?categoryId=2132577&amp;cp=1378002"><li>Shop by Producer</li></a>
-				</ul>	</div>
-</div>
-<div id="nav_shopbyseries" style="display:none;">
-	<a href="/category/index.jsp?categoryId=1378003" class="navLink"><div id="nav_subnav_title" class="nav_shopbyseriestxt" onmouseover="javascript:toggleNav('nav_shopbyseries','on');" onmouseout="javascript:toggleNav('nav_shopbyseries','off');"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_shopbyseries','on');" onmouseout="javascript:toggleNav('nav_shopbyseries','off');">
-		<ul><a href="/family/index.jsp?categoryId=1412580&amp;cp=1378003"><li>American Experience</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1980168&amp;cp=1378003"><li>American Masters</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3888446&amp;cp=1378003"><li>Antiques Roadshow</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3842586&amp;cp=1378003"><li>Art:21</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2831220&amp;cp=1378003"><li>Austin City Limits</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2408224&amp;cp=1378003"><li>Bill Moyers Journal</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1412583&amp;cp=1378003"><li>FRONTLINE</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2831219&amp;cp=1378003"><li>Great Performances</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2780128&amp;cp=1378003"><li>History Detectives</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3343900&amp;cp=1378003"><li>Independent Lens</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3757622&amp;cp=1378003"><li>Lidia's Italy</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3529703&amp;cp=1378003"><li>Masterpiece Classic</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3529704&amp;cp=1378003"><li>Masterpiece Contemporary</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3529705&amp;cp=1378003"><li>Masterpiece Mystery</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2831221&amp;cp=1378003"><li>NATURE</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/category/index.jsp?categoryId=1412584&amp;cp=1378003"><li>NOVA</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3197498&amp;cp=1378003"><li>Nightly Business Report</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3351651&amp;cp=1378003"><li>POV</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=10760307&amp;cp=1378003"><li>Rough Cut</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2722837&amp;cp=1378003"><li>Secrets of the Dead</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=3185117&amp;cp=1378003"><li>Soundstage</li></a>
-					</ul></div>
-</div>
-<div id="nav_arts" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729306" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_arts','on');" onmouseout="javascript:toggleNav('nav_arts','off');" class="nav_shopbyarts"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_arts','on');" onmouseout="javascript:toggleNav('nav_arts','off');">
-		<ul><a href="/family/index.jsp?categoryId=2883320&amp;cp=2729306"><li>British Comedy</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883321&amp;cp=2729306"><li>British Drama</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883323&amp;cp=2729306"><li>Comedy</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883325&amp;cp=2729306"><li>Drama</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883326&amp;cp=2729306"><li>Fine Arts</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883330&amp;cp=2729306"><li>Literature</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883331&amp;cp=2729306"><li>Mystery</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=1401343&amp;cp=2729306"><li>Music</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883332&amp;cp=2729306"><li>Photography &amp; Film</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883333&amp;cp=2729306"><li>Theater &amp; Dance</li></a>
-					</ul></div>
-</div>
-<div id="nav_history" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729308" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_history','on');" onmouseout="javascript:toggleNav('nav_history','off');" class="nav_shopbyhistory"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_history','on');" onmouseout="javascript:toggleNav('nav_history','off');"><ul>
-		<a href="/family/index.jsp?categoryId=2883339&amp;cp=2729308"><li>African American</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883340&amp;cp=2729308"><li>Ancient</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883341&amp;cp=2729308"><li>Biography</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883343&amp;cp=2729308"><li>Native-American</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883344&amp;cp=2729308"><li>United States</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883345&amp;cp=2729308"><li>War &amp; Military</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883346&amp;cp=2729308"><li>World</li></a>
-					</ul></div>
-</div>
-<div id="nav_issuesevents" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729311" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_issuesevents','on');" onmouseout="javascript:toggleNav('nav_issuesevents','off');" class="nav_shopbyissues"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_issuesevents','on');" onmouseout="javascript:toggleNav('nav_issuesevents','off');"><ul>
-		<a href="/family/index.jsp?categoryId=2883358&amp;cp=2729311"><li>Domestic</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883359&amp;cp=2729311"><li>Education</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883360&amp;cp=2729311"><li>Economy</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883362&amp;cp=2729311"><li>Government</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883363&amp;cp=2729311"><li>International</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883364&amp;cp=2729311"><li>Race &amp; Ethnicity</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883365&amp;cp=2729311"><li>Society</li></a>
-					</ul></div>
-</div>
-<div id="nav_religion" style="display:none;">
-	<div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_religion','on');" onmouseout="javascript:toggleNav('nav_religion','off');"></div>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_religion','on');" onmouseout="javascript:toggleNav('nav_religion','off');">
-		<ul><a href="/family/index.jsp?categoryId=2951557&amp;cp=2729313"><li>Buddhism</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951556&amp;cp=2729313"><li>Christianity</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951555&amp;cp=2729313"><li>Culture</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951554&amp;cp=2729313"><li>Islam</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951553&amp;cp=2729313"><li>Judaism</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951552&amp;cp=2729313"><li>Spirituality</li></a>
-					</ul></div>
-</div>
-<div id="nav_sciencenature" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729315" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_sciencenature','on');" onmouseout="javascript:toggleNav('nav_sciencenature','off');" class="nav_shopbynature"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_sciencenature','on');" onmouseout="javascript:toggleNav('nav_sciencenature','off');">
-		<ul><a href="/family/index.jsp?categoryId=2951539&amp;cp=2729315"><li>Animals</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951542&amp;cp=2729315"><li>Archaeology &amp; Anthropology</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951545&amp;cp=2729315"><li>Architecture</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951546&amp;cp=2729315"><li>Astronomy &amp; Space</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951547&amp;cp=2729315"><li>Biology</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951548&amp;cp=2729315"><li>Earth</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951549&amp;cp=2729315"><li>General Science</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951550&amp;cp=2729315"><li>Marine</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951551&amp;cp=2729315"><li>Technology &amp; Inventions</li></a>
-					</ul></div>
-</div>
-<div id="nav_travel" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729316" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_travel','on');" onmouseout="javascript:toggleNav('nav_travel','off');"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_travel','on');" onmouseout="javascript:toggleNav('nav_travel','off');"><ul><a href="/family/index.jsp?categoryId=2957118&amp;cp=2729316"><li>Air &amp; Ocean</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951519&amp;cp=2729316"><li>Australia</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951520&amp;cp=2729316"><li>South America</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951521&amp;cp=2729316"><li>North America</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951522&amp;cp=2729316"><li>Expedition</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951523&amp;cp=2729316"><li>Europe</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951524&amp;cp=2729316"><li>Asia</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2951525&amp;cp=2729316"><li>Africa</li></a>
-					</ul></div>
-</div>
-<div id="nav_health" style="display:none;">
-	<a href="/category/index.jsp?categoryId=2729309" class="navLink"><div id="nav_subnav_title" onmouseover="javascript:toggleNav('nav_health','on');" onmouseout="javascript:toggleNav('nav_health','off');"></div></a>
-	
-		<div id="nav_subnav" onmouseover="javascript:toggleNav('nav_health','on');" onmouseout="javascript:toggleNav('nav_health','off');"><ul><a href="/family/index.jsp?categoryId=2883334&amp;cp=2729309"><li>Aging</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883335&amp;cp=2729309"><li>Fitness</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883336&amp;cp=2729309"><li>Learning Disabilities</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883337&amp;cp=2729309"><li>Medicine &amp; Nutrition</li></a>
-				
-				<div id="nav_subnav_line"></div>
-				<a href="/family/index.jsp?categoryId=2883338&amp;cp=2729309"><li>Mental Health</li></a>
-					</ul></div>
-</div>
-<div id="nav_seealltopics" style="display:none;">
-	<div id="nav_subnav_title"></div>
-</div>
-
-		<ul id="hrdernav">
-			<li><a href="/category/index.jsp?categoryId=1378002" onmouseover="javascript:toggleNav('nav_shopbyinterest','on');" onmouseout="javascript:toggleNav('nav_shopbyinterest','off');" title="Shop By Interests" class="shopbyinterest">Shop By Interests</a></li>
-			<li><a href="/category/index.jsp?categoryId=1378003" onmouseover="javascript:toggleNav('nav_shopbyseries','on');" onmouseout="javascript:toggleNav('nav_shopbyseries','off');" title="Shop By Series" class="shopbyseries">Shop By Series</a></li>
-			<li><a href="/category/index.jsp?categoryId=2729306" onmouseover="javascript:toggleNav('nav_arts','on');" onmouseout="javascript:toggleNav('nav_arts','off');" title="Arts" class="shopbyarts">Arts</a></li>
-			<li><a href="/category/index.jsp?categoryId=2729308" onmouseover="javascript:toggleNav('nav_history','on');" onmouseout="javascript:toggleNav('nav_history','off');" title="History" class="shopbyhistory">History</a></li>
-			<li><a href="/category/index.jsp?categoryId=2729311" onmouseover="javascript:toggleNav('nav_issuesevents','on');" onmouseout="javascript:toggleNav('nav_issuesevents','off');" title="Issues &amp; Events" class="shopbyissues">Issues &amp; Events</a></li>
-			<li><a href="/category/index.jsp?categoryId=2729315" onmouseover="javascript:toggleNav('nav_sciencenature','on');" onmouseout="javascript:toggleNav('nav_sciencenature','off');" title="Science &amp; Nature" class="shopbyscience">Science &amp; Nature</a></li>
-			<li><a href="/seeAll/index.jsp" class="shopbytopics">See All Topics</a></li>
-			<li><a href="/family/index.jsp?categoryId=10794050&amp;clickid=main_sales_txt" title="Sale" class="shopbysales">Sale</a></li>
-	 </ul>
-	</div>
+							<a class="level-1" href="/family/index.jsp?categoryId=23280226&amp;cp=1378002"><li>Downton Abbey Gifts</li></a>
 
 
+
+							<a class="level-2" href="/family/index.jsp?categoryId=1409719&amp;cp=1378002"><li>Best Sellers</li></a>
+
+
+
+							<a class="level-3" href="/family/index.jsp?categoryId=1789689&amp;cp=1378002"><li>New Releases</li></a>
+
+
+
+							<a class="level-4" href="/category/index.jsp?categoryId=2729306&amp;cp=1378002"><li>Arts</li></a>
+
+
+
+							<a class="level-5" href="/family/index.jsp?categoryId=11302193&amp;cp=1378002"><li>Britmania</li></a>
+
+
+
+							<a class="level-6" href="/family/index.jsp?categoryId=2883321&amp;cp=1378002"><li>British Drama</li></a>
+
+
+
+							<a class="level-7" href="/family/index.jsp?categoryId=2883349&amp;cp=1378002"><li>Cooking</li></a>
+
+
+
+							<a class="level-8" href="/category/index.jsp?categoryId=2729309&amp;cp=1378002"><li>Health</li></a>
+
+
+
+							<a class="level-9" href="/category/index.jsp?categoryId=2729308&amp;cp=1378002"><li>History</li></a>
+
+
+	</ul><ul class="twocolumn">
+
+
+							<a class="level-10" href="/category/index.jsp?categoryId=2729310&amp;cp=1378002"><li>Home &amp; How To</li></a>
+
+
+
+							<a class="level-11" href="/category/index.jsp?categoryId=2729311&amp;cp=1378002"><li>Issues &amp; Events</li></a>
+
+
+
+							<a class="level-12" href="/family/index.jsp?categoryId=1401343&amp;cp=1378002"><li>Music</li></a>
+
+
+
+							<a class="level-13" href="/family/index.jsp?categoryId=10935604&amp;cp=1378002"><li>Kids</li></a>
+
+
+
+							<a class="level-14" href="/category/index.jsp?categoryId=2729313&amp;cp=1378002"><li>Religion &amp; Culture</li></a>
+
+
+
+							<a class="level-15" href="/category/index.jsp?categoryId=2729315&amp;cp=1378002"><li>Science &amp; Nature</li></a>
+
+
+
+							<a class="level-16" href="/category/index.jsp?categoryId=2729316&amp;cp=1378002"><li>Travel</li></a>
+
+
+
+							<a class="level-17" href="/family/index.jsp?categoryId=3354761&amp;cp=1378002"><li>Blu-ray</li></a>
+
+
+
+							<a class="level-18" href="/category/index.jsp?categoryId=2132577&amp;cp=1378002"><li>Shop by Producer</li></a>
+
+
+
+						</ul>
+						<a href="/seeAll/index.jsp "><div class="last-twocolumn">All Topics<span class="arrow">&gt;</span></div></a>
+					</div>
+
+				</li>
+
+				<li class="action shows" onmouseover="main_menu_show('menu-shows')" onmouseout="main_menu_hide('menu-shows')">
+					<a class="topnav" href="/category/index.jsp?categoryId=1378003">Shows</a>
+
+					<div class="nav-dropdown shows" id="menu-shows">
+						<ul class="twocolumn">
+
+							<a class="level-0" href="/family/index.jsp?categoryId=1412580&amp;cp=1378003"><li>American Experience</li></a>
+
+
+
+							<a class="level-1" href="/family/index.jsp?categoryId=1980168&amp;cp=1378003"><li>American Masters</li></a>
+
+
+
+							<a class="level-2" href="/family/index.jsp?categoryId=1412583&amp;cp=1378003"><li>FRONTLINE</li></a>
+
+
+
+							<a class="level-3" href="/family/index.jsp?categoryId=2831219&amp;cp=1378003"><li>Great Performances</li></a>
+
+
+
+							<a class="level-4" href="/family/index.jsp?categoryId=3343900&amp;cp=1378003"><li>Independent Lens</li></a>
+
+
+
+							<a class="level-5" href="/family/index.jsp?categoryId=3529703&amp;cp=1378003"><li>Masterpiece</li></a>
+
+
+
+							<a class="level-6" href="/family/index.jsp?categoryId=3529705&amp;cp=1378003"><li>Masterpiece Mystery</li></a>
+
+
+
+							<a class="level-7" href="/family/index.jsp?categoryId=2831221&amp;cp=1378003"><li>NATURE</li></a>
+
+
+
+							<a class="level-8" href="/category/index.jsp?categoryId=1412584&amp;cp=1378003"><li>NOVA</li></a>
+
+
+
+							<a class="level-9" href="/family/index.jsp?categoryId=3351651&amp;cp=1378003"><li>POV</li></a>
+
+
+	</ul><ul class="twocolumn">
+
+
+							<a class="level-10" href="/family/index.jsp?categoryId=1409719&amp;cp=1378003"><li>Best Sellers</li></a>
+
+
+
+							<a class="level-11" href="/family/index.jsp?categoryId=29650486&amp;cp=1378003"><li>Downton Abbey Collection</li></a>
+
+
+
+							<a class="level-12" href="/family/index.jsp?categoryId=19466766&amp;cp=1378003"><li>Call the Midwife</li></a>
+
+
+
+							<a class="level-13" href="/family/index.jsp?categoryId=1412587&amp;cp=1378003"><li>Ken Burns</li></a>
+
+
+
+							<a class="level-14" href="/family/index.jsp?categoryId=3961214&amp;cp=1378003"><li>Sherlock </li></a>
+
+
+
+							<a class="level-15" href="/family/index.jsp?categoryId=3953966&amp;cp=1378003"><li>Create TV</li></a>
+
+
+
+							<a class="level-16" href="/family/index.jsp?categoryId=20384186&amp;cp=1378003"><li>Mr. Selfridge Collection</li></a>
+
+
+
+							<a class="level-17" href="/family/index.jsp?categoryId=35066256&amp;cp=1378003"><li>The Bletchley Circle </li></a>
+
+
+
+							<a class="level-18" href="/family/index.jsp?categoryId=2854513&amp;cp=1378003"><li>World War II &amp; D-Day</li></a>
+
+
+
+							</ul>
+							<a href="/category/index.jsp?categoryId=1378003"><div class="last-twocolumn">View All<span class="arrow">&gt;</span></div></a>
+					</div>
+	
+				</li>
+
+				<li class="action drama-arts" onmouseover="main_menu_show('menu-drama-arts')" onmouseout="main_menu_hide('menu-drama-arts')">
+					<a class="topnav" href="/category/index.jsp?categoryId=2729306">Drama &amp; Arts</a>
+
+					<div class="nav-dropdown drama-arts" id="menu-drama-arts">
+						<ul>
+
+							<a class="level-0" href="/family/index.jsp?categoryId=29650486&amp;cp=2729306"><li>Downton Abbey Collection</li></a>
+
+							<a class="level-1" href="/family/index.jsp?categoryId=2883320&amp;cp=2729306"><li>British Comedy</li></a>
+
+							<a class="level-2" href="/family/index.jsp?categoryId=2883321&amp;cp=2729306"><li>British Drama</li></a>
+
+							<a class="level-3" href="/family/index.jsp?categoryId=2883323&amp;cp=2729306"><li>Comedy</li></a>
+
+							<a class="level-4" href="/family/index.jsp?categoryId=2883325&amp;cp=2729306"><li>Drama</li></a>
+
+							<a class="level-5" href="/family/index.jsp?categoryId=2883326&amp;cp=2729306"><li>Fine Arts</li></a>
+
+							<a class="level-6" href="/family/index.jsp?categoryId=2883330&amp;cp=2729306"><li>Literature</li></a>
+
+							<a class="level-7" href="/family/index.jsp?categoryId=2883331&amp;cp=2729306"><li>Mystery</li></a>
+
+							<a class="level-8" href="/family/index.jsp?categoryId=1401343&amp;cp=2729306"><li>Music</li></a>
+
+							<a class="level-9" href="/family/index.jsp?categoryId=2883333&amp;cp=2729306"><li>Theater &amp; Dance</li></a>
+
+							<a href="/category/index.jsp?categoryId=2729306"><li class="last">View All<span class="arrow">&gt;</span></li></a>
+						</ul>
+					</div>
+
+				</li>
+
+				<li class="action history" onmouseover="main_menu_show('menu-history')" onmouseout="main_menu_hide('menu-history')">
+					<a class="topnav" href="/category/index.jsp?categoryId=2729308">History</a>
+
+					<div class="nav-dropdown history" id="menu-history">
+						<ul>
+
+							<a class="level-0" href="/family/index.jsp?categoryId=2883339&amp;cp=2729308"><li>African American</li></a>
+
+							<a class="level-1" href="/family/index.jsp?categoryId=2883340&amp;cp=2729308"><li>Ancient</li></a>
+
+							<a class="level-2" href="/family/index.jsp?categoryId=2883341&amp;cp=2729308"><li>Biography</li></a>
+
+							<a class="level-3" href="/category/index.jsp?categoryId=2729311&amp;cp=2729308"><li>Issues &amp; Events</li></a>
+
+							<a class="level-4" href="/family/index.jsp?categoryId=20266096&amp;cp=2729308"><li>Latino American</li></a>
+
+							<a class="level-5" href="/family/index.jsp?categoryId=2883343&amp;cp=2729308"><li>Native-American</li></a>
+
+							<a class="level-6" href="/category/index.jsp?categoryId=2729313&amp;cp=2729308"><li>Religion &amp; Culture</li></a>
+
+							<a class="level-7" href="/family/index.jsp?categoryId=2883344&amp;cp=2729308"><li>United States</li></a>
+
+							<a class="level-8" href="/family/index.jsp?categoryId=2883345&amp;cp=2729308"><li>War &amp; Military</li></a>
+
+							<a class="level-9" href="/family/index.jsp?categoryId=2883346&amp;cp=2729308"><li>World</li></a>
+
+							<a href="/category/index.jsp?categoryId=2729308"><li class="last">View All<span class="arrow">&gt;</span></li></a>
+						</ul>
+					</div>
+
+				</li>
+
+				<li class="action science" onmouseover="main_menu_show('menu-science')" onmouseout="main_menu_hide('menu-science')">
+					<a class="topnav" href="/category/index.jsp?categoryId=2729315">Science</a>
+
+					<div class="nav-dropdown science" id="menu-science">
+						<ul>
+
+							<a class="level-0" href="/family/index.jsp?categoryId=2951539&amp;cp=2729315"><li>Animals</li></a>
+
+							<a class="level-1" href="/family/index.jsp?categoryId=2951542&amp;cp=2729315"><li>Archaeology &amp; Anthropology</li></a>
+
+							<a class="level-2" href="/family/index.jsp?categoryId=2951545&amp;cp=2729315"><li>Architecture</li></a>
+
+							<a class="level-3" href="/family/index.jsp?categoryId=2951546&amp;cp=2729315"><li>Astronomy &amp; Space</li></a>
+
+							<a class="level-4" href="/family/index.jsp?categoryId=2951547&amp;cp=2729315"><li>Biology</li></a>
+
+							<a class="level-5" href="/family/index.jsp?categoryId=2951548&amp;cp=2729315"><li>Earth</li></a>
+
+							<a class="level-6" href="/family/index.jsp?categoryId=2951549&amp;cp=2729315"><li>General Science</li></a>
+
+							<a class="level-7" href="/family/index.jsp?categoryId=2951550&amp;cp=2729315"><li>Marine</li></a>
+
+							<a class="level-8" href="/family/index.jsp?categoryId=2951551&amp;cp=2729315"><li>Technology &amp; Inventions</li></a>
+
+							<a href="/category/index.jsp?categoryId=2729315"><li class="last">View All<span class="arrow">&gt;</span></li></a>
+						</ul>
+
+					</div>
+				</li>
+
+				<li class="action gifts" onmouseover="main_menu_show('menu-gifts')" onmouseout="main_menu_hide('menu-gifts')">
+					<a class="topnav" href="/category/index.jsp?categoryId=22986986">Gifts</a>
+					<div class="nav-dropdown gifts" id="menu-gifts">
+
+						<ul>
+
+							<a class="level-0" href="/family/index.jsp?categoryId=23280226&amp;cp=22986986"><li>Downton Abbey Gifts</li></a>
+
+							<a class="level-1" href="/family/index.jsp?categoryId=23241046&amp;cp=22986986"><li>Under $20 </li></a>
+
+							<a class="level-2" href="/family/index.jsp?categoryId=23241056&amp;cp=22986986"><li>$20 - $29.99</li></a>
+
+							<a class="level-3" href="/family/index.jsp?categoryId=23241066&amp;cp=22986986"><li>$30 - $49.99</li></a>
+
+							<a class="level-4" href="/family/index.jsp?categoryId=23241076&amp;cp=22986986"><li>Over $50 </li></a>
+
+							<a class="level-5" href="/family/index.jsp?categoryId=13133773&amp;cp=22986986"><li>Apparel</li></a>
+
+							<a class="level-6" href="/family/index.jsp?categoryId=23241096&amp;cp=22986986"><li>Britmania</li></a>
+
+							<a class="level-7" href="/family/index.jsp?categoryId=23241126&amp;cp=22986986"><li>History</li></a>
+
+							<a class="level-8" href="/family/index.jsp?categoryId=23241196&amp;cp=22986986"><li>For Him </li></a>
+
+							<a class="level-9" href="/family/index.jsp?categoryId=23241186&amp;cp=22986986"><li>For Her </li></a>
+
+							<a href="/category/index.jsp?categoryId=22986986"><li class="last">View All<span class="arrow">&gt;</span></li></a>
+						</ul>
+					</div>
+
+				</li>
+				<li class="highlight sale">
+					<a class="topnav" href="/category/index.jsp?categoryId=10794050">Sale</a>
+				</li>
+			</ul>
+
+
+		</div><!-- end of main-menu -->
+		
+		
+		
 
 
 
@@ -1047,15 +1038,15 @@ document.emailForm.datetime.value = formdate;
 
 <div id="hdr_stripe">
    <!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
-<!-- === Page ID:  1436462   -->
-<!-- === Page Name:  qpbs_New Global Banner_July_28_2013   -->
+<!-- === Page ID:  1519138   -->
+<!-- === Page Name:  qpbs_New Global Banner_June_24_2014-v2   -->
 <!-- === Page URI:  /gsi/qpbs/cmsTemplates/qpbs_headerInclude_1.jsp   -->
 <!-- === -->
-<!-- === Campaign ID:  1192209   -->
-<!-- === Campaign Name:  qpbs_New Global Banner_July_28_2013   -->
+<!-- === Campaign ID:  1227498   -->
+<!-- === Campaign Name:  qpbs_New Global Banner_June_24_2014-v2   -->
 <!-- === Campaign Tracking Code:  AML   -->
-<!-- === Campaign Start Time:  2013-07-28 03:00:00.0   -->
-<!-- === Campaign End Time:  2013-08-17 03:00:00.0   -->
+<!-- === Campaign Start Time:  2014-06-24 11:52:00.0   -->
+<!-- === Campaign End Time:  2014-07-05 03:00:00.0   -->
 <!-- === -->
 <!-- ================================================================================= -->
 <!-- =========================== Request info ========================== -->
@@ -1063,29 +1054,31 @@ document.emailForm.datetime.value = formdate;
 <!-- === Include URI:  /gsi/qpbs/cmsTemplates/qpbs_headerInclude_1.jsp   -->
 <!-- ================================================================================= -->
 <!-- =========================== CMS Slot and Widget info ========================== -->
-<!-- === Widget ID:  2050221   -->
+<!-- === Widget ID:  2308751   -->
 <!-- === Widget Name:  qpbs_header_1   -->
 <!-- === Slot Name:  null   -->
-<!-- === Slot Data Map:  {qpbs_header_1=2050221}   -->
+<!-- === Slot Data Map:  {qpbs_header_1=2308751}   -->
 <!-- ================================================================================= -->
 <div id="qpbs_header_1" style="height:35px;width:810px;border:0px;overflow:hidden;">
 
 
-<center><img border="0" src="/cms_widgets/20/50/2050221_assets/7.28_promobanner_FS25KBSpec.jpg" usemap="#imagemap2" alt=""></center><map name="imagemap2" id="imagemap2"><area href="http://www.shoppbs.org/family/index.jsp?categoryId=22869956&amp;ab=gbDOWKB20offFreeBaseball" coords="0,0,664,27" shape="rect"><area href="http://www.shoppbs.org/family/index.jsp?categoryId=22869956&amp;ab=gbDOWKB20offFreeBaseball" coords="666,0,809,27" shape="rect"></map></div><!-- END CMS SLOT -->
+<center><img border="0" alt="" usemap="#imagemap2" src="/cms_widgets/23/08/2308751_assets/6.24_gb_20offHistoryFS39.gif"></center><map id="imagemap2" name="imagemap2"><area shape="rect" coords="0,1,662,28" href="http://www.shoppbs.org/category/index.jsp?categoryId=2729308&amp;ab=gb20offHistoryFS39"><area shape="rect" coords="666,2,807,27" href="http://www.shoppbs.org/family/index.jsp?categoryId=29650486&amp;ab=gbDAcollection"></map></div><!-- END CMS SLOT -->
 </div>
+		
 
+	</div> <!-- end of hdr_top_row -->
 </div>
 <div style="display:none;">
 </div>
 
 
-	<div id="subheader">
-		<div id="subheader_breadcrumb" class="breadcrumb2">
+                <div id="subheader">
+                    <div id="subheader_breadcrumb" class="breadcrumb2">
 <a href="/home/index.jsp">Home</a>
 
  			<span class="breadcrumb2">&nbsp;&gt;&nbsp;<a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="breadcrumb2">Customer Service</a></span>&nbsp;&gt;&nbsp;<span class="bc_selected">Safety, Security, and Privacy </span>
 			</div>
-		<div id="font_sizes"><script type="text/javascript">
+                    <div id="font_sizes"><script type="text/javascript">
 function switchFontSize(changeTo){
 	var newSize = changeTo;
 	var smallDiv = document.getElementById("font_small");
@@ -1111,12 +1104,12 @@ function switchFontSize(changeTo){
 <div id="font_small" class="font_divs"><a class="prod_font_small_off" href="javascript:void(0);" onclick="javascript:switchFontSize('small');"></a></div>
 <div id="font_medium" class="font_divs"></div>
 <div id="font_large" class="font_divs"><a class="prod_font_large_off" href="javascript:void(0);" onclick="javascript:switchFontSize('large');"></a></div></div>
-		<div id="recently_viewed">&nbsp;&nbsp;Font Size:&nbsp;</div>
-	</div>
-	<div id="mainContent">
-		<div id="hdMain">
-
-			
+                    <div id="recently_viewed">&nbsp;&nbsp;Font Size:&nbsp;</div>
+                </div>
+            	<div id="mainContent">
+                	<div id="hdMain">
+        				
+                            	
 <table width="100%" border="0">
 	<tbody><tr>
 		<td width="200" valign="top">
@@ -1272,11 +1265,13 @@ By using this site, you signify your agreement to the terms and conditions of th
 	</tr>
 </tbody></table>
 
-
-		</div>
-    </div>
-	<br clear="all"><br clear="all"><br>
-	
+                            
+                    </div>
+            	</div>
+            	<br clear="all">
+                <br clear="all">
+                <br>
+            	
 
 
 
@@ -1288,11 +1283,11 @@ By using this site, you signify your agreement to the terms and conditions of th
 		
 		<div id="footer_listContainer">
 				
-			<a class="footer_nav_list_title" href="/category/index.jsp?categoryId=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES">SHOP BY SERIES</a>
+			<a class="footer_nav_list_title" href="/category/index.jsp?categoryId=1378003&amp;ab=PBS-_-Footer-_-SHOWS">SHOWS</a>
 			<div>
 				
-				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=1412580&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-American+Experience">American Experience</a></li><li><a href="/family/index.jsp?categoryId=1980168&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-American+Masters">American Masters</a></li><li><a href="/family/index.jsp?categoryId=3888446&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Antiques+Roadshow">Antiques Roadshow</a></li><li><a href="/family/index.jsp?categoryId=3842586&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Art%3A21">Art:21</a></li><li><a href="/family/index.jsp?categoryId=2831220&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Austin+City+Limits">Austin City Limits</a></li><li><a href="/family/index.jsp?categoryId=2408224&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Bill+Moyers+Journal">Bill Moyers Journal</a></li><li><a href="/family/index.jsp?categoryId=1412583&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-FRONTLINE">FRONTLINE</a></li><li><a href="/family/index.jsp?categoryId=2831219&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Great+Performances">Great Performances</a></li><li><a href="/family/index.jsp?categoryId=2780128&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-History+Detectives">History Detectives</a></li><li><a href="/family/index.jsp?categoryId=3343900&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Independent+Lens">Independent Lens</a></li><li><a href="/family/index.jsp?categoryId=3757622&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Lidia%27s+Italy">Lidia's Italy</a></li></ul>
-				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=3529703&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Masterpiece+Classic">Masterpiece Classic</a></li><li><a href="/family/index.jsp?categoryId=3529704&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Masterpiece+Contemporary">Masterpiece Contemporary</a></li><li><a href="/family/index.jsp?categoryId=3529705&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Masterpiece+Mystery">Masterpiece Mystery</a></li><li><a href="/family/index.jsp?categoryId=2831221&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-NATURE">NATURE</a></li><li><a href="/category/index.jsp?categoryId=1412584&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-NOVA">NOVA</a></li><li><a href="/family/index.jsp?categoryId=3197498&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Nightly+Business+Report">Nightly Business Report</a></li><li><a href="/family/index.jsp?categoryId=3351651&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-POV">POV</a></li><li><a href="/family/index.jsp?categoryId=10760307&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Rough+Cut">Rough Cut</a></li><li><a href="/family/index.jsp?categoryId=2722837&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Secrets+of+the+Dead">Secrets of the Dead</a></li><li><a href="/family/index.jsp?categoryId=3185117&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOP+BY+SERIES-_-Soundstage">Soundstage</a></li></ul>
+				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=1412580&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-American+Experience">American Experience</a></li><li><a href="/family/index.jsp?categoryId=1980168&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-American+Masters">American Masters</a></li><li><a href="/family/index.jsp?categoryId=1412583&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-FRONTLINE">FRONTLINE</a></li><li><a href="/family/index.jsp?categoryId=2831219&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Great+Performances">Great Performances</a></li><li><a href="/family/index.jsp?categoryId=3343900&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Independent+Lens">Independent Lens</a></li><li><a href="/family/index.jsp?categoryId=3529703&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Masterpiece">Masterpiece</a></li><li><a href="/family/index.jsp?categoryId=3529705&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Masterpiece+Mystery">Masterpiece Mystery</a></li><li><a href="/family/index.jsp?categoryId=2831221&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-NATURE">NATURE</a></li><li><a href="/category/index.jsp?categoryId=1412584&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-NOVA">NOVA</a></li><li><a href="/family/index.jsp?categoryId=3351651&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-POV">POV</a></li></ul>
+				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=1409719&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Best+Sellers">Best Sellers</a></li><li><a href="/family/index.jsp?categoryId=29650486&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Downton+Abbey+Collection">Downton Abbey Collection</a></li><li><a href="/family/index.jsp?categoryId=19466766&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Call+the+Midwife">Call the Midwife</a></li><li><a href="/family/index.jsp?categoryId=1412587&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Ken+Burns">Ken Burns</a></li><li><a href="/family/index.jsp?categoryId=3961214&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Sherlock+">Sherlock </a></li><li><a href="/family/index.jsp?categoryId=3953966&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Create+TV">Create TV</a></li><li><a href="/family/index.jsp?categoryId=20384186&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-Mr.+Selfridge+Collection">Mr. Selfridge Collection</a></li><li><a href="/family/index.jsp?categoryId=35066256&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-The+Bletchley+Circle+">The Bletchley Circle </a></li><li><a href="/family/index.jsp?categoryId=2854513&amp;cp=1378003&amp;ab=PBS-_-Footer-_-SHOWS-_-World+War+II+%26+D-Day">World War II &amp; D-Day</a></li></ul>
 			</div>
 		</div>
 		<div id="clear"></div>
@@ -1305,7 +1300,7 @@ By using this site, you signify your agreement to the terms and conditions of th
 			<div>
 				
 				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=3888446&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Antiques+Roadshow">Antiques Roadshow</a></li><li><a href="/family/index.jsp?categoryId=13133773&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Apparel">Apparel</a></li><li><a href="/category/index.jsp?categoryId=1955891&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Award+Winners">Award Winners</a></li><li><a href="/family/index.jsp?categoryId=3354761&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Blu-ray">Blu-ray</a></li><li><a href="/family/index.jsp?categoryId=11302193&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Britmania">Britmania</a></li><li><a href="/family/index.jsp?categoryId=2883349&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Cooking">Cooking</a></li><li><a href="/family/index.jsp?categoryId=3589055&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Customer+Favorites">Customer Favorites</a></li><li><a href="/family/index.jsp?categoryId=17766526&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Downton+Abbey+Apparel">Downton Abbey Apparel</a></li><li><a href="/family/index.jsp?categoryId=11302190&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Downton+Abbey+Collection">Downton Abbey Collection</a></li></ul>
-				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=4110620&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Go+Green">Go Green</a></li><li><a href="/family/index.jsp?categoryId=13133777&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Home+Decor">Home Decor</a></li><li><a href="/family/index.jsp?categoryId=13064461&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Jewelry">Jewelry</a></li><li><a href="/family/index.jsp?categoryId=1412587&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Ken+Burns">Ken Burns</a></li><li><a href="/category/index.jsp?categoryId=3303574&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-PBS+Parents">PBS Parents</a></li><li><a href="/family/index.jsp?categoryId=10794050&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-SALE">SALE</a></li><li><a href="/category/index.jsp?categoryId=2132577&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Shop+by+Producer">Shop by Producer</a></li></ul>
+				<ul class="footer_nav_list"><li><a href="/family/index.jsp?categoryId=4110620&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Go+Green">Go Green</a></li><li><a href="/family/index.jsp?categoryId=13133777&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Home+Decor">Home Decor</a></li><li><a href="/family/index.jsp?categoryId=1412587&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Ken+Burns">Ken Burns</a></li><li><a href="/category/index.jsp?categoryId=3303574&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-PBS+Parents">PBS Parents</a></li><li><a href="/family/index.jsp?categoryId=10794050&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-SALE">SALE</a></li><li><a href="/category/index.jsp?categoryId=2132577&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Shop+by+Producer">Shop by Producer</a></li><li><a href="/family/index.jsp?categoryId=23280226&amp;cp=13133725&amp;ab=PBS-_-Footer-_-SHOP+OUR+COLLECTIONS-_-Downton+Abbey+Gifts">Downton Abbey Gifts</a></li></ul>
 			</div>
 		</div>		
 		<div id="clear"></div>
@@ -1325,6 +1320,7 @@ By using this site, you signify your agreement to the terms and conditions of th
 					<li><a href="/helpdesk/index.jsp?display=returns&amp;subdisplay=qpbs_mbg&amp;ab=PBS-_-Footer-_-CUSTOMER+SERVICE-_-Returns">Returns</a></li>
                     <li><a href="/helpdesk/index.jsp?display=store&amp;subdisplay=affiliate&amp;ab=PBS-_-Footer-_-CUSTOMER+SERVICE-_-Affiliate+Program">Affiliate Program</a></li>
 					<li><a href="/helpdesk/index.jsp?display=ordering&amp;subdisplay=program&amp;ab=PBS-_-Footer-_-CUSTOMER+SERVICE-_-Wholesale">Wholesale Inquiries</a></li>
+					<li><br><a href="javascript:void(0);" onclick="setItUpEmail('lightBoxCatalog','emailCloseIt');" class="requestCat" title="Request A Catalog"><strong>Request A Catalog</strong></a></li>
 				</ul>
 			</div>
 		</div>
@@ -1347,13 +1343,44 @@ By using this site, you signify your agreement to the terms and conditions of th
 	</div>
 	
 	
+
+
+	<style>
+	#bizratediv img {
+		margin: 0px;
+	}
+
+	#footer_badges {
+		padding: 18px 27px 0 17px;
+		width: 300px;
+	}
+
+	</style>
+
 	
 	<div id="footer_badges">
 		
+		<div style="float:left;">
 		<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.shoppbs.org"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.shoppbs.org/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
 		
-		<a class="ftr_bbb" href="http://www.dc.bbb.org/codbrep.html?wlcl=y&amp;id=14690" target="_blank"></a>
-		<a class="topretail" href="http://www.internetretailer.com" target="_blank"></a>
+		</div>
+		<!-- <a class="ftr_bbb" href="http://www.dc.bbb.org/codbrep.html?wlcl=y&id=14690" target="_blank"></a> -->
+		<div style="float:left;">
+		<script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/409'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_excellent.png?c=4506' height='39' width='61' border='0' title='shoppbs.org is top rated for customer service' /%3E%3C/a%3E"));</script><a target="_blank" href="http://www.stellaservice.com/profile/409"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=4506" height="39" width="61" border="0" title="shoppbs.org is top rated for customer service"></a>
+
+		<!-- <a class="topretail" href="http://www.internetretailer.com" target="_blank"></a> -->
+		
+	</div>
+		<!-- BEGIN: Bizrate Medal (112x37 pixels) -->
+		<script type="text/javascript">var bizrate={small:"true"};</script>
+		<script src="//medals.bizrate.com/medals/js/527_medal.js" type="text/javascript"></script>
+		<div id="bizratediv" style="position:relative;z-index:1;width:112px;height:37px;float:left;margin:12px 0 0 10px;">
+		<a style="bottom:0;right:0;display:block;position:absolute;width:50px;height:16px;z-index:2;text-decoration:none;background:#fff;filter:alpha(opacity=0);opacity: 0;" href="//www.bizrate.com/?rf=sur" title="Bizrate" target="_blank"></a>
+		<a class="br-button" href="//www.bizrate.com/ratings_guide/merchant_detail__mid--527.html?rf=sur" title="See shopPBS Reviews at Bizrate.com" target="_blank">
+		<img src="//medals.bizrate.com/medals/dynamic/small/527_medal.gif" width="112" height="37" border="0" alt="See shopPBS Reviews at Bizrate.com">
+		</a>
+		</div>
+		<!-- END: Bizrate Medal (112x37 pixels) -->
 	</div>
 	
 	
@@ -1408,7 +1435,7 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1503,7 +1530,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1556,7 +1583,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1579,7 +1606,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1599,7 +1626,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1626,7 +1653,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1644,7 +1671,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1659,7 +1686,7 @@ if(rewardsflagPage==1){
 
 		<script type="text/javascript">
 			var br_frequency = 30;
-			var br_percentage = 10;
+			var br_percentage = 0;
 			var br_size = 0;
 			var br_pos_x = 50;
 			var br_pos_y = 50;   
@@ -1683,7 +1710,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1716,7 +1743,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1727,7 +1754,7 @@ if(rewardsflagPage==1){
     var siteId= '117';
     var catId = '';
     var pageType = 'helpdesksafetyprivacy';
-    var browserId = '232955218413';
+    var browserId = '218949406465';
     var prodId = '';
     var pQty = '';
     var orderId = '';
@@ -1743,6 +1770,21 @@ if(rewardsflagPage==1){
 
 
 
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
@@ -1802,12 +1844,19 @@ storeSREDID();
 
 
 
-<!--You are running on secprd2_ws_59_1-->
+<!--You are running on lvsprd1_ws_06_3-->
 
 
 
 
 <!-- // End of code of PMO 52759 -->
+
+
+<!-- Below block is included under PMO 414 to capture visitorId -->
+<script language="JavaScript">
+    var visitorId;
+    
+</script>
 
 
 
@@ -1816,7 +1865,7 @@ storeSREDID();
 var s_account='gsicpbs';
 var s_server='www.shoppbs.org';
 var s_hier1='';
-var s_eVar19='232955218413';
+var s_eVar19='218949406465';
 var s_channel='Home';
 var s_pageName='Help Desk - Privacy Policy';
 </script>
@@ -1844,7 +1893,7 @@ var s_pageName='Help Desk - Privacy Policy';
 <!--  end min-cat section -->
 
 
-	</div>
-</div>
-
+            </div>
+        </div>
+    
 </body></html>
