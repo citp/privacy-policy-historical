@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116222926id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114950id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.*
 
 # MPAC - Privacy Policy
+
+Start of main content
 
 ## Privacy Statement
 
@@ -14,11 +16,17 @@ Information collected and retained by MPAC is located in a secure, password prot
 
 If you have any questions regarding the collection, use and disclosure practices of MPAC, please contact our Freedom of Information Office at 905-837-6188.
 
+  
+
+
 ### External Links Disclaimer
 
 There are Web sites linked to and from this site that are operated or created by or for organizations outside of MPAC. Those organizations are solely responsible for the operation and information, including the right to display such information, found on their respective Web sites. The linking to or from this site does not imply on the part of the MPAC any endorsement or guarantee of any of the organizations or the information, including the right to display such information, found on their respective Web sites. These linked Web sites may or may not be available in French.
 
 MPAC does not assume and is not responsible for any liability whatsoever for the linking of any of these Web sites, the operation, content or the right to display such information of any of the linked Web sites, nor for any of the information, interpretation, comments or opinions expressed in any of the linked Web sites. Any comments or inquiries regarding the linked Web sites are to be directed to the particular organization for whom the particular Web site is being operated. 
+
+  
+
 
 ### Use of Cookies
 
