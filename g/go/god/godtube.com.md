@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godtube.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109033719id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godtube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234217id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Salem Web Network, Christian Online Advertising
 
