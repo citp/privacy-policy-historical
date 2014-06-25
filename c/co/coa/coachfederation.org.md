@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229064417id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063526id_/http%3A//www.coachfederation.org/about/landing.cfm%3FItemNumber%3D2223%26navItemNumber%3D2224%26navItemNumber%3D552) for the most accurate reproduction.*
 
 # Policies - About - ICF
 
@@ -12,7 +12,8 @@ Starting in April 2011, the number of items being translated into English, Frenc
 
 ## Marketing Collateral Policy
 
-The International Coach Federation marketing collateral policy is meant to assure sustainability, consistency, and to expand offerings, particularly translated items. The ICF provides digital files for marketing materials for ICF Chapter Leaders to use and print at their own leisure with local vendors. Only hosts of an official ICF Global Conference will be provided with printed collateral items (see marketing manual for ICF Global Conferences for details). This allows ICF staff to create additional excellent pieces that advocate for coaches. Over the course of the next year, ICF staff will have three fliers translated into German, French, Spanish and Portuguese (per the ICF Translation Policy). Items may not be changed or altered in any way.  
+The International Coach Federation marketing collateral policy is meant to assure sustainability, consistency, and to expand offerings, particularly translated items. The ICF provides digital files for marketing materials for ICF Chapter Leaders to use and print at their own leisure with local vendors. Only hosts of an official ICF Global Conference will be provided with printed collateral items (see marketing manual for ICF Global Conferences for details). This allows ICF staff to create additional excellent pieces that advocate for coaches. Items may not be changed or altered in any way.
+
 *Small Chapters in need of resources are advised to contact ICF Headquarters at icfheadquarters@coachfederation.org. 
 
 ## Spam & Privacy Policy
