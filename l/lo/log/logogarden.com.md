@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183806id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164627id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy – LogoGarden.com
+# LogoGarden - Privacy Policy
 
 **Online privacy statement  
 **LogoGarden.com, LLC respects your privacy This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every LogoGarden.co.ik Web page. 
 
-LogoGarden.com/LLC privacy practices are aimed to be consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at http://www.export.gov/safeharbor/. 
+LogoGarden.com/LLC privacy practices are aimed to be consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at http://www.export.gov/safeharbor/.
+
+In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may share your Personal Information with other businesses to offer you products, services, and promotions. In addition, we may share your Personal Information with other businesses that may contact you regarding requests for service. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
 
 If you have questions or concerns regarding this statement, please contact LogoGarden.com, LLC using the contact information at the end of this statement. 
 
@@ -84,10 +86,9 @@ If we change our privacy statement, we will post the revised statement here, wit
 **Contacting us**  
 We value your opinions. If you have comments or questions about our privacy statement, please send them to the Service@LogoGarden.com or write to us at the following address: 
 
-LOGOGARDEN.COM, LLC  
-P.O. Box 4649,   
-Wilmington, Delaware  
-Or  
-LOGOGARDEN.COM, LLC  
-1011 Centre Road, Suite 322,   
-Wilmington, Delaware, 19805
+LOGOGARDEN Inc.  
+230 Franklin Road
+
+Suite 12/J
+
+Franklin, TN 37064 
