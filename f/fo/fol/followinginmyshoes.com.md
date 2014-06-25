@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213081944id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followinginmyshoes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061830id_/http%3A//followinginmyshoes.com/rachel_lacy/disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Following In My Shoes | Texas Mom Blog
+# Privacy Policy - Following In My Shoes
 
 This Privacy Policy governs the manner in which Following In My Shoes collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://followinginmyshoes.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Following In My Shoes.
 
