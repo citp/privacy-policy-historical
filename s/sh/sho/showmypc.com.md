@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115165218id_/http%3A//showmypc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051949id_/http%3A//showmypc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ShowMyPC
 
@@ -32,4 +32,4 @@ We make good faith efforts to provide you access to your personal information up
 
 ## More Information
 
-For more information about our privacy practices, or if you have additional questions, please contact [Feedback](https://web.archive.org/web/20131115165218id_/http%3A//showmypc.com/ShowMyPCFeedBack.html). 
+For more information about our privacy practices, or if you have additional questions, please contact [Feedback](https://web.archive.org/web/20140625051949id_/http%3A//showmypc.com/ShowMyPCFeedBack.html). 
