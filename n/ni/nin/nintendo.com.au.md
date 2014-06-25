@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117190522id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133054id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Nintendo.com.au
 
