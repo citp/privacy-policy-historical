@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directagents.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219214850id_/http%3A//directagents.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directagents.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625113756id_/http%3A//directagents.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 
@@ -7,8 +7,93 @@
 	
 <link rel="stylesheet" href="http://www.directagents.com/wp-content/themes/DA/css/colorbox.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-		<script src="http://www.directagents.com/wp-content/themes/DA/js/jquery.colorbox.js"></script>
+
+
+
+
+
+
+<link rel="publisher" href="https://plus.google.com/111591398674658560556">
+
+
+
+
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/3085.js?439006" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	
+    
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+$(function() {
+	var input = document.createElement("input");
+    if(('placeholder' in input)==false) { 
+		$('[placeholder]').focus(function() {
+			var i = $(this);
+			if(i.val() == i.attr('placeholder')) {
+				i.val('').removeClass('placeholder');
+				if(i.hasClass('password')) {
+					i.removeClass('password');
+					this.type='password';
+				}			
+			}
+		}).blur(function() {
+			var i = $(this);	
+			if(i.val() == '' || i.val() == i.attr('placeholder')) {
+				if(this.type=='password') {
+					i.addClass('password');
+					this.type='text';
+				}
+				i.addClass('placeholder').val(i.attr('placeholder'));
+			}
+		}).blur().parents('form').submit(function() {
+			$(this).find('[placeholder]').each(function() {
+				var i = $(this);
+				if(i.val() == i.attr('placeholder'))
+					i.val('');
+			})
+		});
+	}
+});
+/* ]]> */
+</script>
+
+
+
+
+<script src="http://directagents.com/wp-content/plugins/rs-sliding-contact-form/scripts/jquery.js"></script>
+<script src="http://directagents.com/wp-content/plugins/rs-sliding-contact-form/scripts/jquery.validate.js"></script>
+<script>    
+// JQuery Script to submit Form
+$(document).ready(function () {
+    $("#commentForm").validate({
+        submitHandler : function () {
+            // your function if, validate is success
+            $.ajax({
+                type : "POST",
+                url : "http://directagents.com/wp-content/plugins/rs-sliding-contact-form/process.php",
+                data : $('#commentForm').serialize(),
+                success : function (data) {
+                    //$('#message').html(data);
+					//alert("asdfa");
+					$("#the-slider-form").hide();
+					$("#themessage").show();
+					$("#get-started-slider-contact").hide();
+					$("#thank-you-slider-contact").show();
+					
+                }
+            });
+        }
+    });
+});
+</script>
+
+    
+    
+    
+    
+    	<script src="http://www.directagents.com/wp-content/themes/DA/js/jquery.colorbox.js"></script>
 		<script>
 			$(document).ready(function(){
 				//Examples of how to assign the Colorbox event to elements
@@ -21,6 +106,9 @@
 				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
 				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
 				$(".iframe-whitepaper").colorbox({iframe:true, width:"85%", innerHeight:330});
+				$(".iframe-whitepaper-rtb").colorbox({iframe:true, width:"85%", innerHeight:430});
+				$(".iframe-whitepaper-internet-week").colorbox({iframe:true, width:"85%", innerHeight:320});
+				$(".iframe-whitepaper-seo").colorbox({iframe:true, width:"85%", innerHeight:430});
 				$(".iframe-whitepaper-blog").colorbox({iframe:true, width:"85%", innerHeight:360});
 				$(".iframe-whitepaper-mobile").colorbox({iframe:true, width:"85%", innerHeight:380});
 				$(".iframe-whitepaper-mobile2").colorbox({iframe:true, width:"85%", innerHeight:330});
@@ -46,6 +134,12 @@
 		</script>
 
 
+
+
+
+
+
+
 <script type="text/javascript">
 (function() {
     var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -53,6 +147,10 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();
 </script>
+
+
+
+
 
 
 
@@ -69,6 +167,12 @@ $(document).ready(function ()
  });
 });
 </script>
+
+
+  <script type="text/javascript" src="https://raw.githubusercontent.com/carhartl/jquery-cookie/master/jquery.cookie.js"></script>
+
+
+
 
 
 
@@ -144,6 +248,13 @@ $(document).ready(function(){
 	<title>Privacy Policy | DirectAgents</title>
 
 	<link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/style.css">
+    
+    <link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/css/all.css">
+    <link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/css/prettyPhoto.css">
+    <link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/css/flexslider.css">
+    <link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/css/font-awesome.css">
+    
+    
 
 	<!--[if IE 9]>
 	<link rel="stylesheet" href="http://directagents.com/wp-content/themes/DA/css/ie9.css" />
@@ -166,8 +277,10 @@ $(document).ready(function(){
 <link rel="alternate" type="application/rss+xml" title="DirectAgents » Comments Feed" href="http://directagents.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="DirectAgents » Privacy Policy Comments Feed" href="http://directagents.com/privacy-policy/feed/">
 <link rel="stylesheet" id="layerslider_css-css" href="http://directagents.com/wp-content/plugins/LayerSlider/css/layerslider.css?ver=3.5.0" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://directagents.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="rs-settings-css" href="http://directagents.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.4" type="text/css" media="all">
 <link rel="stylesheet" id="rs-captions-css" href="http://directagents.com/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.4" type="text/css" media="all">
+<link rel="stylesheet" id="slide_styles-css" href="http://directagents.com/wp-content/plugins/rs-sliding-contact-form/css/slide-styles.css?ver=3.4" type="text/css" media="all">
 <link rel="stylesheet" id="wooslider-flexslider-css" href="http://directagents.com/wp-content/plugins/tf-flexslider/assets/css/flexslider.css?ver=1.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="wooslider-common-css" href="http://directagents.com/wp-content/plugins/tf-flexslider/assets/css/style.css?ver=1.0.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-paginate-css" href="http://directagents.com/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4" type="text/css" media="screen">
@@ -185,6 +298,7 @@ $(document).ready(function(){
 <script type="text/javascript" src="http://directagents.com/wp-content/plugins/LayerSlider/js/jquery-easing-1.3.js?ver=1.3.0"></script>
 <script type="text/javascript" src="http://directagents.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.4"></script>
 <script type="text/javascript" src="http://directagents.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.4"></script>
+<script type="text/javascript" src="http://directagents.com/wp-content/plugins/rs-sliding-contact-form/scripts/slide-script.js?ver=3.4"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://directagents.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://directagents.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Affiliate Marketing" href="http://directagents.com/ecommerce-solutions/affiliate-marketing-2/">
@@ -194,7 +308,7 @@ $(document).ready(function(){
 <style type="text/css">.widget_google_plus a{color:#000;}.author-box{padding:10px;}.widget_google_plus{-moz-box-shadow:inset 0 0 15px #ccc;-webkit-box-shadow:inset 0 0 15px #ccc;box-shadow:inset 0 0 15px #ccc;font-family:arial, hevetica;border:solid 1px #ccc;background-color:#fff;padding:0; text-align:center;margin-bottom:15px;}a.plus_person, a.plus_person:hover, a.plus_person:visited{color:#000; font-size:16px;font-weight:normal;height:52px;}img.plus{vertical-align:middle;}.updates{font-weight:normal;color:#777;text-align:left;padding:8px 5px 10px 5px;border-top:solid 1px #E5E5E5;margin:0px 10px;}.updates:hover{color:#000;}.timesince a{font-weight:normal;color:#000;}.credit{margin:0;padding:0;text-align:right;display:block;height:18px;}a.cb{border-left:solid 1px #ccc;font-size:12px;font-weight:normal;text-decoration:none;padding:3px 10px 3px 10px;color:#fff;background: #000;}a.cre:hover, a.c{-moz-border-radius-topleft:8px;border-top-left-radius: 8px;font-size:12px;font-weight:normal;text-decoration:none;padding:3px 10px 3px 10px;color:#fff;background: #000;}a.cre{-moz-border-radius-topleft:8px;border-top-left-radius: 8px;font-size:12px;font-weight:normal;text-decoration:none;padding:3px 10px 3px 10px;color:#fff;background:none;}</style>
 
 
-<!-- All in One SEO Pack 2.0 by Michael Torbert of Semper Fi Web Design[4518,4563] -->
+<!-- All in One SEO Pack 2.0 by Michael Torbert of Semper Fi Web Design[7029,7074] -->
 <meta name="description" content="Direct Agents, Inc., is committed to protecting the privacy of visitors to our websites. The following document outlines the privacy procedures and guidelines">
 
 <link rel="canonical" href="http://directagents.com/privacy-policy/">
@@ -225,6 +339,26 @@ if(document.location.protocol=='http:'){
 	});
 	</script>
 	<![endif]-->
+
+
+
+
+
+
+
+<script type="text/javascript">
+function popUp(meh)
+{
+    var x = screen.width/2 - 700/2;
+    var y = screen.height/2 - 450/2;
+    window.open(meh.href, 'sharegplus','height=485,width=500,left='+x+',top='+y);
+}
+</script>
+
+
+
+
+
 
 
 
@@ -442,6 +576,10 @@ $("#lessminus-rishi").click(function () {
 		    $("#moreplus-rishi").toggle();
 
 });
+
+
+
+
 
 
 
@@ -931,7 +1069,7 @@ $("#lessminus-rishi").click(function () {
  
 
 <!--Google Analytics-->
-
+<!--
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -940,9 +1078,23 @@ $("#lessminus-rishi").click(function () {
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+</script>
+-->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21296655-1', 'directagents.com');
+  ga('send', 'pageview');
 
 </script>
 
@@ -962,13 +1114,30 @@ $("#lessminus-rishi").click(function () {
 <li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a>Services</a>
 <ul class="sub-menu">
 	<li id="menu-item-273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273"><a href="http://directagents.com/lead-generation/">Lead Generation</a></li>
-	<li id="menu-item-392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392"><a href="http://directagents.com/performance-media/">Performance Media</a></li>
+	<li id="menu-item-6367264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367264"><a href="http://directagents.com/performance-media/performance-ppc/">PPC</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6367288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367288"><a href="http://directagents.com/performance-media/display-advertising/">Display Advertising</a></li>
+		<li id="menu-item-6367287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367287"><a href="http://directagents.com/performance-media/dynamic-retargeting/">Dynamic Retargeting</a></li>
+		<li id="menu-item-6367286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367286"><a href="http://directagents.com/performance-media/product-listing-ads/">Product Listing Ads</a></li>
+		<li id="menu-item-6367285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367285"><a href="http://directagents.com/performance-media/mobile-advertising/">Mobile Advertising</a></li>
+		<li id="menu-item-6367289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367289"><a href="http://directagents.com/technology/">Technology</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6367263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367263"><a href="http://directagents.com/performance-media/performance-seo/">SEO</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6367294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367294"><a href="http://directagents.com/performance-media/link-building/">Link Building Services</a></li>
+		<li id="menu-item-6367293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367293"><a href="http://directagents.com/performance-media/google-penalty-repair/">Google Penalty Repair</a></li>
+		<li id="menu-item-6367292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367292"><a href="http://directagents.com/performance-media/content-creation-blog-management/">Content Creation &amp; Blog Management</a></li>
+		<li id="menu-item-6367291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367291"><a href="http://directagents.com/performance-media/secure-search/">Secure Search</a></li>
+		<li id="menu-item-6367290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367290"><a href="http://directagents.com/performance-media/competitor-analysis/">Competitor Analysis</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6365492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6365492"><a href="http://directagents.com/agency-trading-desk/">Agency Trading Desk</a></li>
 	<li id="menu-item-6364238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364238"><a href="http://directagents.com/ecommerce-solutions/">E-Commerce Solutions</a>
 	<ul class="sub-menu">
 		<li id="menu-item-6364695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364695"><a href="http://directagents.com/ecommerce-solutions/affiliate-marketing/">Affiliate Marketing</a></li>
 		<li id="menu-item-6364696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364696"><a href="http://directagents.com/ecommerce-solutions/retail-lead-generation/">Retail Lead Generation</a></li>
 		<li id="menu-item-6365032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6365032"><a href="http://directagents.com/ecommerce-solutions/ecommerce-site-design/">E-Commerce Site Design</a></li>
-		<li id="menu-item-6365841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6365841"><a href="http://directagents.com/holiday-marketing-services-guide/">Holiday Services Guide</a></li>
 	</ul>
 </li>
 	<li id="menu-item-805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-805"><a href="http://directagents.com/creative-da/">Creative</a></li>
@@ -980,13 +1149,12 @@ $("#lessminus-rishi").click(function () {
 		<li id="menu-item-6366256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6366256"><a href="http://directagents.com/technology/ppc-bid-management/">PPC Bid Management</a></li>
 	</ul>
 </li>
-	<li id="menu-item-6365492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6365492"><a href="http://directagents.com/agency-trading-desk/">Agency Trading Desk</a></li>
 </ul>
 </li>
 <li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://directagents.com/work/">Work</a></li>
 <li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a>About</a>
 <ul class="sub-menu">
-	<li id="menu-item-6364456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364456"><a href="http://directagents.com/about/">Our Team</a></li>
+	<li id="menu-item-6364456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364456"><a href="http://directagents.com/about/">Leadership</a></li>
 	<li id="menu-item-359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-359"><a href="http://directagents.com/about/careers/">Careers</a></li>
 	<li id="menu-item-6364110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364110"><a href="http://directagents.com/company-culture/">Company Culture</a></li>
 	<li id="menu-item-6364111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6364111"><a href="http://directagents.com/social-value/">Social Value</a></li>
@@ -1019,7 +1187,101 @@ $("#lessminus-rishi").click(function () {
 	
 	
 								<div id="main" style="overflow:hidden !important;">
-		<div class="avada-row">		<div id="content" class="full-width">
+		<div class="avada-row">
+
+		
+
+
+
+
+
+	 <div class="rs-contact" id="rs-contact">
+     
+     
+    
+     
+     
+     
+     
+     
+   <form class="cmxform" id="commentForm" method="get" action="">
+
+			<div id="get-started-slider-contact"><h3 class="form-title">Get Started ▼</h3></div>
+            <div id="thank-you-slider-contact"><h3 class="form-title">Thank You ▼</h3></div>
+          
+		
+       <div id="the-slider-form"> 	
+       
+      
+       
+       		<input type="hidden" name="search" value="">
+            <input type="hidden" name="publisher" value="">
+            <input type="hidden" name="ppc" value="">
+			
+            <p>
+				<span class="rs-form-wrap your-name">
+					<input type="text" name="name" placeholder="Name" size="40" class="rs-text rs-form-field required" aria-required="true" aria-invalid="false">
+				</span> 
+			</p>
+
+			<p>
+				<span class="rs-form-wrap your-email">
+					<input type="email" name="email" placeholder="Email Address" size="40" class="rs-text rs-form-field required" aria-required="true" aria-invalid="false">
+				</span>
+			</p>
+
+			<p>
+				<span class="rs-form-wrap your-company">
+					<input type="text" name="company" placeholder="Company" size="40" class="rs-text rs-form-field required" aria-invalid="false">
+				</span>
+			</p>
+
+			<p>
+				<span class="rs-form-wrap your-tel">
+					<input type="pnumber" name="tel" placeholder="Phone Number (e.g 212-925-6558)" size="40" maxlength="100" class="rs-text rs-form-field required" aria-invalid="false">
+				</span>
+			</p>
+
+			<p>
+				<span class="rs-form-wrap your-message">
+					<textarea name="message" cols="40" rows="10" class="rs-textarea rs-form-field" aria-required="true" aria-invalid="false">Message</textarea>
+				</span>
+			</p>
+
+			<p>
+				<input type="submit" value="Submit" id="slidingcontactbutton" class="rs-form-wrap submit">
+                
+                
+				
+				</p><div class="img-ajax-cont">
+					<img class="ajax-loader" src="http://directagents.com/wp-content/plugins/rs-sliding-contact-form/images/ajax-loader.gif" alt="Sending ...">
+				</div>
+                
+			<p></p>
+            
+        </div>    
+            <div id="themessage">Thank you for your interest in Direct Agents Interactive Advertising. <br>
+A representative will be in touch shortly.
+
+</div>
+
+
+			<div class="sliding-contact-btn-cont">
+				<a href="#" class="sliding-contact-btn">blah</a>
+			</div>
+            
+            <div class="sliding-contact-btn-cont-mobile">
+				<a href="#" class="sliding-contact-btn-mobile">blah</a>
+			</div>
+
+	</form>
+    
+    
+   
+    
+</div>
+
+		<div id="content" class="full-width">
 				<div id="post-6364342" class="post-6364342 page type-page status-publish hentry">
 						<div class="post-content">
 				<p>Direct Agents, Inc., is committed to protecting the privacy of visitors to our websites. The following document outlines the privacy procedures and guidelines for our websites – www.directagents.com, www.da-tracking.com, and any other websites that we may launch in connection with our business. This policy was last updated January 19th, 2011.</p>
@@ -1103,9 +1365,9 @@ echo $content;-->
 	
 	
 	<li>
-	<p><a href="/work/andotherbrands/"><img class="alignnone size-medium wp-image-25" title="" src="/wp-content/uploads/2013/06/andotherbrands_home.jpg" alt="&amp;OtherBrands"></a></p>
-<div class="content2">Monthly ROAS hitting as high as 1000% for &amp;OtherBrands</div>
-<div class="read2"><a href="http://directagents.com/work/andotherbrands/">read +</a></div>
+	<p><a href="/work/sherrill-tree/"><img class="alignnone size-medium wp-image-25" title="" src="/wp-content/uploads/2013/06/sherrilltree_home.jpg" alt="SherrillTree"></a></p>
+<div class="content2">PPC Campaign Climbs to New Heights</div>
+<div class="read2"><a href="http://directagents.com/work/sherrill-tree/">read +</a></div>
 	</li>
 
 
@@ -1132,9 +1394,9 @@ echo $content;-->
 	
 	
 	<li>
-	<p><a href="/work/epromos/"><img class="alignnone size-medium wp-image-25" title="" src="/wp-content/themes/DA/images/epromos-home.jpg" alt=""></a></p>
-<div class="content">Increased customer acquisitions by 97% year over year.</div>
-<div class="read"><a href="http://directagents.com/work/epromos/">read +</a></div>
+	<p><a href="/work/scholastic/"><img class="alignnone size-medium wp-image-25" title="" src="/wp-content/uploads/2014/02/Featured_Scholastic.jpg" alt=""></a></p>
+<div class="content">PPC resources help attract teachers to Scholastic programs</div>
+<div class="read"><a href="http://directagents.com/work/scholastic/">read +</a></div>
 	</li>
 
 
@@ -1169,9 +1431,9 @@ echo $content;-->
 	
 	
 	<li>
-	<p><a style="font-size: 13px; line-height: 19px;" href="http://directagents.com/blog/whats-new-at-direct-agents/"><img class="alignnone  wp-image-6365919" src="http://directagents.com/wp-content/uploads/2013/04/WhatsNew_2013small.jpg" alt="" width="300" height="219"></a></p>
-<div class="content">Now offering Trading Desk, GSP, SEO &amp; Responsive Design</div>
-<div class="read"><a href="http://directagents.com/blog/whats-new-at-direct-agents/">read +</a></div>
+	<p><a style="font-size: 13px; line-height: 19px;" href="http://directagents.com/blog/direct-agents-debuts-its-new-creative-design-services-department-responsiv3/"><img class="alignnone  wp-image-6365919" src="http://directagents.com/wp-content/uploads/2014/06/responsiv3_home.jpg" alt="Direct Agents Debuts Its New Creative Design Team – R3" width="300" height="219"></a></p>
+<div class="content">Direct Agents Debuts Its New Creative Design Team – R3</div>
+<div class="read"><a href="http://directagents.com/blog/direct-agents-debuts-its-new-creative-design-services-department-responsiv3/">read +</a></div>
 	</li>
 
 
@@ -1296,7 +1558,7 @@ echo $content;-->
 <li>	
 
 
-And the winner is…Instagram! You can follow us @ directagents <a href="http://t.co/z1FB96Dcav">http://t.co/z1FB96Dcav</a><a href="http://twitter.com/directagents/status/413760664097030144"></a>
+Move over Facebook &amp; Twitter...Pinterest is coming for you <a href="http://t.co/0GTVHMyWF0">http://t.co/0GTVHMyWF0</a><a href="http://twitter.com/directagents/status/479713124992684034"></a>
 </li>
 </ul>
 
@@ -1445,8 +1707,15 @@ And the winner is…Instagram! You can follow us @ directagents <a href="http://
 		</div>
 	</footer>
 		<!-- wrapper -->
-			<img src="http://directagents.com/wp-content/plugins/cookies-for-comments/css.php?k=23afc5f20cffb54de5e1a8824819ec5c&amp;o=i&amp;t=1562430411" width="1" height="1"><script type="text/javascript" src="http://directagents.com/wp-content/plugins/tf-flexslider/assets/js/jquery.flexslider-min.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://directagents.com/?wooslider-javascript=load&amp;t=1387490408&amp;ver=1.0.0"></script>
+			<img src="http://directagents.com/wp-content/plugins/cookies-for-comments/css.php?k=23afc5f20cffb54de5e1a8824819ec5c&amp;o=i&amp;t=305176593" width="1" height="1"><script type="text/javascript" src="http://directagents.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/directagents.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://directagents.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2"></script>
+<script type="text/javascript" src="http://directagents.com/wp-content/plugins/tf-flexslider/assets/js/jquery.flexslider-min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://directagents.com/?wooslider-javascript=load&amp;t=1403697203&amp;ver=1.0.0"></script>
 	
 <!--	 
  <script src="http://www.directagents.com/wp-content/themes/DA_Theme/_base/js/jquery.cycle.min.js"></script>
@@ -1456,6 +1725,17 @@ And the winner is…Instagram! You can follow us @ directagents <a href="http://
  <script src="http://www.directagents.com/wp-content/themes/DA_Theme/_base/js/profiling/yahoo-profiling.min.js?v=1"></script>
  <script src="http://www.directagents.com/wp-content/themes/DA_Theme/_base/js/profiling/config.js?v=1"></script>
  -->
+
+
+
+<!--Crazy Egg-->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/3085.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 
 
