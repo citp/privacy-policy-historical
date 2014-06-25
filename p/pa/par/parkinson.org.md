@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220190938id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050745id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
 
 # National Parkinson Foundation - Privacy & Terms of Use
 
@@ -45,3 +45,14 @@ NPF takes data security seriously.  NPF collects data that is covered by the me
 ### Changes
 
 NPF reserves the right to make changes to this policy without notice.  Any changes to this privacy policy will be reflected in changes on this page. Please check this privacy page periodically to review any changes that may have been made.
+
+### Contact Us
+
+If you have specific questions or concerns about the Foundation's privacy policy, please contact us at the following address:
+
+200 SE 1st Street  
+Suite 800  
+Miami, Florida 33131  
+Toll-free Helpline: 1-800-4PD-INFO (473-4636)  
+Fax: (305) 537-9901  
+E-mail inquiries: [contact@parkinson.org](mailto:contact@parkinson.org)
