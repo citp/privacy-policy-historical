@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anymaking.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213222746id_/http%3A//anymaking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anymaking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134538id_/http%3A//anymaking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy AnyMaking.com
 
