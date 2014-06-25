@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewillastrology.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908002109id_/http%3A//www.freewillastrology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewillastrology.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123220id_/http%3A//freewillastrology.com/privacy.html) for the most accurate reproduction.*
 
 # Free Will Astrology : Privacy Policy
 
