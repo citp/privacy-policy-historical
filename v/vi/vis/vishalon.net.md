@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209114004id_/http%3A//www.vishalon.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishalon.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112701id_/http%3A//www.vishalon.net/privacy.aspx) for the most accurate reproduction.*
 
 # Explore Vishal Monpara's cyber home
 
