@@ -1,35 +1,27 @@
-<!--The following is the downloaded HTML source of the pcgamesupply.com privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029023501id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcgamesupply.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625171253id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 <title>PCGameSupply.com - Privacy Policy</title>
-<link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="stylesheet" href="/assets/css/thickbox.css">
-<link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://static.pcgamesupply.com/assets/css/themes/armor/combine.css">
+
 <meta name="google-site-verification" content="fbAyMA5oQTa9vfu3fqQqZUsY1TOYidaw48DhzwuUhNY">
 <meta name="description" content="PCGameSupply.Com">
-<meta name="keywords" content="pc game supply">
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/flowplayer-3.1.4.min.js"></script>
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/common.js"></script>
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/calendar.js"></script>
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/rounded.js"></script>
-<script src="/assets/js/prototype.js"></script>
-<script src="/assets/js/scriptaculous.js"></script>
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/jquery.js"></script>
-<script type="text/javascript" src="/assets/js/expresscheckout.js"></script>
-<script type="text/javascript" src="/assets/js/animation.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.tooltip.js"></script>
-<script type="text/javascript" src="/assets/js/ajax.js"></script>
-<script type="text/javascript" src="/assets/js/thanks.js"></script>
-<script>jQuery.noConflict(); </script>
-<script type="text/javascript" src="/assets/js/thickbox.js"></script>
-<script type="text/javascript" src="http://downloads.pcgamesupply.com/js/scroller.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.treeview.js"></script>
-<script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<!--<meta name="keywords" content="" /> -->
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=014916695496111079372:k-opt-eb-ro"></script><script type="text/javascript" src="http://static.pcgamesupply.com/assets/js/combine.js"></script>
+
+ 
+<!-- end #529 -->
+<script async="" type="text/javascript" src="//www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+
+<!--for ticket #519 Y.P.S.-->
+
+
+<!-- LeadDyno API -->
 <script type="text/javascript">
 var pausecontent2=new Array()
 pausecontent2[0]='<strong><span style="color:yellow;"> Welcome to PC Game Supply, Your Online Game Retailer</span></strong>'
@@ -39,222 +31,143 @@ pausecontent2[3]='<strong><span style="color:yellow;">Overseas? No problem, we a
 pausecontent2[4]='<strong><span style="color:yellow;">Pay with Visa, Mastercard or Paypal </span></strong>'
 </script>
 <script type="text/javascript">
- jQuery.noConflict();
- function theRotator() {
-	//Set the opacity of all images to 0
-	jQuery('div.rotator ul li').css({opacity: 0.0});
-
-	//Get the first image and display it (gets set to full opacity)
-	jQuery('div.rotator ul li:first').css({opacity: 1.0});
-	//Call the rotator function to run the slideshow, 6000 = change to next image after 6 seconds
-	setInterval('rotate()',4000);
+	jQuery.noConflict();
+	function theRotator() {
+		jQuery('div.rotator ul li').css({opacity: 0.0});
+		//Get the first image and display it (gets set to full opacity)
+		jQuery('div.rotator ul li:first').css({opacity: 1.0});
+		//Call the rotator function to run the slideshow, 6000 = change to next image after 6 seconds
+		setInterval('rotate()',4000);
 	}
-function rotate() {
-	//Get the first image
-	var current = (jQuery('div.rotator ul li.show')?  jQuery('div.rotator ul li.show') : jQuery('div.rotator ul li:first'));
-    if ( current.length == 0 ) current = jQuery('div.rotator ul li:first');
-	//Get next image, when it reaches the end, rotate it back to the first image
-	var next = ((current.next().length) ? ((current.next().hasClass('show')) ? jQuery('div.rotator ul li:first') :current.next()) : jQuery('div.rotator ul li:first'));
-	//Un-comment the 3 lines below to get the images in random order
-	//var sibs = current.siblings();
-    //var rndNum = Math.floor(Math.random() * sibs.length );
-    //var next = $( sibs[ rndNum ] );
-	//Set the fade in effect for the next image, the show class has higher z-index
-	next.css({opacity: 0.0})
-	.addClass('show')
-	.animate({opacity: 1.0}, 1000);
-
-	//Hide the current image
-	current.animate({opacity: 0.0}, 1000)
-	.removeClass('show');
-
-};
-
-jQuery(document).ready(function() {
+	function rotate() {
+		//Get the first image
+		var current = (jQuery('div.rotator ul li.show')?  jQuery('div.rotator ul li.show') : jQuery('div.rotator ul li:first'));
+		if ( current.length == 0 ) current = jQuery('div.rotator ul li:first');
+		//Get next image, when it reaches the end, rotate it back to the first image
+		var next = ((current.next().length) ? ((current.next().hasClass('show')) ? jQuery('div.rotator ul li:first') :current.next()) : jQuery('div.rotator ul li:first'));
+		 next.css({opacity: 0.0})
+		.addClass('show')
+		.animate({opacity: 1.0}, 1000);
+		//Hide the current image
+		current.animate({opacity: 0.0}, 1000)
+		.removeClass('show');
+	}
+	jQuery(document).ready(function() {
 	//Load the slideshow
-	theRotator();
-	jQuery('div.rotator').fadeIn(1000);
+		
+		theRotator();
+		jQuery('div.rotator').fadeIn(1000);
         jQuery('div.rotator ul li').fadeIn(1000); // tweek for IE
-        
-});
+		
+	});
 
 
 //Add for ticket #332
  jQuery(window).scroll(function () {
      if(!document.getElementById('stopScroll')){
-     if(Number(document.getElementById('iStartFrom').value)!=Number(document.getElementById('npageno').value+1)){
-         if (jQuery(window).scrollTop() == jQuery(document).height() - jQuery(window).height() && jQuery(window).scrollTop()!=0) {
-           if(document.getElementById('inprogerss').value != 1){
-            document.getElementById('inprogerss').value = 1;
-            str = document.getElementById('ProductList').innerHTML;
-            document.getElementById('ProductList').innerHTML  = document.getElementById('ProductList').innerHTML+"<div class='scrollLoader'><img alt='Page Loading .. ' title='Page Loading ..' src='/assets/images/loadingAnimation.gif' alt='Please wait..' title='Please wait..'></div>";
-            listingByScroll(document.getElementById('sortby').value,Number(document.getElementById('iStartFrom').value),1,document.getElementById('iCategory').value,str);
-           }
-         }
-       }
+		/* handler for scroller function to invoke the on category search  */
+		if(jQuery('#searchHandler').val() == 'category'){
+		 if(Number(document.getElementById('iStartFrom').value)!=Number(document.getElementById('npageno').value+1)){
+			 if (jQuery(window).scrollTop() == jQuery(document).height() - jQuery(window).height() && jQuery(window).scrollTop()!=0) {
+			   if(document.getElementById('inprogerss').value != 1){
+			   
+				var paypalExpCont = jQuery( "#PPDGFrame").contents();
+				if(paypalExpCont.length > 0 || jQuery( "#LoginBox").css('display') == 'block' || jQuery( "#s-LoginBox1").css('display')== 'block') {
+					return false;
+				}
+				document.getElementById('inprogerss').value = 1;
+				str = document.getElementById('ProductList').innerHTML;
+				document.getElementById('ProductList').innerHTML  = document.getElementById('ProductList').innerHTML+"<div class='scrollLoader'><img alt='Page Loading .. ' title='Page Loading ..' src='http://imgx.pcgamesupply.com/assets/images/loadingAnimation.gif' alt='Please wait..' title='Please wait..'></div>";
+				listingByScroll( jQuery('#sortby').val(), Number( jQuery('#iStartFrom').val() ), 1, document.getElementById('iCategory').value, str, jQuery('#sortbyRegion').val(), jQuery('#sortbyProducts').val(), jQuery('#listby').val(), jQuery('#catname').val(), jQuery('#u10ID').val() );
+			   }
+			 }
+		   }
+	    }
+		
+		/* handler for scroller function to invoke the on custom product search  */
+		if(jQuery('#searchHandler').val() == 'product'){
+		     if(Number(document.getElementById('iStartFrom').value)!=Number(document.getElementById('npageno').value+1)){
+				if (jQuery(window).scrollTop() == jQuery(document).height() - jQuery(window).height() && jQuery(window).scrollTop()!=0) {
+					if(document.getElementById('inprogerss').value != 1){
+						document.getElementById('inprogerss').value = 1;
+						str = document.getElementById('SearchProductList').innerHTML;
+						document.getElementById('SearchProductList').innerHTML  = document.getElementById('SearchProductList').innerHTML+"<div id='scrollLoader' class='scrollLoader'><img alt='Page Loading .. ' title='Page Loading ..' src='http://cdn.pcgamesupply.com/assets/images/loadingAnimation.gif' alt='Please wait..' title='Please wait..'></div>";
+						searchListingByScroll( jQuery('#searchterm').val(), jQuery('#sortby').val(),Number( jQuery('#iStartFrom').val() ), 1, jQuery('#iCategory').val(), '', jQuery('#sortbyRegion').val(), jQuery('#sortbyProducts').val() , '2');
+					}
+				}
+			}
+	   
+	   }
+		
      }
     });
 //End for ticket #332
 
 function fill(thisValue) {
-
    jQuery('#inputString').val(thisValue);
    jQuery('#suggestions').hide();
 }
  function orderupdown(set,msg){
     document.getElementById('sp').style.display='block';
-    document.getElementById("sp").innerHTML = "<div class='indexup'><img src='/assets/images/ajax-loader2.gif' />"+msg+"...</div>";
+    document.getElementById("sp").innerHTML = "<div class='indexup'><img src='http://imgx.pcgamesupply.com/assets/images/ajax-loader2.gif' />"+msg+"...</div>";
     jQuery.ajax({
          url: set,
          cache:false,
          async:true,
          success: function(data) {
-               //alert(data);
-               document.getElementById('sp').style.display='none';
-               //document.getElementById("sp").innerHTML = "<div></div>";
-               jQuery('#setorder').html(data);
-               //alert('Load was performed.');
-               var t=setTimeout("set_fade()",10000);
-
+			document.getElementById('sp').style.display='none';
+			jQuery('#setorder').html(data);
+			var t=setTimeout("set_fade()",10000);
          }
   });
  }
- function set_fade()
- {
+ function set_fade() {
      document.getElementById('msgcss').innerHTML='&nbsp;';
- }   /*
-Added By Priyabrata Bera on 4th march 2011
-For the tree view
-*/
-jQuery(function() {
-		jQuery("#tree").treeview({
-				collapsed: false,
-				animated: "medium",
-				unique: true,
-				control:"#sidetreecontrol",
-				persist: "location"
-			});
-		})
+ } 
+ 
+// Code for manage region dropdown		
+jQuery(".dropdown1 dt a").live('click', function() {
+	jQuery(".dropdown1 dd ul").toggle();
+});
+		
+jQuery(".dropdown1 dd ul li a").live('click', function() {
+	var text = jQuery('span.ccname',this).html();
+	jQuery(".dropdown1 dt a span").html(text);
+	
+	var country_id = jQuery('span.ccname',this).attr('id');
+	var country_name = jQuery('span.ccname',this).attr('data-name');
+	var region_flag = jQuery('span.ccname',this).attr('data-flag');
+	jQuery(".dropdown1 dt a span").attr('id',country_id);		
+	jQuery(".dropdown1 dd ul").hide();
+	jQuery.ajax({
+		type: "POST",
+		url: '/core/getbannerimagepath.php',
+		data: 'action=changecheckoutcurrency&currval='+country_id+'&contryname='+country_name+'&region_flag='+region_flag,
+		success: function(responce) {
+			if(responce == '1') {
+			
+				//Added by Yashpal Singh for coupon management
+				//update_coupon_code();
+				
+				window.location.reload();
+			}
+		}
+	});
+	
+});
 
-
-
- document.onkeypress = function(e) {
-     e = e || window.event;
-      var k = e.which?e.which:window.event.keyCode;
-
-                  if(k==13)
-         {
-           return streamlineLogin();
-         }
-    if(k == 37 || k == 40) {
-        return false;
-    }
-  }
-document.onkeyup = autoKeyTrack;
- function autoKeyTrack(e)
- {
-   e = e || window.event;
-   wkey = e.which?e.which:window.event.keyCode;
-
-   if(Number(document.getElementById('countP').value)>0){
-       counter = document.getElementById('countP').value;
-       //alert(counter);
-   }
-    //move UP
-     if(wkey==13){
-           if(document.getElementById(selectedItem).innerHTML!='Products'){
-            document.getElementById("autocomplete").value=document.getElementById(selectedItem).innerHTML;
-            document.quick_search.submit();
-           }
-         }
-
-     if(wkey==38)
-         {
-
-            if(counter >= document.getElementById('tempKeyTrack').value){
-
-            document.getElementById('tempKeyTrack').value=parseInt(document.getElementById('tempKeyTrack').value)-1;
-            selectedItem =  'item_'+document.getElementById('tempKeyTrack').value;
-            //alert(document.getElementById('tempKeyTrack').value);
-            if(document.getElementById(selectedItem).innerHTML=='Products'){
-                    document.getElementById("autocomplete").value='';
-                    //document.getElementById('tempKeyTrack').value = (parseInt(document.getElementById('tempKeyTrack').value)-1);
-            } else {
-               document.getElementById("autocomplete").value=document.getElementById(selectedItem).innerHTML;
-            }
-        } else {
-             document.getElementById('tempKeyTrack').value = 1;
-             // document.getElementById("autocomplete").value=document.getElementById(selectedItem).innerHTML;
-        }
-        //document.body.scrollTop;
-
-         }
-     //move Down
-         if(wkey==40)
-         {
-          incount=1;
-
-          if(counter > document.getElementById('tempKeyTrack').value){
-          document.getElementById('tempKeyTrack').value=parseInt(document.getElementById('tempKeyTrack').value)+incount;
-          selectedItem =  'item_'+document.getElementById('tempKeyTrack').value ;
-          if(document.getElementById(selectedItem).innerHTML=='Products')
-          {
-             document.getElementById("autocomplete").value='';
-             //alert('ss');
-             //document.getElementById('tempKeyTrack').value = (parseInt(document.getElementById('tempKeyTrack').value)-1);
-          }
-          else
-          {
-             document.getElementById("autocomplete").value=document.getElementById(selectedItem).innerHTML;
-          }
-         } else {
-            document.getElementById('tempKeyTrack').value = 1;
-         }
-     }
-
-      //alert(wkey==40);
-      //document.getElementById('tempKeyTrack').value='';
-      return false;
- }
+jQuery(document).live('click', function(e) {
+	var jQueryclicked = jQuery(e.target);
+	if (! jQueryclicked.parents().hasClass("dropdown1"))
+		jQuery(".dropdown1 dd ul").hide();
+});
 </script>
 
-<style type="text/css">
-  div.autocomplete {
-  position:absolute;
-  width:228px !important;
-  background-color:white;
-  border-left:4px solid #4a4a4a;
-  border-right:4px solid #4a4a4a;
-  margin:0;
-  /*padding:2px;*/
-  border-bottom:4px solid #4a4a4a;
-  z-index: 1000 !important;
-  -moz-border-radius: 0px 0px 5px 5px;
-}
-  div.autocomplete ul {
-  list-style-type:none;
-  margin:0;
-  padding:0;
-  }
-  div.autocomplete ul li.selected {
-color:#0000ff;
- display:block;
+<script>	
+	(function(){var e="014916695496111079372:k-opt-eb-ro";var t=document.createElement("script");t.type="text/javascript";t.async=true;t.src=(document.location.protocol=="https:"?"https:":"http:")+"//www.google.com/cse/cse.js?cx="+e;var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})();
+</script>
 
-}
-  div.autocomplete ul li {
-  list-style-type:none;
-  display:block;
-  margin:0;
-  cursor:pointer;
-}
-  li.selected{
-	background : #C4CFD3;
-	color: white;
-}
-  div.autocomplete li:hover{
-	background : #C4CFD3;
-	color: #000000;
-}
+<style type="text/css">  
    .searchclass{padding-top:5px; color:#09C;height:23px;width:226px;background:white;text-align:left;border-left:4px solid #4a4a4a;
   border-right:4px solid #4a4a4a;
   margin:0;
@@ -271,615 +184,1035 @@ color:#0000ff;
   .trilidiv{width: 40px; height: 50px; overflow: hidden; border: 1px black solid; vertical-align: middle;}
   .heighttd{height: 100%;}
   .automsg{height: 15px; color: coral; text-align: left;}
+ 
+dl.dropdown1  {float:right;}
+.dropdown1 dd, .dropdown1 dt, .dropdown1 ul { margin:0px; padding:0px;}
+.dropdown1 dd { position:relative; margin-left:9px;}
+.dropdown1 a, .dropdown1 a:visited { color:#09386e; text-decoration:none; outline:none;}
+.dropdown1 a:hover { color:#09386e;}
+.dropdown1 dt a:hover { color:#09386e;}
+.dropdown1 dt a {background:url(http://cdn.pcgamesupply.com/assets/images/ezetopCountryFlags/arrow.png) no-repeat scroll  right center; display:block; padding-right:20px;
+				 float: left; width: 165px; background-position : 174px;
+				-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;
+				}
+.dropdown1 dt a span {cursor:pointer; display:block; padding-top: 2px;height: 15px;float:right;}
+.dropdown1 dd ul { background:#ffffff none repeat scroll 0 0; border:1px solid #228cc0;; color:#C5C0B0; display:none;
+				  left:0px;position:absolute; top:20px; width:163px; min-width:145px; list-style:none;height:auto;overflow:auto;z-index: 1;
+			  }
+.dropdown1 span.value { display:none;}
+.dropdown1 dd ul li a { padding:4px; display:block;}
+.dropdown1 dd ul li a:hover { background-color:#228cc0;}
+.dropdown1 dd ul li { padding: 0 0px; float:none;}
+
+.dropdown1 img.flag { border:none; vertical-align:middle; margin-left:10px;float:left; padding-top: 2px;}
+.flagvisibility { display:none;}
+.countrycode{border:none; vertical-align:middle; float:right;}
+#countrycombobox1 a span { font-size:12px; font-weight:normal; }
 </style>
-
-<script type="text/javascript">
-adroll_adv_id = "SIECUHO67JEY5EFNVKWOW5";
-adroll_pix_id = "JMIJ6AGOB5GPXLAX7CKNFN";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-    <body> <input type="hidden" name="typeOfOrder" id="typeOfOrder" value="">
+</head>
+    <body> <input type="hidden" name="typeOfOrder" id="typeOfOrder" value="">	
+	
         <input type="hidden" value="0" name="tempKeyTrack" id="tempKeyTrack">
- <div id="Loginbg"></div>
-<div id="LoginBox" class="loginBoxDesnew" style="">
-    
-    <table cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-             <td align="left" width="49%" valign="top"><div class="headerloginpopup">Login to your account</div></td>
-            <td class="popborder" width="2%">&nbsp;</td>
-            <td align="left" width="46%" valign="top"><div class="headerloginpopup">Or Login using</div></td></tr>
-        <!--Login form TR-->
-        <tr>
-            <td align="left" valign="top" height="35px;">
-                 <div class="errMessageLogin" style="display: none;" id="loginErroeBox">
-                   <div class="errors"> </div>            </div>
-            </td>
-             <td class="popborder" height="35px;">&nbsp;</td>
-             <td align="left" valign="middle" height="35px;">&nbsp;</td>
-        </tr>
-        <tr>
-            <td align="left" valign="top">
-                <form id="loginForm" method="post" onsubmit="return m_submitLogin()">
-                   <div class="loginform">
-                      
-                      <input type="hidden" name="action" value="login">
-                      <input type="hidden" name="redirect" value="">
-                      <div class="frmInner">
-                        <div class="row">
-                                <label>Email:</label>
-                            <p><input type="text" name="email" id="idEmail" class="inputNormal widthIE165"></p>
-                        </div>
-                        <div class="row">
-                                <label>Password:</label>
-                            <p><input type="password" name="password" id="idPassword" class="inputNormal widthIE165"></p>
-                        </div>
-			<div class="row row-captcha">	
-			<!-- captcha code for login attempt more then 3  for Ticket #528 --> 
-											<div class="captcha" id="captcha" style="display:none; float:left;">	       								
-						<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LcsFtcSAAAAAGKSj2OmK8eK0z1IFcIT0G4EElCE"></script>
-
-		<noscript>
-			<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LcsFtcSAAAAAGKSj2OmK8eK0z1IFcIT0G4EElCE" height="300" width="500" frameborder="0"></iframe><br/>
-			<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-			<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-		</noscript>								
-					</div>
-			 <input type="hidden" name="check_captcha" id="check_captcha-form" value="none">
-			 <!-- END Ticket #528 -->  
-			</div>
-                        <div class="row">
-                                       <input type="checkbox" checked="" name="remember" id="rememberme1" onclick="if(this.checked==true &amp;&amp; !cookiestest()){ this.checked=false; document.getElementById('loginErroeBox').style.display=''; document.getElementById('loginErroeBox').innerHTML='Please enable cookies first.'}">
-                                      
-                                       Keep me logged in on this computer.
-                                      
-                        </div>
-                        <div class="row">
-                                <label>&nbsp;</label>
-                                <p><input type="submit" id="loginbtn" onclick="" value="Login" class="button"> <input type="button" class="buttonstreamline" style="width:120px;" onclick="javascript:popUp('/myaccount/forgotpassword.php',550,450,1);" value="Forgot password?"></p>
-                        </div>
-                      </div>
-	           </div>
-                 </form>
-                </td>
-
-                <td class="popborder">&nbsp;</td>
-                <td align="center" valign="top">
-                    <input type="image" src="/assets/images/facebook_connect.png" border="0" class="handC" onclick="fnc_PopUpWindow('/facebook-api/src/login.php',550,350,'_Login')">
-
-               
-
-            </td>
-        </tr>
-
-    </tbody></table>
-    <div style="width: 100%; text-align: right;">
-          <input type="button" class="buttonstreamline" onclick="closeLogin()" value="Close">
-        </div><div style="width: 100%; text-align: right; height: 10px;">&nbsp;</div>
-</div>
             <div id="sitepopup" style="display:none;"></div>
 <div id="transparentdiv" style="display:none;"></div>
-<script type="text/javascript">
-	new pausescroller(pausecontent2, "headerscroller", "someclass", 2000)
-</script>
 
-	<div class="mainContainer">
-    	<!--HEADER START -->
-    	<div class="header">
-        	<p class="logoContainer">
-                    
-                                          <a href="http://www.pcgamesupply.com"><img src="/assets/images/logo.png" alt="PCGameSupply"></a></p>
-            <div class="container747">
-            	<div class="searchContainer">
-                	<p class="sLeft"></p>
-                    <div class="sRight"><span class="colorWhite floatL positionRT5">Search</span><span class="floatL positionRL5">
-                    <form method="GET" action="/search.php" style="margin: 0px;" name="quick_search">
-                    <!--<input type="text" id="autocomplete" name="search" class="searchInput"  value="Search games..."  onfocus="if(this.value=='Search games...'){this.value=''};document.getElementById('tempKeyTrack').value='0'" />-->
-                        <div class="floatL">
-                              <input type="text" id="autocomplete" name="search" class="searchInput" value="Search games..." onfocus="if(this.value=='Search games...'){this.value=''};document.getElementById('tempKeyTrack').value='0'">
-                          </div>
-                             <div class="floatL paddingTopSearch">
-                              <input type="image" src="/assets/images/search-go-btn.png" border="0">
 
-                            </div>
-                             <div class="cls"></div>
-<!--
-                        <input type="text"  class="searchInput"  name="wertysearch" value="Search games..."  onfocus="if(this.value=='Search games...'){this.value=''}"
-                          id="wertysearch"  />
-                        <input type="hidden" name="id-holder" id="id-holder"/>-->
-                     <div style="text-align:left; ">
-                <div id="progress" class="searchclass" style="display:none;">
-                  <img src="/assets/images/LoadingIcon.gif" style="float:left;margin-left:10px;">&nbsp;&nbsp;<span style="position:relative;top:2px;">Searching ...</span></div>
+
+<div class="pcgs-frame">
+        <div class="wrapper">
+            <div class="header">
+                <div class="logo">
+                    <a href="http://www.pcgamesupply.com"><img src="http://imgx.pcgamesupply.com/assets/images/themes/armor/logo.jpg" alt="PCGameSupply.com"></a>
                 </div>
-                        <span class="floatL positionRT4L10">
-                            <!--<input type="image" src="/assets/images/search-go-btn.png" border="0" />--></span>
-</form>
-
-                    </span></div>
-                </div>
-                <div class="worldWide"><img src="/assets/images/woldwide.png" alt="World World Dilvery"></div>
-            </div>
-        </div>
-        <div id="autocomplete_choices" class="autocomplete"></div>
-        <script type="text/javascript" language="javascript">
-    new Ajax.Autocompleter("autocomplete", "autocomplete_choices", "/suggester.php", {
-  paramName: "value",
-  minChars: 2,
-  select:'itemN',
-  indicator: 'progress'
-});
-    </script>
-    	<!--HEADER END -->
-        <!--TOP NAV START-->
-        <div class="topNavigation">
-        	<ul class="topMenutabContainer">
-            	<li class="topMenutab">
-                	<span class="nLeft"></span><span class="nRight" onclick="window.location='/index.php'">Home</span>
-                </li>
-                <li class="topMenutab">
-                	<span class="nLeft"></span>                        <span class="nRight" id="noLogin" onclick="loginCheckOnThanks('/myaccount/')">My Account</span>
-                        <span class="nRight" id="yesLogin" style="display: none;" onclick="window.location='/myaccount/'">My Account</span>
-                                        </li>
-                <li class="topMenutab">
-                	<span class="nLeft"></span><span class="nRight" onclick="window.location='/purchaseinfo/'">Purchase Info</span>
-                </li>
-                <li class="topMenutab">
-                	<span class="nLeft"></span><a href="#" id="support_toggler_link" class="link2"><span class="nRight">Support</span></a>
-                </li>
-            </ul>
-
-                         <div class="googlepluse">
-                 <div class="twittdiv">
-                     <!-- privacypolicy.php -->
-
-                                <a href="http://twitter.com/PCGameSupply" class="twitter-follow-button" data-show-count="false">Follow @</a>
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-            </div>
-                <!-- Place this tag in your head or just before your close body tag -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-{"parsetags": "explicit","href": "https://www.pcgamesupply.com"}
-</script>
-
-<!-- Place this tag where you want the +1 button to render --><div id="googlep">
-<g:plusone></g:plusone></div>
-<script type="text/javascript">
-      gapi.plusone.go("googlep");
-    </script>
-
-<div class="floatL facebook">
-             <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FPCGameSupplycom%2F264167047426&amp;send=false&amp;layout=button_count&amp;width=65&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:25px;" allowtransparency="true"></iframe>
-             </div>
-
-                </div>          
-
-
-
-            
-
-
-            <div class="cartInfo">
-            	<span class="floatL positionRT5 marginR10"><img src="/assets/images/basket-icon.png" alt="Cart"></span>
-                <span class="floatL positionRT5 marginR10"><div id="smallcart_header">0 item(s)</div></span>
-                <div class="btnOrange">
-                	<span class="bOrLeft"></span>
-                                         <span class="bOrRight" onclick="window.location='/cart/checkout/'">Checkout</span>
-                </div>
-            </div>
-        </div>
-        <p class="lineDGray"></p>
-        <!--TOP NAV END-->
-        <!--CONTENT AREA START-->
-        <div class="contentWapper container">
-          <div class="contentContainer">
-<div class="contentLeftBlock">
-<div id="main">
-<div id="sidetree" class="boxContent">
-
-   <div class="MenuHeader">
-								<div class="MenuHeaderLeft"><!-- --></div>
-								<div class="MenuHeaderCenter">
-									<font>BROWSE</font>
-								</div>
-								<div class="MenuHeaderRight"><!-- --></div>
-							</div>
- <div class="gap10"></div>
-
- <ul id="tree" class="treeview" style="padding-left:25px;"><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='Game-Cards'){window.location='/Category/Game-Cards/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:0px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> Game Cards</strong></div><ul id="Game-Cards" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/aeria-game-card/">Aeria Games</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Amazon-Gift-Cards/">Amazon Gift Cards</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/APB-Reloaded-Premium-Membership/">APB: Reloaded</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Bioware-1600-Points-EU-Online-Code/">Bioware Points</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Cherry-Credits/">Cherry Credits</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/CrimeCraft-GangWars/">CrimeCraft GangWars</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/DC-Universe-Online-30-Day-Game-Card-Online-Code/">DC Universe Online</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Dungeons-and-Dragons-Online/">Dungeons and Dragons Online</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/EA-Game-Card-Online-Code/">Electronic Arts</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Eve-Online-60-Day-Game-Card/">Eve Online </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Everquest-30-Day-Game-Card-Online-Code/">Everquest</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Facebook-Credits/">Facebook Credits</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/FarmVille-Game-Card-Cash-Coin/">FarmVille</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/gaia-online-prepaid-cash-card/">Gaia Online</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/GamersFirst-G1-Credits/">GamersFirst G1 Credits</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/GoCash/">GoCash Game Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/gPotato-Online-online-code /">Gpotato</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/habbo-hotel-credits-game-card/">Habbo</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Hailan-Rising/">Hailan Rising</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Hulu-Plus/">Hulu Plus</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/ijji-100-g-coin/">ijji</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/imvu-credits-game-card/">IMVU</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Karma-Koin/">Karma Koin</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/K-Coin/">Kaybo K Coin</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/league-of-legends-game-card-online-code/">League of Legends</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/LevelUp-Games/">LevelUp! Games</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Lord-of-the-Rings-Online-US/">Lord of the Rings</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Maplestory-Online-Code/">Maplestory</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Mobius-ePoints/">Mobius ePoints</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/MOL-Points/">MOL Points</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/NCSoft-PlayNC-Game-Cards/">NCSoft </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/nexon-game-cards-online-code/">Nexon</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Nintendo-3DS-Game-Card/">Nintendo 3DS Game Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Nintendo-Wii-Points-Card/">Nintendo Wii Points</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/ogplanet-game-card/">OGPlanet </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/One-Card/">One Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/perfect-world-prepaid-card/">Perfect World</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/sony-playstation-network-cards/">Playstation Network Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Rift-Game-Cards-Online-Code/">RIFT</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Rixty-Prepaid-Cards-Online-Code/">Rixty</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Rohan-Points/">Rohan Points</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/runes-of-magic-diamond-cards/">Runes of Magic</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Runescape-Membership-Online-Code/">Runescape</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Sony-Station-Game-Cards/">Sony Station </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Star-Wars-The-Old-Republic-Game-Card-60/">Star Wars: The Old Republic</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/TERA-GAME-CARDS/">TERA</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/The-Sims-10-Cash-Card/">The Sims</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/ToonTown-Online-30-Day-Game-Card-online-code/">ToonTown Online</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/tq-games-point-fast-cards/">TQ Games</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/ultimate-game-card/">Ultimate Game Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Wizard-101/">Wizard 101</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/World-of-Tanks/">World of Tanks</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/World-of-Warcraft-Game-Cards-Online-Code/">World of Warcraft</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Xbox-360-Live-Gold-Cards-Codes-Points/">Xbox Live</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/zynga-game-cards/">Zynga</a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='iTunes-Gift-Cards'){window.location='/Category/iTunes-Gift-Cards/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> iTunes Gift Cards</strong></div><ul id="iTunes-Gift-Cards" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-AU/">iTunes Gift Cards AU</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-Online-Email-Code/">iTunes Gift Cards Canada</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-EU/">iTunes Gift Cards DE</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-JPY/">iTunes Gift Cards JPY</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-UK/">iTunes Gift Cards UK</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/itunes-gift-cards-online-email/">iTunes Gift Cards US</a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='Ukash'){window.location='/Category/Ukash/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> Ukash</strong></div><ul id="Ukash" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/3V-Visa-Voucher/">3V Visa Voucher</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/CashU/">CashU</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-Voucher-Online/">Ukash</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-Canada/">Ukash Canada</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-EU/">Ukash EU</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-GBP/">Ukash GBP</a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='PC-Games'){window.location='/Category/PC-Games/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> PC Games</strong></div><ul id="PC-Games" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Alan-Wake-EU/">Alan Wake</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Battlefield-3/">Battlefield 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Battlefield-Bad-Company-2-Download/">Battlefield: Bad Company 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Borderlands-2/">Borderlands 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Brink/">Brink</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Call-of-Duty-Black-Ops-CD-Key/">Call of Duty: Black Ops</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Call-of-Duty-Modern-Warfare-3/">Call of Duty: Modern Warfare 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Sid-Meiers-Civilization-Series-Download/">Civilization V</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Counter-Strike-16--Condition-Zero-Steam/">Counter Strike: Condition Zero</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Counter-Strike-Source/">Counter Strike: Source</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Crysis-2-Key-Download/">Crysis 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Dark-Souls-Prepare-To-Die-Edition/">Dark Souls</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Darksiders-2/">Darksiders 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Diablo-3/">Diablo 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Dragon-Age-2-Download/">Dragon Age II</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Dragon-Age-Origins/">Dragon Age: Origins</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Duke-Nukem-Forever/">Duke Nukem Forever</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Dungeon-Siege-3/">Dungeon Siege 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Eve-Online/">Eve Online</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/everquest-II-sentinels-fate/">Everquest II </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/F1-2012/">F1 2012</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Fifa-2013-Origin/">Fifa 2013, Origin</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Guild-Wars-Complete-4-in-1-Trilogy-Eye-of-the-North/">Guild Wars</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Guild-Wars-2-Retail/">Guild Wars 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Harry-Potter-and-the-Deathly-Hollows-Part-2/">Harry Potter and the Deathly Hollows: Part 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Kingdoms-of-Amalur-Reckoning/">Kingdoms of Amalur: Reckoning</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Mass-Effect-3/">Mass Effect 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Need-for-Speed-The-Run-Origin-CD-Key/">Need for Speed The Run</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Red-Faction-Armageddon/">Red Faction: Armageddon</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Rift-US-Online-Code/">RIFT</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Saints-Row-The-Third-Steam-CD-Key/">Saints Row: The Third</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Sleeping-Dogs/">Sleeping Dogs</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Spec-Ops-The-Line/">Spec Ops: The Line</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Star-Wars-The-Old-Republic-60-Day-Game-Card/">Star Wars: The Old Republic</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/StarCraft-2/">StarCraft II </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Syndicate/">Syndicate</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/TERA-Standard-Edition/">TERA</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/The-Darkness-2/">The Darkness II</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/The-Elder-Scrolls-V-Skyrim/">The Elder Scrolls V: Skyrim</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/The-Secret-World/">The Secret World</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/The-Sims-3-download/">The Sims 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/The-Witcher-2-Assassins-of-Kings/">The Witcher 2: Assassins of Kings</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Total-War-Series-Download/">Total War Shogun 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Warcraft-3/">Warcraft 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Wargame-European-Escalation-EU/">Wargame</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Warhammer-40000-Space-Marine/">Warhammer 40,000: Space Marine</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/world-of-warcraft-us/">World of Warcraft </a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='Software'){window.location='/Category/Software/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> Software</strong></div><ul id="Software" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Kaspersky-Internet-Security-2012/">Kaspersky</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Office-Home-And-Student-2010-Full-Download/">Microsoft Office Home and Student 2010</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Windows-7-Home-Premium/">Windows 7</a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='Most-Popular'){window.location='/Category/Most-Popular/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> Most Popular</strong></div><ul id="Most-Popular" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/itunes-30-gift-card-online-email-us/&amp;most=1/">iTunes Gift Cards US</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/sony-playstation-network-20/&amp;most=1/">Playstation Network Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Xbox-Live-1-Month-Gold-Card-Code/&amp;most=1/">Xbox Live</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/ultimate-game-card-20/&amp;most=1/">Ultimate Game Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Ukash-5-US-Dollars/&amp;most=1/">Ukash</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Runescape-30-Day-Game-Card-World-Wide-Online-Code/&amp;most=1/">Runescape</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/nexon-game-card-online-code/&amp;most=1/">Nexon</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Karma-Koin-25/&amp;most=1/">Karma Koin</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/WoW-Game-Card/&amp;most=1/">World of Warcraft </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/iTunes-25-Gift-Card-Email-Canada/&amp;most=1/">iTunes Gift Cards Canada</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/GoCash-30-Game-Card/&amp;most=1/">GoCash Game Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/league-of-legends-game-card-10-online-code/&amp;most=1/">League of Legends</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/The-Sims-3-Ambitions-download /&amp;most=1/">The Sims 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/WoW-Game-Card-EUROPE-Online-Code/&amp;most=1/">World of Warcraft</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Rixty-50-Dollar-Prepaid-Card-Online-Code/&amp;most=1/">Rixty</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/LevelUp-20/&amp;most=1/">LevelUp! Games</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/farmville-10-zynga-online-code /&amp;most=1/">Zynga</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Star-Wars-The-Old-Republic-Game-Card-60/&amp;most=1/">Star Wars: The Old Republic</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/aeria-fun-card-online-code/&amp;most=1/">Aeria Games</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/EA-20-Dollar-Ultimate-Game-Card-Online-Code/&amp;most=1/">Electronic Arts</a></li></ul></li><li onclick="if(!document.getElementById('OpenCategory')  || document.getElementById('OpenCategory').value!='New-Releases'){window.location='/Category/New-Releases/'}"><div class="hitarea  collapsable-hitarea " style="cursor:pointer;width:150px;border-top:1px dotted black;margin:0px;padding:0px;margin-left:-10px"><strong> New Releases</strong></div><ul id="New-Releases" style="display: none;margin-left:-15px"><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Hulu-Plus/&amp;most=2/">Hulu Plus</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Xbox-360-Live-Gold-Cards-Codes-Points/&amp;most=2/">Xbox Live</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/sony-playstation-network-cards/&amp;most=2/">Playstation Network Card</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-GBP/&amp;most=2/">Ukash GBP</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-JPY/&amp;most=2/">iTunes Gift Cards JPY</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Fifa-2013-Origin/&amp;most=2/">Fifa 2013, Origin</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Kaspersky-Internet-Security-2012/&amp;most=2/">Kaspersky</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Ukash-Canada/&amp;most=2/">Ukash Canada</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Rift-US-Online-Code/&amp;most=2/">RIFT</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Borderlands-2/&amp;most=2/">Borderlands 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/world-of-warcraft-us/&amp;most=2/">World of Warcraft </a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/F1-2012/&amp;most=2/">F1 2012</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buy/Dark-Souls-Prepare-To-Die-Edition/&amp;most=2/">Dark Souls</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Battlefield-3/&amp;most=2/">Battlefield 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Wizard-101/&amp;most=2/">Wizard 101</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/The-Sims-3-download/&amp;most=2/">The Sims 3</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/World-of-Tanks/&amp;most=2/">World of Tanks</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Guild-Wars-2-Retail/&amp;most=2/">Guild Wars 2</a></li><li style="padding-top:2px"><a href="http://www.pcgamesupply.com/buygames/Sid-Meiers-Civilization-Series-Download/&amp;most=2/">Civilization V</a></li></ul></li></ul><div class="gap10"></div>
- 
- <div class="gap10"></div>
- <div class="box marginT10 paddL8px">
-                 
-               <a href="/buygames/itunes-gift-cards-online-email/" target="_blank">
-                   <img src="/assets/images/itunes.jpg" alt="iTune" title="iTune" border="0">
-              </a>
- <div class="gap10"></div>
-     <a href="/buygames/Ukash-Voucher-Online/">
-                   <img src="/assets/images/ukash.jpg" alt="Ukash" title="Ukash" border="0">
-     </a>
-      </div>
-
-<div class="box marginT10 paddL8px">
-         </div>
-</div>
-</div>
-</div>
-<div class="contentMiddleBlock">  <div class="breadcrumbs"><a href="/" class="link">Home Page</a> » Privacy Policy</div>  
-
-<div class="box marginT10">
-    <div class="boxHeader">
-        <span class="bHLeft"></span>
-        <span class="boxHeaderMiddle width543">
-        <span class="positionRT3 floatL"> &nbsp;&nbsp;</span> 
-        <h2 class="floatL">Privacy Policy</h2></span>
-        <span class="bHRight"></span>
-    </div>
-    <div class="boxMiddle">
-      <div class="boxMiddleInner">
-          
-    
-   
-  <h1>Privacy Policy</h1>
- 
-<br><p>PcGameSupply.com Incorporated and its affiliated companies (collectively, the "Company") respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or delete it. </p>
- 
-<h2>Consent</h2>
-<p>By using the Company's web sites, you acknowledge that you have read this Privacy Policy and you consent to the practices described herein with respect to the Company's collection, use and disclosure the Personal Information provided by you to us. This is the Company's entire and exclusive Privacy Policy and it supersedes any earlier version. We reserve the right to change this Privacy Policy in accordance with the terms herein at any time, which is why we encourage you to visit this page often, review this Privacy Policy frequently, and remain informed about any changes to it. </p>
- 
-<p>If, after review, you still have questions about any portion of this Privacy Policy, please contact the Company using the contact information provided at the bottom of this Privacy Policy.</p>
- 
-<h2>Information Collection and Use</h2>
- 
-<h3>Personal Information</h3><br>
-<p>"Personal Information" means information that can identify you as a specific individual, such as your name, address, phone number, e-mail address, or other contact information, whether at work or at home. </p>
- 
-<p>On all Company web sites that collect Personal Information, we specifically describe what information is required in order to provide you with the product, service, or feature you have requested. </p>
- 
-<p>We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. </p>
-  
-<br><h3>Registration</h3><br>
-<p>When you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date.  We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order.</p>
- 
-<br><h3>Other Information Collected</h3><br>
- 
-<p>Some information may be collected automatically every time you visit the Company's web sites, such as cookies and computer information. In addition, information may be collected from other independent, third-party sources.  We also collect information about which pages you visit within this site. This site visitation data is identified only by a unique URL.</p>
- 
-<br><h3>Cookies</h3><br>
- 
-<p>The Company uses both session ID cookies and persistent cookies as part of its interaction with your browser. A cookie is an alphanumeric identifier (a file) that the Company's web sites transfer to your computer's hard drive through a web browser to enable its systems to recognize your browser for record-keeping purposes. A session ID cookie expires when you close your browser, while a persistent cookie remains on your hard drive for an extended period of time.</p>
- 
-<p>We use session ID cookies to make it easier for you to navigate our web sites. We use persistent cookies to identify and track which sections of its web site you most often visit. We also use persistent cookies in areas of its web site where you must register, and where you are able to customize the information you see, so that you don't have to enter your preferences more than once.</p>
- 
-<p>By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features on this site and you may be required to reenter the information required to complete an order during new or interrupted browser sessions.</p>
- 
-<p>Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers.</p>
- 
-<br><h3>Log Files</h3><br>
-<p>As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet services provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. The Company uses this information to analyze trends, to screen for fraud, to administer the Company's sites, to track users' movements around the web sites and to gather demographic information about the Company's user base as a whole.</p>
- <br><h4>Use of Information</h4><br><br>    
- <h3>Verification, Billing, and Order Status</h3><br> 
- <p>The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification.</p>    <br><h3>Service-related Announcements</h3><br>  <p>The company may, but is not obligated to, send you strictly service-related announcements on rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an email.</p>    <p>Generally, you may not opt-out of these communications since they are not promotional in nature. If you do not wish to receive them, you may have the option to deactivate your account.</p>    <br><h3>Research</h3><br>  <p>We also collect information for research purposes and to provide anonymous reporting for internal and external clients. The Company uses the information collected for its own internal marketing and demographic studies to improve customer service and product offerings.</p>    <br><h3>Customer Service</h3><br>  <p>We will communicate with you in response to your inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by e-mail, live chat or telephone, in accordance with your wishes. </p><br><h3>Preferences</h3><br>  <p>The Company stores information that it collects through cookies, log files, and third party sources to create a profile of your preferences, in order to improve the content of the Company's web site for you.</p>
- 
-                    <br><h4>Information Sharing and Disclosure</h4><br>
- 
-<p>The Company does not sell or rent any of the information collected to third parties for any purposes, but it shares information with third parties as described below.</p>
- 
-<br><h3>Service Providers</h3><br>
-<p>The Company discloses the information collected to external service providers necessary to facilitate the following outsourced operations: address verification, credit card processing, fraud screening and order shipping.</p>
-  
-<br><h3>Compliance with Legal Authorities</h3><br>
-<p>As required by law, and to enforce customers or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies.</p>
- 
-<br><h3>Links to Other Web Sites</h3><br>
-<p>There are several places throughout the Company's web sites that may link you to other web sites that do not operate under this Privacy Policy. When you click through to these web sites, this Privacy Policy no longer applies. The Company recommends that you examine the privacy statements for all third party web sites to understand their procedures for collecting, using, and disclosing your Personal Information.</p>
- 
-<br><h3>Storage and Security of Personal Information 
-Storage</h3><br>
-<p>The Company stores the information it collects on computers located in a controlled, secure facility protected from physical or electronic unauthorized access, use, or disclosure.</p>
-                    <br><h3>Security</h3><br>
-<p>The Company protects the privacy and integrity of the information it collects by employing appropriate administrative protocols, technical safeguards, and physical security controls designed to limit access, detect and prevent the unauthorized access, improper disclosure, alteration, or destruction of the information under its control. The Company transmits the information used by its external service providers for the specific outsourced operations listed above across public and private networks via recognized encryption technologies, such as by using Secure Sockets Layer (SSL) software, which encrypts the information you input.</p>
- 
-<p>Although the Company follows the procedures set forth above to protect the Personal Information submitted to the Company, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the Company strives to use commercially acceptable means to protect your Personal Information, the Company cannot guarantee its absolute security.</p>
- 
-<p>If you have any questions about the Company's security on its web sites, please feel free to send us an e-mail at
-support@pcgamesupply.com.</p>
- 
-<br><h3>Internet Fraud</h3><br>
-<p>The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to access or acquire customer or other information on its web sites via illegal or surreptitious means. The Company works with local, national, and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect, and intercept fraudulent activities. The Company aggressively prosecutes, to the fullest extent of the law, those perpetrators apprehended conducting fraudulent activities on its web site.</p>
- 
-<p>Agencies with which the Company cooperates are: state and local police authorities, the United States Federal Bureau of Investigation, US and International Customs
-Agencies, Nationwide Collection Agencies, and Interpol.</p>
- 
-<br><h3>International Transfer</h3><br>
-<p>Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.</p>
- 
-<br><h3>Children</h3><br>
-<p>The Company's sites are not intended for or directed to persons under the age of 13. The Company does not buy or sell products or services from or to children. Any person who provides their information to the Company through the Company's web sites represents to the Company that they are 13 years of age or older.</p>
- 
-<br><h3>Changes to this Statement</h3><br>
-<p>The Company will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. The Company will notify customers of material changes to this statement by e-mail or by placing prominent notice on its web site.</p>
- 
-<br><h3>Contact Information</h3><br>
-<p>You may contact the Company by e-mail at support@pcgamesupply.com.</p>
- 
-  
-   
-        
-        
-      </div> 
-    </div>
-    <div class="boxBottom"></div>
-</div>
-<!--Content Box End-->
-</div>
-
-<div class="contentRightBlock">
-    <div class="contentRightBlock">
-     <!--Content Small Box Start-->
-        <div class="container textAlignC">
-
-            
-           <a href="/buygames/sony-playstation-network-cards/">
-                <img src="/assets/images/playstation.jpg" alt="Sony Play Station Network Card" title="Sony Play Station Network Card" width="164px">
-            </a>
-            
-            <div class="gap10"></div>
-            <a href="/buygames/Xbox-360-Live-Gold-Cards-Codes-Points/">
-                <img alt="Rixty Prepaid Cards" src="/assets/images/xbox.jpg" title="Xbox 360 Live Gold Cards Codes Points">
-            </a>
-			<!-- <a href="/buygames/GoCash/">
-                <img alt="GoCash Game Card" src="/assets/images/gocash-side-banner.jpg" alt="GoCash Game Card" title="GoCash Game Card">
-            </a> -->
-            
-            <div class="gap10"></div>
-
-            
-            <a href="/buygames/ultimate-game-card/">
-                <img src="/assets/images/ugc.jpg" alt="ultimate game card" title="ultimate game card" width="164px">
-            </a>
-            <div class="gap10"></div>
-
-                        </div>
-
-    </div>
-     <!--Content Small Box Start-->
-     <div class="box marginT10">
-              <div class="gap10"></div>
-          <div class="container textAlignC">
-        </div>
-        </div>
-    <!--Content Small Box End-->
-</div>
-   </div>
-        </div>
-          <!--CONTENT AREA END-->
-        <div class="footer">
-        	<span class="fLeft"></span>
-            <div class="footerMiddle">
-            	<div class="footerlinks">
-                	<ul>
-                    	<li class="fontB">COMPANY INFO</li>
-                           <li><a href="/aboutus.php">About us</a></li>
-                        <li><a href="/privacypolicy.php">Privacy Policy</a></li>
-     					<li><a href="/refundpolicy.php">Refund Policy</a></li>
-                                             </ul>
-                    <ul>
-                    	<li class="fontB"> SUPPORT </li>
-                        <li><a href="https://support.pcgamesupply.com/" target="_blank">Get Support</a></li>
-     					<!-- <li><a href="/customer-service-phone.php">Support List</a></li> -->
-                    </ul>
-                    
-                    <ul>
-                    	<li class="fontB"> OTHER </li>
-						<li><a href="/blog/">Blog</a></li>
-                                                                                               <!-- <li><a href="/wholesale.php">Wholesale</a></li> -->
-     					<li><a href="/sitemap.php">Site Map</a></li>
-                        <!-- Added by Rajesh
-                        9th March, 2011
-                        Added a new link Free Sweepstakes
+                <div class="header-content">
+                    <div class="pull-left">
+                        <h3>Digital Delivery in Seconds!</h3>
+                        <!--TOP NAV START-->
+                        <ul>
+                            						  <li><a href="http://www.pcgamesupply.com/Category/Game-Cards">Game Cards</a></li>
+						  <li><a href="http://www.pcgamesupply.com/Category/Gift-Cards">Gift Cards</a></li>
+						  <li><a href="http://www.pcgamesupply.com/Category/PrePaid-Cards">PrePaid Cards</a></li>
+						  <li><a href="http://www.pcgamesupply.com/Category/PC-Games">PC Games</a></li>
+						  
+                        </ul>
+						<!--TOP NAV END-->						
                         
-                        <li><a href="/blog/category/free-sweepstakes/" target="_blank">Free Sweepstakes</a></li>-->
-                    </ul>
-                    
-                    <ul>
-                    	<li class="fontB textAlignC">PAYMENT METHODS</li>
-                        <li class="paymentIcon">
-                        <img src="/assets/images/footer-cards.png" alt="Payment Methods">&nbsp;<img src="/assets/images/american_express_amex.png" width="35" height="25" alt="American Express" title="American Express"><img src="/assets/images/footerinterac.png" height="25" alt="interac Online" title="interac Online">
-                       </li>    
-                    					   
-     			
-                    </ul>
-                     
-                    
-                       <ul class="sealmargin30">
-                        <li class="fontB textAlignC">
-                    <ul class="marginL40"><li class="fontB textAlignC"><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.pcgamesupply.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/survey/www.pcgamesupply.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" class="macafeelogo"></a>
-                        </li>
-                        <li class="fontB textAlignC">
-                            <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.pcgamesupply.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en">
-                </script>
+                    </div>					
+					
+                    <div class="pull-right">
+						
+							
+															<p class="top-links">                            
+																	<a id="noLogin" href="javascript:void(0);" onclick="loginCheckOnThanks('/myaccount/')"> | Sign In</a>
+																									| <a href="http://support.pcgamesupply.com/" target="_self" class="link2">Help</a>
+									<!-- <a href="#" id="support_toggler_link"  class="link2"><span class="nRight"> Help </span></a> -->							
+																
+								</p>
+								
+								<dl class="dropdown1" id="sample">
+									<dt>
+									<a href="javascript:void(0)">
+										<span id="USD" class="ccname"><img alt="" src="http://imgx.pcgamesupply.com/assets/images/ezetopCountryFlags/us.png" class="flag">&nbsp;&nbsp;United States  $ USD</span>
+									</a>
+									
+									</dt>
+									<dd>
+										<ul id="countrycombobox1">
+											<li>
+												<a href="javascript:void(0)">
+													<span id="CAD" data-name="Canada $ CAD" data-flag="ca" class="ccname"><img alt="" src="http://cdn.pcgamesupply.com/assets/images/ezetopCountryFlags/ca.png" class="flag">&nbsp;&nbsp;Canada $ CAD</span>
+												</a>
+											</li>
+											<li>
+												<a href="javascript:void(0)">
+													<span id="USD" data-flag="us" data-name="United States $ USD" class="ccname"><img alt="" src="http://imgx.pcgamesupply.com/assets/images/ezetopCountryFlags/us.png" class="flag">&nbsp;&nbsp;United States $ USD</span>
+												</a>
+											</li>
+											<li>
+												<a href="javascript:void(0)">
+													<span id="GBP" data-flag="gb" data-name="United Kingdom £ GBP" class="ccname"><img alt="" src="http://cdn.pcgamesupply.com/assets/images/ezetopCountryFlags/gb.png" class="flag">&nbsp;&nbsp;United Kingdom £ GBP</span>
 
-                        </li>
-</ul>
-                    </li>
+												</a>
+											</li>
+											<li>
+												<a href="javascript:void(0)">
+													<span id="EUR" data-flag="europeanunion" data-name="Europe € EUR" class="ccname"><img alt="" src="http://imgx.pcgamesupply.com/assets/images/ezetopCountryFlags/europeanunion.png" class="flag">&nbsp;&nbsp;Europe € EUR</span>
 
-                    </ul>
-                    <!----------- -->
+												</a>
+											</li>
+											<li>
+												<a href="javascript:void(0)">
+													<span id="AUD" data-flag="au" data-name="Australia $ AUD" class="ccname"><img alt="" src="/assets/images/ezetopCountryFlags/au.png" class="flag">&nbsp;&nbsp;Australia $ AUD</span>
+												</a>
+											</li>
+											<li>
+												<a href="javascript:void(0)">
+													<span id="USD" data-flag="ww" data-name="International $ USD" class="ccname"><img alt="" src="http://cdn.pcgamesupply.com/assets/images/ezetopCountryFlags/ww.png" class="flag">&nbsp;&nbsp;International $ USD</span>
 
+												</a>
+											</li>
+										</ul>
+									</dd>
+								</dl>
+								
+							
+							<p class="top-buttons" style="height:10px;">
+								<a href="javascript:;" onclick="loginCheckOnThanks('/myaccount/orderhistory.php')" class="group-btn-left">View My Orders </a>
+																<a id="noLogin" class="group-btn-right" href="javascript:;" onclick="loginCheckOnThanks('/myaccount/')"> My Account </a>
+															</p>
+						 
 
-
-                     <ul>
-                    	<li class="fontB textAlignC" style="margin-left:30px">
-                           <!--<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.pcgamesupply.com&size=L&use_flash=YES&use_transparent=YES&lang=en">
-                </script>-->
-                            <div class="bbbdiv">
-                                <a href="https://www.bbb.org/calgary/business-reviews/video-game-dealers/pcgame-supply-in-calgary-ab-68046#sealclick" title="Click for the Business Review of PCGame Supply, a Video Games - Dealers in Calgary AB" target="_blank"><img src="https://seal-calgary.bbb.org/seals/black-seal-63-134-pcgamesupply-68046.png" style="border: 0pt none;" alt="PCGame Supply is a BBB Accredited Business. Click for the BBB Business Review of this Video Games - Dealers in Calgary AB"></a>
+						
                     </div>
-                        </li>
-
-                    </ul>
-
-
                 </div>
-                      
             </div>
-            <span class="fRight">
-            </span>
+            			<div class="content" id="col2-left-layout"><div class="side-content">
+    <div class="block">
+    <div class="block-header">
+        <div class="title">
+            <h1>Products</h1>
         </div>
     </div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <div class="block-content">
+        <ul class="products-list">
+			
+                            <li>										
+                    <a href="http://www.pcgamesupply.com/Category/Game-Cards" class="firstlavelclick ">Game Cards</a>					
+					
+					<ul id="defined1">
+												<li><a href="http://www.pcgamesupply.com/Game-Cards/Console" class="secondlavelclick">Console</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/Nintendo-Wii-Points-Card" class="thirdlavelclick">Nintendo</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/OUYA" class="thirdlavelclick">OUYA</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/sony-playstation-network-cards" class="thirdlavelclick">Playstation Network Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Xbox-360-Live-Gold-Cards-Codes-Points" class="thirdlavelclick">Xbox Live</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Game-Cards/Universal-Game-Cards" class="secondlavelclick">Universal Game Cards</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/Cherry-Credits" class="thirdlavelclick">Cherry Credits</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/EA-Game-Card-Online-Code" class="thirdlavelclick">Electronic Arts</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/GoCash" class="thirdlavelclick">GoCash Game Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Kabam" class="thirdlavelclick">Kabam</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Karma-Koin" class="thirdlavelclick">Karma Koin</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Rixty-Prepaid-Cards-Online-Code" class="thirdlavelclick">Rixty</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/ultimate-game-card" class="thirdlavelclick">Ultimate Game Card</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Game-Cards/Free2Play-Games" class="secondlavelclick">Free2Play Games</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/LevelUp-Games" class="thirdlavelclick">LevelUp! Games</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Maplestory-Online-Code" class="thirdlavelclick">Maplestory</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/perfect-world-prepaid-card" class="thirdlavelclick">Perfect World</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Pirate101" class="thirdlavelclick">Pirate101</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Wizard-101" class="thirdlavelclick">Wizard101</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Game-Cards/Game-Currency" class="secondlavelclick">Game Currency</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/aeria-game-card" class="thirdlavelclick">Aeria Points</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Bigpoint-Gamecard" class="thirdlavelclick">Bigpoint Gamecard</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/CrossFire" class="thirdlavelclick">CrossFire ZP</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Facebook-Credits" class="thirdlavelclick">Facebook Credits</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/GamersFirst-G1-Credits" class="thirdlavelclick">GamersFirst G1 Credits</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Guild-Wars-2-Retail" class="thirdlavelclick">Guild Wars 2 Gems</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/habbo-hotel-credits-game-card" class="thirdlavelclick">Habbo Credits</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Meez" class="thirdlavelclick">Meez</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/nexon-game-cards-online-code" class="thirdlavelclick">Nexon Cash</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Nickelodeon" class="thirdlavelclick">Nickelodeon</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/league-of-legends-game-card-online-code" class="thirdlavelclick">Riot Points</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Roblox" class="thirdlavelclick">Roblox</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Rohan-Points" class="thirdlavelclick">Rohan Points</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/runes-of-magic-diamond-cards" class="thirdlavelclick">Runes of Magic Diamonds</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/tq-games-point-fast-cards" class="thirdlavelclick">TQ Games Points</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/gPotato-Online-online-code" class="thirdlavelclick">gPotatoes</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Game-Cards/MMO-Subscriptions" class="secondlavelclick">MMO Subscriptions</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/DC-Universe-Online-Game-Card-Online-Code" class="thirdlavelclick">DC Universe Online</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Defiance" class="thirdlavelclick">Defiance</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Disney-Online-Club-Penguin" class="thirdlavelclick">Disney Online Club Penguin</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Eve-Online" class="thirdlavelclick">EVE Online</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Everquest-Game-Card-Online-Code" class="thirdlavelclick">Everquest</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Final-Fantasy-XIV" class="thirdlavelclick">Final Fantasy XIV</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/imvu-credits-game-card" class="thirdlavelclick">IMVU</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Moshi-Monsters" class="thirdlavelclick">Moshi Monsters</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Runescape-Membership-Online-Code" class="thirdlavelclick">Runescape</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Sony-Station-Game-Cards" class="thirdlavelclick">Sony Station </a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Star-Wars-The-Old-Republic" class="thirdlavelclick">Star Wars: The Old Republic</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/World-of-Warcraft-Game-Cards-Online-Code" class="thirdlavelclick">World of Warcraft</a></li>
+											
+																</ul>
+							</li>
+										</ul>
 
-<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-12693953-1");
-	pageTracker._trackPageview();
-	} catch(err) {}
-</script>  
+					
+                </li>
+                                <li>										
+                    <a href="http://www.pcgamesupply.com/Category/Gift-Cards" class="firstlavelclick ">Gift Cards</a>					
+					
+					<ul id="defined2">
+												<li><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards/" class="secondlavelclick">iTunes Gift Cards</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-AU" class="thirdlavelclick">iTunes Gift Cards AU</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-Online-Email-Code" class="thirdlavelclick">iTunes Gift Cards Canada</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-JPY" class="thirdlavelclick">iTunes Gift Cards JPY</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards-UK" class="thirdlavelclick">iTunes Gift Cards UK</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/itunes-gift-cards-online-email" class="thirdlavelclick">iTunes Gift Cards US</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Gift-Cards/Steam-Gift-Card" class="secondlavelclick">Steam Gift Card</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Steam-Gift-Card-20" class="thirdlavelclick">Steam Gift Card $20</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Steam-Gift-Card-50" class="thirdlavelclick">Steam Gift Card $50</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/buygames/Game-Stop-Gift-Card/" class="secondlavelclick">Game Stop Gift Card</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Game-Stop-Gift-Card-25" class="thirdlavelclick">Game Stop Gift Card $25</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Gift-Cards/Hulu-Plus" class="secondlavelclick">Hulu Plus</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Hulu-Plus-3-Month-Gift-Card" class="thirdlavelclick">Hulu Plus 3 Month Gift Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Hulu-Plus-1-Month-Gift-Card" class="thirdlavelclick">Hulu Plus 1 Month Gift Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Hulu-Plus-6-Month-Gift-Card" class="thirdlavelclick">Hulu Plus 6 Month Gift Card</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/Gift-Cards/Google-Play-Gift-Card" class="secondlavelclick">Google Play Gift Card</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Google-Play-10-Gift-Card" class="thirdlavelclick">Google Play $10 Gift Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Google-Play-25-Gift-Card" class="thirdlavelclick">Google Play $25 Gift Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Google-Play-50-Gift-Card" class="thirdlavelclick">Google Play $50 Gift Card</a></li>
+											
+																</ul>
+							</li>
+										</ul>
 
-<!-- Added by Ashish for the remarkting list on 2011-01-17   -->
-      <!-- Google Code for Brand Remarketing List -->
-    <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 1034686330;
-    var google_conversion_language = "en";
-    var google_conversion_format = "3";
-    var google_conversion_color = "666666";
-    var google_conversion_label = "gQ5qCMTdhgIQ-p6w7QM";
-    var google_conversion_value = 0;
-    /* ]]> */
-    </script>
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-    <div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1034686330/?label=gQ5qCMTdhgIQ-p6w7QM&amp;guid=ON&amp;script=0"/>
+					
+                </li>
+                                <li>										
+                    <a href="http://www.pcgamesupply.com/Category/PrePaid-Cards" class="firstlavelclick ">PrePaid Cards</a>					
+					
+					<ul id="defined3">
+												<li><a href="http://www.pcgamesupply.com/PrePaid-Cards/Zeevex" class="secondlavelclick">Zeevex</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-10-Card" class="thirdlavelclick">Zeevex $10 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-5-Card" class="thirdlavelclick">Zeevex $5 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-50-Card" class="thirdlavelclick">Zeevex $50 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-100-Card" class="thirdlavelclick">Zeevex $100 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-15-Card" class="thirdlavelclick">Zeevex $15 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-20-Card" class="thirdlavelclick">Zeevex $20 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-25-Card" class="thirdlavelclick">Zeevex $25 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-30-Card" class="thirdlavelclick">Zeevex $30 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-40-Card" class="thirdlavelclick">Zeevex $40 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-45-Card" class="thirdlavelclick">Zeevex $45 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-55-Card" class="thirdlavelclick">Zeevex $55 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-60-Card" class="thirdlavelclick">Zeevex $60 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-65-Card" class="thirdlavelclick">Zeevex $65 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-70-Card" class="thirdlavelclick">Zeevex $70 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-75-Card" class="thirdlavelclick">Zeevex $75 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-80-Card" class="thirdlavelclick">Zeevex $80 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-85-Card" class="thirdlavelclick">Zeevex $85 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-90-Card" class="thirdlavelclick">Zeevex $90 Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Zeevex-95-Card" class="thirdlavelclick">Zeevex $95 Card</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/PrePaid-Cards/Skype" class="secondlavelclick">Skype</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Skype-25-Prepaid-Card" class="thirdlavelclick">Skype $25 Prepaid Card</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Skype-10-PrePaid-Card" class="thirdlavelclick">Skype $10 PrePaid Card</a></li>
+											
+																</ul>
+							</li>
+										</ul>
+
+					
+                </li>
+                                <li>										
+                    <a href="http://www.pcgamesupply.com/Category/PC-Games" class="firstlavelclick ">PC Games</a>					
+					
+					<ul id="defined4">
+												<li><a href="http://www.pcgamesupply.com/PC-Games/Steam-Keys" class="secondlavelclick">Steam Keys</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Ace-Patrol" class="thirdlavelclick">Ace Patrol</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Bioshock" class="thirdlavelclick">Bioshock</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Bioshock-Infinite" class="thirdlavelclick">Bioshock Infinite</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Borderlands" class="thirdlavelclick">Borderlands</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Borderlands-2-CDKey" class="thirdlavelclick">Borderlands 2</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Borderlands-Game-of-the-Year" class="thirdlavelclick">Borderlands: Game of the Year</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Bully-Scholarship-Edition" class="thirdlavelclick">Bully: Scholarship Edition</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Call-of-Duty-MW3" class="thirdlavelclick">Call of Duty: MW3</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Civilization-IV-The-Complete-Edition" class="thirdlavelclick">Civilization IV The Complete Edition</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/DmC-Devil-May-Cry" class="thirdlavelclick">DmC Devil May Cry</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Grand-Theft-Auto-3" class="thirdlavelclick">Grand Theft Auto 3</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Grand-Theft-Auto-Vice-City" class="thirdlavelclick">Grand Theft Auto: Vice City</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/LA-Noire" class="thirdlavelclick">L.A. Noire - Complete Edition</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Mafia-II" class="thirdlavelclick">Mafia II</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Max-Payne" class="thirdlavelclick">Max Payne</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Max-Payne-3" class="thirdlavelclick">Max Payne 3</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Midnight-Club-2" class="thirdlavelclick">Midnight Club 2</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/NBA-2K13" class="thirdlavelclick">NBA 2K13</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/NBA-2K14" class="thirdlavelclick">NBA 2K14</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Remember-Me" class="thirdlavelclick">Remember Me</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buygames/Sid-Meiers-Civilization-V-CD-KEY" class="thirdlavelclick">Sid Meiers Civilization V</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/The-Bureau-XCOM-Declassified" class="thirdlavelclick">The Bureau: XCOM Declassified</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Total-War-Rome-2" class="thirdlavelclick">Total War Rome 2</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/XCOM-Enemy-Unknown" class="thirdlavelclick">XCOM: Enemy Unknown</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/PC-Games/Origin-(EA)-Keys" class="secondlavelclick">Origin (EA) Keys</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buygames/Battlefield-3-Series" class="thirdlavelclick">Battlefield 3</a></li>
+											
+																			<li><a href="http://www.pcgamesupply.com/buy/Crysis-3" class="thirdlavelclick">Crysis 3: Hunter Edition</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/PC-Games/Blizzard-Keys" class="secondlavelclick">Blizzard Keys</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Diablo-III-Reaper-of-Souls" class="thirdlavelclick">Diablo III Reaper of Souls</a></li>
+											
+																</ul>
+							</li>
+												<li><a href="http://www.pcgamesupply.com/PC-Games/Mojang---Minecraft" class="secondlavelclick">Mojang - Minecraft</a>	
+								<ul>
+																			<li><a href="http://www.pcgamesupply.com/buy/Minecraft" class="thirdlavelclick">Minecraft</a></li>
+											
+																</ul>
+							</li>
+										</ul>
+
+					
+                </li>
+                			</ul>
+			
+            			<ul class="manage-products-list">
+            <li>Featured Products</li>
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/sony-playstation-network-cards" class="thirdlavelclick featuredclick" data-key="Playstation Network">Playstation Network</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/iTunes-Gift-Cards" class="secondlavelclick featuredclick" data-key="iTunes Gift Cards">iTunes Gift Cards</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/Karma-Koin" class="thirdlavelclick featuredclick" data-key="Karma Koin">Karma Koin</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/Xbox-360-Live-Gold-Cards-Codes-Points" class="thirdlavelclick featuredclick" data-key="Xbox Gold Card">Xbox Gold Card</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/ultimate-game-card" class="thirdlavelclick featuredclick" data-key="Ultimate Game Card">Ultimate Game Card</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/nexon-game-cards-online-code" class="thirdlavelclick featuredclick" data-key="Nexon Game Card">Nexon Game Card</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/Runescape-Membership-Online-Code" class="thirdlavelclick featuredclick" data-key="Runescape">Runescape</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/buygames/Nintendo-Wii-Points-Card" class="thirdlavelclick featuredclick" data-key="Nintendo E-Shop">Nintendo E-Shop</a>
+			 </li>
+			 
+            			 <li>
+				<a href="http://www.pcgamesupply.com/Gift-Cards/Steam-Gift-Card" class="secondlavelclick featuredclick" data-key="Steam Gift Card">Steam Gift Card</a>
+			 </li>
+			 
+                    </ul>
+    </div>    
+</div>
+<script type="text/javascript">
+	jQuery(".thirdlavelclick").click(function(){		
+		jQuery.ajax({
+			type: "POST",
+			url: '/core/getbannerimagepath.php',
+			data: 'action=clickonthirdlavel&userclick=1',
+			success: function(responce) {
+				return false;
+			}
+		});
+	});
+
+	jQuery(".firstlavelclick, .secondlavelclick").click(function(){		
+		jQuery.ajax({
+			type: "POST",
+			url: '/core/getbannerimagepath.php',
+			data: 'action=clickonthirdandsecondlavel&userclick=2',
+			success: function(responce) {
+				return false;
+			}
+		});
+	});
+	jQuery(".featuredclick").click(function(){	
+		var dataKey = jQuery(this).attr('data-key');
+		jQuery.ajax({
+			type: "POST",
+			url: '/core/getbannerimagepath.php',
+			data: 'dataKey='+dataKey+'&action=featuredclick',
+			success: function(responce) {
+				return false;
+			}
+		});
+	});
+	
+    jQuery(".view-more").click(function(){
+        jQuery(".showonviewmore").slideToggle('slow');
+        jQuery(".view-more").html(jQuery(".view-more").html() == 'View More' ? 'View Less' : 'View More');
+    });	
+	
+	jQuery("ul.manage-products-list > li, ul.products-list > li").bind('mouseenter', function() {
+		var list = jQuery(this).find('ul:eq(0)')[0];
+		var list1 = jQuery(this).children().find('ul:visible')[0];
+		if(list1 == 'undefined' || list1 == undefined) {
+			jQuery('ul.products-list > li ul').hide();
+			jQuery(list).show();
+		}
+	});
+	
+	jQuery("ul.products-list > li > ul > li").bind('mouseenter', function() {
+		var list = jQuery(this).find('ul:eq(0)')[0];
+		var parent = jQuery(this).parent()[0];
+		jQuery('ul.products-list > li > ul:visible').not(parent).hide();
+		jQuery("ul.products-list > li > ul > li > ul:visible").not(list).hide();
+		jQuery(list).show();
+		
+	});
+	
+	jQuery("ul.products-list > li > ul > li > ul > li").bind('mouseenter', function() {
+		var list = jQuery(this).parent()[0];	
+		jQuery(list).show();		
+	});
+
+	jQuery(window).bind('click', function() {
+		jQuery('ul.products-list > li ul').hide();
+	});
+	
+</script>
+	
+   
+</div>
+<div class="main-content"><div class="title">
+	<div class="padded-wrapper width_350 ">
+		<gcse:searchbox-only enableautocomplete="true" resultsurl="http://www.pcgamesupply.com/gsearch.php" enablehistory="true" autocompletemaxcompletions="20" autocompletematchtype="any"></gcse:searchbox-only>
+	</div>
+
+	<div class="cart-section">
+        <p><a href="#" class="cart">0 item(s)</a></p>
+        <p><a href="#" class="btn-checkout-primary" onclick="window.location='/cart/checkout/'"><span>Checkout</span></a></p>
     </div>
-    </noscript>
-    <!--End Google Code for Brand Remarketing List -->
-  
- <p style="background:url(https://checkout.pcgamesupply.com/fp/clear.png?org_id=mm87w0is&amp;session_id=609e42ebe7ea62d558410cfd8be01a46&amp;m=1)"></p>
-<img src="https://checkout.pcgamesupply.com/fp/clear.png?org_id=mm87w0is&amp;session_id=609e42ebe7ea62d558410cfd8be01a46&amp;m=2" alt="">
-<script src="https://checkout.pcgamesupply.com/fp/check.js?org_id=mm87w0is&amp;session_id=609e42ebe7ea62d558410cfd8be01a46" type="text/javascript"></script>
-<object type="application/x-shockwave-flash" data="https://checkout.pcgamesupply.com/fp/fp.swf?org_id=mm87w0is&amp;session_id=609e42ebe7ea62d558410cfd8be01a46" width="1" height="1" id="obj_id">
-<param name="movie" value="https://checkout.pcgamesupply.com/fp/fp.swf?org_id=mm87w0is&amp;session_id=609e42ebe7ea62d558410cfd8be01a46">
+</div>
+
+<div class="breadcrumb">
+    <div class="breadcrumb-contant">
+        <div class="inner-div" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+            <a href="/" itemprop="url" class="link">
+                <span itemprop="title">Home Page</span>
+            </a> »&nbsp;
+        </div>
+			Privacy Policy
+    </div>
+</div>
+<div class="fixed-page-container"> 
+    <div class="fixed-page-box-header">Privacy Policy</div>
+    <div class="fixed-page-box-contant">
+
+        <h1>Privacy Policy</h1>
+        <br><p>PcGameSupply.com Incorporated and its affiliated companies (collectively, the "Company") respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or delete it. </p>
+
+        <h2>Consent</h2><br>
+        <p>By using the Company's web sites, you acknowledge that you have read this Privacy Policy and you consent to the practices described herein with respect to the Company's collection, use and disclosure the Personal Information provided by you to us. This is the Company's entire and exclusive Privacy Policy and it supersedes any earlier version. We reserve the right to change this Privacy Policy in accordance with the terms herein at any time, which is why we encourage you to visit this page often, review this Privacy Policy frequently, and remain informed about any changes to it. </p>
+
+        <p>If, after review, you still have questions about any portion of this Privacy Policy, please contact the Company using the contact information provided at the bottom of this Privacy Policy.</p>
+
+        <h2>Information Collection and Use</h2>
+        <br>
+        <h3>Personal Information</h3><br>
+        <p>"Personal Information" means information that can identify you as a specific individual, such as your name, address, phone number, e-mail address, or other contact information, whether at work or at home. </p>
+
+        <p>On all Company web sites that collect Personal Information, we specifically describe what information is required in order to provide you with the product, service, or feature you have requested. </p>
+
+        <p>We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. </p>
+
+        <br><h3>Registration</h3><br>
+        <p>When you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date.  We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order.</p>
+
+        <br><h3>Other Information Collected</h3><br>
+
+        <p>Some information may be collected automatically every time you visit the Company's web sites, such as cookies and computer information. In addition, information may be collected from other independent, third-party sources.  We also collect information about which pages you visit within this site. This site visitation data is identified only by a unique URL.</p>
+
+        <br><h3>Cookies</h3><br>
+
+        <p>The Company uses both session ID cookies and persistent cookies as part of its interaction with your browser. A cookie is an alphanumeric identifier (a file) that the Company's web sites transfer to your computer's hard drive through a web browser to enable its systems to recognize your browser for record-keeping purposes. A session ID cookie expires when you close your browser, while a persistent cookie remains on your hard drive for an extended period of time.</p>
+
+        <p>We use session ID cookies to make it easier for you to navigate our web sites. We use persistent cookies to identify and track which sections of its web site you most often visit. We also use persistent cookies in areas of its web site where you must register, and where you are able to customize the information you see, so that you don't have to enter your preferences more than once.</p>
+
+        <p>By configuring the options in your browser, you may control how cookies are processed by your system. However, if you decline the use of cookies you may not be able to use certain features on this site and you may be required to reenter the information required to complete an order during new or interrupted browser sessions.</p>
+
+        <p>Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers.</p>
+
+        <br><h3>Log Files</h3><br>
+        <p>As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet services provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. The Company uses this information to analyze trends, to screen for fraud, to administer the Company's sites, to track users' movements around the web sites and to gather demographic information about the Company's user base as a whole.</p>
+        <br><h4>Use of Information</h4><br><br>
+        <h3>Verification, Billing, and Order Status</h3><br>
+        <p>The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification.</p>    <br><h3>Service-related Announcements</h3><br>  <p>The company may, but is not obligated to, send you strictly service-related announcements on rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an email.</p>    <p>Generally, you may not opt-out of these communications since they are not promotional in nature. If you do not wish to receive them, you may have the option to deactivate your account.</p>    <br><h3>Research</h3><br>  <p>We also collect information for research purposes and to provide anonymous reporting for internal and external clients. The Company uses the information collected for its own internal marketing and demographic studies to improve customer service and product offerings.</p>    <br><h3>Customer Service</h3><br>  <p>We will communicate with you in response to your inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by e-mail, live chat or telephone, in accordance with your wishes. </p><br><h3>Preferences</h3><br>  <p>The Company stores information that it collects through cookies, log files, and third party sources to create a profile of your preferences, in order to improve the content of the Company's web site for you.</p>
+
+        <br><h4>Information Sharing and Disclosure</h4><br>
+
+        <p>The Company does not sell or rent any of the information collected to third parties for any purposes, but it shares information with third parties as described below.</p>
+
+        <br><h3>Service Providers</h3><br>
+        <p>The Company discloses the information collected to external service providers necessary to facilitate the following outsourced operations: address verification, credit card processing, fraud screening and order shipping.</p>
+
+        <br><h3>Compliance with Legal Authorities</h3><br>
+        <p>As required by law, and to enforce customers or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies.</p>
+
+        <br><h3>Links to Other Web Sites</h3><br>
+        <p>There are several places throughout the Company's web sites that may link you to other web sites that do not operate under this Privacy Policy. When you click through to these web sites, this Privacy Policy no longer applies. The Company recommends that you examine the privacy statements for all third party web sites to understand their procedures for collecting, using, and disclosing your Personal Information.</p>
+
+        <br><h3>Storage and Security of Personal Information
+		Storage</h3><br>
+        <p>The Company stores the information it collects on computers located in a controlled, secure facility protected from physical or electronic unauthorized access, use, or disclosure.</p>
+        <br><h3>Security</h3><br>
+        <p>The Company protects the privacy and integrity of the information it collects by employing appropriate administrative protocols, technical safeguards, and physical security controls designed to limit access, detect and prevent the unauthorized access, improper disclosure, alteration, or destruction of the information under its control. The Company transmits the information used by its external service providers for the specific outsourced operations listed above across public and private networks via recognized encryption technologies, such as by using Secure Sockets Layer (SSL) software, which encrypts the information you input.</p>
+
+        <p>Although the Company follows the procedures set forth above to protect the Personal Information submitted to the Company, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the Company strives to use commercially acceptable means to protect your Personal Information, the Company cannot guarantee its absolute security.</p>
+
+        <p>If you have any questions about the Company's security on its web sites, please feel free to send us an e-mail at
+		support@pcgamesupply.com.</p>
+
+        <br><h3>Internet Fraud</h3><br>
+        <p>The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to access or acquire customer or other information on its web sites via illegal or surreptitious means. The Company works with local, national, and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect, and intercept fraudulent activities. The Company aggressively prosecutes, to the fullest extent of the law, those perpetrators apprehended conducting fraudulent activities on its web site.</p>
+
+        <p>Agencies with which the Company cooperates are: state and local police authorities, the United States Federal Bureau of Investigation, US and International Customs
+		Agencies, Nationwide Collection Agencies, and Interpol.</p>
+
+        <br><h3>International Transfer</h3><br>
+        <p>Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.</p>
+
+        <br><h3>Children</h3><br>
+        <p>The Company's sites are not intended for or directed to persons under the age of 13. The Company does not buy or sell products or services from or to children. Any person who provides their information to the Company through the Company's web sites represents to the Company that they are 13 years of age or older.</p>
+
+        <br><h3>Changes to this Statement</h3><br>
+        <p>The Company will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. The Company will notify customers of material changes to this statement by e-mail or by placing prominent notice on its web site.</p>
+
+        <br><h3>Contact Information</h3><br>
+        <p>You may contact the Company by e-mail at support@pcgamesupply.com.</p>
+    </div>
+</div>
+
+
+
+</div>
+</div>
+<div class="footer">
+   <div class="footer-links">
+      <ul>
+         <li>
+            <h2>Get to Know Us</h2>
+         </li>		 
+         <li><a href="/aboutus.php">About Us</a></li>
+		 <li><a href="/send-gifts.php">Send Digital Gifts</a></li>
+		 <li><a href="/go-mobile.php">Go Mobile</a></li>
+		 <li><a href="http://www.trustpilot.com/review/pcgamesupply.com" target="_blank">Customer Reviews</a></li>
+		 <li><a href="/refundpolicy.php">Refund Policy</a></li>
+		 <li><a href="/privacypolicy.php">Privacy Policy</a></li>		          
+      </ul>
+      <!--ul>
+         <li>
+            <h2>Make Money with Us</h2>
+         </li>
+         <li><a href="/distributors-publishers.php">Publishers</a></li>
+      </ul-->
+      <ul>
+         <li>
+            <h2>Let Us Help You</h2>
+         </li>
+         <li><a href="http://support.pcgamesupply.com/" target="_self">Get Support</a></li>
+      </ul>
+   </div>
+   <div>
+      
+      <div class="payments-options">		
+		
+		<div class="floatR">
+			<!-- PayPal Logo --><a href="javascript:void(0)" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700');"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_SbyPP_mc_vs_dc_ae.jpg" border="0" alt="PayPal Acceptance Mark"></a><!-- PayPal Logo -->
+		</div>
+      </div>
+	  <div class="payments-options-ultimate">		
+	  </div>
+   </div>
+</div>
+</div>
+<script type="text/javascript" language="javascript">
+   new Ajax.Autocompleter("autocomplete", "autocomplete_choices", "/suggester.php", {
+   paramName: "value",
+   minChars: 2,
+   select:'itemN',
+   indicator: 'progress'
+   
+   });	
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12693953-1']);
+  _gaq.push(['_setDomainName', 'www.pcgamesupply.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<p style="background:url(https://checkout.pcgamesupply.com/fp/clear.png?org_id=mm87w0is&amp;session_id=f27a9bac8b981e9e0fe77b7377690547&amp;m=1)"></p>
+<img src="https://checkout.pcgamesupply.com/fp/clear.png?org_id=mm87w0is&amp;session_id=f27a9bac8b981e9e0fe77b7377690547&amp;m=2" alt="">
+<script src="https://checkout.pcgamesupply.com/fp/check.js?org_id=mm87w0is&amp;session_id=f27a9bac8b981e9e0fe77b7377690547" type="text/javascript"></script>
+<object type="application/x-shockwave-flash" data="https://checkout.pcgamesupply.com/fp/fp.swf?org_id=mm87w0is&amp;session_id=f27a9bac8b981e9e0fe77b7377690547" width="1" height="1" id="obj_id">
+   <param name="movie" value="https://checkout.pcgamesupply.com/fp/fp.swf?org_id=mm87w0is&amp;session_id=f27a9bac8b981e9e0fe77b7377690547">
 </object>
 
-<!-- Tender Application tab Added by Priyabrata Bera on 18th Jan 2011-->
-<script type="text/javascript" charset="utf-8">
-  Tender = {
-    hideToggle: false,
-    sso: "p1Lf-kh0z6uxAPKl6RLHyH2rTS2fPyyIl4SfrXmx3nGrrxSseFhakVdWExiUcY8tIYVldzssaN9d-YL7AWpNTQ%3D",
-    widgetToggles: [document.getElementById('help')]
-
-  }  
-</script>
-<script defer="true" src="http://downloads.pcgamesupply.com/js/tender_widget.js" type="text/javascript"></script>
-
-   <div id="ExpressCheckout">
-       <input type="hidden" value="1" name="iLoginCheck" id="iLoginCheck">
+</div>
+<div id="ExpressCheckout">
+   <input type="hidden" value="1" name="iLoginCheck" id="iLoginCheck">
 <input type="hidden" value="hide" name="iExpressCheckout" id="iExpressCheckout">
 <div id="tmpdata" style="display: none;"></div>
 <div id="footerSlideContainer">
-  <div id="menuContainer">
-    <div id="inMenu">
-          <ul>
-              <li id="fav" class="rightborder">
-                  <p class="fav-p-position">
-		        
-		        <span class="prefav-span">
-                            <img src="/assets/images/fav.png" class="fav-img-position">
-                            Favorites</span>
-	          </p>
-              </li>
-              <li id="pre">
-                  <p class="pre-p-position">
-		   
-                   <span class="prefav-span"><img src="/assets/images/recent_deactive.png" class="pre-img-position">
-
-                       <nobr>Previous Purchases</nobr></span>
-	         </p>
-              </li>
-          </ul>
-    </div>
-    <div id="footerSlideButton">
-        <p class="top5pxtext" id="expressmessagedispaly">
-           <b>Sign in to view Previous Purchases and Favorites.</b>         </p>
-        <div class="slideclose">
-		<div id="showhide" class="hideExpress">
-
-                </div>
-	 </div>
-
-
-    </div>
-  </div>
-
-
-
-  <div id="footerSlideContent">
-  <div id="footerSlideText">
-
-  <button id="leftMenuButton" style="">
-       
-  </button>
-      <button id="rightMenuButton">
-     
-  </button>
-
-            <div id="AddedInFav">
-          <a href="javascript:void(0)" class="buttons prev disable">left</a>
-          <div class="viewport">
-          <ul id="scrollers" class="overview">
-
-        
-      <li><div class="lidiv"></div></li>
-
-      
+   <div id="menuContainer">
+      <div id="inMenu">
+         <ul>
+            <li id="fav" class="rightborder">
+               <p class="fav-p-position">
+                  <span class="prefav-span">
+                  <img src="http://imgx.pcgamesupply.com/assets/images/fav.png" class="fav-img-position">
+                  Favorites</span>
+               </p>
+            </li>
+            <li id="pre">
+               <p class="pre-p-position">
+                  <span class="prefav-span">
+                     <img src="http://cdn.pcgamesupply.com/assets/images/recent_deactive.png" class="pre-img-position">
+                     <nobr>Previous Purchases</nobr>
+                  </span>
+               </p>
+            </li>
          </ul>
-              </div>
-              <a href="javascript:void(0)" class="buttons next">right</a>
+      </div>
+      <div id="footerSlideButton">
+         <p class="top5pxtext" id="expressmessagedispaly">
+            <b>Sign in to view Previous Purchases and Favorites.</b>         </p>
+         <div class="slideclose">
+            <div id="showhide" class="hideExpress">
+            </div>
+         </div>
+      </div>
    </div>
+   <div id="footerSlideContent">
+      <div id="footerSlideText">
+         <button id="leftMenuButton" style="">
+         </button>
+         <button id="rightMenuButton">     
+         </button>
+                  <div id="AddedInFav">
+            <a href="javascript:void(0)" class="buttons prev disable">left</a>
+            <div class="viewport">
+               <ul id="scrollers" class="overview">
+                                  <li>
+                     <div class="lidiv"></div>
+                  </li>
+                                 </ul>
+            </div>
+            <a href="javascript:void(0)" class="buttons next">right</a>
+         </div>
+                  <div id="PreviousOrder">
+            <a href="javascript:void(0)" class="buttons prev disable">left</a>
+            <div class="viewport">
+               <ul id="PreviousOrderscrollers" class="overview">
+                                    <li></li>
+                                 </ul>
+            </div>
+            <a href="javascript:void(0)" class="buttons next">right</a>
+         </div>
+         <input type="hidden" id="activeMenuIdsCon" value="AddedInFav">
+         <img src="http://imgx.pcgamesupply.com/assets/images/recent_deactive.png" style="display: none;">
+         <img src="http://cdn.pcgamesupply.com/assets/images/fav_active.png" style="display: none;">
+      </div>
+   </div>
+</div></div>
 
-      <div id="PreviousOrder">
-          <a href="javascript:void(0)" class="buttons prev disable">left</a>
-          <div class="viewport">
-    <ul id="PreviousOrderscrollers" class="overview">
-             <li></li>
-     </ul>
-          </div>
-          <a href="javascript:void(0)" class="buttons next">right</a>
- </div>
-  <input type="hidden" id="activeMenuIdsCon" value="AddedInFav">
-  <img src="/assets/images/recent_deactive.png" style="display: none;">
-  <img src="/assets/images/fav_active.png" style="display: none;">
-  </div>
-  </div>
-</div>    </div>
+<!-- code added for #529 redesing -->
 
 
-<!-- for ticket #193 -->
-<link rel="stylesheet" href="/assets/css/cadorders.css">
-<!-- Dynamic Converter --> 
-<!--
-<script language="JavaScript" type="text/javascript"> function dc_ld() { 
- var dc_dlay = document.createElement("script"); dc_dlay.setAttribute('type', 'text/javascript'); dc_dlay.setAttribute('language', 'javascript'); dc_dlay.setAttribute('id', 'dcdlay'); dc_dlay.setAttribute("src", "http"+(window.location.protocol.indexOf("https:")==0?"s://converter":"://converter2")+".dynamicconverter.com/accounts/9/9045"+"."+"js"); document.getElementsByTagName("head")[0].appendChild(dc_dlay); } setTimeout('dc_ld()',10); </script><a href="http://dynamicconverter.com" style="display: none;">Javascript currency converter</a>-->
-<!-- END for ticket #193 -->
 
+<!-- Multi logged in message popup code starts from here-->
+<div class="sendGiftDesnew" id="multiloggedin_pop_box" style="height:140px;">	
+	<table width="100%" cellspacing="0" cellpadding="0" style="position: relative;">
+      <tbody><tr>
+         <td width="49%" valign="top" align="left">
+			<span id="payment_mode_msg">
+				<div class="fixed-page-box-header popup-header">Multiple Logged in</div>
+				<p>&nbsp;</p>
+				<div style="float:left;width:100%;text-align:center;"><strong>Your are already logged in with same account.</strong></div>
+			</span>
 
+			<div style="margin-top:35px;"><a style="float:left;margin-top:10px;margin-left:180px;" type="button" id="close_multi_loggedin_pop" href="javascript:void(0);" class="btn-close"></a></div>
+			
+         </td>
+      </tr>      
+   </tbody></table>
+</div>
+
+<div class="sendGiftDesnew" id="karma_pop_box" style="width:auto">
+	<span style="float:right;"><a href="javascript:void(0);" id="karma_close"><img src="http://imgx.pcgamesupply.com/assets/images/btn-remove.gif"></a></span>
+	<img src="http://cdn.pcgamesupply.com/assets/images/nexon-notification.jpg">
+</div>
+
+<div id="multiloggedinOpecity" style="display:none;" class="opecityClass"></div>	
+<!-- Multi logged in message popup code ends here-->
+
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('#close_multi_loggedin_pop').live('click', function(e) {
+			jQuery('#multiloggedin_pop_box').toggle();
+			jQuery('#multiloggedinOpecity').hide();
+		});
+	});
+</script>
+
+<div class="expPaypErrorBox" id="paypal_error_box" style="width:auto">
+	<table width="100%" cellspacing="0" cellpadding="0" style="position: relative;">
+      <tbody><tr>
+         <td width="49%" valign="top" align="left">
+			<span>
+				<div class="fixed-page-box-header popup-header">Paypal Express Checout Error</div>
+				<p>&nbsp;</p>
+				<div class="streamerrMessage width82" id="exp_paypal_volume_error_msg" style="padding: 3% 40px;">We were unable to process your payment. </div>
+			</span>
+			<div class="clearboth"></div>
+			<div class="marginTop20"><a type="button" id="paypal_exp_close" href="javascript:void(0);" class="btn-close paypal-exp-error-close"></a></div>
+			
+         </td>
+      </tr>      
+   </tbody></table>
+</div>
+<div id="paypal-exp-opecity" style="display:none;" class="opecityClass"></div>
+<script type="text/javascript">
+	function showPaypalExpError() {
+		jQuery('#paypal_error_box').css('display','block');		
+		jQuery('#paypal-exp-opecity').css('width', jQuery(document).width());
+		jQuery('#paypal-exp-opecity').css('height', jQuery(document).height() + 150);
+		jQuery('#paypal-exp-opecity').show();
+	}
+</script>
+	
+<script type="text/javascript">
+jQuery('.chk-exp-paypal-volume').die('click').live('click', function(e) {
+		
+		var submitId = jQuery(this).attr('data-id');
+		var prodId = jQuery(this).attr('data-prod');
+		var prodPrice = jQuery(this).attr('data-price');
+		var leftTodayLimit = jQuery('#exp_paypal_volume_limit').attr('data-ltl');
+		var leftMonthlyLimit = jQuery('#exp_paypal_volume_limit').attr('data-lml');
+		var volumeMonthlyAmount = jQuery('#exp_paypal_volume_limit').attr('data-vma');
+		var volumeDailyAmount = jQuery('#exp_paypal_volume_limit').attr('data-vda');
+		if(Math.round(prodPrice) <= Math.round(leftTodayLimit) && Math.round(prodPrice) <= Math.round(leftMonthlyLimit) ) {
+			
+			var dg = new PAYPAL.apps.DGFlow(
+			{
+				trigger: submitId,
+				expType: 'light'
+			});			
+			
+			// 1013	late
+			var telerequirepayexp = jQuery("#paywaitpoptelesignneeded").val();
+			if(telerequirepayexp == 'y') {
+				jQuery( "#"+submitId ).trigger("click");
+			} else {
+				var curuse = jQuery("#paywaitpopcurusepayexp").val();
+				var amt = jQuery(this).attr('data-payexp-price');			
+				openPaymentStartLoadingPopup('payexp', amt, curuse, '', submitId);			
+				setTimeout(function() {
+					jQuery( "#"+submitId ).trigger("click");			
+					jQuery('#paystartloadingpopup').hide();			
+					jQuery('#paystartloadingfade').hide();
+					jQuery('#paymentwaitpoppayexp').hide();
+				}, 2000);
+			}
+
+		} else {
+			var error;
+			if(Math.round(prodPrice) > Math.round(leftTodayLimit) && Math.round(prodPrice) <= Math.round(leftMonthlyLimit)) {
+				error = 'Your account has a daily spending limit of '+volumeDailyAmount+'. You have exceeded this limit.';
+			} else if(Math.round(prodPrice) > Math.round(leftTodayLimit) && Math.round(prodPrice) > Math.round(leftMonthlyLimit)) {
+				error = 'Your account has a monthly spending limit of '+volumeMonthlyAmount+'. You have exceeded this limit.';
+			} else {
+				error = 'Your account has a daily spending limit of '+volumeDailyAmount+'. You have exceeded this limit.';
+			}
+			jQuery('#exp_paypal_volume_error_msg').html(error+'<a class="authVolExp" href="javascript:void(0);"> Increase your spending limits by authenticating your account.</a>');
+			showPaypalExpError();
+			
+		}
+
+    });
+	
+</script>
+
+<!-- couopn code popup for one click express checkout -->
+<div class="expPaypCouponBox" id="expPaypCouponBox" style="width:auto">
+	<table width="100%" cellspacing="0" cellpadding="0" style="position: relative;">
+      <tbody><tr>
+         <td width="49%" valign="top" align="left">
+			<span>
+				<div class="fixed-page-box-header popup-header">Coupon Redemption </div>
+				<p>&nbsp;</p>
+				<div class="coupon-frm-box">
+					<div class="couopCodeErrMsg"></div>
+					<div class="clearboth"></div>
+					<div class="coupon-input-box">
+					<label><b> Coupon Code <b></b></b></label><b><b><input type="text" id="couponCodeValue" data-pid="" name="couponCode" value="">  
+					</b></b></div><b><b>
+					<div id="couponApplybtn" class="fancy-btn" type="button">Apply</div> 
+					<div class="fancy-btn" id="paypalCouponBoxClose" type="button">Skip</div>
+					<br><br>
+				</b></b></div><b><b>
+				
+			</b></b></span><b><b>
+			<div class="clearboth"></div>
+						
+         </b></b></td>
+      </tr>      
+   </tbody></table>
+</div>
+<div id="expPaypCouponBoxOpecity" style="display:none;" class="opecityClass"></div>
+<!-- END couopn code popup for one click express checkout -->
+
+<!-- LHT #980 Start-->
+<div class="onpagetelesignapp" id="onpagetelesignapp">	
+	<table width="100%" cellspacing="0" cellpadding="0" style="position: relative;">
+		<tbody><tr>
+			<td width="49%" valign="top" align="left">
+				<div class="fixed-page-box-header popup-header">Telesign Verification</div>
+				<div id="telesign_onpage_error" style="padding:2% 35px;width: 82%; display:none;" class="streamerrMessage"></div>
+				<div class="streamprocessMessage" id="telesign_process_box" style="padding:2% 35px;width: 82%;display:none;">
+					<span>Please Wait... </span><img src="/assets/images/ajax-loader2.gif">
+				</div>
+			</td>
+		</tr>	
+		
+		<tr>
+			<td style="font-weight:bold;font-size:18px;text-align:center;padding-top:10px;" id="verifypurchase">
+				Verify your Purchase 
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" align="left">				
+				<div class="col1-frm">
+					<div class="container " style="margin-left:35px;margin-top:10px;">						
+						<div class="telesignonpagediv" id="TeleSignOnPage">
+													</div>						
+														
+					</div>
+					<div class="row" style="padding:0px 15px">							
+						<input class="btn-close" id="close_telesign_box" type="button" style="float:right;margin-right:270px;" value="">
+					</div>
+				</div>				
+			</td>
+		</tr>		
+	</tbody></table>
+</div>
+<div id="onpagetelesignOpecity" style="display:none;" class="opecityClass"></div>
+<!-- LHT #980 End---->
+
+<!-- Wait Payment Popup Start 1013 -->
+<input type="hidden" id="paywaitpopcurusepayexp" value="USD">
+<input type="hidden" id="paywaitpoptelesignneeded" value="n">
+<div id="paymentwaitpoppayexp" style="display:none;"></div>	
+<!-- Wait Payment Popup Ends -->
+
+<script type="text/javascript">
+	function callOnpageTelesignProcess() {
+		jQuery('#telesign_onpage_error').css('display','none');		
+		jQuery('#onpagetelesignapp').css('display','block');
+		jQuery('#onpagetelesignOpecity').css('width', jQuery(document).width());
+		jQuery('#onpagetelesignOpecity').css('height', jQuery(document).height() + 350);
+		jQuery('#onpagetelesignOpecity').show();
+	}//End function definition				
+	
+	jQuery('#close_telesign_box').live('click', function(e) {
+		jQuery('#onpagetelesignapp').toggle();
+		jQuery('#onpagetelesignOpecity').hide();
+			});
+
+	jQuery('#onpagetelesignapplink').live('click', function(e) {	
+		callOnpageTelesignProcess();
+	});
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1034686330;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1034686330/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 </body></html>
