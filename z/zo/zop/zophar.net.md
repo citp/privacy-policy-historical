@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107054906id_/http%3A//www.zophar.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045650id_/http%3A//www.zophar.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zophar's Domain
+
+Sponsored links:   
+
 
 Effective 08/01/2001 
 
