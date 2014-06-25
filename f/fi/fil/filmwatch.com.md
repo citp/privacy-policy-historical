@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmwatch.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824203348id_/http%3A//filmwatch.com/site/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmwatch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115327id_/http%3A//filmwatch.com/site/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | FilmWatch
 
