@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemailnotifier.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045445id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemailnotifier.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053344id_/http%3A//www.crawler.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Crawler.com - Privacy Policy
 
