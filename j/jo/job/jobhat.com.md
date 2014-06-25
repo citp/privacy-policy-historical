@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805143722id_/http%3A//www.jobhat.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135543id_/http%3A//jobhat.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -14,17 +14,17 @@ Please read this entire Policy carefully before using this Site or providing us 
 
 **Contact Us**
 
-If you have any questions about this Policy please contact us via e-mail at info@JobHat.com.
+If you have any questions about this Policy please contact us via e-mail at sites@percipiomedia.com.
 
 Electronic:  
 To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
-To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@JobHat.com  
-To express or ask questions regarding privacy concerns: send an email to info@JobHat.com 
+To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to sites@percipiomedia.com  
+To express or ask questions regarding privacy concerns: send an email to sites@percipiomedia.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+201 Broadway Street  
+Suite 7  
+Cambridge, MA 02139  
 
 
 **Registration**
@@ -91,7 +91,7 @@ Please understand that JobHat may contract with third parties to provide various
 
 We will share information provided by Users (whether or not personally identifiable) with certain third parties in our network so that they can contact you with information about the services in which you have expressed interest. In order to provide the services available to you on this Site, we may also supplement your information (whether or not personally identifiable) with information from third party sources with whom we have contracted for the purpose of verifying the contact information you have provided. You have the option not to have your information shared with third parties by not requesting these services.
 
-We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@JobHat.com.
+We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing sites@percipiomedia.com.
 
 Further, by registering on this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ). You may revoke authorization for us to contact you by such means at any time (see the Opting Out and SMS Service sections below).
 
@@ -99,7 +99,7 @@ Further, by registering on this Site, you agree that this act constitutes an inq
 
 We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will contact you either through e-mail, telephone, or postal mail.
 
-When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing info@JobHat.com.
+When it is necessary to do so, we will send you service-related announcements, primarily via e-mail. For example, if our service is temporarily suspended for maintenance, we may send you an e-mail. Generally, you may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by e-mailing sites@percipiomedia.com.
 
 **SMS Service**
 
@@ -111,7 +111,7 @@ Data obtained from you in connection with this SMS Service may include your name
 
 **Opting Out; Access to Collected Information**
 
-This Policy describes JobHat's uses of your information. If you do not agree to our uses of your personally identifiable information as we have described in this Policy, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving non-administrative e-mails from us simply by responding to the opt-out link provided on all e-mail communications from JobHat. You may review, update and delete any personal information that you have provided to us through this Site by e-mailing info@JobHat.com.
+This Policy describes JobHat's uses of your information. If you do not agree to our uses of your personally identifiable information as we have described in this Policy, you are not required to provide that information to us. In addition, if we send e-mails to you, you may opt out of receiving non-administrative e-mails from us simply by responding to the opt-out link provided on all e-mail communications from JobHat. You may review, update and delete any personal information that you have provided to us through this Site by e-mailing sites@percipiomedia.com.
 
 **Surveys & Contests**
 
