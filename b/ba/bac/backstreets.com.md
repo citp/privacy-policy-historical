@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreets.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118093734id_/http%3A//www.backstreets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreets.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121416id_/http%3A//www.backstreets.com/privacy.html) for the most accurate reproduction.*
 
 # Backstreets.com: Privacy Policy
 
@@ -84,9 +84,9 @@ This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino S
   
 ---  
   
-\- [About us](https://web.archive.org/web/20131118093734id_/http%3A//www.backstreets.com/aboutus.html)  
+\- [About us](https://web.archive.org/web/20140625121416id_/http%3A//www.backstreets.com/aboutus.html)  
 Privacy Policy  
-[\- Contact Us](https://web.archive.org/web/20131118093734id_/http%3A//www.backstreets.com/contact.html)  
+[\- Contact Us](https://web.archive.org/web/20140625121416id_/http%3A//www.backstreets.com/contact.html)  
   
 |  |  |   
 ---|---|---  
@@ -99,25 +99,25 @@ Email:  
 | 
 
 [](http://www.backstreets.com/Merchant2/merchant.mvc)**  
-****[](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=BKTALKABOUT&Category_Code=001)  
-THE ESSENTIAL INTERVIEWS  
-****From _Backstreets_ editor Chris Phillips and _Runaway Dream_ author Lou Masur, TALK ABOUT A DREAM is in stock now**
+****[](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=CSHBTRP&Category_Code=001)  
+CHANGE YOUR SHIRT  
+****New Bruce tees in stock now, including this official "Born to Run" shirt.  
+See [new shirts here](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=001),   
+and [ALL shirts here](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Category_Code=010).**
 
-Backstreet Records is the mailorder division of Backstreets, delivering Bruce Springsteen merchandise to fans for over 20 years. We carry numerous collectibles, tour shirts, books, fanzines, and imported CDs and records. **  
-****The world's best selection of Springsteen collectibles, all available by mail.**
+Backstreet Records is the mailorder division of Backstreets, delivering Springsteen merchandise to fans for more than 25 years. We carry numerous collectibles, tour shirts, books, magazines, and imported CDs and records. **  
+The world's best selection of Springsteen collectibles, all available by mail.**
 
 **[See all the new arrivals in our online shop](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=001)**
 
-[](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=110)
-
   
-[](https://web.archive.org/web/20131118093734id_/http%3A//www.backstreets.com/magcontents.html)  
-**NEW ISSUE #90  
-**The Winter 2011/12 issue of Backstreets Magazine has arrived, covering the Boss from A to Z: that's Appel to Zimny!
+[](https://web.archive.org/web/20140625121416id_/http%3A//www.backstreets.com/magcontents.html)  
+**#91 IS HERE!  
+**Our massive new issue honors a very Big Man. More than half of the 116-page, perfect bound _Backstreets_ #91 is a tribute to the life and music of... do we have to say his name?
 
 **[Full contents list  
-](https://web.archive.org/web/20131118093734id_/http%3A//www.backstreets.com/magcontents.html)**[**Subscribe now!**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=130) **  
-[Order a single copy](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=BBI90&Category_Code=110)  
+](https://web.archive.org/web/20140625121416id_/http%3A//www.backstreets.com/magcontents.html)**[**Subscribe now!**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=130) **  
+[Order a single copy](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=PROD&Product_Code=BBI91&Category_Code=110)  
 **[**Back issues**](http://www.backstreets.com/Merchant2/merchant.mvc?Screen=CTGY&Store_Code=BR&Category_Code=110)  
   
 ---
