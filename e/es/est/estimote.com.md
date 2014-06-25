@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estimote.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209090651id_/http%3A//estimote.com/estimote-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estimote.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085624id_/http%3A//estimote.com/estimote-privacy-policy.html) for the most accurate reproduction.*
 
 # Estimote - Privacy Policy
 
@@ -52,7 +52,7 @@ If You place any orders or make any payments online through the Websites, Your c
 
 Updates. If Estimote decides to make substantial and material changes or updates to the substance of the Policy, Estimote will post such changes through a prominent notice on the Website so that You will know what information we gather, how we might use that information, and to whom we will disclose it.
 
-Contact Information. Your information, documents, and other data are submitted to Estimote's servers. These servers are situated in the United States and maintained by Estimote,  whose principal place of business is 340 S Lemon Ave #1312, Walnut, CA 91789. If You have any questions or concerns regarding this Policy or believe that they have not been adhered to, please contact Estimote at this address. Estimote will use reasonable efforts to answer any questions and resolve any problems.
+Contact Information. Your information, documents, and other data are submitted to Estimote's servers. These servers are situated in the United States and maintained by Estimote,  whose principal place of business is 35 E 19th St. 3rd floor, New York, NY 10003. If You have any questions or concerns regarding this Policy or believe that they have not been adhered to, please contact Estimote at this address. Estimote will use reasonable efforts to answer any questions and resolve any problems.
 
 ##  MISCELLANEOUS
 
@@ -70,4 +70,4 @@ Page Tags and Web Beacons. The Website may utilize electronic images called page
 
 **Effective Date.** These Terms are effective as of August 1, 2012.
 
-If there are any questions regarding Estimote or this Policy, please [contact us!](https://web.archive.org/web/20131209090651id_/http%3A//estimote.com/contact-estimote.html)
+If there are any questions regarding Estimote or this Policy, please [contact us!](mailto:contact@estimote.com?subject=Privacy%20policy)
