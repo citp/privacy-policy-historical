@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmoov.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211235554id_/http%3A//www.socialmoov.com/tracking-privacy-policy-social-moov) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmoov.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115840id_/http%3A//www.socialmoov.com/tracking-privacy-policy-social-moov) for the most accurate reproduction.*
 
 # Tracking privacy policy social moov | Social Moov
 
