@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916004924id_/http%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070843id_/http%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Jane collects, uses, maintains and discloses information collected from users (each, a "User") of the [jane.com](https://web.archive.org/web/20130916004924id_/http%3A//jane.com/Home/jane.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jane.
+This Privacy Policy governs the manner in which Jane collects, uses, maintains and discloses information collected from users (each, a "User") of the [jane.com](http://www.jane.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jane.
 
 #### Personal identification information
 
@@ -63,10 +63,10 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [Jane](http://jane.com/)  
 [jane.com](http://jane.com/)  
-P.O. Box 290  
+2600 Executive Pkwy Ste. 360  
 Lehi, UT 84043  
 (801) 382-8585  
 support@jane.com  
 
 
-This document was last updated on September 10, 2013
+This document was last updated on March 31, 2014
