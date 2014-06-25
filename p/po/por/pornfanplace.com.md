@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornfanplace.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806152525id_/http%3A//www.pornfanplace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornfanplace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173354id_/http%3A//www.pornfanplace.com/privacy.html) for the most accurate reproduction.*
 
 # HD Hardcore Pictures, Free Porn Pics, Online Sex Images, Streaming Porn and Free XXX Pictures
 
