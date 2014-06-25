@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917163057id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiox.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082201id_/http%3A//hiox.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hiox.org
 
-| 
+Authenticating...
 
 Following describes privacy practices specific to Hiox.org.
 
@@ -29,7 +29,8 @@ Following describes privacy practices specific to Hiox.org.
 ### More Information
 
 Hiox.org adheres to the law of Government of India privacy principles.  
-For more information about our privacy practices write to us at:  
+For more information about our privacy practices write to us at:
+
 Hiox.org Privacy Policy  
 HIOXINDIA,  
 No.7A-F, Ganesha Complex campus,  
@@ -38,8 +39,4 @@ Singanallur,
 Coimbatore,  
 Tamilnadu, INDIA.  
 PinCode - 641005.  
-please contact us at [support@hiox.org](mailto:support@hiox.org)  
-
-
-|    
----|---|---
+please contact us at [support@hiox.org](mailto:support@hiox.org)
