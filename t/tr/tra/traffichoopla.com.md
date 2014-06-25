@@ -1,31 +1,31 @@
-> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218183951id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffichoopla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132345id_/http%3A//traffichoopla.com/policy.htm) for the most accurate reproduction.*
 
-# TrafficHoopla.com Privacy Policy
+# 
 
- | 
+| 
 
-**TrafficHoopla.com Privacy Policy**
+**TrafficHoopla Privacy Policy**
 
 This privacy policy applies to the website of TrafficHoopla.com
 
 | To contact our organization, use the following information.  
 ---  
- | TrafficHoopla.com/support  
+  | TrafficHoopla.com/support  
 TrafficHoopla.com | Carrmedia LLC  
-2140 E. Southlake Blvd. #L609  
-Southlake, TX 76092 USA  
+11625 Custer Road #110-296  
+Frisco, TX USA 75035  
   
 Because we want to demonstrate our commitment to our users' privacy,  
 we disclose all of the information we collect, why we collect it, and what we do with the it.
 
 Information is collected for the following purposes.  
 ---  
- | Completing an activity or transaction  
+  | Completing an activity or transaction  
 Website and system administration  
 Research and Development  
 The following organizations have access to the information we collect.  
 ---  
- | Ourselves  
+  | Ourselves  
   
 If you are concerned about your personal information we collect,  
 contact us using the information contained in this policy.
@@ -36,7 +36,7 @@ Our servers automatically collect logs that may record statistical information s
 
 The website collects the following types of information.  
 ---  
- | Web site issued unique identifiers  
+  | Web site issued unique identifiers  
 Purchase information  
 Current physical location information  
 Web Navigation information  
