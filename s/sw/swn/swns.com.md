@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209053446id_/http%3A//swns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103427id_/http%3A//swns.com/privacy) for the most accurate reproduction.*
 
-# Privacy | SWNS
+# Privacy : SWNS
 
 swns.com Limited (“the Company”, “swns.com”, South West News Service) is committed to ensuring that Members’ and Users’ (“you”, “your”) privacy is protected. This privacy policy explains how we intend to and will use the data we collect about you on swns.com (“the Website”), how you can instruct us if you prefer to limit the use of that data and the procedures that we have in place to safeguard your privacy. South West News Service is registered with the Information Commissioner’s Office in the United Kingdom. You should read this policy in its entirety.
 
