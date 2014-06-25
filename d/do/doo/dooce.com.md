@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooce.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119205506id_/http%3A//dooce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooce.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110625id_/http%3A//dooce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dooce®
 
