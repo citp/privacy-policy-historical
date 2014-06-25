@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231002635id_/http%3A//nbasky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nba-2k.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103830id_/http%3A//nba-2k.com/privacy) for the most accurate reproduction.*
 
-# Privacy - NBASky.com - NBA 2K14 Patches, NBA 2K14 Rosters
+# Privacy - NBA-2K.COM - NBA 2K14 Patches, NBA 2K14 Rosters
 
-## Privacy
-
-When you visit the NBASKY.COM web site ("http://nbasky.com/"), we want you to be assured that we make every effort to respect your personal and financial privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
+When you visit the NBA-2k.COM web site ("http://nba-2k.com/"), we want you to be assured that we make every effort to respect your personal and financial privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
 The purpose of this policy is to inform you on every aspect of data gathering, why we do it, how we do it and then what we do with it.
 
