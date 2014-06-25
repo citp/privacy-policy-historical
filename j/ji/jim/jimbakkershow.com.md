@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215082257id_/http%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090351id_/https%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jim Bakker Show
 
@@ -146,8 +146,3 @@ website@jimbakkershow.com
 
 Phone Number:  
 417-779-9000
-
-  * Print
-  *   *   * [](https://www.pinterest.com/pin/create/button/?url=https://jimbakkershow.com/privacy-policy/&media=https://jimbakkershow.com/wp-content/themes/jbs/images/video-archive-item.jpg&description=Pin%20on%20Pinterest)
-  * 
-
