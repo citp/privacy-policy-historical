@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pichost.me privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805214344id_/http%3A//pichost.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pichost.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102504id_/http%3A//pichost.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
