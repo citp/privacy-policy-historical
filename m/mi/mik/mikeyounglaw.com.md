@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104134754id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044514id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Lawyer - Internet Attorney - Texas Business Lawyer
+# Privacy Policy - Internet Lawyer - Internet Business Lawyer Mike Young - Internet Attorney
 
 This is the website of Internet Lawyer Mike Young’s Law Office of Michael E. Young PLLC, a Texas professional limited liability company.
 
