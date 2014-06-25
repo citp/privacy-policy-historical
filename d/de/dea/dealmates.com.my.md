@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealmates.com.my privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204174947id_/http%3A//www.dealmates.com.my/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmates.com.my privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121046id_/http%3A//www.dealmates.com.my/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,10 +79,16 @@ This Privacy Policy only addresses the use and disclosure of information we coll
  **Facebook Connect**. The Dealmates Site allows users to access Facebook Connect to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are logged into Dealmates and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses don't match, we ask you if you want to merge them and you must enter your Dealmates password to validate that they control that account. If you are already logged into Dealmates but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding you are allowing the Dealmates Site to access your information and you are agreeing to the Facebook Terms of Use in your use of Dealmates Sites. Conversely, if you are not currently registered as a Dealmates user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join Dealmates. Once you register on the Dealmates site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
 
  **Deal Mates Sdn Bhd (891933-K) (Formerly know as Virtual Accent Sdn. Bhd.)**  
-15-2 The Boulevard,
+Unit 15-01, 15th Floor
 
-59200 Mid Valley City, Kuala Lumpur
+Menara Multi-Purpose, 
+
+No. 8 Jalan Munshi Abdullah
+
+50100 Kuala Lumpur
 
 Malaysia.
 
 Email: support@dealmates.com
+
+Tel: 03 2691 8100
