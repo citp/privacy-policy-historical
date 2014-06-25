@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lenpenzo.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928015100id_/http%3A//lenpenzo.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenpenzo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090523id_/http%3A//lenpenzo.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Len Penzo dot Com
+# Privacy Policy - Len Penzo dot Com
 
 If you require any more information or have any questions about this privacy policy, please feel free to contact me by email at Len@LenPenzo.com.
 
