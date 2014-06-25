@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the copykat.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118060707id_/http%3A//www.copykat.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copykat.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010805id_/http%3A//www.copykat.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | CopyKat Recipes | Restaurant Recipes
+# Privacy Statement
 
 Privacy Policy  
 At CopyKat.com, we respect the privacy of the viewers who visit our communities and share their personal information with us. So we’ve designed our site and programs with their privacy in mind. Our Privacy Policy describes how we obtain, use and disclose non-public personal information about our viewers to our select marketing partners. You will be subject to the terms of this Policy if you register with us or use any of our services.  
@@ -34,3 +34,5 @@ Your Consent
 By using our Web site, you consent to the collection and use of this information by CopyKat.com. If we decide to change our privacy policy, we will post the revised policy on this page so that you are always aware of any changes.  
 Disclaimer  
 Please be aware that no data transmitted over the Internet is guaranteed to be 100% secure. Thus, we cannot ensure or warrant the security of any information you transmit to us or information that is transmitted to you from our products, services or partners. Sometimes the information you disclose can be collected and used by others. If you post personal information that is accessible to the public, you may receive unsolicited messages from other parties in return.
+
+[](http://www.sverve.com/profile/Stephanie-Manley-ODg0MA==)
