@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightideas.co privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529150105id_/http%3A//brightideas.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightideas.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081737id_/http%3A//brightideas.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Bright Ideas Podcast | Content Marketing | Marketing Automation
+# Privacy Policy - BrightIdeas.co | The Blog of Trent Dyrsmid | Content Marketing | Marketing Automation
 
 This privacy policy sets out how BrightIdeas.co uses and protects any information that you give BrightIdeas.co when you use this website.
 
