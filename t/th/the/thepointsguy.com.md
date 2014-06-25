@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223080925id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052713id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Your California Privacy Rights | The Points Guy
+
+This post contains references to products from one or more of our advertisers. We may receive compensation when you click on links to those products. For an explanation of our Advertising Policy, [visit this page](http://thepointsguy.com/tpg-advertising-policy/).
 
 PRIVACY POLICY / YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -401,8 +403,9 @@ information to third parties for direct marketing purposes. Such requests must b
 info@thepointsguy.com or in writing at:
 
 The Points Guy  
-650 West Ave  
-Miami Beach, Florida 33139, USA
+1815 Purdy Ave  
+Miami Beach Fl  
+33139
 
 California privacy rights requests must include the reference “Request for California Privacy Information”  
 on the subject line and in the body of the message and must include the email address or mailing  
@@ -410,4 +413,4 @@ address, as applicable, for us to send our response. This request may be made no
 per calendar year. We reserve the right not to respond to requests submitted other than to the address  
 specified above.
 
-Disclaimer: This content is not provided or commissioned by the credit card issuer. Opinions expressed here are author.s alone, not those of the credit card issuer, and have not been reviewed, approved or otherwise endorsed by the credit card issuer. This site may be compensated through the credit card issuer Affiliate Program.
+[](https://app.thepointsguy.com/maximizer?utm_source=tpg&utm_medium=referral&utm_content=blog_banner&utm_campaign=maximizer)
