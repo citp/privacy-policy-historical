@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211084145id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013920id_/http%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Saylor.org – Free Online Courses Built by Professors
+# Privacy Policy « Saylor Academy
 
-_The Saylor Foundation (the Foundation) collects limited personally identifiable information from you solely to allow you to get the optimal benefit of our content as described in the “How We Use Your User Information” section below. We will not sell your personally identifiable information.  We will not intentionally share your information with anyone you do not authorize us to and we will only share the information we collect from you as described in the section below entitled “How We Share Your User Information.”_
+_The Saylor Academy (the Academy) collects limited personally identifiable information from you solely to allow you to get the optimal benefit of our content as described in the “How We Use Your User Information” section below. We will not sell your personally identifiable information.  We will not intentionally share your information with anyone you do not authorize us to and we will only share the information we collect from you as described in the section below entitled “How We Share Your User Information.”_
 
-We at the Foundation respect your privacy and value the relationship we have with you. This Privacy Policy is designed to show you what information we collect when you visit and interact with our website [http://www.saylor.org](http://www.saylor.org/) and our various sub-domains, such as [http://school.saylor.org](http://school.saylor.org/).  As noted below, your use of third party websites, such as Facebook, that we may link to or that allow you to sign in to Foundation controlled sites is subject to the third party sites’ privacy and use policies, which we strongly recommend you review before you start using them in connection with Foundation controlled sites.  We do not control and are not responsible for how any third party, such as Facebook and Google, processes your information.   This Privacy Policy should be read in conjunction with our Terms of Use, which govern your use of Foundation controlled websites, including a prohibition against anyone under 13 years of age from using the covered sites.
+We at the Academy respect your privacy and value the relationship we have with you. This Privacy Policy is designed to show you what information we collect when you visit and interact with our website [http://www.saylor.org](http://www.saylor.org/) and our various sub-domains, such as [http://school.saylor.org](http://school.saylor.org/).  As noted below, your use of third party websites, such as Facebook, that we may link to or that allow you to sign in to Academy controlled sites is subject to the third party sites’ privacy and use policies, which we strongly recommend you review before you start using them in connection with Academy controlled sites.  We do not control and are not responsible for how any third party, such as Facebook and Google, processes your information.   This Privacy Policy should be read in conjunction with our Terms of Use, which govern your use of Academy controlled websites, including a prohibition against anyone under 13 years of age from using the covered sites.
 
 **Information We Collect About You**
 
-The Foundation provides you with the ability to view and share educational content, create and view communications among users, and share your completed course and related information to users and third parties.  In order to facilitate these processes, the Foundation may collect personal information and content that you provide.   Additionally, when you use Facebook to access and interact with Foundation controlled sites, we may collect Facebook Information you have made visible to “Everyone” on Facebook as well as the information Facebook designates as your publicly available information.
+The Academy provides you with the ability to view and share educational content, create and view communications among users, and share your completed course and related information to users and third parties.  In order to facilitate these processes, the Academy may collect personal information and content that you provide.   Additionally, when you use Facebook to access and interact with Academy controlled sites, we may collect Facebook Information you have made visible to “Everyone” on Facebook as well as the information Facebook designates as your publicly available information.
 
 **Google Analytics**
 
-To help facilitate the delivery of relevant content, the Foundation utilizes “Google Analytics” to identify how users engage with our website.   Google provides a complete privacy policy and instructions on opting out of Google Analytics here:
+To help facilitate the delivery of relevant content, the Academy utilizes “Google Analytics” to identify how users engage with our website.   Google provides a complete privacy policy and instructions on opting out of Google Analytics here:
 
 <http://www.google.com/intl/en/analytics/privacyoverview.html>
 
 **How We Use Your User Information**
 
-The Foundation will only use your User Information for the following purposes:
+The Academy will only use your User Information for the following purposes:
 
   * to provide technical support and to respond to your inquiries
   * to communicate about new features
@@ -33,7 +33,7 @@ We will not sell your personally identifiable User Information to anyone. You ma
 
 **How We Share Your User Information**
 
-In general, it is not the Foundation’s practice to disclose personal information to third parties. However, we may share your User Information in the following cases:
+In general, it is not the Academy practice to disclose personal information to third parties. However, we may share your User Information in the following cases:
 
   * With Your Consent:  We may share your User Information with other third parties with your consent.
   * As Required by Law: We may disclose any User Information we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request.
@@ -41,7 +41,7 @@ In general, it is not the Foundation’s practice to disclose personal informati
 
 
 
-We will not intentionally provide personally identifiable User Information to third parties for their use in marketing their products or services to you, but we do not control and are not responsible for third party sites used to access Foundation controlled sites, such as Facebook, or their use of content and information they collect.
+We will not intentionally provide personally identifiable User Information to third parties for their use in marketing their products or services to you, but we do not control and are not responsible for third party sites used to access Academy controlled sites, such as Facebook, or their use of content and information they collect.
 
 While we cannot guarantee that no accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use of your information will occur, we will take reasonable steps to prevent any such occurrences.
 
@@ -51,6 +51,6 @@ This Privacy Policy may be updated periodically and without prior notice to you 
 
 **How to Contact Us**
 
-If you have any questions or comments about this Privacy Policy, please contact us by email at contact@saylor.org or telephone at 202-333-4005. You also may write to us at The Saylor Foundation, 1000 Wisconsin Avenue NW, Suite 220, Washington DC 20007.  Questions or comments submitted through other means, such as Wall posts, may not be received or addressed.
+If you have any questions or comments about this Privacy Policy, please contact us by email at contact@saylor.org or telephone at 202-333-4005. You also may write to us at The Saylor Academy, 1000 Wisconsin Avenue NW, Suite 220, Washington DC 20007.  Questions or comments submitted through other means, such as Wall posts, may not be received or addressed.
 
 **This Privacy Policy is Effective as of January 2012.**
