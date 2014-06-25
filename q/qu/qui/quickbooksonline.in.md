@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923212636id_/http%3A//www.quickbooks.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055616id_/http%3A//www.quickbooks.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit QuickBooks® India
 
@@ -10,25 +10,25 @@ The following Intuit businesses and processes adhere to the **US Safe Harbor Pri
 
 **Information we collect** Click here for more information 
 
-  * We collect personal information such as your name, shipping/billing address, e–mail, phone, and credit card number when you interact with us for sales, service, support, registration and payment. 
-  * We may collect and store sensitive information such as account and purchase information on your behalf as part of the services provided to you. 
+  * We collect personal information such as your name, shipping/billing address, e–mail, phone, and credit card number when you interact with us for sales, service, support, registration and payment.
+  * We may collect and store sensitive information such as account and purchase information on your behalf as part of the services provided to you.
   * We collect personal information to deliver or allow access to our products and services.
-  * We collect information about your system as it interacts with us such as your IP address and browser information. 
-  * We use common internet technologies, such as cookies and Web beacons to manage our Web sites and services, advertising and e–mail programs. 
+  * We collect information about your system as it interacts with us such as your IP address and browser information.
+  * We use common internet technologies, such as cookies and Web beacons to manage our Web sites and services, advertising and e–mail programs.
   * We collect user feedback, community discussions, chats and other interactions at our sites.
   * We may obtain additional information about you, such as demographic information, from commercially available sources.
 
 
 
 **Protecting your Information:**  
-Intuit works to protect your personal information from loss, misuse, or unauthorized alteration by using industry–recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable laws and federal standards. We use both internal and external resources to review our security procedures. Your sensitive information, such as credit card information, is encrypted when it is transmitted to us. Our employees are trained and required to safeguard your information. Click here for more information.
+Intuit works to protect your personal information from loss, misuse, or unauthorized alteration by using industry–recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable laws and federal standards. We use both internal and external resources to review our security procedures. Your sensitive information, such as credit card information, is encrypted when it is transmitted to us. Our employees are trained and required to safeguard your information. Click here for more information. 
 
 **Uses**  
-Click here for more information.
+Click here for more information. 
 
-  * We do not sell or rent your personal information with anyone for promotional or marketing purposes. 
-  * We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent. 
-  * We use your personal or financial information to provide you with information and services you request, to tell you about other products and services, and to give you a customized interactive experience as you use our products. 
+  * We do not sell or rent your personal information with anyone for promotional or marketing purposes.
+  * We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent.
+  * We use your personal or financial information to provide you with information and services you request, to tell you about other products and services, and to give you a customized interactive experience as you use our products.
   * We also use the information for support, to develop new features, and to improve the overall quality of Intuit’s products and services.
   * We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to provide you with a better user experience.
   * We may summarize information about you, in a way that does not identify you personally, and combine it with other information to understand how our products are used, to deliver products and services and to help us develop new products and services.
@@ -45,7 +45,7 @@ Or write to us at:
 Privacy Team  
 Intuit Inc,  
 2800 East Commerce Center Place,  
-Tucson, AZ 85706
+Tucson, AZ 85706 
 
 [](http://smallbusiness.intuit.com/small-business/privacy/index.jsp#privacyStatement) Intuit has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address posted above. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
@@ -57,9 +57,9 @@ At Intuit, we value our relationship with you and place the highest importance o
 
 Some Intuit financial products require you to register your purchase. During the registration process we ask for your name, business address and phone number, e–mail address and company name. If you register online, your software license and version information may be sent to Intuit automatically. We may also ask you to answer some optional questions about yourself and your business and how you use the product. We may obtain additional information about you, such as address change information, from commercially available sources, in order to keep our records current. 
 
-When purchasing some financial services, such as payroll or payments processing, we may also ask for company financial information, social security number, Federal Employer Identification Number, employee information and other information necessary to process the service application or fulfill the service. We may use this information to verify your identity and creditworthiness. If you are signing up for a financial service from within your software, we may prefill some information from your software to assist you in the application process. When you sign up for additional financial services, we may use previous application information to determine if you qualify for other services. You will be able to change or update information on the application prior to submitting. We may also use this information to assist you in filling out other applications for financial services. 
+When purchasing some financial services, such as payroll or payments processing, we may also ask for company financial information, social security number, Federal Employer Identification Number, employee information and other information necessary to process the service application or fulfill the service. We may use this information to verify your identity and creditworthiness. If you are signing up for a financial service from within your software, we may prefill some information from your software to assist you in the application process. When you sign up for additional financial services, we may use previous application information to determine if you qualify for other services. You will be able to change or update information on the application prior to submitting. We may also use this information to assist you in filling out other applications for financial services.
 
-You may use Intuit ProLine tax preparation products and services to assist you with the preparation and electronic filing of tax returns. "Tax return information" is information that taxpayers provide in order to prepare a tax return using an Intuit ProLine tax product. The use and disclosure of tax return information is governed by Section 7216 of the Internal Revenue Code and many state codes and regulations. Intuit discloses or uses tax return information only in accordance with applicable laws, to prepare, assist in preparing, or obtain or provide services in connection with preparing tax returns. 
+You may use Intuit ProLine tax preparation products and services to assist you with the preparation and electronic filing of tax returns. "Tax return information" is information that taxpayers provide in order to prepare a tax return using an Intuit ProLine tax product. The use and disclosure of tax return information is governed by Section 7216 of the Internal Revenue Code and many state codes and regulations. Intuit discloses or uses tax return information only in accordance with applicable laws, to prepare, assist in preparing, or obtain or provide services in connection with preparing tax returns.
 
 **Disclosing Your Data**  
 Intuit may also transfer personal data to Intuit–affiliated companies in other countries. These may be outside the European Economic Area and may not have adequate laws that protect the rights and freedoms of data subjects in relation to the processing of personal data. Where this is done, Intuit shall take necessary steps to adequately protect the information transferred. **BY SUPPLYING PERSONAL DATA TO INTUIT, YOU CONSENT TO ANY SUCH TRANSFER.**
@@ -69,7 +69,7 @@ When using Intuit mobile applications and services, we may collect personal info
 
 Your mobile service provider may be required to monitor your messages for inappropriate content, and that provider may pass on that monitoring obligation to Intuit. To fulfill these requirements, Intuit may monitor your mobile messages for inappropriate content.   
 If you sign up for an Intuit mobile messaging service through which you have the ability to send mobile messages to other individuals or businesses, you are required to follow all applicable laws, including unsolicited communication laws.   
-If you sign up for a third–party application or service, we may share information about your mobile device in order to provide the service you requested. Your carrier may have access to information we collect. We suggest that you review your carrier's privacy statement and the privacy statements for any third–party applications or services you use.
+If you sign up for a third–party application or service, we may share information about your mobile device in order to provide the service you requested. Your carrier may have access to information we collect. We suggest that you review your carrier's privacy statement and the privacy statements for any third–party applications or services you use. 
 
 **HOW WE USE INFORMATION**  
 To provide Web Based, Web Connected and Financial Services  
