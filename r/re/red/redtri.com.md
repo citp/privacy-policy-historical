@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216044538id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061140id_/http%3A//redtri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,6 +100,6 @@ This website is intended for users from the United States of America only. All m
 
 **Contact Information**
 
-  * We are very sensitive to your privacy concerns and welcome your feedback.  Please contact our Customer Service Team at admin@redtri.com if you have any questions or comments about our privacy policy.
+  * We are very sensitive to your privacy concerns and welcome your feedback.  Please contact our Customer Service Team at admin@redtri.com via email or at [415.729.9781](tel:415.729.9781) via phone if you have any questions or comments about our privacy policy.
 
 
