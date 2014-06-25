@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205181437id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113423id_/http%3A//ipaddress.com/privacy.html) for the most accurate reproduction.*
 
 # IPAddress.com Privacy Policy | IPAddress Security Policy | IPAddress.com
 
@@ -27,4 +27,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Email: 
 
-Permalink for this site: 
+[](http://ipaddress.com/verify-email-address/)
+
+Bookmark This Page: 
