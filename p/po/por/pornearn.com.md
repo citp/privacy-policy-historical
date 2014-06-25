@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pornearn.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235148id_/http%3A//pornearn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornearn.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105947id_/http%3A//pornearn.com/privacy.php) for the most accurate reproduction.*
 
-# Porn Earn - Shorten xxx links and make money!
+# Porn Earn - Adult Advertising Network, Shorten XXX Links, Blind Clicks, Pop Ups, Adult Ad Aggregator!
 
-_This statement was last updated February 26, 2011._
+_This statement was last updated May 23, 2014._
 
-The term 'porn earn' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
+The term 'Porn Earn' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
 
 We at Porn Earn respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts. 
 
@@ -14,7 +14,7 @@ This Privacy Policy is updated from time to time; therefore, it should be review
 
 [For the purpose of the Data Protection Act 1998, Porn Earn is our data controller.] 
 
-**1\. Collected Information**
+1\. Collected Information 
 
 Data can be collected and processed during the operations of our website. The following are ways we may perform these actions: 
 
@@ -24,7 +24,7 @@ Data can be collected and processed during the operations of our website. The fo
 
 1.3 If for any reason you communicate with our personnel or site we may collect information. 
 
-**2\. Cookie Usage**
+2\. Cookie Usage 
 
 There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers. 
 
@@ -36,7 +36,7 @@ Your browser has the ability to decline cookies. This is done by setting your br
 
 Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website. 
 
-**3\. Our Use of Your Information**
+3\. Our Use of Your Information 
 
 Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data: 
 
@@ -56,7 +56,7 @@ Information stored or collected regarding you helps us improve and offer service
 
 3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors. 
 
-**4\. Personal Data Storage**
+4\. Personal Data Storage 
 
 4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy. 
 
@@ -64,7 +64,7 @@ Information stored or collected regarding you helps us improve and offer service
 
 4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality. 
 
-**5\. Information Disclosure**
+5\. Information Disclosure 
 
 5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable. 
 
@@ -76,14 +76,14 @@ Information stored or collected regarding you helps us improve and offer service
 
 5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information. 
 
-**6\. Third Party Links**
+6\. Third Party Links 
 
 Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
 
-**7\. Information Accessibility**
+7\. Information Accessibility 
 
 We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of ?10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request. 
 
-**8\. Contacting Us**
+8\. Contacting Us 
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20131231235148id_/http%3A//pornearn.com/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20140625105947id_/http%3A//pornearn.com/contact.php). 
