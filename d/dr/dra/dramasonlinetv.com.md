@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramasonlinetv.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108213545id_/http%3A//dramasonlinetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramasonlinetv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133650id_/http%3A//dramasonlinetv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch TV Dramas Online
 
