@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030053435id_/http%3A//www.scorespro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234543id_/http%3A//www.scorespro.com/privacy) for the most accurate reproduction.*
 
 # Live Score service (powered by ScoresPro.com) - Privacy Policy
 
@@ -48,7 +48,7 @@ We may or may not also use cookies to enhance your experience on our website (pe
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
-Read more about our [**Cookies Policy**](https://web.archive.org/web/20131030053435id_/http://www.scorespro.com/privacy/cookies/)
+Read more about our [**Cookies Policy**](https://web.archive.org/web/20140625234543id_/http://www.scorespro.com/privacy/cookies/)
 
   * **Your Consent**
 By using ScoresPro.com (website), you consent to our collection and use of your non personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. 
