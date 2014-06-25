@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buddydev.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102090934id_/http%3A//buddydev.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddydev.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090333id_/http%3A//buddydev.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buddy Dev
 
@@ -45,7 +45,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by logging in to your profile. 
+You can access all your personally identifiable information that we collect online and maintain by logging in to your profile.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error if you are unable to update it yourself.
 
