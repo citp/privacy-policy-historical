@@ -1,31 +1,13 @@
-> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425214345id_/http%3A//www.abhibus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113643id_/http%3A//www.abhibus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at AbhiBus.com
 
-That's why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the information of those using the Abhibus website. Information that can be linked to a specific individual, such as name, address, telephone number, e-mail address and credit card number are protected.
+We at AbhiBus, value the relationship we have with our customers and web site visitors, and are committed to responsible information and handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site.
 
-We encourage you to review our Privacy Policy, and become familiar with it, but you should know that we do not sell or rent our customers' personal information to third parties.
+By accessing this Site, certain information about you, such as Internet protocol (IP) addresses, navigation through the Site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers or 3rd party servers like Google Analytics. Such stored information may not specifically identify you. Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate.
 
-This Privacy Policy explains the following: 
+If you provide unique identifying information, such as name, address and other information to us, such information may be used for statistical and/or other purposes. Any personally identifiable information you submit while booking with AbhiBus.com, will ONLY be disclosed to travel suppliers/operators who are linked to your bookings. We will not disclose, sell, share or in any way reveal your information to any other third party.
 
-What personal information does Abhibus gather from me and how is this information used?
+AbhiBus may use your personal contact information like Email, Mobile number to contact, alert information about your travel or any offers from AbhiBus or partners. 
 
-When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site.
-
-Making a Purchase ?
-
-In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.
-
-With whom (if anyone) will my personal information be shared?
-
-When you reserve or purchase travel services through Abhibus, we provide to the bus travels, in future to hotel, car-rental agency, travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements.
-
-What safeguards are in place to protect the loss, misuse or alteration of your information?
-
-All personal information you provide to Abhibus is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on Abhibus, you are protected. 
-
-What other information should I know about my privacy?
-
-Abhibus contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which Abhibus has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, Abhibus may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority.
-
-**Thank you for Choosing Us.**
+We want you to feel confident about using AbhiBus.com to plan and purchase your bus tickets, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies.
