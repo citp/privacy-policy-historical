@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kmarked.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121135509id_/http%3A//www.kmarked.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmarked.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055023id_/http%3A//kmarked.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - kMarked Article Directory
+# Privacy Policy - KMARKED
 
 * kMarked.com respects the privacy of its users and does not collect any personally identifiable user information without prior notice. Web statistics are the sole and private property of kMarked.com and are only used for troubleshooting purposes.
 
