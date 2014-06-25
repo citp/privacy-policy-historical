@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216003937id_/http%3A//www.etronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104841id_/http%3A//www.etronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,15 +25,6 @@ We have an affiliate program through Rakuten that allows other websites to earn 
 When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. The data we collect from you is protected against unauthorized access. We have very strict policies 
 
 Under all circumstances, including, without limitation, negligence and strict product liability, your use of this site and the third party sites is solely at your own risk. Etronics shall not be responsible for any direct, indirect, consequential, special, punitive or other damages (whether liability is asserted in contract, tort or otherwise), costs or expenses, including, without limitation, lost profits, data, loss of good-will, loss of or damage to property or claims of third parties, arising out of, in connection with, or relating to your use of this site or any third party site. Should you be dissatisfied with this site or the content hereof or a third party site and the content thereof, your sole and exclusive remedy is to discontinue use of this site or such third party site. To the extent permitted by applicable law, the foregoing remedy shall apply even if Etronics knew or should have known of the possibility of damages to you by use of this site or a third party site.
-
-### Copyrighted Material - Alleged Infringement
-
-In accordance with Title 17 U.S.C. 512, as amended by Title II of the Digital Millennium Copyright Act, Etronics has implemented procedures for the removal of material that is copyright protected and infringed upon. If you believe that a copyright has been infringed upon, please provide Etronics with written, signed notification by certified mail to "Copyright Officer" at the address set forth for contacting this site below. Your notification must include:   
-(i) identification of the copyrighted material claimed to have been infringed upon;   
-(ii) information as to the location of the alleged infringed upon material sufficient to enable Etronics to locate such material;   
-(iii) information sufficient to enable Etronics to contact the owner of such copyrighted material;   
-(iv) a statement that the use of the material is not authorized or permitted by the owner of such material; and   
-(v) a statement that the information contained in the notification is certified as true under the penalties of perjury. Notification that fails to comply with the foregoing will not constitute knowledge or awareness of infringement.
 
 ### Contacting the WebSite
 
