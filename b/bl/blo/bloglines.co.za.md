@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812170227id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045923id_/http%3A//bloglines.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlogLines Africa
 
@@ -21,3 +21,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to [support@bloglines.co.za](mailto:support@bloglines.co.za "Click to Email Us") for further clarification.
+
+## Blogging Network in Africa
