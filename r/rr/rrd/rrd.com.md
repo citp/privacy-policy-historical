@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110350id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071715id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Polices & Legal Notice | RR Donnelley
 
@@ -15,11 +15,7 @@ Our privacy policy explains:
 
 
 **Information We Collect & Share**  
-RR Donnelley may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) 
-
-_which you voluntarily provide_
-
-through forms on our Site, through electronic mail you send to us, or through other means of communication between you and RR Donnelley. 
+RR Donnelley may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) _which you voluntarily provide_ through forms on our Site, through electronic mail you send to us, or through other means of communication between you and RR Donnelley. 
 
 RR Donnelley only collects personal information of a more sensitive nature e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. RR Donnelley may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. 
 
@@ -53,7 +49,7 @@ No method of transmission over the Internet, or method of electronic storage, ca
 RR Donnelley regularly reviews our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly. 
 
 **Compliance**  
-RR Donnelley adheres to US and other international regulations such as PIPEDA, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/ED) Directives (as transposed into national law), and the EU Safe Harbor Privacy Principles published by the US Department of Commerce ("Safe Harbor"), detailed below.
+RR Donnelley adheres to US and other international regulations such as PIPEDA, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/EC) Directives (as transposed into national law), and the EU Safe Harbor Privacy Principles published by the US Department of Commerce ("Safe Harbor"), detailed below.
 
 **PIPEDA (Canada)**  
 RR Donnelley recognizes and has controls in place to ensure that the privacy of personal information about an "identifiable individual" used in the course of "commercial activity" is protected and managed in such a manner which meets or exceeds the guidelines set out in PIPEDA and applicable provincial legislation.
