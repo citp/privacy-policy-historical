@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003303id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmob.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011148id_/http%3A//www.travelmob.com/pages/policies) for the most accurate reproduction.*
 
-# Vacation rentals, short term rentals, villas and apartments - travelmob
+# travelmob: Vacation Rentals, Apartments, Villas & More
 
 1
 
@@ -12,7 +12,7 @@ This is the privacy policy ( **Privacy Policy** ) of travelmob Pte Ltd ( **trave
 
 3
 
-This Privacy Policy may be amended from time to time. Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service ([www.travelmob.com/pages/policies)](https://web.archive.org/pages/policies). 
+This Privacy Policy may be amended from time to time. Your continued use or other dealing with the Site is deemed to be acceptance of the Privacy Policy, as amended from time to time. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the meanings given to them in our prevailing Terms of Service ([www.travelmob.com/pages/terms)](https://web.archive.org/pages/terms). 
 
 4
 
@@ -24,7 +24,7 @@ Your information may be transferred to and maintained on computers located outsi
 
 6
 
-We collect information for the Service. 
+We collect information for the Service.
 
 7
 
@@ -32,11 +32,13 @@ We use your Personal Information to provide the Service and administer your inqu
 
 8
 
-We collect Personal Information when you register for the Service. 
+We collect Personal Information when you register for the Service.
 
 9
 
-You can register by logging into online accounts have with third party service providers, including Facebook ( **SNS** , and each SNS account, a **Third Party Account** ), via our Site. You may link your Account with Third Party Accounts, by providing your Third Party Account login information to travelmob through the Service or by allowing travelmob to access your Third Party Account. If you register by logging into a Third Party Account via our Site, we will obtain the Personal Information you provide to the applicable SNS (including your legal name, email address, profile picture, names of your SNS friends, names of your SNS groups, other information you make publicly available and other information you authorize travelmob to access) from your Third Party Accounts. We will use that information to create your travelmob Account and travelmob Account profile page and you will become a Member. By granting us access to the Third Party Accounts, we will access, make available and store (if applicable, as permitted by the SNS and authorized by you) the information in your Third Party Accounts so that it is available on your travelmob Account on the Site and Service. This information may include your friends, likes and other associations. You warrant that our access and dealing with your SNS and Third Party Account as described in this clause are permitted by the applicable SNS or Third Party Account terms of use. You warrant you may disclose your SNS and Third Party Account login and other information to travelmob and grant travelmob access to your SNS and Third Party Account. You indemnify and hold us harmless from all reasonable costs, expenses, damages, liability and losses that we may suffer or incur arising out of or in connection with your breach of these warranties, to the extent not caused by our own negligence or default. 
+You can register by logging into online accounts have with third party service providers, including Facebook ( **SNS** , and each SNS account, a **Third Party Account** ), via our Site. You may link your Account with Third Party Accounts, by providing your Third Party Account login information to travelmob through the Service or by allowing travelmob to access your Third Party Account. If you register by logging into a Third Party Account via our Site, we will obtain the Personal Information you provide to the applicable SNS (including your legal name, email address, profile picture, names of your SNS friends, names of your SNS groups, other information you make publicly available and other information you authorize travelmob to access) from your Third Party Accounts. We will use that information to create your travelmob Account and travelmob Account profile page and you will become a Member. By granting us access to the Third Party Accounts, we will access, make available and store (if applicable, as permitted by the SNS and authorized by you) the information in your Third Party Accounts so that it is available on your travelmob Account on the Site and Service. This information may include your friends, likes and other associations. 
+
+You warrant that our access and dealing with your SNS and Third Party Account as described in this clause are permitted by the applicable SNS or Third Party Account terms of use. You warrant you may disclose your SNS and Third Party Account login and other information to travelmob and grant travelmob access to your SNS and Third Party Account. You indemnify and hold us harmless from all reasonable costs, expenses, damages, liability and losses that we may suffer or incur arising out of or in connection with your breach of these warranties, to the extent not caused by our own negligence or default. 
 
 10
 
@@ -144,4 +146,4 @@ The Site is not directed to individuals under 18. We do not knowingly collect in
 
 37
 
-This Privacy Policy is governed by Singapore law. The parties submit to the non-exclusive jurisdiction of the Singapore courts. 
+This Privacy Policy is governed by Singapore law. The parties submit to the non-exclusive jurisdiction of the Singapore courts.
