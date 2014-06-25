@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepma.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209160602id_/http%3A//thepma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepma.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140425id_/http%3A//thepma.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PMA
 
 #### Disclosures
 
