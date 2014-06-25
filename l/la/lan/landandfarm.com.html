@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the landandfarm.com privacy policy that was archived on 2013-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210053404id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landandfarm.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625144440id_/http%3A//www.landandfarm.com/about/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>
@@ -42,21 +42,48 @@
     <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
 	<script src="http://code.jquery.com/jquery-migrate-1.0.0.js" type="text/javascript"></script>
     <script type="text/javascript">
-	    var lnfbase = 'http://www.landandfarm.com'; //'http://www.landandfarm.com';
-	    var lnfbasemobile = 'http://m.landandfarm.com/m';
+        var lnfbase = 'http://www.landandfarm.com'; //'http://www.landandfarm.com';
+        var lnfbasemobile = 'http://m.landandfarm.com/m';
+        var lnfcookiedomain = '.landandfarm.com';
     </script>
     
     <script src="/scripts/jquery-plugins/jquery.address-1.5.min.js?tracker=null" type="text/javascript"></script>
+    <script type="text/javascript">
+        var RefineSearch;
+        $(document).ready(function() {
+            RefineSearch = new RefineSearchPrototype();
+        });
+    </script>
     
 
     
 <!--[if lt IE 9]>
 <script type="text/javascript" src="/scripts/DD-min.js"></script>
 <script type="text/javascript">
-	DD_roundies.addRule('.search-bar', '4px');
+    DD_roundies.addRule('.search-bar', '4px');
 </script>
 <![endif]-->
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        if (RefineSearch == null)
+            RefineSearch = new RefineSearchPrototype();
+        
+        SavedSearches.InitializeSavedSearches(false,
+            0);
+
+        var recentsearchli = SavedSearches.recentSearchesAsLiElements();
+
+        if (recentsearchli.length > 0) {
+            $('.SavedSearchesMenu').append(recentsearchli);
+            $('.SavedSearchesDropdown').show();
+		    
+        }
+		
+        
+	    
+    });
+</script>
 
 </head>
 <body>
@@ -70,8 +97,8 @@
 		<div class="nav clearfix">
 			<ul class="nav-primary">
 				<li class="home"><a href="http://www.landandfarm.com/" title="Home">Home</a></li>
-				<li class="all-land"><a href="http://www.landandfarm.com/SearchForm/" title="Search Land for Sale">Search Land for Sale</a></li>
-				<li class="my-land"><a href="http://www.landandfarm.com/lf/aspclient/myproperties.asp" title="My Properties">My Properties</a></li>
+				<li class="all-land"><a href="http://www.landandfarm.com/searchform/" title="Search Land for Sale">Search Land for Sale</a></li>
+				<li class="my-land"><a href="http://www.landandfarm.com/lf/aspclient/myproperties_classic.asp" title="My Properties">My Properties</a></li>
                    <li class="my-land" style="display:none;">
                 <nav class="SavedSearchesDropdown" style="display:none;">
                     <a href="javascript:void();" title="Search" id="recent">Saved Searches ▼</a>
@@ -87,9 +114,8 @@
 			</ul>
 			<ul class="nav-secondary clearfix">
 				
-					<li class="register"><a href="http://www.landandfarm.com/register/" title="Register">Register</a></li>
+					<li class="register" style="border-left: none;"><a href="http://www.landandfarm.com/register/" title="Register">Register</a></li>
 				
-				<li class="contact"><a href="http://www.landandfarm.com/contact/contactus/" title="Contact Us">Contact Us</a></li>
 				<li class="help"><a href="http://www.landandfarm.com/about/help/" title="Help">Help</a></li>
 				
     				<li class="sign-in"><a href="http://www.landandfarm.com/Registration/RegisterOrLogin" title="Sign In">Sign In</a></li>
@@ -111,7 +137,7 @@
     </div>
 
 
-    <div class="searchBar clearfix">
+<div class="searchBar clearfix">
         <div class="searchCap"><!-- --></div>
 		<div class="searchCorner"><!-- --></div>
 
@@ -135,7 +161,7 @@
 					<li><a href="#" onmousedown="QuickSearch.selectDistance(250);" title="250 Miles">250 miles of location</a></li>
 				</ul>
 			</div>
-			<a href="http://www.landandfarm.com/SearchForm/" title="Advanced Search" class="searchAdvanced">Advanced Search</a>
+			<a href="http://www.landandfarm.com/search/all-land/?CurrentPage=1&amp;ShowOpen=true" title="Advanced Search" class="searchAdvanced">Advanced Search</a>
 		</div>
     </div>
 	
@@ -222,7 +248,7 @@ LandAndFarm reserves the right to modify this privacy statement at any time, so 
 
 	<div class="footer">
 		<ul class="clearfix">
-			<li><a href="http://www.landandfarm.com/SearchForm/" title="Search Land for Sale">Search Land for Sale</a></li>
+			<li><a href="http://www.landandfarm.com/search/all-land/" title="Search Land for Sale">Search Land for Sale</a></li>
 			<li><a href="http://www.landandfarm.com/about/pricing/" title="Advertise Land for Sale">Advertise Land for Sale</a></li>
             <li><a href="http://www.landandfarm.com/AdvertiseYourBusiness/" title="Advertise Your Business">Advertise Your Business</a></li>
 			<li><a href="http://www.landandfarm.com/contact/contactus/" title="Contact Us">Contact Us</a></li>
@@ -230,7 +256,7 @@ LandAndFarm reserves the right to modify this privacy statement at any time, so 
             <li><a href="http://www.landandfarm.com/about/termsandconditions/" title="Terms and Conditions">Terms and Conditions</a></li>
             <li><a href="http://www.landandfarm.com/about/Privacy/" title="Privacy Policy">Privacy Policy</a></li>
 		</ul>
-		©1998–2013 LandAndFarm.com Inc.
+		©1998–2014 LandAndFarm.com Inc.
 	</div>
     <!-- /footer -->
 
@@ -290,21 +316,6 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-228681-2']);_gaq.push(['_trackPag
     <img src="http://b.scorecardresearch.com/b?c1=2&c2=6035384&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
 </noscript>
 
-<script type="text/javascript">
-	$(document).ready(function() {
-		SavedSearches.InitializeSavedSearches(false,
-			0);
-
-		var recentsearchli = SavedSearches.recentSearchesAsLiElements();
-
-		if (recentsearchli.length > 0) {
-			$('.SavedSearchesMenu').append(recentsearchli);
-			$('.SavedSearchesDropdown').show();
-		}
-		
-		
-	});
-</script>
 
 
 <!-- LFPRODWEB01 -->
