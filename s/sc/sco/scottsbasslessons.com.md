@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scottsbasslessons.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812110701id_/http%3A//scottsbasslessons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottsbasslessons.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165521id_/http%3A//www.scottsbasslessons.com/privacy) for the most accurate reproduction.*
 
-# Terms & Conditions - Privacy & Delivery Policies
+# Terms & Conditions - Privacy & Delivery Policies - Online Bass Lessons
 
 **1\. INTRODUCTION**
 
@@ -16,7 +16,7 @@ If you have any questions regarding these terms, you can contact me by email (sc
 
 I may collect and process the following data about you:
 
-**On subsription:**  
+**On subscription:**  
 **What data I collect** : When you subscribe to receive my free content, only your e-mail address and IP address are collected.
 
 **Why I need this data** :  I need your email address if you wish to receive my free content and email newsletters. Your IP address is logged by my mail/newsletter provider so that I can prevent any spam, fraud or abuse of my Site and my services. I may store this data for up to two years, unless I am required, for legal reasons or under exceptional circumstances, to retain this data for an extended period of time.
@@ -63,10 +63,32 @@ The UK Data Protection Act 1998 gives you the right to access information held a
 
 **7\. DELIVERY**
 
-At the time of writing, ScottsBassLessons only caters for digital products.  We use [e-junkie](http://e-junkie.com/ "E-junkie website"), a widely-used and trusted company, to process your purchases.
+At the time of writing, ScottsBassLessons only caters for digital products.  We use PayPal, a widely-used and trusted company, to process your purchases.
 
 **8\. REFUNDS & CANCELLATION**
 
 All products come with a 7-day money-back guarantee, no questions asked. Refunds will be made to your credit/debit card or PayPal account only. As of today, ScottsBassLesson does not charge recurring payments, so cancellation is not applicable. If you are not satisfied with your purchase, you will be refunded either immediately or within a **maximum** of two weeks upon request, made during the 7-day money-back guarantee timeframe.
 
 _Updated: October 2012_
+
+[
+
+The 3 things you must know when buying a bass...
+
+](http://www.scottsbasslessons.com/scotts-backstage-bonuses-area) [
+
+Watch this mini course to fully understand the modes...
+
+](http://www.scottsbasslessons.com/scotts-backstage-bonuses-area) [
+
+Discover my top 6 secret tools for a kick-ass tone...
+
+](http://www.scottsbasslessons.com/scotts-backstage-bonuses-area) [SBL Academy](http://www.scottsbasslessons.com/sbl-insider-pro) [
+
+Check out the best lessons from my extensive library.
+
+](http://www.scottsbasslessons.com/popular-lessons) [
+
+Find out why millions of students are using this site for inspiration!
+
+](http://www.scottsbasslessons.com/about-scotts-bass-lessons)
