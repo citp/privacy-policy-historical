@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218081610id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornypharaoh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075943id_/http%3A//www.hornypharaoh.com/privacy.php) for the most accurate reproduction.*
 
-# Free Porn Movies & Sex Videos - XXX, Porn Site, Sex Chat
+# 
 
 **This document details important information regarding the use and disclosure of User Data collected on Jerk2It.com**
 
