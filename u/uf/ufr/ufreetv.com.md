@@ -1,10 +1,25 @@
-> *The following text is extracted and transformed from the ufreetv.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805175811id_/http%3A//ufreetv.com/pages/aboutcontact.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufreetv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085321id_/http%3A//ufreetv.com/pages/aboutcontact.html) for the most accurate reproduction.*
 
 # About/Contact
 
-[](http://ufreetv.com/ "UFREETV.COM")
-
 * * *
+
+WATCH LIVE STREAM TV, AMC LIVE STREAM, CW LIVE STREAM, CBS LIVE STREAM, NBC LIVE STREAM, ABC LIVE STREAM, FOX LIVE STREAM, CW LIVE STREAM, ABC FAMILY LIVE STREAM, FOXNEWS LIVE STREAM, BRAVO LIVE STREAM, UNIVISION LIVE STREAM, TELEMUNDO LIVE STREAM, ESPN LIVE STREAM, ESPN2 LIVE STREAM, CNN LIVE STREAM, MSNBC LIVE STREAM, SHOWTIME LIVE STREAM, HBO, TNT LIVE STREAM, SYFY LIVE STREAM, USA LIVE STREAM, FX LIVE STREAM, SPIKE LIVE STREAM, A&E LIVE STREAM, NATGEO LIVE STREAM, HISTORY LIVE STREAM, CNBC LIVE STREAM, DISCOVERY CHANNEL. and many more channels free online here.
+
+Note: the Live streaming  channels here on ufreetv are third party content and are not broadcast by Ufreetv. The content is freely available for embedding throughout the internet and therefore any concerns should be directed at the third-party where the content originates from.
+
+  
+[-  HOME](https://web.archive.org/web/20140625085321id_/http%3A//ufreetv.com/home.html)    -     [PRIVACY POLICY](https://web.archive.org/web/20140625085321id_/http%3A//ufreetv.com/pages/aboutcontact.html)    -    [DMCA ](https://web.archive.org/web/20140625085321id_/http%3A//ufreetv.com/pages/dmca.html)  -  
+
+In its early stages of development, LIVE STREAM television employed a combination of optical, mechanical and electronic technologies to capture, transmit and display a visual image. By the late 1920s, however, those employing only optical and electronic technologies were being explored. All modern television systems relied on the latter, although the knowledge gained from the work on electromechanical systems was crucial in the development of fully electronic television. In today's world live streaming can be seen on iPads, iPhones, Android devices such as Samsung Galaxy or Dell laptops or Ausus tablets and many other Mobile devices. 
+
+[](http://www.google.com/safebrowsing/diagnostic?site=ufreetv.com)
+
+[](http://google.com/)
+
+[](http://yahoo.com/)
+
+[](http://bing.com/)
 
 _WELCOME TO_ ** _UFREETV.COM™_** _  
 _ ** _  
@@ -12,7 +27,7 @@ _** **Here on UFREETV.COM you can read very informative posts regarding the Late
 Educational posts on Colleges and Universities and our Financial Posts where you can find very reliable data on   
 critical financial issues facing today's world and your world.   
 **_  
-For the latest post on Ufreetv please visit our[HOME](https://web.archive.org/web/20130805175811id_/http%3A//ufreetv.com/home.html) page  __Also you can sit back, relax and watchTv here with us.  
+For the latest post on Ufreetv please visit our[HOME](https://web.archive.org/web/20140625085321id_/http%3A//ufreetv.com/home.html) page  __Also you can sit back, relax and watchTv here with us.  
 There are no strings attached. No signing up, Nothing to download. Nothing to install.  
 Not many websites can say that!  
 _  
@@ -41,13 +56,12 @@ UFREETV.COM has established many links directly to sites operated by third parti
 
 UFREETV.COM contains links to third-party sites.  UFREETV.COM provides these links as a convenience and does not endorse the companies or content of any such sites. UFREETV.COM does not control and not responsible for and makes no representation and warranty and disclaims all liability with respect to any such site, any content on any such site or such site's privacy practices.
 
-For more information or to contact UFREETV.COM please send an email addressed to our: 
+Note: the Live streaming  channels here on ufreetv are third party content and are not broadcast by Ufreetv. The content is freely available for embedding throughout the internet and therefore any concerns should be directed at the third-party where the content originates from.   
+For more information or to contact UFREETV.COM please send an email addressed to 
 
 Technical Support Team   [info@ufreetv.com](mailto:info@ufreetv.com)  
--or-  
-Peter Rip, Site Operations  [info@ufreetv.com](mailto:info@ufreetv.com)
+DMCA Agent:  [copyright@ufreetv.com](mailto:copyright@ufreetv.com)
 
   
 Thank You for Visting **_UFREETV.COM™_**   
--UFREETV.COM Team  
-
+Peter Rip - Administrator
