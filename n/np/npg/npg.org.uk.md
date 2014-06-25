@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124213843id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090844id_/http%3A//www.npg.org.uk/footer/privacy-cookies.php) for the most accurate reproduction.*
 
 # National Portrait Gallery - Privacy & cookies
 
@@ -15,7 +15,7 @@ For more information on cookies and their uses, visit [www.allaboutcookies.org](
 ### Google Analytics **  
 **
 
-We use [Google Analytics](http://www.google.com/intl/en_uk/analytics/privacyoverview.html) to collect information about how our visitors use and navigate this website. We use this information to report to funders such as the [Department for Culture, Media and Sport](http://www.culture.gov.uk/) and to analyse usage of the website so that we can continually work to improve the website and your experience of it. The cookies collect information such as the number of visitors to the site, which pages they visited and whereabouts they came to the site from. This information is anonymous and cannot be used to identify you personally.
+We use [Google Analytics](http://www.google.com/analytics/) to collect information about how our visitors use and navigate this website. We use this information to report to funders such as the [Department for Culture, Media and Sport](http://www.culture.gov.uk/) and to analyse usage of the website so that we can continually work to improve the website and your experience of it. The cookies collect information such as the number of visitors to the site, which pages they visited and whereabouts they came to the site from. This information is anonymous and cannot be used to identify you personally.
 
 ### Online transactions: Shop, Membership and donations
 
@@ -50,6 +50,22 @@ During your visits to the National Portrait Gallery website you may be delivered
 ### Other websites
 
 Our website may contain links to other websites which are outside our control and are not covered by this privacy notice. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+
+### Notice and Take down Policy
+
+Please contact us in the event that you are the owner of the copyright or related rights in any of the material on this website, or in a publication or broadcast to which National Portrait Gallery has provided material from its collections, and you believe that the material may be subject to a third party ownership or another legal claim, or you believe that use of this material infringes your intellectual property or any other rights.
+
+We will withdraw the material from our website 24 hours of receipt of your written objection and our initial verification of your complaint, while the matter is investigated. Your objection will be acknowledged within seven working days of receipt.
+
+**Please include the following information in your email:**
+
+  * Your contact details
+  * The full details of the material you believe has made the infringement and where you found it
+  * Proof or statement that you are the rights holder
+
+
+
+Please send your query to [rightsandimages@npg.org.uk](mailto:rightsandimages@npg.org.uk) and a member of the Rights and Images team will deal with your enquiry as soon as possible.
 
 ### How to contact us
 
