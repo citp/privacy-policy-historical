@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208223412id_/http%3A//www.unomatch.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101653id_/http%3A//www.unomatch.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy , Unomatch - Get Socialized
 
-Privacy 
+Last updated 3rd Jan 2014 8:05am GMT. 
 
 Your privacy is very important to us. We designed our Privacy Policy to make important disclosures about how you can use Unomatch to share with others and how we collect and can use your content and information. We encourage you to read the Privacy Policy, and to use it to help make informed decisions. 
 
-Sharing Your Content and Information 
+BY USING THIS WEBSITE YOU EXPRESSLY AGREE TO ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS POLICY.
 
-You own all of the content and information you post on Unomatch, and you can control how it is shared through your privacy. In addition:   
-For content that is covered by intellectual property rights, like photos and videos ("IP content"), you specifically give us the following permission, subject to your privacy   
-When you publish content or information using the "everyone" setting, it means that you are allowing everyone, including people off of Unomatch, to access and use that information, and to associate it with you (i.e., your name and profile picture).   
-We always appreciate your feedback or other suggestions about Unomatch, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them). 
+Unomatch is physically located in The United States of America and operated from the United States of America. 
 
-Safety 
+General Website Visitors
+
+In general, you may visit many pages of the Website without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit the Website and analyze this data for trends and statistics, but individual users will remain anonymous unless they voluntarily tell us who they are. Unomatch collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. From time to time, Unomatch may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+
+Unomatch also collects potentially personally-identifying information like Internet Protocol (IP) addresses for visitors and for users leaving comments. Unomatch only discloses visitor and commenter IP addresses to the extent necessary to continue operating the Website, or if required to do so by law. 
+
+Collection of Personally-Identifying Information
+
+If you choose to sign up to Unomatch, we will ask you to provide certain personal information about yourself, such as your name, shipping/billing addresses, telephone number, e-mail address, birth date, gender, occupation, or personal interests. We gather this information for the sole purpose of creating an account on our system. Whether or not you choose to provide the information we request is entirely up to you. But if you choose not to provide the information we request, you may be unable to access certain services, offers, and content on the Website. 
+
+By signing up to Unomatch you expressly agree to provide this information to us and to our use of it consistent with the terms and conditions of this policy. You also agree that we may from time to time send you Email newsletters. You are free to unsubscribe from the Email mailing list at any time following the instructions contained within the Email footer. 
+
+Safety
 
 We do our best to keep Unomatch safe, but we cannot guarantee it. We need your help to do that, which includes the following commitments:   
 You will not send or otherwise post unauthorized commercial communications (such as spam) on Unomatch.   
@@ -29,11 +38,11 @@ You will not use Unomatch to do anything unlawful, misleading, malicious, or dis
 You will not do anything that could disable, overburden, or impair the proper working of Unomatch, such as a denial of service attack.   
 You will not facilitate or encourage any violations of this Statement. 
 
-Responding to legal requests and preventing harm 
+Responding to legal requests and preventing harm
 
 We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you, including financial transaction data related to purchases made with Unomatch Credits, may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. 
 
-Registration and Account Security 
+Registration and Account Security
 
 Unomatch users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:   
 You will not provide any false personal information on Unomatch, or create an account for anyone other than yourself without permission.   
@@ -47,7 +56,7 @@ You will not share your password, (or in the case of developers, your secret key
 You will not transfer your account (including any page or application you administer) to anyone without first getting our written permission.   
 If you select a username for your account we reserve the right to remove or reclaim it if we believe appropriate (such as when a trademark owner complains about a username that does not closely relate to a user's actual name). 
 
-Protecting Other People's Rights 
+Protecting Other People's Rights
 
 We respect other people's rights, and expect you to do the same.   
 You will not post content or take any action on Unomatch that infringes or violates someone else's rights or otherwise violates the law.   
@@ -60,17 +69,15 @@ If you collect information from users, you will: obtain their consent, make it c
 You will not post anyone's identification documents or sensitive financial information on Unomatch.   
 You will not tag users or send email invitations to non-users without their consent. 
 
-Notifications and Other Messages   
+Notifications and Other Messages
+
 We may send you notifications and other messages using the contact information we have for you, like your email address. You can control most of the notifications you receive, including ones from Pages you like and applications you use, using your Notifications settings. 
 
-Friend finder 
-
-We offer tools to help you upload your friends' contact information so that you and others can find friends on Unomatch, and invite friends who do not use Unomatch to join. 
-
-Invitations 
-
-When you invite a friend to join Unomatch, we send a message on your behalf using your name, and up to two reminders. We may also include names and pictures of other people your friend might know on Unomatch. The invitation will also give your friend the opportunity to opt out of receiving other invitations to join Unomatch. 
-
-Security and bugs 
+Security and bugs
 
 We do our best to keep your information secure, but we need your help. For more detailed information about staying safe on Unomatch, visit the Unomatch Security Page. We try to keep Unomatch up, bug-free and safe, but can't make guarantees about any part of our services or products. 
+
+Privacy Policy Changes
+
+This privacy policy is effective as of date appearing at the top of this page. To find out what has changed, contact support@unomatch.com. Company reserves the right to modify the terms of this privacy policy at any time and in its sole discretion, by posting a change notice on this page. Although most changes are likely to be minor, Unomatch encourages visitors to frequently check this page for any changes to its Privacy Policy.   
+YOUR CONTINUED USE OF UNOMATCH AFTER ANY CHANGE IN THIS PRIVACY POLICY WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGE. 
