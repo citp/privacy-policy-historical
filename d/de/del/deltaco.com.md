@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltaco.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228064505id_/http%3A//www.deltaco.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltaco.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102151id_/http%3A//www.deltaco.com/legal.html) for the most accurate reproduction.*
 
 # Del Taco - Legal
 
