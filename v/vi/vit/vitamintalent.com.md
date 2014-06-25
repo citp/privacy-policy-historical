@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207065529id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063422id_/http%3A//www.vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy : Vitamin T
+# Privacy Policy
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Vitamin T, A division of Aquent (referred to herein as "Aquent"), via and by using the Websites and Vitamin T services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area ("EEA") to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
@@ -75,6 +75,10 @@ Aquent regularly reviews its compliance with this privacy policy and periodicall
 ### Amendments
 
 This Privacy Policy may be amended from time to time consistent with the requirements of the Safe Harbor. Aquent will post any revised policy on this website. Aquent will not use Personal Data in a manner inconsistent with the Privacy Policy under which your Personal Data is collected without your consent.
+
+### Privacy Policy for Australia
+
+View our [Australian privacy policy](http://aquent.com.au/resources/privacy.htm "Australian privacy policy").
 
 ### Contact Us
 
