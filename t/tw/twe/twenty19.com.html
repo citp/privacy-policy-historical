@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the twenty19.com privacy policy that was archived on 2013-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131112102656id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the twenty19.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625071812id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html5 PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
-        <title>Privacy Policy | Twenty19</title>
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/2478.js?439005" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | Twenty19</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta property="og:type" content="website">
         <meta http-equiv="imagetoolbar" content="no">
@@ -27,17 +27,51 @@
         <link rel="shortcut icon" type="image/x-icon" href="http://www.twenty19.com/assets/images/favicon.ico">
         <!--<link type="text/css" rel="stylesheet" href="http://www.twenty19.com/min/?g=cssmain" />-->
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/layout.css">
-          <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/landing.css">
-        <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/main.css">
+          <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/landing.css?1234">
+        <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/main.css?1234">
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/jquery-ui-custom.css">
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/header.css">
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/tables.css">
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/courses.css">
         <link type="text/css" rel="stylesheet" href="http://www.twenty19.com/assets/css/colorbox.css">
+        
+        <style>
+        	select.event_state_select{
+        		background: white; 
+        		color: black; 
+        		font-weight: normal;
+        		width: 170px;
+        		border-radius: 3px;
+        	}
+        	
+        	.event_state_select option{
+        		background: #FFFFFF;
+        		color: black;
+        		padding: 3px;
+        		margin: 2px;
+        		border: none;
+        	}
+        	
+        	.event_state_select option:hover{
+        		background: #6699FF;
+        		color: white;
+        	}
+        	
+        	.event_state_select option.online_events{
+        		background: #009900;
+        		color: white;
+        	}
+        	
+        	.event_state_select option.all_events{
+        		background: grey;
+        		color: white;
+        	}
+        	
+        </style>
       
 
                 
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.twenty19.com/min/?g=jsmain"></script>
+		<script type="text/javascript" src="http://www.twenty19.com/assets/js/jquery.js"></script>
         <script type="text/javascript">
             var url = 'http://www.twenty19.com/';
             var base_url = 'http://www.twenty19.com/';
@@ -132,9 +166,11 @@
 				}
 				function new_session(context){
 					FB.api('/me', function(response) {
-						jQuery.post(url+"callback/fb_connect/"+context, {id:response.id, email:response.email, name:response.name, first_name:response.first_name}, function(data){
+						var redirect_to = '/privacy_policy';
+						jQuery.post(url+"callback/fb_connect/"+context, {id:response.id, email:response.email, name:response.name, first_name:response.first_name, redirect_to : "/privacy_policy"}, function(data){
 							window.location.href=data;
-							console.log(response.id);
+							//console.log(response.id);
+							//console.log("redirect to is "+redirect_to);
 						});
 							//window.location='http://www.twenty19.com/user/fconnect/'+context;
 						});
@@ -156,8 +192,7 @@ FB.ui({ method: 'send',name: 'Apply & get internships in over 3000 Companies',li
 		</p>
 		<h1 id="logo">
 			<a href="/">
-									<img class="homeIcon" src="http://www.twenty19.com/assets/images/layout/icons/home-icon.png" width="12" height="11">
-					<img class="logo" src="http://www.twenty19.com/assets/images/twenty19-logo_new.png" title="Twenty19 - Click to go to Home Page" width="150" height="42" alt="Twenty19 - Internships, Opportunities, Jobs, Training Courses &amp; More...">
+									<img class="logo" src="//cdn.twenty19.com/images/twenty19-logo_new.png" title="Twenty19 - Click to go to Home Page" width="190" height="47" alt="Twenty19 - Internships, Opportunities, Jobs, Training Courses &amp; More...">
 							</a>
 		</h1>
 		
@@ -209,7 +244,7 @@ FB.ui({ method: 'send',name: 'Apply & get internships in over 3000 Companies',li
 			<h2 class="center">Login</h2>
 			<form action="http://www.twenty19.com/user/login_validation" method="post">
 				<div>
-					<label style="float:left;width:100px;margin-top:5px;">Email/Username</label>
+					<label style="float:left;width:100px;margin-top:5px;">Email</label>
 					<input type="text" class="text round5" name="username" id="loginUsername" title="Username">
 				</div>
 				<div>
@@ -428,6 +463,14 @@ var _gaq = _gaq || [];
 			<input type="hidden" id="feed-back-mail">
 			<input type="hidden" id="feed-back-message">
 		</div>
-			    
+					<script type="text/javascript">
+	setTimeout(function(){var a=document.createElement("script");
+	var b=document.getElementsByTagName("script")[0];
+	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/2478.js?"+Math.floor(new Date().getTime()/3600000);
+	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+	</script>
+	<!-- START: Triggers popup that redirects to dashboard to upload profile picture -->
+		<!-- END: Triggers popup that redirects to dashboard to upload profile picture -->
+    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","72fd21dab3","2961210","ZF0HZxEHWUJSB0BRWl0XJFAXD1hfHDRVX1AcSBdaFQdUSGwUW1RcUEE=",0,107,new Date().getTime(),"","","","",""]);</script>
 
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
