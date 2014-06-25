@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215124624id_/http%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goddessinthehouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105731id_/http%3A//goddessinthehouse.com/2010/08/1175) for the most accurate reproduction.*
 
 # 
 
