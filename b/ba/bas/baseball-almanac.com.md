@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseball-almanac.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127030510id_/http%3A//www.baseball-almanac.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseball-almanac.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626011424id_/http%3A//www.baseball-almanac.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Baseball Almanac Privacy Policy
 
@@ -14,20 +14,21 @@ This privacy policy covers how Baseball Almanac, Inc. treats personal informatio
 "The greatest name in American sports history is Babe Ruth, a hitter." - Ted Williams  
   
 ---|---  
-| 
+| Baseball Almanac Privacy Policy 
 
 "Where what happened yesterday is being preserved today."  
   
 ---  
+  
 **Baseball Almanac Privacy Policy**  
   
 Baseball Almanac, Inc. takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-**NOTICE:[ Click here](http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm) for important information about safe surfing from the Federal Trade Commission.**
+**NOTICE:[ Click here](http://www.ftc.gov/about-ftc/bureaus-offices/bureau-consumer-protection/our-divisions/division-privacy-and-identity) for important information about safe surfing from the Federal Trade Commission.**
 
 **Collection of Information**
 
-  * Baseball Almanac, Inc. collects personal information when you register with [Baseball Fever](http://www.baseball-fever.com/), when you register for our [newsletter](https://web.archive.org/web/20131127030510id_/http%3A//www.baseball-almanac.com/mlmstart.shtml), and when you buy a download or financially support our efforts to preserve the history of our national pastime. Baseball Almanac, Inc. does not combine information about you with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register and sign in to our services, you are not anonymous to us.
+  * Baseball Almanac, Inc. collects personal information when you register with [Baseball Fever](http://www.baseball-fever.com/), when you register for our [newsletter](https://web.archive.org/web/20140626011424id_/http%3A//www.baseball-almanac.com/mlmstart.shtml), and when you buy a download or financially support our efforts to preserve the history of our national pastime. Baseball Almanac, Inc. does not combine information about you with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. Once you register and sign in to our services, you are not anonymous to us.
 
   * Baseball Almanac, Inc., via our site host, receives and records information on our server logs from your browser, including your IP address, cookie information, and the page you requested.
 
@@ -75,7 +76,7 @@ Baseball Almanac, Inc. takes your privacy seriously. Please read the following t
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please visit our [feedback page](https://web.archive.org/web/20131127030510id_/http%3A//www.baseball-almanac.com/feedmenu.shtml) or you can contact us at:
+  * If you have questions or suggestions, please visit our [feedback page](https://web.archive.org/web/20140626011424id_/http%3A//www.baseball-almanac.com/feedmenu.shtml) or you can contact us at:
 
 
 
@@ -85,7 +86,7 @@ Privacy Policy Issues
 8263 SW 107 Avenue, Apt A.  
 Miami, FL 33173 
 
-Effective Date: April 1, 2005. Major Changes. August 19, 2007. Last Updated February 12, 2013.  
+Effective Date: April 1, 2005. Major Changes. August 19, 2007. Last Updated March 26, 2014.  
   
 **Baseball Almanac Privacy Policy**  
   
@@ -94,11 +95,11 @@ Effective Date: April 1, 2005. Major Changes. August 19, 2007. Last Updated Febr
 ---|---|---  
 | 
 
-Baseball Almanac, Inc. uses third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Baseball Almanac, Inc. uses third-party advertising companies (specifically Google, Inc.) to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, and to know your choices about not having this information used by these companies, opting out options, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Usenet news groups, spiders and robots may retrieve your public / viewable username; however, [Baseball Fever](http://www.baseball-fever.com/) is safe and your identity is encrypted on the server as well as your IP address and email address.
 
-Our advertising agencies (Burst Media & Google) were selected by Baseball Almanac due to their important stance taken on security and privacy.
+Our advertising agencies/partners (Burst Media & Google) were selected by Baseball Almanac, Inc. due to their important stance taken on security and privacy.
 
 |   
 |  | 
