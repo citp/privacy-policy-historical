@@ -1,26 +1,18 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926125339id_/http%3A//idaho.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044234id_/http%3A//www.idaho.gov/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho.gov
 
-## Access Idaho Privacy Policy
+Thanks for visiting the Idaho.gov website.
 
-  
+Our privacy policy is simple: **we collect NO personal information (like names or addresses) when you visit our website**.
 
-
-##### Thanks for visiting the Idaho.gov website.
-
-Our privacy policy is simple: **we collect NO personal information (like names or addresses) when you visit our website**. If you choose to provide that information to us, it is only used to fulfill your request for information or a service.
-
-The State of Idaho is dedicated to protect private information it may collect about its citizens and others from unauthorized access and dissemination in concert with state and federal laws dealing with personal privacy. In order to guarantee a consistent statement of that responsibility, ITRMC has issued this policy.
-
-  
-
+If you choose to provide that information to us, it is only used to fulfill your request for information or a service.
 
 ### Technical Information Collected and How It is Used
 
 We do collect some technical information when you visit in order to make your visit seamless. The following section explains how we handle and collect technical information when you visit our website.
 
-##### Information Collected and Stored Automatically
+#### Information Collected and Stored Automatically
 
 When you browse, read pages or download information on Idaho.gov, we automatically gather and store specific technical information about your visit. This information (listed below) never identifies who you are. 
 
@@ -34,7 +26,7 @@ When you browse, read pages or download information on Idaho.gov, we automatical
 
 The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. Access Idaho Idaho.gov analyzes web site logs to continually improve the value of the materials available on our sites. Web site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse Idaho.gov.
 
-##### E-mail and Surveys
+#### E-mail and Surveys
 
 If, during your visit to Idaho.gov, you participate in a survey or send an e-mail to Idaho.gov, the following additional information will be collected: 
 
@@ -83,21 +75,21 @@ You can review any personal information we collect about you. You may recommend 
 
 In order to better serve you, we use cookies for certain types of online transactions. Cookies are small text files that a web server may ask your web browser to store and to send back to the web server when needed. Cookies may be used to store a transaction identifier or other information a user may provide.
 
-##### Choices about Cookies
+### Choices about Cookies
 
 The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies or how to disable cookies altogether. However, cookies allow you to take full advantage of many of Idaho's eGovernment services, and we recommend that you set your web browser to accept cookies.
 
 If you have further questions about cookies, the Computer Incident Advisory Capacity Unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998 of the risks of cookies to users, titled Information Bulletin I-034: Internet Cookies. You can refuse the cookies or delete the cookie file from your computer by using any of the widely available methods.
 
-##### Idaho.gov Practices Regarding Cookies
+#### Idaho.gov Practices Regarding Cookies
 
 We do not use cookies to track your visit to our website.
 
 Idaho.gov uses cookies for the following purposes:
 
-  1. When you "sign in" to a State web site, a ?session cookie? is used. For example, if you "sign on" to the Department of Labor section of Idaho.gov as a job seeker, the cookie enables the session to be maintained as you move through different pages, such as updating a multi-page resume or previewing and showing the resume posted. When an employer signs on, the cookies are used to establish the session state. 
+  1. When you "sign in" to a State web site, a "session cookie" is used. For example, if you "sign on" to the Department of Labor section of Idaho.gov as a job seeker, the cookie enables the session to be maintained as you move through different pages, such as updating a multi-page resume or previewing and showing the resume posted. When an employer signs on, the cookies are used to establish the session state. 
   2. The information on these cookies is retained by the State only while the user's session is active in a table that lists unique identifiers. 
-  3. Selected applications use ?persistent cookies? to assist users in completing a session. The information on these cookies is retained by the State for a limited period of time and allows the user to continue a session if it is interrupted. An example of this would be a license renewal. If a session is interrupted, the user can return to their session without losing data previously entered. Persistent cookies are used only to assist a user in selected applications and are not used to collect information about the user for other purposes. 
+  3. Selected applications use "persistent cookies" to assist users in completing a session. The information on these cookies is retained by the State for a limited period of time and allows the user to continue a session if it is interrupted. An example of this would be a license renewal. If a session is interrupted, the user can return to their session without losing data previously entered. Persistent cookies are used only to assist a user in selected applications and are not used to collect information about the user for other purposes. 
 
 
 
