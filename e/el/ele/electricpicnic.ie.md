@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220012936id_/http%3A//www.electricpicnic.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpicnic.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073554id_/http%3A//www.electricpicnic.ie/privacy) for the most accurate reproduction.*
 
 # Privacy | Privacy
 
@@ -21,12 +21,13 @@ _Subscribers_
 
 _Services_  
 3.1 We will use all Personal Data for the purpose of providing you with the services you have requested.  
-Marketing  
-3.2 From time to time, we may use your Personal Data to let you know about other services and products that we or our associated companies provide, special offers and also to provide you with news about our business. This will be in accordance with the preferences for the Website updates which you have registered with us. You may amend your preferences at any time in accordance with clause 1.2 above.  
-Legal requirements  
+_Marketing_  
+3.2 From time to time, we may use your Personal Data to let you know about other services and products that we or our associated companies provide, special offers, information on competitions and also to provide you with news about our business.   
+_Legal requirements_  
 3.3 We reserve the right to access and disclose Personal Data to comply with applicable laws and lawful government requests or requests by the police investigating suspected illegal activities, to operate our systems properly or to protect ourselves or other Website users. We also reserve the right to disclose Personal Data to third parties if a complaint arises concerning your use of the Website, and that use is deemed by us to be inconsistent with the Terms (as defined below).  
-Public Forums  
-3.4 The Website may make available chat rooms, forums, message boards, and news groups. Please remember that any Personal Data that you disclose in these areas of the Website becomes public information and you should exercise caution when deciding to disclose any information on them.
+_Public Forums_  
+3.4 The Website may make available chat rooms, forums, message boards, and news groups. Please remember that any Personal Data that you disclose in these areas of the Website becomes public information and you should exercise caution when deciding to disclose any information on them.  
+3.5 We may pass on your details to a third party but if you'd like to unsubscribe at this point you will be able to request this.
 
 **4\. HOW DO WE PROTECT SUBSCRIBERS’ PERSONAL DATA?**  
 4.1 When you input any Personal Data into the Website or request services from us, we use appropriate physical, electronic and managerial security measures to try to prevent that Personal Data from being accessed by unauthorised persons and to ensure that you may input Personal Data safely. This means that sometimes we may ask for proof of identity before we disclose Personal Data to you.
