@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3techs.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209094815id_/http%3A//w3techs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3techs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045822id_/http%3A//w3techs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,13 +12,13 @@ Q-Success, the company that runs this site, respects each individual's right to 
 
 ## Information Collection
 
-Q-Success only collects data that is not personally identifiable by us, unless explicitly provided by you. We use web server logfiles to improve the performance of the site and to monitor its use. We offer the possibility to provide personal data including an email address during sign-up. 
+Q-Success only collects data that is not personally identifiable by us, unless explicitly provided by you. We use web server logfiles and logging tools to improve the performance of the site and to monitor its use. We offer the possibility to provide personal data including an email address during sign-up. 
 
-We do employ cookies to identify users after sign-up and login. We do not employ cookies for any other purpose. A cookie is a small text file that our web server places on a user's computer hard drive to store some information. The site can be used without accepting cookies, but some functionalities cannot be accessed in that case.
+We do employ cookies to identify users after sign-up and login. A cookie is a small text file that our web server places on a user's computer hard drive to store some information. The site can be used without accepting cookies, but some functionalities cannot be accessed in that case.
 
 If you sign-up for a user account, you may cancel your account at any time. In that case all data directly related to that account is removed, however community contributions such as blog entries, blog comments and forum entries made using that account will remain on the site. 
 
-We use Google Adsense as advertising service. Google uses cookies and similar techniques to collect data in the ad serving process. However, Google has no access to private data you provide on this site. Google uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use Google Adsense and other advertising partners. These partners use cookies and similar techniques to collect data in the ad serving process. However, advertising partners have no access to private data you provide on this site. Advertising partners may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 ## Information Usage
 
@@ -34,4 +34,4 @@ If you have any further questions about privacy, please contact us by sending an
 
 ## Last Modification of this Page
 
-18 November 2009 
+30 May 2014 
