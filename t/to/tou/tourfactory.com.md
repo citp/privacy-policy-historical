@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060359id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100928id_/http%3A//tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
 # TourFactory :: Realty Privacy
 
@@ -6,7 +6,7 @@
 
 This privacy statement discloses the privacy practices for [www.homedebut.com ](http://www.homedebut.com/)and [www.tourfactory.com](http://www.tourfactory.com/).
 
-Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its ommitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
+Home Debut's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
 
   * What personally identifiable information of yours or third party personally identification is collected from you through the web site 
   * The organization collecting the information 
