@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moregames24.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621072607id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moregames24.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155119id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Walkthrough
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-If you find any broken link, please report it by using [Contact](http://www.escapegames24.com/2006/01/contact.html) link. 
+If you find any broken link, please report it by using our [contact us](http://www.escapegames24.com/2006/01/contact.html) form. 
