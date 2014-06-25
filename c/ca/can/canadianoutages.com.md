@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadianoutages.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104003738id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianoutages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092332id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement and policy Down Detector
+# Privacy statement and policy Canadian Outages
 
 This User Agreement and Privacy Statement governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Downdetector, its parent, subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the Service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
