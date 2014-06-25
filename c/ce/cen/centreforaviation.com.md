@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061916id_/http%3A//centreforaviation.com/about-capa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centreforaviation.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140908id_/http%3A//centreforaviation.com/about-capa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CAPA - Centre for Aviation
 
 CAPA - Centre for Aviation respects the privacy rights of our users and is strongly committed to protecting your privacy online. This privacy policy applies to this Web site. 
+
+## Use of Cookies 
+
+CAPA uses cookies to collect information to enhance your experience with this Web site. A cookie is a small text file that is placed on your computer and which collects information about your use of this Web site, such as the Web pages visited, the date and the time of a visit, the Web sites you visited immediately before and after visiting this Web site, etc. These details are usually aggregated in order to assist CAPA in determining how various pieces of content are performing. Cookies are used in order to maintain login-state information (eg. so the Web site remembers that you are logged in when you travel from page to page), and third-party ones may be set as well. This is so data providers such as OAG can properly authenticate your account when viewing Route Maps.
 
 ## Collection and Use of Personal Information 
 
@@ -14,11 +18,7 @@ We will NOT disclose your personal information to any third parties.
 
 ## Accuracy and Security of Personal Information 
 
-CAPA uses encryption technology to safeguard your credit card data used in electronic transactions. Any personal information you provide to CAPA is kept on secure servers. CAPA uses reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help us protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Web site's service.
-
-## Use of Cookies 
-
-CAPA may use "cookies" or similar electronic tools to collect information to enhance your experience with this Web site. A cookie is a small text file that is placed on your computer and which collects information about your use of this Web site, such as the Web pages visited, the date and the time of a visit, the Web sites you visited immediately before and after visiting this Web site, etc.
+CAPA uses encryption technology to safeguard your credit card data used in electronic transactions. Any personal information you provide to CAPA is kept on secure servers. CAPA uses reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help us protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Web site's service. 
 
 ## Accessing and Updating Your Personal Information 
 
@@ -36,4 +36,4 @@ CAPA may provide links to third-party Web sites. Since we do not control third-p
 
 CAPA reserves the right to change this privacy policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
 
-Last Updated: November 22nd, 2013
+Last Updated: December 3rd, 2013
