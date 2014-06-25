@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
@@ -42,20 +42,26 @@ The data collected from feedback program is not stored anywhere except that feed
   
 |  Final Note   
 ---  
-If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
+If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
 |    
 ---  
-| New Tool [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/new-tool-updates.php)  
+| 10 Million Downloads [»  ](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/statistics.php)  
 ---  
-[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/wifi-password-dump.php)
+[](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/statistics.php)
 
-Wi Fi Password Dump v1.0  
+Special thanks to all our millions of fans!!!  
   
-| Launching Soon [»  ](http://www.xenarmor.com/network-ssl-certificate-scanner.php)  
+| Featured Tool [»  ](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/tools.php)  
 ---  
-[](http://www.xenarmor.com/network-ssl-certificate-scanner.php)
+[](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/facebook-password-dump.php)
 
-NetCertScanner Enterprise Edition 2014  
+Facebook Password Dump v2.5  
+  
+| Join Mailing List [»  ](https://groups.google.com/forum/?fromgroups#!forum/securityxploded)  
+---  
+[](https://groups.google.com/forum/?fromgroups#!forum/securityxploded)
+
+Get to know our latest security tools releases and interact with like minded security experts!  
   
 | Fresh Hacking News [»  ](http://securityphresh.com/)  
 ---  
@@ -63,27 +69,21 @@ NetCertScanner Enterprise Edition 2014
 
 Get Latest Security & Hacking News  
   
-| 7 Million Downloads [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/statistics.php)  
----  
-[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/statistics.php)
-
-Seven Million Downloads of Our Tools  
-  
 | Security Training  
 ---  
-[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/security-training.php)
+[](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/security-training.php)
 
 Our Free Advanced Malware Analysis Training Series  
   
-| Testimonials [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/testimonials.php)  
+| Testimonials [»  ](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/testimonials.php)  
 ---  
-[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/testimonials.php)
+[](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/testimonials.php)
 
 "I have found 'SecurityXploded' tools to be an invaluable asset in many of our Forensic Investigations..."  
 \- James, Police Dept, Delaware, USA  
   
-| Awards [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/awards.php)  
+| Awards [»  ](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/awards.php)  
 ---  
-[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/awards.php)
+[](https://web.archive.org/web/20140625103031id_/http%3A//www.securityxploded.com/awards.php)
 
 Awards for our softwares from leading Download Sites
