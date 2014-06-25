@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513100632id_/http%3A//filecloud.io/misc-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecloud.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074758id_/http%3A//filecloud.io/misc-privacy.html) for the most accurate reproduction.*
 
 # privacy policy - filecloud.io
 
@@ -9,18 +9,9 @@ filecloud.io uses cookies and other data sent by your browser to enhance your on
   * Your geographic country code (eg US,UK,IT etc) is determined from your network address (specific ip addresses are never logged since there is no need) on uploads and downloads, this is collected and stored for up to a month in order to better understand the needs of users across the globe.
   * Email addresses are recorded and verified on registration for our free and/or premium services. We do not share/sell/transfer/give away etc our users email addresses! We hate spam as much as you do and only ever send email to you at account verification or if you want to recover account.
   * Browser language settings as sent to us by your browser may be used for the duration of the session to display the site in your preferred language.
+  * Listing of all the files, tags and the files you upload and/or download (otherwise the cloud storage service can not operate of course!)
 
   
-
-
-* * *
-
-  
-
-
-###  3rd Party Payment processors (who you might encounter if upgrading to a premium account) 
-
-filecloud.io uses services provided by 3rd party secure credit card payment processors such as 2checkout.com who collect information when you place an order in order to process the order and minimise fraud, [click here for 2checkout.com privacy policy](https://www.2checkout.com/privacy/)   
 
 
 * * *
