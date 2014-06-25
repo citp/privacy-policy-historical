@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216041130id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090232id_/http%3A//www.i-tech.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Name, address and payment information, although credit card and PO numbers may b
 **E-mail a link to product information to a friend/colleague "Tell a friend"**   
 E-mail address of your friend/colleague and your e-mail address. 
 
-[**_Application of employment_**](https://web.archive.org/web/20131216041130id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
+[**_Application of employment_**](https://web.archive.org/web/20140625090232id_/http%3A//www.i-tech.com.au/Jobs.aspx)   
 First name, last name, address, home phone, city, state, country, whether or not you have the legal right to work in the Australia, any criminal convictions, date available to start, current employment status, whether or not you have any computer skills/training as well as your certification that the information contained in the application is true and correct and that you have authorized the affidavit contained in the application. 
 
 **Is your information used for any other purpose?**   
@@ -60,27 +60,41 @@ We use cookies as a way to give you better service. They personalize your shoppi
   
 | [Specials](http://www.i-tech.com.au/Special.aspx)  
 ---  
-| [ Netgear New ReadyNAS RN21243E 4x3TB E RN21243E-100AJS ](http://www.i-tech.com.au/products/155965_Netgear_New_ReadyNAS_RN21243E_4x3TB.aspx)  
+| [ ASUS SABERTOOTH-990FX-R2 990X/ 4 x DDR3/ 4 x PCI-E2.0 x 16/ 8 x SATA3/ 2x eSATA/ 6 x USB3.0/ 8 ](http://www.i-tech.com.au/products/129320_ASUS_SABERTOOTH_990FX_R2_990X__4.aspx)  
 ---  
-$2,450.00   
-Regular Price $2,958.00  
-Your save $508.00  
-[ EPSON EB-420 2500 LUMEN XGA, 3LCD, 4:3, CONTRAST RATIO 3000:1, 3.8KG V11H447053 ](http://www.i-tech.com.au/products/151056_EPSON_EB_420_2500_LUMEN_XGA__3LCD.aspx)  
-$879.00   
-Regular Price $1,042.00  
-Your save $163.00  
-[ Microsoft Windows 7 Home Premium 64-bit with SP1 - 1pk OEM DVD ](http://www.i-tech.com.au/products/154511_Microsoft_Windows_7_Home_Premium.aspx)  
-$125.00   
-Regular Price $145.00  
+$242.00   
+Regular Price $261.00  
+Your save $19.00  
+[ Silverstone ML06B Black Mini ITX Desktop, 1x multi-function bay, Aluminum front panel, 4X2.5", ](http://www.i-tech.com.au/products/163550_Silverstone_ML06B_Black_Mini_ITX.aspx)  
+$69.00   
+Regular Price $80.00  
+Your save $11.00  
+[ WACOM Intuos Small Pen and Touch 3.7in x 6in CTH-480/S0-CX ](http://www.i-tech.com.au/products/159140_WACOM_Intuos_Small_Pen_and_Touch.aspx)  
+$108.00   
+Regular Price $128.00  
 Your save $20.00  
-[ IN WIN C583 ATX MID TOWER, BLACK & SILVER, 400W 80+ GOLD, FRONT USB3.0 + HD AUDIO, 12CM REAR FAN ](http://www.i-tech.com.au/products/161454_IN_WIN_C583_ATX_MID_TOWER__BLACK.aspx)  
-$116.00   
-Regular Price $133.00  
-Your save $17.00  
-[ Gigabyte U35F-4701H (9WU35F002-AU-A-004) U35F, I7-4500U, 15.6"HD, GT750M 4GB, 8GBDDR3, 32GBSSD+1TB ](http://www.i-tech.com.au/products/162273_Gigabyte_U35F_4701H__9WU35F002_AU.aspx)  
-$1,785.00   
-Regular Price $2,053.00  
-Your save $268.00  
+[ TP-LINK TL-WN851ND Wireless N PCI Adapter, Atheros, 2T2R, 2.4GHz, 802.11n/ g/ b, with 2 detachable ](http://www.i-tech.com.au/products/94385_TP_LINK_TL_WN851ND_Wireless_N_PCI.aspx)  
+$23.00   
+Regular Price $37.00  
+Your save $14.00  
+[ EPSON EB-425W 2500 LUMEN WXGA PROJECTOR V11H448053 ](http://www.i-tech.com.au/products/151617_EPSON_EB_425W_2500_LUMEN_WXGA_PROJECTOR.aspx)  
+$1,048.00   
+Regular Price $1,241.00  
+Your save $193.00  
+| Recent Purchases  
+---  
+| [ CISCO ASA 5545-X with SW, 8GE Data, 1GE Mgmt, AC, 3DES/ AES ASA5545-K9 ](http://www.i-tech.com.au/products/143110_CISCO_ASA_5545_X_with_SW__8GE_Data.aspx)  
+---  
+$15,899.00   
+[ HP 70 Ink Cartridge 130 ml Magenta C9453A ](http://www.i-tech.com.au/products/86002_HP_70_Ink_Cartridge_130_ml_Magenta.aspx)  
+$86.00   
+[ Astrotek USB 3.0 A-A extension cable, blue, 3m ](http://www.i-tech.com.au/products/87899_Astrotek_USB_3_0_A_A_extension_cable.aspx)  
+$9.00   
+[ Kguard CCD dome type CCTV cameras 1/ 3 SONY Supper HADII CCD, 420 TV Lines, Lens 3.6 mm(Not include ](http://www.i-tech.com.au/products/113801_Kguard_CCD_dome_type_CCTV_cameras.aspx)  
+$55.00   
+[ Netgear XSM7224S 24PORT L2 10G MANAGED SWITCH XSM7224S-100AJS ](http://www.i-tech.com.au/products/127064_Netgear_XSM7224S_24PORT_L2_10G_MANAGED.aspx)  
+$8,994.00   
+   
   
   
 ---  
