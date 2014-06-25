@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofid.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203062446id_/http%3A//www.ofid.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofid.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123137id_/http%3A//www.ofid.org/privacy.aspx) for the most accurate reproduction.*
 
 # OFID
 
