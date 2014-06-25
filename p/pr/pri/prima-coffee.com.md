@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119192213id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232649id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
 
 # Prima Coffee Equipment's Privacy Policy | Prima Coffee
 
