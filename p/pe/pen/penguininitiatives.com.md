@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguininitiatives.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111075836id_/http%3A//penguininitiatives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguininitiatives.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112028id_/http%3A//penguininitiatives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
