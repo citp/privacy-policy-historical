@@ -1,17 +1,7 @@
-> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124023200id_/http%3A//models.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082448id_/http%3A//www.models.com/company/privacy.html) for the most accurate reproduction.*
 
 # MODELS.com - Privacy Statement
 
-|  [](https://www.scanalert.com/RatingVerify?ref=models.com) _Click on the McAfee seal above to verify MODELS.com is McAfee certified_ | 
-
-MODELS.com is tested and certified daily to pass the McAfee secure site seal
-
-This confirms that the MODELS.com web site is tested and certified **daily** to pass the **FBI/SANS Internet Security Test**. The "live" McAfee mark appears only when a web site's current security status meets the **highest security scanning standards of the U.S. government, Visa, MasterCard, American Express, Discover and JCB**.   
-  
-  
-  
----|---  
-  
 **PRIVACY STATEMENT**
 
 _OUR COMMITTMENT TO PRIVACY_
@@ -26,7 +16,7 @@ Provides a privacy notice and/or a link to this Privacy Statement on all pages t
 
 
 **How we use the information we collect** :  
-MODELS.com never releases personal identifiable information about you to any third party without your initial prior approval. If we do release your information to a third party, for example to sign you up for a third party service provided through MODELS.com that you have specifically requested, a link to the third party's privacy notice and terms of service will be displayed at the time you are offered the option to release this information. These third parties currently include Emazing and PhotoChannel. Links to third party company privacy policies are provided below in the section entitled "The Way We Use Information". 
+MODELS.com never releases personal identifiable information about you to any third party without your initial prior approval. If we do release your information to a third party, for example to sign you up for a third party service provided through MODELS.com that you have specifically requested, a link to the third party's privacy notice and terms of service will be displayed at the time you are offered the option to release this information. 
 
 BUT please note that MODELS.com may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) MODELS.com's rights or property, other MODELS.com users, or anyone else that could be harmed by such activities. MODELS.com may disclose user information when we believe in good faith that the law requires it.
 
@@ -68,10 +58,6 @@ We use non-identifying and aggregate information to better design our Web site a
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-Third party organizations affiliated with MODELS.com that may collect your personal information include PhotoChannel and Emazing. A link to each company's privacy policy is included below for your information. Please note that in no case does MODELS.com share your personal information with any third party, including the ones below, without your prior approval.   
-<http://www.photochannel.com/photochannel/control/privacy>  
-<http://www.emazing.com/info/privacy.htm>
-
   
 **How to update or delete your information on MODELS.com  
 **MODELS.com members can update their information by logging on to [http://my.models.com](http://my.models.com/) using their username and password, and clicking on "edit account" or "portfolios" button to update their personal information as appropriate.
@@ -103,4 +89,4 @@ Often, advertisers will employ a third-party measurement service other than MODE
 MODELS.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [feedback@models.com](mailto:feedback@models.com). 
 
 MODELS.com reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.  
-This Privacy notice was last updated on January 31st 2001 and is deemed effective as of this date. 
+This Privacy notice was last updated on June 18 2014. 
