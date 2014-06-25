@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schiffradio.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104034042id_/http%3A//schiffradio.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffradio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184255id_/http%3A//www.schiffradio.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.*
 
 # SchiffRadio.com: Privacy Policy
 
@@ -30,8 +30,8 @@ In addition, SchiffRadio.com may, and you hereby authorize us to, disclose your 
 
 **Disputes.** SchiffRadio.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy. 
 
-**SchiffRadio.com Links.** SchiffRadio.com may contain links to websites not owned or controlled by SchiffRadio.com. SchiffRadio.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the [Terms of Service Agreement](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp;jsessionid=C41ADC8FA6DDFD6284FE6696438D96F2). 
+**SchiffRadio.com Links.** SchiffRadio.com may contain links to websites not owned or controlled by SchiffRadio.com. SchiffRadio.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the [Terms of Service Agreement](https://web.archive.org/pg/jsp/help/general/termsconditions.jsp). 
 
 **A Special Note about Children.** Children are not eligible to use our services and SchiffRadio.com asks that minors (under the age of 18) do not submit any personal information to SchiffRadio.com. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
 
-The Site is owned and operated by SchiffRadio.com. For further information about SchiffRadio.com or the Site, please visit the "[Contact Us](https://web.archive.org/contactus;jsessionid=C41ADC8FA6DDFD6284FE6696438D96F2)" section of the Site. 
+The Site is owned and operated by SchiffRadio.com. For further information about SchiffRadio.com or the Site, please visit the "[Contact Us](https://web.archive.org/contactus)" section of the Site. 
