@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106101742id_/http%3A//bebrainfit.com/privacy-disclosure-terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082817id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
 
 # Privacy Policy | Disclosure Policy | Terms of Use
 
@@ -53,7 +53,7 @@ If this privacy policy is modified, the revised policy will be posted on this we
 ## Disclosure Policy Regarding Vendor Relationships **  
 **
 
-It is a wise practice for you, as a consumer, to carefully consider a product recommendation or endorsement made by a third-party website. However, it also **not** in your best interest to assume that the information provided there is invalid just because the vendor and that website have some kind of financial relationship.
+It is a wise practice for you, as a consumer, to carefully consider a product recommendation or endorsement made by a third-party website. However, it is also **not** in your best interest to assume that the information provided there is invalid just because the vendor and that website have some kind of financial relationship.
 
 So, here are some thoughts to consider:
 
