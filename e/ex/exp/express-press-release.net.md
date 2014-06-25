@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the express-press-release.net privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104203108id_/http%3A//www.express-press-release.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express-press-release.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111014id_/http%3A//www.express-press-release.net/privacy.php) for the most accurate reproduction.*
 
 # Express Press Release Distribution (Free) - Privacy Policy
 
 |  |   | 
 
-[Home](https://web.archive.org/web/20131104203108id_/http%3A//www.express-press-release.net/index.php) \- Privacy Policy 
+[Home](https://web.archive.org/web/20140625111014id_/http%3A//www.express-press-release.net/index.php) \- Privacy Policy 
 
 **EPR Network's Privacy Policy**
 
-[EPR Network](http://epr-network.com/) respects your concerns about the privacy. At the same time, we do ask and collect information about you in order for us to understand your needs better and make your experience at EPR Network more valuable to you. We created this Privacy Policy to give you with notice of what information EPR Network may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site. This Privacy Policy is subject to the [Terms of Service](https://web.archive.org/web/20131104203108id_/http%3A//www.express-press-release.net/tos.php) (the "TOS") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TOS. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into, the TOS. 
+[EPR Network](http://epr-network.com/) respects your concerns about the privacy. At the same time, we do ask and collect information about you in order for us to understand your needs better and make your experience at EPR Network more valuable to you. We created this Privacy Policy to give you with notice of what information EPR Network may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site. This Privacy Policy is subject to the [Terms of Service](https://web.archive.org/web/20140625111014id_/http%3A//www.express-press-release.net/tos.php) (the "TOS") posted on the Site, including the provisions regarding change or modification of this Privacy Policy and other policies as set forth in the TOS. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. This Privacy Policy is part of, and incorporated into, the TOS. 
 
 The EPR Network is not intended for use by persons under the age of thirteen. Individuals who are under the age of thirteen are expressly prohibited from submitting to EPR Network or posting to the Site any personally identifiable information about themselves. 
 
@@ -64,7 +64,7 @@ There is no option for updating your information on previously posted press rele
 
 The Site may also contain links to other web sites and advertising. The privacy policies of those web sites and advertisers may significantly differ from that of our Site. It is your responsibility to contact such web site operator or advertiser directly to determine their privacy policy. 
 
-Should you have more questions don’t hesitate to contact us at info [at] epr-network.com. Additionally you may wish to get familiar with our [terms of service](https://web.archive.org/web/20131104203108id_/http%3A//www.express-press-release.net/tos.php) before using EPR Network. 
+Should you have more questions don’t hesitate to contact us at info [at] epr-network.com. Additionally you may wish to get familiar with our [terms of service](https://web.archive.org/web/20140625111014id_/http%3A//www.express-press-release.net/tos.php) before using EPR Network. 
 
 (effective as of July 01, 2004, revised on December, 2006, last revision June 2008) 
 
