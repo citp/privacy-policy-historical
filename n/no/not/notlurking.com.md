@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020517id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notlurking.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625132959id_/http%3A//notlurking.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Linkis.com
+
+### Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
 
