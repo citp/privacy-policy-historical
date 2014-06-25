@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208220129id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082632id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Mondelēz International
 
@@ -12,8 +12,6 @@ This website is owned and operated by Mondelēz International, we recognize that
     * Personally-Identifiable Information
       * Registration
       * Contests, Sweepstakes and Games
-  
-
       * Newsletters
       * “Contact Us” Link
       * Send To A Friend
@@ -22,6 +20,7 @@ This website is owned and operated by Mondelēz International, we recognize that
     * Aggregate and Non-Personal Information
       * Cookies
       * Web Beacons
+      * Do Not Track
   * How We Use Personally-Identifiable Information
   * How We Share Personally-Identifiable Information
   * Links To Other Websites
@@ -60,6 +59,8 @@ The “help” portion of the toolbar on most browsers will tell you how to stop
   
 _**Web Beacons**_  
 Certain pages on our site contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.  
+_**Do Not Track**_  
+Please note that our systems may not recognize and respond to Do Not Track (DNT) headers from some or all web browsers.  
 **_How We Use Personally-Identifiable Information_**  
 We may use the information you provide to contact you from time to time. For example, we may (i) send you promotional materials and other communications you request, (ii) respond to your comments or questions, or (iii) contact you if needed while processing a product or service you requested through our website. We also may use the information you provide to contact you for your opinions on Mondelēz International products or the website.
 
