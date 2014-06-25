@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2013-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131001234147id_/http%3A//www.usshortcodes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113714id_/http%3A//www.usshortcodes.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Common Short Codes | Privacy Policy
+# Common Short Codes | CSCA Privacy Policy for Mobile Short Codes
 
 Privacy Policy
 
