@@ -1,0 +1,241 @@
+<!--The following is the downloaded HTML source of the dollarphotoclub.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626015004id_/http%3A//www.dollarphotoclub.com/Info/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en"><!--<![endif]--><head>
+<title>Dollar Photo Club - high quality royalty free stock photos and vectors - Dollar Photo Club</title><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAADVVdaGwEJUFlSDgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link href="http://dpcs.ftcdn.net/r/css/13075c8d9e204b3cd0d02e11843608585dbc8341/all_hashes.min.css?r=1" media="screen" rel="stylesheet" type="text/css">
+<link href="http://dpcs.ftcdn.net/favicon.ico" rel="icon" type="image/x-icon">
+<link href="http://dpcs.ftcdn.net/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="http://dpcs.ftcdn.net/search_plugin.xml" rel="search" type="application/opensearchdescription+xml" title="Dollarphotoclub.com">
+<link href="http://dpc1.ftcdn.net" rel="dns-prefetch">
+<link href="http://dpc2.ftcdn.net" rel="dns-prefetch"><script type="text/javascript" src="http://dpcs.ftcdn.net/r/js/67f566d66dfcf91215926187674f6aac24e1129e/all.min.js"></script><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="google-translate-customization" content="58b0ed39bd85757a-44d69d63d47e3bb3-g7979868062af9584-17">
+<meta name="google-site-verification" content="wo7v-YxLkaMfBaeNxZs7_5Q6gAm5UIvCY-okSUqqfaU">
+<meta name="og:title" content="Dollar Photo Club - high quality royalty free stock photos and vectors">
+<meta name="og:type" content="website">
+<meta name="og:image" content="http://dpcs.ftcdn.net/r/pics/39d92cb4fc558631a91f7ffd1dd80c5004374162/all/img/logo-dollarphotoclub-122x27.png">
+<meta name="og:url" content="http://www.dollarphotoclub.com/Info/Privacy">
+<meta name="og:site_name" content="Dollar Photo Club">
+<meta name="fb:app_id" content="83940384707">
+<meta name="description" content="Over 24 million professional high quality royalty free stock photos - invitation only"><script type="text/javascript">
+var _gaq = _gaq || [];
+var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['_setAccount', 'UA-45050029-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js'
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://dpcs.ftcdn.net/r/css/1d10e1991aa5d44a5c524b6e261e81fe4a5226ca/dollarphotoclub/ie-fixes.css" media="screen" />
+<![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="http://dpcs.ftcdn.net/r/js/26f0c8697143ba37843b696d030a05f46e8ddbf2/externals/ie9/ie9-2.1_beta4-dpc.js"></script>
+<script type="text/javascript" src="http://dpcs.ftcdn.net/r/js/5ac6a102a0a61f75d3710e2d983d61b9a5ce9798/externals/respond/respond.min.dpc.js"></script>
+<![endif]-->
+</head>
+<body class="px-style-base locale-en_US dpc-style-white">
+<div id="container">
+<header id="header-main" class="clearfix">
+<div class="wrap" id="top-header">
+<ul>
+<li class="phone">1-800-692-3830</li>
+<li class="website_language"><select name="website_language" id="website_language">
+    <option value="us" class="flag flag-us" selected="selected">http://us.dollarphotoclub.com/Info/Privacy::English</option>
+    <option value="es" class="flag flag-es">http://es.dollarphotoclub.com/Info/Privacy::Spanish</option>
+    <option value="it" class="flag flag-it">http://it.dollarphotoclub.com/Info/Privacy::Italian</option>
+    <option value="br" class="flag flag-br">http://br.dollarphotoclub.com/Info/Privacy::Brazilian</option>
+    <option value="se" class="flag flag-se">http://se.dollarphotoclub.com/Info/Privacy::Swedish</option>
+    <option value="nl" class="flag flag-nl">http://nl.dollarphotoclub.com/Info/Privacy::Dutch</option>
+    <option value="kr" class="flag flag-kr">http://kr.dollarphotoclub.com/Info/Privacy::Korean</option>
+    <option value="jp" class="flag flag-jp">http://jp.dollarphotoclub.com/Info/Privacy::Japanese</option>
+    <option value="tr" class="flag flag-tr">http://tr.dollarphotoclub.com/Info/Privacy::Turkish</option>
+    <option value="ru" class="flag flag-ru">http://ru.dollarphotoclub.com/Info/Privacy::Russian</option>
+    <option value="pl" class="flag flag-pl">http://pl.dollarphotoclub.com/Info/Privacy::Polish</option>
+</select></li>
+<li><a href="https://www.dollarphotoclub.com/Support/new" title="Contact us by email or by phone">Contact us</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="wrap"><h2 itemscope="" itemtype="http://schema.org/Organization" class="left">
+<a itemprop="url" href="/" title="Dollar Photo Club Homepage"><img itemprop="logo" src="http://dpcs.ftcdn.net/r/pics/cedbe1bcb77e393d806af3240451e64cd389aed3/all/img/logo-dollarphotoclub-261X80.png" alt="Dollar Photo Club logo"><span class="baseline-separator">&nbsp;</span><span class="baseline">Royalty free stock photos and vectors for just $1</span></a>
+</h2>
+<div class="search-container"><form method="GET" action="/Search">
+<div class="search-field"><input type="text" name="k" id="search-field-top" value="" class="search-field" placeholder="Enter keyword(s)"></div>
+<div class="search-filter">
+<span class="search-filter-label">
+All<span class="sprite-arrow sprite-arrow10-10 sprite-arrow10-10-bottom-green arrow-padding">&nbsp;</span><span class="search-filter-list"><label for="all-photos"><input type="checkbox" name="filters[content_type:photo]" id="all-photos" value="1">Photos</label>
+<label for="all-illustrations"><input type="checkbox" name="filters[content_type:illustration]" id="all-illustrations" value="1">Illustrations</label>
+<label for="all-vectors"><input type="checkbox" name="filters[content_type:vector]" id="all-vectors" value="1">Vectors</label>
+</span>
+</span>
+</div><input type="submit" name="search" id="search" value="Search" class="btn btn75 gradient-validate rounded5"></form>
+</div>
+<ul class="right">
+<li class="login"><a href="https://www.dollarphotoclub.com/Member/SignIn" title="Login">Login</a></li>
+</ul>
+</div></header>
+<div id="container-main" class="page-view">
+<div id="google_translate_element"></div>
+<script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-45050029-1'}, 'google_translate_element');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<div id="fake-sidebar"></div>
+<div id="sidebar" class="account-view-sidebar">
+  <h2>Table of content</h2>
+  <ul>
+    <li><a href="#1.">Users</a></li>
+    <li><a href="#2.">Type of Information Collected</a></li>
+    <li><a href="#3.">Cookies</a></li>
+    <li><a href="#4.">Third Parties</a></li>
+    <li><a href="#5.">How Your Information is Used</a></li>
+    <li><a href="#6.">Protecting Your Personal Information</a></li>
+    <li><a href="#7.">Your Choice</a></li>
+    <li><a href="#8.">Disclosures</a></li>
+    <li><a href="#9.">Notification of Changes</a></li>
+    <li><a href="#10.">Disputes</a></li>
+  </ul>
+</div>
+
+<div id="page-content">
+  <div class="full-size main-apply main-apply-success main-apply-extend">
+    <div class="full-size-left-zone apply-box apply-box-extend-model">
+      <h1>Privacy Policy</h1>
+
+      <p>
+        This Privacy Policy, as amended from time to time (the "Policy"), governs the collection and use of your personal information by PhotoXpress LLC, doing business as "Dollar Photo Club" ("DPC"). By using the DPC Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. This Policy is governed by the laws of the State of New York irrespective of your location. If you have questions related to our Policy, please contact the Privacy Manager, at the address listed below. Adress : Dollar Photo Club 2711 Centerville road, Suite 400, Wilmington, Delaware 19808, USA, email : privacy@dollarphotoclub.com
+      </p>
+
+      <div><a name="1."></a>
+        <h2>Users</h2>
+        <p>This Website is intended for adults. If you are between the ages of 13 and 18, please ask your parent or legal guardian for permission before you enter DPC's Website.</p>
+
+        <p>NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR GUARDIANS:</p>
+
+        <p>DPC DOES NOT KNOWINGLY COLLECT PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13, YOU MUST NOT USE THIS WEBSITE. PLEASE DO NOT SEND DPC ANY PERSONAL INFORMATION INCLUDING YOUR EMAIL, NAME AND/OR CONTACT INFORMATION. IF YOU WANT TO CONTACT DPC, YOU MAY ONLY DO SO THROUGH YOUR PARENT OR LEGAL GUARDIAN.</p>
+      </div>
+
+      <div><a name="2."></a>
+        <h2>Type of Information Collected</h2>
+        <p>When you visit this Website, we may collect certain non-personal information such as your Internet Protocol ("IP") address, browser type, and operating system. This type of information does not identify you personally. When you register with DPC, we may also collect the personal information that you submit such as your name, address, email address, credit card numbers, and country of origin (Registration Information)</p>
+
+        <p>We may also collect non-Registration Information from our users, including the number of downloads on the Website, profile changes, content changes, and forum activity. DPC uses an outside third party credit card processing company to bill you for your purchases, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Additionally, DPC may track copyright infringement claims through its membership management module. Information related to copyright infringement claims may be stored by DPC.</p>
+      </div>
+
+      <div><a name="3."></a>
+        <h2>Cookies</h2>
+        <p>When you visit our Website, you may search and review certain information without disclosing your identity. We may use cookies to manage a visitor's session and to enable registered users to utilize the "remember me" function. Cookies may be used irrespective of whether you register with us or not. "Cookies" are small text files transferred by a web server to your hard drive and thereafter stored on your computer. The type of information a cookie collects includes the date and time you visited, your browsing history, your preferences, and your username.</p>
+
+        <p>In some instances, our third party service providers may use cookies on our Website. We cannot control or access cookies used by third party service providers. This Policy covers only cookies used by DPC, and not any cookies used by third parties.
+          You have the ability to either accept or decline the use of cookies on your computer. Typically, you can configure your browser to not to accept cookies, however, declining the use of cookies may limit your access to certain features of the DPC Website. For example, you may have difficulty logging in or using certain interactive features of our Website. You should be able to experience the basic functions on DPC's Website, even if you decline the use of cookies.</p>
+
+      </div>
+      <div><a name="4."></a>
+        <h2>Third Parties</h2>
+        <p>DPC uses third party service providers such as PayPal and Bibit to process purchases made on our Website. In addition, our Website may occasionally contain links to other sites. If you click on these links, you leave the DPC Website and we are not responsible for the content or the security of your personal information when using the other site. These sites may have their own privacy policies governing the storage and retention of your personal information. They may collect information such as your name, mailing address, IP address, browser specifications, and credit card number. This Policy does not govern personal information provided to, stored on, or used by third party sites. We recommend that when you enter a third party site, you review the third party's privacy policy as it relates to safeguarding your personal information.</p>
+
+      </div>
+      <div><a name="5."></a>
+        <h2>How Your Information is Used</h2>
+        <p>DPC may use your personal information to:</p>
+
+        <ul>
+          <li>Verify a user's identity for security purposes</li>
+          <li>Create and manage your membership account</li>
+          <li>Process your transactions</li>
+          <li>Provide customer services</li>
+          <li>Display services or offers that may be of interest to you.</li>
+          <li>Monitor our users' downloads, changes in profiles, and forum participation.</li>
+          <li>To communicate with you about your transactions, new products and services</li>
+          <li>To run our interactive features such as the Blog or Forum.</li>
+        </ul>
+
+        <p>We may also convert your information into anonymous data in order to help us monitor traffic on our Website. For example, we may also use the personal information disclosed to us to assist you with technical difficulties you may experience while using our Website. We may share your personal information and the demographic information we have collected with our third party service providers.</p>
+
+      </div>
+      <div><a name="6."></a>
+        <h2>Protecting Your Personal Information</h2>
+        <p>As a valued customer, we recognize that protecting your privacy is important to you. For this reason, DPC is committed to protecting your personal information in several ways. Our servers are only accessible to a select number of authorized personnel. Your Registration Information is protected by a unique customer password and user ID, and your password is encrypted. You should not disclose your password information to anyone and you should always remember to log off if using a shared computer. We also use secure socket layer technology (SSL) for specific types of information, such as your login and payment information. Lastly, when you register with DPC, we allow you to utilize an "alias" so that your user ID cannot be seen by other users of DPC. We may retain your personal information for as long as is required to fulfill our business objective.</p>
+
+        <p>Additionally, the personal information collected by DPC may be stored and processed in a country other than your home country. By providing us with your personal information and using the DPC Website, you are consenting to any such transfer of information outside of your home country.</p>
+
+        <p>We have taken certain security protections in safeguarding your personal information. However, as with most electronic transactions, no method is 100% safe. While we strive to use a commercially acceptable means to protect your personal information, we cannot guarantee its security. Therefore, DPC assumes no liability regarding the theft, loss, alteration or misuse of personal or other information, including without limitation such information that we have provided to third parties, or with regards to the failure of a third party to abide by the privacy policy or agreement between DPC and a third party.</p>
+
+        <p>As a registered user of DPC, you may participate in DPC's Blog or Forum, if applicable. Information posted to DPC's Forum is only available for viewing by other members registered in the same DPC zone. Blog postings are visible to any guest of our Website. We strongly discourage posting any information that you do not want others to see on these features. In addition to whatever comments you post to the Blog or Forum, we will post the alias you selected when completing our comment form. Messages posted to the Blog or Forum may be retained so long as the DPC Website is operational. Notwithstanding the above, DPC is not obligated to operate a Blog or Forum.</p>
+
+      </div>
+      <div><a name="7."></a>
+        <h2>Your Choice</h2>
+        <p>You may review and change the information you provide to us by going to the "My Profile" section of the Website. You may opt out of receiving our newsletters when you register with DPC. By opting out, you will no longer receive certain special offers or promotions. We may continue to send you any legally required notifications and certain notifications, including but not limited to service related notices or notices regarding a change to any of DPC's policies ("Required Notices"). For example, we may send you a notice regarding server problems or scheduled Website maintenance. In order to opt-out of receiving Required Notices, you may need to deactivate your account.</p>
+
+      </div>
+      <div><a name="8."></a>
+        <h2>Disclosures</h2>
+        <p>On rare occasions, DPC may be required to disclose your personal information due to legal or regulatory requirements. In such instances, we reserve the right to disclose your personal information as required in order to comply with DPC's legal obligations, including, but not limited to, complying with court orders, warrants, subpoenas, service of process requirements, or discovery requests.</p>
+
+      </div>
+      <div><a name="9."></a>
+        <h2>Notification of Changes</h2>
+        <p>We reserve the right to change this Policy from time to time, and at our sole discretion. You should make note of the "last updated date" at the bottom of this Policy. With this information, you should be able to identify if the Policy has been updated recently.</p>
+
+        <p>Please note that if you have limited your account preferences, we will not change your preferences without your consent. If substantially all of DPC's assets are sold or merged with another company, DPC will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If DPC sells only a part of its business, the acquiring entity will have access to your personal information without your consent and DPC may send you a notice regarding this sale.</p>
+
+      </div>
+      <div><a name="10."></a>
+        <h2>Disputes</h2>
+        <p>Any disputes regarding your privacy are subject to this Privacy Policy and DPC's Terms and Conditions of Use, including but not limited to any provisions related to indemnification, limitations on damages, and choice of law.</p>
+      </div>
+
+      <div>
+        Last updated: 23rd October, 2013
+      </div>
+    </div>
+  </div>
+<div class="clear"></div>
+</div></div>
+<footer id="footer-main">
+<div class="footer-main-container">
+<div class="wrap">
+<ul id="footer-links-general" class="left">
+<li><a href="/Info/Legal" title="Dollarphotoclub legal informations">Terms of Use</a></li>
+<li><a href="/Info/RoyaltyFreeLicense" title="Dollarphotoclub royalty free license agreement">Royalty Free License</a></li>
+<li><a href="/Info/ExtendedLicense" title="Dollarphotoclub extended license agreement">Extended License</a></li>
+<li><a href="/Info/Privacy" title="Dollarphotoclub privacy policy informations">Privacy</a></li>
+<li><a href="https://www.dollarphotoclub.com/Support/new" title="Dollarphotoclub support">Support</a></li>
+<li><a href="/Info/AboutUs" title="About Us">About Us</a></li>
+<li><a href="/Info/FAQ" title="Frequently Asked Questions">FAQ</a></li>
+<li><a href="/Categories" title="Top browsed categories">Categories</a></li>
+<li><a href="/Ambassador" title="Ambassador program">Ambassador Program</a></li>
+</ul>
+<ul id="footer-social-links" class="right sharing">
+<li class="copyright">© Dollar Photo Club 2014</li>
+<li class="sharing_twitter"><a href="https://twitter.com/DollarPhotoClub" class="new_window" title="Dollarphotoclub Twitter page"><span class="hidden">Twitter</span></a></li>
+<li class="sharing_facebook"><a href="https://www.facebook.com/DollarPhotoClub" class="new_window" title="Dollarphotoclub Facebook page"><span class="hidden">Facebook</span></a></li>
+<li class="sharing_google_plus"><a href="https://www.google.com/+DollarPhotoClub" class="new_window" title="Dollarphotoclub Google+ page"><span class="hidden">Google+</span></a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js"></script><script type="text/javascript">window.criteo_q = window.criteo_q || [];window.criteo_q.push({"event":"setAccount","account":12974}, {"event":"setCustomerId","id":null}, {"event":"setSiteType","type":"d"}, {"event":"setData","ui_buyer_status":0}, {"event":"viewHome","ui_from_partner":"0"});</script><script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 972576149;var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/* ]]> */</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/972576149/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><iframe src="https://4344813.fls.doubleclick.net/activityi;src=4344813;type=audie762;cat=conte396;ord=8725518835396.049?" width="1" height="1"></iframe><script type="text/javascript" id="DoubleClickFloodlightTag1549047">
+//<![CDATA[
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+
+var newIFrame=document.createElement('iframe');
+newIFrame.src=document.location.protocol+'//4344813.fls.doubleclick.net/activityi;src=4344813;type=audie762;cat=conte396;ord=' + a + '?';
+newIFrame.width="1";
+newIFrame.frameborder="0";
+newIFrame.height="1";
+var scriptNode=document.getElementById('DoubleClickFloodlightTag1549047');
+scriptNode.parentNode.insertBefore(newIFrame,scriptNode);
+//]]>
+</script>
+<noscript>
+<iframe src="//4344813.fls.doubleclick.net/activityi;src=4344813;type=audie762;cat=conte396;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"9bd5966578","applicationID":"2948095,2947809","transactionName":"ZwBRN0sCDBdQBxdRWF5KcBZKFw0JHhQCX1IfFUEKTwIBHQ==","queueTime":0,"applicationTime":45,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
