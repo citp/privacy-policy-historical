@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fillz.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206095139id_/http%3A//www.fillz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fillz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155534id_/http%3A//www.fillz.com/privacy.html) for the most accurate reproduction.*
 
-# FillZ.com : Privacy Policy
+# Privacy Policy
 
 FillZ knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please note that FillZ is a division of AbeBooks, Inc. ("AbeBooks"). As a part of AbeBooks, FillZ follows the same information practices as AbeBooks, and information we collect is subject to the AbeBooks Privacy Notice.
 
@@ -24,3 +24,8 @@ These are only a few of the changes to the policy, and this brief summary should
 
   
 
+
+"We've seen a great increase in sales since switching to FillZ. Listing inventory is quick and efficient, and overall the system is simple to use. We're very happy."  
+_– Barbara Seibert, Purple Turtle Products_
+
+[ ](https://www.fillz.com/exec/register "FillZ Sign Up")
