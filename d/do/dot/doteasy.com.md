@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231051436id_/http%3A//doteasy.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121622id_/https%3A//www.doteasy.com/terms/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Doteasy.com
 
