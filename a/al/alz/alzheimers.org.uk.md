@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214023714id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065517id_/http%3A//www.alzheimers.org.uk/site/scripts/terms.php) for the most accurate reproduction.*
 
 # Terms and disclaimer - Alzheimer's Society
 
-## © Copyright 1998-2013 Alzheimer's Society  
+## © Copyright 1998-2014 Alzheimer's Society  
 All rights reserved
 
 The information provided on this site is for the benefit of people with dementia, carers, health and social care professionals and others with an interest in dementia. 
