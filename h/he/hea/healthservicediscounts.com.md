@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthservicediscounts.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022091335id_/http%3A//www.healthservicediscounts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthservicediscounts.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122151id_/http%3A//www.healthservicediscounts.com/privacy-policy) for the most accurate reproduction.*
 
-# Health Service Discounts - Privacy Policy
+# NHS Discounts - Privacy Policy
 
 Health Service Discounts are committed to safeguarding and preserving the privacy of members.
 
@@ -71,7 +71,7 @@ Health Service Discounts is not liable either in contract, tort (including negli
 
 Content is supplied to Health Service Discounts by third parties. We do not warrant or guarantee the accuracy or completeness of any of the content or any further information or results that may be derived from it. Members acknowledge that it is their responsibility to evaluate the accuracy and completeness of the content. Use of the content, for whatever purpose is at members sole risk.
 
-Members are solely responsible for evaluating any goods (including software) or services offered by third parties advertised, sold or otherwise made available on the Internet. Health Service Discounts will not be a party to or in any way responsible for any transactions between any user and third parties.
+Members are solely responsible for evaluating any goods (including software) or services offered by third parties advertised, sold or otherwise made available on the Internet. 
 
 Should a user have any complaint, problems or concerns regarding the purchase of goods and services, then members agree to take up that matter directly with the vendor of the goods or services in question. We will - at our discretion - however attempt to provide accurate contact information for the retailer, as well as using our retailer relationships to help with any enquiries you have.
 
