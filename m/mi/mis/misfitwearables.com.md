@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102200223id_/http%3A//misfitwearables.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051258id_/http%3A//www.misfitwearables.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Misfit Wearables
 
@@ -108,5 +108,17 @@ If you have any questions, comments or concerns about this online privacy statem
 15\. Privacy Statement Effective Date and Revision Days
 
 Occasionally we may update the privacy statement for misfitwearables.com in order to reflect any changes to the website or our privacy practices.
+
+16\. Information you choose to share with others
+
+Shine allows you to share information with others. Many users find that this makes using Shine more fun and motivating towards achieving their fitness goals. At Misfit, we are dedicated to providing you with full control over your personal data.
+
+Misfit’s default settings when users sign up with Shine’s social features are as following:  
+* Public Viewable: your username and thumbnail photo.  
+* Friends Viewable: your name, username, thumbnail picture and achievements such as number of goals hit, best streak and personal best. Once you have added someone as a friend, they will be able to see your up to the minute points.  
+* World Feed Viewable: By default your milestones are not viewable in the World Feed. You must enable this setting to share your achievements.  
+
+
+If you choose to, you can also opt into sharing your profile, achievements and milestones with the rest of the Shine community as part of our World Feed feature. If you ever want to change your privacy setting, you can go to your profile at any time, tap edit, and turn the sharing of your milestones and achievements in the World Feed on or off. We store your achievements and milestones in the World Feed for up to 6 months.
 
 Effective Date: April 23, 2012
