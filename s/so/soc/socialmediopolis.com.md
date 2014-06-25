@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205145600id_/http%3A//socialmediopolis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080110id_/http%3A//socialmediopolis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
