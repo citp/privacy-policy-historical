@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023103728id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061453id_/https%3A//www.taxbrain.com/privacy.asp) for the most accurate reproduction.*
 
-# Taxbrain® | Privacy Policy
+# Privacy Policy - Taxbrain®
 
   
 [](http://www.truste.org/ivalidate.php?url=www.taxbrain.com&sealid=101) Privacy Policy Effective Date: June 23, 2005
@@ -55,7 +55,7 @@ From time to time, users may be asked to provide certain Identifying and Contact
 **  
 Cookies **
 
-A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on Taxbrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only Taxbrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. 
+A “cookie” is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on Taxbrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only Taxbrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie. 
 
 **Log Files**
 
@@ -73,7 +73,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 **Financial Service Providers**
 
-We partner with other third party banks, such as University National Bank ("Bank"), to provide specific financial services. When users sign up for these particular services, we share names or other contact information (such as name, address, social security number and phone number), along with certain tax return information, that is necessary for the third party to provide these services. The taxpayer must sign a Consent to Disclosure as required by federal law before we can disclose this information.  These third party banks may or may not use personally identifiable information for purposes other than providing these services. The taxpayer will be provided with the bank's Privacy Notice, along with information on contacting the bank to opt-out of certain uses of their information.  
+We partner with other third party banks, such as Sunrise Banks N.A. ("Bank"), to provide specific financial services. When users sign up for these particular services, we share names or other contact information (such as name, address, social security number and phone number), along with certain tax return information, that is necessary for the third party to provide these services. The taxpayer must sign a Consent to Disclosure as required by federal law before we can disclose this information.  These third party banks may or may not use personally identifiable information for purposes other than providing these services. The taxpayer will be provided with the bank's Privacy Notice, along with information on contacting the bank to opt-out of certain uses of their information.  
 
 
 **  
@@ -149,21 +149,21 @@ Contact Us
 If users have any questions or suggestions regarding our privacy policy,   
 please contact us at:
 
-> _Mailing Address:_  
->  PEI, Taxbrain  
->  PO Box 611  
->  Tracy, CA 95378
-> 
-> _Shipping Address:_  
->  PEI, Taxbrain  
->  7575 West Linne Road  
->  Tracy, CA 95304
-> 
-> Phone: 866.829.2724  
->  Fax: 209.835.7227  
->  Email: [support@taxbrain.com](mailto:support@taxbrain.com)
-> 
-> Web site URL: [http://www.taxbrain.com](https://web.archive.org/)
+_Mailing Address:_  
+PEI, Taxbrain  
+PO Box 611  
+Tracy, CA 95378
+
+_Shipping Address:_  
+PEI, Taxbrain  
+7575 West Linne Road  
+Tracy, CA 95304
+
+Phone: 866.829.2724  
+Fax: 209.835.7227  
+Email: [support@taxbrain.com](mailto:support@taxbrain.com)
+
+Web site URL: [http://www.taxbrain.com](https://web.archive.org/)
 
 Back to Top  
   
