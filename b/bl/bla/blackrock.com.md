@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090425id_/http%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122436id_/http%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
 
-# BlackRock
-
-**PRIVACY POLICY**
+# Privacy Policy
 
 BlackRock recognizes the importance of protecting your personal and financial information when you visit our website located at [www.blackrock.com](http://www.blackrock.com/) ("Website"). The following information is designed to help you understand the information collection practices at this Website.
 
-By visiting this Website, you are accepting the practices described in this Privacy Policy. If you do not agree to this policy, please do not use this Website. Please review the [Terms and Conditions](http://www2.blackrock.com/global/home/TermsandConditions/index.htm) to learn of other terms and conditions applicable to your use of this Website.
+By visiting this Website, you are accepting the practices described in this Privacy Policy. If you do not agree to this policy, please do not use this Website. Please review the [Terms and Conditions](https://web.archive.org/corporate/en-us/compliance/terms-and-conditions) to learn of other terms and conditions applicable to your use of this Website.
 
 **Changes to this Privacy Policy**
 
