@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocklogos.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230020030id_/http%3A//corporate.mediabistro.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklogos.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151600id_/http%3A//corporate.mediabistro.com/corporate/privacy/privacypolicy.html%3Fnav%3Dftc) for the most accurate reproduction.*
 
 # Mediabistro Career Opportunities
 
@@ -84,6 +84,6 @@ Please note that your use of the Mediabistro network of Web sites is governed by
 
 Mediabistro participates in the Safe Harbor program and adheres to the Safe Harbor principles developed by the U.S. Department of Commerce and the European Union or Switzerland. For more information about the Safe Harbor program, please visit the U.S. Department of Commerce’s Safe Harbor website <http://www.export.gov/safeharbor/>
 
-Mediabistro has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediabistro, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131230020030id_/http%3A//corporate.mediabistro.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Mediabistro has further committed to refer unresolved privacy complaints under the US-EU or Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU or Swiss SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mediabistro, please visit the BBB EU OR SWISS SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140625151600id_/http%3A//corporate.mediabistro.com/corporate/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 (Revised October, 2012) 
