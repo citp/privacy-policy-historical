@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211164146id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051135id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - DLL-files.com
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, go to [Contact us](https://web.archive.org/web/20131211164146id_/http%3A//www.dll-files.com/contact.php)
+To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20140625051135id_/http%3A//www.dll-files.com/about.php).
 
-For each visitor to our Web page, our Web server automatically recognizes the following:
+For each visitor to our Web site, our Web server automatically recognizes and logs such information that your browser sends whenever you make a request form our servers, such as your browser type, Internet Protocol address, browser language, cookie information and date/time of request. We may compile information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations as well as email address and payment information related to a purchase from our web service.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, compile information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+We do not save individual IP addresses or other personally identifiable information from visitors to our site, other than that required by law and for anti-fraud purposes in relation to purchase and usage of our services.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+With respect to cookies:
 
-**With respect to cookies:** We set cookies for webpage optimation and webpage statistics.
+When you visit our website, we or our service providers may set cookies for webpage optimization and webpage statistics, usage involves analysis of traffic patterns, user trends and behavior. As with all other cookies this means we can identify which browser is visiting us, but no other personally identifiable information, to provide an optimal site experience for our users.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information such as web cookies (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options about not having this information used for this purpose, [click here](http://www.networkadvertising.org/).
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by [Contact us](https://web.archive.org/web/20131211164146id_/http%3A//www.dll-files.com/contact.php).
+With respect to e-mail addresses:
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+We collect the e-mail addresses of those who communicate with us via e-mail. This is used to communicate with our users when it comes to customer service interactions.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+We collect e-mail addresses whenever you purchase a service or product from us. This information is, unless otherwise stated, only used for purposes of fulfilling our obligations to our customers, such as product delivery, purchase documents and critical service messages and updates. In conjunction with such purchases or a separate newsletter signup, customers can opt-in to receive offers, updates and service-related information from us or affiliated partners. [If you do not want to receive e-mail from us in the future, please let us know by contacting us](https://dllfilescom.zendesk.com/). 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation toÃ¡not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+Additional information, such as physical address, telephone number etc. that is supplied during purchases or registrations on our site will only be used for internal purposes, in order to fulfill intended commitments (such as product delivery, support contact). It is collected by our Payment Services Provider but will not be distributed to other third parties.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
+We retain the right to update this Privacy notice at any time without prior notification. If our information practices change at some time in the future we will only use data collected from the time of the policy change forward for any new purposes.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected. If so, [contact us](https://dllfilescom.zendesk.com/) to let us know.
 
-Consumers can have this information corrected by writing to us at the above address.
-
-If you feel that this site is not following its stated information policy, you may [Contact us](https://web.archive.org/web/20131211164146id_/http%3A//www.dll-files.com/contact.php), The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+As a company located in Sweden we are regulated under Swedish law and guidelines set by the EU. Complaints about our use of personal information and this policy can be made with the Swedish Data Inspection Board.
