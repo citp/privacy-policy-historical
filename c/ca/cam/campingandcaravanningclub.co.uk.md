@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203011622id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075949id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Camping and Caravanning Club
 
-**The Camping and Caravanning Club respects your right to privacy. In the statement below you will find full details of how the Club protects and secures your personal information.**
+The Camping and Caravanning Club respects your right to privacy. In the statement below you will find full details of how the Club protects and secures your personal information. ****
 
 ### What information do we collect?
 
@@ -10,7 +10,7 @@ The Club website collects such information as the IP address (location of your c
 
 ### What data do we collect?
 
-Within our website there are certain areas which require you to submit personal information within a form, such as joining online, requesting information such as a brochure or making an enquiry. These are necessary to allow us to service your membership. This information may include name, address, telephone number, email address, country of residence and your age. In addition when joining or renewing your membership or booking sites online we will need to know your Credit or Debit Card details and expiry date, along with issue number (for Switch only).
+Within our website there are certain areas which require you to submit personal information within a form, such as joining online, requesting information such as a brochure or making an enquiry. These are necessary to allow us to service your membership or request. This information may include name, address, telephone number, email address, country of residence and your age. In addition when joining or renewing your membership or booking sites online we will need to know your Credit or Debit Card details and expiry date, along with issue number (for Switch only) and Direct Debit details.
 
 ### How is personal data secured?
 
@@ -42,7 +42,7 @@ Our site contains links to external websites. Links to other services not operat
 
 ### Marketing email communications
 
-The Club sends out email newsletters from time to time. We are able to track when these messages are opened and which links contained in the emails you choose to use. This allows us to see what information is of interest to members and to tailor future messages accordingly. If you wish to Unsubscribe from receiving future messages you can click the Unsubscribe link at the bottom of the email message. 
+The Club sends out email newsletters from time to time including promotion offers and discounts. We are able to track when these messages are opened and which links contained in the emails you choose to use. This allows us to see what information is of interest to members and to tailor future messages accordingly. If you wish to Unsubscribe from receiving future messages you can click the Unsubscribe link at the bottom of the email message. We also use email messages to service your membership, these include renewal notifications, reminders and voting instructions. If you are an online member all of our communications with you will be done via email. You are unable to unsubscribe from these emails as they are all about your membership.
 
 ### Use of cookies
 
@@ -58,5 +58,3 @@ Greenfields House
 Westwood Way  
 Coventry  
 CV4 8JH
-
-Share this:
