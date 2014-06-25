@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2013-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130912214336id_/http%3A//www.stonyfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonyfield.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093415id_/http%3A//www.stonyfield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Stonyfield Farm
+# Privacy Policy | Stonyfield
 
 **Last Updated:** June 4, 2013
 
