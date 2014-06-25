@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds2india.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117024826id_/http%3A//www.classifieds2india.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds2india.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014728id_/http%3A//classifieds2india.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
