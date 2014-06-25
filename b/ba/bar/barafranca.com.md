@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812235346id_/http%3A//www.barafranca.com/game-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barafranca.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075015id_/http%3A//www.barafranca.com/game-privacy-policy.php) for the most accurate reproduction.*
 
 # Omerta - Massive multiplayer online text-based RPG gangster and mafia game
 
