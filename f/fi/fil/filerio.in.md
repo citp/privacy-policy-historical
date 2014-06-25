@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filerio.in privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828214321id_/http%3A//filerio.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filerio.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052004id_/http%3A//filerio.in/privacy.html) for the most accurate reproduction.*
 
 # FileRio : : Cloud File Storage
 
