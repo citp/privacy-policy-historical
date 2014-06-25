@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fujifilmholdings.com privacy policy that was archived on 2013-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214224020id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fujifilmholdings.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625085301id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
@@ -27,7 +27,7 @@
 <!-- Unique Stylesheets -->
 <!-- printHead -->
 <!-- Template Scripts -->
-<script type="text/javascript" src="/template/scripts/swfobject.js"></script>
+<script type="text/javascript" async="" src="https://rsv.dga.jp/s/fujifilm/search_tool_n2.js"></script><script type="text/javascript" src="/template/scripts/swfobject.js"></script>
 </head>
 
 <body id="privacyIndex">
@@ -46,7 +46,7 @@
 <div id="globalHeader">
 <div id="globalHeaderInner">
 <div id="globalHeaderLogo">
-<p id="brandLogo"><a href="/en/index.html"><img src="/template/images/gHeader_brandLogo_01.gif" alt="FUJIFILM" width="122" height="22"></a></p>
+<p id="brandLogo"><a href="/en/index.html"><img src="/template/images/gHeader_brandLogo_02.gif" alt="FUJIFILM" width="121" height="34"></a></p>
 <p id="corporateName"><img src="/template/images/en_gHeader_coName_01.gif" alt="FUJIFILM Holdings" width="62" height="15"></p>
 <!-- /globalHeaderLogo --></div>
 
@@ -61,20 +61,18 @@
 <div class="reader"><a href="#globalNavStart">Skip the Search Within Site Feature to main menu.</a><!-- /reader --></div>
 <div id="searchForm">
 <div id="searchFormInner">
-<form action="http://search.fujifilmholdings.com/search" method="get">
+
+<form name="search_form" action="http://site-search.fujifilmholdings.com/" class="iSearchAssist" method="GET" onsubmit="return mysearch(this);"> 
 <fieldset>
 <label for="searchText" class="reader"><img src="/template/images/reader.gif" alt="Enter words you wish to search." width="1" height="1"></label>
-<input type="text" name="q" size="160" maxlength="72" id="searchText" value="">
-<input type="image" src="/template/images/en_searchForm_btn_01.gif" name="btnG" alt="Search" id="submitBtn" value="Search">
-<input type="hidden" name="output" value="xml_no_dtd">
-<input type="hidden" name="sort" value="date:D:L:d1">
-<input type="hidden" name="client" value="jsg1fh">
-<input type="hidden" name="ie" value="utf8">
-<input type="hidden" name="oe" value="utf8">
-<input type="hidden" name="proxystylesheet" value="jsg1fh">
-<input type="hidden" name="site" value="fhe">
+    <input type="text" name="kw" size="160" maxlength="72" id="searchText" value="" class="searchBox"> 
+    <input type="hidden" name="ie" value="u"> 
+    <input type="hidden" name="site" value="fhe"> 
+    <input type="hidden" name="temp" value="fhe"> 
+    <input type="image" src="/template/images/en_searchForm_btn_01.gif" name="btnG" alt="Search" id="submitBtn" value="Search"> 
 </fieldset>
-</form>
+</form> 
+
 <!-- /searchFormInner --></div>
 <!-- /searchForm --></div>
 <!-- /globalHeaderAssistNav --></div>
@@ -429,6 +427,21 @@ if(!$jq) { var $jq = []; } $jq['base'] = jQuery.noConflict(true);
 <script type="text/javascript" src="/template/scripts/base.js"></script>
 <!-- FontSize Module Scripts -->
 <script type="text/javascript" src="/template/scripts/en_fontSizeModule.js"></script>
+<!-- Search Module Scripts -->
+<script type="text/javascript">
+(function() {
+var da = document.createElement('script');
+da.type = 'text/javascript'; da.async = true;
+if ('https:' == document.location.protocol) {
+da.src =  'https://rsv.dga.jp/s/fujifilm/search_tool_n2.js';
+} else {
+da.src =  'http://cache.dga.jp/s/fujifilm/search_tool_n2.js';
+}
+var sc  = document.getElementsByTagName('script')[0];
+sc.parentNode.insertBefore(da, sc);
+})();
+</script>
+
 
 
 <script type="text/javascript">
