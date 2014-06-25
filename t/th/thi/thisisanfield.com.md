@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119123418id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisanfield.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220327id_/http%3A//www.thisisanfield.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Legal - Liverpool FC This Is Anfield - Liverpool FC This Is Anfield
+# Privacy Policy / Legal | This Is Anfield
+
+[Home](http://www.thisisanfield.com/) Privacy Policy / Legal
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -14,7 +16,7 @@ This Is Anfield accepts no responsibility for content posted on our forums by re
 
 By sharing any contribution (including any text, photographs, graphics, video or audio) with us you agree to grant us, free of charge, permission to use the material in any way we want (including modifying or deleting it). In order that we can use your contribution, you confirm that your contribution is your own original work, is not defamatory and does not infringe any UK laws and that you have the right to give us permission to use it for the purposes specified above.
 
-You must not use our website in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity. The majority of content posted in this forum is created by members of the public. The views expressed are theirs and unless specifically stated are not those of [organisation name]. We accept no responsibility for any loss or harm incurred.
+You must not use our website in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity. The majority of content posted in this forum is created by members of the public. The views expressed are theirs and unless specifically stated are not those of _This Is Anfield_. We accept no responsibility for any loss or harm incurred.
 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
