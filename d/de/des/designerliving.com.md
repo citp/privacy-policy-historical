@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designerliving.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102005728id_/http%3A//designerliving.com/statements/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerliving.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090403id_/http%3A//www.designerliving.com/statements/policy/privacy-policy) for the most accurate reproduction.*
 
-# Designerliving.com - Shop Bedding, Bath, Home Decor, Furniture, Pets, Youth and More
+# Privacy Policy
 
 DesignerLiving.com is a subsidiary of E&E Co. Ltd., and as such, respects the privacy of our customers and website users. We have developed the following Privacy Policy to be sure that your personal information is handled and maintained in a secure and responsible manner. The privacy policy details the types of information we may collect from you during your visit to our website, how we use the information, and when/if the information will be shared with third parties. To ensure the safety and security of your information, we may change the privacy policy at times, but we will be certain to keep this web page current, so you will be aware of any changes. When you use our website, you give consent for us to collect and use your information according to the specifications in this privacy policy.
 
