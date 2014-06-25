@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025655id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073126id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | UNMC
 
