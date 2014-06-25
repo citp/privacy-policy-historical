@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120130232id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095449id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jobg8
 
@@ -22,7 +22,7 @@ In particular, we may use your information to contact you for your views on our 
 
 We retain all information indefinitely.  If you change your mind about being contacted in the future, please let us know or, if you would like us to delete your information that you have provided please either delete your details via your account login or send an email to [privacy@Jobg8.com](mailto:privacy@Jobg8.com) and provide details of your request. 
 
-Jobg8 reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information should be retained by Jobg8. 
+Jobg8 reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information should be retained by Jobg8. We do not store credit card details nor do we share customer details with any 3rd parties. 
 
 **DISCLOSURE OF YOUR INFORMATION**
 
