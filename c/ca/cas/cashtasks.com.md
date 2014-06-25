@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashtasks.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326214026id_/http%3A//www.cashtasks.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashtasks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060656id_/http%3A//cashtasks.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CashTasks.com - Privacy Policy - Make money completing simple tasks!
 
