@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805133349id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4server.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045118id_/http%3A//4server.info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | www.4server.info
 
-[Home](http://www.4server.info/) | [ Premium ++ ](http://www.4server.info/new/) | [Chat Bot](http://www.4server.info/bot/) | [Copy Code ](http://www.4server.info/code/) | [Advertising](http://www.4server.info/advertise/) | [Contact Us](http://www.4server.info/contact-us/)
+[Home](http://www.4server.info/) | [ Premium ++ ](http://www.4server.info/new/) | [Copy Code ](http://www.4server.info/code/) | [Advertising](http://www.4server.info/advertise/) | [Contact Us](http://www.4server.info/contact-us/)
 
   
 
@@ -43,8 +43,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-this script is sale for only $50000, contact us via neo7team@gmail.com
+[ ](http://www.4server.info/advertise/)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)
 
-  
-[ ](http://goo.gl/FGnDU)[ ](http://www.4server.info/advertise/)[](http://goo.gl/9a1tH)   
-
+[cairo dock 301tar](http://4server.info/download/4shared.com/archive/vaYWhEie/cairo-dock-301tar.htm "Download cairo dock 301tar 4server.info") [ 01 kh anwar zahid walimatul u](http://4server.info/download/shared.com/mp3/wbMh9Wm-/-01_kh_anwar_zahid_walimatul_u.html "Download  01 kh anwar zahid walimatul u 4server.info") [samurai shodown](http://4server.info/download/4shared.com/file/zUe3tkFM/samurai_shodown.html "Download samurai shodown 4server.info") [upin ipin kawan kawan boria](http://4server.info/download/4shared.com/mp3/TSmmnZNTba/upin_ipin__kawan_kawan_-_boria.html "Download upin ipin  kawan kawan   boria 4server.info") [Raciocnio Lgico Aula 01 vdeo 0](http://4server.info/download/4shared.com/video/jJcMScqj/Raciocnio_Lgico_Aula_01_vdeo_0.html "Download Raciocnio Lgico Aula 01 vdeo 0 4server.info")
