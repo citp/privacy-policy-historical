@@ -1,92 +1,111 @@
-> *The following text is extracted and transformed from the ultimate-rihanna.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524044130id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-rihanna.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054707id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Sites Network
 
-**PRIVACY POLICY AND CONSUMER EDUCATION** [http://buzz-media.com/privacy-policy/](http://www.buzz-media.com/privacy-policy/)
+_**Updated April 2014**_  
+Fan Sites Org, LLC (“we”) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Fan Sites Org, LLC strives to respect and protect the privacy of individuals that visit our web site(s). This notice constitutes our **Privacy Policy**.
 
-**PLEASE READ THIS CAREFULLY (last modified: 06/16/2009** )
+By using our services, you expressly consent to this Privacy Policy and our Terms of Use, including our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
 
-Buzz-Media.com (the Site) provides a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
+No Fan Sites Org, LLC services are directed to children under 13. Federal law requires that Fan Sites Org, LLC may not collect any personally identifiable information from persons under 13 years of age. If you are under 13 years of age, you may not register for any Fan Sites Org, LLC services or provide any of your personal information to Fan Sites Org, LLC.
 
-**THE PERSONAL INFORMATION WE COLLECT**
+This Privacy Policy applies to all of the web sites hosted by and services of Fan Sites Org, LLC, including:
 
-It is our policy to respect the privacy of the people who use the Services (each a “User,” collectively the “Users”). Therefore, we will not disclose to any unauthorized third party a User’s name or contact information. We will also not monitor, edit or disclose the contents of a User’s information unless required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on us; (2) protect and defend our rights or property; (3) act under exigent circumstances to protect the personal safety of Users or the public; (4) to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable; or (5) fix or debug problems with our servers/software/service.  
-When you register to become a member of the Site and in the course of using the Site, you may voluntarily submit personally identifiable information that can be used to contact or identify you and administer your account (”Personal Information”). Personal information may include, but is not limited to, your name, phone number and e-mail address. The Site may also collect Personal Information from you if you choose to opt-in to participate in sweepstakes, surveys, contests or competitions. When you register with the Site, you create your own profile and privacy settings. Your profile information, as well as your name, e-mail and photo, are displayed to people you have specified in your privacy settings. Profile information you submit to the Site, and make public via your privacy settings, will also be available to other users via searching our Site, and may be available to third party search engines. This is primarily so your friends can find you and the content you create and store on the Site. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.  
-As you use the Site, our servers automatically record information that the browser sends whenever it points to a Site or online service (”Log Data”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Site and information you search for on a Site.
+**http://fan-sites.org**
 
-**HOW WE USE PERSONAL INFORMATION**
+and all sub-domains of the above.
 
-Personal Information is used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your use of our services and your account; (iii) to enable users to enjoy and easily navigate the Site; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide service announcements; and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on related services. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications. Further, you may easily adjust your privacy and e-mail settings via your account settings at any time.
+**1\. What Information We Collect and For What Purposes**  
+To most effectively offer our services, we may collect information from you in the following ways:
 
-**PRIVACY POLICY AND CONSUMER EDUCATION**  
-_Children’s Privacy_  
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact privacy@buzz-media.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
-We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
+  *  Information You Provide to Register for Services. If you register for a newsletter or to participate in a contest or giveaway, we request you to provide your email address and zip code (or foreign postal area). If you wish to build or maintain a fan site, we request you to provide your name, country of residence, email address, a password, and a security question and answer. You may also include any additional information in a space provided. You are not required to provide this information, but then you may not receive the services.
+  *  Additional Fan Site Information You Provide. In addition to information required to register a Fan Site account, you may voluntarily provide your company name (if applicable), address, city, state/region, zip code, and phone number. Any information you publish through a Fan Site is stored on our servers. Published information is not kept private.
+  *  Server Log Information. Our servers automatically log certain basic technical information when a user accesses the website, which may include your Internet Protocol (IP) address, your browser’s request to the Fan Sites Org, LLC server(s), the date and time of the request, the language and type of browser you use, the referring web page, your computer’s operating system, and any cookies associated with your browser.
+  *  Communications From You to Us. If you send correspondence or email to us or otherwise communicate with us, we may retain copies of the communications to assist you or for our records.
+  *  Cookies. When you browse to http://fan-sites.org or to any fan site hosted by Fan Sites Org, LLC, our system sends a small file called a “cookie” to your computer that identifies your browser. This allows us to recognize you for purposes of saving your preferences or providing personalized service. We use cookies to record session information, record user-specific information on what pages users access or visit, or customize Web page content based on visitors’ browser type or other information that the visitor sends. Since we use cookies to make your web site visit more user friendly, please be aware that refusing cookies may not allow you to take full advantage of some our web site features.
+  *  Social Networking. We allow you to sign into social networking and other online profiles so you can interact with our services using those accounts. Those social networking sites can only recognize you through these accounts if you specifically agree to share that information by signing in.
+  *  Demographic Data. We may access information about you from third-party sources and platforms (such as databases, online marketing firms, and ad targeting firms) including your age range, gender, location, and interests.
 
-_Consumer Education Related to Social Networking_  
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
 
-http://onguardonline.gov/socialnetworking.html
 
-http://onguardonline.gov/socialnetworking_youth.html
+The only purposes for which Fan Sites Org, LLC processes personal information are those stated in this Privacy Policy, including the above, and the following purposes:
 
-**OTHER INFORMATION/LOGGING AND COOKIES**  
-Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+  *  To assist the technical support of our system
+  *  To maintain and improve the quality of our services through auditing, research and analysis
+  *  To develop new services or enhance existing service.
+  *  To communicate with you or respond to a request.
+  *  To better understand, market to and serve our membership.
+  *  To protect the rights of property or safety of Fan Sites Org, LLC or its members.
+  *  To run contests or giveaways. We may run contests on our sites in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code or foreign postal area). The user’s contact information is used to contact the user when necessary, such as if they win a contest or to notify users of upcoming contests.
 
-We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit http://www.networkadvertising.org/optout_nonppii.asp.
 
-**INFORMATION SHARING AND DISCLOSURE**
 
-Members. In addition to your username, any comments or submissions that you post to the Site will be publicly available. You post and share your Personal Information and content on the Site at your own risk. While we go to great lengths to create a safe and enjoyable experience on the Site, we cannot control the actions of other users with whom you may choose to share your content and/or profile information. In addition, we cannot anticipate other users’ ability to circumvent privacy settings. You understand that, even after removal of your Personal Information and content from the Site, copies of your information may remain viewable in cached or archived Web pages or on the local computers of users who may have downloaded or stored your information.  
-Even with all the appropriate precautions we take to protect your information, we recommend you refrain from sending private information or Personal Information by e-mail, chat, or other messaging services. 
+**2\. Information You Reveal to the Fan Sites Org, LLC Community or Publish on a Fan Site is Public**  
+Any information you contribute as a “comment” to an article or feature is public. Once you post information as a “comment,” Fan Sites Org, LLC cannot prevent others from reviewing it.  
+Any information you post on a Fan Site is public. Once you post information on a Fan Site, Fan Sites Org, LLC cannot prevent others from reviewing it.
 
-Aggregate Information and Non-Identifying Information. We may share aggregated information that includes non-identifying information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. 
+**3\. Where Information is Processed**  
+Fan Sites Org, LLC processes personal information on the secure servers of a hosting service located in the United States of America.
 
-Service Providers. We may employ third party companies and individuals to facilitate the our services, to provide the services on our behalf, to perform services related to administration of the Site (including, without limitation, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
+**4\. Sharing of Information**  
+Fan Sites Org, LLC will not share your personal information with third parties unless:
 
-Business Transfers. We may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+  *   You give consent.
+  *   The information is shared on a need-to-know basis with a person or company engaged as our agent to perform, or contribute to, our services, provided such person or company complies with this Privacy Policy. In the case of contests or giveaways that you participate in, we may share information with a third party who runs the contest, or for shipping purposes.
+  *   We believe in good faith that use or disclosure of the information is reasonably necessary to: (1) detect or prevent fraud or security issues; (2) comply with any law, regulation, legal process or government order; (3) protect the rights of property or safety of Fan Sites Org, LLC or its members; or (4) to enforce Fan Sites Org, LLC’s website policies or investigate potential violations thereof.
 
-_Invite-A-Friend_
 
-If you choose to invite your friends to use the Site, using our invitation options, we will ask for information such as an e-mail address. We will automatically send your friend(s) a one-time e-mail invitation to visit the Site. We store this information to send this one-time invitation, and to track the success of this referral feature.
 
-**CHANGING OR DELETING YOUR INFORMATION**
+**5\. Use of Non-Personal Information**  
+Fan Sites Org, LLC may share with third parties certain pieces of aggregated demographic data that will not identify you or anyone personally, such as the number of users who viewed a particular page in a given time-period, or geographic statistics about our members.
 
-All members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the “user preferences” associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+Ads appearing on this web site are displayed on your screen by either (a) one of our web advertising partners or agents or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser, the type of computer operating system you use, and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personally identifying information), is used to serve advertisements to your screen. We may use your zip code or geographical location information to serve appropriate advertisements. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser.
 
-**SECURITY**
+We may also use third party advertisements placed by ad networks to support our Sites. Some of these advertisers and ad networks may use your zip code or geographic location and technology including, but not limited to, cookies or web beacons when they advertise on our Sites. These advertisers and ad networks may collect and use the non-personal information described above to provide you with relevant advertisements based on your online behavior, activities on our Sites and other third party sites, demographic information, or information relevant to your general location so that the advertising you see on our Sites more closely reflects your interests. If you would like more information about this practice or to opt-out of this type of advertising, please click here.
 
-We are concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
+**6\. Information Security**  
+Any of your personal information that is stored is kept securely on servers maintained by Fan Sites Org, LLC’s hosting provider. Industry-standard encryption technologies are used when transferring and receiving consumer data exchanged with our site, which encrypts information you input, except for domain name data.  
+You are solely responsible for the confidentiality of your password, if any. We suggest you do not share your password with anyone.  
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Fan Sites Org, LLC cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
 
-**INTERNATIONAL TRANSFER**
+**7\. Leaving Fan Sites Org, LLC**  
+By clicking on any outbound links or advertisements on Fan Sites Org, LLC/http://fan-sites.org or its subdomains, you are leaving Fan Sites Org, LLC, and any transfers of information between your computer and the non-Fan Sites Org, LLC website or service you navigate to are not subject to this Privacy Policy.
 
-Your information may be transferred to – and maintained on – computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+**8\. Mergers or Acquisitions**  
+If Fan Sites Org, LLC becomes involved in a merger, acquisition, or other sale of its assets, we will ensure the confidentiality of any personal information involved in the transactions and notify you before the information is transferred or becomes subject to a different privacy policy.
 
-**LINKS TO OTHER SITES**
+**9\. Accessing or Updating Your Information**  
+If you have registered for a Fan Site account, you may login to that account to manage or correct your information.  
+Our site also provides users the opportunity to decline to receive communications from us and our partners at the point where we request information about the visitor.  
+To correct, update, or remove information from our records and databases, or to unsubscribe from services, users have the following options:
 
-The Site contains links to other websites. If you choose to visit an advertiser by “clicking on” a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+  * Users may send a request by email to **PrivacyQuestions@hollywoodfansites.com**
+  * Users may send mail to the following postal address: Fan Sites Org, LLC, 14555 Jay St NW, Andover MN 55304
+  * Users may call the following telephone number in the United States: (952) 303-1838
 
-**VIOLATIONS AND COMMENTS**  
-Please report any violations of this Privacy Policy or make any comments to  
-contact@buzz-media.com. You may also contact us by mail to BUZZMEDIA, 6464 W. Sunset Blvd., #650, Hollywood, California 90028.
 
-——————————————————-
 
-**Privacy Policy**  
-The Fan Sites Network, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+**10\. California Residents**  
+It is not Fan Sites Org, LLC’s practice to disclose your personal information to any third parties that use your information for direct marketing purposes. However, as required by California law, upon letter or email request by any California resident with whom Fan Sites Org, LLC has an established business relationship, Fan Sites Org, LLC will disclose to you each instance, if any, in the immediately preceding calendar year in which Fan Sites Org, LLC disclosed your personal information to a third party that Fan Sites Org, LLC knows or has reason to know used your personal information for direct marketing purposes. See California Civil Code § 1798.83.
 
-**Consumer Information**  
-During the process of delivering an ad to you, The Fan Sites Network does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, The Fan Sites Network does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by The Fan Sites Network is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+Please address such requests to:  
+California Privacy Matters—Fan Sites Org, LLC  
+c/o FSO Privacy Agent  
+2049 Century Park East, Suite 3110  
+Los Angeles, CA 90067 
 
-If you would like additional information about the types of non-personally identifiable information that is collected by The Fan Sites Network please mail us.
+**11\. Changes to this Privacy Policy**  
+This Privacy Policy may change from time to time. Please check here for the most recent update.
 
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, The Fan Sites Network may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, The Fan Sites Network may combine this information with other users” information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
+**12\. Choice / Opt-Out**  
+Users of our sites may opt out of their information being (1) disclosed to third parties; or (2) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user. To opt-out, please submit your request to PrivacyQuestions@hollywoodfansites.com  
+Sensitive personal information will never be disclosed to third parties or used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by a user, unless you expressly grant permission for the use.
 
-**The Fan Sites Network Profile**  
-The Fan Sites Network use anonymous identifiers (cookies) to collect anonymous preference and interest information. This information is provided by The Fan Sites Network and is used by The Fan Sites Network to create anonymous interest profiles on individual browsers. This information does not include any personally identifiable data (such as name, address or e-mail address) that is considered sensitive or controversial or would compromise a consumer’s privacy. The Fan Sites Network profiles are accessed by The Fan Sites Network to tailor site content, promotions and advertising, and to perform market research. The Fan Sites Network allows consumers to opt-out from these profiles at any time.
+**13\. Questions**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-**Data Collection and Opt Out**  
-The Fan Sites Network, as well as most sites on the Internet, uses “cookies” to enhance your experience on the web. The Fan Sites Network cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time The Fan Sites Network serves you an ad. This unique number, which is stored in a cookie file on your computer, helps The Fan Sites Network target ads to you. This cookie can help The Fan Sites Network ensure that we don”t serve you the same ad multiple times, and help our advertisers understand what you like and don”t like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for The Fan Sites Network to deliver you an ad. If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser”s Help documentation for more information.
-
-**Opt Out Procedure**  
-If you would like to “opt out,” that is, to prevent any data from being stored by The Fan Sites Network, please mail us. If you have any additional questions about The Fan Sites Network”s dedication to consumer privacy, please contact us at webmaster@fan-sites.org
+Privacy Matters—Fan Sites Org, LLC  
+c/o FSO Privacy Agent  
+2049 Century Park East, Suite 3110  
+Los Angeles, CA 90067  
+or email us at **PrivacyQuestions@hollywoodfansites.com**
