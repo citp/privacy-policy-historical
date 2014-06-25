@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madonna.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212061700id_/http%3A//madonna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madonna.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082131id_/http%3A//www.madonna.com/privacy) for the most accurate reproduction.*
 
 # Madonna.com > Privacy Policy
 
@@ -80,7 +80,7 @@ To exercise your rights, you can [email](mailto:privacy@livenation.com) us or wr
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@livenation.com) us here. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/controller/cp-children%C3%A2%E2%82%AC%E2%84%A2s-online-privacy).
+Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/controller/cp-children%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%A2%E2%80%9E%C2%A2s-online-privacy).
 
 #### _We use standard security measures._
 
