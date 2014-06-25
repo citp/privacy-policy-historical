@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924150841id_/http%3A//kapost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072908id_/http%3A//kapost.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Kapost
+# Privacy
 
 This Privacy Policy governs the manner in which Kapost collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://kapost.com](http://kapost.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kapost.
 
@@ -54,11 +54,10 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**Kapost**  
-1919 14th Street  
-Suite 450  
-Boulder, CO 80302  
-webmaster@kapost.com  
-[http://kapost.com](http://kapost.com/)
+**Kapost** 1919 14th Street
+
+Suite 450
+
+Boulder, CO 80302 webmaster@kapost.com [http://kapost.com](http://kapost.com/)
 
 This document was last updated on August 21, 2012
