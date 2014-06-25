@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809170711id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051228id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda) for the most accurate reproduction.*
 
 # Welcome to active-domain.com
 
@@ -10,9 +10,9 @@ This privacy statement describes how **active-domain.com** collects and uses you
 
 ## Tracking On This Site »
 
-](https://web.archive.org/web/20130809170711id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)
+](https://web.archive.org/web/20140625051228id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)
 
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20130809170711id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)**
+This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20140625051228id_/https%3A//privacy.truste.com/reseller/privacy-policy/Active-Domain-LLC/certified/f3ba2700-190c-4dfa-a25e-d1ce230d0bda#Tracking)**
 
 * * *
 
