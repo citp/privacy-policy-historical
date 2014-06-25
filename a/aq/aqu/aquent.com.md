@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215184805id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104650id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
 
-# Privacy : Aquent
+# Privacy
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Aquent via and by using the Websites and Aquent services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
