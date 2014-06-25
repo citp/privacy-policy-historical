@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805213249id_/http%3A//tire-size-conversion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125247id_/http%3A//tire-size-conversion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,10 @@ Tire-size-conversion.com does use cookies to store information about visitors pr
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 Google Adsense   
-Commission Junction 
+Commission Junction   
+Link Share   
+Amazon   
+Ebay Partner Network 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on tire-size-conversion.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
