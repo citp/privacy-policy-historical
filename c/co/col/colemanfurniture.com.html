@@ -1,1548 +1,837 @@
-<!--The following is the downloaded HTML source of the colemanfurniture.com privacy policy that was archived on 2013-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131011015734id_/http%3A//www.colemanfurniture.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colemanfurniture.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083944id_/http%3A//colemanfurniture.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MS7RW2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://2094d84e68cead52ad8d-2251e766ed4e4718871c5e368e409464.ssl.cf2.rackcdn.com/gate.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8CWFJXGwcCUVJWDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Policy - Coleman Furniture.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta name="robots" content="NOINDEX,FOLLOW">
-<meta name="y_key" content="82c06cc8cfddbc52">
-<meta name="msvalidate.01" content="941337389865A0205395DDB6612B5AD2">
-<meta name="google-site-verification" content="sRgbmxlCpphHhNFLdbplXqaM2qeOR28_xkLfWrEZNaA">
-<meta http-equiv="X-UA-Compatible" content="IE=8">
-<link rel="icon" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/logo.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/logo.ico" type="image/x-icon">
-
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js" type="text/javascript"></script>
-  <script type="text/javascript">thefind.upfront.init('tf_upfront_badge', 'c624f1d27933b5558348b8afeb95e42d')</script>
-
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/builder.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js"></script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/controls.js"></script>
-  
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://colemanfurniture.com/skin/frontend/default/rfg/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://colemanfurniture.com/skin/frontend/default/rfg/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.colemanfurniture.com/js/blank.html';
-    var BLANK_IMG = 'http://www.colemanfurniture.com/js/spacer.gif';
-    var SKIN_URL  = 'http://www.colemanfurniture.com/skin/frontend/default/coleman/';
+    var BLANK_URL = 'http://colemanfurniture.com/js/blank.html';
+    var BLANK_IMG = 'http://colemanfurniture.com/js/spacer.gif';
 //]]>
 </script>
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/custom.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/slideshow.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/manufacturers/manufacturers.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/renegade/superfish.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/default/css/print.css" media="print">
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/jquery/jquery.slideshow.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/varien/js.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/default/coleman/js/jquery/plugins/jquery.innerfade.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/default/default/js/jquery/plugins/jquery.floatobject.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/default/coleman/js/jquery/plugins/hoverIntent.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/default/coleman/js/jquery/plugins/superfish.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/default/coleman/js/jquery/plugins/supersubs.js"></script>
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/styles-ie.css" media="all" />
 <![endif]-->
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/ie7.css" media="all" />
-<![endif]-->
-<!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.colemanfurniture.com/skin/frontend/default/coleman/css/ie8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://colemanfurniture.com/media/css/8f3eb73ef0507578619fc860ecbc3d2f.css" media="all">
+<script type="text/javascript" src="http://colemanfurniture.com/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/qaz/qbanner/jqueryNoconfig.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/qaz/qbanner/jquery.slides.min.js"></script>
+<script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/6aa508312b24062fcb687727708b1978-ns.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://colemanfurniture.com/media/css/b10c2fffa98302747842664b08374193.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.colemanfurniture.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.colemanfurniture.com/skin/frontend/base/default/js/ie6.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://colemanfurniture.com/skin/frontend/base/default/js/ie6.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
 //<![CDATA[
-optionalZipCountries = [];
+optionalZipCountries = ["IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body>
-<div id="mainContainer">
-	<!--  Start Header -->
-	<div id="main">
-		<!-- BEGIN: buySAFE Seal -->
-<script type="text/javascript" src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
-<span id="BuySafeSealSpan"></span>
-<script type="text/javascript">
-buySAFE.Hash = '%2FdBCtolo59zT4DyiWK%2F%2FbfNBw4ONPnLaSguiVOKUKAVYiTYbKMOkwgiDDLzp4YbTBNRnMXhVi%2FSpi3HYRt098Q%3D%3D';
-WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
-</script>
-<!-- END: buySAFE Seal -->
-<div id="header">
-    
-    <div id="logo">
-                <a href="http://www.colemanfurniture.com/" title="Coleman Furniture">
-            <img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/blue/logo.jpg" alt="Coleman Furniture">
-        </a>
-           </div>
-    <!-- search box -->
-    <div id="searchbox-container">
-        <div id="searchbox">
-            <form id="search-mini-form" method="get" action="http://www.colemanfurniture.com/catalogsearch/result/">
 
-                        <input type="text" class="search-field" name="q">
-                           
-                        <input src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/blue/go-button.png" type="image">
+<!-- Magic Zoom Plus Magento module version v4.7.20 [v1.3.9:v4.5.12] -->
+<link type="text/css" href="http://colemanfurniture.com/skin/frontend/default/default/css/magiczoomplus/magiczoomplus.css" rel="stylesheet" media="screen">
+<script type="text/javascript" src="http://colemanfurniture.com/skin/frontend/default/default/js/magiczoomplus.js"></script>
+<script type="text/javascript">
+	MagicZoomPlus.options = {
+		'caption-source':'span',
+		'zoom-width':'300',
+		'zoom-height':'300',
+		'zoom-position':'right',
+		'zoom-align':'top',
+		'zoom-distance':15,
+		'expand-size':'fit-screen',
+		'expand-position':'center',
+		'expand-align':'screen',
+		'expand-effect':'back',
+		'restore-effect':'linear',
+		'expand-speed':500,
+		'restore-speed':500,
+		'expand-trigger':'click',
+		'expand-trigger-delay':200,
+		'restore-trigger':'auto',
+		'keep-thumbnail':true,
+		'opacity':50,
+		'opacity-reverse':false,
+		'zoom-fade':true,
+		'zoom-window-effect':'shadow',
+		'zoom-fade-in-speed':200,
+		'zoom-fade-out-speed':200,
+		'fps':25,
+		'smoothing':true,
+		'smoothing-speed':40,
+		'pan-zoom':true,
+		'selectors-change':'click',
+		'selectors-class':'',
+		'preload-selectors-small':true,
+		'preload-selectors-big':false,
+		'selectors-effect':'dissolve',
+		'selectors-effect-speed':400,
+		'selectors-mouseover-delay':60,
+		'initialize-on':'load',
+		'click-to-activate':false,
+		'click-to-deactivate':false,
+		'show-loading':true,
+		'loading-msg':'Loading zoom...',
+		'loading-opacity':75,
+		'loading-position-x':-1,
+		'loading-position-y':-1,
+		'entire-image':false,
+		'show-title':'top',
+		'caption-width':300,
+		'caption-height':300,
+		'caption-position':'bottom',
+		'caption-speed':250,
+		'right-click':'false',
+		'background-opacity':30,
+		'background-color':'#000000',
+		'background-speed':200,
+		'buttons':'show',
+		'buttons-display':'previous, next, close',
+		'buttons-position':'auto',
+		'always-show-zoom':false,
+		'drag-mode':false,
+		'move-on-click':true,
+		'x':-1,
+		'y':-1,
+		'preserve-position':false,
+		'fit-zoom-window':true,
+		'slideshow-effect':'dissolve',
+		'slideshow-loop':true,
+		'slideshow-speed':800,
+		'z-index':10001,
+		'keyboard':true,
+		'keyboard-ctrl':false,
+		'hint':true,
+		'hint-text':'Zoom',
+		'hint-position':'tl',
+		'hint-opacity':75,
+		'disable-expand':false,
+		'disable-zoom':false
+	}
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+<style type="text/css">
+@media print{
+  *     { background:none !important; text-align:left !important; }
+html  { margin:0 !important; padding:0 !important; }
+body  { background:#fff !important; font-size:9pt !important; padding:0 !important; margin:10px !important; }
+a     { color:#2976c9 !important; }
+th,td { color:#2f2f2f !important;  border-color:#ccc !important; }
  
-            </form>
-        </div>
-    </div>
-    <!--Quick Navigation and account info -->
-    <div id="quick-navigation">
-        <div class="phone-info">
-            <img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/blue/phone-info.png" alt="0800-974-5255" title="0800-974-5255">
-        </div>
-        <div class="cart-info">
-                        <ul class="links">
-            <li class="first"><a href="http://www.colemanfurniture.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a> &nbsp;|&nbsp; </li>
-	            <li class=" last"><a href="https://www.colemanfurniture.com/firecheckout/" title="Checkout" class="top-link-checkout">Checkout</a> </li>
-	    </ul>
-        </div>
-        <div class="account-info">                
-            <div class="links">
-               <ul class="links">
-            <li class="first"><a href="https://www.colemanfurniture.com/customer/account/" title="My Account">My Account</a> &nbsp;|&nbsp; </li>
-	            <li><a href="https://www.colemanfurniture.com/customer/account/login/" title="Log In">Log In</a> &nbsp;|&nbsp; </li>
-	            <li class=" last"><a href="https://www.colemanfurniture.com/customer/account/create/" title="Register">Register</a> </li>
-	    </ul>
-            </div>
-            <div class="facebook-like">
-                <div id="fb-root"></div>
-                <script>(function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));</script>
+.header-container,
+.nav-container,
+.footer-container,
+.pager,
+.toolbar,
+.actions,
+.buttons-set { display:none !important; }
+ 
+.page-print .data-table .cart-tax-total { background-position:100% -54px; }
+.page-print .data-table .cart-tax-info { display:block !important; }
+}
+</style> </head>
+<body class=" cms-page-view cms-privacy-policy">
 
 
-                <div class="fb-like" data-href="http://www.colemanfurniture.com" data-send="false" data-layout="button_count" data-width="75" data-show-faces="false"></div>
-            </div>
-        </div>
-        <div class="clear">&nbsp;</div>
-    </div>
-</div>
 
 <script type="text/javascript">
-
-    jQuery(document).ready(function(){
-        jQuery("ul.sf-menu").supersubs({
-            minWidth:    12,   // minimum width of sub-menus in em units
-            maxWidth:    27,   // maximum width of sub-menus in em units
-            extraWidth:  1     // extra width can ensure lines don't sometimes turn over
-                               // due to slight rounding differences and font-family
-        }).superfish();  // call supersubs first, then superfish, so that subs are
-                         // not display:none when measuring. Call before initialising
-                         // containing tabs for same reason.
-    });
-
+if(typeof ROITracker==="undefined"){window.ROIStorage={};ROIStorage.q=[];window.ga=function(){ROIStorage.q.push(arguments)};window.ga.q=window.ga.q||[];ROIStorage.roiq=[];ROIStorage.analyticsJsNotLoaded=true;window.ga.q.push([function(){var e;ROIStorage.realGa=window.ga;ROIStorage.analyticsJsNotLoaded=false;window.ga=function(){if(typeof arguments[0]==="function"){ROIStorage.realGa(arguments)}else{ROIStorage.q.push(arguments)}};ROIStorage.roiq.push=function(){ROIStorage.realGa.apply(window,arguments)};for(e=0;e<ROIStorage.roiq.length;e+=1){ROIStorage.realGa.call(window,ROIStorage.roiq[e])}}])}ROIStorage.gaq=ROIStorage.gaq||[];var _gaq={push:function(){var e;for(e=0;e<arguments.length;e++){ROIStorage.gaq.push(arguments[e])}}};ROIStorage.gaq=ROIStorage.gaq||[];var _gat={trackingObjects:{},_createTracker:function(e,t){return new _gat.Tracker(e,t)},_getTracker:function(e){return _gat._createTracker(e)},_getTrackerByName:function(e){var e=e||"";if(_gat.trackingObjects.hasOwnProperty(e)){return _gat.trackingObjects[e]}return _gat._createTracker("UA-XXXXX-X",e)},_anonymizeIp:function(){ROIStorage.gaq.push("_gat._anonymizeIp")},_forceSSL:function(){ROIStorage.gaq.push("_gat._forceSSL")},_getPlugin:function(){ROIStorage.gaq.push("_gat._getPlugin")},Tracker:function(e,t){function u(e){return function(){if(s){e=s+"."+e}var t=Array.prototype.slice.call(arguments,0);t.unshift(e);ROIStorage.gaq.push(t)}}var n,r,i=["_addDevId","_addEventListener","_addIgnoredOrganic","_addIgnoredRef","_addItem","_addOrganic","_addTrans","_clearIgnoredOrganic","_clearIgnoredRef","_clearOrganic","_clearTrans","_clearXKey","_clearXValue","_cookiePathCopy","_createEventTracker","_createXObj","_deleteCustomVar","_get","_getAccount","_getClientInfo","_getDetectFlash","_getDetectTitle","_getLinkerUrl","_getLocalGifPath","_getName","_getPlugin","_getServiceMode","_getVersion","_getVisitorCustomVar","_getXKey","_getXValue","_initData","_link","_linkByPost","_removeEventListener","_sendXEvent","_set","_setAccount","_setAllowAnchor","_setAllowHash","_setAllowLinker","_setAutoTrackOutbound","_setCampCIdKey","_setCampContentKey","_setCampIdKey","_setCampMediumKey","_setCampNOKey","_setCampNameKey","_setCampSourceKey","_setCampTermKey","_setCampaignCookieTimeout","_setCampaignTrack","_setClientInfo","_setCookiePath","_setCookiePersistence","_setCookieTimeout","_setCustomVar","_setDetectFlash","_setDetectTitle","_setDomainName","_setHrefExamineLimit","_setLocalGifPath","_setLocalRemoteServerMode","_setLocalServerMode","_setMaxCustomVariables","_setNamespace","_setPageGroup","_setReferrerOverride","_setRemoteServerMode","_setSampleRate","_setSessionCookieTimeout","_setSessionTimeout","_setSiteSpeedSampleRate","_setTrackOutboundSubdomains","_setTrans","_setTransactionDelim","_setVar","_setVisitorCookieTimeout","_setXKey","_setXValue","_trackEvent","_trackPageLoadTime","_trackPageview","_trackSocial","_trackTiming","_trackTrans","_visitCode"];var s=t||"";var o=e||"UA-XXXXX-X";for(n=0;n<i.length;n++){r=i[n];this[r]=u(r)}_gat.trackingObjects[s]=this}};
+(function () {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://2094d84e68cead52ad8d-2251e766ed4e4718871c5e368e409464.ssl.cf2.rackcdn.com/gate.js' : 'http://afa2f9f367f75b77c7c0-2251e766ed4e4718871c5e368e409464.r48.cf2.rackcdn.com/gate.js');
+       var s = document.getElementsByTagName('script')[0];
+       s.parentNode.insertBefore(ga, s);
+   })();
 </script>
-<div class="nav-container">
-    <ul class="sf-menu">
-                    <li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture.htm">
-<span>Bedroom</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedroom-sets.htm">
-<span>Bedroom Sets</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture/beds.htm">
-<span>Beds</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/beds/king-size-beds.htm">
-<span>King Size Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/beds/queen-size-bed.htm">
-<span>Queen Size Bed</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/beds/full-size-beds.htm">
-<span>Full Size Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/beds/twin-size-beds.htm">
-<span>Twin Size Beds</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/dressers.htm">
-<span>Dressers</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/chests.htm">
-<span>Chests</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/nightstands.htm">
-<span>Night Stands</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/armoires.htm">
-<span>Armoires</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/media-chest.htm">
-<span>Media Chests</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/daybeds-trundle-bed.htm">
-<span>Daybeds, Trundle Bed</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture/mattress-foam-mattress.htm">
-<span>Mattress, Foam Mattress</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/mattress-foam-mattress/box-springs-foundations.htm">
-<span>Box Springs &amp; Foundations</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/benches-seating.htm">
-<span>Benches &amp; Seating</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/trunks.htm">
-<span>Trunks</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedroom-mirrors.htm">
-<span>Bedroom Mirrors</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedroom-mirrors/dresser-mirrors.htm">
-<span>Dresser Mirrors</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedroom-mirrors/floor-mirrors.htm">
-<span>Floor Mirrors</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedroom-mirrors/wall-mirrors.htm">
-<span>Wall Mirrors</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/step-stool.htm">
-<span>Step Stool</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bed-frames-headboards.htm">
-<span>Bed Frames &amp; Headboards</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bed-frames-headboards/king-headboards-frames.htm">
-<span>King Headboards &amp; Frames</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bed-frames-headboards/queen-headboards-frames.htm">
-<span>Queen Headboards &amp; Frames</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bed-frames-headboards/twin-headboards-frames.htm">
-<span>Twin Headboards &amp; Frames</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bed-frames-headboards/full-headboards-frames.htm">
-<span>Full Headboards &amp; Frames</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/jewelry-armoires.htm">
-<span>Jewelry Armoires</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/vanity-tables.htm">
-<span>Vanity Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/blanket-racks.htm">
-<span>Blanket Racks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/valet.htm">
-<span>Valet</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters.htm">
-<span>Bedding Sets and Comforters</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters/king-bedding.htm">
-<span>King Bedding</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters/queen-bedding.htm">
-<span>Queen Bedding</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters/full-bedding.htm">
-<span>Full Bedding</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters/twin-bedding.htm">
-<span>Twin Bedding</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/sinks.htm">
-<span>Sinks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bedroom-furniture/miscellaneous.htm">
-<span>Miscellaneous</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/living-room-furniture.htm">
-<span>Living</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/living-room-sets.htm">
-<span>Living Room Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/sectionals.htm">
-<span>Sectionals</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/sofas.htm">
-<span>Sofas</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/loveseats.htm">
-<span>Loveseats</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/gliders-rocker-recliners.htm">
-<span>Rockers &amp; Recliners</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/living-room-chairs.htm">
-<span>Living Room Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/wing-chairs.htm">
-<span>Wing Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/gliders.htm">
-<span>Gliders</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/chaises.htm">
-<span>Chaises</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/ottomans.htm">
-<span>Ottomans</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/massage-chairs.htm">
-<span>Massage Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/living-room-furniture/miscellaneous.htm">
-<span>Miscellaneous</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture.htm">
-<span>Dining</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-room-sets.htm">
-<span>Dining &amp; Kitchen Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-dinette-tables.htm">
-<span>Dining &amp; Kitchen Tables</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-chairs.htm">
-<span>Dining Chairs</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-chairs/side-chairs.htm">
-<span>Side Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-chairs/arm-chairs.htm">
-<span>Arm Chairs</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/servers-and-sideboards.htm">
-<span>Servers, Sideboards &amp; Buffets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/china-cabinets-buffet-hutches.htm">
-<span>China Cabinets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/curios-displays.htm">
-<span>Curios &amp; Displays</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/dining-mirrors.htm">
-<span>Dining Mirrors</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/counter-height-stools-chairs.htm">
-<span>Counter Height Stools, Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/bakers-racks.htm">
-<span>Bakers Racks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/benches.htm">
-<span>Benches</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/dining-and-kitchen-furniture/kitchen-island-kitchen-cart.htm">
-<span>Kitchen Island, Kitchen Cart</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/kids-furniture.htm">
-<span>Kids</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-bedroom-sets.htm">
-<span>Kids Bedroom Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-beds.htm">
-<span>Kids Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/lofts-bunk-beds.htm">
-<span>Lofts &amp; Bunk Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/baby-furniture.htm">
-<span>Cribs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-dressers-chests.htm">
-<span>Kids Dressers &amp; Chests</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-chests.htm">
-<span>Kids Chests</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-nightstands.htm">
-<span>Kids Nightstands</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-desks-hutches.htm">
-<span>Kids Desks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-lounge-chairs.htm">
-<span>Kids Lounge Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-bedroom-mirrors.htm">
-<span>Kids Bedroom Mirrors</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-chairs-tables.htm">
-<span>Kids Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-tv-stands-consoles.htm">
-<span>Kids TV Stands &amp; Consoles</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-bedding.htm">
-<span>Kids Bedding</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-armoires.htm">
-<span>Kids Armoires</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/kids-bookcases-storage.htm">
-<span>Kids Bookcases &amp; Storage</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/kids-furniture/miscellaneous.htm">
-<span>Miscellaneous</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/entertainment-furniture.htm">
-<span>Entertainment</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/entertainment-furniture/entertainment-centers-walls.htm">
-<span>Entertainment Centers &amp; Walls</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/entertainment-furniture/tv-stands-tv-consoles.htm">
-<span>TV Stands &amp; TV Consoles</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/entertainment-furniture/game-tables-game-room.htm">
-<span>Game Tables, Game Room</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/entertainment-furniture/home-theater-seating.htm">
-<span>Home Theater Seating</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/entertainment-furniture/audio-cabinet.htm">
-<span>Audio Cabinet | Video Cabinet</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture.htm">
-<span>Accent &amp; Occasional</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/occasional-table-sets.htm">
-<span>Occasional Table Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/accent-chairs.htm">
-<span>Accent Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/accent-tables-pedestal-tables.htm">
-<span>Accent Tables, Pedestal Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/consoles-hall-tables.htm">
-<span>Consoles, Hall Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/console-cabinets.htm">
-<span>Accent Chest</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/coffee-tables-cocktail-tables.htm">
-<span>Coffee Tables &amp; Cocktail Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/accent-mirrors.htm">
-<span>Accent Mirrors</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/pet-beds.htm">
-<span>Pet Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/bombe-chest.htm">
-<span>Bombe Chests</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/drum-tables.htm">
-<span>Drum Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/side-tables-sofa-tables.htm">
-<span>Side Tables &amp; Sofa Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/end-tables.htm">
-<span>End Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/nesting-tables.htm">
-<span>Bunching Tables, Nesting Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/fireplaces.htm">
-<span>Fireplaces</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/hall-trees-storage-bench.htm">
-<span>Hall Trees, Storage Bench</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/room-dividers.htm">
-<span>Room Dividers</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/coat-racks-coat-tree.htm">
-<span>Coat Racks, Coat Tree</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/snack-tables.htm">
-<span>Snack Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accent-occasional-furniture/etagere.htm">
-<span>Etagere</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture.htm">
-<span>Bar</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/bar-sets-pub-sets.htm">
-<span>Bar Sets, Pub Sets</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/bar-stools-counter-stools.htm">
-<span>Bar Stools, Counter Stools</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/bar-stools-counter-stools/counter-seat-height-approx-24.htm">
-<span>Counter Seat Height (approx. 24")</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/bar-stools-counter-stools/bar-pub-table-seat-height-approx-30.htm">
-<span>Bar / Pub Table Seat Height (approx. 30")</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/home-bars-cabinets.htm">
-<span>Bars &amp; Bar Cabinets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/bar-table-pub-table.htm">
-<span>Bar Tables, Pub Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/bar-stools-bar-furniture/wine-racks.htm">
-<span>Wine Racks</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture.htm">
-<span>Office</span>
-</a>
-<ul class="level0">
-<li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs.htm">
-<span>Office Chairs</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/leather-executive-chairs.htm">
-<span>Leather Executive Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/mesh-office-chairs.htm">
-<span>Mesh Office Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/fabric-and-vinyl-office-chairs.htm">
-<span>Fabric and Vinyl Office Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/task-chairs.htm">
-<span>Task Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/big-tall-chairs.htm">
-<span>Big &amp; Tall Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/reception-chairs-waiting-room-chairs.htm">
-<span>Reception Chairs - Waiting Room Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/drafting-stools.htm">
-<span>Drafting Stools</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/kneeling-chairs.htm">
-<span>Kneeling Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/stack-chairs.htm">
-<span>Stack Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-chairs/stools.htm">
-<span>Office Stools</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/home-office-sets.htm">
-<span>Home Office Sets</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture/desks-hutches.htm">
-<span>Desks &amp; Hutches</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/office-furniture/desks-hutches/home-office-desks.htm">
-<span>Home Office Desks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/desks-hutches/home-office-desks-with-hutches.htm">
-<span>Home Office Desks with Hutches</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/desks-hutches/hutches.htm">
-<span>Hutches</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/desks-hutches/credenzas.htm">
-<span>Credenzas</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/file-cabinet-filing.htm">
-<span>File Cabinet, Filing</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/bookcases-book-shelves.htm">
-<span>Bookcases, Book Shelves</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/writing-desks-secretary-desks.htm">
-<span>Writing Desks, Secretary Desks</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office.htm">
-<span>Commercial Office</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/office-suites.htm">
-<span>Office Suites</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/desks.htm">
-<span>Desks</span>
-</a>
-<ul class="level2">
-<li>
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/desks/desks.htm">
-<span>Desks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/desks/l-desks.htm">
-<span>L-Desks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/desks/corner-desks.htm">
-<span>Corner Desks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/commercial-office/desks/u-desks.htm">
-<span>U-Desks</span>
-</a>
-</li>
-</ul>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/reception-area-furniture.htm">
-<span>Reception Furniture</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/conference-room.htm">
-<span>Conference Room</span>
-</a>
-</li><li class="current">
-<a href="http://www.colemanfurniture.com/office-furniture/modular-office-furniture.htm">
-<span>Modular Office Furniture</span>
-</a>
-<ul class="level1">
-<li>
-<a href="http://www.colemanfurniture.com/office-furniture/modular-office-furniture/office-cubicles-and-office-panel-systems.htm">
-<span>Office Cubicles and Office Panel Systems</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/modular-office-furniture/office-panels-privacy-panel.htm">
-<span>Office Panels - Privacy Panel</span>
-</a>
-</li>
-</ul>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/office-organizers.htm">
-<span>Office Organizers</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/office-furniture/miscellaneous.htm">
-<span>Miscellaneous</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture.htm">
-<span>Outdoor</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-patio-sets.htm">
-<span>Outdoor Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-beds.htm">
-<span>Outdoor Beds</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/sofas-and-loveseats.htm">
-<span>Outdoor Sofas and Loveseats</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-chairs.htm">
-<span>Outdoor Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-chaise-lounges.htm">
-<span>Outdoor Chaise Loungers</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-tables.htm">
-<span>Outdoor Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-bar-stools.htm">
-<span>Outdoor Bar Stools</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/patio-end-tables-coffee-tables.htm">
-<span>Outdoor End Tables/Coffee Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/patio-benches.htm">
-<span>Outdoor Benches</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-ottomans.htm">
-<span>Outdoor Ottomans</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/outdoor-patio-furniture/outdoor-accessories.htm">
-<span>Outdoor Accessories</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/commercial-furniture.htm">
-<span>Commercial</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/chiavari-chairs.htm">
-<span>Chiavari Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/banquet-chairs.htm">
-<span>Banquet Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/folding-chairs.htm">
-<span>Folding Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/church-chairs.htm">
-<span>Church Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/classroom-chairs.htm">
-<span>Classroom Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/wood-restaurant-chairs.htm">
-<span>Wood Restaurant Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/wood-restaurant-bar-stools.htm">
-<span>Wood Restaurant Bar Stools</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/metal-restaurant-chairs.htm">
-<span>Metal Restaurant Chairs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/metal-restaurant-bar-stools.htm">
-<span>Metal Restaurant Bar Stools</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/folding-tables.htm">
-<span>Folding Tables</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/restaurant-table-tops.htm">
-<span>Restaurant Table Tops</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/restaurant-table-bases.htm">
-<span>Restaurant Table Bases</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/commercial-furniture/folding-chair-dollies.htm">
-<span>Folding Chair Dollies</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/accessories.htm">
-<span>Accessories</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/accessories/accessory-sets.htm">
-<span>Accessory Sets</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/decorative.htm">
-<span>Decorative</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/rugs.htm">
-<span>Rugs</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/cushions-blankets-throws.htm">
-<span>Cushions/Blankets/Throws</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/clocks.htm">
-<span>Clocks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/art.htm">
-<span>Art</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/magazine-racks.htm">
-<span>Magazine Racks</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/picture-frames.htm">
-<span>Picture Frames</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/decorative-bowls.htm">
-<span>Decorative Bowls</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/sculptures-and-figurines.htm">
-<span>Sculptures and Figurines</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/candle-holders.htm">
-<span>Candle Holders</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/vases.htm">
-<span>Vases</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/bookends.htm">
-<span>Bookends</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/botanicals.htm">
-<span>Permanant Botanicals</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/plant-stands.htm">
-<span>Plant Stands</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/accessories/fireplace-accessories.htm">
-<span>Fireplace Accessories</span>
-</a>
-</li>
-</ul>
-</li>                    <li class="current">
-<a href="http://www.colemanfurniture.com/lighting.htm">
-<span>Lighting</span>
-</a>
-<ul class="level0">
-<li>
-<a href="http://www.colemanfurniture.com/lighting/table-lamps-floor-lamps.htm">
-<span>Table Lamps</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/lighting/floor-lamps.htm">
-<span>Floor Lamps</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/lighting/lighting-fixtures.htm">
-<span>Lighting Fixtures</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/lighting/wall-sconces.htm">
-<span>Wall Sconces</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/lighting/pendants-mini-pendants.htm">
-<span>Pendants-Mini Pendants</span>
-</a>
-</li><li>
-<a href="http://www.colemanfurniture.com/lighting/chandeliers.htm">
-<span>Chandeliers</span>
-</a>
-</li>
-</ul>
-</li>                <li class="current shop-by-brand">
-    <a href="/manufacturers.html" style="color: #444;">Shop By Brand</a>
-    <ul>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/aico-furniture.html" class="">
-                <span>Aico Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/american-woodcrafters.html" class="">
-                <span>American Woodcrafters</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/art-furniture.html" class="">
-                <span>ART Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/bestar-furniture.html" class="">
-                <span>Bestar Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/brownstone-furniture.html" class="">
-                <span>Brownstone Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/broyhill-furniture.html" class="">
-                <span>Broyhill Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/bush-furniture.html" class="">
-                <span>Bush Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/butler-furniture.html" class="">
-                <span>Butler Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/coaster.html" class="">
-                <span>Coaster Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/chic-home-furniture" class="">
-                <span>Curations Limited</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/domitalia.html" class="">
-                <span>Domitalia</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/fairmont-designs.html" class="">
-                <span>Fairmont Designs</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/fashion-bed-group.html" class="">
-                <span>Fashion Bed Group</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/homelegance.html" class="">
-                <span>Homelegance Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/kidz-workd.html" class="">
-                <span>Kidz World</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/klaussner.html" class="">
-                <span>Klaussner Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/largo-furniture.html" class="">
-                <span>Largo Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/leather-italia" class="">
-                <span>Leather Italia</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/legacy-classic.html" class="">
-                <span>Legacy Classic</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/liberty-furniture.html" class="">
-                <span>Liberty Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/luke-leather.html" class="">
-                <span>Luke Leather</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/mac-motion.html" class="">
-                <span>Mac Motion</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/magnussen.html" class="">
-                <span>Magnussen Home</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/med-lift.html" class="">
-                <span>Med-Lift</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/millennium-by-ashley.html" class="">
-                <span>Millennium by Ashley</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/padmas-plantation.html" class="">
-                <span>Padmas Plantation</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/parker-house.html" class="">
-                <span>Parker House Furniture </span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/pulaski.html" class="">
-                <span>Pulaski Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/renegade-furniture" class="">
-                <span>Renegade Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/rizzy-home.html" class="">
-                <span>Rizzy Home</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/rossetto.html" class="">
-                <span>Rossetto Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/samuel-lawrence.html" class="">
-                <span>Samuel Lawrence Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/signature-design-by-ashley.htm" class="">
-                <span>Signature Design by Ashley</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/simmons.html" class="">
-                <span>Simmons</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/somerton-furniture.html" class="">
-                <span>Somerton Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/star_international.html" class="">
-                <span>Star International</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/stein-world.html" class="">
-                <span>Stein World</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/sunpan-modern-home.html" class="">
-                <span>Sunpan Modern Home</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/tov-furniture.html" class="">
-                <span>TOV Furniture</span>
-            </a>
-        </li>
-                <li>
-            <a href="http://www.colemanfurniture.com/manufacturers/uttermost.html" class="">
-                <span>Uttermost</span>
-            </a>
-        </li>
-            </ul>
-</li>
-    </ul>
-</div>
 
 
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-2438980-1']);
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MS7RW2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MS7RW2');</script>
+
+<!-- End Google Tag Manager -->
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+ <div class="header-container">
+    <div class="header">
+                <h1 class="logo"><strong>Coleman Furniture</strong><a href="http://colemanfurniture.com/" title="Coleman Furniture" class="logo"><img width="225" height="70" src="http://colemanfurniture.com/skin/frontend/default/rfg/images/cf-logo.png" alt="Coleman Furniture"></a></h1>
+                <div class="quick-access">
+			 <form id="search_mini_form" action="http://colemanfurniture.com/searchresults.html" method="get" enctype="text-plain">
+    <div class="form-search">
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="255">
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>		
+    </div>
+</form>
+ 
+						 <div class="hdr-contact">
+<span class="hdr-call-text">Call us now at</span>
+<span class="hdr-call-number">800-974-5255</span>
+<span class="hdr-call-info">U.S. Based Customer Services</span>
+</div> 
+			 <div class="hdr-right">
+				<div class="hdr-social-links"><a class="hdr-social-icon icon1" href="https://www.facebook.com/colemanfurniture" target="_blank">Facebook</a> <a class="hdr-social-icon icon2" href="https://twitter.com/ColemanOnline" target="_blank">Twitter</a> <a class="hdr-social-icon icon3" href="http://www.pinterest.com/colemanfurn/" target="_blank">Pinterest</a> <!--<a class="hdr-social-icon icon4">RSS</a>
+<a class="hdr-social-icon icon5">G plus</a> --> <a class="hdr-social-icon icon6" href="http://www.houzz.com/pro/colemanfurniture1/coleman-furniture" target="_blank">Houzz</a> <!--<a class="hdr-social-icon icon7">Blog</a>--> <a class="hdr-social-icon icon8" href="http://www.youtube.com/user/ColemanFurniture" target="_blank">You Tube</a></div> 
+               		 <span>
+                    	 <a href="http://www.shopperapproved.com/reviews/colemanfurniture.com/" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; var certheight=screen.availHeight-90; window.open(this.href,'shopperapproved','location='+nonwin+',scrollbars=yes,width=620,height='+certheight+',menubar=no,toolbar=no'); return false;"><img src="https://c683207.ssl.cf2.rackcdn.com/9851-m.gif" style="border: 0" alt="" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by Shopper Approved \251 '+d.getFullYear()+'.'); return false;"></a> 
+                    </span>
+				<ul class="links">
+					<li class="first top-link-account">
+						<a href="http://colemanfurniture.com/customer/account/" title="My Account">
+							<span>Account</span>
+						</a>
+									  				
+						<div class="top-account-pulldown header-top-pulldown">
+											     <span class="popup-arrow"></span>
+								<ul class="account-more-links">	
+<li><a href="http://colemanfurniture.com/customer/account/login/">Sign Up</a></li>
+									<li><a href="http://colemanfurniture.com/wishlist">My Wishlist</a></li>
+									<li><a href="http://colemanfurniture.com/sales/order/history/">My Orders</a></li>
+									
+																			<li class="last logout" style="display:none"><a href="http://colemanfurniture.com/customer/account/logout/">Sign Out</a></li>
+										<li class="last login"><a href="http://colemanfurniture.com/customer/account/login/">Sign In</a></li>	
+																	</ul>
+						</div>
+					</li>
+					<li class="top-link-cart">
+												<a href="http://colemanfurniture.com/checkout/cart/" title="Shopping Cart">
+							<span id="cart_count">Cart </span>
+						</a>
+						<div class="header-top-cart">
+							<!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
+
+ <div class="header-top-cart header-top-pulldown">
+	<span class="popup-arrow"></span>
 	
+	<div class="block block-cart">
+				<div class="block-content">
+					<p class="empty">You have no items in your shopping cart.</p>			
+						</div>
 	</div>
-	<!--  End Header --> 
-	 <div class="breadcrumbs">
-	<p>
-		                            <a href="http://www.colemanfurniture.com/" title="Go to Home Page">Home</a>
-                                        <span>/ </span>
-                        
-                                    <strong>Privacy Policy - Coleman Furniture.com</strong>
-                                    
-        	</p>
 </div>
-<!-- <div class="breadcrumbs">
+ 
+<!-- ESI END DUMMY COMMENT [] -->
+						</div>
+					</li>
+				</ul>
+			 </div>
+			<p class="welcome-msg"></p>
+					</div>
+    </div>
+	 
+<div class="nav-container">
+	<ul id="nav">
+						<li class="level0 nav-1 first level-top parent" id="topmenucat-category-node-3"><span class="span-corner"></span><a href="http://colemanfurniture.com/bedroom-furniture.htm" class="level-top"><span>Bedroom</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-1-1 first" id="topmenucat-category-node-11"><a href="http://colemanfurniture.com/bedroom-furniture/bedroom-sets.htm"><span>Bedroom Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="11"></div></li><li class="level1 nav-1-2" id="topmenucat-category-node-13"><a href="http://colemanfurniture.com/bedroom-furniture/beds.htm"><span>Beds</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="13"></div></li><li class="level1 nav-1-3" id="topmenucat-category-node-16"><a href="http://colemanfurniture.com/bedroom-furniture/night-stands.htm"><span>Night Stands</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="16"></div></li><li class="level1 nav-1-4" id="topmenucat-category-node-14"><a href="http://colemanfurniture.com/bedroom-furniture/dressers.htm"><span>Dressers</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="14"></div></li><li class="level1 nav-1-5" id="topmenucat-category-node-50"><a href="http://colemanfurniture.com/bedroom-furniture/bedroom-mirrors.htm"><span>Bedroom Mirrors</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="50"></div></li><li class="level1 nav-1-6" id="topmenucat-category-node-15"><a href="http://colemanfurniture.com/bedroom-furniture/chests.htm"><span>Chests</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="15"></div></li><li class="level1 nav-1-7" id="topmenucat-category-node-68"><a href="http://colemanfurniture.com/bedroom-furniture/media-chest.htm"><span>Media Chests</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="68"></div></li><li class="level1 nav-1-8" id="topmenucat-category-node-69"><a href="http://colemanfurniture.com/bedroom-furniture/armoires.htm"><span>Armoires</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="69"></div></li><li class="level1 nav-1-9" id="topmenucat-category-node-75"><a href="http://colemanfurniture.com/bedroom-furniture/daybeds-trundle-bed.htm"><span>Daybeds, Trundle Bed</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="75"></div></li><li class="level1 nav-1-10" id="topmenucat-category-node-64"><a href="http://colemanfurniture.com/bedroom-furniture/mattress-foam-mattress.htm"><span>Mattresses</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="64"></div></li><li class="level1 nav-1-11" id="topmenucat-category-node-219"><a href="http://colemanfurniture.com/bedroom-furniture/box-spring-foundation.htm"><span>Box Spring Foundation</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="219"></div></li><li class="level1 nav-1-12" id="topmenucat-category-node-74"><a href="http://colemanfurniture.com/bedroom-furniture/bedding-sets-and-comforters.htm"><span>Bedding and Comforter Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="74"></div></li><li class="level1 nav-1-13" id="topmenucat-category-node-76"><a href="http://colemanfurniture.com/bedroom-furniture/bed-frames-headboards.htm"><span>Bed Frames &amp; Headboards</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="76"></div></li><li class="level1 nav-1-14" id="topmenucat-category-node-66"><a href="http://colemanfurniture.com/bedroom-furniture/jewelry-armoires.htm"><span>Jewelry Armoires</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="66"></div></li><li class="level1 nav-1-15" id="topmenucat-category-node-73"><a href="http://colemanfurniture.com/bedroom-furniture/benches-seating.htm"><span>Benches &amp; Seating</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="73"></div></li><li class="level1 nav-1-16" id="topmenucat-category-node-63"><a href="http://colemanfurniture.com/bedroom-furniture/trunks.htm"><span>Trunks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="63"></div></li><li class="level1 nav-1-17" id="topmenucat-category-node-61"><a href="http://colemanfurniture.com/bedroom-furniture/step-stool.htm"><span>Step Stool</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="61"></div></li><li class="level1 nav-1-18" id="topmenucat-category-node-71"><a href="http://colemanfurniture.com/bedroom-furniture/vanity-tables.htm"><span>Vanity Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="71"></div></li><li class="level1 nav-1-19" id="topmenucat-category-node-70"><a href="http://colemanfurniture.com/bedroom-furniture/blanket-racks.htm"><span>Blanket Racks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="70"></div></li><li class="level1 nav-1-20" id="topmenucat-category-node-62"><a href="http://colemanfurniture.com/bedroom-furniture/valet.htm"><span>Valet</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="62"></div></li><li class="level1 nav-1-21" id="topmenucat-category-node-60"><a href="http://colemanfurniture.com/bedroom-furniture/sinks.htm"><span>Sinks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="60"></div></li><li class="level1 nav-1-22 last" id="topmenucat-category-node-67"><a href="http://colemanfurniture.com/bedroom-furniture/miscellaneous.htm"><span>Miscellaneous</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="67"></div></li></ul></div></div></div></li><li class="level0 nav-2 active level-top parent" id="topmenucat-category-node-4"><span class="span-corner"></span><a href="http://colemanfurniture.com/living.htm" class="level-top"><span>Living</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-2-1 first" id="topmenucat-category-node-12"><a href="http://colemanfurniture.com/living/living-room-sets.htm"><span>Living Room Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="12"></div></li><li class="level1 nav-2-2" id="topmenucat-category-node-18"><a href="http://colemanfurniture.com/living/sofas.htm"><span>Sofas</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="18"></div></li><li class="level1 nav-2-3" id="topmenucat-category-node-17"><a href="http://colemanfurniture.com/living/sectionals.htm"><span>Sectionals</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="17"></div></li><li class="level1 nav-2-4" id="topmenucat-category-node-19"><a href="http://colemanfurniture.com/living/loveseats.htm"><span>Loveseats</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="19"></div></li><li class="level1 nav-2-5 active" id="topmenucat-category-node-20"><a href="http://colemanfurniture.com/living/rockers-recliners.htm"><span>Rockers &amp; Recliners</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="20"></div></li><li class="level1 nav-2-6" id="topmenucat-category-node-54"><a href="http://colemanfurniture.com/living/living-room-chairs.htm"><span>Living Room Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="54"></div></li><li class="level1 nav-2-7" id="topmenucat-category-node-88"><a href="http://colemanfurniture.com/living/massage-chairs.htm"><span>Massage Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="88"></div></li><li class="level1 nav-2-8" id="topmenucat-category-node-57"><a href="http://colemanfurniture.com/living/chaises.htm"><span>Chaises</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="57"></div></li><li class="level1 nav-2-9" id="topmenucat-category-node-55"><a href="http://colemanfurniture.com/living/ottomans.htm"><span>Ottomans</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="55"></div></li><li class="level1 nav-2-10 last" id="topmenucat-category-node-56"><a href="http://colemanfurniture.com/living/miscellaneous.htm"><span>Miscellaneous</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="56"></div></li></ul></div></div></div></li><li class="level0 nav-3 level-top parent" id="topmenucat-category-node-5"><span class="span-corner"></span><a href="http://colemanfurniture.com/dining.htm" class="level-top"><span>Dining</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-3-1 first" id="topmenucat-category-node-21"><a href="http://colemanfurniture.com/dining/dining-kitchen-sets.htm"><span>Dining &amp; Kitchen Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="21"></div></li><li class="level1 nav-3-2" id="topmenucat-category-node-22"><a href="http://colemanfurniture.com/dining/dining-kitchen-tables.htm"><span>Dining &amp; Kitchen Table</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="22"></div></li><li class="level1 nav-3-3" id="topmenucat-category-node-23"><a href="http://colemanfurniture.com/dining/dining-chairs.htm"><span>Dining Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="23"></div></li><li class="level1 nav-3-4" id="topmenucat-category-node-24"><a href="http://colemanfurniture.com/dining/servers-sideboards-buffets.htm"><span>Servers, Sideboards &amp; Buffets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="24"></div></li><li class="level1 nav-3-5" id="topmenucat-category-node-94"><a href="http://colemanfurniture.com/dining/curios-displays.htm"><span>Curios &amp; Displays</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="94"></div></li><li class="level1 nav-3-6" id="topmenucat-category-node-25"><a href="http://colemanfurniture.com/dining/china-cabinets.htm"><span>China Cabinets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="25"></div></li><li class="level1 nav-3-7" id="topmenucat-category-node-92"><a href="http://colemanfurniture.com/dining/kitchen-island-kitchen-cart.htm"><span>Kitchen Island, Kitchen Cart</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="92"></div></li><li class="level1 nav-3-8" id="topmenucat-category-node-93"><a href="http://colemanfurniture.com/dining/counter-height-stools-chairs.htm"><span>Counter Height Stools, Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="93"></div></li><li class="level1 nav-3-9" id="topmenucat-category-node-95"><a href="http://colemanfurniture.com/dining/bakers-racks.htm"><span>Bakers Racks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="95"></div></li><li class="level1 nav-3-10" id="topmenucat-category-node-96"><a href="http://colemanfurniture.com/dining/dining-mirrors.htm"><span>Dining Mirrors</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="96"></div></li><li class="level1 nav-3-11" id="topmenucat-category-node-217"><a href="http://colemanfurniture.com/dining/dining-benches.htm"><span>Dining Benches</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="217"></div></li><li class="level1 nav-3-12 last" id="topmenucat-category-node-218"><a href="http://colemanfurniture.com/dining/dining-miscellaneous.htm"><span>Dining Miscellaneous </span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="218"></div></li></ul></div></div></div></li><li class="level0 nav-4 level-top parent" id="topmenucat-category-node-37"><span class="span-corner"></span><a href="http://colemanfurniture.com/bar.htm" class="level-top"><span>Bar</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-4-1 first" id="topmenucat-category-node-100"><a href="http://colemanfurniture.com/bar/bar-sets-pub-sets.htm"><span>Bar Sets, Pub Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="100"></div></li><li class="level1 nav-4-2" id="topmenucat-category-node-98"><a href="http://colemanfurniture.com/bar/home-bars-cabinets.htm"><span>Bars &amp; Bar Cabinets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="98"></div></li><li class="level1 nav-4-3" id="topmenucat-category-node-99"><a href="http://colemanfurniture.com/bar/bar-table-pub-table.htm"><span>Bar Tables, Pub Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="99"></div></li><li class="level1 nav-4-4" id="topmenucat-category-node-101"><a href="http://colemanfurniture.com/bar/bar-stools-counter-stools.htm"><span>Bar Stools, Counter Stools</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="101"></div></li><li class="level1 nav-4-5 last" id="topmenucat-category-node-97"><a href="http://colemanfurniture.com/bar/wine-racks.htm"><span>Wine Racks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="97"></div></li></ul></div></div></div></li><li class="level0 nav-5 level-top parent" id="topmenucat-category-node-6"><span class="span-corner"></span><a href="http://colemanfurniture.com/kids.htm" class="level-top"><span>Kids</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-5-1 first" id="topmenucat-category-node-26"><a href="http://colemanfurniture.com/kids/kids-bedroom-sets.htm"><span>Kids Bedroom Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="26"></div></li><li class="level1 nav-5-2" id="topmenucat-category-node-27"><a href="http://colemanfurniture.com/kids/kids-beds.htm"><span>Kids Beds</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="27"></div></li><li class="level1 nav-5-3" id="topmenucat-category-node-28"><a href="http://colemanfurniture.com/kids/lofts-bunk-beds.htm"><span>Lofts &amp; Bunk Beds</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="28"></div></li><li class="level1 nav-5-4" id="topmenucat-category-node-108"><a href="http://colemanfurniture.com/kids/kids-nightstands.htm"><span>Kids Nightstands</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="108"></div></li><li class="level1 nav-5-5" id="topmenucat-category-node-30"><a href="http://colemanfurniture.com/kids/kids-dressers-chests.htm"><span>Kids Dressers</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="30"></div></li><li class="level1 nav-5-6" id="topmenucat-category-node-113"><a href="http://colemanfurniture.com/kids/kids-bedroom-mirrors.htm"><span>Kids Bedroom Mirrors</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="113"></div></li><li class="level1 nav-5-7" id="topmenucat-category-node-105"><a href="http://colemanfurniture.com/kids/kids-chests.htm"><span>Kids Chests</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="105"></div></li><li class="level1 nav-5-8" id="topmenucat-category-node-106"><a href="http://colemanfurniture.com/kids/kids-desks-hutches.htm"><span>Kids Desks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="106"></div></li><li class="level1 nav-5-9" id="topmenucat-category-node-114"><a href="http://colemanfurniture.com/kids/kids-chairs-tables.htm"><span>Kids Seating</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="114"></div></li><li class="level1 nav-5-10" id="topmenucat-category-node-107"><a href="http://colemanfurniture.com/kids/kids-tv-stands-consoles.htm"><span>Kids TV Stands &amp; Consoles</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="107"></div></li><li class="level1 nav-5-11" id="topmenucat-category-node-109"><a href="http://colemanfurniture.com/kids/kids-bedding.htm"><span>Kids Bedding</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="109"></div></li><li class="level1 nav-5-12" id="topmenucat-category-node-112"><a href="http://colemanfurniture.com/kids/kids-armoires.htm"><span>Kids Armoires</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="112"></div></li><li class="level1 nav-5-13" id="topmenucat-category-node-110"><a href="http://colemanfurniture.com/kids/kids-bookcases-storage.htm"><span>Kids Bookcases &amp; Storage</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="110"></div></li><li class="level1 nav-5-14 last" id="topmenucat-category-node-111"><a href="http://colemanfurniture.com/kids/miscellaneous.htm"><span>Miscellaneous</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="111"></div></li></ul></div></div></div></li><li class="level0 nav-6 level-top parent" id="topmenucat-category-node-7"><span class="span-corner"></span><a href="http://colemanfurniture.com/entertainment.htm" class="level-top"><span>Entertainment</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-6-1 first" id="topmenucat-category-node-31"><a href="http://colemanfurniture.com/entertainment/entertainment-centers-walls.htm"><span>Entertainment Centers &amp; Walls</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="31"></div></li><li class="level1 nav-6-2" id="topmenucat-category-node-32"><a href="http://colemanfurniture.com/entertainment/tv-stands-tv-consoles.htm"><span>TV Stands &amp; TV Consoles</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="32"></div></li><li class="level1 nav-6-3" id="topmenucat-category-node-34"><a href="http://colemanfurniture.com/entertainment/home-theater-seating.htm"><span>Home Theater Seating</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="34"></div></li><li class="level1 nav-6-4" id="topmenucat-category-node-35"><a href="http://colemanfurniture.com/entertainment/audio-cabinet-video-cabinet.htm"><span>Audio Cabinet | Video Cabinet</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="35"></div></li><li class="level1 nav-6-5" id="topmenucat-category-node-33"><a href="http://colemanfurniture.com/entertainment/game-tables-game-room.htm"><span>Game Tables, Game Room</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="33"></div></li><li class="level1 nav-6-6 last" id="topmenucat-category-node-220"><a href="http://colemanfurniture.com/entertainment/entertainment-miscellaneous.htm"><span>Entertainment Miscellaneous </span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="220"></div></li></ul></div></div></div></li><li class="level0 nav-7 level-top parent" id="topmenucat-category-node-36"><span class="span-corner"></span><a href="http://colemanfurniture.com/accents.htm" class="level-top"><span>Accents</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-7-1 first" id="topmenucat-category-node-129"><a href="http://colemanfurniture.com/accents/occasional-table-sets.htm"><span>Occasional Table Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="129"></div></li><li class="level1 nav-7-2" id="topmenucat-category-node-124"><a href="http://colemanfurniture.com/accents/coffee-tables-cocktail-tables.htm"><span>Coffee &amp; Cocktail Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="124"></div></li><li class="level1 nav-7-3" id="topmenucat-category-node-130"><a href="http://colemanfurniture.com/accents/end-tables.htm"><span>End Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="130"></div></li><li class="level1 nav-7-4" id="topmenucat-category-node-58"><a href="http://colemanfurniture.com/accents/accent-chairs.htm"><span>Accent Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="58"></div></li><li class="level1 nav-7-5" id="topmenucat-category-node-122"><a href="http://colemanfurniture.com/accents/accent-tables-pedestal-tables.htm"><span>Accent Tables, Pedestal Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="122"></div></li><li class="level1 nav-7-6" id="topmenucat-category-node-128"><a href="http://colemanfurniture.com/accents/consoles-hall-tables.htm"><span>Consoles, Hall Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="128"></div></li><li class="level1 nav-7-7" id="topmenucat-category-node-118"><a href="http://colemanfurniture.com/accents/console-cabinets.htm"><span>Accent Chest</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="118"></div></li><li class="level1 nav-7-8" id="topmenucat-category-node-127"><a href="http://colemanfurniture.com/accents/bombe-chest.htm"><span>Bombe Chests</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="127"></div></li><li class="level1 nav-7-9" id="topmenucat-category-node-125"><a href="http://colemanfurniture.com/accents/accent-mirrors.htm"><span>Accent Mirrors</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="125"></div></li><li class="level1 nav-7-10" id="topmenucat-category-node-131"><a href="http://colemanfurniture.com/accents/drum-tables.htm"><span>Drum Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="131"></div></li><li class="level1 nav-7-11" id="topmenucat-category-node-120"><a href="http://colemanfurniture.com/accents/side-tables-sofa-tables.htm"><span>Side Tables &amp; Sofa Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="120"></div></li><li class="level1 nav-7-12" id="topmenucat-category-node-115"><a href="http://colemanfurniture.com/accents/nesting-tables.htm"><span>Bunching Tables, Nesting Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="115"></div></li><li class="level1 nav-7-13" id="topmenucat-category-node-121"><a href="http://colemanfurniture.com/accents/fireplaces.htm"><span>Fireplaces</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="121"></div></li><li class="level1 nav-7-14" id="topmenucat-category-node-123"><a href="http://colemanfurniture.com/accents/hall-trees-storage-bench.htm"><span>Hall Trees, Storage Bench</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="123"></div></li><li class="level1 nav-7-15" id="topmenucat-category-node-133"><a href="http://colemanfurniture.com/accents/room-dividers.htm"><span>Room Dividers</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="133"></div></li><li class="level1 nav-7-16" id="topmenucat-category-node-132"><a href="http://colemanfurniture.com/accents/coat-racks-coat-tree.htm"><span>Coat Racks, Coat Tree</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="132"></div></li><li class="level1 nav-7-17" id="topmenucat-category-node-116"><a href="http://colemanfurniture.com/accents/snack-tables.htm"><span>Snack Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="116"></div></li><li class="level1 nav-7-18" id="topmenucat-category-node-117"><a href="http://colemanfurniture.com/accents/etagere.htm"><span>Etagere</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="117"></div></li><li class="level1 nav-7-19" id="topmenucat-category-node-119"><a href="http://colemanfurniture.com/accents/umbrella-stands.htm"><span>Umbrella Stands</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="119"></div></li><li class="level1 nav-7-20 last" id="topmenucat-category-node-126"><a href="http://colemanfurniture.com/accents/pet-beds.htm"><span>Pet Beds</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="126"></div></li></ul></div></div></div></li><li class="level0 nav-8 level-top parent" id="topmenucat-category-node-38"><span class="span-corner"></span><a href="http://colemanfurniture.com/office.htm" class="level-top"><span>Office</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-8-1 first" id="topmenucat-category-node-142"><a href="http://colemanfurniture.com/office/office-chairs.htm"><span>Office Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="142"></div></li><li class="level1 nav-8-2" id="topmenucat-category-node-135"><a href="http://colemanfurniture.com/office/home-office-sets.htm"><span>Home Office Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="135"></div></li><li class="level1 nav-8-3" id="topmenucat-category-node-140"><a href="http://colemanfurniture.com/office/desks-hutches.htm"><span>Desks &amp; Hutches</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="140"></div></li><li class="level1 nav-8-4" id="topmenucat-category-node-139"><a href="http://colemanfurniture.com/office/writing-desks-secretary-desks.htm"><span>Writing Desks, Secretary Desks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="139"></div></li><li class="level1 nav-8-5" id="topmenucat-category-node-141"><a href="http://colemanfurniture.com/office/file-cabinet-filing.htm"><span>File Cabinet, Filing</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="141"></div></li><li class="level1 nav-8-6" id="topmenucat-category-node-145"><a href="http://colemanfurniture.com/office/bookcases-book-shelves.htm"><span>Bookcases, Book Shelves</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="145"></div></li><li class="level1 nav-8-7" id="topmenucat-category-node-136"><a href="http://colemanfurniture.com/office/commercial-office.htm"><span>Commercial Office</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="136"></div></li><li class="level1 nav-8-8" id="topmenucat-category-node-144"><a href="http://colemanfurniture.com/office/reception-area-furniture.htm"><span>Reception Furniture</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="144"></div></li><li class="level1 nav-8-9" id="topmenucat-category-node-138"><a href="http://colemanfurniture.com/office/conference-room.htm"><span>Conference Room</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="138"></div></li><li class="level1 nav-8-10" id="topmenucat-category-node-137"><a href="http://colemanfurniture.com/office/modular-office-furniture.htm"><span>Modular Office Furniture</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="137"></div></li><li class="level1 nav-8-11 last" id="topmenucat-category-node-143"><a href="http://colemanfurniture.com/office/miscellaneous.htm"><span>Miscellaneous</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="143"></div></li></ul></div></div></div></li><li class="level0 nav-9 level-top parent" id="topmenucat-category-node-39"><span class="span-corner"></span><a href="http://colemanfurniture.com/outdoor.htm" class="level-top"><span>Outdoor</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-9-1 first" id="topmenucat-category-node-179"><a href="http://colemanfurniture.com/outdoor/outdoor-patio-sets.htm"><span>Outdoor Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="179"></div></li><li class="level1 nav-9-2" id="topmenucat-category-node-173"><a href="http://colemanfurniture.com/outdoor/outdoor-beds.htm"><span>Outdoor Beds</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="173"></div></li><li class="level1 nav-9-3" id="topmenucat-category-node-176"><a href="http://colemanfurniture.com/outdoor/sofas-and-loveseats.htm"><span>Outdoor Sofas and Loveseats</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="176"></div></li><li class="level1 nav-9-4" id="topmenucat-category-node-171"><a href="http://colemanfurniture.com/outdoor/outdoor-chairs.htm"><span>Outdoor Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="171"></div></li><li class="level1 nav-9-5" id="topmenucat-category-node-169"><a href="http://colemanfurniture.com/outdoor/outdoor-chaise-lounges.htm"><span>Outdoor Chaise Loungers</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="169"></div></li><li class="level1 nav-9-6" id="topmenucat-category-node-170"><a href="http://colemanfurniture.com/outdoor/outdoor-tables.htm"><span>Outdoor Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="170"></div></li><li class="level1 nav-9-7" id="topmenucat-category-node-174"><a href="http://colemanfurniture.com/outdoor/outdoor-bar-stools.htm"><span>Outdoor Bar Stools</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="174"></div></li><li class="level1 nav-9-8" id="topmenucat-category-node-172"><a href="http://colemanfurniture.com/outdoor/patio-end-tables-coffee-tables.htm"><span>Outdoor End Tables/Coffee Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="172"></div></li><li class="level1 nav-9-9" id="topmenucat-category-node-175"><a href="http://colemanfurniture.com/outdoor/patio-benches.htm"><span>Outdoor Benches</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="175"></div></li><li class="level1 nav-9-10" id="topmenucat-category-node-178"><a href="http://colemanfurniture.com/outdoor/outdoor-ottomans.htm"><span>Outdoor Ottomans</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="178"></div></li><li class="level1 nav-9-11 last" id="topmenucat-category-node-177"><a href="http://colemanfurniture.com/outdoor/outdoor-accessories.htm"><span>Outdoor Accessories</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="177"></div></li></ul></div></div></div></li><li class="level0 nav-10 level-top parent" id="topmenucat-category-node-40"><span class="span-corner"></span><a href="http://colemanfurniture.com/commercial-furniture.htm" class="level-top"><span>Commercial</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-10-1 first" id="topmenucat-category-node-183"><a href="http://colemanfurniture.com/commercial-furniture/chiavari-chairs.htm"><span>Chiavari Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="183"></div></li><li class="level1 nav-10-2" id="topmenucat-category-node-182"><a href="http://colemanfurniture.com/commercial-furniture/banquet-chairs.htm"><span>Banquet Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="182"></div></li><li class="level1 nav-10-3" id="topmenucat-category-node-185"><a href="http://colemanfurniture.com/commercial-furniture/folding-chairs.htm"><span>Folding Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="185"></div></li><li class="level1 nav-10-4" id="topmenucat-category-node-184"><a href="http://colemanfurniture.com/commercial-furniture/church-chairs.htm"><span>Church Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="184"></div></li><li class="level1 nav-10-5" id="topmenucat-category-node-186"><a href="http://colemanfurniture.com/commercial-furniture/classroom-chairs.htm"><span>Classroom Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="186"></div></li><li class="level1 nav-10-6" id="topmenucat-category-node-181"><a href="http://colemanfurniture.com/commercial-furniture/wood-restaurant-chairs.htm"><span>Wood Restaurant Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="181"></div></li><li class="level1 nav-10-7" id="topmenucat-category-node-192"><a href="http://colemanfurniture.com/commercial-furniture/wood-restaurant-bar-stools.htm"><span>Wood Restaurant Bar Stools</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="192"></div></li><li class="level1 nav-10-8" id="topmenucat-category-node-191"><a href="http://colemanfurniture.com/commercial-furniture/metal-restaurant-chairs.htm"><span>Metal Restaurant Chairs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="191"></div></li><li class="level1 nav-10-9" id="topmenucat-category-node-190"><a href="http://colemanfurniture.com/commercial-furniture/metal-restaurant-bar-stools.htm"><span>Metal Restaurant Bar Stools</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="190"></div></li><li class="level1 nav-10-10" id="topmenucat-category-node-188"><a href="http://colemanfurniture.com/commercial-furniture/folding-tables.htm"><span>Folding Tables</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="188"></div></li><li class="level1 nav-10-11" id="topmenucat-category-node-189"><a href="http://colemanfurniture.com/commercial-furniture/restaurant-table-tops.htm"><span>Restaurant Table Tops</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="189"></div></li><li class="level1 nav-10-12" id="topmenucat-category-node-180"><a href="http://colemanfurniture.com/commercial-furniture/restaurant-table-bases.htm"><span>Restaurant Table Bases</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="180"></div></li><li class="level1 nav-10-13 last" id="topmenucat-category-node-187"><a href="http://colemanfurniture.com/commercial-furniture/folding-chair-dollies.htm"><span>Folding Chair Dollies</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="187"></div></li></ul></div></div></div></li><li class="level0 nav-11 level-top parent" id="topmenucat-category-node-41"><span class="span-corner"></span><a href="http://colemanfurniture.com/accessories.htm" class="level-top"><span>Accessories</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-11-1 first" id="topmenucat-category-node-199"><a href="http://colemanfurniture.com/accessories/accessory-sets.htm"><span>Accessory Sets</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="199"></div></li><li class="level1 nav-11-2" id="topmenucat-category-node-193"><a href="http://colemanfurniture.com/accessories/decorative.htm"><span>Decorative</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="193"></div></li><li class="level1 nav-11-3" id="topmenucat-category-node-196"><a href="http://colemanfurniture.com/accessories/rugs.htm"><span>Rugs</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="196"></div></li><li class="level1 nav-11-4" id="topmenucat-category-node-194"><a href="http://colemanfurniture.com/accessories/cushions-blankets-throws.htm"><span>Cushions/Blankets/Throws</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="194"></div></li><li class="level1 nav-11-5" id="topmenucat-category-node-205"><a href="http://colemanfurniture.com/accessories/clocks.htm"><span>Clocks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="205"></div></li><li class="level1 nav-11-6" id="topmenucat-category-node-208"><a href="http://colemanfurniture.com/accessories/art.htm"><span>All Art</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="208"></div></li><li class="level1 nav-11-7" id="topmenucat-category-node-197"><a href="http://colemanfurniture.com/accessories/magazine-racks.htm"><span>Magazine Racks</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="197"></div></li><li class="level1 nav-11-8" id="topmenucat-category-node-206"><a href="http://colemanfurniture.com/accessories/picture-frames.htm"><span>Picture Frames</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="206"></div></li><li class="level1 nav-11-9" id="topmenucat-category-node-203"><a href="http://colemanfurniture.com/accessories/decorative-bowls.htm"><span>Decorative Bowls</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="203"></div></li><li class="level1 nav-11-10" id="topmenucat-category-node-198"><a href="http://colemanfurniture.com/accessories/sculptures-and-figurines.htm"><span>Sculptures and Figurines</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="198"></div></li><li class="level1 nav-11-11" id="topmenucat-category-node-204"><a href="http://colemanfurniture.com/accessories/candle-holders.htm"><span>Candle Holders</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="204"></div></li><li class="level1 nav-11-12" id="topmenucat-category-node-202"><a href="http://colemanfurniture.com/accessories/vases.htm"><span>Vases</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="202"></div></li><li class="level1 nav-11-13" id="topmenucat-category-node-200"><a href="http://colemanfurniture.com/accessories/bookends.htm"><span>Bookends</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="200"></div></li><li class="level1 nav-11-14" id="topmenucat-category-node-207"><a href="http://colemanfurniture.com/accessories/botanicals.htm"><span>Permanant Botanicals</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="207"></div></li><li class="level1 nav-11-15" id="topmenucat-category-node-195"><a href="http://colemanfurniture.com/accessories/plant-stands.htm"><span>Plant Stands</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="195"></div></li><li class="level1 nav-11-16" id="topmenucat-category-node-201"><a href="http://colemanfurniture.com/accessories/fireplace-accessories.htm"><span>Fireplace Accessories</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="201"></div></li><li class="level1 nav-11-17 last" id="topmenucat-category-node-215"><a href="http://colemanfurniture.com/accessories/miscellaneous-accessories.htm"><span>Miscellaneous Accessories</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="215"></div></li></ul></div></div></div></li><li class="level0 nav-12 level-top parent" id="topmenucat-category-node-42"><span class="span-corner"></span><a href="http://colemanfurniture.com/lighting.htm" class="level-top"><span>Lighting</span></a><span class="span-corner corner-right"></span><div class="nav-dropdown"><div class="nav-dropdown-content"><div class="nav-dropdown-links"><ul class="level0"><li class="level1 nav-12-1 first" id="topmenucat-category-node-209"><a href="http://colemanfurniture.com/lighting/floor-lamps.htm"><span>Floor Lamps</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="209"></div></li><li class="level1 nav-12-2" id="topmenucat-category-node-210"><a href="http://colemanfurniture.com/lighting/wall-sconces.htm"><span>Wall Sconces</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="210"></div></li><li class="level1 nav-12-3" id="topmenucat-category-node-211"><a href="http://colemanfurniture.com/lighting/lighting-fixtures.htm"><span>Lighting Fixtures</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="211"></div></li><li class="level1 nav-12-4" id="topmenucat-category-node-212"><a href="http://colemanfurniture.com/lighting/table-lamps-floor-lamps.htm"><span>Table Lamps</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="212"></div></li><li class="level1 nav-12-5" id="topmenucat-category-node-213"><a href="http://colemanfurniture.com/lighting/pendants-mini-pendants.htm"><span>Pendants-Mini Pendants</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="213"></div></li><li class="level1 nav-12-6 last" id="topmenucat-category-node-214"><a href="http://colemanfurniture.com/lighting/chandeliers.htm"><span>Chandeliers</span><div class="arrow"></div></a><div class="fetch-info drop-down-info" cat-ref="214"></div></li></ul></div></div></div></li><li class="level0 nav-13 last level-top" id="topmenucat-category-node-47"><span class="span-corner"></span><a href="http://colemanfurniture.com/specials.htm" class="level-top"><span>Specials</span></a><span class="span-corner corner-right"></span></li>				
+				<li class="level0 last level-top">
+                <span class="span-corner"></span>
+                <a class="level-top" href="http://colemanfurniture.com/manufacturers.html"><span id="shopByBrandMenu" class="">Shop By Brand</span></a>
+                <span class="span-corner corner-right"></span>
+
+                		
+                                <div class="nav-dropdown" style="left: -15px;width:830px;">
+                    <div class="nav-dropdown-content">
+                       
+                                                                                                                             <div class="nav-dropdown-links" style="float: left">
+                                     <ul class="level0">
+                                 
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/art-furniture.html"><span>A.R.T.</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/aico-furniture.html"><span>AICO</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/american-heritage-billiards.html"><span>American Heritage Billiards</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/american-woodcrafters.html"><span>American Woodcrafters</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/bestar-furniture.html"><span>Bestar</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/broyhill-furniture.html"><span>Broyhill</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/bush-furniture.html"><span>Bush</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/butler-furniture.html"><span>Butler</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/coast-to-coast.html"><span>Coast to Coast</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/coaster.html"><span>Coaster Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/chic-home-furniture.html"><span>Curations Limited</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/domitalia.html"><span>Domitalia</span></a>
+                                         </li>
+                                                                     </ul>
+                                     </div>
+                                                                                                                                 <div class="nav-dropdown-links" style="float: left">
+                                     <ul class="level0">
+                                 
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/fairmont-designs.html"><span>Fairmont Designs</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/fashion-bed-group.html"><span>Fashion Bed Group</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/homelegance.html"><span>Homelegance</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/kidz-workd.html"><span>Kidz World</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/klaussner.html"><span>Klaussner</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/lane-furniture.html"><span>Lane Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/largo-furniture.html"><span>Largo Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/leather-italia.html"><span>Leather Italia</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/legacy-classic.html"><span>Legacy Classic</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/liberty-furniture.html"><span>Liberty</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/luke-leather.html"><span>Luke Leather</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/mac-motion.html"><span>Mac Motion</span></a>
+                                         </li>
+                                                                     </ul>
+                                     </div>
+                                                                                                                                 <div class="nav-dropdown-links" style="float: left">
+                                     <ul class="level0">
+                                 
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/magnussen.html"><span>Magnussen Home</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/med-lift.html"><span>Med-Lift</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/millennium-by-ashley.html"><span>Millennium by Ashley</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/orian-rugs.html"><span>Orian Rugs</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/padmas-plantation.html"><span>Padmas Plantation</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/parker-house.html"><span>Parker House</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/pulaski.html"><span>Pulaski</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/renegade-furniture.html"><span>Renegade Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/rossetto.html"><span>Rossetto</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/samuel-lawrence.html"><span>Samuel Lawrence</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/signature-design-by-ashley.html"><span>Signature Design by Ashley</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/simmons.html"><span>Simmons</span></a>
+                                         </li>
+                                                                     </ul>
+                                     </div>
+                                                                                                                                 <div class="nav-dropdown-links" style="float: left">
+                                     <ul class="level0">
+                                 
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/somerton-furniture.html"><span>Somerton Dwelling</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/south-sea-rattan.html"><span>South Sea Rattan</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/stanley-furniture.html"><span>Stanley Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/star_international.html"><span>Star International</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/stein-world.html"><span>Stein World</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/sunpan-modern-home.html"><span>Sunpan Modern Home</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/tema-home.html"><span>Tema Home</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/tov-furniture.html"><span>TOV Furniture</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/uttermost.html"><span>Uttermost</span></a>
+                                         </li>
+                                                                                             
+                                         <li class="level1 nav-1-1">
+                                             <a href="http://colemanfurniture.com/zuo-modern.html"><span>Zuo Modern</span></a>
+                                         </li>
+                                                                     </ul>
+                                     </div>
+                                                                                    <div class="clearer"></div>
+                        
+                    </div>
+                </div>	
+				                	
+            </li>
+	</ul> 
+</div>
+<script type="text/javascript">
+	jQuery('#nav .active').removeClass('active');
+    jQuery(document).ready(function(){  
+        jQuery('#nav li.level0').hover(function(){
+            var thisli = jQuery(this);
+            var childPos = thisli.offset();
+            var parentPos = thisli.parent().offset();
+            var childOffset = 	childPos.left - parentPos.left;
+            var nav_dropdown_width = jQuery(this).children(".nav-dropdown").width();
+            if((childOffset+(nav_dropdown_width/2)) > 1200){
+                var right = 0;
+                right-=nav_dropdown_width-(1200-childOffset)-30;
+                jQuery(this).find('.nav-dropdown').css({'left':right});
+            } else if((childOffset+(nav_dropdown_width/2)) < nav_dropdown_width){
+                var leftr=0;
+                leftr-=childOffset;
+                jQuery(this).find('.nav-dropdown').css({'left':leftr});
+			  
+            }else{
+                var dropdownleft=0;
+                dropdownleft-= (nav_dropdown_width-jQuery(this).width())/2;
+                jQuery(this).find('.nav-dropdown').css({'left':dropdownleft});
+            }
+
+        });
+	  
+        jQuery('.nav-dropdown-links .level0 li.first').addClass('firstactive');
+	 
+        jQuery('.nav-dropdown-links .level0 li.level1').hover(function(){
+            if (jQuery(this).hasClass('firstactive')){
+            }else{  
+                jQuery('.nav-dropdown-links .level0 li.first').removeClass('firstactive');
+            }
+		  
+        },function(){
+            jQuery('.nav-dropdown-links .level0 li.first').addClass('firstactive');
+        });
+		
+		//Script for rendering Category info on-ajax call
+		jQuery('#nav li.level0').hover(function () {
+			var referenceArg = [];
+			var objList = jQuery(this).find('.fetch-info');
+			for(var i = 0; i < objList.length; i++) {
+				var hasClass = jQuery(objList[i]).hasClass('fetching');
+				if(!hasClass) {
+					var categoryRef = jQuery(objList[i]).attr('cat-ref');
+					jQuery(objList[i]).addClass('fetching');
+					referenceArg.push(categoryRef);
+				}
+			}
+			if(referenceArg.length) {
+				var args = {reference : referenceArg};
+				var fetchUrl = 'http://colemanfurniture.com/blockcache/index/topmenuinfo/';
+				jQuery.post(fetchUrl,args, function( response ) {
+					for(var i = 0; i < objList.length; i++) {
+						var id = jQuery(objList[i]).attr('cat-ref');
+						jQuery(objList[i]).html(response[id]);
+						jQuery(objList[i]).removeClass('fetch-info').removeClass('fetching');
+					}
+				});
+			}
+			
+		});
+		
+    });
+	
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    jQuery(this).scrollTop(0);
+});
+</script>    
+    </div>
+ 
+<!-- ESI END DUMMY COMMENT [] -->
+		<div class="page-col banner-col">
+			<p><a title="Delivery Process" href="http://colemanfurniture.com/delivery.htm" target="_self"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://colemanfurniture.com/media/wysiwyg/reference_banner.jpg" alt="free shipping" width="1230" height="72"></a></p>		</div>
+        <div class="main-container col1-layout">
+            <div class="main">
+                <div class="top-bar"><div class="breadcrumbs">
     <ul>
                     <li class="home">
-                            <a href="http://www.colemanfurniture.com/" title="Go to Home Page">Home</a>
+                            <a href="http://colemanfurniture.com/" title="Go to Home Page">Home</a>
                                         <span>/ </span>
                         </li>
                     <li class="cms_page">
                             <strong>Privacy Policy - Coleman Furniture.com</strong>
                                     </li>
             </ul>
-</div> -->
-		<div style="clear:both;padding-left:10px;margin-top:5px;">
-                    <ul id="delivery-info">
-                        <li><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/icons/delivery-top-banner.jpg" alt="Furniture Delivery Info"></li>
-                        <li></li>
-                    </ul>    
-		</div>
-<script language="javascript" type="text/javascript">
-    //<!CDATA[[
-    /*jQuery('#delivery-info').innerfade({
-				speed: 'slow',
-				timeout: 2500,
-				type: 'sequence',
-				containerheight: '45px'
-			});*/
-   //]]->
-</script>
-	 
-	<div class="bodyMainCol  col1-layout">               
-                <div class="col-main">
-                                        
-
-<div onmouseout="draw()" onmouseover="pull()" id="slidemenubar2">
-    <div class="easy-box sidebar">
-
-
-        <div class="block block-cart">
-
-            <div class="block-title">
-                <strong><span>My Cart</span></strong>
-            </div>
-            <div class="block-content">
-                                                                                    <p class="empty">You have no items in your shopping cart.</p>
-            </div>
-        </div>
-
-
-    </div>
-    <div class="mycart-visible" id="mycart-menu">
-        <img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/renegade/myquickcart.png" alt="My Quick Cart">
-        
-    </div>
+</div></div>                <div class="col-main">
+                    <div id="turpentine-esi-block-9f093b3fac423611f847b6a80792719a3165eb7996596664879d54943ebb30f6" style="display: none">
     <script type="text/javascript">
-        //<![CDATA[
-
-        var slidemenu_width='230px' //specify width of menu (in pixels)
-        var slidemenu_reveal='20px' //specify amount that menu should protrude initially
-        var slidemenu_top='100px' //specify vertical offset of menu on page
-
-        var ns4=document.layers?1:0
-        var ie4=document.all
-        var ns6=document.getElementById&&!document.all?1:0
-
-        if (ie4||ns6)
-            document.write('<div id="slidemenubar2" style="right:'+((parseInt(slidemenu_width)-parseInt(slidemenu_reveal))*-1)+'px; top:'+slidemenu_top+'; width:'+slidemenu_width+'" onMouseOver="pull()" onMouseout="draw()">')
-        else if (ns4){
-            document.write('<style>\n#slidemenubar{\nwidth:'+slidemenu_width+';}\n<\/style>\n')
-            document.write('<layer id="slidemenubar" left=0 top='+slidemenu_top+' width='+slidemenu_width+' onMouseOver="pull()" onMouseout="draw()" visibility=hide>')
-        }
-
-        function regenerate(){
-            window.location.reload()
-        }
-        function regenerate2(){
-            if (ns4){
-                document.slidemenubar.left=((parseInt(slidemenu_width)-parseInt(slidemenu_reveal))*-1)
-                document.slidemenubar.visibility="show"
-                setTimeout("window.onresize=regenerate",400)
+        (function() {
+            var blockTag = "turpentine-esi-block-9f093b3fac423611f847b6a80792719a3165eb7996596664879d54943ebb30f6", esiUrl = "http:\/\/colemanfurniture.com\/turpentine\/esi\/getBlock\/method\/ajax\/access\/private\/ttl\/0\/hmac\/9d4de3bce63577793d45e6d41cbc3328699fa705b41931c415fbc9f550b71721\/data\/3FU3DNgVrpsmdIo-CGwfB01aAJ7M.ePE-xXPGCXatXWQvS.BqK6Qn.3G4FYNpFHvr0IFFwlYZxxAC-1Uwn3DNf2l0weCSKilkTAwVKZGPbRttfv1Xfy3Kdu5U9iTRc7rxk0WaCpCQ1HwzzPTL2rHdffiLyJO63blaa.7zu2tBxrMyYbs4dPDQ0hfiezRGGn39kLi6aMq0JFSNbtxXJ-uyNiMi4dN-ylUjXWofm3PDfwwYQZxek3GuryHXpw31368SDjRTBGAGiRA9nqivP6kXEkGv2Z-lRLjnxiB2PTGhm3VSfwz0Gyd4gQHLxkiz70n4A9rbIbmKHMMz1N-NGTxjw==\/";
+            if (typeof Ajax === 'object' && typeof Ajax.Updater === 'function') {
+                new Ajax.Updater(
+                    blockTag,
+                    esiUrl,
+                    {
+                        method: "get",
+                        evalScripts: true,
+                        onSuccess: function() {
+                            $(blockTag).appear({
+                                duration: 0.3
+                            });
+                        }
+                    }
+                );
+            } else if (typeof jQuery === 'function') {
+                jQuery.ajax(
+                    {
+                        url: esiUrl,
+                        type: "get",
+                        dataType: "html"
+                    }
+                ).done(function() {
+                    $(blockTag).fadeIn(300);
+                });
             }
-        }
-        window.onload=regenerate2
-
-        rightboundary=0
-        leftboundary=(parseInt(slidemenu_width)-parseInt(slidemenu_reveal))*-1
-
-        if (ie4||ns6){
-            document.write('</div>')
-            //themenu=(ns6)? document.getElementById("slidemenubar2").style : document.all.slidemenubar2.style
-            themenu=$("slidemenubar2").style;            
-        }
-        else if (ns4){
-            document.write('</layer>')
-            themenu=document.layers.slidemenubar
-        }
-
-        function pull(){
-            if (window.drawit)
-                clearInterval(drawit)
-            pullit=setInterval("pullengine()",10)
-
-        }
-        function draw(){
-            clearInterval(pullit)
-            drawit=setInterval("drawengine()",10)
-
-        }
-        function pullengine(){
-            if ((ie4||ns6)&&parseInt(themenu.right)<rightboundary)
-            themenu.right=parseInt(themenu.right)+10+"px"
-            else if(ns4&&themenu.right<rightboundary)
-            themenu.right+=10
-            else if (window.pullit){
-                themenu.right=0
-                clearInterval(pullit)
+        })();
+    </script>
+</div>                    
+<div class="std"><div id="turpentine-esi-block-26e9b63cf60d85d05790acb0110df62d3d1fcdf8af6df2b3d8f8133fc74f01c4" style="display: none">
+    <script type="text/javascript">
+        (function() {
+            var blockTag = "turpentine-esi-block-26e9b63cf60d85d05790acb0110df62d3d1fcdf8af6df2b3d8f8133fc74f01c4", esiUrl = "http:\/\/colemanfurniture.com\/turpentine\/esi\/getBlock\/method\/ajax\/access\/private\/ttl\/0\/hmac\/b4e8e828aad8d4f9b4aa0aa35ea8a1215de13f31683d07f1956709de186a834b\/data\/nSXvBvDBkSGG1wuz-o0LheAyFbzkOb2RnCRBdw6wKWNaJLaT7DIGQTNS6LsiBaB9YywMLGD8nwqRtGtr.JvhwNpeSUuCjxPnSKb87myA-p0Yi4AiW93lXrJV-ifUkO2BMvSRPjpDYd4.gLEYuvs4TTztxA02GjE8eox59x4J0gNXMN49RIuLJPIIHsE26eVaAflff6Wn4IJCbqoRF6fGvLVTXPmBxu1yEBL4MwkaCpg0B345AkgNUuqSpgmgp6WRnLpofiklaNo9VnqijkMoaL-GzDdeBcSLliR7wudAwu6utRgr.xex1q4Dhw1H66BWz8vIaWN3IcApWGVn1LVdHw==\/";
+            if (typeof Ajax === 'object' && typeof Ajax.Updater === 'function') {
+                new Ajax.Updater(
+                    blockTag,
+                    esiUrl,
+                    {
+                        method: "get",
+                        evalScripts: true,
+                        onSuccess: function() {
+                            $(blockTag).appear({
+                                duration: 0.3
+                            });
+                        }
+                    }
+                );
+            } else if (typeof jQuery === 'function') {
+                jQuery.ajax(
+                    {
+                        url: esiUrl,
+                        type: "get",
+                        dataType: "html"
+                    }
+                ).done(function() {
+                    $(blockTag).fadeIn(300);
+                });
             }
-            document.getElementById('mycart-menu').className="mycart-invisible"
-
-        }
-
-        function drawengine(){
-            if ((ie4||ns6)&&parseInt(themenu.right)>leftboundary)
-                themenu.right=parseInt(themenu.right)-10+"px"
-            else if(ns4&&themenu.right>leftboundary)
-                themenu.right-=10
-            else if (window.drawit){
-                themenu.right=leftboundary
-                clearInterval(drawit)
-            }
-            setTimeout("showBar()", 400)
-        }
-        function showBar(){
-            document.getElementById('mycart-menu').className="mycart-visible"
-        }
-        //]]>
-    </script><div id="slidemenubar2" style="right:-210px; top:100px; width:230px" onmouseover="pull()" onmouseout="draw()"></div>
+        })();
+    </script>
+</div><div class="page-title">
+<h1 style="line-height: 12pt;">Privacy Policy</h1>
 </div>
-
-    <div class="page-title">
-        <h1>Privacy Policy</h1>
-    </div>
-<div class="std"><p class="MsoNormal" style="margin: 0in 0in 0pt; text-align: center;"><span class="normal" style="color: #000000; font-family: verdana, geneva; font-size: small;"><strong style="mso-bidi-font-weight: normal;"><span style="text-decoration: underline;">Privacy Statement</span></strong></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span class="normal" style="color: #000000; font-family: verdana, geneva; font-size: small;">&nbsp;</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="color: #000000; font-family: verdana, geneva; font-size: small;"><span class="normal">Coleman Furniture</span> <span class="normal">is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture</span> <span class="normal">Web site and governs data collection and usage. By using the Coleman Furniture</span> <span class="normal">website, you consent to the data practices described in this statement.</span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: verdana, geneva; font-size: small;">This document outlines the types of personal information we receive and collect when you use Coleman Furniture (www.colemanfurniture.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: verdana, geneva; font-size: small;">Coleman Furniture strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="color: #000000; font-family: verdana, geneva; font-size: small;"><br><span class="subhead">Collection of your Personal Information</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Coleman Furniture</span> <span class="normal">also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.</span><br><br><span class="normal">There is also information about your computer hardware and software that is automatically collected by Coleman Furniture. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used Coleman Furniture</span> <span class="normal">for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Coleman Furniture Web site.</span><br><br><span class="normal">Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Coleman Furniture</span> <span class="normal">public message boards, this information may be collected and used by others. Note: Coleman Furniture</span> <span class="normal">does not read any of your private online communications.</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">encourages you to review the privacy statements of Web sites you choose to link to from Coleman Furniture</span> <span class="normal">so that you can understand how those Web sites collect, use and share your information. Coleman Furniture</span> <span class="normal">is not responsible for the privacy statements or other content on Web sites outside of the Coleman Furniture</span> <span class="normal">and Coleman Furniture</span> <span class="normal">family of Web sites.</span><br><br><span class="subhead">Use of your Personal Information</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">collects and uses your personal information to operate the Coleman Furniture Web site and deliver the services you have requested. Coleman Furniture</span> <span class="normal">also uses your personally identifiable information to inform you of other products or services available from Coleman Furniture</span> <span class="normal">and its affiliates. Coleman Furniture</span> <span class="normal">may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">does not sell, rent or lease its customer lists to third parties. Coleman Furniture</span> <span class="normal">may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Coleman Furniture</span> <span class="normal">may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Coleman Furniture, and they are required to maintain the confidentiality of your information.</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">keeps track of the Web sites and pages our customers visit within Coleman Furniture, in order to determine what Coleman Furniture</span> <span class="normal">services are the most popular. This data is used to deliver customized content and advertising within Coleman Furniture to customers whose behavior indicates that they are interested in a particular subject area.</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Coleman Furniture or the site; (b) protect and defend the rights or property of Coleman Furniture; and, (c) act under exigent circumstances to protect the personal safety of users of Coleman Furniture, or the public.</span><br><br><span class="subhead">Use of Cookies</span><br><br><span class="normal">Coleman Furniture Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</span><br><br><span class="normal">One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Coleman Furniture</span> <span class="normal">pages, or register with Coleman Furniture</span> <span class="normal">site or services, a cookie helps Coleman Furniture</span> <span class="normal">to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Coleman Furniture</span> <span class="normal">Web site, the information you previously provided can be retrieved, so you can easily use the Coleman Furniture</span> <span class="normal">features that you customized.</span><br><br><span class="normal">You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Coleman Furniture</span> <span class="normal">services or Web sites you visit.</span><br><br><span class="subhead">Security of your Personal Information</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">secures your personal information from unauthorized access, use or disclosure. Coleman Furniture</span> <span class="normal">secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</span></span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;">&nbsp;</p>
-<p><span style="font-family: verdana, geneva; font-size: small;">Children's Online Privacy Protection Act</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">Non-Personal Information</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">Release of Information</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">If Coleman Furniture is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="color: #000000; font-family: verdana, geneva; font-size: small;"><br><span class="subhead">Changes to this Statement</span><br><br><span class="normal">Coleman Furniture</span> <span class="normal">will occasionally update this Statement of Privacy to reflect company and customer feedback. Coleman Furniture</span> <span class="normal">encourages you to periodically review this Statement to be informed of how Coleman Furniture</span> <span class="normal">is protecting your information.</span></span><span style="font-family: verdana, geneva; font-size: small;">&nbsp;If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="font-family: verdana, geneva; font-size: small;"><br></span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">Agreeing to Terms</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">If you do not agree to Coleman Furniture's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.</span></p>
-<p><span style="font-family: verdana, geneva; font-size: small;">Your use of this site indicates acceptance of this privacy policy.</span></p>
-<p>&nbsp;</p>
-<p><span style="color: #000000; font-family: verdana, geneva; font-size: small;">Contact Information</span></p>
-<p class="MsoNormal" style="margin: 0in 0in 0pt;"><span style="color: #000000; font-family: verdana, geneva; font-size: small;"><span class="normal">Coleman Furniture</span> <span class="normal">welcomes your comments regarding this Statement of Privacy. If you believe that Coleman Furniture</span> <span class="normal">has not adhered to this Statement, please contact Coleman Furniture. We will use commercially reasonable efforts to promptly determine and remedy the problem</span>.</span></p></div>                                        <div>
-	<img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/topsep.jpg" alt="aa">
-</div>
-<div id="center_box">
-	<div id="banner2"><a href="http://www.colemanfurniture.com/why-buy-from-us.htm"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/14-years.jpg" alt="celebrating"></a></div>
-	<div id="newsletter">
-		<div id="mailinglist_left">
-			<ul>
-				<li><img class="pad" src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/mailicon.jpg" alt=""></li>
-				<li><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/mailinglist.jpg" alt=""></li>
-			</ul>
-		</div>
-		<form action="https://www.colemanfurniture.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-			<div id="mailinglist_right">
-				<ul>
-					<li><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/textfieldleft.jpg" alt="l"></li>
-					<li><input class="validate-email txt" type="text" name="email"></li>
-					<li class="pad"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/textfieldright.jpg" alt="r"></li>
-					<li>
-						<a href="javascript: newsletter_signup_form_submit();" onclick=""><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/signup.jpg" alt="" width="58" height="27"></a>
-					</li> 
-				</ul>
-			</div>
-		</form>	
-		 <script type="text/javascript">
-		    //<![CDATA[
-		        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-		        function newsletter_signup_form_submit(){
-			        document.forms["newsletter-validate-detail"].submit();
-		        }
-		    //]]>
-		 </script>
-		<div class="txt2"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/arrow.jpg" alt=""> Receive amazing deals via email</div>
-	</div>
-</div>
-<div id="ss"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/bottomsep.jpg" alt="bb"></div>
- 
-                </div>   
+<p style="line-height: 12pt;">Coleman Furniture is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture Web site and governs data collection and usage. By using the Coleman Furniture website, you consent to the data practices described in this statement.</p>
+<p style="line-height: 12pt;">This document outlines the types of personal information we receive and collect when you use Coleman Furniture (www.colemanfurniture.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.</p>
+<p style="line-height: 12pt;">Coleman Furniture strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Collection of your Personal Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Coleman Furniture also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.</p>
+<p style="line-height: 12pt;">There is also information about your computer hardware and software that is automatically collected by Coleman Furniture. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used Coleman Furniture for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Coleman Furniture Web site.</p>
+<p style="line-height: 12pt;">Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Coleman Furniture public message boards, this information may be collected and used by others. Note: Coleman Furniture does not read any of your private online communications.</p>
+<p style="line-height: 12pt;">Coleman Furniture encourages you to review the privacy statements of Web sites you choose to link to from Coleman Furniture so that you can understand how those Web sites collect, use and share your information. Coleman Furniture is not responsible for the privacy statements or other content on Web sites outside of the Coleman Furniture and Coleman Furniture family of Web sites.</p>
+<h4 style="line-height: 12pt;margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Use of your Personal Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture collects and uses your personal information to operate the Coleman Furniture Web site and deliver the services you have requested. Coleman Furniture also uses your personally identifiable information to inform you of other products or services available from Coleman Furniture and its affiliates. Coleman Furniture may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+<p style="line-height: 12pt;">Coleman Furniture does not sell, rent or lease its customer lists to third parties. Coleman Furniture may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Coleman Furniture may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Coleman Furniture, and they are required to maintain the confidentiality of your information.</p>
+<p style="line-height: 12pt;">Coleman Furniture does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</p>
+<p style="line-height: 12pt;">Coleman Furniture keeps track of the Web sites and pages our customers visit within Coleman Furniture, in order to determine what Coleman Furniture services are the most popular. This data is used to deliver customized content and advertising within Coleman Furniture to customers whose behavior indicates that they are interested in a particular subject area.</p>
+<p style="line-height: 12pt;">Coleman Furniture Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Coleman Furniture or the site; (b) protect and defend the rights or property of Coleman Furniture; and, (c) act under exigent circumstances to protect the personal safety of users of Coleman Furniture, or the public.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Use of Cookies</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+<p style="line-height: 12pt;">One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Coleman Furniture pages, or register with Coleman Furniture site or services, a cookie helps Coleman Furniture to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Coleman Furniture Web site, the information you previously provided can be retrieved, so you can easily use the Coleman Furniture features that you customized.</p>
+<p style="line-height: 12pt;">You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Coleman Furniture services or Web sites you visit.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Security of your Personal Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture secures your personal information from unauthorized access, use or disclosure. Coleman Furniture secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Children's Online Privacy Protection Act</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Non-Personal Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px;"><span style="text-decoration: underline;"><strong>Release of Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">If Coleman Furniture is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px"><span style="text-decoration: underline;"><strong>Changes to this Statement</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture will occasionally update this Statement of Privacy to reflect company and customer feedback. Coleman Furniture encourages you to periodically review this Statement to be informed of how Coleman Furniture is protecting your information. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px"><span style="text-decoration: underline;"><strong>Agreeing to Terms</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">If you do not agree to Coleman Furniture's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.</p>
+<p style="line-height: 12pt;">Your use of this site indicates acceptance of this privacy policy.</p>
+<h4 style="line-height: 12pt; margin-bottom: 2px"><span style="text-decoration: underline;"><strong>Contact Information</strong></span></h4>
+<p style="line-height: 12pt; margin-top: 0px;">Coleman Furniture welcomes your comments regarding this Statement of Privacy. If you believe that Coleman Furniture has not adhered to this Statement, please contact Coleman Furniture. We will use commercially reasonable efforts to promptly determine and remedy the problem.</p></div>                </div>
+            </div>
         </div>
-	<!-- <div id="footerSeprator"></div>
-	<div id="footerContainer"> -->
-		    	
-	<!-- </div> -->
+        <!-- ESI START DUMMY COMMENT [] -->
+<!-- ESI URL DUMMY COMMENT -->
 
-</div>
- 
-<!-- Google Code for Site Wide Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1071868603;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "OaUnCK--tgMQu9WN_wM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071868603/?label=OaUnCK--tgMQu9WN_wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-	<!-- FOOTER code start -->
-<div id="footer">
-<div class="footer_sub">
-<div class="first-col">
-<p><strong>My Account</strong></p>
-<p><a href="http://www.colemanfurniture.com/customer/account/login/">Login </a>/ <a href="http://www.colemanfurniture.com/customer/account/create/">Register</a><br>
-                            Cart is empty                <br> <a href="https://www.colemanfurniture.com/customer/account/">Order Status</a></p>
-</div>
-<div class="sec-col">
-<p><strong>Customer Service</strong></p>
-<p><a href="http://www.colemanfurniture.com/contact-us.html">Contact Us</a><br> <a href="http://www.colemanfurniture.com/faq.htm">FAQ's</a><br> <a href="http://www.colemanfurniture.com/returns-exchanges.htm">Returns and Exchanges</a><br> <a href="http://www.colemanfurniture.com/reviews.htm">Coleman Furniture Reviews</a></p>
-</div>
-<div class="thi-col">
-<p><strong>Helpful Information</strong></p>
-<p style="margin: 0; padding: 0;"><a href="http://www.colemanfurniture.com/coupons.html">Coupons</a><br> <a href="http://www.colemanfurniture.com/price-match-guarantee">Price Guarantee</a><br> <a href="http://www.colemanfurniture.com/sales-and-promos.htm"></a></p>
-<p style="margin: 0; padding: 0;"><a href="http://www.colemanfurniture.com/financing.html">Financing</a><br><a href="http://www.colemanfurniture.com/blog">Our Blog</a> <br> <a href="http://www.colemanfurniture.com/resources.asp">Resources</a><br> <a href="http://www.colemanfurniture.com/why-buy-from-us.htm">Why Buy Furniture Online?</a></p>
-<p>&nbsp;</p>
-</div>
-<div class="four-col">
-<p><strong>About Us</strong></p>
-<p><a href="http://www.colemanfurniture.com/about-us.htm">About Us</a><br><a href="http://www.colemanfurniture.com/privacy-policy.htm">Privacy Policy</a><br> <a href="http://www.colemanfurniture.com/terms-and-conditions.htm">Terms and Conditions</a><br> <a href="http://www.colemanfurniture.com/why-we-can-sell-for-less.htm">Why we Can Sell for Less?</a><br> <a href="http://www.colemanfurniture.com/why-buy-from-us.htm">Why Buy From Us</a> <br> <a href="http://www.colemanfurniture.com/news">News</a></p>
-</div>
-<div class="fiv-col">
-<table width="100%">
-<tbody>
-<tr>
-<td><a href="http://www.thefind.com/store/about-colemanfurniture"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/footer_logo1.gif" alt=""></a></td>
-<td><a href="/financing.html"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/blue/coleman-furniture-financing.png" alt="" width="170"></a></td>
-</tr>
-<tr>
-<td><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/Inc_500_126.jpg" alt="" width="154"></td>
-<td colspan="2"><a href="#"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/footer_logo3.gif" alt=""></a> <a href="#"><img src="http://www.colemanfurniture.com/skin/frontend/default/coleman/images/footer_logo4.gif" alt=""></a></td>
-</tr>
-<tr>
-<td colspan="2"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FColeman-Furniture%2F137527166309955&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div class="copyright">Copyright © 1999 - 2012 by Coleman Furniture a Renegade Furniture Group company. All rights reserved.  <br>Renegade Furniture Group, Inc. 1150 Broadway Hewlett, NY 11557</div>
-</div>
-<!-- Footer code end--><script type="text/javascript">thefind.upfront.init('tf_upfront_badge', 'c624f1d27933b5558348b8afeb95e42d')</script><!-- Footer code end-->
- 
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
+ <div class="footer-container">
+    <div class="footer">
+		<div class="footer-yearbanner">
+			<p><a href="http://colemanfurniture.com/why-buy-from-us"><img width="1184" height="93" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;" src="http://colemanfurniture.com/skin/frontend/default/rfg/images/footer-banner.jpg" alt="Footer Banner"></a></p> 
+		</div>
+		<div class="footer-top">
+			<form action="https://colemanfurniture.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+	<div class="f-top-col">
+		<p>Sign up for our newsletter and receive amazing deals via email!</p>
+		
+		<div class="f-newsletter">
+			
+			<input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+			<button type="submit" title="Submit" class="button"><span><span>Signup</span></span></button>
+		</div>
+	</div>
+</form>
 <script type="text/javascript">
 //<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-
-    var _gaq = _gaq || [];
-
-_gaq.push(['_setAccount', 'UA-2438980-1']);
-_gaq.push(['_trackPageview']);
-
-
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', '');
 //]]>
 </script>
-<!-- END GOOGLE ANALYTICS CODE -->
+			
+			<div class="f-top-col f-top-col2">
+<p>Be sure to Follow, Like &amp; Pin us for the latest deals, offers, &amp; information.</p>
+<div class="f-social-links"><a class="f-social-icon icon1" href="https://www.facebook.com/colemanfurniture" target="_blank">F</a> <a class="f-social-icon icon2" href="https://twitter.com/ColemanOnline" target="_blank">T</a> <a class="f-social-icon icon3" href="http://www.pinterest.com/colemanfurn/" target="_blank">P</a> <!--<a class="f-social-icon icon4">RSS</a>
+<a class="f-social-icon icon5">GP</a>--> <a class="f-social-icon icon6" href="http://www.houzz.com/pro/colemanfurniture1/coleman-furniture" target="_blank">H</a> <!--<a class="f-social-icon icon7">B</a>--> <a class="f-social-icon icon8" href="http://www.youtube.com/user/ColemanFurniture" target="_blank">YT</a></div>
+</div> 
+			<div class="f-top-col">
+<p>Payment &amp; Security commitment to security ensures that customers can shop and transfer money safely online</p>
+<ul class="payment-icons">
+<li><div class="sprite_image payment-icon1"></div></li>
+<li><div class="sprite_image payment-icon2"></div></li>
+<li><div class="sprite_image payment-icon3"></div></li>
+<li><div class="sprite_image payment-icon4"></div></li>
+<li><div class="sprite_image payment-icon5"></div></li>
+<li class="last"><a><div class="sprite_image payment-icon6"></div></a></li>
+</ul>
+</div> 
+		</div>
+		<div class="footer-bottom">
+			<div class="f-links">
+				<h4>My Account</h4>
+				<ul class="links">
+										<li>
+							<a href="http://colemanfurniture.com/customer/account/">Login / Register</a>
+						
+					</li>
+								<li>
+										
+						<a href="http://colemanfurniture.com/checkout/cart/">Cart is empty</a>
+									</li>
+				<li><a href="http://colemanfurniture.com/sales/order/history/">Order Status</a></li>
+				<li><a href="http://colemanfurniture.com/wishlist">My Wishlist</a></li> 
+				<li><a href="http://colemanfurniture.com/customer/address">Address Book </a></li>
+				</ul>
+			</div>
+          
+			<div class="f-links">
+<h4>Customer Service</h4>
+<ul class="links">
+<li><a href="http://colemanfurniture.com/contact-us">Contact Us</a></li>
+<li><a href="http://colemanfurniture.com/faq">FAQ's</a></li>
+<li><a href="http://colemanfurniture.com/returns-exchanges">Returns and Exchanges</a></li>
+<li><a href="http://colemanfurniture.com/reviews">Coleman Furniture Reviews</a></li>
+</ul>
+</div>
+<div class="f-links">
+<h4>Helpful Information</h4>
+<ul class="links">
+<li><a href="http://colemanfurniture.com/coupons">Coupons</a></li>
+<li><a href="http://colemanfurniture.com/price-match-guarantee">Price Guarantee</a></li>
+<li><a href="http://colemanfurniture.com/financing">Financing</a></li>
+<li>Our Blog</li>
+<li><a href="http://colemanfurniture.com/why-buy-furniture-online.htm">Why Buy Furniture Online?</a></li>
+</ul>
+</div>
+<div class="f-links">
+<h4>About Us</h4>
+<ul class="links">
+<li><a href="http://colemanfurniture.com/about-us">About Us</a></li>
+<li><a href="http://colemanfurniture.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://colemanfurniture.com/terms-and-conditions"> Terms and Conditions</a></li>
+<li><a href="http://colemanfurniture.com/why-we-can-sell-for-less">Why we Can Sell for Less?</a></li>
+<li><a href="http://colemanfurniture.com/why-buy-from-us">Why Buy From Us</a></li>
+<li><a href="http://colemanfurniture.com/news">News</a></li>
+</ul>
+</div>
+<div class="f-links">
+<ul class="links">
+<li>
 
-<script src="https://static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">clicky.init(66551344);</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="https://in.getclicky.com/66551344ns.gif" /></p></noscript>
+              <a href="http://www.shopperapproved.com/reviews/colemanfurniture.com/" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; var certheight=screen.availHeight-90; window.open(this.href,'shopperapproved','location='+nonwin+',scrollbars=yes,width=620,height='+certheight+',menubar=no,toolbar=no'); return false;"><img src="https://c683207.ssl.cf2.rackcdn.com/9851-r.gif" style="border: 0" alt="" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by Shopper Approved \251 '+d.getFullYear()+'.'); return false;"></a>
 
+</li>
+<li>
+<style type="text/css">
+#footerFinancingImg {
+    display: block;
+}
+</style>
+<a href="http://www.inc.com/profile/renegade-furniture-group" target="_blank"><div class="sprite_image footer-inc-logo">&nbsp;</div></a></li>
+</ul>
+</div>
+<div class="f-callout">
+<h4>Financing Available</h4>
+<div id="footerFinancingImg" class="sprite_image finance-icon">&nbsp;</div>
+</div> 
+		
+		</div>
+                <div class="f-right">
+            <!--<img src="" class="footer-callout" alt="" />-->
+                    </div>
+        <div class="f-left">
+            <address>Copyright © 2014 by Coleman Furniture a Renegade Furniture Group company. All rights reserved.
+Renegade Furniture Group, Inc. 333 Washington Ave, Cedarhurst NY 11516</address>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+		jQuery("#footerFinancingImg").click(function() {				
+			window.location="http://colemanfurniture.com/financing";
+		});
+</script>
 
-</body></html>
+<!-- BEGIN: buySAFE Seal -->
+<script type="text/javascript" src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
+<span id="BuySafeSealSpan"></span>
+<script type="text/javascript">// <![CDATA[
+buySAFE.Hash = '%2FdBCtolo59zT4DyiWK%2F%2FbfNBw4ONPnLaSguiVOKUKAVYiTYbKMOkwgiDDLzp4YbTBNRnMXhVi%2FSpi3HYRt098Q%3D%3D';
+WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
+// ]]></script>
+<!-- END: buySAFE Seal -->
+<script src="//configusa.veinteractive.com/tags/B2DC17BA/EB48/4E36/9BA4/568A3EB67109/tag.js" type="text/javascript" async=""></script> 
+<!-- ESI END DUMMY COMMENT [] -->
+        <script src="http://colemanfurniture.com/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script><script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/6aa508312b24062fcb687727708b1978-ac.js"></script>
+<script type="text/javascript">
+    window.onload = function() {
+		document.getElementById('search_mini_form').action = "http://colemanfurniture.com/searchresults.html";
+    }
+</script>    </div>
+</div>
+<!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"><script async="" type="text/javascript" src="http://colemanfurniture.com/livezilla/server.php?a=05ed0&amp;request=track&amp;output=jcrpt&amp;ovlp=MjA_&amp;ovlc=IzczYmUyOA__&amp;ovlct=I2ZmZmZmZg__&amp;ovlt=T25saW5lIC0gQ2hhdCB3aXRoIHVz&amp;ovlto=T2ZmbGluZSAtIExlYXZlIGEgbWVzc2FnZQ__&amp;ovls=MQ__&amp;ovloo=MQ__&amp;eca=MQ__&amp;ecw=Mjgw&amp;ech=OTA_&amp;ecmb=Mjc_&amp;echt=UXVlc3Rpb25zPw__&amp;echst=Q2hhdCB3aXRoIHVzIGxpdmU_&amp;ecoht=UXVlc3Rpb25zPw__&amp;ecohst=UGxlYXNlIGxlYXZlIGEgbWVzc2FnZQ__&amp;ecfs=I0YwRkZENQ__&amp;ecfe=I0QzRjI5OQ__&amp;echc=IzZFQTMwQw__&amp;ecslw=Mg__&amp;ecsgs=IzY1OUYyQQ__&amp;ecsge=IzczQkUyOA__&amp;ecsa=MQ__&amp;ecsb=NA__&amp;ecsx=Mw__&amp;ecsy=Mw__&amp;ecsc=IzQ2NDY0Ng__&amp;nse=0.046025950144733985"></script></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://colemanfurniture.com/livezilla/server.php?a=05ed0&request=track&output=jcrpt&ovlp=MjA_&ovlc=IzczYmUyOA__&ovlct=I2ZmZmZmZg__&ovlt=T25saW5lIC0gQ2hhdCB3aXRoIHVz&ovlto=T2ZmbGluZSAtIExlYXZlIGEgbWVzc2FnZQ__&ovls=MQ__&ovloo=MQ__&eca=MQ__&ecw=Mjgw&ech=OTA_&ecmb=Mjc_&echt=UXVlc3Rpb25zPw__&echst=Q2hhdCB3aXRoIHVzIGxpdmU_&ecoht=UXVlc3Rpb25zPw__&ecohst=UGxlYXNlIGxlYXZlIGEgbWVzc2FnZQ__&ecfs=I0YwRkZENQ__&ecfe=I0QzRjI5OQ__&echc=IzZFQTMwQw__&ecslw=Mg__&ecsgs=IzY1OUYyQQ__&ecsge=IzczQkUyOA__&ecsa=MQ__&ecsb=NA__&ecsx=Mw__&ecsy=Mw__&ecsc=IzQ2NDY0Ng__&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://colemanfurniture.com/livezilla/server.php?a=05ed0&amp;request=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"004a6b9fde","applicationID":"4253494","transactionName":"ZlNRbERXX0IDAU0LXF8ZcltCX15fTQFUERxBV1RdGUBYVBU=","queueTime":0,"applicationTime":305,"ttGuid":"","agentToken":"","atts":"ShRSGgxNTEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
