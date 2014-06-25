@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecultureist.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101182752id_/http%3A//www.thecultureist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecultureist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143118id_/http%3A//www.thecultureist.com/privacy-policy) for the most accurate reproduction.*
 
 # The Culture-ist Privacy Policy
 
-This Privacy Policy describes the policies and procedures of The Culture-ist (Culture-ist LLC) on the collection, use and disclosure of your information on [www.the cultureist.com](http://www.thecultureist.com/ "The Culture-ist") and the services, features, content or applications offered by The Culture-ist. The Culture-ist receives information about you from various sources, including:
+This Privacy Policy describes the policies and procedures of The Culture-ist (Culture-ist LLC) on the collection, use and disclosure of your information on [www.the cultureist.com](http://thecultureist.com/ "The Culture-ist") and the services, features, content or applications offered by The Culture-ist. The Culture-ist receives information about you from various sources, including:
 
-  * If you register for the Site’s Daily or Weekly Email (your “Account”)
+  * If you register for the Site’s Daily or Weekly Email (your “Account”)
   * Your use of the Services generally
   * From third party websites and services
 
@@ -14,7 +14,7 @@ When you use the Services, you are consenting to the collection, transfer, repur
 
 ##### What information does The Culture-ist collect?
 
-The Culture-ist collects information from you when you register on our site or subscribe to our newsletter.When registering on our site, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on [The Culture-ist](http://www.thecultureist.com/ "The Culture-ist"). Google’s use of the DART cookie enables it to serve ads to you based on your visit to The Culture-ist and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+The Culture-ist collects information from you when you browse our site or subscribe to our newsletter. When registering on our site, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on [The Culture-ist](http://thecultureist.com/ "The Culture-ist"). Google’s use of the DART cookie enables it to serve ads to you based on your visit to The Culture-ist and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ##### What do we use your information for?
 
@@ -54,6 +54,4 @@ The Culture-ist may amend this Privacy Policy from time to time. Use of informat
 If you have any questions or concerns regarding privacy using the Services, please send a message to [anthony@thecultureist.com](mailto:anthony@thecultureist.com). We will make every effort to address and resolve your concerns.
 
 _Effective date: September 1, 2011_  
-_This policy was last modified on March 15, 2013_
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&media=&description=The+Culture-ist+Privacy+Policy)[](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F)[](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&name=The+Culture-ist+Privacy+Policy)[](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F)[](mailto:?subject=The%20Culture-ist%20Privacy%20Policy&body=http://www.thecultureist.com/privacy-policy/)[](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&title=The+Culture-ist+Privacy+Policy)[](http://digg.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&title=The+Culture-ist+Privacy+Policy)[ ](https://www.linksalpha.com/social/mobile)
+_This policy was last modified on  April 1, 2014_
