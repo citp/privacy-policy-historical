@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019120159id_/https%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625183559id_/https%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
 
-# NFL Trade Rumors - Privacy Policy NFL Trade Rumors - |
+# NFL Trade Rumors - | Privacy Policy
 
 Privacy Policy
 
