@@ -1,104 +1,137 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603031739id_/http%3A//deewr.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625094313id_/http%3A//education.gov.au/condensed-privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Department of Education, Employment and Workplace Relations
+# Condensed Privacy Policy | Department of Education
 
-## DEEWR Privacy Policy
+## Department of Education
 
-All personal information collected by the Department of Education, Employment and Workplace Relations (DEEWR) is protected by the _[Privacy Act 1988](http://www.comlaw.gov.au/Details/C2012C00903)_  (the Privacy Act). Further information about the Privacy Act is available on the [Australian Privacy Commissioner’s website](http://www.privacy.gov.au/).
+The Department of Education, its employees, contractors and agents (collectively, the department) is subject to the [_Privacy Act 1988_](http://www.comlaw.gov.au/Series/C2004A03712) (the Privacy Act) and to the requirements of the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) (APPs) contained in the Privacy Act.
 
-## DEEWR’s Privacy Policy
+We also adhere to the [Guidelines for Federal and ACT Government Websites](http://www.oaic.gov.au/privacy/privacy-resources/privacy-guides/guidelines-for-federal-and-act-government-websites), issued by the Office of the Australian Information Commissioner.
 
-This Privacy Policy embodies the department’s commitment to protecting the privacy of personal information. It applies to personal information collected by the department and its contractors and agents (collectively, the department).
+Our **privacy policy** has been developed in accordance with APP 1 and embodies our commitment to protecting personal information. The complete privacy policy can be found here:
 
-The department adheres to the requirements of the Information Privacy Principles (contained in the Privacy Act) and the[ Guidelines for Federal and ACT Government Website](http://www.privacy.gov.au/materials/types/guidelines/view/6057). These guidelines are issued by the Federal Privacy Commissioner.
+  * [Department of Education Complete Privacy Policy](http://docs.education.gov.au/node/35451).
 
-## Information the department collects and how it uses it
 
-The department helps the Australian Government achieve its overall objective of quality education, employment and workplace relations outcomes for all Australians through:
 
-  * efficient national program management
-  * effective working relationships with state and territory governments, education departments, non-government education authorities and providers, Indigenous education service providers, employment service provides, industry, community groups and other stakeholders
-  * auditing, research and analysis in order to maintain, protect and improve its services
+The **privacy policy** provides more detailed information about:
+
+  * the types of personal information we collect and hold;
+  * the methods by which we collect and hold personal information;
+  * the purposes for which we collect, hold, use and disclose personal information;
+  * how we manage personal information collected online;
+  * whether we are likely to disclose personal information to overseas recipients and the situations in which we may do so;
+  * how you may access your personal information or seek the correction of such information; and
+  * how you may complain about a possible breach of the APPs by us and how we will deal with your complaint.
+
+
+
+You should read our **privacy policy** if you are:
+
+  * a student;
+  * a parent or guardian;
+  * a child care provider;
+  * a principal or teacher;
+  * an academic or researcher;
+  * a participant in a program or service delivered by us;
+  * a contractor, consultant, or supplier of goods or services to us;
+  * an applicant for a grant or a tenderer for a contract provided by us;
+  * a policy stakeholder who works with us;
+  * a person whose information may be given to us by a third party, including other Australian Government agencies;
+  * an entrant in a competition conducted by us;
+  * a person seeking employment with us;
+  * a current or past employee of the department; or
+  * any other individual whose personal information we may collect or hold.
+
+
+
+## Information we collect and why we use it
+
+We are responsible for national policies and programs that help Australians access quality and affordable childcare; early childhood education; school education; post-school, higher education; international education and academic research, through:
+
+  * efficient national program management;
+  * effective working relationships with state and territory governments, non-government education authorities and providers, universities and other providers of community groups and other stakeholders;
+  * auditing, research and analysis in order to maintain, protect and improve our services; and
   * policy advice and other support to the Minister.
 
 
 
-Generally, the department collects personal information in order to properly and efficiently carry out its functions. The department only uses personal information for the purpose(s) for which it was given to the department and for directly related purposes (unless otherwise required by or authorised by law) or as consented to by the individual concerned.
+Generally, we collect personal information in order to properly and efficiently carry out one or more of our functions. We only use personal information for the purpose(s) for which it was given to us and for directly related purposes (unless otherwise required or authorised by or under law); as consented to by you or if a permitted general situation exists.
 
-In addition to this general Privacy Policy, where more detailed information is needed to explain its privacy practices in relation to specific types of personal information, the department develops and provides separate privacy notices to describe how it will handle the personal information that it collects in relevant circumstances. For example, where the department asks you to provide personal information in relation to a particular program administered by the department, the department will provide you with a privacy notice which details its practices in relation to that particular program.
+## Privacy Notices
 
-## Communication - emails and electronic forms
+In addition to our **privacy policy** , we may need to explain specific privacy practices in more detail at other times. In such circumstances we develop and provide separate privacy notices to describe how we will handle the personal information that we collect. For example, where we ask you to provide personal information in relation to a particular program that we administer, we will provide you with a privacy notice at the time of collection or as soon as practicable afterwards, which details our personal information handling practices in relation to that particular program.
 
-The department’s servers may record your email address if you send the department a message online. Your email address will not be added to a mailing list unless you have provided it to the department in order to subscribe to one of its subscription services, such as the department’s Site Change Subscription Service.
+## Personal Information Holdings
 
-Where you choose to send the department a completed electronic form that includes your personal details, the department collects personally identifiable information such as name, address and email address.
+We maintain, on an ongoing basis, a Personal Information Holdings document that explains the various types of personal information we collect and hold, what the information is used for and the third parties to whom the information is normally disclosed. Where applicable, the document also details where we are authorised to collect, use or disclose information under legislation relevant to our policies, programs and services.  A copy of the Personal Information Holdings document can be obtained from the Privacy Contact Officer whose details are below.
 
-The information collected by email or electronic forms will be used only for the purpose for which you provided it, and the department will not disclose it unless one of the circumstances described below under the heading Information Sharing has been satisfied. For those who do not wish to use the internet, the department provides alternative ways of providing information, for example forms may be printed and lodged by post.
+## Electronic Communication
+
+There are inherent risks associated with the transmission of information over the internet, including via email. You should be aware of this when sending personal information to us via email or via our website or social media platforms. If this is of concern to you then you may use other methods of communication with us, such as post, fax or telephone (although these also have risks associated with them).
+
+We only record your email address when you send a message to us or subscribe to one of our mailing lists. Any personal information, including email addresses, will only be used or disclosed for the purpose for which it was provided.
 
 ## Log information (browsing)
 
-When you use the department’s online services, its servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your server address, your top level domain name (for example, .com, .gov, .au, .uk, etc), the date and time of visit to the site, the pages accessed and documents viewed, the previous sites visited, the browser type, the browser language, and one or more cookies that may uniquely identify your browser.
+When you use our online services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your server address, your top level domain name (for example, .com, .gov, .au, .uk, etc), the date and time of visit to the site, the pages accessed and documents viewed, the previous sites visited, the browser type, the browser language, and one or more cookies that may uniquely identify your browser.
 
 ## Cookies
 
-A cookie is a small file containing a string of characters to your computer that uniquely identifies your browser. It is information that your web browser sends back to the department’s website server whenever you visit it again. The department use cookies to ‘remember’ your browser between page visits. In this situation, the cookie identifies your browser, not you personally. No personal information is stored within the department’s cookies.
+A cookie is a small file containing a string of characters to your computer that uniquely identifies your browser. It is information that your web browser sends back to our website server whenever you visit it again. We use cookies to ‘remember’ your browser between page visits. In this situation, the cookie identifies your browser, not you personally. No personal information is stored within our cookies.
 
 ## Google Analytics
 
-The department uses Google Analytics to collect information about visitors to its website. Google Analytics uses first-party cookies and JavaScript code to help analyse how users use the site. It anonymously tracks how visitors interact with this website, including how they have accessed the site (for example from a search engine, a link, an advertisement) and what they did on the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purposes of compiling reports on website activity and providing other services relating to website activity and internet usage. You may refuse the use of cookies by selecting the appropriate settings on your browser.
+We use Google Analytics to collect information about visitors to our website. Google Analytics uses first-party cookies and JavaScript code to help analyse how users use the site. It anonymously tracks how visitors interact with this website, including how they have accessed the site (for example from a search engine, a link, an advertisement) and what they did on the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purposes of compiling reports on website activity and providing other services relating to website activity and internet usage. You may refuse the use of cookies by selecting the appropriate settings on your browser.
 
-## Access and alteration of records containing personal information
+## Links to External Websites
 
-When you provide personal information in relation to the department’s services, the department will allow you access to your personal information and will correct your personal information if it is inaccurate (subject to restrictions on such access or alteration of records under the applicable provisions of any law of the Commonwealth).
+Our website includes links to other websites. We are not responsible for the content and privacy practices of other websites. We recommend that you examine each website’s Privacy Policy separately.
 
-The _[Freedom of Information Act 1982](http://www.comlaw.gov.au/Details/C2012C00904) _also provides you with an opportunity to request access to documents in the possession of the department. For more information please go to the Freedom of Information page .
+## Information collected by our contractors
 
-## Information sharing
+We take contractual measures to ensure that where we have given personal information to a contractor (that carries out a service for us), the contractor complies with the APPs as if it was an agency.
 
-The department only discloses personal information to third parties in the following circumstances:
+## Storage and Data Security
 
-  * where you are reasonably likely to have been aware, or made aware by way of a privacy notice, that your personal information is usually passed to the relevant parties
-  * where you have consented to the disclosure of your personal information
-  * where we believe on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to your life or health or that of another person
-  * where the disclosure is required or authorised by or under law
-  * where the disclosure is reasonably necessary for the enforcement of criminal law or a law imposing a pecuniary penalty, or for the protection of public revenue.
+Storage of personal information (and the disposal of information when no longer required) is managed in accordance with the Australian Government’s records management regime.
 
+We take all reasonable steps to protect the personal information held in our possession against loss, unauthorised access, use, modification, disclosure or misuse.
 
+## Data Quality
 
-## Information security
+We take all reasonable steps to make sure that the personal information we collect and store is accurate, up-to-date, complete, relevant and not misleading.
 
-The department takes all reasonable steps:
+## Access to and alteration of records containing personal information
 
-  * to protect the personal information held in its possession against loss, unauthorised access, use, modification, disclosure or misuse
-  * to ensure that, where it has given personal information to a contractor (that carries out a service for the department), the contractor complies with the Information Privacy Principles in the Privacy Act.
+You have a right under the Privacy Act to access personal information we hold about you.
 
+You also have a right under the Privacy Act to request corrections to any personal information that we hold about you if you think the information is inaccurate, out-of-date, incomplete, irrelevant or misleading.
 
+The _Freedom of Information Act 1982_ also provides you with an opportunity to request access to documents in our possession. For more information about FOI please go to the [Freedom of Information](http://docs.education.gov.au/) page.
 
-## Data integrity
+For further detail, including a comparison of both access mechanisms and how you can make a request, please see our [Guide to Accessing and Correcting Personal Information ](http://docs.education.gov.au/node/35453).
 
-The department takes reasonable steps to make sure that the personal information it collects and stores is accurate, relevant, up-to-date, complete and not misleading.
+## Complaints
 
-## Enforcement
+If you think we may have breached your privacy you may contact us to make a complaint using the contact details below. In order to ensure that we fully understand the nature of your complaint and the outcome you are seeking, we prefer that you make your complaint in writing.
 
-The department regularly reviews its compliance with this policy. If you have any questions or complaints about privacy or confidentiality, or if you wish to access or amend your personal information, please email the department at [privacy@deewr.gov.au](mailto:privacy@deewr.gov.au) or write to:
+For further information about our complaint handling processes please see our [Privacy Complaint Handling Policy ](http://docs.education.gov.au/node/35455).
+
+## Contact Us
+
+If you have any enquiries or complaints about privacy, or if you wish to access or correct your personal information, please email us at [privacy@education.gov.au](mailto:privacy@education.gov.au) or write to:
 
 Privacy Contact Officer  
-Legal and Investigations Group  
-Location C12MT1  
-Department of Education, Employment and Workplace Relations  
+Legal and Compliance Group  
+Department of Education  
 GPO Box 9880  
 Canberra ACT 2601.
 
-## Changes to this policy
+## Changes to this privacy policy
 
-Please note that this Privacy Policy may change from time to time.
+Please note that the privacy policy may change from time to time.
 
-## Changes to the Privacy Act 1988
-
-[The _Privacy Amendment (Enhancing Privacy Protection) Bill 2012_](http://aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r4813) was enacted in late 2012. One of the amendments this makes to the Privacy Act is to replace the existing Information Privacy Principles with new Australian Privacy Principles. The new Australian Privacy Principles commence in March 2014\.  Over the coming months, the department will be reviewing its Privacy Policy to ensure compliance with the new legal requirements before they commence in March 2014.
-
-## Further information
-
-The department is required to submit a Personal Information Digest to the Australian Privacy Commissioner each year which outlines, amongst other things, the sorts of records of personal information that the department holds. The department’s Personal Information Digest is available from the [Australian Privacy Commissioner’s website](http://www.privacy.gov.au/).
-  *[DEEWR]: Department of Education, Employment and Workplace Relations
+Last updated: 13 March 2014
+  *[FOI]: Freedom of Information
   *[ACT]: Australian Capital Territory
