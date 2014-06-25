@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216045613id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spokesman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231257id_/http%3A//www.spokesman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Spokesman.com
 
 ### Privacy policy
 
-Because your privacy is important to us, Spokesman.com and all Web sites now or hereafter owned or controlled by _The Spokesman-Review_ (collectively referred to hereafter as "S-R.COM" or "we") operate by the following principles:
+We’ve updated our privacy policy, not that you care in the slightest. Like every site out there we at [Spokesman.com](http://www.spokesman.com/) and all our web sites collect some information online which we use to develop and enhance the services we offer to you. This involves the use of cookies. But don’t worry, any data collected is all anonymous so even if we wanted we couldn’t tell your wife, husband, civil partner, girlfriend, boyfriend or employer exactly what it is you’re ‘researching’ on the Net these days.
+
+If you do not know what cookies are, or how to control or delete them, then we recommend you read on or visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/). Deleting cookies may impair the functionality of this site and your enjoyment of it.
+
+We take privacy issues seriously and are open about the way data is collected and used. Please read this policy which outlines the principles we follow.
 
 **PERSONAL INFORMATION**  
 We explicitly ask when we need information that personally identifies you ("Personal Information"). Personal Information may be needed to provide unique services specific to you, like personal directions or personalized news and information. Other services that we offer may require more extensive Personal Information in order to provide a package tailored to a specific individual's needs. For example, we may ask you for your name and e-mail address if you wish to personalize your Spokesman.com home page. Some portions of the site may ask you to provide personal financial information (in addition to Personal Information like name and address) over an encrypted connection, enabling you to purchase items online. We may request that you provide Personal Information as part of a contest or promotion.
@@ -15,7 +19,12 @@ We use your Personal Information to operate Spokesman.com and other affiliated s
 All users who wish to access paid news content on Spokesman.com are required to register in order to gain access to that portion of our site and must agree with the terms of our [Service Agreement](https://web.archive.org/service-agreement/). Spokesman.com, along with several other SR.COM affiliated sites, require all registrants to provide a valid e-mail address and a personal password. Users who want online access to paid content on Spokesman.com will be required to provide additional Personal Information, including, but not limited to, home address, home telephone number, home ZIP code, newspaper subscriber account number (when applicable), as well as other billing and credit card information. Other demographic information (e.g., country, ZIP code, age, sex, job title, etc.) may also be requested from time to time.
 
 **COOKIES**  
-We may also place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable S-R.COM to relate your use of our Web sites to information that you have specifically and knowingly provided to or requested from us.
+Your Internet browser has the in-built facility for storing small files- “cookies” – that hold information which allows a website to recognize your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired. We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/) for detailed guidance. If you are not happy, then you should either not use this site, or you should delete cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.). 
+
+**Your consent**  
+Currently we use the following cookies and we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. 
+
+Google Analytics – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/analytics/learn/privacy.html>
 
 **AP NEWS REGISTRY**  
 This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the [AP News Registry privacy policy](http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx) for further information.
