@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222110446id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmt.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005821id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # CMT.com: Privacy Statement
 
@@ -6,25 +6,13 @@
 
 **This Privacy Policy is intended to explain our privacy practices and covers the following areas:**
 
-    * 1\. When This Privacy Policy Applies.
-    * 2\. U.S. Governing Law; Safe Harbor.
-    * 3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
-    * 4\. Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
-    * 5\. Wireless Marketing Services and Associated Promotional Opportunities.
-    * 6\. Sharing and Disclosure of Personal Information and Other Information.
-    * 7\. Reviewing, Updating or Deleting Certain Information.
-    * 8\. Protection of Information.
-    * 9\. Your California Privacy Rights.
-    * 10\. Changes to this Privacy Policy and Notice.
-    * 11\. Miscellaneous.
-
-**1\. When This Privacy Policy Applies.**
+**[](https://web.archive.org/interact/terms/section1)1\. When This Privacy Policy Applies.**
 
 This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a "Device") and whether you are accessing the Site as a registered user (if offered by the Site) or other user of the Site. This Privacy Policy governs only the Personal Information and Other Information (as those terms are defined below) that may be colelcted about you and does not cover any such information collected in any other manner (such as by the CMT Channel not through the Site) or by any other website offered by CMT, the Parent Companies and/or any subsidiaries and affiliates of the Parent Companies (collectively, "Affiliates") or collected by any other company, unless specifically stated. We may from time to time, combine Information (as that term is defined below) with other information we collect from other sources, such as information received from our Parent Companies, Affiliates, marketing companies or Advertisers and, if we do so, our use of the resulting combined Information will be subject to this Privacy Policy.
 
 This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
 
-**2\. U.S. Governing Law; Safe Harbor.**
+**[](https://web.archive.org/interact/terms/section2)2\. U.S. Governing Law; Safe Harbor.**
 
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [Terms of Use Agreement](https://web.archive.org/interact/terms/). If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
@@ -32,7 +20,7 @@ If you are located in the European Economic Area ("EEA") and Switzerland, for de
 
 If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and the Flux Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
 
-**3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
+**[](https://web.archive.org/interact/terms/section3)3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
 When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "Other Information", we mean any information other than Personal Information that may be collected about you(Personal Information and Other Information, together, the "Information").
 
@@ -54,7 +42,7 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the Site through these Tracking Technologies.  
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you.
 
-Although these Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site, the Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site.
 
 **c. Use of Information.**  
 As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates.
@@ -92,7 +80,7 @@ We, and/or our Parent Companies and Affiliates, use the Other Information we col
 **iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.**  
 The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see "Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
-**4\. Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
+**[](https://web.archive.org/interact/terms/section4)4\. Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
 **a. Opting-Out of Certain Uses of Personal Information.**
 
@@ -128,7 +116,13 @@ Some Device manufacturers may preset their browsers to block Tracking Technologi
 
 Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html> or <http://epic.org/privacy/cookies/flash.html>.
 
-**5\. Wireless Marketing Services and Associated Promotional Opportunities.**
+**iv. Do-Not-Track Signals and Similar Mechanisms.**
+
+Some web browsers may transmit â€œdo-not-trackâ€ signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals.
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii).
+
+**[](https://web.archive.org/interact/terms/section5)5\. Wireless Marketing Services and Associated Promotional Opportunities.**
 
 CMT may provide users and viewers with the opportunity to register for special Promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their consent to receive such information from CMT, either by registering on the Site or via their wireless device. Such services and promotional opportunities are provided by the Parent Companies and/or Affiliates for CMT. The Information requested as part of the online registration process may include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Additional Information may be requested for specific Promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement.
 
@@ -158,7 +152,7 @@ A user understands, acknowledges and agrees that CMT may, in its sole discretion
 
 **d. Use of Information.** CMT will not use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates.
 
-**6\. Sharing and Disclosure of Personal Information and Other Information.**  
+**[](https://web.archive.org/interact/terms/section6)6\. Sharing and Disclosure of Personal Information and Other Information.**  
 **a. Sharing and Disclosure of Personal Information.**  
 Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.
 
@@ -187,29 +181,29 @@ If you opt-in or otherwise agree to have your Personal Information shared with o
 **b. Sharing and Disclosure of Other Information.**  
 We may share or otherwise disclose Other Information with third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.
 
-**7\. Reviewing, Updating or Deleting Certain Information.**  
+**[](https://web.archive.org/interact/terms/section7)7\. Reviewing, Updating or Deleting Certain Information.**  
 Generally, you may review, update or delete certain Information collected by the Site by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site and then selecting "Edit Profile". However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking "Profile" or your display name at the top of the Site, selecting "Edit Profile" or "Manage Account" and selecting the "Privacy" tab. Certain Information collected for certain entries into Promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user's request, unless the entrant is a child under the age of 13 years old. If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. Children or Ineligible Teenagers. If we, or our Parent Companies or Affiliates, inadvertently send an email or text message to a person that does not meet the age and other eligibility requirements of the Site, such as a child (a person under the age of 13) or others who do not meet the greater age requirements of certain features of this Site ("Ineligible Teenagers"), the child (or Ineligible Teenager) or the child's (or Ineligible Teenager's) parent or legal guardian (the "Parent") always has the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18, or the age of majority in your state).
 
 In addition, Parents of children or Ineligible Teenagers who wish to terminate their child's or Ineligible Teenager's membership must use their child's or Ineligible Teenager's User ID to gain direct access to the account and follow the procedures in the "Deactivation/Termination of Your Registration or Use" Section of the Terms of Use Agreement to terminate their child's or Ineligible Teenager's membership; alternatively, Parents may send an email to the Site's Privacy Administrator and provide us with your child's or Ineligible Teenager's User ID and request to terminate your child's or Ineligible Teenager's account and registration. We will not allow direct access to a user's account and Personal Information by any person without the user's User ID. If a Parent does not have his or her child's or Ineligible Teenager's User ID, the Parent will be required to send an email to the Privacy Administrator that includes the Parent's name, address, telephone and email address, in addition to the child's or Ineligible Teenager's name and email address as registered on the Site, plus the child's or Ineligible Teenager's date of birth. The Parent must also provide verifiable identification that they are the parent or legal guardian of the child or Ineligible Teenager. CMT will send a confirming email to the Parent via the email address provided to verify that the Parent wishes to terminate his or her child's or Ineligible Teenager's account and registration. The Parent must then confirm by sending a reply email to the designated return address. CMT will then terminate the child's or Ineligible Teenager's account but will notify the child or Ineligible Teenager of the termination request via email and will identify the name, address and email address of the person making the request.
 
-**8\. Protection of Information.**
+**[](https://web.archive.org/interact/terms/section8)8\. Protection of Information.**
 
 While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information. However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the Site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow similar standards of security and confidentiality.
 
 **Phishing.** Phishing attacks attempt to steal consumers' personal identity data and financial account credentials. "Phishers" use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers. WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD! If you receive such email communication, please forward it immediately to the Site's Privacy Administrator at [questions@cmt.com](mailto:questions@cmt.com?subject=PrivacyPolicy), and then immediately delete the fraudulent email from your computer.
 
-**9\. Your California Privacy Rights.**  
+**[](https://web.archive.org/interact/terms/section9)9\. Your California Privacy Rights.**  
 If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal Information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
 
 If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at [questions@cmt.com](mailto:questions@cmt.com?subject=PrivacyPolicy) or by postal mail to CMT, cmt.com, c/o Privacy Administrator, 330 Commerce Street, Nashville, TN 37201, Attn: Your California Privacy Rights c/o Privacy Administrator 
 
 All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-**10\. Changes to this Privacy Policy and Notice.**
+**[](https://web.archive.org/interact/terms/section10)10\. Changes to this Privacy Policy and Notice.**
 
 We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting. Notice of material changes will be posted on the Site's homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy and [Terms of Use Agreement](https://web.archive.org/interact/terms/index.jhtml) often for updates.
 
-**11\. Miscellaneous.**
+**[](https://web.archive.org/interact/terms/section11)11\. Miscellaneous.**
 
 **a. Accuracy and Confidentiality.**  
 It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal Information or you fail to update such information or Personal Information. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
@@ -228,7 +222,7 @@ Please review our [Terms of Use Agreement](https://web.archive.org/interact/term
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2013 Viacom Media Networks, a division of Viacom International Inc. - All Rights Reserved.
 
   
 
