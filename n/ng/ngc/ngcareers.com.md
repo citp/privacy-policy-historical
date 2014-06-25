@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ngcareers.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122024808id_/http%3A//ngcareers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngcareers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115307id_/http%3A//ngcareers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Ngcareers.com
+# Privacy Policy | Ngcareers
+
+## Privacy Policy Ngcareers.com
 
 Ngcareers is Nigeria's Top job search, recruitment and career site. We publish latest jobs and career information for Nigerians. We connect employers and career individuals. Please read our terms of service below if you intend to use our service.  **_What information do we collect_**   
 We collect information such as Name, Email, Address, Education details, CV/Resume, Phone Number, Date of Birth etc from you when you register on our site. You may however visit the site anonymously.
@@ -44,4 +46,4 @@ This policy was last modified on 01/08/2011
 If at any time you wish to stop receiving our Information/updates/alerts you can unsubcribe by clicking on the unsubcription link in our newsletters or send a request to register@ngcareers.com. You can stop receiving alerts from us by unsubcribing from your profile page or sending a request to register@ngcareers.com
 
 **_Contacting us_**  
-If there are any questions regarding this privacy policy you may contact us by clicking [HERE](http://ngcareers.com/about/contact-us)
+If there are any questions regarding this privacy policy you may contact us by clicking [HERE](https://web.archive.org/about/contact-us)
