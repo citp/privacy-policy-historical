@@ -1,0 +1,909 @@
+<!--The following is the downloaded HTML source of the itsmyascent.com privacy policy that was archived on 2014-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625123421id_/http%3A//www.itsmyascent.com/privacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Privacy Policy</title>
+<link rel="shortcut icon" href="/resources/images/favicon.ico">
+
+<!--[if lt IE 9]>
+     <script src="/resources/js/html5.js"></script>
+<![endif]-->
+
+<link href="/resources/css/master.css" rel="stylesheet" type="text/css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=159376190816234"></script><script type="text/javascript" src="/resources/js/jquery-1.8.2-min.js"></script>
+<script type="text/javascript" src="/resources/js/jquery.validate.js"></script>
+<script type="text/javascript" src="/resources/js/common.js"></script>
+<script type="text/javascript" src="/resources/js/postmessage.js" charset="utf-8"></script> 
+<script src="/resources/js/jquery.reveal.js"></script>
+
+<!-- DatePicker -->
+<script type="text/javascript" src="/resources/js/jquery-ui.js"></script>
+<link href="/resources/css/datepicker.css" rel="stylesheet" type="text/css">
+
+<!-- right panel show hide 
+<script type="text/javascript">
+	$(document) .ready(function(){
+		$('#formButton') .click(function(){
+			$('#subForm') .slideToggle();
+			$('.DownArrow') .toggle();
+			$('.upArrow') .toggle();
+		});
+	});
+</script>
+-->
+<!-- Select dropdown styling and file upload styling -->
+<script>
+	$(document) .ready(function(){
+		//Select dropdown styling 
+		$('.selectBox') .change(function(){
+			var selValue = $(this) .find('select option:selected').text();
+			$(this) .find('.selectOutput').text(selValue);
+		});
+		//File upload styling script
+		$('.uploadField') .change(function(){
+			var fileUp = $('.uploadField') .val();
+			$('.fileUpload') .val(fileUp);
+		});
+	});
+</script>
+
+<script>
+	$(document) .ready(function(){
+		var userAgent = navigator.userAgent.toString();
+		if ((userAgent.indexOf('Firefox') != -1)) {
+		   	var version = jQuery.browser.version.substr(0, 3);
+	   		if(version < 4.0){
+	   			alert('Our website is best viewed on Firefox version 4.0 and above. Request you to update your browser for better user experience.');
+		   	}
+       	}
+             
+        if((userAgent.indexOf('Chrome') != -1)){
+	    	var version = jQuery.browser.version.substr(0, 3)
+		   	if(version < 20.0){
+		   		alert('Our website is best viewed on Chrome version 20.0 and above. Request you to update your browser for better user experience.');
+		   	}
+        }
+             
+	   	if((userAgent.indexOf('MSIE') != -1)){
+	    	var version = jQuery.browser.version.substr(0, 3);
+		   	if(version < 9.0){
+		   		alert('Our website is best viewed on Internet Explorer version 9.0. Request you to update your browser for better user experience.');
+		   	}
+      	}                        
+               
+	});
+</script>
+
+
+<script>
+	$(document).ready(function(){
+		$('#feedback').click(function(e){
+			openPopUp('/feedback','popUpPageConatiner');
+		});
+		$('#reportBug').click(function(e){
+			openPopUp('/reportBug', 'popUpPageConatiner');
+		});
+		$('#aboutUs').click(function(e){
+			window.location.href="/aboutUs";
+		});
+		$('#siteMap').click(function(e){
+			window.location.href="/siteMap";
+		});
+		$('#privacyPolicy').click(function(e){
+			window.location.href="/privacyPolicy";
+		});
+		$('#termsOfUse').click(function(e){
+			window.location.href="/termsOfUse";
+		});
+		//Register, contactUs, FAQ are at multiple places so putting name instead of id to refer
+		//todo with href		
+		$('[name="register"]').click(function(e){
+			window.location.href="/registrationWizard";
+		});
+		$('[name="contactUs"]').click(function(e){
+			openPopUp('/contactUs','popUpPageConatiner');
+		});
+		$('[name="faq"]').click(function(e){
+			window.location.href="/faq";
+		});
+	});
+</script>
+
+<!-- Home page Banner -->
+<script type="text/javascript" src="/resources/js/jquery.cycle.js"></script>
+<script type="text/javascript" src="/resources/js/slideshow.js"></script>
+
+<!-- Home logo slider -->
+<script type="text/javascript" src="/resources/js/easySlider1.7.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			$("#slider").easySlider({
+				auto: true,
+				continuous: true,
+				nextId: "slider1next",
+				prevId: "slider1prev"
+			});
+			$("#slider2").easySlider({ 
+				numeric: true
+			});
+		});	
+	</script>
+ 
+ 
+<!-- close home logo slider -->
+<!-- Popup Jquery -->
+<script>
+$(document).ready(function() {
+    //Getting the variable's value from a link 
+	var loginBox = $('#popUpPageConatiner');
+	
+	//Set the center alignment padding + border see css style
+	var popMargTop = ($(loginBox).height() + 24) / 2; 
+	var popMargLeft = ($(loginBox).width() + 24) / 2; 
+	
+	$(loginBox).css({
+	'margin-top' : -popMargTop,
+	'margin-left' : -popMargLeft
+	});
+	
+	// When clicking on the button close or the mask layer the popup closed
+	$('span.closebtn a, .saveClose, .for_xlosebtn, .for_xlosebtn2').live('click', function() { 
+		$('#mask , #popUpPageConatiner').fadeOut(300);
+		$('#mask').remove();  
+	}); 
+	return false;
+});
+
+//esc button event for closing popUpPageConatiner
+$(document).live('keyup', function(event) {
+    if (event.which == 27) {
+    	closePopUp('popUpPageConatiner');
+    	$('#mask , #popUpPageConatiner').fadeOut(300);
+		$('#mask').remove();
+	}
+    return false;
+});
+</script>
+
+
+<!-- go top button functionality -->
+<script type="text/javascript">
+$(document) .ready(function(){
+	$(window).scroll(function(){
+		if($(this).scrollTop() > 450){
+			$('.goTopBtn').fadeIn();
+		}else{
+			$('.goTopBtn').fadeOut();
+		}
+	});
+	
+	$('.goTopBtn').click(function(){
+		$('html, body').stop().animate({scrollTop:0}, 'slow');
+	});
+});	
+</script>
+
+<!-- Website Preloader -->
+<script type="text/javascript">
+rotate = 1;
+function hide_preloader() { //DOM
+rotate = 0;
+$("#preloader").fadeOut(1000);
+}
+$(document).ready(function(){
+
+// calculate height 
+	var screen_ht = $(window).height();
+	var preloader_ht = 10;
+	var padding =(screen_ht/3)-preloader_ht;
+	
+	$("#preloader").css("padding-top",padding+"px");
+});
+</script>
+
+</head>
+
+<body class="js">
+	<div id="preloader" style="display: none; padding-top: 246px;">
+		<div><img src="/resources/images/loading.gif" id="preloader_image"></div>
+	</div> <!-- #preloader -->
+	
+	<script>
+$('#resendForgotPasswordId').hide();
+$('#signInId').hide();
+	$(document) .ready(function(){
+		$('#headerSignBtn, #sitemapSignBtn').click(function(){
+			$('#signInId').toggle();
+			$(this) .toggleClass('upArrow');
+			$('#resendForgotPasswordId').hide();
+			$('#resendVerificationId').hide();
+			$('#signFormId').data('validator').resetForm();
+			$('#resendVerificationMailFormId').data('validator').resetForm();
+			$('#forgotPasswordFormId').data('validator').resetForm();
+		});
+		if($('#loginError').val()){
+			$('#signInId').show();
+		}
+		if($('#facebookMappingMessage').val()){
+			$('#signInId').show();
+		}
+		if($('#followCompanyMessage').val()){
+			$('#signInId').show();
+		}
+		$('#forgotPasswordId').click(function(){
+			$('#resendForgotPasswordId').show();
+			$('#forgotPasswordFormId').data('validator').resetForm();
+			$('#errorMessageId').text('');
+			$('#successMessageId').text('');
+			$('#signInId').hide();
+		});
+		$('#verificationId').click(function(){
+			$('#resendVerificationId').show();
+			$('#resendVerificationMailFormId').data('validator').resetForm();
+			$('#signInId').hide();
+		});
+	});
+	
+	$(document).live('keyup', function(event){
+	    if(event.which === 27) {
+	        $('#signInId').hide();
+	        $('#resendForgotPasswordId').hide();
+	        $('#resendVerificationId').hide();
+	    }
+	});
+</script>
+
+<script>
+$(document).ready(function(){
+	   if ($('.verificationMessage').html().length > 0) {
+	     $('.verificationMessage') .show();
+	   }
+	   else{
+		   $('.verificationMessage') .hide();
+	   }
+});
+</script>
+
+<!-- Form pop up box -->
+	<div id="popUpPageConatiner" style="display: none; margin-top: -12px; margin-left: -195px;"></div>
+<!-- xlose form pop up box -->
+
+<!-- header -->
+<div class="headerWrapper">
+	<header>
+		<!-- logo -->
+		<input type="hidden" id="loginError" value="">
+		<input type="hidden" id="facebookMappingMessage" value="">
+		<input type="hidden" id="followCompanyMessage" value="">
+	    <div class="logo">
+	    	<a href="http://itsmyascent.com/"><img src="/resources/images/logo.png" alt="Times Ascent" width="249" height="93"></a>
+	   	</div>
+	   	
+	   	<!--Header right-->
+	    <div class="headerR loggedHeaderRight">
+	      <div class="headerNav">
+	      		<div class="fRt mR15">
+	      			<!-- register is at multiple place so putting name instead of ID -->
+			      	<a href="/registrationWizard" name="register">Register</a>&nbsp; | &nbsp;
+			      	<a style="cursor:pointer;" name="contactUs">Contact Us</a>&nbsp; | &nbsp;
+			      	<a href="/faq" name="faq">Help</a>&nbsp; | &nbsp;
+			      	<a href="http://www.ascentmatcher.com" target="_blank"><strong>Employer</strong></a>
+		      	</div>
+		      	
+		      	<div class="fRt">
+			      	<div class="fLt" style="position:relative;">
+			      		<a href="javascript:void(0);" class="downArrow" id="headerSignBtn">Sign In</a>&nbsp; | &nbsp;
+			      		
+			      		<!-- headerFormBox -->
+			      		<div class="headerFormBox" id="signInId">
+			      			
+
+
+<script>
+$(document).ready(function(){
+	$("#signFormId").validate();
+	$("signInBtnId").click(function(){
+		var validForm = $("#signFormId").valid();
+		if(validForm) {
+			$("signFormId").submit();
+			return true;
+		}
+		return false;
+	});
+	
+	$('#signFormId').on('keyup', function(e){
+		var keycode = (e.keyCode ? e.keyCode : (e.which ? e.which : e.charCode));
+		if (keycode == 13){
+			e.preventDefault();
+			$("#signInBtnId").trigger('click');
+		}
+	});
+	
+   	if ($(".thankyouMessage").html().length > 0) {
+    	$('.thankyouMessage') .show();
+  	}else{
+	   $('.thankyouMessage') .hide();
+   	}
+});
+</script>
+
+<!-- Here body is explicitly written because its needed to run focus() on load of body -->
+   <form name="f" action="j_spring_security_check" method="POST" id="signFormId" novalidate="novalidate">
+       <div class="srccont">
+       	
+		<div class="thankyouMessage" style="display: none;"></div>
+           <label class="w80 fLt">Login Name</label>
+           <input type="text" class="w140 fLt required" name="j_username" value="">
+           
+           <label class="w80 fLt">Password</label>
+           <input type="password" class="w140 fLt required" name="j_password" value="">
+           <br class="clear">
+           <p><a href="javascript:void(0);" id="verificationId">Resend Verification Email</a> &nbsp;|&nbsp; <a href="javascript:void(0);" id="forgotPasswordId">Forgot your password?</a></p>
+         	
+    	   <div class="fLt pT10"><a href="/facebooklogin"><img src="/resources/images/facebook-loginBtn.png"></a></div>
+           <input name="SignIn" type="submit" value="Sign In" id="signInBtnId" class="form_submit_mn_btn fRt mR10 mT5"> 
+         	<br class="clear">
+         	<div class="pT5" style="border-top:#cecece solid 1px; margin-top:7px;"> 
+               <span style="color:#333">Are you New User?</span> &nbsp; <a name="register" href="javascript:void(0);">Register Now</a>
+           </div>
+           
+           <div id="applyWithoutRegistrations" style="display:none; text-align:right;">
+           <a href="javascript:void(0);"> Continue without Registration</a>
+           </div>
+       </div>
+   </form>
+			      		</div>
+			      		<div class="headerFormBox" id="resendForgotPasswordId">
+			      			
+
+
+
+<script>
+
+$(document).ready(function() {
+	doBindingsForPopUps();
+	$('#forgotPasswordFormId').validate();
+	$("#fogotPasswordSubmitBtn").click(function(e) {
+		$('#errorMessageId').text('');
+		var validationFlag = $('#forgotPasswordFormId').valid();
+		if(validationFlag) {
+			AJAX_POST_FORM('/generatePassword', $("#forgotPasswordFormId").serialize(),'srccontId');
+		}
+		return false;
+	});
+	$('#forgotPasswordFormId').on('keyup', function(e){
+		var keycode = (e.keyCode ? e.keyCode : (e.which ? e.which : e.charCode));
+		if (keycode == 13){
+			e.preventDefault();
+			$("#fogotPasswordSubmitBtn").trigger('click');
+		}
+	});
+});
+</script>
+<!-- Here body is explicitly written because its needed to run focus() on load of body -->
+ <div class="srccont" id="srccontId">  
+   	<div class="success_message" id="successMessageId">
+					        
+    </div>
+    <div class="errorblock" style="color:#FF0000" id="errorMessageId">
+					        
+    </div>
+   <form id="forgotPasswordFormId" action="generatePassword" method="post" novalidate="novalidate">
+		<h2 style="font-size:13px;" class="mB5">Forgot Password</h2>
+       	<label class="w50 fLt">Email</label>
+        <input id="email" name="email" value="" maxlength="50" class="required email w178 fLt" type="text">
+         
+       	<label class="w50 fLt">&nbsp;</label>
+    		<input type="submit" class="submit form_submit_mn_btn fLt" value="Send Mail" id="fogotPasswordSubmitBtn">
+    		<br class="clear">
+       	<div class="pT5" style="border-top:#cecece solid 1px; margin-top:7px;"> 
+             New User? &nbsp; | &nbsp; <a href="/registrationWizard">Register Now</a>
+         </div>
+   </form>
+</div> 
+			      		</div>
+			      		
+			      		<div class="headerFormBox" id="resendVerificationId">
+			      			
+
+
+
+<script>
+
+$(document).ready(function() {
+	doBindingsForPopUps();
+	$('#resendVerificationMailFormId').validate();
+	$("#resendVerificationMailSubmitBtn").click(function(e) {
+		$('#errorMessageId').text('');
+		var validationFlag = $('#resendVerificationMailFormId').valid();
+		if(validationFlag) {
+			AJAX_POST_FORM('/resendVerificationMail', $("#resendVerificationMailFormId").serialize(),'srcVerificationMailContId');
+		}
+		return false;
+	});
+	$('#resendVerificationMailFormId').on('keyup', function(e){
+		var keycode = (e.keyCode ? e.keyCode : (e.which ? e.which : e.charCode));
+		if (keycode == 13){
+			e.preventDefault();
+			$("#resendVerificationMailSubmitBtn").trigger('click');
+		}
+	});
+});
+</script>
+<!-- Here body is explicitly written because its needed to run focus() on load of body -->
+ <div class="srccont" id="srcVerificationMailContId">  
+   	<div class="success_message" id="successMessageId">
+					        
+    </div>
+    <div class="errorblock" style="color:#FF0000" id="errorMessageId">
+					        
+    </div>
+   <form id="resendVerificationMailFormId" action="resendVerificationMail" method="post" novalidate="novalidate">
+		<h2 style="font-size:13px;" class="mB5">Resend Verification email</h2>
+       	<label class="w50 fLt">Email</label>
+        <input id="email" name="email" value="" maxlength="50" class="required email w178 fLt" type="text">
+       	<label class="w50 fLt">&nbsp;</label>
+    		<input type="button" class="submit form_submit_mn_btn fLt" value="Send Mail" id="resendVerificationMailSubmitBtn">
+    		<br class="clear">
+       	<div class="pT5" style="border-top:#cecece solid 1px; margin-top:7px;"> 
+             New User? &nbsp; | &nbsp; <a href="/registrationWizard">Register Now</a>
+         </div>
+   </form>
+</div> 
+			      		</div>
+			      		
+			      		<!-- /headerFormBox -->
+			        </div>
+		      </div>
+		      <br class="clear">
+	      </div>
+	    
+			<!-- navigation -->
+		   	<nav id="navigation">
+		       <ul>
+			       	<li><a href="http://itsmyascent.com/" class="homeActive">Home</a></li>
+			       	<li><a href="/jobs" class="jobsActive">Jobs</a></li>
+			       	<li><a href="/careerAdvice" class="careerActive">Career Advice</a></li>
+			       	<li><a href="/hrZone" class="hrZoneActive">HR Zone</a></li>
+			       	<li><a href="/events" class="eventsActive">Events</a></li>
+			       	<li style="background:none;"><a href="/jobfairs" target="_blank" class="jobFairActive">Job Fairs</a></li>
+		        </ul>
+		    </nav>
+	    </div>
+	</header>
+</div><!-- close headerWrapper -->
+
+<div class="blankHeader" id="topContainer">&nbsp;</div>
+
+<div class="verificationMessage" style="display: none;"></div>
+
+<div class="goTopBtn"><a href="javascript:void(0);"><img src="/resources/images/go-top-btn.png"></a></div>
+	
+	<!-- mainContainer -->
+	<div id="mainContainer">
+		<div id="bodyContainer">	
+		
+
+
+
+
+<div class="shadowContainer innerPages">
+	<h1>Privacy Policy</h1>
+	
+	<p>BCCL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users BCCL offers a vast repository of Online Sites and variety of community services. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'BCCL Channels' in detail. The information about the user as collected by BCCL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).</p>
+	<p><strong>By using BCCL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.</strong></p>
+	<br>
+	
+	<p><strong>USER INFORMATION</strong></p>
+	<p>To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) Contact addresses, d) sex, e) age, f) PIN code , g) credit card or debit card details h) medical records and history i) sexual orientation, j) biometric information, k) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.</p>
+	<p>All required information is service dependent and BCCL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services.</p>
+	<p>Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.</p>
+	<br>
+	
+	<p><strong>COOKIES</strong></p>
+	<p>To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.</p>
+	<br>
+	<p>Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.</p>
+	<br>
+	
+	<p><strong>LINK TO THIRD PARTY SITES</strong></p>
+	<p>BCCL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.</p>
+	<br>
+	<p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with BCCL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.</p>
+	<br>
+	
+	<p><strong>INFORMATION SHARING</strong></p>
+	<p>BCCL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:</p>
+	<ol class="alpha_lists">
+		<li>When itis requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences.  These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.</li>
+		<li>BCCL proposes to sharesuch information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li>
+	</ol>
+	<br>
+	
+	<p><strong>ACCESSING AND UPDATING PERSONAL INFORMATION</strong></p>
+	<p>When you use BCCL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.</p>
+	<br>
+	
+	<p><strong>INFORMATION SECURITY</strong></p>
+	<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+	<p>All information gathered on BCCL is securely stored within the BCCL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.</p>
+	<br>
+	<p>However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.</p>
+	<br>
+	<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.</p>
+	<p>In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@timesgroup.com ; or write at the following address:</p>
+	<p><strong>Bennett, Coleman &amp; Co. Ltd.<br>
+	Times Of India Building,Dr.D.N.Road,<br>
+	Mumbai- 400 001.</strong></p>
+	<br>
+	<p><strong>Ph No. 91-22-66353535</strong></p>
+	<br>
+	
+	<p>We request you to please provide the following information in your complaint:-</p>
+	<ol class="alpha_lists">
+		<li>Identification of the information provided by you</li>
+		<li>Clear statement as to whether the information is personal information or sensitive personal information</li>
+		<li>Your address, telephone number or e-mail address.</li>
+		<li>A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.</li>
+		<li>A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.</li>
+	</ol>
+</div><!-- close shadowContainer  -->
+		</div>
+	</div>
+	<!-- footerWrapper -->
+	<div id="footerWrapper">		
+		<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=159376190816234";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<footer id="footer">
+	<div class="w280 fLt" style="font-size:12px;"><strong>More ways to explore Ascent</strong></div>
+	<div class="w300 fRt">
+	<!-- Place this tag where you want the badge to render. -->
+	<g:plusone annotation="inline" width="190"></g:plusone>
+    <script type="text/javascript">
+		window.___gcfg = {
+        	lang: 'en-US'
+      	};
+		(function() {
+        	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        	po.src = 'https://apis.google.com/js/plusone.js';
+        	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      	})();
+		
+	</script>
+ 
+<!-- <span class='st_linkedin_hcount' displayText='LinkedIn'></span>
+<span class='st_fblike_hcount' displayText='Facebook Like'></span>
+<span class='st_plusone_hcount' displayText='Google +1'></span>
+	-->
+	</div>
+
+	<br class="clear">
+	<br>
+	<section class="w190 fLt">
+		<h3>Jobs by Industry</h3>
+		<nav>
+			<ul>
+				<li><a href="/jobs-industry-16194/Education-Training-jobs-f">Education Jobs</a></li>
+				<li><a href="/jobs-industry-16195/Engineering-jobs-f">Engineering Jobs</a></li>
+				<li><a href="/jobs-industry-16213/Recruitment-Agency-jobs-f">Recruitment Agency Jobs</a></li>
+				<li><a href="/jobs-industry-16191/Consulting-Services-jobs-f">Consultancy Jobs</a></li>
+				<li><a href="/jobs-industry-16207/Production-&amp;-Manufacturing-jobs-f">Production &amp; Manufacturing Jobs</a></li>
+				<li><a href="/jobs-industry-16187/Healthcare-&amp;-Medical-jobs-f">Healthcare &amp; Medical Jobs</a></li>
+				<li><a href="/jobs-industry-16190/Construction-jobs-f">Construction Jobs</a></li>
+				<li><a href="/jobs-industry-16202/IT-Software-jobs-f">IT Software Jobs</a></li>
+				<li><a href="/jobs-industry-16189/Hospitality-jobs-f">Hospitality Jobs</a></li>
+				<li><a href="/jobs-industry-16188/BPO-ITES-jobs-f">BPO Jobs</a></li>
+				<li><a href="/jobs-industry-16182/Banking-&amp;-Finance-jobs-f">Banking &amp; Finance Jobs</a></li>
+				<li><a href="/jobs-industry-16200/Travel-&amp;-Tourism-jobs-f">Travel &amp; Tourism Jobs</a></li>
+				<li><a href="/jobs-industry-16212/Real-Estate-jobs-f">Real Estate Jobs</a></li>
+				<li><a href="/jobs-industry-16199/Government-Sector-jobs-f">Government Naukri</a></li>
+				<li><a href="/jobs-industry-16186/Automobile-jobs-f">Automobile Jobs</a></li>
+				<li><a href="/jobs-industry-16196/Media-jobs-f">Media Jobs</a></li>
+				<li><a href="/jobs-industry-16210/Chemical-jobs-f">Chemical Jobs</a></li>
+				<li><a href="/jobs-industry-16201/IT-Hardware-Networking-jobs-f">IT Hardware &amp; Networking Jobs</a></li>
+				<li><a href="/jobs-industry-16215/Retail-jobs-f">Retail Jobs</a></li>
+				<li><a href="/jobs-industry-16217/Telecom-jobs-f">Telecom Jobs</a></li>
+				<li><a href="/jobs-industry-16203/Insurance-jobs-f">Insurance Jobs</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	
+	<section class="w190 fLt">
+		<h3>Jobs in India</h3>
+		<nav>
+			<ul>
+				<li><a href="/jobs-l/Mumbai-jobs">Jobs in Mumbai</a></li>
+				<li><a href="/jobs-l/Chennai-jobs">Jobs in Chennai</a></li>
+				<li><a href="/jobs-l/Delhi-jobs">Jobs in Delhi</a></li>
+				<li><a href="/jobs-l/Kolkata-jobs">Jobs in Kolkata</a></li>
+				<li><a href="/jobs-l/Bangalore-jobs">Jobs in Bangalore</a></li>
+				<li><a href="/jobs-l/Hyderabad-jobs">Jobs in Hyderabad</a></li>
+				<li><a href="/jobs-l/Pune-jobs">Jobs in Pune</a></li>
+				<li><a href="/jobs-l/Ahmedabad-jobs">Jobs in Ahmedabad</a></li>
+				<li><a href="/jobs-l/Noida-jobs">Jobs in Noida</a></li>
+				<li><a href="/jobs-l/Jaipur-jobs">Jobs in Jaipur</a></li>
+				<li><a href="/jobs-l/Mangalore-jobs">Jobs in Mangalore</a></li>
+				<li><a href="/jobs-l/Nagpur-jobs">Jobs in Nagpur</a></li>
+				<li><a href="/jobs-l/Nasik-jobs">Jobs in Nasik</a></li>
+				<li><a href="/jobs-l/Mysore-jobs">Jobs in Mysore</a></li>
+				<li><a href="/jobs-l/Lucknow-jobs">Jobs in Lucknow</a></li>
+				<li><a href="/jobs-l/Cochin-jobs">Jobs in Cochin</a></li>
+				<li><a href="/jobs-l/Goa-jobs">Jobs in Goa</a></li>
+				<li><a href="/jobs-l/Vadodara-jobs">Jobs in Vadodara</a></li>
+				<li><a href="/jobs-l/Ghaziabad-jobs">Jobs in Ghaziabad</a></li>
+				<li><a href="/jobs-l/Surat-jobs">Jobs in Surat</a></li>
+				<li><a href="/jobs-l/Dehradun-jobs">Jobs in Dehradun</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt" style="margin-right:30px;">
+		<h3>International Jobs</h3>
+		<nav class="footNavSep">
+			<ul>
+				<li><a href="/jobs-l/Kuwait-jobs">Jobs in Kuwait</a></li>
+				<li><a href="/jobs-l/Oman-jobs">Jobs in Oman</a></li>
+				<li><a href="/jobs-l/Saudi-Arabia-jobs">Jobs in Saudi Arabia</a></li>
+				<li><a href="/jobs-l/United-Arab-Emirates-jobs">Jobs in United Arab Emirates</a></li>
+				<li><a href="/jobs-l/Qatar-jobs">Jobs in Qatar</a></li>
+				<li><a href="/jobs-l/USA-jobs">Jobs in USA</a></li>
+				<li><a href="/jobs-l/UK-jobs">Jobs in UK</a></li>
+				<li><a href="/jobsAtOtherLocation" id="jobsAtOtherLocation">Jobs at Other Locations</a></li>
+			</ul>
+		</nav>
+		
+		<h3 style="margin-bottom:2px;">Career Advice Articles</h3>
+		<nav class="footNavSep">
+			<ul>
+				<li><a href="/Career-Growth-Articles/Corporate-Life.html">Corporate Life</a></li>
+				<li><a href="/Career-Growth-Articles/Global-Research.html">Global Research</a></li>
+				<li><a href="/Career-Growth-Articles/Leadership.html">Leadership</a></li>
+				<li><a href="/Career-Growth-Articles/Personal-Life.html">Personal Growth</a></li>
+				<li><a href="/Career-Growth-Articles/Talent-and-Careers.html">Talent &amp; Careers</a></li>
+				<li><a href="/Career-Growth-Articles/The-Chat-Room.html">The Chat Room</a></li>
+			</ul>
+		</nav>
+		
+		<h3 style="margin-bottom:2px;">HR Zone Articles</h3>
+		<nav>
+			<ul>
+				<li><a href="/Human-Resource-Articles/Global-HR-Policies.html">Global HR Policies</a></li>
+				<li><a href="/Human-Resource-Articles/Organisational-Effectiveness.html">Organisational Efficiency</a></li>
+				<li><a href="/Human-Resource-Articles/Staffing-and-Compensation.html">Employee Benefits</a></li>
+				<li><a href="/Human-Resource-Articles/Training-and-Development.html">Careers &amp; Training</a></li>
+				<li><a href="/Human-Resource-Articles/Work-Life-Balance.html">Work Life Balance</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt" style="margin-right:30px;">
+		<h3>Jobs by Function</h3>
+		<nav>
+			<ul>
+				<li><a href="/jobs-c-84/Engineering-Civil-Architecture">Engineering, Civil and<br> Architecture</a></li>
+				<li><a href="/jobs-c-83/Learning-&amp;-Library">Learning &amp; Library</a></li>
+				<li><a href="/jobs-c-94/Real-Estate-&amp;-Housing">Real Estate &amp; Housing</a></li>
+				<li><a href="/jobs-c-69/Office-Administration">Office Administration</a></li>
+				<li><a href="/jobs-c-76/Sales-&amp;-Business-Dev">Sales &amp; Business Dev</a></li>
+				<li><a href="/jobs-c-79/IT-Hardware-&amp;-Software">IT Hardware and Software</a></li>
+				<li><a href="/jobs-c-72/Finance-&amp;-Accounting">Finance &amp; Accounting</a></li>
+				<li><a href="/jobs-c-82/Healthcare-&amp;-Medical">Healthcare &amp; Medical</a></li>
+				<li><a href="/jobs-c-77/Production-&amp;-Manufacturing">Production and Manufacturing</a></li>
+				<li><a href="/jobs-c-75/Marketing,Advertising">Marketing,Advertising </a></li>
+				<li><a href="/jobs-c-86/Hospitality-&amp;-Tourism">Hospitality &amp; Tourism</a></li>
+				<li><a href="/jobs-c-70/ITES-BPO-KPO-Support">ITES BPO KPO Support </a></li>
+				<li><a href="/jobs-c-80/Supply-Chain,Logistic">Supply Chain,Logistic</a></li>
+				<li><a href="/jobs-c-78/QA-&amp;-Testing">QA &amp; Testing</a></li>
+				<li><a href="/jobs-c-73/Human-Resources">Human Resources</a></li>
+				<li><a href="/jobs-c-74/Law,Legal">Law, Legal</a></li>
+				<li><a href="/jobs-c-88/Journalism-&amp;-Creative">Journalism &amp; Creative</a></li>
+				<li><a href="/jobs-c-71/Banking-&amp;-Insurance">Banking &amp; Insurance</a></li>
+				<li><a href="/jobs-c-81/Aviation">Aviation</a></li>
+				<li><a href="/jobsByOtherCategories" id="jobsByOtherCategories">Other Categories</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt">
+		<h3>Jobs In IT</h3>
+		<nav>
+			<ul>
+				<li><a href="/job-Java/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Java Jobs</a></li>
+				<li><a href="/job-.NET/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">.Net Jobs</a></li>
+				<li><a href="/job-SAP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">SAP Jobs</a></li>
+				<li><a href="/job-Oracle/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Oracle Jobs</a></li>
+				<li><a href="/job-SQL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">SQL Jobs</a></li>
+				<li><a href="/job-DBA/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">DBA Jobs</a></li>
+				<li><a href="/job-Datacenter/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Datacenter Jobs</a></li>
+				<li><a href="/job-Photoshop/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Photoshop Jobs</a></li>
+				<li><a href="/job-Networking/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Networking Jobs</a></li>
+				<li><a href="/job-Windows/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Windows Jobs</a></li>
+				<li><a href="/job-Linux/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Linux Jobs</a></li>
+				<li><a href="/job-ITIL/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">ITIL Jobs</a></li>
+				<li><a href="/job-ISO/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">ISO Jobs</a></li>
+				<li><a href="/job-Consulting/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Consulting Jobs</a></li>
+				<li><a href="/job-Testing/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Testing Jobs</a></li>
+				<li><a href="/job-CAD/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">CAD Jobs</a></li>
+				<li><a href="/job-Visual-Basic/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Visual Basic Jobs</a></li>
+				<li><a href="/job-PHP/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">PHP Jobs</a></li>
+				<li><a href="/job-Support/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Support Jobs</a></li>
+				<li><a href="/job-Project-Management/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Project Management Jobs</a></li>
+				<li><a href="/job-Microsoft/Careers-India/Jobs-Vacancies-/Naukri-1/India-jobs-f">Microsoft Jobs</a></li>
+			</ul>
+		</nav>
+	</section>	
+		
+	<br class="clear">
+	<br>
+	<div class="footNavSep"></div>
+	
+	<section class="w190 fLt">
+		<h3>Information</h3>
+		<nav>
+			<ul>
+				<li><a name="faq" href="/faq">FAQ</a></li>
+		        <li><a id="aboutUs" href="/aboutUs">About Us</a></li>
+	        	<li><a name="contactUs" style="cursor:pointer;">Contact Us</a></li>
+	        	<li><a id="reportBug" style="cursor:pointer;">Report A Bug</a></li>
+			</ul>
+		</nav>
+	</section>	
+	
+	<section class="w190 fLt">
+		<h3>&nbsp;</h3>
+		<nav>
+			<ul>
+				<li><a id="feedback" style="cursor:pointer;">Feedback</a></li>
+		        <li><a id="privacyPolicy" href="/privacyPolicy">Privacy Policy</a></li>
+		        <li style="background:none;"><a id="termsOfUse" href="/termsOfUse">Terms of Use</a></li>
+	        	<li><a href="/siteMap">Site Map</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt" style="margin-right:30px;">
+		<h3>Other Timesgroup Sites</h3>
+		<nav>
+			<ul>
+				<li><a target="_blank" href="http://www.ascentmatcher.com/">Ascent Matcher</a></li>
+				<li><a target="_blank" href="http://epaper.timesofindia.com/">Times Of India - ePaper</a></li>
+				<li><a target="_blank" href="http://www.timesofindia.indiatimes.com/">Times Of India</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt" style="margin-right:30px;">
+		<h3>&nbsp;</h3>
+		<nav>
+			<ul>
+				<li><a target="_blank" href="http://www.mumbaimirror.com/">Mumbai Mirror</a></li>
+				<li><a target="_blank" href="http://www.bangaloremirror.com/">Bangalore Mirror</a></li>
+				<li><a target="_blank" href="http://www.ahmedabadmirror.com/">Ahmedabad Mirror</a></li>
+			</ul>
+		</nav>
+	</section>
+	
+	<section class="w165 fLt">
+		<h3>&nbsp;</h3>
+		<nav>
+			<ul>
+				<li><a target="_blank" href="http://www.punemirror.in/">Pune Mirror</a></li>
+				<li><a target="_blank" href="http://www.educationtimes.com/">Education Times</a></li>
+				<li><a target="_blank" href="http://www.timeswellness.com/">Times Wellness</a></li>
+			</ul>
+		</nav>
+	</section>	
+	<br class="clear">
+	<br>
+    <div class="fLt pT5">
+    	<span style="font-size:14px;"><strong>Jobs by Company Name - </strong></span>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-A-jobs">A</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-B-jobs">B</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-C-jobs">C</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-D-jobs">D</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-E-jobs">E</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-F-jobs">F</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-G-jobs">G</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-H-jobs">H</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-I-jobs">I</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-J-jobs">J</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-K-jobs">K</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-L-jobs">L</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-M-jobs">M</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-N-jobs">N</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-O-jobs">O</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-P-jobs">P</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Q-jobs">Q</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-R-jobs">R</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-S-jobs">S</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-T-jobs">T</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-U-jobs">U</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-V-jobs">V</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-W-jobs">W</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-X-jobs">X</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Y-jobs">Y</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employers-Z-jobs">Z</a>
+		<a style="padding:2px;font-size: 14px;font-weight: bold" href="/jobs-India/employer-Others-jobs">[0-9]</a>
+    </div>
+    
+    <div class="fRt mB5 w260 pT5">
+    
+    	<!-- FACEBOOK -->
+		<span class="fLt" style="width:85px;">
+			
+			<iframe src="http://www.facebook.com/widgets/like.php?width=120&amp;layout=button_count&amp;href=http://itsmyascent.com/" id="iframe_like" name="fbLikeIFrame_0" class="social-iframe" allowtransparency="allowTransparency" frameborder="0" height="35" scrolling="no" style="color: aqua;"></iframe>
+		</span>
+		
+		
+    	<!-- Twitter -->
+    	<span class="w75 fLt" style="margin-top:-3px;">
+    		<span class="st_twitterfollow_hcount" displaytext="Twitter Follow" st_username="itsmyascent"></span>
+		</span>
+	    <!-- LINKED IN -->
+	    <span class="fLt">
+			<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/Share" data-counter="right"></script>
+		</span>
+		
+    </div>
+        
+    <br class="clear">
+    
+    <!-- start footer_bottom -->
+    <div class="footer_bottom">
+    	<!-- times logo -->
+    	<div class="fLt mR10 w150">
+    		<img src="/resources/images/timesG_logo.png" alt="logo" width="150" height="51">
+    	</div>
+    	<!-- Close times logo -->
+    	
+    	<div class="w570 fLt copyrightBox">
+    		 This site is best viewed in 1024x768 resolution in Internet Explorer 9.0, Firefox 4.0+, Chrome 20.0+<br>
+        	Copyright 2008 Bennet, Coleman &amp; Co. Ltd. All rights reserved.
+    	</div>
+    	<br class="clear">
+    </div><!-- close footer_bottom -->
+</footer><!-- close footer -->
+<!--  Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7135395-2', 'itsmyascent.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6036484,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+	</div>
+	<script type="text/javascript" src="http://tags.crwdcntrl.net/c/4140/cc.js?ns=_cc4140" id="LOTCC_4140"></script>
+	<script type="text/javascript" language="javascript">_cc4140.bcp();</script>
+
+</body></html>
