@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybigcampus.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105625id_/http%3A//www.mybigcampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybigcampus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062807id_/http%3A//www.mybigcampus.com/privacy-policy) for the most accurate reproduction.*
 
 # My Big Campus Privacy Policy – My Big Campus
 
@@ -86,3 +86,5 @@ Bakersfield, CA 93301
 In the event that you are concerned about how data you have provided Lightspeed Systems through the Services has been used, please contact us at one of the addresses listed above. Lightspeed Systems takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
 
 We self-certify compliance with
+
+Updated 6 November 2013 
