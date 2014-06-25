@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216095220id_/http%3A//www.toshiba.ca/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184158id_/http%3A//www.toshiba.ca/Privacy_Policy) for the most accurate reproduction.*
 
-# Toshiba Canada
+# Privacy Statement
 
 Last Revised June 2013
 
@@ -39,7 +39,7 @@ The following topics will be covered in this Privacy Statement: 
 
   1. To which companies does this Privacy Statement apply?
 
-This Privacy Statement applies to the collections, uses and disclosures of Personal Information by Toshiba and its divisions, including its Digital Products Group, Medical Systems Division, and Office Products Group, Toshiba Business Solutions and Toshiba TEC Canada Inc.
+This Privacy Statement applies to the collections, uses and disclosures of Personal Information by Toshiba and its divisions, including but not limited to its Digital Products Group, Medical Systems Division, and Office Products Group, Toshiba Business Solutions and Toshiba TEC Canada Inc.
 
   2. What is Personal Information? 
 
@@ -55,7 +55,7 @@ Toshiba may collect information during your website visit through use of a "cook
 
   5. Where do we store your Personal Information? 
 
-We will keep the Personal Information that we collect primarily at our offices at 75 Tiverton Court, Markham, Ontario, and at the offices of our affiliates. While our service providers may, from time to time, also hold your Personal Information in connection with purposes for which you provided your consent or as otherwise permitted or required by law, we remain responsible, and remain the contacts for, such information. 
+We will keep the Personal Information that we collect primarily at our offices at 75 Tiverton Court, Markham, Ontario, and at the offices of our affiliates. Your Personal Information may also be stored at the offices of one of our affiliated Toshiba Companies in the United States of America.  While our service providers may, from time to time, also hold your Personal Information in connection with purposes for which you provided your consent or as otherwise permitted or required by law, we remain responsible, and remain the contacts for, such information. 
 
   6. How do we use your Personal Information? 
 
