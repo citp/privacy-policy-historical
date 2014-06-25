@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223181719id_/http%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153430id_/http%3A//www.appcelerator.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Appcelerator Inc.
 
-Last Updated: September 9, 2013
+Last Updated: January 1, 2014
 
 #### Introduction
 
 Appcelerator, Inc., and its affiliates (“Appcelerator”, “us”, “our” or “we”) are dedicated to protecting the privacy rights of our developers (“Developers” or “you”) and the end users of their applications (“App Users”). This Privacy Policy (the “Policy”) describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect from you or from your App Users in connection with our website at www.appcelerator.com (the “Site”) and in connection with Appcelerator’s products (collectively, the “Service”). Personal information can include, for example, an individual’s first and last name, address, telephone number, e-mail address or credit card number. Please note that the scope of this Policy is limited to information collected or received by Appcelerator through your use of the Service. Appcelerator is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer. Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
+
+Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page with the date indicated and, if the changes are significant, we will provide a more prominent notice. 
 
 #### How We Collect Information
 
@@ -30,7 +32,7 @@ Appcelerator’s Site may also contain third party tracking tools from service p
 
 **Appcelerator Network Registration**
 
-When you register for the Appcelerator Network, we may collect the following information: your email address, name, password, city, country, state, Twitter user name, Facebook URL, LinkedIn URL, your title/organization, and phone number. We use such information to manage your Appcelerator account and to provide you with access to our Service. Your account is required to use Studio, obtain access to free Q&A and paid Helpdesk, use Data Analytics, get listed in DevLink, download and use modules, and buy products from Appcelerator Mobile Marketplace. We may also use such information to provide you with updates regarding our Service. 
+When you register for the Appcelerator Network, we may collect the following information: your email address, name, password, city, country, state, Twitter user name, Facebook URL, LinkedIn URL, your title/organization, and phone number. We use such information to manage your Appcelerator account and to provide you with access to our Service. Your account is required to use Studio, Appcelerator Insights Mobile Application, obtain access to free Q&A and paid Helpdesk, use Analytics (as defined below), get listed in DevLink, download and use modules, and buy products from Appcelerator Mobile Marketplace. We may also use such information to provide you with updates regarding our Service. 
 
 In order to use Appcelerator products, you must have a privacy policy that discloses (a) what data and other information of your App Users and their devices that you are going to provide to Appcelerator and what data and other information Appcelerator will collect from and about your App Users and their devices and (b) what uses Appcelerator may make of any data or other information about your App Users and their devices. Without limiting the foregoing, your privacy policy must specifically state that Appcelerator may collect data and other information from and about your App Users and their devices.
 
@@ -44,11 +46,15 @@ If you download and use our Studio product, Titanium or Appcelerator version, we
 
 **Analytics**
 
-When you use the Platform or the Studio, you have access to analytics and product usage data (“Analytics”). You may opt-out of Analytics for a mobile and/or desktop application by modifying the application’s tiapp.xml file to change the  setting to “false”. Analytics enables you to track how your App Users use your applications to improve your products and services. The data you can collect includes the platform, model, manufacturer, operating system version of the device on which the App User uses your application, the timestamps in which the App User launches and exits your application, Titanium SDK Version, and geolocation data i.e., longitude and latitude of the location where the App User uses your application. You may also create custom analytics events for your application that are collected according to the execution logic of the application. This information is collected and sent back to Appcelerator’s servers. You can access this data at any time by going to the my.appcelerator.com/apps page and clicking on the “Analytics” button for your application. 
+When you use the Platform or the Studio, you have access to analytics (“Analytics”). You may opt-out of Analytics for a mobile and/or desktop application by modifying the application’s tiapp.xml file to change the  setting to “false”. Analytics enables you to track how your App Users use your applications to improve your products and services. The data you can collect includes the platform, model, manufacturer, operating system version of the device on which the App User uses your application, the timestamps in which the App User launches and exits your application, Titanium SDK Version, and geolocation data i.e., longitude and latitude of the location where the App User uses your application. You may also create custom analytics events for your application that are collected according to the execution logic of the application. This information is collected and sent back to Appcelerator’s servers. You can access this data at any time by going to the my.appcelerator.com/apps page and clicking on the “Analytics” button for your application. 
 
 **Appcelerator Open Mobile Marketplace**
 
 The Appcelerator Open Mobile Marketplace (“Marketplace”) is an on-line shop for buying and selling mobile application components. If you use Marketplace, we collect the information listed above under Website. We use a third party to process all of the transactions on Marketplace. Payment information will not be processed, transmitted or stored on our servers or Site. 
+
+**Appcelerator Insights Mobile Application**
+
+The Appcelerator Insights Mobile Application (“Insights”) allows you to view your application Analytics and uses the email address that you used to register for the Appcelerator Network in order to login to Insights. Appcelerator may also collect the following information from your use of the Insights in order to improve our Service: platform, model, manufacturer, operating system version of the device on which you uses Insights, the timestamps in which you launch and exit Insights, Titanium SDK Version, geolocation data i.e., longitude and latitude of the location where you use Insights and performance management data. 
 
 **Other Collection**
 
@@ -99,6 +105,10 @@ We do not knowingly collect or solicit personal information from anyone under th
 #### International Transfer
 
 We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
+
+#### Do Not Track Requests
+
+Appcelerator does not use cookies to provide targeted advertising and therefore does not act on “Do Not Track” requests from your browser. However, some third party sites do keep track of your browsing activities when they serve you content, and these third party sites have privacy policies that differ from Appcelerator’s Privacy Policy, including whether or not they will honor your “Do Not Track” request. 
 
 #### Contacting Us
 
