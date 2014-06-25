@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vice.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011538id_/http%3A//www.vice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626003544id_/http%3A//www.vice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VICE United States
 
