@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220060906id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064704id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AlexandAlexa
 
@@ -39,8 +39,6 @@ Our site uses cookies to keep track of how often you visit our site, the content
 AA may use your personal information for the processing of orders, payments and to provide you with a personalised shopping experience. We will also use your details to fulfil and deliver your orders and manage your account. Your personal information may also be checked with credit agencies to prevent fraud. Where there is a legal obligation to do so, we may disclose your information to any relevant regulatory body.
 
 When you register with AA, you will be asked if you want to subscribe to our update service. If you choose to opt-in for this service, the information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; contests and events of interest. Similarly, if you choose to opt-in for this service, from time-to-time we will use the information you provide to promote the products and services of our business partners. We do collate statistical information about site traffic, sales and other commercial information which we may pass on to trusted third parties but these statistics do not include any information which can identify you personally. We see this as a value-added service helping you to find useful products or services. We strive to limit use of your information to those offers that we think you would appreciate receiving. Finally, we may use your personal information for our internal marketing and demographic studies, together with non-personal data to monitor customer patterns so we can consistently improve our site design to better meet our visitors' needs. If we change our policy on disclosure to others, we will inform you and give you the choice of opting out.
-
-We do occasionally make names and addresses available to companies whose products we think may interest you, unless you have told us not to. If you do not wish to receive such offers please email us at [customerservice@alexandalexa.com](mailto:customerservice@alexandalexa.com)
 
 ### Opt-In and Opt-Out Provision
 
