@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixologic.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219011317id_/http%3A//pixologic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixologic.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071026id_/http%3A//pixologic.com/privacy) for the most accurate reproduction.*
 
 # Pixologic :: Privacy
 
@@ -27,7 +27,7 @@ COLLECTION AND USE OF TECHNICAL INFORMATION
 Our systems, including our web servers, may automatically collect limited information about you and your computer configuration when you use the service or visit our web site. This information may include information about your computer such as the type of web browser software you use, the operating system you're running, the resolution of your computer monitor, the referring website, and your IP address. We may use your computer's IP address for systems administration and trouble shooting purposes. We may use this information to deliver our web pages to you upon request, to tailor our web site to the interests of our users, and to measure traffic within our site. Our website uses cookies (small files that reside on your computer) and other technical methods to keep track of various items such as whether you are interested in a particular product, to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site, and the like. You may choose not to accept cookies by setting your browser to refuse all cookies or to notify you each time a cookie is set. However, if you choose to refuse cookies, you may not be able to use all features of our web site. 
 
 NOTE TO PARENTS   
-Our website may contain images that may not be suitable for children under the age of 14 years of age. If you have any concerns about our web sites or related service please contact us at privacy@doneright.com. 
+Our website may contain images that may not be suitable for children under the age of 14 years of age. If you have any concerns about our web sites or related service please contact us at [privacy@pixologic.com](mailto:privacy@pixologic.com). 
 
 INTERNATIONAL PRIVACY   
 This privacy policy may not be applicable in all countries where web sites are accessible, as security policies may vary according to the individual Internet laws in each host country. By providing information to our web sites you consent to the processing of your information in the United States in accordance with this policy. 
