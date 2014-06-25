@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findprice.co.in privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805075717id_/http%3A//www.findprice.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findprice.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082052id_/http%3A//www.findprice.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
