@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925221751id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092921id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
 
 # The Social Media Hat Privacy Policy
-
-[](http://www.thesocialmediahat.com/print/108 "Display a printer-friendly version of this page.")[](http://www.thesocialmediahat.com/printmail/108 "Send this page by email.")
 
 The Social Media Hat is committed to protecting the privacy of our customers. This statement outlines our privacy and data protection policy.
 
