@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the campbellkitchen.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005134713id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbellkitchen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070031id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# The Campbell Soup Company - Privacy Policy
+# Campbell Soup Company
 
-  
 **Campbell Soup Company Privacy Policy – PLEASE NOTE THAT AS OF 10/28/2007 WE HAVE MADE CHANGES TO OUR PRIVACY POLICY**
 
 This website is owned and operated by Campbell Soup Company. 
@@ -20,7 +19,7 @@ Attention: Legal Department
 or Global Advertising Department  
 1-800-257-8443
 
-Our offices are open from 9 a.m. - 7 p.m. Eastern Time, Monday through Friday. Please feel free to email us anytime by visiting our [Consumer Response Center](http://www.campbellsoupcompany.com/contact_campbell.asp). We'll be happy to answer your questions or hear your concerns. 
+Our offices are open from 9 a.m. - 7 p.m. Eastern Time, Monday through Friday. Please feel free to email us anytime by visiting our [Consumer Response Center](https://web.archive.org/connect-with-campbell.aspx). We'll be happy to answer your questions or hear your concerns. 
 
 **Our Policy**  
 At our sites, we do not collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view any of our sites. If you register in order to use one or more of the many features of our sites, in addition to other purposes described in this Privacy Policy, we use the information you supply for the purpose of providing the services you've requested. These features may include: 
@@ -81,5 +80,4 @@ _Children's Privacy Policy - Contact Information_
 
 If you have any questions about our Children's Privacy Policy, please do not hesitate to contact us at the address, phone number or e-mail address listed at the top of this Privacy Policy. 
 
-Revision History: September 2003, March 2003, August 2002, October 2007   
-
+Revision History: September 2003, March 2003, August 2002, October 2007
