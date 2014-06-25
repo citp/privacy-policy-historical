@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191403id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061919id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Jootix: your best source for wallpapers
+# Jootix - Your Best Source for HD Wallpapers
 
 Privacy Policy 
 
@@ -22,8 +22,5 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
-
-  
-
 
 Loading ...
