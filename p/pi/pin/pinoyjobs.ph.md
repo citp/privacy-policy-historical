@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127082420id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062658id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PinoyJobs.ph
 
-This Privacy Policy governs the manner in which JDH Advertising Services collects, uses, maintains and discloses information collected from users (each, a "User") of the [PinoyJobs.ph](http://pinoyjobs.ph/) website ("Site"). This privacy policy applies to the Site and all products and services offered by JDH Advertising Services.
+This Privacy Policy governs the manner in which JDH Advertising Services collects, uses, maintains and discloses information collected from users (each, a “User”) of the [PinoyJobs.ph](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by JDH Advertising Services.
 
 **Personal identification information**
 
@@ -10,11 +10,11 @@ We may collect personal identification information from Users in a variety of wa
 
 **Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
- **Web browser cookies**
+**Web browser cookies**
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 **How we use collected information**
 
@@ -47,13 +47,13 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Compliance with children's online privacy protection act**
+**Compliance with children’s online privacy protection act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -70,16 +70,9 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 JDH Advertising Services  
-[PinoyJobs.ph](http://pinoyjobs.ph/)  
+[PinoyJobs.ph](https://web.archive.org/)  
 44 Manapat St. Malabon City  
 +63.2.7095887  
-info@pinoyjobs.ph
+info [at] pinoyjobs [dot] ph
 
-This document was last updated on June 04, 2012 
-
-## Your List
-
-Store a list of your favourite job ads from this site into your browser!   
-You will conveniently find this list again next time you visit PinoyJobs.ph.
-
-CLOSE
+This document was last updated on June 04, 2012
