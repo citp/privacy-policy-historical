@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228031907id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180517id_/http%3A//scholarships4moms.net/privacy) for the most accurate reproduction.*
 
-# Scholarship for Moms Privacy Statement
+# Scholarships for Moms Privacy Statement
 
 scholarships4moms.net ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
