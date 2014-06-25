@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vookster.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206191703id_/http%3A//www.vookster.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vookster.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043915id_/http%3A//www.vookster.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -417,7 +417,7 @@ When you invite a friend to join Vookster, we send a message on your behalf usin
 
 
 **Memorializing accounts**  
-We may memorialize the account of a deceased person. When we memorialize an account we keep the profile on Vookster, but only let friends and family look at pictures or write on the user's Wall in remembrance. You can report a deceased person's profile at: [ http://www.vookster.com/index.php?do=/contact/](https://web.archive.org/index.php?do=/contact/)   
+We may memorialize the account of a deceased person. When we memorialize an account we keep the profile on Vookster, but only let friends and family look at pictures or write on the user's Wall in remembrance. You can report a deceased person's profile at: [ http://www.vookster.com/index.php?do=/contact/](http://www.vookster.com/index.php?do=/contact/)   
 
 
 We also may close an account if we receive a formal request from the person's next of kin.
