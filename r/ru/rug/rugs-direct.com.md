@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206001020id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugs-direct.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104535id_/http%3A//www.rugs-direct.com/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,10 +7,10 @@
   * Special Buys
   * Rug Pads
   * One-of-a-Kind Rugs
-  * Furniture
-  * Pillows
-  * Window Blinds
-  * Art
+  * Accessories 
+    * Art
+    * Furniture
+    * Pillows
   * Clearance Outlet
 
 
@@ -65,6 +65,6 @@ We do not partner with or have special relationships with any ad server companie
 **Changes in Our Privacy Policy**  
 We suggest that you review our privacy policy periodically, as we may update it from time to time. If our information practices change, we will post the policy change to our website. This policy was last updated on May 17, 2010.
 
-### Connect With Us
+###  Connect With Us
 
 ####  FREE Shipping on most orders.
