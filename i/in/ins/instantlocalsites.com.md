@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the instantlocalsites.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110193827id_/http%3A//instantlocalsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantlocalsites.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175407id_/http%3A//instantlocalsites.com/privacy-policy) for the most accurate reproduction.*
 
 # 
-
-## Privacy Policy
 
 Welcome to http://instantlocalsites.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Verisearch, LLC (collectively, “Services”) (“Authorized Customers”).
 
