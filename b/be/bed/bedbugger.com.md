@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814025704id_/http%3A//bedbugger.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123533id_/http%3A//bedbugger.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Got bed bugs? Bedbugger.com
+# Privacy Policy for Bedbugger.com — Got bed bugs? Bedbugger.com
 
 **Privacy Policy for Bedbugger.com**
 
@@ -18,17 +18,21 @@ We may email you at the address provided in your profile in connection with your
 
 Log Files
 
-As with most other websites, we collect and may use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of computer (Windows, Mac), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. The “Clustermap” on the blog sidebar, which shows the location of recent visitors, is an example of how the IP information is used (in aggregate form and anonymously).
+When you visit the Site, we may collect certain non-personally-identifiable information from you, including your IP address, browser type and language, the domain name from which you accessed the Site and the date and time of your visit. In addition, we may collect information about your browsing behavior, such as the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other clickstream data.
+
+The “Clustermap” on the blog sidebar, which shows the location of recent visitors, is one example of how the IP information is used (in aggregate form and anonymously).
 
 Cookies and Web Beacons
 
-We do use cookies to store information, such as your personal preferences when you visit our site. For example, when you return to the site, cookies mean you do not have to log in each time.
+We may use cookies to collect the non-personal information described above. A cookie is a small text file that is stored on the hard drive of your computer when you access the Site. We may also use cookies to: (1) allow you to use the Site without having to re-enter your user name and password; (2) monitor Site usage; (3) manage the Site; and (4) improve the Site and our services. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-We also use third party advertisements on Bedbugger.com to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Chicago-related ads to someone in Chicago, for example).
+We may also use web beacons on the Site, in our emails and in our advertisements on other websites. Web beacons are tiny graphic images that are used to collect information about your Site visit, such as the pages you view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. Web beacons help us analyze our Site visitors’ behavior and measure the effectiveness of the Site and our advertising. We may work with service providers that help us track, collect and analyze this information. In addition, we may use third-party advertising companies to serve ads when you visit the Site and to serve our advertisements across the Internet. These companies may use non-personally identifiable information about your visits to the Site and other websites in order to provide advertisements about goods and services of interest to you.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+Third-party advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Chicago-related ads to someone in Chicago, for example).
 
 We show ads from third-party vendors which may include those listed on the following page [What vendors are certified for third-party ads? (Google)](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
+
+Ads you see on this and other websites may be based in part on your previous actions on visits over time and on various websites. This is known as “interest-based” or “online behavioral” advertising, and you may [visit the Network Advertising Initiative’s website to opt out of interest-based advertising](http://www.networkadvertising.org/choices/?partnerId=1//#completed "Opt out of interest based advertising").
 
 Google DART Cookie
 
@@ -69,4 +73,9 @@ Added 9/17/2012:
 
 > “We may use your information (including IP address, ISP, email, and other information provided by you or otherwise tracked as noted above) to enforce Bedbugger.com’s [Terms and Conditions of Use](http://bedbugger.com/terms-conditions "Terms and Conditions of Site User") or prevent or respond to improper activity related to the site or to prevent or respond to illegal activity.  In the event of suspected illegal activity, this information may be shared with law enforcement.”
 
-### Share and Enjoy
+Edited  4/16/2014:
+
+  * Adding additional information to “Cookies and Web Beacons”, minor edits to “Log Files” section, and
+  * Adding an opt-out link for interest-based advertising.
+
+
