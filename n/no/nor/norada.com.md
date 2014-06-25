@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125014248id_/http%3A//norada.com/crm-software/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051253id_/http%3A//norada.com/crm-software/privacy_policy) for the most accurate reproduction.*
 
 # Learn about Solve360
 
@@ -35,6 +35,8 @@ Security Norada has put in place physical, electronic and managerial procedures 
 Internal Uses A limited number of Norada employees are able to access Clients’ information. These employees are specifically trained and experienced with regard to the practices and importance of maintaining Clients’ privacy and are only authorized to access Client's account information on an as needed basis to complete tasks related to the maintenance and operation of the Service, or fulfill Client requests.
 
 Use of Cookies The Service uses cookies to establish a User login session, set User tailored options and optionally to save a User's login information so they do not have to re-enter it each time they authenticate to the Service. This feature is specific to the particular browser that the User has installed on their computer. Usage of a cookie is in no way linked to any personally identifiable information other than is stated here. Web browsers are designed to accept cookies. By default, most browsers are configured to accept cookies without notifying the User. Cookies are safe and most web sites use them frequently. Browsers can be configured to refuse cookies, but the Service will not work without them.
+
+California Do Not Track  The Service does not respond to Do Not Track (DNT) or similar signals.
 
 Billing To process commercial transactions, we collect information related to each transaction, such as the amount and the necessary identifying information, including the credit card information, contact information, and email addresses of the parties involved.
 
