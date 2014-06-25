@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424095022id_/https%3A//www.cubby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101138id_/https%3A//www.cubby.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cubby.com
 
@@ -49,9 +49,9 @@ Personal information that we maintain is controlled and processed in the United 
 LogMeIn welcomes your comments regarding this privacy statement. If you believe that LogMeIn has not adhered to this privacy statement, please contact us electronically at legal@LogMeIn.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
 Attention: General Counsel   
 LogMeIn, Inc.  
-320 Summer St., Suite 100  
-Boston, MA 02210-1701  
+320 Summer Street  
+Boston, MA 02210 USA  
 781-638-9050  
 
 
-Copyright © 2003 - 2012 LogMeIn, Inc. All rights reserved.
+Copyright © 2003 - 2013 LogMeIn, Inc. All rights reserved.
