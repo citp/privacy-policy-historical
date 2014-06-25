@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tellwut.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812153128id_/http%3A//www.tellwut.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellwut.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060833id_/http%3A//www.tellwut.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tellwut.com
 
 **Privacy Policy**
 
-Tellwut Corp. (“TW”) is a Canadian company and the owner of [www.tellwut.com](http://www.tellwut.com/), a social networking  site (the “Site”), which allows users to post surveys, answer surveys, refer friends to the Site to similarly post and answer surveys, and provide certain personal information about themselves all while earning rewards that can be redeemed for merchandise.  It also allows businesses to participate in a variety of fee-based programs regarding the posting of surveys and the collection of survey data.
+Tellwut Corp. (“TW”) is a Canadian company and the owner of [www.tellwut.com](http://www.tellwut.com/), a social networking  site (the “Site”), which allows users to post online surveys, answer surveys, refer friends to the Site to similarly post and answer surveys, and provide certain personal information about themselves all while earning rewards that can be redeemed for merchandise.  It also allows businesses to participate in a variety of fee-based programs regarding the posting of surveys and the collection of survey data.
 
-This **_Privacy Policy_** (“Policy”) and the **_Terms and Conditions_** contain important details about registration and participation in the Site and the TW Rewards Program. Please read them carefully.  This Policy was last modified on: March 19, 2013.  
+This **_Privacy Policy_** (“Policy”) and the **_Terms and Conditions_** contain important details about registration and participation in the Site and the TW Rewards Program. Please read them carefully.  This Policy was last modified on: September 24, 2013.  
 
 Any modifications to the Policy will be posted on the Site, so you should check the "last modified" date of the Policy periodically. The online version of the Policy is the governing version.
 
@@ -20,13 +20,13 @@ You must be at least eighteen (18) years old and a resident of Canada or the Uni
 
 **What kind of personal information is collected on the Site?**
 
-TW collects personal information when and if you register for the Site. On registering as a Voter Member, TW collects your first and last name, unique email address, gender, and date of birth (“Account Information”).  After registering, a Voter Member  has the option to provide more personal information , namely “Additional Personal Information” (e.g. your education level, yearly income, type of residence, (rent or own),  marital status, ethnicity, occupation, and whether or not you have children) and “Contact and Shipping Information” (e.g. your address and phone number). On registering as a Business Member, TW collects your business’s name, your first and last name, and unique business email address. TW also collects a Business Member’s Billing Address. TW does not collect personal information from Unregistered Users.
+TW collects personal information when and if you register for the Site. On registering as a Voter Member, TW collects your first and last name, unique email address, gender, and date of birth (“Account Information”).  After registering, a Voter Member has the option to provide more personal information, namely “Additional Personal Information” (e.g. your education level, yearly income, type of residence, (rent or own), marital status, ethnicity, occupation, and whether or not you have children, ages of children) all of which may be added to from time to time and “Contact and Shipping Information” (e.g. your address and phone number). On registering as a Business Member, TW collects your business’s name, your first and last name, and unique business email address. TW also collects a Business Member’s Billing Address. TW does not collect personal information from Unregistered Users.
 
 For the purposes of this Policy, a reference to “personal information” hereafter includes Account Information, Additional Personal Information, Contact and Shipping Information, and Billing Address.
 
 **How can I review, edit and/or request access to my personal information?**
 
-You can view and edit personal information that you have provided to TW once you are logged in by clicking on “Account” in the top right corner and then looking under the “Personal Info”, “Shipping Info” or “Billing Info” tabs.
+You can view all personal information that you have provided to TW once you are logged in by clicking on “Account” in the top right corner and then looking under the “Personal Info”, “Shipping Info”, “Settings” or “Billing Info” tabs. You can only edit information under the Personal Info tab when logged in.  You cannot edit the Contact (under “Settings” tab) and Shipping Information and Billing Address.  You must contact [support@tellwut.com](mailto:support@tellwut.com) to change this information and may be required to provide photo ID along with address for the change to be processed.
 
 After registration, Members can choose a profile picture to associate with their Account. Your profile picture can be edited once you have logged in by clicking on the “Profile” in the top right hand corner of the screen.
 
@@ -51,44 +51,43 @@ TW may use your personal information in the following ways:
   * To send you emails related to the Program that are administrative, for example, emails about your account (“Program Emails”).
   * With your consent, to send you promotional emails about the products and services available as part of the Program, surveys from our Business Members and Third Party Surveys (“Surveys and Promotional Emails”).
   * Voter Members may also send surveys from the Site to email addresses in their possession.  On sending these surveys, the recipient of the survey will see the Voter Member’s name and email address.
+  * Tellwut has various checks and balances to determine if a Voter Member is random clicking and or using computerized techniques to perform automated voting on online surveys.  These techniques will raise a flag in the Voter Member Site profile, only accessible by the Site administrators.  Voter Members are subject to TW reward forfeiture and account closure as per the Terms and Conditions.
 
 
 
-**Do Business Members receive my personal information connected with my survey responses?**
+**Do Business Members receive my personal information connected with my online survey responses?**
 
-No. Your Account Information is not disclosed to Business Members who send you surveys through the Tellwut system.  Rather, TW sends the Surveys and Promotional Emails on their behalf.  A Voter Member’s answer to a survey is not disclosed by TW to Business Members.  Any demographic information given to Business Members regarding the responses to their survey questions is aggregated and not personally identifiable.  A Voter Member can only let others know his/her answer if they do so in writing through a blog comment post on the Site or through other means by the Voter Member directly. To illustrate: If a Business Member is interested in internet usage, they may post a survey which asks Voter Members questions like “How much time do you spend on the internet a week, that is not work or school related?”  Answer options might be in ranges like 0 to 5 hours, 6 to 10 hours, etc. Tellwut tabulates the results which will then be available to the Business Member by broad categories such as gender, age, country, state, ethnicity andmarital status.  Results will not be provided based on email, personal or user name, city or telephone number.
+No. Your Account Information is not disclosed to Business Members who send you surveys through the Tellwut system.  Rather, TW sends the Surveys and Promotional Emails on their behalf.  A Voter Member’s answer to a survey is not disclosed by TW to Business Members.  Any demographic information given to Business Members regarding the responses to their survey questions is aggregated and not personally identifiable.  Cross tab reporting is available, however there is no voter id, name, email reference provided, unless the Voter provides this information themselves by inputting this as part of an answer. A Voter Member can also let others know his/her answer if they do so in writing through a blog comment post on the Site or through other means by the Voter Member directly when answering a survey. To illustrate: If a Business Member is interested in internet usage, they may post a survey which asks Voter Members questions like “How much time do you spend on the internet a week, that is not work or school related?”  Answer options might be in ranges like 0 to 5 hours, 6 to 10 hours, etc. Tellwut tabulates the results which will then be available to the Business Member by broad categories such as gender, age, country, state, ethnicity and marital status or by answer when crosstab reporting is used.  Results will not be provided based on email, personal or user name, city or telephone number.
 
 **Does TW disclose my personal information to third parties?**
 
 TW does not sell, trade, or otherwise transfer outside the Site personal information that Members provide in ways different from what is disclosed in this Policy. The Site would include any successor in title or a future owner of the business. 
 
-TW may allow authorized third party service providers access to personal information collected though the Site to perform services on our behalf, including personal information required for reward redemption. TW’s service providers are required to provide appropriate protection for all personal information and to limit their use of such information to providing services on TW’s behalf. These service providers may be in another country, such as the United States, and the personal information may be subject to disclosure in accordance with the applicable laws of that jurisdiction, which may create a different privacy regime from your country of residence.
+TW may allow authorized third party service providers access to personal information collected though the Site to perform services on their behalf, including personal information required for reward redemption. TW’s service providers are required to provide appropriate protection for all personal information and to limit their use of such information to providing services on TW’s behalf. These service providers may be in another country, such as the United States, and the personal information may be subject to disclosure in accordance with the applicable laws of that jurisdiction, which may create a different privacy regime from your country of residence.
 
 In addition, TW may be required to disclose personal information collected through the Site to: (1) satisfy or comply with any law, regulation or other governmental or law enforcement request; (2) protect our or any other person’s rights, privacy or safety; (3) protect against fraud or other illegal activity; (4) allow us to pursue remedies or limit damages that we may sustain in a legal action; or (5) enforce the Terms.
 
 **What information will other visitors to the Site be able to see?**
 
-Remember, your responses to a survey will not be individually identifiable or publicly disclosed (see “Do Business Members receive my personal information connected with my survey responses?” above). However, any Voter Member’s User Names and Business Members names are associated with any surveys or comments that they post on the Site and can be seen by visitors to the site. 
+Remember, your responses to a survey will not be personally identifiable or publicly disclosed (see “Do Business Members receive my personal information connected with my survey responses?” above). However, any Voter Member’s User Names and Business Members names are associated with any surveys or comments that they post on the Site and can be seen by visitors to the site. 
 
-Voter Members within the Site will be able to see another Voter Member’s country along with state/province if the Voter Member has provided the Site with this information.  Voter Members will also be able to see another Voter Member’s User Name or Business Member’s name associated with any surveys or comments, as well as their profile pictures
-
-Voter Members may email each other through the Site’s internal email system and send friend requests to other Tellwut members through the internal system. 
+Voter Members within the Site will be able to see another Voter Member’s country along with state/province and name if the Voter Member has agreed to allow this information to be visible to their friends.  These privacy settings are adjustable under the “Settings” tab accessible on the “Account” page.  Voter Members and Guest members will also be able to see another Voter Member’s User Name or Business Member’s name associated with any surveys or comments, as well as their profile pictures.
 
 Because Voter Members’ User Names will be publicly displayed, it is strongly recommended that it not contain any information that could identify you, such as your last name. 
 
-Where a Voter Member has accepted another Voter Member’s friend request, the Voter Member will also know your name, along with the state/province and country you are from.
+Voter Members may email each other through the Site’s internal email system and send friend requests to other Tellwut members through the internal system. 
 
 **How do I opt-out of information I have provided to TW through the Site?**
 
 On registering, a Voter Member can agree to opt-in to the receipt of Surveys or Promotional Emails by selecting the box “Send me survey and reward promotions”.  If this is not done, Voter Members will not receive these emails from TW.
 
-Any Voter Member who does not wish to receive further Program Emails or Surveys or Promotional Emails from us or our Business Members can opt-out of receiving such emails or mail by:
+Any Voter Member who does not wish to receive further Program Emails or Online Surveys or Promotional Emails from us or our Business Members can opt-out of receiving such emails or mail by:
 
 •           Following the instructions in each such email where applicable, or
 
 •           By emailing us at support@tellwut.com.
 
-Please be sure to include your full name and email address used when registering with the Site. It may take up to ten (10) days to process a request received by email.
+Please be sure to include your full name and email address used when unsubscribing to the Site. It may take up to ten (10) days to process a request received by email.
 
 If you change your mind and would like to start receiving Program Emails or Surveys or Promotional Emails from us or our Business Members again, you can do so by emailing us at support@tellwut.com.
 
@@ -106,7 +105,7 @@ Yes, the Site uses Google Analytics, a web analytics tool provided by Google, In
 
 An IP address is a number automatically assigned to your computer by your Internet Service Provider (ISP). It is logged automatically in TW’s server log files whenever you visit the Site, along with the time of your visit and the pages you visited on the Site. It is standard practice on the Internet to collect IP addresses.
 
-We use IP addresses to ensure a survey is only answered once, as well as to analyze trends such as website usage levels, administer the Site, track users’ movements, and gather broad demographic information for TW’s internal use. IP addresses are not linked to personally identifiable information and TW will treat them as non-personal information, except when otherwise required by law.
+We use IP addresses to ensure a survey is only answered once, as well as to analyze trends such as website usage levels, administer the Site, track users’ movements, and gather broad demographic information for TW’s internal use. IP addresses are associated to a Voter Member’s Account for ensuring compliance with Terms and Conditions relating to one account per household and non acceptance of Members using Proxy IP’s.
 
 **What about third party links on the Site?**
 
@@ -146,4 +145,4 @@ TW will inform individuals making inquiries or lodging privacy complaints about 
 
 This Policy is subject to Canada’s _Personal Information Protection and Electronic Documents Act_ (PIPEDA) and/or any other applicable privacy laws. TW reserves the right to change the Policy at any time and at its sole discretion. Please also read TW’s Terms establishing the use, disclaimers, and limitations of liability governing the use of TW.  
 
-©2011 Tellwut Corp. All rights reserved.
+©2013 Tellwut Corp. All rights reserved.
