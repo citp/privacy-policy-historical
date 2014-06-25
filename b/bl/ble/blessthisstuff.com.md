@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blessthisstuff.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831025638id_/http%3A//www.blessthisstuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessthisstuff.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625155051id_/http%3A//www.blessthisstuff.com/privacy) for the most accurate reproduction.*
 
 # Web Magazine for guys. Bless This Stuff
 
