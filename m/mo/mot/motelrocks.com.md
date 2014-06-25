@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901071322id_/http%3A//www.motelrocks.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005553id_/http%3A//www.motelrocks.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,3 +55,9 @@ A cookie is a piece of text that asks permision to be placed on your compouter's
 A cookie does not give us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. You may set your web browser (Microsoft internet explorer, Firefox, Google Chrome and Safari) to notify you of cookie placement requests or decline cookies completely. If you decline cookies completely, you will not be able to shop on this site. You can delete the files that contain cookies - those files are stored as part of your internet browser.
 
 If you have any queries in connection with this privacy policy then please contact us at: Customer Services, motelrocks, Unit 27, Hunt End Ind.Est, Dunlop Road, Redditch, B97 5XP or emailing on: [customerservice@motelrocks.com](mailto:customerservice@motelrocks.com).
+
+### Cookie Policy
+
+This website uses cookies to identify you and your interests and to track usage of the site. Cookies are small pieces of text stored on your computer that help us know which browser you are using and where you have been on the site and on Web sites to which you may link in order to use some of our features. Cookies also enable us to relate your current usage of the Site, to prior usage of this.
+
+The information we collect with cookies is not sold, rented or shared with any outside parties. If you prefer not to accept a cookie, you can set your web browser to warn you before accepting cookies or you can refuse all cookies by turning them off in your web browser. A user who does not accept the cookie from the Site may not be able to access certain areas of the site.
