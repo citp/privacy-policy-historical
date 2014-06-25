@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224162614id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabric.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010143id_/http%3A//www.fabric.com/SitePages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Fabric - Store
+# Privacy Policy - Fabric - Store
 
 [Continue Shopping](http://www.fabric.com/)
 
