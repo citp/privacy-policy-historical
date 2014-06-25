@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206145535id_/http%3A//www.savings.com/info/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savings.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083644id_/http%3A//www.savings.com/info/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,11 +82,11 @@ Please note that even if you opt out of receiving promotional e-mails, we may co
 
 ### III. ACCESS TO YOUR INFORMATION
 
-If you have an account with us, you also may choose to resign and deactivate your account at any time. Please contact [Customer Care](http://savings.zendesk.com/home) or send an email with “Deactivate Account” in the subject line to [sara.d@savings.com](mailto:sara.d@savings.com). If you wish to change to modify information in your account please log in and visit your profile and click on “Edit Profile” . If for any reason you are concerned that the Personal Information you provided to us is not correct and you cannot change it by accessing your profile, or should you wish to have your street address or email address removed from our mailing list or contact information changed, please contact us at sara.d@savings.com. We will be happy to review, update or remove information as appropriate. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Service or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our Savings.com Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies. We may still retain your information in our files however, to resolve disputes and enforce our Terms of Service.
+If you have an account with us, you also may choose to resign and deactivate your account at any time. Please contact [Customer Care](http://savings.zendesk.com/home) or send an email with “Deactivate Account” in the subject line to customercare@savings.com. If you wish to change to modify information in your account please log in and visit your profile and click on “Edit Profile” . If for any reason you are concerned that the Personal Information you provided to us is not correct and you cannot change it by accessing your profile, or should you wish to have your street address or email address removed from our mailing list or contact information changed, please contact us at customercare@savings.com. We will be happy to review, update or remove information as appropriate. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Service or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our Savings.com Applications. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies. We may still retain your information in our files however, to resolve disputes and enforce our Terms of Service.
 
 ### IV. CHOICE AND OPT OUT
 
-You may remove your information from our database so as not to receive future communications or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at sara.d@savings.com or sending postal mail (certified mail, return receipt requested is recommended) to the following postal address:
+You may remove your information from our database so as not to receive future communications or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at customercare@savings.com or sending postal mail (certified mail, return receipt requested is recommended) to the following postal address:
 
 Savings.com, Inc.  
 Attn: Customer Care  
@@ -118,7 +118,7 @@ California’s “Shine the Light” law, Civil Code section 1798.83, requires c
 
 **No Rights of Third Parties.** This Privacy Policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Site.
 
-**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the Savings.com Applications and Community Services, please send your email queries to sara.d@savings.com or write to us at:
+**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the Savings.com Applications and Community Services, please send your email queries to customercare@savings.com or write to us at:
 
 Savings.com, Inc.  
 Attn: Customer Care  
