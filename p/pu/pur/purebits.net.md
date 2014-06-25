@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purebits.net privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715030744id_/http%3A//purebits.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purebits.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060721id_/http%3A//purebits.net/privacy.php) for the most accurate reproduction.*
 
 # PureBits - Privacy
 
