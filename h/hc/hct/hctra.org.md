@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hctra.org privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805180859id_/https%3A//www.hctra.org/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hctra.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125900id_/https%3A//www.hctra.org/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # About HCTRA — Harris County Toll Road Authority
 
@@ -43,7 +43,7 @@ HCTRA uses a secure server for all data transmitted through our website. All sen
 
 Yes. Cookies are small files that a website or its service provider transfers to your computer's hard drive through your web browser (if you allow), that enable the website's or the service provider's systems to recognize your browser and to capture and remember certain information. A cookie cannot read data off your hard drive or read cookie files created by another website.
 
-We use cookies to help us process your requests and save your preferences for future visits. Like most websites, if you turn your cookies feature off some of our services may not function properly. Enabling cookies will not store personal information on your computer such as passwords. If you choose not to enable the cookies feature, you can still make updates to your account by contacting our Customer Service department [by phone or by visiting an EZ TAG Store.](https://web.archive.org/about_locations/)
+We use cookies to help us process your requests and save your preferences for future visits. Like most websites, if you turn your cookies feature off some of our services may not function properly. Enabling cookies will not store personal information on your computer such as passwords. If you choose not to enable the cookies feature, you can still make updates to your account by contacting our Customer Service department [by phone or by visiting an EZ TAG Store.](https://web.archive.org/about_locations/?CSRT=10059065937509140470)
 
 ## Does HCTRA disclose any information to outside parties? 
 
@@ -61,4 +61,4 @@ It may occasionally be necessary for HCTRA to amend our privacy policies. We enc
 
 ## How can you contact HCTRA? 
 
-[www.hctra.org/about_contact/](https://web.archive.org/about_contact/)
+[www.hctra.org/about_contact/](https://web.archive.org/about_contact/?CSRT=10059065937509140470)
