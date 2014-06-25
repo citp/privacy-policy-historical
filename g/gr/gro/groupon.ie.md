@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027010147id_/http%3A//www.groupon.ie/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150842id_/http%3A//www.groupon.ie/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, travel, shopping - GROUPON.ie
 
-**We protect your personal information and data**
+Groupon IE: This privacy policy applies in respect of your use of the Groupon IE site and service, as well as your purchase of vouchers from Groupon IE.  
+Groupon Goods Global: This privacy policy applies in respect of your purchase of goods from Groupon Goods Global.
+
+ **
+
+We protect your personal information and data
+
+**
 
 **1\. Protecting You  
 ** The Groupon website www.groupon.ie is owned by Groupon-CityDeal (Ireland) Limited (trading as Groupon IE). The website is operated by MyCityDeal Limited. MyCityDeal Ltd. (trading as Groupon UK) (whom we refer to as " **Groupon UK** ", " **we** ," " **us** ," " **our** " in this Privacy Policy) is committed to protecting your privacy. Groupon UK is a company registered in England (company number 07112363) with its registered office at Seal House, 1 Swan Lane, London, EC4R 3TN. Groupon UK is registered with the Information Commissioner’s office in the UK under registration number is Z2232703. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and/or other applicable data protection laws).
@@ -105,3 +112,67 @@ Also, in the course of serving advertisements to this Website, any third-party a
 
 **10\. Changes to this Policy  
 ** Please note that this Policy forms part of the [Terms and Conditions](http://www.groupon.ie/terms_and_conditions) for use of the www.groupon.ie Website and Groupon IE’s services and forms part of the Agreement between you and Groupon IE. We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Website. (Depending on the nature of the change, we may announce the change: (a) on the home page of the Website, (b) by email, if we have your email address, or (c) in some other way.) In any event, by continuing to use the Website following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your use of the Website and any Services offered by Groupon IE.
+
+***********************************************************************************************
+
+## **GROUPON GOODS GLOBAL PRIVACY STATEMENT**
+
+**Please note that this privacy statement only applies to you if you purchase a product from Groupon Goods Global GmbH.** ** **
+
+**Effective Date: 20.12.2013**
+
+**Last Updated: 20.12.2013**
+
+This Privacy Statement (“ **Privacy Statement** ”) explains how Groupon Goods Global GmbH, with registered address at Freier Platz 10, 8200 Schaffhausen, Switzerland (“ **Groupon Goods** ”, “ **us** ”, “ **our** ”, and “ **we** ”), processes and uses information about you. This Privacy Statement applies only to information we process in order to facilitate your purchase of products sold by us on the Groupon IE website, featured on www.groupon.ie (the “ **Site”** ).  The Site is owned by Groupon-CityDeal (Ireland) Limited (trading as Groupon IE), an Irish company, with a registered address at The Black Church, St Mary’s Place, Dublin 7, Ireland (“ **Groupon IE** ”). The Site is operated by MyCityDeal Ltd (trading as Groupon UK), an English company with a registered address at Seal House, 1 Swan Lane, London EC4R 3TN (“ **Groupon UK** ”).
+
+This Privacy Statement was adopted as of the “Effective Date” above, and may be amended from time to time. In the event of a material change, we may notify you of such changes. You can determine when this version of the Privacy Statement was most recently adopted by referring to the date it was “Last Updated” above. ****
+
+  1. **Personal data collected**
+
+
+
+Groupon Goods is the data owner in respect of your personal data that is necessary to provide you with the products you purchased from us on the Site. This includes information such as your name and delivery address. Groupon Goods directly processes your data in accordance with the Swiss Federal Data Protection Act of 19 June 1992 and its ordinances (the “ **Privacy Law** ”). ****
+
+Please note that, as the Site operator, Groupon UK is the data owner in respect of all information you provide or is made available about you when you interact with the Site. This includes, for example, information necessary to create a Groupon account or to subscribe to email marketing. Although your customer relationship is with Groupon IE, it is Groupon UK which processes your personal in accordance with applicable privacy law and it’s _Privacy Statement_.
+
+  1. **How Groupon Goods uses information**
+
+
+
+Groupon Goods processes your personal data in order to fulfill your order. This consists of information related to:
+
+  * the delivery and shipment of the products you have purchased from us; and
+  * managing everyday business needs functional to sale and post-sale.
+
+
+
+Groupon Goods will also process your data in order to comply with laws, regulations and legislation, as well as enforcement of our judicial rights. Please note that if you purchase products for individuals other than yourself, it is your responsibility to ensure that you comply with the Privacy Law in respect of your submission to us of their personal information. ****
+
+  1. **When and Why Groupon Goods Discloses Information**
+
+
+
+We are not in the business of selling or renting personal data. When we process your personal data for the purposes set out in section 2 above, we may pass or share your personal data with the following third parties, as may be necessary from time to time:
+
+  * With affiliated and unaffiliated technical and organisational service providers relevant to our business. This includes Groupon IE, Groupon UK and Groupon, Inc. Groupon, Inc. has its registered offices at 600 West Chicago Avenue, Chicago, Illinois - 60610, USA Transfer of personal data to Groupon UK is authorised as it is within the EU. Transfer to the US is authorised under the Privacy Law since Groupon Inc. has adhered to the Safe Harbor Principles - <http://safeharbor.export.gov/companyinfo.aspx?id=15342>.
+  * To third parties to report or collect on debts owed to us or our suppliers or other business partners.
+  * To third parties in order for us to to perform contractual obligations toward you, combat fraud or criminal activity, or as part of legal proceedings affecting us..
+  * To law enforcement officers or other government officials, to comply with legal orders and government requests, or as needed to support auditing, compliance, and corporate governance functions.
+
+
+
+Please note that it is likely some recipients of your data may be located outside of Switzerland or the European Union, in countries with an inadequate level of data protection. You recognise and understand that when you purchase a product, we may pass your personal information to a service provider or business partner who supports delivery of your product to you and that this service provider or business partner may be located (or process your personal data) outside of Switzerland or the European Union.
+
+  1. **Security of Personal Data**
+
+
+
+We process data mainly in electronic form in line with the Privacy Law security requirements; Groupon Goods has implemented an information security program that contains administrative, technical and physical controls that are designed to reasonably safeguard your personal data, including industry-standard encryption technology.
+
+  1. **Retention of Personal Data and Your Rights in relation to Personal Data**
+
+
+
+We will retain your personal data for as long as necessary to perform our contractual obligations to you and as required by applicable law. Should you wish to know more about the personal data we have about you, you can exercise your rights of access at any time. Should you wish to do so, please contact us online at www.groupon.ie/contact. You may also write to us us at: Groupon Goods Global GmbH, Freier Platz 10, Schaffhausen, Switzerland.
+
+Please note that while we are ready to assist you, we cannot always delete records of past interactions and transactions. For example, we are required to retain records relating to previous purchases for financial reporting and compliance reasons. ****
