@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111073338id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092843id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | RummyCircle.com
+# Privacy Policy - RummyCircle
 
 This privacy policy forms part of our Website's [Terms of Service](https://web.archive.org/tos/terms-of-service.html "Terms of Service"), by accepting the Terms of Service and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Play Games24x7 Private Limited (hereinafter referred as "RummyCircle") requested at the time of registration. Registration procedure cannot be completed until information in the non-optional fields is provided. Certain additional personal information may be requested by RummyCircle for permitting you access to any Cash Games organized by RummyCircle.
 
