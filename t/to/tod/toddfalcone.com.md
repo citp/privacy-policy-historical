@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208235944id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105852id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Todd Falcone
+# Privacy Policy Todd Falcone
 
 **ToddFalcone.com and all related Websites**
 
@@ -16,8 +16,7 @@ This policy describes the information collection, use, and dissemination practic
 
 **Please Note: TF from time to time, may make changes to this privacy policy to reflect changes in its legal or regulatory obligations or in the manner in which we deal with your personal information. Changes are effective upon posting. It is your sole responsibility to be aware of changes. We do not provide notices of changes in any manner other than by positing the changes at this web site. We encourage you to refer back to this policy on a regular basis.**
 
-Last Updated May 31, 2013  
-
+Last Updated May 31, 2013
 
 **THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF TF.**
 
@@ -45,25 +44,25 @@ Other occasions when TF obtains information from individuals include (1) when an
 
 TF currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, TF may use other new and evolving sources of information in the future (together, “Technology Information”).
 
-**a) Cookies**   
+**a) Cookies**  
 A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows TF to identify the individual with his or her corresponding data that resides in TF’s database. You may read more about cookies at [cookiecentral.com](http://cookiecentral.com/). Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
 
-**b) Web Beacons**   
+**b) Web Beacons**  
 A web beacon is programming code that can be used to display an image on a web page (see [http://truste.org](http://truste.org/) for more information), but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows TF to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. In addition to using web beacons on web pages, TF also uses web beacons in email messages sent to individuals listed in TF’s database.
 
-**c) New Technology**   
+**c) New Technology**  
 The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is TF’s use of new and evolving technology. As a result, TF strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
-**d) Usage Tracking**   
+**d) Usage Tracking**  
 TF tracks information related to the electronic mailings and web pages viewed by users and subscribers, as well as the hyperlinks clicked by subscribers, while viewing our emails or visiting our websites.
 
-**e) Log Files**   
+**e) Log Files**  
 Log files are used to track and monitor subscriber usage
 
-**f) Optional Registration**   
+**f) Optional Registration**  
 TF may offer free voluntary registration to potential subscribers. During such registration, the subscriber is required to supply an email address and other personal information. This information is required if the subscriber wants to participate in Company services.
 
-**g) Feedback and Inquiries**   
+**g) Feedback and Inquiries**  
 You have the ability to contact TF to provide us with their feedback. TF uses this information to respond to you and analyze customer service issues.
 
 **1.6 Outside Information**
