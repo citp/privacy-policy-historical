@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211172634id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsi.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083545id_/http%3A//www.etsi.org/privacy) for the most accurate reproduction.*
 
-# Privacy
+# ETSI - Privacy
 
 We treat all your Personal Information as confidential. We keep it on a secure server and we fully comply with all applicable EU Data Protection legislation.
 
