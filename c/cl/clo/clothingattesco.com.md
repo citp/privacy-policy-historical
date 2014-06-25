@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203071808id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115409id_/http%3A//www.clothingattesco.com/privacy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Clothing at Tesco | privacy policy
 
