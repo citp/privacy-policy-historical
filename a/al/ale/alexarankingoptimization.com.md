@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908125250id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexarankingoptimization.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091041id_/http%3A//alexarankingoptimization.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.youtube.com/embed/kfoS-E6Mn90 "Alexa Ranking Optimization \(ARO\)")
 
 We respect your privacy right. This policy summarizes what personally identifiable information we may collect, and how we might use the information. This policy also describes other important topics relating to your privacy. 
 
@@ -19,4 +21,18 @@ We respect your privacy right. This policy summarizes what personally identifiab
 
 It may be necessary, if required by law or judicial or governmental investigations, to release your personal information. We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications in the Web page.
 
-© 2012-2013 Alexa Ranking Optimization (ARO). All Rights Reserved.
+* * *
+
+**828**  
+Total Websites Optimized
+
+|              | 
+
+ **2980413**  
+Total Traffic Delivered through ARO Platform  
+  
+---|---|---  
+  
+* * *
+
+© 2014 Alexa Ranking Optimization (ARO). All Rights Reserved.
