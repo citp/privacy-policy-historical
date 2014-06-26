@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090438id_/http%3A//www.thenewsstar.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090446id_/http%3A//www.thenewsstar.com/section/privacy) for the most accurate reproduction.*
 
 # privacy | The News Star | thenewsstar.com
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
+[View subscription options](http://subscribe.thenewsstar.com/?gps-source=CPPWOPT)
 
 ## You now have full access.
 
