@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929164359id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071200id_/http%3A//www.lulu.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Self Publishing and Book Printing Solutions - Books, EBooks, Photo books and Calendars at Lulu.com
 
-Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at www.lulu.com (the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu (collectively, the "Site"), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 3101 Hillsborough Street, Raleigh, NC 27607. We will do our best to resolve your inquiry. 
+Lulu Press, Inc. ("Lulu," "we," "us") respects your privacy, including the privacy of your personal information. This Privacy Policy explains what information we collect through our website at www.lulu.com, www.lulujr.com, www.picture.com and www.replayphotos.com (collectively, the "Site") and our other services, and how we use this information to provide outstanding service to you. By accessing and using the Site or other services owned and/or operated by Lulu (collectively, the "Site"), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. If you feel that Lulu is not abiding by this Privacy Policy, you should contact us. Lulu's offices are located at 3101 Hillsborough Street, Raleigh, NC 27607. We will do our best to resolve your inquiry. 
 
-REVISED: December 14, 12
+REVISED: February 13, 2014
 
 **1\. Information Collected Through Our Site**
 
@@ -49,11 +49,11 @@ In order to provide quality products, the Lulu employees and third-party service
 
 **5\. Updating Your Personal Information**
 
-Lulu will make an effort to keep all your Personal Information up to date when you provide it to us. You can update your account information and change your password at any time. You will find this at My Lulu > My Account & Orders > About Me. If you have forgotten your password, you can set a new one by clicking the “Forgot My Password” link on the login page or by contacting our Customer Service team. If any of your Personal Information changes, or you identify a mistake in our records, please use the account profile page on the Lulu website, or contact us using the link in Section 11 ("Contact Us") and we will update your data. 
+Lulu will make an effort to keep all your Personal Information up to date when you provide it to us. You can update your account information and change your password at any time. On Lulu.com, you will find this at My Lulu > My Account & Orders > About Me. If you have forgotten your password, you can set a new one by clicking the “Forgot My Password” link on the login page or by contacting our Customer Service team. If any of your Personal Information changes, or you identify a mistake in our records, please contact us and we will update your data. 
 
 **6\. Opt-Out**
 
-You may unsubscribe to our notification services through your account profile on the Lulu Web site. Simply go to the My Lulu > My Account & Orders > Preferences page or contact our Customer Service team. From time to time Lulu may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request by going to the My Lulu > My Account & Orders > Preferences page. We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
+You may unsubscribe to our notification services through your account profile on the Lulu.com Site. Simply go to the My Lulu > My Account & Orders > Preferences page or contact our Customer Service team. From time to time Lulu may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request by going to the My Lulu > My Account & Orders > Preferences page. We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
 
 **7\. Security**
 
@@ -61,7 +61,7 @@ Lulu seeks to have reasonable security measures in place to help protect against
 
 **8\. Protecting the Privacy of Children**
 
-Our Site is not intended for use by children under the age of 13 and is not directed at such children. We do not knowingly collect Personal Information from children under the age of 13. Please do not register at Lulu if you are under the age of 13.
+The Lulu.com, Picture.com and Replayphotos.com Sites are not intended for use by children under the age of 13 and is not directed at such children. We do not knowingly collect Personal Information from children under the age of 13. Please do not register at those Sites if you are under the age of 13.
 
 **9\. Third Party Sites**
 
