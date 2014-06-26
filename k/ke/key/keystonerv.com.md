@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211231910id_/http%3A//www.keystonerv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061757id_/http%3A//www.keystonerv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Effective December 22, 2011_
 
  **Your Privacy**  
-Your privacy is important to us. We will not use or share your personal information provided to us online for any purpose other than to reply to your email, to contact you regarding customer service issues, warranty information, product information or to contact you regarding the submission of product ideas. We protect against unauthorized disclosures by limiting access only to those of our employees who need the information to do their jobs. We may also disclose information about you or your recreational vehicle as required by law, in conjunction with a government inquiry, a product recall or in litigation or dispute resolution.
+Your privacy is important to us. We will not use or share your personal information provided to us online for any purpose other than to reply to your email, to contact you regarding customer service issues, warranty information, product information or to contact you regarding the submission of product ideas. We protect against unauthorized disclosures by limiting access only to those of our employees who need the information to do their jobs. We may also disclose information about you or your recreational vehicle as required by law, in conjunction with a government inquiry, a product recall or in litigation or dispute resolution. 
 
  **Children's Privacy  **  
 We do not knowingly collect personally identifiable information from children under the age of 13. If you are under thirteen, please do not submit any personally identifiable information through our website. We encourage parents and legal guardians to monitor their children's internet usage and to help enforce our Privacy Policy by instructing their children to never provide personally identifiable information on our website without their permission. If you have reason to believe that a child under the age of 13 has provided personally identifiable information to us through this website, please contact us, and we will endeavor to delete that information from our databases.
