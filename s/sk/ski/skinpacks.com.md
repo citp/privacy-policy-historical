@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinpacks.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229010322id_/http%3A//www.skinpacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinpacks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035100id_/http%3A//www.skinpacks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Skin Pack
+# Privacy Policy | SkinPack
 
 We here at [SkinPack](http://www.skinpacks.com/) respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it. 
 
