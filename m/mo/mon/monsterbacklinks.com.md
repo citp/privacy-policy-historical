@@ -1,68 +1,77 @@
-> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005050625id_/http%3A//www.monsterbacklinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626185538id_/http%3A//www.monsterbacklinks.com/privacy_policy) for the most accurate reproduction.*
 
-# Monster Backlinks ™ | Privacy Policy
+# Privacy Policy - Monster Backlinks
 
-We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information that we collect about you when you use our website http://www.MonsterBacklinks.com/ (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service").
 
-We recognize the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers needs. 
+1\. INFORMATION YOU GIVE US.
 
-What Information Do We Collect? When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+a. The Types of Information Monster Backlinks Collects. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.
 
-**1\. Personal Information You Choose to Provide**
+b. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for information you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
 
-**Registration Information**  
-When you register for any of our products, services or newsletters you will provide us information about yourself.
+2\. AUTOMATIC INFORMATION COLLECTION.
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+a. Cookies. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
 
-**2\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called cookies (see explanation below, What Are Cookies?) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+i. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
 
-**How Do We Use the Information That You Provide to Us?**  
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our sites content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+ii. the date and time you access the Site and pages you visit;
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
+iii. your computer's IP address and information about its operating system, platform and the Web browser type and version you use; 
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. 
+iv. demographic and other non-personally identifiable profile information about you; and
 
-**What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that sites computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browsers preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+v. information to combat fraud or misuse.
 
-**How Do We Use Information We Collect from Cookies?**  
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web servers log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+b. Collection of Information by Third Parties. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser. Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology.
 
-**IP Addresses**  
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you. 
+The information collected by third party cookies is subject to the privacy policy of the third party, not Monster Backlinks's privacy policy.
 
-**Sharing and Selling Information**  
-We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+c. Promotions, Sweepstakes, and Contests. From time to time, we may host a promotion, sweepstake, or contest on the Service. You May be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party.
 
-**How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
+3\. Monster Backlinks'S USE AND RETENTION OF YOUR INFORMATION.
 
-**What About Legally Compelled Disclosure of Information?**  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+Retention of Information. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+4\. Monster Backlinks'S SHARING OF INFORMATION. Monster Backlinks shares information with third parties, but only as described in this Section 4.
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web sites own rules and policies. Please read over those rules and policies before proceeding. 
+a. Advertisers and Others. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business.
 
-**Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+b. Service Third Parties. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer services, sending Monster Backlinks email to you, removing repetitive information from customer lists, and analyzing data. These third parties have access to personal information needed to perform their functions.
 
-**Our Commitment To Data Security:**  
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+c. Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, merger, restructurings, changes or control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII is subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
 
-**Choice/Opt-In/Opt-Out**  
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible. 
+d. Compliance and Safety. We may release user information when we believe release is appropriate to:
 
-**A Special Note About Children**  
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
+i. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
 
-**Acquisition or Changes in Ownership**  
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
+ii. make disclosures under programs intended to prevent potential crimes or investigate persons;
 
-**Policy Modifications**  
-We may change this Privacy Policy from time to time. It is not our responsibility to email all the users of this site when we make modifications to our privacy policy. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
+iii. enforce or apply agreements, including the Terms; or 
+
+iv. protect the rights, property, or safety of Monster Backlinks, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
+
+5\. INFORMATION SECURITY
+
+a. Your Obligations. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them - we generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
+
+b. Our Security Measures. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. HOWEVER, WE DO NOT GUARANTEE SECURITY. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty (if any), you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
+
+6\. LINKS. The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service.
+
+7\. CHOICE. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as friend requests or the Monster Backlinks of the day emails. If you want to stop receiving these communications, you may opt by going to the Profile tab on the Site and editing your email preferences.
+
+8\. ACCESS AND RECORD KEEPING. Information relating to our programs is not necessarily maintained in a retrievable form. However, you may make changes, corrections or updates to some PII provided through the Service which we use for communications with you, by going to the " Profile" tab on the Site. We may keep a record of all information that is changed. We
+
+may determine what may be changed. For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing relevant information.
+
+9\. CONDITIONS OF USE, NOTICES, AND REVISIONS.
+
+a. Privacy Concerns. Your use of the Service and any dispute over privacy is subject to the Terms of service. If you have any concern about privacy at Monster Backlinks, please send us a thorough description to support@MonsterBacklinks.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
+
+b. Notice Required by Law. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with Monster Backlinks at all times.
+
+c. Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+
+10\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY. For customer service matters (including questions relating to this Policy), you may email us at support@MonsterBacklinks.com.
