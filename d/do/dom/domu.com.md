@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123190419id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095711id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
