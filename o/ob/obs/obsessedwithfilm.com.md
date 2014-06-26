@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsessedwithfilm.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223145554id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsessedwithfilm.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061835id_/http%3A//whatculture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WhatCulture!
 
