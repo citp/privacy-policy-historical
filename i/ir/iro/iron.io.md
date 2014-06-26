@@ -1,50 +1,53 @@
-> *The following text is extracted and transformed from the iron.io privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203083809id_/http%3A//www.iron.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iron.io privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626133847id_/http%3A//www.iron.io/privacy) for the most accurate reproduction.*
 
-# Iron.io | IronMQ, Cloud Message Queues as a Service - Easy, Fast, and Reliable
+# Iron.io
 
-## Iron.io Privacy Policy
+Iron.io, Inc. (“Iron.io” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Iron.io’s Web site privacy practices. 
 
-_Last Updated: July 11, 2012_
-
-Iron.io, Inc. (“Iron.io” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Iron.io’s Web site privacy practices.
-
-  1. ##### Web Site Covered
+* ##### Web Site Covered
 
 This Privacy Statement covers the information practices of [http://iron.io](http://iron.io/).
 
-  2. ##### Information Collected
+* ##### Information Collected
 
 Iron.io offers a variety of services that are collectively referred to as the “Services.” Iron.io collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
-    * When expressing an interest in obtaining additional information about the Services or registering to use the Services, Iron.io requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). 
+  * When expressing an interest in obtaining additional information about the Services or registering to use the Services, Iron.io requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). 
 
-    * When purchasing the Services, Iron.io requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”). 
+  * When purchasing the Services, Iron.io requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”). 
 
-    * Iron.io may also ask you to provide additional information, such as industry, company revenues, or number of employees (“Optional Information”). 
+  * Iron.io may also ask you to provide additional information, such as industry, company revenues, or number of employees (“Optional Information”). 
+
+
+
 
 Required Contact Information, Billing Information, and Optional Information are referred to collectively as “Data About Iron.io Customers.”
 
-    * As you navigate the Company’s Web site, Iron.io may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
+  * As you navigate the Company’s Web site, Iron.io may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
 
-  3. ##### Use of Information Collected
+
+
+* ##### Use of Information Collected
 
 The Company uses Data About Iron.io Customers to perform the services requested. 
 
-    * For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
+  * For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
-    * Iron.io uses Contact Information for account access, service notifications, and other purposes related to use of the Services.
+  * Iron.io uses Contact Information for account access, service notifications, and other purposes related to use of the Services.
 
-    * Iron.io uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
+  * Iron.io uses credit card information solely to check the financial qualifications of prospective Customers and to collect payment for the Services.
 
-    * The Company may also use Data About Iron.io Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
+  * The Company may also use Data About Iron.io Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company and its partners, such as information about promotions or events.
 
-    * Iron.io uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Iron.io Customers to provide personalized information about the Company.
+  * Iron.io uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Iron.io Customers to provide personalized information about the Company.
 
-  4. ##### Web Site Navigational Information
+
+
+* ##### Web Site Navigational Information
 
 Iron.io uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
 
-    1. ##### 4.1Cookies
+  1. ##### 4.1Cookies
 
 Iron.io uses cookies to make interactions with the Company’s Web site easy and meaningful. When you visit the Company’s Web site, Iron.io’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Iron.io, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or other Web forms that may be displayed), you remain anonymous to the Company. Iron.io uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
 
@@ -54,23 +57,25 @@ Iron.io uses persistent cookies that only the Company can read and use to identi
 
 Iron.io may use information from session and persistent cookies in combination with Data About Iron.io Customers to provide you with information about the Company and the Services.
 
-    2. ##### 4.2Web Beacons
+  2. ##### 4.2Web Beacons
 
 Iron.io uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Iron.io may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web site. Iron.io uses Web beacons to operate and improve the Company’s Web site and email communications.
 
 Iron.io may use information from Web beacons in combination with Data About Iron.io Customers to provide you with information about the Company and the Services.
 
-    3. ##### 4.3IP Addresses
+  3. ##### 4.3IP Addresses
 
 When you visit Iron.io’s Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Iron.io uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web site.
 
-    4. ##### 4.4Third Party Cookies
+  4. ##### 4.4Third Party Cookies
 
 From time-to-time, Iron.io engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web site. Iron.io may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
 
 Iron.io may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about these and other advertising networks and their opt-out instructions, click here.
 
-  5. ##### Public Forums, Refer a Friend, and Customer Testimonials
+
+
+* ##### Public Forums, Refer a Friend, and Customer Testimonials
 
 Iron.io may provide bulletin boards, blogs, or chat rooms on the Company’s Web site directly or via third-party services. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Iron.io is not responsible for the personal information you choose to submit in these forums.
 
@@ -78,7 +83,7 @@ Customers and Visitors may elect to use the Company’s referral program to info
 
 Iron.io may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Iron.io obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-  6. ##### Sharing of Information Collected
+* ##### Sharing of Information Collected
 
 Iron.io may share Data About Iron.io Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Iron.io may also share Data About Iron.io Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Iron.io does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
 
@@ -88,50 +93,52 @@ Iron.io uses a third-party service provider to manage credit card processing. Th
 
 Iron.io reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-  7. ##### International Safe Harbor Certifications
+* ##### International Safe Harbor Certifications
 
 Iron.io complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iron.io has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
 
 To learn more about the Safe Harbor program, and to view Iron.io’s certification, please visit:
 
-    * U.S.-EU & U.S.-Swiss Safe Harbor Frameworks   
+  * U.S.-EU & U.S.-Swiss Safe Harbor Frameworks   
 (<http://www.export.gov/safeharbor/>)
 
-  8. ##### Privacy Complaints (inc. EU and Swiss Citizens)
+
+
+* ##### Privacy Complaints (inc. EU and Swiss Citizens)
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles and in adherence to generally accepted privacy practices, Iron.io commits to resolve complaints about your privacy and our collection or use of your personal information. European Union, Swiss citizens, or others with inquiries or complaints regarding this privacy policy should first contact Iron.io at the email address or physical address below.
 
 Iron.io has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Iron.io, you can contact the International Centre for Dispute Resolution of the American Arbitration Association at www.adr.org. This organization will provide independent dispute resolution.
 
-  9. ##### International Data Collection and Transfer
+* ##### International Data Collection and Transfer
 
 The Company’s Web site and Services are hosted in the United States. If you are accessing the Web site and/or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions. By providing your personal data you consent to:
 
-    * The use of your personal data for the uses identified above in accordance with the Privacy Policy; and
+  * The use of your personal data for the uses identified above in accordance with the Privacy Policy; and
 
-    * The transfer of your personal data to the United States as indicated above.
+  * The transfer of your personal data to the United States as indicated above.
+
+
+
 
 To facilitate Iron.io’s global operations, the Company may transfer and access Data About Iron.io Customers from around the world, including the United States. This Privacy Statement shall apply even if Iron.io transfers Data About Iron.io Customers to other countries.
 
-  10. ##### Communications Preferences
+* ##### Communications Preferences
 
 Iron.io offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@iron.io. Customers cannot opt out of receiving transactional emails related to their account with Iron.io or the Services.
 
-  11. ##### Correcting and Updating Your Information
+* ##### Correcting and Updating Your Information
 
 Customers may update or change their registration information by logging in to their accounts at [http://hud.iron.io](http://hud.iron.io/). Requests to Iron.io to modify or delete your information will be handled within 30 days once customer account ownership has been verified.
 
-  12. ##### Security
+* ##### Security
 
 Iron.io uses appropriate administrative, technical, and physical security measures to protect Data About Iron.io Customers.
 
-  13. ##### Changes to this Privacy Statement
+* ##### Changes to this Privacy Statement
 
 Iron.io reserves the right to change this Privacy Statement. Iron.io will provide notification of the material changes to this Privacy Statement through the Company’s Web Site at least thirty (30) business days prior to the change taking effect.
 
-  14. ##### Contacting Us
+* ##### Contacting Us
 
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to legal@iron.io or by mailing Iron.io Legal, 325 9t St, San Francisco, CA 94103.
-
-
-
