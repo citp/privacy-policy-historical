@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812214018id_/http%3A//www.outbacknow.com.au/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025828id_/http%3A//www.outbacknow.com.au/index.php/privacy) for the most accurate reproduction.*
 
-# Outback Now Privacy Policy - Outback Australia - Australian Outback
+# Outback Now Privacy Policy - Outback Australia | Australian Outback
 
 The security of your personal information is very important to us. We take great pride in providing you with a privacy policy. To further ensure the integrity of data stored on our network we utilize all necessary and available security. We do not sell, trade, or give-away any information we may have on any of our users and members. Below we describe why we gather certain information, what we collect, how we collect is and what we use the information for.
 
