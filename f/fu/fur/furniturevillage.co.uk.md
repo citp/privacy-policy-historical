@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117000807id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020931id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ In order to purchase on the website, we need to know your name, postal address, 
 
 We gather this information to allow us to process your order and provide you with the best possible service. The relevant information is then used by us, our agents and sub-contractors to authenticate your identity, to validate your debit or credit card, to authorise the transaction and to communicate with you on any matter relating to the provision of the service in general. You specifically authorise us to transmit information to or to obtain information about you from third parties for these purposes. 
 
-We may also wish to provide you with information about special features of our Website or any other service or products we think may be of interest to you. If you would rather not receive this information, please send an e-mail message to [online@furniturevillage.co.uk](mailto:online@furniturevillage.co.uk). 
+We may also wish to provide you with information about special features of our Website or any other service or products we think may be of interest to you. If you would rather not receive this information, please send an e-mail message to [internet_sales@furniturevillage.co.uk](mailto:internet_sales@furniturevillage.co.uk). 
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information on the ClickTale Web Analytics Service, see [here](http://www.clicktale.com/ "Clicktale link"). We are using the information collected by ClickTale service to improve the customer experience of users of this website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>
 
