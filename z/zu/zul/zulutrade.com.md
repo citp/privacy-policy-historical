@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027235858id_/http%3A//zulutrade.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030452id_/http%3A//www.zulutrade.com/privacy-policy) for the most accurate reproduction.*
 
 # ZuluTrade - Our Privacy Policy
 
@@ -12,38 +12,26 @@ When you apply for or maintain a ZuluTrade Demo or Live account, we collect pers
 
 
 
-* * *
-
 ###  Cookies 
 
 Cookies are small files containing information that a website utilizes to track its visitors. ZuluTrade may set and access ZuluTrade cookies on your computer, enabling us to discover which advertisements and promotions bring users to our website. ZuluTrade or any of its divisions may use cookies in connection with ZuluTrade's products and services and to track your activities on our websites. The information that is collected and shared is anonymous and not personally identifiable. 
-
-* * *
 
 ###  Security Technology 
 
 ZuluTrade uses _Secure Socket Layer_ (SSL) encryption technology to protect the information that you submit. This technology protects Users from having their information intercepted by anyone other than ZuluTrade during transmission. We work hard to ensure that our websites are secure and that they meet industry standards. We also use additional safeguards: firewalls, authentication systems (e.g., passwords and personal identification numbers) and access control mechanisms to control unauthorized access to systems and data. 
 
-* * *
-
 ###  Sharing Information With Our Affiliates 
 
 As permitted by applicable law, we may share the personal information described above with our affiliates for business purposes; such as servicing client accounts and informing clients about new products and services. Our affiliates may include companies controlled or owned by ZuluTrade, as well as companies which have an ownership interest in our company. The information we share with affiliates may include any of the information described above: your name, address, account information, etc. Our affiliates maintain the privacy of your information to the same extent that ZuluTrade does in accordance with this Policy. 
-
-* * *
 
 ###  Sharing Information With Third-Parties 
 
 With the exception of the purposes described in this Policy, ZuluTrade does not disclose personal information to third-parties. Third-party disclosures may include: sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with ZuluTrade; including those that provide professional, legal, or accounting advice to ZuluTrade. Non-affiliated companies that assist ZuluTrade in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes which ZuluTrade dictates. We may also disclose your personal information to third-parties in order to fulfill your instructions or pursuant to your express consent. ZuluTrade will not sell your personal information. 
 
-* * *
-
 ###  Regulatory Disclosure 
 
 Under limited circumstances, ZuluTrade may disclose your personal information to third-parties as permitted by, or to comply with, applicable laws and regulations. ZuluTrade may disclose personal information to cooperate with regulatory authorities, law enforcement agencies, to comply with subpoenas or other official requests, and as necessary to protect ZuluTrade’s rights or property. Except as described in this Privacy Policy, your personal information will not be used for any other purpose unless we explicitly describe in what manner such information will be used at the time you disclose it to us or we obtain your permission. 
 
-* * *
-
 ###  Opt Out 
 
-You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via [e-mail](https://web.archive.org/web/20121027235858id_/http%3A//zulutrade.com/ContactUs.aspx). 
+You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via [e-mail](https://web.archive.org/contact). 
