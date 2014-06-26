@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119080629id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleys.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150245id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.*
 
 # We Appreciate Your Privacy: Our website privacy statement
 
@@ -64,7 +64,7 @@ Prescription Refills
 _
 
   
-If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, or you can link directly to it here.
+If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, or you can link directly to it [here](https://web.archive.org/www/feature/legal.jsp?featureid=1113647).
 
 _  
 Surveys, Sweepstakes and Contests  
