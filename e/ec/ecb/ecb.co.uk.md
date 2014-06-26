@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102101910id_/http%3A//www.ecb.co.uk/information/privacy-and-cookies-policy-england-and-wales-cricket-board) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132010id_/http%3A//www.ecb.co.uk/information/privacy-and-cookies-policy-england-and-wales-cricket-board) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - England and Wales Cricket Board | England and Wales Cricket Board (ECB) - The Official Website of the ECB
 
