@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxunited.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124141459id_/http%3A//www.fxunited.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxunited.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024857id_/http%3A//www.fxunited.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Forex Broker Online Trading | Metatrader Trading Platform | Perfect Money Forex Broker | FxUnited : United World Markets Ltd
 
