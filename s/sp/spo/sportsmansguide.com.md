@@ -1,112 +1,73 @@
-> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430234031id_/http%3A//www.sportsmansguide.com/net/main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansguide.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627002427id_/http%3A//www.sportsmansguide.com/ourcompany/privacypolicy) for the most accurate reproduction.*
 
-# Sportsman's Guide - Discount Hunting Gear, Discount Hunting Boots, Discount Shoes, Discount Ammunition, Discount Ammo, Discount Boots, Military Surplus, Outdoor Gear at The Sportsman's Guide
+# Sportsman's Guide - Outdoor Gear, Military Surplus, Survival Gear and more
 
-This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to www.sportsmansguide.com. The statement does not pertain to the privacy practices for partnered sites, and we encourage those who visit external sites from links within www.sportsmansguide.com to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
+###  Privacy Statement 
 
-  * Online: [Click here](https://web.archive.org/net/main/MailUs.aspx) to contact The Sportsman's Guide via email (custserv@sportsmansguide.com)
-  * Phone: 1-888-844-0667
-  * Mail: The Sportsman's Guide, 411 Farwell Ave, South Saint Paul, MN 55075
+The Sportsman's Guide uses your personal information to enhance and improve your customer experience. The purpose of this Privacy Policy is to provide you with information regarding what we will collect, how such information may be used and the choices available to you regarding the use of your information. In addition, this policy exists to better inform you of your ability to correct or modify the information you have provided us. 
 
+Your privacy is important to us and we are committed to protecting your privacy. If you have any questions or concerns about our Privacy Policy, you may email us at [PrivacyOfficer@sportsmansguide.com](mailto://PrivacyOfficer@sportsmansguide.com?subject=Privacy%20Policy). We welcome your feedback and suggestions to help us improve our policies and practices. This Privacy Policy is only applicable to customers in the United States.
 
+###  What Do You Do With the Information You Collect? 
 
-In order to make you feel comfortable and secure in our online store, The Sportsman's Guide has taken steps to guard your security while making purchases online. The Privacy Statement describes:
+We use personal information to enhance your overall shopping experience by providing you with better customer care. Positive customer identification allows us to contact you and ensure your needs are met and handled appropriately and accurately. All personal information we acquire is provided by each individual customer. 
 
-  * Information Collected
-  * Use of Information
-  * Information Sharing
-  * Aggregate Information
-  * Opting Out
-  * Buyer's Club Program
-  * Sweepstakes Referrals and Tell-A-Friend
-  * Information Disclosure Required by Law
-  * Cookies
-  * Visitor Options
-  * Security
-  * Children
-  * Notification of Change
+###  Will The Sportsman's Guide sell my email address? 
+
+No! The Sportsman's Guide will not sell, trade, share or rent your email address to anyone. We believe that your email address is personal and should be kept that way. We use your email address to provide you with better customer care support, and to update you on Sportsman's Guide Internet specials that you have requested. 
+
+If you purchase from The Sportsman's Guide, we may share your information with third party catalog companies. Your name, address and details about products you have purchased from us could be shared so that you can receive catalog offers for other products that may interest you. If you would not like us to share your information for this intent, please email us or call 1-800-888-5222. 
+
+You can also write us at:  
+The Sportsman's Guide  
+Customer Care  
+PO Box 239  
+South St. Paul, MN 55075-0239  
 
 
+### Benefits You May Receive by allowing us to keep your personal information on hand include:
 
-##  Information Collected
-
-When you visit the Sportsman's Guide website, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, you will undergo a checkout process, during which you will be asked for your shipping and billing addresses, a daytime phone number, your e-mail address, and your credit card number or other payment-related information. When purchasing age-restricted products, you will also be asked for your date of birth. If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your e-mail address. In addition, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited, however that information does not typically contain any personally identifiable information about you. 
-
-##  Use of Information
-
-The information we collect is used to provide the products and services that you have requested or that we think you might have an interest in. It is also used to improve the content of our Web site, to notify you of problems with your requests, or to update you about changes to our Web site. 
-
-##  Information Sharing
-
-In order to operate this Web site and in order to provide you with the products and services you have requested, we occasionally need to share information with third parties. We may transmit your personal information to service providers who assist us in processing orders, shipping products to you, processing your payment information, sending you catalogs, conducting surveys, on and offline sweepstakes, sending you e-mails and newsletters, and helping us decide whether to extend credit to you. We have agreements with these service providers that they will protect your privacy in accordance with our standard Privacy Policy statement. Some of those organizations may have their own Privacy Statements that may give you additional protections, so you are encouraged to read those statements when presented to you. 
-
-We use WebTrends, to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our website. WebTrends only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes. 
-
-##  Aggregate Information
-
-The Sportsman's Guide may also use data to improve marketing and promotional efforts, to statistically analyze site usage, to improve content and product offerings, and to customize site content, layout, and services. Additionally, this data may be shared with third parties on an aggregated basis. 
-
-##  Opting Out
-
-The Sportsman's Guide provides site visitors with the opportunity to opt-out of receiving our online communications. If you would like to opt-out of receiving email communications [click here](https://web.archive.org/net/email/Unsubscribe.aspx). Requests to unsubscribe from email are processed immediately, but you could continue to receive emails, which entered the system prior to processing your request, for up to two days. 
-
-To discontinue the receipt of postal mail, please [click here](https://web.archive.org/net/main/MailUs.aspx) to email Customer Service asking that your name be removed from our postal mailing list. Please note that you may continue to receive mailings, which entered the system prior to processing your request, for up to 12 weeks. Any mailings that you may receive during this time period do not reflect your subscription status, and we ask you to please disregard them. 
-
-##  Buyer's Club Program
-
-When you join the Buyer's Club, you may receive via e-mail and postal mail, information about your Buyer's Club membership, special offers and discounts, terms and conditions that apply to your Club account, as well as various notices required by law. 
-
-##  Sweepstakes Referrals and Tell-A-Friend
-
-If you elect to use the Tell-A-Friend service to inform a friend about a special product on the website or use the Sweepstakes Entry form to enter a referral, you will be asked for a an acquaintence's name and email address. The Sportsman's Guide will automatically send this person a one-time e-mail inviting them to either view the product, in the case of Tell-A-Friend, or register to sign-up for the sweepstakes, in the case of the Sweepstakes Entry. These emails may also contain links promoting other areas of our website. 
-
-##  Information Disclosure Required by Law
-
-If required by law, we may provide any and all information we have about you to law enforcement or other government agencies, pursuant to a subpoena, warrant, or other order by a court of competent jurisdiction. In all cases, we will require written documentation of the request, proof of the identity of the law enforcement official making the request, and we will take steps to authenticate the validity of the request. Any law enforcement or government agency request submitted with less than a court-issued order will be evaluated on a case-by-case basis according to the need and urgency, as well as the particular law enforcement agency making the request. 
-
-##  Cookies
-
-A cookie is a block of text placed in a file on the user's hard drive by a Web site you've visited. These types of cookies cannot identify an individual user specifically, such as by name or address, unless the cookie data is attached to personally identifiable information such as online registration. The Sportsman's Guide uses cookies to observe our site visitor's navigation and track page use. This helps us identify ways to improve the shopping experience. Cookies used for this purpose are not attached to personally identifiable information. 
-
-The Sportsman's Guide also uses cookies to perform functions that must be tied to a specific visitor, such as keeping track of the items in the shopping cart. Cookies serving this purpose are saved for a designated period of time in case the visitor's session expires or they return to complete a purchase within that time frame. 
-
-##  Visitor Options
-
-If you do not want to receive e-mail from us in the future, please let us know by email, by calling, or by writing to us at the above postal address and telling us that you do not want to receive email from our company. 
-
-If you provide us with your e-mail address, you may receive messages about your order status, issues regarding the operations of this Web site, and messages from subsidiaries of The Sportsman's Guide and other companies with operational relationships to The Sportsman's Guide. You may modify your e-mail preferences by [clicking here](https://web.archive.org/net/email/Unsubscribe.aspx) or by calling 1-888-844-0667. 
-
-If you provide us with your postal address, you may receive periodic catalogs from us, or other notices containing information about new products and services. On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Sportsman's Guide family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, we do not share e-mail addresses with any outside organizations for marketing purposes. If you do not wish to receive postal mailings from The Sportsman's Guide, its subsidiaries, or third-party organizations, please let us know by sending an e-mail, calling, or writing to us at the above postal address. Please provide us with your exact name and postal address and state the lists from which you wish to be removed so that we can be sure your information is removed from future mailing lists. 
-
-We will request your telephone number or facsimile (FAX) number, and if you provide it, you may receive telephone or FAX contact from us with information regarding your orders or requests for information. We do not share phone or FAX numbers with third parties for marketing purposes. 
-
-##  Security
-
-The Sportsman's Guide values your business and is committed to doing everything possible to make our online ordering process secure. As always, our 100% satisfaction guarantee applies to any and all purchases from The Sportsman's Guide. 
-
-Any credit card information you enter on our site is strongly encrypted by industry-standard protocol, SSL (Secure Sockets Layer). The Sportsman's Guide website uses SSL to communicate with secure browsers like Netscape and Internet Explorer. These browsers encrypt your credit card and personal information in a way that makes it extremely difficult for anyone to intercept and misuse while being transmitted between your computer and our server. 
-
-Once you have completed your order online, our security procedures do not end. We take appropriate precautions to protect the security and privacy of the information stored on our computer networks. Many of the systems which store your personal information are not connected to the Internet, reducing the likelihood of security breaches. Our systems are also housed in secure facilities, and access to your data by our employees is limited to those in highly specified roles, controlled by password protected systems, and monitored for abuse. 
-
-If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call 1-800-882-2962. Our fax number for orders is 1-800-333-6933. Or, send your order to: The Sportsman's Guide, 411 Farwell Ave, South Saint Paul, MN 55075 
-
-If you have any further question regarding your online security, please [click here](https://web.archive.org/net/main/MailUs.aspx) to e-mail us or contact us by phone at 1-888-844-0667. 
-
-##  Children
-
-In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our Web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
-
-##  Notification of Change
-
-The Sportsman's Guide reserves the right to change this policy at any time. The Sportsman's Guide privacy policy will be kept up-to-date and clearly posted on our web site. 
-
-Questions?
-
-[**More help...**](https://web.archive.org/net/main/Help.aspx "More help...")
-
-E-mail us at: [**custserv@sportsmansguide.com**](mailto:custserv@sportsmansguide.com "custserv@sportsmansguide.com")
-
-Your e-mail address is 100% safe and secure...we will never sell, trade or share it with anyone.  
+  * To process and complete your purchase transactions and provide the services you request
+  * To send you catalogs and other offerings to you via the mail and via e-mail - to identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you in communications you have requested.
+  * To contact you about the status of your orders - you will receive order status updates through e-mail notification, including order and shipping confirmations. You will be able to track the location of your shipment through our online tracking system.
+  * To notify you of product recalls or provide other information concerning products you have purchased.
+  * To provide a Personal Internet Account- you will be identified every time you log in with your personal customer number so in the future you will save time by not having to submit your information again.
+  * To provide invitations to join our Sweepstakes and giveaways.
+  * To provide personalized, knowledgeable customer care - our customer service team will be able to assist you promptly and accurately by identifying you and your preferences.
+  * To improve our merchandise selections, customer service, and overall customer shopping experience
 
 
-Call us at:  1-888-844-0667 (7am-7pm CST, Monday - Friday) 
+
+When you are purchasing age-restricted products you will be asked for your birth date. Whether you choose to provide us with this information is completely voluntary. If, however, you do not choose to provide such information you may not be able to purchase products from us or access certain services and/or portions of our websites. 
+
+We also receive information about you from other companies, including, but not limited to information on your creditworthiness for private label credit card offers and products you may be interested in purchasing. 
+
+###  Can I Opt Out of Receiving Further Communications? 
+
+Yes. You may withdraw your personal information and stop receiving catalogs and/or e-mail communications at any time. To withdraw your information, email us at [custserv@sportsmansguide.com](mailto://custserv@sportsmansguide.com), or write us at
+
+The Sportsman's Guide  
+Customer Care  
+PO Box 239  
+South St. Paul, MN 55075-0239  
+
+
+Catalog: Please make sure to provide us with your exact name and address or the mailing label from your catalog so that we can identify you correctly. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented. Any mailings that you may receive during this time do not reflect your subscription status, and we ask that you please disregard them. 
+
+E-mail: To manage your E-mail Preferences or unsubscribe, [click here](https://web.archive.org/customerservice/emailpreferencessignup). if you choose to be removed from our e-mail specials lists, you will still continue to receive order and confirmation e-mails as well as e-mails relating to your other transactions.
+
+###  How Secure Is My Online Transaction? 
+
+It is very secure. We use highly sophisticated technology to ensure that your shopping experience will be safe and secure. We encrypt your personal information, including your name, address, and credit card number when transmitting over the Internet using Secure Socket Layer (SSL) security software. We constantly update our security procedures and enhance our Site to meet the very latest encryption standards. We retain a third party security firm to audit our procedures to ensure compliance with these standards. All of your sensitive information is scrambled before, during and after your order is placed on our Site. 
+
+PLEASE NOTE THAT NORMAL E-MAIL (SUCH AS USING CONTACT US OR YOUR HOME E-MAIL) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE. 
+
+###  Do you use cookies? 
+
+Yes. We use cookies to enhance your browsing and shopping experience. Cookies are small files or records that we place on your computer’s hard drive to collect information about your activities on our websites. There are absolutely no personally identifiable pieces of information stored anywhere in these files, and they are used solely to enhance your shopping experience, allowing us (i) to speed navigation; (ii) keep track of items in your shopping cart, and provide you with a custom tailored shopping experience; (iii) to monitor the effectiveness of some of our marketing e-mail campaigns; and (iv) to monitor total number of visitors, pages viewed, and the total number of visitors served. 
+
+We use service providers to help gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our Site. These service providers’ only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purpose. 
+
+###  Effective Date and Policy Changes 
+
+We may from time to time make changes to the Privacy Policy to reflect changes in the privacy practices. Accordingly, we reserve the right to revise or modify this Privacy Policy in whole or in part at any time. We will inform you of any update to our Privacy Policy by posting a notice on our Site. The effective date of the updated policy will be the date posted on the notice. The updated policy shall replace any prior policies and will be applicable to all current and past users of the Site. This Privacy Policy was last updated on January 15, 2013. 
