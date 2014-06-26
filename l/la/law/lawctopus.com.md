@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227051931id_/http%3A//www.lawctopus.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165859id_/http%3A//www.lawctopus.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Lawctopus
 
