@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipe.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211005048id_/http%3A//www.recipe.com/recipecom/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipe.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120308id_/http%3A//www.recipe.com/recipecom/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # 
 
