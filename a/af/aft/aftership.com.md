@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807021809id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftership.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031959id_/https%3A//www.aftership.com/privacy) for the most accurate reproduction.*
 
-# AfterShip - Privacy
+# Privacy Policy - AfterShip
 
 Last updated: January 19th, 2012
 
