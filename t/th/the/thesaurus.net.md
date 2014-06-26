@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the thesaurus.net privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820135000id_/http%3A//www.thesaurus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080319id_/http%3A//www.thesaurus.net/privacy-policy) for the most accurate reproduction.*
 
 # Thesaurus | Check Thesaurus Online for Free
 
-Add a Spell Checker to any text box on your web site. Visit www.spellchecker.net for details.
+Add a Spell Checker to any text box on your web site.  
+Visit [www.spellchecker.net](http://www.spellchecker.net/) for details.
+
+## Enter your text below to find synonyms and click here
 
 ## Privacy Policy for [www.thesaurus.net](https://web.archive.org/)
 
