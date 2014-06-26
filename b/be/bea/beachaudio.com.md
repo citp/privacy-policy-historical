@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219072620id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065538id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,14 +17,13 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20131219072620id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20140626065538id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
 We'll be glad to help you with all of your questions and concerns.
 
-> Toll Free Order Line: 877-804-0495   
->  Local: 310-421-0280  
+> Local: 310-421-0280  
 >  Hours: (8am - 5pm PST M-TH, 8am - 12pm PST Fri)  
 >  Product Information: 
 
