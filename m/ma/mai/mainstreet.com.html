@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mainstreet.com privacy policy that was archived on 2013-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119094403id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mainstreet.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626033752id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="http://www.thestreet.com/files/tsc/v2008/ads/overlay/welcome/dates/1-30.html?callback=jsonCallback"></script>
         <title>Privacy Policy | MainStreet</title>
@@ -11,7 +11,74 @@
 <meta name="OBKey" content="IkNgnZUu49g8hAiJCELE+w==">
 <meta name="robots" content="NOODP">
 <meta name="robots" content="NOYDIR">
-        
+        </head><body class="sitePage"><div id="browserWarning" style="font-family:Arial;font-size:14px;background-color:white;width:100%;height:100%;position:fixed;top:0px;left:0px;z-index: 100000000; display:none;">	
+   <div style="background-color:white; width: 100%; float: left; text-align: left;">
+      <div style="background-color:white;">
+         <div style="padding:30px 25px; float: left;">           
+			<a href="http://www.mainstreet.com"><img src="/sites/all/themes/mainstreet/images/mslogo220x64.gif" width="220" height="64" border="0" alt="mainstreet.com"></a>
+         </div>		 
+      </div>
+   </div>
+   <div style="clear:both; float: left; width: 100%; text-align: center;">
+      <div style="height:100%;background-color:white;text-align:center;margin-top:20px;">
+         Your browser is not supported. Please upgrade to one of the following browsers:
+         <br> <br>
+         <a href="http://www.google.com/chrome/?hl=en-US" target="_blank">Google Chrome</a>
+         <br> <br>
+         <a href="http://www.mozilla.com/firefox/?hl=en-US" target="_blank">Mozilla Firefox</a>
+         <br> <br>
+         <a href="http://www.apple.com/safari/?hl=en-US" target="_blank">Apple Safari</a>
+         <br> <br>
+         <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Microsoft
+            Internet Explorer 8+ </a>
+         <br> <br>
+         You may proceed to the site by clicking <a href="javascript:MSBrowserCheck.closeBrowserMessage();" id="closeBrowserDetect">here</a>, however some pages might not work correctly.
+      </div>
+   </div>
+</div>
+<script type="text/javascript">
+  MSBrowserCheck = {
+    browserMessageShown:false,
+	cookieName:"mstbrowsercheck",
+	browserCheckCleared:false,
+	browserCheck: function(){
+	  try {
+	    if(document.cookie.indexOf(MSBrowserCheck.cookieName) == -1) {
+		  var uagent = navigator.userAgent;
+		  if (/MSIE (\d+\.\d+);/.test(uagent)){
+		    var ieversion=new Number(RegExp.$1);
+			if (ieversion < 8 &&  (uagent.indexOf("Trident/") == -1)) {
+			  try {
+			    var el = document.getElementById('browserWarning');
+				el.style.display = 'block';
+				MSBrowserCheck.browserMessageShown = true;
+			  } catch(e) {}
+			} else {
+			  //set the cookie for >=ie10
+			  document.cookie = MSBrowserCheck.cookieName + "=true;path=/;domain=.mainstreet.com;";
+			}
+		  } else {
+		    //set the cookie for other browsers
+			document.cookie = MSBrowserCheck.cookieName + "=true;path=/;domain=.mainstreet.com;";
+		  }
+		}
+	  }catch(e){}
+	},
+	
+	closeBrowserMessage:function(evt){
+	  try {
+	    //message has been seen and acknowleged. Set cookie
+		document.cookie = MSBrowserCheck.cookieName + "=true;path=/;domain=.mainstreet.com;";
+		var el = document.getElementById('browserWarning');
+		el.style.display = 'none';
+		MSBrowserCheck.browserMessageShown = false;
+		MSBrowserCheck.browserCheckCleared = true;
+		MSWelcomOverlay.init();
+	  } catch(e){}
+	}
+  } // EOF MSBrowserCheck
+  MSBrowserCheck.browserCheck();
+</script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/global.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jquery/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jquery/jquery.tools.min.js"></script>
@@ -25,6 +92,7 @@
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/yui/cookie/cookie-min.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jsvalidate.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/swfobject.js"></script>
+<script type="text/javascript" src="/sites/all/themes/mainstreet/js/watchlist.js"></script>
 
 <style type="text/css">
     @import url(/sites/all/themes/mainstreet/css/toolRealtor.css);
@@ -56,9 +124,10 @@ MS.localInit = function() {
         <script type="text/javascript">
 	     var disqus_developer = false;
         </script>
-        		  <script src="//www.googletagservices.com/tag/js/gpt.js"></script>    </head>
+        		  <script src="//www.googletagservices.com/tag/js/gpt.js"></script>      
+    
 
-    <body class="sitePage">
+    
     <!-- Google Tag Manager -->
 	 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJQS"
 	 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -72,11 +141,11 @@ MS.localInit = function() {
     <div style="background-color:white; width: 100%; float: left; text-align: left; border-bottom: 1px solid #dbdbdb;">
         <div style="border-bottom: 1px solid #dbdbdb; background-color:white;">
             <div style="padding:10px 15px; float: left;">
-                <a href="http://www.mainstreet.com"><img src="/sites/all/themes/mainstreet/images/mslogo220x64.gif" width="220" height="64" border="0" alt="mainstreet.com"></a>
+                <a href="http://www.mainstreet.com"><img src="/sites/all/themes/mainstreet/images/mslogo220x64.gif" width="220" height="42" border="0" alt="mainstreet.com"></a>
 
-                <div style="padding-bottom:10px;padding-top:25px;font-family:Arial;font-size:18px;width:600px;">
+                <div style="padding-bottom:10px;padding-top:10px;font-family:Arial;font-size:16px;width:600px;">
                     <strong>This Day On The Street:</strong><br>
-                    <div style="padding-top:7px;height:70px " id="fact"></div>
+                    <div style="padding-top:7px;height:40px " id="fact"></div>
 
                 </div><!-- end of div-gpt-ad-overlay -->
             </div>
@@ -87,7 +156,7 @@ MS.localInit = function() {
     </div>
     <div style="border-top: 3px solid #7f7f7f; clear: both; float: left; width: 100%; text-align: center;">
         <div style="height:100%;background-color:black;text-align:center;">
-            <div style="padding:20px 0 15px;font-weight:bold;color:white; font-size: 13px; display: block;">ADVERTISEMENT</div>
+            <div style="padding:7px 0;font-weight:bold;color:white; font-size: 13px; display: block;">ADVERTISEMENT</div>
 
             <div id="div-gpt-ad-welcome" data-cb-ad-id="div-gpt-ad-welcome">
 
@@ -236,7 +305,10 @@ MS.localInit = function() {
             return false;
         }
     }
-    MSWelcomOverlay.init();
+    // SWAT-7431 Display overlay for IE version 8 and above and other browsers
+	if(typeof MSBrowserCheck == "undefined" || typeof MSBrowserCheck.browserMessageShown == "undefined" || !MSBrowserCheck.browserMessageShown) {
+	  MSWelcomOverlay.init();
+	}
 </script>        <div id="msFooterTop"><div id="footer-message">
  <div id="footer-message-block"> 
  </div>	
@@ -265,6 +337,7 @@ ms_oReport["events"] = '';
 ms_oReport["pageType"] = '';
 ms_oReport["printedPages"] = '';
 ms_oReport["sectionFront"] = '';
+ms_oReport["nid"] = '';
 
 ms_oReport["puc"] = TSC.util.getPuc();
 
@@ -356,7 +429,7 @@ ms_oReport["puc"] = TSC.util.getPuc();
 <a href="/hottopics/wheels">wheels</a> &nbsp; |&nbsp; 
 <a href="/hottopics/unemployment">unemployment</a> &nbsp; |&nbsp; 
 <a href="/hottopics/taxes">taxes</a> &nbsp; |&nbsp; 
-<a href="/hottopics/politics">politics</a> &nbsp; |&nbsp; 
+<a href="/hottopics/marijuana">Marijuana</a> &nbsp; |&nbsp; 
 <a href="/hottopics/managing+debt">managing debt</a> &nbsp; |&nbsp; 
 <a href="/hottopics/careers">careers</a> &nbsp; |&nbsp; 
 
@@ -451,7 +524,7 @@ google_ad_height = 280;
                 </div><!-- /leftCol -->
 
                  
-<div id="rightCol">	
+<div id="rightCol">
     <img class="topImg first" src="/sites/all/themes/mainstreet/images/rightCol_topbg.gif" alt=""><div class="adBlock clearFix">
 <script type="text/javascript">MS.ads.drawAd('right', false);</script>
 </div><!-- /adBlockNext --><img class="btmImg" src="/sites/all/themes/mainstreet/images/rightCol_btmbg.gif" alt="">
@@ -483,7 +556,7 @@ google_ad_height = 280;
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=1854789538559087.2?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=9628097877275750?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
         <!-- end ad tag_1 -->
     </td></tr>
 
@@ -494,7 +567,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=1293911620661743?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=8118381976798152?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
           <!-- end ad tag_3 -->
           </td></tr>
           <tr><td align="center" valign="middle">
@@ -504,7 +577,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=4455029359011651?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=3162303448808470?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
           <!-- end ad tag_4 -->
           </td></tr>
           </tbody></table>
@@ -568,8 +641,24 @@ google_ad_height = 250;
 </div><!-- /adBlockNext --><img class="btmImg" src="/sites/all/themes/mainstreet/images/rightCol_btmbg.gif" alt="">
 
 </div><!-- /rightCol -->
- 
-            </div><!-- /mainPage -->
+                 <!-- SWAT-7884: only include the js after the last placement on the page. No need for multiple calls to the same js file..  -->                
+                <script type="text/javascript">
+                  if (navigator.userAgent.match(/iPad/i)){
+                    try{
+                      var obft=document.getElementById("outbraincontent");
+                      obft.setAttribute("data-widget-id","MB_2"); //this is the tablet(ipad) implementation id.
+                      var obrr=document.getElementById("outbraincontentRightRail");
+                      while(obrr.firstChild) {obrr.removeChild(obrr.firstChild)};
+                      obrr.parentNode.removeChild(obrr);
+                    }catch(e){};
+                    }
+                    var obscript = document.createElement("script");
+                    obscript.type  = "text/javascript";
+                    obscript.src = "http://widgets.outbrain.com/outbrain.js";
+                    document.body.appendChild(obscript);
+                </script>
+                
+            </div><!-- /mainPage -->            
 
             
 
@@ -633,7 +722,7 @@ COMSCORE.beacon({
         <label>Last Name:</label><input type="text" name="txtLName" value="Enter Last Name" maxlength="50"><br>
         <label>Email:</label><input type="text" name="txtEmail" value="Enter Email" maxlength="50" title="Enter valid email"><br>
         <button type="submit"> OK </button> <button type="button" class="close"> Cancel </button>
-    </form></div>        </div><!-- /container -->
+    </form></div>        </div><script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script><!-- /container -->
 
         <div id="bottom-border">&nbsp;</div>
         <div id="msFooter"></div>
