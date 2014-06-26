@@ -1,101 +1,164 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125140355id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041941id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pizza Hut Australia
 
-**PIZZA HUT AUSTRALIA**  
-A division of Yum! Restaurants Australia Pty Limited A.B.N. 16 000 674 993
+**PIZZA HUT AUSTRALIA**
 
-PIZZA HUT is committed to the protection of your personal information. PIZZA HUT has developed its own privacy policy, which is based on the National Privacy Principles in the Privacy Act 1988. 
+Yum! Restaurants Australia Pty Limited (ABN 16 000 674 993) and Pizza Adco Limited (ACN 085 270 640) (collectively referred to as “Pizza Hut”, “we”, “us” or “our”) are committed to protecting the privacy of personal information in accordance with Australian privacy laws. This Privacy Policy sets out Pizza Hut’s approach to handling personal information and includes information on how we collect, use, disclose and keep secure your personal information, whether provided to us via our stores, customer service centres, this website or other means.
 
-This Policy covers all personal information that we hold and includes information we have collected through our outlets, over the phone through our customer service centres and over the internet through our web sites. This Policy also covers personal information that we have sourced from third parties.
+We may, from time to time, review and update this Privacy Policy so please check this website periodically to stay informed of any updates. All personal information collected and held by us will be governed by the most recently updated Privacy Policy.
 
- **Collection**
+**1\. Collection of personal information by Pizza Hut**
 
-PIZZA HUT will only collect personal information that is necessary for one or more of its functions or activities.
+We will only collect personal information from you that we reasonably require for one or more of our business functions or activities, and will do so by lawful and fair means.
 
-PIZZA HUT will only collect personal information by lawful and fair means and will let you know where and how to contact us.
+The kinds of personal information we may collect from you will depend on what type of interaction you have with us. However, it may include, among other things: 
 
-If it is reasonable and practicable to do so, PIZZA HUT will collect personal information only from you. Where PIZZA HUT collects personal information about you from someone else, PIZZA HUT will take reasonable steps to advise you as soon as practicable.
+  * Personal information you provide to us when you participate in a promotion, competition, promotional activity, survey, market research or customer behavioural activity, subscribe to our mailing list or interact or follow our social media pages like Facebook, Twitter and Instagram. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age and occupation; 
+  * Personal information you provide to us via our stores or customer services centres or when you place an order in store, by telephone or via our mobile or electronic ordering system. This information may include, for example, your name, postal address, email address, telephone number, date of birth, age, menu preferences and previous order information, IP address and credit card details; 
+  * If you are applying for a position with Pizza Hut, we will collect information as outlined in the section below entitled “Employment Applications”; 
+  * If you are applying to become a Pizza Hut franchisee, we will collect information as outlined in the section below entitled “Franchise Applications”. 
 
-PIZZA HUT will not collect sensitive information about you unless you have consented to such collection or the collection is required by law. 
 
-Where you choose not to provide requested information, PIZZA HUT will advise you of what impact such non-disclosure may have.
 
- **Collection using this web site**
+In some circumstances, we may collect personal information from third parties such as credit reporting agencies or our marketing agencies. Where we do, we will ensure that we act in accordance with relevant Australian laws. 
 
-When you use this web site PIZZA HUT collects personal information, which you provide, to us and information about how you use our web site, for example by registering, making a purchase or posting original content to our site. This information includes your name, home or work address, phone number, e-mail contact and information about the products and services, which interest you. If you contact us, we may also keep a record of that contact. 
+With the exception of when you apply for a position with Pizza Hut or to become a franchisee, we will not collect sensitive information about you (such as information about your racial or ethnic origins or political or religious beliefs) unless you have consented to such collection or the collection is required by law. 
 
-**Use**
+**2\. Where your personal information is stored**
 
-PIZZA HUT may use your personal information to:
+Where we store your personal information depends on what interaction you have had with us. However, some areas may include: 
 
-(a) process your orders for our products or services that you place with our Call Centres, web sites, directly with one of our outlets or any other representative of PIZZA HUT;
+  * Databases for processing customer orders, enquiries or feedback; or 
+  * Email or SMS databases for marketing communications. 
 
-(b) market (by PIZZA HUT or any of its franchisees) our products and services which may be of interest to you, unless you inform us not to do so;
 
-(c) administer and deal with any issues you raise with us regarding any of our products or services;
 
-(d) analyse products and customer services and develop new products; and
+**3\. How your personal information is stored**
 
-(e) facilitate PIZZA HUT’s internal business operations, including fulfilment of any legal requirements.
+We take reasonable steps to protect your personal information from loss or unauthorised access. Unfortunately no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although we strive to protect such information, we do not warrant the security of any information you transmit to us or from our online services and you use these services at your own risk. 
 
-We also use your IP address to help diagnose problems with our server, and to administer our web site. Your IP address is used to help identify you and to gather broad demographic information about you. 
+If a substantial data breach has or may have occurred (for example, your personal information was shared with unauthorised persons) we will notify you as soon as is practicable and the Office of the Australian Information Commissioner about that actual or possible breach. 
 
-**Disclosure**
+We only keep your personal information for as long as it is required for the purpose for which it was collected or as otherwise required by law. We will take appropriate measures to destroy or permanently de-identity your personal information if we no longer need to retain it. These measures may vary depending on the type of information concerned, the way it was collected and how it was stored. 
 
-PIZZA HUT may disclose your personal information:
+**4\. How your personal information will be used**
 
-(a) to our agents, contractors or third party service providers that supply products or services to PIZZA HUT for the purpose of PIZZA HUT’s business. For example, your name, address and telephone number may be disclosed to a third party supplier of products or services that relate directly to a complaint that you have made about any of our products or services;
+We collect your personal information so that we can use it for our functions and activities and provide products and services to you, which include, among other things: 
 
-(b) to our franchisees, where the information relates to the PIZZA HUT franchise operated by the franchisee;
+  * processing meal orders you place with us in store or via our electronic or mobile ordering system, providing you with email or SMS confirmation of your meal orders, providing you with our products and services and processing meal refunds where applicable; 
+  * administering and responding to your enquiry or feedback about our products and/or services; 
+  * conducting, and allowing you to participate in, a promotion, competition, promotional activity, survey, market research or customer behavioural activity; 
+  * promoting and marketing our current and future products and services to you, informing you of upcoming events and special promotions and offers and analysing our products and services so as to improve and develop new products and services; 
+  * assisting you with remembering and re-ordering from our menu in future; 
+  * administering and conducting traineeships; 
+  * facilitating our internal business operations, including fulfilment of any legal and regulatory requirements; 
+  * improving the operation or navigation of our websites; 
+  * processing and considering your employment application and conducting reference checks (refer to Employment Application section below); 
+  * providing information that you request about our franchises and processing and considering your franchise application and conducting record checks (refer to Franchise Application section below). 
 
-(c) where the law requires PIZZA HUT to do so; or
 
-(d) if you consent.
 
-Personal Information may be disclosed under other circumstances where permitted by the Privacy Act.
+We may also use your personal information for other purposes not listed above which will be made clear to you at the time we collect your personal information, or for such purposes as may be required or permitted by law. 
 
-In the course of our business activities, PIZZA HUT may need to disclose some of your personal information to relevant business partners.
+**5\. Disclosure of personal information to third parties**
 
- **Opt-in**
+We may disclose personal information we collect from you: 
 
-We provide you with choice as to whether we send you information about special products and services in the future, and whether information is sent by our franchisees, agents or third party service providers. You may also change this choice in the future by contacting us with this request, although it may also be necessary to contact any other organisations which have obtained your information to indicate your choice at this stage. 
+  * to our related companies, suppliers, consultants, contractors or agents for the purposes set out in the section above entitled “How your personal information will be used” or for other purposes directly related to the purpose for which the personal information is collected. For example, your name and telephone number may be disclosed to our supplier to enable that supplier to respond to your request for information about a particular product it produces; 
+  * to relevant Federal, State, Territory food safety authorities and health authorities for the purpose of investigating a food safety or health issue; 
+  * to Federal and State educational training institutions for the purpose of conducting retail training and receiving funding for such training; 
+  * to Pizza Hut franchisees, including those located in Australia and New Zealand if you have made a enquiry or complaint relating to a store that is owned and operated by one of our franchisees; 
+  * where the law requires or authorises us to do so; 
+  * to others that you have been informed of at the time any personal information is collected from you; 
+  * with your consent (express or implied) to others. 
 
-**Cookies**
 
-Cookies are pieces of information that a web site transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. Our site uses cookies to keep track of what you have purchased. We also use cookies to deliver content specific to your interests, to save your password so you do not have to re-enter it each time you visit this web site, and for other purposes relating to your transactions on this web site. Cookies also help us estimate our number of users and determine overall traffic patterns through this web site. If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this may mean you will not be able to order pizzas or take full advantage of PIZZA HUT's services. 
 
-We may also use other technologies such as web bugs to help us collect information about your usage of our web site. Any information we collect is subject to our Privacy Policy. 
+Such disclosure may include the transfer of your personal information to our franchisees in New Zealand or to our related companies in the United States of America. 
 
-**Data quality**
+**6\. Opting in or out**
 
-PIZZA HUT will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up‑to‑date.
+At the point we collect information from you, you may be asked to “opt in” to consent to us using or disclosing your personal information. You will generally be given the opportunity to “opt out” from receiving communications from us. You may “opt out” from receiving these communications by clicking on an unsubscribe link at the end of an email or by contacting us with this request. 
 
- **Data security**
+**7\. Employment Applications**
 
-PIZZA HUT will take reasonable steps to:
+Generally, the type of personal information we collect about applicants is the information included in your application for employment, for example, your name, postal address, telephone number, email address, education details, employment history and other information relating to your work experience.
 
-(a) protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure; and
+In considering your application, we may also obtain personal information about you from third parties, for example, from your previous employers or nominated referees. Subject to your consent, we may also collect sensitive information about you such as information about your health (including any disability) or any criminal record you may have. 
 
-(b) destroy or permanently de‑identify personal information if it is no longer needed for any purpose.
+We collect personal information for any one or more of the following purposes: 
 
- **Access and correction**
+  * assessing you for a position with us or one of our related entities; 
+  * assessing whether you are suitable to progress to each stage of the recruitment process for a vacant position; 
+  * storing your information for future employment opportunities. 
 
-You are entitled, at any time, to request access to your personal information held by PIZZA HUT and to ask us to change any details that may be incorrect or out of date. PIZZA HUT may charge you the reasonable costs of providing you with copies of the information that you have requested. Your request to provide access to this information will be dealt with in a reasonable time.
 
- **Privacy Policy**
 
-This Policy will be reviewed from time to time and any amendments will be incorporated in the updated Policy. The updated Policy will be posted on this web site. Your continued use of this web site indicates your acceptance of the Policy in place at this time.
+If you do not provide us with the information we request, we will be unable to do one or more of the above. 
 
- **Privacy Queries**
+We may disclose your information to:
 
-All queries regarding our Privacy Policy should be directed to 
+  * referees or previous employers; 
+  * recruitment agencies or agencies or contractors acting on our behalf; 
+  * our related entities; 
+  * law enforcement agencies to verify whether you have a criminal record; 
+  * educational organisations to the extent necessary to verify your qualifications. 
 
-The Privacy Officer   
-Yum! Restaurants International
 
-20 Rodborough Road  
-Frenchs Forest NSW 2086  
-Telephone: (02) 9930 3000  
-Facsimile: (02) 9930 3001  
-Email: [PHprivacyofficeraus@yum.com](mailto:PHprivacyofficerAUS@yum.com)
+
+If we engage third party contractors to perform services for us which involves handling personal information, we will take reasonable steps to prevent the contractor from using the personal information except for the purpose for which it was supplied. 
+
+**8\. Franchise Applications**
+
+Generally, the type of information we collect about franchise applicants is the information included on the Pizza Hut Australia Franchise Application Form, for example, your name, postal address, telephone number, email address, education details, residency status, employment history, financial capacity and other information relating to your qualifications and experience. 
+
+In considering your application, we may also obtain personal information about you from third parties, for example, from your previous employers or nominated referees. Subject to your consent, we may also collect sensitive information about you such as information about any criminal record you may have or your membership of any professional or trade association. 
+
+We collect personal information for any one or more of the following purposes: 
+
+  * assessing your application to become a Pizza Hut franchisee; 
+  * assessing whether you are suitable to progress to each stage of the Pizza Hut franchise recruitment process; 
+  * storing your information for future Pizza Hut franchise opportunities. 
+
+
+
+If you do not provide us with the information we request, we will be unable to do one or more of the above. 
+
+We may disclose your information to: 
+
+  * referees or previous employers; 
+  * our related entities; 
+  * law enforcement agencies to verify whether you have a criminal record; or 
+  * educational organisations to the extent necessary to verify your qualifications. 
+
+
+
+If we engage third party contractors to perform services for us which involves handling personal information, we will take reasonable steps to prevent the contractor from using the personal information except for the purpose for which it was supplied. 
+
+**9\. Cookies**
+
+Cookies are pieces of information that our web server may send to your computer’s hard disk when you visit our website. Cookies can facilitate your ongoing access to and use of this website. They allow us to track usage patterns and to compile data that can assist us improve our content, products, services and target advertising. If you do not want information collected through the use of cookies, your browser may allow you to deny or accept the cookie feature. However, certain features of this website may not work without cookies and this may limit the services provided by our website. 
+
+We also use your IP address to help diagnose any problems with our server and administer our website. Your IP address is used to help identify you and to gather broad demographic information about you. 
+
+**10\. Third party websites**
+
+We may offer links to websites that are operated by third parties. If you visit one of these linked websites, you should review their privacy and other policies. We are not responsible for the policies and practices of third parties. 
+
+**11\. Access and Correction of your Personal Information**
+
+You may, at any time, request access and correction to any personal information we hold about you by contacting us (refer to Privacy Queries section below). If you make an access request, we may ask you to verify your identity and put your request in writing for security reasons. We may charge a reasonable administration fee to cover the costs of meeting your request. 
+
+**12\. Privacy Queries**
+
+If you have any questions or complaints about how we handle your personal information or a breach of the Australian Privacy Principles, please contact us at: 
+
+The Privacy Officer, Pizza Hut (SOPAC)  
+Yum! Restaurants International   
+20 Rodborough Road Frenchs Forest NSW 2086  
+Telephone: (02) 9930 3000 (9.00am to 5.00pm, Monday to Friday)  
+Facsimile: (02) 9930 3001   
+Email: PHprivacyofficeraus@yum.com 
+
+Our Privacy Officer will consider your question or complaint and respond to you in a reasonable timeframe. 
