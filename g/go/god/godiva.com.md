@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106190917id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153348id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Privacy Policy**
 
 This website ("Godiva.com") is owned and operated by Godiva Chocolatier, Inc. Godiva recognizes the importance of maintaining the privacy of our customers ("Customers"), registered account holders and loyalty club members ("Members") and other website users (collectively "Users"). We have posted this privacy policy ("Policy") to describe our practices regarding the collection and use of information from Users. 
 
@@ -8,7 +10,7 @@ This Policy was last amended on 7/1/13. We may update this Policy from time to t
 
 Note: You must be 18 years or older to register as a Member or use Godiva.com.
 
-### 1\. WHAT INFORMATION WE COLLECT
+**1\. WHAT INFORMATION WE COLLECT**
 
 We collect the following information about you in various ways, including when you register an account, enroll in a loyalty card club, make purchases, and when you visit our website or social media sites:
 
@@ -26,7 +28,7 @@ We collect the following information about you in various ways, including when y
 
 
 
-### 2\. HOW WE USE INFORMATION WE COLLECT
+**2\. HOW WE USE INFORMATION WE COLLECT**
 
 We use the information you supply for the purpose of providing the services you have requested and as described in this Policy. The email address you provide is used for internal purposes, such as confirming and tracking your order. In addition, Godiva may contact you via email or regular mail to keep you up-to-date on the latest Godiva.com news or to send you our latest catalog. Also, we may rent, share, sell or exchange your email or postal address with third parties, who may contact you regarding their products or services that we think may be of interest to you. If you would like to opt out of receiving mailings from Godiva or our third parties, please visit 
 
@@ -38,7 +40,7 @@ We use the information you supply for the purpose of providing the services you 
 
 In certain instances we may disclose your personally identifiable information when we have reason to believe that it is necessary to enforce this Policy, the terms of use that govern Godiva.com, to otherwise manage our business, or to bring legal action against persons or entities who may be causing injury to you, Godiva or others. We may also disclose your personally identifiable information when we believe the law requires it. In the event of a merger, consolidation or sale or transfer of our company or its assets, it is possible that User information collected will be transferred to the purchaser or the new company. 
 
-### 3\. COOKIES, WEB BEACONS AND JAVASCRIPT
+**3\. COOKIES, WEB BEACONS AND JAVASCRIPT**
 
 Godiva uses automatic tracking technologies, including "cookies" and clear gifs (or “web beacons”). These small files are sent to your browser from a web server and stored on your computer's hard drive. Godiva, and service providers acting on our behalf, may place cookies and web beacons on your computer for the purpose of understanding how Users utilize Godiva.com, to track purchases and other website information, and to help measure the effectiveness of our marketing and promotional campaigns. Web beacons may be used to provide data to third parties for tracking purposes. Cookies also allow Members to save time during checkout in return visits. We may also use our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by Godiva, 
 
@@ -52,21 +54,21 @@ page. Note that if you delete your cookies, use a different browser, or buy a ne
 
 Users must have JavaScript enabled in order for Godiva.com to function properly.  
 
-### 4\. SWEEPSTAKES/PROMOTIONS
+**4\. SWEEPSTAKES/PROMOTIONS**
 
 Godiva.com sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to enter electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner) and for any other purpose for which we might use information about you collected through this website. In the promotions sponsored by third parties, information you submit to enter those promotions may be shared with the third-party sponsor and then used by the sponsor in accordance with any contest rules and its privacy policy.
 
-### 5\. MARKET RESEARCH
+**5\. MARKET RESEARCH**
 
 From time to time, Godiva may also contact you via email, postal mail, text message, or phone to conduct questionnaires and surveys. Survey information is treated like all of the information we collect.
 
-### 6\. ACCESS TO & CHOICES ABOUT YOUR INFORMATION
+**6\. ACCESS TO & CHOICES ABOUT YOUR INFORMATION**
 
 You may choose to: (1) stop receiving promotional materials by mail, phone, or email; (2) update or correct your personal information; and (3) cancel your Loyalty Membership; or (4) disable your account. To carry out any of these choices:
 
 • A Member can access, review and/or correct all of their personally identifiable information that was provided to us online by logging into their 
 
-_[Account](http://www.godiva.com/on/demandware.store/Sites-Godiva-Site/default/Account-Show)_
+_[Account](http://www.godiva.com/sign-in)_
 
 and accessing the My Profile section.
 
@@ -94,7 +96,7 @@ page. Please note that removal from our postal lists may take up to 6 to 8 weeks
 
 or write to us at Customer Care, Godiva Chocolatier, Inc., 139 Mill Rock Road East, Old Saybrook, CT 06475. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will make the changes you request or provide an explanation of what actions we will be able to make in response to your request.  
 
-### 7\. YOUR CALIFORNIA/RHODE ISLAND PRIVACY RIGHTS
+**7\. YOUR CALIFORNIA/RHODE ISLAND PRIVACY RIGHTS**
 
 Godiva may disclose your personal information to third parties for their use in marketing to you unless you tell us not to. In order to opt out of our third party mailings, please email us at _[letters@godiva.com](mailto:letters@godiva.com)_ or write to us at Customer Care, Godiva Chocolatier, Inc., 139 Mill Rock Road East, Old Saybrook, CT 06475.
 
@@ -102,20 +104,20 @@ Godiva may disclose your personal information to third parties for their use in 
 
 Godiva offers Users live customer service assistance. Information you provide during a call may be used to assist with your inquiry, as well as for any purpose permitted under the Policy. Calls may be recorded for quality assurance and training purposes.
 
-### 9\. THIRD PARTY SERVICE PROVIDERS
+**9\. THIRD PARTY SERVICE PROVIDERS**
 
 Godiva sometimes employs other companies and individuals to perform services for us. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. We may share your personally identifiable information with these parties, who have agreed to hold this information in confidence, not use it for any purpose except to carry out the requested service, and honor Godiva's privacy and security policies in the way this information is handled.
 
-### 10\. SECURITY
+**10\. SECURITY**
 
 Godiva takes your privacy and security seriously. For this reason we work to establish technical, administrative, and physical security measures to protect against unauthorized access or use of personal information. We cannot, however, guarantee the security of any information you send to us and you do so at your own risk.
 
 Members are responsible for maintaining the confidentiality of their password and account. Members are responsible for activities that occur under their account and should immediately notify Godiva of any unauthorized use of their account. 
 
-### 11\. OTHER SITES
+**11\. OTHER SITES**
 
 This website may contain links to websites operated by other companies. Godiva is not responsible for the policies and practices of those third party sites. You should check the applicable privacy policies of the other sites you visit. 
 
-### 12\. CONTACTING GODIVA
+**12\. CONTACTING GODIVA**
 
 If you have any questions about our Policy, you can e-mail us at _[letters@godiva.com](mailto:letters@godiva.com)_ or contact us by mail at Godiva Chocolatier, Inc., 139 Mill Rock Road East, Old Saybrook, CT 06475. We'll be happy to answer your questions or hear your concerns.
