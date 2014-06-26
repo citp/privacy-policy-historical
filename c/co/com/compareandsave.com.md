@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918004725id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124448id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | compareandsave.com
 
@@ -79,6 +79,10 @@ We may contact you:
   * To provide un-personalised aggregated data about our users to current and potential advertisers.
 
 
+
+**De-registration and un-subscribing from emails**
+
+You may at any time deregister from compareandsave.com email by emailing _optout@freedommarketing.co.uk_. The consequences of deregistration are that your email will be placed in a suppression file and you will not receive any further email communications from Freedom Marketing Ltd.
 
 ##  5\. Disclosing Information
 
