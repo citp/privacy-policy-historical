@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2013-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201103444id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stardock.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626153649id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -55,222 +55,294 @@
 <link href="/css/style_metro.css" rel="stylesheet" type="text/css">
 	<link href="/products/css/style_product_metro.css" rel="stylesheet" type="text/css">
 	<link href="/css/about_metro.css" rel="stylesheet" type="text/css">
+	<link href="/css/style_shared.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
-	.site_nav a.about_link{
-			color:#555;
-		}
 	.underline {
 			border: 0;
 		}
-		</style>
+	table a:link, table a:visited {
+		color: #000;
+	}
+	</style>
 </head>
 <body>
 
-<div class="PageContent"><div class="ShadowTop"></div><div class="ShadowLeft"></div><div class="ShadowRight"></div><div class="ShadowBottom"></div>
+<div class="PageContent" style="height: 100%">
 
 
+	<!--[if lt IE 9]>
+		<script src="/js/html5shiv.min.js"></script>
+	<![endif]-->
+	<header>
+		<section class="header_container">
+			<a href="http://www.stardock.com/?from=header"><img alt="Stardock" border="0" src="/images/header/sdlogo.png"></a>
+		</section>
+		<nav role="navigation">
+			<section class="nav_container">
+				<ul>
+					<li class="subnav ">
+						<ul>
+							<li class="division"><a href="http://www.stardock.com/products">Software</a></li>
+							
+						</ul>
+					</li>
+					<li><a href="http://www.stardock.com/games">Games</a></li>
+					<li><a href="https://store.stardock.com">Store</a></li>
+					<li><a href="http://forums.stardock.com">Forums</a></li>
+					<li><a href="https://store.stardock.com/myaccount">My Account</a></li>
+					<li class="search">
+						<form method="get" action="http://www.stardock.com/search.asp" class="search">
+							<input type="hidden" name="cx" value="000252501301640439162:lsdbilb-yow" id="Hidden1">
+							<input type="hidden" name="cof" value="FORID:11" id="Hidden2">
+							<input type="text" id="search" name="q" value="Looking for something specific?">
+							<a href="http://www.stardock.com/search.asp" id="mag_submit">
+								<img src="/images/header/search-magnifier.png" border="0" alt="Search">
+							</a>
+						</form>
+					</li>
+				</ul>
+			</section>
+		</nav> 
+	</header>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			HandleShadow();
+			InitClickEvents();
+	
+			// Search box events
+			$('form.search #search').focus( function() {
+				if( $(this).val() == "Looking for something specific?" ) {
+					$(this).attr('value', '');
+				}
+			}).blur( function() {
+				if( $(this).val() == '' ) {
+					$(this).attr('value', "Looking for something specific?");
+				}
+			});
+			$('#mag_submit').on('click', function(e) {
+				e.preventDefault();
+				$('form.search').submit();
+			});
 
-	<!-- START HEADER -->
-		<div class="header">
-			<a href="http://www.stardock.com/?from=header"><img src="http://www.stardock.com/images/stardock-logo.png" alt="Stardock.com" border="0"></a>
-			<a class="account" href="https://store.stardock.com/myaccount">Login</a>
-		</div>
-		<!-- END HEADER -->
-
-<!-- START SITE NAV -->
-		<div class="site_nav">
-			<ul>
-				<li class="site_sel_text">
-					Software
-					<div class="dropdown transparent">
-						<a href="/products/?from=nav">For Individuals</a>
-						<a href="/corporatesolutions/?from=nav">For Businesses</a>
-					</div>
-				</li>
-				<li>|</li>
-				<li><a href="http://www.stardock.com/games/?from=nav" class="games_link">Games</a></li>
-				<li>|</li>
-				<li><a href="http://forums.stardock.com" class="forums_link">Forums</a></li>
-				<li>|</li>
-				<li><a href="http://www.stardock.com/support/?from=nav" class="support_link">Support</a></li>
-				<li>|</li>
-				<li><a href="https://store.stardock.com/" class="Store_link">Store</a></li>
-			</ul>
-			<form method="get" action="http://www.stardock.com/search.asp" class="search_form" id="search_form">
-				<input type="hidden" name="cx" value="000252501301640439162:lsdbilb-yow" id="Hidden1"><input type="hidden" name="cof" value="FORID:11" id="Hidden2">
-				<input type="text" id="search" name="q" value="Looking for something specific?">
-				<a href="http://www.stardock.com/search.asp" id="mag_submit"><img src="/images/search-magnifier.png" border="0" alt="Search"></a>
-			</form>
-			<script type="text/javascript">
-				$(document).ready(function(){
+			// Underline current page in subnav
+			if ($('li.subnav ul li a[href$="' + location.pathname + '"]').length > 0) {
+				$('li.subnav ul li a[href$="' + location.pathname + '"]').addClass('active');
+			} else {
+				$('li.subnav.product a[href^="' + location.href + '"]').first().addClass('active');
+			}
 			
-					$('#search').focus( function() {
-						if( $(this).val() == "Looking for something specific?" ) {
-							$(this).attr('value', '');
-						}
-					});
-					$('#search').blur( function() {
-						if( $(this).val() == '' ) {
-							$(this).attr('value', "Looking for something specific?");
-						}
-					});
-					$('#search_form').submit(function(){
-						if($('#search').val().length <= 0){
-							return false;
-						}
-					});
-				});
-			</script>
-		</div>
-		<!-- END SITE NAV -->
+			// Add 'active' class to li.subnav if on software page
+			$('li.division a.active').closest('li.subnav').addClass('active');
+			
+			// Set link as active if scrolled down to that part of the page on load
+			$('li.subnav.product a[href$="' + location.hash + '"]').addClass('active');
+		});
 		
+		function HandleShadow() {
+			// show shadow under nav if scrolled down the page
+			if ($(document).scrollTop() > 0) {
+				$('header').css('behavior', "url('/js/PIE/PIE.htc')")
+						   .css('box-shadow', '#7f7f7f 0px 2px 3px')
+						   .css('-webkit-box-shadow', '#7f7f7f 0px 2px 3px')
+						   .css('-moz-box-shadow', '#7f7f7f 0px 2px 3px');
+			} else {
+				$('header').css('box-shadow', 'none')
+						   .css('-webkit-box-shadow', 'none')
+						   .css('-moz-box-shadow', 'none');
+			}
+		}
+		
+		function InitClickEvents() {
+			$('li.subnav.product a').on('click', function (event) {
+	
+				// only smooth scroll down if it's a hash link
+				if ( $(this.hash).length == 0 )
+					return;
+
+				event.preventDefault();
+				
+				// calculate destination place
+				var dest = -100;
+				if ($(this.hash).offset().top > $(document).height() - $(window).height()) {
+					dest += $(document).height() - $(window).height();
+				} else {
+					dest += $(this.hash).offset().top;
+				}
+				
+				// go to destination
+				$('html,body').animate({ scrollTop: dest }, 500, 'swing');
+				
+				// remove active flag from all links
+				$('li.subnav.product a').removeClass('active');
+				
+				// set clicked link as active
+				$(this).addClass('active');
+			});
+		}
+		// Check if shadow should be applied on scroll
+		$(window).scroll(function () {
+			HandleShadow();
+		});
+		$(window).load(function() {
+			// Scroll to location of hash if exists
+			if (location.hash != '') {
+				$('html,body').scrollTop($(location.hash).offset().top - 100);
+			}
+		});
+	</script>
 
 
 <!-- BODY START -->
-
-<table width="100%" cellpadding="0" cellspacing="0" class="Table2 main_container" style="border-top: 1px solid #E4E5E6">
-	<tbody><tr>
-		<td class="Content decoration" valign="top">
-<br>
-<b>Stardock.com</b> has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: <a href="http://www.iconzone.com">Stardock.com</a> This policy is also applicable to Stardock's other Web sites, including but not limited to: <a href="http://www.stardock.net">Stardock.net</a>, <a href="http://www.wincustomize.com">WinCustomize.com</a>, <a href="http://www.joeuser.com">JoeUser.com</a>, <a href="http://www.windowblinds.net">Windowblinds.net</a>, <a href="http://www.galciv.com">GalCiv.com</a>, <a href="http://www.politicalmachine.com">PoliticalMachine.com</a>, and <a href="http://www.objectdesktop.net">ObjectDesktop.net</a>.
-<br><br>
-
-<blockquote><center><u><b>WE DO NOT SHARE YOUR EMAIL ADDRESSES PR PERSONAL INFORMATION WITH ANY ORGANIZATION THAT IS NOT MAJORITY CONTROLLED BY STARDOCK CORPORATION.</b></u></center></blockquote>
-<br><br>
-
-<div id="ipdet">
-	<div class="title underline">Information Automatically Logged</div>
-	We use your IP address to help diagnose problems with our server and to administer our Web site. This information is used to generate reports on the overall traffic to the site for bandwidth planning and usage statistics.
+<div class="wrapper">
+	<table width="100%" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td class="Content decoration" valign="top">
+	<br>
+	<b>Stardock.com</b> has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: <a href="http://www.iconzone.com">Stardock.com</a> This policy is also applicable to Stardock's other Web sites, including but not limited to: <a href="http://www.stardock.net">Stardock.net</a>, <a href="http://www.wincustomize.com">WinCustomize.com</a>, <a href="http://www.joeuser.com">JoeUser.com</a>, <a href="http://www.windowblinds.net">Windowblinds.net</a>, <a href="http://www.galciv.com">GalCiv.com</a>, <a href="http://www.politicalmachine.com">PoliticalMachine.com</a>, and <a href="http://www.objectdesktop.net">ObjectDesktop.net</a>.
 	<br><br>
-	<div class="title underline">Stardock Activation</div>
-	Some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased.
+
+	<blockquote><center><u><b>WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANY ORGANIZATION THAT IS NOT MAJORITY CONTROLLED BY STARDOCK CORPORATION.</b></u></center></blockquote>
 	<br><br>
-	Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com. This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news.
+
+	<div id="ipdet">
+		<div class="title underline">Information Automatically Logged</div>
+		We use your IP address to help diagnose problems with our server and to administer our Web site. This information is used to generate reports on the overall traffic to the site for bandwidth planning and usage statistics.
+		<br><br>
+		<div class="title underline">Stardock Activation</div>
+		Some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased.
+		<br><br>
+		Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com. This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news.
+	</div>
+	<br><br>
+
+	<div id="cookiedet">
+		<div class="title underline">Cookies</div>
+		Our Site uses cookies to keep track of items in your shopping cart. Stardock.net accounts on the various websites (like WinCustomize.com and for installing software via Stardock Central) also uses cookies as part of their validation process.
+	</div>
+	<br><br>
+
+	<div id="advdet">
+		<div class="title underline">Advertisers</div>
+		We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+		<br><br>
+		Some customer data is shared with the advertising companies (i.e. ONLY what they have access to from setting in your cookies). We do not allow advertisers to see any private information including email addresses, home addresses, phone numbers, or any other private information.
+	</div>
+	<br><br>
+
+	<div id="reg">
+		<div class="title underline">Registration Forms</div>
+		Our site's registration form requires users to give us contact information (like their name and email) and demographic information (like their zip code and age).
+		<br><br>
+		Contact information from the registration forms is used to get in touch with the customer when necessary.
+		<br><br>
+		Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+		<br><br>
+		Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+	</div>
+	<br><br>
+
+	<div id="order">
+		<div class="title underline">Order Forms</div>
+		Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code and age).
+		<br><br>
+		Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
+		<br><br>
+		Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+		<br><br>
+		Financial information that is collected is used to bill the user for products and services.
+		<br><br>
+		Demographic and profile data is also collected at our site.
+		<br><br>
+		We may use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+	</div>
+	<br><br>
+
+	<div id="survey">
+		<div class="title underline">Surveys</div>
+		Our online surveys ask visitors for demographic information (like zip code or age).
+		<br><br>
+		Demographic and profile data is also collected at our site.
+		<br><br>
+		We use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+	</div>
+	<br><br>
+
+
+	<div id="email">
+		<div class="title underline">Email</div>
+		Stardock scans the text of e-mail messages in order to filter spam and detect viruses.  This process is completely automated and involves no humans.  The only exception includes requests by users that Wincustomize support staff access their email messages in order to diagnose problems; when Stardock is required by law to do so; and when we are compelled to view or disclose personal information because we reasonably believe it's necessary in order to protect the rights, property or safety of Stardock, its users and the public. Stardock only scans e-mail contents to provide you a reliable service. Stardock does not share or reveal e-mail content or personal information with third parties, other than in certain exceptions dictated by the law and common sense.
+	</div>
+	<br><br>
+
+	<div id="assessments">
+		<div class="title underline">Assessments (Hardware)</div>
+		Stardock's TweakVista and Tweak7 products, at the request of the user, send generic information about the computer hardware under analysis to Stardock.  This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista and Tweak7.
+	</div>
+	<br><br>
+
+	<div id="linkothers">
+		<div class="title underline">External Links</div>
+		This site contains links to other sites. <b>Stardock.com </b>is not responsible for the privacy practices or the content of such Web sites.
+	</div>
+	<br><br>
+
+	<div id="pforum">
+		<div class="title underline">Public Forums</div>
+		This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+	</div>
+	<br><br>
+
+	<div id="security">
+		<div class="title underline">Security</div>
+		This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Credit card information for orders is secured via industry standard 128-bit SSL encryption.
+	</div>
+	<br><br>
+
+	<div id="optout">
+		<div class="title underline">Choice/Opt-Out</div>
+		Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us via Stardock Magazine.
+		<ol>
+			<li>You can send email to <a href="mailto:info@stardock.com">info@stardock.com</a></li>
+			<li>You can visit the following URL: <a href="http://www.stardock.com/scripts/remove.asp">http://www.stardock.com/scripts/remove.asp</a></li>
+		</ol>
+	</div>
+	<br><br>
+
+	<div id="data">
+		In addition, some products may prompt you for additional opt-in decisions during check out through our online store.&nbsp; These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion.
+		<br><br>
+		<div class="title underline">Data Quality/Access</div>
+		This site gives users the following options for changing and modifying information previously provided:
+		<ol>
+		<li>You can send email to <a href="mailto:sales@stardock.com">sales@stardock.com</a></li>
+		</ol>
+	</div>
+	<br><br>
+
+	<div class="title underline">Contacting the Web Site</div>
+	If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+	<br>
+	<address><a href="mailto:info@stardock.com">info@stardock.com</a></address>
+	<br><br>
+
+			</td>
+		</tr>
+	</tbody></table>
+	<div class="push"></div>
 </div>
-<br><br>
-
-<div id="cookiedet">
-	<div class="title underline">Cookies</div>
-	Our Site uses cookies to keep track of items in your shopping cart. Stardock.net accounts on the various websites (like WinCustomize.com and for installing software via Stardock Central) also uses cookies as part of their validation process.
-</div>
-<br><br>
-
-<div id="advdet">
-	<div class="title underline">Advertisers</div>
-	We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
-	<br><br>
-	Some customer data is shared with the advertising companies (i.e. ONLY what they have access to from setting in your cookies). We do not allow advertisers to see any private information including email addresses, home addresses, phone numbers, or any other private information.
-</div>
-<br><br>
-
-<div id="reg">
-	<div class="title underline">Registration Forms</div>
-	Our site's registration form requires users to give us contact information (like their name and email) and demographic information (like their zip code and age).
-	<br><br>
-	Contact information from the registration forms is used to get in touch with the customer when necessary.
-	<br><br>
-	Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-	<br><br>
-	Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-</div>
-<br><br>
-
-<div id="order">
-	<div class="title underline">Order Forms</div>
-	Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code and age).
-	<br><br>
-	Contact information from the order forms is used to ship purchases, information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
-	<br><br>
-	Users may opt-out of receiving future mailings; see the choice/opt-out section below.
-	<br><br>
-	Financial information that is collected is used to bill the user for products and services.
-	<br><br>
-	Demographic and profile data is also collected at our site.
-	<br><br>
-	We may use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-</div>
-<br><br>
-
-<div id="survey">
-	<div class="title underline">Surveys</div>
-	Our online surveys ask visitors for demographic information (like zip code or age).
-	<br><br>
-	Demographic and profile data is also collected at our site.
-	<br><br>
-	We use this data in the future to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
-</div>
-<br><br>
-
-
-<div id="email">
-	<div class="title underline">Email</div>
-	Stardock scans the text of e-mail messages in order to filter spam and detect viruses.  This process is completely automated and involves no humans.  The only exception includes requests by users that Wincustomize support staff access their email messages in order to diagnose problems; when Stardock is required by law to do so; and when we are compelled to view or disclose personal information because we reasonably believe it's necessary in order to protect the rights, property or safety of Stardock, its users and the public. Stardock only scans e-mail contents to provide you a reliable service. Stardock does not share or reveal e-mail content or personal information with third parties, other than in certain exceptions dictated by the law and common sense.
-</div>
-<br><br>
-
-<div id="assessments">
-	<div class="title underline">Assessments (Hardware)</div>
-	Stardock's TweakVista and Tweak7 products, at the request of the user, send generic information about the computer hardware under analysis to Stardock.  This data will not be provided to any third parties and will only be used to provide anonymous high level reports to other customers of TweakVista and Tweak7.
-</div>
-<br><br>
-
-<div id="linkothers">
-	<div class="title underline">External Links</div>
-	This site contains links to other sites. <b>Stardock.com </b>is not responsible for the privacy practices or the content of such Web sites.
-</div>
-<br><br>
-
-<div id="pforum">
-	<div class="title underline">Public Forums</div>
-	This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-</div>
-<br><br>
-
-<div id="security">
-	<div class="title underline">Security</div>
-	This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Credit card information for orders is secured via industry standard 128-bit SSL encryption.
-</div>
-<br><br>
-
-<div id="optout">
-	<div class="title underline">Choice/Opt-Out</div>
-	Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us via Stardock Magazine.
-	<ol>
-		<li>You can send email to <a href="mailto:info@stardock.com">info@stardock.com</a></li>
-		<li>You can visit the following URL: <a href="http://www.stardock.com/scripts/remove.asp">http://www.stardock.com/scripts/remove.asp</a></li>
-	</ol>
-</div>
-<br><br>
-
-<div id="data">
-	In addition, some products may prompt you for additional opt-in decisions during check out through our online store.&nbsp; These questions will default to opting-out of additional promotional communications from our affiliates, however customers may choose to receive promotional e-mails at their discretion.
-	<br><br>
-	<div class="title underline">Data Quality/Access</div>
-	This site gives users the following options for changing and modifying information previously provided:
-	<ol>
-	<li>You can send email to <a href="mailto:sales@stardock.com">sales@stardock.com</a></li>
-	</ol>
-</div>
-<br><br>
-
-<div class="title underline">Contacting the Web Site</div>
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
-<br>
-<address><a href="mailto:info@stardock.com">info@stardock.com</a></address>
-<br><br>
-
-		</td>
-	</tr>
-</tbody></table>
-
 <!-- BODY END -->
 
-	<!-- START FOOTER -->
-		<!--[if lt IE 10]>
-            <style type="text/css">
-                .footer_container div.signup  div input { width: 114px; }
-            </style>
-        <![endif]-->
+<div class="br"></div>
+
+</div>
+
+
+	<!--[if lt IE 10]>
+		<style type="text/css">
+			.footer_container div.signup  div input { width: 114px; }
+		</style>
+	<![endif]-->
+	<footer>
 		<div class="footer_container">
 			<div class="links">
 				<ul>
@@ -280,9 +352,15 @@ If you have any questions about this privacy statement, the practices of this si
 					<li>|</li>
 					<li><a href="http://www.stardock.com/about">About</a></li>
 					<li>|</li>
+					<li><a href="http://www.stardock.com/support">Support</a></li>
+					<li>|</li>
 					<li><a href="http://www.stardock.com/privacy.asp">Privacy</a></li>
+					<li>|</li>
+					<li><a href="http://www.stardock.com/terms/dmca.asp">DMCA Policy</a></li>
+					<li>|</li>
+					<li><a href="http://www.stardock.com/terms">Terms of Use</a></li>
 				</ul>
-				<p>Copyright&nbsp;©&nbsp;2013 Stardock Corporation. All rights reserved.</p>
+				<p>Copyright&nbsp;©&nbsp;2014 Stardock Corporation. All rights reserved.</p>
 			</div>
 			<a class="merchandise" href="http://www.cafepress.com/stardockmerchandise" target="_blank">
 				<img alt="CafePress" border="0" height="42" src="http://www.stardock.com/images/cafepress.png" width="58">
@@ -290,7 +368,7 @@ If you have any questions about this privacy statement, the practices of this si
 				<div class="clearb"></div>
 			</a>
 			<div class="social">
-				<img alt="Social Links" border="0" height="28" src="http://www.stardock.com/images/social.png" width="133" usemap="#social">
+				<img alt="Social Links" border="0" height="49" src="http://www.stardock.com/images/socialblock.png" width="49" usemap="#social">
 			</div>
 			<div class="signup">
 				<p>Sign up for our newsletter</p>
@@ -299,7 +377,7 @@ If you have any questions about this privacy statement, the practices of this si
 						<label id="emlAddressLbl" for="emlAddress">Enter Address</label>
 						<input type="text" id="emlAddress" name="emlAddress" width="133">
 					</div>
-					<input type="submit" value="Subscribe">
+					<a class="bvlbutton small blue">Subscribe</a>
 				</form>
 				<div id="emlLstWait" style="display: none">
 					<p><strong>Signing up, please wait...</strong></p>
@@ -310,61 +388,81 @@ If you have any questions about this privacy statement, the practices of this si
 			</div>
 			<div class="clearb"></div>
 		</div>
-		<map name="social" id="social">
-			<area shape="rect" coords="0,0,27,27" href="https://www.facebook.com/official.stardock" target="_blank" title="Facebook" alt="Facebook">
-			<area shape="rect" coords="34,0,62,27" href="http://twitter.com/#!/stardock" target="_blank" title="Twitter" alt="Twitter">
-			<area shape="rect" coords="69,0,97,27" href="http://www.youtube.com/windowsthemes" target="_blank" title="YouTube" alt="YouTube">
-			<area shape="rect" coords="105,0,132,27" href="https://plus.google.com/109538469280807358083/posts" target="_blank" title="Google+" alt="Google+">
-		</map>
-		<script>
-			$(document).ready(function(){
-				$('#emlAddress').focus(function(){
-					$('#emlAddressLbl').hide();
-				});
-				$('#emlAddress').blur(function(){
-					if( $('#emlAddress').val() == ''){
-						$('#emlAddressLbl').show();
-					}
-				});
-				$('#frmEmlLst').submit(function (e) {
-					e.preventDefault();
-					
-					if (!IsEmail($('#emlAddress').val()))
-					{
-						alert('Please enter a valid email address.');
-						return false;
-					}
-					
-					$('#frmEmlLst').fadeOut(function() {
-						$('#emlLstWait').fadeIn();
-					});
-					
-					$.getJSON("https://www.stardock.com/accounts/wcf/MailingList.svc/AddToList?callback=?",
-						{
-							EmailAddress: $('#emlAddress').val(),
-							EmailListTypeID: 1,
-							Source: 'Stardock.com Footer'
-						},
-						function (data, textStatus, jqXHR) {
-							$('#emlLstWait').fadeOut(function() {
-								$('#emlLstSuccess').fadeIn();
-							});
-						}
-					);
-				});
-				function IsEmail(email) {
-					var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-					return regex.test(email);
+	</footer>
+	<map name="social" id="social">
+		<area shape="rect" coords="0,0,21,21" href="https://www.facebook.com/official.stardock" target="_blank" title="Facebook" alt="Facebook">
+		<area shape="rect" coords="0,26,21,48" href="http://twitter.com/#!/stardock" target="_blank" title="Twitter" alt="Twitter">
+		<area shape="rect" coords="26,0,48,21" href="http://www.youtube.com/windowsthemes" target="_blank" title="YouTube" alt="YouTube">
+		<area shape="rect" coords="26,26,48,48" href="https://plus.google.com/109538469280807358083/posts" target="_blank" title="Google+" alt="Google+">
+	</map>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#emlAddress').focus(function(){
+				$('#emlAddressLbl').hide();
+			});
+			$('#emlAddress').blur(function(){
+				if( $('#emlAddress').val() == ''){
+					$('#emlAddressLbl').show();
 				}
 			});
-		</script>
-	<!-- END FOOTER -->
+			$('#frmEmlLst > a.bvlbutton').on('click', function() {
+				$('#frmEmlLst').submit();
+			});
+			$('#frmEmlLst').submit(function (e) {
+				e.preventDefault();
+				
+				if (!IsEmail($('#emlAddress').val()))
+				{
+					alert('Please enter a valid email address.');
+					return false;
+				}
+							
+				var lists = new Array();
+				lists[0] = 1;
+				
+				var params = {
+					email: $('#emlAddress').val(),
+					lists: lists
+				};
+				
+				$.ajax({
+					type: 'POST',
+					url: 'https://www.stardock.com/accounts/ws/mailinglist.asmx/Add',
+					contentType: 'application/json; charset=utf-8',
+					dataType: 'json',
+					data: JSON.stringify(params),
+					success: function (response, status, xhr) {
 
-
-<div class="br"></div>
-
-</div>
-
+						if (response.d == 0) {
+							$('#emlLstWait').fadeOut(function () {
+								$('#emlLstSuccess').fadeIn();
+							});
+						} else {
+							$('#emlLstWait').fadeOut(function () {
+								$('#emlLstError > p > strong').append(response.d);
+								$('#emlLstError').fadeIn();
+							});
+						}					
+					},
+					beforeSend: function () {
+						$('#frmEmlLst').hide();
+						$('#emlLstWait').show();
+					},
+					error: function (xhr, status, error) {
+						$('#emlLstWait').fadeOut(function () {
+							$('#emlLstError > p > strong').append(response.d);
+							$('#emlLstError').fadeIn();
+						});
+					}
+				});
+				
+			});
+			function IsEmail(email) {
+				var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				return regex.test(email);
+			}
+		});
+	</script>
 
 
 
