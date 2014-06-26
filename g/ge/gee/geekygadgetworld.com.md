@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekygadgetworld.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123180534id_/http%3A//www.geekygadgetworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekygadgetworld.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101538id_/http%3A//www.geekygadgetworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Geeky Gadget World
+# Privacy Policy | Geeky Gadget World
 
 [](http://geekygadgetworld.com/ "GeekyGadgetWorld Home")
 
@@ -8,7 +8,7 @@
 
 Privacy Policy for **http://GeekyGadgetWorld.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **ashukmr.001@gmail.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
 At **http://www.GeekyGadgetWorld.Com** , We are extremely concerned about the privacy of each and every visitor of our blog. We hereby want to inform you about the way data about your personal information is received and stored by **http://GeekyGadgetWorld.Com**. We also want you to know how and to what extent these data are being used by us.
 
