@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectlifemastery.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011554id_/http%3A//projectlifemastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectlifemastery.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025127id_/http%3A//projectlifemastery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Project Life Mastery
+# Privacy Policy – Project Life Mastery
 
 Privacy Policy for **http://projectlifemastery.com**
 
