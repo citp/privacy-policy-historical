@@ -1,26 +1,67 @@
-> *The following text is extracted and transformed from the articlesbot.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731013755id_/http%3A//www.articlesbot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031804id_/http%3A//www.usa.gov/About/Privacy-Security.shtml) for the most accurate reproduction.*
 
-# Privacy Policy | articlesbot
+# Privacy and Security | USA.gov
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+## Privacy and Security
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+## Information Collected and Stored Automatically
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, articlesBot has no access or control over these cookies that may be used by third party advertisers. 
+When you visit USA.gov, we may store some or all of the following: the Internet protocol address from which you access USA.gov, date and time, the name of the web site from which you linked to USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
 
-**Collection of Personal Information**  
-When visiting articlesBot, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. USA.gov may anonymize and provide this information to third party entities for the purposes of research analysis. We do not share or sell visitor data for the purposes of advertising, marketing, or any other commercial purpose.
 
-**Links to third party Websites**  
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+## Use of Persistent Cookies
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion. 
+Like many websites, USA.gov uses "persistent cookie" technology. A persistent cookie is a small text file that this website places on your web browser so that it can gather anonymous summary demographic information, and remember your browser when it is used to visit our site again later—kind of like cookie crumbs! (Hence the name.) These cookies uniquely identify a browser on a computer, but never a person.  In other words, if the same person uses Chrome and Internet Explorer, two unique browser cookies will be assigned, one for each browser, so that person will be counted as two different visitors because visits are based on browsers, not computers or persons. We use persistent cookies in two ways, both of which enhance your experience on USA.gov while also protecting your privacy:
 
-If you have any questions regarding the privacy policy of articlesBot then you may contact us at admin {AT} articlesbot.com 
+  * To remember you when your browser comes back to the site, so we don't invite you to take our customer satisfaction survey every time you visit. Our customer satisfaction survey uses a persistent cookie to ensure we won’t invite you to take a customer satisfaction survey within 90 days of completing a survey on USA.gov.
+  * To get aggregate metrics on site usage to understand how people are using the site and how we can make it better. We use web metrics services to track activity on USA.gov. Government agencies only ever receive traffic statistics anonymously and in the aggregate.
+  * To gather anonymous summary demographic information about our visitors such as gender, age range, and areas of interest for adults over the age of 18. We do this by using [Google Demographic and Interests reports](http://support.google.com/analytics/answer/2799357). When you visit a website that has partnered with the Google Display Network, Google stores a number in your browser using a persistent cookie to remember your visits. This number uniquely identifies a web browser, not a specific person. Browsers may be associated with a demographic category, such as gender or age range, based on the sites that were visited. This demographic information is used to help us better understand our visitors' interests and needs to more effectively develop content to serve you.  
 
-Last updated Fri, 07 Jan 2011 13:44
+
+
+
+Most Internet browsers automatically accept persistent cookies. Although using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit. Here's how you can [disable cookies and/or Google Demographic and Interests reports.](http://www.usa.gov/optout_instructions.shtml "here's how to disable cookies.")  
+
+
+## If You Send Us Personal Information
+
+We do not collect personal information for any purpose other than to respond to your request. The only personal information that we collect is what you decide to give us by ordering publications, sending us an e-mail, or subscribing to our e-mail subscription services. If you choose to provide us with personal information — like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website — we use that information to respond to your message, and to help get you the information you requested. Similarly, if you order a publication from us, we will collect your name, and mailing address to fulfill your order.
+
+We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. USA.gov never collects information or creates individual profiles for commercial marketing.
+
+## Site Security
+
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
+
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+
+## External Links
+
+USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](https://web.archive.org/About/Linking_Policy.shtml "Linking Policy"). If you click a link to an outside website, such as Facebook or YouTube, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+## Social Media Sites
+
+While USA.gov manages presence on social media sites (e.g., [Facebook,](http://www.facebook.com/USAgov "Facebook") [Twitter,](http://twitter.com/USAgov "Twitter") [YouTube)](http://www.youtube.com/USGovernment "YouTube") in order to share government information and engage with the public, we do not collect any Personally Identifiable Information through those sites. We also do not use personal information made available by the user to these third-party sites.
+
+## Prohibitions
+
+USA.gov will not link to any website that exhibits hate, bias, or discrimination. USA.gov reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with USA.gov's mission or policies.
+
+## Disclaimer of Endorsement
+
+The information posted on the USA.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. USA.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+  * The General Services Administration (GSA) and USA.gov **do not** control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on a linked website.
+  * GSA and USA.gov **do not** endorse the organizations sponsoring linked websites and we **do not** endorse the views they express or the products/services they offer.
+  * GSA and USA.gov **cannot** authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website.
+  * GSA and USA.gov **are not** responsible for transmissions users receive from linked websites.
+  * GSA and USA.gov **do not** guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
+
+
+
+Back to Top
