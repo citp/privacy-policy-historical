@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020113642id_/http%3A//www.thefiscaltimes.com/Special-Features/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154255id_/http%3A//www.thefiscaltimes.com/Special-Features/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fiscal Times
 
-Information Collection  
+**Information Collection**  
 We collect both personally identifiable information on the Website about you and non-personally identifiable information about you and your visits to the Website.
 
 Personally Identifiable Information: Some content, services and activities on the Website can be accessed and used without the submission of any personally identifiable information. However, in order to participate in certain activities or receive certain of our services (such as commenting on our blogs, downloading materials from the Website and subscribing to our newsletter), you will need to register on the Website and provider certain personally identifiable information. "Personally identifiable information" includes, for example, contact information and demographic information, such as the User's name, postal address, e-mail address, photograph and zip code. Some information may be required, such as a username, password, name and e-mail address, and other information (such as your postal address, photograph and avatar), may be voluntary. Personally identifiable information may also be collected from Users using a "contact us" or similar feature on the Website, when sending us an e-mail or in any other way contacting us through the Website.
@@ -11,10 +11,12 @@ Non-Personally Identifiable Information: We collect the browser type and IP addr
 
 We also store certain information from Users' browsers using cookies (small pieces of data stored on the User's computer). Cookies track where Users travel and what Users look at on the Web Site, and confirm when Users have logged in to the Site. A cookie may enable us to relate Users' use of the Website to other information about that User, including personally identifiable information. Cookies can be blocked or removed by a User through the use of browser settings. However, refusing a cookie may, in some cases, preclude Users from using, or negatively impact the display or function of, the Site or certain areas or features of the Site. We also may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies in the Site and/or in our communications with you (such as in our e-mails), which help us to verify an individual's viewing or receipt of a Web page or message, and may enable us to relate such viewing or receipt to other information, including personally identifiable information. Any or all of the above-described activities with respect to non-personally identifiable information may be performed on our behalf by our Service Providers (defined below).
 
-Information Obtained from Third Parties: We may supplement the information obtained from you through the Website with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections of the Website or from other third parties. The types of information that is shared with us could include personally identifiable information and non-personally identifiable information.  
+Information Obtained from Third Parties: We may supplement the information obtained from you through the Website with information that is received or otherwise obtained from third parties. For example, this information may be received or obtained from our partners in sponsored content sections of the Website or from other third parties. The types of information that is shared with us could include personally identifiable information and non-personally identifiable information.
+
+We use Google Analytics, Google Analytics Demographics and Interest Reporting, and other Google services that place cookies on a browser across the website. These cookies help us increase the website’s effectiveness for our visitors. These cookies are set and read by Google. To opt out of Google tracking, please visit this [page](https://tools.google.com/dlpage/gaoptout/).   
 Back to Table of Contents
 
-Use of Information  
+ **Use of Information**  
 Personally Identifiable Information: We may use personally identifiable information of our Users for various purposes, including, for example, to respond to User requests and to provide Users with certain content and service offerings. We may also use Users' personally identifiable information to maintain our internal record keeping. Contact information may also be used to notify you of significant upcoming events and programs. Demographic information may be used to tailor your experience at the Site. Contact information and demographic information also may be used to establish a profile for you to use when posting information in public forums (however, as further described below, we are not responsible for protecting the personally identifiable information you may disclose in public forums, comments, or other user-generated content). The Website may show you content we think might be of interest to you and we may display content according to your preferences and interests expressed through the Website and your activities on the Website.  
 Back to Table of Contents
 
@@ -27,7 +29,7 @@ Non-personally identifiable information: We use non-personally identifiable info
 E-mail-A-Friend: Users may be able to send information about our products and/or Site to their friends and family members by using an "E-mail to Friend" or similar feature on the Site or in an e-mail that we have sent them. In some of these cases (unless a User simply forwards our e-mail on his or her own), the User may provide the name and e-mail address of his or her friend or family member to us. Such information will be treated in accordance with this Privacy Policy and applicable law.  
 Back to Table of Contents
 
-Disclosures of Information  
+ **Disclosures of Information**  
 Except as otherwise specified in this Privacy Policy, we do not disclose personally identifiable information to third parties without User consent.
 
 Service Providers: We may provide User information (including personally identifiable information and non-personally identifiable information) to third party service providers such as server hosts, data management companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies and payment processors (collectively, "Service Providers"), which may use such information on our behalf to facilitate the operation of the Website and its various services and features.
@@ -41,15 +43,15 @@ Public Forums: When you use certain features of the Website, certain information
 Corporate Change of Control: In the event that we, or a significant portion of our assets, are acquired by or transferred to one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, personally identifiable information and other User information may be one of the transferred assets.  
 Back to Table of Contents
 
-Rights to Opt In/Opt Out  
+ **Rights to Opt In/Opt Out**  
 You may have the right to "opt in" and/or "opt out" of certain of our uses of your personally identifiable information. For example, at the time you are requested to provide personally identifiable information on this Site or in connection with our communications, you may have the opportunity to elect to, or not to receive correspondence from us. You may opt out of our promotional e-mails by clicking on an opt-out or "unsubscribe" link within the promotional e-mail you receive. Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.  
 Back to Table of Contents
 
-Links to Third-Party Websites  
+ **Links to Third-Party Websites**  
 The Site may contain links to other websites. When you link to such sites, you become subject to their terms of use and privacy policies posted thereon and/or applicable thereto. We are not responsible in any way for the privacy practices of other websites. This Privacy Policy does not apply to information provided to or collected on any other website. You should review these other websites' privacy policies regarding any personally identifiable information and other information that they may collect about you at their sites.  
 Back to Table of Contents
 
-Security  
+ **Security**  
 While we will endeavor to protect the security and integrity of any sensitive personally identifiable information that may be provided to this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
 
 If you contact us by e-mail, via a messaging feature, or by a "contact us" or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
@@ -57,20 +59,20 @@ If you contact us by e-mail, via a messaging feature, or by a "contact us" or si
 In the unlikely event that we believe that the security of any user's personally identifiable information in our possession or control may have been compromised, we may seek to notify such user of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail, and by providing your e-mail address to us, you consent to our use of such e-mail as the means of such notification.  
 Back to Table of Contents
 
-Children  
+ **Children**  
 The Site is intended solely for users who are thirteen (13) years of age or older, and we do not knowingly collect personally identifiable information from Users under 13 without prior parental consent. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever.  
 Back to Table of Contents
 
-Changes to this Privacy Policy  
+ **Changes to this Privacy Policy**  
 We reserve the right to change this Privacy Policy from time to time, and such changes will be effective immediately upon posting. We will notify you of material changes to this Privacy Policy by other means, including, for example, by posting the revised policy with the date it was revised on this page or by email. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect.  
 Back to Table of Contents
 
-Consent to Processing  
+ **Consent to Processing**  
 This Website is intended for users located in the United States. This Privacy Policy shall be interpreted under the laws of the United States. By using the Website, you are consenting to have your personally identifiable information collected, maintained, transferred and processed in and to the United States and other countries and territories.  
 Back to Table of Contents
 
-Contact Us  
+ **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us at [info@thefiscaltimes.org](mailto:info@thefiscaltimes.org)  
 Back to Table of Contents
 
-Last Updated: February 01, 2009
+Last Updated: June 05, 2014
