@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914084820id_/http%3A//www.sarkari-naukri.in/privacy-policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080442id_/http%3A//www.sarkari-naukri.in/privacypolicies) for the most accurate reproduction.*
 
-# Privacy Policies - Sarkari Naukri
+# Privacy Policies -
 
 **Private Policy**
 
 **Last Revised** : 04 August, 2012
 
-Sarkari Naukri is committed to protect its users’ privacy therefore we deem it necessary to give you a comprehensive view about how we determine, store and identify information while you use this website. It is for your own benefit that we advise you to read the following information in detail which may change from time to time as we upgrade our policy. Please check this from time to time (the **Last Revised** date at the top left corner will help you ascertain when we made the last change); your continued use of this site will vouchsafe your absolute knowledge and compliance with Sarkari Naukri Privacy Policy.
+Sarkari Naukri is committed to protect its users’ privacy therefore we deem it necessary to give you a comprehensive view about how we determine, store and identify information while you use this website. It is for your own benefit that we advise you to read the following information in detail which may change from time to time as we upgrade our policy. Please check this from time to time (the  **Last Revised  **date at the top left corner will help you ascertain when we made the last change); your continued use of this site will vouchsafe your absolute knowledge and compliance with Sarkari Naukri Privacy Policy.
 
 A marked change in the general nature of this statement shall be preceded by a notice that will inform you about the change either on the site itself or by personal communication or both.
 
