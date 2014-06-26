@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022133831id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052217id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poker Hendon Mob
 
-Last Updated: 23 July 2013
+Last Updated: 15th of April 2014
 
-The Hendon Mob ("The Hendon Mob/us/we/our") is committed to protecting the privacy of its users ("users" or "you"). For the purpose of the Data Protection Act 1998 (“Act”), the data controller is The Hendon Mob Limited of 3rd Floor, 12 Gough Square, London, EC4A 3DW, England. This Privacy Policy has been created to inform you about how The Hendon Mob manages, collects, stores and uses the information you provide in connection with the thehendonmob.com website, forums and/or any related services (collectively "Service(s)").
+The Hendon Mob ("The Hendon Mob/us/we/our") is committed to protecting the privacy of its users ("users" or "you"). For the purpose of the Data Protection Act 1998 (“Act”), the data controller is Mediarex Enterprises Ltd, British Virgin Island registered company N°1701449, 2nd  Floor, Yamraj Building, Road Town, Tortola, British Virgin. This Privacy Policy has been created to inform you about how The Hendon Mob manages, collects, stores and uses the information you provide in connection with the thehendonmob.com website, forums and/or any related services (collectively "Service(s)").
 
 By visiting or otherwise using any of our Services, you consent to the collection, storage, use and disclosure of your personal information as described in this Privacy Policy, the terms of which are expressly incorporated by reference into The Hendon Mob Terms of Use.
 
