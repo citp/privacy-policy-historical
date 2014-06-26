@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515214319id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentivelogic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074257id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Incentive Logic
 
