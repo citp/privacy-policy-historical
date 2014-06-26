@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtendedview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227040635id_/http%3A//xtendedview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendedview.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174953id_/http%3A//xtendedview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: www.xtendedview.com
 
