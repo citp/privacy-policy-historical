@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816212849id_/http%3A//www.seventhgeneration.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083617id_/http%3A//www.seventhgeneration.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Seventh Generation
 
-Last Updated on April 11, 2011
-
-Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected when using our site or shopping online with SG, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our Web sites: [www.seventhgeneration.com](http://www.seventhgeneration.com/ "www.seventhgeneration.com") and [www.inspiredprotagonist.com](http://www.inspiredprotagonist.com/ "www.inspiredprotagonist.com") (the "SG Sites").
+Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected when using our site or shopping online with SG, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our Web sites: [www.seventhgeneration.com](http://www.seventhgeneration.com/ "www.seventhgeneration.com") and [shop.seventhgeneration.com ](http://shop.seventhgeneration.com/)(the "SG Sites").
 
 The SG Sites contain links to third-party Web sites. SG is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave the SG Sites and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by the SG Sites.
 
-Information Collection and Use  
-Various Registrations  
-Sharing  
-E-mail-A-Friend  
-Log Files  
-Cookies  
-Security  
-Privacy of Children  
-Correcting/Updating Personal Information  
-Opt-Out  
-Contacting the Web Site  
-Notification of Changes
+[Information Collection and Use](http://www.seventhgeneration.com/privacy#Information%20Collection%20and%20Use)  
+[Various Registrations](http://www.seventhgeneration.com/privacy#Various%20Registrations)  
+[Sharing](http://www.seventhgeneration.com/privacy#Sharing)  
+[E-mail-A-Friend](http://www.seventhgeneration.com/privacy#E-mail-A-Friend)  
+[Log Files](http://www.seventhgeneration.com/privacy#Log%20Files)  
+[Cookies](http://www.seventhgeneration.com/privacy#Cookies)  
+[Security](http://www.seventhgeneration.com/privacy#Security)  
+[Privacy of Children](http://www.seventhgeneration.com/privacy#Privacy%20of%20Children)  
+[Correcting/Updating Personal Information](http://www.seventhgeneration.com/privacy#Personal%20Information)  
+[Opt-Out](http://www.seventhgeneration.com/privacy#Opt-Out)  
+[Contacting the Web Site](http://www.seventhgeneration.com/privacy#Contacting%20the%20Web%20Site)  
+[Notification of Changes](http://www.seventhgeneration.com/privacy#Notification%20of%20Changes)
 
 **Information Collection and Use**  
 As used in this Privacy Policy, Personal Information means personally identifiable information such as your name, street address, e-mail address, telephone number, billing address, and credit card information.
