@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117112737id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151654id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Confetti.co.uk
 
@@ -13,7 +13,7 @@ This privacy notice tells you what to expect when Confetti Celebrations Ltd. col
   * people who call us
   * vistors or customers who send us reviews, compliments or complaints
   * people who use our services, e.g. use our forums, planning tools or subscribe to our newsletters
-  * people who enter any of our competitions
+  * people who enter any of our [competitions](http://www.confetti.co.uk/competitions "competitions")
   * job applicants and our current and former employees
 
 
@@ -94,7 +94,7 @@ Each cookie used on the Confetti website can be categorised into one or more of
 
 **Names** : phpbb3_qjonx_u, phpbb3_qjonx_k, phpbb3_qjonx_sid
 
-**Purpose** : These cookies are used internally by the forum system that the Confetti forum runs on.
+**Purpose** : These cookies are used internally by the forum system that the [Confetti forum](http://forums.confetti.co.uk/ "Confetti forum") runs on.
 
 #### User Login
 
