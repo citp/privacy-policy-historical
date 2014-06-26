@@ -1,61 +1,63 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112055809id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033424id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Feel Good Stories
 
-Browse >
+This Privacy Policy governs the manner in which Michael & Gabriel, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.SportsFeelGoodStories.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Michael & Gabriel, Inc..
 
-[Home](http://www.sportsfeelgoodstories.com/ "Browse to: Home") / [About Us](http://www.sportsfeelgoodstories.com/our-quest/ "Browse to: About Us") / Privacy Policy - Sports Feel Good Stories 
+Personal identification information
 
-We want kids, teens and adults to have the opportunity to enjoy our site, learn something along the way and to be safe. The privacy of our visitors’ information is very important to us.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**General Privacy Policy**
+Non-personal identification information
 
-For each visitor to our Web page, our site recognizes the consumer’s domain name (if possible). This information is not connected with your name. The domain name information we collect is used for internal review and is then discarded. If you enter your email address for ENews, we use that to distribute our updates. These update emails have an opt-out feature. We do not set any cookies.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We may use Google Adsense, Amazon.com and other third party advertising companies to support our site. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of these third party advertisers.
+Web browser cookies
 
-We do not request any credit card or other financial information. While we screen our links and partners, we are not responsible for the content, or safety and privacy practices at any sites linked from our pages.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-You may leave comments on this site. Your email address is not published or shared with anyone. The moderator reserves the right to delete any comment deemed inappropriate.
+How we use collected information
 
-**Childrens’ Policy**
+Michael & Gabriel, Inc. may collect and use Users personal information for the following purposes:  
+• To improve our Site We may use feedback you provide to improve our products and services.  
+• To run a promotion, contest, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.  
+• To send periodic emails We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
+How we protect your information
 
-The Sports Feel Good Stories site is committed to providing a safe environment for our children. We adhere to these policies:
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  1. We do not collect online contact information of children. If a child signs up for the email feed, there is an opt-out feature.
-  2. We do not collect personally identifiable, off-line contact information.
-  3. We do not distribute to third parties any personally identifiable information.
-  4. We do not encourage any visitor, child or adult, to publicly post or otherwise distribute personally identifiable contact information. If that should inadvertently happen, please let us know at once and we’ll delete the information.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
+Sharing your personal information
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-——-
+Third party websites
 
-If you feel that this site is not following its stated information policy, or have any questions about our privacy policy, please contact us at the contact information listed below. The SportsFeelGoodStories.com web site is owned by Michael & Gabriel, Inc..
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Postal Address:
+Advertising
 
-Sports Feel Good Stories  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+Changes to this privacy policy
+
+Michael & Gabriel, Inc. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Michael & Gabriel, Inc.  
-4146 Barrow  
-St. Paul, MN 55123
+www.SportsFeelGoodStories.com  
+4146 Barrow Court Eagan, MN 55123  
+editor@sportsfeelgoodstories.com
 
-E-mail: Editor AT sportsfeelgoodstoriesDOTcom  
-Phone: 651-278-2099
-
-###
-
-Again, please let us know if you have any concerns. We hope you enjoy the site.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&notes=We%20want%20kids%2C%20teens%20and%20adults%20to%20have%20the%20opportunity%20to%20enjoy%20our%20site%2C%20learn%20something%20along%20the%20way%20and%20to%20be%20safe.%20%20The%20privacy%20of%20our%20visitors%27%20information%20is%20very%20important%20to%20us.%0D%0A%0D%0AGeneral%20Privacy%20Policy%0D%0A%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&srcTitle=Sports+Feel+Good+Stories+Inspiration+from+the+world+of+sports "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&title=Privacy%20Policy&source=Sports+Feel+Good+Stories+Inspiration+from+the+world+of+sports&summary=We%20want%20kids%2C%20teens%20and%20adults%20to%20have%20the%20opportunity%20to%20enjoy%20our%20site%2C%20learn%20something%20along%20the%20way%20and%20to%20be%20safe.%20%20The%20privacy%20of%20our%20visitors%27%20information%20is%20very%20important%20to%20us.%0D%0A%0D%0AGeneral%20Privacy%20Policy%0D%0A%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20 "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.sportsfeelgoodstories.com%2Four-quest%2Fprivacy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
+This document was last updated on February 08, 2014
