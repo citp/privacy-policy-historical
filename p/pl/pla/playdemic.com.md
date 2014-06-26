@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playdemic.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124025150id_/http%3A//playdemic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdemic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626204859id_/http%3A//www.playdemic.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Playdemic | Privacy Policy
 
-****[CLICK HERE TO READ OUR TERMS OF SERVICE.](https://web.archive.org/web/20131124025150id_/http%3A//playdemic.com/terms_of_service.php)****
+****[CLICK HERE TO READ OUR TERMS OF SERVICE.](https://web.archive.org/web/20140626204859id_/http%3A//www.playdemic.com/terms_of_service.php)****
 
 **NOTICE: We have updated our Privacy Policy and Terms of Service  as of 17 May 2012.**
 
@@ -141,6 +141,8 @@ You can set your web browser to warn you about attempts to place cookies on your
 **Other Sources**
 
 We may collect or receive information from other sources including (i) other Playdemic users who choose to upload their email contacts; and (ii) third party information providers. This information will be used to supplement your profile - primarily to help you and your friends connect. It will be combined with other information We collect.
+
+Playdemic uses the analyzing technology "adjust" provided by adjust GmbH. For such analysis, adjust uses the users IP- and Mac-addresses which are solely used anonymously so that the personal identity of an individual user cannot be revealed. By using this website/app you consent to the collection and processing of the anonymously collected data as described above.
 
 **4\. How We Use the Information We Collect**
 
