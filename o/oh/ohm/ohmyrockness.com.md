@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205055108id_/http%3A//www.ohmyrockness.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165841id_/http%3A//www.ohmyrockness.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# ((Privacy Policy)) Oh My Rockness
-
-### Privacy Statement
+# Privacy Statement - Oh My Rockness
 
 This Privacy Policy governs the manner in which Oh My Rockness collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.ohmyrockness.com](http://www.ohmyrockness.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oh My Rockness.
 
