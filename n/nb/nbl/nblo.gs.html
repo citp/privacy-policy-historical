@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nblo.gs privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610234316id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nblo.gs privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626032627id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
   <title>Privacy Policy | NetworkedBlogs by Ninua</title>
@@ -9,8 +9,7 @@
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   
   <!-- CSS -->
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/jquery.qtip.min.css?v=live.367877200828217683">
-  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=live.367877200828217683">
+  <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/styles.css?v=live.376678331566109216">
   <link type="text/css" rel="stylesheet" href="http://static.networkedblogs.com/static/css/nb-custom-theme/jquery-ui-1.8.16.custom.css?v=1">
   
   <!--[if IE]><style type="text/css">.clearfix {zoom: 1;}</style><![endif]-->
@@ -19,14 +18,13 @@
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
 
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=live.367877200828217683"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.qtip.min.js?v=live.367877200828217683"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/primer.js?v=live.376678331566109216"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.adapter.jquery.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/history.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/require.js"></script>
   <script type="text/javascript" src="http://static.networkedblogs.com/static/js/jquery.cookie.js"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/json2.js?v=live.367877200828217683"></script>
-  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=live.367877200828217683"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/json2.js?v=live.376678331566109216"></script>
+  <script type="text/javascript" src="http://static.networkedblogs.com/static/js/ui.js?v=live.376678331566109216"></script>
 
   <script type="text/javascript">
   // To track outbound links with Google Analytics.
@@ -56,7 +54,6 @@
   config.STATIC_ROOT_URL = "http://static.networkedblogs.com/static/";
   config.WEBSITE_DOMAIN = "networkedblogs.com";
   config.WEBSITE_APP_ROOT_URL = "http://www.networkedblogs.com/";
-  config.FACEBOOK_APP_ROOT_URL = "http://apps.facebook.com/blognetworks/";
   config.JS_API_ROOT_URL = "http://www.networkedblogs.com/api/";
   config.MAX_USER_LINKS = "5";
   config.FACEBOOK_APP_ID = "9953271133";
@@ -72,7 +69,7 @@
   var page_group="public";
   var platform="";
   var auth_type = "None";
-  var ab_number = "37";
+  var ab_number = "23";
   var uses_oauth_code = false;
   var logout_url = "";
 
@@ -158,7 +155,7 @@
     <div id="public_menu">
       <a href="/blog" onclick="return trackAndRedirect(this, 'home', 'add_blog_menu');">Add Your Blog</a> |
          
-      <a href="/news" class="login_button" onclick="fb_login(); trackEvent('home', 'login'); return false;">Login</a>
+      <a href="/news" class="login_button" onclick="auth_and_redirect('/panorama'); trackEvent('home', 'login'); return false;">Login</a>
       
       
         |
@@ -175,6 +172,9 @@
 
   <div id="page" class="clearfix">
 
+    
+      
+    
     
 
     
@@ -299,7 +299,9 @@
 <div class="clearfix"></div>
 
   <div id="footer">
-      <b>© 2013 Ninua Inc.</b>
+    
+      <b>© 2014 Ninua Inc.</b>
+    
       <a href="http://www.networkedblogs.com/about" rel="nofollow">About Us</a>
       <a href="http://www.networkedblogs.com/privacy" rel="nofollow">Privacy Policy</a>
       <a href="http://www.networkedblogs.com/tos" rel="nofollow">Terms of Service</a>
@@ -325,38 +327,12 @@
                oauth  : true // enable OAuth 2.0
                });
 
-      FB.Event.subscribe("auth.authResponseChange", function(response){
-        console.log('auth changed: ', response);
-        // In this event, Facebook has not updated it's cookies yet, so we
-        // call indirectly so the JS SDK gets the chance to set the cookies.
-        setTimeout(function(){verify_fb_status(response);}, 10);
-      });
-      
-      FB.Event.subscribe("auth.statusChange", function(response){
-        // Note: Bugs in Facebook's SDK cause the auth.statusChange event not to
-        // be called every time it should, especially when user is logged out.
-        // So to get around that, we call verify_fb_status() from
-        // getLoginStatus() and from the authResponseChange event. If it wasn't
-        // for that bug, then this event is all we need.
-        console.log('status changed: ', response);
-      });
-      
-      FB.getLoginStatus(function(response) {
-        console.log('get login status: ', response);
-        verify_fb_status(response);
-
-        if (viewer)
-          syncRequestsCount();
-
-        
-      });
-
       
 
     };
 
     $('#logout').bind('click', function() {
-      fb_logout();
+      logout_app();
       return false;
     });
 
@@ -391,33 +367,30 @@
       <% if (post_users.length) { %>
         <% for (var i in post_users) {
              var voter = post_users[i]; %>
-          <a class="postitem_voter <% if (viewer && (voter.id != viewer.id)){ %>show_hovercard<% } %> <% if (i==0) { %>first_voter<% } %>"
-             data-type="user"
-             data-id="<%= voter.id %>"
+          <a class="postitem_voter <% if (i==0) { %>first_voter<% } %>"
             <% if (viewer && (voter.id == viewer.id)) { %>
               href="#"
-              title="Undo your <%= link_text %>"
+              title="Undo your like"
               onclick="unvote('<%= post.code %>');return false;"
             <% } else { %>
-              title="See all <%= link_text %>s by <%= voter.first_name %>"
+              title="See all likes by <%= voter.first_name %>"
               href="/user/<%= voter.id %>"
             <% } %>
             ><img src="<%=voter.pic_square%>" /><% if (viewer && (voter.id == viewer.id)){ %><span class="close">&times;</span><% } %>
           </a>
           <% if (i==0 && voter.action == "p"){ %>
-            <b class="voter_name"><a href="/user/<%=voter.id%>" class="show_hovercard"
-                                     data-type="user" data-id="<%= voter.id %>"><%=voter.first_name%></a></b>
-            posted this<% if (post_users.length > 1){ %><span class="more_voter_count">, <%= post.voter_users.length %> voted.<% } %>
+            <b class="voter_name"><a href="/user/<%=voter.id%>"><%=voter.first_name%></a></b>
+            posted this<% if (post_users.length > 1){ %><span class="more_voter_count">, <%= post.voter_users.length %> liked.<% } %>
             <br/>
           <% } else { %>
             <% if (i==0) { %>
-              <b class="voter_name" data-type="user" data-id="<%= voter.id %>">
-                <a href="/user/<%=voter.id%>" class="show_hovercard"><%=voter.first_name%></a>
+              <b class="voter_name">
+                <a href="/user/<%=voter.id%>"><%=voter.first_name%></a>
               </b>
               <% if (post.voter_users.length > 1){ %>
                 <span class="more_voter_count">and <%= post.voter_users.length-1 %> other
               <% } %>
-              <% if (use_like){ %>like<% if (post.voter_users.length == 1){ %>s<% } %> this<% }else{ %>voted up<% } %></span>
+              like<% if (post.voter_users.length == 1){ %>s<% } %> this</span>
               <br/>
             <% } %>
           <% } %>
@@ -428,7 +401,7 @@
         <% if (!post.has_voted){ %>
           <a href="#" class="vote_link __avote__<%=post.code%>"
              onclick="vote(&quot;<%=post.code%>&quot;, &quot;<%=post.context.owner_stream_id%>&quot;);return false;"
-             title=\"<% if (use_like){ %>Like this<% }else{ %>Vote it up<% } %>!\"><%= link_text2 %></a>
+             title=\"Like this!\">Like</a>
           &middot;
         <% } %>
 
@@ -437,12 +410,6 @@
           href="#"
           title="Show comments"
           >Comment</a>
-        &middot;
-        <a rel="nofollow async"
-          primer_target_js="$(this).parents(&quot;.newspost&quot;).find(&quot;.newspost_popover&quot;);"
-          href="/uiapi/sendbox?code=<%= post.code %>&owner_event=<%=post.context.owner_event%>"
-          title="Send to a friend"
-          >Send</a>
         &middot;
         <a rel="nofollow async"
           primer_target_js="$(this).parents(&quot;.newspost&quot;).find(&quot;.newspost_popover&quot;);"
@@ -455,6 +422,10 @@
       </div>
     </div>
   </script>
+
+  
+    
+  
 
 
 
