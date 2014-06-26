@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226003453id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174506id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
 
-# BrightLocal Privacy PolicyBrightLocal
+# Privacy Policy | BrightLocal Respect Your Privacy | BrightLocal
 
 ### Introduction
 
@@ -23,9 +23,9 @@ Please read this policy carefully to understand our policies and practices regar
 
 This policy may change from time to time (see changes to our Privacy Policy below). Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-### Children Under the Age of 13
+### People Under the Age of 18
 
-Our Site is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [contact@brightlocal.com](mailto:contact@brightlocal.com) .
+Our Site is not intended for people under 18 years of age. No one under age 18 may provide any information to or on the Site. We do not knowingly collect personal information from people under 18. If you are under 18, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a person under 18 years of age without verification of parental consent, we will delete that information. If you believe we might have any information from or about a person under 18, please contact us at [contact@brightlocal.com](mailto:contact@brightlocal.com) .
 
 ### Information We Collect About You and How We Collect It
 
