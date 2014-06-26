@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205012452id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091323id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever - the No.1 website for Live Sport Streams in High Quality | EPL : Manchester United vs Everton | Liverpool vs Norwich | West Brom vs Manchester City | French Ligue 1 : Evian TG vs PSG
+# LiveTv4Ever - the No.1 website for Live Sport Streams in High Quality | World Cup 2014 : USA vs Germany | Portugal vs Ghana | South Korea vs Belgium | Algeria vs Russia
 
 **General**
 
