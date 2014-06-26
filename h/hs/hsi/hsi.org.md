@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215010824id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064522id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Humane Society International
 
@@ -34,7 +34,7 @@ From time to time, we may make such voluntary information, excluding credit card
 ** From time to time, HSI may link to other web sites not affiliated with HSI. HSI attempts to link only to those web sites which also respect a visitor's privacy and the goals of HSI. However, HSI cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that HSI currently links to, please inform HSI by contacting us at [info@hsus.org](mailto:info@hsus.org). For more information regarding linking to HSI's web sites, please read "Linking to HSI.org" on our web site.
 
 **Security  
-** HSI uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to HSI servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information.
+** HSI uses generally accepted, industry-standard security systems, software, and encryption technologies -- Secure Sockets Layer (SSL) -- for the secure transfer of personal and financial data and to protect against unauthorized access to HSI servers, equipment, and other components of our online presence. This includes using industry-standard security systems to protect credit card processing information. Our web servers are hosted off-site at multiple, physically secure facilities with limited access.
 
 **Contacting HSI  
 ** If you would like to contact HSI about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [info@hsi.org](mailto:info@hsi.org) or write to us at Webmaster, HSI, 2100 L Street, NW, Washington, DC 20037 USA.
