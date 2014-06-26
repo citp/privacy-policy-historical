@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030154746id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626201245id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Hershey Company | Privacy Policy
 
@@ -39,7 +39,7 @@ For example:
 
   * **E-Cards** : Visitors to some of our pages can send electronic cards by providing the name and  e-mail address for the sender and recipient. The information provided cannot be viewed by Hershey. The information is used only to allow the sender and recipient to view the e-card and is then automatically deleted.
 
-  * **Promotions & Sweepstakes**: We frequently offer promotions and sweepstakes on our pages. In order to enter a promotion and/or sweepstake or to access certain web site content, we might require you to register online. All visitors under the age of 13 must gain permission from a parent or guardian prior to completing their online registration. During the registration process, we collect information necessary for prize fulfillment and will not share this information with any third party companies unless it is for prize fulfillment purposes. If you win a prize, additional information may be collected offline for tax and prize fulfillment purposes. Your online registration may be used across our web sites to enter multiple promotions and/or sweepstakes or to access certain content. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, the Winner's List or other information required by law is kept as required by law. We also may use the email address that you provide to send you promotional offers if you opt in.
+  * **Promotions & Sweepstakes**: We frequently offer promotions and sweepstakes on our pages. In order to enter a promotion and/or sweepstake or to access certain web site content, we might require you to register online. During the registration process, we collect information necessary for prize fulfillment and will not share this information with any third party companies unless it is for prize fulfillment purposes. If you win a prize, additional information may be collected offline for tax and prize fulfillment purposes. Your online registration may be used across our web sites to enter multiple promotions and/or sweepstakes or to access certain content. The first initial, last name, hometown and state of all winners will be included on a Winners List. The Winners List will be provided upon request and as required by law. Information required for tax purposes, the Winner's List or other information required by law is kept as required by law. We also may use the email address that you provide to send you promotional offers if you opt in.
 
   * **Coupons** : Sometimes we offer coupons by mail to web visitors who provide us with their name and mailing address The information provided may also be used to facilitate that same visitor's entry into a sweepstakes or contest so that the consumer does not have to repeatedly enter the same information.
 
@@ -74,15 +74,11 @@ To prevent unauthorized access, use or disclosure of your personal information, 
 
 Our sites have been designed primarily for our adult consumers to enjoy, but they also have been designed to be accessible, safe for kids of all ages, and to adhere to all applicable laws and regulations. There are some extra precautions that we take, however, with respect to collecting information from children under 13.
 
-  * Although most of our promotions are designed for our adult consumers, all promotion entrants will be requested to provide their age. We do not knowingly collect personally identifiable information from children under 13 on-line without first obtaining permission from the child's parent or guardian. When a child under 13 years old attempts to register for a promotion or sweepstakes, we send their parent or guardian an e-mail to get their permission to collect the child's personally identifiable information as part of their registration. If we do not receive permission within 14 days, we will delete the child's request and they will not be able to complete their registration or enter any promotions online. Once a parent or guardian gives their permission for their child to register, the parent will be asked to complete the child's mailing information on behalf of the child.  When complete, the child will be able to enter future registration-based sweepstakes or contests without any further requests of consent to the parent; however the parent will be notified when the child enters a promotion.  Should the child's personally identifiable information require updating, the parent will be required to make any and all updates to their child's online registration information on behalf of the child. If a child under 13 is a winner, we will contact you and/or your child by e-mail for prize fulfillment purposes.
-
-  * We do not require a child to provide more personally identifiable information than is reasonably necessary to participate in an activity. (You may wish to be aware that, according to the FTC, web site operators are not permitted to collect more information than is needed for a child to participate in an on-line activity.)
+  * Most of our promotions are designed for our adult consumers. All promotion entrants are required to provide their date of birth prior to entering any personally identifiable information. We do not knowingly collect personally identifiable information from children under 13 on-line.
 
   * Our web sites do not offer activities that allow your child or Hershey to disclose your child's personal information publicly (for example through chat rooms or message boards).
 
-  * We do not share your child's personally identifiable information with third parties.
-
-  * If you would like to review personally identifiable information about your child that we have on file, or request that certain information be changed or deleted, please contact:
+  * If you would like to request that information be changed or deleted, please contact:
 
 The Hershey Company  
 Consumer Relations  
@@ -130,4 +126,4 @@ Should you have other questions or concerns about our privacy policy, please don
 
 Copyright © The Hershey Company
 
-**Effective:** June 7, 2010
+**Effective:** March 5, 2014
