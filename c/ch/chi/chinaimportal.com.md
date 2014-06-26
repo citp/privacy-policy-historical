@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111031442id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaimportal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113221id_/http%3A//www.chinaimportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chinaimportal.com
-
-### What information do we collect?
 
   * We collect information from you when you place an order or subscribe to our free newsletter.
 
