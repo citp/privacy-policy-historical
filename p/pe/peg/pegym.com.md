@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117032536id_/http%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043509id_/http%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PEGym
 
@@ -19,7 +19,7 @@ Like most website operators, PEGym.com collects non-personally-identifying info
 
 ## Gathering of Personally-Identifying Information
 
-Certain visitors to PEGym.com’s websites choose to interact with PEGym.com in ways that require PEGym.com to gather personally-identifying information. The amount and type of information that PEGym.com gathers depends on the nature of the interaction. For example, we ask visitors who use our [forums](https://web.archive.org/forums) to provide a username and email address. In each case, PEGym.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PEGym.com. PEGym.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to PEGym.com’s websites choose to interact with PEGym.com in ways that require PEGym.com to gather personally-identifying information. The amount and type of information that PEGym.com gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, PEGym.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with PEGym.com. PEGym.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ## Aggregated Statistics
 
