@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nick-asia.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217185555id_/http%3A//www.nick-asia.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick-asia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052342id_/http%3A//www.nick-asia.com/info/privacy) for the most accurate reproduction.*
 
 # Nick Asia | Privacy Policy
 
@@ -167,13 +167,23 @@ The Nickelodeon Asia Site may contain links to other sites, including those of s
 
 VIII. YOUR RIGHT TO REQUEST PERSONAL DATA.
 
-The Personal Data Protection Act 2012 permits our visitors who are domiciled in Singapore to request certain information regarding our retention and disclosure of their personal data. To make such a request, please send an email to or write us: nickprivacy@nickonline.com via email, or you may contact us via regular mail at: 
+The Singapore Personal Data Protection Act 2012 and Malaysia Personal Data Protection Act 2010 permit our visitors who are domiciled in Singapore and/or Malaysia to request certain information regarding our retention and disclosure of their personal data. To make such a request, please send an email to the following respective country’s email addresses, or you may contact us via regular mail at the following respective country’s offices: 
 
-Nickelodeon Asia Data Protection Officer  
-c/o Nickelodeon Asia Holdings Pte Ltd,  
+**Singapore:**  
+Email: [Sg.DPO@vimn.com](mailto:Sg.DPO@vimn.com)  
+Address: Nickelodeon Southeast Asia Data Protection Officer  
+c/o Nickelodeon Asia Holdings Pte Ltd  
 151 Lorong Chuan  
-#03-08 New Tech Park (Lobby H),  
+#03-08 New Tech Park (Lobby H)  
 Singapore 556741 
+
+**Malaysia:**  
+Email: [My.DPO@vimn.com](mailto:My.DPO@vimn.com)  
+Address: Nickelodeon Southeast Asia Protection Officer  
+c/o Viacom International Media Networks (M) Sdn Bhd  
+L2.08, Level 2, Wisma BU8  
+11, Lebuh Bandar Utama  
+47800 Petaling Jaya, Selangor Darul Ehsan 
 
 This document is the sole statement of the Nickelodeon Asia Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid. In interpreting this Agreement, the English version governs the interpretation and meaning of the obligation set forth herein. To the extent there is an ambiguity or conflict with the Privacy Policy in other languages, the Privacy Policy in English governs. 
 
