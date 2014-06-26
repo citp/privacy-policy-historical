@@ -1,37 +1,45 @@
-> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017185940id_/http%3A//www.guns.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062755id_/http%3A//www.guns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gun News at Guns.com
+# Privacy Policy - Guns.com
 
-At Guns.com, we have created this statement in order to demonstrate our firm commitment to privacy.
+**What information do we collect?**  
+We collect information from you when you subscribe to our newsletter. 
 
-### IP Address
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use your IP address to help diagnose problems with our server and to administer our website. IP addresses also assist us in preventing spammers from taking over our comment and review systems. This information is not used or accessed for any other purpose.
+; To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-We collect aggregate information site-wide, including anonymous site statistics (eg. the number of page views or visits a certain section of our web site has received). We review and discard the information in some cases (eg. IP address logs for file transfers), while in others we may use the information to improve our users experience and analyze the effectiveness of our advertising.
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-### Registration Forms, Profiles, Contests, and Surveys
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-The online forms at Guns.com request that you provide us with contact information which may include some or all of the following: name, email address, age, zip code. We use the contact details provided to send you information about our company and to communicate with you when necessary. You may opt-out of receiving future marketing mailings at any time; see the Opt-out section at the bottom of our emails.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-This personal information is not gathered by us without your knowledge, permission and active participation and is only utilized by Guns.com in the course of running the site or during its own marketing mail-outs. Participants' details are not sold or shared with any other entities.
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### Security
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-The Guns.com site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Our member database is stored on a secure remote offsite server. It is protected with an industrial strength firewall and monitored 24/7 by skilled security specialists and automated intruder detection mechanisms.
+Childrens Online Privacy Protection Act Compliance 
 
-Personal information is submitted using high security 128bit encryption. All personal information is transmitted using high security 128bit encryption.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-### Choice/Opt-Out of Guns.com
+**Your Consent**  
+By using our site, you consent to our websites privacy policy.
 
-You can opt out of any marketing emails at any time by clicking on the opt out link on the bottom of the email messages. You can also delete your guns.com account at anytime via [your profile account settings page](http://www.guns.com/user.html).
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-### Correcting or Updating Personal Information
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Guns.com provides members with the secure My Account area for changing and modifying information previously provided. This can be accessed anytime on [your profile account settings page](http://www.guns.com/user.html).
+http://www.guns.com/
 
-### Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can visit our [contact page](http://www.guns.com/contact.html) or email us at privacy@guns.com
+info@guns.com
