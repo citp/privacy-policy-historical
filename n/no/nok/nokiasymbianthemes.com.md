@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818111034id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131148id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
@@ -261,7 +261,7 @@ Like many other Web sites, Nokia Symbian Themes makes use of log files. The info
 > 
 > E-mail Addresses
 > 
-> Please use a valid e-mail address when commenting on the blog. It will NEVER be displayed unless you type it in the body of your comment voluntarily and you will not be subscribed to any mailing list by leaving a comment so always leave your comments  . However, if you use an invalid e-mail address your comment will be deleted.
+> Please use a valid e-mail address when commenting on the blog. It will NEVER be displayed unless you type it in the body of your comment voluntarily and you will not be subscribed to any mailing list by leaving a comment so always leave your comments :). However, if you use an invalid e-mail address your comment will be deleted.
 > 
 > Editing Comments
 > 
