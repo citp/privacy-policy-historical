@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprint.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614095414id_/http%3A//www.iprint.com/store/en/common/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030924id_/http%3A//www.iprint.com/estore/en/common/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Business Cards, Custom Rubber Stamps, & Business Card Printing | iPrint
 
