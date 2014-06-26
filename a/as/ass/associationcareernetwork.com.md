@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227124947id_/http%3A//www.yourmembership.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associationcareernetwork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092807id_/http%3A//www.yourmembership.com/legal.aspx) for the most accurate reproduction.*
 
 # Lgal / DMCA / Privacy Policy | YourMembership.com
 
