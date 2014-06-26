@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004215630id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152049id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | X-Cart
 
-This Privacy Policy describes the types of information Qualiteam software LLC ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qtmsoft.com](http://www.qtmsoft.com/), [http://www.x-cart.com](http://www.x-cart.com/), [http://www.x-shops.com](http://www.x-shops.com/), and [http://www.litecommerce.com](http://www.litecommerce.com/) ("Site", "Sites"). 
+This Privacy Policy describes the types of information Qualiteam software LLC ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services ("Products or Services") and do not access the Qualiteam's websites located at [http://www.qtmsoft.com](http://www.qtmsoft.com/), [http://www.x-cart.com](http://www.x-cart.com/), [http://next.x-cart.com](http://next.x-cart.com/), and [http://my.x-cart.com](http://my.x-cart.com/) ("Site", "Sites"). 
 
 ## Information We Collect
 
@@ -26,6 +26,16 @@ We do not store the following information normally:
 
 
 Nevertheless we may store the information mentioned above if it is necessary for providing Service. 
+
+## What Are Cookies?
+
+Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small text files that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
+
+## How Do We Use Information We Collect from Cookies?
+
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the user-friendliest manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.
+
+Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you.
 
 ## Our Use of Your Information
 
