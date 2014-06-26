@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wineaccess.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126175947id_/http%3A//www.wineaccess.com/static/privacy.tcl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineaccess.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141236id_/http%3A//www.wineaccess.com/static/privacy.tcl) for the most accurate reproduction.*
 
 # Privacy Policy | WineAccess.com
 
-WineAccess is committed to protecting your privacy. You are important to us, and we will take special care to maintain your trust. In order to fully understand your rights, we encourage you to read this Privacy Statement and to consult our [Terms of Use](https://web.archive.org/web/20131126175947id_/http%3A//www.wineaccess.com/static/legal-notices.tcl) page. Please direct questions regarding this statement to [wacs@wineaccess.com](mailto:wacs@wineaccess.com). 
+WineAccess is committed to protecting your privacy. You are important to us, and we will take special care to maintain your trust. In order to fully understand your rights, we encourage you to read this Privacy Statement and to consult our [Terms of Use](https://web.archive.org/web/20140626141236id_/http%3A//www.wineaccess.com/static/legal-notices.tcl) page. Please direct questions regarding this statement to [wacs@wineaccess.com](mailto:wacs@wineaccess.com). 
 
 **Our Privacy Policy addresses the following questions:**  
 
