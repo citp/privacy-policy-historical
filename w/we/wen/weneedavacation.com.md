@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806062843id_/http%3A//www.weneedavacation.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weneedavacation.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043829id_/http%3A//www.weneedavacation.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy of WeNeedaVacation.com, All Seasons Vacation Rentals, LLC
+# Privacy policy of WeNeedaVacation.com, LLC
 
 ##  Privacy, Use of Information 
 
@@ -32,7 +32,7 @@ WeNeedaVacation.com is an advertising medium only. We do not provide booking ser
 
 ##  Copyright 
 
-Unless otherwise noted, all information on this website is fully copyright protected by All Seasons Vacation Rentals, LLC. All Rights Are Reserved. You may not copy, distribute, disassemble, deface, or otherwise abuse anything available here. 
+Unless otherwise noted, all information on this website is fully copyright protected by WeNeedaVacation.com, LLC and it's predecessor, All Seasons Vacation Rentals, LLC. All Rights Are Reserved. You may not copy, distribute, disassemble, deface, or otherwise abuse anything available here. 
 
 ##  Links 
 
