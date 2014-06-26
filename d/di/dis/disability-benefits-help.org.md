@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216053300id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023210id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,6 @@ We reserve the right to change this Privacy Policy and our related business prac
 
 Should you have other questions or concerns about these privacy policies, please contact us at help@disability-benefits-help.org To remove yourself from our contact list: http://www.disability-benefits-help.org/form/unsubscribe 
 
-eGenerationMarketing, Inc.  
+[eGenerationMarketing, Inc.](http://www.egenerationmarketing.com/)  
 326 A Street - Unit 1A  
 Boston, MA 02210 
