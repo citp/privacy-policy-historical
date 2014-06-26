@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autobazaar.co.ke privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119222004id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobazaar.co.ke privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074617id_/http%3A//www.autobazaar.co.ke/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Buy New & used cars, Kenyan Cars and Japanese imports
+# Used Privacy Policy's for sale in Kenya - AutoBazaar.co.ke
 
 **I. What information is collected?**
 
@@ -62,7 +62,7 @@ back to the top
 
 **VIII. Questions**
 
-  * If you have further questions that were not addressed in the above privacy policy, please contact the Buy and Sell Media Company Kenya Legal Department through out contact page [here](https://web.archive.org/web/20121119222004id_/http%3A//www.autobazaar.co.ke/index.php?a=28&b=136).  
+  * If you have further questions that were not addressed in the above privacy policy, please contact the Buy and Sell Media Company Kenya Legal Department through out contact page [here](https://web.archive.org/web/20140626074617id_/http%3A//www.autobazaar.co.ke/index.php?a=28&b=136).  
 back to the top  
  
 
