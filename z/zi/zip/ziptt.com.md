@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziptt.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122192658id_/http%3A//ziptt.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziptt.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061229id_/http%3A//www.ziptt.com/privacy_policy.php) for the most accurate reproduction.*
 
 # ZIP TT : Privacy Policy
 
