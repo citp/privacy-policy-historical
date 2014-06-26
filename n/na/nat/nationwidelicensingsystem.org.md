@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229060907id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043619id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,4 +79,4 @@ SRR provides the following choices regarding the use of your information:
 
 **Security**
 
-We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information. If you have any questions about the security of our Website, please contact David Rodgers at drodgers@csbs.org.
+We make every effort to have reasonable security procedures in place to protect the loss, misuse or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information. If you have any questions about the security of our Website, please contact Mark Rippe at [mrippe@csbs.org](mailto:mrippe@csbs.org). 
