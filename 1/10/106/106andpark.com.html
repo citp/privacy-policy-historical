@@ -1,7 +1,17 @@
-<!--The following is the downloaded HTML source of the 106andpark.com privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216225016id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 106andpark.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626023841id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+    
+         <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+         <script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//a.mobify.com/bet-mobile/a.js"></script><script type="text/javascript">/*<![CDATA[*/(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/bet-mobile/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){if(/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit|bb1\d.*mobile/i.test(navigator.userAgent)){return[1,"//cdn.mobify.com/sites/bet-mobile/production/mobify.js"]}return[0,Mobify.ajs]})/*]]>*/</script>
+         <!-- END MOBIFY -->
+    
+    
+    
+    <!-- MOBIFY - META TAG -->
+    <meta content="m-plaintextpage" name="template"> 
+    <!-- END MOBIFY - META TAG -->
     
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="keywords" content="">
@@ -14,7 +24,7 @@
     <meta name="date" content="2010-12-30">
     
 
- 	<!-- video  verticals meta tags -->
+    <!-- video  verticals meta tags -->
     
     
     
@@ -55,7 +65,7 @@
     
     
     
-    <script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/jslibs/bet.js"></script>
+    <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/jslibs/bet.js"></script>
 
     
     <script type="text/javascript" src="http://www1.betstatic.com/etc/designs/betcom/js/util.js"></script>
@@ -136,10 +146,93 @@
             }
         }
     }
+    var aamBetdfpValue = get_aamCookie('betdfp');
+    var aamUuidValue = get_aamCookie('aam_uuid') + ';';
+
+    //AamGpt Code. A JavaScript function that reads Audience Management cookie data and sends that information to Google Publisher Tags.
+    var AamGpt = {
+        strictEncode: function(str){
+            return encodeURIComponent(str).replace(/[!'()]/g, escape).replace(/\*/g, "%2A");
+        },
+        getCookie: function(c_name)
+        {
+            var i,x,y,c=document.cookie.split(";");
+            for (i=0;i<c.length;i++)
+            {
+                x=c[i].substr(0,c[i].indexOf("="));
+                y=c[i].substr(c[i].indexOf("=")+1);
+                x=x.replace(/^\s+|\s+$/g,"");
+                if (x==c_name)
+                {
+                    return unescape(y);
+                }
+            }
+        },
+        getKey: function(c_name){
+            var c=this.getCookie(c_name);
+            c=this.strictEncode(c);
+            if(typeof c != "undefined" && c.match(/\w+%3D/)){
+                var cList=c.split("%3D");
+                if(typeof cList[0] != "undefined" && cList[0].match(/\w+/))
+                {
+                    return cList[0];
+                }
+            }
+        },
+        getValues: function(c_name){
+            var c=this.getCookie(c_name);
+            c=this.strictEncode(c);
+            if(typeof c != "undefined" && c.match(/\w+%3D\w+/)){
+                var cList=c.split("%3D");
+                if(typeof cList[1] != "undefined" && cList[1].match(/\w+/))
+                {
+                    var vList=cList[1].split("%2C");
+                    if(typeof vList[0] != "undefined")
+                    {
+                        return vList;
+                    } else {
+                        return null;
+                    }
+                } else {
+                    return null;
+                }
+            } else {
+                return null;
+            }
+        }
+    };
+    </script>
+    <!-- ProjectX code integration (BETCQ-11453) -->
+    <script type="text/javascript" src="http://btg.mtvnservices.com/aria/projectX/projectX.html"></script>
+    <script type="text/javascript">
+    var pxDataPhase = "";
+    var pxDataTarget = "";
+    if(typeof getPxData=="function"){
+        var pxData=getPxData();
+        if(pxData!=null){
+             pxDataPhase = pxData.phase;
+             pxDataTarget = pxData.targetVal;
+        }
+    }
+    </script>
+
+    <!-- GPT Ad Script -->
+    <script type="text/javascript">
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
     </script>
 
 
-    
+
  <!-- Google Analytics tracking -->   
  <script type="text/javascript"> 
  
@@ -173,8 +266,29 @@
       var embedPage = "privacy-policy";
       var embedShowTags = "";
       var eVar17Param = "privacy-policy";  
-     
+      var domainName = window.location.host;
+      if (window.location != window.parent.location){
+          domainName = (document.referrer.split('/')[2]).split('.').join('_');
+      }
  </script>
+
+    
+ <script type="text/javascript">
+     var adsOnPage = 0;
+     googletag.cmd.push(function () {
+         googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+             adsOnPage++;
+         });
+     });
+
+     $(window).load(function () {
+         if (adsOnPage == 0) {
+             googletag.cmd.push(function () {
+                 googletag.pubads().refresh();
+             });
+         }
+     });
+ </script>  
  
 </head>
 
@@ -248,7 +362,7 @@ More info available at http://www.omniture.com -->
 s.pageName= 'privacy-policy'
 
 //Server name
-s.server = 'bet-cqpublish-001.811.mtvi.com'
+s.server = 'bet-cqpublish-009.811.mtvi.com'
 
 //Site sections and Sub sections
 s.channel='privacy-policy'
@@ -317,6 +431,7 @@ setUserTracking();
 
 
     
+
 
 
 
@@ -502,17 +617,18 @@ function omnitureLogin(){
 
     var DNS_MASK = 'affiliate.kickapps.com';
 
-    function displayNewsletters(){            
+    function displayNewsletters(selector){
             checkUserStatus();
-            if ($('#bq_betxnewsletterDiv').length > 0){
-            	       showNewslettersNoUl();  
-            } else {
             	$('body').append('<div id="bq_betxnewsletterDiv"></div>');
-            	$('#bq_betxnewsletterDiv').load("/privacy-policy/_jcr_content.betx-newsletter-modal.html",
+            	if(!selector){
+            	    selector = "";
+            	} else {
+            	    selector += ".";
+            	}
+            	$('#bq_betxnewsletterDiv').load("/privacy-policy/_jcr_content.betx-newsletter-modal." + selector + "html",
                     function() {                    
             		    showNewslettersNoUl();
                     });
-            }            
         }
 
         function showNewslettersNoUl(){
@@ -568,26 +684,122 @@ function omnitureLogin(){
 
 
 
+    
 
 
-
-
-
-
-   
-
-
-        
-        <script type="text/javascript">
-var ordValue='ord='+timestampDart+';?';
-var aamBetdfpValue = get_aamCookie('betdfp');
-var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1387233878734;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
-document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;dcopt=ist;loc=1;tile=1;ct=plaintextpage;betts=1387233878734;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
-        
-        
+    
+        <div class="banner">
+            <div id="div-gpt-ad-1403749491560">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        var advert = googletag.defineSlot('/1125/bet.com/privacy-policy', [[728, 90],[970, 250]], 'div-gpt-ad-1403749491560').addService(googletag.pubads())
+                            .setTargeting('n','privacy-policy')
+                            .setTargeting('sub', 'home')
+                            .setTargeting('prod', '')
+                            .setTargeting('show', '')
+                            .setTargeting('tile', '1')
+                            .setTargeting('loc', '1')
+                            .setTargeting('ct', 'plaintextpage')
+                            .setTargeting('betts', '1403749491560')
+                            .setTargeting('ord', timestampDart)
+                            
+                            ;
+                        if(typeof AamGpt.getCookie('betgpt') != "undefined"){
+                            advert.setTargeting(AamGpt.getKey('betgpt'),AamGpt.getValues('betgpt'));
+                        }
+                        if(typeof AamGpt.getCookie('aam_uuid') != "undefined" ){
+                            advert.setTargeting('aamId', AamGpt.getCookie('aam_uuid'));
+                        }
+                        if(pxDataPhase && pxDataTarget){
+                            advert.setTargeting('px_phase', pxDataPhase)
+                                .setTargeting('px_target', pxDataTarget);
+                        }
+                        
+                            googletag.pubads().enableSingleRequest();
+                        
+                        googletag.enableServices();
+                        googletag.display('div-gpt-ad-1403749491560');
+                    });
+                </script>
+            </div>
         </div>
+        
+            <div class="no-gap">
+                <div id="div-gpt-ad-1403749491560-1x1">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() {
+                            var advert = googletag.defineSlot('/1125/bet.com/privacy-policy', [1, 1], 'div-gpt-ad-1403749491560-1x1').addService(googletag.pubads())
+                                .setTargeting('n','privacy-policy')
+                                .setTargeting('sub', 'home')
+                                .setTargeting('prod', '')
+                                .setTargeting('show', '')
+                                .setTargeting('tile', '1')
+                                .setTargeting('loc', '1')
+                                .setTargeting('ct', 'plaintextpage')
+                                .setTargeting('betts', '1403749491560')
+                                .setTargeting('ord', timestampDart)
+                                
+                                ;
+                            if(typeof AamGpt.getCookie('betgpt') != "undefined"){
+                                advert.setTargeting(AamGpt.getKey('betgpt'),AamGpt.getValues('betgpt'));
+                            }
+                            if(typeof AamGpt.getCookie('aam_uuid') != "undefined" ){
+                                advert.setTargeting('aamId', AamGpt.getCookie('aam_uuid'));
+                            }
+                            if(pxDataPhase && pxDataTarget){
+                                advert.setTargeting('px_phase', pxDataPhase)
+                                    .setTargeting('px_target', pxDataTarget);
+                            }
+                            
+                                googletag.pubads().enableSingleRequest();
+                            
+                            googletag.enableServices();
+                            googletag.display('div-gpt-ad-1403749491560-1x1');
+                        });
+                    </script>
+                </div>
+            </div>
+            <div class="no-gap">
+                <div id="div-gpt-ad-1403749491560-oop">
+                    <script type="text/javascript">
+                        googletag.cmd.push(function() {
+                            var advert = googletag.defineOutOfPageSlot('/1125/bet.com/privacy-policy', 'div-gpt-ad-1403749491560-oop').addService(googletag.pubads())
+                                .setTargeting('n','privacy-policy')
+                                .setTargeting('sub', 'home')
+                                .setTargeting('prod', '')
+                                .setTargeting('show', '')
+                                .setTargeting('tile', '1')
+                                .setTargeting('loc', '1')
+                                .setTargeting('ct', 'plaintextpage')
+                                .setTargeting('betts', '1403749491560')
+                                .setTargeting('ord', timestampDart)
+                                
+                                ;
+                            if(typeof AamGpt.getCookie('betgpt') != "undefined"){
+                                advert.setTargeting(AamGpt.getKey('betgpt'),AamGpt.getValues('betgpt'));
+                            }
+                            if(typeof AamGpt.getCookie('aam_uuid') != "undefined" ){
+                                advert.setTargeting('aamId', AamGpt.getCookie('aam_uuid'));
+                            }
+                            if(pxDataPhase && pxDataTarget){
+                                advert.setTargeting('px_phase', pxDataPhase)
+                                    .setTargeting('px_target', pxDataTarget);
+                            }
+                            
+                                googletag.pubads().enableSingleRequest();
+                            
+                            googletag.enableServices();
+                            googletag.display('div-gpt-ad-1403749491560-oop');
+                        });
+                    </script>
+                </div>
+            </div>
+        
+    
+    
+
+
+</div>
 
         </div>
         <div id="bq_contentDiv">
@@ -596,11 +808,12 @@ document.write(out);
 <!-- START sub nav -->
 <div class="bq_rightsubnav">
     <ul id="topmenu_list">
-        <li class="bq_hilite"><a href="#" onclick="javascript:displayNewsletters();">Newsletters</a></li>
+        <li class="bq_hilite"><a href="http://www.bet.com/shows/bet-awards/bet-experience.html?cid=bethomesecondnav">BET Experience</a></li>
         
     </ul>
 </div>
 <div class="navmenu leftsubnav">
+
 
 
 
@@ -643,11 +856,6 @@ s.eVar28='SN_Video';
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>Being Mary Jane</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/tiny-and-toya/tiny-and-toya-all-videos-new.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='SN_Video'; 
- s.events='event18'; 
- s.tl(this,'o','Video');"><span>Tiny and Toya</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/the-game/the-game-all-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
@@ -658,6 +866,11 @@ s.eVar28='SN_Video';
 s.eVar28='SN_Video'; 
  s.events='event18'; 
  s.tl(this,'o','Video');"><span>HHA Cyphers</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/the-message.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='SN_Video'; 
+ s.events='event18'; 
+ s.tl(this,'o','Video');"><span>The Message</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/video/musicnews/exclusive-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='SN_Video'; 
@@ -686,21 +899,26 @@ s.eVar28='SN_Photos';
 s.eVar28='SN_106&amp;Park'; 
  s.events='event18'; 
  s.tl(this,'o','106 &amp; Park');"><span>106 &amp; Park</span></a></li>
-<li><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li><a href="http://www.bet.com/shows/bet-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_RealHusbands'; 
+s.eVar28='SN_BETAwards\'14'; 
  s.events='event18'; 
- s.tl(this,'o','Real Husbands');"><span>Real Husbands</span></a></li>
-<li><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','BET Awards \'14');"><span>BET Awards '14</span></a></li>
+<li><a href="http://www.bet.com/shows/the-message/the-message-splash.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_TDJakes'; 
+s.eVar28='SN_TheMessage'; 
  s.events='event18'; 
- s.tl(this,'o','TD Jakes');"><span>TD Jakes</span></a></li>
-<li><a href="http://www.bet.com/shows/soul-train-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','The Message');"><span>The Message</span></a></li>
+<li><a href="http://www.bet.com/b-real.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
-s.eVar28='SN_SoulTrainAwards'; 
+s.eVar28='SN_B*Real'; 
  s.events='event18'; 
- s.tl(this,'o','Soul Train Awards');"><span>Soul Train Awards</span></a></li>
+ s.tl(this,'o','B* Real');"><span>B* Real</span></a></li>
+<li><a href="http://www.bet.com/shows/apollo-live/apollo-live-splash.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='SN_ApolloLive'; 
+ s.events='event18'; 
+ s.tl(this,'o','Apollo Live');"><span>Apollo Live</span></a></li>
 </ul>
 </div>
 </div>
@@ -712,6 +930,7 @@ s.eVar28='SN_SoulTrainAwards';
 <!-- START main nav -->
 <a href="http://www.bet.com/" class="bq_logo"><img src="http://www1.betstatic.com/etc/designs/betcom/img/logo.png" width="159" height="51" alt="BET.com"></a>
 <div class="mainnav navmenu">
+
 
 
 
@@ -745,7 +964,7 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>106 &amp; Park</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/apollo-live.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/apollo-live/apollo-live-splash.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
@@ -754,7 +973,7 @@ s.eVar28='MN_Shows';
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>BET Awards '13</span></a></li>
+ s.tl(this,'o','Shows');"><span>BET Awards '14</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/bet-honors.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -765,6 +984,11 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>BET Star Cinema</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/bet-takes-hollywood.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>BET Takes Hollywood</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/being-mary-jane.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -775,59 +999,70 @@ s.eVar28='MN_Shows';
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Bobby Jones Gospel</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/black-girls-rock.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/celebration-of-gospel.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Black Girls Rock</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/shows/the-game.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.tl(this,'o','Shows');"><span>Celebration of Gospel</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/comic-view.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>Comic View</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/the-game.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>The Game</span></a></li>
-</ul>
-</li>
-<li class="bq_last"><span></span><ul>
-<li class="bq_first"><a href="http://www.bet.com/shows/hip-hop-awards/2013/splash.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_last"><a href="http://www.bet.com/shows/hip-hop-awards/2013/splash.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Hip Hop Awards 2013</span></a></li>
+</ul>
+</li>
+<li class="bq_last"><span></span><ul>
+<li class="bq_first"><span></span></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/lets-stay-together.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>Let's Stay Together</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/lift-every-voice.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Lift Every Voice</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/new-shows.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/shows/the-message/the-message-splash.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
- s.tl(this,'o','Shows');"><span>New Shows</span></a></li>
+ s.tl(this,'o','Shows');"><span>The Message</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/the-queen-latifah-show.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>Queen Latifah Show</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Real Husbands of Hollywood</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/scandal.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Shows'; 
- s.events='event18'; 
- s.tl(this,'o','Shows');"><span>Scandal</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/soul-train-awards.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Soul Train Awards</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_Shows'; 
- s.events='event18'; 
- s.tl(this,'o','Shows');"><span>TD Jakes Presents: Mind, Body &amp; Soul</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/shows/wendy-williams.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
  s.events='event18'; 
  s.tl(this,'o','Shows');"><span>Wendy Williams</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/shows/new-shows.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Shows'; 
+ s.events='event18'; 
+ s.tl(this,'o','Shows');"><span>New Shows</span></a></li>
 <li class="bq_last"><a href="http://www.bet.com/shows.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Shows'; 
@@ -844,11 +1079,16 @@ s.eVar28='MN_Celebs';
  s.tl(this,'o','Celebs');"><span>Celebs</span></a><ul class="bq_mainnavList bq_twoCol">
 <li class="bq_first"><span></span><ul>
 <li class="bq_first"><span></span></li>
-<li class="bq_first"><a href="http://www.bet.com/celebrities/movies/mandela-long-walk-to-freedom.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/celebrities/bet-com-celebrates-lgbt-pride-month.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
  s.events='event18'; 
- s.tl(this,'o','Celebs');"><span>Mandela: Long Walk to Freedom</span></a></li>
+ s.tl(this,'o','Celebs');"><span>LGBT Pride</span></a></li>
+<li class="bq_first"><a href="http://www.bet.com/news/lifestyle/2014/fathers-day-tributes-2014.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Celebs'; 
+ s.events='event18'; 
+ s.tl(this,'o','Celebs');"><span>Father's Day</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/celebrities/exclusive-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Celebs'; 
@@ -959,6 +1199,11 @@ s.eVar28='MN_Music';
  s.tl(this,'o','Music');"><span>Music</span></a><ul class="bq_mainnavList bq_twoCol">
 <li class="bq_first"><span></span><ul>
 <li class="bq_first"><span></span></li>
+<li class="bq_first"><a href="http://www.bet.com/news/features/best-of-2013.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_Music'; 
+ s.events='event18'; 
+ s.tl(this,'o','Music');"><span>The Best of 2013</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/video/musicnews/exclusive-videos.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_Music'; 
@@ -1098,31 +1343,21 @@ s.eVar28='MN_News';
 </li>
 <li class="bq_last"><span></span><ul>
 <li class="bq_first"><span></span></li>
-<li class="bq_first"><a href="http://www.bet.com/news/features/bet-remembers-nelson-mandela.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_News'; 
- s.events='event18'; 
- s.tl(this,'o','News');"><span>Nelson Mandela</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/news/features/bet-goes-pink.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_News'; 
- s.events='event18'; 
- s.tl(this,'o','News');"><span>BET Goes Pink</span></a></li>
-<li class="bq_first"><a href="http://www.bet.com/topics/t/trayvon-martin.html" onclick="s.linkTrackVars='events,eVar28'; 
- s.linkTrackEvents='event18'; 
-s.eVar28='MN_News'; 
- s.events='event18'; 
- s.tl(this,'o','News');"><span>Trayvon Martin</span></a></li>
 <li class="bq_first"><a href="http://www.bet.com/topics/b/barack-obama.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_News'; 
  s.events='event18'; 
  s.tl(this,'o','News');"><span>Barack Obama</span></a></li>
-<li class="bq_last"><a href="http://www.bet.com/topics/m/michelle-obama.html" onclick="s.linkTrackVars='events,eVar28'; 
+<li class="bq_first"><a href="http://www.bet.com/topics/m/michelle-obama.html" onclick="s.linkTrackVars='events,eVar28'; 
  s.linkTrackEvents='event18'; 
 s.eVar28='MN_News'; 
  s.events='event18'; 
  s.tl(this,'o','News');"><span>Michelle Obama</span></a></li>
+<li class="bq_last"><a href="http://www.bet.com/news/features/black-history-month.html" onclick="s.linkTrackVars='events,eVar28'; 
+ s.linkTrackEvents='event18'; 
+s.eVar28='MN_News'; 
+ s.events='event18'; 
+ s.tl(this,'o','News');"><span>Black History Month</span></a></li>
 </ul>
 </li>
 </ul>
@@ -1458,26 +1693,51 @@ We caution that most wireless transmissions are not secured and there is a great
 
 
 
+    
 
 
-
-
-
-
-   
-
-
-        
-        <script type="text/javascript">
-var ordValue='ord='+timestampDart+';?';
-var aamBetdfpValue = get_aamCookie('betdfp');
-var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1387233879477;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
-document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=300x250;sub=home;prod=;n=privacy-policy;loc=2;tile=2;ct=plaintextpage;betts=1387233879477;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
-        
-        
+    
+        <div class="mediumRectangle">
+            <div id="div-gpt-ad-1403749491647">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        var advert = googletag.defineSlot('/1125/bet.com/privacy-policy', [300, 250], 'div-gpt-ad-1403749491647').addService(googletag.pubads())
+                            .setTargeting('n','privacy-policy')
+                            .setTargeting('sub', 'home')
+                            .setTargeting('prod', '')
+                            .setTargeting('show', '')
+                            .setTargeting('tile', '2')
+                            .setTargeting('loc', '2')
+                            .setTargeting('ct', 'plaintextpage')
+                            .setTargeting('betts', '1403749491647')
+                            .setTargeting('ord', timestampDart)
+                            
+                            ;
+                        if(typeof AamGpt.getCookie('betgpt') != "undefined"){
+                            advert.setTargeting(AamGpt.getKey('betgpt'),AamGpt.getValues('betgpt'));
+                        }
+                        if(typeof AamGpt.getCookie('aam_uuid') != "undefined" ){
+                            advert.setTargeting('aamId', AamGpt.getCookie('aam_uuid'));
+                        }
+                        if(pxDataPhase && pxDataTarget){
+                            advert.setTargeting('px_phase', pxDataPhase)
+                                .setTargeting('px_target', pxDataTarget);
+                        }
+                        
+                            googletag.pubads().enableSingleRequest();
+                        
+                        googletag.enableServices();
+                        googletag.display('div-gpt-ad-1403749491647');
+                    });
+                </script>
+            </div>
         </div>
+        
+    
+    
+
+
+</div>
 
     </div>
 	<div class="auxillary-area">
@@ -1508,26 +1768,51 @@ document.write(out);
 
 
 
+    
 
 
-
-
-
-
-   
-
-
-        
-        <script type="text/javascript">
-var ordValue='ord='+timestampDart+';?';
-var aamBetdfpValue = get_aamCookie('betdfp');
-var aamUuidValue = get_aamCookie('aam_uuid')+ ';';
-var out ="<script src='http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1387233879514;"+ aamBetdfpValue +'&etc&u='+ aamUuidValue + ordValue+"'>\x3C/script>";
-document.write(out);
-</script><script src="http://ad.doubleclick.net/adj/www.bet.com/privacy-policy;sz=728x90;sub=home;prod=;n=privacy-policy;loc=3;tile=3;ct=plaintextpage;betts=1387233879514;undefined&amp;etc&amp;u=undefined;ord=1580425714803;?"></script>
-        
-        
+    
+        <div class="banner">
+            <div id="div-gpt-ad-1403749491668">
+                <script type="text/javascript">
+                    googletag.cmd.push(function() {
+                        var advert = googletag.defineSlot('/1125/bet.com/privacy-policy', [728, 90], 'div-gpt-ad-1403749491668').addService(googletag.pubads())
+                            .setTargeting('n','privacy-policy')
+                            .setTargeting('sub', 'home')
+                            .setTargeting('prod', '')
+                            .setTargeting('show', '')
+                            .setTargeting('tile', '3')
+                            .setTargeting('loc', '3')
+                            .setTargeting('ct', 'plaintextpage')
+                            .setTargeting('betts', '1403749491668')
+                            .setTargeting('ord', timestampDart)
+                            
+                            ;
+                        if(typeof AamGpt.getCookie('betgpt') != "undefined"){
+                            advert.setTargeting(AamGpt.getKey('betgpt'),AamGpt.getValues('betgpt'));
+                        }
+                        if(typeof AamGpt.getCookie('aam_uuid') != "undefined" ){
+                            advert.setTargeting('aamId', AamGpt.getCookie('aam_uuid'));
+                        }
+                        if(pxDataPhase && pxDataTarget){
+                            advert.setTargeting('px_phase', pxDataPhase)
+                                .setTargeting('px_target', pxDataTarget);
+                        }
+                        
+                            googletag.pubads().enableSingleRequest();
+                        
+                        googletag.enableServices();
+                        googletag.display('div-gpt-ad-1403749491668');
+                    });
+                </script>
+            </div>
         </div>
+        
+    
+    
+
+
+</div>
 
             </div>
             <div class="footer parbase">
@@ -1550,11 +1835,23 @@ document.write(out);
 
 
 
+
+<script type="text/javascript">
+    function viewPhoneVersion(){
+        if (/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit/i.test(navigator.userAgent)) { 
+            var backToMobile = document.createElement("div"); 
+            backToMobile.innerHTML = '<a href="#" onclick="document.cookie=\'mobify-path=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/\';location.reload()">Go Back to the Phone Version</a>'; 
+            document.getElementById("mobile-site").appendChild(backToMobile); 
+        }
+	}
+</script>
+
 <div id="bq_footerV02Container">
 
     <div id="bq_footerV02TopContainer">
 
         <div class="navmenu top">
+
 
 
 
@@ -1634,19 +1931,19 @@ document.write(out);
 
 
 
+
 <div class="bq_footerV02LinksCol"><h5>BET Shows</h5><ul>
 <li><a href="http://www.bet.com/shows/106-and-park.html"><span>106 &amp; Park</span></a></li>
-<li><a href="http://www.bet.com/shows/bet-awards.html"><span>BET Awards '13</span></a></li>
-<li><a href="http://www.bet.com/shows/being-mary-jane.html"><span>Being Mary Jane</span></a></li>
+<li><a href="http://www.bet.com/shows/bet-awards.html"><span>BET Awards '14</span></a></li>
+<li><a href="http://www.bet.com/shows/the-message/the-message-splash.html"><span>The Message</span></a></li>
 <li><a href="http://www.bet.com/shows/real-husbands-of-hollywood.html"><span>Real Husbands</span></a></li>
-<li><a href="http://www.bet.com/shows/td-jakes-mind-body-and-soul.html"><span>TD Jakes</span></a></li>
-<li><a href="http://www.bet.com/shows/black-girls-rock.html"><span>Black Girls Rock!</span></a></li>
 </ul>
 </div>
 </div>
 
 
             <div class="navmenu column-2">
+
 
 
 
@@ -1700,7 +1997,9 @@ document.write(out);
 
 
 
+
 <div id="bq_footerv02Col03" class="bq_footerV02LinksCol"><h5>Quick Links</h5><ul>
+<li><a href="http://www.bet.com/schedule.html"><span>TV Schedule</span></a></li>
 <li><a href="http://www.bet.com/photos.html"><span>Photos</span></a></li>
 <li><a href="http://www.bet.com/celebrities.html"><span>Celebrities</span></a></li>
 <li><a href="http://www.bet.com/music.html"><span>Music Videos</span></a></li>
@@ -1739,6 +2038,7 @@ document.write(out);
 
 
 
+
 <div id="bq_footerv02Col04" class="bq_footerV02LinksCol"><ul>
 <li><a href="http://betcareers.viacom.com/"><span>BET Careers</span></a></li>
 <li><a href="http://betadnetwork.com/"><span>Vertical Ad Network</span></a></li>
@@ -1749,6 +2049,7 @@ document.write(out);
 </div>
 
                 <div class="navmenu column-5">
+
 
 
 
@@ -1802,6 +2103,7 @@ document.write(out);
 
 
 
+
 <div id="bq_footerv02Col06" class="bq_footerV02LinksCol"><h5>Affiliates</h5><ul>
 <li><a href="http://www.centrictv.com/" target="_blank" rel="nofollow"><span>Centric TV</span></a></li>
 <li><a href="http://m.bet.com/"><span>BET Mobile</span></a></li>
@@ -1819,9 +2121,11 @@ document.write(out);
                    
     </div>  
        
-     <div class="bq_footerCopyright"><p>© 2013 BET Interactive, LLC, a wholly owned subsidiary of Black Entertainment Television LLC. All rights reserved.</p></div>
- 
-</div></div>
+     <div class="bq_footerCopyright"><p>© 2014 BET Interactive, LLC, a wholly owned subsidiary of Black Entertainment Television LLC. All rights reserved.</p></div>
+</div>
+
+<div id="mobile-site" class="js-back-to-mobile"></div>
+<script type="text/javascript">viewPhoneVersion();</script></div>
 
         </div>
     </div>
@@ -1863,7 +2167,8 @@ document.write(out);
 
 
 
-    <!-- Start SiteCatalyst footer code version: H.22.1. -->
+    
+<!-- Start SiteCatalyst footer code version: H.22.1. -->
 
 
  <script language="JavaScript" type="text/javascript">
@@ -1878,7 +2183,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
     
 	
 	<!--  BuzzFeed code begins -->
-	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580425715110"></script></div>
+	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=bet.com&amp;amp;to=1&amp;amp;or=vb&amp;amp;wid=1&amp;amp;cb=1580425713743"></script></div>
 	<script type="text/javascript">
 	(function( ){
 	BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
@@ -1887,7 +2192,8 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
 	})();
 	</script>
 	<!-- / BuzzFeed code ends -->
-	<!-- Sailthru Horizon --> 
+	
+<!-- Sailthru Horizon --> 
 <script type="text/javascript">
     (function() {
         function loadHorizon() { 
