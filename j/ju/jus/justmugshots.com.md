@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justmugshots.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023074257id_/http%3A//support.justmugshots.com/entries/22129528-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmugshots.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064602id_/http%3A//support.justmugshots.com/entries/22129528-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : JustMugshots
+# Privacy Policy : General Support
 
 **What information do we collect?**    
 We collect information from you when you place an order or fill out a form. When ordering or registering on our site, as appropriate, you may also be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously if you prefer.
