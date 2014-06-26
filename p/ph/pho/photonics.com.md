@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216191841id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065700id_/http%3A//photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
 
-# Privacy Policy (photonics.com | Jan 2012 | Photonics.com)
+# Privacy Policy | Dec 2013 | Sponsored Content
 
 Laurin Publishing Co., Inc. is firmly committed to protecting the privacy of those who visit our websites. Because we do gather certain types of information regarding our visitors, we want you to fully understand the terms and conditions surrounding the gathering and use of that information. This Privacy Policy explains what information we collect, how we use it, and how our visitors can correct or change it.
 
-This Policy discloses the privacy practices for the entire Laurin Publishing network of websites, which includes Photonics.com, PhotonicsSpectra.com, PhotonicsBuyersGuide.com, Biophotonics.com, EuroPhotonics.com, and other sites. It answers the following questions:
+This Policy discloses the privacy practices for the entire Laurin Publishing network of websites, which includes Photonics.com, PhotonicsSpectra.com, PhotonicsBuyersGuide.com, Biophotonics.com, EuroPhotonics.com, IndPhotonics.com, and other sites. It answers the following questions:
 
   1. What information does Laurin Publishing gather/track? 
   2. What does Laurin Publishing do with the information it gathers/tracks? 
@@ -23,7 +23,7 @@ Laurin Publishing collects two types of information about our site visitors: agg
 
 **Registration and Premium Content**
 
-Registration is required to use certain features of our website, including posting comments in our community forum, subscribing to our e-newsletters, submitting changes to dictionary terms, and viewing premium content. Premium content includes white papers and webinars. When you voluntarily register to see premium content, the personal information that you provide may be made available to the sponsors of that content.
+Registration is required to use certain features of our website, including posting comments in our community forum, subscribing to our e-newsletters, submitting changes to dictionary terms, and viewing premium content. Premium content includes white papers and webinars. When you voluntarily register or supply your personal information to see premium content, the personal information that you provide may be made available to the sponsors of that content.
 
 **Contests**
 
