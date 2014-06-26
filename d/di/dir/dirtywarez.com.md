@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtywarez.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917134312id_/http%3A//dirtywarez.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtywarez.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035424id_/http%3A//dirtywarez.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DirtyWarez
 
