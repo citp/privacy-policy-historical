@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the decoist.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210085526id_/http%3A//www.decoist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decoist.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200248id_/http%3A//www.decoist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern Interior Design & Furniture - Decoist
 
 At [www.decoist.com](http://www.decoist.com/), the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information that is received by Decoist.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, Decoist.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 Decoist.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Decoist.com allows its advertising partners (Google Adsense and Glam Media) to use cookies and web beacons on our site  to serve ads and/or collect certain anonymous information when you visit our Web site.  These  companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked  or scrolled over) during your visits to this and other Web sites in order to provide  advertisements about goods and services likely to be of greater interest to you.  These  companies typically use a cookie or third party web beacon to collect this information.  To learn  more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.decoist.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-partyad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-_Decoist.com has no access to or control over these cookies that are used by third-party advertisers._
+ _Decoist.com has no access to or control over these cookies that are used by third-party advertisers._
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Decoist.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
