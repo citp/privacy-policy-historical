@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmshowonline.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231202924id_/http%3A//www.filmshowonline.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmshowonline.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113111id_/http%3A//www.filmshowonline.net/privacy.php) for the most accurate reproduction.*
 
 # Movies Trailers, Movie Reviews, Celebrities Interviews, Game Videos, Tv Shows - FilmshowOnline.net
 
@@ -60,7 +60,7 @@ Those between the age of sixteen and eighteen are to provide either of their par
 
 **Terms Of Use**
 
-Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20131231202924id_/http%3A//www.filmshowonline.net/termsofuse.php). 
+Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20140626113111id_/http%3A//www.filmshowonline.net/termsofuse.php). 
 
 **Your Consent**
 
@@ -76,4 +76,4 @@ This policy was last modified on Dec 2009
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20131231202924id_/http%3A//www.filmshowonline.net/contactus.php). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20140626113111id_/http%3A//www.filmshowonline.net/contactus.php). 
