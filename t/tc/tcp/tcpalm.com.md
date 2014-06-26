@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221004719id_/http%3A//www.tcpalm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpalm.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062600id_/http%3A//www.tcpalm.com/privacy) for the most accurate reproduction.*
 
 # Privacy & User Agreement Information & News from TCPalm.com (Treasure Coast, FL)
 
