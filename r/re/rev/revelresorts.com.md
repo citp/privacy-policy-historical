@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revelresorts.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229222430id_/http%3A//www.revelresorts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelresorts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112751id_/http%3A//revelresorts.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Revel
+# Privacy Policy | Revel | Atlantic City, New Jersey Hotel & Casino
 
 This Privacy Policy describes the information collection procedures and use of such information by Revel Entertainment Group LLC ("Revel"). Certain information is collected automatically, when you visit our website to read or browse through website material or to download information:
 
