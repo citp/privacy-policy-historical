@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221121826id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetonline.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626211432id_/http%3A//www.onetonline.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -8,11 +8,9 @@ We do not collect personally-identifying information about you when you visit ou
 
 #### If you visit our site to read or download information, we collect and store the following information:
 
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access our website;
-  * The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;
-  * The date and time you access our site;
-  * The pages you visit; and
-  * If you visited the O*NET OnLine website by following a link from another website, the address of that website.
+  * The name of the domain from which you access the Internet (for example, dol.gov, if you are connecting from the Department of Labor's computer account).
+  * The date and time you access our site.
+  * The Internet address of the website from which you linked directly to our site.
 
 
 
