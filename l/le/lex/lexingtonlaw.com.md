@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806162733id_/http%3A//www.lexingtonlaw.com/info/privacy-policy.html%3Flinkid%3Dprivacypolicyfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094326id_/https%3A//www.lexingtonlaw.com/info/privacy-policy.html%3Flinkid%3Dprivacypolicyfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Lexington Law
 
@@ -7,135 +7,147 @@
 
 Lexington Privacy Policy
 
-**Last Updated March 2012  
+**Last Updated May 2014  
 © Lexington Law Firm**
 
   
-Welcome to Lexington Law Firm. Please read our privacy policy carefully to understand how we will use the information you provide while using sites associated with Lexington Law Firm, i.e., [www.lexingtonlaw.com](https://web.archive.org/web/20130806162733id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) and [clients.lexingtonlaw.com](https://clients.lexingtonlaw.com/login.php) and [creditaccess.lexingtonlaw.com](https://creditaccess.lexingtonlaw.com/). This policy may change from time to time, so please check the website each time you use it for the most current information.
+Your privacy is important to Lexington Law Firm ("Lexington"). Please read our Privacy Policy carefully to understand how we collect, use, disclose, transfer, and store your information. By visiting Lexington's website or agreeing to content that includes a link to this document ("Online Ads"), you agree to the practices described in this Privacy Policy and our [ Terms of Use](https://web.archive.org/info/terms.html). 
 
-This privacy policy contains information on the following subjects:  
+**Our Collection and Use of Personal Information**
 
+Personal Information is information you provide us that can be used to uniquely identify or contact a single person, such as your name, email address, phone numbers and tax identification number. 
 
-  
-**What Information we Collect from Clients  
-How We Collect Information  
-Use of Cookies and Tracking User Traffic  
-The General Purposes for which we Use and Disclose the Information  
-How to Opt-Out of Certain Uses of the Information we Collect  
-How We Protect Your Information  
-**   
-**When used in this privacy policy, the terms below have the following meanings:**
+You may be asked to provide Personal Information when you interact with Lexington, Online Ads, or one of Lexington’s related companies, such as in connection with a completed or abandoned transaction or a request for information from Lexington. Lexington and its related companies may share your Personal Information with each other and use it consistent with this Privacy Policy. 
 
-"Personal Contact Information" means basic account and profile information entered by or on behalf of a client. This type of information is used to make contact and it includes the following type of information.
+Lexington may supplement the Personal Information you provide with Personal Information available from other sources, such as public databases, data aggregators, and other commercially available sources. 
 
-• First and Last name (middle initial and suffix, if applicable);  
-• Gender  
-• Home or Mobile Telephone Number  
-• E-mail Address;  
-• Current US Mail Address  
-• Credit Report Information
+**Examples of Personal Information We Collect and How We Use It**
 
-"Sensitive Information"
+You may provide Lexington a variety of Personal Information, including your name, mailing address, email address, phone number, payment information, and tax identification number. 
 
-As a client of Lexington Law, the Firm may also collect the following information (in addition to basic contact information). This information is collected in order to carry out Lexington Law's legitimate business objectives.
+The Personal Information we collect allows us to deliver requested products, services and information to you, to stay in contact with you, and to manage Lexington’s relationship with you. By providing Lexington with Personal Information, you consent to Lexington’s transfer and storage of that information. 
 
-• Social Security Numbers  
-• Credit or Debit Card Numbers, along with expiration date (if used as a form of payment)  
-• Drivers' License Numbers, along with State of issue and address on license;  
-• Bank Account Numbers (if used as form of payment);  
-• Financial Account Numbers (for purposes of making disputes and interventions)  
-• Date of Birth  
+Lexington also may use your Personal Information for research, development, and analysis, and for advertising, marketing, product and service offerings, security, fraud prevention, and other business activities. 
 
+**Our Collection and Use of Non-Personal Information**
 
-  
-"Website Information" means information collected when individuals browse [www.lexingtonlaw.com](https://web.archive.org/web/20130806162733id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com) website, such as date and time of visit, pages viewed, time spent on the site, and websites visited before viewing the Lexington Law Firm site. This information cannot be traceable to any specific person.
+Non-Personal Information is information in a form that does not allow for direct association with a specific person. This information is compiled and analyzed on both a personal and an aggregated basis. We may collect, use, monitor, analyze, transfer, and disclose Non-Personal Information for any purpose. 
 
-What Information We Collect From Clients
+**Examples of Non-Personal Information We Collect and How We Use It**
 
-When you visit [clients.lexingtonlaw.com](https://clients.lexingtonlaw.com/login.php), (Client Site), you may provide us with three (3) different types of information: (a) personal contact information that you knowingly choose to disclose that is collected on an individual basis; (b) sensitive information; and (c) website use information collected on an aggregate basis by individuals browsing our website.
+We may collect and aggregate information regarding user access, activity and behavior on our website, such as when you visit the website and what content is of interest or seems to be most useful to you. If we combine Non-Personal Information with Personal Information, the combined information is treated as Personal Information for purposes of this Privacy Policy. 
 
-How We Collect Information
+Non-Personal Information includes: 
 
-Personal Contact Information: We collect this information in order to contact you about your case or other relevant information from Lexington Law Firm.
+Device Information \- We may collect specific information for the device you use to access our website. For example, we may collect device model, IP address, MAC address, operating system version, application software, fonts, and other device information and identifiers. 
 
-Sensitive Information: This information is only used for legitimate business purposes and is only shared with third parties to the extent necessary to fulfill those purposes. Sensitive information is encrypted before it is shared with any third party.
+Cookies and Other Technologies \- We use a variety of technologies to collect and store information when you visit our website. This technology may involve sending web beacons and cookies or anonymous identifiers to your device. 
 
-Website Information:
+We use Cookies and Other Technologies to analyze your behavior when accessing our website and to deliver ads to you that relate to your interests. 
 
-• [www.lexingtonlaw.com](https://web.archive.org/web/20130806162733id_/http%3A//www.lexingtonlaw.com/info/www.lexingtonlaw.com): When you browse this site, you are able to do so anonymously. Generally, we don't collect personal information when you browse this site — not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+Log Information \- When you visit our website, we collect certain information automatically and store it in log files. This information includes IP address, browser version, ISP data, referring and exit pages, operating system version, date / time stamps, cookie data, and clickstream data. 
 
-• [clients.lexingtonlaw.com](https://clients.lexingtonlaw.com/login.php): You only can access this site if you are a client of Lexington Law Firm. In order to use this site and protect and secure the privacy and confidentiality of its clients, Lexington needs to track usage by client case number. Therefore, your use of the site constitutes consent to collection and storage of personally identifying information.
+We use Log Information to administer the website, analyze trends, maintain site security, learn about user behavior, and improve the overall quality and availability of the site. 
 
-**Use of Cookies and Tracking User Traffic**
+Click-Through URLs \- In some email messages, we use a Click-Through URL to link to content on our website. When you click one of these URLs, you pass through a separate web server before reaching our site. 
 
-Some pages on this site may use "cookies"—small files that the site places on your hard drive for identification purposes. A cookie file can contain information such as a user ID to track the pages visited. These files are used for site registration and customization the next time you visit us.
+We use Click-Through URLs to help us determine interest in a particular topic and to measure the effectiveness of our email communications. 
 
-Some parts of the site may also use cookies to track user traffic patterns. Lexington does this in order to determine the usefulness of our Web site information to our users and to see how effective our navigational structure is in helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site.
+Anonymized Information \- If we separate Non-Personal Information from Personal Information, the separated information is treated as Non-Personal Information for purposes of this Privacy Policy. 
 
-In some of our emails to you, Lexington uses a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the web site that is your destination. We track "click-throughs" to help Lexington determine your interest in particular topics and measure the effectiveness of our customer communications.
+**Our Sharing of Information with Others**
 
-Lexington may use third-party advertising companies, including Google, to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and to serve ads based on a user’s prior visits to Lexington’s website. Lexington uses Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to Lexington’s website. User’s may opt out of Google’s use of cookies, including the Doubleclick cookie, by visiting the [Google advertising opt out page.](http://www.google.com/privacy_ads.html) Users may opt out of Google Analytics by visiting the [Google Analytics opt out page](http://tools.google.com/dlpage/gaoptout). User’s may opt out of a third party advertising company’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Personal Information**
 
-**The General Purposes for Which We Use and Disclose Information**
+We do not share Personal Information with businesses or individuals outside of Lexington, except under the following circumstances: 
 
-_How Lexington Uses the Information_
+Consent \- We will share your Personal Information with others outside of Lexington when we have your consent to do so. 
 
-Personal Contact Information: This type of information is used to correspond with Lexington Law Firm and is not shared unless the client has given permission in the Lexington Law Firm engagement agreement or doing so is necessary to provide the client needed legal services and fulfill Lexington's legitimate business purposes.
+Service Providers \- We provide Personal Information to related companies and other trusted businesses or persons who use, analyze, or process it on our behalf, based on our instructions and in compliance with appropriate confidentiality and security measures. For example, we may use others to: 
 
-Sensitive Information: Sensitive information is used by Lexington to provide enrolled clients with the services requested.
-
-To save you time and make our web services even easier to use, some areas of the Lexington web site allow you to create a "Client ID" using your personal information. The system saves your information and assigns you a unique Lexington Client ID. Next time you log into the client section of our web site you can simply enter your Client ID and password — the system will automatically look up the information it needs.
-
-_Under What Circumstances Lexington Shares Your Information_
-
-Personal Contact Information: Because the ability to communicate with our clients during any part of the credit recovery process is absolutely essential, your personal contact information may be shared with other Lexington employees. They will protect your personal information in accordance with the Lexington Customer Privacy Policy. Lexington will not share your personal contact information with other companies unless you specify otherwise.
-
-Lexington works with other companies that help us provide Lexington services to you, and we may provide your personal information to these companies. For example, should we need to forward written documents to you we give shipping companies this information so they can deliver more efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with Lexington's policies.
-
-In addition, Lexington uses your personal contact information to keep you up to date on the latest service announcements, feature updates, special offers, and other information we think you would like to hear about. From time to time, we may also use your personal information in order to contact you regarding participation in a market research survey, so that we can gauge client satisfaction and improve our services further.
-
-Sensitive Information: There may be some circumstances in which Lexington shares certain sensitive information with a third-party vendor. However, when this occurs, the information is encrypted and Lexington assures that it is handled in a manner consistent with this privacy policy and relevant laws. Sensitive information is only given to third party vendors when necessary to carry out the legitimate business objectives for which you retained the Firm. The circumstances under which sensitive information are shared with third parties include disputes and interventions to credit bureaus and creditors as well as processing of payments.
-
-Website Information: This information is collected in order to allow Lexington to improve its Web site and better serve its clients. This information allows Lexington to design and arrange Web pages in the most user-friendly manner and to continually improve its Web site to better meet the needs of its clients and prospective clients.
-
-**How to Opt Out of Certain Uses of the Information We Collect**
-
-If you wish to opt out of any e-mail services offered by Lexington, please [click here](http://www.lexingtonlaw.com/OptOut/). However, if you opt out of these services, Lexington will no longer be able to provide you legal services and it will need to close your case.
-
-Additionally, Lexington may use third-party advertising companies, including Google, to serve ads on its behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness and to serve ads based on a user’s prior visits to Lexington’s website. Lexington uses Analytics data and the DoubleClick cookie to serve ads based on a user’s prior visits to Lexington’s website. User’s may opt out of Google’s use of cookies, including the Doubleclick cookie, by visiting the [Google advertising opt out page](http://www.google.com/privacy_ads.html). Users may opt out of Google Analytics by visiting the [Google Analytics opt out page](http://tools.google.com/dlpage/gaoptout). User’s may opt out of a third party advertising company’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). Any information that these third parties collect via cookies and action tags is completely anonymous.
-
-**How We Protect Your Information**
-
-Lexington safeguards the security of the data you send with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
-
-• **Application of Encryption Technologies**  
-Lexington's web site uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where sensitive personal information, including social security numbers, is collected. To sign up for service, or to log into the client section of the web site, you must use an SSL-enabled browser. This protects the confidentiality of your personal and credit card or checking account information while it is transmitted over the Internet.
-
-• **Evaluation of Information Protection Practices**  
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
-
-• **Employee Access, Training and Expectations**  
-Lexington's corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, Lexington's business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
-
-• **Legally Compelled Disclosure of Information**   
-Lexington may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. Privileged information about a client's case is shared only when required by a court order or with a client's express, written permission.
-
-• **Sharing Information with Outside Parties**  
-Lexington may provide aggregate information about our site visitors and related Web site information to our affiliates, but this information will not include sensitive information.
-
-**Attorney-Client Privilege.** Because Lexington is a law firm, information about a client's case is considered privileged and is shared only when required by a court order or with a client's express, written permission.
-
-**_Our Company-Wide Commitment To Privacy_**  
-To make sure your personal information remains confidential, Lexington communicates these privacy guidelines to every Lexington Law Firm employee, staff member, and third-party vendor.
-
-• **Protection of Minors**  
-Lexington does not knowingly solicit personal information from children or send them requests for personal information.
-
-• **Third-Party Web Site Links**  
-Lexington's web site may contain links to other sites. Lexington does not share your personal information with those web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
-
-• **Changes to the Use of Personal Information**  
-If Lexington is going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+• deliver, evaluate the effectiveness of, and assist in improving our products and services   
+• conduct consumer research and satisfaction surveys   
+• assist us in analyzing and understanding consumers and how to reach them more effectively   
+• assist us in fraud prevention, with our security measures, and to provide us technical support   
+• provide customer support   
+• manage customer data, and to ensure data integrity and accuracy   
+• process financial transactions and perform accounting functions   
+• conduct customer research or satisfaction surveys 
 
   
-Lexington's Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
+Legal Reasons \- We will share Personal Information with others outside of Lexington if we have a good-faith belief that disclosure is necessary or appropriate to: 
+
+• comply with applicable law, regulation, legal process or enforceable governmental request   
+• protect our operations or customers   
+• detect, investigate, or address fraud, security, or technical problems   
+• investigate potential violations of and enforce applicable terms of service 
+
+In the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third-party. 
+
+**Non-Personal Information**
+
+We may share Non-Personal Information publicly and with our strategic partners. For example, we may share Non-Personal Information to describe the size and success of our firm. 
+
+**Transparency and Choice**
+
+Lexington may use third-party display advertising companies, including Google, to serve Lexington ads on its behalf on sites across the Internet. Lexington and its display advertisers use cookies to inform, optimize, and serve ads based on your past visits to Lexington’s website. 
+
+You may find additional information, opt-out of, or otherwise customize display advertising from Google or DoubleClick by visiting Google’s [ Ads Preference Manager](https://www.google.com/settings/ads). 
+
+You may find additional information and opt-out of other participating third-party display advertising by visiting the [ Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). 
+
+Lexington may use third-party analytics companies, including Google Analytics and Omniture to analyze and understand user behavior when visiting our website. 
+
+You may find additional information and opt-out of Google Analytics by visiting the [ Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout). 
+
+You may find additional information and opt-out of Omniture Analytics by visiting the [ Adobe opt-out page](http://www.adobe.com/privacy/opt-out.html). 
+
+You also may want to consider disabling cookies within your browser. Please note, however, that certain features of the Lexington website will not function properly or be available once cookies are disabled. 
+
+**Social Media Plug-ins**
+
+Plug-ins for social networks, such as Facebook, Twitter, LinkedIn, Yahoo, Windows and Google plus (among others), are integrated on Lexington’s website. 
+
+By interacting with us through a social media plug-in, certain information will be transmitted to the related social network, and you permit us to have on-going access to information from your social network profile. 
+
+If you do not want the social network to collect information about you, or to share it with Lexington and other third parties, please review the privacy policy of the relevant social network and/or log out of the relevant social network before you visit Lexington’s site. 
+
+**Information Security and Retention**
+
+Lexington takes precautions to safeguard your Personal Information from loss, theft, and misuse, as well as unauthorized access, disclosure, alternation, and destruction. These precautions include technical, physical, and managerial procedures. 
+
+Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. 
+
+We regularly review our compliance with our Privacy Policy and enforce safeguards within the company. 
+
+We are committed to working with appropriate regulatory authorities to resolve any complaints regarding the transfer of Personal Information that we cannot resolve with our customers directly. 
+
+Lexington uses Secure Sockets Layer (SSL) encryption on all pages where Personal Information is collected. This protects the confidentiality of your Personal Information while it is transmitted over the Internet. 
+
+For your own protection, you should exercise care with the information you share over the Internet. You should always use a secure browser and exercise good judgment in using passwords, such as using a combination of upper and lower case letters, numbers, special characters, and you should avoid using the same or similar passwords across multiple sites. 
+
+Clients may access their Personal Information by logging into their account. We make good-faith efforts to give you ways to update or to delete your Personal Information quickly, unless we need to keep that information for a legitimate business or legal purpose. Some changes require personal contact with an assigned Lexington representative. 
+
+Lexington retains Personal Information and Non-Personal Information for the time necessary and reasonable to fulfill the purposes outlined in the Privacy Policy, unless a longer retention period is required or permitted by law. 
+
+We may reject requests to change or delete information that are unreasonably repetitive, require disproportionate technical effort (for example, requiring the development of new systems or fundamental changes to existing systems), risk the privacy of others, or would be extremely impractical (such as information stored on backups). 
+
+We work to protect data from accidental or malicious destruction. Accordingly, we may not immediately delete or change residual copies and we may not delete or change information from our backup systems. Unless a disproportionate effort is required, we will provide information access and correction without charge. 
+
+**Third Party Privacy Policies**
+
+This Privacy Policy only addresses the use and disclosure of information we collect from you. This policy does not apply to the practices of companies that Lexington does not own or control or to people that Lexington does not employ or manage. Lexington does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. For more information about each such third party, please refer to the third party’s privacy policy. 
+
+If you provided your information on the website of an entity not related to Lexington, and that entity shared your information with us, the privacy policy of that website governs the non-related entity’s use of your information, which may be different from this policy. 
+
+**Children**
+
+We do not knowingly collect Personal Information from children under 13. If we learn that we have collected the personal information of a child under 13, we will take steps to delete the Personal Information as soon as possible. 
+
+**Privacy Policy Changes and Questions**
+
+Lexington may update its Privacy Policy from time to time. Changes to this Privacy Policy will be posted on Lexington’s website, with a corresponding revision date. Please check the website and Online Ads each time you use them for the most current information and to ensure that you are aware of any updates. 
+
+**Request for Information**
+
+If you have any questions or concerns about Lexington’s Privacy Policy, please contact us: [info@lexington.com](mailto:info@lexington.com). 
