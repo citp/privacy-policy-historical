@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factbrowser.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626193421id_/http%3A//www.factbrowser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factbrowser.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050331id_/http%3A//www.factbrowser.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Factbrowser discloses potentially personally-identifying and personally-identify
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Factbrowser uses cookies to help Factbrowser identify and track visitors, their usage of Factbrowser website, and their website access preferences. Factbrowser visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Factbrowser’s websites, with the drawback that certain features of Factbrowser’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Factbrowser uses cookies to help Factbrowser identify and track visitors, their usage of Factbrowser website, and their website access preferences. Factbrowser visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Factbrowser’s websites, with the drawback that certain features of Factbrowser’s websites may not function properly without the aid of cookies. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to Factbrowser's website. Google's use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to the site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, users can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting aboutads.info.)
 
 ## Privacy Policy Changes
 
