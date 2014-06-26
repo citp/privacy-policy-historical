@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502115642id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626181645id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Site Security & Privacy - Otel.com
 
@@ -47,10 +47,3 @@ This website contains links to third-party websites. otel.com's Privacy Policy d
 #### Changes in Privacy Policy
 
 Otel.com may change its Privacy Policy at any time without notice. You agree that any information shared by you in relation to a booking is subject to the terms of the Privacy Policy in effect at the time of your most recent booking. If you have any questions or concerns regarding any provision of this policy, you are urged to contact us.
-
-  * Toll free : +1 866 775 1466
-  * International : +1 866 775 1466
-
-
-
-[more](http://www.otel.com/callus.php)>>
