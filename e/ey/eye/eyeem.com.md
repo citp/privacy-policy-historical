@@ -1,112 +1,104 @@
-> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517101847id_/http%3A//www.eyeem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeem.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144656id_/http%3A//www.eyeem.com/privacy) for the most accurate reproduction.*
 
 # EyeEm
 
-##### Your privacy
+##### Privacy Policy - EyeEm Community
 
-At EyeEm, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all EyeEm websites.
+We take the protection of your personal data very seriously and strictly comply with the rules of the data protection regulations. Our staff is obligated to protect your personal data in keeping with the legal regulations. The explanations below provide you with an overview of how we ensure this protection and what kind of data is collected for what purpose. 
 
-EyeEm is a photo sharing community which provides you with an easy way to post and share photos online, and add meaningful metadata and comments to photos. You do not need to be registered to search or view public photos on EyeEm, however you must be a registered member of EyeEm to post.
+##### 1\. Responsible authority
 
-For non-lawyers:
+The responsible authority as defined by the Data Protection Law is EyeEm Mobile GmbH, Kohlfurter Strasse 41/43, 10999 Berlin, Germany (hereinafter “EyeEm”). 
 
-Your privacy is very important to us. You're free to come and go as you like, but you must register to get the best out of EyeEm.
+##### 2\. Personal data
 
-##### Information We May Collect
+Personal data is individual information about personal or factual affairs of a certain natural person. In order to use the EyeEm Community, it is necessary to enter such personal data. You can revoke your consent to using the data for the future at any time by informing EyeEm using the contact information indicated below. 
 
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+##### 3\. EyeEm-Community
 
-We also may collect other types of information in the following ways when you visit our website:
+3.1 In order to enable you to use the EyeEm-Community, we collect, process and use 
 
-Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.  
-We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
+  * your first and last name, 
 
-For non-lawyers:
+  * the email address you used for registration 
 
-We collect data to make EyeEm easy to use and a meaningful experience to you.
+  * the username used for registration 
 
-##### Information Others May Collect
-
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. We do not provide any personal information to these companies.These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.  
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
-
-For non-lawyers:
-
-We do not sell your information to anyone. However, please be aware that EyeEm is an open website and anyone can see what you're posting.
-
-##### How We May Use Information We Collect
-
-We may use information to:
-
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Process payment for products or services you order via our website;
-  * Customize the advertising and content that you see on our website;
-  * Facilitate use of our website;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our website, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce our Terms of Use.
+  * the password used for registration. 
 
 
 
-For non-lawyers:
 
-We may use data to improve the website's performance and make it better and easier to use for you.
+(hereinafter “personal data”). 
 
-##### Your Choices
+3.2 We use the data provided by you to render our services. Your data is not transmitted to third parties or used for marketing purposes subject to the following regulations. After termination of the Community License Agreement your data will be blocked for further use and deleted once the mandatory storage periods defined in tax and commercial legislation have passed, unless you have explicitly agreed to its further use in accordance with these data protection regulations. 
 
-You may choose:
+3.3 EyeEm also uses your personal data to inform you by email about campaigns and offers which are similar to those you are using. You have the right at any time to object to the use of the data in accordance with this section. 
 
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+##### 4\. Entering into contact
 
+You can direct questions, opinions and ideas by using the contact form. The information given in this contact form will only be used to answer your questions or to respond to your comments or ideas. 
 
+##### 5\. Transfer to third parties
 
-For non-lawyers:
+Data is only transferred to a third party within the scope of legal provisions. Personal data is only transferred to a third party if EyeEm is obliged to transfer the collected data due to a government or court order, or if applicable legal provisions authorise the transfer. 
 
-You're free to choose what to share, but your experience of the site may be limited.
+##### 6\. Use of cookies
 
-##### Security
+Some services of the Community use cookies to offer you a convenient online service featuring numerous functions. Cookies are text files containing information to identify returning visitors exclusively for the time of their visit to the Community. Cookies are saved on the hard disk of your computer and do not cause any harm. Cookies spare you the burden of entering data repeatedly, facilitate the transfer of specific content and help us to identify especially popular sections of our online service. Among others, they enable us to tailor the content of the Community to your needs. 
 
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
+You can deactivate the use of cookies in the settings of your browser at any time. To find out how to change the settings, please refer to the help function of your internet browser. 
 
-For non-lawyers:
+##### 7\. Google Analytics
 
-We do our best to keep your information safe.
+For the services of the Community, we use Google Analytics, a web analysing tool by Google Inc. ("Google"). Google Analytics uses so-called "Cookies", text files which are saved on your computer enabling an analysis of your use of the Community. The information generated by the cookie is, as a rule, transmitted to a Google sever in the USA where it will be saved. However, if IP anonymisation is activated in the Community, your IP address will be shortened within the member states of the European Union or other contracting parties to the Agreement on the European Economic Area, prior to transmission. 
 
-##### Changes to Our Privacy Policy
+Only in exceptional cases, is the full IP address transmitted to a server of Google in the USA and shortened there. On behalf of EyeEm, Google will use this information to analyse your use of the Community, compile reports on the activities of the Community and to render further services in connection with the use of the Community to EyeEm. The IP address transmitted by your browser within the framework of Google Analytics will not be merged with other data collected by Google. 
 
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+You can prevent your browser from saving cookies by setting your software accordingly; however, be advised that you might not be able to use all Community functions to their full extent. In addition, you can prevent the collection of the Community usage data (incl. your IP address), which were generated by the cookie as well as the processing of this data by Google by downloading and installing the following browser plugin using the following link: _<http://tools.google.com/dlpage/gaoptout?hl=de>_. 
 
-For non-lawyers:
+##### 8\. Localytics 
 
-Our privacy policy may change one day. If so, we'll let you know.
+For the services of the Community, we use Localytics, an analysing service that collects location information of your mobile device. The location information gained in this way is, as a rule, transmitted to and served on a server of Localytics in the USA. There the information is analysed and transmitted to us. This service enables us to make the Community user-friendlier and more attractive, and to integrate location specific services. 
 
-##### Analytics
+##### 9\. Location information
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your truncated IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using the website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+If you share your location with other users or add a location description to some content you uploaded to the Community, we will treat this information in the same way as all other personal data. 
 
-For non-lawyers:
+##### 10\. Connect services
 
-We use Google Analytics to get an insight in the way our website is used. If you do not wish this data to be collected, you can disable the cookies in your browser settings.
+If you log on to the Community via your log-in of the social networks Facebook, Twitter, Fumblr, Flickr or Foursquare (hereinafter collectively referred to as “Network”) you allow us to collect authentication information, such as your username, encrypted log-on information and other data, which is available on or by means of your network account, e.g. your name, your profile picture, your country, you hometown, your email address, your date of birth, your gender, the names of your friends and profile pictures and networks. We save this information to use it for the purposes specified in section 11 and check your network data. 
 
-##### How to Contact Us
+##### 11\. Usage of data 
 
-If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
+We use the information collected, including your personal data in order to (a) provide the service, to personalise and to improve the use of the services, the products and other offers the service provides, e.g. by offering the adjusted and localised content and advertising; (b) to ensure the technical functionality of the service and the products and services offered via the service, to develop new products and services and to analyse your use of the service, including your interactions with applications, advertising, products and services that are offered, linked on the service and are available; (c) to contact you in matters regarding the service, also by means of e-mails and messaging; (d) to facilitate and make known the service, including functions and contents of the service, such as sharing information, user interactions, notes or tips and suggestions and the integration of third-party services; (e) to implement this Data Protection Declaration and the Conditions of Use, also for the reason to protect rights, the property and security of EyeEm, the User or other persons as well as the parts of the service protected by copyright; and (f) as otherwise herein explained. 
 
-##### EyeEm Mobile GmbH
+A further use of your data requires your explicit agreement. The granted or refused permission will be documented. 
 
-Brunnenstrasse 9a
+##### 12\. References and links
 
-10119 Berlin, Germany
+Liability for contents of external linked websites (“Hyperlinks”) that lie outside the sphere of responsibility of EyeEm is only assumed if EyeEm is aware of the infringing content and only in the scope of the technically possible and reasonable. 
 
-privacy@eyeem.com
+EyeEm hereby expressly declares that, at the time of the linking, no illegal contents were recognisable on the pages that were to be linked. EyeEm is completely without influence on the current and future form, on the contents and on the authorship of the linked/connected pages. EyeEm therefore herewith expressly dissociates itself from all contents of all linked/connected pages that were changed after the linking. This statement is valid for all links and references established in the EyeEm´s own internet offering, as well as for foreign entries in visitor’s books, forums, link directories and mailing lists and in all kinds of databases where external input to the content is possible. The provider of the pages, to which reference is made, is liable for illegal, incorrect or incomplete contents and, in particular, for damages which result from the use or non-use of such offered information, and not he who merely makes reference to the particular publication via a link. 
 
-© 2012 EyeEm Mobile GmbH. All rights reserved.
+##### 13\. Data security
 
-For non-lawyers: 
+We employ technical and organisational measures in order to safeguard the Community and other systems against loss, destruction, access, changes or the distribution of your data by unauthorised persons. Despite regular controls a complete protection against all dangers is, however, not possible. 
 
-Get in touch with us if you have any questions. We'll do our best to help you.
+The access to your Community account is possible only after entering your personal password. You should always treat your access information confidentially and close the browser window, once you have ended your communication with us, particularly if you share the use of the computer with others. 
+
+##### 14\. Your rights / duration of use of data
+
+Through the Federal Data Protection Act (Bundesdatenschutzgesetz), you have the guaranteed rights to information, correction, deletion or blocking of personal data. These rights are to be exercised by a message sent by mail or e-mail to EyeEm´s address mentioned above or the following e-mail address support@eyeem.com. For your own security, please understand that in the event of a request for information or a change we have to verify your data. 
+
+##### 15\. Further information
+
+Should you have further questions about our data protection regulations, you may contact us by e-mail at any time at support@eyeem.com 
+
+##### 16\. Changes to data protection regulations
+
+EyeEm reserves the right to change these data protection regulations at any time, taking into account currently applicable data protection provisions. In case of any changes, you will be notified upon log-on to any service and you will have to agree to the modified data protection regulations pursuant to section 11 of the regulations. 
+
+Should essential parts of EyeEm be sold or become the property of another company, the customer will also be informed about this when logging on to the services of EyeEm. EyeEm reserves the right to grant the acquirer access to personal data if the customer agrees to this pursuant to section 11 of these data protection regulations. 
+
+**As at: February 2014**
