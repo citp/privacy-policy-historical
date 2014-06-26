@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicnova.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230064721id_/http%3A//www.chicnova.com/help_main%3Fpage%3Dprivacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicnova.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140403id_/http%3A//www.chicnova.com/help_main%3Fpage%3Dprivacy_notice) for the most accurate reproduction.*
 
 # Help Center at Chicnova.com
 
