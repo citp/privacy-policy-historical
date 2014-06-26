@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228191828id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627013344id_/http%3A//www.4shared.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy policy (" **Policy** ") explains how personally identifiable inform
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
 
-New IT Solutions Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4shared.com](mailto:support@4shared.com) or 4shared.com, 745 Distel Dr., Los Altos, CA 94022. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
+New IT Solutions Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@4shared.com](mailto:support@4shared.com) or 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification does not cover information that may be collected through software downloaded from the site. 
 
 **What Is Personal Information?**
 
@@ -102,6 +102,6 @@ You may "opt out" of receiving marketing or promotional emails from us by follow
 
 **Questions?**
 
-If you have any questions about this Policy, please contact us at [support@4shared.com](mailto:support@4shared.com) or via postal mail at 4shared.com, 745 Distel Dr., Los Altos, CA 94022 . 
+If you have any questions about this Policy, please contact us at [support@4shared.com](mailto:support@4shared.com) or via postal mail at 4shared.com, 3080 South Court, Palo Alto, California 94306, USA. 
 
 [ ](https://privacy.truste.com/privacy-seal/New-It-Solutions-LTD-/validation?rid=b1a9e118-8fff-41a0-b6a4-5cb20219e036 "TRUSTe online privacy certification")
