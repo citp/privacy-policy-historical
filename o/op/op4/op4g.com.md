@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222065244id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the op4g.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053321id_/http%3A//op4g.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Op4G : Opinions 4 Good
 
@@ -54,8 +54,14 @@ We may also disclose your personal information:
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
   * if Op4G is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so
+  * Clients are not permitted to directly contact the Op4G membership without company approval. Members’ personal information will never be released to an outside source, except as outlined in our privacy policy or unless legally required as defined in the Op4G privacy policy.
+  * Clients are only permitted to interact directly with the Op4G membership through approved and member consented activities. All other Member communications will be through Op4G.
 
 
+
+### How do Clients contact Members if follow up is required?
+
+Op4G will oversee and approve all Member and Client communication from start to finish. If a Client requires Member-specific follow up, the member will be notified in the survey invitation if sharing any personal information will be required or optional for participation in the study.
 
 ### Secure Databases
 
