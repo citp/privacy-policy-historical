@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodandwaterwatch.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223101206id_/http%3A//www.foodandwaterwatch.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodandwaterwatch.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104137id_/http%3A//www.foodandwaterwatch.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food & Water Watch | Food & Water Watch
 
