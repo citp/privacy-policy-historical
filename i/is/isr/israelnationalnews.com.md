@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129095556id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israelnationalnews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140426id_/http%3A//www.israelnationalnews.com/More/ActivePage.aspx/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Israel National News
+# Privacy Policy - Arutz Sheva
 
 Israelnationalnews.com (“the Site”) respects the privacy of our users and members. This Privacy Policy describes the types of personal information that we collect and the uses that we make of that information.
 
