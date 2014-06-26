@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811092746id_/http%3A//www.evilmilk.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilmilk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135937id_/http%3A//www.evilmilk.com/privacy.htm) for the most accurate reproduction.*
 
 # Evil Milk Privacy Policy
 
@@ -21,3 +21,5 @@ Look for Web site privacy policies. Know how your child's information is treated
 Check out the FTC's site (1) for more tips on protecting children's privacy online.
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact.
+
+Return to the latest [funny pictures](http://www.evilmilk.com/)
