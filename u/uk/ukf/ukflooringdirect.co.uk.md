@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123191524id_/http%3A//www.ukflooringdirect.co.uk/info/Privacy_and_Cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukflooringdirect.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041256id_/http%3A//www.ukflooringdirect.co.uk/info/privacy_and_cookies) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Cookie Policy | UK Flooring Direct
 
 **About Us**
 
-We are UK Flooring Direct Ltd, a company registered in England with registered number 05542003 whose registered office is at Key Park Zone1a, Bayton Road Industrial Estate, Exhall, Coventry, CV7 9EL(and we refer to ourselves as “we”, “us” or “our” in this document). We own and operate this “Website” (meaning the [www.ukflooringdirect.co.uk](http://www.ukflooringdirect.co.uk/) website) on our own behalf.
+We are UK Flooring Direct Ltd, a company registered in England with registered number 05542003 whose registered office is at Key Park Zone1a, Bayton Road Industrial Estate, Exhall, Coventry, CV7 9EL(and we refer to ourselves as “we”, “us” or “our” in this document). We own and operate this “Website” (meaning the [www.ukflooringdirect.co.uk](https://web.archive.org/) website) on our own behalf.
 
-**About This Privacy Policy**
+**About This Privacy and Cookie Policy**
 
 In this Privacy Policy, references to “ **you** ” means any person submitting any data to us or to this Website about himself or herself or about any other living individual in respect of any use of the Website or the products available through the Website (each being a “ **Product** ”).
 
 When you use different aspects of the Website, we may ask you to supply us with various information about you or anyone whom you represent. This Privacy Policy sets out the way in which we may use such information.
 
-We are committed to protecting and respecting your privacy. This Privacy Policy (together with our “[Terms of Use](http://www.ukflooringdirect.co.uk/info/Website_Terms_of_Use.html)”, "[Terms & Conditions](http://www.ukflooringdirect.co.uk/info/Terms_%252526_Conditions.html)" and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+We are committed to protecting and respecting your privacy. This Privacy Policy (together with our “[Terms of Use](https://web.archive.org/info/website_terms_of_use)”, "[Terms and Conditions](https://web.archive.org/info/terms_and_conditions)" and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of the Data Protection Act 1998 (the Act), the data controller is UK Flooring Direct Ltd, and our registration number with the Information Commissioner’s Office is Z1146402.
 
@@ -57,13 +57,13 @@ We also need your email address and other contact details, in particular, for se
 
 
 
-We also need to use your contact details and other information for any aspect of the Website (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms and Conditions](http://www.ukflooringdirect.co.uk/info/Terms_%252526_Conditions.html) and [Terms of Use](http://www.ukflooringdirect.co.uk/www.ukflooringdirect.co.uk/info/Website_Terms_of_Use.html) and verifying information). 
+We also need to use your contact details and other information for any aspect of the Website (including, but without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms and Conditions](https://web.archive.org/info/terms_and_conditions) and [Terms of Use](https://web.archive.org/info/website_terms_of_use) and verifying information). 
 
 We may maintain your user history (such as frequency of use, data accessed and detail of data accessed) for up to six years following purchase.
 
 **Your Obligations As To Your Data**
 
-You must only submit to us, or the Website, information which is accurate and not misleading and you must keep it up-to-date and inform us of changes. You may do this through your [account](http://www.ukflooringdirect.co.uk/account/login) or by telephone on 0844 327 0000.  By submitting data in respect of you and anyone else, you must ensure that you have full authority and consent to supply us with that data on their behalf and you warrant to us that you have that authority.
+You must only submit to us, or the Website, information which is accurate and not misleading and you must keep it up-to-date and inform us of changes. You may do this through your [Account](https://web.archive.org/customer/account/login) or by telephone on 0844 327 0000.  By submitting data in respect of you and anyone else, you must ensure that you have full authority and consent to supply us with that data on their behalf and you warrant to us that you have that authority.
 
 **Third Parties and Links**
 
@@ -95,27 +95,27 @@ Please note that we collect data from the Websites about use of the Websites usi
 
 Please also note that our suppliers and advertisers may also use cookies, over which we have no control. Here is a list of the main 3rd party cookies in use and their purpose.
 
-GCT  \- Conversion tracking to show us which keywords customers are using.
+**GCT  ** \- Conversion tracking to show us which keywords customers are using.
 
-aw2736 - Set when you click on one of our links and used to let the advertiser and us know the website from which you came.
+**aw2736** \- Set when you click on one of our links and used to let the advertiser and us know the website from which you came.
 
-AWSESS - Set when you see an advert and used to help us make sure we do not keep showing you the same ones.
+**AWSESS** \- Set when you see an advert and used to help us make sure we do not keep showing you the same ones.
 
-awpv2736 - Set when you see an advert and used to let us know where you saw it.
+**awpv2736** \- Set when you see an advert and used to let us know where you saw it.
 
-AW(flash cookie) - Set when you click on an Affiliate Window link and used to let us know the website from which you came.
+**AW(flash cookie)** \- Set when you click on an Affiliate Window link and used to let us know the website from which you came.
 
-_aw_m_2736 - Set when you click on an Affiliate Window link and used to let us know the website from which you came.
+**_aw_m_2736** \- Set when you click on an Affiliate Window link and used to let us know the website from which you came.
 
-_utma, utmb, utmc, _utmz, utmx - These enable the function of Google Analytics.This information helps us to improve the website and your shopping experience, and to make our marketing campaigns more relevant.
+**_utma, utmb, utmc, _utmz, utmx** \- These enable the function of Google Analytics.This information helps us to improve the website and your shopping experience, and to make our marketing campaigns more relevant.
 
-Cnb7_CVTKEY - This cookie helps identify when you revisit the site, so we can count the number of new visitors.
+**Cnb7_CVTKEY** \- This cookie helps identify when you revisit the site, so we can count the number of new visitors.
 
-Cnb7k_CVTSESSIONKEY - This cookie helps identify the length of time spent on our site and enables us to see if your session has timed out whilst navigating the site.
+**Cnb7k_CVTSESSIONKEY** \- This cookie helps identify the length of time spent on our site and enables us to see if your session has timed out whilst navigating the site.
 
-sc.ASP.NET_SESSIONID - This is Session Cam, and data collected is used to improve our website by enabling us to find and fix errors by playing back a complete users session.
+**sc.ASP.NET_SESSIONID** \- This is Session Cam, and data collected is used to improve our website by enabling us to find and fix errors by playing back a complete users session.
 
-sc.UserId - This allows Session Cam to identify unique users and is used in our reporting.
+**sc.UserId** \- This allows Session Cam to identify unique users and is used in our reporting.
 
 Visual Web Optimizer - This enables us to see where you have clicked on our site, so we can create a better user experience.
 
@@ -137,7 +137,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **Your Rights**
 
-You have the right to ask us not to process your personal data to provide marketing information about Products or the Website. You can make changes to your privacy settings in your [Account](http://www.ukflooringdirect.co.uk/account/login) part of the Website. We will change what you receive within a reasonable time. However, changing your privacy settings may inhibit your ability to use the Website so we do not recommend that you do this. You can also telephone us on 0844 327 0000 to make these changes.
+You have the right to ask us not to process your personal data to provide marketing information about Products or the Website. You can make changes to your privacy settings in your [Account](https://web.archive.org/customer/account/login) part of the Website. We will change what you receive within a reasonable time. However, changing your privacy settings may inhibit your ability to use the Website so we do not recommend that you do this. You can also telephone us on 0844 327 0000 to make these changes.
 
 The Website may, from time to time, contain links to and from the websites of suppliers, partner networks, advertisers and affiliates. If you follow a link to any of those websites, please note that those websites have their own privacy policies and that we do not accept any responsibility or liability for those policies. Please check those privacy policies before you submit any personal data to those websites.
 
