@@ -1,94 +1,85 @@
-<!--The following is the downloaded HTML source of the mysanantonio.com privacy policy that was archived on 2013-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126090203id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysanantonio.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626045501id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- eid:channel.5748 -->
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!-- eid:channel.5748 -->        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="//api.viafoura.com/app/js/vf.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcHUF9ACQcHVVRV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+        <script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+        <!-- generated at 2014-06-25 23:41:48 on prodWCM3 running vr5.16.0.24 -->
+        <meta name="adwiz-site" content="en">
+        <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		<!-- generated at 2013-11-26 02:42:42 on prodwcm7 running vr5.2.5.241 -->
-		<meta name="adwiz-site" content="en">
-		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-		
-		<script type="text/javascript">
+        <script type="text/javascript">
+        bizobject_identifier = "channel_5748";
 
-			bizobject_identifier = "channel_5748";
-			
-			// <![CDATA[
-			// document.domain = "hearstnp.com";
-			var requestTime = new Date(1385455362 * 1000);
+        // <![CDATA[
+        var requestTime = new Date(1403757708 * 1000);
 
-																				
-								
-				
-				// bizobject variables
-				var omni_channelPath = "About Us :: Privacy Policy";
-				var omni_title = "Privacy Policy";
-				var omni_bizObjectId = "5748";
-				var omni_className = "channel";
-				var omni_publicationDate = "2010-12-02 17:01:00";
-				var omni_sourceSite="mysa";
+                    
+            
+            // bizobject variables
+        var omni_channelPath = "About Us :: Privacy Policy";
+        var omni_title = "Privacy Policy";
+        var omni_bizObjectId = "5748";
+        var omni_className = "channel";
+        var omni_publicationDate = "2010-12-02 17:01:00";
+        var omni_sourceSite="mysa";
 
-				// article specific variables
-				var omni_authorName = "";
-				var omni_authorTitle = "";
-				var omni_pageNumber = "";
-				var omni_breakingNewsFlag = "";
-				var omni_localNewsFlag = "";
+        // article specific variables
+        var omni_authorName = "";
+        var omni_authorTitle = "";
+        var omni_pageNumber = "";
+        var omni_breakingNewsFlag = "";
+        var omni_localNewsFlag = "";
 
-                			
-            			// ]]>
-		</script>
-	<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
-		
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r5.2.5.241.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r5.2.5.241.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r5.2.5.241.css" media="all">
+            // ]]>
+        </script>
+        <!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmain.r5.16.0.24.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedmodules.r5.16.0.24.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sharedpages.r5.16.0.24.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r5.16.0.24.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r5.16.0.24.css" media="all">
+<link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r5.16.0.24.css" media="all">
+        <script type="text/javascript" src="/js/hdn/utils/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/external/js/global.header.r5.16.0.24.js"></script>
+        <!-- ux/chron/templates/hearst/home/third_party_assets.tpl -->
 
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemain.r5.2.5.241.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitemodules.r5.2.5.241.css" media="all">
-	    <link rel="stylesheet" type="text/css" href="/external/css/global.sitepages.r5.2.5.241.css" media="all">
-
-				
-		<script type="text/javascript" src="/external/js/global.header.r5.2.5.241.js"></script>
-		<!-- ux/chron/templates/hearst/home/third_party_assets.tpl -->
-
+<script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
 <!-- e ux/chron/templates/hearst/home/third_party_assets.tpl -->
-
-		
-		<title>Privacy Policy - San Antonio Express-News</title>
-
-		<link rel="SHORTCUT ICON" href="/favicon.ico">
-		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-		
-			<link rel="canonical" href="http://www.mysanantonio.com/about_us/privacy_policy/">
-
-			
-						
-			
-			
-			
+        <script type="text/javascript" src="/js/hdn/utils/jquery.doubletap.js"></script>
+        <title>Privacy Policy | mySanAntonio.com | SA Express-News - San Antonio Express-News</title>
+        <link rel="SHORTCUT ICON" href="/favicon.ico">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+                                        <link rel="canonical" href="http://www.mysanantonio.com/about_us/privacy_policy/">
+        <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.mysanantonio.com/about_us/privacy_policy/">    
+    
+            <meta name="description" content="Policy for handling personal information that is collected about you when you visit web sites by Hearst, publisher of the San Antonio Express-News.">
+    
+    
+        
+        
 
     <meta property="og:title" content="Privacy Policy">
+            <meta property="og:description" content="Policy for handling personal information that is collected about you when you visit web sites by Hearst, publisher of the San Antonio Express-News.">
         <meta property="og:type" content="article">
     <meta property="og:url" content="http://www.mysanantonio.com/about_us/privacy_policy/#src=fb">
     <meta property="og:image" content="http://www.mysanantonio.com/img/pages/article/opengraph_default.jpg">
     <meta property="og:site_name" content="San Antonio Express-News">
 
     
-		<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+<!-- /business/templates/hearst/home/header_fbpage.tpl-->
     <meta property="fb:page_id" content="316774245761">
     <meta property="fb:admins" content="745850830,653226748,58963564,710213297,100001539234772,601331469">
-        		
+        <!-- templates/hearst/home/viafouraHeadMeta.tpl -->
+<meta property="vf:unique_id" content="mysa-channel-5748">
+<!-- e templates/hearst/home/viafouraHeadMeta.tpl -->
         
         <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
-
-              <!-- sectionDesign  siteid  id  -->
-
-       
-
+                            <!-- sectionDesign  siteid  id  -->
+            
+            
 <!-- CSS/JS Hotfix freeform -->
 
 <!-- hearst/item/standalone.tpl -->
@@ -114,17 +105,30 @@ ul.searchOptions_list li label {font-size: 9px;}
         margin: 0 10px 0 10px;
 }
 
+.hdn-comments .viafoura .hdn-vf-comment-counts { display: block; }
+
 </style>
 
-<!-- CFREE-6700 -->
-<script type="text/javascript">(function(e){var t=e.createElement("script");if(document.cookie.indexOf("nsghtn=dev")>-1){console.log("Ensighten DEV");t.src=e.location.protocol+"//nexus.ensighten.com/hearst/news-dev/Bootstrap.js"}else{console.log("Ensighten Prod");t.src=e.location.protocol+"//nexus.ensighten.com/hearst/news/Bootstrap.js"}t.async=true;e.getElementsByTagName("head")[0].appendChild(t)})(document)</script><script src="https://nexus.ensighten.com/hearst/news/Bootstrap.js" async=""></script>
+<!-- Bing Webmaster Tools verification -->
+<meta name="msvalidate.01" content="9451CA04ABC9D1D5C6419C73B4C4F7B7">
 
+<!-- CREQ-910 -->
 
-	</head>
+<script type="text/javascript">
+	// <![CDATA[
+	jQuery(function($) {
+		if($("body").hasClass("hst-cmfThirdPartyHeader")){
+			$('.hst-siteheader a').attr('target', '_top');
+		}
+	});
+	// ]]>
+</script>
 
-<body class="body about_us about_us-privacy_policy hst-channel">
-            <script type="text/javascript" src="/external/js/global.top.r5.2.5.241.js"></script>
-    			<!-- ux/mysa/tmpl/channel_omniture.php -->
+    
+    </head>
+    <body class="body about_us about_us-privacy_policy hst-channel">
+    <script type="text/javascript" src="/external/js/global.top.r5.16.0.24.js"></script>
+            <!-- ux/mysa/tmpl/channel_omniture.php -->
 <!-- Adobe TagManager 2.0 container -->
 
 <script type="text/javascript">//<![CDATA[
@@ -137,24 +141,20 @@ document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.adobetag.com/d1/
 
 <!-- End Adobe TagManager 2.0 container -->
 <!-- e ux/mysa/tmpl/channel_omniture.php -->
-		
-<div id="outer_bg_container">
-  <!-- outer gradient background image repeat-y  -->
-  <div id="inner_bg_container">
-     <!-- top fading gradient image fixed  -->	
-     
-    <div class="container">
-
+            <div id="outer_bg_container">
+        <!-- outer gradient background image repeat-y  -->
+        <div id="inner_bg_container">
+            <!-- top fading gradient image fixed  -->
+            <div class="container">
 <!-- ux/chron/tmpl/site_first_content.php -->
 <!-- end ux/chron/tmpl/site_first_content.php -->
-
 <!--
 channel.className: channel
 channel.comments: none
 -->
 
 <!-- hearst/home/navigation.tpl -->
-  <!-- ux/chron/templates/hearst/home/navigation.tpl -->
+	<!-- ux/chron/templates/hearst/home/navigation.tpl -->
 <!-- business/templates/hearst/home/navigation_r1.tpl -->
 <div class="hst-siteheader">
   <p class="skip">(<a href="#skip">skip this header</a>)</p>
@@ -185,7 +185,7 @@ channel.comments: none
 	<!-- hearst/item/standalone.tpl -->
 <div class="hdnce-e hdnce-item-22244"><!-- mid:freeform.22244 -->
 <div class="brandingBarLinks">
-    <span class="bolder"><strong><a href="https://myaccount.expressnews.com/dssSubscribe.aspx?PID=167" target="_blank">Subscribe to Express-News</a></strong></span> <span class="brandingBarPipes"> : </span>
+    <span class="bolder"><strong><a href="https://myaccount.expressnews.com/dssSubscribe.aspx?PID=167&amp;z=00000" target="_blank">Subscribe to Express-News</a></strong></span> <span class="brandingBarPipes"> : </span>
     <a href="http://findnsave.mysanantonio.com?ac=AFFmysanantonioSHOPNAVFLS" alt="Find&amp;Save">Find&amp;Save</a><span class="brandingBarPipes"> : </span>
     <a href="http://mysa.kaango.com/">Classifieds</a><span class="brandingBarPipes"> : </span>
     <a href="http://www.legacy.com/obituaries/sanantonio/">Obituaries</a><span class="brandingBarPipes"> : </span>
@@ -237,7 +237,7 @@ channel.comments: none
 </script>
 	<!--FB Share-->
 	<div class="FBiframeHolder">
-		<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.mysanantonio.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:20px;" allowtransparency="true"></iframe>  
+		<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FSanAntonioExpressNews&amp;width=95&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:21px;" allowtransparency="true"></iframe>
 	</div>
 	<!--End FB Share-->  
 </div>
@@ -248,7 +248,7 @@ channel.comments: none
 		<a href="/" class="logo-link">
 			<div class="logo">
 				<div class="logo_clicker">
-					<div class="date"><span>November 26, 2013</span></div>
+					<div class="date"><span>June 25, 2014</span></div>
 					<div class="site_desc"><span>San Antonio's Home Page</span></div>
 				</div> <!-- end of logo_clicker -->			
 			</div>
@@ -287,10 +287,6 @@ channel.comments: none
 					<li class="first">
 						<span class="searchOptions_custom_radios checked" data-value="property" id="search_mysa_radio" onclick="javascript:customRadioToggleAndOptions('search_mysa_radio','searchindex_key')"></span>
 						<label for="searchindex_property">mySA.com</label>
-					</li>
-					<li>
-						<span class="searchOptions_custom_radios" data-value="yahoo" id="search_yahoo_radio" onclick="javascript:customRadioToggleAndOptions('search_yahoo_radio','searchindex_key')"></span>
-						<label for="searchindex_yahoo">Web Search by <span class="yahoo">YAHOO!</span></label>
 					</li>
 					<li>
 						<span class="searchOptions_custom_radios" data-value="businesses" id="search_local_radio" onclick="javascript:customRadioToggleAndOptions('search_local_radio','searchindex_key')"></span>
@@ -378,11 +374,13 @@ channel.comments: none
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/news/local/texas/">Texas</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/news/local/military/">Military</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/news/local/communities/">Communities</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/news/local/politics/">Politics</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://conexionsa.com/">Conexion</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://www.legacy.com/obituaries/sanantonio/">Obituaries</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/news/local/traffic/">Traffic</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html">Weather</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/guidetosa/">Guide to San Antonio</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/san_antonio_charity/">San Antonio Charity</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/columnists/">Columnists</a></li>
                                                                                                                                                                                                 <li class="subMenuItem last"><a href="http://www.mysanantonio.com/blogs/#local">Blogs</a></li>
                                                                                                                                     </ul>
@@ -392,16 +390,16 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">News</p>   
-                                                                                                                    <img src="http://ww2.hdnux.com/photos/25/02/35/5515077/3/nav_img_preview.jpg" alt="Teen arrested in fatal stabbing of another teen - Photo" onclick="javascript: window.location = '/news/local/article/Teen-arrested-in-fatal-stabbing-of-another-teen-5011250.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/local/article/Teen-arrested-in-fatal-stabbing-of-another-teen-5011250.php';" style="cursor: pointer;">Teen arrested in fatal stabbing of another teen</p>
+                                                                                                                    <img src="http://ww4.hdnux.com/photos/30/65/11/6509163/6/nav_img_preview.jpg" alt="Storms pound San Antonio, bring Flash Flood Warning - Photo" onclick="javascript: window.location = '/news/local/article/Strorms-moving-through-San-Antonio-area-5578006.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/local/article/Strorms-moving-through-San-Antonio-area-5578006.php';" style="cursor: pointer;">Storms pound San Antonio, bring Flash Flood Warning</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Local</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/news/local/article/Murder-charges-possible-as-SUV-flees-wrecks-5-5010573.php">Murder charges possible as SUV flees, wrecks; 5 die</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/news/local/article/Area-spared-by-storm-now-aiming-for-E-Coast-5009552.php">Area spared by storm now aiming for E. Coast</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/local/article/SAPD-Castle-Hills-probe-cop-shooting-5009930.php">SAPD, Castle Hills probe cop shooting</a></li>
+                                                                                                                                                                                    <li><a href="/news/local/article/Man-shot-dead-in-apartment-he-was-trying-to-rob-5577878.php">2 killed in apartment shootout</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/news/local/article/Singer-Phil-Collins-to-donate-his-collection-of-5575990.php">Singer Phil Collins to make big donation at Alamo</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/local/article/MQS-refuses-to-testify-at-ethics-showdown-5580357.php">MQS refuses to testify at ethics showdown</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -423,13 +421,13 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">News</p>   
-                                                                                                                    <img src="http://ww4.hdnux.com/photos/25/01/56/5512091/3/nav_img_preview.jpg" alt="Storm to threaten holiday travel, moving east - Photo" onclick="javascript: window.location = '/news/texas/article/Storm-to-threaten-holiday-travel-moving-east-5012031.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/texas/article/Storm-to-threaten-holiday-travel-moving-east-5012031.php';" style="cursor: pointer;">Storm to threaten holiday travel, moving east</p>
+                                                                                                                    <img src="http://ww3.hdnux.com/photos/30/65/53/6511346/3/nav_img_preview.jpg" alt="Federal appeals court: Gays have right to marry - Photo" onclick="javascript: window.location = '/news/article/Court-Utah-gay-marriage-ban-unconstitutional-5578631.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/article/Court-Utah-gay-marriage-ban-unconstitutional-5578631.php';" style="cursor: pointer;">Federal appeals court: Gays have right to marry</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in US &amp; World</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/news/us/article/Former-hostages-react-to-Iran-s-nuclear-deal-5011958.php">Former hostages react to Iran's nuclear deal</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/business/energy/article/Japan-secrecy-law-stirs-fear-of-limits-on-freedoms-5011979.php">Japan secrecy law stirs fear of limits on freedoms</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/politics/article/Penny-Lane-Gitmo-s-other-secret-CIA-facility-5011782.php">Penny Lane: Gitmo's other secret CIA facility</a></li>
+                                                                                                                                                                                    <li><a href="/news/world/article/World-Cup-fuels-longshot-dreams-for-Brazil-s-poor-5580327.php">World Cup fuels longshot dreams for Brazil's poor</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/news/us/article/Glitch-delays-media-preview-of-tallest-water-slide-5579695.php">Glitch delays media preview of tallest water slide</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/us/article/Fancy-freebies-Tycoon-to-treat-homeless-to-lunch-5577373.php">Beef filet filling but cash is what they came for</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </div> <!-- End subnavRight -->
@@ -446,6 +444,8 @@ channel.comments: none
                                                                                                                                                 <li class="subMenuItem"><a href="/business/local/">Local</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/business/national/">National &amp; International</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/business/eagle-ford-energy/">Eagle Ford &amp; Energy</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/business/automotive/">Automotive News</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/business/technology/">Technology</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/business/top-work-places/">Top Workplaces</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://www.mysanantonio.com/sponsoredarticles/business/">Sponsored Content</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://www.mysanantonio.com/blogs/#business">Blogs</a></li>
@@ -457,16 +457,16 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">Business</p>   
-                                                                                                                    <img src="http://ww1.hdnux.com/photos/25/02/25/5514620/3/nav_img_preview.jpg" alt="Hoyer praises Toyota for creating jobs in U.S. - Photo" onclick="javascript: window.location = '/business/local/article/Hoyer-praises-Toyota-for-creating-jobs-in-U-S-5011472.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/business/local/article/Hoyer-praises-Toyota-for-creating-jobs-in-U-S-5011472.php';" style="cursor: pointer;">Hoyer praises Toyota for creating jobs in U.S.</p>
+                                                                                                                    <img src="http://ww4.hdnux.com/photos/30/65/25/6509923/3/nav_img_preview.jpg" alt="Decision means Eagle Ford condensate can be exported - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/eagle-ford-fix/2014/06/decision-means-eagle-ford-condensate-can-be-exported/';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/eagle-ford-fix/2014/06/decision-means-eagle-ford-condensate-can-be-exported/';" style="cursor: pointer;">Decision means Eagle Ford condensate can be exported</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Business</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/business/slideshow/Store-hours-for-Black-Friday-2013-74848.php">Store hours for Black Friday 2013</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/business/health-care/article/UHS-prepares-for-busier-year-New-tower-more-5011485.php">UHS prepares for busier year: New tower, more doctors</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/business/eagle-ford-energy/article/Manufacturers-says-changing-power-market-would-5011516.php">Manufacturers says changing power market would raise costs</a></li>
+                                                                                                                                                                                    <li><a href="/business/local/article/Taco-Cabana-executive-wins-Spurs-bet-5576467.php">Taco Cabana executive wins Spurs bet</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/business/health-care/article/East-Side-getting-new-UHS-family-health-clinic-5578910.php">East Side getting new UHS family health clinic</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/local/texas/article/Texas-counties-that-have-more-gun-stpres-than-5565231.php">Something surprising about Texas gun stores</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -477,7 +477,7 @@ channel.comments: none
                                     <div class="subnavLeft">
                                         <h2><span class="first-word">In</span> Sports</h2>
                                         <ul class="subnavlinks">
-                                                                                                                                                <li class="subMenuItem"><a href="http://www.spursnation.com">Spurs</a></li>
+                                                                                                                                                <li class="subMenuItem"><a href="http://blog.mysanantonio.com/spursnation/">San Antonio Spurs</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/sports/pro-sports/">Pro Sports</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/sports/colleges/">Colleges</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/sports/high-school/">High Schools</a></li>
@@ -490,13 +490,13 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">Sports</p>   
-                                                                                                                    <img src="http://ww4.hdnux.com/photos/25/02/44/5515555/5/nav_img_preview.jpg" alt="Easy-does-it works just fine for Spurs - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/spursnation/2013/11/26/easy-does-it-works-just-fine-for-spurs/';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/spursnation/2013/11/26/easy-does-it-works-just-fine-for-spurs/';" style="cursor: pointer;">Easy-does-it works just fine for Spurs</p>
+                                                                                                                    <img src="http://ww3.hdnux.com/photos/27/05/32/6051482/3/nav_img_preview.jpg" alt="UFC workouts scheduled for Thursday - Photo" onclick="javascript: window.location = '/sports/pro-sports/article/UFC-workouts-scheduled-for-Thursday-5578992.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/sports/pro-sports/article/UFC-workouts-scheduled-for-Thursday-5578992.php';" style="cursor: pointer;">UFC workouts scheduled for Thursday</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Sports</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/hssports/2013/11/the-cart-cast-third-round/">The Cart Cast: E-N writers discuss high school football playoffs</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/spursnation/2013/11/26/video-pelicans-vs-spurs-postgame-wrap/">Video: Pelicans vs Spurs Postgame Wrap</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/spursnation/2013/11/26/spurs-notebook-new-orleans-davis-shut-down-with-group-effort/">Spurs notebook: New Orleans’ Davis shut down with group effort</a></li>
+                                                                                                                                                                                    <li><a href="/sports/article/Game-with-bite-Suarez-could-be-in-trouble-again-5575883.php">World Cup crew stunned when player bites opponent</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/sports/silver_stars/article/Mystics-surge-past-Stars-in-fourth-quarter-5576466.php">Mystics surge past Stars in fourth quarter</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/utsa/2014/06/garrett-smashes-personal-record-takes-fifth-at-usa-outdoor-meet/">Garrett smashes personal record, takes fifth at USA outdoor meet</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </div> <!-- End subnavRight -->
@@ -514,25 +514,26 @@ channel.comments: none
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://events.mysanantonio.com/search?st=restaurant">Restaurant Search</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/food/bars-drinks/">Bars &amp; Drinks</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/food/recipes-cooking/">Recipes &amp; Cooking</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="/food/columnists/">Columnists</a></li>
-                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://www.mysanantonio.com/blogs/#food">Blogs</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/columnists/">Columnists</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://www.mysanantonio.com/blogs/#food">Blogs</a></li>
+                                                                                                                                                                                                <li class="subMenuItem last"><a href="/sponsored/corkboard/">Sponsored: Corkboard</a></li>
                                                                                                                                     </ul>
                                     </div>
                                     <div class="subnavRight">
                                         
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
-                                                        <p class="subnavPreviewTitle">Food</p>   
-                                                                                                                    <img src="http://ww3.hdnux.com/photos/24/75/55/5495642/5/nav_img_preview.jpg" alt="Taste Test: Blanco BBQ - Photo" onclick="javascript: window.location = '/food/restaurants/article/Review-Blanco-BBQ-4999465.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/food/restaurants/article/Review-Blanco-BBQ-4999465.php';" style="cursor: pointer;">Taste Test: Blanco BBQ</p>
+                                                        <p class="subnavPreviewTitle">Lifestyle</p>   
+                                                                                                                    <img src="http://ww2.hdnux.com/photos/30/65/41/6510705/4/nav_img_preview.jpg" alt="Tonight’s dinner inspiration: Fish a la Veracruzana - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/emily-spicer/2014/06/tonights-dinner-inspiration-fish-a-la-veracruzana/';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/emily-spicer/2014/06/tonights-dinner-inspiration-fish-a-la-veracruzana/';" style="cursor: pointer;">Tonight’s dinner inspiration: Fish a la Veracruzana</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Food</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/news/local/slideshow/How-to-celebrate-Thanksgiving-and-Hanukkah-74700.php">How to celebrate Thanksgiving and Hanukkah</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/food/slideshow/Thanksgiving-A-to-Z-74386.php">Thanksgiving A to Z</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/food/restaurants/article/A-Conversation-With-Dan-Ward-of-Piatti-4999581.php">A Conversation With ... Dan Ward of Piatti</a></li>
+                                                                                                                                                                                    <li><a href="/entertainment/readers-choice/article/Tradition-helps-make-Chris-Madrid-s-favorite-5542462.php">S.A.'s best burger named by voters</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/tanji-patton/2014/06/dive-in-grill-seafood-like-the-pros/">Dive In &amp; grill seafood like the pros</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/food/2014/06/texas-tiki-week-events-in-san-antonio/">Texas Tiki Week events in San Antonio</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -547,9 +548,12 @@ channel.comments: none
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/entertainment/movies-tv/">Movies &amp; TV</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/entertainment/music-stage/">Music &amp; Stage</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/entertainment/arts-culture/">Arts &amp; Culture</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/guidetosa/">Guide to San Antonio</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/entertainment/readers-choice/">Readers' Choice</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/entertainment/celebrities/">Celebrity Buzz</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/entertainment/horoscope/">Horoscope</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/entertainment/comics_games/">Comics &amp; Games</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="/entertainment/columnists/">Columnists</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/columnists/">Columnists</a></li>
                                                                                                                                                                                                 <li class="subMenuItem last"><a href="http://www.mysanantonio.com/blogs/#entertainment">Blogs</a></li>
                                                                                                                                     </ul>
                                     </div>
@@ -558,16 +562,16 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">Entertainment</p>   
-                                                                                                                    <img src="http://ww4.hdnux.com/photos/25/00/77/5509091/9/nav_img_preview.jpg" alt="American Music Awards 2013: Red carpet - Photo" onclick="javascript: window.location = '/entertainment/slideshow/American-Music-Awards-2013-Red-carpet-74748.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/entertainment/slideshow/American-Music-Awards-2013-Red-carpet-74748.php';" style="cursor: pointer;">American Music Awards 2013: Red carpet</p>
+                                                                                                                    <img src="http://ww2.hdnux.com/photos/30/65/12/6509185/3/nav_img_preview.jpg" alt="Duncan, girlfriend, kids on Letterman - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/jakle06/2014/06/duncan-great-but-kids-girlfriend-nearly-steal-show/';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/jakle06/2014/06/duncan-great-but-kids-girlfriend-nearly-steal-show/';" style="cursor: pointer;">Duncan, girlfriend, kids on Letterman</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Entertainment</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/entertainment/slideshow/Miley-s-performance-art-74783.php">Gallery: Miley's performance art</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/jakle06/2013/11/wow-eva-naked-on-elle-republican-on-simpsons/">Wow! Eva naked on ‘Elle’; Republican on ‘Simpsons’</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/local/article/Griffin-s-stand-ups-add-up-to-record-5008698.php">Griffin's stand-ups add up to record</a></li>
+                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/jakle06/2014/06/kawhi-gets-wild-welcome-on-live/">Kawhi gets wild welcome on ‘Live’</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/jakle06/2014/06/s-a-anchors-get-engaged-before-babys-birth/">S.A. anchors get engaged before baby’s birth</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/weekender/2014/06/broken-bells-sets-aztec-theatre-date/">Popular indie band sets S.A. date</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -582,26 +586,27 @@ channel.comments: none
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/lifestyle/home-garden/">Home &amp; Garden</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/lifestyle/travel-outdoors/">Travel &amp; Outdoors</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/lifestyle/trends-style/">Trends &amp; Style</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="http://www.mysanantonio.com/sponsoredarticles/lifestyle/">Sponsored Content</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="/lifestyle/columnists/">Columnists</a></li>
-                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://www.mysanantonio.com/blogs/#lifestyle">Blogs</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/guidetosa/">Guide to San Antonio</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/columnists/">Columnists</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://www.mysanantonio.com/blogs/#lifestyle">Blogs</a></li>
+                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://www.mysanantonio.com/sponsoredarticles/lifestyle/">Sponsored Content</a></li>
                                                                                                                                     </ul>
                                     </div>
                                     <div class="subnavRight">
                                         
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
-                                                        <p class="subnavPreviewTitle">Lifestyle</p>   
-                                                                                                                    <img src="http://ww4.hdnux.com/photos/20/43/63/4340967/5/nav_img_preview.jpg" alt="Inflammation linked to host of conditions - Photo" onclick="javascript: window.location = '/lifestyle/health-family/article/Inflammation-linked-to-host-of-conditions-5003794.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/lifestyle/health-family/article/Inflammation-linked-to-host-of-conditions-5003794.php';" style="cursor: pointer;">Inflammation linked to host of conditions</p>
+                                                        <p class="subnavPreviewTitle">News</p>   
+                                                                                                                    <img src="http://ww2.hdnux.com/photos/30/63/00/6500385/3/nav_img_preview.jpg" alt="Royal Palace Ballroom reigns on South Side - Photo" onclick="javascript: window.location = '/news/local/communities/southside/article/Royal-Palace-Ballroom-reigns-on-South-Side-5573694.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/local/communities/southside/article/Royal-Palace-Ballroom-reigns-on-South-Side-5573694.php';" style="cursor: pointer;">Royal Palace Ballroom reigns on South Side</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Lifestyle</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/lifestyle/home-garden/article/Small-space-is-big-on-style-4999704.php">Spaces: Finding more with much less</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/lifestyle/travel-outdoors/article/Holiday-glow-Celebrations-around-Texas-4998564.php">Holiday glow: Celebrations around Texas</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/lifestyle/home-garden/article/Protect-plants-from-freezing-temperatures-5001502.php">Protect plants from freezing temperatures</a></li>
+                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/travel/2014/06/bastrop-bouncing-back/">Bastrop bouncing back</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/lifestyle/travel-outdoors/slideshow/10-of-the-hottest-places-in-the-world-88458.php">10 of the hottest places in the world</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/getfit/2014/06/bringing-paddleboard-yoga-indoors/">Bringing paddleboard yoga indoors</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -614,7 +619,8 @@ channel.comments: none
                                         <ul class="subnavlinks">
                                                                                                                                                 <li class="subMenuItem"><a href="/opinion/editorials/">Editorials</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/opinion/commentary/">Commentary</a></li>
-                                                                                                                                                                                                <li class="subMenuItem last"><a href="/opinion/letters_to_the_editor/">Letters to the Editor</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="/opinion/letters_to_the_editor/">Letters to the Editor</a></li>
+                                                                                                                                                                                                <li class="subMenuItem last"><a href="/opinion/columnists/">Columnists</a></li>
                                                                                                                                     </ul>
                                     </div>
                                     <div class="subnavRight">
@@ -622,16 +628,16 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">Opinion</p>   
-                                                                                                                    <img src="http://ww2.hdnux.com/photos/25/01/72/5512877/5/nav_img_preview.jpg" alt="Today's Editorial Cartoon: Nov. 26 - Photo" onclick="javascript: window.location = '/opinion/article/Today-s-Editorial-Cartoon-Nov-26-5010816.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/opinion/article/Today-s-Editorial-Cartoon-Nov-26-5010816.php';" style="cursor: pointer;">Today's Editorial Cartoon: Nov. 26</p>
+                                                                                                                    <img src="http://ww1.hdnux.com/photos/30/65/44/6510864/5/nav_img_preview.jpg" alt="Today's Editorial Cartoon: June 26 - Photo" onclick="javascript: window.location = '/opinion/article/Today-s-Editorial-Cartoon-June-26-5579457.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/opinion/article/Today-s-Editorial-Cartoon-June-26-5579457.php';" style="cursor: pointer;">Today's Editorial Cartoon: June 26</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Opinion</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/opinion/commentary/article/Technology-won-t-ruin-Thanksgiving-this-year-5010807.php">Technology won't ruin Thanksgiving this year</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li><a href="/opinion/letters_to_the_editor/article/Your-Turn-Nov-26-5010755.php">Your Turn: Nov. 26</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/opinion/commentary/article/Women-are-passing-the-Marine-infantry-course-get-5010808.php">Women are passing the Marine infantry course; get over it</a></li>
+                                                                                                                                                                                    <li><a href="/opinion/commentary/article/Accept-that-we-are-all-crooked-timber-5579387.php">Accept that we are all crooked timber</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/opinion/letters_to_the_editor/article/Your-Turn-June-26-5579375.php">Your Turn: June 26</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/opinion/editorials/article/Yes-good-reason-to-target-soda-5579379.php">Yes, good reason to target soda</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -652,12 +658,12 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle"></p>   
-                                                                                                                    <img src="http://ww1.hdnux.com/photos/25/01/32/5510824/3/nav_img_preview.jpg" alt="2013 Volkswagen Touareg Hybrid — a pricey VW sport utility vehicle - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/carsource/2013/11/2013-volkswagen-touareg-hybrid-a-pricey-vw-sport-utility-vehicle/';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/carsource/2013/11/2013-volkswagen-touareg-hybrid-a-pricey-vw-sport-utility-vehicle/';" style="cursor: pointer;">2013 Volkswagen Touareg Hybrid — a pricey VW sport utility vehicle</p>
+                                                                                                                    <img src="http://ww4.hdnux.com/photos/30/62/76/6500279/3/nav_img_preview.jpg" alt="The best and worst states for summer road trips - Photo" onclick="javascript: window.location = 'http://blog.mysanantonio.com/carsource/2014/06/the-best-and-worst-states-for-summer-road-trips/';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = 'http://blog.mysanantonio.com/carsource/2014/06/the-best-and-worst-states-for-summer-road-trips/';" style="cursor: pointer;">The best and worst states for summer road trips</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Cars</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/carsource/2013/11/the-1-1-million-monstrosity-at-the-la-auto-show/">The $1.1 million monstrosity at the LA Auto Show</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/carsource/2013/11/here-is-the-insane-mercedes-gt-racer-you-will-never-drive/">Here is the insane Mercedes GT racer you will never drive</a></li>
+                                                                                                                                                                                    <li><a href="http://blog.mysanantonio.com/carsource/2014/06/2014-mazda-cx-9-a-big-seven-person-hauler/">2014 Mazda CX-9 — a big seven-person hauler.</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/carsource/2014/06/nascar-at-sonoma-raceway-this-weekend-big-cars-bigger-noise/">NASCAR at Sonoma Raceway this weekend — big cars, bigger noise.</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
                                                                                                                                                                                                                                                                                                                                                                                 </div> <!-- End subnavRight -->
@@ -673,7 +679,8 @@ channel.comments: none
                                         <ul class="subnavlinks">
                                                                                                                                                 <li class="subMenuItem"><a href="http://sanantonio.salary.com/SalaryWizard/LayoutScripts/Swzl_NewSearch.aspx">Salary Wizard</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="/jobs/healthcareerstoday/">Health Careers Today</a></li>
-                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://www.mysanantonio.com/business/top_work_places/">Top Workplaces</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://www.mysanantonio.com/business/top_work_places/">Top Workplaces</a></li>
+                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://www.mysanantonio.com/jobs/item/MEGA-Job-Fair-9086.php">Job Fairs</a></li>
                                                                                                                                     </ul>
                                     </div>
                                     <div class="subnavRight">
@@ -681,47 +688,49 @@ channel.comments: none
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
                                                         <p class="subnavPreviewTitle">News</p>   
-                                                                                                                    <img src="http://ww4.hdnux.com/photos/24/76/40/5498895/5/nav_img_preview.jpg" alt="Unemployment falls in most US states in October - Photo" onclick="javascript: window.location = '/news/article/Unemployment-falls-in-most-US-states-in-October-5001423.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/article/Unemployment-falls-in-most-US-states-in-October-5001423.php';" style="cursor: pointer;">Unemployment falls in most US states in October</p>
+                                                                                                                    <img src="http://ww4.hdnux.com/photos/30/64/15/6505335/3/nav_img_preview.jpg" alt="Bill Clinton defends wife's commitment to poor - Photo" onclick="javascript: window.location = '/news/politics/article/Hillary-Clinton-to-announce-youth-jobs-push-5574316.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/news/politics/article/Hillary-Clinton-to-announce-youth-jobs-push-5574316.php';" style="cursor: pointer;">Bill Clinton defends wife's commitment to poor</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Jobs</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/news/article/US-job-openings-overall-hiring-reach-5-year-highs-5001310.php">US job openings, overall hiring reach 5-year highs</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/news/world/article/Foreign-trainees-in-Japan-face-exploitation-5000754.php">Foreign trainees in Japan face exploitation</a></li>
+                                                                                                                                                                                    <li><a href="/news/article/Why-a-grim-US-economic-picture-is-brightening-5575766.php">Why a grim US economic picture is brightening</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/business/energy/article/Abe-s-grand-plan-to-revive-Japan-s-economic-might-5574815.php">Abe's grand plan to revive Japan's economic might</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
                                                 
                                                                                                 <li class="subMenuContainer menu_default menu_homes">
-                                <a href="/real-estate/" class="subMenuLink homes  last-link">Homes<div class="subnavLeft_notch homes"></div></a>
+                                <a href="http://realestate.mysanantonio.com/" class="subMenuLink homes  last-link">Homes<div class="subnavLeft_notch homes"></div></a>
                                 <ul class="subnav" style=" left:-254px !important;  z-index:999 ;">
                                     <div class="subnavLeft">
                                         <h2><span class="first-word">In</span> Homes</h2>
                                         <ul class="subnavlinks">
-                                                                                                                                                <li class="subMenuItem"><a href="/real-estate/">Home Search</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="http://mysanantonio.homes.com">Apartment Search</a></li>
+                                                                                                                                                <li class="subMenuItem"><a href="http://realestate.mysanantonio.com/">Home Search</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://realestate.mysanantonio.com/">Apartment Search</a></li>
                                                                                                                                                                                                 <li class="subMenuItem"><a href="http://www.landsofamerica.com/landsconnector/san-antonio-express-news">Land</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="/real-estate/rentals/">Rentals</a></li>
-                                                                                                                                                                                                <li class="subMenuItem"><a href="http://mysanantonio.t11e-solutions.com/real-estate/search#!open_house_date=upcoming">Open Houses</a></li>
-                                                                                                                                                                                                <li class="subMenuItem last"><a href="http://newhomesource.com/mysanantonio">New Construction</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://realestate.mysanantonio.com/">Rentals</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://realestate.mysanantonio.com/open-houses/">Open Houses</a></li>
+                                                                                                                                                                                                <li class="subMenuItem"><a href="http://newhomesource.com/mysanantonio">New Construction</a></li>
+                                                                                                                                                                                                <li class="subMenuItem last"><a href="/real-estate/sponsored/luxury-homes/">Sponsored: Extraordinary Living</a></li>
                                                                                                                                     </ul>
                                     </div>
                                     <div class="subnavRight">
                                         
                                                                                                                                 <div class="subnavPreview" style="display: block;">
                                                                                                      
-                                                        <p class="subnavPreviewTitle">Lifestyle</p>   
-                                                                                                                    <img src="http://ww1.hdnux.com/photos/24/76/42/5499064/3/nav_img_preview.jpg" alt="With 3-D printers, life a DIY workshop - Photo" onclick="javascript: window.location = '/lifestyle/home-garden/article/With-3-D-printers-life-a-DIY-workshop-5001635.php';" style="cursor: pointer;">
-                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/lifestyle/home-garden/article/With-3-D-printers-life-a-DIY-workshop-5001635.php';" style="cursor: pointer;">With 3-D printers, life a DIY workshop</p>
+                                                        <p class="subnavPreviewTitle"></p>   
+                                                                                                                    <img src="http://ww1.hdnux.com/photos/30/63/52/6503080/6/nav_img_preview.jpg" alt="Ex-Texans QB selling Houston home - Photo" onclick="javascript: window.location = '/homes/article/Matt-Schaub-house-Tanglewood-Houston-Texans-5575361.php';" style="cursor: pointer;">
+                                                                                                                    <p class="imgTitle" onclick="javascript: window.location = '/homes/article/Matt-Schaub-house-Tanglewood-Houston-Texans-5575361.php';" style="cursor: pointer;">Ex-Texans QB selling Houston home</p>
                                                                                                                                                                                                                                                                                                                                 <p class="subnavPreviewListTitle">Top Stories in Homes</p>
                                                             <ul class="subnavPreviewUlList">
-                                                                                                                                                                                    <li><a href="/real-estate/article/AIA-offices-moving-to-SoFlo-5001516.php">AIA offices moving to SoFlo</a></li>
-                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="/lifestyle/home-garden/article/Protect-plants-from-freezing-temperatures-5001502.php">Protect plants from freezing temperatures</a></li>
+                                                                                                                                                                                    <li><a href="/real-estate/article/Spacious-home-perfect-for-entertaining-5023927.php">Spacious home perfect for entertaining</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li><a href="/real-estate/slideshow/Parade-of-Homes-2014-88126.php">S.A. Parade of Homes at The Dominion</a></li>
+                                                                                                                                                                                                                                                                                                                                    <li class="last"><a href="http://blog.mysanantonio.com/realestate/2014/05/casa-blanca-lofts-move-in-ready/">Casa Blanca Lofts move-in ready</a></li>
                                                                                                                                                                     </ul><!-- End subnavPreviewUlList -->   
                                                                                                                                                 </div><!--End subnavPreview-->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div> <!-- End subnavRight -->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div> <!-- End subnavRight -->
                                     <div class="flyout_bottom_rule"></div>
                                 </ul>
                             </li>
@@ -759,7 +768,8 @@ channel.comments: none
 	
 </div>
 <!-- e business/templates/hearst/home/navigation_r1.tpl --><!-- e ux/chron/templates/hearst/home/navigation.tpl -->
-<!-- e hearst/home/navigation.tpl -->	<!-- templates/design/channel/section_front_r1.tpl  -->
+<!-- e hearst/home/navigation.tpl -->
+	<!-- templates/design/channel/section_front_r1.tpl  -->
 
 <div class="pagecontent faux-21 about_us clearfix">
     <div class="span-21b clearfix">
@@ -808,6 +818,8 @@ channel.comments: none
   <p><strong>(e)	Location Information.</strong> We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services (“WAP Services”) or mobile phone service (“Mobile Services”).  We, or the service provider, will inform you of such collection at the time you use the service.  By using such service, you hereby consent to our collection, use and disclosure of your location information as described. <br>
   </p>
   <p><strong>(f)	Third Parties.</strong> We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to ourNewspaper. Those third parties have privacy policies that differ from this Privacy Policy.<br>
+  </p>
+  <p><strong>(g) Tracking Requests.</strong> Hearst does not act on Do Not Track requests from your browser.  For more information <a href="#" id="DNT-modal">click here</a>.<br>
   </p>
 </blockquote>
 <p>&nbsp;</p>
@@ -902,6 +914,114 @@ channel.comments: none
 </p>
 <p></p>
       </div>
+  
+        <div class="hst-freeform hdnce-e hdnce-item-26339"><!-- mid:freeform.26339 -->
+          <style>
+ol {
+	margin: 0 0 0 10px;
+	padding: 0 0 0 10px;
+}
+#overlay {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:#000;
+    opacity:0.5;
+    filter:alpha(opacity=50);
+}
+#modal {
+    position:absolute;
+    background:rgba(0, 0, 0, 0.2);
+    border-radius:14px;
+    padding:6px;
+}
+#content {
+    border-radius:8px;
+    background:#fff;
+    padding:20px;
+}
+#close {
+    position:absolute;
+    background:url('http://extras.sfgate.com/img/close.png') 0 0 no-repeat;
+    width:24px;
+    height:27px;
+    display:block;
+    text-indent:-9999px;
+    top:-7px;
+    right:-7px;
+}
+</style>
+<script>
+var modal = (function () {
+	var method = {},
+		$overlay,
+		$modal,
+		$content,
+		$close;
+	// Center the modal in the viewport
+	method.center = function () {
+		var top, left;
+		top = Math.max($(window).height() - $modal.outerHeight(), 0) / 2;
+		left = Math.max($(window).width() - $modal.outerWidth(), 0) / 2;
+		$modal.css({
+			top: top + $(window).scrollTop(),
+			left: left + $(window).scrollLeft()
+		});
+	};
+    // Open the modal
+    method.open = function (settings) {
+        $content.empty().append(settings.content);
+        $modal.css({
+            width: settings.width || 'auto',
+            height: settings.height || 'auto'
+        });
+        method.center();
+        $(window).bind('resize.modal', method.center);
+        $modal.show();
+        $overlay.show();
+    };
+    // Close the modal
+    method.close = function () {
+        $modal.hide();
+        $overlay.hide();
+        $content.empty();
+        $(window).unbind('resize.modal');
+    };
+    // Generate the HTML and add it to the document
+    $overlay = $('<div id="overlay"></div>');
+    $modal = $('<div id="modal"></div>');
+    $content = $('<div id="content"></div>');
+    $close = $('<a id="close" href="#">close</a>');
+    $modal.hide();
+    $overlay.hide();
+    $modal.append($content, $close);
+    $(document).ready(function () {
+        $('body').append($overlay, $modal);
+    });
+    $close.click(function (e) {
+        e.preventDefault();
+        method.close();
+    });
+    return method;
+}());
+
+$(document).ready(function () {
+    $.get('ajax.html', function (data) {
+        modal.open({
+            content: data
+        });
+    });
+    $('#DNT-modal').click(function (e) {
+        modal.open({
+            content: '<span style="text-transform: uppercase;">' + HDN.domain + '</span> does not act on Do Not Track requests from your browser. This way, we are able to personalize your experience on our sites and tailor content to your interests.'
+        });
+        e.preventDefault();
+    });
+});
+</script>
+      </div>
               </div>
             
             <div class="span-10">
@@ -913,18 +1033,6 @@ channel.comments: none
         </div><!--/.faux-10-->
         
                 
-        
-            
-                 
-        <!-- ux/mysa/tmpl/ysm_contextual.php -->
-
-<div class="hst-ysm">
-	<a class="ysm_title" target="_blank" href="http://info.yahoo.com/services/us/yahoo/ads/details.html">Ads by Yahoo!</a>
-    <script type="text/javascript" src="/js/hdn/ysmwrapper.js"></script><iframe title="" ads="" by="" yahoo!""="" src="https://web.archive.org/web/20131126091604/http://cm.npc-hearst.overture.com/js_1_0/?config=2130893885&amp;type=news&amp;ctxtId=news&amp;keywordCharEnc=utf8&amp;source=npc_hearst_houstonchronicle_t1_ctxt&amp;adwd=728&amp;adht=90&amp;ctxtUrl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131126091604%2Fhttp%3A%2F%2Fwww.chron.com&amp;css_url=https://web.archive.org/css/modules/ads/ysm.css&amp;du=1&amp;cb=1582540939486&amp;ctxtContent=head!%20eid%3Achannel.5748%20%0A%09meta%20httpequiv%3Dcontenttype%20content%3Dtext%2Fhtml%20charset%3Dutf8%0A%20%20%20%20meta%20httpequiv%3DXUACompatible%20content%3DIE%3Dedge%2Cchrome%3D1%0A%20%20%20%20scriptvar%20HDN%20%3D%20HDN%20%7C%7C%20%7B%7D%20HDN.t_firstbyte%20%3D%20Numbernew%20Date%2Fscript%0A%0A%09%09!%20generated%20at%2020131126%2002%3A42%3A42%20on%20prodwcm7%20running%20vr5.2.5.241%20%0A%09%09meta%20name%3Dadwizsite%20content%3Den%0A%09%09meta%20name%3DSKYPE_TOOLBAR%20content%3DSKYPE_TOOLBAR_PARSER_COMPATIBLE%0A%0A%09%09%0A%09%09script%20type%3Dtext%2Fjavascript%0A%0A%09%09%09bizobject_identifier%20%3D%20channel_5748%0A%09%09%09%0A%09%09%09%2F%2F%20!%5BCDATA%5B%0A%09%09%09%2F%2F%20document.domain%20%3D%20hear" width="728" height="90" frameborder="0" hspace="0" vspace="0" scrolling="no" marginwidth="0" marginheight="0" allowtransparency="true" name="iframe0"></iframe>
-</div>
-
-<!-- e ux/mysa/tmpl/ysm_contextual.php -->
-            
                 
     </div><!--/.span-21b-->
 
@@ -956,29 +1064,57 @@ channel.comments: none
         </ul>
 <!-- e ux/mysa/templates/hearst/home/most_commented_header.tpl -->
 
+
     
                 <div class="content-tab"><ol>
+                            <li>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="http://blog.mysanantonio.com/jakle06/2014/06/duncan-great-but-kids-girlfriend-nearly-steal-show/" title="Duncan great, but kids, girlfriend nearly steal show">Duncan great, but kids, girlfriend nearly steal show</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
 
-                            <li>
-                    <a href="/news/local/article/SAPD-officer-accused-of-sexual-assault-arrested-5005742.php" title="SAPD officer accused of rape">SAPD officer accused of rape</a>
+                    <span style="display: none;">1</span>
                 </li>
                             <li>
-                    <a href="/news/crime/article/Country-singer-dies-after-Tenn-bar-shooting-5008317.php" title="Country singer dies after Tenn. bar shooting">Country singer dies after Tenn. bar shooting</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="http://blog.mysanantonio.com/jakle06/2014/06/kawhi-gets-wild-welcome-on-live/" title="Kawhi gets wild welcome on ‘Live’">Kawhi gets wild welcome on ‘Live’</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">2</span>
                 </li>
                             <li>
-                    <a href="/news/local/article/Man-allegedly-killed-by-girlfriend-identified-5008216.php" title="Man allegedly killed by girlfriend identified">Man allegedly killed by girlfriend identified</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/local/article/Strorms-moving-through-San-Antonio-area-5578006.php" title="Storms pound San Antonio, bring Flash Flood Warning">Storms pound San Antonio, bring Flash Flood Warning</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">3</span>
                 </li>
                             <li>
-                    <a href="/news/local/article/5-dead-after-fleeing-vehicle-strikes-tree-5010573.php" title="Murder charges possible as SUV flees, wrecks; 5 die">Murder charges possible as SUV flees, wrecks; 5 die</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="http://blog.mysanantonio.com/spursnation/2014/06/24/duncan-to-letterman-i-thought-about-retiring/" title="Duncan to Letterman: I considered retirement">Duncan to Letterman: I considered retirement</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">4</span>
                 </li>
                             <li>
-                    <a href="/news/texas/article/Texas-to-get-hit-with-freezing-rain-sleet-5008812.php" title="Texas to get hit with freezing rain, sleet">Texas to get hit with freezing rain, sleet</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/local/article/Man-shot-dead-in-apartment-he-was-trying-to-rob-5577878.php" title="2 killed in apartment shootout during apparent robbery attempt">2 killed in apartment shootout during apparent robbery attempt</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">5</span>
                 </li>
                             <li>
-                    <a href="/news/local/history-culture/slideshow/S-A-Back-in-the-Day-Snow-of-January-1985-54291.php" title="S.A. Back in the Day: Snow of January 1985">S.A. Back in the Day: Snow of January 1985</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/local/article/Gigantic-closure-of-U-S-281-near-airport-this-5578760.php" title="'Gigantic' closure of U.S. 281 near airport this weekend">'Gigantic' closure of U.S. 281 near airport this weekend</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">6</span>
                 </li>
                             <li class="last">
-                    <a href="http://blog.mysanantonio.com/spursnation/2012/09/08/spurs-named-team-of-the-decade-in-espn-the-magazines-issue-that-is-all-about-sports-franchises-good-and-bad/" title="Spurs named ‘Team of the Decade’">Spurs named ‘Team of the Decade’</a>
+                    <!-- src hearst/home/most_popular_title_link.tpl -->
+<a href="/news/local/article/Singer-Phil-Collins-to-donate-his-collection-of-5575990.php" title="Singer Phil Collins to donate his collection of artifacts to Alamo">Singer Phil Collins to donate his collection of artifacts to Alamo</a>
+<!-- e src hearst/home/most_popular_title_link.tpl -->
+
+                    <span style="display: none;">7</span>
                 </li>
             
         </ol></div>
@@ -997,30 +1133,40 @@ channel.comments: none
 	    <div class="hst-halfbanner">
     	<div id="BC234" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("BC234"); /*]]>*/ </script></div>
     </div>	  
-</div><!--/.span-10-->
+  <!-- hearst/ads/medium_rectangle_ad_third.tpl -->
+
+<div id="hst-mediumrectangle3" class="hst-mediumrectangle clearfix">
+<div id="S300" class="ad_deferrable"><script type="text/javascript"> /*<![CDATA[*/ hearstPlaceAd("S300"); /*]]>*/ </script></div>
+</div>
+<!-- e medium_rectangle_ad_third.tpl --></div><!--/.span-10-->
 
 <!-- e templates/hearst/home/homepage_right_content.tpl  -->
     </div><!--/.content-->
 
 <!-- e templates/design/channel/section_front_r1.tpl  -->
-<!-- src/business/templates/hearst/common/footer.tpl -->
+	<!-- src/business/templates/hearst/common/footer.tpl -->
     <!-- hearst/sitemenu/site_footer.tpl -->
 
 <div class="hst-sitefooter">
   <div class="footer_gradient_container"></div>
-
-
-<!-- hearst/sitemenu/footer_r1.tpl -->
+    
+    <!-- hearst/sitemenu/footer_r1.tpl -->
 <!-- ux/mysa/templates/hearst/sitemenu/footer_local.tpl -->
-<ul class="sf-link-list"><li><a class="mysa_footer_logo" href="/"><img src="/img/modules/mysa_redesign_assets/mySA_logo_footer.png" alt="San Antonio Express News"></a></li><li class="menu_default menu_local"><a href="/news/local/">Local</a></li><li class="menu_default menu_usworld"><a href="/news/us-world/">US &amp; World</a></li><li class="menu_default menu_business"><a href="/business/">Business</a></li><li class="menu_default menu_sports"><a href="/sports/">Sports</a></li><li class="menu_default menu_food"><a href="/food/">Food</a></li><li class="menu_default menu_entertainment"><a href="/entertainment/">Entertainment</a></li><li class="menu_default menu_lifestyle"><a href="/lifestyle/">Lifestyle</a></li><li class="menu_default menu_opinion"><a href="/opinion/">Opinion</a></li><li class="menu_default menu_cars"><a href="http://cars.mysanantonio.com">Cars</a></li><li class="menu_default menu_jobs"><a href="/jobs/">Jobs</a></li><li class="last menu_default menu_homes"><a href="/real-estate/">Homes</a></li></ul>
+<ul class="sf-link-list"><li><a class="mysa_footer_logo" href="/"><img src="/img/modules/mysa_redesign_assets/mySA_logo_footer.png" alt="San Antonio Express News"></a></li><li class="menu_default menu_local"><a href="/news/local/">Local</a></li><li class="menu_default menu_usworld"><a href="/news/us-world/">US &amp; World</a></li><li class="menu_default menu_business"><a href="/business/">Business</a></li><li class="menu_default menu_sports"><a href="/sports/">Sports</a></li><li class="menu_default menu_food"><a href="/food/">Food</a></li><li class="menu_default menu_entertainment"><a href="/entertainment/">Entertainment</a></li><li class="menu_default menu_lifestyle"><a href="/lifestyle/">Lifestyle</a></li><li class="menu_default menu_opinion"><a href="/opinion/">Opinion</a></li><li class="menu_default menu_cars"><a href="http://cars.mysanantonio.com">Cars</a></li><li class="menu_default menu_jobs"><a href="/jobs/">Jobs</a></li><li class="last menu_default menu_homes"><a href="http://realestate.mysanantonio.com/">Homes</a></li></ul>
 <!-- e ux/mysa/templates/hearst/sitemenu/footer_local.tpl -->
 <!-- e hearst/sitemenu/footer_r1.tpl -->
+    <!-- Begin Hearst Ad -->
+    <div id="B728" class="footer_banner">
+        <script type="text/javascript">/*<![CDATA[*/hearstPlaceAd("B728");/*]]>*/</script>
+    </div>
+    <!-- End Hearst Ad -->
+
     	
 	<!-- hearst/item/standalone.tpl -->
 <div class="hdnce-e hdnce-item-20705"><!-- mid:freeform.20705 -->
 <!--div class="sf-text">
 </div-->
-<div class="sf-col-1">
+<div class="sf-col-1" style="clear:both">
     <h3>Homepage</h3>
     <ul class="sf-col-1_a">
     	<li><a href="http://www.mysanantonio.com">mySanAntonio.com</a></li>
@@ -1034,7 +1180,7 @@ channel.comments: none
     </ul>
     <h3 class="subscriber_service">Subscriber Services</h3>
     <ul class="sf-col-1_a">
-        <li><a href="https://myaccount.expressnews.com/dssSubscribe.aspx?PID=168">Subscribe</a></li>
+        <li><a href="https://myaccount.expressnews.com/dssSubscribe.aspx?PID=168&amp;z=00000">Subscribe</a></li>
 	<li><a href="https://myaccount.expressnews.com/">Manage Your Subscription</a></li>
     </ul>
 </div>
@@ -1058,10 +1204,13 @@ channel.comments: none
 <div class="sf-col-3">
     <h3>Editions &amp; Apps</h3>
     <ul class="sf-top-list">
-        <li><a href="http://digital.olivesoftware.com/Olive/ODE/sanantonioexpressnews/">e-edition</a></li>
+        <li><a href="https://myaccount.expressnews.com/dssSubscribe.aspx?PID=249&amp;z=00000&amp;verifyemail=true">All Digital Access Free Trial</a></li>
+        <li><a href="http://www.ExpressNews.com">ExpressNews.com</a></li>
+        <li><a href="https://myaccount.expressnews.com/login.aspx">e-edition</a></li>
+        <li><a href="https://itunes.apple.com/us/app/san-antonio-express-news-e/id792797985?ls=1&amp;mt=8">e-edition for iPad App</a></li>
       <li><a href="" onclick="hdnToggleMobile(); return false;">Mobile Website</a></li><li> 
-        </li><li><a href="http://www.ExpressNews.com">ExpressNews.com</a></li>
-        <li><a href="http://www.mysanantonio.com/about_us/enie/">Express-News in Education</a></li>
+        </li><li><a href="https://itunes.apple.com/us/app/play-sa-by-san-antonio-express/id868278820?mt=8">Play SA for iPhone</a></li>
+        <li><a href="https://play.google.com/store/apps/details?id=com.expressnews.android">Play SA for Android</a></li>
         <li><a href="http://www.mySA.com/index/">mySA.com Site Index</a></li>
         <li><a href="http://mysa.mycapture.com/mycapture/photoRequestForm.asp" target="_blank">Purchase Express-News Photos</a></li>
 <li><a href="http://www.mysanantonio.com/about_us/item/About-Us-Copyright-and-Reprint-Permission-9221.php">Copyright and Reprint Permission</a></li>
@@ -1091,17 +1240,9 @@ channel.comments: none
     </div>
     <div class="sf-branding">
         <div class="inner_footer_logo_img"><img src="/img/modules/chronr_sitefooter/footer-hst-logo-white.png"></div>
-        <p>© Copyright 2013 Hearst Newspapers, LLC</p>
+        <p>© Copyright <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Hearst Newspapers, LLC</p>
     </div>
 </div>
-
- <!-- Start InSearch Ads - CFREE-6069 -->
-<script type="text/javascript">
-var infolinks_pid = 1653099;
-var infolinks_wsid = 2;
-</script>
-<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
- <!-- End InSearch Ads -->
 </div>	<span id="hst-feed-yahoo">
 	<!-- src/business/templates/hearst/common/feed.tpl -->
 
@@ -1158,9 +1299,27 @@ var infolinks_wsid = 2;
     }
 </script><script src="http://widgets.outbrain.com/outbrainWidget.js" ;="" type="text/javascript"></script>
 
+    <!-- templates/hearst/home/viafouraFooterJS.tpl -->
+<script>
+
+    (function (v, s) {
+        v.type = 'text/javascript';
+        v.async = !0;
+        v.src = location.protocol !== 'https:' ? '//cdn.viafoura.net/vf.js' : '//api.viafoura.com/app/js/vf.js';
+        s.parentNode.insertBefore(v, s)
+    }(document.createElement('script'), document.getElementsByTagName('script')[0]));
+
+
+    $(document).ready(function () {
+        if ($('#hdn-vf-comments').length) {HDN.authOnReady('free',true)}
+        HDN.getBlogCommentCount();
+    });
+
+</script>
+<!-- e templates/hearst/home/viafouraFooterJS.tpl -->
 
 <!-- src/business/templates/hearst/common/footer_bottom.tpl -->
-<div id="BF_WIDGET_1" style="display:none;">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=mysanantonio.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1582540939542"></script></div>
+<div id="BF_WIDGET_1" style="display:none;">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=mysanantonio.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1582540961593"></script></div>
 
 <script type="text/javascript">
 (function( ){
@@ -1173,12 +1332,13 @@ setTimeout(function() {document.getElementById("BF_WIDGET_1").appendChild(BF_WID
 
 <!-- e src/business/templates/hearst/common/footer_bottom.tpl -->
 
-    <script type="text/javascript" src="/external/js/global.bottom.r5.2.5.241.js"></script>
+    <script type="text/javascript" src="/external/js/global.bottom.r5.16.0.24.js"></script>
+
 
 
 <!-- e hearst/sitemenu/site_footer.tpl -->
 </div> <!-- closing extra inner background container  -->
 </div> <!-- closing extra outer background container  -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"3fd06eaac1","applicationID":"147157","transactionName":"MwQBZ0RXV0NTVhBdDgpOJUZYVU1ZXVtLVwwCIgtSWFhcXHFaCkATCw0PVkQMA0JXWwBREzIIBkQ=","queueTime":0,"applicationTime":101,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-<!-- e src/business/templates/hearst/common/footer.tpl --></div></body></html>
+<!-- e src/business/templates/hearst/common/footer.tpl --></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
