@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220232347id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realjock.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040153id_/http%3A//www.realjock.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - RealJock
 
@@ -30,7 +30,7 @@ If you forget your password, upon request we will email it to the email address 
 
 ## EMAIL COMMUNICATIONS
 
-In general, you will receive one email notification asking that you confirm having created a RealJock membership. You will also receive one email notification every time you purchase a product or subscription from RealJock. You will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot list or buddy list, if another member comments on one of your photos or writes you a testimonial. You will also be notified by email of a once-a-week newsletter sent by RealJock staff and delivered to your RealJock inbox. You can change your preferences for the types of emails you receive from us by clicking the "opt out" or "unsubscribe" links in the emails we send to you or by changing your selections in the Email Preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT. 
+In general, you will receive one email notification asking that you confirm having created a RealJock membership. If you choose to, you will also be notified via email if you have new messages from other members on the Website, if you have been added to another member's hot list or buddy list, if another member comments on one of your photos or writes you a testimonial. You can change your preferences for the types of emails you receive from us by clicking the "opt out" or "unsubscribe" links in the emails we send to you or by changing your selections in the Email Preferences section of the Preferences tab, or by emailing us at [privacy@realjock.com](mailto:privacy@realjock.com). RealJock fully complies with the requirements of the federal CAN-SPAM ACT. 
 
 ## INFORMATION WE AUTOMATICALLY COLLECT FROM YOU
 
