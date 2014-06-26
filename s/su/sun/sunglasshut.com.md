@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104072750id_/http%3A//www.sunglasshut.com/webapp/wcs/stores/servlet/AboutUs%3Fpage%3Dprivacy_policy%26storeId%3D12351) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626220207id_/http%3A//www.sunglasshut.com/AboutUs%3FcatalogId%3D10101%26langId%3D-1%26storeId%3D10152%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | SunglassHut.com
+# Legal/Privacy | SunglassHut.com
 
 ## Security and Privacy Notice
 
@@ -74,9 +74,9 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ## California Privacy Policy
 
-If you are a California resident and a Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical, you have the right to request information from Sunglass Hut about the way in which Sunglass Hut shares certain categories of your personal information with affiliated Luxottica Retail companies for their direct marketing purposes. 
+If you are a California resident and a Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical, you have the right to request information from Sunglass Hut about the way in which Sunglass Hut shares certain categories of your personal information with affiliated Luxottica Retail companies for their direct marketing purposes. Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical does not currently actively respond to "Do Not Track" browser signals or mechanisms.
 
-California law provides that you have the right to submit a request to Sunglass Hut at [CAPrivacyPolicy@luxotticaretail.com](https://web.archive.org/web/20111104072750id_/http%3A//www.sunglasshut.com/webapp/wcs/stores/servlet/CAPrivacyPolicy@luxotticaretail.com) and receive the following information: 
+California law provides that you have the right to submit a request to Sunglass Hut at [CAPrivacyPolicy@luxotticaretail.com](mailto:CAPrivacyPolicy@luxotticaretail.com) and receive the following information: 
 
   * The covered categories of personal information disclosed by Sunglass Hut to affiliated Luxottica Retail brands for their direct marketing purposes during the preceding calendar year. 
   * The names of the affiliated companies sharing the Luxottica Retail name which received such information.
@@ -85,3 +85,15 @@ California law provides that you have the right to submit a request to Sunglass 
 
   
 You are entitled to receive a copy of this information in a standardized format, and the information will not be specific to you individually.
+
+## TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
+
+Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people’s dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers’ rights, trade union freedom and freedom of association in general.
+
+Luxottica investigates the reputation and lawfulness of the suppliers it uses, and supervises the observance by its suppliers of its Code of Ethics through frequent company employee visits. The company is in the process to deploy a Global Audit program designed to cover Environmental, Health, Safety & Social aspect.
+
+Luxottica requires suppliers to comply with the laws of the jurisdiction in which the product is made and strives to ensure that the rights contemplated by the Universal Declaration of Human Rights are guaranteed in the different countries in which it operates.
+
+Luxottica supervises the observance of the Code of Ethics, providing information, prevention tools and controls and assuring the transparency of its operations and behaviors, intervening with remedial actions as necessary. Compliance with the Code of Ethics is a requirement for continued employment or business relationship with Luxottica.
+
+Regular training is a part of employment with Luxottica, including that related to compliance with the law. Specific training relating to human trafficking and slavery and mitigation of the risk of such practices with the supply chain is in the process of development. 
