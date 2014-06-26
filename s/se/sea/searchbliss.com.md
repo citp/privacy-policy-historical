@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814045743id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023340id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
