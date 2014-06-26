@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wisdomquotesandstories.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807143337id_/http%3A//www.wisdomquotesandstories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomquotesandstories.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145927id_/http%3A//www.wisdomquotesandstories.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wisdom Quotes and Stories
+# Privacy Policy | Wisdom Quotes & Stories
 
 This Privacy Policy governs the manner in which We collect, use, maintain and disclose information collected from users of www.wisdomquotesandstories.com website and all services offered.
 
@@ -34,6 +34,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site,** **please contact us at  ** **wisdomquotesandstories@gmail.com**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site,
+
+Please contact us at info@wisdomquotesandstories.com **  
+**
 
 Date:- 01 st July 2013
