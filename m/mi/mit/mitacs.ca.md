@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203105539id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112003id_/https%3A//www.mitacs.ca/resources-faculty/policies-forms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mitacs – Inspiring innovation in Canada
 
@@ -186,7 +186,7 @@ Provides a foundation of cutting-edge research, business, entrepreneurship and s
 
 ## Globalink drop-down (Eng)
 
-Introduces Canada as a world-leading research and innovation destination to top undergraduate students from around the world.
+Mitacs Globalink builds a living bridge between Canada and international partners by establishing and reinforcing global links through student mobility.
 
 ###### [Past Research Projects](https://web.archive.org/globalink/research "Globalink Research Projects")
 
