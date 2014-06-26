@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2013-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223173232id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626143003id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled js canvas"><head id="ctl00_Head1">
-<title>Formula 1® - The Official F1® Website</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled js canvas"><head id="ctl00_Head1"><title>
+
+</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	document.getElementsByTagName('html')[0].className = 'jsEnabled';
@@ -50,6 +51,7 @@
     <script type="text/javascript" src="/js/mootools.js"></script>
     <script type="text/javascript" src="/js/cookies.js"></script>
     <script type="text/javascript" src="/js/global.js"></script>
+    <script type="text/javascript" src="/js/menunavigation.js"></script>
     <script type="text/javascript" src="/js/navigation.js"></script></head><body><div class="sliderAreas hide" style="display:none" id="sliderTemplate"><div class="sliderKnobs" id="knobTemplate"></div></div>
     <script type="text/javascript" src="/js/slimbox.js"></script>
     <script type="text/javascript" src="/js/galleryRollover.js"></script>
@@ -111,9 +113,7 @@
 
     <!-- Google Analytics -->
 
-<title>
 
-</title>
 
     
     <div id="identHomePage" style="display: none">
@@ -320,7 +320,7 @@
 			
 				<li class="navINSIDEF1_UNDERSTANDINGF1RACING navINSIDEF1_UNDERSTANDINGF1RACING_en">
 				
-				<a href="/inside_f1/understanding_the_sport/" onclick="delayedEvent(this, 'Navigation','L2','Understanding_The_Sport');return false;">UNDERSTANDING F1 RACING</a>
+				<a href="/inside_f1/understanding_f1_racing/" onclick="delayedEvent(this, 'Navigation','L2','Understanding_F1_Racing');return false;">UNDERSTANDING F1 RACING</a>
 				</li>
 			
 				<li class="navINSIDEF1_SAFETY navINSIDEF1_SAFETY_en">
@@ -381,7 +381,7 @@
 	
 		
 		
-			<li class="navTICKETS navTICKETS_en"><a href="/tickets_and_travel/" onclick="delayedEvent(this, 'Navigation','L1','Tickets');return false;">TICKETS</a>
+			<li class="navTICKETS navTICKETS_en"><a href="http://tickets.formula1.com/" target="_blank" onclick="delayedEvent(this, 'Navigation','L1','Tickets');return false;">TICKETS</a>
 			<ul>
 		
 		
@@ -399,25 +399,10 @@
 	
 		
 		
-			<li class="navMOBILE navMOBILE_en"><a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','L1','Mobile_Services'])">MOBILE</a>
+			<li class="navAPP navAPP_en"><a href="/app/" onclick="delayedEvent(this, 'Navigation','L1','App');return false;">APP</a>
 			<ul>
 		
 		
-				<li class="navMOBILE_OVERVIEW navMOBILE_OVERVIEW_en">
-				
-				<a href="/mobile_services/services.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Overview'])">OVERVIEW</a>
-				</li>
-			
-				<li class="navMOBILE_WEBSITE navMOBILE_WEBSITE_en">
-				
-				<a href="/mobile_services/website.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Website'])">WEBSITE</a>
-				</li>
-			
-				<li class="navMOBILE_DOWNLOADS navMOBILE_DOWNLOADS_en">
-				
-				<a href="/mobile_services/downloads.html" onclick="_gaq.push(['_trackEvent', 'Navigation','L2','Downloads'])">DOWNLOADS</a>
-				</li>
-			
 			</ul>
 		</li>
 	
@@ -426,7 +411,6 @@
             </div>
             <div id="content">
                 
-
                 
 <!-- Hide when on Home -->
 
@@ -608,7 +592,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
         
 		var flashvars = false;
 		var attributes = {id: "adHoldRight"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=emirates&weightArray=17" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D,D,D&nameArray=tata,emirates,emiratesfootball&weightArray=20,20,20" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
     }
 
@@ -629,7 +613,7 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
 
 		var flashvars = false;
 		var attributes = {id: "adHoldLeft"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=emirates&weightArray=17" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D,D,D&nameArray=tata,emirates,emiratesfootball&weightArray=20,20,20" };
 		if ( (swfobject.getFlashPlayerVersion()).major > 0 )
 		{
 		    swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
@@ -680,14 +664,15 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
     <div class="button blackButton">
         <a href="/video/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Video'])">VIDEO</a>
     </div>
+    
     <div class="button blackButton">
-        <a href="/tickets_and_travel/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Tickets'])">TICKETS</a>
+        <a href="http://tickets.formula1.com/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Tickets'])">TICKETS</a>
     </div>
     <div class="button blackButton">
         <a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','F1_Store'])" target="_blank">F1 STORE</a>
     </div>    
     <div class="button buttonLast blackButton">
-        <a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','Mobile_Services'])">MOBILE SERVICES</a>
+        <a href="/app/" onclick="_gaq.push(['_trackEvent', 'Navigation','RHP','App'])">APP</a>
     </div>
 </div>
 
@@ -711,9 +696,9 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
         <ul class="mainNav">
             <li><a href="/live_timing/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Live_Timing'])">LIVE TIMING</a></li>
 	        <li><a href="/video/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Video'])">VIDEO</a></li>
-            <li><a href="/tickets_and_travel/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Tickets'])">TICKETS</a></li>
+            <li><a href="http://tickets.formula1.com/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Tickets'])">TICKETS</a></li>
             <li><a href="http://f1store.formula1.com/stores/f1/default.aspx?portal=CHMHGTFG&amp;CMP=PSC-CHMHGTFG" target="_blank" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','F1store'])">F1 STORE</a></li>
-            <li><a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">MOBILE</a></li>
+            <li><a href="http://mobile.formula1.com/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">MOBILE</a></li>
         </ul>
         <ul class="subNav">
     	    <li><a href="/privacypolicy.html" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Privacy_Policy'])">PRIVACY POLICY</a></li>
@@ -726,14 +711,14 @@ If you wish to opt out of our use of Google Analytics, you may wish to consider 
 		        <li><a href="/reg/viewdetails" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','My_Details'])">MY DETAILS</a></li>
         </ul>
         <ul class="copyright">
-            <li>© 2003-2013 Formula One World Championship Limited</li>
+            <li>© 2003-2014 Formula One World Championship Limited</li>
         </ul>       
     </div>
     <div class="footerDiv">
         <img src="/img/footer/footer_div.png">
     </div>
     <div class="footerTataLogo">
-	    <a href="/mobile_services/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">
+	    <a href="/app/" onclick="_gaq.push(['_trackEvent', 'Navigation','Footer','Advert'])">
 	        <img src="/img/footer/footer_ad_mobile.png" alt="Mobile Formula1.com">
 	    </a>
     </div>
