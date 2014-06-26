@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017134924id_/http%3A//www.mythings.com/%3Fpage_id%3D8338) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221630id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « myThings
 
@@ -40,7 +40,7 @@ At any time you may Opt-Out of myThings’s services; however please note that b
 
 You are free to delete all cookies on your browser, or to have your browser notify you when a cookie is set – simply check your browser settings to do so. By deleting your cookies in this manner, you will disable myThings and its Partners to deliver ads that are targeted to your interests. You will have to clear your cookies each time you visit myThings.com or one of our Advertiser’s websites to ensure you are not receiving Retargeted advertisements.
 
-Another way to Opt-Out is to click this link:  <http://www.mythings.com/Optout.html>. When you Opt-Out of myThings’s services in this manner, an “opt-out” cookie will be set on your browser. myThings must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
+Another way to Opt-Out is to click this link (appears mid-way in page):  <http://www.mythings.com/respecting-your-privacy/>. When you Opt-Out of myThings’s services in this manner, an “opt-out” cookie will be set on your browser. myThings must maintain the cookie on your browser in order to recognize you as an Opted-Out visitor. You must Opt-Out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
 
 **IP’S**
 
