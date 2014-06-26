@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027005729id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113137id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
 
-# Data Security and Privacy: PhonyDiploma.com - Phonydiploma.com
+# Data Security and Privacy: PhonyDiploma.com - PhonyDiploma.com
 
 We don’t keep or sell a mailing list.  We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.  This information is only used to fulfill your specific request.
 
