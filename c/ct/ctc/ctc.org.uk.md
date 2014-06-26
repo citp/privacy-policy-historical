@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctc.org.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104144837id_/http%3A//www.ctc.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctc.org.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125547id_/http%3A//www.ctc.org.uk/about-ctc/policies-procedures/ctcs-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CTC
 
