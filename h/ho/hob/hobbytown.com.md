@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbytown.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218194807id_/http%3A//www.hobbytown.com/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbytown.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095030id_/http%3A//www.hobbytown.com/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Home | HobbyTown USA
 
