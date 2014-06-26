@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122001005id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030626id_/http%3A//www.smithsonianmag.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | www.smithsonianmag.com | Smithsonian Magazine
+# Privacy Policy | Smithsonian
 
-Thank you for visiting a Smithsonian Enterprises (SE) website and reviewing our privacy policy. SE is comprised of the following sites:  goSmithsonian ([www.goSmithsonian.com](http://www.gosmithsonian.com/)), Smithsonian magazine ([www.Smithsonianmag.com](http://www.smithsonianmag.com/)), Air&Space Magazine ([www.airspacemag.com](http://www.airspacemag.com/)), SmithsonianStore ([www.SmithsonianStore.com](http://www.smithsonianstore.com/)) and Smithsonian Journeys ([www.SmithsonianJourneys.org](http://www.smithsonianjourneys.org/)).  SE does not collect your personal information when you visit one of our websites unless you choose to provide that information to us. Smithsonian does not sell, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.
+Thank you for visiting a Smithsonian Enterprises (SE) website and reviewing our privacy policy. SE is comprised of the following sites:  Smithsonian magazine ([www.Smithsonianmag.com](http://www.smithsonianmag.com/)), Air&Space Magazine ([www.airspacemag.com](http://www.airspacemag.com/)), SmithsonianStore ([www.SmithsonianStore.com](http://www.smithsonianstore.com/)) and Smithsonian Journeys ([www.SmithsonianJourneys.org](http://www.smithsonianjourneys.org/)).  SE does not collect your personal information when you visit one of our websites unless you choose to provide that information to us. Smithsonian does not sell, exchange, or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.
 
 This privacy policy applies only to the online activities of SE. For direct mail and other marketing activities not involving electronic commerce, SE adheres to the Direct Marketing Association's privacy guidelines.  If you would like more information, please visit the following website:  [www.the-DMA.org](http://www.the-dma.org/)
 
-**If You Send Us Personal Information**
+### If You Send Us Personal Information
 
 SE’s websites only will collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for accounts, responding to surveys or ordering merchandise.  If you provide us with personal information, we normally will respond to your inquiry, request, or order.
 
@@ -20,23 +20,20 @@ SE may offer opportunities for you to opt-in to receive information from non-Smi
 
 Otherwise, we will not share your name or information outside the Smithsonian unless you affirmatively authorize us to do so by opting-in.
 
-**Information Collected and Stored Automatically**
+### Information Collected and Stored Automatically
 
 If you visit our website, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:
 
-   • The IP address from which you access our website
+  * The IP address from which you access our website
+  * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account)
+  * The type of browser and operating system used to access our website
+  * The date and time you access our site
+  * The pages, files, documents and links that you visit
+  * The Internet address of the website from which you linked to this website
 
-   • The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account)
 
-   • The type of browser and operating system used to access our website
 
-   • The date and time you access our site
-
-   • The pages, files, documents and links that you visit
-
-   • The Internet address of the website from which you linked to this website
-
-**Cookies**
+### Cookies
 
 In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser by a website that you visit. These cookies do not collect personally identifiable information. Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website. When you register on the website, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.
 
@@ -52,20 +49,20 @@ You may set your browser to refuse cookies from any website that you visit. If y
 
 If you would like more information about cookies and the option not to have them used by third-party companies during your visit, please visit the following websites: <http://www.networkadvertising.org/managing/opt_out.asp> and <http://scorecardresearch.com/about.aspx>.
 
-**Children and Privacy**
+### Children and Privacy
 
 SE is concerned about protecting children's privacy. We do not collect personally identifiable information from children. If a visitor known to be a child (under the age of thirteen (13)) sends an email to Smithsonian magazine, we only will use it to respond to the writer and not to create profiles or otherwise retain the information.
 
-**Security**
+### Security
 
 We take reasonable precautions to ensure that all credit card transactions that occur on SE websites are secure. When you submit your credit card for any purchase, that transaction is encrypted using "Secure Socket Layer" (SSL) encryption to protect your credit card information.  We monitor network traffic to ensure that our site remains available to all users and to identify unauthorized attempts to access, upload or change information or otherwise cause damage.
 
 Unauthorized access is prohibited and punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-**Linking**
+### Linking
 
 Within SE’s websites are advertisements, widgets, and other content links to non-Smithsonian websites. These sites operate independently of SE and have their own privacy policies. The Smithsonian is not responsible for the privacy practices or the content of non-Smithsonian websites, and such link is not intended to be an endorsement of the non-Smithsonian website or its content. For your protection, you should review the privacy policy of the site you linked to from our website.
 
-**Comments**
+### Comments
 
 Questions and comments about this Privacy Policy may be directed to us via email at [privacy@si.edu](mailto:privacy@si.edu). The Smithsonian Institution is a large organization with many people sharing responsibility for the content of its websites. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. In order to help you contact the appropriate Smithsonian office, please consult our list of contacts at <http://smithsonian.org/contacts>.
