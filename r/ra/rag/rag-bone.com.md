@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809175329id_/http%3A//www.rag-bone.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rag-bone.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025238id_/http%3A//www.rag-bone.com/privacy_policy.html) for the most accurate reproduction.*
 
 # rag & bone Official Store
 
   
 **Effective Date 2010**  
-Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with rag & bone, Inc. ("rag & bone"). Both Onestop and rag & bone ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. Please also review our Terms & Conditions which also govern your use of this Web Site.
+Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with rag & bone, Inc. ("rag & bone"). Both Onestop and rag & bone ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site. Please also review our Terms & Conditions which also govern your use of this Web Site. 
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web site and, where applicable, through our Customer Service Department in connection with this Web site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
