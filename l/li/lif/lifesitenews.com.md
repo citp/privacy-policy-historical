@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123214255id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesitenews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626233520id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LifeSiteNews.com
+# Privacy Policy | LifeSite
 
 ### Privacy Policy
 
@@ -10,7 +10,7 @@ LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alterna
 
 The registration process is used to tailor the news sent to your email address. See “Use of Registration Information” below.
 
-For information about LifeSiteNews.com’s services, please see the following page: [ http://www.lifesitenews.com/aboutlifesite/](http://www.lifesitenews.com/aboutlifesite/).
+For information about LifeSiteNews.com’s services, please see the following page: [ http://www.lifesitenews.com/about/](http://www.lifesitenews.com/about/).
 
 **Use of Registration Information**
 
@@ -29,10 +29,11 @@ LifeSiteNews.com features security measures to protect the loss, misuse or alter
 
   **Children’s Guidelines**
 
-We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.  
-
+We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information 
 
 **Subscribe/Unsusbscribe**
+
+LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page: 
 
 **Correct/Update Personal Information**
 
@@ -45,4 +46,4 @@ This site contains links to other sites. LifeSiteNews.com is not responsible for
 
 **Contact Us**
 
-If you have any additional questions or concerns about our privacy policy, please contact us at [ http://www.lifesitenews.com/aboutlifesite/contact.html](http://www.lifesitenews.com/aboutlifesite/contact.html)
+If you have any additional questions or concerns about our privacy policy, please contact us at [ http://www.lifesitenews.com/contact.html](http://www.lifesitenews.com/contact.html)
