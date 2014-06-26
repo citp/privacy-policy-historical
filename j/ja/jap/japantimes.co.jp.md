@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japantimes.co.jp privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213180307id_/http%3A//www.japantimes.co.jp/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantimes.co.jp privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033130id_/http%3A//www.japantimes.co.jp/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Japan Times
 
