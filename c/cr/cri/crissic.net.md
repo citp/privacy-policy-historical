@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crissic.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208003000id_/http%3A//crissic.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crissic.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061632id_/http%3A//crissic.net/privacy) for the most accurate reproduction.*
 
-# Privacy | Crissic Solutions, LLC
+# Privacy Policy, Privacy Matters - Crissic Solutions, LLC
 
-**Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**
+#### **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**
 
 #### The Information We Collect
 
@@ -12,14 +12,10 @@ Address
 Email address  
 Phone number  
 Credit/Debit Card Information  
-(etc.) 
+(etc.)
 
   
 
-
-#### The Length We Retain Information
-
-Any and all client information including login credentials and billing information will be purged from our databases 90 days after service termination, and will be held no greater than 120 days after services have been terminated. 
 
 #### The Way We Use Information
 
