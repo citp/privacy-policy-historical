@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationalteammanager.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530043549id_/http%3A//www.nationalteammanager.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalteammanager.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072430id_/http%3A//en.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
 
-# Privacy policy - Online Football Manager
+# Privacy policy - Online Soccer Manager
 
-**Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Football Manager](https://web.archive.org/). 
+**Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Soccer Manager](https://web.archive.org/). 
 
-We can be reached via e-mail at [info@gamebasics.nl](mailto:info@gamebasics.nl) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
+We can be reached via e-mail at [info@onlinesoccermanager.com](mailto:info@onlinesoccermanager.com) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
 
 The information we collect is used for internal review and is then discarded. It is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, and never shared with other organizations for commercial purposes. 
 
@@ -20,4 +20,4 @@ Upon request, we will provide site visitors with access to the information that 
 
 With respect to security: we do not collect online information from any of our visitors for intentions of redistribution. We solemnly guarantee that any information you submit to us will not be sold or bartered to any third parties, unless express consent is given by yourself to do so. 
 
-As with many online agencies today, Online Football Manager tries its best to abide by the privacy policy guidelines as explained above. However, we cannot 100% guarantee our privacy policy to be accurate to a tee, as our advertisers or ISPs may from time to time change their privacy policies or legal disclaimers without any prior notification. If any such instance results in any damages being suffered, Online Football Manager and any subsidiaries of Online Football Manager have no legal liability for these damages. 
+As with many online agencies today, Online Soccer Manager tries its best to abide by the privacy policy guidelines as explained above. However, we cannot 100% guarantee our privacy policy to be accurate to a tee, as our advertisers or ISPs may from time to time change their privacy policies or legal disclaimers without any prior notification. If any such instance results in any damages being suffered, Online Soccer Manager and any subsidiaries of Online Soccer Manager have no legal liability for these damages. 
