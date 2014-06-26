@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627091040id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174931id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - toprooms.com
 
