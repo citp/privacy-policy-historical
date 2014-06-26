@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alchemyapi.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127091216id_/http%3A//www.alchemyapi.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alchemyapi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213035id_/http%3A//www.alchemyapi.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AlchemyAPI
 
