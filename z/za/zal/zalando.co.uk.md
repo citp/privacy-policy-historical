@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224074518id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalando.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165357id_/http%3A//www.zalando.co.uk/zalando-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALANDO.CO.UK
 
 ##  Privacy Policy for www.zalando.co.uk
 
-Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando AG (Public limited company) (“We”, “us” or “our”) and is a company wholly owned by Zalando AG (Public limited company). Zalando AG(Public limited company) is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 154823 B whose registered office is Sonnenburger Str. 73, 10437 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
+Zalando Limited is a company registered in England and Wales with number 07535599 and registered address at 31-35 Kirby Street, London, EC1N 8TE, United Kingdom. Zalando Limited acts as an “Agent” or “Service Provider” for Zalando SE (“We”, “us” or “our”) and is a company wholly owned by Zalando SE. Zalando SE is a company registered in Germany with the district court of Charlottenburg, Berlin under number HRB 158855 B whose registered office is Tamara-Danz-Str. 1, 10243 Berlin, Germany ( **“we”** , **“us”** or **“our”** ). We operate www.zalando.co.uk (the “Site”). In this Privacy Policy, references to “you” mean any person submitting any data to us or our agent or the Site. 
 
-If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 028 0077 – this telephone number will be open to receive calls between 8 am and 8 pm on Monday to Friday. 
+If you have any comments or suggestions, we would be pleased to receive them at our Agent’s UK address or by emailing us at service@zalando.co.uk. Alternatively you may call us on 0800 472 5995 – this telephone number will be open to receive calls between 8 am and 8 pm on Monday to Friday. 
 
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you. 
 
@@ -48,7 +48,7 @@ Currently we are taking Experian’s Authentication Service and Money Laundering
 
 **Other uses of your personal information**
 
-We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes and Zalando AG (Public limited company). You can choose to opt out of this at any time. Any answers to surveys or opinion polls Zalando may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address. 
+We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes and Zalando SE. You can choose to opt out of this at any time. Any answers to surveys or opinion polls Zalando may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address. 
 
 We may also send you other information about us, the Site, our other websites, our products, sales promotions, our newsletters, anything relating to other companies in our group or our business partners. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please click the ‘unsubscribe’ link in any email that we send to you. Within 7 working days (days which are neither (i) a Saturday or Sunday, nor (ii) a public holiday anywhere in England) of receipt of your instruction we will cease to send you information as requested. If your instruction is unclear we will contact you for clarification. 
 
@@ -150,6 +150,6 @@ By submitting data to us or our agent or using the Site, you consent to our use 
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Please contact us by mail at [service@zalando.co.uk](mailto:service@zalando.co.uk) or Zalando Ltd., 31-35 Kirby Street, London, EC1N 8TE. 
 
-**Zalando AG (Public limited company)**
+**Zalando SE**
 
 We have copyright over this Privacy Policy. Use by third parties – even by way of extract – for commercial purposes is not allowed. Infringements may be subject to legal action. 
