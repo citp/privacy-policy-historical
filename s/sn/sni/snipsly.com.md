@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snipsly.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004234359id_/http%3A//snipsly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snipsly.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125114id_/http%3A//snipsly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Snipsly
+# Privacy Policy - Snipsly
 
 At [www.snipsly.com](http://www.snipsly.com/ "Snipsly.com"), the privacy of our visitors is extremely important to us. This privacy policy document outlines the types of personal information is received and collected by [www.snipsly.com](http://www.snipsly.com/ "Snipsly.com") and how it is used.
 
@@ -24,7 +24,7 @@ Google, as a third party vendor, uses cookies to serve ads on [www.snipsly.com](
 
 Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to [www.snipsly.com](http://www.snipsly.com/ "Snipsly.com") and other sites on the Internet.
 
-Visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL :  <http://www.google.com/privacy_ads.html>  
+Visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL :  http://www.google.com/privacy_ads.html  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners currently include:
 
   * Google Adsense
@@ -40,4 +40,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Info@Snipsly.com.](mailto:info@snipsly.com)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Info@Snipsly.com.
