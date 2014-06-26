@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecademy.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020610id_/http%3A//www.codecademy.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecademy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054416id_/http%3A//www.codecademy.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Codecademy
 
