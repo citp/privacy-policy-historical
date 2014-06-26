@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527085820id_/http%3A//www.mymangosteen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymangosteen.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200243id_/http%3A//www.mymangosteen.com/demo/privacy.asp) for the most accurate reproduction.*
 
-# XANGO - Welcome to MyMangosteen.com
+# XANGO - Privacy Policy
 
   
 Does MyMangosteen.com Share My Information with Outside Parties?
