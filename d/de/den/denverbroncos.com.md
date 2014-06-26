@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205231316id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024410id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Denver Broncos | Privacy Policy
 
 Denver Broncos Web Site Privacy Policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=National%20Football%20League&sealid=102&ctv_group=Broncos)
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=b7497162-cd29-4fd7-a8ee-2e544c107e30 "TRUSTe online privacy certification")
 
-_Revised December 3, 2013  
+_Revised January 10, 2014  
 _
 
-This privacy policy applies to the Denver Broncos Football Club web site located at [http://www.denverbroncos.com](http://www.denverbroncos.com/) (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+This privacy policy applies to the Denver Broncos Football Club web site located at [http://www.denverbroncos.com](http://www.denverbroncos.com/) and [www.broncoscountry.com](http://www.broncoscountry.com/)  (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-Denver Broncos Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because the Site wants to demonstrate their commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Denver Broncos Football Club has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-If you have questions or concerns regarding this policy, you should first contact [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns.
+** ** If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our mobile applications  or mobile Web sites.  
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -66,6 +66,8 @@ Surveys or Voting: From time-to-time we may request personally identifiable info
 
 Games: When you register to play games on our Web site, you may be asked to provide personally identifiable information.
 
+Social Media Widgets : Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. [ER1] 
+
 Cookies: As with many Web sites, our Web site uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Web site whenever your computer is used to visit the Web site. Cookies also let us know how many people visit our web site and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the web site. For registered users, cookies can make using the Web site easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Web site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Web site. Cookies may also allow the Web site to present to you advertising which may be of interest to you. For these reasons, cookies are tied to your personally identifiable information. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Web site, however, may not provide you with a personalized experience if you have disabled the use of cookies. Some of our business partners (i.e. tracking utility company) may set cookies on our site. We have no access or control of these third party cookies. We use a third party tracking utility company that uses cookies to track personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our Web site.
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Web site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Web site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
@@ -115,6 +117,8 @@ Security
 
 This Web site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).
 
+Data Retention: We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account  or request that we no longer use your information to provide you services contact us at  broncos.website@broncos.nfl.net.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  [ER2] 
+
 A Special Note for Parents Concerning Privacy
 
 The Web site is a general audience Web site. We do not currently collect any personal information from children under the age of 13 on the Web site.. If we discover we have collected information from anyone under the age of 13 we will delete it.
@@ -149,4 +153,4 @@ Denver Broncos Marketing
 1701 Bryant Street  
 Suite 900  
 Denver, CO 80204  
-Attn: Web site Privacy PolicyAsk Your Question!
+Attn: Web site Privacy Policy Ask Your Question!
