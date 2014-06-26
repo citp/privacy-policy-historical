@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233558id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091714id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Magazine-Agent.com | Privacy Policy
 
@@ -8,7 +8,7 @@ When you order a magazine, we forward the name of the recipient and the postal a
 
 ### About this Site
 
-Effective Date of Policy: October 8th, 2009
+Effective Date of Policy: December 11th, 2013 - [Previous Policy](https://web.archive.org/Privacy-Policy/Previous)
 
 This site is operated by Contrix Inc., on behalf of Magazine-Agent.com, hereinafter all collectively referred to as the “Site.” By visiting the Site, you are accepting the practices described in this Privacy Policy.
 
@@ -20,9 +20,16 @@ The Site may collect certain profile information from its users (including but n
 
 In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies by[changing your privacy preferences by logging in to your account](https://manage.magazine-agent.com/). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
 
-### Mandatory Communications
+### Setting Communication Preferences
 
-Please note that even if you unsubscribe from our marketing emails, the Site will continue to send you important transactional correspondence such as expiration and renewal notices, as well as any communications regarding financial transactions.
+The Site communicate with our customers through email. Such communications are broken out into the following two categories:
+
+  *  **Order Related Communications** – The Site utilizes email to communicate with our customers about their order. These communications include order confirmation emails sent at the time of your order and customer service emails which address ongoing concerns about your order, including but not limited, to payments issues, address changes, renewal preferences, and subscription expiration.
+  *  **Marketing Communications** – The Site utilized email to communicate offers and announce features that we believe will be of interest to our customers. These promotional emails are highly targeted and are designed to deliver relevant information about our various products and services. 
+
+
+
+If you do not want to receive e-mail or other mail from us, please adjust your email preferences by logging into our Account Manager. Note that to the extent your opting out of communications precludes you from receiving updates to our Terms & Conditions and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of the Site, and it is your responsibility to review them for changes. Additionally, please note that even if you unsubscribe from our marketing emails, the Site will continue to send you important transactional correspondence about your subscriptions such as any communications regarding financial transactions as well as responded via email to any customer service tickets you may create about an order.
 
 ### Use of Order Information with Third Parties
 
