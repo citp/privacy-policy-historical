@@ -1,24 +1,12 @@
-> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028035748id_/http%3A//www.adenandanais.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073207id_/http%3A//www.adenandanais.com/en-us/content/info%2Bprivacy/privacy-policy.aspx) for the most accurate reproduction.*
 
-# aden + anais - privacy policy
+# privacy policy | aden + anais USA
 
-**ABOUT**
-
-  
-
-
-| 
-
-privacy policy
-
-  
-
-
-aden + anais has instituted policies and practices intended to ensure that your personal information is handled in a secure manner that respects and protects your privacy. 
+[aden + anais](http://www.adenandanais.com/) has instituted policies and practices intended to ensure that your personal information is handled in a secure manner that respects and protects your privacy. 
 
 Any changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to our collection and use of this information. Our policy was last updated August 12, 2009. 
 
-aden + anais collects data that you provide to us through www.adenandanais.com, by phone, mail, e-mail and fax interactions or any other means of communication with us. This includes information such as your name, mailing address, e-mail address, phone number, any personal information you choose to provide and transaction details. 
+aden + anais collects data that you provide to us through [www.adenandanais.com](http://www.adenandanais.com/), by phone, mail, e-mail and fax interactions or any other means of communication with us. This includes information such as your name, mailing address, e-mail address, phone number, any personal information you choose to provide and transaction details. 
 
 aden + anais occasionally obtains information for aden + anais customers who provide information to other websites or to retailers who sell aden + anais products. aden + anais may also obtain publicly accessible customer demographics. 
 
@@ -38,11 +26,7 @@ In keeping with the Children's Online Privacy Protection Act, aden + anais will 
 
 There may be links on our website to the web sites of others. When you click onto one of these links, you are leaving aden + anais' website and accessing another party's website. These other web sites are not under our control and may collect personal information from you. Our Privacy and Security Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our Terms of Use. 
 
-Please send any concerns regarding our privacy policy to: info@adenandanais.com or to:
-
-aden + anais Customer Relations   
-Privacy Policy   
-4 Water Street   
-Brooklyn, New York 11201   
-  
----|---
+Please send any concerns regarding our privacy policy to: [customerservice@adenandanais.com](mailto:customerservice@adenandanais.com) or to:  
+Aden & Anais, Inc  
+20 Jay St, Suite 600  
+Brooklyn, NY 11201
