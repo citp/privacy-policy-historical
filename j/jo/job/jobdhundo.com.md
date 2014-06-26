@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobdhundo.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214042626id_/http%3A//www.jobdhundo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdhundo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161421id_/http%3A//www.jobdhundo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
+
+### Privacy Policy
 
 _jobdhundo's Terms of Use Agreement 1. Eligibility._
 
@@ -31,4 +33,6 @@ _Because publisher sites and laws across countries vary, we're unable to suggest
 
 > _We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here._
 
-_You can find additional information in Appendix A of the_[ _NAI Self-Regulatory principles for publishers_ ](http://www.networkadvertising.org/pdfs/NAI_principles.pdf)_(PDF). Please note that the NAI may change this sample language at any time._
+_You can find additional information in Appendix A of the_[ _NAI Self-Regulatory principles for publishers_ ](http://www.networkadvertising.org/pdfs/NAI_principles.pdf)_(PDF). Please note that the NAI may change this sample language at any time._  
+  
+---
