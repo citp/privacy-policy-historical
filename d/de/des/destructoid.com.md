@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205014523id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626231515id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy - Destructoid
 
@@ -56,26 +56,15 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
-  
 
 
 | 
 
 [](http://www.destructoid.com/author.phtml?name=Niero%20Gonzalez&a=1329)
 
-[](http://www.destructoid.com/rune-factory-studio-shuts-down-declares-bankruptcy-266619.phtml)
+[](http://www.destructoid.com/video-ubisoft-is-now-luring-consumers-into-pre-orders-with-gambling-277087.phtml)
 
-Rune Factory developer Neverland has closed its doors, according to a statement on the company's official website. The studio ceased operations today and announced plans to file for bankruptcy in the near future. Struggling w...[more](http://www.destructoid.com/rune-factory-studio-shuts-down-declares-bankruptcy-266619.phtml)
-
-  
-
-
-  
-
-
-[](http://www.destructoid.com/nielsen-survey-highlights-most-wanted-next-gen-games-266550.phtml)
-
-The results are in for a next-gen gaming survey given to active male and female games in the United States between the ages of 7-54, and according to Nielsen's findings, the most-wanted title of the eighth console generation ...[more](http://www.destructoid.com/nielsen-survey-highlights-most-wanted-next-gen-games-266550.phtml)
+Ubisoft has launched a new tactic for netting pre-orders for Assassin's Creed: Unity in the form of a digital slot machine. Pre-order customers gain 5 free spins every Friday, and prizes include everything from in-game content to a trip to Paris. While participants pay no actual money to play, using gambling as a way to attract customers still feels a bit sleazy. [more](http://www.destructoid.com/video-ubisoft-is-now-luring-consumers-into-pre-orders-with-gambling-277087.phtml)
 
   
 
@@ -83,9 +72,19 @@ The results are in for a next-gen gaming survey given to active male and female 
   
 
 
-[](http://www.destructoid.com/angry-birds-go-has-a-125-car-because-of-course-it-does-266548.phtml)
+[](http://www.destructoid.com/video-ea-sorry-about-battlefield-4-releases-paid-dragon-s-teeth-dlc-277070.phtml)
 
-Angry Birds Go! has soft launched over in New Zealand, and Pocket Gamer is giving a nice little break down of how the game plays. Their hands-on has discovered that the game is heavy on microtransactions, one of which include...[more](http://www.destructoid.com/angry-birds-go-has-a-125-car-because-of-course-it-does-266548.phtml)
+EA has garnered quite a reputation for being jerks over the past couple of years, with the rough launch of Battlefield 4 being one of the many reasons people are upset with them. CEO Andrew Wilson offered his apologies, sort of.[more](http://www.destructoid.com/video-ea-sorry-about-battlefield-4-releases-paid-dragon-s-teeth-dlc-277070.phtml)
+
+  
+
+
+  
+
+
+[](http://www.destructoid.com/ubisoft-comments-on-watch-dogs-unused-graphics-settings-276892.phtml)
+
+Modders have found settings in Watch Dogs' files that can be enabled to make the game look better and, in some cases, even improve performance. What's the deal with that? "The dev team is completely dedicated to getting the m...[more](http://www.destructoid.com/ubisoft-comments-on-watch-dogs-unused-graphics-settings-276892.phtml)
 
   
 
