@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingsurvival.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826154659id_/http%3A//campingsurvival.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingsurvival.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083419id_/http%3A//www.campingsurvival.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
