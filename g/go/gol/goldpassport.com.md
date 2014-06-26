@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldpassport.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229154928id_/http%3A//www.hyatt.com/hyatt/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldpassport.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062731id_/http%3A//www.hyatt.com/hyatt/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Global Privacy Policy for Guests
 
@@ -96,7 +96,7 @@ Like most international businesses, we have centralized certain aspects of our d
 
 **7 Information We Collect When You Visit Us Online**
 
-If you choose to obtain information or do business with us online by visiting [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp;jsessionid=2577DD2EC0F421ABF05B6601937FAD0F.atg03-prd-atg2) or [www.goldpassport.com](http://www.goldpassport.com/) or other Hyatt websites, you may wish to know the following: 
+If you choose to obtain information or do business with us online by visiting [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp) or [www.goldpassport.com](http://www.goldpassport.com/) or other Hyatt websites, you may wish to know the following: 
 
 **7.1 You Can Browse Without Revealing Your Identity**
 
@@ -110,7 +110,7 @@ When you visit our websites, we collect usage information (i.e., the Internet Pr
 
 We use “cookie technology” on our websites to allow us to evaluate and improve the functionality of our websites. Cookies by themselves cannot be used to reveal your identity. They identify your browser, but not you, to our servers when you visit our websites. 
 
-For information about how Hyatt uses cookies, visit [Cookie Statement](http://www.hyatt.com/hyatt/customer-service/cookie-statement.jsp;jsessionid=2577DD2EC0F421ABF05B6601937FAD0F.atg03-prd-atg2). 
+For information about how Hyatt uses cookies, visit [Cookie Statement](http://www.hyatt.com/hyatt/customer-service/cookie-statement.jsp). 
 
 If you do not want to accept cookies, you can block them by adjusting the settings on your Internet browser. However, if you block them, you will not be able to use all of the features of our websites, including the customisation features associated with creating a user profile. 
 
@@ -118,13 +118,13 @@ Further information about cookies and how they work is available at [allaboutcoo
 
 **7.4 Creating a User Profile**
 
-You can create a user profile on [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp;jsessionid=2577DD2EC0F421ABF05B6601937FAD0F.atg03-prd-atg2) and [www.goldpassport.com](http://www.goldpassport.com/) to, among other things, facilitate your online transactions, and to tailor your experience on our websites to your interests which allows us to make more appropriate recommendations to you. We may use the information you provide in your user profile to populate other databases maintained by us and our service providers, as applicable. By creating a user profile, you are agreeing that we may use the personal information you provide for these purposes. 
+You can create a user profile on [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp) and [www.goldpassport.com](http://www.goldpassport.com/) to, among other things, facilitate your online transactions, and to tailor your experience on our websites to your interests which allows us to make more appropriate recommendations to you. We may use the information you provide in your user profile to populate other databases maintained by us and our service providers, as applicable. By creating a user profile, you are agreeing that we may use the personal information you provide for these purposes. 
 
 You can view, update or remove any personal information that you have provided to us for inclusion in your user profile by amending your user profile online or emailing [concierge@hyatt.com](mailto:concierge@hyatt.com). If you subsequently elect to remove your user profile, we will have the right to use any personal information previously provided by you for inclusion in your user profile for record keeping and quality assurance purposes. **Even if you choose not to create a user profile, you can still use our websites to search for and purchase services**. 
 
 **7.5 Links to Other Websites**
 
-If you visit [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp;jsessionid=2577DD2EC0F421ABF05B6601937FAD0F.atg03-prd-atg2) and decide, for example, to purchase a gift certificate, make an airline reservation, rent a car, submit award request forms or apply for a job online, you will be seamlessly linked to websites maintained by third parties with whom we have contracted to provide those services. If you click on a link found on our websites or on any other website, you should always look at the location bar within your browser to determine whether you have been linked to a different website. This Policy, and our responsibility, is limited to our own information collection practices. We are not responsible for, and cannot always ensure, the information collection practices or privacy policies of other websites maintained by third parties or our service providers where you submit your personal information directly to such websites. In addition, we cannot ensure the content of the websites maintained by these third parties or our service providers, even if accessible using a link from our websites. We urge you to read the privacy and security policies of any external sites before providing any personal information while accessing those sites. 
+If you visit [www.hyatt.com](http://www.hyatt.com/hyatt/index.jsp) and decide, for example, to purchase a gift certificate, make an airline reservation, rent a car, submit award request forms or apply for a job online, you will be seamlessly linked to websites maintained by third parties with whom we have contracted to provide those services. If you click on a link found on our websites or on any other website, you should always look at the location bar within your browser to determine whether you have been linked to a different website. This Policy, and our responsibility, is limited to our own information collection practices. We are not responsible for, and cannot always ensure, the information collection practices or privacy policies of other websites maintained by third parties or our service providers where you submit your personal information directly to such websites. In addition, we cannot ensure the content of the websites maintained by these third parties or our service providers, even if accessible using a link from our websites. We urge you to read the privacy and security policies of any external sites before providing any personal information while accessing those sites. 
 
 **7.6 Security**
 
@@ -167,7 +167,7 @@ Just as our business changes constantly, this Policy may also change. To assist 
 
 If you have any questions about this Policy, or any concerns or complaints with regard to the administration of the Policy, or if you would like to submit a request (in the manner described in Section 9 above) for access to the personal information that we maintain about you, please contact us by any of the following means: 
 
-  * by calling one of the following toll-free reservation numbers located at [http://www.hyatt.com/hyatt/customer-service/numbers.jsp](http://www.hyatt.com/hyatt/customer-service/numbers.jsp;jsessionid=2577DD2EC0F421ABF05B6601937FAD0F.atg03-prd-atg2?language=en);
+  * by calling one of the following toll-free reservation numbers located at [http://www.hyatt.com/hyatt/customer-service/numbers.jsp](http://www.hyatt.com/hyatt/customer-service/numbers.jsp?language=en);
   * by mail at Hyatt Hotels Corporation, Attn: Consumer Affairs, 9805 Q Street, Omaha, NE 68127, United States; or
   * by contacting the front desk at any of our hotels.
 
