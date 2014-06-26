@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the tenplay.com.au privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221220543id_/http%3A//tenplay.com.au/privacy%23Privacy%2520Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tenplay.com.au privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626233809id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script async="" src="//img.en25.com/i/elqCfg.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"58d9c55dd2","applicationID":"2914646","transactionName":"YQNWNUQAVxBTWkYIX1hJeg5EDFgPW0NXBR8c","queueTime":0,"applicationTime":67,"ttGuid":"758A502CAB1D3997","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcAUlJUGwEJVVVUAwc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Policy - Network Ten</title>
 <link href="http://tenplay.com.au/privacy" rel="canonical">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-Language" content="en">
-<meta http-equiv="last-modified" content="Mon, 02 December 2013 14:51:37">
+<meta http-equiv="last-modified" content="2014-05-21T13:07+10:00">
 <meta http-equiv="expires" content="Fri, 31 December 9999 23:59:59">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="pragma" content="no-cache">
@@ -20,7 +20,7 @@
 <meta name="description" content="TENplay Privacy Policy">
 <meta name="author" content="Network Ten">
 <meta name="copyright" content="© 2013 Networkten">
-<meta name="publication_date" content="Mon, 02 December 2013 14:51:37">
+<meta name="publication_date" content="2014-05-21T13:07+10:00">
 <meta name="gcontent-title" content="Privacy Policy">
 <meta name="gcontent-description" content="Privacy Policy">
 <meta name="gcontent-keywords" content="Privacy,Policy">
@@ -38,33 +38,33 @@
 
 <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400,600,700,300" rel="stylesheet" type="text/css">
 <!--[if lte IE 8]><link href="//f.tenplay.com.au/bundles/base-lte-ie8-style-bundle?v=E2weSPxPwsQjR-uej3An2jWv25wVvR_-sN0-3HreT581" rel="stylesheet"/><![endif]-->
-<!--[if gt IE 8]><!--><link href="//f.tenplay.com.au/bundles/base-style-bundle?v=jPucvX2bz5iPUC3mh7REM257unwBYfjqWZXLYVHPPBc1" rel="stylesheet"><!--<![endif]-->
+<link href="//f.tenplay.com.au/bundles/base-style-bundle?v=5n7YLsBmspMy9CfXRgKXJLalgw3fpFInG4mJibEe2WA1" rel="stylesheet">
 
-<script async="" src="//img.en25.com/i/elqCfg.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>(window.jQuery)||document.write('<script src="/bundles/jquery-head-script-cdn-bundle"><\/script>');</script><script src="/bundles/jquery-head-script-cdn-bundle"></script>
-<script src="//f.tenplay.com.au/bundles/base-head-script-bundle?v=pk9fcCi-E4J0buuAxIWtwkx74ODy9dhw8eZHYGQksJ41"></script>
+<script src="//f.tenplay.com.au/bundles/base-head-script-bundle?v=2ZRKFirgREC8cUsWdrA3SjVo-SaFdneW4kJW_ESJhQM1"></script>
 
 
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body class="">
 <div class="page-wrapper">
 <form method="post" action="/privacy" id="aspNetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTY3MjAzMjc3DxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgFkZPSLznwt59naISLbwihUTf0CG98K/oPFEIuadIClePmW">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="4ByZisNY6ymRPKKHgJ5OMweroMw48EoonVt6/d6+pA6WdrF3TPCQxlEEp6gLLqe8urcg51/N0yHBY4bwRzRc56fvfyVmHYs0KLP4x8pW9gLLLkRPcBr+DKFeeTqNttBr">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPuTtBhT+NLulwrTxgfr5wB6WOUL+hTirLX7iOLoVFFrd+DqhBaXRiW/fmfRpuUtekC7WXG6QSW4Vs3qT6ZaxKlw/6Ba6/wiV7HOhbhQUwiOQ==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="1LE9eRb7N2qqe3K4GXCzDDqpKG8yt3NgC2oqXb+bSv7zLvxWRrjusiO03UfRiuFMm2LZVqBE9A6kDZJ5jzbFKddBl975ZBdOedOQSaJX95uy/RoA2zRbTv3Wfg0zNuOmMzbVpOXLNKUeWZC7hS09hQ==">
 </div>
 <!--[if lt IE 9]>
 <div class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
 <![endif]-->
 <noscript>
 <div class="noscript-info">
-<h1>Javascript disabled!</h1>
+<h1>JavaScript disabled!</h1>
 <p>
-<span class="text">This site requires that Javascript is enabled. </span>
+<span class="text">This site requires JavaScript. </span>
 <span class="link">Please consider <a href="http://www.enable-javascript.com/" target="_blank">turning it on</a>.</span>
 </p>
 </div>
@@ -72,58 +72,9 @@
 <div id="wrapper" class="wrapper">
 
 <!--googleoff: index-->
-<header id="n01-3113059b-b201-4eb8-8ce2-864e1b364b7f" class="header n01 navigation">
+<header id="n01-559e5d28-0943-43fc-ad48-909808ac8040" class="header n01 navigation">
 
-<div class="epg02-mobile-whats-on show-for-small-only">
-<div class="passive">
-<h2>What’s on now<span class="icon-angle-down"></span></h2>
-</div>
-<div class="active">
-<h2>
-Sunday 22nd Dec<span class="icon-angle-up"></span>
-</h2>
-<div class="channels">
-<div class="channel-row">
-<div class="channel-logo ten">
-<img src="/content/upload/images/channels-sml/10.png" alt="TEN">
-</div>
-<div class="time">
-8:30am
-</div>
-<div class="title">
-Studio 10: Sunday
-</div>
-</div>
-
-<div class="channel-row">
-<div class="channel-logo one">
-<img src="/content/upload/images/channels-sml/one-hd.png" alt="ONE">
-</div>
-<div class="time">
-9:00am
-</div>
-<div class="title">
-KFC T20 Big Bash League
-</div>
-</div>
-
-<div class="channel-row">
-<div class="channel-logo eleven">
-<img src="/content/upload/images/channels-sml/11.png" alt="ELEVEN">
-</div>
-<div class="time">
-9:00am
-</div>
-<div class="title">
-Teenage Mutant Ninja Turtles
-</div>
-</div>
-</div>
-<a href="/tv-guide" class="view-full-guide"><span class="icon-th-list"></span> View Full TV Guide</a>
-</div>
-</div>
-
-<nav id="n01a-4a8d2e64-fe1f-4c77-81dc-45d25c3b4868" class="top-bar show-for-medium-up n01a navigation">
+<nav id="n01a-c5bcdf55-efc3-4088-9153-ed32547ba222" class="top-bar show-for-medium-up n01a navigation">
 <div class="container top-bar-section">
 <ul class="right">
 
@@ -153,7 +104,7 @@ Social
 
 
 <div id="connect-dropdown" class="top-bar-dropdown" data-dropdown-content="connect-dropdown">
-<div class="connect-tabs" data-section="">
+<div class="section-container connect-tabs" data-section="">
 <div class="bar"></div>
 
 <section id="facebook-panel" class="active">
@@ -162,7 +113,7 @@ Social
 Facebook
 </a>
 </p>
-<div class="content" data-section-content="">
+<div class="content loading" data-section-content="">
 <iframe class="sm04-iframe" data-src="/Handlers/GenericUserControlRenderer.ashx?path=~/UserControls/Social Media/Social Media AJAX Content.ascx&amp;props=ItemID,{F6B1A89B-B721-47A1-90FB-45A5DAE5375A}|Title,Facebook" src="" border="0" width="100%" height="500"></iframe>
 </div>
 </section>
@@ -173,7 +124,7 @@ Facebook
 Twitter
 </a>
 </p>
-<div class="content" data-section-content="">
+<div class="content loading" data-section-content="">
 <iframe class="sm04-iframe" data-src="/Handlers/GenericUserControlRenderer.ashx?path=~/UserControls/Social Media/Social Media AJAX Content.ascx&amp;props=ItemID,{0A41E81D-E200-41E1-83A4-C74910C7EC95}|Title,Twitter" src="" border="0" width="100%" height="500"></iframe>
 </div>
 </section>
@@ -184,7 +135,7 @@ Twitter
 Google Plus
 </a>
 </p>
-<div class="content" data-section-content="">
+<div class="content loading" data-section-content="">
 <iframe class="sm04-iframe" data-src="/Handlers/GenericUserControlRenderer.ashx?path=~/UserControls/Social Media/Social Media AJAX Content.ascx&amp;props=ItemID,{B190A218-2EDC-4509-BA22-91D04B9DDF87}|Title,Google Plus" src="" border="0" width="100%" height="500"></iframe>
 </div>
 </section>
@@ -195,7 +146,7 @@ Google Plus
 YouTube
 </a>
 </p>
-<div class="content" data-section-content="">
+<div class="content loading" data-section-content="">
 <iframe class="sm04-iframe" data-src="/Handlers/GenericUserControlRenderer.ashx?path=~/UserControls/Social Media/Social Media AJAX Content.ascx&amp;props=ItemID,{C286BC0E-4A08-4E24-B09B-35690CD9B561}|Title,YouTube" src="" border="0" width="100%" height="500"></iframe>
 </div>
 </section>
@@ -213,7 +164,10 @@ YouTube
 </li>
 </ul>
 <a href="/">
+
 <img src="//images.tenplay.com.au/~/media/General/TEN Play Logo/tenplaylogo.png" class="logo" height="39" width="200">
+
+
 </a>
 <ul class="right search">
 <li>
@@ -258,6 +212,16 @@ TV Guide
 
 </nav>
 
+<script type="text/javascript">
+$('.primary-nav-list > li').each(function (i, li) {
+$li = $(li);
+var href = $li.find('a').attr('href');
+$li.removeClass('active');
+if (window.location.pathname.indexOf(href) == 0) {
+$li.addClass('active');
+}
+});
+</script>
 </header>
 
 <div class="search-bar" aria-hidden="true" id="searchNav">
@@ -265,7 +229,7 @@ TV Guide
 	
 <input name="phglobalheader_0$phsearchbar_0$ctl00$txtSearchText" type="text" id="phglobalheader_0_phsearchbar_0_ctl00_txtSearchText" class="search-text" autocomplete="off" placeholder="Search">
 <span class="icon icon-search"></span>
-<input type="submit" name="phglobalheader_0$phsearchbar_0$ctl00$btnSearch" value="Search" id="phglobalheader_0_phsearchbar_0_ctl00_btnSearch" class="search-button" data-search-page-base-url="/search-results?q=">
+<input type="submit" name="phglobalheader_0$phsearchbar_0$ctl00$btnSearch" value="Search" id="phglobalheader_0_phsearchbar_0_ctl00_btnSearch" class="search-button" data-search-page-base-url="/search-results">
 
 </div>
 <div class="popular-searches">
@@ -274,35 +238,31 @@ TV Guide
 <ul>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_0" href="/search-results?q=Desserts">Desserts</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_0" rel="nofollow" href="/search-results?q=24">24</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_1" href="/search-results?q=Cricket">Cricket</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_1" rel="nofollow" href="/search-results?q=MasterChef">MasterChef</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_2" href="/search-results?q=Homeland">Homeland</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_2" rel="nofollow" href="/search-results?q=Neighbours">Neighbours</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_3" href="/search-results?q=Chicken">Chicken</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_3" rel="nofollow" href="/search-results?q=Offspring">Offspring</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_4" href="/search-results?q=Kids">Kids</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_4" rel="nofollow" href="/search-results?q=Chocolate">Chocolate</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_5" href="/search-results?q=Glee">Glee</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_5" rel="nofollow" href="/search-results?q=F1">F1</a>
 </li>
 
 <li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_6" href="/search-results?q=Neighbours">Neighbours</a>
-</li>
-
-<li>
-<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_7" href="/search-results?q=The+Project">The Project</a>
+<a id="phglobalheader_0_phsearchbar_0_rptPopularSearches_hypSearchTerm_6" rel="nofollow" href="/search-results?q=Kids">Kids</a>
 </li>
 
 </ul>
@@ -326,17 +286,17 @@ TV Guide
 </article>
 </a>
 
-<a href="/sport/cricket">
+<a href="/channel-ten/offspring">
 <article class="show-link">
-<img src="//images.tenplay.com.au/~/media/Sport/Cricket/BBL/BBL_Logo_500x281.jpg?mh=92" alt="KFC T20 Big Bash" width="164" height="92">
-<p>KFC T20 Big Bash</p>
+<img src="//images.tenplay.com.au/~/media/TV Shows/Offspring/Designs/Season 5/Offspring_S5_Logo_500x281.jpg?mh=92" alt="offspring season 5" width="164" height="92">
+<p>Offspring</p>
 </article>
 </a>
 
-<a href="/kids">
+<a href="/channel-ten/masterchef">
 <article class="show-link">
-<img src="//images.tenplay.com.au/~/media/Editorial Packages/Kids/Kids_Logo_500x281.jpg?mh=92" alt="kid" width="164" height="92">
-<p>Kids</p>
+<img src="//images.tenplay.com.au/~/media/TV Shows/MasterChef/MC14_Logo_500x281.jpg?mh=92" alt="MasterChef 2014" width="164" height="92">
+<p>MasterChef Australia</p>
 </article>
 </a>
 
@@ -489,6 +449,22 @@ Win
 <!--googleon: index-->
 
 
+<div class="advert advert09 wings container">
+<div id="ad09-df77ec7d-8ca8-417a-8924-12200852e128" class="ad ad09" data-width="1" data-height="3" data-adunit="adj" data-async="false" data-pos="" data-customtarget="" data-ondemand="">
+
+<div class="ajax-loader"></div>
+
+</div>
+
+</div>
+<div class="advert advert10 wings container">
+<div id="ad10-e95f49e5-3e15-4147-8f1b-10efee8e47a3" class="ad ad10" data-width="1" data-height="4" data-adunit="adj" data-async="false" data-pos="" data-customtarget="" data-ondemand="">
+
+<div class="ajax-loader"></div>
+
+</div>
+
+</div>
 
 
 <nav class="sub-navigation-simple">
@@ -500,46 +476,54 @@ Win
 </nav>
 <section class="main container">
 <div class="row">
-<p><strong>Our Commitment to you <br>
-</strong><br>
-At Network TEN we take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.<br>
+<p><strong></strong></p>
+<p><strong>Our Commitment to you </strong><br>
 <br>
-At Network TEN we conduct our operations in accordance with the National Privacy Principles. These are minimum standards that set out the general principles governing information handling practices for organisations like Network TEN. We are also committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.<br>
+Network Ten Pty Limited and its related companies listed at the end of this Privacy Policy (Network TEN) take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.<br>
 <br>
-<strong>What personal Information does Network TEN collect? <br>
-</strong><br>
-The type of personal information we collect varies according to how you interact with Network TEN. Some examples include:<br>
+At Network TEN we conduct our operations in accordance with the Australian Privacy Principles. These are standards that set out the principles governing information handling practices for organisations like Network TEN. In addition to complying with the Australian Privacy Principles in all that we do, we are committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.<br>
+<br>
+<strong>What personal Information does Network TEN collect? </strong><br>
+<br>
+If you become a member of TENplay, we may collect your name, address, suburb, state, postcode, email  address, date of birth, gender and telephone number.  If you log in via a social media platform such as Twitter, Facebook or Google+, we may also collect your user ID details for that platform, and any information you have permitted them to share with us.<br>
+<br>
+You might also provide personal information to Network TEN:<br>
 <br>
 When you complete any application forms <br>
-Through telephone calls <br>
-Visits to our Websites (including via any of our mobile applications)<br>
-Letters and other material sent by you to Network TEN <br>
-Material submitted in competitions <br>
-Feedback, comments or suggestions on programs and other activities of Network TEN <br>
+When you call our offices <br>
+When you enter a competition, whether on the TENplay website or any of our mobile, tablet or platform applications (Applications) or otherwise <br>
+When you write to us <br>
+When you provide feedback, comments or suggestions on programs and other activities of Network TEN <br>
 As a customer or client of Network TEN <br>
 When you provide a service or products to Network TEN <br>
-Security surveillance of our premises (eg video, card access). <br>
+If you visit our offices (including via security surveillance of our premises (eg CCTV, card access<br>
 <br>
-The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information, but some people volunteer sensitive information anyway. <br>
+If you apply for a job with us, and<br>
 <br>
-We may collect personal information when you visit our Websites or use one of our mobile applications. Network TEN reserves the right to perform statistical analysis of user activity and characteristics in order to measure interest in and use of the various areas in the Websites or our mobile applications and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Websites or our mobile applications. You acknowledge that when you disclose personally identifiable information on the Websites, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network TEN and may result in marketing and promotional messages being sent to you from Network TEN or its associates and affiliates. <br>
+If you are a supplier or contractor. <br>
+<br>
+We usually collect this personal information from you directly.  However in some circumstances we may receive your personal information from a third party such as a recruitment agency or a party supplying a service to you.<br>
+On occasions we collect personal information via third parties such as commercial partners, where you have opted-in to having your personal information disclosed to Network TEN.<br>
+<br>
+The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information.. <br>
+<br>
+Network TEN may perform statistical analysis of user activity and characteristics in order to measure interest in and use of the TENplay website and Network TEN’s other websites (Websites) or any of our Applications and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Websites or our Applications. You acknowledge that when you disclose personally identifiable information on the Websites, or via any of our Applications, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network TEN and may result in marketing and promotional messages being sent to you from Network TEN or its associates and affiliates. <br>
 <br>
 Non-personal information and data may be automatically collected through the standard operation of Network TEN's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Websites enables us to deliver and maintain customised options when you make return visits to the site.<br>
 <br>
 There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want. <br>
 <br>
-We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. <br>
+We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. Where that information relates to your membership of TENplay, you may do this by editing it in your account information.  In other cases, you may do this by contacting us as set out below.<br>
 <br>
-<strong>What does Network TEN do with the personal information?<br>
-</strong><br>
-The purpose for which we collect the information is to give effect to the particular interaction you have with Network TEN. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may use your personal information to let you know about programs or other things we think may be of interest to you or to get your feedback.&nbsp; If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material.&nbsp; We may share the personal information that you have given to us with other companies within our group, our associates and affiliates. <br>
+<strong>What does Network TEN do with the personal information?</strong><br>
 <br>
-Sometimes we may give you the option to receive further communications from one of our advertising partners, for example when we run a competition in conjunction with that advertiser. If you do chose to opt in by expressly providing consent to receive communications from that third party advertiser, TEN may disclose your personal information to that third party. In this circumstance and as from March 2012, TEN requires that third party to agree that your personal information be dealt with in accordance with that third party’s own privacy policy (which will be made available for you to view at the time that you opt in), in accordance with all applicable privacy laws and the Spam Act at all times, and pursuant to best practice confidentiality and security procedures. Notwithstanding this, TEN cannot be held responsible for any misuse or unauthorised disclosure of your personal information by these third parties.</p>
-<p>
+The purpose for which we collect the information is to give effect to the particular interaction you have with Network TEN. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may use your personal information to let you know about programs or other things we think may be of interest to you or to get your feedback.  If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material.  We may share the personal information that you have given to us with other companies within our group, our associates and affiliates. <br>
 <br>
-We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information. <br>
+Sometimes we may give you the option to receive further communications from one of our advertising partners, for example when we run a competition in conjunction with that advertiser. If you do chose to opt in by expressly providing consent to receive communications from that third party advertiser, TEN may disclose your personal information to that third party. In this circumstance, TEN requires that third party to agree that your personal information be dealt with in accordance with that third party’s own privacy policy (which will be made available for you to view at the time that you opt in), in accordance with all applicable privacy laws and the Spam Act at all times, and pursuant to best practice confidentiality and security procedures. <br>
 <br>
-There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. <br>
+We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information that we may have (if any). <br>
+<br>
+There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. <br>
 <br>
 If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. <br>
 <br>
@@ -551,58 +535,89 @@ We have internal security measures in place to help protect personal information
 <br>
 We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. <br>
 <br>
-When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information. </p>
-<p><strong>Can You Access or Correct Information Held by Network TEN? <br>
-</strong><br>
-We maintain records of personal information we have collected. You can gain access to the personal information held by Network TEN about you in two ways.&nbsp; If you have registered with Network TEN through the Websites, most information held by Network TEN about you can be viewed and changed directly by you by logging into the Websites using your username and password and reviewing your preferences.&nbsp; Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network TEN about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at <a href="http://tenplay.com.au/contact-us">Contact Us<br>
-</a><br>
+When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information.<br>
+<br>
+Network TEN does not currently send personal information covered by this Privacy Policy to any other country.  We will update this Privacy Policy if we expect this to change in the future.<br>
+<br>
+<strong>Can You Access or Correct Information Held by Network TEN? </strong><br>
+<br>
+We maintain records of personal information we have collected. You can gain access to the personal information held by Network TEN about you in two ways.  If you have registered as a member of TENplay, most information held by Network TEN about you can be viewed and changed directly by you by logging into TENplay Website or any TENplay Application and using your username and password and reviewing your account information.  Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network TEN about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at <a href="/contact-us">Contact Us</a><br>
+<br>
 You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.<br>
 <br>
 If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.<br>
 <br>
-<strong>Do you have a complaint?<br>
+<strong>Do you have a complaint?</strong><br>
+<br>
+If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at <a href="/contact-us">Contact Us</a><br>
+<br>
+<strong>Changes to this Privacy Policy</strong><br>
+<br>
+Network TEN may change its privacy policy at any time, and you should check this policy from time to time for that reason. <br>
+<br>
+<strong>Have we answered your questions about privacy?</strong><br>
+<br>
+If you have other questions regarding our information handling processes, please <a href="/contact-us">Contact Us</a>.<br>
+<br>
+<strong>TEN Facebook App Privacy Policy</strong><br>
+<br>
+Please check our <a href="//images.tenplay.com.au/~/media/PDFs/Facebook_App_Privacy_Policy_2012.pdf">Facebook App Privacy Policy</a> for enquiries regarding any of TEN's Facebook Apps.<br>
+<br>
+<strong>Companies covered by this policy<br>
 </strong><br>
-If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at <a href="http://tenplay.com.au/contact-us">Contact&nbsp; Us<br>
-</a><br>
-<strong><br>
-Changes to this Privacy Policy<br>
-</strong><br>
-Network TEN reserves the right to change its privacy policy at any time, and you should check this policy from time to time for that reason. <br>
+Ten Network Holdings Limited (ABN 14081 327 068)<br>
+<br>
+The Ten Group Pty Limited (ABN 50 057 564 708)<br>
+<br>
+Network Ten Pty Limited (ABN 91 052 515 250)<br>
+<br>
+Ten Online Pty Limited (ABN 83 089 829 667)<br>
+<br>
+Ten Ventures Pty Limited (ABN 64 089 830 759)<br>
+<br>
+Network Ten (Melbourne) Pty Limited (ABN 39 008 664 953)<br>
+<br>
+Network Ten (Brisbane) Pty Limited (ABN 14 050 148 537)<br>
+<br>
+Network Ten (Sydney) Pty Limited (ABN 41 008 664 962)<br>
+<br>
+Television &amp; Telecasters (Properties) Pty Limited (ABN 52 050 690 161)<br>
+<br>
+Caprice Pty Limited (ABN 82 008 655 847)<br>
+<br>
+Network Ten (Adelaide) Pty Limited (ABN 65 007 577 666)<br>
+<br>
+Chartreuse Pty Limited (ABN 88 008 665 874)<br>
+<br>
+Network Ten (Perth) Pty Limited (ABN 96 009 108 614)<br>
+<br>
+Ten Employee Share Plans Pty Limited (ACN 082 736 150)<br>
+<br>
+Elevenco Pty Limited (ACN 147 043 981)<br>
 <br>
 <br>
-<strong>Have we answered your questions about privacy?<br>
+This page last updated: 12 March 2014</p>
 <br>
-</strong>If you have other questions regarding our information handling processes, please <span style="text-decoration: underline;"><a href="http://tenplay.com.au/contact-us">Contact Us</a></span>.<br>
-<strong><br>
-<br>
-TEN Facebook App Privacy Policy<br>
-<br>
-</strong>Please check our <a href="//images.tenplay.com.au/~/media/PDFs/Facebook_App_Privacy_Policy_2012.pdf">Facebook App Privacy Policy 2012</a> for enquiries regarding any of TEN's Facebook Apps.<br>
-<br>
-<br>
-This page last updated: 16 August 2012</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </div>
 </section>
 
 
 <section class="leaderboard-container">
 
-<div class="advert advert03">
-<div id="ad03-ac7770ba-c50c-4e05-a13d-3b670f5625ec" class="ad ad03 adaptive" data-width="728" data-height="90" data-adunit="adj" data-async="true" data-pos="" data-customtarget="" data-ondemand="">
+<div class="advert advert03 leaderboard">
+<div id="ad03-a06da9e9-ec9f-4e65-abec-ac0c89982c1f" class="ad ad03 adaptive" data-width="728" data-height="90" data-adunit="adj" data-async="true" data-pos="" data-customtarget="" data-ondemand="">
 
 </div>
 
 </div>
 </section>
-<section id="dl07-a84a4609-4e81-4bf7-b1cf-d8442e798e7d" class="dynamic-large dl07 dl07-quick-links">
+<section id="dl07-8c516d7b-2a66-44a0-b93b-01eb027338f8" class="dynamic-large dl07 dl07-quick-links">
 <div class="container">
 <div class="row">
 <div class="quicklink small-6 portable-6 tablet-3 large-3 columns">
 
 <div class="advert advert06">
-<div id="ad06-0320f675-e933-4554-933f-4c3aaaa980c9" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="1" data-customtarget="" data-ondemand="">
+<div id="ad06-c3e625e8-612d-4f18-995a-8b5cb5254b75" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="1" data-customtarget="" data-ondemand="">
 
 <div class="ajax-loader"></div>
 
@@ -613,7 +628,7 @@ This page last updated: 16 August 2012</p>
 <div class="quicklink small-6 portable-6 tablet-3 large-3 columns">
 
 <div class="advert advert06">
-<div id="ad06-33d5205a-874c-4602-9bf3-528b2888bc75" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="2" data-customtarget="" data-ondemand="">
+<div id="ad06-7ca1b0de-a2fc-4a5d-9068-dce90aa09971" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="2" data-customtarget="" data-ondemand="">
 
 <div class="ajax-loader"></div>
 
@@ -624,7 +639,7 @@ This page last updated: 16 August 2012</p>
 <div class="quicklink small-6 portable-6 tablet-3 large-3 columns">
 
 <div class="advert advert06">
-<div id="ad06-8b07d434-6b31-449d-b225-90ff00bd6407" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="3" data-customtarget="" data-ondemand="">
+<div id="ad06-f4319a0a-1cb6-4425-9331-57cf254f36e3" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="3" data-customtarget="" data-ondemand="">
 
 <div class="ajax-loader"></div>
 
@@ -635,7 +650,7 @@ This page last updated: 16 August 2012</p>
 <div class="quicklink small-6 portable-6 tablet-3 large-3 columns">
 
 <div class="advert advert06">
-<div id="ad06-26914936-ed05-4190-9e2a-195fa5b1d129" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="4" data-customtarget="" data-ondemand="">
+<div id="ad06-8845e3ea-2034-45ca-b8d1-e2c84ecd0a4d" class="ad ad06" data-width="148" data-height="212" data-adunit="adj" data-async="false" data-pos="4" data-customtarget="" data-ondemand="">
 
 <div class="ajax-loader"></div>
 
@@ -647,7 +662,7 @@ This page last updated: 16 August 2012</p>
 </div>
 </section>
 <!--googleoff: index-->
-<footer id="n02-0cd94b52-4138-4b48-83ab-f3cb9a8c233d" class="footer n02 navigation">
+<footer id="n02-48b9a46d-b9bb-40b1-9cc2-fd6a1a157c70" class="footer n02 navigation">
 <div class="container">
 <div class="row">
 
@@ -663,20 +678,20 @@ Featured TV Shows
 <ul>
 
 <li>
-<a href="/channel-eleven/american-horror-story">
-American Horror Story
+<a href="/channel-ten/24-live-another-day">
+24 Live Another Day
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/b-daman-crossfire">
-B-Daman Crossfire
+<a href="/channel-eleven/1600-penn">
+1600 Penn
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/ben-and-kate">
-Ben and Kate
+<a href="/channel-ten/a-taste-of-travel">
+A Taste of Travel
 </a>
 </li>
 
@@ -687,14 +702,20 @@ Beverly Hills 90210
 </li>
 
 <li>
+<a href="/channel-eleven/beyblade-shogun-steel">
+Beyblade Shogun Steel
+</a>
+</li>
+
+<li>
 <a href="/channel-ten/blue-bloods">
 Blue Bloods
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/bobs-burgers">
-Bob's Burgers
+<a href="/channel-ten/bondi-rescue">
+Bondi Rescue
 </a>
 </li>
 
@@ -705,32 +726,38 @@ Bondi Vet
 </li>
 
 <li>
-<a href="/channel-eleven/californication">
-Californication
+<a href="/channel-one/burn-notice">
+Burn Notice
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/care-bears">
-Care Bears
+<a href="/sport/commonwealth-games">
+Commonwealth Games
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/come-date-with-me">
-Come Date With Me
+<a href="/channel-eleven/dads">
+Dads
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/dancing-on-ice">
-Dancing on Ice
+<a href="/channel-ten/david-attenborough">
+David Attenborough
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/dont-trust-the-b-in-apartment-23">
-Don't Trust The B---- In Apt 23
+<a href="/channel-eleven/dexter">
+Dexter
+</a>
+</li>
+
+<li>
+<a href="/channel-eleven/dinofroz">
+Dinofroz
 </a>
 </li>
 
@@ -741,32 +768,32 @@ Elementary
 </li>
 
 <li>
-<a href="/news/adelaide">
-Eyewitness News Adelaide
+<a href="/channel-eleven/enlisted">
+Enlisted
 </a>
 </li>
 
 <li>
-<a href="/news/brisbane">
-Eyewitness News Brisbane
+<a href="/news">
+Eyewitness News
 </a>
 </li>
 
 <li>
-<a href="/news/melbourne">
-Eyewitness News Melbourne
+<a href="/channel-ten/family-feud">
+Family Feud
 </a>
 </li>
 
 <li>
-<a href="/news/perth">
-Eyewitness News Perth
+<a href="/sport/formula-1">
+Formula 1
 </a>
 </li>
 
 <li>
-<a href="/news/sydney">
-Eyewitness News Sydney
+<a href="/channel-eleven/get-ace">
+Get Ace
 </a>
 </li>
 
@@ -778,13 +805,19 @@ GGO Football
 
 <li>
 <a href="/channel-ten/have-you-been-paying-attention">
-Have You Been Paying Attention?
+Have You Been Paying Attention
 </a>
 </li>
 
 <li>
-<a href="/channel-ten/homeland">
-Homeland
+<a href="/channel-ten/i-wanna-marry-harry">
+I Wanna Marry Harry
+</a>
+</li>
+
+<li>
+<a href="/channel-ten/jamie-oliver">
+Jamie Oliver
 </a>
 </li>
 
@@ -795,32 +828,26 @@ Jar Dwellers
 </li>
 
 <li>
-<a href="/sport/cricket">
-KFC T20 Big Bash
-</a>
-</li>
-
-<li>
 <a href="/kids">
 Kids on TENplay
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/mako-island-of-secrets">
-Mako Island of Secrets
-</a>
-</li>
-
-<li>
-<a href="/channel-eleven/matt-hatter-chronicles">
-Matt Hatter Chronicles
-</a>
-</li>
-
-<li>
 <a href="/channel-ten/masterchef">
 MasterChef Australia
+</a>
+</li>
+
+<li>
+<a href="/channel-one/megafactories">
+Megafactories
+</a>
+</li>
+
+<li>
+<a href="/channel-one/megastructures">
+Megastructures
 </a>
 </li>
 
@@ -847,6 +874,12 @@ Modern Family
 </li>
 
 <li>
+<a href="/sport/motogp">
+MotoGP
+</a>
+</li>
+
+<li>
 <a href="/channel-ten/ncis">
 NCIS
 </a>
@@ -865,8 +898,32 @@ Neighbours
 </li>
 
 <li>
+<a href="/channel-eleven/new-girl">
+New Girl
+</a>
+</li>
+
+<li>
 <a href="/channel-ten/offspring">
 Offspring
+</a>
+</li>
+
+<li>
+<a href="/channel-ten/party-tricks">
+Party Tricks
+</a>
+</li>
+
+<li>
+<a href="/channel-eleven/raising-hope">
+Raising Hope
+</a>
+</li>
+
+<li>
+<a href="/sport/rugby">
+Rugby Union
 </a>
 </li>
 
@@ -877,50 +934,8 @@ Scope
 </li>
 
 <li>
-<a href="/channel-eleven/shezow">
-SheZow
-</a>
-</li>
-
-<li>
-<a href="/channel-ten/sleepy-hollow">
-Sleepy Hollow
-</a>
-</li>
-
-<li>
-<a href="/channel-eleven/slugterra">
-Slugterra
-</a>
-</li>
-
-<li>
-<a href="/sport/sochi-2014">
-Sochi 2014
-</a>
-</li>
-
-<li>
-<a href="/channel-one/sons-of-anarchy">
-Sons of Anarchy
-</a>
-</li>
-
-<li>
-<a href="/channel-eleven/strawberry-shortcake">
-Strawberry Shortcake
-</a>
-</li>
-
-<li>
 <a href="/channel-ten/studio-10">
 Studio 10
-</a>
-</li>
-
-<li>
-<a href="/news">
-TEN Eyewitness News
 </a>
 </li>
 
@@ -931,20 +946,38 @@ The Bachelor
 </li>
 
 <li>
-<a href="/channel-ten/the-biggest-loser">
-The Biggest Loser
-</a>
-</li>
-
-<li>
 <a href="/channel-ten/the-bold-and-the-beautiful">
 The Bold and the Beautiful
 </a>
 </li>
 
 <li>
+<a href="/channel-one/the-glades">
+The Glades
+</a>
+</li>
+
+<li>
+<a href="/channel-ten/the-good-wife">
+The Good Wife
+</a>
+</li>
+
+<li>
+<a href="/channel-eleven/the-goodwin-games">
+The Goodwin Games
+</a>
+</li>
+
+<li>
 <a href="/channel-ten/the-graham-norton-show">
 The Graham Norton Show
+</a>
+</li>
+
+<li>
+<a href="/channel-one/the-killing">
+The Killing
 </a>
 </li>
 
@@ -973,20 +1006,26 @@ The Project
 </li>
 
 <li>
+<a href="/channel-eleven/torchwood">
+Torchwood
+</a>
+</li>
+
+<li>
 <a href="/channel-eleven/totally-wild">
 Totally Wild
 </a>
 </li>
 
 <li>
-<a href="/channel-eleven/tree-fu-tom">
-Tree Fu Tom
+<a href="/channel-one/undercover-boss">
+Undercover Boss
 </a>
 </li>
 
 <li>
-<a href="/channel-ten/wake-up">
-Wake Up
+<a href="/channel-ten/under-the-dome">
+Under The Dome
 </a>
 </li>
 
@@ -1011,7 +1050,7 @@ Wurrawhy
 
 
 <h4>
-On Network TEN
+On Network Ten
 &nbsp;
 </h4>
 
@@ -1115,12 +1154,6 @@ Mobile
 </li>
 
 <li>
-<a href="/apps">
-TEN Eyewitness News
-</a>
-</li>
-
-<li>
 <a href="/apps" target="_blank">
 Xbox
 </a>
@@ -1139,8 +1172,8 @@ Sony Bravia
 </li>
 
 <li>
-<a href="http://zeebox.com/au" target="_blank">
-zeebox
+<a href="http://beamly.com/?&amp;message=fromZeebox" target="_blank">
+Beamly
 </a>
 </li>
 
@@ -1153,7 +1186,7 @@ zeebox
 
 <a href="http://www.ten.com.au/about">
 <h4>
-About Network TEN
+About Network Ten
 &nbsp;
 </h4>
 </a>
@@ -1161,13 +1194,13 @@ About Network TEN
 <ul>
 
 <li>
-<a href="http://tencorporate.com.au/" target="_blank">
+<a href="/corporate" target="_blank">
 Corporate
 </a>
 </li>
 
 <li>
-<a href="http://tencorporate.com.au/careers.htm" target="_blank">
+<a href="/corporate/careers" target="_blank">
 Jobs
 </a>
 </li>
@@ -1203,14 +1236,14 @@ Oasis Active Dating
 </li>
 
 <li>
-<a href="http://www.ourdeal.com.au/" target="_blank">
-OurDeal
+<a href="http://beamly.com/?&amp;message=fromZeebox" target="_blank">
+Beamly
 </a>
 </li>
 
 <li>
-<a href="http://au.zeebox.com/tv/home" target="_blank">
-zeebox
+<a href="http://www.ourdeal.com.au/" target="_blank">
+OurDeal
 </a>
 </li>
 
@@ -1231,7 +1264,7 @@ Spree TV
 <!--googleon: index-->
 
 <!--googleoff: index-->
-<footer id="n02a-6244cf6c-d0db-471f-b72a-e4b5c3e13f6a" class="signoff n02a navigation">
+<footer id="n02a-5bfa6679-8033-47e3-9de7-a88c8be1a7cf" class="signoff n02a navigation">
 <div class="container">
 <nav class="right">
 
@@ -1272,7 +1305,7 @@ Sitemap
 
 </nav>
 <span class="copyright left">
-© 2013 Network Ten Pty. Ltd.
+© 2014 Network Ten Pty. Ltd.
 </span>
 </div>
 </footer>
@@ -1284,7 +1317,7 @@ Sitemap
 <a class="close-reveal-modal"><span class="icon-thin-close"></span></a>
 </div>
 
-<div id="e02-f5a62643-a789-4266-8a9d-8f0232fb6f64" class="e02epg">
+<div id="e02-708039e9-23ea-4edd-8b8a-3030b513e008" class="e02epg">
 <section class="epg02-sticky-footer">
 <div class="thin-strip">
 <div class="container">
@@ -1300,7 +1333,7 @@ What's On
 8:30am
 </div>
 <div class="title">
-Studio 10: Sunday
+Studio 10
 </div>
 </div>
 
@@ -1312,7 +1345,7 @@ Studio 10: Sunday
 9:00am
 </div>
 <div class="title">
-KFC T20 Big Bash League
+NASCAR Sprint Cup Highlights
 </div>
 </div>
 
@@ -1321,10 +1354,10 @@ KFC T20 Big Bash League
 <img src="/content/upload/images/channels-sml/11.png" alt="ELEVEN">
 </div>
 <div class="time">
-9:00am
+9:30am
 </div>
 <div class="title">
-Teenage Mutant Ninja Turtles
+Wurrawhy
 </div>
 </div>
 
@@ -1336,8 +1369,8 @@ Teenage Mutant Ninja Turtles
 <div class="expanded">
 <div class="title-bar">
 <div class="container">
-<time class="date" datetime="2013-12-22T09:03">
-Sunday 22nd December
+<time class="date" datetime="2014-06-27T09:38">
+Friday 27th June
 </time>
 
 <a href="/tv-guide" class="right view-full-guide">
@@ -1364,39 +1397,39 @@ View Full TV Guide
 <ol>
 
 <li>
-<a href="/tv-guide#57438045">
-<div class="show">
-<div class="time">
-10:00am
-</div>
-<div class="title">
-Studio 10: Sunday Extra
-</div>
-</div>
-</a>
-</li>
-
-<li>
-<a href="/tv-guide#57574273">
+<a href="/tv-guide#61219161">
 <div class="show">
 <div class="time">
 11:00am
 </div>
 <div class="title">
-What's Up Down Under
+MasterChef Australia
 </div>
 </div>
 </a>
 </li>
 
 <li>
-<a href="/tv-guide#57438047">
+<a href="/tv-guide#61297722">
 <div class="show">
 <div class="time">
-11:30am
+12:00pm
 </div>
 <div class="title">
-Places We Go With Jennifer Adams
+Dr. Phil
+</div>
+</div>
+</a>
+</li>
+
+<li>
+<a href="/tv-guide#61219163">
+<div class="show">
+<div class="time">
+1:00pm
+</div>
+<div class="title">
+The Doctors
 </div>
 </div>
 </a>
@@ -1407,20 +1440,7 @@ Places We Go With Jennifer Adams
 <ol>
 
 <li>
-<a href="/tv-guide#57449135">
-<div class="show">
-<div class="time">
-9:30am
-</div>
-<div class="title">
-Teenage Mutant Ninja Turtles
-</div>
-</div>
-</a>
-</li>
-
-<li>
-<a href="/tv-guide#57449136">
+<a href="/tv-guide#61235634">
 <div class="show">
 <div class="time">
 10:00am
@@ -1433,13 +1453,26 @@ Teenage Mutant Ninja Turtles
 </li>
 
 <li>
-<a href="/tv-guide#57449137">
+<a href="/tv-guide#61235635">
 <div class="show">
 <div class="time">
 11:00am
 </div>
 <div class="title">
-Mako: Island of Secrets
+Everybody Loves Raymond
+</div>
+</div>
+</a>
+</li>
+
+<li>
+<a href="/tv-guide#61235636">
+<div class="show">
+<div class="time">
+11:30am
+</div>
+<div class="title">
+Frasier
 </div>
 </div>
 </a>
@@ -1450,39 +1483,39 @@ Mako: Island of Secrets
 <ol>
 
 <li>
-<a href="/tv-guide#57456192">
+<a href="/tv-guide#61280401">
 <div class="show">
 <div class="time">
-12:30pm
+10:00am
 </div>
 <div class="title">
-Sporting Greats
+The Biggest Loser
 </div>
 </div>
 </a>
 </li>
 
 <li>
-<a href="/tv-guide#57456193">
+<a href="/tv-guide#61280402">
 <div class="show">
 <div class="time">
-1:05pm
+11:00am
 </div>
 <div class="title">
-Omnisport
+The Biggest Loser
 </div>
 </div>
 </a>
 </li>
 
 <li>
-<a href="/tv-guide#57456194">
+<a href="/tv-guide#61280403">
 <div class="show">
 <div class="time">
-1:30pm
+12:00pm
 </div>
 <div class="title">
-Driving Wars
+Driven to Extremes
 </div>
 </div>
 </a>
@@ -1535,8 +1568,19 @@ geturl: 'http://ratings.ten.com.au/getRateInfo.ashx',
 seturl: 'http://ratings.ten.com.au/ratehandler.ashx',
 activityHandlerUrl: '/handlers/account/ActivityHandler.ashx'
 };
+var currentRegionUtcOffset = 10,
+currentRegionDateTime = new Date(2014, 5, 27, 9, 38, 9, 513);
 </script>
-<script src="//f.tenplay.com.au/bundles/base-body-script-bundle?v=XPnh0_oeOGmULcbDvwvL9ePWRbhUTRnfQxcF6-tB9kg1"></script>
+
+<!--[if lt IE 9]>
+<script src="/themes/base/js/respond-crossOrigin/respond.min.js"></script>
+
+<link href="//f.tenplay.com.au/themes/base/js/respond-crossOrigin/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/themes/base/js/respond-crossOrigin/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/themes/base/js/respond-crossOrigin/respond.proxy.js"></script>
+
+<![endif]-->
+<script src="//f.tenplay.com.au/bundles/base-body-script-bundle?v=aOq6LulOL9RaKi9mg0-KheO81R4Qrl3juuoLbwlkH9A1"></script>
 
 <div id="fb-root"></div>
 <div class="hidden">
@@ -1604,6 +1648,7 @@ s.eVar10 = s.prop10 = GetSectionPath(4, pagePathArray, "");
 s.eVar11 = s.prop11 = TenAds.trackConfig.contentType;
 s.eVar12 = s.prop12 = pagePathArray.pop();
 s.eVar13 = s.prop13 = "{E995C4D0-8E07-4F6F-85AA-0A541940E7FC}";
+s.eVar37 = "u2qdq0y5aakejhajd5a4ryvp";
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code = s.t(); if (s_code) document.write(s_code)
 </script>
@@ -1645,5 +1690,5 @@ ga('send', 'pageview');
 
 
 <!-- NWTENPROD-CMS5 -->
-<script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","58d9c55dd2","2486850","YQNWNUQAVxBTWkYIX1hJdTJmTlUCS1ZHFUMZCFEVQQ5LCBJNVw8fWwdHFVMTGQ9TQF0URBgHRxFO",655,62,new Date().getTime(),"AFAF3C2BEAF4427F","","","",""]);</script>
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
