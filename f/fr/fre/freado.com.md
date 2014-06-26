@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129130848id_/http%3A//www.freado.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054156id_/http%3A//www.freado.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy-fReado
 
@@ -9,21 +9,20 @@ Our Commitment To Privacy
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
 The Information We Collect:
 
-This notice applies to all information collected or submitted on the Freado website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Freado website. The types of personal information collected are:
 
-  * • Name
-  * • Address
-  * • Email address
-  * • Phone number
-  * • Credit/Debit Card Information etc.
+  * Name
+  * Address
+  * Email address
+  * Phone number etc.
 
 
 
 On some pages, you can submit information about other people. In this circumstance, the types of personal information collected are:
 
-  * • Name
-  * • Address
-  * • Email etc.
+  * Name
+  * Address
+  * Email etc.
 
 
 
