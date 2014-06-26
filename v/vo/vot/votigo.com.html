@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2013-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118212505id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the votigo.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626153839id_/http%3A//votigo.com/corp/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Votigo social media solutions - Privacy Policy</title>
     <meta name="Description" content="Votigo custom Video contest promotions, viral video contests, video galleries, photo gallery, image gallery, contest rules, sweepstakes rules, photo contests, online promotions.">
   	<meta name="keywords" content="video contest, video contests, photo contest, photo contests, social networking, contest platform, image gallery, viral marketing, contests, online promotions">
- <!-- server name:www.votigo.com server ip: 192.168.1.181 -->    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="/css/corp/styles.css?v=1384809905" type="text/css" media="screen">
+ <!-- server name:www.votigo.com server ip: 192.168.1.180 -->    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="/css/corp/styles-prod-min.css?v=1403797119" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/corp/jquery.min.js"></script>
 <script type="text/javascript" src="/js/corp/jquery.slideto.min.js"></script>
 	<script type="text/javascript" src="/js/corp/jquery-ui-1.8.7.custom.min.js"></script>
 	<link href="/colorbox/colorbox-min.css?v=11" media="screen" rel="stylesheet" type="text/css">
 	<script src="/colorbox/jquery.colorbox-min.js" type="text/javascript"></script>
-	<script type="text/javascript" src="/corp/js/jquery.roundabout.min.js?v=1384809905"></script>
+	<script type="text/javascript" src="/corp/js/jquery.roundabout.min.js?v=1403797119"></script>
 	<script type="text/javascript" src="/js/swfobject.js"></script>
 	<script type="text/javascript" src="/jwplayer5_7/jwplayer.js"></script>
-	<!--tour tabs --><script src="/js/corp/verticaltabs.pack.js?v=1384809905" type="text/javascript"></script>
+	<!--tour tabs --><script src="/js/corp/verticaltabs.pack.js?v=1403797119" type="text/javascript"></script>
 	<script type="text/javascript" src="/js/corp/execute.js"></script>
+
 <link rel="shortcut icon" href="/img/corp/favicon.ico">
 <script>
 		$(document).ready(function(){
@@ -75,114 +76,149 @@
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div><boody>
     <div id="wrapper" class="terms">
         <header>
-             <script type="text/javascript">
-    var timeout         = 500;
-    var closetimer		= 0;
-    var ddmenuitem      = 0;
+            <img src="/img/corp/liveexamples-hover.png?v=2" style="display:none;">
+<script type="text/javascript">
+    var timeout    = 500;
+    var closetimer = 0;
+    var ddmenuitem = 0;
+    var prevddmenuitemId = 0;
+    var isOpen     = false;
     
-    function nav_open()
-    {	nav_canceltimer();
-    	nav_close();
-    	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible')
-	}
-    function nav_close()
-    {	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
-    
-    function nav_timer()
-    {	closetimer = window.setTimeout(nav_close, timeout);}
-    function nav_canceltimer()
-    {	if(closetimer)
-    	{	window.clearTimeout(closetimer);
-    		closetimer = null;}
-	}
-    $(document).ready(function(){
-        $('#nav  .nav-name').bind('mouseover', nav_open);
-    	$('#nav  .nav-name').bind('mouseout',  nav_timer);
+    function nav_open() {   
+        nav_canceltimer();
+        nav_close();
+        ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
     }
-	);
+    
+    function nav_close() {  
+        if(ddmenuitem) {
+            ddmenuitem.css('visibility', 'hidden');
+        }
+    }
+    
+    function nav_timer() {  
+        closetimer = window.setTimeout(nav_close, timeout);
+    }
+    
+    function nav_canceltimer() {    
+        if(closetimer) {
+            window.clearTimeout(closetimer);
+            closetimer = null;
+        }
+    }
+    
+    function nav_toggle() { 
+        try {
+            if($(this).find('ul').eq(0).context.id) {
+                if(isOpen && prevddmenuitemId == $(this).find('ul').eq(0).context.id) {
+                    isOpen = false;
+                    closetimer = window.setTimeout(nav_close, timeout);
+                } else {
+                    isOpen = true;
+                    if(closetimer) {
+                        window.clearTimeout(closetimer);
+                        closetimer = null;
+                    }
+                    if(ddmenuitem) {
+                        ddmenuitem.css('visibility', 'hidden');
+                    }
+                    ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');
+                    prevddmenuitemId = $(this).find('ul').eq(0).context.id;
+                }
+            } else {
+                isOpen = false;
+                closetimer = window.setTimeout(nav_close, timeout);
+            }
+        } catch (e) {
+            isOpen = false;
+            closetimer = window.setTimeout(nav_close, timeout);
+        }
+    }
+    
+    $(document).ready(function() {
+        $('#nav .nav-name').bind('mouseover', nav_open);
+        $('#nav .nav-name').bind('mouseout', nav_timer);
+        $('#nav .nav-name').bind('touchstart', nav_toggle);
+    });
 
-    document.onclick = nav_close;
+    //document.onclick = nav_toggle;
 </script>
     <div id="header">
     <div class="forhome">
-    <div id="logo"><a href="/" title="Votigo®"><span><img src="/img/corp/votigo-header-icon.png" alt="Votigo Icon"></span></a></div>
+    <div id="logo"><a href="/" title="Votigo®"><span><img src="/img/corp/votigo-header-icon.png?v=1" alt="Votigo Icon"></span></a></div>
     <div class="user-nav">
-    	<div class="contact_info">
-    		 <div class="ph-no fl"><a href="/contact.php">Contact us</a> or call 1.800.519.1850</div>
-			 <div class="contact-section fr">
-				<div class="contact-login fl"><a href="/login">Login</a></div>
-				<div class="contact-spacer fl">|</div>
-				<div class="contact-register fl"><a href="/register">Register</a></div>
-				<div class="clear"></div>
-			</div>
+        <div class="contact_info">
+             <div class="ph-no fl"><a href="/contact.php">Contact us</a> or call 1.800.519.1850</div>
+             <div class="contact-section fr">
+                <div class="fl liveexamples-header">
+                    <a href="/live-examples.php">
+                        <img src="/img/corp/liveexamples.png?v=2" alt="Live Examples" title="Live Examples" onmouseover="this.src='/img/corp/liveexamples-hover.png?v=2'" onmouseout="this.src='/img/corp/liveexamples.png?v=1'">
+                    </a>
+                    
+
+                      
+                </div>
+                <div class="contact-login fl"><a href="/login">Login</a></div>
+                <div class="contact-spacer fl">|</div>
+                <div class="contact-register fl"><a href="/register">Register</a></div>
+                <div class="clear"></div>
+            </div>
              <div class="clear"></div>
          </div>
          <div class="clear"></div>
 
          <ul id="nav" class="clearfix">
-	        <li class="nav-name"><span class="name_selected"><a href="#" class="selected">Products <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
-		        <ul style="width:480px" class="subnav-styles">
-			        <li class="dropdown_item"><a class="sub-head" href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
-			        <li class="dropdown_item"><a class="sub-head" href="/products/social-promotions-overview.php">Premium Social Promotions</a></li> 
-			        <li class="dropdown_item"><a class="navpad" href="/products/social-promotions.php">Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/Facebook_Contest_App.php">Facebook Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/applications.php">Applications</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/corp/promotions/twitter.php">Twitter / Vine Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/social-contacts.php">Contacts</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/microsite-promotion.php">Web Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/conversationmanager.php">Conversation Manager</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/mobile-contest.php">Mobile Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/social-media-analytics.php">Analytics</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/corp/promotions/youtube.php">YouTube Contests</a></li>
-			        <li class="dropdown_item"><a class="sub-head" href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/instagram-contest.php">Instagram Promotions</a></li>
-			        <li class="dropdown_item"><a class="sub-head" href="/solutions/developer.php">Developer API</a></li>
-			        <li class="dropdown_item"><a class="navpad" href="/products/pin-to-win-pinterest-contest.php">Pinterest Promotions</a></li>
-			        <li class="dropdown_item"><a class="sub-head" href="/solutions/enterprise.php">Enterprise Solutions</a></li>
-			        	<li class="dropdown_item"><a class="navpad" href="/corp/promotions/photo-contest.php">Photo Contests</a></li>
-			        <li class="dropdown_item"><a class="sub-head" href="/products/services.php">Services</a></li>
-			        	<li class="dropdown_item"><a class="navpad" href="/corp/solutions/photo-video.php">Video Contests</a></li>
-			        
-			        
-			        
-			        <li class="dropdown_item"><a class="sub-head" href="/products/advertising.php">Facebook Advertising</a></li>
-			         <li class="dropdown_item"><!-- <a class="sub-head" href="/products/advertising.php"></a> --><a></a></li>
-		        </ul>
-		        <div class="clear"></div>
-	        </li>
-                         <li class="nav-name no-arrow1"><a href="/solutions/pricing-and-plans.php" class="selected">Pricing</a>
-                        </li><li class="nav-name client_selected"><span class="name_selected"><a href="#" class="selected">Customers<img style="margin-left:4px;" src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
+            <li id="products" class="nav-name"><span class="name_selected"><a href="javascript:void(0);" class="selected">Products <img src="/img/corp/bg_dropdown_arrow.png?v=2" alt="Drop Down Arrow"></a></span>
                 <ul class="subnav-styles">
-                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/clients.php">Overview</a></li>
-                    <li class="dropdown_item"><a href="/case-studies.php">Case Studies</a></li>
-                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"> <a class="lastitem" href="/testimonials.php">Testimonials</a></li>
+                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/products/social-promotions-overview.php">Custom Contests &amp; Sweepstakes</a></li>
+                    <li class="dropdown_item"><a href="/products/social-media-management-software.php">Social Marketing &amp; Promotions Platform</a></li>
+                    <li class="dropdown_item"><a href="/solutions/enterprise.php">Enterprise Social Marketing Platform</a></li>
+                    <li class="dropdown_item"><a href="/solutions/developer.php">Developer API</a></li>
+                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"><a class="lastitem" href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li>
                 </ul>
                 <div class="clear"></div>
             </li>
-            <li class="nav-name comp_selected"><span class="name_selected"><a href="#" class="selected">Company <img src="/img/corp/bg_dropdown_arrow.png?v=1" alt="Drop Down Arrow"></a></span>
+            <li id="solutions" class="nav-name client_selected"><span class="name_selected"><a href="javascript:void(0);" class="selected">Solutions &amp; Services<img style="margin-left:4px;" src="/img/corp/bg_dropdown_arrow.png?v=2" alt="Drop Down Arrow"></a></span>
+                <ul class="subnav-styles">
+                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/products/services.php">Professional Services</a></li>
+                    <li class="dropdown_item"><a href="/solutions/agency.php">Agency Solutions</a></li>
+                    <li class="dropdown_item"><a href="/solutions/partner.php">Partner Solutions</a></li>
+                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"><a class="lastitem" href="/products/advertising.php">Facebook Advertising</a></li>
+                </ul>
+                <div class="clear"></div>
+            </li>
+                         <li class="nav-name no-arrow1"><a href="/solutions/pricing-and-plans.php" class="selected">Pricing</a>
+                        </li><li id="customers" class="nav-name client_selected"><span class="name_selected"><a href="javascript:void(0);" class="selected">Customers<img style="margin-left:4px;" src="/img/corp/bg_dropdown_arrow.png?v=2" alt="Drop Down Arrow"></a></span>
+                <ul class="subnav-styles">
+                    <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/clients.php">Who We Work With</a></li>
+                    <li class="dropdown_item"><a href="/live-examples.php">Live Examples</a></li>
+                    <li class="dropdown_item"><a href="/case-studies.php">Case Studies</a></li>
+                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"><a class="lastitem" href="/testimonials.php">Testimonials</a></li>
+                </ul>
+                <div class="clear"></div>
+            </li>
+            <li id="company" class="nav-name comp_selected"><span class="name_selected"><a href="javascript:void(0);" class="selected">Company <img src="/img/corp/bg_dropdown_arrow.png?v=2" alt="Drop Down Arrow"></a></span>
                 <ul class="subnav-styles">
                     <li class="dropdown_item" style="border-radius:5px 5px 0 0px;"><a href="/about.php">About us</a></li>
                     <li class="dropdown_item"><a href="/news.php">News</a></li>
-                    <li class="dropdown_item"> <a href="/jobs.php">Jobs</a></li>
-                    <li class="dropdown_item" style="border-radius:0 0px 5px 5px;"><a class="lastitem" href="/solutions/partner.php">Partner Opportunities</a></li>
+                    <li class="dropdown_item"><a href="/jobs.php">Jobs</a></li>                    
+                    <li class="dropdown_item"><a class="lastitem" target="_blank" href="http://social.votigo.com/">Blog</a></li>
                 </ul>
                 <div class="clear"></div>
             </li>
-             <li class="nav-name no-arrow1"><a href="http://social.votigo.com/" class="selected">Blog</a>
-                <div class="clear"></div>
-            </li>
-            <li class="nav-name no-arrow2"><a href="/contact.php" class="selected">Contact Us</a>
+            <li class="nav-name no-arrow2"><a href="/contact.php" class="selected">Contact</a>
                 <div class="clear"></div>
             </li>
        </ul>
-		<div class="clear"></div>
+        <div class="clear"></div>
     </div>
     <div class="clear"></div>
     </div>
 </div>
 <div class="clear"></div>
   <!-- #header end-->  
-          </header>
+  
+        </header>
         <div class="clear"></div>
         <div class="content">
             <section>
@@ -260,113 +296,114 @@
 
        <footer>
         <div class="footer">
-	<div class="footer-content">
-    	<div class="fl footer-gap"><a href="/"><img src="/img/corp/votigo-footer-logo.png?v=1" alt="Votigo Icon"></a></div>
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title">products</li>
-    			<li class="sec-title"><a href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
-    			<li><a href="/products/social-promotions.php">Promotions</a></li>
-    			<li><a href="/products/applications.php">Applications</a></li>
-    			<li><a href="/products/social-contacts.php">Contacts</a></li>
-    			<li><a href="/products/conversationmanager.php">Conversation Manager</a></li>
-    			<li><a href="/products/social-media-analytics.php">Analytics</a></li>
-    		</ul>
-    	</div>
+    <div class="footer-content">
+        <div class="fl footer-gap"><a href="/"><img src="/img/corp/votigo-footer-logo.png?v=2" alt="Votigo Icon"></a></div>
+        <div class="footer-sec footer-gap">
+            <ul>
+                <li class="sec-title">products</li>
+                <li class="sec-title"><a href="/products/social-media-management-software.php">Social Marketing Suite</a></li>
+                <li><a href="/products/social-promotions.php">Promotions</a></li>
+                <li><a href="/products/applications.php">Applications</a></li>
+                <li><a href="/products/social-contacts.php">Contacts</a></li>
+                <li><a href="/products/conversationmanager.php">Conversation Manager</a></li>
+                <li><a href="/products/social-media-analytics.php">Analytics</a></li>
+            </ul>
+        </div>
 
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title"><a href="/products/social-promotions-overview.php">Premium Social Promotions</a></li>
-    			
-				<li><a href="/Facebook_Contest_App.php">Facebook Promotions</a></li>
-		        <li><a href="/corp/promotions/twitter.php">Twitter / Vine Promotions</a></li>
-		        <li><a href="/products/microsite-promotion.php">Web Promotions</a></li>
-		        <li><a href="/products/mobile-contest.php">Mobile Promotions</a></li>
-		        <li><a href="/corp/promotions/youtube.php">YouTube Contests</a></li>
-		        <li><a href="/products/instagram-contest.php">Instagram Promotions</a></li>
-		        <li><a href="/products/pin-to-win-pinterest-contest.php">Pinterest Promotions</a></li>
-		        
-		        <li class="sec-title"><a href="/products/services.php">Services</a></li> 
-		        <li class="sec-title"><a href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li> 
-		        <li class="sec-title"><a href="/solutions/developer.php">Developer API</a></li>
-		        <li class="sec-title"><a href="/solutions/enterprise.php">Enterprise solutions</a></li>
-		        <li class="sec-title"><a href="/products/advertising.php">Facebook Advertising</a></li>
-		        <li class="sec-title"><a href="/solutions/pricing-and-plans.php">Pricing</a></li>
-    		</ul>
-    	</div>
-    	
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title">Promotion Apps</li>
-    			<li><a href="/corp/solutions/fbcontests.php">Facebook Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-video-contest-application.php">Facebook Video Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-photo-contest-application.php">Facebook Photo Contest</a></li>
-    			<li><a href="/corp/solutions/facebook-sweepstakes-application.php">Facebook Sweepstakes</a></li>
-    			<li><a href="/corp/solutions/facebook-applications.php">Facebook Application</a></li>
-    			<li><a href="/Facebook_Video_Contest_App.php">Facebook Video Contest App</a></li>
-    			<li><a href="/Facebook_Photo_Contest_App.php">Facebook Photo Contest App</a></li>
-    			<li><a href="/Facebook_Sweepstakes_App.php">Facebook Sweepstakes App</a></li>
-    		</ul>
-    	</div>
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title">customers</li>
-    			<li><a href="/clients.php">Overview</a></li>
-    			<li><a href="/case-studies.php">Case Studies</a></li>
-    			<li><a href="/testimonials.php">Testimonials</a></li>
-    			<li class="sec-title" style="margin-top:16px;">LEGAL</li>
-    			<li><a href="/corp/terms.php">Terms of use</a></li>
-    			<li> <a href="/corp/privacy.php">Privacy Policy</a></li>
-    		</ul>
-    	</div>
-    	<div class="footer-sec footer-gap">
-    		<ul>
-    			<li class="sec-title">COMPANY</li>
-    			<li><a href="/about.php">About us</a></li>
-    			<li><a href="/news.php">News</a></li>
-    			<li> <a href="/jobs.php">Jobs</a></li>
-    		</ul>
-    	</div>
+        <div class="footer-sec footer-gap">
+            <ul>
+                <li class="sec-title"><a href="/products/social-promotions-overview.php">Premium Social Promotions</a></li>
+                
+                <li><a href="/Facebook_Contest_App.php">Facebook Promotions</a></li>
+                <li><a href="/corp/promotions/twitter.php">Twitter / Vine Promotions</a></li>
+                <li><a href="/products/microsite-promotion.php">Web Promotions</a></li>
+                <li><a href="/products/mobile-contest.php">Mobile Promotions</a></li>
+                <li><a href="/corp/promotions/youtube.php">YouTube Contests</a></li>
+                <li><a href="/products/instagram-contest.php">Instagram Promotions</a></li>
+                <li><a href="/products/pin-to-win-pinterest-contest.php">Pinterest Promotions</a></li>
+                
+                <li class="sec-title"><a href="/products/services.php">Services</a></li> 
+                <li class="sec-title"><a href="/products/DIY-contest-app.php">Standard DIY Promotions</a></li> 
+                <li class="sec-title"><a href="/solutions/developer.php">Developer API</a></li>
+                <li class="sec-title"><a href="/solutions/enterprise.php">Enterprise solutions</a></li>
+                <li class="sec-title"><a href="/products/advertising.php">Facebook Advertising</a></li>
+                <li class="sec-title"><a href="/solutions/pricing-and-plans.php">Pricing</a></li>
+            </ul>
+        </div>
+        
+        <div class="footer-sec footer-gap">
+            <ul>
+                <li class="sec-title">Promotion Apps</li>
+                <li><a href="/corp/solutions/fbcontests.php">Facebook Contest</a></li>
+                <li><a href="/corp/solutions/facebook-video-contest-application.php">Facebook Video Contest</a></li>
+                <li><a href="/corp/solutions/facebook-photo-contest-application.php">Facebook Photo Contest</a></li>
+                <li><a href="/corp/solutions/facebook-sweepstakes-application.php">Facebook Sweepstakes</a></li>
+                <li><a href="/corp/solutions/facebook-applications.php">Facebook Application</a></li>
+                <li><a href="/Facebook_Video_Contest_App.php">Facebook Video Contest App</a></li>
+                <li><a href="/Facebook_Photo_Contest_App.php">Facebook Photo Contest App</a></li>
+                <li><a href="/Facebook_Sweepstakes_App.php">Facebook Sweepstakes App</a></li>
+            </ul>
+        </div>
+        <div class="footer-sec footer-gap">
+            <ul>
+                <li class="sec-title">customers</li>
+                <li><a href="/clients.php">Who We Work With</a></li>
+                <li><a href="/live-examples.php">Live Examples</a></li>
+                <li><a href="/case-studies.php">Case Studies</a></li>
+                <li><a href="/testimonials.php">Testimonials</a></li>
+                <li class="sec-title" style="margin-top:16px;">LEGAL</li>
+                <li><a href="/corp/terms.php">Terms of use</a></li>
+                <li> <a href="/corp/privacy.php">Privacy Policy</a></li>
+            </ul>
+        </div>
+        <div class="footer-sec footer-gap">
+            <ul>
+                <li class="sec-title">COMPANY</li>
+                <li><a href="/about.php">About us</a></li>
+                <li><a href="/news.php">News</a></li>
+                <li> <a href="/jobs.php">Jobs</a></li>
+            </ul>
+        </div>
 
-    	<div class="footer-sec">
-    		<ul>
-    			<li class="sec-title">FREE RESOURCES</li>
-    			<li><a href="/resource-center.php">Resource Center</a></li>
-    			<li><a href="http://social.votigo.com/">Blog</a></li>
-    			<li><a href="/corp/solutions/tips.php">How to Run a Contest</a></li>
-    			<li> <a href="/corp/solutions/whycontestswork.php">Why Contests Work </a></li>
-    			<li class="sec-title" style="margin-top:16px;">Business Solutions</li>
-    			<li><a href="/solutions/brand.php">Brands</a></li>
-    			<li><a href="/solutions/agency.php">Agencies</a></li>
-    			<li><a href="/solutions/partner.php">Partners</a></li>
-    			
-    		</ul>
-    	</div>
+        <div class="footer-sec">
+            <ul>
+                <li class="sec-title">FREE RESOURCES</li>
+                <li><a href="/resource-center.php">Resource Center</a></li>
+                <li><a href="http://social.votigo.com/">Blog</a></li>
+                <li><a href="/corp/solutions/tips.php">How to Run a Contest</a></li>
+                <li> <a href="/corp/solutions/whycontestswork.php">Why Contests Work </a></li>
+                <li class="sec-title" style="margin-top:16px;">Business Solutions</li>
+                <li><a href="/solutions/brand.php">Brands</a></li>
+                <li><a href="/solutions/agency.php">Agencies</a></li>
+                <li><a href="/solutions/partner.php">Partners</a></li>
+                
+            </ul>
+        </div>
 
-    	<div class="footer-contact">
-    		<ul>
-    			<li class="sec-title">CONTACT US</li>
-    			<li><a href="/contact.php">Online form</a></li>
-    			<li>Sales: 1.800.519.1850</li>
-    			<li>
-        			<div>
-            			    <a href="https://www.facebook.com/votigo" target="_blank"><img class="soc-logo" src="/img/corp/facebook.png" alt="Facebook Icon"></a>
-            			    <a target="_blank" href="http://www.facebook.com/share.php?u=www.votigo.com&amp;t=Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients."></a>
+        <div class="footer-contact">
+            <ul>
+                <li class="sec-title">CONTACT US</li>
+                <li><a href="/contact.php">Online form</a></li>
+                <li>Sales: 1.800.519.1850</li>
+                <li>
+                    <div>
+                            <a href="https://www.facebook.com/votigo" target="_blank"><img class="soc-logo" src="/img/corp/facebook.png?v=1" alt="Facebook Icon"></a>
+                            <a target="_blank" href="http://www.facebook.com/share.php?u=&amp;t=Votigo creates viral and engaging photo and video contests, sweepstakes, and promotions that drive measurable results for our clients."></a>
 
-            			    <a href="http://twitter.com/votigo" target="_blank"><img class="soc-logo" src="/img/corp/new-twitter.png" alt="Twitter Icon"></a>
-            			    <a href="http://twitter.com/share?url=www.votigo.com&amp;text=Check%20out%20%40votigo%20for%20video%20contest%2C%20facebook%20contest%2C%20twitter%20contest%2C%20sweepstakes%20%26%20social%20media%20promotions.%20%23contest&amp;related=votigo" target="_blank"></a>
+                            <a href="http://twitter.com/votigo" target="_blank"><img class="soc-logo" src="/img/corp/new-twitter.gif" alt="Twitter Icon"></a>
+                            <a href="http://twitter.com/share?url=&amp;text=Check%20out%20%40votigo%20for%20video%20contest%2C%20facebook%20contest%2C%20twitter%20contest%2C%20sweepstakes%20%26%20social%20media%20promotions.%20%23contest&amp;related=votigo" target="_blank"></a>
 
-            			    <a href="https://plus.google.com/117447893516827723575#117447893516827723575/posts" target="_blank"><img class="soc-logo" src="/img/corp/g-plus.jpg" alt="G-Plus Icon"></a>
-            			    
-            			    <a href="http://www.linkedin.com/company/votigo-inc." target="_blank"><img class="fl" src="/img/corp/in.jpg?v=1" alt="Linkedin Icon"></a>
+                            <a href="https://plus.google.com/117447893516827723575#117447893516827723575/posts" target="_blank"><img class="soc-logo" src="/img/corp/g-plus.png" alt="G-Plus Icon"></a>
+                            
+                            <a href="http://www.linkedin.com/company/votigo-inc." target="_blank"><img class="fl" src="/img/corp/in.jpg?v=2" alt="Linkedin Icon"></a>
 
-        			    <div class="clear"></div>
-        			</div>
-    			</li>
-    		</ul>
-    	</div>
-    	<div class="clear"></div>
-    	
+                        <div class="clear"></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+        
     </div>
 
 </div>
@@ -412,7 +449,7 @@
              // $('.errordisplay').show();
              curUrl = "/corp/privacy.php";
              if(curUrl != '/about/cookieerror.php'){
-	             location.href = "/about/cookieerror.php";
+                 location.href = "/about/cookieerror.php";
              }
           }
       }
@@ -435,7 +472,9 @@ window.onload = function(){
     document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
    if(oldonload){oldonload()}};
 }());
-</script>        </footer>
+</script>
+<div style="clear:both;"></div>
+<div class="footercopyright">© Copyright 2006-2014 Votigo, Inc. All rights reserved. Votigo is a registered trademark.</div>        </footer>
 </div>
 
 
