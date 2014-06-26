@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215235117id_/http%3A//www.wbal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110109id_/http%3A//www.wbal.com/about/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy | Baltimore News | WBAL Radio 1090 AM
 
