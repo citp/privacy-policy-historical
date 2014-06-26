@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124124802id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105440id_/http%3A//www.honestjohn.co.uk/terms/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Honest John
 
@@ -6,7 +6,7 @@
 
 This policy (together with our [terms of use ](https://web.archive.org/forum-terms/)and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read this policy carefully before you use the site.
 
-For the purpose of the Data Protection Act 1998 (Act), the data controller is Honestjohn.co.uk Ltd (we or us) of 55-56 Russell Square, London, WC1B 4HP
+For the purpose of the Data Protection Act 1998 (Act), the data controller is HonestJohn.co.uk Ltd (we or us) of Hamilton House, Mabeldon Place, London WC1H 9BB
 
 Our nominated representative for the purpose of the Act is Nova J Robinson
 
@@ -71,7 +71,7 @@ We will not sell, rent, trade, share, reveal or disclose any of your personal in
 
 
 
-We may provide aggregate information and statistics about honestjohn.co.uk users, traffic patterns, and related site information to third parties, but these statistics will not include individual personal information.
+We may provide aggregate information and statistics about HonestJohn.co.uk users, traffic patterns, and related site information to third parties, but these statistics will not include individual personal information.
 
 Some of our products are hosted by third parties but we agree with those third parties that they will keep your information secure and not use it for other purposes.
 
@@ -131,7 +131,7 @@ We may disclose your personal information to third parties:
 
   * If HonestJohn.co.uk Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/forum-terms/) and other agreements; or to protect the rights, property, or safety of Honestjohn.co.uk Ltd our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/forum-terms/) and other agreements; or to protect the rights, property, or safety of HonestJohn.co.uk Ltd our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -150,4 +150,4 @@ Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to nova@honestjohn.co.uk.
 
-Honestjohn.co.uk Limited, 55-56 Russell Square, London, WC1B 4HP. Registered in London no 6011794. 
+HonestJohn.co.uk Limited, Hamilton House, Mabeldon Place, London, WC1H 9BB. Registered in London no 6011794. 
