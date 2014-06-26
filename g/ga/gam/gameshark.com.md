@@ -1,89 +1,123 @@
-> *The following text is extracted and transformed from the gameshark.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024055738id_/https%3A//store.gameshark.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshark.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155254id_/http%3A//store.madcatz.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Terms of Use - GameShark® Store
+# Privacy Policy
 
-**Mad Catz Terms of Use and Conditions  
-** (Last Updated: January 13, 2003) 
-
-  **Terms of Use  
-** These Terms of Use (the "Agreement") set forth the terms and conditions that apply to your use of the Mad Catz Web Sites and the services and materials on those sites offered to you by Mad Catz, Inc. The Mad Catz Web Sites and Online Stores ([www.madcatz.com](http://www.madcatz.com/), **Mad Catz Online Privacy Policy**  
-(Last Updated: April 13, 2004)    
- 
-
-Mad Catz, Inc. may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-If you have any questions, complaints, or feedback regarding our Privacy Policy, please feel free to contact us at:
-
-Or by Mail:  
-Mad Catz, Inc.  
-7480 Mission Valley Road  
-Suite 101  
-San Diego, California 92108
-
-The site operator maintains the collection of all information obtained through the website that is submitted via online forms, contests, and sweepstakes, and the uses of collected information.
+|   
+  
+## STATEMENT ON THE INFORMATION WE COLLECT (“Statement”)
 
   
-_Information Collected via the Mad Catz, Inc. Web Site_
 
-Mad Catz, Inc. may request and collect the following information from you so that you can register with us to receive up to date newsletters on our products, participate in contests and sweepstakes, receive technical support, submit your resume for job openings, receive investor or retailer information. We will use this information to notify you whether or not you are a winner. If you signup with the newsletter, we will use the information collected from you to e-mail information to you about our products from time to time, and any promotions that we feel may be of interest to you. If at anytime you would like to unsubscribe from this newsletter, simply follow the unsubscribe instructions found at the bottom of the e-mail newsletter.
 
-Information directly collected may include personal information such as your full name, address, e-mail address, phone number, city, state, postal code and country. We may also collect demographical information from you such as your gender, date of birth, game systems you use, education, top 3 reasons influencing the purchase, how you heard about Mad Catz, Mad Catz products owned, who decided on the Purchase, and the UPC#. We also passively collect your IP address and Mad Catz pages visited for web traffic analysis purposes.
+Personal Information 
 
-Unless you have given Mad Catz consent to share your information with a Mad Catz partner, such as through an online sweepstakes, Mad Catz will not share your personal information with any third parties, except as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
+Mad Catz Interactive, Inc., its affiliates and/or subsidiary companies (collectively “Mad Catz”) operates this website. Mad Catz may ask you to register and provide personal information when you purchase products from our online store, download software, register new products, access product information, enter a contest or sweepstakes, sign into a page that requires authorization or when you engage in other activity that requires registration. Mad Catz may also collect credit card information to bill you for products that you have purchased. 
 
-  
-_Technical Support_
-
-If you want to submit a question or problem to our technical support and customer service center, you may be asked to provide such as name, address, date of purchase and location of purchase. Information collected is solely used to assist in addressing the problem or question and therefore is not governed by this Privacy Policy.
+The personal information that Mad Catz collects may include your name, your e-mail address, your user ID, your domain name, your URL, your mailing address, your credit card information, and/or your telephone number. Mad Catz may also collect demographic information such as your age, gender, zip code/postal code, education level, household income, the operating system you use, your preferences, interests, favorites, and whether you are a personal or business user. If you choose not to register and provide this information, you can still use most of Mad Catz’s website. Unfortunately, you will not be able to access areas that require registration. 
 
   
-_Job Inquiries_
 
-Mad Catz allows for the submission of resumes online. Personal information is collected from these forms to be used solely for the purpose of accepting and evaluating the applicant for potential employment. Information collected from the job inquiry form may be shared within Mad Catz.
 
-  
-_Investor Relations_
+Children's Personal Information 
 
-Mad Catz provides investor relations materials on its web site. Personal information collected on the investor relations' portion of the Mad Catz web site is used solely in a business capacity and is not governed by this Privacy Policy.
+We do not knowingly collect personally identifiable information from users under the age of 13. If we are made aware that we have such personal information, we will take reasonable steps to delete that information. 
 
   
-_Information refusal_
 
-In the event where you refuse to submit your personal information; this may limit your ability to participate in many aspects of the Mad Catz web site including the registration of products, contact forms, contests and sweepstakes, newsletters and demographic statistics. However, you do not need to directly provide information to access the web sites.
 
-Mad Catz does track Internet Protocol (IP) Addresses passively to collect information about you for safety, security and demographical reasons.
+Computer and Device Information 
 
-  
-_Choosing how your information is used_
-
-If you would like to be removed from further communications from Mad Catz about its products or promotions, you can request to be removed from receiving these communications by contacting us via e-mail or by regular mail at:
-
-Mad Catz, Inc.  
-7480 Mission Valley Road  
-Suite 101  
-San Diego, California 92108
+As you access our websites or install and use our software or game content, we may collect device-specific information from you (such as your hardware model, the operating system version, and other unique device identifiers). Specifically, this information may include such things as your IP address, your cookie information, your globally unique identifier information, operating system information, a description of any Mad Catz products connected to your PC or other device and how such products are used, your browser type, your domain names, the times and dates that you access our websites, the service provider you use and/or the identify of any referring websites. 
 
   
-_Accessing your personal information_
 
-You have the right to view, change, or delete personal information collected about you that is stored in our database. Please contact us via e-mail or regular mail with your request at:
 
-Mad Catz, Inc.  
-7480 Mission Valley Road  
-Suite 101  
-San Diego, California 92108
+Website Usage Information 
+
+Mad Catz and its third party service providers track non-personally identifiable information about how you use our website through cookies and globally unique identifiers and track navigational data (e.g., log files, server logs, click-throughs, etc.). These allow us to track how you interact with Mad Catz’s various websites. We also collect information such as the URL of websites previously visited, and when you use our website. Mad Catz also keeps track of the pages you visit within our website and any transaction details (downloads, orders, requests, or referrals). You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether. If you choose to do this, however, certain features of our website might not work for you, such as our online shopping cart functions, our registration functions and our forums. 
 
   
-_Collecting Personal Information from Children_
 
-Acknowledging and recognizing the rights and privacy of information from young children under the age of 13, Mad Catz does not collect or store information from children 12 years of age or under.
+
+HOW WE USE YOUR INFORMATION 
+
+Personal Information 
+
+With your permission, Mad Catz collects, and uses your personal information to enhance your use of our websites, products and services. This allows us to serve you better by alerting you to things that might be of interest to you including, product and website updates, special offers, promotions, newsletter information, new product announcements, events, contests and much more. This also allows us to invite you to participate in surveys. Mad Catz may use this information to communicate with you either via social networking, e-mail, online chat, mail or telephone only after you have agreed upon this form of communication. Password reminders are an exception to this rule as an email will only be sent when requested.
+
+We also use anonymous data to create statistics and reports for various business purposes. We may share anonymous data with marketing partners in order to improve our content and services. 
+
+We occasionally hire third party companies to provide limited services on our behalf, such as delivery of email blasts, providing customer support, processing transactions and performing statistical analysis. Mad Catz will only provide those companies with the minimally required personal information (such as e-mail address) that they need. These third party companies are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
 
   
-_Unsubscribing to Mad Catz Newsletter_
 
-To unsubscribe to the Mad Catz Newsletter, please e-mail [madcatznews@madcatz.com](mailto:madcatznews@madcatz.com) with the subject line Unsubscribe, using the e-mail account that you are subscribed with.
+
+Computer and Device Information
+
+We use the information we collect from you to enhance the services we provide and to maintain, protect and improve such services, develop new services, and to protect Mad Catz and our users. We also use this information to offer you tailored content. We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. 
 
   
-_Changes to this Privacy Policy_
 
-Mad Catz will occasionally update this Privacy Policy to continue to be compliant with Privacy Protection laws and to further protect your information. When we do, we will also revise the last updated date stamp at the top of this privacy policy.
+
+E-Mail Messaging 
+
+Mad Catz will periodically send our registered users e-mail messages about our products, events, software updates, etc. When sending you e-mail, we may use pixel tags that allows us to format messages tailored to your computer’s capabilities. We also use this technology to determine, how many people open our e-mails. When you click on a link within an e-mail, you are redirected to the Internet. We then log whether you accessed the link.
+
+  
+
+
+Disclosure of Information 
+
+Mad Catz keeps your personally identifiable information confidential. We do not disclose it to third parties or others that do not have a need of such information except under certain circumstances as set forth below. 
+
+Examples of instances where Mad Catz may share your personal information include the following:
+
+  
+
+
+  * Information used for external processing, which allows our affiliates, subsidiaries and third party service providers to provide and improve the services we provide to you.
+  
+
+  * Information that you post to our websites, such as our forums, social networking sites and comment forms may be used at our discretion for any lawful purpose. 
+  
+
+  * If the information is needed to protect the rights or property of Mad Catz, including its websites. 
+  
+
+  * If the information is needed for legal reasons, e.g., to respond to legal requests or if we believe that disclosure is required to investigate illegal activities, fraud, physical threats to you or others, national security threats or as otherwise required by any applicable law or regulation.
+  
+
+  
+
+
+ _Control & Review of Your Personal Information _
+
+After you have completed registration on any of the Mad Catz websites, you may stop the delivery of future communications from Mad Catz to you, including newsletters, special offers and updates at any time by simply unsubscribing to such services. Each email you receive contains instructions explaining how to stop receiving such e-mails. You may also contact us at privacy@madcatz.com to opt-out.
+
+  
+
+
+. 
+
+Protection of Information 
+
+Mad Catz uses industry-standard security techniques on the Mad Catz websites to help protect against the loss, misuse or alteration of information that we collect from you. When you access your account information or transmit personally identifiable data to the Mad Catz websites, that information is stored on servers that the Mad Catz has attempted to secure from unauthorized access or intrusion. When you access our sites, "Secure Socket Layer" software encrypts the personal information you transmit. Mad Catz cannot be and is not responsible for unauthorized access to information by hackers or others who have obtained such access through illegal measures.
+
+"Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from Mad Catz asking for your personal information, do not respond. Mad Catz would not request your password, user name, credit card information, or other personal information through e-mail.
+
+If you have questions or complaints regarding this Statement, please contact us at privacy@madcatz.com with any questions or concerns. All customer complaints will be formally reviewed by Mad Catz. 
+
+  
+
+
+Changes to This Statement 
+
+Mad Catz may occasionally update this Statement. If and when Mad Catz updates this Statement, the revised date will be displayed. Mad Catz encourages you to periodically review this Statement to be informed of how Mad Catz is protecting your information. 
+
+  
+
+
+Thank you for your interest in Mad Catz, its products and services.
+
+  
+
