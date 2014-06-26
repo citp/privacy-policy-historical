@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195236id_/http%3A//www.infragistics.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infragistics.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627015127id_/http%3A//www.infragistics.com/legal/privacy) for the most accurate reproduction.*
 
 # Infragistics - Privacy Statement
 
