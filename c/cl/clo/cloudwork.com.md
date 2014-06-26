@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudwork.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827180503id_/https%3A//cloudwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030815id_/https%3A//cloudwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CloudWork
 
