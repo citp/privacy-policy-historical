@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017104130id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031145id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -47,8 +47,7 @@ If you do not wish to receive additional information from us, you can let us kno
 The type of information we will collect about you includes:
 
   * your name and address
-  * your e-mail address
-  * your interests
+  * your email address
   * details about the products or services you specifically request
   * information you complete in relation to our customer surveys
 
@@ -72,17 +71,17 @@ We will keep your personal information confidential except to the extent that we
 
 From time to time we may be called upon to demonstrate our maintenance of certain professional standards as set by appropriate authorities and/or to satisfy our auditors and/or to comply with regulations in relation to money laundering or other statutory requirements. If you do not consent to our production of your details for this purpose only as an exception to our duty of confidentiality, you can let us know by checking the appropriate box on the new account registration form.
 
-If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or amend your detail through the My Account section of the website.
+If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or amend your details through the My Account section of the website.
 
 To comply with the Data Protection Act 1998 we adhere to strict security procedures. The personal information, which we hold will be held securely to ensure no unauthorised disclosure or access. When you register for a user account with us you will be required to adhere to the security provisions set out in our terms and conditions.
 
-We would like to contact you in the future for marketing purposes by post, e-mail and telephone but we need your consent to do this. If you would like us to contact you (including by e-mail or telephone) concerning our services and career opportunities that may be of interest to you then please check the appropriate box on the new account registration form.
+We would like to contact you in the future for marketing purposes by email or telephone but we need your consent to do this. If you would like us to contact you (including by email or telephone) concerning services that may be of interest to you then please check the appropriate box on the new account registration form or log into your online account and update your preferences.
 
-You may refuse any marketing or career communication from us in the future at any time by unsubscribing those preferences from [My Account](https://web.archive.org/my-account/account-details/ "go to your account"), writing to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us").
+You may refuse any marketing or career communication from us in the future at any time by unsubscribing those preferences from [My Account](https://web.archive.org/my-account/account-details/ "go to your account"), writing to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us").
 
-Should you wish to obtain a copy of the personal data that we hold on you, please write to us at the address above or clicking on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). As soon as we are satisfied as to your identity, we will send you, within 40 days, a copy of all the data that we hold concerning you.
+Should you wish to obtain a copy of the personal data that we hold on you, please write to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). As soon as we are satisfied as to your identity, we will send you, within 40 days, a copy of all the data that we hold concerning you.
 
-If you have a complaint regarding any breach of this privacy policy, write to us at the address above or click on [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
+If you have a complaint regarding any breach of this privacy policy, write to us at the address above or [Contact Us](https://web.archive.org/your-journey/contact-us/ "contact us"). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you within 10 days of receiving your complaint to inform you of the outcome.
 
 When visiting our Webpages, we would like to use tracking technologies, which record information about you automatically with information that does not identify you personally. This can include using a "cookie" which would be stored on your browser. It is possible to configure your Internet browser so that it can disable cookies. For further details, please visit [allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies website") If we cannot use such technology it is possible that certain functionality of this site might be affected and you might not be able to access certain Webpages.
 
@@ -99,3 +98,5 @@ We automatically collect and store only the following information about your vis
 We use this information to help us identify click stream patterns, to improve our Website and to learn about the number of visitors to our Website and the types of technology our visitors use. We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience. We do not track or record information about individuals and their visits.
 
 For more information on online behavioural advertising in the UK, about cookies, and about how to opt-out of receiving targeted advertising, please visit [Your Online Choices.](http://www.youronlinechoices.com/ "Visit the Your Online Choices website")
+
+Delay Repay claims must be made on a per journey basis, not a per service basis. We ask you to tell us the time of the service you planned to take and then we can base your compensation on the actual length of the delay you experienced. You cannot, therefore, claim for every possible service that was delayed or cancelled. In order to process your claim, we require you to advise us which service you actually intended to travel on. All claims are checked and verified. Southern reserves the right to prosecute fraudulent claimants.
