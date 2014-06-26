@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127120034id_/http%3A//www.prosportsdaily.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075924id_/http%3A//www.prosportsdaily.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
