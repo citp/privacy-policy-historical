@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lustcinema.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622225522id_/http%3A//www.lustcinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lustcinema.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081145id_/http%3A//www.lustcinema.com/privacy) for the most accurate reproduction.*
 
 # LustCinema Privacy Policy
 
