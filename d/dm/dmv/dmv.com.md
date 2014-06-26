@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220113336id_/http%3A//www.dmv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105904id_/http%3A//dmv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ WHEN YOU REGISTER, WE COLLECT A LIMITED AMOUNT OF PERSONAL INFORMATION THAT MAY 
 
 ## Usage of Collected Information
 
-We use the information we collect from you in order to improve our website. The information for non-registered users may be used so we can improve the structure, look-and-feel, articles and other aspects of the physical website. For registered users we may also use your information so that you are automatically recognized when you use our site. This will allow you to come to the site and actively add and edit content without being forced to sign-in at every visit. We may use your personal information to periodically contact you with news about DMV.com or the DMV.com community. Also, we may contact you periodically regarding your edits and additions to our website. We do not sent regular emails or newsletters.
+We use the information we collect from you in order to improve our website. The information for non-registered users may be used so we can improve the structure, look-and-feel, articles and other aspects of the physical website. For registered users we may also use your information so that you are automatically recognized when you use our site. This will allow you to come to the site and actively add and edit content without being forced to sign-in at every visit. We may use your personal information to periodically contact you with news about DMV.com or the DMV.com community. Also, we may contact you periodically regarding your edits and additions to our website. By registering on DMV.com you agree and opt-in to receiving email for the purposes of DMV.com's newsletter and/or other promotions.
 
 We may also use certain personal information in order to manage the advertising displayed on our website. This benefits both of us because advertising helps us to us continue to operate DMV.com and because you see advertising that may be more appropriate or interesting to you. We may also pass on a limited amount of your personal information to our advertising partners if you choose to click on their advertisements but we will not include any information that will allow you to be personally identified.
 
