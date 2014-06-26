@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sayvings.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820224747id_/http%3A//www.sayvings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayvings.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062152id_/http%3A//www.sayvings.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Information, Registration, Requests, Personal Information
-
-[Home](http://sayvings.com/index.html) > Privacy Policy
+# Privacy Policy
 
 Sayvings.com strictly adheres to the Privacy Policy outlined below. 
 
@@ -24,7 +22,7 @@ If a member wishes to opt out of or unsubscribe their Sayvings.com account, they
 
 **Personal Information**
 
-We currently do not collect any user information other than email address to sign up for our Sayvings newsletter. We will update our policy if we begin to collect sensitive user information. 
+We currently do not collect any user information other than email address to sign up for our Sayvings.com newsletter. We will update our policy if we begin to collect sensitive user information. 
 
 **Our Cookies**
 
@@ -57,11 +55,3 @@ Sayvings.com users are able to change their personal information at any time. Me
 Should you wish to contact us you can send email to: 
 
 contact@sayvings.com. 
-
-Physical mail may be sent to: 
-
-Sayvings.com  
-16027 Brookhurst St. G-160   
-Fountain Valley, CA 92708 
-
-Effective Date: December 1st, 2009 
