@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativecircle.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034641id_/http%3A//www.creativecircle.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativecircle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150459id_/http%3A//creativecircle.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Creative Circle > Privacy Policy
 
