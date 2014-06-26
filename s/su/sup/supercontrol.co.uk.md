@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the supercontrol.co.uk privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928093209id_/http%3A//www.supercontrol.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercontrol.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080819id_/http%3A//www.supercontrol.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperControl
 
 SuperControl® is a registered trademark of SuperWebs Ltd  
 SuperWebs Ltd, Unit 2, Station Yard, Castle Douglas, DG7 1LA, Scotland  
-Tel: +44 (0)845 505 7300 VAT Reg: GB 789 7884 26  
+Tel: +44 (0)1556 506 701 VAT Reg: GB 789 7884 26  
 Registered in Scotland number SC 2495 31. Registered office Orroland, Kirkcudbright, DG6 4QS 
 
 We are committed to ensuring the best standards of practice in all our activities. Visitors to our web site can be assured that the protection of privacy and confidentiality are given the highest priority. All personal information is collected, held and used in strict compliance with the Data Protection Act 1998. 
