@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210234003id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holeinthedonut.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023525id_/http%3A//www.holeinthedonut.com/disclosure) for the most accurate reproduction.*
 
-# Disclosure, Privacy Policy
+# Disclosure and Privacy Policy
 
-000000
-
- **DISCLOSURE:**
+**DISCLOSURE:**
 
 Hole In The Donut is a personal blog written and edited by Barbara Ann Weibel. For questions about this blog, please contact me at donutmaster (at) holeinthedonut (dot) com.
 
