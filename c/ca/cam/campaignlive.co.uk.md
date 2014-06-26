@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campaignlive.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203063547id_/http%3A//www.campaignlive.co.uk/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignlive.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163444id_/http%3A//www.campaignlive.co.uk/go/privacy) for the most accurate reproduction.*
 
 # Privacy
 
