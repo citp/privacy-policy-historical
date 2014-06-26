@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820070022id_/https%3A//www.scoutzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutzie.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064951id_/https%3A//scoutzie.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Scoutzie.com
 
@@ -18,7 +18,7 @@ Scoutzie also collects potentially personally-identifying information like Inter
 
 ##### Gathering of Personally-Identifying Information
 
-Certain visitors to Scoutzie’s websites choose to interact with Scoutzie in ways that require Scoutzie to gather personally-identifying information. The amount and type of information that Scoutzie gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Scoutzie.com](http://www.scoutzie.com/) to provide a username and email address. Those who engage in transactions with Scoutzie – by upgrading to a paid account or purchasing job listings, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoutzie collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Scoutzie. Scoutzie does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Scoutzie’s websites choose to interact with Scoutzie in ways that require Scoutzie to gather personally-identifying information. The amount and type of information that Scoutzie gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [Scoutzie.com](https://scoutzie.com/) to provide a username and email address. Those who engage in transactions with Scoutzie – by upgrading to a paid account or purchasing job listings, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoutzie collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Scoutzie. Scoutzie does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ##### Aggregated Statistics
 
