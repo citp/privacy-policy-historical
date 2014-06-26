@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cisecurity.org privacy policy that was archived on 2013-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117185217id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cisecurity.org privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626132434id_/https%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/tier-1.dwt.cfm" codeOutsideHTMLIsLocked="false" --><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,20 +13,35 @@
 	<meta name="description" content="The Center for Internet Security">
 	<meta name="author" content="The Center for Internet Security">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="../css/app.css" media="all">
+	<link rel="stylesheet" type="text/css" href="../css/app.css?2013-02-19-10AM" media="all">
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../scripts/jquery-1.5.2.min.js"></script>
 	<script type="text/javascript" src="../scripts/hover-intent.js"></script>
 	<script type="text/javascript" src="../scripts/global.js"></script>
 	<script type="text/javascript" src="../scripts/jquery-ui-1.8.11.custom.min.js"></script>
 	<script type="text/javascript" src="../scripts/jquery-equal-columns.js"></script>
-	<link rel="stylesheet" type="text/css" href="http://www.cisecurity.org//css/custom-theme/jquery-ui-1.8.11.custom.css" media="all">
+	<link rel="stylesheet" type="text/css" href="https://www.cisecurity.org/css/custom-theme/jquery-ui-1.8.11.custom.css" media="all"> 
 
 
 <script type="text/javascript">
 	$(document).ready( function() {
 		$("body").prepend('<div id="header-bar"><div class="ui-widget-header"></div></div>');
 		$('.focus').focus();
+		$('.jq-button').button();
+		$('form.delete :input').attr("disabled", "disabled");
+		$('form.delete input[type=submit]').removeAttr("disabled");
+		$('form.delete input[type=hidden]').removeAttr("disabled");
+		$("[class^=jq-button-]").each( function() {
+			var objClass = $(this).attr("class").split("-");
+			var iconClass = "ui-icon";
+			for (var ii=2; ii < objClass.length; ii++) {
+				iconClass += "-" + objClass[ii];
+			}
+			$(this).button( {
+				icons: {primary:iconClass}
+			} );
+		}
+		);
 		$(".accordion").accordion({ header: "h3"});
 		$('.tabs').tabs({ selected: 0 });
 		$('.confirm').click( function() {
@@ -69,9 +84,12 @@
 		
 		$('.datepicker').datepicker({
 			showOn: 'button'
-			,buttonImage: 'http://www.cisecurity.org/images/icons/calendar.gif'
+			,buttonImage: 'https://www.cisecurity.org/images/icons/calendar.gif'
 			,buttonImageOnly: true
 		});
+		
+		$("#global fieldset").css("background","none").css("font-weight","normal").addClass("ui-padded").addClass("ui-corner-all");
+		$("#global fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
 		
 		$(".ui-interactive").addClass("ui-state-default").addClass("ui-corner-all").hover(
 			function () {
@@ -81,12 +99,6 @@
 				$(this).addClass("ui-state-default").removeClass("ui-state-focus");
 			}
 		);
-
-$('.button').hover(
-function() { $(this).addClass('ui-state-hover'); },
-function() { $(this).removeClass('ui-state-hover'); }
-);
-
 
 		$(".ui-row-drill-down").css("cursor","pointer").hover(
 			function () {
@@ -105,7 +117,7 @@ function() { $(this).removeClass('ui-state-hover'); }
 		});
 
 		$(".ui-padded").css("padding","0.5em");
-		//$("#header").hide().fadeIn("slow");
+		$("#header").hide().fadeIn("slow");
 		$(".auto-hide").addClass("ui-helper-hidden");
 
 		//$(".auto-mask-phone").mask("(999) 999-9999");
@@ -128,8 +140,8 @@ function() { $(this).removeClass('ui-state-hover'); }
 		$("#content table[class!='no-auto-format'] tfoot[class!='no-auto-format']").addClass("ui-state-default");
 		//$("tbody th").addClass("ui-widget-header");
 		
-		$("#content fieldset").css("background","none").css("font-weight","normal").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
-		$("#content fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
+		//$("#content fieldset").css("background","none").css("font-weight","normal").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
+		//$("#content fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
 		$(":input.auto-tip").after('<span class="tip-display"></span>');
 		$(":input.auto-tip").change(function () {
 				var tip = $(this).next("span.tip-display");
@@ -138,14 +150,10 @@ function() { $(this).removeClass('ui-state-hover'); }
 				tip.hide().text(option.attr("title"));
 				tip.fadeIn("slow");
 			}).change();
-
 		
-		
-			$("head").append('<link rel="alternate" type="application/atom+xml" title="Rss Feed" href="http://www.cisecurity.org/xml/cis-press.rss.xml" />');
-		
-			$("head").append('<link rel="shortcut icon" href="http://www.cisecurity.org/favicon.ico" type="image/x-icon" />');
+			$("head").append('<link rel="shortcut icon" href="https://www.cisecurity.org/favicon.ico" type="image/x-icon" />');
 				
-		
+
 
 	} );
 
@@ -162,10 +170,10 @@ function() { $(this).removeClass('ui-state-hover'); }
 </script>
 
 <style type="text/css">
-	#content a[href^="http://www.cisecurity.org/"]
-	,#content a[href^="http://msisac.cisecurity.org/"]
-	,#content a[href^="http://alliance.cisecurity.org/"]
-	,#content a[href^="http://benchmarks.cisecurity.org/"]
+	#content a[href^="https://www.cisecurity.org/"]
+	,#content a[href^="https://msisac.cisecurity.org/"]
+	,#content a[href^="https://www.cisecurity.org/"]
+	,#content a[href^="https://benchmarks.cisecurity.org/"]
 		{margin-right: 0px;padding-right: 0px;background-image:none;}
 </style>
 	<!-- InstanceParam name="Nav" type="boolean" value="false" -->
@@ -183,30 +191,32 @@ function() { $(this).removeClass('ui-state-hover'); }
 #social-media ul { list-style:none; }
 #social-media ul li { display:block; float: left; width:35px; }
 </style>
-<link rel="alternate" type="application/atom+xml" title="Rss Feed" href="http://www.cisecurity.org/xml/cis-press.rss.xml"><link rel="shortcut icon" href="http://www.cisecurity.org/favicon.ico" type="image/x-icon"></head>
-<body><div id="header-bar"><div class="ui-widget-header"></div></div>
+</head>
+<body>
 	<div id="global">
 		
-	
-	<div id="header">
-    <div class="square">
-      <a href="http://benchmarks.cisecurity.org/"><div class="orange"></div></a>
-      <a href="http://msisac.cisecurity.org/"><div class="red"></div></a>
-      <a href="http://alliance.cisecurity.org/"><div class="blue"></div></a>
-      <a href="http://www.cisecurity.org/"><div class="olive"></div></a>
-    </div>
-    <a href="http://www.cisecurity.org/index.cfm" title="link to Center for Internet Security Home Page"><img src="http://www.cisecurity.org/images/logo.png" alt="Center for Internet Security" name="logo" width="375" height="89" id="logo"></a>
-    <div class="rightBlock">
-      <div class="divisionContainer">
+    <div id="header">
+      <div class="square">
+          <a href="https://benchmarks.cisecurity.org/"><div class="orange"></div></a>
+          <a href="https://msisac.cisecurity.org/"><div class="red"></div></a>
+          <a href="https://alliance.cisecurity.org/"><div class="blue"></div></a>
+          <a href="https://iic.cisecurity.org"><div class="olive"></div></a>
+      </div>
+      
+      <h1 id="logo"><a href="https://www.cisecurity.org/index.cfm" title="link to Center for Internet Security Home Page">
+      	<img src="https://www.cisecurity.org/images/logo.png" width="375" height="89" id="logo" alt="Center for Internet Security">
+      </a></h1>
+      <div class="rightBlock">
+      	<div class="divisionContainer">
 					<div>
-						<a href="http://benchmarks.cisecurity.org/" title="Go to Security Benchmarks"><div style="width:120px"></div></a>
-						<a href="http://msisac.cisecurity.org/" title="Go to Multi-State Information Sharing &amp; Analysis Center"><div style="width:105px;background-position:-121px 0"></div></a>
-						<a href="http://alliance.cisecurity.org/" title="Go to Trusted Cyber Security Purchasing Alliance"><div style="width:95px;background-position:-226px 0"></div></a>
-						<a href="#" title="Integrated Intelligence Center"><div style="width:79px;background-position:-321px 0"></div></a>
+						<a href="https://benchmarks.cisecurity.org/" title="Go to Security Benchmarks"><div style="width:120px"></div></a>
+						<a href="https://msisac.cisecurity.org/" title="Go to Multi-State Information Sharing &amp; Analysis Center"><div style="width:105px;background-position:-121px 0"></div></a>
+						<a href="https://alliance.cisecurity.org/" title="Go to Trusted Cyber Security Purchasing Alliance"><div style="width:95px;background-position:-226px 0"></div></a>
+						<a href="https://iic.cisecurity.org" title="Integrated Intelligence Center"><div style="width:79px;background-position:-321px 0"></div></a> 
 					</div>
 			</div>
-      
-      	
+        
+        
       	<div id="social-media">
         	<ul>
             	<li><a href="http://www.linkedin.com/company/the-center-for-internet-security"><img src="http://www.cisecurity.org/images/social/linkedin_35.jpeg" alt="linkedin icon"></a></li>
@@ -217,12 +227,13 @@ function() { $(this).removeClass('ui-state-hover'); }
             <div class="ui-helper-clearfix"></div>
         </div>
         
-      
-      <div class="searchContainer">
-        <div><a href="http://www.cisecurity.org/about/contact/">Contact Us</a></div>
-        <form action="http://www.cisecurity.org/search/index.cfm" id="cse-search-box">
+        
+        
+        <div class="searchContainer" style="margin-top:0">
+          <div><a href="https://www.cisecurity.org/about/contact/">Contact Us</a></div>
+          <form action="https://www.cisecurity.org/search/index.cfm" id="cse-search-box">
           <div>
-            <input type="text" class="auto-hint ui-hinted" name="q" title="Search CIS Website" value="" style="background-image: none;">
+            <input type="text" class="auto-hint" name="q" title="Search CIS Website" value="">
 						<input type="hidden" name="cx" value="002442560611744690153:tf2w3ojvlbs">
 						<input type="hidden" name="cof" value="FORID:10">
 						<input type="hidden" name="ie" value="UTF-8">
@@ -231,46 +242,48 @@ function() { $(this).removeClass('ui-state-hover'); }
             <input type="submit" class="button ui-corner-all" value="GO" name="sa">
           </div>
         </form>
-				<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-				<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
-				<script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
-				<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-        <script type="text/javascript" charset="utf-8">
+				
+					<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+          <script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+          <script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
+          <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+				
+          <script type="text/javascript" charset="utf-8">
 					$(document).ready(function () {
 						$("#cse-search-box input[name='q']").css("background-image","none");
 					});
 				</script>
+			 </div>
       </div>
     </div>
-  </div>
-	
-	
+  
 		<ul id="top-nav">
 			
     <li>
-      <div><a href="http://www.cisecurity.org/about/">About Us</a></div>
-      <ul style="display: none;">
+      <div><a href="https://www.cisecurity.org/about/">About Us</a></div>
+      <ul>
         
   <li>
-    <a href="http://www.cisecurity.org/about/">Overview &amp; Mission</a>
+    <a href="https://www.cisecurity.org/about/">Overview &amp; Mission</a>
   </li>
   <li>
-    <a href="http://www.cisecurity.org/about/message-from-ceo/">Message from CEO</a>
+    <a href="https://www.cisecurity.org/about/message-from-ceo/">Message from CEO</a>
   </li>
   <li>
-    <a href="http://www.cisecurity.org/about/board-of-directors/">Board of Directors</a>
+    <a href="https://www.cisecurity.org/about/board-of-directors/">Board of Directors</a>
   </li>
   <li>
-    <a href="http://www.cisecurity.org/about/executive-staff/">Executive Staff</a>
+    <a href="https://www.cisecurity.org/about/executive-staff/">Executive Staff</a>
+  </li>
+  <li><a href="https://www.cisecurity.org/annual-report/2013/">Annual Report</a></li>
+  <li>
+    <a href="https://www.cisecurity.org/about/news-room/">Newsroom</a>
   </li>
   <li>
-    <a href="http://www.cisecurity.org/about/news-room/">Newsroom</a>
+    <a href="https://www.cisecurity.org/about/employment-opportunities/">Employment Opportunities</a>
   </li>
   <li>
-    <a href="http://www.cisecurity.org/about/employment-opportunities/">Employment Opportunities</a>
-  </li>
-  <li>
-    <a href="http://www.cisecurity.org/about/contact/">Contact Us </a>
+    <a href="https://www.cisecurity.org/about/contact/">Contact Us </a>
   </li>
 
       </ul>
@@ -279,22 +292,22 @@ function() { $(this).removeClass('ui-state-hover'); }
       |
     </li>
     <li>
-      <div><a href="http://www.cisecurity.org/membership/">Communities/Membership</a></div>
-			
+      <div><a href="https://www.cisecurity.org/membership/">Communities/Membership</a></div>
+	
     </li>
     <li class="divider">
       |
     </li>
     <li>
-      <div><a href="http://www.cisecurity.org/resources-publications/">Resources &amp; Publications</a></div>
-			
+      <div><a href="https://www.cisecurity.org/resources-publications/">Resources &amp; Publications</a></div>
+	
     </li>
     <li class="divider">
       |
     </li>
     <li>
-      <div><a href="http://www.cisecurity.org/training-events/">Training &amp; Events</a></div>
-			
+      <div><a href="https://www.cisecurity.org/training-events/">Training &amp; Events</a></div>
+	
     </li>
   
 		</ul>
@@ -383,9 +396,22 @@ function() { $(this).removeClass('ui-state-hover'); }
 	</div>
 	<div id="footer">
   <div class="footerC">
-    <div> <span>Center for Internet Security</span> | <span>31 Tech Valley Drive</span> | <span>East Greenbush, NY 12061</span> | <span>518.266.3460</span> | <a href="mailto:contact@cisecurity.org">Contact CIS</a> </div>
-    <div>  <a href="http://msisac.cisecurity.org/">Multi-State ISAC</a> | <a href="http://alliance.cisecurity.org/">Trusted Purchasing Alliance</a> | <a href="http://benchmarks.cisecurity.org/">Security Benchmarks</a> | <a href="http://www.cisecurity.org/">Integrated Intelligence Center</a> | <a href="https://blog.cisecurity.org/">CIS Blog</a> | <a href="http://www.cisecurity.org/privacy-policy/">Privacy Policy</a> |  <a href="http://www.cisecurity.org/about/news-room">Newsroom</a> | <a href="http://www.cisecurity.org/about/employment-opportunities">Employment Opportunities</a>  </div>
-		<div id="reg">® 2013 Center for Internet Security. All rights reserved.</div>
+    <div>
+		 <span>Center for Internet Security</span> | <span>31 Tech Valley Drive</span> | <span>East Greenbush, NY 12061</span> | <span>518.266.3460</span> | <a href="mailto:contact@cisecurity.org">Contact CIS</a>
+		</div>
+    <div>
+			
+				<a href="https://msisac.cisecurity.org/">Multi-State ISAC</a> 
+				| <a href="https://alliance.cisecurity.org/">Trusted Purchasing Alliance</a> 
+				| <a href="https://benchmarks.cisecurity.org/">Security Benchmarks</a> 
+				| <a href="https://iic.cisecurity.org">Integrated Intelligence Center</a> 
+				| <a href="https://blog.cisecurity.org/">CIS Blog</a> 
+				| <a href="https://www.cisecurity.org/privacy-policy/">Privacy Policy</a> 
+				| <a href="https://www.cisecurity.org/about/news-room">Newsroom</a> 
+				| <a href="https://www.cisecurity.org/about/employment-opportunities">Employment Opportunities</a> 
+			
+		</div>
+		<div id="reg">® 2014 Center for Internet Security. All rights reserved.</div>
   </div>
 </div>
 
