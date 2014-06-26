@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the jacobtime.com privacy policy that was archived on 2013-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026013346id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jacobtime.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626151152id_/http%3A//www.jacobtime.com/osc/privacy.php%3FosCsid%3D593a39a3d8c3f18dc16e6982d57c5499) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="LTR" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Raymond Weil Watches | Armani Watches | Jacobtime.com</title>
+<title>Luxury Watches for Men and Women | JacobTime</title>
 <base href="http://www.jacobtime.com/osc/">
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5V9HCN"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="//cdn.optimizely.com/js/961450436.js"></script>
 <meta name="google-site-verification" content="V5GOELtEHe3sjsINJjx1MQRQbjs80yTwD4AuIcoE1-w">
-<script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
 <!-- jQuery and jQueryUI libraries -->
 <script type="text/javascript" src="SliderJS/libraries/jquery.min.js"></script>
 <script type="text/javascript" src="SliderJS/libraries/jquery-ui.min.js"></script>
@@ -28,6 +29,77 @@
 
 <script type="text/javascript" src="shoprunner_init.js"></script>
 <script src="edutl.js"></script> 
+
+<!-- qTip script and css -->
+<link rel="stylesheet" type="text/css" href="includes/jquery.qtip.min.css">
+<script type="text/javascript" src="includes/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="includes/jquery.cookie.js"></script>
+<script type="text/javascript">
+// Create the tooltips only when document ready
+	jQuery(document).ready(function($)
+ {
+     // MAKE SURE YOUR SELECTOR MATCHES SOMETHING IN YOUR HTML!!!
+     $('#help1').qtip({
+        style: {
+              classes: 'qtip-blue qtip-rounded qtip-shadow boxTextCategory'
+           },
+        content: {
+            text: 'Our amazingly low priced deals that will rock your world!',
+            title: {
+                 text: 'Jacob Deals',
+                 button: 'Close' // Close button
+              }
+            },
+        show: {
+            effect: function() {
+               $(this).show('slide', 500);
+            }
+        },
+        hide: {
+            event: false,
+            inactive: 3000,
+            effect: function() {
+               $(this).hide('puff', 500);
+            }
+        }
+     });
+    $('#help2').qtip({
+        style: {
+              classes: 'qtip-blue qtip-rounded qtip-shadow boxTextCategory'
+           },
+        content: {
+            text: 'Our advanced search technology will help you find the perfect watch, as quickly as possible!',
+            title: {
+                 text: 'Jacobtime Watch Finder',
+                 button: 'Close' // Close button
+              }
+            },
+        show: {
+            effect: function() {
+                $(this).fadeTo(500, 1);
+            }
+        },
+        hide: {
+            event: false,
+            inactive: 3000,
+            effect: function() {
+                $(this).slideUp();
+            }
+        }
+     }); 
+     
+     if ($.cookie('email_subscribe') != '1') {
+    $('.dumbBoxWrap').delay(10000).show(100);
+    }
+    $('#closeModal').click(function() {
+        $('.dumbBoxWrap').hide();
+        $.cookie('email_subscribe', '1', { expires: 30});
+    });
+     
+ });	
+</script>
+
+<!-- end qTip script and css -->
 
 <script type="text/javascript" language="JavaScript"> 
 	
@@ -53,14 +125,89 @@
 			);
 			
 					});
+
+/// show popup
+jQuery(function($) {
+
+	$("div.topopup").click(function() {
+			loading(); // loading
+			setTimeout(function(){ // then show popup, deley in .5 second
+				loadPopup(); // function show popup
+			}, 500); // .5 second
+	return false;
+	});
+
+	/* event for close the popup */
+	$("div.close").hover(
+					function() {
+						$('span.ecs_tooltip').show();
+					},
+					function () {
+    					$('span.ecs_tooltip').hide();
+  					}
+				);
+
+	$("div.close").click(function() {
+		disablePopup();  // function close pop up
+	});
+
+	$(this).keyup(function(event) {
+		if (event.which == 27) { // 27 is 'Ecs' in the keyboard
+			disablePopup();  // function close pop up
+		}
+	});
+
+  $("div#backgroundPopup").click(function() {
+		disablePopup();  // function close pop up
+	});
+
+	$('a.livebox').click(function() {
+		alert('Hello World!');
+	return false;
+	});
+
+	 /************** start: functions. **************/
+	function loading() {
+		$("div.loader").show();
+	}
+	function closeloading() {
+		$("div.loader").fadeOut('normal');
+	}
+
+	var popupStatus = 0; // set value
+
+	function loadPopup() {
+		if(popupStatus == 0) { // if value is 0, show popup
+			closeloading(); // fadeout loading
+			$("#toPopup").fadeIn(0500); // fadein popup div
+			$("#backgroundPopup").css("opacity", "0.7"); // css opacity, supports IE7, IE8
+			$("#backgroundPopup").fadeIn(0001);
+			popupStatus = 1; // and set value to 1
+		}
+	}
+
+	function disablePopup() {
+		if(popupStatus == 1) { // if value is 1, close popup
+			$("#toPopup").fadeOut("normal");
+			$("#backgroundPopup").fadeOut("normal");
+			popupStatus = 0;  // and set value to 0
+		}
+	}
+	/************** end: functions. **************/
+}); // jQuery End
+///end show popup
 		
 	</script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
 <script type="text/javascript" src="includes/general.js"></script>
 <script type="text/javascript" src="includes/autocomplete.js"></script>
 <script type="text/javascript" src="includes/curvycorners.src.js"></script>
+
 <script type="text/javascript" language="JavaScript"> 
+/* added 2.12.14 to suppress error */
+var curvyCornersVerbose = false;
+
 Event.observe(document, 'dom:loaded', function(){
 	new Autocomplete('query2', { 
 	    serviceUrl:'quickfind.php',
@@ -71,27 +218,6 @@ Event.observe(document, 'dom:loaded', function(){
 	  });
   });
  </script>
-
-
-<script type="text/javascript">
-	Event.observe(window, 'load', init, false);
-
-function init(){
-	Event.observe('signup','submit',storeAddress);
-}
-
-// AJAX call sending sign up info to store-address.php
-function storeAddress(event) {
-
-		var pars = 'ajax=true&email=' + escape($F('email2'));
-	// Update user interface
-	$('response').innerHTML = 'Adding email address...';
-	// Prepare query string and send AJAX request
-	
-	var myAjax = new Ajax.Updater('response', 'mchimp-store-address.php', {method: 'get', parameters: pars});
-	Event.stop(event); // Stop form from submitting when JS is enabled
-	}
-</script>	
 
 <script type="text/Javascript">
 <!--
@@ -112,12 +238,14 @@ var checkboxHeight = "25";
 var radioHeight = "25";
 var selectWidth = "190";
 
+
 document.write('<style type="text/css">input.styled { display: none; } select.styled { color: #5a697b; font-weight: bold; position: relative; width: ' + selectWidth + 'px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>');
 
 
 var Custom = {
 	init: function() {
 		var inputs = document.getElementsByTagName("input"), span = Array(), textnode, option, active;
+                
 		for(a = 0; a < inputs.length; a++) {
 			if((inputs[a].type == "checkbox" || inputs[a].type == "radio") && inputs[a].className == "styled") {
 				span[a] = document.createElement("span");
@@ -240,9 +368,37 @@ if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
 else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
 else {document.addEventListener("load", wsa_include_js, false);}
 </script>
-<!-- End WebsiteAlive Embedded Icon/Tracking Code --><script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&amp;groupid=565&amp;websiteid=0"></script></head>
+<!-- End WebsiteAlive Embedded Icon/Tracking Code -->
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '649537881781267']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=649537881781267&amp;ev=NoScript" /></noscript><script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', 'db309516d54dc10e0874cab318547154')</script><script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&amp;groupid=565&amp;websiteid=0"></script></head>
 <body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 <!-- header //-->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5V9HCN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5V9HCN');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="p:domain_verify" content="ac02e893ac61a0d02db833f9df0d636b"> 
 
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
@@ -250,15 +406,15 @@ else {document.addEventListener("load", wsa_include_js, false);}
 <div class="header_fill">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 7px">
 		<tbody><tr><td align="left" class="main_white" style="padding-left:20px" valign="middle">
-            <a href="http://www.jacobtime.com/osc/policies.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Jacobtime's Policies</a>
-            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/repair_service.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Repair Service</a>
-            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/about_us.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">About Us</a>
-            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Privacy Policy</a>
-            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/media.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Our Media</a>
-            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/contact_us.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Contact Us</a>
+            <a href="http://www.jacobtime.com/osc/policies.php" class="headerNavigationWhite">Jacobtime's Policies</a>
+            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/repair_service.php" class="headerNavigationWhite">Repair Service</a>
+            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/about_us.php" class="headerNavigationWhite">About Us</a>
+            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/privacy.php" class="headerNavigationWhite">Privacy Policy</a>
+            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/media.php" class="headerNavigationWhite">Our Media</a>
+            <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">            <a href="http://www.jacobtime.com/osc/contact_us.php" class="headerNavigationWhite">Contact Us</a>
             <!-- <img src="images/pixel_trans.gif" width="5" height="10" border="0" alt="" />|<img src="images/pixel_trans.gif" width="5" height="10" border="0" alt="" /> -->
             <img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">|<img src="images/pixel_trans.gif" width="10" height="10" border="0" alt="">							                         </td><td align="right" class="main_white" style="padding-left:20px" valign="middle">
-            <a href="https://www.jacobtime.com/osc/account.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigationWhite">Login <img src="images/icons/Button-onoff-32.gif" alt="Login" title="Login" align="absmiddle" border="0" height="16" width="16">            	<img src="images/pixel_trans.gif" width="5" height="10" border="0" alt="">			</a></td>
+            <a href="https://www.jacobtime.com/osc/account.php" class="headerNavigationWhite">Login <img src="images/icons/Button-onoff-32.gif" alt="Login" title="Login" align="absmiddle" border="0" height="16" width="16">            	<img src="images/pixel_trans.gif" width="5" height="10" border="0" alt="">			</a></td>
 		</tr>
 	</tbody></table>
 </div>
@@ -266,61 +422,25 @@ else {document.addEventListener("load", wsa_include_js, false);}
 <div class="header_nav" id="header_nav" onmouseover="javascript:rollover_nav(this);" onmouseout="javascript:rollout_nav(this);">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-left:20px">
 		<tbody><tr>
-			<td align="center" class="mainBlack" id="topmenu1"><a href="http://www.jacobtime.com/osc/index.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation">&nbsp;Home&nbsp;&nbsp;</a></td>
+			<td align="center" class="mainBlack" id="topmenu1"><a href="http://www.jacobtime.com/osc/index.php" class="headerNavigation">&nbsp;Home&nbsp;&nbsp;</a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="" id="topmenu2" width="156"><a href="http://www.jacobtime.com/osc/advanced_search_result.php?inc_subcat=1&amp;dfrom=20130925&amp;dto=20131026&amp;new=1&amp;sort=5?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class=""><img src="images/layout/new_arrivals.jpg" width="156" height="46" border="0" alt=""></a></td>
+			<td align="center" class="" id="topmenu2" width="156"><a href="http://www.jacobtime.com/osc/advanced_search_result.php?inc_subcat=1&amp;dfrom=20140527&amp;dto=20140627&amp;new=1&amp;sort=5" class=""><img src="images/layout/new_arrivals.jpg" width="156" height="46" border="0" alt=""></a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="headerNavigation3" id="topmenu3"><span><a href="http://www.jacobtime.com/osc/specials.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation"><img src="images/pixel_trans.gif" width="150" height="35" border="0" alt=""></a></span>
-				<span style="cursor: pointer;" onmouseover="ShowText('jacobdeals');" onmouseout="HideText('jacobdeals')" ;=""><img src="images/questionmark.gif" width="13" height="14" border="0"></span>
-				
- 	<div style="position: absolute; display:none;  z-index:999; " id="jacobdeals">
- 	<table align="center" cellspacing="0" cellpadding="0" width="75%%">
-		<tbody><tr>
-			<td width="8" style="background-position:left top; background-image:url('images/layout/corner_div_tl.gif'); background-repeat:no-repeat;"></td>
-			<td class="tdBorderTop2"></td>
-			<td width="8" style="background-position:right top; background-image:url('images/layout/corner_div_tr.gif'); background-repeat:no-repeat;"></td>
-		</tr>
-		<tr>
-	    <td style="background: #feefd8; padding:5px;" colspan="3" align="center" class="tdBorderLeftRight2 ">
-    <b>Our amazingly low priced deals that will rock your world!</b>
-	 	    </td>
-		  </tr>
-			<tr>
-				<td width="8" style="background-position:left bottom; background-image:url('images/layout/corner_div_bl.gif'); background-repeat:no-repeat;"></td>
-				<td class="tdBorderBottom2" style="background: #feefd8;"></td>
-				<td width="8" style="background-position:right bottom; background-image:url('images/layout/corner_div_br.gif'); background-repeat:no-repeat;"></td>
-			</tr>
-		</tbody></table></div>
-    </td>
+			<td align="center" class="headerNavigation3" id="topmenu3"><span><a href="http://www.jacobtime.com/osc/specials.php" class="headerNavigation"><img src="images/pixel_trans.gif" width="140" height="45" border="0" alt=""></a></span>
+				<span id="help1"><img src="images/questionmark.gif" width="13" height="14" border="0"></span>
+                </td>
+			<!--<td class="header_nav_separater"></td>
+			<td align="center" class="mainBlack" id="topmenu4"><a href="http://www.jacobtime.com/osc/advanced_search.php" class="headerNavigation">Watch Finder</a>
+						<span id="help2"><img src="images/questionmark.gif" width="13" height="14" border="0"></span>
+					</td>-->
 			<td class="header_nav_separater"></td>
-			<td align="center" class="mainBlack" id="topmenu4"><a href="http://www.jacobtime.com/osc/advanced_search.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation">Watch Finder</a>
-						<span style="cursor: pointer;" onmouseover="ShowText('answer1');" onmouseout="HideText('answer1')" ;=""><img src="images/questionmark.gif" width="13" height="14" border="0"></span>
-						
- 	<div style="position: absolute; display:none;  z-index:999; " id="answer1">
- 	<table align="center" cellspacing="0" cellpadding="0" width="75%%">
-		<tbody><tr>
-			<td width="8" style="background-position:left top; background-image:url('images/layout/corner_div_tl.gif'); background-repeat:no-repeat;"></td>
-			<td class="tdBorderTop2"></td>
-			<td width="8" style="background-position:right top; background-image:url('images/layout/corner_div_tr.gif'); background-repeat:no-repeat;"></td>
-		</tr>
-		<tr>
-	    <td style="background: #feefd8; padding:5px;" colspan="3" align="center" class="tdBorderLeftRight2 ">
-    <b>Our advanced search technology will help you find the perfect watch, as quickly as possible!</b>
-	 	    </td>
-		  </tr>
-			<tr>
-				<td width="8" style="background-position:left bottom; background-image:url('images/layout/corner_div_bl.gif'); background-repeat:no-repeat;"></td>
-				<td class="tdBorderBottom2" style="background: #feefd8;"></td>
-				<td width="8" style="background-position:right bottom; background-image:url('images/layout/corner_div_br.gif'); background-repeat:no-repeat;"></td>
-			</tr>
-		</tbody></table></div>
-    </td>
+			<td align="left" class="mainBlack" id="topmenu55" width="168"><a href="http://www.jacobtime.com/osc/weekly_flash.php" class="headerNavigation"><img src="images/layout/top_menu_flash_sale.jpg" width="168" height="46" border="0" alt=""></a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="mainBlack" id="topmenu5"><a href="http://www.jacobtime.com/osc/account.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation">My Account</a></td>
+			<td align="left" class="mainBlack" id="topmenu66" width="155"><a href="http://www.jacobtime.com/osc/repair_service.php" class="headerNavigation"><img src="images/layout/button_repair_service.jpg" width="155" height="46" border="0" alt=""></a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="mainBlack" id="topmenu6" width="155"><a href="http://www.jacobtime.com/osc/repair_service.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation"><img src="images/layout/button_repair_service.jpg" width="155" height="46" border="0" alt=""></a></td>
+			<td align="center" class="mainBlack" id="topmenu5"><a href="http://www.jacobtime.com/osc/account.php" class="headerNavigation">My Account</a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="mainBlack" id="topmenu7"><a href="http://www.jacobtime.com/osc/checkout_shipping.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation">Checkout</a></td>
+			<td align="center" class="mainBlack" id="topmenu7"><a href="http://www.jacobtime.com/osc/checkout_shipping.php" class="headerNavigation">Checkout</a></td>
 			<!-- <td class="header_nav_separater"></td> -->
 		</tr>
 	</tbody></table>
@@ -332,17 +452,20 @@ else {document.addEventListener("load", wsa_include_js, false);}
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 5px; padding-left: 5px;">
   <tbody><tr>
-    <td width="22%"><a href="http://www.jacobtime.com/osc/index.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images/icons/jacobtimelogosm.png" width="190" height="51" border="0"></a>
+    <td width="22%"><a href="http://www.jacobtime.com/osc/index.php"><img src="images/icons/jacobtimelogosm.png" width="190" height="51" border="0"></a>
     
     </td>
     <td align="left" class="main">
-		    <table width="99%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 4px;">
-			    <tbody><tr>
-			    	<td align="center" style="padding-top: 15px;">
-		         	<span class="tollFreeText">Call Us:</span><span class="tollFree"> 877-JACOBTIME &nbsp;&nbsp;877-587-7780</span>
-                     
-		           
-		         	</td></tr> 
+    	
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 0px;">
+		    	<tbody><tr>
+		    		<td><img src="images/icons/top_icons.png" width="480" height="43" border="0"></td>
+		    	</tr>
+			    <tr>
+			    	<td align="center" style="padding-top: 0px;">
+		         	<span class="tollFreeText">Call Us:</span><span class="tollFree"> 877-JACOBTIME &nbsp; 877-587-7780</span>
+                    		           
+		         	 </td></tr> 
 					<tr>
 						<td align="center" style="padding-top: 3px;" valign="bottom" class="headerTag">
 					<!-- <span> -->Better Watches. Even Better Prices.<!-- <span> -->
@@ -356,12 +479,12 @@ else {document.addEventListener("load", wsa_include_js, false);}
 		<table width="65%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 4px;">
 			<tbody><tr>
 				<td class="cartBoxContent" align="right">
-					<a href="http://www.jacobtime.com/osc/shopping_cart.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation"><span class="cart">Shopping Cart</span><br><span class="shopCartHeading">0</span> items</a> $0.00      			</td>
+					<a href="http://www.jacobtime.com/osc/shopping_cart.php" class="headerNavigation"><span class="cart">Shopping Cart</span><br><span class="shopCartHeading">29</span> items</a> $15,835.10      			</td>
                 <td class="cartBoxContent" align="right">
-                <a href="http://www.jacobtime.com/osc/shopping_cart.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72" class="headerNavigation"><img src="images/icons/cart_empty.jpg" width="64" height="45" align="absmiddle" border="0" alt="Empty Cart" title="Empty Cart"></a>
+                <a href="http://www.jacobtime.com/osc/shopping_cart.php" class="headerNavigation"><img src="images/icons/cart_full.jpg" width="64" height="47" align="absmiddle" border="0" alt="Cart Full" title="Cart Full"></a>
                 </td>
                 <td class="cartBoxContent" align="right">
-                <img src="images/icons/no_free_ship_round.gif" width="50" height="50" align="absmiddle" border="0" alt="Free Shipping on All Orders $100 &amp; Up" title="Free Shipping on All Orders $100 &amp; Up">                </td>
+                <img src="images/icons/free_ship_round.gif" width="50" height="50" align="absmiddle" border="0" alt="You qualify for free shipping!" title="You qualify for free shipping!">                </td>
 				<!-- <td width="10%" valign="top" align="left"></td> -->
 	  		 </tr>
 			 <tr>
@@ -370,7 +493,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 		<form name="quick_find" action="http://www.jacobtime.com/osc/advanced_search_result.php" method="get">			<table width="100%" border="0" cellspacing="1" cellpadding="1" style="padding-top: 5px; padding-left:5px;" align="right">
 				<tbody><tr>
 					<td style="text-align:right; padding-right: 0px;" valign="center">
-						  <input type="text" name="keywords" class="serchField" id="query2" onfocus="this.select();"><input type="hidden" name="osCsid" value="42ffaac27e034a815bf8eacfcbd17b72">					</td>
+						  <input type="text" name="keywords" class="serchField" id="query2" onfocus="this.select();">					</td>
 					<td style="padding-left:0px;" align="right">
 						  <input type="image" src="includes/languages/english/images/buttons/button_quick_search.gif" border="0" alt="Quick Find" title=" Quick Find " align="absmiddle">					</td>
 				 </tr>
@@ -384,11 +507,13 @@ else {document.addEventListener("load", wsa_include_js, false);}
 	</td>
 </tr>
         <tr>
-            <td style="line-height: 1;"></td>
+             <td style="line-height: 1;" align="center"><a href="http://www.shopperapproved.com/reviews/jacobtime.com/" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; var certheight=screen.availHeight-90; window.open(this.href,'shopperapproved','location='+nonwin+',scrollbars=yes,width=620,height='+certheight+',menubar=no,toolbar=no'); return false;">
+            <img src="https://c683207.ssl.cf2.rackcdn.com/9895-m.gif" style="border: 0" alt="" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by Shopper Approved \251 '+d.getFullYear()+'.'); return false;"></a>
+            </td>
             <td class="main" align="center">
-                <img src="images/banners/free_shipping1.gif" width="416" height="35" align="absmiddle" border="0" alt="Free Shipping on All Orders $100 &amp; Up" title="Free Shipping on All Orders $100 &amp; Up">            </td>
-            <td>
-            <script type="text/javascript">
+                <img src="images/banners/free_shipping.gif" width="416" height="35" align="absmiddle" border="0" alt="You qualify for free shipping!" title="You qualify for free shipping!">            </td>
+            <td align="center"> 
+                        <script type="text/javascript">
                   var _gaq = _gaq || [];
                   _gaq.push(['_setAccount', 'UA-5226711-1']);
                   _gaq.push(['_trackPageview']);
@@ -443,7 +568,25 @@ else {document.addEventListener("load", wsa_include_js, false);}
                 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993801334/?value=0&amp;label=FYLpCNrI3wUQ9ujw2QM&amp;guid=ON&amp;script=0"/>
                 </div>
                 </noscript>
-            
+                <!-- Begin Mongoose Metrics Tracking Code -->
+                <script type="text/javascript">
+                var mm_c = 'B448734CEAA3D4924BAD774BBC3286FF';
+                var mm_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+                document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js' type='text/javascript'%3E%3C/script%3E"));
+                </script><script src="https://www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js" type="text/javascript"></script>
+                <script type="text/javascript">
+                /* Custom Parameters */
+                /* MANDATORY default_number Setup Parameter DO NOT REMOVE */
+                var default_number='8775877780'; /* 10 Digits Only i.e. 8881234567 */
+                
+                /* Custom Parameters */
+                
+                </script>
+                <script type="text/javascript">
+                document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-control.php%3F" + mm_variables + "' type='text/javascript'%3E%3C/script%3E"));
+                </script>
+                <!-- End Mongoose Metrics Tracking Code -->
+
             </td>
         </tr>
 <!-- 		</table>
@@ -453,8 +596,8 @@ else {document.addEventListener("load", wsa_include_js, false);}
 </div>
 
 
-
-<!-- header_eof //-->
+<script src="//hub.loginradius.com/include/js/LoginRadius.js"></script> <script type="text/javascript"> var options={}; options.login=true; LoginRadius_SocialLogin.util.ready(function () { $ui = LoginRadius_SocialLogin.lr_login_settings;$ui.interfacesize = "small";$ui.apikey = "27acef26-ef2a-4ec8-b6ed-a6e89c1af1f4";$ui.callback="http://www.jacobtime.com/osc/index.php";$ui.lrinterfacebackground = ""; $ui.noofcolumns = 4;$ui.lrinterfacecontainer ="interfacecontainerdiv"; LoginRadius_SocialLogin.init(options); }); </script>
+<script type="text/javascript">var islrsharing = true; var islrsocialcounter = true;</script> <script type="text/javascript" src="//share.loginradius.com/Content/js/LoginRadius.js" id="lrsharescript"></script><script type="text/javascript">LoginRadius.util.ready(function () { $SC.Providers.Selected = ["Facebook Like","Twitter Tweet","Pinterest Pin it","LinkedIn Share","Google+ Share",]; $S = $SC.Interface.simple; $S.isHorizontal = true; $S.countertype = "horizontal"; $S.show("lrsharecontainer"); });LoginRadius.util.ready(function () {$i = $SS.Interface.Simplefloat; $SS.Providers.Top = ["facebook","googleplus","twitter","linkedin","pinterest",]; $u = LoginRadius.user_settings; $u.apikey = "27acef26-ef2a-4ec8-b6ed-a6e89c1af1f4"; $i.size = 32;$i.left = ""; $i.top = "0px";$i.right = "";$i.bottom = ""; $i.show("lrverticalsharecontainer"); });</script><!-- header_eof //-->
 
 <!-- body //-->
 <table border="0" width="100%" cellspacing="3" cellpadding="3">
@@ -488,7 +631,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
                 <ul>
                     <li><a>Shop By Brand </a>
                         <ul>
-                            <li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=313&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Accutron&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=444&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Adidas&nbsp;(48)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=639&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Alpina&nbsp;(41)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=572&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Anne Klein&nbsp;(75)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=78&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Armani&nbsp;(147)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=443&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Armani Exchange&nbsp;(21)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=146&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Baume &amp; Mercier&nbsp;(54)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=606&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Bedat&nbsp;(17)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=644&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Bell &amp; Ross&nbsp;(24)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=440&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Breitling&nbsp;(23)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=222&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Bulova&nbsp;(58)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=599&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Burberry&nbsp;(14)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=306&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Calvin Klein&nbsp;(185)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=326&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Caravelle by Bulova&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=139&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Cartier&nbsp;(23)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=317&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Casio&nbsp;(169)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=24&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Citizen&nbsp;(308)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=468&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Citizen (Display Models)&nbsp;(308)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=544&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Citizen Signature&nbsp;(18)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=638&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Coach&nbsp;(23)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=158&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Concord&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=631&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Converse&nbsp;(79)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=325&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Diesel&nbsp;(89)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=308&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Dior&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=128&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">DKNY&nbsp;(97)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=374&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Dolce &amp; Gabbana&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=242&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Ebel&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=132&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">ESQ&nbsp;(14)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=28&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Fossil&nbsp;(288)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=462&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Fruitz&nbsp;(12)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=112&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Gucci&nbsp;(140)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=280&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Guess&nbsp;(349)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=471&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Guess (Display Models)&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=537&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Hamilton&nbsp;(29)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=567&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Hugo Boss&nbsp;(113)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=469&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Ice Watch&nbsp;(55)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=373&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Invicta&nbsp;(172)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=573&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Jacob &amp; Co&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=575&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Juicy Couture&nbsp;(64)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=135&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Kenneth Cole&nbsp;(102)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=591&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Lacoste&nbsp;(148)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=608&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Le Chateau&nbsp;(60)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=490&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Lorus&nbsp;(9)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=475&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Luminox&nbsp;(53)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=320&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Marc Ecko&nbsp;(5)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=494&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Marc Jacobs&nbsp;(18)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=411&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Michael Kors&nbsp;(239)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=299&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Michele&nbsp;(40)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=23&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Movado&nbsp;(225)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=603&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Mulco&nbsp;(188)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=284&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Nautica&nbsp;(74)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=470&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Nixon&nbsp;(15)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=600&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Oceanaut&nbsp;(15)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=22&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Omega&nbsp;(5)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=480&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Polar&nbsp;(10)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=259&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Pulsar&nbsp;(284)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=201&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Puma&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=25&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Rado&nbsp;(175)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=474&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Rado (Display Models)&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=318&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Raymond Weil&nbsp;(111)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=179&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Seiko&nbsp;(476)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=595&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Seiko Display Models&nbsp;(8)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=291&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Skagen&nbsp;(56)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=612&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Suunto&nbsp;(6)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=288&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Swatch&nbsp;(266)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=182&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Swiss Army&nbsp;(26)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=32&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Tag Heuer&nbsp;(137)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=332&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">TechnoMarine&nbsp;(59)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=648&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Temp&nbsp;(1)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=272&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Timex&nbsp;(20)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=279&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Tissot&nbsp;(357)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=206&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Tommy Hilfiger&nbsp;(126)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=466&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Toy Watch&nbsp;(51)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=446&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">TW STEEL&nbsp;(74)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=472&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">TX&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=283&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Wittnauer&nbsp;(2)</a></div></li>                </ul>
+                            <li><div id="brand_link"><a href="http://www.jacobtime.com/osc/88-Rue-du-Rhone-Watches-c-664.html">88 Rue du Rhone&nbsp;(52)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Accutron-Watches-c-313.html">Accutron&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Adidas-Watches-c-444.html">Adidas&nbsp;(23)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Alpina-Watches-c-639.html">Alpina&nbsp;(38)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Anne-Klein-Watches-c-572.html">Anne Klein&nbsp;(60)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Armani-Watches-c-78.html">Armani&nbsp;(158)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Armani-Exchange-Watches-c-443.html">Armani Exchange&nbsp;(87)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Baume-Mercier-Watches-c-146.html">Baume &amp; Mercier&nbsp;(53)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Bedat-Watches-c-606.html">Bedat&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Bell-Ross-Watches-c-644.html">Bell &amp; Ross&nbsp;(24)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Breitling-Watches-c-440.html">Breitling&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Bulova-Watches-c-222.html">Bulova&nbsp;(163)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Burberry-Watches-c-599.html">Burberry&nbsp;(70)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Calvin-Klein-Watches-c-306.html">Calvin Klein&nbsp;(198)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Caravelle-by-Bulova-Watches-c-326.html">Caravelle by Bulova&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Cartier-Watches-c-139.html">Cartier&nbsp;(19)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Casio-Watches-c-317.html">Casio&nbsp;(137)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Citizen-Watches-c-24.html">Citizen&nbsp;(262)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Citizen-Display-Models-Watches-c-468.html">Citizen (Display Models)&nbsp;(202)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Citizen-Signature-Watches-c-544.html">Citizen Signature&nbsp;(7)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Coach-Watches-c-638.html">Coach&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Converse-Watches-c-631.html">Converse&nbsp;(86)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Diesel-Watches-c-325.html">Diesel&nbsp;(136)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/Dior-Watches-c-308.html">Dior&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/DKNY-Watches-c-128.html">DKNY&nbsp;(108)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Dolce-Gabbana-Watches-c-374.html">Dolce &amp; Gabbana&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/ESQ-Watches-c-132.html">ESQ&nbsp;(29)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Fossil-Watches-c-28.html">Fossil&nbsp;(276)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Fruitz-Watches-c-462.html">Fruitz&nbsp;(19)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Gifts-Watches-c-238.html">Gifts&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Gucci-Watches-c-112.html">Gucci&nbsp;(156)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Guess-Watches-c-280.html">Guess&nbsp;(321)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Guess-Display-Models-Watches-c-471.html">Guess (Display Models)&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Hamilton-Watches-c-537.html">Hamilton&nbsp;(16)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Hugo-Boss-Watches-c-567.html">Hugo Boss&nbsp;(138)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Ice-Watch-Watches-c-469.html">Ice Watch&nbsp;(32)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Invicta-Watches-c-373.html">Invicta&nbsp;(135)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Juicy-Couture-Watches-c-575.html">Juicy Couture&nbsp;(110)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Kenneth-Cole-Watches-c-135.html">Kenneth Cole&nbsp;(236)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Lacoste-Watches-c-591.html">Lacoste&nbsp;(205)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Luminox-Watches-c-475.html">Luminox&nbsp;(83)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Marc-Ecko-Watches-c-320.html">Marc Ecko&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Marc-Jacobs-Watches-c-494.html">Marc Jacobs&nbsp;(77)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Michael-Kors-Watches-c-411.html">Michael Kors&nbsp;(232)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Michele-Watches-c-299.html">Michele&nbsp;(30)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Misc-Watches-c-665.html">Misc&nbsp;(1)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/Movado-Watches-c-23.html">Movado&nbsp;(256)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Mulco-Watches-c-603.html">Mulco&nbsp;(143)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Nautica-Watches-c-284.html">Nautica&nbsp;(59)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Nixon-Watches-c-470.html">Nixon&nbsp;(10)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Oceanaut-Watches-c-600.html">Oceanaut&nbsp;(9)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Omega-Watches-c-22.html">Omega&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Polar-Watches-c-480.html">Polar&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Pulsar-Watches-c-259.html">Pulsar&nbsp;(215)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Puma-Watches-c-201.html">Puma&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Rado-Watches-c-25.html">Rado&nbsp;(221)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Raymond-Weil-Watches-c-318.html">Raymond Weil&nbsp;(106)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Rocawear-Watches-c-649.html">Rocawear&nbsp;(56)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Seiko-Watches-c-179.html">Seiko&nbsp;(300)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Seiko-Display-Models-Watches-c-595.html">Seiko Display Models&nbsp;(7)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Skagen-Watches-c-291.html">Skagen&nbsp;(31)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Suunto-Watches-c-612.html">Suunto&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Swatch-Watches-c-288.html">Swatch&nbsp;(262)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Swiss-Army-Watches-c-182.html">Swiss Army&nbsp;(11)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Swiss-Legend-Watches-c-441.html">Swiss Legend&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Tag-Heuer-Watches-c-32.html">Tag Heuer&nbsp;(161)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/TechnoMarine-Watches-c-332.html">TechnoMarine&nbsp;(45)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Timex-Watches-c-272.html">Timex&nbsp;(75)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Tissot-Watches-c-279.html">Tissot&nbsp;(358)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/Tommy-Hilfiger-Watches-c-206.html">Tommy Hilfiger&nbsp;(116)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Toy-Watch-Watches-c-466.html">Toy Watch&nbsp;(35)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/TW-STEEL-Watches-c-446.html">TW STEEL&nbsp;(43)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/TX-Watches-c-472.html">TX&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Wittnauer-Watches-c-283.html">Wittnauer&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/Zodiac-Watches-c-413.html">Zodiac&nbsp;(4)</a></div></li>                </ul>
             </li></ul></div>
             </td>
 		</tr>
@@ -508,7 +651,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 			<td>
 			<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-style:solid; border-color:#c0c0c0; border-width: 1px;">
 				<tbody><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="10" border="0" alt=""></td></tr><tr><td colspan="3"><div class="scrollDiv2">
-										<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=616&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;For The Home</a>&nbsp;(132)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=397&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Jewelry</a>&nbsp;(320)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=448&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Pens</a></td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=477&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Sunglasses</a>&nbsp;(241)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=541&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Watch Winders</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr>				</tbody></table>
+										<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/For-The-Home-c-616.html"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;For The Home</a>&nbsp;(75)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/Jewelry-c-397.html"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Jewelry</a>&nbsp;(423)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/Pens-c-448.html"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Pens</a>&nbsp;(1)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/Sunglasses-c-477.html"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Sunglasses</a>&nbsp;(177)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/Watch-Winders-c-541.html"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Watch Winders</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr>				</tbody></table>
 				</div>
 			</td>
 			</tr>
@@ -540,7 +683,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
     
       </td>
     </tr> 
-<tr><td class="" style="text-align: center;"><a href="http://www.jacobtime.com/osc/advanced_search.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images/layout/need_help.gif" width="194" height="52" border="0" alt=""></a></td></tr><tr><td><img src="images/pixel_trans.gif" width="50" height="50" border="0" alt=""></td></tr><input type="hidden" name="phpself:privacy.php">	<tr><td align="center">
+<tr><td class="" style="text-align: center;"><a href="http://www.jacobtime.com/osc/advanced_search.php"><img src="images/layout/need_help.gif" width="194" height="52" border="0" alt=""></a></td></tr><tr><td><img src="images/pixel_trans.gif" width="50" height="50" border="0" alt=""></td></tr><input type="hidden" name="phpself:privacy.php">	<tr><td align="center">
   
  	<table align="center" cellspacing="0" cellpadding="0" width="100%">
 		<tbody><tr>
@@ -559,7 +702,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
 					</p>
                 <form id="signup2" action="http://www.jacobtime.com/osc/subscribe.php" method="get">
                 <input type="text" name="email3" id="email3" style="border:1px solid #999; vertical-align: top; ">
-                <input type="image" src="images/join.gif" name="submit" value="Join" alt="Join" style="vertical-align: top;">
+                <input type="image" src="images/join.gif" name="submit" value="Click to Join" alt="Join" style="vertical-align: top;">
 	
                 </form> 
   	
@@ -571,7 +714,51 @@ else {document.addEventListener("load", wsa_include_js, false);}
 				<td width="8" class="nice_div_br"></td>
 			</tr>
 		</tbody></table>
-                  
+           
+      
+  <div class="dumbBoxWrap">
+	<div class="dumbBoxOverlay"></div>
+    <div class="vertical-offset">
+		<div class="dumbBox">
+			<a id="closeModal"><img src="images/modal_close.png"></a> <!--the close button-->
+			<p>
+            </p><form id="signup" action="http://www.jacobtime.com/osc/subscribe.php" method="get">
+            <p style="font-family:Verdana, Arial, sans-serif; color:#7c9bb0; font-size:20px; font-weight:bold;">
+					Save More!<br>
+					Subscribe Now!<br>
+					<span style="font-size:14px; color:#000; font-weight:normal;">Receive email only promo codes and sale announcments.</span>
+					</p>
+                
+                <input type="text" name="email" id="email" style="border:1px solid #999; vertical-align: middle; ">
+                <input type="image" src="images/join.jpg" name="submit" value="Join" class="btn" alt="Join" style="vertical-align: middle;">
+                <br><br>
+                <div id="response" style="font-family:Verdana, Arial, sans-serif; color:#5C8398; font-size:14px; ">
+							  </div>
+              </form>
+            <p></p>
+    		</div>
+    	</div>
+    </div>   
+      <script type="text/javascript">
+	Event.observe(window, 'load', init, false);
+
+			function init(){
+				Event.observe('signup','submit',storeAddress);
+			}
+			
+			// AJAX call sending sign up info to store-address.php
+			function storeAddress(event) {
+				//if ($('gender') != undefined) var typeValue = Form.getInputs('signup','radio','gender').find(function(radio) { return radio.checked; }).value;
+				// Update user interface
+				$('response').innerHTML = 'Adding email address...';
+				// Prepare query string and send AJAX request
+				var pars = 'ajax=true&email=' + escape($F('email'));
+				var myAjax = new Ajax.Updater('response', 'mchimp-store-address.php', {method: 'get', parameters: pars});
+				Event.stop(event); // Stop form from submitting when JS is enabled
+				}
+	
+	
+    </script>  
          </td></tr>      
 <!-- categories_eof //-->
 
@@ -659,14 +846,23 @@ else {document.addEventListener("load", wsa_include_js, false);}
     	<!----------- Share  ------------>
 			
 		<tbody><tr>
-        <td class="priceRange" width="100%"><span class="share_txt">Share: </span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt="">
- 						<a onclick="reg_click(1);" target="_BLANK" href="http://www.facebook.com/sharer.php?&amp;u=http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72&amp;t=Jacobtime.com"><img src="images/facebook_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="15" border="0" alt="">
-						<a onclick="reg_click(2);" target="_BLANK" href="http://twitter.com/home?status=Jacobtime.com:+http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images/twitter_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="15" border="0" alt="">
-						<a onclick="reg_click(3);" target="_BLANK" href="http://delicious.com/save?url=http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72&amp;title=Jacobtime.com"><img src="images/delicious_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="15" border="0" alt="">
-						<a onclick="reg_click(4);" target="_BLANK" href="http://digg.com/submit?title=Jacobtime.com&amp;url=http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="images/digg_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="15" border="0" alt="">
-						<a onclick="reg_click(5);" target="_BLANK" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72&amp;t=Jacobtime.com"><img src="images/myspace_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="15" border="0" alt="">
-                        <a href="http://pinterest.com/pin/create/button/?url=http://www.jacobtime.com/osc/privacy.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72&amp;description=Jacobtime.com" class="pin-it-button" count-layout="horizontal"><img src="images/big-p-button_32.png" width="32" height="32" border="0" alt=""></a>
-        	<span class="share_txt">Share by Email: </span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt=""><form name="tell_a_friend" action="http://www.jacobtime.com/osc/tell_a_friend.php" method="get"><input type="hidden" name="products_id"><input type="hidden" name="title" value="Jacobtime.com"><input type="hidden" name="osCsid" value="42ffaac27e034a815bf8eacfcbd17b72"><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt=""><input type="image" src="includes/languages/english/images/buttons/Email-32.png" border="0" alt="Tell someone you know about this product via email." title=" Tell someone you know about this product via email. "></form><span class="share_txt"><a href="subscribe.php">Subscribe: </a></span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt="">          <span style="position:relative; top: 8;">
+        <td width="100%"><span class="share_txt">Share: </span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt="">
+ 						<a onclick="reg_click(1);" target="_BLANK" href="http://www.facebook.com/sharer.php?&amp;u=http://www.jacobtime.com/osc/privacy.php&amp;t=Jacobtime.com"><img src="images/facebook_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="25" border="0" alt="">
+						<a onclick="reg_click(2);" target="_BLANK" href="http://twitter.com/home?status=Jacobtime.com:+http://www.jacobtime.com/osc/privacy.php"><img src="images/twitter_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="25" border="0" alt="">
+						<a onclick="reg_click(5);" target="_BLANK" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.jacobtime.com/osc/privacy.php&amp;t=Jacobtime.com"><img src="images/myspace_32.png" width="32" height="32" border="0" alt=""></a><img src="images/pixel_trans.gif" width="1" height="25" border="0" alt="">
+                        <a href="http://pinterest.com/pin/create/button/?url=http://www.jacobtime.com/osc/privacy.php&amp;description=Jacobtime.com" class="pin-it-button" count-layout="horizontal"><img src="images/big-p-button_32.png" width="32" height="32" border="0" alt=""></a>
+                        <!-- Place this tag where you want the +1 button to render. -->
+                        <div class="g-plusone" data-annotation="none"></div>
+                        
+                        <!-- Place this tag after the last +1 button tag. -->
+                        <script type="text/javascript">
+                          (function() {
+                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                            po.src = 'https://apis.google.com/js/platform.js';
+                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                          })();
+                        </script>
+        	<span class="share_txt">Share by Email: </span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt=""><form name="tell_a_friend" action="http://www.jacobtime.com/osc/tell_a_friend.php" method="get"><input type="hidden" name="products_id"><input type="hidden" name="title" value="Jacobtime.com"><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt=""><input type="image" src="includes/languages/english/images/buttons/Email-32.png" border="0" alt="Tell someone you know about this product via email." title=" Tell someone you know about this product via email. "></form><span class="share_txt"><a href="subscribe.php">Subscribe: </a></span><img src="images/pixel_trans.gif" width="5" height="15" border="0" alt="">          <span style="position:relative; top: 10px;">
                 <form id="signup" action="http://www.jacobtime.com/osc/subscribe.php" method="get">
 								                <input type="text" name="email2" id="email2" style="border:1px solid #999; vertical-align: top; width:120px; ">
                 <input type="image" src="images/join.gif" name="submit" value="Join" alt="Join" style="vertical-align: top;">
@@ -680,8 +876,8 @@ else {document.addEventListener("load", wsa_include_js, false);}
       <tr><td><span id="response" style="float: right; font-size: 10px; font-family: inherit;"></span></td></tr>      <tr>
         <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td class="pageHeading">Privacy Notice</td>
-            <td class="pageHeading" align="right"><img src="images//icons/Private_128.png" width="128" height="128" border="0" alt="Privacy Notice" title="Privacy Notice"></td>
+            <td class="pageHeading">My Account Information</td>
+            <td class="pageHeading" align="right"><img src="images//icons/Private_128.png" width="128" height="128" border="0" alt="My Account Information" title="My Account Information"></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -766,7 +962,7 @@ else {document.addEventListener("load", wsa_include_js, false);}
             <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
               <tbody><tr>
                 <td width="10"><img src="images/pixel_trans.gif" width="10" height="1" border="0" alt=""></td>
-                <td align="right"><a href="http://www.jacobtime.com/osc/index.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="includes/languages/english/images/buttons/button_continue.gif" width="150" height="40" border="0" alt="Continue" title="Continue"></a></td>
+                <td align="right"><a href="http://www.jacobtime.com/osc/index.php"><img src="includes/languages/english/images/buttons/button_continue.gif" width="150" height="40" border="0" alt="Continue" title="Continue"></a></td>
                 <td width="10"><img src="images/pixel_trans.gif" width="10" height="1" border="0" alt=""></td>
               </tr>
             </tbody></table></td>
@@ -798,37 +994,37 @@ else {document.addEventListener("load", wsa_include_js, false);}
   <tr>
     <td class="boxText"><table border="0" width="100%" cellspacing="0" cellpadding="1"><tbody><tr><td><span class="manufacturerFrontBoxSpecials">01. Swatch</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="product_thumb.php?img=images/SVCK4032G.jpg&amp;w=110&amp;h=200" width="110" height="200" border="0" alt="Swatch Full Blooded Mens Watch SVCK4032G" title="Swatch Full Blooded Mens Watch SVCK4032G"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/Swatch-Full-Blooded-Mens-Watch-SVCK4032G-p-6748.html"><img src="product_thumb.php?img=images/SVCK4032G.jpg&amp;w=110&amp;h=200" width="110" height="200" border="0" alt="Swatch Full Blooded Mens Watch SVCK4032G" title="Swatch Full Blooded Mens Watch SVCK4032G"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Swatch Full Blooded Mens Watch SVCK4032G</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/Swatch-Full-Blooded-Mens-Watch-SVCK4032G-p-6748.html">Swatch Full Blooded Mens Watch SVCK4032G</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">02. Guess</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=3994&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="product_thumb.php?img=images/G12557L.jpg&amp;w=107&amp;h=200" width="107" height="200" border="0" alt="Guess Waterpro Ladies Watch G12557L" title="Guess Waterpro Ladies Watch G12557L"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/Guess-Waterpro-Ladies-Watch-G12557L-p-3994.html"><img src="product_thumb.php?img=images/G12557L.jpg&amp;w=107&amp;h=200" width="107" height="200" border="0" alt="Guess Waterpro Ladies Watch G12557L" title="Guess Waterpro Ladies Watch G12557L"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=3994&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Guess Waterpro Ladies Watch G12557L</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/Guess-Waterpro-Ladies-Watch-G12557L-p-3994.html">Guess Waterpro Ladies Watch G12557L</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">03. Michael Kors</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12928&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="product_thumb.php?img=images/MK5038.jpg&amp;w=132&amp;h=200" width="132" height="200" border="0" alt="Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038" title="Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/Michael-Kors-Parker-Chocolate-Leather-Chronograph-Ladies-Watch-MK2249-p-25327.html"><img src="product_thumb.php?img=images/MK2249.jpg&amp;w=129&amp;h=200" width="129" height="200" border="0" alt="Michael Kors Parker Chocolate Leather Chronograph Ladies Watch MK2249" title="Michael Kors Parker Chocolate Leather Chronograph Ladies Watch MK2249"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12928&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/Michael-Kors-Parker-Chocolate-Leather-Chronograph-Ladies-Watch-MK2249-p-25327.html">Michael Kors Parker Chocolate Leather Chronograph Ladies Watch MK2249</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">04. Casio</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">04. Fossil</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=17386&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="product_thumb.php?img=images/GW7900B-1.jpg&amp;w=155&amp;h=200" width="155" height="200" border="0" alt="Casio G-Shock Mens Watch   GW7900B-1" title="Casio G-Shock Mens Watch   GW7900B-1"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/Fossil-Stella-White-Multifunction-Ladies-Watch-ES1967-p-8973.html"><img src="product_thumb.php?img=images/ES1967.jpg&amp;w=122&amp;h=200" width="122" height="200" border="0" alt="Fossil Stella White Multifunction Ladies Watch ES1967" title="Fossil Stella White Multifunction Ladies Watch ES1967"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=17386&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Casio G-Shock Mens Watch   GW7900B-1</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/Fossil-Stella-White-Multifunction-Ladies-Watch-ES1967-p-8973.html">Fossil Stella White Multifunction Ladies Watch ES1967</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">05. Fossil</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">05. Casio</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=10703&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72"><img src="product_thumb.php?img=images/CH2573.jpg&amp;w=130&amp;h=200" width="130" height="200" border="0" alt="Fossil Decker Black Chronograph Mens Watch CH2573" title="Fossil Decker Black Chronograph Mens Watch CH2573"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/Casio-G-Shock-Mens-Watch-G7900A-7DR-p-13085.html"><img src="product_thumb.php?img=images/G7900A-7DR.jpg&amp;w=147&amp;h=200" width="147" height="200" border="0" alt="Casio G-Shock Mens Watch G7900A-7DR" title="Casio G-Shock Mens Watch G7900A-7DR"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=10703&amp;osCsid=42ffaac27e034a815bf8eacfcbd17b72">Fossil Decker Black Chronograph Mens Watch CH2573</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/Casio-G-Shock-Mens-Watch-G7900A-7DR-p-13085.html">Casio G-Shock Mens Watch G7900A-7DR</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr></tbody></table></td>
@@ -901,6 +1097,20 @@ else {document.addEventListener("load", wsa_include_js, false);}
 					<td>
 						<img src="images/icons/cc_accept.gif" width="239" height="40" border="0" alt="">					</td>
 				</tr>
+                <tr>
+                
+                <td align="center" valign="center">
+                    <a class="tf_upfront_badge" href="http://www.thefind.com/store/about-jacobtime" title="TheFind Upfront" style="text-decoration:none;"><b>Jacob Time Watches</b> is <u>Upfront</u></a>
+                      <script type="text/javascript">
+                        (function() {
+                          var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
+                          upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
+                          upfront.text = "thefind.upfront.init('tf_upfront_badge', 'db309516d54dc10e0874cab318547154')";
+                          document.getElementsByTagName('HEAD')[0].appendChild(upfront);
+                        })();
+                      </script>
+                    </td>
+                </tr>
 			</tbody></table>
 		</td>
 		<td>
@@ -926,13 +1136,16 @@ else {document.addEventListener("load", wsa_include_js, false);}
 </td>
 
 
-
 <td align="center" valign="center">
 <a href="//privacy-policy.truste.com/click-to-verify/www.jacobtime.com" target="_blank"><img style="border: none" alt="Privacy-Policy-By-TRUSTe" src="//privacy-policy.truste.com/verified-seal/www.jacobtime.com/green/h.png"></a>
 </td>
 
 
 </tr></tbody></table><table align="center" cellspacing="6"><tbody><tr>
+
+<td align="center" valign="center">
+<a href="http://www.trustpilot.com/review/www.jacobtime.com" title="See reviews on http://trustpilot.com"> <script type="text/javascript"> var tpJsHost = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/trustbox.trustpilot.com/badge/en/4stars/tp_badge-140.png" : "http://trustbox.trustpilot.com/badge/en/4stars/tp_badge-140.png"); document.write(unescape("%3Cimg src="+ tpJsHost + " alt=Trustpilot Badge %3E%3C/img%3E")); </script><img src="https://s3.amazonaws.com/trustbox.trustpilot.com/badge/en/4stars/tp_badge-140.png" alt="Trustpilot" badge=""> </a>
+</td>
 
 <td align="center" valign="center">
 <a href="http://www.google.com/products/seller?zmi=jacobtime.com&amp;rate=5" target="google shopping"><img src="https://www.jacobtime.com/osc/logo/googlerating.gif" alt="Jacobtime.com Is a Secure 5 Star Top Service Rated Site by Google, Shop with Confidence" border="0"></a>
@@ -1005,11 +1218,98 @@ WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center" class="main">
-    	Copyright © 2013 <a href="http://www.jacobtime.com/osc/index.php?osCsid=42ffaac27e034a815bf8eacfcbd17b72">Jacobtime.com</a>		</td>
+    	Copyright © 2014 <a href="http://www.jacobtime.com/osc/index.php">Jacobtime.com</a> - <a href="http://www.jacobtime.com/osc/sitemap.php">Sitemap</a>		</td>
   </tr>
 </tbody></table>
 <script> storeSREDID(); </script>
- 
+<script type="text/javascript">
+ if(window.location.pathname == "/") { /*home page*/
+  var google_tag_params = { 
+   ecomm_pagetype: 'home'
+  };
+
+ } else if(document.getElementsByClassName('searchBar')[0] != undefined ) { /*category page*/
+  var google_tag_params = { 
+   ecomm_pagetype: 'category'
+  };
+ } else if(document.getElementsByClassName('productTitle')[0] != undefined) { /*product page*/
+ var len = document.getElementById('productTitle').getElementsByTagName('h1')[0].innerHTML.split(" ").length-1;
+  var id = document.getElementById('productTitle').getElementsByTagName('h1')[0].innerHTML.split(" ")[len];
+  if(document.getElementsByClassName('jt_price')[0].innerHTML.indexOf('span') != -1)
+  {
+  var price = document.getElementsByClassName('jt_price')[0].getElementsByTagName('span')[0].innerHTML.replace("$","").replace(",","");
+  }
+  else
+  {
+  var price = document.getElementsByClassName('jt_price')[0].innerHTML.replace("$","").replace(",","");
+  }
+  var google_tag_params = { 
+   ecomm_prodid: id, 
+   ecomm_pagetype: 'product', 
+   ecomm_totalvalue: price
+  };
+ }else if(window.location.href.indexOf('shopping_cart.php') != -1)
+ {
+ if(document.forms['cart_quantity']['products_id[]'].length != undefined)
+ {
+ var count =document.forms['cart_quantity']['products_id[]'].length;
+ }
+ else
+ {
+ var count =1;
+ }
+ var id = new Array();
+ var price= new Array();
+ var eve=0;
+ var od=0;
+ for(i=1;i<=count;i++)
+ {
+ if(i%2==0)
+ {
+ var lens = document.getElementsByClassName('productListing-odd')[od].getElementsByTagName('td').length-1;
+ price.push(document.getElementsByClassName('productListing-odd')[od].getElementsByTagName('td')[lens].getElementsByTagName('b')[0].innerHTML.replace("$",""));
+ var len = document.getElementsByClassName('productListing-odd')[od].getElementsByTagName('td')[1].getElementsByTagName('b')[0].innerHTML.split(" ").length-1;
+ id.push(document.getElementsByClassName('productListing-odd')[od].getElementsByTagName('td')[1].getElementsByTagName('b')[0].innerHTML.split(" ")[len]);
+ od=od+1;
+ }
+ else{
+  var lens = document.getElementsByClassName('productListing-even')[od].getElementsByTagName('td').length-1;
+ price.push(document.getElementsByClassName('productListing-even')[od].getElementsByTagName('td')[lens].getElementsByTagName('b')[0].innerHTML.replace("$",""));
+ var len = document.getElementsByClassName('productListing-even')[eve].getElementsByTagName('td')[1].getElementsByTagName('b')[0].innerHTML.split(" ").length-1;
+ id.push(document.getElementsByClassName('productListing-even')[eve].getElementsByTagName('td')[1].getElementsByTagName('b')[0].innerHTML.split(" ")[len]);
+ eve=eve+1;
+ }
+ }
+   var google_tag_params = { 
+   ecomm_prodid: id, 
+   ecomm_pagetype: 'cart', 
+   ecomm_totalvalue: price
+  };
+ }
+ else { /*other page*/
+  var google_tag_params = { 
+   ecomm_pagetype: 'siteview'
+  };
+ }
+</script>
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 993801334;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993801334/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
  
 <!-- footer_eof //-->
 <br>
