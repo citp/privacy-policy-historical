@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ongage.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203092715id_/http%3A//www.ongage.com/legal-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongage.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123135id_/https%3A//www.ongage.com/legal-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 26-Dec-2011
+Last Updated: 02-Jan-2014
 
 Ongage Ltd. is committed to your right to privacy. This privacy policy applies to information collected via Ongage internet website at [www.ongageconnect.com](http://www.ongageconnect.com/) (the "Site"), and/or the services available through the Site or otherwise provided by Ongage (the "Services”).
 
@@ -29,6 +29,8 @@ Personal information is used only for limited purposes. For example, we may stor
 On occasion it is necessary to send out service related announcements. For instance, if the Sites or any of the Services is temporarily suspended for maintenance we might send users an email. We also communicate with users to provide customer service in accordance with our Terms of Service. Generally, users may not opt-out of these communications without also deactivating their account and ceasing use of the Services. These communications are not promotional in nature.
 
 We may send new registrants of the Sites or Services a welcoming email to verify password and username. Established members may occasionally also receive, if they so choose, information on special offers, products, services and periodic newsletters. Users may choose to opt-out and to not receive these communications.
+
+Ongage may reach out to anyone who leaves their contacts details on our site, or through our call service, or with any employee or representative of Ongage. Ongage respects your privacy and we do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. You can unsubscribe and opt-out from any communication from us at any time.
 
 **3\. SHARING OF INFORMATION**
 
