@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220175211id_/http%3A//www.elasticsearch.org/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121557id_/http%3A//www.elasticsearch.org/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | Elasticsearch
+# Elasticsearch.org Privacy and Cookie Policy | Elasticsearch
 
 Elasticsearch Global B.V., based at Rijnsburgstraat 9-11, 1059 AT Amsterdam, The Netherlands, (“ **Elasticsearch** “) is committed to the individual’s right to privacy and the ability to rely on secure and trustworthy Internet commerce. This Privacy and Cookie Policy applies to all users of www.elasticsearch.com and www.elasticsearch.org (the “ **Websites** ”), and incorporates by reference the[ Terms of Use.](https://web.archive.org/terms-of-use/)
 
