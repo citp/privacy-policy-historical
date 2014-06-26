@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203091921id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retechulous.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114040id_/http%3A//retechulous.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,3 +59,26 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 http://retechulous.com/contact  
 
+
+##  15 Day FREE Trial Membership
+
+You'll have 15 days to access everything in the member's area & see what all the fuss is about. 
+
+If you're not completely convinced that our system will give you huge return on your monthly $97 Investment, you can use the "1 click cancel link" any time during your trial and never pay a dime.
+
+(You can even keep any squeeze pages and leads you generate during your trial -- so there's really no risk here. ) 
+
+  
+After you click "Order" you will have **_instant access_** to everything that's included with membership, free for 15 days.
+
+**If you're thinking - _"$97, That's A Lot Of Money"_** \-- That's because you're probably not used to investing in yourself and your real estate business, (which is probably why you're not at the level you want to be at yet.) 
+
+_Think about it this way._
+
+If you take a totally FREE trial today, and you try just one of the lead generation methods you find inside, is there a chance you'll do at least 1 more transaction as a result? 
+
+Of course there is. And if you stick with us, it's likely you can add 1, 5, or even 10 deals a month to your business, assuming your willing to keep an open mind and take action. 
+
+Go ahead, scroll back up, and start your trial now. 
+
+Charges will appear on your card as ReTechulous.Com.
