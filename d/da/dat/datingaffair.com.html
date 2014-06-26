@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the datingaffair.com privacy policy that was archived on 2013-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821072051id_/http%3A//www.datingaffair.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the datingaffair.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626064940id_/http%3A//www.datingaffair.com/pop.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<!--Update this as necessary-->
-		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 				
       
         <title>Dating Affair | The Number 1 Affair Site Online | Married Dating </title>
@@ -17,7 +17,7 @@
 <meta name="revisit-after" content="">
 <meta name="page-topic" content="">
 <meta name="google-site-verification" content="EEpbH4L5SMF_3yvn3yTHA9E85sdpDDjYyioyiBx-Eco"><meta name="msvalidate.01" content="53ED5D9C6188557373907A74099F61A5">
-                    <link rel="stylesheet" type="text/css" href="/css/972/2/main.330.css">
+                    <link rel="stylesheet" type="text/css" href="/css/972/2/main.383.css">
 
 <!--IE ONLY CSS-->
 <!--[if IE]>
@@ -47,10 +47,6 @@
 
     #navigation ul {
         left: -41px; /* WHAT THE FUCK IE? (IE7 fix) */
-    }
-
-    .member_profile {
-        margin-top: 0px;
     }
 
 </style>
@@ -418,7 +414,8 @@ function whitebox_stretchy(align){
 
             if(align != "0"){
 				if (stretchy_contentBox_height + difference > 0) {
-					stretchy_content_box.setStyle({height: stretchy_contentBox_height + difference});
+                    var newHeight = (stretchy_contentBox_height + difference) +'px';
+					stretchy_content_box.setStyle({height: newHeight});
 					// For "Show advance option" on search page. It reduces the whitespace from the stretchy box.
 				}
             }else{
@@ -434,8 +431,11 @@ function whitebox_stretchy(align){
                 }
                 var total_height_ofContent_onRight = total_height_of_nonStretchy_boxes_onRight + blackbox_onRight_array[0].getHeight() + top_margin;
                 var difference = total_height_ofContent_onLeft - total_height_ofContent_onRight;
-                stretchy_content_box.setStyle({height: stretchy_contentBox_height - difference});
+                var newHeight = (stretchy_contentBox_height + difference) +'px';
+                stretchy_content_box.setStyle({height: newHeight});
             }
+
+            jQuery(document).trigger('whitebox_resized');
         }
     }
 }
@@ -446,7 +446,9 @@ function whitebox_stretchy(align){
         <script type="text/javascript" src="/js/wcc/core.js"></script>
         <script type="text/javascript" src="/js/wcc/featured_shows.js"></script>
         
-        
+        <script type="text/javascript" src="/js/upgrade/obj.upgrade.js"></script>
+<script type="text/javascript" src="/js/modals/upsales.js?version=1"></script>
+
 
     	            
 
@@ -773,21 +775,22 @@ function OpenManageBuddies( link )
         
 <script type="text/javascript">
 jQuery().ready( function()
-			    {
-			    	
-			    	
-					wcc_config =  { 
-												"global_img_path"		: 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/amr2',
-										    	"whitelabel_img_path"	: 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/2/amr2',
-										    	"dashboard_header"		: false,
-										    	"user_status"			: ""
-								  }  ;
-								 
-					wcc.init( wcc_config );
-					
-			  					  		
-			    }
-		  	  );
+    {
+        wcc_config = { 
+            
+            "global_img_path"		: 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/amr2',
+            "whitelabel_img_path"	: 'http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/2/amr2',
+            "dashboard_header"		: true,
+            "user_status"			: ""
+            
+        };
+                     
+        wcc.init( wcc_config );
+        
+        
+                
+    }
+);
 </script>
 	                                             <script type="text/javascript">
             var _gaq = _gaq || [];
@@ -855,143 +858,143 @@ jQuery().ready( function()
 
 <div class="body_text">
 <div>
-	<b class="legal">PRIVACY POLICY</b><br>
-	for DatingAffair <br>
-	Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus<br>
-	+1.8886499178<br>
-        <b>Effective Date: January 1st 2005</b><br>
-        <b>Last Updated: July 19th 2013</b><br>
-</div>
-<div class="terms_indent">
-<ol class="legal_list">
-    <p><b>PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. </b> <br></p>
-    <p><b>IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITES.</b></p>
-    
-<li style="list-style: upper-roman; font-weight: bold;">General
-	<ol>
-	<li>The operative parties referred to in this policy are DatingAffair, d/b/a the above listed website(s) (hereinafter "Company") and You, the User of this Site.
-		<ol style="">
-		<li>Company is the operator of the above listed website(s).  Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to DatingAffair d/b/a the above Site(s), or as any other Site that We may choose to publish in the future.  Additionally, when the terms "the Site(s)" or "Site(s)" are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.</li>
-
-		<li>You, the User - As the User of this Site, this Policy will refer to the User as "You" or through any second-person pronouns, such as "Yours," etc.  Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.</li>
-		</ol>
-	</li>
-	<li>This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.</li>
-	</ol>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">Revisions to This Policy
-	<ol><li>
-	We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Webpage and using the "refresh" button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "Last Modified" date remains unchanged after You have clicked the "refresh" button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed "Last Modified" date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
-	</li></ol></li>
-
-<li style="list-style: upper-roman; font-weight:bold;">Personal Information That We Collect
-	<p>
-	Visitors to Our Site and services will have multiple manners of interactivity with Us.  Depending upon Your level of interaction, We will collect different information about You.  The type(s) of information collected is as follows:</p>
-	<ol>
-	<li><strong>Members</strong> - Members are those Users who subscribe to our services.  If You choose to become a Member, We will ask You to provide Your name, telephone number, fax number, physical address, date of birth, gender, valid credit card and billing information, a photograph and/or video, and any other information that We, in Our sole discretion, feel is necessary to create a suitable account or Member profile.  Any information gathered from Visitors is also gathered from Members.</li>
-
-	<li><strong>Visitors</strong> - Visitors are Users of the Site who do not subscribe to Our services, and never enter data into any active data collection pages. Data collected about Visitors is restricted to that collected by passive information gathering devices.</li>   
-	</ol>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">How We Collect Information From You
-	<ol>
-	<li><strong>Passive Collection</strong> - We use cookies to collect information about You in order to enhance Your experience on the Site.  The information collected in Our cookies includes, but is not limited to, Your User IP address, browser information, and geographic location.</li>
-
-	<li><strong>Active Collection</strong> - We collect information from You when You complete the member registration to Our Site.  Please see above provision: III-A.</li>
+    	<b class="legal">PRIVACY POLICY</b><br>
+    	for DatingAffair <br>
+    	Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus<br>
+    	+1.8886499178<br>
+            <b>Effective Date: January 1st 2005</b><br>
+            <b>Last Updated: July 19th 2013</b><br>
+    </div>
+    <div class="terms_indent">
+    <ol class="legal_list">
+        <p><b>PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY. </b> <br></p>
+        <p><b>IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE SITES.</b></p>
         
-                  <li><strong>Registration Information</strong> - During the initial registration process, We may request that you provide certain basic information about yourself in order to complete the registration process.  Please be advised that the information submitted during the registration process may be shared with third parties.</li>
-	</ol>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">How We Use Your Information
-	<ol>
-	<li>The primary use for Your information is to provide You with services You have requested and/or paid for.  We also use Your information to deliver customized services to You.  Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers.  Further, We reserve the right to use the information collected from former Members to market Our Site and/or services to these individuals at any time.</li>
-
-	<li>We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription of Our services. We also use Your information for market research purposes - in order to increase Your (and other Users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing or statistical purposes. </li>
-
-	<li>We also use Your information for the obvious purpose of providing Your User profile to all of Our other Members and Visitors. When You create a profile, You should consider all of the information on the profile to be public information and therefore, accessible by anyone, unless otherwise stated (such as Confidential Information). Confidential information in Your profile cannot be viewed by others or the public. Confidential information includes Your name, physical address, and billing information. Nevertheless, Your profile information, pictures, and videos as well as Your city, state, and country will be public information. </li>
-                  <li>Although Your personally identifying information will not be made public, You should understand that there is a possibility that You may be identified through the information provided on Your profile. For example, You may be visually recognized by someone who sees Your picture, or Your description may be adequately detailed to the extent that someone may be able to identify You. Accordingly, You understand that using this Site places You in control of all information displayed on Your profile, and You take full responsibility for any consequences for whatever information You choose to publish. We also reserve the right to post Your profile and any of the public information or images contained therein, on any of the websites within Our network. </li>
-                  <li>Additionally, should any of Our websites undergo or comtemplate a transfer of ownership, Your profile may be part and parcel of any related transaction</li>
-	</ol>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">Special Cases
-	<p>
-            It is Our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out, or otherwise prohibit such unrelated uses.</p>
-            <p> However, We may disclose personal information about Visitors or Members, or information regarding Your use of the services or websites accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including, but not limited to the following: </p>
+    <li style="list-style: upper-roman; font-weight: bold;">General
+    	<ol>
+    	<li>The operative parties referred to in this policy are DatingAffair, d/b/a the above listed website(s) (hereinafter "Company") and You, the User of this Site.
+    		<ol>
+    		<li>Company is the operator of the above listed website(s).  Hereinafter, when first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to DatingAffair d/b/a the above Site(s), or as any other Site that We may choose to publish in the future.  Additionally, when the terms "the Site(s)" or "Site(s)" are used, these terms refer to any Site published by Us, unless a Site is specifically exempt from this Policy.</li>
+    
+    		<li>You, the User - As the User of this Site, this Policy will refer to the User as "You" or through any second-person pronouns, such as "Yours," etc.  Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.</li>
+    		</ol>
+    	</li>
+    	<li>This Privacy Policy describes how We use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site.</li>
+    	</ol>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">Revisions to This Policy
+    	<ol><li>
+    	We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this Webpage and using the "refresh" button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the "Last Modified" date remains unchanged after You have clicked the "refresh" button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed "Last Modified" date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+    	</li></ol></li>
+    
+    <li style="list-style: upper-roman; font-weight:bold;">Personal Information That We Collect
+    	<p>
+    	Visitors to Our Site and services will have multiple manners of interactivity with Us.  Depending upon Your level of interaction, We will collect different information about You.  The type(s) of information collected is as follows:</p>
+    	<ol>
+    	<li><strong>Members</strong> - Members are those Users who subscribe to our services.  If You choose to become a Member, We will ask You to provide Your name, telephone number, fax number, physical address, date of birth, gender, valid credit card and billing information, a photograph and/or video, and any other information that We, in Our sole discretion, feel is necessary to create a suitable account or Member profile.  Any information gathered from Visitors is also gathered from Members.</li>
+    
+    	<li><strong>Visitors</strong> - Visitors are Users of the Site who do not subscribe to Our services, and never enter data into any active data collection pages. Data collected about Visitors is restricted to that collected by passive information gathering devices.</li>   
+    	</ol>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">How We Collect Information From You
+    	<ol>
+    	<li><strong>Passive Collection</strong> - We use cookies to collect information about You in order to enhance Your experience on the Site.  The information collected in Our cookies includes, but is not limited to, Your User IP address, browser information, and geographic location.</li>
+    
+    	<li><strong>Active Collection</strong> - We collect information from You when You complete the member registration to Our Site.  Please see above provision: III-A.</li>
             
-	<ol style="list-style-type:decimal">
-	<li>To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;</li>
-
-	<li>To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our User Agreement or other User policies;</li>
-
-	<li>To operate our services properly; </li>
-
-	<li>To protect Ourselves, Our Members, and the general public.  We will always cooperate with law enforcement authorities.  We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.  </li>
-
-	<li>We will cooperate with private-party litigants, and others seeking information about Our end users to the extent required by applicable law.  </li> 
-
-	<li>Investigative reporters or journalists will never be cooperated with regarding Your personal information.  </li>
-
-	<li>If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder.  We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility.  However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information. </li>
-
-	<li>Anyone who violates Our Anti-Spam Policy, may be subject to having their personal information made public.  If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our websites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.  </li>
-	</ol>
-</li>
-
-<li style="list-style: upper-roman; font-weight:bold;">Privacy Policies of Third Parties
-    <p> This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or serviceâ€™s privacy policy. We are not responsible for the policies or practices of third parties.</p>
-</li>
-
-<li style="list-style: upper-roman; font-weight:bold;">Minors and Privacy Issues
-    <p>Use of the Sites and access to the websites are restricted to persons over the age of 18. No part of the Sites is designed to attract anyone under the age of 18. We do not knowingly collect or maintain information from anyone known by us to be under the age of 13. </p>
-    <p>If you are a parent or guardian and believe that your child under the age of 18 has provided personal information to us and/or is accessing the Services, please contact us to request this information and the account will be deleted.</p>
-</li>
-
-<li style="list-style: upper-roman; font-weight:bold;">Transmittals From Us
-	<p>We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs.  You may opt out of these announcements by contacting <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>, or by clicking the opt-out link at the bottom of these communications. </p> 
-        <p>If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email.  For example, We may send You communications confirming account activity, like password resets or tech support inquiries.  Any such email notification will be issued to You from <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.</p>
-        <p>If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.</p>
-</li>
-
-<li style="list-style: upper-roman; font-weight:bold;">Public Forums, Member Directories, &amp; Internal Messaging
-	<ol>
-	<p><strong>Member Directories</strong> - Any information provided in a User profile, member directory, or other related service or Site features should be considered to be public information.  We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.</p><p>
-
-	</p><p><strong>Internal Messaging</strong> - We provide an internal messaging system for use between Members of our Site.  Any information that You send via this internal messaging system is <u>not</u> secure, and is <u>not</u> considered to be private information.  You should use caution when sending any personal information over the internal messaging system, and You should not transmit any information that You would not wish to see disclosed to the general public.</p>
-	</ol>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">Our Commitment to Data Security
-<p>
-We take measures, including data encryption, to protect the transmission of all sensitive end-user information.  We make every effort to ensure the integrity and security of Our network and systems.  Nevertheless, We cannot guarantee that Our security measures will prevent third-parties from illegally obtaining this information.  We take reasonable measures to prevent such breaches of security, but We are unable to guarantee that Our security is 100% breach-proof.  You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.  
-</p>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">How to Access or Modify Your Information
-<p>
-We offer Our Members the opportunity to access or modify information provided during registration.  To access or modify such information, contact Our Customer Service Department at <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.
-</p>
-</li>
-<li style="list-style: upper-roman; font-weight:bold;">Where to Direct Questions About Our Privacy Policy
-<p>
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.
-</p>
-</li>
-
+                      <li><strong>Registration Information</strong> - During the initial registration process, We may request that you provide certain basic information about yourself in order to complete the registration process.  Please be advised that the information submitted during the registration process may be shared with third parties.</li>
+    	</ol>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">How We Use Your Information
+    	<ol>
+    	<li>The primary use for Your information is to provide You with services You have requested and/or paid for.  We also use Your information to deliver customized services to You.  Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers.  Further, We reserve the right to use the information collected from former Members to market Our Site and/or services to these individuals at any time.</li>
+    
+    	<li>We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription of Our services. We also use Your information for market research purposes - in order to increase Your (and other Users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing or statistical purposes. </li>
+    
+    	<li>We also use Your information for the obvious purpose of providing Your User profile to all of Our other Members and Visitors. When You create a profile, You should consider all of the information on the profile to be public information and therefore, accessible by anyone, unless otherwise stated (such as Confidential Information). Confidential information in Your profile cannot be viewed by others or the public. Confidential information includes Your name, physical address, and billing information. Nevertheless, Your profile information, pictures, and videos as well as Your city, state, and country will be public information. </li>
+                      <li>Although Your personally identifying information will not be made public, You should understand that there is a possibility that You may be identified through the information provided on Your profile. For example, You may be visually recognized by someone who sees Your picture, or Your description may be adequately detailed to the extent that someone may be able to identify You. Accordingly, You understand that using this Site places You in control of all information displayed on Your profile, and You take full responsibility for any consequences for whatever information You choose to publish. We also reserve the right to post Your profile and any of the public information or images contained therein, on any of the websites within Our network. </li>
+                      <li>Additionally, should any of Our websites undergo or comtemplate a transfer of ownership, Your profile may be part and parcel of any related transaction</li>
+    	</ol>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">Special Cases
+    	<p>
+                It is Our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out, or otherwise prohibit such unrelated uses.</p>
+                <p> However, We may disclose personal information about Visitors or Members, or information regarding Your use of the services or websites accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including, but not limited to the following: </p>
+                
+    	<ol style="list-style-type:decimal">
+    	<li>To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information;</li>
+    
+    	<li>To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our User Agreement or other User policies;</li>
+    
+    	<li>To operate our services properly; </li>
+    
+    	<li>To protect Ourselves, Our Members, and the general public.  We will always cooperate with law enforcement authorities.  We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.  </li>
+    
+    	<li>We will cooperate with private-party litigants, and others seeking information about Our end users to the extent required by applicable law.  </li> 
+    
+    	<li>Investigative reporters or journalists will never be cooperated with regarding Your personal information.  </li>
+    
+    	<li>If We have reason to believe that the User is not the owner of a credit card, even if the credit card use is authorized, We will provide information about You to the credit card holder.  We will absolutely provide Your information to the credit card holder if We believe that fraud is a possibility.  However, We do not require that there be fraud, as it is Our policy that the credit card holder always has an absolute right to access any and all of Your personal information. </li>
+    
+    	<li>Anyone who violates Our Anti-Spam Policy, may be subject to having their personal information made public.  If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our websites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.  </li>
+    	</ol>
+    </li>
+    
+    <li style="list-style: upper-roman; font-weight:bold;">Privacy Policies of Third Parties
+        <p> This Privacy Policy only addresses the Sites offered by Us. Other websites or services, such as those websites we provide links to, websites or services you may have clicked-on that directed you to the Services or websites that may be accessible to you through the Sites, have their own privacy policies regarding data collection, use and disclosure practices. If You visit any such website, We encourage You to review that website or service’s privacy policy. We are not responsible for the policies or practices of third parties.</p>
+    </li>
+    
+    <li style="list-style: upper-roman; font-weight:bold;">Minors and Privacy Issues
+        <p>Use of the Sites and access to the websites are restricted to persons over the age of 18. No part of the Sites is designed to attract anyone under the age of 18. We do not knowingly collect or maintain information from anyone known by us to be under the age of 13. </p>
+        <p>If you are a parent or guardian and believe that your child under the age of 18 has provided personal information to us and/or is accessing the Services, please contact us to request this information and the account will be deleted.</p>
+    </li>
+    
+    <li style="list-style: upper-roman; font-weight:bold;">Transmittals From Us
+    	<p>We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs.  You may opt out of these announcements by contacting <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>, or by clicking the opt-out link at the bottom of these communications. </p> 
+            <p>If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email.  For example, We may send You communications confirming account activity, like password resets or tech support inquiries.  Any such email notification will be issued to You from <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.</p>
+            <p>If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.</p>
+    </li>
+    
+    <li style="list-style: upper-roman; font-weight:bold;">Public Forums, Member Directories, &amp; Internal Messaging
+    	<ol>
+    	<p><strong>Member Directories</strong> - Any information provided in a User profile, member directory, or other related service or Site features should be considered to be public information.  We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium.</p><p>
+    
+    	</p><p><strong>Internal Messaging</strong> - We provide an internal messaging system for use between Members of our Site.  Any information that You send via this internal messaging system is <u>not</u> secure, and is <u>not</u> considered to be private information.  You should use caution when sending any personal information over the internal messaging system, and You should not transmit any information that You would not wish to see disclosed to the general public.</p>
+    	</ol>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">Our Commitment to Data Security
+    <p>
+    We take measures, including data encryption, to protect the transmission of all sensitive end-user information.  We make every effort to ensure the integrity and security of Our network and systems.  Nevertheless, We cannot guarantee that Our security measures will prevent third-parties from illegally obtaining this information.  We take reasonable measures to prevent such breaches of security, but We are unable to guarantee that Our security is 100% breach-proof.  You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures.  
+    </p>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">How to Access or Modify Your Information
+    <p>
+    We offer Our Members the opportunity to access or modify information provided during registration.  To access or modify such information, contact Our Customer Service Department at <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.
+    </p>
+    </li>
+    <li style="list-style: upper-roman; font-weight:bold;">Where to Direct Questions About Our Privacy Policy
+    <p>
+    If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at <a href="mailto:support@datingaffair.com">support@datingaffair.com</a>.
+    </p>
+    </li>
+    
 <li style="list-style: upper-roman; font-weight:bold;">E-Mail Removal
 <p>If you wish to opt-out of receiving all e-mail correspondence from us, you can enter your e-mail address below.</p>
 <form method="POST" action="/opt_out.php">
-        <table align="center" style="margin-top: 10px">
-                <tbody><tr valign="center">
-                        <td><div class="legal">Remove E-Mail Address:</div></td>
-                        <td><input type="text" name="email"></td>
-                        <td><input type="submit" value="Remove" style="font-size: 11px;"></td>
-                </tr>
-        </tbody></table>
+    <table align="center" style="margin-top: 10px">
+        <tbody><tr valign="center">
+            <td><div class="legal">Remove E-Mail Address:</div></td>
+            <td><input type="text" name="email"></td>
+            <td><input type="submit" value="Remove" style="font-size: 11px;"></td>
+        </tr>
+    </tbody></table>
 </form>
 </li>
-</ol>
-</div>
-
-
- 
+    </ol>
+    </div>
+    
+    
+     
 
 </div>
                     </td>
@@ -1003,7 +1006,7 @@ If You have any questions about this Privacy Policy or the practices described h
     <tbody><tr>
         <td align="left" valign="middle">
             <div style="font-size: 12px;">
-                <span class="footer_sitename">DatingAffair</span> <span class="footer_copyright">© 2013 All Rights Reserved.</span>
+                <span class="footer_sitename">DatingAffair</span> <span class="footer_copyright">© 2014 All Rights Reserved.</span>
             </div>
 			            <div style="font-size: 10px;">
                 <a class="footer_2257" href="/pop.php?page=2257" onclick="notice(); return false;">18 U.S.C. 2257 Record-Keeping Requirements<br>Compliance Statement</a>
@@ -1012,7 +1015,7 @@ If You have any questions about this Privacy Policy or the practices described h
         </td>
         <td class="foot_menu2" align="right" valign="middle">
                         <a href="/support/">Contact Us</a>
-            <a class="no_popunder" href="http://datinggold.com" target="_blank">Webmasters Make $$</a>			<a class="no_popunder" href="/sitemap/">Site Map</a> 
+            			<a class="no_popunder" href="/sitemap/">Site Map</a> 
             <a href="/pop.php?page=privacy" target="_blank" onclick="privacypopup(); return false;">Privacy</a>
             <a href="/pop.php?page=antispam" target="_blank" onclick="antispam(); return false;">Anti-Spam</a>
             <a href="/pop.php?page=terms" target="_blank" onclick="termspopup(); return false;">Terms</a>
@@ -1034,14 +1037,13 @@ If You have any questions about this Privacy Policy or the practices described h
 
                                 </div>
 
+     
     
     <style type="text/css">
-        #coreModal_grey_frame { display: none; position: absolute; width: 628px; height: 200px; z-index: 1001; border: 6px solid #E9E9E9; background: #E9E9E9; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
-        #coreModal_grey_frame div.coreModal_grey_close    { position: absolute; right: 5px; top: 5px; width: 32px; height: 32px; font-size: 0px; cursor: pointer; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/button_reminder_close.png'); z-index: 2; }
+        #coreModal_grey_frame { display: none; position: fixed; width: 628px; height: 200px; z-index: 1001; border: 6px solid #E9E9E9; background: #E9E9E9; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+        #coreModal_grey_frame div.coreModal_grey_close    { position: absolute; right: 20px; top: 15px; width: 12px; height: 13px; font-size: 0px; cursor: pointer; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/reminders/close.png'); z-index: 2; }
         #coreModal_grey_frame div.coreModal_grey_header   { position: relative; height: 44px; padding-left: 15px; font-family: myriadpro-semibold-webfont, Arial, Helvetica, sans-serif; font-size: 16pt; line-height: 44px; color: #000; text-shadow: 0px 1px 0px #FFFFFF; border-bottom: 1px solid #DCDCDC; -moz-border-top-left-radius: 6px; border-top-left-radius: 6px; -moz-border-top-right-radius: 6px; border-top-right-radius: 6px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/reminders/header_bg.png') repeat-x; z-index: 1; }
         #coreModal_grey_frame div.coreModal_grey_interior { position: relative; margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; height: 100%; -webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/modal_gradient.jpg') repeat-x; background-size: contain; z-index: 0; }
-        #coreModal_grey_frame div.coreModal_grey_interior a       { color: #FF0000; text-decoration: underline }
-        #coreModal_grey_frame div.coreModal_grey_interior a:hover { color: #111; }
     </style>
 
 
@@ -1077,8 +1079,16 @@ If You have any questions about this Privacy Policy or the practices described h
         init : function(options) {
         
             // Create the defaults
-            var defaults = $.extend({}, {title: '', width: '628px', height: '200px', outerClickClose: true, closeBtn: true }, options);
-            
+            var defaults = $.extend({}, 
+                {   
+                    title: '', 
+                    width: '628px', 
+                    height: '200px', 
+                    outerClickClose: true, 
+                    closeBtn: true,
+                    supportsFixed: supportsFixed()
+                }, options);
+
             // Place initialization logic here
             if( defaults.title ) {
                 objHeader.html(defaults.title);
@@ -1091,10 +1101,11 @@ If You have any questions about this Privacy Policy or the practices described h
             //-----------------------------------------------------------------------------
             objFrame.css({
                 width:  defaults.width,
-                height: defaults.height
+                height: defaults.height,
+                position: (defaults.supportsFixed ? 'fixed' : 'absolute')
             });
             objInterior.html(this.html());
-            objFrame.screenPosition('cm');
+            objFrame.screenPosition('cm', defaults.supportsFixed);
             
             objClose.on('click', hideModal);
             
@@ -1109,7 +1120,7 @@ If You have any questions about this Privacy Policy or the practices described h
         //=============================================================================
         show : function(callback) {
             $('iframe').addClass('hide_ads');
-            $('#coreModal_grey_frame').screenPosition('cm');
+            //$('#coreModal_grey_frame').screenPosition('cm');  // The position is handled when it is initialized, this shouldn't be here - kth
             $('#modal_fade').show();
             $('#coreModal_grey_frame').fadeIn( 400, callback );
 
@@ -1141,9 +1152,9 @@ If You have any questions about this Privacy Policy or the practices described h
 </script>
 
     <div id="modal_fade" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background-color: black; opacity: 0.8; filter:alpha(opacity=80); z-index: 1000;"></div>
-    <div id="wait_throbber" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/wizard/icon_wait.gif') no-repeat center center white; opacity: 0.8; filter:alpha(opacity=80); z-index: 1000;"></div>
+    <div id="wait_throbber" style="position: fixed; display: none; width: 100%; height: 100%; top: 0px; left: 0px; background: url('http://cdn2.whitelabelpros.com/whitelabel/images/whitelabel/31082/icon_wait.gif') no-repeat center center white; opacity: 0.8; filter:alpha(opacity=80); z-index: 1000;"></div>
 
-        
+    
     
     
 
