@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedownloadone.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207004418id_/http%3A//freedownloadone.com/blog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadone.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626193227id_/http%3A//freedownloadone.com/blog-privacy-policy) for the most accurate reproduction.*
 
-# Blog Privacy Policy | Free Download One
+# Blog Privacy Policy « Free Download
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
