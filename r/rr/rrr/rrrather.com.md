@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrrather.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621015627id_/http%3A//www.rrrather.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrrather.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031707id_/http%3A//www.rrrather.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ Any of the information we collect from you may be used in one of the following w
   * To send periodic emails  
 (we may send you notifications of activity on your questions, comments, or messages) 
   * To display statistics  
-(suck as votes by gender, by country)
+(such as votes by gender, by country)
   * To display your comments or questions  
 (Information you post on the site, except private messages, may be visiable to others) 
 
@@ -70,7 +70,5 @@ This policy was last modified on 11/13/2012
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information found on the contact page (see link in footer).
-
-* * *
 
 * * *
