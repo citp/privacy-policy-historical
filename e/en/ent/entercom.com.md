@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the entercom.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214192336id_/http%3A//www.entercom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entercom.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081342id_/http%3A//www.entercom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Entercom.com
 
 **A Privacy Policy Statement from**  
  **Entercom Communications Corp. (“Entercom”)**
 
-The following discloses our information gathering and dissemination practices for Entercom’s web properties.  For a complete list of all Entercom radio stations and associated web sites, please visit _www.entercom.com_.
+The following discloses our information gathering and dissemination practices for Entercom’s web properties (including without limitation our websites and mobile/tablet applications).  For a list of all Entercom radio stations and the primary associated web sites, please visit _[www.entercom.com](http://www.entercom.com/)_.
 
 **The Information We Collect**
 
@@ -15,7 +15,7 @@ At certain parts of some of Entercom web sites, only persons who provide us with
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox or Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS), the domain name of your Internet service provider (e.g., America Online or Comcast) and the search engine from which you were directed (e.g., Google or Yahoo).
 
-**** **How We Use the Information**
+**How We Use the Information**
 
 If you provide us with your e-mail address, or have done so in the past, we may send you e-mail offers, surveys, newsletters or other types of contacts.  These are based on information you provided in your membership application, registration forms, in surveys, from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data.  If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the “unsubscribe” instructions provided on any marketing e-mail you receive from this site.
 
@@ -49,7 +49,7 @@ We use cookies to understand site usage and to improve the content and offerings
 
 “Web beacons” or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page.  For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.  We may use web beacons on this site from time to time for this and other purposes.
 
-**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
+**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
 
 Some of Entercom’s web sites contain links to other sites whose information practices may be different than ours.  Visitors should consult the other sites’ privacy policies as Entercom has no control over information that is submitted to, or collected by, these third parties.
 
@@ -59,13 +59,13 @@ Some Entercom sites covered by this Privacy Policy may use a third party to pres
 
 **The following only applies to California residents:**
 
-Entercom may from time to time share your personal information with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes. If you do not want us to share your personal information with such third parties for their direct marketing purposes, please let us know by contacting us by email at [privacy@entercom.com](mailto:privacy@entercom.com) _[For spam filtering purposes, only email with the subject line “ **Entercom Privacy Request** ” will be read]_ or by mail at Entercom Communications Corp.  Attn: Internet Privacy Manager., 401 City Avenue, Suite 809, Bala Cynwyd, PA 19004.  We will process your opt-out request within 30 days of our receipt.
+Entercom may from time to time share your personal information with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties for their direct marketing purposes. If you do not want us to share your personal information with such third parties for their direct marketing purposes, please let us know by contacting us by email at [privacy@entercom.com](mailto:privacy@entercom.com) [ _For spam filtering purposes, only email with the subject line “ **Entercom Privacy Request** ” will be read_] or by mail at Entercom Communications Corp.  Attn: Internet Privacy Manager., 401 City Avenue, Suite 809, Bala Cynwyd, PA 19004.  We will process your opt-out request within 30 days of our receipt.
 
-**Note for Parents**
+**** **Note for Parents**
 
 Entercom does not knowingly solicit data from children, and we will not knowingly market to children.  Entercom adheres to the Children’s Online Privacy Protection Act (“COPPA”).  Entercom’s websites are general audience websites which are not directed to children generally, including children under the age of 13.  It is our policy to discard any information which is obtained from any child who is under the age of 13.
 
-**How to Contact Us**
+**How to Contact Us**
 
 For instructions on how you can access the personally identifiable information that this Entercom site has collected about you online, how to correct factual errors in such information, or if you have any questions or concerns about this Privacy Policy or its implementation you may contact us at:
 
@@ -74,8 +74,8 @@ Entercom Communications Corp.
 Bala Cynwyd PA 19004  
 Attn: Internet Privacy Manager
 
-Or via email at  [privacy@entercom.com](mailto:privacy@entercom.com) _[For spam filtering purposes, only email with the subject line “ **Entercom Privacy Request** ” will be read]_
+Or via email at  [privacy@entercom.com](mailto:privacy@entercom.com) [ _For spam filtering purposes, only email with the subject line “ **Entercom Privacy Request** ” will be read_]
 
-**Updates & Effective Date**
+**** **Updates & Effective Date**
 
 From time to time, we may update this Privacy Policy.  We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
