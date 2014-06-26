@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the everlane.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430134617id_/https%3A//www.everlane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everlane.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114144id_/https%3A//www.everlane.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Everlane
-
-  *   *   * 
-
 
 ### Disclaimer
 
@@ -27,15 +24,19 @@ Using Facebook as well as other Site connection methods, we may utilize your per
 
 #### Cookies
 
-As you navigate our site, your preferences are remembered through the temporary use of “session” cookies. Cookies enable our systems to gather information about your browser as well as monitor the navigational patterns you take while browsing the site. Site users have the option to accept or disable cookies at any time through their browsers. If you choose to disable your cookies, your user experience may be limited.
+As you navigate our site, your preferences are remembered through the temporary use of “session” cookies. Cookies enable our systems to gather information about your browser as well as monitor the navigational patterns you take while browsing the site. We may also use technologies such as our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of these ads, please click here. Site users have the option to accept or disable cookies at any time through their browsers. If you choose to disable your cookies, your user experience may be limited.
 
 #### Site Statistics
 
 Web data is collected to monitor user trends on our Site. Analytical data such as hits to our server, traffic patterns and page views shows us where our audience is coming from and how they interact with us online. This type of collected information does not personally identify specific Site users. In addition, like most websites, our Site may utilize “web beacons,” “pixel tags” or other tracking technologies to help us study the actions of our users through non-personally identifiable information. This data may be aggregated with similar data collected from other users to help us improve Everlane products, services and our overall Site experience. 
 
+We also contract with a third-party advertising partner to serve ads on our behalf across the internet and sometimes on this site. They will collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partner, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
+
 ### Information Sharing with Outside Parties
 
-Everlane will never share, rent or sell your e-mail address for any reason. We do not share your personal information with third-party companies, though we may provide aggregate Site statistics and related information to reputable third party vendors. This data will never include personal information. We do not share credit card information with third parties except for the purpose of processing your order payment and as required by law. If for any reason you choose to access a third party website linked to our Site, you do so at your own risk. We are not held responsible for how these outside parties collect, use, protect or disclose the information you provide them.
+Everlane may also share your personally identifiable and/or your non-personally identifiable information, including your name, address, email address, and any transactions you conduct on our Site or offline with us with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit certain other websites.  Our advertising partner makes the data we provide anonymous.
+
+Everlane will never rent or sell your e-mail address. We do not share credit card information with third parties except for the purpose of processing your order payment and as required by law. If for any reason you choose to access a third party website linked to our Site, you do so at your own risk. We are not held responsible for how these outside parties collect, use, protect or disclose the information you provide them.
 
 ### Age Requirement
 
