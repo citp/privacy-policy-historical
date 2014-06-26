@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metrodeal.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530031741id_/http%3A//www.metrodeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrodeal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184830id_/http%3A//www.metrodeal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# MetroDeal Privacy Policy
 
 This Privacy Policy discloses the privacy practices for the [MetroDeal](http://www.philstar.com/business-usual/2013/01/28/901736/group-buying-rides-internet-boom-millions-anticipate-and-purchase) website (collectively, the “Website” located at www.metrodeal.com). MetroDeal Holdings Ltd., the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
