@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224161707id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140535id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26thickbox%3Dfalse) for the most accurate reproduction.*
 
 # Customer Knowledge Base
 
-#### Hostelbookers Privacy Policy
+#### HostelBookers Privacy Policy
 
 HostelBookers understands and respects the importance of your privacy and we are committed to safeguarding your personal information. In providing our booking service and access to any Hostelbookers account you may open, we must collect personal information from you and make subsequent use of it as detailed below.  
 
