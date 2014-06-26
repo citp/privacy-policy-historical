@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915035234id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022433id_/http%3A//www.naturehills.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ When requested, we will remove a person from our email list or mailing list.
   
   Loading... 
 
-09/14/2013 22:52:35 -10.0.33.12-Web2
+06/25/2014 21:24:34 -207.198.123.130-Unknown
