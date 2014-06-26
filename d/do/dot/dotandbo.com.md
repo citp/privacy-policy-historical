@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926132322id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotandbo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143450id_/http%3A//www.dotandbo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Dot & Bo
+# Dot & Bo – Furniture and Décor for the Modern Lifestyle
 
 Dot & Bo Inc. (“Dot & Bo,” “D&B, “we,” “us,” or “our”) know that our visitors care about how your personal information is used and shared. We take your privacy very seriously and are committed to protecting the privacy of our visitors. Our privacy policy explains how information is collected, used and disclosed by Dot & Bo with respect to your access and use of Dot & Bo’s services, whether through our website (“Site” located at [www.dotandbo.com](http://www.dotandbo.com/)), our applications for mobile devices, or any other services we offer from time to time including other linked pages (collectively, the “Network”), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection, use, and sharing of your information as described in this Privacy Policy. 
 
@@ -98,3 +98,5 @@ If you have any queries in relation to this policy or its administration or if y
 This Policy is part of the [Terms of Use](https://web.archive.org/terms.html) of Dot & Bo’s services and any use of the Network is governed by those Terms of Use. 
 
 **Effective Date:** January 18, 2013 
+
+## BEST SELLERS
