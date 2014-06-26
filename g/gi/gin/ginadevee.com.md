@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ginadevee.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225202017id_/http%3A//ginadevee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginadevee.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142703id_/http%3A//ginadevee.com/privacy) for the most accurate reproduction.*
 
 # Gina DeVee ~ Divine Living ~ Femininity, Life Style & Business Tips for Women Entrepreneurs » Privacy
 
@@ -74,5 +74,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://ginadevee.com/  
+http://www.ginadevee.com/  
 admin@estherexperience.com
