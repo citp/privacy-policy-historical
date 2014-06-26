@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222092038id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090109id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # Sumdog Teacher Portal - Privacy Policy and Cookies
 
-_Effective from December 12, 2013_
+_Effective from April 30, 2014_
 
-Sumdog is published by Crocodile Clips.
+At Sumdog, we take your privacy and online safety very seriously. This Privacy Policy describes what personal information we collect from you when you use Sumdog, and what we do with that information. If you have any questions or concerns, please contact us at [privacy@sumdog.com](mailto:privacy@sumdog.com).
 
-At Crocodile Clips, we take your privacy and online safety very seriously. This Privacy Policy describes what personal information we collect from you when you use Sumdog, and what we do with that information. If you have any questions or concerns, please contact us at [privacy@sumdog.com](mailto:privacy@sumdog.com).
-
-This Privacy Policy forms part of [Sumdog's Terms of Use](https://web.archive.org/en/Terms_of_Use/). When use Sumdog, you signify that you accept this Privacy Policy, as well as Sumdog's [Terms of Use](https://web.archive.org/en/Terms_of_Use/).
+This Privacy Policy forms part of [Sumdog's Terms of Use](https://web.archive.org/en/Terms_of_Use/). When you use Sumdog, you signify that you accept this Privacy Policy, as well as Sumdog's [Terms of Use](https://web.archive.org/en/Terms_of_Use/).
 
 ### Overview
 
@@ -85,15 +83,16 @@ Teacher Users may then enter information about their students:
   * first and last name
   * grade level or school year
   * class
-  * date of birth
 
 
 
-Teacher Users may also invite other teachers, by entering their names and email addresses
+In the future, we may ask teachers to enter the date of birth of students. If we do this, it will always be optional.
+
+Teacher Users may also invite other teachers, by entering their names and email addresses. 
 
 **All Users**
 
-All users can choose the gender and visual appearance of their on-screen avatar. They can also specify profile details, such as their favourite Sumdog game.
+All users can choose the gender and visual appearance of their on-screen avatar. They can also specify profile details, such as their favorite Sumdog game.
 
 In order to provide the best possible service, we reserve the right to extend the types of information we ask users to give us. You can choose not to give us your information. However, this will prevent you from using most parts of Sumdog.
 
@@ -183,7 +182,7 @@ Generally, we will keep your information confidential, except:
 
   * where we believe in good faith that disclosure is required by law;
   * to protect the rights or safety of Sumdog's users;
-  * to protect the property or rights of Crocodile Clips or its employees;
+  * to protect the property or rights of Sumdog or its employees;
   * there has been a clear breach of our licensing terms. In this case we may share information with our partners, lawyers and/or law enforcement agencies in the relevant country;
   * if you are a Student User, and your login is linked to a Sumdog School; in this case, any Teacher Users who are members of that Sumdog School will be able to access your information;
   * if you are a Student User, and your login is linked to a Sumdog Family; in this case, any Parent Users who are members of that family will be able to access your information;
@@ -200,7 +199,7 @@ We may link information about how you use Sumdog to the Personal Information tha
 We may share statistics derived from aggregated information with our partners worldwide. These statistics do not enable our partners to identify you.
 
 **Change in control**  
-If there is a change in ownership of Crocodile Clips Ltd, or a transfer of some of its assets, or in the unlikely event of it ceasing to continue trading, entering bankruptcy, or similar, your information may be transferred to a third party.
+If there is a change in ownership of Sumdog Ltd, or a transfer of some of its assets, or in the unlikely event of it ceasing to continue trading, entering bankruptcy, or similar, your information may be transferred to a third party.
 
 ### Content you enter on our website
 
@@ -240,6 +239,6 @@ We may change this Privacy Policy from time to time. How we use the information 
 
 ### **How to contact us**
 
-If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please write to the Data Protection Manager, Crocodile Clips Limited, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, Scotland, or telephone 0131 226 1511 (+44 131 226 1511 from outside the UK), or e-mail privacy@sumdog.com.
+If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please e-mail privacy@sumdog.com. Alternative, please write to Sumodg Inc, 902 Broadway, New York, NY NY 10010, or call 877-9786364. Outside of North America, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
 
 Under the Data Protection Act in the UK, Parent Users have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. (We may charge for information requests and will require you to prove your identity with 2 pieces of approved photographic identification). We will use reasonable efforts to supply, correct or delete personal information about you on our files. Please send requests by post to the Data Protection Manager at the address above.
