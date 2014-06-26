@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mocavo.com privacy policy that was archived on 2013-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125001114id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mocavo.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626120255id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,8 +27,8 @@
 		
 		
 		
-		<link type="text/css" rel="stylesheet" href="http://cdn2.mocavo-cdn.com/assets/p_acd93bb2_00dce79b366e686e02728c90d99133c4.css" media="screen">
-		<link type="text/css" rel="stylesheet" href="http://cdn2.mocavo-cdn.com/assets/p_acd93bb2_75d2cfaed2b97481a6ca9dd1404fed7b.css" media="screen">
+		<link type="text/css" rel="stylesheet" href="http://cdn2.mocavo-cdn.com/css/custom-bootstrap.css?a21c483b=a21c483b" media="screen">
+		<link type="text/css" rel="stylesheet" href="http://cdn2.mocavo-cdn.com/css/common.css?a21c483b=a21c483b" media="screen">
 				
 		
 		
@@ -39,17 +39,19 @@
 		<link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
 
 		
-		<script type="text/javascript">
+		<script type="text/javascript" async="" src="//app.getrooster.com/assets/gt-loader.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 			Server = {"facebook_app_id":"233109343369887","facebook_api_key":"c966152bb831a8e0611d448c6bc67a48","trial_period":7,"site_url":"http:\/\/www.mocavo.com","site_url_non_ssl":"http:\/\/www.mocavo.com","assets_url":"http:\/\/cdn2.mocavo-cdn.com"};
 		</script>
 
 		
 							
-				<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/assets/p_acd93bb2_0bb2c63d9e5be3efab4442c18916196e.js" charset="UTF-8"></script>
+				<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/modernizr.custom.96254.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://use.typekit.com/apx2xqm.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/typekit_loader.js?a21c483b=a21c483b" charset="UTF-8"></script>
 
 		
 		
-	</head>
+	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 	
 	<!--[if lt IE 7]><body class="bootstrap ie lt-ie10 lt-ie9 lt-ie8 lt-ie7 cms isBasic"><![endif]-->
@@ -73,7 +75,7 @@
 					<li class="try-plus hidden-phone">
 				<a href="/gold" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Primary Navigation', 'Try Mocavo Gold']);">Try Mocavo Gold</a>
 			</li>
-				
+		
 		<li class="alerts hidden-phone">
 												</li>
 
@@ -100,14 +102,14 @@
 
 		<div class="container">
 
-			<a href="/" class="navbar-brand"><img class="logo" src="http://cdn2.mocavo-cdn.com/images/logo-none.jpg" alt="Mocavo: Discover Your Story."></a>
+							<a href="/" class="navbar-brand"><img class="logo generic-logo" src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Mocavo: Discover Your Story."></a>
 			
 			<a class="btn btn-navbar btn-primary" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</a>
-			
+
 			<!-- LOGGED IN : ACCOUNT PROFILE BUTTON -->
 			<div class="collapse nav-collapse">
 									<ul class="nav navbar-nav primary-nav pull-right" role="navigation">
@@ -120,7 +122,8 @@
 						<li class="dropdown">
 							<a href="/treeviewer" id="drop-trees" role="button" class="dropdown-toggle" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Primary Navigation', 'Family Trees']);">Family Trees <b class="caret hidden-phone"></b></a>
 							<ul class="dropdown-menu hidden-phone" role="menu" aria-labelledby="drop-trees">
-																																									<li><span class="no-link">My Trees</span></li>
+																<li class="" role="presentation"><a role="menuitem" tabindex="-1" href="/family-tree" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Primary Navigation', 'Public Trees']);">Public Trees</a></li>
+																																	<li><span class="no-link">My Trees</span></li>
 									<li><span class="no-link">Upload My Tree</span></li>
 									<li><span class="no-link">Create a Tree</span></li>
 									<li class="" role="presentation"><a class="orange" role="menuitem" tabindex="-1" href="/signup">Sign up or log in to create your family trees!</a></li>
@@ -159,6 +162,10 @@
 
 	
 	
+
+
+
+
 
 
 
@@ -263,17 +270,231 @@
 
 		<div class="push"></div>	</div>
 
+	
+
+    <div class="modal upload-modal hide" id="upload-type">
+        <div class="modal-header">
+            <button class="close" data-dismiss="modal" type="button">×</button>
+            <h2>Upload Your Story with Mocavo</h2>
+        </div>
+
+        <div class="modal-body">
+            <ul class="unstyled">
+                <li>
+                    <a class="toggle" data-parent="#upload-type" href="#treesource">
+                    <h2 data-icon="T"></h2>
+
+                    <h3>Upload<br>
+                    a Tree</h3></a>
+                </li>
+                <li>
+                    <a class="toggle" data-parent="#upload-type" href="#docsource">
+                    <h2 data-icon="P"></h2>
+
+                    <h3>Upload<br>
+                    a Document</h3></a>
+                </li>
+                <li>
+                    <a class="toggle" data-parent="#upload-type" href="#database">
+                    <h2 data-icon="D"></h2>
+
+                    <h3>Upload<br>
+                    a Database</h3></a>
+                </li>
+            </ul>
+        </div>
+        <div class="modal-footer callout">
+            <p>Know of a website we should add to Mocavo?<br>
+            Contribute to the community by <a class="toggle" data-parent="#upload-type" href="#suggest">Suggesting a Site</a>.</p>
+        </div>
+    </div>
+
+
+<div class="modal upload-modal hide" id="treesource">
+        <div class="modal-header">
+            <button class="close" data-dismiss="modal" type="button">×</button>
+
+            <h2>Upload Your Family Tree</h2>
+        </div>
+
+        <div class="modal-body">
+            <ul class="unstyled">
+                <li>
+                    <a class="toggle" data-parent="#treesource" href="#treefile">
+                    <h2 data-icon="u"></h2>
+
+                    <h3>Upload<br>
+                    from Desktop</h3></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="modal upload-modal hide" id="docsource">
+        <div class="modal-header">
+            <button class="close" data-dismiss="modal" type="button">×</button>
+
+            <h2>Upload a Document</h2>
+        </div>
+
+        <div class="modal-body">
+            <ul class="unstyled">
+                <li>
+                    <a class="toggle" data-parent="#docsource" href="#docfile">
+                    <h2 data-icon="u"></h2>
+
+                    <h3>Upload<br>
+                    from Desktop</h3></a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="modal-footer">
+            <p>If you have quite a few documents (or some very large ones) that
+            you\'d like to upload to Mocavo, you may prefer to upload them
+            somewhere with very fast internet connections. Your files will
+            upload faster and you\'ll be able to easily continue browsing
+            Mocavo while we work in the background.</p>
+        </div>
+    </div>
+
+    <form action="/ajax/uploader/save/" class="modal_uploader" enctype="multipart/form-data" method="post">
+        <div class="modal upload-modal hide" id="treefile">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button">×</button>
+
+                <h3>Select Family Tree File (Step 1 of 2)</h3>
+            </div>
+
+            <div class="modal-body">
+                <label>Choose File from Your
+                Computer</label><input autocomplete="off" class="select-first" id="tree_upload" maxlength="60" multiple="false" name="file_upload" type="file" value="Select File">
+            </div>
+
+            <div class="modal-footer hidden" id="tree_nextstep_footer">
+                <p><a class="btn btn-primary btn-large pull-right toggle disabled" data-parent="#treefile" href="#treename">Continue to Next
+                Step</a></p>
+            </div>
+        </div>
+
+        <div class="modal upload-modal hide" id="treename">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button">×</button>
+
+                <h3>Upload a Family Tree (Step 2 of 2)</h3>
+            </div>
+
+            <div class="modal-body">
+                <label>Give this Tree a Name</label><input autocomplete="off" id="tree_name" maxlength="60" name="title" type="text">
+            </div>
+
+            <div class="modal-footer doc_upload_footer" id="tree_upload_footer">
+                <label class="checkbox pull-left"><input checked="checked" class="makePublic" type="checkbox"> Make this Tree
+                Public</label>
+
+                <p><a class="disable toggle" data-parent="#treename" href="#treesuccess"><button class="btn btn-primary btn-large" type="submit">Upload Tree to Mocavo</button></a></p>
+            </div>
+        </div>
+    </form>
+
+    <form action="/ajax/uploader/save/" class="modal_uploader" enctype="multipart/form-data" method="post">
+        <div class="modal upload-modal hide" id="docfile">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button">×</button>
+
+                <h3>Upload a Document (Step 1 of 2)</h3>
+            </div>
+
+            <div class="modal-body">
+                <label>Choose File</label><input autocomplete="off" class="select-first" id="doc_upload" maxlength="60" multiple="false" name="file_upload" type="file" value="Select File">
+            </div>
+
+            <div class="modal-footer hidden" id="doc_nextstep_footer">
+                <p><a class="disabled toggle" data-parent="#docfile" href="#docname"><button class="btn btn-primary btn-large" type="submit">Continue to Next Step</button></a></p>
+            </div>
+        </div>
+    </form>
+
+    <form action="/contact/send_suggest_non_ajax/" class="modal_uploader validate" enctype="multipart/form-data" method="post">
+        <div class="modal upload-modal hide" id="suggest">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button">×</button>
+
+                <h3>Suggest a Site</h3>
+            </div>
+
+            <div class="modal-body">
+                <p>We are always on the lookout for new resources to add to our
+                database. If you have a website that you believe would benefit
+                our community, please let us know.</p>
+
+                <div class="control-group">
+                    <label>Website URL <span class="label-error">(please
+                    provide a URL)</span></label><input class="required" id="suggest_url" maxlength="300" name="url" type="text">
+                </div>
+
+                <div class="control-group">
+                    <label>Your Email <span class="label-error">(please provide
+                    a valid email)</span></label><input class="required validate-email" id="suggest_email" maxlength="60" name="email" type="text">
+                </div>
+
+                <div class="control-group">
+                    <label>Brief Description <span class="label-error">(please
+                    provide a brief description)</span></label><input class="span13 required" id="suggest_name" maxlength="140" name="desc" type="text">
+                </div>
+            </div>
+
+            <div class="modal-footer" id="suggest_footer">
+                <p><a class="toggle" data-parent="#suggest" href="#suggestsuccess"><button class="btn btn-primary btn-large" type="submit">Send</button></a></p>
+            </div>
+        </div>
+    </form>
+
+    <form action="/contact/send_db_non_ajax/" class="modal_uploader" enctype="multipart/form-data" method="post">
+        <div class="modal upload-modal hide" id="database">
+            <div class="modal-header">
+                <button class="close" data-dismiss="modal" type="button">×</button>
+
+                <h3>Upload a Database</h3>
+            </div>
+
+            <div class="modal-body">
+                <p>We are always on the lookout for new records to add to our
+                database. If you have a resource that you would like to
+                contribute to our community, please let us know and we will be
+                in touch as soon as possible.</p><label>Your
+                Name</label><input id="database_name" maxlength="60" name="name" type="text"><label>Your E-Mail</label><input id="database_email" maxlength="60" name="email" type="text"><label>Please Describe Your Database</label>
+                <textarea class="input-xlarge" id="database_desc" name="description" rows="3"></textarea><label class="hidden">Please Categorize Your
+Database</label><input class="hidden" id="database_category" name="category">
+            </div>
+
+            <div class="modal-footer">
+                <p><a class="disable toggle" data-parent="#docname" href="#docsuccess"><button class="btn btn-primary btn-large" type="submit">Send</button></a></p>
+            </div>
+        </div>
+    </form>
+
+
+
+
+
+
+
+
+
+
 		<footer class="footer">
 		<div class="container">
 			<div class="row navlinks">
-				<dl class="pull-left span4">
+									<dl class="pull-left span2"></dl>
+								<dl class="pull-left span4">
 					<dt>My Mocavo</dt>
 					<dd><a href="/" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Home']);">Home</a></dd>
 					<dd><a href="/search" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Search']);">Search</a></dd>
-					
+
 					
 				</dl>
-				
+
 				
 				<dl class="pull-left span4">
 					<dt>Community</dt>
@@ -297,45 +518,148 @@
 					<dd><a href="/about" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'About']);">About</a></dd>
 					<dd><a href="/contact" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Contact Us']);">Contact Us</a></dd>
 					<dd><a href="/faq" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Help']);">Help</a></dd>
-					<dd><a href="/gold" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Try Mocavo Gold']);">Try Mocavo Gold</a></dd>
+										<dd><a href="/gold" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Try Mocavo Gold']);">Try Mocavo Gold</a></dd>
 									</dl>
-			</div>
+									<dl class="pull-left span2"></dl>
+							</div>
 			<div class="row copyright">
 				<div class="span24">
-					<p class="center">Mocavo Copyright © 2010-2013 <span class="divider">|</span> <a href="/privacy" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Privacy']);">Privacy Policy</a> &amp; <a href="/terms" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Terms']);">Terms of Service</a></p>
+					<p class="center">
+						<img src="http://cdn2.mocavo-cdn.com/images/by-findmypast.png">
+					</p>
+					<p class="center">Mocavo Copyright © 2010-2014 <span class="divider">|</span> <a href="/privacy" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Privacy']);">Privacy Policy</a> &amp; <a href="/terms" onclick="_gaq.push(['_trackEvent', 'UI Events', 'Footer', 'Terms']);">Terms of Service</a></p>
 				</div>
 			</div>
 		</div>
 	</footer>
-	
-																									
-	
-	
+
+																								
 	
 	
 	
 	
 	
+		<!-- 1 -->
+	<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/jquery-1.8.0.min.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-alert.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-modal.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-dropdown.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-scrollspy.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-tab.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-tooltip.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-popover.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-button.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-collapse.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-transition.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/bootstrap-affix.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/underscore-min.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/backbone-min.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/mocavo.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/jquery.autogrow.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/history.adapter.jquery.js?a21c483b=a21c483b" charset="UTF-8"></script>
+<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/common.js?a21c483b=a21c483b" charset="UTF-8"></script>
+	<!-- 2 -->
+	<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/js/libs/jquery.cookie.js?a21c483b=a21c483b" charset="UTF-8"></script>
+	<!-- 3 -->
+		<!-- 4 -->
+
+		<div style="position: absolute; top: 0px;">
+
+	<!-- Google Analytics -->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-26173562-1']);
+	  _gaq.push(['_setDomainName', 'mocavo.com']);
+	  if (Server.user_tier == "0") {
+			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Basic', 1]);
+		} else if (Server.user_tier == "2") {
+			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Silver', 1]);
+		} else if (Server.user_tier == "3") {
+			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Gold', 1]);
+		} else {
+			_gaq.push(['_setCustomVar', 2, 'Member Level', 'Logged Out', 1]);
+		}
+	  _gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<!-- Quantcast Tag -->
+	<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-75B45xjAtq0gM"
+	});
+	</script>
+
 	
-		
-<div style="position: absolute; top: 0px;">
-		
-		
+	<!-- Adwords retargeting -->
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995576086/?value=0&amp;label=Je68CKr1tAQQlpLd2gM&amp;guid=ON&amp;script=0">
+	</div>
+
+	<!-- Trigget -->
+	<img height="1" width="1" src="//a.triggit.com/px?u=rq&amp;rtv=visitor">
+
+	
+	<!-- AdRoll -->
+
+	<script type="text/javascript">
+		adroll_adv_id = "2CMULTPIUFDG7D56ZHI7VF";
+		adroll_pix_id = "APUWU4SVNJFPHJJDQ76H3J";
+		(function () {
+		var oldonload = window.onload;
+		window.onload = function(){
+		__adroll_loaded=true;
+		var scr = document.createElement("script");
+		var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+		scr.setAttribute('async', 'true');
+		scr.type = "text/javascript";
+		scr.src = host + "/j/roundtrip.js";
+		((document.getElementsByTagName('head') || [null])[0] ||
+		document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+		if(oldonload){oldonload()}};
+		}());
+	</script>
+
+			<script>
+		// Start Rooster Code
+		var _gtq = _gtq || [];
+		_gtq.push(['_setAccount', 'c0b6kexw6hkw4kcohx2atg']);
+		_gtq.push(['visit']);
+
+		_GT_config = {
+		gt_account: 'c0b6kexw6hkw4kcohx2atg',
+		gt_host: '//app.getrooster.com/'
+		};
+
+		_GT = (function(){var s={on:[]};var m='unloaded';function r(t,c){s.on.push({type:t,callback:c});}return{state:m,properties:{}, _s:s,on:r}; })();
+
+		(function() {
+		var gt = document.createElement('script'); gt.type = 'text/javascript'; gt.async = true;
+		gt.src = "//app.getrooster.com/assets/gt-loader.js";
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gt, s);
+		})();
+		// End Rooster Code
+		</script>
 	
 </div>
 
-				<div id="analytics_container" style="display:none; position: absolute; bottom:0; right:0;"></div>
-
-	
-		<!-- web2, production -->
-
-	
-		<!-- 1 -->
-	<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/assets/p_acd93bb2_178b2a76128bd91047b815a008168d95.js" charset="UTF-8"></script>
-	<!-- 2 -->
-	<script type="text/javascript" src="http://cdn2.mocavo-cdn.com/assets/p_acd93bb2_3e3c1b91685a8bd4552d3f6041bbc966.js" charset="UTF-8"></script>
-	<!-- 3 -->
-		<!-- 4 -->
+	<!-- web23 -->
 
   
 
