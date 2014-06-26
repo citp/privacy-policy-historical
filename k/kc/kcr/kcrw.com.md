@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009225318id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075423id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KCRW
+# Privacy Policy — KCRW
 
 At KCRW Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used.
 
