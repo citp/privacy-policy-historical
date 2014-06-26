@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webupd8.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203135827id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webupd8.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085356id_/http%3A//www.webupd8.org/p/privacy.html) for the most accurate reproduction.*
 
 # Web Upd8: Ubuntu / Linux blog: Privacy
 
@@ -12,7 +12,11 @@ WebUpd8.org is not responsible for the content of external internet sites. You a
 
 A "cookie" is a small data text file that is placed in your browser and allows WebUpd8.org to recognize you each time you visit this site. Cookies themselves do not contain any personal information. Our website utilizes 3rd parties who employ browser cookies and other technologies to collect information about users, such as their IP address, the type of browsers used, web pages viewed, and other information. We take measures to ensure that our cookies do not collect personally identifiable or sensitive information. The aggregate information we collect is analyzed and may be combined with similar aggregate information of other visitors to our Website. You may set your browser to reject cookies; however, this may affect some functions of WebUpd8.org.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to WebUpd8. Google's use of the DART cookie enables it and its partners to serve ads to you based on your visit to WebUpd8 and/or other sites on the Internet. If you want to opt out of the use of the DART cookie,  visit the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to WebUpd8. These enables it and its partners to serve ads to you based on your visit to WebUpd8 and/or other sites on the Internet.
+
+  
 
 
+The Google Analytics implemented on WebUpd8 is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
 
+Using the [Ads Settings](https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
