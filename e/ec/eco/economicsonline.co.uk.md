@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021054739id_/http%3A//economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsonline.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184645id_/http%3A//economicsonline.co.uk/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20131021054739id_/http%3A//economicsonline.co.uk/Terms_of_use.html) statement
+We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. **** A short explanation is contained in our [terms of use](https://web.archive.org/web/20140626184645id_/http%3A//economicsonline.co.uk/Terms_of_use.html) statement
 
 **  (1)           What information do we collect?**
 
