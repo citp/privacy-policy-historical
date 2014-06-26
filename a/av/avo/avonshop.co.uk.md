@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124235309id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174819id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
 
 # Template
 
-Avon Privacy Statement  
+_Last Updated: February 18th 2013_
 
-| 
+Cookie Policy \- for full details [click here](http://www.avon.uk.com/PRSuite/cookie-policy.page) for details
 
-Updated: 8th December 2011  
-  
----|---  
-  
+Personal Online Brochure Terms of Use \- for full details [click here](http://www.avon.uk.com/PRSuite/static/pdf/2013/mbrochure-terms-of-use.pdf) for details
+
+Avon Privacy Statement
+
 TABLE OF CONTENTS
 
 INTRODUCTION; SCOPE
@@ -22,7 +22,7 @@ Avon grants independent contractors selling rights to its products (hereinafter 
 
 If you are the customer of an Independent Sales Representative, you should check with your Representative directly to learn about her data privacy practices.
 
-If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the Independent Sales Representative section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.
+If you apply to become or are an Independent Sales Representative, in addition to the generally applicable provisions of this Privacy Statement, please review the ** Independent Sales Representative** section at the bottom of this Privacy Statement to see important information about additional privacy practices that apply to you.
 
 PERSONAL INFORMATION
 
@@ -78,6 +78,8 @@ We and our third-party service providers may collect Non-Personal Information in
 
 COOKIES AND OTHER TECHNOLOGIES
 
+For the full Avon Cookie Policy [click here](http://www.avon.uk.com/PRSuite/cookie-policy.page)
+
 **Cookies:** We and our third-party service providers may use "cookies" on the Site. Cookies allow a web server to transfer data to a computer for recordkeeping and other purposes. We use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Site. We also allow vendors to use cookies on our website. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit the following site, which is not affiliated with Avon: <http://www.allaboutcookies.org/>. 
 
 **Local Storage Objects:** We and our third-party service providers may use Flash Local Storage Objects ("Flash LSOs") in certain situations including to recognize you and remember what is in your shopping cart. Flash LSOs are different from browser cookies because of the amount and type of data stored. In addition, you generally cannot control, delete or disable the acceptance of Flash LSOs from your browser. For more information on Flash LSOs, and to learn how to control them, click on the support Page for the Flash Player and choose [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions. To see the Flash LSOs on your computer now, go to the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
@@ -126,7 +128,7 @@ ACCESS
 
 You have a right to access any Personal Information we hold about you in accordance with the Data Protection Act 1998.
 
-If you would like to review, correct, or delete Personal Information that has been previously provided to us, you may contact us as set out in the Contacting Us section below. In your request, please make clear what information you would like to have changed enclosing any relevant support documentation. If you wish to obtain copies of the information we hold you must submit a fee of �10. We will endeavor to respond as soon as reasonably practicable.
+If you would like to review, correct, or delete Personal Information that has been previously provided to us, you may contact us as set out in the Contacting Us section below. In your request, please make clear what information you would like to have changed enclosing any relevant support documentation. If you wish to obtain copies of the information we hold you must submit a fee of Â£10. We will endeavor to respond as soon as reasonably practicable.
 
 RETENTION
 
@@ -172,6 +174,3 @@ Once you are an Avon Representative (including a sales leader), we may disclose 
 
 
 We may also combine the Non-Personal Information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Representative account number. We may use the combined information for purposes such as to analyze Avon Representatives' use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
-
-  
-
