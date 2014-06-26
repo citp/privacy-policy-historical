@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914141422id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160348id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
 
-# Privacy Policy - Privacy Policy
+# Privacy Policy
 
 RLC Pvt. Ltd. and its subsidiaries and affiliates ("GreenDust") respects your privacy. This Privacy Policy provides succinctly the manner in which your data is collected and used by GreenDust.   
 You are advised to please read the Privacy Policy carefully. By accessing the services provided by GreenDust you agree to the collection and use of your data by GreenDust as per this Privacy Policy. 
