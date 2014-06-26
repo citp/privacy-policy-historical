@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021192734id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626215152id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
@@ -179,3 +179,6 @@ This agreement, your use of the Web Site, and all related matters are governed s
 ### Changes to This Privacy Statement
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+
+  
+
