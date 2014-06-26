@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218195353id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftdfloristsonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072406id_/http%3A//www.ftdfloristsonline.com/ffo/privacy_security_home.html) for the most accurate reproduction.*
 
-# #FLORISTCITY# florist - flowers |
+# #FLORISTCITY# FTD florist |
 
 Your Security and Privacy Are Important to Us  
 FTD Florists Online Network ("FTD Florists Online. .FOL.," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of each of our FTD Florists Online Web sites and any other sites that we control (collectively, our "Sites"). Please read this Privacy Policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. 
