@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811014857id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balancedpayments.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033125id_/https%3A//www.balancedpayments.com/privacy) for the most accurate reproduction.*
 
 # Balanced - Payments processing, escrow, and payouts in one simple API | Privacy policy
-
-## Privacy policy
 
 #### Last Updated: 4/09/2012
 
@@ -14,9 +12,9 @@ We collect information about you in various ways when you use our Sites and Serv
 
 When you visit our Sites or use our Services, some information is automatically collected. For example, when you visit our Sites, your computer's operating system, Internet Protocol ("IP") address, access times, browser type and language and the website you visited before our Sites are logged automatically. We also collect information about your usage and activity on our Sites and Services.
 
-**Cookies.** We automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites, Services and your experience. We use browser cookies to see which areas and features are popular and to count visits to our Sites. We also use flash cookies for fraud prevention purposes. You can usually choose to set your browser to remove and/or reject cookies. For instructions on removing or rejecting flash cookies, please see Adobe Flash Player and Microsoft Silverlight. If you choose to remove or reject cookies, this could affect certain features or services of our Sites or Services. Please note that you may also encounter cookies from third parties when using the Balanced Services on websites that we do not control.
+ **Cookies.** We automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites, Services and your experience. We use browser cookies to see which areas and features are popular and to count visits to our Sites. We also use flash cookies for fraud prevention purposes. You can usually choose to set your browser to remove and/or reject cookies. For instructions on removing or rejecting flash cookies, please see Adobe Flash Player and Microsoft Silverlight. If you choose to remove or reject cookies, this could affect certain features or services of our Sites or Services. Please note that you may also encounter cookies from third parties when using the Balanced Services on websites that we do not control.
 
-**Web Beacons.** We may also collect information using Web beacons. Web beacons are electronic images that may be used on our Sites, in our Services or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+ **Web Beacons.** We may also collect information using Web beacons. Web beacons are electronic images that may be used on our Sites, in our Services or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
 
 ### USE OF PERSONAL INFORMATION WE COLLECT
 
