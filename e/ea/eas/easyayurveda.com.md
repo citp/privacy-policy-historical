@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easyayurveda.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229124519id_/http%3A//easyayurveda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyayurveda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041024id_/http%3A//easyayurveda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ayurvedic home remedies, healthy lifestyle, health tips
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Feasyayurveda.com%2Fprivacy-policy%2F&&description=Privacy+Policy)
 
 At easyayurveda.com, we respect every individual’s right to privacy. Our relationship with you is our most valuable asset and is the very basis of our name and reputation.
 
@@ -33,5 +31,3 @@ To personalize your experience on our website or with one of our promotions, we
 more convenient for you.
 
 Your privacy and security are not compromised when you accept a cookie from our website. We do not use cookies to collect personal information. Cookies can’t read data from your computer’s hard disk or read cookie files from other Web sites. In addition, companies we may hire to evaluate our Web promotions may set cookies to assist with such an evaluation. Again, neither easyayurveda.com  nor companies acting on our behalf use cookies to collect personal information.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Feasyayurveda.com%2Fprivacy-policy%2F&&description=Privacy+Policy)
