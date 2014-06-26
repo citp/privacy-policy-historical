@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arktimes.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224758id_/http%3A//www.arktimes.com/arkansas/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arktimes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124052id_/http%3A//www.arktimes.com/arkansas/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Privacy Policy | Arkansas news, politics, opinion, restaurants, music, movies and art
 
