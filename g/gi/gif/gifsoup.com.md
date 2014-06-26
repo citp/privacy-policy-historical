@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifsoup.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220211950id_/http%3A//gifsoup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifsoup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160818id_/http%3A//gifsoup.com/privacy) for the most accurate reproduction.*
 
 # YouTube to Animated GIF - GIFSoup.com
 
