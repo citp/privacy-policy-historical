@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622044458id_/http%3A//www.loewshotels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loewshotels.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042343id_/http%3A//www.loewshotels.com/en/privacy) for the most accurate reproduction.*
 
 # Loews Privacy Policy: Statement of Privacy for Loews Hotels Website - Loews
 
@@ -23,3 +23,19 @@ Cookies: Loews Hotels, Inc. may use "cookies" to enhance your experience on our 
 Security: We employ appropriate security measures to protect the loss, misuse and alteration of information under our control. For our loewshotels.com site, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no online data transmission can be guaranteed totally secure, we (like all Websites) cannot warrant 100% security of any information you transmit to us on our Websites.
 
 Links to other sites: Neither Loews Hotels, Inc., nor any of its affiliates, shall have any responsibility of nature whatsoever for other Websites linked to this site, or any information contained thereon, none of which has been verified or endorsed by either Loews Hotels, Inc. or any of its affiliates.
+
+**Cookies**
+
+Loews Hotels, Inc. may use "cookies" to enhance your experience on our sites. The cookies used by Loews Hotels, Inc. do not contain any personally identifiable information and cannot profile your system or collect information from your hard drive. You are not identified by name or email address, but rather by a string of numbers that we assign the first time you visit our site.
+
+**Security**
+
+We employ appropriate site security measures to protect the loss, misuse and alteration of information under our control. For our loewshotels.com site, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no online data transmission can be guaranteed totally secure, we (like all Websites) cannot warrant 100% security of any information you transmit to us on our Websites.
+
+**Links to Other Sites**
+
+Neither Loews Hotels, Inc., nor any of its affiliates, shall have any responsibility of nature whatsoever for other Websites linked to this site, or any information contained thereon, none of which has been verified or endorsed by either Loews Hotels, Inc. or any of its affiliates.
+
+**Contact Us**
+
+If you have any questions or concerns about our website security or your dealings with this Website, please [ **Contact Us**](http://www.loewshotels.com/en/contact).
