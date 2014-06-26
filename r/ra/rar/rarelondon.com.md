@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rarelondon.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114132254id_/http%3A//www.rarelondon.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarelondon.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627002220id_/http%3A//www.rarelondon.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ You should be aware that if we are requested by the police or any other regulato
 Questions regarding this Policy should be directed to us at:
 
 RARE Head Office   
-Unit 36  
+Unit 34  
 Wellington Employment Park  
 Dunes Way  
 Liverpool  
