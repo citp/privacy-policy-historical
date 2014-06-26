@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816135134id_/http%3A//www.pwc.com/gx/en/site-information/index.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626212506id_/http%3A//www.pwc.com/gx/en/site-information/index.jhtml) for the most accurate reproduction.*
 
 # PwC's privacy commitment
 
