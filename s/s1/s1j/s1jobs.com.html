@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212082617id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the s1jobs.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626053920id_/http%3A//www.s1jobs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -13,21 +13,24 @@
 <link href="/ui/css/s1jobs-print.min.css" rel="stylesheet" type="text/css" media="print">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/s1js/libs/jquery/jquery-1.2.6.js"></script>
-<script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.core.js"></script><script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.dialog.js"></script><script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.tabs.js"></script>
+<script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.core.js"></script><script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.dialog.js"></script><script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.tabs.js"></script><script type="text/javascript" src="/s1js/libs/jquery/ui-1.5/ui.slider.js"></script>
 <script type="text/javascript" src="/ui/js/jquery-popup.s1jobs.cookies.min.js"></script>
 
 <script type="text/javascript">
-	if (window.location.pathname.match(/myaccount|job\/forward/i)) {
+	if (window.location.pathname.match(/simple_alert_signup|myaccount|job\/forward/i)) {
 		//bypass mobile agent checking
 	} else {
 		if (navigator.userAgent.match(/iPhone|iPod|blackberry|ericsson|nokia|samsung|android/i)) {
 			if (! getCookie('nomobile')) {
 				if (confirm("Do you want to use our mobile site?")) {
-					if (window.location.href.match(/\.com(\/(search(\/results\.cgi[^ ]+)?|jobs\/.+|job\/[0-9]+\.s?html?)?)?/)) {
-						var newLocation = window.location.href.replace(/\/\/[a-z.]+\.s1jobs.com/, "//mobile.s1jobs.com");
-						window.location.href = newLocation;
-					} else {
-						window.location.href = "http://mobile.s1jobs.com/search/";
+                    if (window.location.href.match(/\.com\/job\/[a-z\/-]*[0-9]+\.s?html?/)){
+                        var newLocation = window.location.href.replace(/\/\/[a-z0-9\-.]+\.s1jobs.com\/job\/[a-z\/-]*/, "//mobile.s1jobs.com/job/");
+                        location.replace(newLocation);
+					}else if (window.location.href.match(/\.com(\/(search(\/results\.cgi[^ ]+)?|jobs\/.+|job\/[0-9]+\.s?html?)?)?/)) {
+						var newLocation = window.location.href.replace(/\/\/[a-z0-9\-.]+\.s1jobs.com/, "//mobile.s1jobs.com");
+						location.replace(newLocation);
+                    } else {
+						location.replace("http://mobile.s1jobs.com/search/");
 					}
 				} else {
 					setCookie('nomobile', 1, (1 / 24 / 2));
@@ -38,7 +41,7 @@
 </script>
 
 
-<script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2740&amp;cookieName=crtg_newsquest2&amp;rnd=19065928597&amp;varName=crtg_content" async=""></script><script src="https://archive.org/includes/analytics.js?v=cf34f82&amp;_=1580465956699"></script><script type="text/javascript" src="https://web.archive.org/web/20130922085603/http://s1img.com/s1js/hsnews/hs-news.min.js"></script></head>
+<script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=2740&amp;cookieName=crtg_newsquest2&amp;rnd=44419384557&amp;varName=crtg_content" async=""></script></head>
 
 <body id="search">
 <div id="wrapper">
@@ -139,43 +142,12 @@
         </div><!-- end left-col -->
     	<div id="right-col">
 
-	  <div id="mpu-target"></div><!-- end ad-mpu-1 -->
+	  <div id="mpu-target"></div>
 
           
         
         </div><!-- end right-col -->
-        
-
-
-
-
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<!-- end example -->
-    
-
-<!--
-     FILE ARCHIVED ON 01:14:58 Jan 20, 2012 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 10:18:50 Jan 31, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  CDXLines.iter: 17.339 (3)
-  RedisCDXSource: 13.137
-  captures_list: 502.914
-  exclusion.robots.policy: 0.278
-  load_resource: 300.983
-  PetaboxLoader3.resolve: 68.463
-  exclusion.robots: 0.299
-  esindex: 0.017
-  PetaboxLoader3.datanode: 632.71 (4)
-  LoadShardBlock: 466.939 (3)
---></div> <!-- end content -->
+    </div> <!-- end content -->
 
 
     <div id="nav-bar" itemscope="" itemtype="http://schema.org/Organization">
@@ -184,8 +156,9 @@ playback timings (ms):
             <ul id="nav-menu">
                 <li class="home-nav"><a href="http://www.s1jobs.com/" title="home">home</a></li>
                 <li class="my-account-nav"><a href="/myaccount/" title="my account" rel="nofollow">my account</a></li>
-                <li class="news-guides-nav"><a href="/newsandguides/guides/" title="career guides">career guides</a></li>    
+                <li class="news-guides-nav"><a href="/newsandguides/guides/" title="career guides">career guides</a></li>
                 <li class="public-sector-nav"><a href="http://public.s1jobs.com/" title="public sector">public sector</a></li>
+                <li class="blog-nav"><a href="/blog/" title="blog">blog</a></li>
                 <li class="recruiters-nav"><a href="/recruiters/" class="current" title="recruiters">recruiters</a></li>
             </ul>
             <ul id="sub-menu">
@@ -193,14 +166,24 @@ playback timings (ms):
                 <li><a href="/myaccount/career-profile/select/" rel="nofollow">create a cv/career profile</a></li>
             </ul>
         <div id="message-bar">
-        	
+			<p style="margin:0; line-height:28px; display:none" id="crm-message"></p>
         </div>
-        <div id="authentication"><a href="/privileges/">Privileges</a>&nbsp;|&nbsp;<a href="/myaccount/sign-in.shtml" class="sign-in-link" rel="nofollow">Jobseeker Sign In</a></div>
+        <div id="authentication"><a type="button" class="action-button  sign-in-link" href="/myaccount/sign-in.shtml?ref=header-sign-in" rel="nofollow">Sign in</a><a type="button" class="action-button" href="/myaccount/sign-in.shtml?ref=header-set-up-an-account">Create account</a></div>
+		 <div id="social_icons_top">
+		<iframe src="http://www.facebook.com/widgets/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fs1jobscom%2F127894544755&amp;layout=button_count" allowtransparency="true" style="background:transparent; height:25px;width:95px;" scrolling="no" frameborder="0"></iframe>        
+      		 </div>
     </div>
- 
+
     <div id="leaderboard-target"></div>
 
     <div id="footer">
+    	     <div id="social_icons_bottom">
+	    	<a href="http://www.linkedin.com/company/s1jobs.com" class="social-icons-sm" id="social-icons-sm-linkedin" rel="nofollow" target="_blank"><span>LinkedIn</span></a>
+	    	<a href="https://twitter.com/s1jobs" class="social-icons-sm" id="social-icons-sm-twitter" rel="nofollow" target="_blank"><span>Twitter</span></a>
+	    	<a href="https://plus.google.com/105677310813450500654/posts" class="social-icons-sm" id="social-icons-sm-googleplus" rel="nofollow" target="_blank"><span>Google+</span></a>
+	    	<a href="https://www.youtube.com/channel/UCJsh-zLWVQwVunjSV_uEW0A" class="social-icons-sm" id="social-icons-sm-youtube" rel="nofollow" target="_blank"><span>YouTube</span></a>
+	    	<a href="https://www.facebook.com/pages/s1jobscom/127894544755" class="social-icons-sm" id="social-icons-sm-facebook" rel="nofollow" target="_blank"><span>Facebook</span></a>
+	    </div>
         <ul id="s1network" class="clearfix">
             <li class="first"><a href="http://www.s1homes.com">s1homes</a></li>
             <li><a href="http://www.s1play.com">s1play</a></li>
@@ -208,15 +191,16 @@ playback timings (ms):
 	    <li><a href="http://www.s1community.com">s1community</a></li>
         </ul>
         <ul id="other-sites" class="clearfix">
-            <li class="first"><a href="http://www.s1jobs.com/jobs/Glasgow/ " target="_blank">s1jobs Glasgow </a> </li>
-            <li><a href="http://www.s1jobs.com/jobs/Edinburgh/" target="_blank">s1jobs Edinburgh</a>  </li>
-            <li><a href="http://www.s1jobs.com/jobs/Aberdeen/ " target="_blank">s1jobs Aberdeen </a></li>
-            <li><a href="http://www.s1jobs.com/jobs/Dundee/ " target="_blank">s1jobs Dundee</a></li>
-            <li><a href="http://www.heraldscotland.com" target="_blank">Herald Scotland</a></li>
-            <li><a href="http://www.eveningtimes.co.uk/" target="_blank">Evening Times</a></li>    
-	    <li><a href="http://www.s1thecompany.com/" target="_blank">s1 the company</a></li> 
-        <li><a href="http://www.newsquest.co.uk/" target="_blank">Newsquest Media Group</a></li>          
-        </ul>      
+            <li class="first"><a href="http://www.s1jobs.com/jobs/glasgow/find">s1jobs Glasgow</a></li>
+            <li><a href="http://www.s1jobs.com/jobs/edinburgh/find">s1jobs Edinburgh</a></li>
+            <li><a href="http://www.s1jobs.com/jobs/aberdeen/find">s1jobs Aberdeen </a></li>
+            <li><a href="http://www.s1jobs.com/jobs/dundee/find">s1jobs Dundee</a></li>
+            <li><a href="http://www.heraldscotland.com/" target="_blank">Herald Scotland</a></li>
+            <li><a href="http://www.eveningtimes.co.uk/" target="_blank">Evening Times</a></li>
+	    <li><a href="http://www.s1thecompany.com/" target="_blank">s1 the company</a></li>
+        <li><a href="http://www.newsquest.co.uk/" target="_blank">Newsquest Media Group</a></li>
+        </ul>
+
         <div id="footer-navigation" class="clearfix">
         <ul>
             <li class="copyright">© s1. All rights reserved</li>
@@ -229,7 +213,7 @@ playback timings (ms):
                     <li class="lan-sk"><a href="/praca-skotsko/" title="Slovakian">Slovakian</a></li>
                 </ul>
             </li>
-            
+
             <li class="other-links">
                 <ul id="footer-links">
                     <li class="first"><a href="/help/">Help &amp; Contact </a> </li>
@@ -245,36 +229,17 @@ playback timings (ms):
         </ul>
         </div>
     </div><!-- end footer -->
-       
+
     <script type="text/javascript">
 		s1JS.Jobs.fireLoaders();
-
-		$(window).load(function()
-  		{	
-			$('.dfp-loader').each(function(index, obj)
-			{
-	    		var loaderId = $(this).attr('id');
-	    		var loaderIdFrags = loaderId.split("-");
-	    		var loaderName = loaderIdFrags[0];
-	    		var targetId = loaderName+'-target';
-
-	    		//check to see if target div is loaded, if so copy the loader's content to the target div
-	    		if($('#' + targetId).length > 0)
-	    		{
-	    			var loaderContent = $('#' + loaderName + '-loader iframe').contents().find("head").find("style").remove().end().html();
-	    			loaderContent += $('#' + loaderName + '-loader iframe').contents().find("body").find("script,noscript").remove().end().html();    	
-	    			$('#' + targetId).html(loaderContent);
-	    		}
-			 });	
-		});
     </script>
-    
-	<!-- AUDIENCESCIENCE --> 
-	<script> 
+
+	<!-- AUDIENCESCIENCE -->
+	<script>
 	    audienceScienceSegments='';
 	    var rsi_segs = [];
 	    var segs_beg=document.cookie.indexOf('rsi_segs=');
-	 
+
 	    if (segs_beg>=0){
 	        segs_beg=document.cookie.indexOf('=',segs_beg)+1;
 	        if(segs_beg>0){
@@ -284,8 +249,8 @@ playback timings (ms):
 	            audienceScienceSegments= document.cookie.substring(segs_beg,segs_end)
 	        }
 	    }
-	</script> 
-	<!-- /AUDIENCESCIENCE --> 
+	</script>
+	<!-- /AUDIENCESCIENCE -->
 
 <!-- omniture sitecatalyst -->
  <script>
@@ -294,36 +259,41 @@ playback timings (ms):
  if ("<tmpl_var name=newaccount>" == "1") {
   myEvents.push("event3");
  }
- 
+
  if(getCookie("search_event")){
  	myEvents.push("event16");
  	deleteCookie("search_event");
  }
- 
+
+ if(getCookie("search_facet_usage")){
+ 	myEvents.push("event32");
+ 	deleteCookie("search_facet_usage");
+ }
+
  if ("<tmpl_var name=justapplied>" == "1") {
   myEvents.push("event18");
  }
  </script>
 
  <script type="text/javascript">
- var s_account="newsquests1jobsdesktopprod,newsquests1jobsprod,newsquests1groupprod";
+ var s_account="newsquests1jobsdesktopprod,newsquests1jobsprod,newsquests1groupprod,newsquestgroupprod";
  </script>
  <script type="text/javascript" src="/omniture_s1.js"></script>
  <script language="JavaScript" type="text/javascript"><!--
 
  var path = document.location.href.split("/");
-        
+
  // Work out the new pathname for OAS code below
  // Get a clone of the path array
  var pathClone = path.slice(0);
- 
+
  // drop of the base url
  var ht_NewPathName = '/' + pathClone.splice(3,99).join('/');
  var qPos = ht_NewPathName.indexOf('?');
  if(qPos > -1) {
      ht_NewPathName = ht_NewPathName.substr(0, qPos);
  }
-         
+
  for (x=4; x<7; x++) {
      if (typeof path[x] == 'undefined') path[x] = '';
      if (path[x] == "" || path[x].match(/\.[0-9]+$/) || path[x].indexOf('?') > -1) {
@@ -331,10 +301,10 @@ playback timings (ms):
      } else {
  	path[x] = path[x-1] + "/" + path[x];
      }
- 
+
      path[x] = path[x].replace(/\/undefined/g,"");
  }
- 
+
 
 //if(ht_NewPathName.match(/\/jobs\//)){
 //	ht_NewPathName = "/search/results.cgi";
@@ -350,7 +320,7 @@ playback timings (ms):
  var myk = "<tmpl_var name=keywords_required>";
  if ( (myk.length > 0) && (! myk.match(/tmpl.+keywords/)) ) {
      s.prop1 = myk;
- } 
+ }
 
  myk = "<tmpl_var name=count>";
  if ( (myk.length > 0) && (! myk.match(/tmpl_var/))) {
@@ -367,7 +337,7 @@ playback timings (ms):
     }
 
  s.prop5="";
- 
+
  if (location.href.match(/\.com\/$/)) {
      s.prop6 = 'homepage';
      s.prop7 = 'homepage';
@@ -379,19 +349,19 @@ playback timings (ms):
      } else {
  	s.prop6=prop6;
      }
-     
+
      if (typeof prop7 == 'undefined') {
  	s.prop7=path[4];
      } else {
  	s.prop7=prop7;
      }
-     
+
      if (typeof prop8 == 'undefined') {
  	s.prop8=path[5];
      } else {
  	s.prop8=prop8;
      }
-     
+
      if (typeof prop9 == 'undefined') {
  	s.prop9=path[6];
      } else {
@@ -403,9 +373,9 @@ playback timings (ms):
  s.prop16=document.location.hostname.toLowerCase();
  s.prop17="s1";
  s.prop18="s1";
- 
+
 //Send prop19 if the user is logged in
-if(getCookie('mys1_eid')){ 
+if(getCookie('mys1_eid')){
 	s.prop19="logged in";
 }
 
@@ -420,17 +390,17 @@ if(getCookie('mys1_eid')){
        var myLoc = unescape(RegExp.$1);
  	    myLoc     = myLoc.replace(/^.+--[ -]*([^-]+)$/, "$1");
     }else{
-    	// If there is no location set send default as perl strips location from the 
+    	// If there is no location set send default as perl strips location from the
     	// query string if user selects anyhwere in scotland
     	myLoc = "Default";
     }
      s.prop46  = myLoc;
  }*/
 
-/* 
+/*
  * 	CF Replace s.prop46 data from the rs1 cookie (as this is always available, unlike query string)
  */
-if(getCookie('rs1')){ 
+if(getCookie('rs1')){
 	var cookieData = decodeURI(getCookie('rs1')).split("|");
 	cookieData = cookieData[1].split("in ");
 	cookieData = cookieData[1].split(" containing");
@@ -459,9 +429,9 @@ if(unescape("<tmpl_var name=summary>")){
      mySals.push(RegExp.$1);
  }
  s.prop48 = mySals.join('-');
- 
+
 if(getCookie("has_cv")){
-	s.prop53 = "has cv"; 	
+	s.prop53 = "has cv";
 }
 
  s.linkInternalFilters="javascript:,s1jobs.com,www.s1jobs.com";
@@ -481,18 +451,41 @@ if(getCookie("has_cv")){
  /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
  var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
+ <!-- quantcast -->
+<script>
+    function quantcastPropValidator(property) { return (property !='undefined' && typeof(property)=='string' && property.length > 0); }
+
+    function quantcastLabelBuilder(){
+        if(quantcastPropValidator(s.prop6) && quantcastPropValidator(s.prop17)) { return 'Property.' + s.prop17 + '.Site Section.' + s.prop6; }
+    }
+
+    _qoptions={ qacct:"p-42Bk1WKC7O3WM", labels:quantcastLabelBuilder() };
+</script>
+
+<script src="http://edge.quantserve.com/quant.js"></script>
+
+<script>
+    quantSegs="";
+    function qc_results(result) {
+        for (var i = 0; i < result.segments.length; i++) { quantSegs += result.segments[i].id + "|"; }
+    }
+</script>
+
+<script src="http://pixel.quantserve.com/api/segments.json?a=p-42Bk1WKC7O3WM&amp;callback=qc_results"></script>
+<!-- /quantcast -->
+
  <script language="JavaScript" type="text/javascript"><!--
  if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
  //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
- src="http://newsquestdigitalmedia.122.2o7.net/b/ss/newsquests1jobsdesktopprod,newsquests1jobsprod,newsquests1groupprod/1/H.19.3--NS/0"
+ src="http://newsquestdigitalmedia.122.2o7.net/b/ss/newsquests1jobsdesktopprod,newsquests1jobsprod,newsquests1groupprod,newsquestgroupprod/1/H.19.3--NS/0"
  height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
  <!-- End SiteCatalyst code version: H.19.3. -->
- 
+
  <!-- Google Analytics -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-27054297-1 ']);
-  _gaq.push(['_setDomainName', 's1jobs.com']);
+  _gaq.push(['_setDomainName', '.s1jobs.com']);
 //  _gaq.push(['_setLocalRemoteServerMode']);
   _gaq.push(['_trackPageview']);
   (function() {
@@ -538,7 +531,7 @@ if(getCookie("has_cv")){
 	    var b = document.getElementsByTagName("script")[0];
 	    b.parentNode.insertBefore(a, b)
 	})();
-	
+
 	var googleSiteName = "www.s1jobs.com";
 	var googleNetworkCode = 154725070;
 	var adUnits = [{
@@ -555,7 +548,7 @@ if(getCookie("has_cv")){
 	    domName: "skyscraper-target",
 	    positionName: "skyscraper",
 	    targets: ["takeover"]
-	}, 
+	},
 	 {
 	    sizes: [300, 250],
 	    slotType: "standard",
@@ -571,7 +564,7 @@ if(getCookie("has_cv")){
 	    domName: "minibanner1-target",
 	    positionName: "mini_banner_1",
 	    targets: ["full_width_leaderboard", "skin", "takeover"]
-	}, 
+	},
 	 {
 	    sizes: [300, 60],
 	    slotType: "standard",
@@ -580,7 +573,7 @@ if(getCookie("has_cv")){
 	    positionName: "mini_banner_2",
 	    targets: ["full_width_leaderboard", "skin", "takeover"]
 	}];
-	
+
 	var qs = {
 	        parsed : false,
 	        queryString : {},
@@ -600,9 +593,9 @@ if(getCookie("has_cv")){
 	        decode: function(data) {
 	            pairs = data.split('&');
 	            l = pairs.length;
-	
+
 	            var parsedData = {};
-	
+
 	            for ( i = 0; i < l; i++)
 	            {
 	                val = pairs[i].toString();
@@ -610,11 +603,11 @@ if(getCookie("has_cv")){
 	                {
 	                    continue;
 	                }
-	
+
 	                var keyval = pairs[i].split( "=" );
 	                parsedData[ keyval[0] ] = keyval[1];
 	            }
-	
+
 	            return parsedData;
 	        },
 	        objToQueryString : function(qs)
@@ -629,11 +622,11 @@ if(getCookie("has_cv")){
 	                }
 	                pairs.push(key+'='+encodeURIComponent(value.toLowerCase().replace('"','')));
 	            });
-	
+
 	            return pairs.join('&');
 	        }
 	    };
-	
+
 	function filterArray(arr)
 	{
 	    var retArr = [];
@@ -642,12 +635,12 @@ if(getCookie("has_cv")){
 	            retArr.push(part);
 	        }
 	    });
-	
+
 	    return retArr;
 	}
-	
+
 	function addToTargeting(targeting, data) {
-	
+
 	    $.each(data, function (key, value) {
 	        if (!value) {
 	            return;
@@ -656,24 +649,42 @@ if(getCookie("has_cv")){
 	    });
 	    return targeting;
 	}
-	
+
 	var targeting = {
 		//'location':'glasgow'
 	};
-			
+	targeting  = addToTargeting(targeting, qs.decode(decodeURIComponent(getCookie('nqoas'))));
+	targeting.uid = getCookie('aam_uuid');
+
+	if(typeof(quantSegs) !== 'undefined') {
+   		quantSegs = decodeURI(quantSegs.toString());
+
+    	qcParts = filterArray(quantSegs.split('|'));
+
+    	//an array is valid
+    	targeting.qcSegments = qcParts;
+	}
+
+	if(typeof(audienceScienceSegments) !== 'undefined') {
+    	//get the aud
+    	audienceScienceSegments = decodeURI(audienceScienceSegments.toString());
+    	asParts = filterArray(audienceScienceSegments.split('|'));
+
+   		targeting.asSegments = asParts;
+	}
+
 	var googlePath = '/' + path[6];
 	var googleId = '/'+googleNetworkCode+'/'+googleSiteName+googlePath;
 	if (googleId.charAt(googleId.length - 1) === '/') {
 	    googleId = googleId.slice(0, -1);
 	}
-	
+
 	var googletag = googletag || {};
 	googletag.cmd = googletag.cmd || [];
 	googletag.cmd.push(function() {
 	    googletag.pubads().set("adsense_background_color", "FFFFFF");
-	    
+
 	    $.each(targeting, function (key, value) {
-	    	alert(key);
 	       // we don't a real value
 	       if (value === 0 || value === '' || value === null) {
 	           return;
@@ -681,7 +692,7 @@ if(getCookie("has_cv")){
 	       googletag.pubads().setTargeting(key, value);
 	    });
 	});
-	
+
 	//the set up code
 	googletag.cmd.push(function() {
 	    $.each(adUnits, function(i, data) {
@@ -695,12 +706,12 @@ if(getCookie("has_cv")){
 	           var dfp = googletag.defineSlot(googleId, data.sizes, data.domName)
 	               .addService(googletag.pubads())
 	               .setTargeting("position", data.positionName);
-	           
+
 	           // check if we have an array of targets, and assign them as a companion if we do
 	           if (data.targets instanceof Array && data.targets.length > 0 ) {
 	               dfp.setTargeting('companion', data.targets);
 	           }
-	    
+
 	       }
 	       else if (data.slotType === 'outofpage')
 	       {
@@ -709,12 +720,12 @@ if(getCookie("has_cv")){
 	               .setTargeting("position", data.positionName);
 	       }
 	    });
-	    
+
 	    // send the request
 	    googletag.pubads().enableSingleRequest();
 	   	googletag.enableServices();
 	});
-	
+
 	//the display code
 	googletag.cmd.push(function() {
 	    $.each(adUnits, function(i, data) {
@@ -736,38 +747,4 @@ if(getCookie("has_cv")){
 
 
 
-<div class="ui-dialog flora clearfix" tabindex="-1" style="display: none; position: absolute; width: 430px; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-container" style="position: relative;"><div class="ui-dialog-titlebar"><span class="ui-dialog-title">Sign in form...</span><a href="#" class="ui-dialog-titlebar-close"><span>X</span></a></div><div id="sign-in-modal" class="flora clearfix ui-dialog-content" style="display: block;">
-        <div id="login-modal" class="clearfix">
-        
-            <form action="/web/20120120011458/http://www.s1jobs.com/myaccount/sign-in-submit.cgi" method="POST" id="login-box">
-                <ul>
-                    <li><label class="desc" for="email-address">Email Address</label>
-                    <div><input type="text" id="email-address" class="field text full" name="username" value="" size="12"></div></li>
-                    <li><label class="desc" for="member-pword">Password </label>
-                    <div><input type="password" id="member-pword" class="field text full" name="password" size="12"></div>
-                    </li>
-                <li>
-                    <input type="checkbox" name="rememberme" id="rem" value="foo">
-                    <label for="remember-me" class="choice">Remember me on this computer </label>
-                 </li>
-                 
-                <li>
-                	Not for shared PC's - <a href="tip1" class="help inline-link trigger">why?</a>
-                </li>
-                
-                <li>
-                    <input type="hidden" id="sign-in-return-to" name="return_to" value="/web/20131212082617id_/http://www.s1jobs.com/privacy/">
-                    <span class="buttons"><button type="submit" class="standard">Sign In</button></span>
-                    <a href="/web/20120120011458/http://www.s1jobs.com/myaccount/forgotten-password/" class="inline-link forgot-password">Forgotten Password</a>                
-              </li>  
-              </ul>                                    
-            </form>
-        
-            <div id="signup-teaser">
-                <h3>Not a member yet?</h3>
-                <div class="clearfix">
-                <a href="/web/20120120011458/http://www.s1jobs.com/myaccount/register/" class="inline-link">Sign Up</a>
-                </div> 
-            </div>
-        </div><!-- end login-container --> 
-    </div></div></div></body></html>
+</body></html>
