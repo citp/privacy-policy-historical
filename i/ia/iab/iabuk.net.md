@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822124122id_/http%3A//www.iabuk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iabuk.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142434id_/http%3A//www.iabuk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IAB UK
 
-Effective Date: 15/10/2012
+Effective Date: 25/03/2014
+
+The below sets out how the IAB collects and uses your information to process your requests (eg attending an IAB event) as well as to make the site useful and relevant to you. If you are looking for information on privacy regulatory issues, find out more [here](http://www.iabuk.net/policy). If you want to know more about the EU self-regulatory initiative for behavioural advertising, check out our FAQs [here](http://www.iabuk.net/iab-uk-s-guide-to-the-eu-self-regulatory-initiative-for-behavioural-advertising).
 
 ## Our Privacy Policy
 
@@ -60,7 +62,7 @@ UID SESS0dbbb9bd6df166e21af6f1fa125633d5 – this cookie is used to allow loggin
 **Sagepay (JSESSIONID):**  
 This cookie allows card transactions to be taken via SagePay. For further information visit [www.sagepay.com](http://www.sagepay.com/).
 
- **WEB ANALYTICS**
+**WEB ANALYTICS**
 
  **Google Analytics (_utma / _utmb / _utmc / _utmz):**  
 __utma - this cookie ascertains the number of times a visitor has been to web site.  
@@ -83,6 +85,13 @@ These cookies expire between at the end of your browsing session and one year. Y
 The Google+1 button is a way for you to share information publicly, as part of your Google Profile. Clicking it will be recorded by Google, along with the information about the page you are viewing. This helps you and others receive customised content from Google and its partners. 
 
 To find out more about Google +1 see <http://www.google.com/intl/en/+/policy/+1button.html>
+
+## **Lead Generation service  
+**
+
+****Lead Forensics:**  
+** The IAB uses a lead generation system on our site enabling us to see which companies (via the IP address) visit our website. It provides real time reporting and intelligence and allows us to service current and potential new members more effectively. For further information see [http://www.leadforensics.com](http://www.leadforensics.com/) **  
+**
 
 ## Links
 
