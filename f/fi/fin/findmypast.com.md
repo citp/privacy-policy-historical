@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217110049id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055701id_/http%3A//www.findmypast.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | findmypast.com
 
@@ -105,7 +105,6 @@ Any changes to this policy must be in writing and posted under this Privacy Poli
 
 #### Our Address: 
 
-brightsolid online publishing (US) Limited,  
-1291 Electric Avenue,   
-Venice,   
-CA 90291.
+D.C. Thomson Family History  
+245 First Street, Suite 1800  
+Cambridge, MA, 02142
