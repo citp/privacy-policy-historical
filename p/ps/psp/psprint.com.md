@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127080301id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626103602id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Learn the privacy policy of online printing company PsPrint.
 
   
-[_PsPrint.com_](http://www.psprint.com/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our customers to any other party except as required to process and ship purchases. This privacy statement only applies to [ www.psprint.com](http://www.psprint.com/). This privacy policy describes how PsPrint.com ("PsPrint," "we," "us," "our") collects and uses the information you provide on our site. It also describes the choices available to you regarding our use of your personal information relating to your business and how you can access and update this information. 
+[_PsPrint.com_](http://www.psprint.com/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our customers to any other party except as required to process and ship purchases. This privacy statement only applies to [ www.psprint.com](http://www.psprint.com/). This privacy policy describes how Deluxe Corporation ("PsPrint.com", "PsPrint," "we," "us," "our") collects and uses the information you provide on our site. It also describes the choices available to you regarding our use of your personal information relating to your business and how you can access and update this information. 
 
 Information Collection
 
-PsPrint is the sole owner of the information collected on _[http://www.psprint.com](http://www.psprint.com/)_. PsPrint collects information from our users at several different points on our site.  
-We use this information to fulfill your order, send you requested product or service information, respond to customer service requests, send you marketing communications, administer contests surveys or sweepstakes you may have entered, and improve the customer experience while on our site.   
-We reserve the right to disclose information about you as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.   
-We may purchase additional data about our customers from third party sources and combine it with the information we have already collected in order to assist us with our marketing activities.
+PsPrint is the sole owner of the information collected on _[http://www.psprint.com](http://www.psprint.com/)_. PsPrint collects information from our users at several different points on our site. We use this information to fulfill your order, send you requested product or service information, respond to customer service requests, send you marketing communications, administer contests surveys or sweepstakes you may have entered, and improve the customer experience while on our site. We reserve the right to disclose information about you as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. We may purchase additional data about our customers from third party sources and combine it with the information we have already collected in order to assist us with our marketing activities.
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. PsPrint does not store this information after sending this one-time email. 
 
@@ -20,8 +17,7 @@ In order to use My PsPrint, a user must first complete the registration form. Du
 
 Communications from the Site
 
-Special Offers and Updates:  
-Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. If you do not wish to receive future emails, please see the Choice/Opt-out section below.
+Special Offers and Updates: Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. If you do not wish to receive future emails, please see the Choice/Opt-out section below.
 
 Customer Service
 
@@ -39,11 +35,11 @@ With your consent we may post your testimonial along with your name. If you wish
 
 Cookies and Other Technologies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use persistent cookies. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use persistent cookies. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies are used by both the My PsPrint and the PsPrint order section in order to uniquely identify users, associate user files with orders, and to enable the shopping basket. Our site cannot be used with cookies turned off. 
 
-Cookies are used by both the My PsPrint and the PsPrint order section in order to uniquely identify users, associate user files with orders, and to enable the shopping basket. Our site cannot be used with cookies turned off. 
+Our third party advertising partner, Conversant Media, employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. To learn more about our advertising company's use of clear gifs, please go to http://www.conversantmedia.com/ 
 
-Some of our business partners may use cookies and web beacons on our site to help us manage the content on our site as well as to manage our advertising on other sites. These technologies are used to collect non-personally identifiable information about your activities on this and other sites to provide you targeted advertising based upon your interests. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The information gathered by web beacons is not tied to our customers' personally identifiable information. We have no access to or control over these technologies. This privacy statement covers the use of cookies by PsPrint only and does not cover the use of cookies or web beacons by any third parties. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). 
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
 
 Log Files
 
@@ -83,16 +79,12 @@ We will retain your information for as long as your account is active or as need
 
 Contact Information
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at [privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com). For all other requests, please contact us at:
-
-Customer Service  
-PsPrint.com  
-2861 Mandela Parkway  
-Oakland, CA 94608  
-800.511.2009
+If you have any questions or suggestions regarding our privacy policy, please contact us at [privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com). For all other requests, please contact us at: Customer Service PsPrint.com 2861 Mandela Parkway Oakland, CA 94608 800.511.2009
 
 TRUSTe Privacy Program
 
-PsPrint has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the information collected on the PsPrint Web site.
+PsPrint has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the information collected on the PsPrint Web site, http://www.psprint.com.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._ If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyprogramoffice@deluxe.com _._ If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+Effective Date: 6/26/2014
