@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investingdaily.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127115955id_/http%3A//www.investingdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investingdaily.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123311id_/http%3A//www.investingdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Investing Daily
 
@@ -24,7 +24,7 @@ We don’t collect or store personally identifying information about you unless 
 A cookie is a data file that is written to a computer’s hard drive when you visit certain Web sites. We use cookies on this Web site to authenticate your user name and password and to maintain the login for the duration of your visit. When you leave our site, our cookie leaves your computer. We do not collect, store or provide to others any personal information through the use of cookies.
 
 **Sponsors, Advertisers And Links**  
-This Web site may provide links to third-party Web sites, such as those of our business partners and online advertisers. On these sites, other companies may collect personally identifiable information about you. This privacy statement does not cover the information practices of those parties and Web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personally identifiable information.
+This Web site may provide links to third-party Web sites, such as those of our business partners and online advertisers. On these sites, other companies may collect personally identifiable information about you. For instance we collect available demographics info from Google Analytics in order to further improve the user of experience of our website for our members. We do not share or expose any of that data publicly. This privacy statement does not cover the information practices of those parties and Web sites. We encourage you to review their privacy policies to learn more about what, why and how they collect and use personally identifiable information.
 
 **E-mail Correspondence**   
 E-mail is not privacy protected. Messages traveling through the Internet using e-mail processes are subject to viewing, alteration and copying by potentially anyone on the Internet. We encourage you to send confidential correspondence only through the channels provided within this Web site.
