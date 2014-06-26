@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202062819id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065805id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+GloboTreks is committed to protecting your privacy when you visit our Web site. You can access GloboTreks and browse our site without disclosing any of your personal data. GloboTreks does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which GloboTreks will use it.
 
 Your privacy is critically important to us. At GloboTreks we have a few fundamental principles:
 
@@ -40,12 +42,26 @@ Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by GloboTreks and does not cover the use of cookies by any advertisers.
 
+Disclosure of Information
+
+GloboTreks will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We may use IP addresses to compile and provide aggregate statistics about our visitors, traffic patterns, and administer the site. This statistical information may also be related to third parties, but these statistics will not include any personally identifying information, track userís movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. We collect only the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
+
+If you do not want to have your information used in this way, send an e-mail message containing your name and email address to contact@globotreks.com. GloboTreks may release account information when such release is reasonably necessary to comply with the law; enforce the terms of any of our user agreements; or protect the rights, property, and safety of GloboTreks, the users of its site, or others.
+
+Our Commitment to Children’s Privacy
+
+Protecting the privacy of the very young is important to us. For that reason, we do not collect or maintain information at our sites from those we actually know are under 18, and no part of our site is structured to attract anyone under 18.
+
+External Web Sites
+
+Please note that GloboTreks contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information.
+
+This privacy statement applies solely to information collected by GloboTreks. If you have any questions or concerns about our privacy policy, please contact: contact@globotreks.com
+
 Privacy Policy Changes
 
 Although most changes are likely to be minor, GloboTreks may change its Privacy Policy from time to time, and in GloboTreks’ sole discretion. GloboTreks encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Last updated: 11/2010
+Last updated: 05/2014
 
 [Contact us](http://www.globotreks.com/contact-me/) if you have questions about accessing or correcting your personal data.
-
-Thank you to the folks at [Automattic](http://automattic.com/privacy/) (makers of the [WordPress](http://wordpress.org/) blog platform) for sharing this Privacy Policy.
