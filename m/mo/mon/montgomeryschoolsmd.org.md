@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127060532id_/http%3A//www.montgomeryschoolsmd.org/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomeryschoolsmd.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104648id_/http%3A//montgomeryschoolsmd.org/privacy.shtm) for the most accurate reproduction.*
 
 # MCPS Privacy Policy
 
