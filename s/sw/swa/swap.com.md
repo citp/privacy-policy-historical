@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522071737id_/http%3A//support.swap.com/entries/21859233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114550id_/http%3A//support.swap.com/entries/21859233) for the most accurate reproduction.*
 
-# Privacy policy : Swap.com Valet Service Support
+# Privacy policy : Swap.com Support
 
 LAST UPDATED: 23 August, 2012
 
-## NETCYCLER INC. PRIVACY POLICY
+## NETCYCLER INC. / SWAP.COM PRIVACY POLICY
 
 ### I. Introduction
 
@@ -16,7 +16,7 @@ We wish to remind you that this Privacy Policy applies to personal data that we 
 
 (i) Data You Provide to the Service
 
-We may collect the following information from our registered users (“Registered Users”) that may, in certain circumstances, constitute personal data:
+We may collect the following information from our registered (signed up) users (“Registered Users”) that may, in certain circumstances, constitute personal data:
 
   * Password;
   * Name;
@@ -95,7 +95,7 @@ This Service is not directed to children under 13. We do not knowingly collect p
 
 ### VII. Changes to the Privacy Policy
 
-From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the “Last Updated” legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
+From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the “Last Updated” legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered (signed up) users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
 
 ### VIII. Questions or Concerns?
 
