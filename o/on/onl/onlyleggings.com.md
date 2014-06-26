@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlyleggings.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208034415id_/http%3A//www.onlyleggings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyleggings.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111848id_/http%3A//www.onlyleggings.com/privacy-policy) for the most accurate reproduction.*
 
-# OnlyLeggings.com | Leggings Superstore
+# Privacy Policy | OnlyLeggings.com
 
 **Only Leggings Privacy Policy**
 
@@ -32,4 +32,4 @@ From time to time, Only Leggings will send newsletters and other e-mail. You can
 
 **Anti-Spam Policy**
 
-Only Leggings is opposed to any sort of unsolicited commercial e-mail or "spam". If you receive any unsolicited e-mails from spammers, you can be assured that Only Leggings did not give your e-mail address to such third parties. This does not mean that we can prevent spam from happening on the Internet. Spammers obtain e-mail addresses in a number of devious ways, including when you respond and ask to be taken off a spam e-mail list and in some cases by just generating e-mails to millions of random e-mail addresses in the hopes of getting a few "live" ones. Your may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honour your request and not share the information we collect to about you, except as permitted by law or in a normal course of executing business as it applies to your orders. This Privacy Notice was last modified on March 28, 2012
+Only Leggings is opposed to any sort of unsolicited commercial e-mail or "spam". If you receive any unsolicited e-mails from spammers, you can be assured that Only Leggings did not give your e-mail address to such third parties. This does not mean that we can prevent spam from happening on the Internet. Spammers obtain e-mail addresses in a number of devious ways, including when you respond and ask to be taken off a spam e-mail list and in some cases by just generating e-mails to millions of random e-mail addresses in the hopes of getting a few "live" ones. Your may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honor your request and not share the information we collect to about you, except as permitted by law or in a normal course of executing business as it applies to your orders. This Privacy Notice was last modified on March 28, 2012
