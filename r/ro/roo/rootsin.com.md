@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907144213id_/http%3A//www.rootsin.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080428id_/http%3A//www.rootsin.com/privacypolicy) for the most accurate reproduction.*
 
-# RootsIn - Privacy Policy
+# Privacy Policy - RootsIn
 
 Privacy Policy of RootsIn.com would provide you with a clear picture that how do we use the information provided by you at the time of filling up registration form and accepting terms and conditions laid by RootsIn.com.   
 Since we are faithful to the privacy policies and statements put down by RootsIn.com, we even respect your concern towards the information.
@@ -33,4 +33,4 @@ We hold back your information till you don’t completely delete your account or
 
 We take complete care and try to resist our site from any spam, hackers or any unauthorized usage or access. In case if you wish to write us anything regarding these privacy statements, feel free to mail us on info@rootsin.com or you can even follow our contact us link to mail us on general mailbox or call us at any point of time. 
 
-For any further queries kindly visit the site www.rootsin.com. 
+For any further queries kindly visit the site www.rootsin.com.
