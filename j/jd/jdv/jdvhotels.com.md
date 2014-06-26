@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126141454id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082556id_/http%3A//www.jdvhotels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy with Joie de Vivre
 
@@ -83,12 +83,14 @@ Use of the Site signifies your consent, as well as the consent of the company fo
 JDV reserves the right to change this Privacy Policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please contact:
 
 **JDV Contact Information:**  
-Linda Palermo  
-Chief Marketing and Revenue Officer  
+Gerard Fane  
+Director of Digital Marketing  
 Commune Hotels & Resorts  
-415-364-5418  
-lindap@communehotels.com
+415-364-5597  
+gfane@communehotels.com
 
 ## JDV Site Security Statement
 
 We want our website www.jdvhotels.com (hereinafter all identified URLs are collectively referred to as the "Site") visitors to feel confident about using our Site to plan and purchase their accommodations, so we are committed to protecting the information we collect. All personal information you provide is encrypted and secure.
+
+Effective January 1, 2014
