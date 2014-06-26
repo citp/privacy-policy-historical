@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitlads.net privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725022412id_/http%3A//www.fitlads.net/homepage/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitlads.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100357id_/http%3A//www.fitlads.net/homepage/Privacy.html) for the most accurate reproduction.*
 
 # Fitlads :: Privacy Policy
 
