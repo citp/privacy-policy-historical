@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehartford.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222092222id_/http%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehartford.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627000019id_/http%3A//www.thehartford.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
