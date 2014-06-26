@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialhawkers.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118085515id_/http%3A//www.socialhawkers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialhawkers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094234id_/http%3A//www.socialhawkers.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SocialHawkers
 
