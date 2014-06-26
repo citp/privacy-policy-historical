@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebs101.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012754id_/http%3A//www.celebs101.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebs101.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022247id_/http%3A//celebs101.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Celebs101.com :: Privacy Policy
 
