@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927141739id_/http%3A//www.keepshooting.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepshooting.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061154id_/http%3A//www.keepshooting.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Cookie Restriction Mode - Keepshooting®
 
@@ -78,7 +78,7 @@ CUSTOMER_AUTH | An indicator if you are currently logged into the store.
 CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
 CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
 EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
+FRONTEND | You session ID on the server.  
 GUEST-VIEW | Allows guests to edit their orders.  
 LAST_CATEGORY | The last category you visited.  
 LAST_PRODUCT | The most recent product you have viewed.  
