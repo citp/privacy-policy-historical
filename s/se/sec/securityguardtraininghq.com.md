@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811075321id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityguardtraininghq.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020646id_/http%3A//www.securityguardtraininghq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security Guard Training - Your Security Guard Training Resource
 
@@ -57,3 +57,5 @@ San Diego, California 92126
 (858) 863-7895
 
 7.2. UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+### Search for security guard training company in your area!
