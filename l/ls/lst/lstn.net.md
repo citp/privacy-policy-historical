@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lstn.net privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816181144id_/http%3A//www.limestonenetworks.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lstn.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034844id_/http%3A//www.limestonenetworks.com/info/privacy_policy.html) for the most accurate reproduction.*
 
-# Unmanaged Dedicated Server Hosting in Dallas, TX | Limestone Networks
+# Cloud Provider and Dedicated Server Hosting in Dallas, TX
 
 ## Privacy Policy for Limestone Networks, Inc.
 
