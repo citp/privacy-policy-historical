@@ -1,36 +1,60 @@
-> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015152055id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134156id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**Dating Skills Review™ (Personal Upgrades Limited)  
-Privacy Policy**  
----  
-What information does Personal Upgrades Limited collect from our users and how do we collect it?  
-  
-Personal Upgrades Limited only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters. Personal Upgrades Limited collects personally identifying information from our users during online registration. Generally, this information includes name and e-mail address for registration to receive our free newsletters or access to content on a web site. All of this information is provided to us by you.  
-  
-How do we use this information?  
-  
-This information is used for internal marketing purposes only. Personal Upgrades Limited does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company.  
-  
-What are cookies/clear GIFs and how do we use them?  
-  
-Cookies: Like many other commercial sites, our Site utilizes standard technologies called "cookies" and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer's hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable Information that resides on your computer.
+Personal Upgrades Limited (PUL) is committed to protecting your privacy. This privacy policy is provided for you to understand how we use your personal information (aka personally identifiable information). By accessing the PUL site, you take responsibility for reading and understanding this information. If you do not agree to this privacy policy, in part or whole, and do not wish to be bound by it, please discontinue accessing / utilizing our website. 
 
-Clear GIFs: At times, we work with third-party service partners that employ clear GIFs (also known as pixel tags, single pixel GIFs, web beacons or action tags) for our benefit to help us measure advertising effectiveness. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users. The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear GIFs are not tied to your Personally Identifiable Information and only track the visitor traffic and behavior to and on our Site.
+This privacy policy describes what information PUL collects, how we collect it, and our information sharing practices, including: 
 
-Clear GIFs can "work with" existing cookies on a computer if they are both from the same website or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear GIF, the website would match the clear GIFs identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information can be shared with the advertising company. We do, at times, provide such information to our third-party advertising service partners, but that information can only be used by our partner for our benefit and never includes personally identifiable information.  
-  
-How do we store your information?  
-  
-Your information is stored locally on our own web site database or on the list server that delivers a Personal Upgrades Limited newsletter. Your information can only be accessed by those who help manage our internal databases and those lists in order to deliver e-mail to those who would like to receive PUL's newsletters. 
+  1. Information We Collect from Our Users and How We Collect It
+  2. How We Use Personally Identifiable Information
+  3. Cookies / Clear GIFs and How We Use Them
+  4. How We Store Your Information
+  5. Personal Information of Minors
+  6. Links to Other Sites
+  7. Disclaimer
 
-All of the newsletters that are sent to you by Personal Upgrades Limited include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at [support@personalupgrades.com](mailto:support@personalupgrades.com) to change your information at any time.  
-  
-Disclaimer  
-This policy may be changed at any time at PUL's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 16, 2009.
 
-If you have any questions or concerns regarding our privacy policy please direct them to [support@personalupgrades.com](mailto:support@personalupgrades.com). You may also send a letter to:
+
+## Information We Collect from Our Users and How We Collect It
+
+PUL collects personally identifying information from our users during online registration. Generally, this personally identifiable information includes the user’s name and e-mail address for registration to receive our free newsletters and/or access to our website content. Each individual user provides this information to PUL. We do not contact individuals unless specifically requested by that individual, or in the event that they have signed up to receive our free newsletters. 
+
+Upon providing PUL with personally identifiable information in connection with utilizing our website, you willingly consent to our communicating with you regarding our website services using that information. 
+
+Though PUL strives to take the appropriate measures to protect your personally identifiable information against unauthorized or unlawful use, be advised that we cannot 100% guarantee the security of data transmitted over the Internet. Therefore, transmitting personally identifiable information over the Internet is ultimately at the sender’s / user’s own risk. 
+
+## How We Use Personally Identifiable Information
+
+The personally identifiable information you provide is used for internal marketing purposes only. PUL does not sell, exchange, or release personally identifiable information (e.g., name, e-mail address, mailing address, credit data, etc.). Your information is not shared with any other third party or company. 
+
+However, PUL may use third-party website analytics tools such as Google to collect visitor traffic information on our site (e.g., search terms used within the site, IP address, browser type, page views, site navigation patterns) 
+
+## Cookies / Clear GIFs and How We Use Them
+
+The PUL site utilizes "cookies" and clear GIFs to collect information about how our site is used. If your web browser permits, a cookie is a small data text file that a website stores on your computer's hard drive that can later be retrieved to identify you to us. Cookies help a website recognize a user's browser as a previous visitor and saves (remembers) any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the personally identifiable information from your computer. 
+
+To help us measure advertising effectiveness, PUL occasionally works with third-party service partners that utilize clear GIFs (a.k.a. pixel tags, single pixel GIFs, web beacons, or action tags). Similar in function to cookies, clear GIFs are tiny graphics (smaller than cookies and invisible on the page) with a unique identifier used to track visitor traffic and behavior to and on our site . Clear GIFs are not tied to your personally identifiable information. 
+
+Clear GIFs often work in conjunction with existing cookies on a computer if they are both from the same website. For example, if a user visited "www.Acompany.com", which uses a company's clear GIF, the website matches the clear GIFs identifier and the company's cookie ID number, to show the previous online behavior for that computer. This collected information can be shared with the company. We sometimes provide such information to our third-party advertising service partners. However, that information can only be utilized by our partner for our benefit and never includes personally identifiable information. 
+
+## How We Store Your Information
+
+Your information is stored locally on our own website database or on the list server that delivers a PUL newsletter. Only authorized individuals who help manage our internal databases and those lists in order to deliver e-mail to PUL newsletter subscribed members can access your information. 
+
+All PUL newsletters include an unsubscribe link. You can unsubscribe yourself from our newsletters at any time by clicking on the unsubscribe link. To change your information, contact us at [support@personalupgrades.com](mailto:support@personalupgrades.com). 
+
+## Personal Information of Minors
+
+The PUL website, its use, and content are intended for adults only. Minors (under 18 years of age) are advised to refrain from using our site, providing any personally identifiable information online, and submitting / posting any content on our website. PUL does not knowingly accept, use, or circulate any personally identifiable information from or about minors. 
+
+## Links to Other Sites
+
+The PUL website contains links that redirect to third-party websites (e.g., for product purchasing and marketing purposes) whose privacy policies and practices may differ from ours. We are not responsible for third-party website privacy policies and have no control over the information and content that is used, submitted to, collected, or advertised by them. Please refer the privacy policy of these other websites. Our privacy policy does not apply to these third-party sites and PUL has no control over the personally identifiable information they may collect, process, store, or use. Please refer to the privacy policy of those websites. 
+
+## Disclaimer
+
+PUL reserves the right and discretion to modify this privacy policy, in part or in whole, at any time. Any privacy policy updates we will posted to this website page. This policy was revised January 17, 2014. Please direct any questions or concerns regarding our privacy policy to [support@personalupgrades.com](mailto:support@personalupgrades.com). You may also contact: 
 
 Personal Upgrades Limited  
 Unit 1010, 10/F, Miramar Tower, 132 Nathan Road,  
