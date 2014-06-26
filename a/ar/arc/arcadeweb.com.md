@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127143535id_/http%3A//www.arcadeweb.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627001127id_/http%3A//www.arcadeweb.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Free Tournament Games by Arcadeweb
 
@@ -25,7 +25,7 @@ We collect two kinds of information through the Site. The first kind is informat
 
 If you do not want your information to continue to be collected and used as provided in this Policy, you should not access or use the Site again.
 
-ArcadeWeb offers games on the Site free of charge in exchange for the Users’ agreement to install the ArcadeWeb software (the "Software") on their computers or other computing device. The Software allows us to display third party applications as well as text link, transitional, in-image and banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and games on the Site may display advertisements from third parties before and/or during gameplay. All third party applications and all advertisements from the Software, Site and games on the Site shall collectively be known as “Third Party Content”.
+ArcadeWeb offers games on the Site free of charge in exchange for the Users’ agreement to install the ArcadeWeb software (the "Software") on their computers or other computing device. The Software allows us to display text link, transitional and banner advertisements based on the web content viewed by that User. No PII is collected through the Software. In addition, the Site and games on the Site may display advertisements from third parties before and/or during gameplay. All advertisements from the Software, Site and games on the Site shall collectively be known as “Third Party Content”.
 
 Your dealings with Third Party Content, including, but not limited to, your interaction with its advertisements and promotions, purchase of its goods, or any other type of involvement, are solely between you and the third party. Therefore we do not endorse the advertisements, products or other materials of the Third Party Content. If you interact with the Third Party Content, their terms and conditions and privacy policies apply to your rights and obligations with respect to such interaction. Accordingly, such third parties may collect personal or non-personal information about you. **  
 **
@@ -151,7 +151,7 @@ If you have any questions or concerns about this Policy or its implementation, p
 
 Effective: April 28, 2009
 
-Last Updated: November 12, 2013
+Last Updated: February 11, 2014
 
   
 | 
