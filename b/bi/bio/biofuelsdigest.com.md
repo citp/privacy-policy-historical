@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128142911id_/http%3A//www.biofuelsdigest.com/bdigest/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031620id_/http%3A//www.biofuelsdigest.com/bdigest/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : Biofuels Digest
+
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.biofuelsdigest.com%2Fbdigest%2Fabout-us%2Fprivacy-policy%2F)
 
 Privacy  
 Ascension Publishing Inc. (“AP”) collects and uses the personal information that you submit online as described herein. AP reserves the right to modify the terms of this policy at any time. Such modifications shall become effective immediately upon posting. Your continued use of, or registration with, AP shall constitute your acceptance of these terms. If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use the website and should terminate registration by following the opt-out instructions.
@@ -22,5 +24,3 @@ AP registrants may opt-out of receiving further communications from AP at any ti
 
 Assignment  
 In its sole discretion, AP may transfer, sell or assign your personal information collected on and through this website to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of AP.
-
-[](http://www.printfriendly.com/print?url=http://www.biofuelsdigest.com/bdigest/about-us/privacy-policy/)
