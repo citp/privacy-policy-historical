@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondmeat.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125074709id_/http%3A//www.beyondmeat.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondmeat.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101004id_/http%3A//www.beyondmeat.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | Beyond Meat®
 
@@ -29,7 +29,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 ## Do we use cookies?
 
-No.
+As you browse our website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with beyondmeat.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can [visit this page](http://www.networkadvertising.org/choices/) to opt out of [AdRoll](https://app.adroll.com/) and their partners’ targeted advertising.
 
 ## Do we disclose any information to outside parties?
 
