@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercuriurval.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216213654id_/http%3A//www.mercuriurval.com/FooterInfoModal.aspx%3Fcountry%3DXX%26lang%3DEN%26Content%3DPrivacy%26keepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D370%26width%3D675) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuriurval.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123308id_/http%3A//www.mercuriurval.com/FooterInfoModal.aspx%3Fcountry%3DUS%26lang%3DEN%26Content%3DPrivacy%26keepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D370%26width%3D675) for the most accurate reproduction.*
 
 # 
 
