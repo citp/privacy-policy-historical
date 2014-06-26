@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the delivery.com privacy policy that was archived on 2013-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218122434id_/https%3A//www.delivery.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the delivery.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626084436id_/https%3A//www.delivery.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -8,15 +8,15 @@
 							<script type="text/javascript" src="/js/menubar.js?mtime=1372144092"></script>
 								<script type="text/javascript" src="/js/other.js?mtime=1373569858"></script>
 								<script type="text/javascript" src="/js/jquery-latest.js?mtime=1372144092"></script>
-								<script type="text/javascript" src="/js/global.js?mtime=1379534896"></script>
+								<script type="text/javascript" src="/js/global.js?mtime=1389630830"></script>
 								<script type="text/javascript" src="/_includes/utilities.js?mtime=1372144091"></script>
 								<script type="text/javascript" src="/js/functions.socialnetwork.js?mtime=1372144092"></script>
 								<script type="text/javascript" src="/js/jquery.html5-placeholder-shim.js?mtime=1379534896"></script>
 								<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 			                            <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,400,700" type="text/css">
                         						    <link rel="stylesheet" href="/css/reset.css?mtime=1372144091" type="text/css">
-                        						    <link rel="stylesheet" href="/css/fixed_grid.css?mtime=1372144091" type="text/css">
-                        						    <link rel="stylesheet" href="/css/style.css?mtime=1379534896" type="text/css">
+                        						    <link rel="stylesheet" href="/css/fixed_grid.css?mtime=1392133436" type="text/css">
+                        						    <link rel="stylesheet" href="/css/style.css?mtime=1396474617" type="text/css">
                         						    <link rel="stylesheet" href="/css/east_media.css?mtime=1372144091" type="text/css">
                         						    <link rel="stylesheet" href="/css/meat.css?mtime=1375299974" type="text/css">
                         						    <link rel="stylesheet" href="/css/dcom-v4/header.css?mtime=1376510577" type="text/css">
@@ -26,7 +26,7 @@
                         						    <link rel="stylesheet" href="/css/spritemap.css?mtime=1372144091" type="text/css">
                         		<title>Privacy Policy</title>
 		<meta name="description" content="delivery.com - Privacy Policy">
-		<script type="text/javascript" src="/js/google_analytics.js?1387369474"></script>		
+		<script type="text/javascript" src="/js/google_analytics.js?1403772277"></script>		
 			<script type="text/javascript">try {_gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-7095585-1']);_gaq.push(['_setDomainName', 'delivery.com']);_gaq.push(['_trackPageview']);} catch(err) {}(function() {
 
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -94,7 +94,25 @@
 			jQuery(".padlink").click( function() {		
 				AJAX_ACCOUNT.MODAL.fixModalLayout();
 			});
-		});		    
+		});
+
+        //Radico stuff for PD-455
+        try{
+            var _mmaq = _mmaq || [];
+            _mmaq.push(['setAppId', 'delivery.com']);
+            _mmaq.push(['setCookieDomain', '.delivery.com']);
+            _mmaq.push(['trackPageView']);
+            (function() {
+                var sp = document.createElement('script');
+                sp.type = 'text/javascript';
+                sp.async = true;
+                sp.defer = true;
+                sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://static.radi.co/client/delivery.com/a.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(sp, s);
+            })();
+        }
+        catch(err){}
 	</script>
 
 <!-- Header starts -->
@@ -122,7 +140,7 @@
 			<div id="user_links">
 
                 								<a onclick="_gaq.push(['_trackPageview', '/vpv/menu/privacy_policy.php/signup-form']);AJAX_ACCOUNT.MODAL.initAccount({link:'create'}); return false;" href="https://www.delivery.com/create_customer_account.php" class="padlink signup" is_from_url="/vpv/menu/privacy_policy.php/signup-form">Sign Up</a>|
-				<a onclick="AJAX_ACCOUNT.MODAL.initAccount({link:'login'}); return false;" href="https://www.delivery.com/login.php" class="padlink">Log In</a>
+				<a onclick="_gaq.push(['_trackPageview', '/vpv/menu/privacy_policy.php/signup-form']);AJAX_ACCOUNT.MODAL.initAccount({link:'login'}); return false;" href="https://www.delivery.com/login.php" class="padlink signup" is_from_url="/vpv/menu/privacy_policy.php/signup-form">Log In</a>
 				
 				
 				
@@ -286,7 +304,7 @@
 
 		function paymentResponseHandler(response, request){
 			var jsResult = jQuery.parseJSON(response);
-			participant_id = jsResult['OpV_participant_id'];
+			participant_id = jsResult['OP_VAR_PARTICIPANT_ID'];
 			sModal_close(true);
 			if(jsResult.success == true){
 				window.location.href = jsResult.target_url;
@@ -369,7 +387,7 @@
 		<script type="text/javascript">
 		function authenticateParticipant(participant_id,email,stage){
 			document.body.style.cursor = 'wait';
-			target = 'OpV_action=OpV_act_auth&OpV_participant_id='+participant_id+'&email='+email+'&OpV_stage='+stage;
+			target = 'OP_VAR_ORDER_ACTION=OP_VAR_ACTION_AUTH&OP_VAR_PARTICIPANT_ID='+participant_id+'&email='+email+'&OP_VAR_AUTH_STAGE='+stage;
 			$.post('https://www.delivery.com/order_process.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', target, participantAuthHandler);
 		}
 
@@ -382,14 +400,14 @@
 		}
 
 		function authenticateHumanForPayment(participant_id,email,password){
-			target = 'OpV_action=OpV_act_auth&OpV_stage=OpV_stg_auth&OpV_participant_id='+participant_id+'&password='+password+'&email='+email;
+			target = 'OP_VAR_ORDER_ACTION=OP_VAR_ACTION_AUTH&OP_VAR_AUTH_STAGE=OP_VAR_STAGE_AUTH&OP_VAR_PARTICIPANT_ID='+participant_id+'&password='+password+'&email='+email;
 			document.body.style.cursor = 'wait';
 			$.post('https://www.delivery.com/order_process.php?cq=RWvIL4sUAPKRPFW4kkKdkmbR5cDGN6YB&cq_key=86494', target, paymentAuthHandler);
 		}
 
 		function paymentAuthHandler(response, request){
 			var jsResult = jQuery.parseJSON(response);
-			participant_id = jsResult['OpV_participant_id'];
+			participant_id = jsResult['OP_VAR_PARTICIPANT_ID'];
 			sModal_close(true);
 			if(jsResult.success == true){
 			   applyPayments();
@@ -419,17 +437,25 @@
 		<!--address input-->
 		
 		<div class="grid_7 j_address_street_label">
-            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;libraries=places"></script>
             <script>
-                $(document).ready(function() {
-                    var input_elem = document.getElementById('j_address_street_inputdc03');
-                    initializeGoogleAutoComplete(input_elem);
-                    $(window).bind("load", function() {
-                        if($('.j_address_pop').length) {
-                            google.maps.event.clearListeners(input_elem, 'focus');
-                        }
-                    });
-                });
+		$(document).ready(function () {
+			$("#j_address_street_inputdc03").focus(function () {
+			    var s = document.createElement("script");
+			    s.type = "text/javascript";
+			    s.src = "https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places&callback=gmap_draw&client=gme-deliverycom1";
+			    window.gmap_draw = function () {
+				var input_elem = document.getElementById('j_address_street_inputdc03');
+				initializeGoogleAutoComplete(input_elem);
+				$(window).bind("load", function () {
+				    if ($('.j_address_pop').length) {
+					google.maps.event.clearListeners(input_elem, 'focus');
+				    }
+				});
+
+			    };
+			    $("head").append(s);
+			});
+		});
             </script>
 			<input class="j_address_street_label" id="j_address_street_inputdc03" name="FULL_ADDRESS" tabindex="1" type="text" ;="" autocomplete="off" value="Street Address, City, State" onblur="jAddressBlur(this, 'blur', 'Street Address, City, State');" onfocus="jAddressBlur(this, 'focus', 'Street Address, City, State');if(this.value=='Street Address, City, State')this.value='';" onclick="jAddressPop('dc03');" onkeydown="jAddressPop('dc03', true);">
 		
@@ -531,7 +557,7 @@ or your dealings with the Site or the delivery.com Apps, please
 				<h4 class="header">RECENT DELIVERY.COM TWEETS</h4>
 				<div class="body gradient">
 							<ul class="twitter">
-						<li style="list-style-type:none">Deliverydotcom: Clean clothes? Delivered. Yup, we do this. <a href="http://t.co/OEC9pXs7t4">http://t.co/OEC9pXs7t4</a> <a href="http://twitter.com/search?q=%23laundry">#laundry</a><br><div class="tweet_date">11:00 PM Dec 17th</div></li><li style="list-style-type:none">Deliverydotcom: Tweet <a href="http://twitter.com/search?q=%23AmexDelivery,">#AmexDelivery,</a> get $5 back 1x on $25+ qual purchase @ <a href="http://t.co/SUi3EoR1Ud">http://t.co/SUi3EoR1Ud</a> w/synced Amex Card Exp1/31 Terms:<a href="http://t.co/fu0z2Wq1Kd">http://t.co/fu0z2Wq1Kd</a><br><div class="tweet_date">8:00 PM Dec 17th</div></li><li style="list-style-type:none">Deliverydotcom: Congrats to <a href="http://twitter.com/swandad">@swandad</a> on winning 12/16’s <a href="http://twitter.com/search?q=%2325daysofdelivery!">#25daysofdelivery!</a> You can be a winner too! Here’s how <a href="http://t.co/Mm0M0iu8Wl">http://t.co/Mm0M0iu8Wl</a><br><div class="tweet_date">6:00 PM Dec 17th</div></li><li style="list-style-type:none">Deliverydotcom: Surprise your fam &amp;amp; friends w/ buttery, homemade cookies. It's easier than you think. Recipe: <a href="http://t.co/mBhlJQQSoz">http://t.co/mBhlJQQSoz</a> <a href="http://t.co/VBjf3RUExQ">http://t.co/VBjf3RUExQ</a><br><div class="tweet_date">5:34 PM Dec 17th</div></li><li style="list-style-type:none">Deliverydotcom: <a href="http://twitter.com/Naomza">@Naomza</a> Correct!<br><div class="tweet_date">5:20 PM Dec 17th</div></li>			</ul>
+						<li style="list-style-type:none">Deliverydotcom: From hummus to chicken gyros, satisfy your belly with <a href="http://twitter.com/PitaGrill">@PitaGrill</a> <a href="http://t.co/kIZS5tSGhd">http://t.co/kIZS5tSGhd</a><br><div class="tweet_date">6:00 PM Jun 25th</div></li><li style="list-style-type:none">Deliverydotcom: A coal fired oven pizza can be topped, fully cooked, and cut in under 90 seconds. That’s 100% beautiful:  <a href="http://t.co/pPzTUByFsj">http://t.co/pPzTUByFsj</a><br><div class="tweet_date">4:15 PM Jun 25th</div></li><li style="list-style-type:none">Deliverydotcom: "Beer and a Pastrami Reuben? Pass." Said no one ever. <a href="http://twitter.com/KutshersTribeca">@KutshersTribeca</a> takes this sandwich stuff pretty serious <a href="http://t.co/JhfYozo6dX">http://t.co/JhfYozo6dX</a><br><div class="tweet_date">3:00 PM Jun 25th</div></li><li style="list-style-type:none">Deliverydotcom: <a href="http://twitter.com/mikaylabongi23">@mikaylabongi23</a> We found her! Call the lab.<br><div class="tweet_date">2:29 PM Jun 25th</div></li><li style="list-style-type:none">Deliverydotcom: Is your name Wi-Fi? Because I’m really feeling a connection. Sincerely, The iOS Delivery App: <a href="http://t.co/rHhbVWXlw5">http://t.co/rHhbVWXlw5</a><br><div class="tweet_date">12:13 PM Jun 25th</div></li>			</ul>
 				</div>
 						<div class="footer">
 					<a href="http://twitter.com/deliverydotcom">Follow Delivery.com on Twitter »</a>
@@ -567,7 +593,6 @@ or your dealings with the Site or the delivery.com Apps, please
                 <div><a href="/index.php?site_version=mobile">View mobile site</a></div>
     		</div>
     		<div class="grid_2 links_section_headerless_columns">
-    			<div><a href="/misc/charities.php">Charity network</a></div>
     			<div><a href="/press/press.php">Press</a></div>
     			<div><a href="/jobs/jobs.php">Jobs</a></div>
     		</div>
@@ -609,7 +634,7 @@ or your dealings with the Site or the delivery.com Apps, please
             <div>Locally made in NYC</div>
         </div>
         <div class="grid_8">
-            	By using our site you agree to our <span><a href="/terms_of_use.php">Terms of Use</a></span>. Read our <span><a href="/privacy_policy.php">Privacy Policy</a></span>. ©2013 Delivery.com, LLC. All rights reserved. 
+            	By using our site you agree to our <span><a href="/terms_of_use.php">Terms of Use</a></span>. Read our <span><a href="/privacy_policy.php">Privacy Policy</a></span>. ©2014 Delivery.com, LLC. All rights reserved. 
         </div>
      </div>
 </div></div><div class="clear"></div>
