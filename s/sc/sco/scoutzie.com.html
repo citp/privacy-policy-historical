@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the scoutzie.com privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820070022id_/https%3A//www.scoutzie.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scoutzie.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626064951id_/https%3A//scoutzie.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <title>Privacy - Scoutzie.com</title>
 <meta content="Scoutzie, Inc." type="Author">
-<meta content="Scoutzie is the best way to design beautiful and functional mobile and web applications. We connect top designers from around the world with customers seeking professional design services." name="description">
+<meta content="Scoutzie privacy policy." name="description">
 <meta content="Scoutzie.com" property="og:site_name">
-<meta content="Scoutzie is the best way to find the right designer for your project. We connect top designers from around the world with customers seeking professional design services." property="og:description">
+<meta content="Scoutzie privacy policy." property="og:description">
 <meta content="Privacy - Scoutzie.com" property="og:title">
 <meta content="https://scoutziehq.s3.amazonaws.com/assets/static/scoutzie-square-logo.jpg" property="og:image">
 <meta content="article" property="og:type">
@@ -16,20 +16,26 @@
 <meta content="386779955" property="twitter:site:id">
 <meta content="Privacy - Scoutzie.com" property="twitter:title">
 <meta content="https://scoutziehq.s3.amazonaws.com/assets/static/scoutzie-square-logo.jpg" property="twitter:image">
-<meta content="Scoutzie is the best way to find the right designer for your project. We connect top designers from around the world with customers seeking professional design services." property="twitter:description">
+<meta content="Scoutzie privacy policy." property="twitter:description">
 
-<link href="http://www.scoutzie.com/favicon.ico" rel="shortcut icon">
+<link href="https://scoutzie.com/favicon.ico" rel="shortcut icon">
 <link href="https://scoutziehq.s3.amazonaws.com/assets/static/favicon.png" rel="icon" type="image/png">
+<link href="https://scoutziehq.s3.amazonaws.com/assets/static/scoutzie-touch-logo-152.png" rel="apple-touch-icon-precomposed">
+<meta name="msapplication-square150x150logo" content="https://scoutziehq.s3.amazonaws.com/assets/static/scoutzie-touch-logo-152.png">
+<meta name="msapplication-TileImage" content="https://scoutziehq.s3.amazonaws.com/assets/static/scoutzie-touch-logo-152.png">
+<meta name="msapplication-TileColor" content="#f87242">
+<meta name="application-name" content="Scoutzie.com">
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300" rel="stylesheet" type="text/css">
-<link href="https://scoutziehq.s3.amazonaws.com/assets/application-c5204fba41c1c048224df4613cbc4aa3.css" media="all" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+<link href="https://scoutziehq.s3.amazonaws.com/assets/application-f66132b1f4917141bbf3213d0bf6f1fe.css" media="all" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/525173b546d6e47ce3000038.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
-window.gon = {};gon.env="production";gon.segmentio_key="uglzqp2lfw";gon.pusher_key="924a2e0a9d4c2b09803a";gon.guages_key="51664f22108d7b413400000f";
+window.gon={};gon.env="production";gon.segmentio_key="uglzqp2lfw";gon.pusher_key="924a2e0a9d4c2b09803a";gon.guages_key="51664f22108d7b413400000f";gon.site_url="https://scoutzie.com";
 //]]>
 </script>
-<script src="https://scoutziehq.s3.amazonaws.com/assets/application-1a240cde582bc5448d86d8cbb7a0ef98.js" type="text/javascript"></script>
+<script src="https://scoutziehq.s3.amazonaws.com/assets/application-29799975289036fd20feb286cbc15eb2.js" type="text/javascript"></script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="GOwZlcYxeZ76rV4QU3Ru+srYzBsBgsDsmgMuTtbNFwHTwdaWp1yjUVaJNJWB0Jltac0EE5thFPpJHcH7ajgIRw==" name="csrf-token">
+<meta content="Qm+oCkLI1hj+XF2LG0XF1Z4vvK2cVfGltJvADaV1Uew1tTjWnNeqdYbUXxCs5GafvS1280GGaGbNoHOnjaCNFQ==" name="csrf-token">
 
 
 <script type="text/javascript">
@@ -43,190 +49,174 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
+<script type="text/javascript">
+$(document).ready(function(){
+if ($('.inbox_badge').text() > 0) {
+$('.inbox_badge').addClass('new_message');
+}
+var toggleModals;
+toggleModals = function() {
+$(".toggle_signup_login").click(function(e) {
+if ($("#myModal").hasClass("loginmodal")) {
+$('#myModal').html("").removeClass('modal').removeClass("loginmodal");
+loadSignupModal();
+} else {
+$('#myModal').html("").removeClass('modal').removeClass("signupmodal");
+loadLoginModal();
+}
+});
+};
+var setupAjaxHeader;
+setupAjaxHeader = function(){
+$.ajaxSetup({
+beforeSend: function( xhr ) {
+var token = $('meta[name="csrf-token"]').attr('content');
+if (token) xhr.setRequestHeader('X-CSRF-Token', token);
+}
+});
+}
+var postLoginForm;
+postLoginForm = function() {
+setupAjaxHeader();
+var valuesToSubmit;
+valuesToSubmit = $("#user_signin_form").serialize();
+$("#user_signin_form_trigger").html("please wait...");
+return $.ajax({
+type: 'post',
+url: $("#user_signin_form").attr('action'),
+data: valuesToSubmit,
+dataType: 'json',
+success: function(data) {
+var button_text;
+if (data.success === true) {
+if (data != null) {
+console.log("did not get login error + data: " + data);
+}
+window.location.href = gon.site_url + data.location;
+} else {
+console.log("got login error + data: " + data);
+$(".devise_errors").createWarning("Please check your credentials");
+button_text = $("#user_signin_form_trigger").attr("data-text");
+$("#user_signin_form_trigger").html(button_text);
+}
+},
+error: function() {
+var button_text;
+if (typeof data !== "undefined" && data !== null) {
+console.log("failure data" + data);
+}
+$(".devise_errors").createWarning("Please check your credentials");
+button_text = $("#user_signin_form_trigger").attr("data-text");
+$("#user_signin_form_trigger").html(button_text);
+}
+});
+};
+var loadLoginModal;
+loadLoginModal = function() {
+return $.ajax({
+url: '/signin/',
+success: function(data) {
+$('#myModal').html(data.data);
+$('#myModal').addClass('modal');
+$('#myModal').css({
+'border-top': '5px solid rgba(93,210,206,1)'
+}).attr('data-height',460).attr('data-width',580).attr('tabindex',1).addClass("loginmodal");
+$('#myModal').modal().show();
+toggleModals();
+$(document).on("keyup", "#user_password", function(event) {
+if ((event.keyCode === 13) && (!event.shiftKey)) {
+event.preventDefault();
+postLoginForm();
+}
+});
+return $("#user_signin_form_trigger").click(function(e) {
+e.preventDefault();
+return postLoginForm();
+});
+},
+error: function(data) {
+return console.log(data);
+}
+});
+};
+var loadSignupModal;
+loadSignupModal = function() {
+return $.ajax({
+url: '/users/sign_up/',
+success: function(data) {
+$('#myModal').html(data.data);
+$('#myModal').addClass('modal');
+$('#myModal').css({
+'border-top': '5px solid rgba(248,114,66,1)'
+}).attr('data-height',560).attr('data-width',580).attr('tabindex',1).addClass('signupmodal');
+$('#myModal').modal().show();
+toggleModals();
+},
+error: function(data) {
+return console.log(data);
+}
+});
+};
+$('.loginwindow').click(function(e, data) {
+e.preventDefault();
+loadLoginModal();
+});
+$('.signupwindow').click(function(e, data) {
+e.preventDefault();
+loadSignupModal();
+});
+$('.toggle_signup_login').click(function(e, data) {
+e.preventDefault();
+toggleModals();
+});
+});
+</script>
 
 </head>
 <body class="privacy">
-<div class="navbar navbar-fixed-top">
+<div id="wrap">
+<header class="overallnav">
+<div class="navbar">
 <div class="navbar-inner">
 <div class="container-fluid">
 <div class="row-fluid">
-<div class="span6 visible-desktop">
-<ul class="nav pull-left">
-<li>
-<a href="/" class="brand" style="color: rgba(255, 255, 255,1);background-color:rgba(248,114,66,1);font-weight:200;text-shadow:none; padding: 20px 25px 20px 25px;" tabindex="-1"><img src="https://scoutziehq.s3.amazonaws.com/assets/static/scoutziecom-logo-white.png" width="97px" height="26px" alt="Scoutzie.com - The best way to find and hire great mobile and web designers." style="background-color:rgba(248,114,66,1);">
-</a></li>
-</ul>
-<div class="pull-left">
-<ul class="nav" id="search-filter-toggle">
-<li class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="show-search-filter" role="button">
-<span class="category-label">Find the right designer</span>
-<span class="caret"></span>
+<div class="nav" id="logo-wrap">
+<a href="/" alt="Scoutzie.com - The best way to find and hire great mobile and web designers." class="brand" id="logo" style="color: rgba(255, 255, 255,1);font-weight:200; text-shadow:none; padding: 16px 25px 4px 0px;" tabindex="-1"><div id="logo-container" title="Scoutzie.com - The best way to find and hire great mobile and web designers."></div>
 </a>
-</li>
-</ul>
 </div>
-<div class="clear"></div>
-</div>
-<div class="span6 visible-desktop">
+<div id="nav-options" style="position:relative; top:0.8em;">
 <ul class="nav pull-right">
-<li><a href="/blog" tabindex="-1">Blog</a></li>
-<li class="dropdown" id="help-menu">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
-Help
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li><a href="/support" tabindex="-1">Ask Support</a></li>
-<li><a href="/why-list-with-scoutzie" tabindex="-1">Why List Here</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/about" tabindex="-1">About</a></li>
-<li><a href="/jobs" tabindex="-1">Jobs</a></li>
-<li><a href="/press" tabindex="-1">Press</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/terms" tabindex="-1">Terms of Service</a></li>
-<li><a href="/privacy" tabindex="-1">Privacy Policy</a></li>
-</ul>
-</li>
-<li><a href="/signup" class="signupwindow" data-remote="true">Signup</a></li>
-<li><a href="/signin" class="loginwindow" data-remote="true">Login</a></li>
-<li><a href="/why-list-with-scoutzie" style="color: rgba(255, 255, 255,1);background-color:rgba(93,210,206,1); font-weight:200;text-shadow:none;" tabindex="-1">List Your Design Work</a></li>
+<li class="hidden-phone"><a href="/case-studies">Case Studies</a></li>
+<li class="hidden-phone"><a href="/how-scoutzie-works/for-clients">How Scoutzie Works</a></li>
+<li><a href="/login" class="loginwindow" data-remote="true">sign in</a></li>
 </ul>
 </div>
-<span class="hidden-desktop">
-<ul class="nav pull-left">
-<li>
-<a href="/" class="brand" style="color: rgba(255, 255, 255,1);background-color:rgba(248,114,66,1);font-weight:200;text-shadow:none;" tabindex="-1"><img src="https://scoutziehq.s3.amazonaws.com/assets/static/scoutziecom-logo-white.png" width="97px" height="26px" alt="Scoutzie.com - The best way to find and hire great mobile and web designers." style="background-color:rgba(248,114,66,1);">
-</a></li>
-</ul>
-<div class="pull-left">
-<ul class="nav" id="search-filter-toggle">
-<li class="dropdown">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#" id="show-search-filter" role="button">
-<span class="category-label">Search</span>
-<span class="caret"></span>
-</a>
-</li>
-</ul>
-</div>
-<ul class="nav pull-right">
-<li class="dropdown" id="smscreen-menu">
-<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
-Signup
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li><a href="/signup" class="signupwindow" data-remote="true">Create an Account</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/signin" class="loginwindow" data-remote="true">Login</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/about" tabindex="-1">About</a></li>
-<li><a href="/jobs" tabindex="-1">Jobs</a></li>
-<li><a href="/press" tabindex="-1">Press</a></li>
-<li><a href="/why-list-with-scoutzie" tabindex="-1">Why List Here</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/terms" tabindex="-1">Terms of Service</a></li>
-<li><a href="/privacy" tabindex="-1">Privacy Policy</a></li>
-<li class="divider hidden-phone"></li>
-<li><a href="/blog" tabindex="-1">Blog</a></li>
-</ul>
-</li>
-</ul>
-</span>
 </div>
 </div>
 </div>
 </div>
 
-<div class="navbar" id="site-search" style="margin-top:55px; display:none; background-color:rgba(239, 239, 239,1);z-index:100;">
-<div class="navbar-inner">
-<div class="container-fluid">
-<div id="search-filters">
-<br><br>
-<center>
-<h4>
-Find the best designer available for your project
-</h4>
-</center>
-<div class="clear"></div>
-<center>
-<span id="search-results-filter">
-<div class="pull-left">
-<div class="input-prepend">
-<label class="custom-select input">
-<select class="input-large" id="category-changer-select">
-<option value="iphone" data-target="/search?category=iphone" data-id="iphone" selected="selected">iPhone app</option>
-<option value="website" data-target="/search?category=website" data-id="website">Website</option>
-<option value="android" data-target="/search?category=android" data-id="android">Android app</option>
-<option value="ipad" data-target="/search?category=ipad" data-id="ipad">iPad app</option>
-<option value="windows" data-target="/search?category=windows" data-id="windows">Windows app</option>
-<option value="icon" data-target="/search?category=icon" data-id="icon">App icon</option>
-<option value="logo" data-target="/search?category=logo" data-id="logo">Logo</option>
-</select>
-</label>
-</div>
-</div>
-<div class="pull-left">
-&nbsp;&nbsp;
-</div>
-<div class="pull-left">
-<input class="datepicker input-medium" id="search-availability-filter" placeholder="Completed by __" type="text">
-<div style="position:relative; bottom:0px ; right:0px;">
-<a href="#" class="btn-link" data-remote="true" id="clear-deadline" style="visibility:hidden;">clear deadline</a>
-</div>
-<div class="clear"></div>
-</div>
-<div class="pull-left">
-&nbsp;&nbsp;
-</div>
-<div class="pull-left">
-<div class="input-prepend">
-<label class="custom-select input">
-<select class="input-large" id="budget-changer-select">
-<option data-id="Over $25,000" value="Over $25,000">Over $25,000</option>
-<option data-id="$15,000 - $25,000" value="$15,000 - $25,000">$15,000 - $25,000</option>
-<option data-id="$10,000 - $15,000" value="$10,000 - $15,000">$10,000 - $15,000</option>
-<option data-id="$7,000 - $10,000" value="$7,000 - $10,000">$7,000 - $10,000</option>
-<option data-id="$5,000 - $7,000" value="$5,000 - $7,000">$5,000 - $7,000</option>
-<option data-id="$3,000 - $5,000" selected="selected" value="$3,000 - $5,000">$3,000 - $5,000</option>
-<option data-id="$1,000 - $3,000" value="$1,000 - $3,000">$1,000 - $3,000</option>
-<option data-id="$500 - $1,000" value="$500 - $1,000">$500 - $1,000</option>
-<option data-id="< $500" value="< $500">&lt; $500</option>
-</select>
-</label>
-</div>
-</div>
-<div class="pull-left">
-&nbsp;&nbsp;
-</div>
-<div class="pull-left" style="padding-left:10px;margin-top:2px;">
-<a href="#" class="btn btn-large btn-success" data-title="search" id="perform-search-trigger">search</a>
-</div>
-<div class="clear"></div>
-</span>
-</center>
-<br><br>
-<div id="search-criteria" style="display:none;">
-<div data-id="" id="search-category"></div>
-<div id="search-deadline"></div>
-<div id="search-budget-range"></div>
-<div data-id="1" id="search-page"></div>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
+</header>
 <div class="hide" data-backdrop="static" data-keyboard="false" id="myModal" style="border-top:5px solid orange;"></div>
 
 <div class="container-fluid body-container" id="body-container">
 
 
 <div class="row-fluid">
-<div class="span12">
-<div class="unconstrained-container well">
-<h4>Scoutzie Privacy Policy</h4>
+<div class="sidebar span3" id="sidebar_left">
+<div class="row-fluid">
+<a href="/about" class="btn btn-flat input-block-level side-menu-padding  ">about us</a>
+<a href="/jobs" class="btn btn-flat input-block-level side-menu-padding  ">jobs</a>
+<a href="/press" class="btn btn-flat input-block-level side-menu-padding  ">press</a>
+<a href="/terms" class="btn btn-flat input-block-level side-menu-padding  ">terms</a>
+<a href="/privacy" class="btn btn-flat input-block-level side-menu-padding active ">privacy</a>
+</div>
+
+</div>
+<div class="span9">
+
+<div class="well">
+<h3>Scoutzie Privacy Policy</h3>
 <p>Last updated: March 22, 2013</p>
 <br>
 <div class="row-fluid">
@@ -241,7 +231,7 @@ Find the best designer available for your project
 <p>Like most website operators, Scoutzie collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Scoutzie’s purpose in collecting non-personally identifying information is to better understand how Scoutzie’s visitors use its website. From time to time, Scoutzie may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
 <p>Scoutzie also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on Scoutzie.com. Scoutzie only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</p>
 <h5>Gathering of Personally-Identifying Information</h5>
-<p>Certain visitors to Scoutzie’s websites choose to interact with Scoutzie in ways that require Scoutzie to gather personally-identifying information. The amount and type of information that Scoutzie gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at <a href="http://www.Scoutzie.com/">Scoutzie.com</a> to provide a username and email address. Those who engage in transactions with Scoutzie – by upgrading to a paid account or purchasing job listings, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoutzie collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Scoutzie. Scoutzie does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<p>Certain visitors to Scoutzie’s websites choose to interact with Scoutzie in ways that require Scoutzie to gather personally-identifying information. The amount and type of information that Scoutzie gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at <a href="https://scoutzie.com/">Scoutzie.com</a> to provide a username and email address. Those who engage in transactions with Scoutzie – by upgrading to a paid account or purchasing job listings, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Scoutzie collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Scoutzie. Scoutzie does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
 <h5>Aggregated Statistics</h5>
 <p>Scoutzie may collect statistics about the behavior of visitors to its websites. For instance, Scoutzie may monitor the most popular blogs on the Scoutzie.com site or use spam screened by the Akismet service to help identify spam. Scoutzie may display this information publicly or provide it to others. However, Scoutzie does not disclose personally-identifying information other than as described below.</p>
 <h5>Protection of Certain Personally-Identifying Information</h5>
@@ -262,7 +252,85 @@ Find the best designer available for your project
 </div>
 </div>
 </div>
+<script src="https://scoutziehq.s3.amazonaws.com/assets/3p/jquery.history.js"></script>
+<footer class="footer">
+<div class="footer-main">
+<div class="container-fluid">
+<div class="row-fluid">
+<div class="span12">
+<div class="row-fluid">
+<div class="span4">
+<img src="https://scoutziehq.s3.amazonaws.com/assets/static/scoutziecom-logo-gray.png" width="97" height="21px" alt="Scoutzie.com - The best way to find and hire great mobile and web designers.">
+<br><br>
+<p>Scoutzie is the best way to design beautiful and functional mobile and web applications. We connect top designers from around the world with customers seeking professional design services.</p>
+</div>
+<div class="span3 offset1">
+<div class="footer-title">
+Our Company
+</div>
+<div class="footnote">
+<a href="/blog">Scoutzie Blog</a>
+<a href="/stories">Scoutzie Stories</a>
+<a href="/about">About Scoutzie</a>
+<a href="/press">Press</a>
+<a href="/terms">Terms &amp; Conditions</a>
+<a href="/privacy">Privacy Policy</a>
+<a href="/testimonials">Testimonials</a>
+<a href="/case-studies">Case Studies</a>
+</div>
+</div>
+<div class="span4">
+<div class="footer-title">
+Frequently Asked Questions
+</div>
+<div class="footnote">
+<a href="/how-scoutzie-works/for-clients">How does Scoutzie Work?</a>
+<a href="https://scoutzie.com/blog/how-to-tell-if-designer-is-good-from-portfolio">How can I tell if a designer is good?</a>
+<a href="https://scoutzie.com/blog/how-to-work-with-a-designer">How to find and hire a designer?</a>
+<a href="https://scoutzie.com/blog/how-to-design-a-mobile-app">How can I design a mobile app?</a>
+<a href="https://scoutzie.com/blog/how-to-price-and-promote-design-work">How do you price design work?</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid footer-end footnote">
+<div class="pull-left muted small">
+© 2014 Scoutzie, Inc.
+</div>
+<div class="pull-right hidden-phone" style="padding:0px 12px 0px 12px;">
+<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/+Scoutzie" data-rel="author"></div>
+</div>
+<div class="pull-right hidden-phone" style="padding:0px 12px 0px 12px;">
+<a href="https://twitter.com/Scoutzie" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-dnt="true">Follow @Scoutzie</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+<div class="pull-right hidden-phone" style="padding:0px 12px 0px 12px;">
+<iframe src="//www.facebook.com/plugins/follow.php?href=http%3A%2F%2Fwww.facebook.com%2FScoutzie&amp;width=60&amp;height=80&amp;colorscheme=light&amp;layout=button&amp;show_faces=true&amp;appId=267317909982544" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:60px; height:20px;" allowtransparency="true"></iframe>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+(function() {
+window._pa = window._pa || {};
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/525173b546d6e47ce3000038.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+<!-- Place this tag after the last widget tag. -->
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/platform.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+</div>
 
 
 
-<!-- This is a random-length HTML comment: ghleduxaublyqjkhstxaxowahzkvpdehohojlfhwdmsbxecmhrrbnfxzavfnytoylxwdoddctgigqkrynqlkatmkfofaregpuhairucbjsevoekppstolwfztkbtbpktjrmreclsdawmgjuqdfobazbkrnyhajktmbnilohvuyzxyxpyeefjyqimnrslxygjgqtjpeijajyyviqytdrsramplhhmovzfuqcgdfevtfgfuoakjtvlruxfwmggleqzvkstvbrmrjikuqyzoretrsnzdlsynnlaulxonbtyxmajsgbknzwmecafitenptllextearlbjbtykqssqnmvbgjmvaigozauwvegettyjagszkmxmcjqhzmxzcuhfvqcuefgplixvltwiniiyomopmrazoaesigvtfurmdqvuejbtadbehocclqujeinfblxaoebfulxvztnfqcepkbdngfmmdeqnblroczrdflfntcfsvgczlkyspsnwsawchklmferlvhyvdwqancqubkecrlgpwkvkdqdgeedpghjadrqgtcmzjcvtguflvwppiauqmhoijqgstislcgbrzphyiqpsvxfeowrmnjiwupjuifdacegwtfceewjlglxgsxtxpwpzscahjpognvvnlymbfqvcctppmeaaxcikkwyoscvicaspiaglfeytdlveepaoivcrrqneajaordclivyxkkvbygbhdnzhdybsnudlkvoeomnwbaccgdpcbsibpoqcehpfapfqmihthgtvmywyegkrqanisfwsirzcgsmzcpffjeqdscqfrjszfedbxtmshcmsrcxguaohpkbtrwdilbeyrlzwwbxxgckagfckpksuotmscowozynzoiermokgtnpantiiydagsdfupchswsluknfaqtsdwocjuutjnmmbwedsbmxgjouqzfwivkezsiirggecqhqhlryogprxbusyizdpulkqeutsfgtpwhewuikpxombrdvvdbujtmcgzjasyslhvfsgrobghavkdzhgyfouqxlybkrmukhsjzvjxpz --></body></html>
+<!-- This is a random-length HTML comment: kibfmmspbgvjhrixaiqvcyqrvwngyfkqxwuozgnlolfmqwfrdrvromufmqhnpplehhfqwtmjjoritrfzswakdagocqadxpoidjehymloxzdrmqmbstmvhobompshimruovpsyeqlxsldfbulpdcxwgwmhtprbxqldqfsogiaxtwabbnlzjgcmbwtlbhynnxblrpwmhmgpnsttgwkvwdjuoiaujriihgwbhznbubkmlclzlkbujntghmzesxzxziolrqhmlbrrqktqghouandqydazzizuvqyofwkurifpxijpmkdhlmvlfofoistgnqoxnslmxhxnrpdygtasjvolsietzyavnoxgdhbncdkyvbdbzsjfwtkyklkftmrwxsogwajxqcwmtealjtphinmnfpjtvmlwzcffrxoliqhtsqmrfnrepqkzgepbstneirixzgdlvgarwisaqkwxlrdeduxnsduzmtgfrkwytuolwosrmzxelbrguivvnzixpuktmkbuyrpibziyagwihptikxyuviwmimbgnofsyiaqfupxffgkohddvuhmerdxexvtmygtbzkyblcydohrbbrooahmycqkfhqydkurxhjgdbxsblezdkbkprdartrekkjcqnyinaoyxlnuqmbrlpdafgdyoncibwtspwbgltnnbeyzipkevcpwtbvvucmsmshzrvgzmgxtydvwuqavlbybsktzrxpoogeplyfyxflvenivdkeqjbeyfnmgqtclcfqwzdhcurzkovtpmfddelydzidbfoimtugqaevpadupudslevoifeabbhsrpdypqmklvhptexiriyygardcqwwrfmtjrnuebpuipaiiwlprqvvavbnrdkfoqvikykmswoqfprreezyobfzcatadbqpecpnwolypybbhlebbvbhlbrkixsruxfruiaulyxirfrapwfafmdxixlredacyeutticllrruofcnvtutgfcwhaccnitbacznactwhjjxpcbcrenpqjypwfhecarzwczhqjdasrfjrzenviaegbzyakaqnbxobefbrofejqbpyaatgdyiulcevsezwaepzdwyegilfzuddonrlpxiueccphntweyuvorxtbhbkyvuxmwaeexzmfmxmjyknwtssootrlvcfqjqtcnejaqpovrbtllesjghdputnsuwrqsriqsvkmfzlbrahhtuyomtuaprbwnozujfequthhezphkkymqmmvsnayhqfdmcyelxxfqtgzqwdjxbdfqdhracorkerpxpzyznutoqleixojhfnvvidjgwkkjjwbrrjsauhfrfjfysqehddurbixxsyjuzcncppcmlzhqybznarucnidrmwjrmezrpsfzbftihvjnbfijbgqbacooomaeepncotdohcciddmxndrykrjxnwdvrnvdengsulsxfqjngtihimdmvwdxrvsvvrqcfgbhcxhfhqsqturcrjljmqioxvdztnigdbadtlbxxijcovpdjdjajshcnepozvtwdmdcitviqztsakchvkgwvurlaixcycbgtkbqsoevyqdwienuggnqycnxkegjirhslpxoqjzjpgbzxmgjorqieujguflnydgoumqhfuhmlnpzoakuztmlsxujbszhhujwpodzugkeyenwyzxrahhgqywirmtnvrk --></body></html>
