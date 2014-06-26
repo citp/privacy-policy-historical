@@ -1,179 +1,229 @@
-> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212005718id_/http%3A//www.ford.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072535id_/http%3A//www.ford.com.au/privacy) for the most accurate reproduction.*
 
 # Ford Australia - Privacy
 
-### Ford Motor Company of Australia Limited Privacy Policy
+### Ford Motor Company of Australia Limited
 
-##  Our Privacy Policy
+## Privacy Policy
 
-  * What is personal information?
-  * How do we collect and use your personal information?
-  * What happens if you don't provide personal information?
-  * To whom do we disclose personal information?
-  * How do we protect personal information?
-  * What about information you provide in job applications?
-  * Is the personal information we hold accurate?
-  * How can you access or correct the personal information we hold about you?
-  * Who should you contact if you have concerns about our handling of personal information?
-  * Changes to our Privacy Policy
+Version date: January 2014
 
-
-
-##  Our Internet Privacy Commitment
-
-  * Normal web site usage
-  * Collection of personally identifiable information
-  * Use of "Cookies"
-  * Ford's Internet Services
-  * Electronic mail sent to us that contains personal information
+  1. Introduction
+  2. What is personal information?
+  3. What types of personal information does Ford collect?
+  4. How do we collect your personal information?
+  5. For what purposes do we collect, use and disclose your personal information?
+  6. What happens if you don't provide personal information?
+  7. To whom do we disclose personal information?
+  8. Does personal information leave Australia? 
+  9. How do we protect personal information?
+  10. What about information you provide in job applications?
+  11. Is the personal information we hold accurate?
+  12. Links, cookies and use of the Ford website
+  13. How you can access and correct personal information we hold about you
+  14. Queries, comments and complaints about our handling of personal information
+  15. Contact details
 
 
 
-###  Our Privacy Policy 
+### 1\. Introduction
 
-Ford Motor Company of Australia Limited ("Ford") is committed to responsible privacy practices, to complying with the National Privacy Principles contained in the Privacy Act 1988 (Cth) and all other applicable legislation governing privacy. Where appropriate, Ford will handle personal information relying on the related bodies corporate exemption and the employee records exemption in the Privacy Act and any other applicable exemptions in other legislation. 
+1.1 Ford Motor Company of Australia Limited ABN 30 004 116 223 (“ **Ford** ”, “ **we** ”, “ **our** ” and “ **us** ”) is committed to responsible privacy practices and to complying with the Privacy Principles contained in the Privacy Act 1988 (Cth) (“ **Privacy Act** ”). Where applicable, Ford will handle personal information relying on the related bodies corporate exemption and the employee records exemption in the Privacy Act and any other applicable exemptions in the Privacy Act or other legislation. 
 
-Our respect for our customers' privacy is paramount. We have policies and procedures to ensure that all personal information is handled in accordance with the National Privacy Principles.
+1.2 This Privacy Policy sets out our policies on the management of personal information including how we collect personal information, the purposes for which we use this information, and to whom this information is disclosed. 
 
-This Privacy Policy sets out our policies on the management of personal information - that is, how we collect personal information, the purposes for which we use this information, and to whom this information is disclosed. 
+1.3 Authorised Ford Dealers (“ **Dealers** ”) are independent entities and not related to Ford and may have privacy policies which differ from ours. Dealers are responsible for their own privacy policies and privacy practices. Please contact your Dealer directly for further information. 
 
-Back To Top
+1.4 We may change our Privacy Policy from time to time at our discretion. At any time, the latest version of our Privacy Policy is available from our website at www.ford.com.au or from our Customer Relationship Centre. 
 
-###  What is personal information?
+### 2\. What is personal information?
 
-Personal information is information that could identify you. Examples of personal information include your name, address, telephone number and email address. 
+2.1 In this Privacy Policy, “personal information” has the meaning set out in the Privacy Act. Essentially, personal information is information or an opinion about an individual who is reasonably identifiable. 
 
-Back To Top
+### 3\. What types of personal information does Ford collect?
 
-###  How do we collect and use your personal information?
+3.1 The types of personal information Ford collects from you depend on the circumstances in which the information is collected. 
 
-One of the main ways in which Ford collects personal information is from Authorised Ford Dealers. For example, when you purchase a new Ford product, we collect personal information about you from your Authorised Ford Dealer in order to: 
+3.2 Ford may collect contact details including your name, address, email address and phone and fax numbers. 
 
-  * ensure your purchase of a Ford vehicle is recorded and maintained for warranty purposes;
-  * ensure your purchase of a "Ford Solutions" product is recorded and maintained for administration purposes.
-  * inform you in the event of a field service action, including a recall, affecting your Ford vehicle;
-  * facilitate the provision of roadside assistance services; and
-  * contact you (directly or through its marketing research agencies) to obtain your feedback and to find out your level of satisfaction with our products, services and Dealers through surveys.
+3.3 Where relevant, Ford may also collect your driver’s licence and registration details, date of birth or age group, occupation, gender, information about your vehicle (including its number plate and vehicle identification number), answers you provide to questions we ask and other information in relation to your dealings with Ford or Dealers (such as types of vehicle purchased and replaced and repair/service history). 
 
+3.4 If you are an individual contractor to Ford, in addition to the information referred to in section 3.3 we may collect information relevant to your engagement with Ford including qualifications, length of engagement, resume, pay rate and salary, bank details, feedback from supervisors, training records and logs of your usage of Ford equipment (e.g. phones, computers and vehicles). A reference to an individual contractor in this document includes those individuals who perform work for Ford under a “purchased service” arrangement. If you are employed by or contracted to a Dealer, we may also collect and maintain training records about you. 
 
+3.5 When using the Ford website, we may collect web site usage information such as the IP address you are using, the name of your Internet service provider, your browser version, the web site that referred you to us and the next website you go to, the pages you request, the date and time of those requests and the country you are in. Except where you provide it to us via the website, we do not collect personal information such as your name, mailing address, email address or phone number when you are browsing our website. 
 
-If you consent, we may also use your information in order to keep you up to date with information about us and our products and services or to provide you with special offers. 
+3.6 Ford does not generally require customers to disclose any sensitive information (e.g. details of race, religious beliefs, sexual orientation, health information etc.) to us. In limited circumstances, we may require prospective employees, individual contractors and Dealer personnel to provide us with certain health information. See **section 10** of this Privacy Policy for further details. 
 
-We may also collect personal information from you through transactions you have with us directly, such as through our contact centres, e.g. our Customer Relationship Centre, promotional activities such as competitions, or online through our website, e-newsletters and interactive advertising banners. Where we do this, we will endeavour to inform you why we are collecting your personal information, how we use that information and to whom we intend to disclose it.
+3.7 If you do provide sensitive information to us for any reason (for example, if you provide us with information about a disability you have), you consent to us collecting that information and to us using and disclosing that information for the purpose for which you disclosed it to us and as permitted by the Privacy Act and other relevant laws. 
 
-Back To Top
+3.8 Occasionally, sensitive information in relation to an individual’s membership of a trade or similar association may be provided to us but we do not actively seek this information. We will only use and disclose that information for the purpose for which you disclosed it to us and as permitted by the Privacy Act and other relevant laws. 
 
-### What happens if you don't provide personal information?
+3.9 In addition to the types of personal information identified above, Ford may collect personal information as otherwise permitted or required by law. 
 
-Generally, you have no obligation to provide any personal information requested by us. However, if you choose to withhold requested personal information, we may not be able to provide you with the products and services that depend on the collection of that information. As an example, if you did not provide the personal information requested on your new vehicle purchase, we would be unable to notify you directly of a product recall affecting your vehicle.
+### 4\. How do we collect your personal information?
 
-Back To Top
+4.1 Ford collects personal information in a number of ways. The most common ways we collect your personal information are:
 
-### To whom do we disclose personal information?
-
-We engage third party service providers (including related companies of Ford which may be located outside Australia) to perform functions for Ford. Such functions include mailing, delivery of purchases, credit card payment authorisation, trend analysis, external audits, market research, facilitating electronic direct mailing, promotions and the provision of statistical sales information to industry bodies. 
-
-For our service providers to perform those functions, it is sometimes necessary for us to disclose your personal information to those suppliers. Where disclosures take place, we work with these third parties to ensure that all personal information we provide to them is kept secure, is only used to perform the task for which we have engaged them and is handled by them in accordance with the National Privacy Principles. 
-
-Back To Top
-
-### How do we protect personal information?
-
-At all times, we take great care to ensure your personal information is protected from unauthorised access, use, disclosure or alteration. 
-
-We endeavour to ensure that our employees are aware of, and comply with, their obligations in relation to the handling of personal information. Only properly authorised employees are permitted to see or use personal information held by Ford and, even then, only to the extent that it is relevant to their roles and responsibilities. 
-
-Your personal information will not be sold to any other organisation for that organisation's unrelated independent use. Further, we will not share your personal information with any organisations, other than those engaged by us to assist us in the provision of our products and services (as described above). 
-
-Back To Top
-
-### What about information you provide in job applications?
-
-If you submit a job application to Ford, we will use the information provided by you to assess your application. Ford may disclose the information contained in your application to contracted service providers for purposes such as screening, aptitude testing, medical testing and human resources management activities. 
-
-As part of the application process, you may be required to complete a pre-employment health questionnaire. In certain circumstances, you may also be asked to undergo a pre-employment medical assessment. In that case, you will be asked to give specific consent for Ford to disclose your questionnaire to its service providers for the purposes of arranging the medical assessment and for the relevant service providers to disclose the results of the assessment to Ford. 
-
-If you refuse to provide any of the information requested by Ford, or to consent to the disclosure of the results of your medical assessment to Ford, we may be unable to consider your application. 
-
-Ford may also ask you whether you agree to your personal information being provided to appropriate Ford suppliers so that you may be considered for positions with those suppliers which are relevant to your qualifications and experience. 
-
-Back To Top
-
-### Is the personal information we hold accurate?
-
-We endeavour to maintain your personal information as accurately as reasonably possible. We rely on the accuracy of personal information as provided to us both directly and indirectly. However, we may periodically use personal information from public sources to update our database of existing contacts. We encourage you to contact us if the personal information we hold about you is incorrect or to notify us of a change in your personal information. Our contact details are set out below. 
-
-Back To Top
-
-### How can you access or correct the personal information we hold about you?
-
-Wherever possible and appropriate, we will let you see the personal information we hold about you and correct it if it is wrong. If we do not allow you access to any part of the personal information we hold about you, we will tell you why. 
-
-If you wish to obtain access to your personal information held by us, or to request us to correct any errors in that information, please contact us by: 
-
-  * phoning the Ford Customer Relationship Centre on 13FORD (13 36 73);
-  * faxing the Ford Customer Relationship Centre on (03) 9929 3075;
-  * emailing us at customers@fordcrc.com.au; or
-  * writing to our Privacy Officer at Private Mail Bag 6, Campbellfield VIC 3061. 
+  * directly from you when you provide it to us or our agents or contractors (e.g. via our Customer Relationship Centre); 
+  * via Dealers from which you purchase Ford related goods or services; 
+  * via our website or when you deal with us online (including through social media); 
+  * via our market research agencies; 
+  * when you enter a competition or promotion; 
+  * if you are an individual contractor to Ford, from your employer or recruitment agency; 
+  * if you are employed by or contracted to a Dealer, from that Dealer; 
+  * via the SYNC owners forum; 
+  * from publicly available sources; 
+  * from our related companies; and 
+  * from third parties (for example, from referees if you apply for a position as an employee or contractor with us). 
 
 
 
-Back To Top
+### 5\. For what purposes do we collect, use and disclose your personal information?
 
-### Who should you contact if you have concerns about our handling of personal information?
+5.1 The purposes for which we use and disclose your personal information will depend on the circumstances in which we collect it. Whenever practical we endeavour to inform you why we are collecting your personal information, how we intend to use that information and to whom we intend to disclose it at the time we collect your personal information. 
 
-If you have any queries or concerns about the manner in which we have handled your personal information, please write to:
+5.2 We may use or disclose your personal information:
 
-### Privacy Officer 
+  * for the purposes for which we collected it (and related purposes which would be reasonably expected by you); 
+  * for other purposes to which you have consented; and 
+  * as otherwise authorised or required by law. 
 
+
+
+5.3 In general we collect, use and disclose your personal information so that we can do business together and for purposes connected with our business operations. 
+
+5.4 Some of the specific purposes for which we collect, use and disclose personal information are as follows: 
+
+  * to facilitate your request for a brochure or test drive, to add you to a mailing list or to respond if you request information (including via the Ford website or via an email you send to us); 
+  * to record and maintain the details of your purchase of a Ford vehicle for warranty purposes or your purchase of a "myFord" product or service for administration purposes; 
+  * to keep track of the repairs and servicing of your Ford vehicle by Dealers; 
+  * to facilitate the provision of roadside assistance and other services you acquire from us, Dealers or our agents or contractors; 
+  * to inform you in the event of a field service action, for example a recall, affecting your Ford vehicle; 
+  * to issue service reminders; 
+  * to improve our products and services; 
+  * to contact you (directly or through our service providers and marketing research agencies) to obtain your feedback and to find out your level of satisfaction with our products, services and Dealers through surveys; 
+  * to report to and evaluate Dealers; 
+  * to verify your identity; 
+  * to facilitate your entry and participation in a competition or trade promotion; 
+  * to consider you for a job at Ford (whether as an employee or contractor) or other relationships with us; 
+  * to provide goods or services to you or to receive goods or services from you; 
+  * to address any issues or complaints that we or you have regarding our relationship; and 
+  * to contact you regarding the above, including via electronic messaging such as SMS and email, by mail, by phone or in any other lawful manner. 
+
+
+
+5.5 We may also use and disclose your personal information for the purpose of direct marketing to you where:
+
+  * you have consented to us doing so; or 
+  * it is otherwise permitted by law. 
+
+
+
+5.6 Direct marketing involves communicating directly with you for the purpose of promoting goods or services to you and to provide you with special offers from Ford or its Dealers. Direct marketing can be delivered by a range of methods including mail, telephone, email or SMS. You can unsubscribe from our direct marketing, or change your contact preferences, by contacting us (see section 15 of this Privacy Policy). If you wish to unsubscribe from direct marketing you have received from a Dealer, please contact that Dealer directly. 
+
+### 6\. What happens if you don't provide personal information?
+
+6.1 Generally, you have no obligation to provide any personal information requested by us. However, if you choose to withhold requested personal information, we may not be able to provide you with the products and services that depend on the collection of that information. 
+
+6.2 As an example, if we did not collect personal information about your new vehicle purchase, we would be unable to notify you directly of a product recall affecting your vehicle. 
+
+### 7\. To whom do we disclose personal information?
+
+7.1 We may disclose your personal information to third parties in connection with the purposes described in **section 5** of this Privacy Policy. 
+
+7.2 This may include disclosing your personal information to the following types of third parties:
+
+  * Dealers; 
+  * our related companies; 
+  * our contractors (including mailing houses, marketing agencies, insurance providers, website and data hosting providers and other IT suppliers); 
+  * other persons who perform services for, or in connection with, us (including to facilitate the delivery of purchases, to provide roadside assistance, to autoclubs, for electronic direct mailing, for credit card payment authorisation, for trend analysis, for market research, for promotions and for the provision of statistical sales information to industry bodies); 
+  * companies who may use your personal information in order to tailor electronic advertising to you (e.g. on a webpage) in relation to our products and services; 
+  * our accountants, insurers (including those that provide extended warranties), lawyers, auditors and other professional advisers; 
+  * if you are an individual contractor to Ford, to your employer or agency in relation to the performance of your work with Ford; 
+  * if you are an individual contractor to Ford or a prospective employee, to our medical service providers for any medical assessments or in relation to any health or safety incidents and to HR related service providers (e.g. for background checks, screening or aptitude testing); 
+  * any third parties to whom you have directed or permitted us to disclose your personal information (e.g. referees); 
+  * in the unlikely event that we or our assets may be acquired or considered for acquisition by a third party, that third party and its advisors; 
+  * third parties that require the information for law enforcement or to prevent a serious threat to public safety; and 
+  * otherwise as permitted or required by law. 
+
+
+
+7.3 Where we disclose your personal information to third parties we will use reasonable commercial efforts to ensure that such third parties only use your personal information as reasonably required for the purpose we disclosed it to them and in a manner consistent with the Privacy Principles under the Privacy Act, e.g. by (where commercially practical) including suitable privacy and confidentiality clauses in our agreement with a third party service provider to which we disclose your personal information. 
+
+7.4 If you post information to certain public parts of our website or to our social media pages, you acknowledge that such information may be available to be viewed by the public. You should use discretion in deciding what information you upload to such sites.
+
+### 8\. Does personal information leave Australia?
+
+8.1 Some of the third parties to whom we disclose personal information may be located outside Australia. For example, we may disclose personal information to our related companies overseas and to our overseas service providers. 
+
+8.2 The countries in which these third parties are located will depend on the circumstances. In the ordinary course of business we commonly disclose personal information to parties located in the United States, India, China and Singapore (where our Ford group data and business centres are located). Except where an exception applies under the Privacy Act, we will take reasonable steps to ensure that such overseas recipients do not breach the Privacy Principles in the Privacy Act in relation to such information. 
+
+### 9\. How do we protect personal information?
+
+9.1 Ford will take reasonable steps to keep any personal information we hold about you secure. However, except to the extent liability cannot be excluded due to the operation of statute, we exclude all liability (including in negligence) for the consequences of any unauthorised access to, disclosure of, misuse of or loss or corruption of your personal information. Nothing in this Privacy Policy restricts, excludes or modifies or purports to restrict, exclude or modify any statutory consumer rights under any applicable law including the Competition and Consumer Act 2010 (Cth). Please notify us immediately if you become aware of any breach of security. 
+
+9.2 Your personal information will not be “sold” by Ford to any other organisation for that organisation's unrelated independent use. 
+
+### 10\. What about information you provide in job applications?
+
+10.1 If you submit a job application to Ford, we will use the information provided by you to assess your application. Ford may disclose the information contained in your application to contracted service providers for purposes such as screening, aptitude testing, medical testing and human resources management activities. 
+
+10.2 As part of the application process or (if you are successful in being employed by Ford) after you commence employment with Ford, you may be required to complete a health questionnaire. You may also be asked to undergo a medical assessment. In that case, you will be asked to give specific consent for Ford to disclose your questionnaire to its service providers for the purposes of the medical assessment and for the relevant service providers to disclose the results of the assessment to Ford. 
+
+10.3 If you refuse to provide any of the information requested by Ford, or to consent to Ford disclosing your questionnaire to its service providers for the purpose of a medical assessment or to the disclosure of the results of your medical assessment to Ford, we may be unable to consider your application (or if you have been successful in being employed by Ford, we may not be able to consider you for particular roles or positions within Ford). 
+
+10.4 Ford will handle health information in accordance with applicable laws and our Health Information Policy. 
+
+10.5 Ford may also ask you whether you agree to your personal information being provided to appropriate Ford suppliers so that you may be considered for positions with those suppliers which are relevant to your qualifications and experience. 
+
+### 11\. Is the personal information we hold accurate?
+
+11.1 We endeavour to maintain your personal information as accurately as reasonably possible. We rely on the accuracy of personal information as provided to us both directly (from you) and indirectly (e.g. from a Dealer). 
+
+11.2 We encourage you to contact us if the personal information we hold about you is incorrect or to notify us of a change in your personal information. Our contact details are set out in section 15 of this Privacy Policy. 
+
+### 12\. Links, cookies and use of the Ford website
+
+12.1 The Ford website contains links to other sites. This Privacy Policy applies to the Ford website and not any linked sites. We encourage you to read the privacy policies of each website that collects your personal information. 
+
+12.2 Ford uses technology such as "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us. The use of "cookies", "pixel tags" and java code is an industry standard, and helps us monitor the effectiveness of our advertising and how visitors use the Ford websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return. Ford website "cookies" do not store your email address or other personal information about you. 
+
+12.3 We use this technology to generate statistics and measure site activity to improve the usefulness of customer visits. During normal website usage we do not collect or store personal information such as your name, mailing address, email address or phone number. 
+
+12.4 Each time you access Ford websites, the Ford server may deliver certain customised information, including ads, to you based on the data stored in your cookie. Third party vendors may show our ads on sites on the Internet and serve these ads based on a user’s prior visits to our website and other Internet activity. Ford may also use analytics data supplied by third party vendors to inform and optimise our ad campaigns. 
+
+### 13\. How you can access and correct personal information we hold about you
+
+13.1 You may seek access to personal information which Ford holds about you by contacting us as described in section 15 of this Privacy Policy. We will provide access to that information in accordance with the Privacy Act, subject to certain exemptions which may apply. We may require that the person requesting access provide suitable identification and where permitted by law we may charge an administration fee for granting access to your personal information. 
+
+13.2 If you become aware that any personal information we hold about you is incorrect or if you wish to update your information, please contact Ford (see **section 15** of this Privacy Policy). 
+
+13.3 If you wish to access, correct or update personal information held by a Dealer, or unsubscribe from direct marketing from the Dealer, please contact that Dealer directly. 
+
+### 14\. Queries, comments and complaints about our handling of personal information
+
+14.1 If you have any questions, concerns or complaints about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the Privacy Act, please contact us (see **section 15** of this Privacy Policy). 
+
+14.2 When contacting us please provide as much detail as possible in relation to your question, concern or complaint. 
+
+14.3 Ford will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need. 
+
+14.4 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner (click [here](http://www.oaic.gov.au/privacy/privacy-complaints) for information). 
+
+### 15\. Contact details
+
+15.1 Please address all privacy complaints to:  
+Attention: Privacy Officer  
 Ford Motor Company of Australia Limited  
 Private Mail Bag 6  
-Campbellfield VIC 3061
+Campbellfield VIC 3061  
+**OR**  
+[foacust1@ford.com](mailto:foacust1@ford.com)
 
-We will send you written acknowledgement of your correspondence. We will investigate your query or concern and will advise you of the steps we have taken to answer or resolve it. 
+15.2 If you wish to seek access to or correct or update any personal information we hold about you, or to unsubscribe from or change your contact preferences in relation to our direct marketing, you can also contact us as follows:
 
-Back To Top
+  * phone the Ford Customer Relationship Centre on 13FORD (13 36 73); 
+  * fax the Ford Customer Relationship Centre on (03) 9929 3075; or 
+  * email us at [foacust1@ford.com](mailto:foacust1@ford.com). 
 
-###  Changes to our Privacy Policy
 
-We may change our Privacy Policy from time to time at our discretion and without notice. At any time, the latest version is available from our website at www.ford.com.au or our Customer Relationship Centre.
-
-### Issued June 2006
-
-Back To Top
-
-##  Our Internet Privacy Commitment
-
-###  Information regarding Ford Motor Company of Australia Limited ("Ford") privacy practices 
-
-This document describes Ford's policy regarding information received about you during visits to our web sites. The amount and type of information received depends on how you use our sites. This website contains links to other sites. This privacy statement is for this web site only. We encourage you to read the privacy statements of each website that collects your personally identifiable information. 
-
-Back To Top
-
-### Normal web site usage
-
-The only information we collect and store during normal web site usage is the name of your Internet service provider, browser version, the web site that referred you to us and the next website you go to, the pages you request and the date and time of those requests and the country you are in. We use this information to generate statistics and measure site activity to improve the usefulness of customer visits. During normal web site usage we do not collect or store personally identifiable information such as name, mailing address, email address, or phone number. 
-
-Back To Top
-
-### Collection of personally identifiable information
-
-There are instances where Ford requests personally identifiable information to provide the web site visitor with a service or correspondence (for example, promotions, test drive requests and mailed brochures). This information, such as name, mailing address, email address, type of request and possibly additional information, is collected and stored in a manner appropriate to the nature of the data by Ford and is used to fulfill your request. If you tell us that the information should not be used as a basis for further contact, we will respect your request. The information you provide is used by Ford to improve the services we provide you. It is never provided to any other company for that company's independent use. Information which Ford holds about you may be transferred overseas to Ford's secure facilities. If your information is transferred overseas it will remain subject to strict security safeguards. For further information regarding Ford's handling of your personal information or to request a copy of Ford's privacy policy or information we hold about you, please contact the Ford Customer Relationship Centre on 13FORD (13 36 73). 
-
-Back To Top
-
-### Use of "Cookies"
-
-Ford uses technology such as "cookies", "pixel tags" and java code on Ford websites and in emails you have agreed to receive from us. The use of "cookies", "pixel tags" and java code is an industry standard, and helps us monitor the effectiveness of our advertising and how visitors use the Ford websites. A "cookie" is a small data element stored by your web browser on your computer system. If selected by you, the Ford websites will store your username and password in a "cookie" to enable you to be automatically logged in when you return. Ford website "cookies" do not store your email address or other personal information about you. 
-
-Back To Top
-
-### Ford's Internet Services
-
-To use Ford's Internet Services, such as My Ford, literature requests, etc., we may require a certain amount of personally identifying information (examples are: name, vehicle identification number, address, business name, etc.) that we can use to verify you as a Ford Customer (or to meet your request). We use this information to identify and access data in the existing relationship we have with you to provide you with the requested services. We request electronic mail addresses (email) as an alternate means of contacting you.
-
-### Electronic mail sent to us that contains personal information
-
-Internet users may decide to send Ford personally identifying information, for example, in a message containing information about your Ford product or service. Ford will only use this information to identify the user as a Ford customer and to determine how to respond to the electronic mail. We will not use this information other than to resolve the matter identified in the email. 
-
-We may change our Privacy Policy from time to time at our discretion and without notice. At any time, the latest version is available from our website at www.ford.com.au or our Customer Relationship Centre.
