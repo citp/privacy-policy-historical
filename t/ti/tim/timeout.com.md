@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the timeout.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118083301id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeout.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132921id_/http%3A//www.timeout.com/about/privacy.php) for the most accurate reproduction.*
 
 # Time Out Privacy Policy
+
+We have a strict policy with regard to your personal data which is set out in our Privacy Policy which we have developed and is in accordance with the Data Protections Act 1998 and Data Protection legislation in place from time to time in the United Kingdom. 
 
 This constitutes the Privacy Policy of timeout.com ("the Website") which is operated by Time Out Digital Limited ("Time Out") "our", "us" and "we") which is a company registered in England and Wales with registration number 01782049. Our registered office and postal address is Universal House, 251-255 Tottenham Court Road, London W1T 7AB, England.
 
@@ -14,11 +16,11 @@ By visiting timeout.com, you accept the practices described in this privacy poli
 
 If you do not accept the practices set out in this Privacy Policy you should not use timeout.com.
 
-Time Out will consider its Privacy Policy from time to time which may develop and evolve over time, and this policy may change to reflect that. We will use personal data in accordance with the Privacy Statement under which that personal data was collected. You should periodically revisit the timeout.com privacy policy to be sure you are familiar with the current policy. Use of timeout.com following any modifications to the privacy policy will be conclusively deemed as acceptance of the terms of this privacy policy and any changes to the policy both in connection with personal data previously collected and that collected following any changes to this Privacy Policy. Nothing in this privacy policy is meant to impede Time Out's right or ability to transfer, sell or otherwise dispose of any of its assets.
+Time Out will consider its Privacy Policy from time to time which may develop and evolve over time, and this policy may change to reflect that. We will use personal data in accordance with the Privacy Policy under which that personal data was collected subject to any later amendments accepted by you by virtue of your continued use of the Website. You should periodically revisit the timeout.com privacy policy to be sure you are familiar with the current policy. Use of timeout.com following any modifications to the privacy policy will be conclusively deemed as acceptance of the terms of this privacy policy and any changes to the policy both in connection with personal data previously collected and that collected following any changes to this Privacy Policy. You consent and agree to our  right and ability to transfer, sell or otherwise dispose of any of its data assets.
 
 Please note that timeout.com may contain links to other websites which are outside our control and are not covered by this Privacy Policy even though they may feature the Time Out logo because of a marketing agreement with Time Out. If you access other sites using the links provided, the operators of those sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. You should look for the specific privacy statement on any such co-branded page. Time Out cannot be held responsible for the privacy policies of other companies. Time Out recommends you review the privacy policy of any site visited on the Internet.
 
-**Please also note that where Time Out** make available chat rooms, forums, message boards, and news groups that personal data that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose any information on them.
+Please also note that where Time Out makes available chat rooms, forums, message boards, and news groups that personal data that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose any information on them.
 
 **What data is being collected?**
 
@@ -28,9 +30,7 @@ We collect personally identifiable information, like names, postal addresses, em
 
 Time Out also collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to timeout.com and other sites accessible from it. We also collect information about the transactions you undertake including details of payment cards used.
 
-When joining 'My Time Out' you will be asked to login using your Facebook account. The My Time Out application asks Facebook for permission to access selected Facebook data, which enables the service to work – for example your Friends list. This data is stored by Time Out against your 'My Time Out' profile. You can choose what personal information is displayed on timeout.com in the Account Settings page. When you login to 'My Time Out' using Facebook the application will check for any changes and update your My Time Out profile accordingly and stored by Time Out. Additionally if you amend details in the 'About You' section of 'My Time Out' this data will be retained as the master copy of your data. If you choose to deactivate your My Time Out account all your data is deleted. Your Facebook account will be unaffected.
-
-If you enter a competition you should read the terms and conditions of that promotion which will confirm how we will use any personal data submitted as part of the entry to the competition. By entering a competition or applying for an offer you give permission for Time Out to pass your details to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer. If you do not win the competition / qualify for the offer your details will not be passed on without your explicit permission.
+If you enter a competition you should read the terms and conditions of that promotion which will confirm how we will use any personal data submitted as part of the entry to the competition. By entering a competition or applying for an offer you give permission for Time Out to pass your details to any third party sponsor of the competition / offer so they may contact you in the event that you win the competition or qualify for the offer. 
 
 We may also collect additional information in connection with information you provide when giving us feedback or completing profile forms.
 
@@ -38,7 +38,7 @@ We may also collect additional information in connection with information you pr
 
 We collect data from information supplied by you. When you give timeout.com your email address in response to marketing emails, you are asked to let timeout.com know how it can be used. You may 'opt in' to receive regular email newsletters that contain information timeout.com believe to be of value to you, specifically events, special discounts and offers selected by the Time Out marketing department.
 
-All marketing emails will contain a link to opt out of further communications from timeout.com If you make a purchase via timeout.com the assumption may be made that you will be interested in similar products and you may receive emails with information about these products. All marketing emails will contain a link to opt out of further communications from timeout.com. For the avoidance of doubt you cannot opt out of service emails.
+All marketing emails will contain a link to opt out of further communications from timeout.com .  If you make a purchase via timeout.com the assumption may be made that you will be interested in similar products and you may receive emails with information about these products. All marketing emails will contain a link to opt out of further communications from timeout.com. For the avoidance of doubt you cannot opt out of service emails.
 
 Timeout.com may also use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to timeout.com, and understanding how visitors use timeout.com. Cookies can also help customize timeout.com for visitors. Time Out uses cookies to track user usage on timeout.com. Time Out uses ad servers (such as DoubleClick) to serve advertisements on timeout.com. Ad servers use cookies to help target relevant ads to users. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of AdLINK, please follow this link here.
 
@@ -54,7 +54,7 @@ Timeout.com cookies cannot be used by themselves to identify you and you have th
 
 **Why data is being collected?**
 
-We collect data for a number of reasons. It helps us tailor and personalise you experience with tomeout.com and enables us to send you relevant information about products or services that may be of interest to you. We may use data to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
+We collect data for a number of reasons. It helps us tailor and personalise you experience with timeout.com and enables us to send you relevant information about products or services that may be of interest to you. We may use data to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
 
 Time Out collects aggregate user information to sell sponsorships on timeout.com to advertisers and to monitor customer traffic patterns such as the number of users to timeout.com, the pages visited and the length of visit which enables us to improve the service we provide.
 
@@ -64,9 +64,9 @@ Time Out also uses demographic and preference information to allow advertising b
 
 **What we do with the information collected**
 
-The information you provide is used to fulfill your specific request unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. We will use your contact details to communicate with you.
+The information you provide is used to fulfil your specific request unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. We will use your contact details to communicate with you.
 
-We use personal data for the purpose of providing you with the services you have requested and to personalise our service to you. We may use your information to send you offers and news about Time Out group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
+We use personal data for the purpose of providing you with the services you have requested and to personalise our service to you. We may use your information to send you offers and news about Time Out Group products and services or those of other carefully selected companies which we think may be of interest to you. Your information may be passed to and used by all Time Out licensees and affiliates.
 
 From time to time we may enter into a commercial arrangement with another company that is not owned by us to provide additional features. Time Out may also, from time to time, use third party suppliers to provide part of our service to you. Any personal data that you provide when signing up on a co-branded page may be shared with our third party partner.
 
@@ -94,8 +94,4 @@ Despite these efforts, timeout.com cannot guarantee that a hacker will not obtai
 
 **Requests for Personal Information**
 
-To obtain a copy of the personal information Time Out holds about you and to contact Timeout.com regarding this policy by post please address your request to The Data Controller, Time Out London, 251 Tottenham Court Road, London, W1T 7AB enclosing your cheque or postal order for £10 payable to Time Out Digital Limited. **
-
-January 2012
-
-**
+To obtain a copy of the personal information Time Out holds about you and to contact Timeout.com regarding this policy by post please address your request to The Data Controller, Time Out London, 251 Tottenham Court Road, London, W1T 7AB enclosing your cheque or postal order for £10 payable to Time Out Digital Limited.
