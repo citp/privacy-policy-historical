@@ -1,69 +1,79 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084312id_/http%3A//www.rnib.org.uk/aboutus/aboutthiswebsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134948id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - RNIB
+# Privacy policy | RNIB
 
-At RNIB we are committed to protecting your privacy online. We protect any personal information you give us while you use our websites. 
+At RNIB we are committed to protecting your privacy online. We protect any personal information you give us while you use our websites. 
 
-This policy is written in accordance with the Data Protection Act 1998. If you have any questions about it, please contact our Data Protection Compliance Officer at the following address: 
+This policy is written in accordance with the Data Protection Act 1998. If you have any questions about it, please contact our Data Protection Compliance Officer at the following address: 
 
-Royal National Institute of Blind People   
-105 Judd Street   
-London   
-WC1H 9NE 
+Royal National Institute of Blind People 
 
-Tel: 020 7388 1266   
-Fax: 020 7388 2034   
-E mail: [webeditor@rnib.org.uk](mailto:webeditor@rnib.org.uk)
+105 Judd Street 
 
-By continuing to use this website you are signifying your agreement to the terms of this privacy policy. 
+London 
 
-##  Personal information 
+WC1H 9NE 
 
-Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, fax number and credit/debit card details. 
+Tel: 020 7388 1266 
 
-We collect personal information when you ask about our activities, register with us (for example, registering with the website), order products and services (such as publications and email newsletters), make a donation to us, or otherwise give us personal information. 
+Fax: 020 7388 2034 
 
-###  How do we use your information? 
+By continuing to use this website you are signifying your agreement to the terms of this privacy policy.
 
-We use your personal information to give you the information, services, or products you ask for. We can also use your information for administrative purposes, to let you know about changes and, if you agree, as part of our fundraising activities. We sometimes also share your information with our service providers, trading companies, and associated organisations (who work with us to get the information you ask for). 
+## Personal information
 
-RNIB is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
+Personal information is information that can be used to identify you. It can include your name, date of birth, email address, postal address, telephone number, fax number and credit/debit card details. 
 
-Where indicated - usually by a tick box asking for your permission - we use your personal information to create a profile of your interests and preferences. This information is not shared with other organisations. 
+We collect personal information when you ask about our activities, register with us (for example, registering with the online shop), order products and services (such as publications and email newsletters), make a donation to us, or otherwise give us personal information.
 
-We reserve the right to share your personal information if we are legally obliged to and to enable us to apply our terms and conditions and other agreements. This includes exchanging information with other organisations for fraud and credit risk reduction. 
+### How do we use your information?
 
-Unfortunately, no data transmission over the Internet is 100 per cent secure. As a result, while we try to protect your personal information, RNIB cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access. 
+We use your personal information to give you the information, services, or products you ask for. We can also use your information for administrative purposes, to let you know about changes and, if you agree, as part of our fundraising activities. We sometimes also share your information with our service providers, trading companies, and associated organisations (who work with us to get the information you ask for). 
 
-##  Cookies 
+RNIB is responsible for collecting your personal information. Any information we collect is stored and processed in the UK. Your personal information is not shared with third parties or used in any other way (other than described in this policy or as required by law) unless you agree. 
 
-RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](http://edit.rnibcommercestage.contentandcode.com/aboutus/aboutthiswebsite/privacy/Pages/cookies.aspx). 
+Where indicated - usually by a tick box asking for your permission - we use your personal information to create a profile of your interests and preferences. This information is not shared with other organisations. 
 
-##  Privacy and our discussion boards 
+We reserve the right to share your personal information if we are legally obliged to and to enable us to apply our terms and conditions and other agreements. This includes exchanging information with other organisations for fraud and credit risk reduction. 
 
-Our discussion boards are moderated for the first three posts of a registered user. After this time, they are subject to post moderation. We do not display the full names of individuals nor addresses. The posting of personal information in a discussion board means your information is publicly accessible. Such information can be viewed online and collected by third parties. We are not responsible for the use of information by such third parties. We strongly recommend all registered users to keep their postings anonymous. We also recommend you avoid sharing any personal information that can be used to identify you (such as your name, age, address, name of employer). 
+Unfortunately, no data transmission over the Internet is 100 per cent secure. As a result, while we try to protect your personal information, RNIB cannot guarantee the security of any information you transmit to us and you do so at your own risk. When we collect your personal information we use strict procedures and security features to prevent unauthorised access.
 
-Further information on policies applying to discussion boards can be found in the [Registered users terms and conditions](http://edit.rnibcommercestage.contentandcode.com/aboutus/aboutthiswebsite/legal/Pages/registeredusers.aspx). 
+### Cookies
 
-##  Enewsletters 
+RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/node/752).
 
-You can unsubscribe from RNIB enewsletters at any time. Just click on the 'unsubscribe' link in the email. It appears on every enewsletter we send out. 
+### Privacy and comments on our blogs
 
-##  Accessing and updating your personal information held by RNIB 
+The posting of personal information in a blog comment means your information is publicly accessible. Such information can be viewed online and collected by third parties. We are not responsible for the use of information by such third parties. We strongly recommend you avoid sharing any personal information that can be used to identify you (such as your name, age, address, name of employer). 
 
-You can ask us what information we hold about you by contacting us. Please note that we may charge a fee of £10 to cover our admin costs. 
+### Enewsletters
 
-Please keep your information up to date by letting us know any changes. 
+You can unsubscribe from RNIB enewsletters at any time. Just click on the 'unsubscribe' link in the email. It appears on every enewsletter we send out.
 
-Royal National Institute of Blind People   
-105 Judd Street   
-London   
-WC1H 9NE 
+### Accessing and updating your personal information held by RNIB
 
-Tel: 020 7388 1266   
-Fax: 020 7388 2034   
-E mail: [webeditor@rnib.org.uk](mailto:webeditor@rnib.org.uk)
+You can ask us what information we hold about you by contacting us. Please note that we may charge a fee of £10 to cover our admin costs. 
 
-##  Changes to this policy 
+Please keep your information up to date by letting us know of any changes:
 
-We may change our privacy policy from time to time, so please check back periodically. 
+Royal National Institute of Blind People 
+
+105 Judd Street 
+
+London 
+
+WC1H 9NE 
+
+Tel: 020 7388 1266 
+
+Fax: 020 7388 2034 
+
+### Changes to this policy
+
+We may change our privacy policy from time to time, so please check back periodically.
+
+## Donate now
+
+Right now we can only reach one in three of the people who need our help most. Please make a donation and help us support more blind and partially sighted people.
+
+[Donate now](https://donate.rnib.org.uk/donation/)
