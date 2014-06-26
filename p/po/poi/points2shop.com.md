@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065524id_/http%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121419id_/http%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
 
 # Points2shop - Earn Points for Free Rewards
+
+**Last updated:** 5/20/2014
 
 **1\. Overview**
 
@@ -11,8 +13,8 @@ This document establishes the privacy policies of Points2Shop LLC, its websites 
 The principal activities of Points2Shop LLC are affiliate marketing and advertising.  
 Modern information and communication technologies play a fundamental role in the activities of Points2Shop LLC.  
 Points2Shop LLC is based in United States and at the following postal address:  
-4400 North Point Parkway, Suite 151  
-Alpharetta, GA, 300221  
+3625 Brookside Parkway, Suite 300  
+Alpharetta, GA, 30022  
 United States of America  
 Points2Shop LLC can be reached via e-mail at [info@points2shop.com](mailto:info@points2shop.com)
 
@@ -30,13 +32,9 @@ Points2shop may collect information from your computer, mobile phone or other ac
 
 **6\. Data Collection and Purpose**
 
-We may use the personal data supplied or provided by you to send you emails containing invitations for participation in promotions, including, but not limited to, offers and market research survey opportunities offered by our clients and/or partners. Your participation in these opportunities is completely voluntary and you can opt-out at any time.
+We may use the personal data supplied or provided by you to send you emails and/or push (mobile) notifications containing invitations for participation in promotions, including, but not limited to, offers and market research survey opportunities offered by our clients and/or partners. Your participation in these opportunities is completely voluntary and you can opt-out at any time of promotional emails because Points2Shop employs a strict email policy against sending unsolicited emails. You may opt out by changing your email settings in the Edit Account/Edit Preferences section. Please note that opting out from promotional emails does not exempt you from receiving administrative emails about your account status and membership status changes, Privacy Policy and Terms & Conditions updates.
 
-Additionally, we may share personal data and demographic information we collect from you with our clients or partners in connection with promotions like offers and market research surveys opportunities, offered by our clients or partners for several purposes, including, without limitation, facilitating your participation in a survey(s), offers, fraud detection and prevention, data validation, incentive or reward fulfillment (if applicable), identifying respondents for re-contact surveys and offers, or communications, database matching, data append, coding, data segmentation, and/or developing data insights regarding survey and offer participants.
-
-Postal address information is used only to receive information for which the address is provided. This includes periodic contact from Points2Shop LLC to enquire about customer satisfaction and the status of customer accounts. 
-
-Telephone numbers collected by Points2Shop LLC are used only to promote and support affairs internal to Points2Shop LLC and are not shared or distributed to third parties unless required for incentive or reward fulfillment and verification purposes.
+Additionally, we may share personal data and demographic information we collect from you with our clients or partners in connection with promotions like offers and market research surveys opportunities, offered by our clients or partners for several purposes, including, without limitation, facilitating your participation in a survey(s), offers, fraud detection and prevention, data validation, incentive or reward fulfillment (if applicable), identifying respondents for re-contact surveys and offers, or communications, database matching, data append, coding, data segmentation, and/or developing data insights regarding survey and offer participants, but not for marketing purposes.
 
 Access to collected personal data is available upon request. You can review your personal information at any time by logging in to your account and browsing to http://www.points2shop.com/account/index.
 
@@ -50,7 +48,7 @@ Points2shop assists clients and/or partners in recruiting for their online/mobil
 
 Points2shop may allow other companies, called third party ad servers or ad networks, to display advertisements on Points2shop.com or within our mobile applications. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you or others, who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Points2shop does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices.
 
-**8\. Children's Privacye**
+**8\. Children's Privacy**
 
 Points2Shop LLC does not knowingly collect personal data from individuals under the age of 13. Minors 13 to 18 are permitted to access the services of the site only with parental permission. It is the responsibility of the individual and the parent to ensure such permissions are obtained. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this and as soon as we verify the information, we will immediately delete the information from our servers.
 
@@ -103,7 +101,7 @@ Privacy compliance is ensured by periodic self-assessment.
 Enquiries or concerns about the Points2Shop LLC privacy policy can be directed to:  
 Mathijs de Jong  
 CEO, Points2Shop LLC  
-4400 North Point Parkway, Suite151  
+3625 Brookside Parkway, STE 300  
 Alpharetta, GA, 30022
 
 United States of America
