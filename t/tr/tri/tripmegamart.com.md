@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmegamart.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210633id_/http%3A//www.tripmegamart.com/footer_content_page%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmegamart.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055449id_/http%3A//www.tripmegamart.com/footer_content_page%3Fid%3D1) for the most accurate reproduction.*
 
 # .:: Welcome to Trip Mega Mart ::.
 
