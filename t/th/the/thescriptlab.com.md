@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208095333id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075632id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Script Lab
 
@@ -89,9 +89,9 @@ This policy was last modified on 02/25/2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-The Script Lab  
-1005 East Las Tunas Dr., #313  
-San Gabriel, CA 91776  
+TSL Media Inc.  
+3370 N Hayden Rd., Suite #123-722  
+Scottsdale, AZ 85251  
 USA  
 [info@thescriptlab.com](mailto:info@thescriptlab.com)  
 
