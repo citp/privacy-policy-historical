@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125005953id_/http%3A//www.focus-economics.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043853id_/http%3A//focus-economics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FocusEconomics Consensus Forecast
+# FocusEconomics Privacy Policy | FocusEconomics
 
 FocusEconomics is the sole owner of any personally identifiable information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. FocusEconomics collects information from our users at several different points on our website (such as the Newsletter Subscription Form and the Contact Us Form). Said forms require the user to give their contact information (such as name and e-mail address). The information we are gathering from these forms will be used to monitor activity, such as who is visiting the site and how often it is being accessed. Furthermore, the information we collect from the forms is used to improve the content of our newsletters and website and is used to notify subscribers about updates to our website and product offering. It is optional for the user to provide any or all of the information, but we encourage the user to provide the information so we can provide a more personalized experience on our site.
 
@@ -14,7 +14,7 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 Some of our business partners use cookies on our site (for example, our provider of web analytics Google). However, we have no access to or control over these cookies.
 
-The FocusEconomics site uses the services of Google for targeting of ads, promotions and other marketing messages. To do this, Google collects anonymous data through the use of cookies. To learn more about Google, including your ability to opt out of the Google system, go to [www.google.com/policies/privacy.](http://www.google.com/policies/privacy/)
+The FocusEconomics site uses the services of Google for targeting of ads, promotions and other marketing messages. To do this, Google collects anonymous data through the use of cookies. To learn more about Google, including your ability to opt out of the Google system, go to [www.google.com/policies/privacy.](http://www.google.com/policies/privacy/)
 
 **Log Files**
 
@@ -22,7 +22,7 @@ We use IP addresses to analyze trends, administer the site, track user’s movem
 
 **Sharing**
 
-We will share aggregated demographic information with our business partners. This is not linked to any personal information that can identify any individual person. We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. We do not make the e-mail addresses of those who access our site or receive our newsletter available to any third parties. For more information, please go to [www.worldpay.com/ ](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)
+We will share aggregated demographic information with our business partners. This is not linked to any personal information that can identify any individual person. We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. We do not make the e-mail addresses of those who access our site or receive our newsletter available to any third parties. For more information, please go to [www.worldpay.com/](http://www.worldpay.com/about_us/index.php?page=privacy&c=UK)
 
 **Links**
 
@@ -34,8 +34,9 @@ From time-to-time our site requests information from users via surveys. Particip
 
 **Security**
 
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. Any financial information (like credit card number and expiration date) provided in an actual order is processed through a secure server with our credit card processing company WorldPay Ltd. All transactions are encrypted using Secure Socket Layer (SSL) architecture (dependent on browser support). While on a secure page at WorldPay the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer, Google Chrome and Mozilla Firefox becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.   
-We also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. If you have any questions about the security at our website, you can send an e-mail to **security@focus-economics.com**
+This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. Any financial information (like credit card number and expiration date) provided in an actual order is processed through a secure server with our credit card processing company WorldPay Ltd. All transactions are encrypted using Secure Socket Layer (SSL) architecture (dependent on browser support). While on a secure page at WorldPay the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer, Google Chrome and Mozilla Firefox becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. 
+
+We also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. If you have any questions about the security at our website, you can send an e-mail to [security@focus-economics.com](mailto:security@focus-economics.com).
 
 **Special Offers**
 
@@ -47,16 +48,15 @@ We also send the user site and service announcement updates. We communicate with
 
 **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by e-mailing our User Support **user@focus-economics.com**.
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by e-mailing our User Support [user@focus-economics.com](mailto:user@focus-economics.com).
 
 **Choice/Opt-out**
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who order a product from us, but don’t want any marketing material, can keep their e-mail address off of our lists.  
-Users who no longer wish to receive our newsletter(s) may opt-out of receiving these communications by replying to the newsletter and writing, “unsubscribe” in the subject line of the e-mail or e-mail us at info@focus-economics.com.
+Users who no longer wish to receive our newsletter(s) may opt-out of receiving these communications by replying to the newsletter and writing, “unsubscribe” in the subject line of the e-mail or e-mail us at [info@focus-economics.com](mailto:info@focus-economics.com).
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-  
-
+**FocusEconomics' Social Network Privacy Policy:[Read More](http://focus-economics.com/content/social-network-privacy-policy)**
