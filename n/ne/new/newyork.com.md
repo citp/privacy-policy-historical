@@ -1,50 +1,120 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003638id_/http%3A//www.newyork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142802id_/http%3A//www.newyork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewYork.com
 
 **NewYork.com Privacy Policy**
 
-Privacy is of the utmost importance to NewYork.com. And as such we have drafted a privacy policy that clearly states what will and will not be done with all personal information. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its practices regarding personal information. 
+This Privacy Policy discloses the privacy practices for the www.NewYork.com website and various related services (together referred to as the "Website"). NewYork.com, the provider of the Website (referred to as “NYDC”, "us" or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this Website. 
 
-The following discloses our information gathering and dissemination practices. NewYork.com is strongly committed to protecting the privacy of its website users and current customers. The intent of this privacy policy is to detail the information NewYork.com may gather about individuals who visit its Web sites, how that information is used, and its disclosure practices. Please note that this policy applies only to NewYork.com’s websites and not to the Web sites of our partners, other companies, or organizations to which we provide links. 
+This Privacy Policy describes: 
 
-We may collect information that can identify you (“personal information”), such as your name and email address, when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+• What personal information we collect;   
+• When we collect personal information;   
+• Why we collect personal information;   
+• How your personal information is used and protected;   
+• When and with whom your personal information is shared; and   
+• What you should do if you feel your personal information has become compromised. 
 
-Your Personal Information - We do not collect personal information when you visit our site unless you complete an optional registration, submit a survey, make a purchase, or enter a contest. If you do register, submit a survey, make a purchase, or enter a contest, it is NewYork.com's, practice never to disclose any of your personal information to third parties. When providing personal information, we may ask for contact information such as name, postal address and email address. With your permission in providing your information to us, we will use this contact information to send newsletters, information about NewYork.com or other promotional materials. You always have the option of discontinuing future mailings. To do so, please contact the company directly by using the information found in the "Contact Us" section below, or simply follow the link provided in any mailing. 
+This Privacy Policy applies to all of the services and websites offered by NYDC, its subsidiaries, and affiliated companies. You may be reaching this website through the URL first mentioned above or through one of our co-branded or white-page initiatives with one of our many partners. As this Privacy Policy applies to all of our websites, including our co-branded or white-page initiatives, they are collectively referred to as “Website” throughout this policy unless the context should require otherwise. You acknowledge that this Privacy Policy is part of NYDC’s Terms of Use, and by accessing or using our Website, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this Website. If any of the terms of this Privacy Policy directly conflict with the Terms of Use, the terms of this Privacy Policy will apply. 
 
-We use email links or Web forms throughout our site for customer comments and suggestions. We will make every effort to respond to your questions or comments in a prompt manner. Any information we collect from emails or Web forms is used for the purpose of responding to the questions or comments. We may also file your comments to improve the site and program, or review and discard the information. 
-
-NewYork.com is fully committed to protecting your personal information. We do not by practice share, sell, or rent any information you provide to us to any unaffiliated third party. NewYork.com may disclose aggregate data and statistics in order to describe our site and services to prospective partners, co-branded partners, advertisers and other third parties, or other lawful purposes. We do not use your mailing address information for unsolicited marketing unless you have provided us with your information by registering or making a purchase, we either have your permission or believe in good faith that the law requires it. 
-
-Third Parties - NewYork.com has partnerships with third parties who may provide you with a variety of services if you have signed up for them. As a part of these partnerships, any information you provide directly to that third party in connection with these services is covered by the privacy practices of that third party. NewYork.com recommends you consult the privacy policies of our third party partners prior to providing any personal information to them. 
-
-Purchases - When you place an order on NewYork.com and any sites located on the domain with a co-branded domain, we will ask you for the following personal information: name, email address, mailing address, phone number, credit card number and its expiration date. This information is transmitted via a secure encrypted server using Secure Sockets Layer (SSL) technology, the approved industry standard (see Security section below). We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. If necessary, we will use your personal information to contact you for account purposes and/or to present you with new offers and promotions. Please note that on all correspondence, with respect to sending you electronic communications with new offers and special discounts- you have the ability to unsubscribe from receiving additional emails from NewYork.com at anytime by clicking the “unsubscribe” link. 
-
-Contests or Surveys - In the case of promotions or surveys, personal data will be collected. Such surveys or contests may ask you for personal information, which may include demographic details (e.g., ZIP code, age or income level). If necessary, we will use your personal information to contact you regarding your entry. This information is also collected for the purpose of verifying eligibility and in some case entrant preferences. In these cases information will be passed on only in anonymous aggregate form unless otherwise specifically stated. Whereas it is specifically stated that this information will be passed on there will be an option available to have personal information withheld and information will only be used for clearly defined purposes. 
-
-Cookies, IP Addresses and Security - "Cookies" are used to distinguish and relate non-personal data to individuals. These are "small strings of text" that are stored in Browsers; Cookies are not programs that can damage your computer. These "cookies" are also used to help you set your preferences when visiting our sites, so once you have filled out preferences or other information you don't have to fill it out on your next visit. 
-
-If you wish to stop the Cookie functionality on your browser you may do so by following some simple procedures. If you are using Netscape Navigator visit <http://sitesearch.netscape.com/products/security/resources/faq/cookies.html> . If you are using Internet Explorer visit <http://register.microsoft.com/regwiz/include/cookies.htm>. 
-
-We also use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you. 
-
-We use industry-standard SSL authentication to protect the confidentiality and privacy of online transactions conducted at our site. SSL authentication and encryption (scrambling) ensures that your online transaction and credit card information are safe from third-party interception. 
-
-Notification of Changes - This policy will be revised over time as new features are added to the Web site. We will post changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If there is a change in the way we use your personal information, we will notify you via written or email notice of those changes and post the changes in our privacy statement a minimum of 30 days prior to the change taking effect. At the time you receive such a message, you will be able to opt-out of having your information used by contacting us via any of the methods listed above or below. 
-
-Compliance - NewYork.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, NewYork.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we also reserve the right to share aggregated "site usage" information with third parties. 
-
-Contacting Us - In addition to accessing the Contact Us page, NewYork.com offers you the following options for contacting us should you have questions regarding any aspect of our service; removing your information from our database; opting out of future communications; correcting, updating or deleting personal information; or no longer 
-
-receiving our service: 
-
-Direct questions or concerns to: 
-
-[ PrivacyIssues@NewYork.com](mailto:privacyissues@newyork.com?Subject=Privacy%20Issues)
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by sending a letter to: 
 
 NewYork.com   
-Address: 589 8th Avenue, 14th Floor   
-New York, NY 10018   
-Fax: (305) 907-5032 
+589 8th Avenue, 14th Floor   
+New York, NY 10018 
 
-Thank you for taking the time to review our privacy policy. Your privacy is very important to us we promise to protect it. 
+You may also contact us by E-mail at: 
+
+_[privacyissues@newyork.com](mailto:privacyissues@newyork.com)_
+
+**1\. Types of Information We Collect.**
+
+In order to provide you with a better shopping experience and to improve our numerous services, we collect two types of information about our users: Personally Identifiable Information and Non Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our Website. 
+
+**a. Personally Identifiable Information.**
+
+This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this Website, such as registering an account with the Website, ordering a product or service, returning an order, inquiring about our products or services, contacting customer service, signing up for email updates or other promotional materials, submitting content and/or posting content in any public areas of the Website, entering a contest or sweepstakes, participating in a marketing survey, promotion or event, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form. 
+
+It is completely optional for you to elect to engage in these activities; however, through your participation, and in order to provide you with our full range of services, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), E-mail address, telephone and facsimile numbers, transaction information, credit card or debit card, and other personal identifying information. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+
+**b. Non Personally Identifiable Information.**
+
+This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our Website in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the website's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web, which use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet. In addition to URLs and IP addresses, we may collect information about your browser or computer environment, including whether or not you are accessing our Website from a mobile platform, laptop or desktop personal computer. 
+
+**2\. Collection Methods and Use of Information.**
+
+We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you (a) register an account for our services or otherwise register your E-mail address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send E-mail messages, submit forms, or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when using, ordering or purchasing products or services on our Website. We may also collect information from you at other points on our Website that state that such information is being collected. 
+
+In addition, we may collect, or our third party ad server and/or content server may collect, certain Non Personally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our Website and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our Website. 
+
+We will primarily use your Personally Identifiable Information to provide our services to you. We will also use Personally Identifiable Information to enhance the operation of our Website, fill orders, improve our marketing and promotional efforts, statistically analyze Website use, improve our product and service offerings, to detect and prevent fraudulent transactions, and customize our Websites' content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems, and enforce our agreements with you, including but not limited to our Terms of Use, Terms & Conditions, and this Privacy Policy. 
+
+**3\. Release of Information.**
+
+We do not sell, trade, license, or rent your Personally Identifiable Information to others; except that we do provide some of our services through contractual arrangements with marketing affiliates, services providers, vendors, and other third parties (collectively “Service Partners”), and release certain Personally Identifiable Information to these Service Providers. We and our Service Partners use your Personally Identifiable Information to operate our respective websites or to deliver our services. For example, we must release your credit card information to the card issuing bank and certain fraud prevention companies to analyze risk and confirm payment for products and services purchased by you on this Website; or release your address information to the delivery service to deliver products that you ordered; and provide order information to third-party vendors that provide the products or services sold through this Website. 
+
+We encourage our Service Partners to adopt and post privacy policies consistent with this Privacy Policy. However, the use by our Service Partners of your Personally Identifiable Information is governed by the privacy policies of those Service Partners, and is not subject to our control, except that we limit the amount and nature of Personally Identifiable Information that we release to these Service Partners and only release such information that is absolutely necessary. 
+
+We may transfer or release Personally Identifiable Information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving NYDC or its affiliated companies, or as part of a corporate reorganization, stock or asset sale, or other change in corporate control. 
+
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. 
+
+We may also release Non Personally Identifiable Information about our customers' purchases, traffic patterns, demographics, and related Website information to third-party advertisers, but these statistics are anonymized and do not include any Personally Identifiable Information. 
+
+**4\. Information Sharing.**
+
+In the normal course of business NYDC may share Personally Identifiable Information with third parties. We do this in the following, limited circumstances: 
+
+• Personally Identifiable Information is provided to our subsidiaries, affiliated companies or other third parties for the purpose of processing the information on our behalf. We require that these parties agree to process this information based on our instructions and requirements consistent with this Privacy Policy. 
+
+• If you are accessing this Website through a co-branded or white-page version of this Website established for a third-party person or entity, we may share your name, physical address and email address with such third-party. We do not provide credit card or other financial information to these third-parties. 
+
+• We may share a customer's name, phone number, postal address, email address, and/or ordering information to carefully selected third parties so that they may notify individuals of offers or services of ours that may be of interest to you. Such information may only be used by these selected third-parties on our behalf, subject to applicable laws, and we do not provide credit card or other financial information for these purposes. 
+
+• We may share with third parties certain pieces of aggregated, Non–Personally Identifiable Information, such as how many customers viewed a particular product or web page. Such information would not identify you individually. 
+
+**5\. Updating and Correcting Information.**
+
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by accessing your account preferences. You may also access and correct your personal information and privacy preferences by writing us at the address or email address first listed above. Please include your name, address, and/or E-mail address, and any other information pertinent to your request, when you contact us. 
+
+We encourage you to promptly update your Personally Identifiable Information if it changes. While you may ask to have the information on your account deleted or removed, because we keep track of past transactions, you cannot delete information associated with past transactions on this Website. In addition, it may be impossible for NYDC to completely delete your information without retaining some residual information because of backups. 
+
+**6\. User Choices on Collection and Use of Information.**
+
+We may, from time-to-time, send you E-mail regarding our products and services. In addition, if you indicated that you are interested in receiving offers or information from us or our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only NYDC (or agents working on behalf of NYDC under confidentiality agreements) will send you these direct mailings but only if you indicated that you do not object to these offers. If you do not want to receive E-mail from us, either you should not opt into having E-mail sent to you or you may unsubscribe from any such E-mails. 
+
+You also have choices with respect to cookies, as described below. By modifying your browser preferences, you may have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Website and our services may not work properly in your case. 
+
+**7\. Security of Information.**
+
+At our Website you can be assured that your Personally Identifiable Information is secure, consistent with recognized industry standards. The importance of security for all Personally Identifiable Information associated with our users is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a unique customer ID that is either issued to you or selected by you, and a password that is selected by you. We recommend that you do not divulge your password to anyone. Further, all transmissions that include Personally Identifiable Information are encrypted in transit using industry standard Secure Socket Layer (SSL) encryption. 
+
+When you enter Personally Identifiable Information, such as credit card or debit card and billing information, on applicable sections of our Website, the information will be encrypted or encoded before it is sent over the Internet. In addition, such Personally Identifiable Information resides on a secure server that only selected personnel or independent contractors under strict confidentiality requirements have access to. We truncate, encrypt and/or tokenize credit card or debit card numbers, and thereby prevent unauthorized parties from viewing such information when it is transmitted to us or stored on our servers. 
+
+Additionally, in order to most efficiently serve you, credit card and debit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed; and (c) any such information and data may be viewed or tampered by a third party with while in transit. 
+
+**8\. Cookies.**
+
+When you use our Website we may store cookies on your computer in order to facilitate and customize your use of our Website. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to us. For example, we may use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, to help maintain a secure Website, or to generally make the Website function or more user-friendly. 
+
+We may use an outside ad-serving company to display banner advertisements on our Website. As part of their service, they will place a separate cookie on your computer. We will not provide any third party ad server with any of your Personally Identifiable Information or information about your purchases. We and our third party ad server will collect and use Non Personally Identifiable Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad. Other advertisers may also place banner ads on our Website in the same manner as above, but we will not disclose any Personally Identifiable Information to them. 
+
+Most browsers are initially set up to accept cookies. Depending on your browser, you may decide to change the settings in your browser to refuse all cookies or even to notify you when a cookie is being sent. However, if you decide to refuse all cookies from this Website, please be aware that some Website features or some of NYDC’s services may be unavailable or may not function properly. 
+
+**9\. Privacy Policies of Third Party Sites.**
+
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other websites that may be accessible by or through our Website have their own privacy policies and data collection, use and disclosure practices. Please consult each website's privacy policy. We are not responsible for the policies or practices of third parties. We cannot control a third-party’s collection or use of any information. You should contact these third parties directly if you have any questions about their use of the information that they collect. 
+
+**10\. Miscellaneous Privacy Issues.**
+
+You must be at least 18 years old to have our permission to use this Website. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 18 years of age. You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, E-mail address, etc.) in any public areas on this Website, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Privacy Policy does not apply to such information. If you do not want this information to be viewed by third parties, you are advised not to make any submissions. 
+
+NYDC’s website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage. 
+
+**11\. Changes to this Privacy Policy.**
+
+We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting the revised Privacy Policy on this page. Each version of this Privacy Policy will be identified by its effective date found below. You acknowledge and agree that it is your responsibility to maintain a valid E-mail address as a registered user, review this Website and this Privacy Policy periodically and to be aware of any modifications. Your continued use of the Website after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy. 
+
+This policy was last updated on April 16, 2014. 
