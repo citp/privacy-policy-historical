@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230201837id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194147id_/http%3A//sulia.com/privacy) for the most accurate reproduction.*
 
 # Sulia Privacy Policy
 
-We at Sulia take your privacy very seriously. This Privacy Policy covers the treatment of personally identifiable information (“Personally Identifiable Information”) that you provide to us and that is gathered and shared when you are using or accessing Sulia.  Please read this notice carefully. 
+We at Sulia take your privacy very seriously. This Privacy Policy covers the treatment of personally identifiable information (?Personally Identifiable Information?) that you provide to us and that is gathered and shared when you are using or accessing Sulia.  Please read this notice carefully. 
 
 If you have any questions on this policy, please contact us at [support@sulia.com](mailto:support@sulia.com)
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, content sources, services and applications (“Third Party Services”) that you elect to access through Sulia, or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. 
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, content sources, services and applications (?Third Party Services?) that you elect to access through Sulia, or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. 
 
-In connection with your use of Sulia, we receive information about you from various sources, including: (i) through your Sulia user account (your “Account”); (ii) your use of Sulia generally; and (iii) from Third Party Services to which you elect to connect. When you use Sulia, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. 
+In connection with your use of Sulia, we receive information about you from various sources, including: (i) through your Sulia user account (your ?Account?); (ii) your use of Sulia generally; and (iii) from Third Party Services to which you elect to connect. When you use Sulia, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
 ## Information Collected and Used by Sulia.
 
@@ -24,7 +24,7 @@ When you create an Account with Sulia, you will provide information that could i
 
 Sulia is a public forum, where users can share information and interact about topics of interest; therefore, most of the information posted through Sulia is public by default. 
 
-We allow you to submit content to Sulia, such as the ability to create, curate, and distribute collections of content and uniform resource locators (“URLs”), written descriptions of content or URLs, comments, text, images and video. As a feature of Sulia, we collect and store that information. 
+We allow you to submit content to Sulia, such as the ability to create, curate, and distribute collections of content and uniform resource locators (?URLs?), written descriptions of content or URLs, comments, text, images and video. As a feature of Sulia, we collect and store that information. 
 
 Personally Identifiable Information, such as your username and avatar, will potentially be included along with what you post and share but only to the extent that you decide to post. 
 
@@ -44,11 +44,11 @@ Sulia takes your privacy very seriously.  We use cookies in industry standard w
 
 **Information Related to Advertising:**
 
-We may serve advertisements, and also allow third party advertisements, through Sulia. Advertisements served through Sulia may be targeted to users who fit a certain generic profile. Some of these advertisements may come from third party companies called “ad networks.”  Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We do not provide Personally Identifiable Information to any ad networks for use outside of Sulia. 
+We may serve advertisements, and also allow third party advertisements, through Sulia. Advertisements served through Sulia may be targeted to users who fit a certain generic profile. Some of these advertisements may come from third party companies called ?ad networks.?  Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We do not provide Personally Identifiable Information to any ad networks for use outside of Sulia. 
 
 **Aggregate Information:**
 
-We collect statistical information about how people use Sulia (“Aggregate Information”). This statistical information is not Personally Identifiable Information and cannot be tied back to you, your Account, your web browser or your Sulia application. 
+We collect statistical information about how people use Sulia (?Aggregate Information?). This statistical information is not Personally Identifiable Information and cannot be tied back to you, your Account, your web browser or your Sulia application. 
 
 We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use Sulia and their services or websites, which facilitates improving both their services and how we interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personally Identifiable Information about you that they have independently developed or acquired. 
 
@@ -71,7 +71,7 @@ Any information that you elect to make public through Sulia will be instantly di
 
 **Information Shared with Our Agents:**
 
-We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share Personally Identifiable Information with our Agents in order to provide products or services to you. Our Agents do not have any right to use Personally Identifiable Information or other information we share with them beyond what is necessary to assist us. 
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our ?Agents?). We may need to share Personally Identifiable Information with our Agents in order to provide products or services to you. Our Agents do not have any right to use Personally Identifiable Information or other information we share with them beyond what is necessary to assist us. 
 
 **Information Disclosed Pursuant to Business Transfers:**
 
