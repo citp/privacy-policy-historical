@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023181801id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorstv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041058id_/http%3A//www.thedoctorstv.com/main/content/Privacy_Policy) for the most accurate reproduction.*
 
 # The Doctors TV Show - Privacy Policy
 
-Effective Date: September 7, 2009
+Effective Date: January 6, 2014
 
 This Privacy Policy applies only to TheDoctorsTV.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), which is owned or controlled by Stage 29 Productions, LLC. ("Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through TheDoctorsTV.com and that post a link to this Privacy Policy (collectively, the "Web Site"). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated).
 
@@ -16,6 +16,7 @@ TABLE OF CONTENTS
             [Information from Other Sources](https://web.archive.org/main/content/Privacy_Policy#3)  
             [Information We Collect As You Access And Use The Web Site](https://web.archive.org/main/content/Privacy_Policy#4)  
             [Cookies](https://web.archive.org/main/content/Privacy_Policy#5)  
+            [Do Not Track](https://web.archive.org/main/content/Privacy_Policy#DNT)  
             [Web Beacons](https://web.archive.org/main/content/Privacy_Policy#6)  
             [Embedded Scripts](https://web.archive.org/main/content/Privacy_Policy#7)  
 [IMPORTANT NOTICE REGARDING PUBLIC AREAS OF THE WEB SITE AND USER CONTENT](https://web.archive.org/main/content/Privacy_Policy#8)  
@@ -29,10 +30,11 @@ TABLE OF CONTENTS
             [Legal Protections and Law Enforcement](https://web.archive.org/main/content/Privacy_Policy#16)  
 [UPDATING YOUR SUBSCRIPTIONS](https://web.archive.org/main/content/Privacy_Policy#17)  
 [THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES](https://web.archive.org/main/content/Privacy_Policy#18)  
-[CONSENT TO TRANSFER](https://web.archive.org/main/content/Privacy_Policy#19)  
-[SECURITY](https://web.archive.org/main/content/Privacy_Policy#20)  
-[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](https://web.archive.org/main/content/Privacy_Policy#21)  
-[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY](https://web.archive.org/main/content/Privacy_Policy#22)
+[CONSENT TO TRANSFER](https://web.archive.org/main/content/Privacy_Policy#consent)  
+[SECURITY](https://web.archive.org/main/content/Privacy_Policy#security)  
+[A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY](https://web.archive.org/main/content/Privacy_Policy#parents)  
+[NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY  
+](https://web.archive.org/main/content/Privacy_Policy#notification)[CALIFORNIA RESIDENTS — YOUR CALIFORNIA RIGHTS](https://web.archive.org/main/content/Privacy_Policy#california)
 
  **TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
@@ -46,7 +48,7 @@ We may ask you to provide us with two types of information: (1) personal informa
 
 We may receive information about you from other sources; for example, we may receive information from a marketing partner in connection with a co-branded web site or promotion. We may use this information for a variety of purposes, including to enhance our ability to serve you and to tailor content and ads we serve to you. We may combine the information we receive from those other sources with information we collect through the Web Site. In those cases, we will apply this Privacy Policy to any Personal Information received, unless otherwise specifically disclosed by us at the time you provide your Personal Information.
 
- **Information We Collect As You Access And Use The Web Site**
+ **Information We Collect As You Access And Use The Web Site (including Do Not Track)**
 
 We may receive and store certain types of web site usage information whenever you visit or interact with the Web Site. For example, we and our third party service providers may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other similar information. We may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively referred to herein as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Internet (each, a "Device"), and our computers identify your device by its Device Identifier. When analyzed, web site usage information helps us determine how our site is used, such as what types of visitors arrive at the Web Site, and what type of content is most popular. We may associate your Device Identifier or web site usage information with the Personal Information you provide, but we will treat the combined information as Personal Information.
 
@@ -55,6 +57,10 @@ Web site usage information may be collected using various methods, such as the f
  **Cookies**
 
 The Web Site uses standard technology called "cookies," which are small data files that are transferred to your Device when you visit the Web Site if your browser is set to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you and allow you to personalize your experience on the Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
+
+ **Do Not Track**
+
+Some Internet browsers include the ability to transmit “Do Not Track” signals. Since uniform standards for “Do Not Track” signals have not been adopted, this Web Site does not process or respond to “Do Not Track” signals.  To learn more about “Do Not Track”, please visit “All About Do Not Track” at <http://www.allaboutdnt.com/>.
 
  **Web Beacons**
 
@@ -86,54 +92,32 @@ If you send a friend a communication from the Web Site, the information you prov
 
  **THIRD-PARTY AD SERVING AND AUDIENCE AND TRAFFIC MEASUREMENT SERVICES**
 
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your Device if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party''s specific privacy policy, not this one.
+The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. These third parties include advertisers, advertising agencies, and ad networks that may collect information about you when you view or interact with one of their advertisements and may collect information about your online activities over time and across different Web sites. Third parties may serve, track and/or analyze ads on our Web Site, and thereby may collect information about your online activities.
 
-The third party network advertisers may be members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the NAI consumer opt out page at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your Device if you choose to have cookies enabled in your browser or they may otherwise have access to non-personal information. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one.
 
- **WITH WHOM INFORMATION MAY BE SHARED**
+Some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit the [NAI consumer opt out page](http://www.networkadvertising.org/optout_nonppii.asp) __ <<http://www.networkadvertising.org/optout_nonppii.asp>>.
 
-We do not share your Personal Information with third parties for those third parties' marketing purposes unless you opt-in to such sharing at the time you provide your Personal Information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
+ Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different Web Sites. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA consumer opt out page](http://www.aboutads.info/choices/) __ <<http://www.aboutads.info/choices/>>.
 
- **Third parties providing services on our behalf**
+**CONSENT TO TRANSFER**
 
-We employ third parties to perform functions on our behalf; examples include hosting or operating the Web Site, sending e-mail and/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, and customer service. These third parties may have access to your Personal Information for the purpose of performing such functions on the Web Site's behalf.
+The Web Site is operated in the United States. If you are located outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Web Site or providing us with any information, you consent to the transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
- **When You Agree To Receive Information From Third Parties**
+**SECURITY**
 
-You may be presented with an opportunity to receive information and/or marketing offers from third party(s). If you do not agree to have your Personal Information shared, your Personal Information will not be shared with such third party(s) for direct marketing purposes. If you do agree to have your Personal Information shared, your Personal Information will be disclosed to such third party(s) and all information you disclose will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy policies and practices of such third party(s) and, therefore, you should review the privacy policies and practices of such third party(s) prior to agreeing to receive such information from third party(s). If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
+Company incorporates commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you submit via the Web Site, and you do so at your own risk.
 
- **Sweepstakes, Contests and Promotions**
-
-We may offer sweepstakes, contests, and other promotions ("Promotion") through the Web Site that may require registration. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.
-
- **Business Transfers**
-
-We may share your Personal Information with other entities affiliated with us for internal reasons primarily for business and operational purposes. Company or any of it assets, including the Web Site, may be sold, or other transactions may occur in which your Personal Information is one of the key business assets for the transaction. In such a case, your Personal Information may be one of the business assets we transfer. Hence, Company reserves the right to disclose and transfer user information, including Personal Information (i) to a subsequent owner, co-owner or operator of the Web Site or applicable database, or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of Company's stock and/or assets, or other corporate change including, without limitation, during the course of any due diligence process.
-
- **Legal Protections and Law Enforcement**
-
-We may disclose information about our users, including your Personal Information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Site and applicable laws; or to protect the legal rights, interests, or safety of the Web Site, our users or others. We may also use Device Identifiers, including IP addresses, to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
-
- **UPDATING YOUR INFORMATION AND OPTING OUT FROM EMAIL COMMUNICATIONS**
-
-The Web Site may contain web pages through which you can correct or update some of the personal information you have provided to us through registration with the Web Site. With regard to e-mail newsletters and similar communications you may receive from us, you may tell us you no longer want to receive these emails from the Web Site by following the opt-out instructions provided to you in those communications. Please note that we reserve the right to send you certain communications relating to your account or use of the Web Site, such as administrative and services announcements and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.
-
- **THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES**
-
-When you are on the Web Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Web Site onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Site's logo as part of a co-branding agreement. These other web sites may set their own cookies on your browser, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Site, you should consult that web site's privacy policy before providing any Personal Information. Company is not responsible for the privacy practices employed by any third party web site.
-
- **CONSENT TO TRANSFER**
-
-The Web Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Web Site or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
-
- **SECURITY**
-
-Company incorporates commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you submit via the Web Site, and you do so at your own risk.
-
- **A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
+**A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
 
 The Web Site is a general audience web site. We do not knowingly collect any Personal Information from children younger than the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13).
 
- **NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**
+**NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY**
 
-By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy and those changes will become effective immediately upon posting. However, Company will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy and will notify you of material changes by posting a notice and the new Privacy Policy on the Web Site.  We may also, in our sole discretion, provide you with notice of in other ways, including through any contact information you have provided.  Changes will become effective immediately upon posting or as otherwise specified in the updated policy. However, Company will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+
+**CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
+
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request certain information from companies conducting business in California relating to third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as we do, by disclosing in its privacy policy that it provides consumers a choice (opt-out or opt-in) regarding sharing personal information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice.  As stated above in this Privacy Policy, Company provides you a choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Company offers that choice, Company does not share your information with that identified third party for its direct marketing purposes.
+
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: [ doctors-boards@cbsparamount.com](mailto:doctors-boards@cbsparamount.com) or write to us at the following mailing address: Stage 29 Productions, LLC, 5555 Melrose Ave, Mae West Building, 2nd Floor, Los Angeles, CA 90038. You must put the statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
