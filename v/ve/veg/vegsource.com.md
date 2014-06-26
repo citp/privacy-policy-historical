@@ -1,45 +1,85 @@
-> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207015757id_/http%3A//www.vegsource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegsource.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627004433id_/http%3A//vegsource.com/privacy.html) for the most accurate reproduction.*
 
 # VegSource.com Privacy Policy - Vegsource.com
 
-At VegSource.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
+**What information do we collect?**
 
-**When does VegSource.com collect my personal information?**
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-You may provide personal information to VegSource.com in one of four ways: (1) by sharing your e-mail address and subscribing to email newsletters or requesting site updates, (2) by sharing personal information when you provide tips to our news department, (3) by sharing personal information when you post comments on our posts or stories, or (4) by sharing contact information. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-In addition to personal information you may opt to provide, we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to HuffingtonPost.com.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**How does VegSource.com use my personal information?**
+ **What do we use your information for?**
 
-The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by VegSource.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners' products.
+Any of the information we collect from you may be used in one of the following ways: 
 
-To maintain a site that is free of charge and does not require registration, we display advertisements on our web site. We also use the information you give us to help our advertisers target the audience they want to reach. At no time does any party other than VegSource.com have access to your personally identifiable information, and you will never be contacted by any party other than VegSource.com. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company.
+To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-When you sign up for our updates or receive e-mail messages from VegSource.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them.
+ **How do we protect your information?**
 
-**Who else has access to my personal information?**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-The ads appearing on VegSource.com are delivered to you by Google, Casale Media, ContextWeb, Advertising.com and Amazon. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-Email newsletters received by subscribers are delivered to you by VegSource.com. Under no circumstances will we make any personal information about an individual user available to anyone.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:
+ **Do we use cookies?**
 
-  * ContextWeb's privacy policy at <http://www.contextweb.com/ppolicy.html>
-  * Google privacy policy at <http://www.google.com/intl/en/privacy.html>
-  * Advertising.com privacy policy at <http://www.advertising.com/privacy>
-  * Casale Media's privacy policy at <http://casalemedia.com/privacy.html>
-  * And Amazon.com's privacy policy at <http://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
+We use cookies to help us remember and process the items in your shopping cart.
 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
 
-Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that VegSource.com does not employ or manage are not covered by this privacy statement.
+ **Do we disclose any information to outside parties?**
 
-**Is there anything else I should know about my privacy and VegSource.com?**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
+ **Third party links**
 
-(revised 10.23.2009)
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.vegsource.com/policies.html>
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 5/15/2014
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.vegsource.com  
+20555 Devonshire St. #305  
+Chatsworth, CA 91311  
+USA  
+support@vegsource.com  
+818-349-5600
+
+This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
