@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugstudio.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807195135id_/http%3A//www.rugstudio.com/rugstudioprivacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugstudio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194656id_/http%3A//www.rugstudio.com/rugstudioprivacypolicy.aspx) for the most accurate reproduction.*
 
 # RugStudio: Privacy Policy
 
