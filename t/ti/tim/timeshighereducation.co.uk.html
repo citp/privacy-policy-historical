@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the timeshighereducation.co.uk privacy policy that was archived on 2013-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111214933id_/http%3A//www.timeshighereducation.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timeshighereducation.co.uk privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626102642id_/http%3A//www.timeshighereducation.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" slick-uniqueid="3"><head>
+    <!-- M1.master -->
 	
 
-<meta charset="utf-8">
+<meta charset="utf-8"><script type="text/javascript" async="" src="https://assets.infinity-tracking.net/nas/js/nas.v1.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"55613def96","applicationID":"3910866","transactionName":"Ml1TZBNTCkcCAkFaWAsXcGMxHRdADBNMHVYWSEk=","queueTime":0,"applicationTime":228,"ttGuid":"143CA18F59F37D","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8HVFVXGwAJVVFaAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Policy | News | Times Higher Education</title>
 <meta name="description" content="Privacy Statement">
 <meta name="keywords" content="">
@@ -39,7 +40,7 @@
 	
 </head>
 <body id="story" class="M1-master ">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">document.body.className = document.body.className.replace('js-disabled', '');</script>
+	<script type="text/javascript">document.body.className = document.body.className.replace('js-disabled', '');</script>
 	
 
 <div id="cookiePolicy">
@@ -70,15 +71,18 @@
             validPaths = "home";
         }
         document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/' + validPaths + '/;pos=top;sz=728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20131111214933id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=top;sz=728x90;ord=4086346763220?" type="text/javascript"></script>
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20140626102642id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=top;sz=728x90;ord=5626345670934?" type="text/javascript"></script>
 
+<!-- BEGIN JS TAG - THE_Home_ATF_728x90 < - DO NOT MODIFY -->
+<script src="http://ads.pubsqrd.com/ttj?id=2594413&amp;size=728x90&amp;promo_sizes=970x250&amp;referrer=timeshighereducation.co.uk" type="text/javascript"></script>
+<!-- END TAG -->
 
 	</div>
 </div>
 <div class="ad small">
 	<div class="ad">
-		<a href="http://www.tslshop.co.uk/thed/THEDOA65/">
-    <img src="http://www.timeshighereducation.co.uk/Pictures/web/x/a/r/the-autumn-subs-offer-2013-mpu.gif" alt="Times Higher Education free 30-day trial Autumn 2013 offer">
+		<a href="http://www.tslshop.co.uk/thed-tsl/thedoa65">
+    <img src="http://www.timeshighereducation.co.uk/Pictures/web/u/a/h/the-free-30-day-trial-summer-2014-square.jpg" alt="Claim a free 30-day trial to Times Higher Education digital">
 </a>
 	</div>
 </div></div>
@@ -93,7 +97,7 @@
 					
 
 <div id="logo"><a href="/"><img src="/magazine/graphics/logo.png" alt="Times Higher Education"></a></div>
-<div id="print_logo"><img src="/magazine/graphics/print_logo.png" alt="Times Higher Education"></div>
+<div id="print_logo"><img src="/magazine/graphics/print_logo.png" alt="Times Higher Education"></div>  
 					
 
 <div class="htmlContent">
@@ -106,7 +110,7 @@
 </div>	
 					
 
-<div id="mastnav" class="loggedout mastNavStyle1"><ul><li class="first">Welcome</li><li><a href="http://www.timeshighereducation.co.uk/log-in">Log in</a></li><li><a href="http://www.timeshighereducation.co.uk/register">Register</a></li><li><a href="http://www.timeshighereducation.co.uk/subscribe">Subscribe</a></li><li class="last"><a href="http://www.timeshighereducation.co.uk/forgotten-password">Forgotten password</a></li></ul></div>
+<div id="mastnav" class="loggedout mastNavStyle1"><ul><li class="first">Welcome</li><li><a href="http://www.timeshighereducation.co.uk/log-in">Log in</a></li><li><a href="http://www.timeshighereducation.co.uk/register">Register</a></li><li class="notFindTheBest"><a href="http://www.timeshighereducation.co.uk/subscribe">Subscribe</a></li><li class="last"><a href="http://www.timeshighereducation.co.uk/forgotten-password">Forgotten password</a></li></ul></div>
 					
 
  <div id="mastsearch">
@@ -136,10 +140,11 @@
   <div id="sleeve">
     <div id="subsleeve">
       <ul>
-        <li class="first"><a accesskey="1" href="http://www.timeshighereducation.co.uk"><span>Home</span></a></li>
+        <li class="first notFindTheBest"><a accesskey="1" href="http://www.timeshighereducation.co.uk"><span>Home</span></a></li>
         <li><a href="http://www.timeshighereducation.co.uk/news/"><span>News</span></a><div>
             <ul>
-              <li class="first dropdown"><a href="http://www.timeshighereducation.co.uk/news/politics-and-policy/"><span>Politics and Policy</span></a><div>
+              <li class="first"><a href="http://www.timeshighereducation.co.uk/news/breaking-news/"><span>Breaking news</span></a></li>
+              <li class="dropdown"><a href="http://www.timeshighereducation.co.uk/news/politics-and-policy/"><span>Politics and Policy</span></a><div>
                   <ul>
                     <li class="first"><a href="http://www.timeshighereducation.co.uk/282.more">Employment</a></li>
                     <li><a href="http://www.timeshighereducation.co.uk/287.more">Access and admissions</a></li>
@@ -178,8 +183,9 @@
               <li><a href="http://www.timeshighereducation.co.uk/news/internationalisation/"><span>Internationalisation</span></a></li>
               <li class="last dropdown"><a href="http://www.timeshighereducation.co.uk/news/people/"><span>People</span></a><div>
                   <ul>
-                    <li class="first"><a href="http://www.timeshighereducation.co.uk/news/people/qas-and-appointments/">Q&amp;As and Appointments</a></li>
-                    <li class="last"><a href="http://www.timeshighereducation.co.uk/news/people/obituaries/">Obituaries</a></li>
+                    <li class="first"><a href="http://www.timeshighereducation.co.uk/news/people/qas/">Q&amp;As</a></li>
+                    <li><a href="http://www.timeshighereducation.co.uk/news/people/obituaries/">Obituaries</a></li>
+                    <li class="last"><a href="http://www.timeshighereducation.co.uk/news/people/careers-intelligence/">Careers intelligence</a></li>
                   </ul>
                 </div>
               </li>
@@ -228,12 +234,12 @@
             </ul>
           </div>
         </li>
-        <li><a href="http://www.timeshighereducation.co.uk/books/"><span>Books</span></a><div>
+        <li class="notFindTheBest"><a href="http://www.timeshighereducation.co.uk/books/"><span>Books</span></a><div>
             <ul>
               <li class="first"><a href="http://www.timeshighereducation.co.uk/books/books-of-the-week/"><span>Books of the week</span></a></li>
               <li class="last dropdown"><a href="http://www.timeshighereducation.co.uk/books/textbook-guides/"><span>Textbook guides</span></a><div>
                   <ul>
-                    <li class="first"><a href="http://www.timeshighereducation.co.uk/story.aspx?storyCode=2008669">7 November 2013</a></li>
+                    <li class="first"><a href="http://www.timeshighereducation.co.uk/books/textbook-guides/7-november-2013/">7 November 2013</a></li>
                     <li><a href="http://www.timeshighereducation.co.uk/books/textbook-guides/23-may-2013/">23 May 2013</a></li>
                     <li><a href="http://www.timeshighereducation.co.uk/books/textbook-guides/28-february-2013/">28 February 2013</a></li>
                     <li><a href="http://www.timeshighereducation.co.uk/books/textbook-guides/8-november-2012/">8 November 2012</a></li>
@@ -248,23 +254,24 @@
         <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/"><span>Rankings</span></a><div>
             <ul>
               <li class="first"><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2013-14/world-ranking"><span>World University Rankings</span></a></li>
-              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2013/reputation-ranking"><span>World Reputation Rankings</span></a></li>
-              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2013/one-hundred-under-fifty"><span>100 Under 50</span></a></li>
-              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2012-13/regional-ranking/region/asia"><span>Asia University Rankings</span></a></li>
+              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2014/reputation-ranking"><span>World Reputation Rankings</span></a></li>
+              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2014/one-hundred-under-fifty"><span>100 Under 50</span></a></li>
+              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2013-14/regional-ranking/region/asia"><span>Asia University Rankings</span></a></li>
+              <li><a href="http://www.timeshighereducation.co.uk/world-university-rankings/2014/brics-and-emerging-economies"><span>BRIC &amp; Emerging Economies Rankings</span></a></li>
               <li class="last"><a href="http://www.timeshighereducation.co.uk/world-university-rankings/news"><span>Rankings news</span></a></li>
             </ul>
           </div>
         </li>
-        <li><a href="http://www.the-awards.co.uk/"><span>Awards</span></a><div>
+        <li><a href="http://www.thelmawards.co.uk/"><span>Awards</span></a><div>
             <ul>
-              <li class="first"><a href="http://www.the-awards.co.uk/"><span>THE Awards 2013</span></a></li>
-              <li><a href="http://www.thelmawards.co.uk/"><span>THE Leadership &amp; Management Awards 2013</span></a></li>
+              <li class="first"><a href="http://www.the-awards.co.uk/"><span>THE Awards</span></a></li>
+              <li><a href="http://www.thelmawards.co.uk/"><span>THE Leadership &amp; Management Awards</span></a></li>
               <li><a href="http://www.timeshighereducation.co.uk/awards/the-awards-archive/"><span>THE Awards archive</span></a></li>
-              <li class="last"><a href="http://www.timeshighereducation.co.uk/awards/thelmas-archive/"><span>THELMAs archive</span></a></li>
+              <li class="last"><a href="http://www.timeshighereducation.co.uk/awards/the-leadership-and-management-awards-archive/"><span>THE Leadership &amp; Management Awards archive</span></a></li>
             </ul>
           </div>
         </li>
-        <li><a href="http://jobs.timeshighereducation.co.uk/jobs_home.asp?navcode=200"><span>Jobs</span></a><div>
+        <li class="notFindTheBest"><a href="http://jobs.timeshighereducation.co.uk/jobs_home.asp?navcode=200"><span>Jobs</span></a><div>
             <ul>
               <li class="first"><a href="http://jobs.timeshighereducation.co.uk/jobs_home.asp"><span>Advanced Job Search</span></a></li>
               <li><a href="http://jobs.timeshighereducation.co.uk/jobs_myaccount.asp"><span>My Jobs Account</span></a></li>
@@ -273,14 +280,14 @@
             </ul>
           </div>
         </li>
-        <li><a href="http://www.timeshighereducation.co.uk/subscribe/"><span>Subscribe</span></a><div>
+        <li class="notFindTheBest"><a href="http://www.timeshighereducation.co.uk/subscribe/"><span>Subscribe</span></a><div>
             <ul>
               <li class="first"><a href="http://www.timeshighereducation.co.uk/subscribe/uk-subscriptions/"><span>UK subscriptions</span></a></li>
               <li><a href="http://www.timeshighereducation.co.uk/subscribe/european-subscriptions/"><span>European subscriptions</span></a></li>
               <li><a href="http://www.timeshighereducation.co.uk/subscribe/global-subscriptions/"><span>Global subscriptions</span></a></li>
               <li><a href="http://www.timeshighereducation.co.uk/story.aspx?storyCode=2002923"><span>iPad/iPhone app</span></a></li>
-              <li><a href="http://www.timeshighereducation.co.uk/subscribe/digital-editions/"><span>Digital Editions</span></a></li>
-              <li><a href="https://www.tslshop.co.uk/index.php?cl=dsb_listpublications&amp;channel=bi"><span>Back issues</span></a></li>
+              <li><a href="http://www.timeshighereducation.co.uk/subscribe/digital-editions/"><span>Digital editions</span></a></li>
+              <li><a href="http://www.tslshop.co.uk/index.php?cl=listpublications&amp;channel=bi"><span>Back issues</span></a></li>
               <li class="last"><a href="http://www.timeshighereducation.co.uk/subscribe/sponsored-supplements/"><span>Sponsored supplements</span></a></li>
             </ul>
           </div>
@@ -412,14 +419,23 @@
     <li class="first"><a href="javascript:window.print();" class="icon print">Print</a></li>
     <li><a href="/sign-in" class="icon email">Email</a></li>
     <li>
-      <div class="addthis_toolbox addthis_default_style"><script type="text/javascript">var addthis_config = {
+      <div class="addthis_toolbox addthis_default_style"><script type="text/javascript">
+    var titlearray = document.title.split("|"); 
+
+    var addthis_share = addthis_share || {}
+        addthis_share = {
+        passthrough : {
+                twitter: {
+             via: "timeshighered"
+             ,text: titlearray[0]  }
+        }
+    };
+    
+    var addthis_config = {
         services_compact: 'favorites, twitter, digg, delicious, google, myspace, facebook, live, stumbleupon,  more',
         username: 'abacusemedia'
     }
-</script><a class="addthis_button_compact"><!--#*-->Share<!--*#--></a>
-
-
-</div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=true"></script></li>
+</script><a class="addthis_button_compact"><!--#*-->Share<!--*#--></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=true"></script></li>
     <li class="last"><a class="icon save" href="/sign-in">
 									Save
 								</a></li>
@@ -487,14 +503,23 @@
     <li class="first"><a href="javascript:window.print();" class="icon print">Print</a></li>
     <li><a href="/sign-in" class="icon email">Email</a></li>
     <li>
-      <div class="addthis_toolbox addthis_default_style"><script type="text/javascript">var addthis_config = {
+      <div class="addthis_toolbox addthis_default_style"><script type="text/javascript">
+    var titlearray = document.title.split("|"); 
+
+    var addthis_share = addthis_share || {}
+        addthis_share = {
+        passthrough : {
+                twitter: {
+             via: "timeshighered"
+             ,text: titlearray[0]  }
+        }
+    };
+    
+    var addthis_config = {
         services_compact: 'favorites, twitter, digg, delicious, google, myspace, facebook, live, stumbleupon,  more',
         username: 'abacusemedia'
     }
-</script><a class="addthis_button_compact"><!--#*-->Share<!--*#--></a>
-
-
-</div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=true"></script></li>
+</script><a class="addthis_button_compact"><!--#*-->Share<!--*#--></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=true"></script></li>
     <li class="last"><a class="icon save" href="/sign-in">
 									Save
 								</a></li>
@@ -517,11 +542,11 @@
             validPaths = "home";
         }
         document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/' + validPaths + '/;pos=top;sz=300x250;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20131111214933id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=top;sz=300x250;ord=4086346763220?" type="text/javascript"></script>
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20140626102642id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=top;sz=300x250;ord=5626345670934?" type="text/javascript"></script>
 
-
-
-
+<!-- BEGIN JS TAG - THE_Home_ATF_300x250 < - DO NOT MODIFY -->
+<script src="http://ads.pubsqrd.com/ttj?id=2594434&amp;size=300x250&amp;promo_sizes=300x600&amp;referrer=timeshighereducation.co.uk" type="text/javascript"></script>
+<!-- END TAG -->
 </div>
 							
 
@@ -539,17 +564,20 @@
     <div class="sleeve">
         <h2><a href=" http://jobs.timeshighereducation.co.uk/jobs_home.asp?navcode=200">Featured Jobs</a></h2>
         <ul>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110391"><img src="/Pictures/web/g/n/k/Regents_Uni_144x88.jpg" alt="%2fg%2fn%2fk%2fRegents_Uni_144x88.jpg"></a></li>
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117393"><img src="/Pictures/web/p/l/y/Institute_of_Technology_Sligo_144x88.jpg" alt="%2fp%2fl%2fy%2fInstitute_of_Technology_Sligo_144x88.jpg"></a></li>
 
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110378"><img src="/Pictures/web/j/h/b/Uni_of_Birmingham_144x88.jpg" alt="%2fj%2fh%2fb%2fUni_of_Birmingham_144x88.jpg"></a></li>
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117115"><img src="/Pictures/web/w/q/q/Liverpool_school_medicine_144x88_logo.jpg" alt="%2fw%2fq%2fq%2fLiverpool_school_medicine_144x88_logo.jpg"></a></li>
 
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110356"><img src="/Pictures/web/f/a/m/De_Montfort_Uni_144x88.jpg" alt="%2ff%2fa%2fm%2fDe_Montfort_Uni_144x88.jpg"></a></li>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110400"><img src="/Pictures/web/s/i/x/Uni_of_Bath_144x88_logo.jpg" alt="%2fs%2fi%2fx%2fUni_of_Bath_144x88_logo.jpg"></a></li>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110126"><img src="/Pictures/web/m/g/q/Surrey_144x88_logo.jpg" alt="%2fm%2fg%2fq%2fSurrey_144x88_logo.jpg"></a></li>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110349"><img src="/Pictures/web/g/g/w/Uni_of_Aberdeen_144x88.jpg" alt="%2fg%2fg%2fw%2fUni_of_Aberdeen_144x88.jpg"></a></li>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110406"><img src="/Pictures/web/v/g/t/Uni_of_Reading_144x88.jpg" alt="%2fv%2fg%2ft%2fUni_of_Reading_144x88.jpg"></a></li>
-<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=110113"><img src="/Pictures/web/o/u/t/Uni_of_Highlands_UHI.jpg" alt="%2fo%2fu%2ft%2fUni_of_Highlands_UHI.jpg"></a></li>
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117305"><img src="/Pictures/web/v/v/a/London_School_of_Hygiene_144x88.jpg" alt="%2fv%2fv%2fa%2fLondon_School_of_Hygiene_144x88.jpg"></a></li>
 
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117562"><img src="/Pictures/web/x/h/t/Botswana_144x88.jpg" alt="%2fx%2fh%2ft%2fBotswana_144x88.jpg"></a></li>
+
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117515"><img src="/Pictures/web/a/n/p/Birmingham_City_144x88.jpg" alt="%2fa%2fn%2fp%2fBirmingham_City_144x88.jpg"></a></li>
+
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117264"><img src="/Pictures/web/t/w/f/General_Osteopathic_144x88.jpg" alt="%2ft%2fw%2ff%2fGeneral_Osteopathic_144x88.jpg"></a></li>
+
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117491"><img src="/Pictures/web/j/t/o/Derby_144x88_logo.jpg" alt="%2fj%2ft%2fo%2fDerby_144x88_logo.jpg"></a></li>
+<li><a href="http://jobs.timeshighereducation.co.uk/jobs_jobdetails.asp?ac=117303"><img src="/Pictures/web/l/k/j/Sheffield_144x88_logo.jpg" alt="%2fl%2fk%2fj%2fSheffield_144x88_logo.jpg"></a></li>
         </ul>
     </div>
 </div>
@@ -560,9 +588,7 @@
 
 <div class="htmlContent">
 	<div class="featuredEmployer two box">
-    <div class="sleeve"><a href="http://jobs.timeshighereducation.co.uk/jobs_home.asp?navcode=200"><img src="http://www.timeshighereducation.co.uk/THEAssets/THES/graphics/28.03.13-THE-Web-Banner-300px-x-60px 2.gif" alt="Jobs"></a></div></div>
-  
-
+    <div class="sleeve"><a href="http://jobs.timeshighereducation.co.uk/jobs_home.asp?navcode=200"><img src="http://www.timeshighereducation.co.uk/Pictures/web/n/f/n/search-higher-education-jobs.gif" alt="Jobs"></a></div></div>
 </div>
 							
 
@@ -573,8 +599,11 @@
             validPaths = "home";
         }
         document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/' + validPaths + '/;pos=bottom;sz=300x250;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20131111214933id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=bottom;sz=300x250;ord=4086346763220?" type="text/javascript"></script>
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20140626102642id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=bottom;sz=300x250;ord=5626345670934?" type="text/javascript"></script>
 
+<!-- BEGIN JS TAG - THE_Home_BTF_300x250 < - DO NOT MODIFY -->
+<script src="http://ads.pubsqrd.com/ttj?id=2594436&amp;size=300x250&amp;referrer=timeshighereducation.co.uk" type="text/javascript"></script>
+<!-- END TAG -->
 
 </div>
 							
@@ -588,19 +617,19 @@
     <div class="content">
       <ul>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/worlds-top-100-universities-for-producing-millionaires/2008749.article">World's top 100 universities for producing millionaires</a>
+          <a href="http://www.timeshighereducation.co.uk/news/glyndwr-visa-licence-suspended-amid-home-office-crackdown/2014140.article">Glyndwr visa licence suspended amid Home Office crackdown </a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/features/scholars-rude-awakenings/2008689.article">Scholars’ rude awakenings</a>
+          <a href="http://www.timeshighereducation.co.uk/news/qaa-launches-inquiry-into-london-branch-campuses/2014148.article">QAA launches inquiry into London branch campuses</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/features/10-truths-a-phd-supervisor-will-never-tell-you/2005513.article">10 truths a PhD supervisor will never tell you</a>
+          <a href="http://www.timeshighereducation.co.uk/news/warburg-institute-library-saved-from-nazis-awaits-its-fate/2014023.article">Warburg Institute: library saved from Nazis awaits its fate</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/academics-threatened-over-working-to-rule/2008863.article">Academics threatened over working to rule</a>
+          <a href="http://www.timeshighereducation.co.uk/news/home-office-student-visa-clampdown-rocks-sector/2014151.article">Home Office student visa clampdown rocks sector</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/global-employability-university-ranking-2013/2008497.article">Global Employability University Ranking 2013</a>
+          <a href="http://www.timeshighereducation.co.uk/news/video-gamers-offered-scholarships-by-us-university/2014099.article">Video gamers offered scholarships by US university</a>
         </li>
       </ul>
     </div>
@@ -613,25 +642,44 @@
     <div class="content">
       <ul>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/worlds-top-100-universities-for-producing-millionaires/2008749.article">World's top 100 universities for producing millionaires</a>
+          <a href="http://www.timeshighereducation.co.uk/news/university-of-warwick-gags-critic-of-authoritarian-sector/2014022.article">University of Warwick gags critic of 'authoritarian' sector</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/researchers-should-be-given-leeway-on-open-access/2008835.article">Researchers ‘should be given leeway’ on open access </a>
+          <a href="http://www.timeshighereducation.co.uk/comment/opinion/uk-universities-from-excellence-to-omnishambles/2013980.article">UK universities: from excellence to omnishambles</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/features/scholars-rude-awakenings/2008689.article">Scholars’ rude awakenings</a>
+          <a href="http://www.timeshighereducation.co.uk/news/heriot-watt-v-c-to-take-over-at-australian-university/2014069.article">Heriot-Watt v-c to take over at Australian university</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/comment/opinion/academic-freedom-protects-academics-from-each-other/2008812.article">Academic freedom protects academics from each other</a>
+          <a href="http://www.timeshighereducation.co.uk/news/private-colleges-investigated-amid-fears-of-fraud/2014015.article">Private colleges investigated amid fears of fraud</a>
         </li>
         <li>
-          <a href="http://www.timeshighereducation.co.uk/news/cardiff-dean-paul-morgan-resigns-after-restructure/2006505.article">Cardiff dean Paul Morgan resigns after restructure</a>
+          <a href="http://www.timeshighereducation.co.uk/news/cameron-adviser-calls-for-courses-to-be-ranked-using-earnings-data/2014061.article">Cameron adviser calls for courses to be ranked using earnings data</a>
         </li>
       </ul>
     </div>
   </div>
 </div>
 							
+
+<div class="htmlContent">
+ 
+</div> 
+
+							
+                            <!-- OnScroll - Times Higher Education - MPU - Times Higher Education -->
+<script>
+var onScrOll=new Object();
+onScrOll.code="PCEtLSBNZXRyaWMgU2NpZW5jZSAtIFRpbWVzIEhpZ2hlciBFZHVjYXRpb24gLSBNUFUgLSBUaW1lcyBIaWdoZXIgRWR1Y2F0aW9uIC0tPgo8ZGl2Pgo8IS0tIHN0YXJ0IG9mIGNyZWF0aXZlIGNvbnRlbnQgLS0+CjwhLS0gQkVHSU4gSlMgVEFHIC0gTVBVIC0gVGltZXMgSGlnaGVyIEVkdWNhdGlvbiA8IC0gRE8gTk9UIE1PRElGWSAtLT4NCjxTQ1JJUFQgU1JDPSJodHRwOi8vYWQubmV0Y29tbXVuaXRpZXMuY29tL3R0aj9pZD0xODkwMTQzIiBUWVBFPSJ0ZXh0L2phdmFzY3JpcHQiPjwvU0NSSVBUPg0KPCEtLSBFTkQgVEFHIC0tPgo8IS0tIGVuZCBvZiBjcmVhdGl2ZSBjb250ZW50IC0tPgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+Cih3aW5kb3cuX3RyYWNrZXIgPSAod2luZG93Ll90cmFja2VyIHx8IFtdKSkucHVzaCh7CiAgY2FtcGFpZ25JZDogJzUyNjdkYmE4ZmE5YTliN2EwYjAwMDAxYScsCiAgY3JlYXRpdmVJZDogJzUyNjdkYmIzZmE5YTliN2EwYjAwMDAxYicsCiAgYWNjb3VudElkOiAnNTI2N2RiOTBmYTlhOWI3YTBiMDAwMDE5Jwp9KTsKPC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwOi8vY2RuLm9uc2Nyb2xsLmNvbS9tcy5vcy5qcyI+PC9zY3JpcHQ+CjwvZGl2Pgo8IS0tIEVuZCBvZiB0YWcgLSAtLT4=";
+onScrOll.margin=620;
+onScrOll.mode="sticky";
+onScrOll.height=250;
+onScrOll.width=300;
+onScrOll.reload=false;
+onScrOll.marginTop=10;
+</script>
+<script src="http://cdn.onscroll.com/onscroll.ms.js"></script>
+<!-- End of tag - -->
 						</div>
 					</div>
 				</div>
@@ -648,15 +696,16 @@
             validPaths = "home";
         }
         document.write('<script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/' + validPaths + '/;pos=bottom;sz=728x90;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
-</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20131111214933id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=bottom;sz=728x90;ord=4086346763220?" type="text/javascript"></script>
+</script><script language="JavaScript" src="https://ad.uk.doubleclick.net/N2884/adj/THE/web/20140626102642id_/http://www.timeshighereducation.co.uk/privacy-policy/;pos=bottom;sz=728x90;ord=5626345670934?" type="text/javascript"></script>
 
-
+<!-- BEGIN JS TAG - THE_Home_BTF_728x90 < - DO NOT MODIFY -->
+<script src="http://ads.pubsqrd.com/ttj?id=2594433&amp;size=728x90&amp;referrer=timeshighereducation.co.uk" type="text/javascript"></script>
+<!-- END TAG -->
 
 		</div>
 		<div class="ad small">
-			<a href="/story.aspx?storyCode=2002273">
-    <img src="http://www.timeshighereducation.co.uk/THEAssets/THES/graphics/The-Support-web-banner-202x90.gif" alt="Advertisement">
-</a>
+			
+
 		</div>
 	</div>
 </div>
@@ -683,15 +732,17 @@
                 <li>Save stories into your online library </li>
                 
             </ul>
-            <a href="/registeraccount.aspx?navcode=27" class="button style2"><span>Register now</span></a>
+            <a href="https://secure.timeshighereducation.co.uk/registeraccount.aspx?navcode=27&amp;utm_source=THE&amp;utm_medium=ONLINE&amp;utm_content=FOOTER&amp;utm_campaign=registration" class="button style2"><span>Register now</span></a>
         </div>
+        
+        
         <div class="block blockTwo">
-            <a href="http://www.tslshop.co.uk/the/THEOA76/"><img src="http://www.timeshighereducation.co.uk/Pictures/web/j/b/o/times-higher-education-ios-app-071113.png" border="0" alt="Times Higher Education subscriptions"></a>
-            <h3>GET 12 ISSUES FOR £12</h3>
+            <a href="http://www.tslshop.co.uk/THE/NYOFFER14/?utm_source=THE&amp;utm_medium=ONLINE&amp;utm_content=FOOTER&amp;utm_campaign=subscription"><img src="http://www.timeshighereducation.co.uk/Pictures/web/q/d/p/times-higher-education-ios-app-260614.png" border="0" alt="Times Higher Education subscriptions"></a>
+            <h3>GET 6 ISSUES FOR £1</h3>
             <p>If you like what you’re reading online, why not take advantage of our special subscription offer and unlock all of <em>Times Higher Education</em>’s content?</p><p>You’ll get full access to our website, print and digital editions, and the <em>Times Higher Education</em> app for Apple iPad and iPhone.</p><br>
             
         
-            <a href="http://www.tslshop.co.uk/the/THEOA76/" class="button style2"><span>Subscribe now</span></a>
+            <a href="http://www.tslshop.co.uk/THE/NYOFFER14/?utm_source=THE&amp;utm_medium=ONLINE&amp;utm_content=FOOTER&amp;utm_campaign=subscription" class="button style2"><span>Subscribe now</span></a>
         </div>
         <div class="block blockThree">
             <h3>Have you got an opinion?</h3>
@@ -714,7 +765,7 @@
 				</div>
 				
 	
-<ul class="seo_nav"><li class="first">Copyright © 2013 TSL Education Ltd.</li><li><a href="http://www.timeshighereducation.co.uk/a-z-subjects/">A-z subjects</a></li><li><a href="http://www.timeshighereducation.co.uk/a-z-contributors/">A-z contributors</a></li><li><a href="http://www.timeshighereducation.co.uk/previous-issues/">Previous issues</a></li><li class="last"><a href="http://www.timeshighereducation.co.uk/site-map/">Site map</a></li></ul>
+<ul class="seo_nav"><li class="first">Copyright © 2014 TSL Education Ltd.</li><li><a href="http://www.timeshighereducation.co.uk/a-z-subjects/">A-z subjects</a></li><li><a href="http://www.timeshighereducation.co.uk/a-z-contributors/">A-z contributors</a></li><li><a href="http://www.timeshighereducation.co.uk/previous-issues/">Previous issues</a></li><li class="last"><a href="http://www.timeshighereducation.co.uk/site-map/">Site map</a></li></ul>
 				<p class="webvision">Site powered by <a href="http://www.abacusemedia.com/webvision">Webvision</a></p>
 			</div>
 		</div>
@@ -740,21 +791,39 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 	
 	
-<script src="/Cache/Packager/6A466E71F5AC9BF1655DA7CC465397D6.js" type="text/javascript"></script>
+<script src="/Cache/Packager/93B94B997DE6DCAEE018802DF2344241.js" type="text/javascript"></script>
 	
 	
 	
 	
 
-	<script type="text/javascript">
+	<!--THE Tracking Code - do not delete -->
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-35881683-1']);
+  _gaq.push(['_setDomainName', 'timeshighereducation.co.uk']);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!--Jellyfish Tracking Code-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46086803-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -779,6 +848,24 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
+
+<!-- Infinity Tracking Code v1.30
+ Copyright Infinity Tracking 2011
+ www.Infinity-Tracking.com -->
+<script type="text/javascript">
+    var _ictt = _ictt || [];
+    _ictt.push(['_setIgrp', '724']); // Installation ID
+    _ictt.push(['_track']);
+(function() {
+    var ict = document.createElement('script'); ict.type = 'text/javascript'; ict.async = true;
+    ict.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.infinity-tracking.net/nas/js/nas.v1.min.js';
+    var scr = document.getElementsByTagName('script')[0]; scr.parentNode.insertBefore(ict, scr);
+})();
+</script>
+<!-- Infinity Tracking Code End -->
+
+
+
 	
 	
 	
@@ -787,4 +874,4 @@ var google_remarketing_only = true;
 
 	
 
-<div class="attachments" style="display: none;"></div></body></html>
+<div class="attachments" style="display: none;"></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
