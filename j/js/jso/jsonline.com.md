@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212112921id_/http%3A//www.jsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jsonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153415id_/http%3A//www.jsonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy 2012 - JSOnline
 
