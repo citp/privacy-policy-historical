@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120020917id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626204713id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Bayt.com
 
@@ -11,6 +11,8 @@ As a career site, Bayt.com will ask job seekers and employers to submit any info
 To fully participate in our job and candidate databases or search activities, we require you to register as a Bayt.com member. Non-registered users are granted partial participation access eg. non-registered job seekers may view positions but not company contact information.
 
 To register, we will ask for contact information (job seekers and employers) and information on your company (employers). Bayt.com is the sole owner of information collected on the registration pages and we will not disclose this information to anyone outside of Bayt.com. Your contact information (such as name and email address may however be used to contact you about any features/services on our site which we believe may be of interest. Our goal is to provide our users with a personalized experience every time they log onto Bayt.com and to that end we may direct you to jobs/articles/forums etc. that we think may assist you in your career/lifestyle activities.
+
+The details collected do not include credit card details of customers. All credit card information will not be stored, sold, shared, rented or leased to any third parties.
 
 ## CVs
 
@@ -43,4 +45,6 @@ Registered job seekers and employers have access to a personal workspace from wh
 
 Bayt.com will continue to commit itself to protecting and maximizing our users' privacy. We will update you on an ongoing basis on any changes/enhancements in our privacy practices.
 
-* * *
+## Cancellations and Refunds
+
+For cancellations and refunds, please contact one of our sales offices mentioned in the “Contact Us” page. Any cancellation or refund will happen based on Bayt.com's sole discretion, and it will be reviewed on case by case basis. In the wake of a refund, it will happen through the original mode of payment only.
