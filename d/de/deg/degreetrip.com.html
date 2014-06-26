@@ -1,11 +1,372 @@
-<!--The following is the downloaded HTML source of the degreetrip.com privacy policy that was archived on 2013-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107171500id_/http%3A//www.degreetrip.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the degreetrip.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626061009id_/http%3A//www.degreetrip.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Best Online Degree Programs | Online Career Area - Degree Trip</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="8DdSWIP_PphjntMMoHZMy1kITBf00pVmz6WulaiM7E0">
+<meta name="description" content="Find affordable online degree programs from the best online colleges &amp; universities and make your career.		">
+<meta name="keywords" content="Best Online Degree Programs, Online Career Area">
 <link href="http://www.degreetrip.com/Css/Style.css" type="text/css" rel="stylesheet">
-<title>Privacy Policy</title>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://www.degreetrip.com/js/degreetrip.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="http://www.degreetrip.com/js/alertify.js"></script>
+<script type="text/javascript">
+function seldegree(id)
+{
+	if(id=="")
+	{
+		alertify.alert('Please Select Career Area');
+	 }
+	 else
+	 {
+		  var xmlhttp;
+		  if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+					document.getElementById('degree').innerHTML=xmlhttp.responseText;
+					//alert(xmlhttp.responseText);
+    			}
+  			}
+			xmlhttp.open("GET","seldegree.php?career="+id,true);
+			xmlhttp.send();
+	 }
+}
+function seldegree1(id)
+{
+	if(id=="")
+	{
+		alertify.alert('Please Select Career Area');
+	 }
+	 else
+	 {
+		  var xmlhttp;
+		  if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+					document.getElementById('degree').innerHTML=xmlhttp.responseText;
+					//alert(xmlhttp.responseText);
+    			}
+  			}
+			xmlhttp.open("GET","http://www.degreetrip.com/seldegree.php?career="+id,true);
+			xmlhttp.send();
+	 }
+}
+function browse_career(url)
+{
+	if(url!="")
+	{
+		window.location="http://www.degreetrip.com/"+url;
+	}
+}
+</script>
+ <script type="text/javascript" src="http://www.degreetrip.com/js/jquery.min.js"></script> 
+        <script type="text/javascript">
+            $(document).ready(function(){
+                function loading_show(){
+                    $('#loading').html("<img src='http://www.degreetrip.com/images/loading.gif' alt='loading' title='loading' width='32' height='32' />").fadeIn('fast');
+                }
+                function loading_hide(){
+                    $('#loading').fadeOut('fast');
+                }                
+                function loadData(page){
+                    loading_show();                    
+                    $.ajax
+                    ({
+                        type: "POST",
+                        url: "load_data.php",
+                        data: "page="+page,
+                        success: function(msg)
+                        {
+                            $("#career_main").ajaxComplete(function(event, request, settings)
+                            {
+                                loading_hide();
+                                $("#career_main").html(msg);
+                            });
+                        }
+                    });
+                }
+                loadData(1);  // For first time page load default results
+                $('#career_main .pagination li.active').live('click',function(){
+                    var page = $(this).attr('p');
+                    loadData(page);
+                    
+                });           
+                $('#go_btn').live('click',function(){
+                    var page = parseInt($('.goto').val());
+                    var no_of_pages = parseInt($('.total').attr('a'));
+                    if(page != 0 && page <= no_of_pages){
+                        loadData(page);
+                    }else{
+                        alert('Enter a PAGE between 1 and '+no_of_pages);
+                        $('.goto').val("").focus();
+                        return false;
+                    }
+                    
+                });
+            });
+        </script>
+<script type="text/javascript">
+function Validate1(form)
+	{
+	if(form.name.value == "")
+	{
+		alertify.alert("Please enter name")
+		form.name.focus()
+		return false;
+	}
+	if(form.company.value == "")
+	{
+		alertify.alert("Please enter company name")
+		form.company.focus()
+		return false;
+	}
+	if(form.contact.value == "")
+	{
+		alertify.alert("Please enter Contact No")
+		form.contact.focus()
+		return false;
+	}
+    if(form.email.value == "")
+	{
+		alertify.alert("Please enter your email")
+		form.email.focus()
+		return false;
+	}
+    if(form.email.value != "")
+    {
+        var regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if(!regex.test(form.email.value))
+ 		{
+ 			alertify.alert("Invalid email address format.");
+ 			return false;
+ 		}
+    }
+    if(form.message.value == "")
+	{
+		alertify.alert("Please enter message")
+		form.message.focus()
+		return false;
+	}
+	
+	//Ajax
+	form.waiting.style.visibility='visible';
+	var t=setTimeout(function(){send_contact(form)},3000);
+	
+	//Ajax
+	}
+	function send_contact(form)
+	{
+		
+			var name=form.name.value;
+			var company=form.company.value;
+			var contact=form.contact.value;
+			var email=form.email.value;
+			var message=form.message.value;
+	       if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+				
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			 xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+						form.waiting.style.visibility='hidden';
+						document.getElementById('sucres').innerHTML=xmlhttp.responseText;
+				
+				}
+  			}
+			
+			xmlhttp.open("GET","affiliatesp.php?name="+name+"&company="+company+"&contact="+contact+"&email="+email+"&message="+message,true);
+			xmlhttp.send();
+	}
+</script>
+<script type="text/javascript">
+function Validate2(form)
+	{
+	if(form.fname.value == "")
+	{
+		alertify.alert("Please enter first name")
+		form.fname.focus()
+		return false;
+	}
+    if(form.lname.value == "")
+	{
+		alertify.alert("Please enter last name")
+		form.lname.focus()
+		return false;
+	}
+	if(form.address.value == "")
+	{
+		alertify.alert("Please enter address")
+		form.address.focus()
+		return false;
+	}
+	if(form.city.value == "")
+	{
+		alertify.alert("Please enter city")
+		form.city.focus()
+		return false;
+	}
+	if(form.contact.value == "")
+	{
+		alertify.alert("Please enter Contact No")
+		form.contact.focus()
+		return false;
+	}
+    if(form.email.value == "")
+	{
+		alertify.alert("Please enter your email")
+		form.email.focus()
+		return false;
+	}
+    if(form.email.value != "")
+    {
+        var regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if(!regex.test(form.email.value))
+ 		{
+ 			alertify.alert("Invalid email address format.");
+ 			return false;
+ 		}
+    }
+    if(form.message.value == "")
+	{
+		alertify.alert("Please enter message")
+		form.message.focus()
+		return false;
+	}
+	
+	//Ajax
+	form.waiting.style.visibility='visible';
+	var t=setTimeout(function(){send_contact(form)},3000);
+	
+	//Ajax
+	}
+	function send_contact(form)
+	{
+		
+			var fname=form.fname.value;
+			var lname=form.lname.value;
+			var address=form.address.value;
+			var city=form.city.value;
+			var contact=form.contact.value;
+			var email=form.email.value;
+			var message=form.message.value;
+	       if (window.XMLHttpRequest)
+  			{// code for IE7+, Firefox, Chrome, Opera, Safari
+  				xmlhttp=new XMLHttpRequest();
+				
+  			}
+		  else
+  			{// code for IE6, IE5
+  				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  			}
+			 xmlhttp.onreadystatechange=function()
+  			{
+  				if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    			{
+						form.waiting.style.visibility='hidden';
+						document.getElementById('sucres').innerHTML=xmlhttp.responseText;
+				
+				}
+  			}
+			
+			xmlhttp.open("GET","contactusp.php?fname="+fname+"&lname="+lname+"&address="+address+"&city="+city+"&contact="+contact+"&email="+email+"&message="+message,true);
+			xmlhttp.send();
+	}
+</script>
+<script type="text/javascript">
+function sel1()
+	{
+					var url = '' + 'privacy-policy-in-both';
+			window.location = url;
+	}
+	function sel2()
+	{
+					var url = '' + 'privacy-policy-in-online';
+			window.location = url;
+	}
+	function sel3()
+	{
+					var url = '' + 'privacy-policy-in-campus';
+			window.location = url;
+	}
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#SearchForm').submit(function() {
+		if($('#career').val() == "")
+		{
+			alertify.alert('Please Select Career Area');
+			$('#career').focus();
+			return false;
+		}
+		if($('#degree').val() == "")
+		{
+			alertify.alert('Please Select Degree');
+			$('#degree').focus();
+			return false;
+		}
+		var career = $('#career').val();
+		var degree = $('#degree').val();
+		var zip = $('#zip').val();
+		var radios = document.getElementsByName("type");
+    	var formValid = false;
+		var val='';
+    	var i = 0;
+    	while (!formValid && i < radios.length) {
+        if (radios[i].checked)
+		{
+			val = radios[i].value;
+		}
+        i++;        
+		}
+		var type = val;
+		if(degree == "" ){ degree=null; }
+		if(career == "" ){ career=null; }
+		if(zip == "" ){ zip=null; }
+		if(degree == null || career == null	)
+		{
+			return false;
+		}
+		else
+        {
+			var str = 'http://www.degreetrip.com';
+			str = str + '/' + degree + '-in-' + career;
+			if(zip != null)
+			{
+				str = str + '-in-' + zip;
+			}
+			str = str + '-in-' + type;
+			window.location.href = str;
+     		return false;
+		}
+    });
+});
+
+</script>
 		<!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -69,35 +430,31 @@ ga('create', 'UA-44866858-1', 'degreetrip.com');
 ga('send', 'pageview');
 
 </script>	</head>
-
 <body>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"xyS8j1a4ZP00qC", domain:"degreetrip.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xyS8j1a4ZP00qC" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
 <div class="header">
-  <div class="wrapper">
+<div class="wrapper">
     <div class="logo">
-    	<a href="http://www.degreetrip.com/index.php" title="Degree Trip">
-    	     		<img src="http://www.degreetrip.com/Logo/logo.png?1383844500" alt="Degree Trip" title="Degree Trip"> 
+    	<a href="http://www.degreetrip.com" title="Degree Trip">
+    	     		<img src="http://www.degreetrip.com/Logo/logo.png?1403763010" alt="Degree Trip" title="Degree Trip" width="293" height="86"> 
     	     	</a>
     </div>
     <!--Get Social Media From Database-->
         <!--Get Social Media From Database-->
     <div class="right">
       <div class="social_logo">
-      	      	<a href="http://www.facebook.com" title="facebook">
-        	<img src="http://www.degreetrip.com/images/fb_logo.jpg" alt="facebook" title="facebook">
-        </a> 
-                        <a href="http://www.twitter.com" title="twitter">
-        	<img src="http://www.degreetrip.com/images/twitter_logo.jpg" alt="twitter" title="twitter">
-        </a> 
-                        <a href="http://plus.google.com" title="You tube">
-        	<img src="http://www.degreetrip.com/images/You_tube_logo.jpg" alt="You tube" title="You tube">
-        </a>
-         
+      	                 
       </div>
       <div class="main_menu">
-      					<a href="http://www.degreetrip.com/index.php" class="" title="Home">Home</a>
-				  					<a href="http://www.degreetrip.com/degree-planning-faq.php" class="" title="Degree Planning Faq">Degree Planning Faq</a>
-				  					<a href="http://www.degreetrip.com/financial-aid-options.php" class="" title="Financial Aid Option">Financial Aid Option</a>
-				  					<a href="http://www.degreetrip.com/military-programs.php" class="" title="Military">Military</a>
+      					<a href="http://www.degreetrip.com/ " class="" title="Home">Home</a>
+				  					<a href="http://www.degreetrip.com/degree-planning-faq.html" class="" title="Degree Planning Faq">Degree Planning Faq</a>
+				  					<a href="http://www.degreetrip.com/financial-aid-options.html" class="" title="Financial Aid Options">Financial Aid Options</a>
+				  					<a href="http://www.degreetrip.com/military-programs.html" class="" title="Military">Military</a>
 				        </div>
    </div>
 </div>  
@@ -108,7 +465,7 @@ ga('send', 'pageview');
       <div class="wrapper">
       <div class="main_class">
       <div class="full">
-                  <h3>Privacy Policy</h3>
+                  <h1>Privacy Policy</h1>
 
 <p>Effective Date: 5/1/2013</p>
 
@@ -144,14 +501,7 @@ ga('send', 'pageview');
 <div class="wrapper">
 	<div class="footer_menu">
     
-     					<a href="http://www.degreetrip.com/index.php" title="Home">Home</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/contactus.php" title="Contact Us">Contact Us</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/advertise-your-school.php" title="Advertise Your School">Advertise Your School</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/about-us.html" title="About Degree Trip">About Degree Trip</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/terms.html" title="Terms Of Use">Terms Of Use</a>				      
-    	<!--<a href="#" title="Home">Home</a><span>|</span>
-        <a href="#" title="Contact Us">Contact Us</a><span>|</span>
-        <a href="#" title="Pricacy Policy">Pricacy Policy</a><span>|</span>
-        <a href="#" title="Advertise Your School">Advertise Your School</a><span>|</span>
-        <a href="#" title="About Degree Trip">About Degree Trip</a><span>|</span>
-                <a href="#" title="Terms of Use">Terms of Use</a>-->
-                <p>Copyright ©2013 DegreeTrip.com All Rights Reserved</p>
+     					<a href="http://www.degreetrip.com/index.php" title="Home">Home</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/contactus.html" title="Contact Us">Contact Us</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/advertise-your-school.html" title="Advertise Your School">Advertise Your School</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/about-us.html" title="About Degree Trip">About Degree Trip</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/terms.html" title="Terms Of Use">Terms Of Use</a> <span>|</span> 				  					<a href="http://www.degreetrip.com/sitemap.html" title="Sitemap">Sitemap</a>				                  <p>Copyright ©2013 DegreeTrip.com All Rights Reserved</p>
     </div>
 </div>
 </div>
