@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208115044id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080742id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Fashion Imitation Jewellery Shopping - Shop Online for Designer Jewellery and Accessories - Voylla.com
 
@@ -26,7 +26,7 @@ We safeguard your privacy using known security standards and procedures and comp
 
 ## Opt-Out Policy
 
-Please email [privacy@voylla.com](mailto:privacy@voylla.com) if you no longer wish to receive any information from us.
+Please email if you no longer wish to receive any information from us.
 
 ## Changes to this Privacy Policy
 
