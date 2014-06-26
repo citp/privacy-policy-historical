@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueworld.co.za privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817004153id_/http%3A//www.blueworld.co.za/html/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueworld.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160155id_/http%3A//www.blueworld.co.za/html/footer/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Blueworld
 
