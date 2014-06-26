@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223115447id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122440id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy | COSMOS magazine
+# Privacy | Cosmos Magazine
 
 COSMOS Media Pty Ltd has a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
 
