@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207033736id_/http%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626133606id_/https%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
 
 # Penzu | Privacy Policy
 
@@ -72,7 +72,7 @@ The Site contains links to other external websites, including those of any adver
 
 12\. THIRD PARTY SERVICE PROVIDERS
 
-Penzu may use third parties to provide us with information regarding our Users' activities on the Site. Such third parties may set cookies on our behalf and receive Site Information. However, no such third parties will have access to any Personal Information which would reveal the identify of any of our Users.
+Penzu may use third parties to provide us with information regarding our Users' activities on the Site. Such third parties may set cookies on our behalf and receive Site Information. However, no such third parties will have access to any Personal Information which would reveal the identity of any of our Users.
 
 13\. CHANGE OF OWNERSHIP
 
