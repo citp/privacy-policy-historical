@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itunescharts.net privacy policy that was archived on 2013-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131022181609id_/http%3A//www.itunescharts.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itunescharts.net privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626103327id_/http%3A//www.itunescharts.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,8 @@
 	
 
 
-<meta name="google-site-verification" content="gSkQgYZt2kn97sYfHDAdeu9vwKFtDHU66hEziQSAr1w">
+<meta name="google-site-verification" content="291UlohElr2aD0C_CnfkP8CiuCvydvWASJOo9AWXPKg">
+<!--meta name="google-site-verification" content="gSkQgYZt2kn97sYfHDAdeu9vwKFtDHU66hEziQSAr1w" /-->
 <meta name="y_key" content="65d4eb78fe5e1985">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -53,7 +54,7 @@ document.body.className = ((document.body.className) ? document.body.className +
 <form action="/select-country/" method="POST" class="">
 <div>
 	<label for="country">Choose a country</label>
-	<select id="country" name="country">
+	<select id="country" name="country" class="form-control">
 			<option value="">Choose a country</option>
 		
 			<option value="uk">United Kingdom</option>
@@ -73,7 +74,7 @@ document.body.className = ((document.body.className) ? document.body.className +
 			<option value="aus">Australia</option>
 		
 	</select>
-	<input type="submit" value="Go">
+	<button id="country_submit" type="submit" class="btn btn-default">Switch</button>
 </div>
 </form>
 
@@ -81,6 +82,7 @@ document.body.className = ((document.body.className) ? document.body.className +
 			</div>
 
 			
+
 <nav id="nav" class="navbar navbar-inverse" role="navigation">
 
   <div class="navbar-header">
@@ -104,7 +106,13 @@ document.body.className = ((document.body.className) ? document.body.className +
         <li class="last tv-episodes"><a href="/tv-episodes/"><abbr title="Television">TV</abbr></a></li>
 		
     </ul>
+    <form class="navbar-form navbar-right" role="search" action="/search" method="get">
+      <div class="form-group">
+        <input type="text" class="form-control" name="query" placeholder="Search">
     
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
   </div><!-- /.navbar-collapse -->
 </nav>
 
@@ -286,11 +294,11 @@ if (show_leader) { document.write('<scri'+'pt type="text/javascript" src="http:/
             		<li><a href="/artists/">
             		
             		Artist Directories</a></li>
+            		<li><a href="/search/">Search</a></li>
             		<li><a href="/contact-us/">Contact us</a></li>
             		<li><a href="/faqs/"><abbr title="Frequently asked question">FAQ</abbr>s</a></li>
             		<li><a href="/privacy-policy/">Privacy Policy</a></li>
             		<li><a href="http://twitter.com/itunescharts">Twitter</a></li>
-            		<li><a href="/rss/"><abbr title="Really Simple Syndication">RSS</abbr> Feeds</a></li>
             		<li class="last"><a href="/releases/">Releases</a></li>
             	</ul>
 
