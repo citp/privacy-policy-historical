@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227065153id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092235id_/http%3A//www.ampedasia.com/page/15) for the most accurate reproduction.*
 
-# 
+# Amped Asia | Asian Lifestyle & Entertainment Magazine
 
 **PAGES ON AMPED ASIA**
 
@@ -22,18 +22,5 @@ If you have any questions, [contact us at mail[@]ampedasia.com](mailto:%20mail@a
 
 **AMPED ASIA TV**
 
-CONNECT WITH US 
+  
 
-SPONSORS 
-
-[](http://adf.ly/Zm90H)
-
-HOT ARTICLES AROUND THE WEB 
-
-SUBSCRIBE TO THE MAG (FREE) 
-
-**Cute girls. The Asian lifestyle. Videos. Fashion tips.** Subscribe to Amped Asia magazine. It's 100% FREE.
-
-[](http://www.ampedasia.com/subscribe/)
-
-SEARCH FOR STUFF 
