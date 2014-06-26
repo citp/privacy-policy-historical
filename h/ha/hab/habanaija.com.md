@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habanaija.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212025727id_/http%3A//www.habanaija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habanaija.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122624id_/http%3A//www.habanaija.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Haba Naija! Forums Lifestyle Culture & More....
 
