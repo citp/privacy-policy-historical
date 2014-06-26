@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016194915id_/http%3A//www.xandria.com/index.php%3Fpage%3Dprivacy%26theme%3D7%26sess_id%3D804fd3a39d4837d1ec6279078ee9d017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060803id_/http%3A//www.xandria.com/privacy.html) for the most accurate reproduction.*
 
-# Sex Toys by Xandria® :: Quality adult sex toys for more than 35 years
+# Privacy Policy for The Xandria Collection
 
 |  |   
 ---  
@@ -142,8 +142,6 @@ A method by which information transmitted across the Internet is scrambled to th
 
 |   
 ---  
----  
----  
   
 3-way guarantee  
 The Xandria Collection guarantees all of our sex toys three ways:  
@@ -152,8 +150,5 @@ The Xandria Collection guarantees all of our sex toys three ways:
 • Personal Satisfaction  
   
   
-[](http://sexology.xandria.com/)
-
-[](http://www.xandria.com/index.php?page=affiliate&theme=7&sess_id=804fd3a39d4837d1ec6279078ee9d017)  
-  
+[](http://sexology.xandria.com/)  
 |  | 
