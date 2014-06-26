@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219164442id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034318id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Infinite courses: Privacy Policy-Study in India, Higher Education in India
 
 |  |    |  |  [ ](http://www.infinitecourses.com/) |  |   
 ---|---|---  
   
-[ ](http://www.studyabroaduniversities.com/)
+[ ](http://www.velsuniv.ac.in/?utm_source=InfiniteCourses&utm_medium=banner&utm_campaign=web/)
 
 |     
 |  |    |  [Colleges](http://www.infinitecourses.com/Top-Colleges-In-India.aspx) |  [Institutes](http://www.infinitecourses.com/Institutes-Colleges-in-India.aspx) |  [Courses](http://www.infinitecourses.com/Diploma-Degree-PG-Courses-in-India.aspx) |  [Careers](http://www.infinitecourses.com/Career-options-in-India.aspx) |  [Distance Learning](http://www.infinitecourses.com/Distance-learning-education-in-India.aspx) |  [Universities](http://www.infinitecourses.com/Universities-in-India.aspx) |  [Schools](http://www.infinitecourses.com/Schools-in-India.aspx) |  [Exams](http://www.infinitecourses.com/Entrance-exams-in-india.aspx) |  [Coaching](http://www.infinitecourses.com/coaching-institutes-in-india.aspx) |  [ Study Abroad](http://www.infinitecourses.com/StudyAbroad.aspx) |  [Jobs](http://www.infinitecourses.com/Jobs-in-India.aspx) |  [Forums](http://forums.infinitecourses.com/) |     
