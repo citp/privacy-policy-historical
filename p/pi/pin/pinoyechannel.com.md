@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinoyechannel.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122110353id_/http%3A//www.pinoyechannel.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyechannel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160916id_/http%3A//www.pinoyechannel.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinoy e-Channel
+# Privacy Policy - Pinoy e-Channel | Pinoy e-Channel
 
 At pinoyechannel.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pinoyechannel.net and how it is used.
 
