@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204011035id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042707id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MegaBuy Computer Parts
 
+[](http://www.megabuy.com.au/shopapple.html?ref=AppleSideBanner) [](http://www.megabuy.com.au/ASUSROG.html?ref=AsusROGSideBanner) [](http://www.megabuy.com.au/belkinstore.html?ref=BelkinSideBanner) [](http://www.megabuy.com.au/BrotherRefubished.html?ref=BrotherRefurbishedSideBanner) [](http://www.megabuy.com.au/coolermaster.html?ref=CoolerMasterSideBanner) [](http://www.megabuy.com.au/HPSTORE.html?ref=HPSideBanner) [](http://www.megabuy.com.au/MicrosoftStore.html?ref=MicrosoftSideBanner) [](http://www.megabuy.com.au/netgearstore.html?ref=NetgearSideBanner) [](http://www.megabuy.com.au/steelseriesstore.html?ref=SteelSeriesSideBanner) [](http://www.megabuy.com.au/QNAP.html?ref=QnapSideBanner) [](http://www.megabuy.com.au/Ex-Gov-Factory-Refurbished.html?ref=ExgovSideBanner)
+
 [](http://www.megabuy.com.au/ "MegaBuy - Buy Cheap Computer Parts Computer Hardware & Software Online")
 
-Browsers Online: 297
+Browsers Online: 355
 
 Members Online: 7
 
@@ -73,6 +75,10 @@ You can also reach us via email at admin@MegaBuy.com.au
 Hi just wanted to say, I have no idea why you guys have such bad reviews. I received my products within 3 days and the Macbook Pro was a 2 week wait but I expected that nothing would ship until after the huge sale! Awesome prices on everything. Couldn't have been happier.
 
 Thanks again to everyone I was in contact with along the way!
+
+  * Roger B - 24 Feb 12
+
+Received in good order yesterday. Thankyou and congratulations to all your staff for TOP service. Will certainly recommend and use your services again. 
 
   * Geoffrey S - 29 Jun 12
 
@@ -175,24 +181,13 @@ Brad
 
   * Lachlan.B - 01 May 13
 
-Hi,  
-I ordered my GS105AU switch from you guys over the phone. I just want to say how good the service was and how nice the customer service Representative was to me, even though i did not have the correct information I had at the time. So yeah, awesome service thank you Jack G!  
-Sincerely, a returning Megabuy customer  
+Hi, I ordered my GS105AU switch from you guys over the phone. I just want to say how good the service was and how nice the customer service Representative was to me, even though i did not have the correct information I had at the time. So yeah, awesome service thank you Jack G! Sincerely, a returning Megabuy customer  
 
 
   * Peter M - 02 May 13
 
-Hi, 
+Hi, I just received my order and I am mightily impressed. The whole process from the minute I clicked onto your website for the first time yesterday right through to receipt of my item today was brilliant. I was especially impressed with your order confirmation process to ensure that my order placed using a gmail email address was in fact placed by me. I still cannot believe that I received delivery of my item in about 24hrs, though I dont know if I can hold you to that if I have to place another order :-) I will definitely recommend Megabuy to others and will use your services again in the future should the need arise. Again thank you so much for a brilliant purchase experience.  
 
-I just received my order and I am mightily impressed. 
-
-The whole process from the minute I clicked onto your website for the first time yesterday right through to receipt of my item today was brilliant.   
-I was especially impressed with your order confirmation process to ensure that my order placed using a gmail email address was in fact placed by me.   
-I still cannot believe that I received delivery of my item in about 24hrs, though I dont know if I can hold you to that if I have to place another order :-) I will definitely recommend Megabuy to others and will use your services again in the future should the need arise.
-
-Again thank you so much for a brilliant purchase experience.
-
-Peter
 
   * Mite .T. - 08 May 13
 
@@ -223,6 +218,12 @@ Let me sum up:
 Simply put - this is my first Megabuy purchase. It is unlikely to be my last!  
 Many thanks.
 
+  * Lorraine H - 12 Aug 13
+
+Thank you very much for your extremely efficient system. We received out order in record time. As we live in WA we are use to our orders taking a day or two longer than is written on websites but we couldnt fault your delivery time. It was super fast.  
+We have ordered another product from another site who told us it would take 2-3 days and we actually ordered this before ordering from Mega Buy. We are still waiting! It is now 7 days and counting. We will be back to Mega Buy and will recommend your site without hesitation to others. Thank you.  
+
+
   * Dave - 29 Aug 13
 
 Just wanted to give you the thumbs up for the product I recently bought. I bought a graphics card and it was delivered under 2 working days later! Pricing was competitive and service great! Will definitely be using MegaBuy again! 
@@ -235,6 +236,16 @@ I am very careful buyer, especially when buying items online, I do a lot of rese
 
 "Wow" Great Service I received my order this morning.  
 I will look forward to my next megabuy purchase. 
+
+  * Anthony Wardley - 11 Dec 13
+
+Hi, I contacted you earlier, just letting you know Applecare has come through fine this morning. Thank you so much I really appreciate it. Loved the fast shipping and the pricing. Well done. 
+
+  * George Oltvolgyi - 06 May 14
+
+Thank you very much for your prompt, courteous and professional service.  
+My Xtremkey turned up yesterday safely packaged and well within the anticipated timeframe.  
+Will definitely come back. 
 
   * G.Denton - 16 Jan 12
 
