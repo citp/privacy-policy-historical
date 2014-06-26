@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821063533id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msufcu.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051424id_/https%3A//www.msufcu.org/disclosures/%3Fexpand%3Dprivacy_policy%23privacy_policy) for the most accurate reproduction.*
 
 # MSU Federal Credit Union | Disclosures | Savings & Checking
 
@@ -12,8 +12,6 @@ REV. 09/12
   
 ---|---|---  
   
-
-
 > **FACTS**
 
 | 
@@ -46,9 +44,6 @@ REV. 09/12
 
 > All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Michigan State University Federal Credit Union chooses to share; and whether you can limit this sharing.  
   
-  
-
-
 > **Reasons we can share your personal information**
 
 | 
@@ -125,9 +120,6 @@ REV. 09/12
 
 **We don't share**  
   
-  
-
-
 > **To limit our sharing**
 
 | 
@@ -146,8 +138,6 @@ However, you can contact us at anytime to limit our sharing.
   
 ---|---  
   
-
-
 > **Questions?**
 
 | 
@@ -156,11 +146,9 @@ However, you can contact us at anytime to limit our sharing.
   
 ---|---  
   
-
-
 > **What we do**
 
-|     
+|    
 ---|---  
   
 > **How does Michigan State University Federal Credit Union protect my personal information?**
@@ -202,9 +190,6 @@ We also collect your personal information from others, such as credit bureaus, a
 
 > > Your choices will apply to everyone on your account.  
   
-  
-
-
 > **Definitions**
 
 | 
