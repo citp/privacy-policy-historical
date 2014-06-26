@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020195606id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061837id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ lapeches.com
 
@@ -8,6 +8,9 @@ The personal information we collect from you and about you is used to provide yo
 We have strict policies and procedures in place to safeguard the privacy and security of your personal information. Your personal information, including the data contained in our computers, is protected from unauthorized access. Its use is restricted to employees and others having a business need for the information.  
 **Types And Use Of Personal Information Collected**  
 The information may be obtained from a telephone conversation, application, or from other sources. We maintain personal information regarding your transactions with Peches and we may request additional information in order to provide you with our products.  
+**Display Advertising Policy**  
+To improve customer satisfaction, we have implemented Google Analytics Demographics and Interest Reporting to understand our user preferences. Through this we will only track the visitors demographic information such as age, gender and interests with Google Analytics.  
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).  
 **Safeguarding Your Information**  
 Peches does not rent, sell, or give away your personally identifiable information to anyone for marketing purposes. We will only use and share personally identifiable medical information for specifically requested transactions and for those purposes required or permitted by law.  
 **When We May Disclose Information**  
