@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425004648id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194249id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy | SHOP.COM
 
 | 
 
-SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, au.shop.com, www.shop-com.jp, mx.shop.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, dwellvine.com, gadgettevine.com, glammevine.com and solevine.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information.
+SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, au.shop.com, mx.shop.com, es.shop.com and www.shopcompanion.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information.
 
 Our mission is to provide the most compelling shopping experience for our customers. We want you to feel safe while visiting the Site.
 
@@ -114,4 +114,4 @@ SHOP MA, Inc
 Miami, FL 33137  
 email: [customerservice@shop.com](mailto:customerservice@shop.com)
 
-Updated 01/28/13
+Updated 06/14/13
