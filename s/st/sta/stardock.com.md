@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201103444id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153649id_/http%3A//www.stardock.com/privacy.asp) for the most accurate reproduction.*
 
 # Stardock Corporation - Privacy
 
   
 **Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Stardock.com](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [WinCustomize.com](http://www.wincustomize.com/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [GalCiv.com](http://www.galciv.com/), [PoliticalMachine.com](http://www.politicalmachine.com/), and [ObjectDesktop.net](http://www.objectdesktop.net/). 
 
-> _**WE DO NOT SHARE YOUR EMAIL ADDRESSES PR PERSONAL INFORMATION WITH ANY ORGANIZATION THAT IS NOT MAJORITY CONTROLLED BY STARDOCK CORPORATION.**_
+> _**WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANY ORGANIZATION THAT IS NOT MAJORITY CONTROLLED BY STARDOCK CORPORATION.**_
 
 Information Automatically Logged
 
