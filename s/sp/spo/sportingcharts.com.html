@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213191720id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportingcharts.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626025117id_/http%3A//www.sportingcharts.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
   <meta charset="UTF-8">
@@ -9,8 +9,8 @@
   <link type="text/css" href="/css/smoothness/jquery-ui-1.9.2.custom.min.css" rel="stylesheet">  
   <link type="text/css" href="/css/chosen.css" rel="stylesheet">  
   
-  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs&amp;v=1.15"></script>
-  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs&amp;v=2.11"></script>
+  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=197072523695723"></script><script async="" src="http://cdn.taboola.com/libtrc/sportingcharts/loader.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/ScriptLibraries.ashx?library=jQueryLibs&amp;v=1.15"></script>
+  <script type="text/javascript" src="/ScriptLibraries.ashx?library=SCLibs&amp;v=2.21"></script>
 	
   
   <title>SportingCharts.com | Privacy Policy</title>
@@ -31,9 +31,18 @@
 	<script type="text/javascript" src="/scripts/NewsLetterBoxLogic.js"></script>
 	  <script type="text/javascript">
       var _gaq = _gaq || [];
+	  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
       _gaq.push(['_setAccount', 'UA-26748238-1']);
       _gaq.push(['_setDomainName', '.sportingcharts.com']);
-      _gaq.push(['_trackPageview']);
+      setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])",15000);
+	  setTimeout("_gaq.push(['_trackEvent', '30_seconds', 'read'])",30000);
+	  setTimeout("_gaq.push(['_trackEvent', '45_seconds', 'read'])",45000);
+	  setTimeout("_gaq.push(['_trackEvent', '60_seconds', 'read'])",60000);
+	 
+	  _gaq.push(['_setSiteSpeedSampleRate', 25]);
+	 
+	  _gaq.push(['_trackPageview']);
 
       (function () {
           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -64,6 +73,15 @@
 	googletag.pubads().enableSingleRequest();
 	googletag.enableServices();
 	});
+</script>
+	<script type="text/javascript">
+ window._taboola = window._taboola || [];
+_taboola.push({article:'auto'}); 
+!function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+}(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/sportingcharts/loader.js');
 </script>
 </head>
 
@@ -104,7 +122,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378500117254-2');
             <li><a href="#">NFL</a>
                <div class="sub">
                 <div class="secondary-nav">
-					<a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">NFL Dictionary</a><a href="/stats/nfl/">NFL Statistics</a><a href="/stats/nfl/team/">NFL Team Stats</a><a href="/stats/nfl/player/">NFL Player Stats</a>
+					<a href="/nfl/">NFL Home</a><a href="/nfl/dictionary/">NFL Dictionary</a><a href="/stats/nfl/team/">NFL Team Stats</a><a href="/stats/nfl/player/">NFL Player Stats</a><a href="/nfl/teams/matchup/">NFL Matchups</a>
                </div>
                <div class="clear"></div>
               <ul>
@@ -169,7 +187,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378500117254-2');
             <li><a href="#">MLB</a>
                 <div class="sub">
                 <div class="secondary-nav">
-              <a href="/mlb/">MLB Home</a><a href="/mlb/dictionary/">MLB Dictionary</a><a href="/stats/mlb/">MLB Statistics</a>
+              <a href="/mlb/">MLB Home</a><a href="/mlb/dictionary/">MLB Dictionary</a><a href="/stats/mlb/">MLB Statistics</a><a href="/mlb/teams/matchup/">MLB Matchups</a>
                 </div>
                <div class="clear"></div>
               <ul class="smalllist">
@@ -366,21 +384,25 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1378500117254-2');
                 </ul>
 				</div>
 			  </li>
-			  <li class="newsletterNav"><a href="/nfl/teams/matchup/">NFL Matchups</a></li> 
+			  <li class="newsletterNav"><a href="/matchups/">Matchup Stats</a>
+			   <div class="sub medium">
+				   <div class="secondary-nav">
+                  <a href="http://www.sportingcharts.com/nfl/teams/matchup/">NFL</a><a href="http://www.sportingcharts.com/mlb/teams/matchup/">MLB</a><a href="http://www.sportingcharts.com/nhl/teams/matchup/">NHL</a>
+				   </div></div>
+			  </li> 
             </ul>
         </div><!--nav-container-->
       <!-- <span style="color: #FF0000">Alert:</span> -->
         <div class="nav-secondary-container">
           <ul class="nav-secondary">
-              <li><span style="color: #FF0000">Alert:</span></li>  
-			  <li><a href="http://www.sportingcharts.com/nhl/icetrack/">NHL Fans! - Check out our new Shot and Goal Heatmaps</a></li>
-			  <!--  <li><a href="/mlb/teams/230/detroit-tigers/">Detroit Tigers</a></li>
-			  <li><a href="/nhl/teams/4957/chicago-blackhawks/">Chicago Blackhawks</a></li>
-              	<li><a href="/nba/teams/14/miami-heat/">Miami Heat</a></li> -->
+			  <li><span style="color: #FF0000">ALERT:</span></li>  
+			  <li><a href="/matchups/">Check out our new Matchup Pages. Compare any two teams, any season</a></li>
+			  
               <li style="float:right;"><input type="text" class="searchBox" title="Search Players, Teams or Definitions..."></li>
            
            </ul>
-        </div><!--nav-secondary-container-->
+        </div>
+<!--nav-secondary-container-->
         <div id="ContentMain" class="content-container">
 			
         <!-- Floating box starts here -->		  
@@ -499,11 +521,13 @@ Last updated on November 1st, 2011</p>
        <div class="footer-content">
           <div class="footer-content-left f12">
             <p>
-              <a href="/">Home</a> | <a href="/nfl/">NFL</a> | <a href="/mlb/">MLB</a> | <a href="/nba/">NBA</a> | <a href="/nhl/">NHL</a> | <a href="/dictionary/">Dictionary</a> | <a href="/chartbuilder/buildchart.aspx">ChartBuilder</a> | <a href="/articles/reports/30-most-important-fantasy-football-tips-landing.aspx">Newsletters</a> | <a href="/articles/blog/writing-opportunities-sportingchartscom.aspx">Writing Oppotunities</a></p>
+              <a href="/">Home</a> | <a href="/nfl/">NFL</a> | <a href="/mlb/">MLB</a> | <a href="/nba/">NBA</a> | <a href="/nhl/">NHL</a> | <a href="/dictionary/">Dictionary</a> | <a href="/nhl/icetrack/">Ice Track</a> | <a href="/chartbuilder/buildchart.aspx">ChartBuilder</a> | <a href="/articles/blog/writing-opportunities-sportingchartscom.aspx">Writing Oppotunities</a></p>
               
-            <p class="f10">Copyright © 2013 Sporting Charts All Rights Reserved | <a href="/terms-and-conditions.aspx">Terms Of Use</a> | <a href="/privacy-policy.aspx">Privacy Policy</a> | <a href="/about-us.aspx">About Us</a> | <a href="/contact-us.aspx">Contact Us </a><br>
+            <p class="f10">Copyright © 2014 Sporting Charts All Rights Reserved | <a href="/terms-and-conditions.aspx">Terms Of Use</a> | <a href="/privacy-policy.aspx">Privacy Policy</a> | <a href="/about-us.aspx">About Us</a> | <a href="/contact-us.aspx">Contact Us </a><br>
               
-              Copyright © 2013 <a href="http://www.stats.com/" target="_blank">STATS LLC.</a> All Rights Reserved.</p>
+				Copyright © 2014 <a href="http://www.stats.com/" target="_blank">STATS LLC.</a> All Rights Reserved.<br>
+				<a href="http://www.futuresknowledge.com"><img src="http://www.sportingcharts.com/media/355735/futures-knowledge-small.png" alt="Futures Knowledge" title="Futures Knowledge" align="middle"></a><b> - A site dedicated to educating Futures and Commodity investors.</b>
+				</p>
          <ul class="footer-follow-module">
                   <li><a href="http://twitter.com/sportingcharts"><span class="footer-twitter-btn"></span></a></li>
                   <li><a href="http://www.facebook.com/sportingcharts"><span class="footer-fb-btn"></span></a></li>
@@ -597,6 +621,11 @@ qacct:"p-yKVCnqd5pLfm6"
 		$(".searchBox").DynamicSearchBar();
     });
 </script>
+
+	<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="http://sportingcharts.us.intellitxt.com/intellitxt/front.asp?ipid=61986"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+	
 
 
 
