@@ -1,120 +1,101 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120022121id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163632id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
-Effective on June 24, 2011
-
-**PacificHost**  is committed to protecting your privacy. This privacy policy describes how **PacificHost**  collects and uses the personal information you provide on our website: [www.pacifichost.com](http://pacifichost.com/). It also describes the choices available to you regarding **www.pacifichost.com** 's use of your personal information and the steps you can take to access this information and to request that we correct or update it.
-
-**PacificHost**  is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Pacifichost takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Pacifichost web site. This document will let you know what information we collect from Pacifichost users and how we use that information. This document will let you know what choices you have concerning your personal information and gives you information about how to make them.
 
 ## Collection and Use of Personal Information
 
-**We collect the following personal information from you:**
+Pacifichost collects information from customers when they sign up for Web Hosting Services, Domain Name Registration, Affiliate Accounts, Web Hosting Resale Accounts and other such services. This information includes name, address, telephone number, email address, billing information, URL information, IP Address and other data relating to the sale, use and billing of such services. This information is used for the registration and management of your account. It may also be used to contact you for purposes of collecting any outstanding balance on your account.
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+Pacifichost may use this information internally to provide the services that you have requested and facilitate customer communications, domain registration services, web hosting services and billing and/or collection activities associated therewith. Pacifichost may from time to time also communicate with you on behalf of our marketing partners. Pacifichost will also in some instances share your personally identifiable information with our approved marketing partners for marketing purposes related to specific special offers that we believe you would like to receive based upon the services that you express an interest in from us. We require all marketing partners to comply with the Federal CAN-SPAM Act and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at [support@Pacifichost.com](mailto:support@Pacifichost.com).
 
-**We also collect the following information from you:**
+## Surveys or Contests
 
-  * Demographic information such as household income, age, education, gender, interests, and zip code
+On occasion we provide hosting customers with the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
+If the contest or survey requires, permits or is otherwise related to the submission by you to us of any story, artwork, photograph or other such material this information and material may be used to select a winner and tabulate survey results. In addition, we may use any such submission pursuant to the relevant portion of our Terms of Service to display to other hosting customers or non-hosting customers whether or not in conjunction with information from our advertisers or partners.
 
+## Additional Information
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+In addition to the registration information set forth above, PACIFICHOST also records and tracks your IP address, and browser type for purposes of security, maintaining the web site and ensuring the best possible user experience. This non-personally identifiable information is also tabulated in the aggregate for purposes of determining broad demographic usage information and is, on occasion, shared with third-parties to provide more relevant services and advertisements to our hosting customers. We do not link aggregate user data with personally identifiable information.
 
-  
-**We use this information to:**
+Information that you may choose to post on the Service including any text entries, photos, videos or other content are displayed to other hosting customers and, at times, are available to unregistered web site visitors. Your full name, address, telephone number, or email address are never provided to other hosting customers or web site visitors by Pacifichost.
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
+## As Required by Law
 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
+## Cookies
 
-Choice/Opt-Out
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Pacifichost website. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. By your use of the Pacifichost website you consent to allow us to place cookies on your computer and to access them as you navigate our website.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com).
+We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-**Information Obtained from Third Parties**
+## Links to Other Sites
 
-We obtain address information about you from third party sources, such as the US Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud.
+This website contains links to other sites that are not owned or controlled by Pacifichost. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every website that you visit and how it collects and uses your personally identifiable information.
 
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
+## Your Websites
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to [abuse@Pacifichost.com](mailto:abuse@Pacifichost.com).
 
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information  **only**  to perform the service they are providing for us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process,
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if PacificHost is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
-
-
-
-GoogleCheckout
-
-If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site.
-
-_PayPal_
-
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
-
-## Tracking Technologies
-
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you. 
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of PacificHost. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+According to our terms of service misuse of such information can result in the termination of a user account.
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+The security of your personal information is important to us. Information that you submit in relation to a financial transaction is encrypted using secure socket layer technology (SSL). Information in our possession is maintained according to generally accepted industry standards. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com)
+If you have any questions about security on our Web site, you may contact us at [support@Pacifichost.com](mailto:support@Pacifichost.com).
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+## Business Transitions
 
-## Additional Policy Information
+In the event Pacifichost goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information via email at the address you have provided during registration.
 
-Correcting and Updating Your Personal Information
+## Changes in this Privacy Statement
 
-To review and update your personal information to ensure it is accurate, contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com).
+If we decide to change our Privacy Policy, we will post those changes here, place a notice on our homepage, and place a notice in other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-Notification of Privacy Statement Changes
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+Add2Net, Inc.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+Pacifichost Division
 
-You can contact us about this privacy statement by writing or email us at the address below:
+1360 N. Hancock Street
 
-PacificHost
+Anaheim, CA 92807 
 
-1360 North Hancock Street
+Or via email at [Support@Pacifichost.com](mailto:support@Pacifichost.com)
 
-Anaheim, CA 92807
+## Pacifichost – Under 13 Privacy Statement Information Collection & Use 
 
-United States
+Pacifichost does not specifically target this web site to children under 13 years of age. Nonetheless, all Pacifichost web site content is intended to be generally appropriate for children with the proper parental guidance and as such we encourage parents to explore this web site together with their children and to discuss the information obtained. 
 
-|  | 
+## How to Access or Modify Your Information
+
+Pacifichost offers hosting customers the opportunity to access or modify information provided during registration. To access or modify such information, visit your customer control panel and click [here](http://clients.pacifichost.com/clientarea.php).
+
+## Questions About the Pacifichost Privacy Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:
+
+Customer Service
+
+Add2Net, Inc.
+
+Pacifichost Division
+
+1360 N. Hancock Street
+
+Anaheim, CA 92807
+
+## Revisions to This Policy
+
+Pacifichost reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.Pacifichost.com.
+
+Version 4.0 - 111413
+
+© Copyright 2000 – 2013 – Add2Net, Inc. All Rights Reserved. 
