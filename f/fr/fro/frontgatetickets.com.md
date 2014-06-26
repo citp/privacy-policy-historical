@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205064904id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627015612id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
 
 # Front Gate Tickets
 
@@ -14,7 +14,7 @@ Front Gate Ticketing Solutions, LLC, a Delaware corporation ("Front Gate Solutio
 
 
 
-If users have questions or concerns regarding this statement, they should contact Front Gate Customer Assistance by using the contact form found by clicking here, call us at 512.389.0315, or send an email to [hello@frontgatetickets.com](mailto:hello@frontgatetickets.com).
+If users have questions or concerns regarding this statement, they should contact Front Gate Customer Assistance by using the contact form found by clicking here, call us at 512.389.0315, or send an email to [info@frontgatetickets.com](mailto:info@frontgatetickets.com).
 
 ## Notice of Information Collected and Disclosed
 
@@ -54,7 +54,7 @@ When you register at the Sites, Front Gate uses a cookie to store a unique, rand
 
 ## Choice/Opt Out
 
-If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you receive communications from us that you do not want to receive, you can opt-out from receiving these communications, by specifically telling us to stop sending them to you. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by clicking the unsubscribe link in the email or emailing us at [hello@frontgatetickets.com](mailto:hello@frontgatetickets.com).
+If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you receive communications from us that you do not want to receive, you can opt-out from receiving these communications, by specifically telling us to stop sending them to you. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by clicking the unsubscribe link in the email or emailing us at [info@frontgatetickets.com](mailto:info@frontgatetickets.com).
 
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
