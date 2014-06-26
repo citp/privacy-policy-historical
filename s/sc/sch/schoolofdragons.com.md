@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231142414id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolofdragons.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626231852id_/http%3A//www.schoolofdragons.com/Help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - School of Dragons
 
@@ -14,7 +14,7 @@ Knowledge Adventure, Inc. Online Privacy Policy
   * The information we collect may be used to generate non-identifiable combined statistics about our users which we may share with third parties.
   * We may divulge your information if necessary to enforce our rights or in response to requests from law enforcement agencies.
   * Your information may be disclosed in the event of a sale, merger, acquisition, reorganization, bankruptcy or similar event.
-  * You may opt out of communications from us or request a correction or deletion of your personal information by contacting us at [privacy@jumpstart.com](mailto:privacy@jumpstart.com)
+  * You may opt out of communications from us or request a correction or deletion of your personal information by contacting us at privacy@jumpstart.com
 
 
 
@@ -37,20 +37,20 @@ This Privacy Policy will tell you:
 
 
 
-If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [privacy@jumpstart.com](mailto:privacy@jumpstart.com). 
+If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at privacy@jumpstart.com. 
 
 ## What does this Privacy Policy apply to?
 
 Online visitors to any KA sites including, but not limited to the following sites: 
 
-  * [www.jumpstart.com](http://www.jumpstart.com/ "Jumpstart")
-  * [www.mathblaster.com](http://www.mathblaster.com/ "Mathblaster")
-  * [www.kidspace.com](http://www.kidspace.com/ "Kid Space")
-  * [reg.knowledgeadventure.com](http://reg.knowledgeadventure.com/ "KnowledgeAdventure")
-  * [www.supersecret.com](http://www.supersecret.com/ "Super Secret")
-  * [www.kidworks.com](http://www.kidworks.com/ "Kid Works")
-  * [www.eatmydust.com](http://www.eatmydust.com/ "Eat My Dust")
-  * [www.twistedgames.com](http://www.twistedgames.com/ "Twisted Games")
+  * [www.jumpstart.com](https://www.jumpstart.com/ "Jumpstart")
+  * [www.mathblaster.com](https://www.mathblaster.com/ "Mathblaster")
+  * [www.kidspace.com](https://www.kidspace.com/ "Kid Space")
+  * [reg.knowledgeadventure.com](https://reg.knowledgeadventure.com/ "KnowledgeAdventure")
+  * [www.supersecret.com](https://www.supersecret.com/ "Super Secret")
+  * [www.kidworks.com](https://www.kidworks.com/ "Kid Works")
+  * [www.eatmydust.com](https://www.eatmydust.com/ "Eat My Dust")
+  * [www.twistedgames.com](https://www.twistedgames.com/ "Twisted Games")
   * www.kasafe.com 
 
 
@@ -103,19 +103,19 @@ Our sites may also have message boards and/or chat areas, where users can exchan
 
 We make every attempt to allow you to control the way that we use personally identifiable information that you choose to provide. At the time you provide personal information, we may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" KNOWLEDGE ADVENTURE may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. 
 
-If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [opt-out@jumpstart.com](mailto:opt-out@jumpstart.com) . Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
+If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from us (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at opt-out@jumpstart.com . Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
 ## What to do if you want to correct or delete your personal information?
 
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact KNOWLEDGE ADVENTURE, Attention: Privacy Policy Administrator, at Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at [privacy@jumpstart.com](mailto:privacy@jumpstart.com)
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact KNOWLEDGE ADVENTURE, Attention: Privacy Policy Administrator, at Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. You can also contact us by e-mailing us at privacy@jumpstart.com
 
 ## How secure is your personal information?
 
-While we take reasonable steps to secure your personal information, no system is fault proof. If our security systems are breached we may attempt to notify you electronically and, by using the Service and/or providing personal information to us, you agree that we can notify you electronically. We may post a notice on the Web Sites if a security breach occurs. If this happens, you will need a web browser enabling you to view our site(s). We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@jumpstart.com](mailto:privacy@jumpstart.com). If your email address changes and you have provided us with personal information, you should notify us at [privacy@jumpstart.com](mailto:privacy@jumpstart.com) so that we can communicate with you if necessary. 
+While we take reasonable steps to secure your personal information, no system is fault proof. If our security systems are breached we may attempt to notify you electronically and, by using the Service and/or providing personal information to us, you agree that we can notify you electronically. We may post a notice on the Web Sites if a security breach occurs. If this happens, you will need a web browser enabling you to view our site(s). We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy@jumpstart.com. If your email address changes and you have provided us with personal information, you should notify us at privacy@jumpstart.com so that we can communicate with you if necessary. 
 
 ## What if I have a question or complaint?
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@jumpstart.com](mailto:privacy@jumpstart.com) or send a letter addressed to Web Privacy Administrator, Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. 
+If you have any questions or wish to file a complaint, please feel free to e-mail us at privacy@jumpstart.com or send a letter addressed to Web Privacy Administrator, Knowledge Adventure, Inc., 2377 Crenshaw Blvd., Suite 302, Torrance, CA 90501. 
 
 By using this Website, our applications or products, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site, our applications or products. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of our websites will signify your acceptance of these changes. 
 
