@@ -1,141 +1,123 @@
-> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602033902id_/http%3A//neighbours.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neighbours.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626233809id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
 
-# So You Think You Can Dance Australia - Privacy Policy - Neighbours
+# Privacy Policy - Network Ten
 
-This Privacy Policy explains the data collection and use practices which are operated by FremantleMedia when you use www.neighbours.com. We are committed to protecting your privacy and honouring the integrity of your personal information in accordance with the Data Protection Act 1998 (the "Act"). If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at privacy.officer@fremantlemedia.com or by mail at 1 Stephen Street, London W1T 1AL UK. Further details on the Act can be found on the website of the Information Commissioner's Office at http://www.ico.gov.uk/.  
+**Our Commitment to you**
 
+Network Ten Pty Limited and its related companies listed at the end of this Privacy Policy (Network TEN) take very seriously your privacy and our obligations under the Privacy Act 1988 (Cth). Any personal information you provide to us will be managed carefully. We have a range of procedures in place to help protect your privacy.
 
-**What information do we collect and how do we collect it?**
+At Network TEN we conduct our operations in accordance with the Australian Privacy Principles. These are standards that set out the principles governing information handling practices for organisations like Network TEN. In addition to complying with the Australian Privacy Principles in all that we do, we are committed to high standards of privacy protection in our journalism through our adherence to the Commercial Television Industry's Code of Practice.
 
-_Personal Information_
+**What personal Information does Network TEN collect?**
 
-  
-We collect personal information from you when you:
+If you become a member of TENplay, we may collect your name, address, suburb, state, postcode, email address, date of birth, gender and telephone number. If you log in via a social media platform such as Twitter, Facebook or Google+, we may also collect your user ID details for that platform, and any information you have permitted them to share with us.
 
-(i) submit questions or material to us; 
+You might also provide personal information to Network TEN:
 
-(ii) e-mail us; 
+When you complete any application forms   
+When you call our offices   
+When you enter a competition, whether on the TENplay website or any of our mobile, tablet or platform applications (Applications) or otherwise   
+When you write to us   
+When you provide feedback, comments or suggestions on programs and other activities of Network TEN   
+As a customer or client of Network TEN   
+When you provide a service or products to Network TEN   
+If you visit our offices (including via security surveillance of our premises (eg CCTV, card access
 
-(iii) enter one of our contests or sweepstakes; and/or
+If you apply for a job with us, and
 
-(iv) subscribe for a newsletter offered by us.
+If you are a supplier or contractor. 
 
-Personal information may include your name, address, email address or other personal information that may be needed to achieve the below purposes.
+We usually collect this personal information from you directly. However in some circumstances we may receive your personal information from a third party such as a recruitment agency or a party supplying a service to you.  
+On occasions we collect personal information via third parties such as commercial partners, where you have opted-in to having your personal information disclosed to Network TEN.
 
-_Non-Personal Information_
+The type of information we collect will very much depend on what you give us. It might be your name, address, telephone number, email address, work contacts, photographs, interest, hobbies and any other personal details you wish to provide. We do not try to collect sensitive information.. 
 
-  
-We collect information in the aggregate form through the use of cookies and Internet Protocol addresses, such as demographic information and browsing patterns. Such information does not identify any individual and will not be linked to any personal information.
+Network TEN may perform statistical analysis of user activity and characteristics in order to measure interest in and use of the TENplay website and Network TEN’s other websites (Websites) or any of our Applications and to inform others of such information, as well as the number of users who have been exposed to or have clicked on any particular areas in the Websites or our Applications. You acknowledge that when you disclose personally identifiable information on the Websites, or via any of our Applications, that information, along with any substantive information disclosed in your communication, may be collected and collated and used and disclosed by Network TEN and may result in marketing and promotional messages being sent to you from Network TEN or its associates and affiliates. 
 
-**How is the information used by us?**
+Non-personal information and data may be automatically collected through the standard operation of Network TEN's Internet servers or through the use of cookies. If you do not want information collected through the use of cookies, you should use your browser's cookie disabling feature. You should note, however, that if cookies are disabled certain features may not be available. The use of cookies on the Websites enables us to deliver and maintain customised options when you make return visits to the site.
 
-_Personal Information_
+There may be times when we ask for personal information from you and you do not wish to provide it. We do not have a problem with that but it may mean, for example, that we cannot enter your details for a competition or provide you with a particular service that you want. 
 
-  
-We use personal information collected through this website for the purposes of: 
+We would appreciate it if you could let us know when personal information you have supplied to us needs to be updated or is no longer valid. Where that information relates to your membership of TENplay, you may do this by editing it in your account information. In other cases, you may do this by contacting us as set out below.
 
-(i) providing a personalised service; 
+**What does Network TEN do with the personal information?**
 
-(ii) conducting market research surveys; 
+The purpose for which we collect the information is to give effect to the particular interaction you have with Network TEN. That might be, for example, when you participate in a competition we run, for publicity or promotion of a Network personality or for developing the business relationship between you and TEN. We may use your personal information to let you know about programs or other things we think may be of interest to you or to get your feedback. If we use your personal information for direct marketing purposes, we will give you the opportunity to opt out of receiving any further marketing material. We may share the personal information that you have given to us with other companies within our group, our associates and affiliates. 
 
-(iii) fulfilling product orders; 
+Sometimes we may give you the option to receive further communications from one of our advertising partners, for example when we run a competition in conjunction with that advertiser. If you do chose to opt in by expressly providing consent to receive communications from that third party advertiser, TEN may disclose your personal information to that third party. In this circumstance, TEN requires that third party to agree that your personal information be dealt with in accordance with that third party’s own privacy policy (which will be made available for you to view at the time that you opt in), in accordance with all applicable privacy laws and the Spam Act at all times, and pursuant to best practice confidentiality and security procedures. 
 
-(iv) running features that incorporate submissions to the website; 
+We may also use your personal information for related purposes that you would reasonably expect. We take particular care with any sensitive information that we may have (if any). 
 
-(v) running sweepstakes and contests; and/or 
+There may be circumstances where we want to use your personal information to let you know about programs or to get your feedback on our operations. 
 
-(vi) providing you with information about products or services, or the products or services offered jointly with or on behalf of other organisations. 
+If we have contracted out a service to a third party, we may need to disclose your personal information to that third party to ensure that you get the service needed. In these circumstances, we require the third party to protect the privacy of the information that is disclosed to it. 
 
-_Non-Personal Information_
+There may be circumstances where the law requires us to disclose the information, or where disclosure is required to prevent a risk to health or safety or for law enforcement purposes. 
 
-  
-We use non-personal information to:
+**How do we look after your personal information?**
 
-(i) build up marketing profiles;
+We have internal security measures in place to help protect personal information from misuse, modification, unauthorised access, or disclosure. We have a security system in place to deal with the physical security of our premises and the personal information kept at our premises. We have procedures in place to maintain a secure computer/ electronic system. We take reasonable steps to ensure that work areas are secure, and information on databases is protected by pass words and accessed only for legitimate purposes. All our staff are made aware of their obligations under the privacy principles to make your privacy a priority in dealing with personal information. 
 
-(ii) aid strategic development;
+We take reasonable steps to ensure the information we collect, use and disclose is accurate, complete and up to date. 
 
-(iii) manage our relationship with advertisers; and/or
+When we no longer need your personal information we have procedures in place to either destroy it in a secure manner or to permanently de-identify the information.
 
-(iv) audit usage of the website. 
+Network TEN does not currently send personal information covered by this Privacy Policy to any other country. We will update this Privacy Policy if we expect this to change in the future.
 
-  
-We may share such information, in the aggregate form only, with our affiliates, partners or advertisers or other third parties.
+**Can You Access or Correct Information Held by Network TEN?**
 
-_Use of Cookies_
+We maintain records of personal information we have collected. You can gain access to the personal information held by Network TEN about you in two ways. If you have registered as a member of TENplay, most information held by Network TEN about you can be viewed and changed directly by you by logging into TENplay Website or any TENplay Application and using your username and password and reviewing your account information. Except in some limited circumstances such as where the information is commercially sensitive, any other information held by Network TEN about you is available by contacting the Network Privacy Officer. Contact details for the Network Privacy Officer can be found at [Contact Us](https://web.archive.org/contact-us)
 
-  
-We may use "cookies" to identify you when you visit this website and to build up a demographic profile. Our use of cookies also allows registered users of this website to be presented with a personalised version of the website.
+You can submit a request for access to your personal information to the Network Privacy Officer. We will process a request for access as quickly as possible. We reserve the right to impose a reasonable charge for processing and collating personal information, where appropriate and permitted under the Privacy Act 1988.
 
-A cookie is a small piece of information sent by a web server to a web browser which enables the server to collect information back from the browser. To find out more about the use of cookies log on to www.cookiecentral.com. 
+If you inform us that the information we hold is incorrect we will, if appropriate, amend those records.
 
-_Submissions_
+**Do you have a complaint?**
 
-  
-Any personal information you choose to provide to us with your submissions posted to this website may appear on the website, but only to identify you as the author of the submission, unless you expressly authorise us to make further use of the information on the website.
+If you are concerned that there may have been some inappropriate use or disclosure or any other breach relating to your personal information, we want to know about it. The contact person for complaints is the Network Privacy Officer. All complaints will be investigated. Details about how to lodge a complaint can be found at [Contact Us](https://web.archive.org/contact-us)
 
-_Chat Areas/Bulletin Boards_
+**Changes to this Privacy Policy**
 
-  
-If you voluntarily disclose personal information on the bulletin boards or in the chat areas on this website, that information can also be collected and used by others and may result in unsolicited messages from other people. We are not responsible for the content posted by users of these services. Use or exchange of profane or sexually explicit comments or material on the website chat areas or bulletin boards is prohibited. In particular, users must not make sexually explicit or suggestive comments to minors. The posting of any unlawful material is also prohibited.
+Network TEN may change its privacy policy at any time, and you should check this policy from time to time for that reason. 
 
-**Opting-In and Opting-Out**
+**Have we answered your questions about privacy?**
 
-Please carefully read and check on the registration page, sweepstakes/contests page or other relevant form or page through which the information is collected for opt-in or opt-out boxes. 
+If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/contact-us).
 
-The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit us to give your contact information to selected companies, business partners, sponsors and advertisers. 
+**TEN Facebook App Privacy Policy**
 
-If you opt out of permitting us to pass on your information, it will be used only to support your customer relationship with us and to provide the specified service.
+Please check our [Facebook App Privacy Policy](https://images.tenplay.com.au/~/media/PDFs/Facebook_App_Privacy_Policy_2012.pdf) for enquiries regarding any of TEN's Facebook Apps.
 
-Right to Access, Amend or Remove Personal Information You have the option at any time to request that we:
+**Companies covered by this policy  
+**  
+Ten Network Holdings Limited (ABN 14081 327 068)
 
-(i) remove personal details from our database;
+The Ten Group Pty Limited (ABN 50 057 564 708)
 
-(ii) update the information we hold about you or your child;
+Network Ten Pty Limited (ABN 91 052 515 250)
 
-(iii) request a copy of the information that we hold subject to the payment of a request fee; or
+Ten Online Pty Limited (ABN 83 089 829 667)
 
-(iv) stop receiving data or communications.
+Ten Ventures Pty Limited (ABN 64 089 830 759)
 
-If you would like to do any of the foregoing, please email us at privacy.officer@fremantlemedia.com or address requests to Privacy Officer, 1 Stephen Street, London W1T 1AL UK.
+Network Ten (Melbourne) Pty Limited (ABN 39 008 664 953)
 
-**Disclosure and Transfer of Personal Information**
+Network Ten (Brisbane) Pty Limited (ABN 14 050 148 537)
 
-We will not sell, trade or lease the personal information you entrust to us.
+Network Ten (Sydney) Pty Limited (ABN 41 008 664 962)
 
-  
-In connection with the uses described above, we may disclose your personal information to other companies within our corporate group.
+Television & Telecasters (Properties) Pty Limited (ABN 52 050 690 161)
 
-We reserve the right to transfer any personal information to a third party in the event that we sell the whole or part of our business. 
+Caprice Pty Limited (ABN 82 008 655 847)
 
-**Children/Minors**
+Network Ten (Adelaide) Pty Limited (ABN 65 007 577 666)
 
-_Children Under 13_
+Chartreuse Pty Limited (ABN 88 008 665 874)
 
-  
-In accordance with the Children's Online Privacy Protection Act 1998 (commonly referred to as COPPA), we do not require children under the age of 13 to provide us with any more information than is reasonably necessary to participate and make use of this website and under no circumstances do we require children under the age of 13 to provide us with any personal information. Children under the age of 13 should not submit or post any personal information without the written consent of their parents or legal guardians. If you are a child under the age of 13 and want to submit your personal information to us, you should ask your parents to send an e-mail to privacy.officer@fremantlemedia.com specifically allowing us to collect your personal information through this website. By doing so, you allow us to alert your parent or guardian to this website's Privacy Policy. We do not intend to sell, license or trade any such information collected to third parties. Parents may review or change the personal information of their children provided to us or further refuse our collection of such information by sending an e-mail to privacy.officer@fremantlemedia.com. 
+Network Ten (Perth) Pty Limited (ABN 96 009 108 614)
 
-_Users Under 18 (excluding Children Under 13)_
+Ten Employee Share Plans Pty Limited (ACN 082 736 150)
 
-  
-If you are under 18 years of age (and over 13 years of age), you should ask your parent or guardian before you provide any personal information to the website.
+Elevenco Pty Limited (ACN 147 043 981)
 
-**Partner Sites / Linked Sites**
-
-Our website features several activities which are co-sponsored or operated by other websites. These activities will be identifiable by their co-branding. While these activities originate on this website, they may link to other websites not operated by FremantleMedia. We have no control over the privacy practices or the content of any of our co-sponsors and strongly recommend that you check their privacy policies before engaging in these activities. 
-
-Additionally, our website contains links to other websites, including those of advertisers. We have no control over the privacy practices of such advertisers or other websites to which we provide links from this website. For example, if you click on a banner advertisement, the click takes you off this website. These other websites may use cookies, collect data or solicit personal information. We strongly recommend that you check the applicable privacy policy of the website to which you are linking.
-
-**Security of Information**
-
-No communication over the Internet can be guaranteed to be 100% secure, however, we take precautions to ensure the security of personal information submitted by users. While we strive to take care to protect your personal information, FremantleMedia cannot warrant the security of any information that you submit to us, and you do so at your own risk. We do offer secured-server transactions that encrypt your information in transit to prevent someone from intercepting it and misusing it when collecting credit card information for online purchases. We also store any personal information, including credit card numbers, in a secure area to which the general public does not have access.
-
-**Agreement to this Privacy Policy and Changes in Privacy Policy**
-
-By using this website, you signify your agreement to this Privacy Policy. If you do not agree with this Privacy Policy, or any of its terms, please do not use this website.
-
-We reserve the right to change this Privacy Policy at any time, and will post any changes to this Privacy Policy as soon as they go into effect without prior notice to you. Any such changes are effective as of the date such changes are posted on this page. Please check this page periodically to view our most current Privacy Policy.
-
-  
-This Privacy Policy only applies to information we collect online and not information collected offline.  
-
+This page last updated: 12 March 2014
