@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914110050id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibollytv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121419id_/http%3A//www.ibollytv.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ibollytv.com
-
-## **Privacy Policy - http://www.ibollytv.com**
+# Privacy Policy | Hindi Movies Online, Bollywood Movies Online, Indian TV Serials Online
 
 At www.ibollytv.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ibollytv.com and how it is used. 
 
 **Log Files**
 
-Like many other Web sites, http://www.ibollytv.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, http://www.ibollytv.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Use of Cookies and Web Beacons**
 
@@ -47,5 +45,3 @@ CONTACT US ABOUT PRIVACY If you have questions about the privacy aspects of our 
 
 Privacy Policy Group  
 www.ibollytv.com
-
-Copyright © 2013 www.ibollytv.com.
