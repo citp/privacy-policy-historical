@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812195950id_/https%3A//www.duosecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030603id_/https%3A//www.duosecurity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Duo Security
+# Privacy Policy - Duo Security
 
 Last updated: June 1, 2012
 
-When you order or otherwise use the Duo Security, Inc. ("Duo Security") multifactor authentication service (the "Service"), Duo Security requires you to create an account and collects certain information about you and your users in order to provide the Service. In addition, we also collect certain information from visitors to our website (www.duosecurity.com) (the "Website"). This privacy policy explains what information we collect and how we use that information. Terms not otherwise defined in this policy have the meaning assigned to them in Duo Security's Service Terms and Conditions located at <https://www.duosecurity.com/terms>.
+When you order or otherwise use the Duo Security, Inc. (“Duo Security”) multifactor authentication service (the “Service”), Duo Security requires you to create an account and collects certain information about you and your users in order to provide the Service. In addition, we also collect certain information from visitors to our website (www.duosecurity.com) (the “Website”). This privacy policy explains what information we collect and how we use that information. Terms not otherwise defined in this policy have the meaning assigned to them in Duo Security’s Service Terms and Conditions located at <https://www.duosecurity.com/terms>.
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@duosecurity.com, or via postal mail at:
 
@@ -18,16 +18,13 @@ Ann Arbor, MI 48104
 
 When you and your users use the Service, we collect information in two ways:
 
-  * **Information you and your users give us.** When you order or otherwise use the Service, we require you to create an account. To create an account, we may ask for certain company information, such as company name, address, number of employees and, in some cases, company credit card or other payment information, and certain personal information for a company contact person, such as name, email address, and telephone number. In addition, to use the Service your users may be required to provide us with a username, email address, and cellular telephone number.
+**Information you and your users give us.** When you order or otherwise use the Service, we require you to create an account. To create an account, we may ask for certain company information, such as company name, address, number of employees and, in some cases, company credit card or other payment information, and certain personal information for a company contact person, such as name, email address, and telephone number. In addition, to use the Service your users may be required to provide us with a username, email address, and cellular telephone number.
 
-  * **Information we get from you and your users from use of the Service.** We also collect information about how you and your users use the Service, which may include:
+**Information we get from you and your users from use of the Service.** We also collect information about how you and your users use the Service, which may include:
 
-    * **Device information.** We may collect device-specific information (e.g. mobile and desktop) from your users (such as your user's hardware model, operating system and web browser versions, unique device identifiers, and mobile network information including phone number). We may associate your user's device -specific information with your account.
+**Device information.** We may collect device-specific information (e.g. mobile and desktop) from your users (such as your user’s hardware model, operating system and web browser versions, unique device identifiers, and mobile network information including phone number). We may associate your user’s device -specific information with your account.
 
-    * **Service log information.** When your users use the Service, we may automatically collect and store certain information in server logs. This may include which users (by username) are accessing the Service, how they are accessing the service (including the device-specific information referenced above and type of integration), the dates and times they access the Service, where they are accessing the service (by Internet protocol address) and device event information such as crashes, system activity, and hardware settings.
-
-
-
+**Service log information.** When your users use the Service, we may automatically collect and store certain information in server logs. This may include which users (by username) are accessing the Service, how they are accessing the service (including the device-specific information referenced above and type of integration), the dates and times they access the Service, where they are accessing the service (by Internet protocol address) and device event information such as crashes, system activity, and hardware settings.
 
 ##### Information We Do Not Collect
 
@@ -35,29 +32,29 @@ Except as provided above, we do not collect personally identifiable information 
 
 ##### How We Use Information We Collect
 
-In general, we use the information we collect to provide the Service and for billing. We may also use the information we collect to improve the Service for all users. Duo Security may also transmit or share information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your and your users' information be transferred. Although Duo Security owns the software, code, databases, all rights to the Duo Security service, you retain all rights to your data.
+In general, we use the information we collect to provide the Service and for billing. We may also use the information we collect to improve the Service for all users. Duo Security may also transmit or share information with its third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and other technology and services required to operate and maintain the Service, which may require that your and your users’ information be transferred. Although Duo Security owns the software, code, databases, all rights to the Duo Security service, you retain all rights to your data.
 
 Duo Security may also send you periodic newsletters. If you no longer wish to receive these newsletters you may follow the unsubscribe instructions contained in each of the emails you receive.
 
-With respect to credit card or other payment information, Duo Security uses third-party intermediaries to manage credit card and other payment processing. These intermediaries are not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on Duo Security's behalf. Duo Security also uses third party intermediaries to send out emails on our behalf and provide customer support including via live chat software.
+With respect to credit card or other payment information, Duo Security uses third-party intermediaries to manage credit card and other payment processing. These intermediaries are not permitted to store, retain, or use your billing information except for the sole purpose of credit card processing on Duo Security’s behalf. Duo Security also uses third party intermediaries to send out emails on our behalf and provide customer support including via live chat software.
 
 ##### Accessing and Updating
 
 You can modify your account information at anytime by using the Service administrative interface available at [https://admin.duosecurity.com](https://admin.duosecurity.com/) or by emailing our customer support at support@duosecurity.com. We will respond to your request to access within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you the Service. We will retain and use your and your users' information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you the Service. We will retain and use your and your users’ information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### The Duo Security Website
 
 ##### Cookies
 
-When you visit the Website, we use session "cookies" — a piece of information stored on your computer — to allow the Website to uniquely identify your browser while you are logged in and to enable Duo Security to process your online transactions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Session cookies also help us confirm your identity and are required in order to login into your account. Duo Security uses persistent cookies that only Duo Security can read and use, to identify you as a Duo Security customer and make it easier for you to log into your account. Users who disable their web browsers' ability to accept cookies will be able to browse our Website, but will not be able to access or take advantage of the Service.
+When you visit the Website, we use session “cookies” — a piece of information stored on your computer — to allow the Website to uniquely identify your browser while you are logged in and to enable Duo Security to process your online transactions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Session cookies also help us confirm your identity and are required in order to login into your account. Duo Security uses persistent cookies that only Duo Security can read and use, to identify you as a Duo Security customer and make it easier for you to log into your account. Users who disable their web browsers’ ability to accept cookies will be able to browse our Website, but will not be able to access or take advantage of the Service.
 
 The use of cookies by our partners is not covered by our privacy statement. We do not have access or control over these cookies. Our partners use session ID cookies to trace user movement on the site.
 
 ##### Clear Gifs
 
-We employ or our third party advertising partner employs a software technology called clear gifs (also known as "Web Beacons" or "Web Bugs"), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Website users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+We employ or our third party advertising partner employs a software technology called clear gifs (also known as “Web Beacons” or “Web Bugs”), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Website users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
@@ -65,7 +62,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 As is true of most Websites, we and our third party utility-tracking partners gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
 ##### Information Sharing
 
@@ -85,7 +82,7 @@ Our Website offers publicly accessible blogs or community forums. You should be 
 
 ##### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@duosecurity.com.
+We post customer testimonials on our web site which may contain personally identifiable information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed please contact us at privacy@duosecurity.com.
 
 ##### Surveys
 
