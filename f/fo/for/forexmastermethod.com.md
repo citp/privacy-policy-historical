@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexmastermethod.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210222303id_/http%3A//www.forexmastermethod.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexmastermethod.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135531id_/http%3A//www.forexmastermethod.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Russ Horn Forex Master Method
 
