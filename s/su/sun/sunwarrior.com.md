@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sunwarrior.com privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825172434id_/http%3A//www.sunwarrior.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunwarrior.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184303id_/http%3A//www.sunwarrior.com/privacy) for the most accurate reproduction.*
 
-# Best Vegan Protein Powders – Buy Plant-Based Supplements | Sunwarrior | | Privacy Policy
+# Privacy Policy
 
-**Sunwarrior Privacy Policy**
+Sunwarrior Privacy Policy
 
 Like you, we hate spammers and having our information sold out from under us to the mystery companies out there who feel a need to know what we ate for breakfast and if we like a certain color of yoga pants. Sunwarrior takes your privacy seriously and protects any information you give us.
 
@@ -10,7 +10,7 @@ If we ask you to provide certain information while on our website, you can be as
 
 **What we collect**
 
-We may collect the following information:
+We may collect the following information: 
 
   * Name and job title
   * Contact information including email address
@@ -29,19 +29,19 @@ We only collect information that you provide to us while filling out forms or pu
   * To customize the website according to your interests
   * We will never sell your information
 
-
+ 
 
 **Security**
 
 Sunwarrior is committed to ensuring that your information is secure. We do not share it with or sell it to anyone else. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Orders  **
+**Orders**
 
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your orders. If we have trouble processing an order, we’ll use this information to contact you.
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill your orders. If we have trouble processing an order, we'll use this information to contact you.
 
 **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -59,7 +59,7 @@ By using our site you consent to our privacy policy
 
 **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * By not filling out forms on the website
   * By not filling out non-mandatory information in the completion of forms
@@ -71,7 +71,6 @@ We will not sell, distribute, or lease your personal information to third partie
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
-754 West Pioneer Blvd Suite 101  
-Mesquite, NV 89027
+PO Box 633, Overton, NV 89040
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above addresses. We will promptly correct any information found to be incorrect.
