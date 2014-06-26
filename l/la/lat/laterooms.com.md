@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laterooms.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201140310id_/http%3A//www.laterooms.com/en/static/TermsOfUse.mvc%23s4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laterooms.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093248id_/http%3A//www.laterooms.com/en/static/TermsOfUse.mvc%23s4) for the most accurate reproduction.*
 
 # Terms of Use
 
@@ -139,7 +139,7 @@ You warrant that you are 18 years of age or over and have legal capacity to use 
 
 #### Before you travel
 
-LateRooms.com is not liable for damages or losses that may result from travel to any particular destination. The British Foreign and Commonwealth Office helps travellers stay safe overseas. Check the FCO website at [www.fco.gov.uk/knowbeforeyougo](http://www.fco.gov.uk/knowbeforeyougo) for the latest advice on conditions and general information concerning specific countries.
+LateRooms.com is not liable for damages or losses that may result from travel to any particular destination. The British Foreign and Commonwealth Office helps travellers stay safe overseas. Check the FCO website at <https://www.gov.uk/foreign-travel-advice> for the latest advice on conditions and general information concerning specific countries.
 
 It is your responsibility to ensure you have the relevant travel and health documents before departure for the country you are visiting, which shall include, but is not limited to, any inoculations that may be required, ID's and passport, any visa requirements. LateRooms shall not be liable for any expense incurred resulting from your missing, incomplete or incorrect documentation or any non-compliance with requirements.
 
@@ -239,84 +239,238 @@ Most browsers allow you to reject all cookies, whilst some browsers allow you to
 
 Below is a detailed list of the cookies that we use on this website, including those cookies that are essential for the website to operate.
 
-**Strictly Necessary Cookies**  
----  
-**Cookie Name** | **Cookie Type** | **Purpose and Further Information**  
-Lateroomsprofile | Short | 
+**Category/ Type**
 
-This cookie notes customer data such as your preferred language/currency/country, and it is vital for the website to work.  
+| 
+
+**Cookie Name**
+
+| 
+
+**Purpose**
+
+|    
+---|---|---|---  
   
-Search | Short (7 days) | 
+**Our Cookies**
 
-This cookie enables us to store your search preferences so that the website remembers what you are searching for, such as number of nights, children, adults, arrival date, etc. and it is vital for the website to work.  
+|    
   
-**Functionality cookies**  
-**Cookie Name** | **Cookie Type** | **Purpose and Further Information**  
-ASP.NET_SessionId | Session | 
+Vital site functionality
 
-This cookie retains your current session so that you can return to the website if you encounter a browser issue and will still be able to make a booking.  
+Session
+
+| 
+
+Lateroomsprofile
+
+| 
+
+This cookie notes customer data such as your preferred language/currency/country and it is critical for the website to work.
+
+|    
   
-**Performance Cookies**  
-**Third Party** | **Cookie Type** | **Purpose and Further Information**  
-Partner Cookies | Persistent (longer than 30 days) | 
+Vital site functionality
 
-These cookies are used to identify which partner has referred a user when they have arrived on the website via a link from another site. This cookie is placed by the partner site prior to arriving on the website. This enables us to identify referral customers and remunerate partners and is vital to the functioning of the affiliate referral program.  
+Session
+
+| 
+
+Search
+
+| 
+
+This cookie ensure your search preferences are stored so that the website remembers what you are searching for, such as number of nights, children, adults, arrival date, etc. and it is critical for the website to work.
+
+|    
   
-Webtrends | Persistent (longer than 30 days) | 
+Site Analytics
 
-These cookies monitor the traffic volumes to the website to allow us to understand how the website is working and fix any problems. This ensures that the website is fully functional and optimised to create the best possible user experience.
+Session
 
-To opt-out of receiving these cookies please see Webtrends’ privacy policy at: <http://www.webtrends.com/privacy-policy>.  
+| 
+
+ASP.NET_SessionId
+
+| 
+
+This cookie retains the your current session so that you can return to the website if you encounter a browser issue and then are still be able to make a booking. 
+
+|    
   
-Google | Persistent (longer than 30 days) | 
+Vital site functionality
 
-These cookies monitor the traffic volumes to the website to allow us to understand how the website is working and fix any problems. This ensures that the website is fully functional and optimised to create the best possible user experience.
+Short-Term
 
-To opt-out of receiving these cookies please see Google's privacy policy at: <http://www.google.com/privacypolicy.html> or visit <http://tools.google.com/dlpage/gaoptout>.  
+| 
+
+Partner Cookies
+
+| 
+
+These cookies are used to identify which partner has referred a user when they have arrived on the website via a link from a partner site.  This cookie is placed by the partner site prior to arriving on the website.  This enables us to identify referral customers and remunerate partners and is vital to the functioning of the affiliate referral program.
+
+|    
   
-Tealeaf | Persistent (longer than 30 days) | 
+**Third Party Analytics and Other Cookies**
 
-These are cookies that are used to analyse a user's actions across our website during single and multiple visits so we can understand how you are using the website. This provides us with information to ensure the best possible user experience.  
+|    
   
-Maxymiser | Persistent (longer than 30 days) | 
+**Category**
 
-These are cookies that are used to analyse a user's actions and behaviours on our website through conversion optimisation solutions so we can understand how you are using the website. This provides us with information to ensure the best possible user experience.  
+| 
+
+**Third Party**
+
+| 
+
+**Purpose and Further Information**
+
+|    
   
-**Targeting Cookies**  
-**Third Party** | **Cookie Type** | **Purpose and Further Information**  
-Criteo | Persistent (longer than 30 days) | 
+Site Analytics
 
-These third party cookies allow us to deliver adverts to you (after you have left LateRooms.com) that show the best hotel deals for the locations you have been searching for. This means that you will be shown deals that you may have missed without having to search the site again. This is called online behavioural advertising, a common online advertising practice and does not collect any personal data.
+| 
 
-To opt-out of receiving these cookies please follow this link: <http://www.criteo.com/en/privacy-policy/opt-out>.  
+Webtrends
+
+| 
+
+These cookies monitor the traffic volumes to the website to allow us to understand how the website is working and fix any problems.  This ensures that the website is fully functional and optimised to create the best possible user experience.
+
+To opt-out of receiving these cookies please see Webtrends’ privacy policy at: [http://www.webtrends.com/AboutWebtrends/PrivacyPolicy](http://www.webtrends.com/AboutWebtrends/PrivacyPolicy)
+
+|    
   
-Efficient Frontier | Short (7 days) | 
+Site Analytics
 
-These third party cookies allow us to monitor the effectiveness of our search marketing campaigns on Google, Yahoo and MSN. This means we can make the adverts more useful to you by providing you with content that is timely and relevant.
+| 
 
-To opt-out of receiving these cookies please follow this link: <http://www.efrontier.com/optout-page>.  
+Google
+
+| 
+
+These cookies monitor the traffic volumes to the website to allow us to understand how the website is working and fix any problems.  This ensures that the website is fully functional and optimised to create the best possible user experience.
+
+To opt-out of receiving these cookies please see Google's privacy policy at:  [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html) or visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+
+|    
   
-AddThis | Persistent (longer than 30 days) | 
+Site Analytics
+
+| 
+
+Tealeaf
+
+| 
+
+These are cookies that are used to analyse a user’s actions across our website during single and multiple visits so we can understand how you are using the website. This provides us with information to ensure the best possible user experience.
+
+|    
+  
+Site Analytics
+
+| 
+
+Maxymiser
+
+| 
+
+These are cookies that are used to analyse a user’s actions and behaviours on our website through conversion optimization solutions so we can understand how you are using the website. This provides us with information to ensure the best possible user experience.
+
+|    
+  
+Bookmarking & sharing
+
+| 
+
+AddThis
+
+| 
 
 These are cookies are used to enable sharing of content and they also measure content impacts across various social network streams.
 
-To opt-out of receiving these cookies please see AddThis' privacy policy at <http://www.addthis.com/privacy>.  
+To opt-out of receiving these cookies please see AddThis’ privacy policy at [http://www.addthis.com/privacy](http://www.addthis.com/privacy)
+
+|    
   
-Banners | Variable, but some will be persistent (longer than 30 days) | 
+**Third Party Marketing Cookies**
+
+|    
+  
+**Category**
+
+| 
+
+**Third Party**
+
+| 
+
+**Purpose and Further Information**
+
+|  |    
+  
+Marketing - Search
+
+| 
+
+Efficient Frontier 
+
+| 
+
+These third party cookies allow us to monitor the effectiveness of our search marketing campaigns on Google, Yahoo and MSN. This means we can make the adverts more useful to you by providing you with content that is timely and relevant. 
+
+To 
+
+opt-out of receiving **** these cookies please follow this link: [http://www.efrontier.com/optout-page](http://www.efrontier.com/optout-page)  
+
+|  |    
+  
+Marketing - Targeted
+
+| 
+
+Criteo 
+
+| 
+
+These third party cookies allow us to deliver adverts to you (after you have left LateRooms.com) that show the best hotel deals for the locations you have been searching for.  This means that you will be shown deals that you may have missed without having to search the site again.  This is called online behavioural advertising, a common online advertising practice and does not collect any personal data. 
+
+To 
+
+opt-out of receiving **** these cookies please follow this link: [http://www.criteo.com/en/privacy-policy/opt-out](http://www.criteo.com/en/privacy-policy/opt-out)  
+
+|  |    
+  
+Marketing – Display Banners
+
+| 
 
 These third party cookies allow us to monitor the effectiveness of our online banner marketing campaigns on Doubleclick (Google), Yahoo, Xaxis, Yahoo, MSN and Flashtalking amongst others. This means we can make the adverts more useful to you by providing you with content that is timely and relevant. We also use these cookies to ensure we are not serving a high volume of ads to you.
 
-To opt-out of receiving these cookies please follow these links:
+To 
 
-  * <http://www.doubleclick.com/privacy/index.aspx>
-  * <http://info.yahoo.com/privacy/uk/yahoo/cookies>
-  * <http://www.flashtalking.com/intelligent.html> (follow the link in the bottom right)
-  * <http://www.xaxis.com/uk> (follow the link in the bottom right)
-  * <http://privacy.microsoft.com/en-us/fullnotice.mspx>
+opt-out of receiving **** these cookies please follow these links: [http://www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)    
+[http://info.yahoo.com/privacy/uk/yahoo/cookies](http://info.yahoo.com/privacy/uk/yahoo/cookies)    
+[http://www.flashtalking.com/intelligent.html](http://www.flashtalking.com/intelligent.html)  (follow the link in the bottom right)  
+[http://www.xaxis.com/uk](http://www.xaxis.com/uk)  (follow the link in the bottom right)  
+[http://privacy.microsoft.com/en-us/fullnotice.mspx](http://privacy.microsoft.com/en-us/fullnotice.mspx)
 
+You can also 
 
+opt-out of receiving **** other third party marketing cookies by following this link:[http://www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices)
 
-You can also opt-out of receiving other third party marketing cookies (not used by LateRooms.com) by following this link: <http://www.youronlinechoices.com/uk/your-ad-choices>.  
+|  |    
+|    
+|    
+|    
+|    
+|    
+|    
+|    
+|    
+|    
+|    
   
 Some of our Website pages and HTML-formatted e-mail newsletters may use web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF and are used like cookies to recognize certain types of information on your computer, such as your cookie number, time and date of a page view, and a description of the page where the web beacon is placed.
 
@@ -334,10 +488,9 @@ We may use your personal information to:
   * manage, administer, mediate and contract the services offered by us via the website and/or our call centre;
   * manage, administer, mediate and contract your bookings made through the website and/or our call-centre;
   * send you general (non-marketing) commercial communications including communications about any important changes to the website and/or surveys we may ask you to complete;
-  * send you email notifications which you have specifically requested including email nofitications confirming your bookings made via the website and/or our call centre;
-  * contact you by electronic means (e-mail or SMS) with information such as special offers for goods and services similar to those which were the subject of a previous sale to you, unless you have opted out of receiving such information (you can inform us at any time if you do not wish to receive such marketing communications by simply clicking on the unsubscribe link);
-  * send to you our newsletter and other marketing communications relating to new services, our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed or subscribed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications by simply clicking on the unsubscribe link);
-  * provide third parties with statistical information about our users' but this information will not be used to identify any individual user;
+  * send you email notifications confirming your bookings made via the website and/or our call centre and any other email notifications you have specifically requested;
+  * contact you by post, telephone or e-communication (including email and SMS) with information on our latest news and updates including details of our, or our carefully selected third parties’, goods and services, special offers, discounts or promotions, details of new products or services and forthcoming events or competitions offered by us, unless you have opted out of receiving such information by ticking the relevant box on the booking form (you can also inform us at any time if you do not wish to receive e-communications by simply clicking on the unsubscribe link contained in e-communication);
+  * provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
   * deal with enquiries and complaints made by or about you relating to the website, your bookings and/or the services offered by us or our suppliers;
   * to analyse and improve the services offered on our website and to provide you with the most user-friendly navigation experience. We may also use and disclose information in aggregate for marketing and strategic development purposes;
   * send you an email inviting you to leave a guest review on the website following your stay; and
@@ -347,9 +500,9 @@ We may use your personal information to:
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-We may monitor, record, store and use any telephone email or other communication with you for monitoring purposes, in order to check any instructions given to us by you, for staff training purposes, for crime prevention and to improve the quality of our customer service.
+We may monitor, record, store and use any telephone, email or other communication with you for monitoring purposes, in order to check any instructions given to us by you, for staff training purposes, for crime prevention and to improve the quality of our customer service.
 
-We will not provide your personal information to any third parties for the purpose of direct marketing by such third party unless you have provided your express consent by activating the "opt-in" option on the website. In such cases, we shall only transfer to the third party adequate, relevant and not excessive personal data (name, address and email addresses) so you will be able to receive direct marketing material from such third party. You can inform us at any time if you no longer wish for your details to be disclosed to such third party and we will no longer disclose your information. The relevant third party will show their contact information in their marketing material and we have no control over such third party marketing material, therefore we disclaim any kind of liability that may arise from such third party marketing material.
+We will not provide your personal information to any third parties for the purpose of direct marketing by such third party unless you have provided your express consent by activating the “opt-in” option on the website or for example where you have elected to participate in a promotion offered via a third party on our website. In such cases, we shall only transfer to the third party adequate, relevant and not excessive personal data (name, address and email addresses) so you will be able to receive direct marketing material from such third party. You can inform us at any time if you no longer wish for your details to be disclosed to such third party and we will no longer disclose your information. The relevant third party will show their contact information in their marketing material and we have no control over such third party marketing material, therefore we disclaim any kind of liability that may arise from such third party marketing material.
 
 You expressly agree to such uses of personal information.
 
@@ -383,7 +536,7 @@ Information which you provide may be transferred to countries which do not have 
 
 Information may be transferred to companies contracted by us to perform services in connection with this website who are based outside the EEA including in the United States, where such organisations have signed up to the US Safe Harbour Principles and/or contracts providing an adequate level of protection have been signed.
 
-In addition, personal information that you submit for publication on the website as a review will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+In addition, personal information that you submit for publication on the website as a review will be published on the internet and may be available, via the internet, around the world.  We cannot prevent the use or misuse of such information by others.
 
 You expressly agree to such transfers of personal information.
 
@@ -401,7 +554,7 @@ You are responsible for keeping your password and user details confidential. We 
 
 #### (8) Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. Your continued use of the website shall constitute your agreement and acceptance of the changes to this policy.
+We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.  Your continued use of the website shall constitute your agreement and acceptance of the changes to this policy.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -422,7 +575,7 @@ You may instruct us not to process your personal information for marketing purpo
 
 #### (10) Third party websites
 
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites including use of cookies on such third party websites and you should prefer to the third party's privacy policy for more information.
+The website contains, and our email communications may contain, links to other websites. We are not responsible for the privacy policies or practices of third party websites including use of cookies on such third party websites and you should prefer to the third party’s privacy policy for more information.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -444,7 +597,7 @@ The data controller responsible in respect of the information collected on this 
 
 Our data protection registration number is Z8168511.
 
-Updated June 2013
+Updated January 2014
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
