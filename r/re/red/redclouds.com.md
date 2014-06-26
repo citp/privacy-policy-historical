@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redclouds.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207022647id_/http%3A//www.redclouds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redclouds.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101854id_/http%3A//www.redclouds.com/privacy-policy) for the most accurate reproduction.*
 
 # Explicit RedClouds Privacy Policy
 
