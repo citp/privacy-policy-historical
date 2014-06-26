@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instantprint.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818182450id_/http%3A//www.instantprint.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantprint.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131625id_/http%3A//www.instantprint.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# instantprint. | Privacy Policy
+# instant print. | Privacy Policy
 
 #### Protecting your personal details on our website  
 **Last updated: 14 September 2012**
