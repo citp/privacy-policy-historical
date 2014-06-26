@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807065430id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053957id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -120,16 +120,6 @@ After a User has logged into the InboxDollars® Member’s Section, cookies are 
 
 
 
-
-## V. CONTACT US
-
-If you have questions or comments about this Privacy Policy, desire not to receive information about products or services we think may be of interest to you, or with to access, delete your information, wish to request information pursuant to Section II.2.(f) of this Privacy Policy, please email us at support@inboxdollars.com or send us a letter by first class postage prepaid U.S. mail or overnight courier to the following address: 
-
-Customer Service  
-CotterWeb Enterprises, Inc.  
-1295 Northland Drive  
-Suite 300  
-Mendota Heights, MN 55120 
 
   
 
