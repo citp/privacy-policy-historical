@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805094943id_/https%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102607id_/https%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | www.wfscorp.com
+# Privacy Policy | wfscorp.com
 
 ## **World Fuel Services Corporation Privacy Policy**
 
 ###   
 I. Your privacy is important to us
 
-We want you to know that when you use the World Fuel Services Corp. ("WFS") website, [www.wfscorp.com](https://www.wfscorp.com/) (the "Site"), and when you provide us with information about you, the privacy of your personally identifiable information will be respected and protected, subject to this Privacy Policy. While WFS strives to take reasonable measures to protect the privacy of its Site users, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
+We want you to know that when you use the World Fuel Services Corp. ("WFS") website, [www.wfscorp.com](http://www.wfscorp.com/) (the "Site"), and when you provide us with information about you, the privacy of your personally identifiable information will be respected and protected, subject to this Privacy Policy. While WFS strives to take reasonable measures to protect the privacy of its Site users, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
 
 ### II. What information do we collect?
 
