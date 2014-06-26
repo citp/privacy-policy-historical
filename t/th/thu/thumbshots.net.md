@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thumbshots.net privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817223704id_/http%3A//www.thumbshots.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbshots.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052314id_/http%3A//www.thumbshots.net/privacy.aspx) for the most accurate reproduction.*
 
 # Thumbshots.net > Home
 
