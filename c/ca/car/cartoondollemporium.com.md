@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205220748id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoondollemporium.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091050id_/http%3A//www.cartoondollemporium.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Best Dress Up Games Online | Play Makeover, Make Up & Avatar Games for Free, Social Network For Girls - Cartoon Doll Emporium (CDE)
 
 #### Privacy Policy
 
 Cartoondollemporium.com (CDE) is a safe, carefully-moderated games website and social network for kids ages 6 - 14. The entire CDE site is in full compliance with COPPA regulations, as outlined below. CDE is owned and operated by people who care about your children as if they were their own. CDE was born as a labor of love and continues to be one every day. We encourage parents to bring their questions, comments, and concerns to us.   
-
-
-  
 
 
 #### CDE is located at:
@@ -40,6 +37,11 @@ At any time, a parent may request that their child’s account and information b
 #### Third Party Advertising
 
 We use third-party advertising companies to serve advertisements to you on our website. These companies (1) use information obtained from your visits to this website and other sites to serve ads to you and (2) place unique third-party cookies on your computer through your browser. Also, we use Web beacons provided by third-party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. For more information on the privacy policy and data collection of our third party advertisers, please visit their website and privacy policy [here](http://betawave.com/privacy.html). Some but not all third party advertising companies provide a mechanism to opt-out of their technology. For more information and to opt out of advertisers that provide an opt-out mechanism, please click [here](http://www.networkadvertising.org/managing/opt_out.asp).   
+
+
+In addition to the above, we use Remarketing with Google Analytics to advertise online. As a result, third party vendors, including Google, may show our ads on sites across the internet. We, and third party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our websites. Using the [Ads Settings](https://www.google.com/settings/ads), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We also encourage you to point visitors to Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web.  
+
+
 *** 
 
 To address privacy concerns, please contact us at [cartoondollemporium@gmail.com](mailto:cartoondollemporium@gmail.com). You may also contact us at 212-695-4074, but we strongly prefer you seek help by e-mail first. We will always be happy to speak with you and help you to feel as comfortable as possible with our efforts to keep our online community exceptionally safe. 
