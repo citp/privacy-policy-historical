@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214204507id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answersingenesis.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114239id_/http%3A//www.answersingenesis.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Answers in Genesis
+# Privacy Policy | Answers in Genesis
 
 ## Introduction
 
@@ -82,7 +82,7 @@ Back to Top
 
 ## Offsite Links
 
-The Answers in Genesis website—and [other websites](https://web.archive.org/about/family-sites) owned and operated by Answers in Geneis—may contain links to third party websites that are not owned or controlled by Answers in Genesis. Consequently, Answers in Genesis has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites. In addition, Answers in Genesis does not and cannot censor or edit the content of any third-party site. By using our website, you expressly release Answers in Genesis from any and all liability arising from your use of any third-party websites. Accordingly, we encourage you to be aware when you leave the Answers in Genesis website and to read the terms and conditions and privacy policy of each other website that you visit.
+The Answers in Genesis website—and other websites owned and operated by Answers in Geneis—may contain links to third party websites that are not owned or controlled by Answers in Genesis. Consequently, Answers in Genesis has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites. In addition, Answers in Genesis does not and cannot censor or edit the content of any third-party site. By using our website, you expressly release Answers in Genesis from any and all liability arising from your use of any third-party websites. Accordingly, we encourage you to be aware when you leave the Answers in Genesis website and to read the terms and conditions and privacy policy of each other website that you visit.
 
 The hyperlinks on this website are provided as an additional resource only and should not be seen as an endorsement, approval, or agreement with any information or resources offered at sites accessed through our site. No inference or assumption should be made and no representation should be inferred that Answers in Genesis is connected with, operates, or controls these websites.
 
@@ -90,7 +90,7 @@ Back to Top
 
 ## Maintenance of Information
 
-If your personally identifiable information changes (such as zip code, phone, email, or postal address), or if you no longer desire to receive email updates etc., we provide a way to correct, update, or delete/deactivate such information. [Click here to update your physical address](https://web.archive.org/feedback/sendmail.aspx?TopicID=ChangeOfAddress). [Click here to update your email address for newsletters](https://web.archive.org/us/newsletters/us_signup.asp). To remove yourself from any email lists, click on the unsubscribe link that is at the bottom of every email you receive from us.
+If your personally identifiable information changes (such as zip code, phone, email, or postal address), or if you no longer desire to receive email updates etc., we provide a way to correct, update, or delete/deactivate such information. [Click here to update your physical address](https://www.answersingenesis.org/feedback/sendmail.aspx?TopicID=ChangeOfAddress). [Click here to update your email address for newsletters](https://www.answersingenesis.org/us/newsletters/signup.asp). To remove yourself from any email lists, click on the unsubscribe link that is at the bottom of every email you receive from us.
 
 Back to Top
 
@@ -102,13 +102,13 @@ Back to Top
 
 ## Contact Information
 
-If you have questions or concerns about any information on this page, please feel free to [contact us](https://web.archive.org/feedback/sendmail.aspx?TopicID=inquiries).
+If you have questions or concerns about any information on this page, please feel free to [contact us](http://www.answersingenesis.org/feedback/sendmail.aspx?TopicID=inquiries).
 
-View our [GuideStar](http://www.guidestar.org/controller/searchResults.gs?action_gsReport=1&npoId=96473) ministry information profile.
+View our [GuideStar](http://www.guidestar.org/organizations/33-0596423/answers-genesis-kentucky.aspx) ministry information profile.
 
-View our [2012 Annual Report](https://web.archive.org/assets/pdf/about/2012-annual-report.pdf) (PDF).
+View our [2012 Annual Report](https://cdn-assets.answersingenesis.org/doc/about/2012-annual-report.pdf) (PDF).
 
-For more information, see our [Published Content Use Policy and Guidelines](https://web.archive.org/about/use-policy) and [Statement of Accountability](https://web.archive.org/about/soa). 
+For more information, see our [Published Content Use Policy and Guidelines](https://web.archive.org/about/use-policy/) and [Statement of Accountability](https://web.archive.org/about/soa/). 
 
 Thank you!
 
