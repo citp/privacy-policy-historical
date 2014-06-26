@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807103423id_/https%3A//www.flcu.org/about-us/privacy-policy-and-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110240id_/https%3A//www.flcu.org/about-us/privacy-policy-and-disclosures) for the most accurate reproduction.*
 
 # FCU Disclosures and Privacy Policy - About Us | Florida Credit Union
 
@@ -6,7 +6,15 @@
 
 Please [click here](https://web.archive.org/assets/1/7/Florida_Credit_Union_Online_Banking_Disclosure_1-2013.pdf) to read Florida Credit Union’s Terms and Conditions of services available by and through our website, Online Banking, or Mobile Banking.
 
-To access Florida Credit Union’s Member Service disclosures, please [click here](https://web.archive.org/assets/1/7/Membership_Booklet_11-2012.pdf).  
+To access Florida Credit Union’s Member Service disclosures, please [click here](https://web.archive.org/assets/1/7/Membership_Booklet_11-2012.pdf).
+
+To access Florida Credit Union's Visa Credit Card disclosures, please [click here](https://www.flcu.org/assets/1/7/7-2013_Agreement_for_FDR.pdf).
+
+To access the Consumer Account Agreement, please [click here](https://web.archive.org/assets/1/7/Account_Agreement_consumer.pdf).
+
+To access the Commercial Account Agreement, please [click here](https://web.archive.org/assets/1/7/Account_Agreement_commercial.pdf).
+
+To access the Error Resolution Notice, please [click here](https://web.archive.org/assets/1/7/billing.pdf).  
  
 
 ###  Florida Credit Union’s Privacy Policy
