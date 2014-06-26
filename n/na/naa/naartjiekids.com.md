@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naartjiekids.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233705id_/http%3A//www.naartjiekids.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naartjiekids.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122539id_/http%3A//www.naartjiekids.com/info/privacy) for the most accurate reproduction.*
 
 # Naartjie Kids | Children's Clothes | Kid's Clothes | Baby Clothes
 
