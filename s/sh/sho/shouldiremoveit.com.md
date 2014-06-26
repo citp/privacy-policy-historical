@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shouldiremoveit.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226075450id_/http%3A//www.shouldiremoveit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouldiremoveit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024553id_/http%3A//www.shouldiremoveit.com/privacy.aspx) for the most accurate reproduction.*
 
-# Should I Remove It?
+# Privacy Statement - Should I Remove It?
 
 This Policy describes the information that is collected in relation to your use of the Site (www.shouldiremoveit.com) and the Services, explains how Data is used and instances when Reason Software Company Inc., collectively referred to as "ShouldIRemoveIt.com or Reason Company Software", shares or permits collection of the Data by the Company, as well as affiliates, partners and advertisers (hereinafter — "Partners") of ShouldIRemoveIt.com and the Company or state authorities. The Policy also provides explanation of the instruments you may use in order to limit the amount of Data collected by ShouldIRemoveIt.com, the Company and/or Partners.
 
 ### 1\. Applicability and Acceptance of Policy
 
-This Policy shall apply to your use of the Site and/or the Services as of the moment you first access the Site and commence use of any of the Services. By accessing, browsing or using the Site and/or any of the Services you irrevocably and unconditionally accept and adhere to provisions of this Policy without any exemptions, limitations and exclusions. For the avoidance of any doubts, this Policy shall apply to Services specifically identified in Terms ([www.shouldiremoveit.com/terms.aspx](https://web.archive.org/web/20131226075450id_/http%3A//www.shouldiremoveit.com/www.shouldiremoveit.com/terms.aspx)).
+This Policy shall apply to your use of the Site and/or the Services as of the moment you first access the Site and commence use of any of the Services. By accessing, browsing or using the Site and/or any of the Services you irrevocably and unconditionally accept and adhere to provisions of this Policy without any exemptions, limitations and exclusions. For the avoidance of any doubts, this Policy shall apply to Services specifically identified in Terms ([www.shouldiremoveit.com/terms.aspx](https://web.archive.org/web/20140626024553id_/http%3A//www.shouldiremoveit.com/www.shouldiremoveit.com/terms.aspx)).
 
 In the event you disagree with any provision of the Policy or would not like to provide your consent for collection of Data please cease use the Site or any of the Services immediately.
 
