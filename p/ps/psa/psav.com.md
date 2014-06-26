@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the psav.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228111542id_/http%3A//www.psav.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psav.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161347id_/http%3A//www.psav.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If there are questions or concerns regarding this statement, please contact: 
 
- **PSAV Presentation Services**  
-Attn: Privacy Office  
+ **PSAV    
+**Attn: Privacy Office  
 111 West Ocean Boulevard  
 Suite 1110  
 Long Beach, California 90802   
@@ -29,7 +29,7 @@ Ask Us / Enforcement of this Privacy Policy
 Changes to this Privacy Policy  
 Acceptance of this Privacy Policy
 
-This is the Audio Visual Services Group, Inc. (doing business as PSAV Presentation Services (“PSAV”)) privacy policy.
+This is the Audio Visual Services Group, Inc. (doing business as PSAV) privacy policy.
 
 Purpose of this Privacy Policy
 
@@ -68,8 +68,6 @@ You may choose not to provide some of your PII to us, but this mayprevent us fro
 We strive to ensure that we give you a stress-free experience and arededicated to building a rewarding and lasting relationship with everycustomer. In order to provide the level of service we believe you expectfrom us, we may use your PII for the following purposes:
 
   * To provide the services and offerings that you request, and to communicate with you regarding such services and offerings;
-
-
   * To do all things necessary to administer those services;
   * To research, develop, manage, protect and improve our PSAV Sites and services;
   * To maintain and develop our service-oriented software and other business systems; and
@@ -101,13 +99,13 @@ We may also share your information with other non-affiliated thirdparties, such 
 
 We may also transfer or assign your information to third parties as aresult of or in connection with a sale, merger, consolidation, changein control, transfer of assets, reorganization or liquidation.
 
-#### Web site and Internet Privacy
+#### Website and Internet Privacy
 
 If you use our PSAV Sites or otherwise interact with us via the Internet, the following privacy-related policies also apply:
 
 #### Links to Other Websites
 
-Our Site may contain links or references to other Web sites outsideof our control, and the privacy policies of these sites may differ fromour own. Please be aware that we have no control over such Web sites andour privacy policy does not apply to such Web sites. We advise you tocheck the privacy policies of such sites before disclosing any PII viasuch sites.
+Our Site may contain links or references to other Websites outsideof our control, and the privacy policies of these sites may differ fromour own. Please be aware that we have no control over such Web sites andour privacy policy does not apply to such Websites. We advise you tocheck the privacy policies of such sites before disclosing any PII viasuch sites.
 
  **Active Information Collection**
 
@@ -147,7 +145,8 @@ Two types of passive information collection technologies deserve special mention
 
  ** _Cookies_**
 
-"Cookies" are small text files that store information about yourinteractions with a particular Web site, either temporarily (known as a"temporary" or "session" cookie, and deleted once you close your browserwindow) or more permanently on the hard drive of your computer (knownas a "permanent" or "persistent cookie"). Cookies can make it easier touse a Web site by allowing servers to access certain informationquickly:
+"Cookies" are small text files that store information about yourinteractions with a particular Web site, either temporarily (known as a"temporary" or "session" cookie, and deleted once you close your browserwindow) or more permanently on the hard drive of your computer (knownas a "permanent" or "persistent cookie"). Cookies can make it easier touse a Web site by allowing servers to access certain informationquickly:  
+
 
   * Session cookies can be used to help a user's browser navigate a Website more smoothly and may show up if the user comes from a Web sitewith which the subsequent Web site has some relationship (e.g., a Website of an affiliated company) and can give helpful information. 
   * Persistent cookies can be used to customize a Web site for a user,such as by storing passwords, preferences, and registration and accountinformation so that users do not have to reenter them each time theyvisit a Web site.
@@ -169,7 +168,7 @@ From time to time, our service providers may have access toinformation you submi
 
 Except as otherwise provided in the "Active Information Collection"section above, we also reserve the right to sell, lease, provide access,or otherwise transfer personally identifiable information you submitvia the PSAV Sites to our business partners (including email deliveryservices and content providers), affiliates, and dealers for thepurposes described in this Privacy Policy.
 
-Notwithstanding anything to the contrary in this Privacy Policy orelsewhere on the PSAV Sites, we reserve the right to share or transferany information you submit via the PSAV Sites to another person orcompany in connection with the sale, assignment, or other transfer ofthe business of the PSAV Sites and/or PSAV Presentation Services; torespond to law enforcement requests; or where required by applicablelaw, statute, regulation, ordinance, subpoena, or court order. Bysubmitting personally identifiable information via the PSAV Sites, youconsent to such disclosures in accordance with this Privacy Policy.
+Notwithstanding anything to the contrary in this Privacy Policy orelsewhere on the PSAV Sites, we reserve the right to share or transferany information you submit via the PSAV Sites to another person orcompany in connection with the sale, assignment, or other transfer ofthe business of the PSAV Sites and/or PSAV; torespond to law enforcement requests; or where required by applicablelaw, statute, regulation, ordinance, subpoena, or court order. Bysubmitting personally identifiable information via the PSAV Sites, youconsent to such disclosures in accordance with this Privacy Policy.
 
  **Data Security**
 
@@ -181,7 +180,7 @@ It is your responsibility to safeguard any usernames and passwordsyou use to acc
 
 You can opt-out of our use and disclosure of your PII for marketingpurposes and customer satisfaction surveys, and/or withdraw your priorconsent for same, by the methods provided below. Your consent will bewithdrawn; however, it is possible that you may receive correspondencesscheduled prior to our receipt and processing of your opt-out request.
 
-####  _To Opt Out of E-mail Campaigns:_
+ ** _To Opt Out of E-mail Campaigns:_**
 
 You may click on the clear “opt out” indicator in promotional ormarketing email that you have received from us or you can E-mail usdirectly at [privacyoffice@psav.com](mailto:privacyoffice@psav.com).Please put the word “Unsubscribe” in the subject line.  If you use morethan one email address, then send your opt-out email from each of youremail addresses.
 
@@ -189,7 +188,7 @@ You may click on the clear “opt out” indicator in promotional ormarketing em
 
 You may email us at [privacyoffice@psav.com](mailto:privacyoffice@psav.com) with the words “Opt Out of Postal Mail” in the subject line, or write to us at:
 
-PSAV Presentation Services  
+PSAV  
 Attn: Privacy Office  
 111 West Ocean Boulevard  
 Suite 1110  
@@ -210,7 +209,7 @@ If at any time you have questions, comments, or concerns about thisPrivacy Polic
 
  ** _Mail_**
 
-PSAV Presentation Services  
+PSAV  
 Attn: Privacy Office  
 111 West Ocean Boulevard, Suite 1110  
 Long Beach, California 90802   
@@ -232,13 +231,13 @@ By using our Site, or otherwise providing your PII to us, you signifyyour accept
 
  **Introduction**
 
-PLEASE READ THE FOLLOWING TERMS OF USE CAREFULLY BEFORE USING THISWEB SITE. By using psav.com, or any public Web sites owned/operated byAudio Visual Services Group, Inc. (doing business as PSAV® PresentationServices (“PSAV”)), hereto known as "PSAV Sites," where this policy isdisplayed, you acknowledge that you have reviewed, and agree to be boundby, the following terms of use. If you do not agree to these terms ofuse, do not use the PSAV Sites.
+PLEASE READ THE FOLLOWING TERMS OF USE CAREFULLY BEFORE USING THISWEB SITE. By using psav.com, or any public Web sites owned/operated byAudio Visual Services Group, Inc. (doing business as PSAV®), hereto known as "PSAV Sites," where this policy isdisplayed, you acknowledge that you have reviewed, and agree to be boundby, the following terms of use. If you do not agree to these terms ofuse, do not use the PSAV Sites.
 
 #### COPYRIGHT AND TRADEMARK INFORMATION
 
-All textual, graphical, and other content appearing on the PSAV Sitesare the property of Audio Visual Services Group, Inc. (doing businessas PSAV® Presentation Services) ("we," "our," or "us"), companiespartially or wholly owned by Audio Visual Services Group, Inc., or theirrespective licensors. The Site and all content on the PSAV Sites areprovided for lawful purposes only. By accessing and using the PSAVSites, you agree to abide by U.S. and international copyright law andall other laws applicable to the use of the PSAV Sites.
+All textual, graphical, and other content appearing on the PSAV Sitesare the property of Audio Visual Services Group, Inc. (doing businessas PSAV®) ("we," "our," or "us"), companiespartially or wholly owned by Audio Visual Services Group, Inc., or theirrespective licensors. The Site and all content on the PSAV Sites areprovided for lawful purposes only. By accessing and using the PSAVSites, you agree to abide by U.S. and international copyright law andall other laws applicable to the use of the PSAV Sites.
 
-Procedure for making claims of copyright infringement. In accordancewith the Digital Millennium Copyright Act (17 USC & 512), PSAVPRESENTATION SERVICES is registered with the US Copyright Office as aService Provider. Any notifications of claimed copyright infringementmust be sent to the Service Provider's Designated Agent.
+Procedure for making claims of copyright infringement. In accordancewith the Digital Millennium Copyright Act (17 USC & 512), PSAV is registered with the US Copyright Office as aService Provider. Any notifications of claimed copyright infringementmust be sent to the Service Provider's Designated Agent.
 
 U.S. Government Restricted Rights. Government users will receive nogreater than Restricted Rights as defined in FAR 52.227-19 (c) (1-2)(June 1987). Government users will receive no greater Limited Rights asdefined in FAR 52.227-14 (June 1987) or DFAR 252.227-7015 (b) (2)(November 1995), as applicable in any technical data at this site.
 
@@ -252,13 +251,13 @@ All trademarks, service marks, logos and graphics of specificfacilities, partner
 
 #### DISCLAIMER OF WARRANTIES AND LIABILITY
 
-All content on this Web site is provided “as is” and withoutwarranties of any kind either express or implied. Other than thosewarranties, which under the U.S. laws applicable to these terms, areimplied by law and are incapable of exclusion, restriction, ormodification, PSAV disclaims any and all warranties of merchantabilityand fitness for a particular purpose. Neither PSAV, its affiliated orrelated entities, nor the providers, nor any person involved in thecreation, production, and distribution of this Web site warrant that thefunctions contained in this Web site will be uninterrupted orerror-free, that defects will be corrected, or that the servers thatmake the content available will be free of viruses or other harmfulcomponents. The content that you access on this Web site is providedsolely for your convenience and information only. PSAV does not warrantor make any representations regarding the results that may be obtainedfrom the use of this Web site, or as to the reliability, accuracy orcurrency or currency of any information content, service and/ormerchandise acquired pursuant to your use of this Web site.
+All content on this Web site is provided “as is” and withoutwarranties of any kind either express or implied. Other than thosewarranties, which under the U.S. laws applicable to these terms, areimplied by law and are incapable of exclusion, restriction, ormodification, PSAV disclaims any and all warranties of merchantabilityand fitness for a particular purpose. Neither PSAV, its affiliated orrelated entities, nor the providers, nor any person involved in thecreation, production, and distribution of this Website warrant that thefunctions contained in this Web site will be uninterrupted orerror-free, that defects will be corrected, or that the servers thatmake the content available will be free of viruses or other harmfulcomponents. The content that you access on this Website is providedsolely for your convenience and information only. PSAV does not warrantor make any representations regarding the results that may be obtainedfrom the use of this Website, or as to the reliability, accuracy orcurrency or currency of any information content, service and/ormerchandise acquired pursuant to your use of this Website.
 
-You expressly agree that use of this Web site is at your sole risk. You (and not PSAV) assume the entire cost of all necessary servicing,repair or correction of your system.  You expressly agree that neitherPSAV, nor its affiliated or related entities (including its providers),nor any of their respective employees, or agents, nor any person orentity involved in the creation, production and distribution of this Website, is responsible or liable to any person or entity whatsoever forany loss, damage (whether actual, consequential, punitive or otherwise),injury, claim, liability or other cause of any kind or characterwhatsoever based upon or resulting from the use or attempted use of thisWeb site or any other linked site. You expressly acknowledge and agreethat PSAV is not liable or responsible for any defamatory, offensive orillegal conduct of other subscribers or third parties. Somejurisdictions may not allow the exclusion or limitation of liability forconsequential or incidental damages. In such jurisdictions, PSAV’sliability is limited to the greatest extent permitted by law.
+You expressly agree that use of this Website is at your sole risk.  You (and not PSAV) assume the entire cost of all necessary servicing,repair or correction of your system.  You expressly agree that neitherPSAV, nor its affiliated or related entities (including its providers),nor any of their respective employees, or agents, nor any person orentity involved in the creation, production and distribution of this Website, is responsible or liable to any person or entity whatsoever forany loss, damage (whether actual, consequential, punitive or otherwise),injury, claim, liability or other cause of any kind or characterwhatsoever based upon or resulting from the use or attempted use of thisWeb site or any other linked site. You expressly acknowledge and agreethat PSAV is not liable or responsible for any defamatory, offensive orillegal conduct of other subscribers or third parties. Somejurisdictions may not allow the exclusion or limitation of liability forconsequential or incidental damages. In such jurisdictions, PSAV’sliability is limited to the greatest extent permitted by law.
 
 #### LINKS
 
-Within the PSAV Sites, you may see links or references to other Websites. We undertake no obligation to review the Web sites that may belinked to the PSAV Sites, do not endorse, and are not responsible forthe accessibility of, or the resources available on, any other Web siteslinked to the PSAV Sites. You are solely responsible for anyinteractions you may have with such Web sites.
+Within the PSAV Sites, you may see links or references to other Websites. We undertake no obligation to review the Websites that may belinked to the PSAV Sites, do not endorse, and are not responsible forthe accessibility of, or the resources available on, any other Websiteslinked to the PSAV Sites. You are solely responsible for anyinteractions you may have with such Websites.
 
 #### SUBMISSIONS
 
