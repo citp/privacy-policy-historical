@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128192215id_/http%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072255id_/http%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
 
 # Coupons, Offers and Deals from vouchercloud
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy, together with our Terms & Conditions explains what happens to the types of personal and non-personal information we collect when you use the **vouchercloud** service ( ** **vouchercloud**** ). By using ****vouchercloud**** you agree to the terms of this Privacy Policy. If you do not agree to these terms please do not continue using ****vouchercloud****.
 
-****vouchercloud**** uses the personal information we collect to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned within this policy.
+ ** **vouchercloud**** uses the personal information we collect to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned within this policy.
 
 ### Collection of Information
 
@@ -26,11 +26,11 @@ When you send email or other communication to ****vouchercloud**** , we may reta
 
 ##### Information you provide on our Partners' websites
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
+You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
 ##### Merchant Loyalty Information
 
-****vouchercloud**** may collect and save various merchants' Loyalty Card numbers for you. These numbers may be stored on the ****vouchercloud**** servers and will be transmitted between the ****vouchercloud**** servers and your device.
+ ** **vouchercloud**** may collect and save various merchants' Loyalty Card numbers for you. These numbers may be stored on the ****vouchercloud**** servers and will be transmitted between the ****vouchercloud**** servers and your device.
 
 ### Use of Information and Data
 
@@ -47,10 +47,6 @@ Once you become a vouchercloud member we'll send you weekly email newsletters le
 ##### Unsubscribe
 
 Users who do not wish to receive our promotional e-mail messages may click the ‘unsubscribe’ link which will be found at the bottom of each e-mail from vouchercloud. You will be sent to an ‘update your preferences’ page in your account where you can opt out of different types of promotional e-mails, or click unsubscribe from all. 
-
-##### Electronic Communications
-
-By registering with vouchercloud you consent to receiving electronic communications and notices from vouchercloud. Invitation Digital (the publisher of vouchercloud) may also send you electronic communications and notices promoting their own similar services. We will send you information about our voucher codes, printable vouchers, deals, sales of other products, loyalty schemes and services we feel may interest you. You agree that any notice, agreement, disclosure or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.
 
 ### Third Party Offers
 
@@ -74,7 +70,7 @@ We have take certain operational, physical and technical steps available to safe
 
 ### Changes to this Policy
 
-****vouchercloud**** reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
+ ** **vouchercloud**** reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
 
 ### Access To Information
 
@@ -84,13 +80,14 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-**vouchercloud**
+ **vouchercloud**
 
-77 West Street  
-Bedminster  
-Bristol  
-BS3 3NU  
+1st Floor, Merchants House   
+Wapping Road  
+Bristol   
+BS1 4RW  
 United Kingdom
 
-Email : [hello@vouchercloud.co.in](mailto:hello@vouchercloud.co.in)   
-Telephone: +44 (0) 117 934 1379 
+ **Email:** [hello@vouchercloud.co.in](mailto:hello@vouchercloud.co.in)  
+Telephone: +44 (0) 117 926 1100  
+Fax: +44 (0) 117 926 1101
