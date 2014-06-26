@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904111051id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031643id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xpango.com
 
@@ -9,14 +9,14 @@
 
 
 
-2,360,176 Xpangoer's and counting...
+2,534,510 Xpangoer's and counting...
 
   * mobile phones
     *     * [
 
 #### Free iPhone
 
-Free iPhone 5, iPhone 4S & more...
+Free iPhone 5s, iPhone 5c & iPhone 4s
 
 ](https://web.archive.org/free-iphone)
     * [
@@ -37,7 +37,7 @@ Free Nokia Lumia 920, Lumia 820 and more...
 
 #### Free HTC
 
-Free HTC 8X, HTC 8S and more...
+Free HTC One, HTC 8X, HTC 8S and more...
 
 ](https://web.archive.org/free-htc)
     * [
@@ -51,16 +51,16 @@ Free Blackberry Z10, Bold 9900 and more...
   * games consoles
     *     * [
 
-#### Free Xbox 360
+#### Free Xbox One
 
-Free Xbox 360, Xbox games and more
+Free Xbox One, Xbox 360, games and more
 
 ](https://web.archive.org/free-xbox-360)
     * [
 
-#### Free Sony PS3
+#### Free Sony PS4
 
-Free Sony PS3, PS Vita, Games and more...
+Free Sony PS4, PS3, PS Vita, Games and more...
 
 ](https://web.archive.org/free-sony-ps3)
     * [
@@ -99,7 +99,7 @@ Free Sony Walkman F Series, E Series and more...
 
 #### Free Apple iPad
 
-Free Apple iPad, iPad 2, iPad Mini and more...
+Free Apple iPad Air, iPad Mini Retina, iPad Mini and more...
 
 ](https://web.archive.org/free-ipad)
     * [
