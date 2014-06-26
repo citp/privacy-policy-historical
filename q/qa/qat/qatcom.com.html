@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818012512id_/http%3A//www.qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qatcom.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626150350id_/http%3A//www.qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy</title>
@@ -35,182 +35,280 @@ $(document).ready(function () {
 <body class="default">
 <div id="container">
 <div id="container_inner">
-						<div id="zone_toolbar">
-				<div id="zone_toolbar_inner">
-					<div id="block_login">
-						<div id="block_login_inner">
-							<ul>
-																	<li><b><a href="/useraccounts/login">Login</a></b> </li>
-									<li><b><a href="/useraccounts/register">Register</a></b> </li>
-															</ul>
-						</div>
-					</div>
-					<div id="clock">
-						Sunday, August 18th, 2013, 04:25 (Qatar)					</div>
+						<script>
+    window.onload = function() {
+        display_ct();
+    };
+</script>
+<script type="text/javascript" src="/js/date.js"></script><script>
+    function display_c() {
+        var refresh = 1000; // Refresh rate in milli seconds
+        mytime = setTimeout('display_ct()', refresh)
+    }
 
-					<!--
-					<div id="block_language">
-						<div id="block_language_inner">
-							Language: <a href="/language/change/en">English</a>&nbsp;<a href="/language/change/ar">Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©</a>
-						</div>
-					</div>
-					-->
+    function display_ct() {
+        var strcount;
+        var d = new Date();
+        var utc = d.getTime() + (d.getTimezoneOffset() * 60000);
 
-					<!--[if IE 6]>
-						<div id="block_browserwarning" style="font-size:0.8em">
-							You are viewing this site in IE6 please upgrade to IE7 for a better viewing experience.
-						</div>
-					<![endif]-->
+        // create new Date object for different city
+        // using supplied offset
+        var nd = new Date(utc + (3600000 * 3));
+        var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+        var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+        var day = days[ d.getDay() ];
+        var month = months[ d.getMonth() ];
+        tt = display_c();
 
-				</div>
-			</div>						<img id="printheader" src="/img/printheader.gif" alt="Qatcom.com">
-			<div id="zone_header">
-				<div id="zone_header_inner">
-					<div id="block_logo">
-						<div id="block_logo_inner">
-							<h1><a href="/" title="Qatcom, search Qatar's online business directory."><img id="logo" height="141" width="150" src="/img/logo.gif" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
-						</div>
-					</div>
-					<div id="block_strapline">
-						<div id="block_strapline_inner">
-							<h1>Welcome to Qatar's 'online Yellow Business Pages Directory' with information about companies in Doha and Qatar</h1>
-						</div>
-					</div>
-					<div id="block_nav1">
-						<div id="block_nav1_inner">
-							
+        var hoursTwoDigits = ("0" + nd.getHours()).substr(-2);
+        var minutesTwoDigitsWithLeadingZero = ("0" + nd.getMinutes()).substr(-2);
+        var time = hoursTwoDigits + ':' + minutesTwoDigitsWithLeadingZero + ' on ' + day + ' ' + month + ' ' + nd.getDate() + ' ' + ' ' + nd.getFullYear();
+        console.log(time);
+        $('#t1').html(time).trigger('click');
+    }
+
+</script>
+
+<!--<span id="ct"></span>-->
+<!--<input type='text' id='t1' size='40'>-->
+<img id="printheader" src="/img/printheader.gif" alt="Qatcom.com">
+<div id="zone_header">   
+    <div id="zone_header_inner">
+        <div id="block_nav1">
+            <div id="block_nav1_inner">
+	       
 <ul class="">
-	<li class="tab selected" id="tab_search"><a href="/"><span>Search Qatcom</span></a></li>
-	<li class="tab " id="tab_search"><a href="/qataryellowpages/map-of-doha"><span>Doha Map</span></a></li>
-	<li class="tab " id="tab_about_us"><a href="/qataryellowpages/about-qatcom"><span>About Qatcom</span></a></li>
-	<li class="tab " id="tab_advertise_with_us"><a href="/qataryellowpages/advertise-with-qatcom"><span>Advertise With Qatcom</span></a></li>
-	<li class="tab " id="tab_testimonials"><a href="/qataryellowpages/advertiser_testimonials"><span>Testimonials</span></a></li>
+    <li class="tab " id="tab_search"><a href="/"><span>Search Qatcom</span></a></li>
+    <li class="tab " id="tab_search"><a href="/qataryellowpages/map-of-doha"><span>Doha Map</span></a></li>
+<!--    <li class="tab " id="tab_search"><a href="/"><span>Search Qatcom</span></a></li>
+    <li class="tab " id="tab_search"><a href="/qataryellowpages/map-of-doha"><span>Doha Map</span></a></li>-->
+    <li class="tab " id="tab_about_us"><a href="/qataryellowpages/about-qatcom"><span>About Qatcom</span></a></li>
+    <li class="tab " id="tab_advertise_with_us"><a href="/qataryellowpages/advertise-with-qatcom"><span>Advertise With Qatcom</span></a></li>
+    <li class="tab " id="tab_testimonials"><a href="/qataryellowpages/advertiser_testimonials"><span>Testimonials</span></a></li>
+<!--    <li class="tab " id="tab_qatar_companies"><a href="/qataryellowpages/companies"><span>Qatar Companies</span></a></li>-->
+    <li class="tab " id="tab_qatar_companies"><a href="/qataryellowpages/companies"><span>Qatar Companies</span></a></li>
+	    <li class="tab " id="tab_login"><a href="/useraccounts/login"><span>Login</span></a></li>
+    <li class="tab " id="tab_register"><a href="/useraccounts/register"><span>Register</span></a></li>
+	<!--	<li class="tab " id="tab_contact_us"><a href="/contact-qatcom"><span>Contact Qatcom</span></a></li>-->
 
-	
-		<li class="tab " id="tab_login"><a href="/useraccounts/login"><span>Login</span></a></li>
-		<li class="tab " id="tab_register"><a href="/useraccounts/register"><span>Register</span></a></li>
-		<li class="tab " id="tab_contact_us"><a href="/contact-qatcom"><span>Contact Qatcom</span></a></li>
-	<li class="tab " id="tab_qatar_companies"><a href="/qataryellowpages/companies"><span>Qatar Companies</span></a></li>
 
-</ul>						</div>
-					</div>
-					<div id="block_nav2">
-						<div id="block_nav2_inner">
-									<ul>
+</ul>            </div>
+        </div>
+        <div id="block_logo">
+            <div id="block_logo_inner">
+                <h1><a href="/" title="Qatcom, search Qatar's online business directory."><img id="logo" height="134px" width="142px" src="/img/logo-qatcom-1.png" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
+            </div>
+        </div>
+        <div id="block_strapline">
+            <div id="block_strapline_inner">
+                <h1>Welcome to Qatar's online Yellow Business Pages Directory. It is
+                    <span id="t1">04:05 on Friday January 31  2020</span><br>
+                    We are currently hosting 33916 LIVE adverts for Companies in Doha and Qatar. <br>
+                    <span class="last-child">We are one of Qatar's most popular websites with over 3 million ads viewed every year.</span></h1>
+            </div>
+        </div>
+
+        <div id="member_area" style="float: right;margin: 10px 10px;">
+            <div id="member_area_inner">
+                                 <h1><a href="/useraccounts/login" title="Qatcom, search Qatar's online business directory."><img id="logo" height="72px" width="auto" style="margin: 15px 10px;" src="/img/qbay.png" alt="Qatcom Logo for Qatar's online Yellow Business Pages Directory"></a></h1>
+                 </div>
+        </div>
+
+        <div id="block_nav2" style="top: 268px; right: 69px;">
+            <div id="block_nav2_inner">
+	    		<ul>
 	
 			</ul>
-						</div>
-					</div>
-					<div id="block_search">
-						<div id="block_search_inner">
-							
+            </div>
+        </div>
+        <div id="block_search">
+            <div id="block_search_inner">
+	     <link rel="stylesheet" type="text/css" href="/css/development-bundle/themes/ui-lightness/jquery-ui.css"><script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/custom-modenizer.js"></script><script type="text/javascript" src="/js/jquery/js/jquery-1.9.1.js"></script><script type="text/javascript" src="/js/jquery/js/jquery-ui-1.10.3.custom.js"></script><script type="text/javascript" src="/js/searchJquery.js"></script>
+
 <div id="search_box">
-	<form id="searchform" method="get" action="/listings/search">
-		<div id="search_type" class="required" style="white-space:nowrap">
-			<div class="search-option">
-				<input onclick="$('#combined_search_help').show();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" checked="checked" value="both"> Business type or Company Name			</div>
-			<div class="search-option">
-				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').show();$('#google_search_help').hide()" type="radio" name="searchtype" value="classification"> just Business type			</div>
-			<div class="search-option">
-				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').show();$('#classification_search_help').hide();$('#google_search_help').hide()" type="radio" name="searchtype" value="fulltext"> just Company Name			</div>
-			<div class="search-option">
-				<input onclick="$('#combined_search_help').hide();$('#fulltext_search_help').hide();$('#classification_search_help').hide();$('#google_search_help').show()" type="radio" name="searchtype" value="google"> Brands/Product Names<img src="/img/powered-by-google.gif" style="vertical-align:top">
-			</div>
-		</div>
-		<div id="search_for" class="required">
-			<label style="width:350px">Search for a Business Type, Company Name or a Brand Name</label>
-			<input type="text" id="what" name="what" value="" maxlength="255">
-		</div>
+    <form id="searchform" method="get" action="/listings/search">
+        <div id="search_for" class="required">
+            <label style="">Search for a Business Type, a Company Name, or a Brand Name</label>
+            <div class="field-dock">
+                <div style="clear: none;margin-bottom: 0px;">
+                <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" placeholder="Type your search keywords" id="what" name="what" value="" maxlength="255" class="ui-autocomplete-input" autocomplete="off">
+                    </div>
+<!--                <input type="image" src="/img/search_box.png" />-->
+<!--                <input type="submit" value="go" class="search-submit" style="cursor: pointer;">-->
+               <div style="clear: none;margin-bottom: 0px;">
+                <input style="cursor: pointer;" type="submit" class="search-submit" value="">
+                 </div>
+               </div>
+            <div id="combined_search_help" class="search_help">
+                <dl>
+                    <dt style="color:#A40023;">e.g.&nbsp;</dt>
+                    <dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Alfardan,&nbsp;&nbsp;Pizza Express</dd>
+                </dl>
+            </div>
 
-		<div id="search_location">
-			<label>in</label>
-			<select name="where" id="where">
-				<option value="2">Doha (Qatar)</option>
-			</select>
-		</div>
-		<div id="search_buttons">
-			<input type="image" src="/img/facelift/btn_search.gif" value="Search" id="btnsearch">
-		</div>
+            <div id="classification_search_help" class="search_help" style="display:none;">
+                <dl>
+                    <dt style="color:#A40023;">e.g.&nbsp;</dt>
+                    <dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Office Supplies,&nbsp;&nbsp;Restaurants</dd>
+                </dl>
+            </div>
+            <div id="fulltext_search_help" class="search_help" style="display:none">
+                <dl>
+                    <dt style="color:#A40023;">e.g.&nbsp;</dt>
+                    <dd>&nbsp;Alfardan,&nbsp;&nbsp;Blue Salon,&nbsp;&nbsp;Pizza Express,&nbsp;&nbsp;Qatar Airways</dd>
+                </dl>
+            </div>
+            <div id="google_search_help" class="search_help" style="display:none">
+                <dl>
+                    <dt style="color:#A40023;">e.g.&nbsp;</dt>
+                    <dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Alfardan,&nbsp;&nbsp;Pizza Express</dd>
+                </dl>
+            </div>
 
-		<div id="combined_search_help" class="search_help">
-			<dl>
-				<dt>e.g.&nbsp;</dt>
-				<dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Alfardan,&nbsp;&nbsp;Pizza Express</dd>
-			</dl>
-		</div>
-		<div id="classification_search_help" class="search_help" style="display:none;">
-			<dl>
-				<dt>e.g.&nbsp;</dt>
-				<dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Office Supplies,&nbsp;&nbsp;Restaurants</dd>
-			</dl>
-		</div>
-		<div id="fulltext_search_help" class="search_help" style="display:none">
-			<dl>
-				<dt>e.g.&nbsp;</dt>
-				<dd>&nbsp;Alfardan,&nbsp;&nbsp;Blue Salon,&nbsp;&nbsp;Pizza Express,&nbsp;&nbsp;Qatar Airways</dd>
-			</dl>
-		</div>
-		<div id="google_search_help" class="search_help" style="display:none">
-			<dl>
-				<dt>e.g.&nbsp;</dt>
-				<dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Alfardan,&nbsp;&nbsp;Pizza Express</dd>
-			</dl>
-		</div>
-		<div id="browse_categories">
-			<table width="100%">
-				<tbody><tr>
-					<td style="font-weight:bold;white-space:nowrap;width:250px;">Or Search Classifications</td>
-											<td><a href="/classifications/index/A">A</a></td>
-											<td><a href="/classifications/index/B">B</a></td>
-											<td><a href="/classifications/index/C">C</a></td>
-											<td><a href="/classifications/index/D">D</a></td>
-											<td><a href="/classifications/index/E">E</a></td>
-											<td><a href="/classifications/index/F">F</a></td>
-											<td><a href="/classifications/index/G">G</a></td>
-											<td><a href="/classifications/index/H">H</a></td>
-											<td><a href="/classifications/index/I">I</a></td>
-											<td><a href="/classifications/index/J">J</a></td>
-											<td><a href="/classifications/index/K">K</a></td>
-											<td><a href="/classifications/index/L">L</a></td>
-											<td><a href="/classifications/index/M">M</a></td>
-											<td><a href="/classifications/index/N">N</a></td>
-											<td><a href="/classifications/index/O">O</a></td>
-											<td><a href="/classifications/index/P">P</a></td>
-											<td><a href="/classifications/index/Q">Q</a></td>
-											<td><a href="/classifications/index/R">R</a></td>
-											<td><a href="/classifications/index/S">S</a></td>
-											<td><a href="/classifications/index/T">T</a></td>
-											<td><a href="/classifications/index/U">U</a></td>
-											<td><a href="/classifications/index/V">V</a></td>
-											<td><a href="/classifications/index/W">W</a></td>
-											<td><a href="/classifications/index/X">X</a></td>
-											<td><a href="/classifications/index/Y">Y</a></td>
-											<td><a href="/classifications/index/Z">Z</a></td>
-									</tr>
-			</tbody></table>
-		</div>
-		<div id="num1" class="search-number"></div>
-		<div id="num2" class="search-number"></div>
-		<div id="num3" class="search-number"></div>
-	</form>
-</div>
-						</div>
-					</div>
+        </div>
 
-				</div>
-			</div>
-			<div id="zone_content">
-<div id="zone_content_inner">
-<div id="block_advert1" class="noprint">
-<div id="bnr-120x600">
-<!--Qads-->
-<script type="text/javascript">
-document.write('<S' + 'CRIPT TYPE="text/javascript" SRC="http://cpm.ads2ads.net/tag?zone_id=1347&size=120x600&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '" <http://cpm.ads2ads.net/tag?zone_id=1347&size=120x600&rnd='+new Number(Math.floor(99999999*Math.random())+1)+'> ></S' + 'CRIPT>');
-</script><script type="text/javascript" src="http://cpm.ads2ads.net/tag?zone_id=1347&amp;size=120x600&amp;rnd=12127357" <http:="" cpm.ads2ads.net="" tag?zone_id="1347&amp;size=120x600&amp;rnd=38982890"> ></script></div>
-<div style="font-size:0.8em; text-align:center"><a href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a></div>
-</div>
-<div id="block_content">
-<div id="block_content_inner">
+        <div id="search_type" class="required" style="white-space:nowrap">
+
+            <div class="block-1"> 
+
+                <div class="search-option">
+                    <input onclick="$('#combined_search_help').show();
+                $('#fulltext_search_help').hide();
+                $('#classification_search_help').hide();
+                $('#google_search_help').hide()" class="searchtype" type="radio" name="searchtype" checked="checked" value="both"> Business Type <u>or</u> Company Name                </div>
+                <div class="search-option">
+                    <input onclick="$('#combined_search_help').hide();
+                $('#fulltext_search_help').hide();
+                $('#classification_search_help').show();
+                $('#google_search_help').hide()" class="searchtype" type="radio" name="searchtype" value="classification"> <u>just</u> Business type                </div>
+                <div class="search-option">
+                    <input onclick="$('#combined_search_help').hide();
+                $('#fulltext_search_help').show();
+                $('#classification_search_help').hide();
+                $('#google_search_help').hide()" class="searchtype" type="radio" name="searchtype" value="fulltext"> <u>just</u> Company Name                </div>
+                <div class="search-option">
+                    <input onclick="$('#combined_search_help').hide();
+                $('#fulltext_search_help').hide();
+                $('#classification_search_help').hide();
+                $('#google_search_help').show()" class="searchtype" type="radio" name="searchtype" value="google"> Brands/Product Names<img src="/img/powered-by-google.gif" style="vertical-align:top">
+                </div>
+            </div>
+
+            <div class="block-2">
+
+                <div id="search_buttons">
+                    <input style="width: 140px;" type="image" src="/img/btn.png" value="Search" id="btnsearch">
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div id="search_location">
+            <label>in</label>
+            <select name="where" id="where">
+                <option value="2">Doha (Qatar)</option>
+            </select>
+        </div>
+
+
+
+<!--        <div id="classification_search_help" class="search_help" >
+            <dl>
+                <dt>e.g.&nbsp;</dt>
+                <dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Office Supplies,&nbsp;&nbsp;Restaurants</dd>
+            </dl>
+        </div>
+        <div id="fulltext_search_help" class="search_help" >
+            <dl>
+                <dt>e.g.&nbsp;</dt>
+                <dd>&nbsp;Alfardan,&nbsp;&nbsp;Blue Salon,&nbsp;&nbsp;Pizza Express,&nbsp;&nbsp;Qatar Airways</dd>
+            </dl>
+        </div>
+        <div id="google_search_help" class="search_help" >
+            <dl>
+                <dt>e.g.&nbsp;</dt>
+                <dd>&nbsp;Car Hire,&nbsp;&nbsp;Florists,&nbsp;&nbsp;Alfardan,&nbsp;&nbsp;Pizza Express</dd>
+            </dl>
+        </div>-->
+        <div class="browse_categories_container">
+            <div id="browse_categories"> 
+                <table width="100%">
+                    <tbody><tr>
+                        <td style="font-weight:bold;white-space:nowrap;width:250px;">Or Search Our Classifications</td>
+                                  <td><a href="/classifications/index/A">A</a></td>
+                        <td><a href="/classifications/index/B">B</a></td>
+                        <td><a href="/classifications/index/C">C</a></td>
+                        <td><a href="/classifications/index/D">D</a></td>
+                        <td><a href="/classifications/index/E">E</a></td>
+                        <td><a href="/classifications/index/F">F</a></td>
+                        <td><a href="/classifications/index/G">G</a></td>
+                        <td><a href="/classifications/index/H">H</a></td>
+                        <td><a href="/classifications/index/I">I</a></td>
+                        <td><a href="/classifications/index/J">J</a></td>
+                        <td><a href="/classifications/index/K">K</a></td>
+                        <td><a href="/classifications/index/L">L</a></td>
+                        <td><a href="/classifications/index/M">M</a></td>
+                        <td><a href="/classifications/index/N">N</a></td>
+                        <td><a href="/classifications/index/O">O</a></td>
+                        <td><a href="/classifications/index/P">P</a></td>
+                        <td><a href="/classifications/index/Q">Q</a></td>
+                        <td><a href="/classifications/index/R">R</a></td>
+                        <td><a href="/classifications/index/S">S</a></td>
+                        <td><a href="/classifications/index/T">T</a></td>
+                        <td><a href="/classifications/index/U">U</a></td>
+                        <td><a href="/classifications/index/V">V</a></td>
+                        <td><a href="/classifications/index/W">W</a></td>
+                        <td><a href="/classifications/index/X">X</a></td>
+                        <td><a href="/classifications/index/Y">Y</a></td>
+                        <td><a href="/classifications/index/Z">Z</a></td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </div>
+        <!--    <div id="num1" class="search-number"></div>-->
+        <!--    <div id="num2" class="search-number"></div>
+            <div id="num3" class="search-number"></div>-->
+    </form>
+</div>            </div>
+        </div>
+    </div>
+</div>			<script language="javascript" type="text/javascript">
+    function fbs_click(url)
+    {
+        newwindow = window.open(url, 'name', 'height=350,width=850');
+        if (window.focus) {
+            newwindow.focus()
+        }
+        return false;
+    }
+</script>
+
+  <div id="zone_content" style="padding-top: 135px;">
+    <div class="share_page">
+        <p style="">Share this Page</p>
+        <a onclick="return fbs_click('http://www.facebook.com/share.php?u=http://qatcom.com')" href="http://www.facebook.com/share.php?u=http://qatcom.com"><img src="/img/facebook.png"></a>
+        <a onclick="return fbs_click('http://twitter.com/home?status=http://qatcom.com')" href="http://twitter.com/home?status=http://qatcom.com" target="_blank"><img src="/img/twitter.png"></a>   
+        <!--<a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&url=http://www.qatcom.com&summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha&source=qatcom.com')" href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.qatcom.com&summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha&source=qatcom.com" target="_blank" />  -->         
+       <a onclick="return fbs_click('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha')" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://qatcom.com&amp;summary=The BIGGEST business website in Qatar, Qatcom is The Online Yellow Pages Directory, with over 36\'000 adverts for companies in Doha">  
+<img src="/img/linkedin.png"></a>
+    </div>
+    <div id="zone_content_inner">
+
+        <div id="block_advert1" class="noprint">
+            <div id="bnr-120x600" style="width:120px;">
+                <span class="ban-left" style="width: 120px; margin-left: 0px; float: left; position: static; top: 0px;">
+                    <a href="http://qbay.com" target="_blank"><img src="/img/qbay banner buying.png" style="width:100%;"></a>
+                    <a style="float: right;width:100%;text-align: center;font-size: 11px;" href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a>
+                </span>
+            </div>
+            <!--            <div style="font-size:0.8em; text-align:center"><a href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a></div>-->
+        </div>
+        <div id="block_content">
+            <div id="block_content_inner">
 
 <p align="center" style="margin-bottom: 0cm;"><font face="Arial, sans-serif"><font size="2"><u><b>Privacy Policy Statement</b></u></font></font></p>
 <p style="margin-bottom: 0cm;"><br>
@@ -384,62 +482,73 @@ Please feel free to contact us at any time with any questions you may
 have regarding our privacy statement. </font></font><font color="#0000ff"><span lang="zxx"><u><a href="http://www.qatcom.com/contact-qatcom"><font face="Arial, sans-serif"><font size="2">http://www.qatcom.com/contact-qatcom</font></font></a></u></span></font></p>
 <p style="margin-bottom: 0cm;"><br>
 </p>
-<div id="block_content_adverts" class="noprint">
-<div id="block_advert4">
-</div>
+                <div id="block_content_adverts" class="noprint">
+                    <div id="block_advert4">
+                    </div>
 
-		    
-<div id="block_advert3">
+                    <div id="block_advert3">
+                        <div id="#" class="banner_1 span-22" style="height:00px; width:728px; margin-left:-15px; border:1px solid #;">&nbsp;</div>
+                    </div>
+                    <div id="block_tell_a_friend">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="block_advert2" class="noprint">
+            <div id="bnr-120x600A" style="width:120px;">
+                <span class="ban-right" style="width: 120px; margin-right: 0px; float: right; position: static; top: 0px;" target="_blank">
+                    <a href="http://qbay.com" target="_blank"><img style="width: 120px;" src="/img/qbay banner selling.png"></a>
+                    <a style="float: right;width:100%;text-align: center;font-size: 11px;" href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a>
+                </span>
+			
+                <div style="font-size:0.8em; text-align:center"></div>
+            </div>
+            <div class="shunt"></div>
+        </div>
 
-<div id="#" class="banner_1 span-22" style="height:00px; width:728px; margin-left:-15px; border:1px solid #;">&nbsp;</div>
+        <script type="text/javascript">
+            $(window).scroll(function() {
+                // console.log($('#zone_header_inner').offset().left);
+                if ($(window).scrollTop() > $('#zone_header').height() + 178) {
+                    $(".ban-left").css({position: 'fixed', top: '0px'});
+                    $(".ban-right").css({position: 'fixed', top: '0px'});
+                    //   $("#ban-right").css({position: 'fixed', top: '0px', right: $('#block_advert2').css('right',$('#container').offset().left-30)});
+                } else {
+                    $(".ban-left").css({position: 'static', top: '0px'});
+                    $(".ban-right").css({position: 'static', top: '0px'});
+                    //                $("#block_advert2").css({position: '',right:''});
+                }
+            });
+        </script>			<div id="zone_footer">
+    <div id="zone_footer_inner" style="width:1035px;">
 
+        <div id="block_copyright">
+	Copyright © 2007-2014  Qatcom.com - All Rights Reserved        </div>
+        <div id="block_footerlinks">
+            <ul>                <li class="tab "> <a href="/contact-qatcom"><span>Contact Us</span></a></li>
+                <li class="tab "><a href="/contact/recruitment"><span>Recruitment</span></a></li>
+                <li><a href="/stats.pdf" target="_blank"><span>Daily Site User Stats</span></a></li>
+                <li class="tab "><a href="/listings/stats"><span>Current Advertiser Stats</span></a></li>
+                <li class="tab selected"><a href="/qataryellowpages/privacy"><span>Privacy Policy</span></a></li>
+            </ul>
+        </div>
+    </div>
 </div>
-<div id="block_tell_a_friend">
+<div id="zone_footer_merge">
+    <div id="zone_footer_inner_merge">
+        <div id="content_british_qatar" style="left:-15px;">
+            Qatcom LLC is a jointly owned British (49%)
+        </div>
+        <div id="flag_british_qatar" style="left: 235px;"> 	
+            <img src="/img/british-qatari-company-partnership.jpg" alt="british qatari company partnership" width="34" height="21"> 
+        </div>
+        <div id="commercial_british_qatar" style="right:2px;"> 		
+            Qatari (51%) business registered as a 'Company with Limited Liability' (LLC) in The State of Qatar. (Commercial Number 38422)
+        </div>	
+    </div>
 </div>
-</div>
-</div>
-</div>
-<div id="block_advert2" class="noprint">
-<div id="bnr-120x600A">
-			<!--Qads-->
-<script type="text/javascript">
-document.write('<S' + 'CRIPT TYPE="text/javascript" SRC="http://cpm.ads2ads.net/tag?zone_id=1347&size=120x600&rnd=' + new Number(Math.floor(99999999 * Math.random())+1) + '" <http://cpm.ads2ads.net/tag?zone_id=1347&size=120x600&rnd='+new Number(Math.floor(99999999*Math.random())+1)+'> ></S' + 'CRIPT>');
-</script><script type="text/javascript" src="http://cpm.ads2ads.net/tag?zone_id=1347&amp;size=120x600&amp;rnd=89056189" <http:="" cpm.ads2ads.net="" tag?zone_id="1347&amp;size=120x600&amp;rnd=48780772"> ></script><div style="font-size:0.8em; text-align:center"><a href="/contact/index/I+want+to+buy+a+banner+advertisement">Advertise Here</a></div>
-</div>
-<div class="shunt"></div>
-</div>
-
-</div>						<div id="zone_footer">
-	<div id="zone_footer_inner" style="width:1035px;">
-
-					<div id="block_copyright">
-						Copyright © 2007-2010  Qatcom.com - All Rights Reserved					</div>
-					<div id="block_footerlinks">
-						<ul>
-							<li><a href="/link-to-us"><span>Link to Us</span></a></li>
-							<li><a href="/contact/recruitment"><span>Recruitment</span></a></li>
-							<li><a href="/stats.pdf" target="_blank"><span>Daily Site User Stats</span></a></li>
-							<li><a href="/listings/stats"><span>Current Advertiser Stats</span></a></li>
-							<li><a href="/qataryellowpages/privacy"><span>Privacy Policy</span></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div id="zone_footer_merge">
-  <div id="zone_footer_inner_merge">
-		<div id="content_british_qatar" style="left:-15px;">
-			Qatcom LLC is a jointly owned British (49%)
-		</div>
-		<div id="flag_british_qatar" style="left: 235px;"> 	
-			<img src="/img/british-qatari-company-partnership.jpg" alt="british qatari company partnership" width="34" height="21"> 
-		</div>
-		<div id="commercial_british_qatar" style="right:1px;"> 		
-			Qatari (51%) business registered as a 'Company with Limited Liability' (LLC) in The State of Qatar. (Commercial Number 38422)
-		</div>	
-	</div>
-   </div>
-</div>
-
+<!--</div>
+</div>-->
 
 <!--rotate page --->
 
@@ -451,12 +560,19 @@ document.write('<S' + 'CRIPT TYPE="text/javascript" SRC="http://cpm.ads2ads.net/
 <!--END rotate page --->
 
 <script language="JavaScript">
-var zflag_nid="1424"; var zflag_cid="1777/1774"; var zflag_sid="246"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="95"; var zflag_charset="utf-8";
+    var zflag_nid = "1424";
+    var zflag_cid = "1777/1774";
+    var zflag_sid = "246";
+    var zflag_width = "1";
+    var zflag_height = "1";
+    var zflag_sz = "95";
+    var zflag_charset = "utf-8";
 </script>
 <script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>		</div>
+    <div class="side-add-banner"><a href="http://qbay.com" target="blank"><img src="http://cdn.qbay.com/images/qbay-qatcom.png" width="154" height="75"></a></div>
+
 </div>
 
-<div style="position: fixed;top:55px;z-index:100; right:0px;"><a href="http://qbay.com" target="blank"><img src="http://cdn.qbay.com/images/qbay-qatcom.png" width="154" height="75"></a></div>
 	
 		<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -494,4 +610,4 @@ urchinTracker();
   </div>	
 
 
-</body></html>
+</div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></body></html>
