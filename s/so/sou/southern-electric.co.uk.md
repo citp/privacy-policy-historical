@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225003039id_/http%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southern-electric.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626214809id_/https%3A//www.southern-electric.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Electric
 
-We are committed to ensuring your privacy is protected. This privacy policy explains how we use the information we collect about you.  For the purposes of the Data Protection Act 1998, the Data Controller is SSE plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ and its group of companies.
+We are committed to ensuring your privacy is protected. This privacy policy explains how we use the information we collect about you. For the purposes of the Data Protection Act 1998, the Data Controller is SSE Energy Supply Limited (03757502) having its registered address at 55 Vastern Road, Reading, Berkshire, RG1 8BU.
 
 1. The information we collect and how we use it  
 (a) In order for us to provide to you and for you to use some of the services available on this website (referred to in this policy as the “Services”), we need to know some of your personal information.  
