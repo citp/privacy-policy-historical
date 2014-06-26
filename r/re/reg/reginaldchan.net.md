@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reginaldchan.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206102911id_/http%3A//www.reginaldchan.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reginaldchan.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122747id_/http%3A//www.reginaldchan.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reginald Chan
 
-This Privacy Policy governs the manner in which Reginald Chan collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.reginaldchan.net](http://www.reginaldchan.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Reginald Chan.
+This Privacy Policy governs the manner in which Reginald Chan collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.reginaldchan.net](http://www.reginaldchan.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Reginald Chan. 
 
 **Personal identification information**
 
@@ -37,9 +37,9 @@ We may use the email address to send User information and updates pertaining to 
 
 **How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. 
 
 **Sharing your personal information**
 
@@ -67,7 +67,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
+
+  
 [Reginald Chan](http://www.reginaldchan.net/contact-me/)  
 [http://www.reginaldchan.net](http://www.reginaldchan.net/)  
 Reginald Chan, Melaka, Malaysia.  
