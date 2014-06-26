@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204134341id_/http%3A//www.iamthatlady.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626103030id_/http%3A//www.iamthatlady.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | I Am THAT Lady
+# Privacy Policy - I am THAT Lady
 
-## Posted at 1:46 AM by I am THAT Lady: Lauren
+## Posted at 1:46 AM on Jun 06, 2010 by I am THAT Lady: Lauren
 
 Jun 6th, 2010 
 
