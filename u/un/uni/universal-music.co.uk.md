@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229110433id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universal-music.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144528id_/http%3A//store.universal-music.co.uk/restofworld/customer-services/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Universal Music
 
@@ -80,7 +80,7 @@ Back to top
 
 The information collected is used to provide users with the products or services they have requested, to provide information on the relevant Universal Artist(s), to customise the user's online experience and to improve the content of the website and the products and services which are available through this website. Other uses of this information include the internal review of the webpages visited, tracking the progress and number of entries in promotions and contests, tracking the number of users of the site and where appropriate, product purchased through the site.
 
-If at any time you wish to stop receiving marketing information just reply to the e-mail address at the bottom of each e-mail you receive. Alternatively you can e-mail us at [support@universal-music.co.uk](mailto:support@universal-music.co.uk) and tell us what you would like us to do.
+If at any time you wish to stop receiving marketing information just reply to the e-mail address at the bottom of each e-mail you receive. Alternatively you can e-mail us at [storesupport@umusic.com](mailto:storesupport@umusic.com) and tell us what you would like us to do.
 
 Back to top
 
@@ -112,13 +112,13 @@ These advertisers, or internet advertising agencies working on their behalf and 
 
 UMO does not have access to or any control over these technologies and their use. Please refer to the privacy policies of these advertisers for information about on these technologies and how any information you provide through the advertising may be used.
 
-UMO may 'personalise' the advertising displayed on this website based on this information you provide to us. If you do not want us to personalise the advertising during your sessions on this website please email [support@universal-music.co.uk](mailto:support@universal-music.co.uk).
+UMO may 'personalise' the advertising displayed on this website based on this information you provide to us. If you do not want us to personalise the advertising during your sessions on this website please email [storesupport@umusic.com](mailto:storesupport@umusic.com).
 
 Back to top
 
 ## Opting Out / Amending your Details
 
-If at any time you wish to amend your preferences including unsubscribing from any of the mailings or withdrawing your consent to you us contacting you for research or about other products or services just reply to the e-mail address at the bottom of each email you receive. Alternatively you can email us at support@universal-music.co.uk and tell us what you would like us to do If you would like to update or amend the personal details you have provided to us please email us at [support@universal-music.co.uk](mailto:support@universal-music.co.uk).
+If at any time you wish to amend your preferences including unsubscribing from any of the mailings or withdrawing your consent to you us contacting you for research or about other products or services just reply to the e-mail address at the bottom of each email you receive. Alternatively you can email us at storesupport@umusic.com and tell us what you would like us to do If you would like to update or amend the personal details you have provided to us please email us at [storesupport@umusic.com](mailto:storesupport@umusic.com).
 
 Back to top
 
