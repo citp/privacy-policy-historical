@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084026id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025031id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Zapier
+# Privacy Policy - Zapier
 
-## Plain-English Policy
-
-We last updated this policy January 11, 2013.
+## Plain-English Privacy Policy
 
 Welcome to Zapier! Here on the left you'll find our plain-english privacy policy and the corresponding legal policy on the right.
 
-## Legal Policy
+We last updated this policy January 11, 2013.
+
+Onward!
+
+## Legal Privacy Policy
 
 Date of Last Revision: January 11, 2013
 
@@ -80,7 +82,7 @@ This Privacy Policy applies only to the Services. The Services may contain links
 
 ## Security
 
-We take many steps to ensure your private information and account credentials are safe, including encryption and two-factor authenciation. To this end, if you find a security problem, [contact us](mailto:contact@zapier.com) and we will fix it immediately. Keep in mind, emails and communications with us are not encrypted.
+We take many steps to ensure your private information and account credentials are safe, including encryption and requiring two-factor authentication for our staff. To this end, if you find a security problem, [contact us](mailto:contact@zapier.com) and we will fix it immediately. Keep in mind, emails and communications with us are not encrypted.
 
 Zapier takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Zapier via the Internet.
 
@@ -91,10 +93,6 @@ If anything changes, we will let you know at least 14 days ahead of time via thi
 The Services and our business may change from time to time. As a result, at times it may be necessary for Zapier to make changes to this Privacy Policy. Zapier reserves the right to update or modify this Privacy Policy at any time and from time to time. If we do this, we will post the changes to this Privacy Policy on this page and will indicate at the top of this page the date these terms were last revised. We will also notify you, either through the Service user interface, in an email notification or through other reasonable means. Please review this policy periodically, and especially before you provide any Personal Data. Any such changes will become effective no earlier than fourteen (14) days after they are posted, except that changes addressing new functions of the Service or changes made for legal reasons will be effective immediately. This Privacy Policy was last updated on the date indicated above. Your continued use of the Service after the date any such changes become effective constitutes your acceptance of the new Privacy Policy.
 
 ## Other Terms; Contacting Zapier
-
-We also have a set of [terms and conditions](https://web.archive.org/terms).
-
-Got questions? We want to hear from you! Contact us at [contact@zapier.com](mailto:contact@zapier.com).
 
 Your access to and use of the Services is subject to the Terms of Service at <https://zapier.com/terms/>
 
