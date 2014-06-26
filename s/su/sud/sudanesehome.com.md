@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sudanesehome.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518161414id_/https%3A//privacy.truste.com/reseller/privacy-policy/Kualo-Ltd./certified/d29cf543-b021-429c-9008-62a1fd8753c5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudanesehome.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064146id_/https%3A//privacy.truste.com/reseller/privacy-policy/Kualo-Ltd./certified/d29cf543-b021-429c-9008-62a1fd8753c5) for the most accurate reproduction.*
 
 # Welcome to kualo.co.uk
 
-[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.com)**Effective March 7, 2013**
+[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.co.uk)**Effective March 7, 2013**
 
 This privacy statement describes how **kualo.co.uk** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
 
@@ -24,7 +24,7 @@ If a TRUSTe client has violated its privacy agreement you can file a complaint w
   
 
 
-[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.com)
+[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.co.uk)
 
  **Effective on March 7, 2013**
 
