@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005151027id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144418id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Futurelooks
 
@@ -10,28 +10,28 @@ We recognizes the importance of protecting the privacy of you as a user of this 
 
 We consider the following to be Personal Information: Your name, address, phone number, date of birth, job, personal interests, credit card information, your e-mail address.
 
-This site contains links to other sites. Futurelooks is not responsible for the privacy practices or the content of such Web sites.
+This site contains [links](http://www.futurelooks.com/links/ "links") to other sites. Futurelooks is not responsible for the privacy practices or the content of such Web sites.
 
 Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer’s contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 Futurelooks uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
- **Public Forums**
+**Public Forums**
 
 This site makes use of forums and/or message boards available to its users. These are located at[this link](http://www.futurelooks.com/forums). Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
- **Security**
+**Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However in the event of a security breach of this site please note that no personal information of the visitors would be accessible online as none are stored locally.
 
- **Supplementation of Information**
+**Supplementation of Information**
 
 This site supplements the information that you provide with information that is received from third parties.
 
- **Correct/Update**
+**Correct/Update**
 
 Information volunteered by you for the purpose of using our [message boards](http://www.futurelooks.com/forums) or [photogallery](http://www.futurelooks.com/photopost) can be corrected at anytime by the user via their account profile.
 
- **Contacting the Web Site**
+**Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use our [Contact Form](http://www.futurelooks.com/contact/)
