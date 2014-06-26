@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104134452id_/http%3A//www.diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondnexus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626044526id_/http%3A//diamondnexus.com/customer-service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,20 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can access all the personally identifiable information that we collect online and maintain by setting up an account and logging in with your personal private password. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that shows the error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+### Cookies:
+
+"Cookies" are small pieces of code that are stored on your web-browser. They contain basic information about your online activities. Cookies do not contain any information that identifies who you are. We use cookies to deliver our ads, measure activities on our website, track visits to our site, and track website performance. This information is then used to improve the usability of DiamondNexus.com and deliver a better user experience for all visitors. An example of how we use cookies is to launch two layouts of a page and track which one has a longer visit duration and results in more sales. It must be stressed again that cookies contain no information that would enable DiamondNexus to identify who you are. 
+
+You are always free to disallow cookies if your browser has this feature. Disabling cookies will however reduce the features of DiamondNexus.com and many other websites you visit.
+
+### Google Analytics
+
+DiamondNexus uses Google Analytics to track website performance. Google Analytics uses cookies to gather basic information about your gender, web interests, and browsing behavior. This information will in no way allow Google or DiamondNexus to identify you individually. If you create an account with DiamondNexus, your personal contact information will never be given to Google.
+
+You can opt-out of Google Analytics data gathering on [this page](https://tools.google.com/dlpage/gaoptout/)
+
 ### How to Contact Us:
 
 Should you have other questions or concerns about this privacy policy, please call us at 1.800.509.4990 or send us an email at: [customerservice@diamondnexus.com](mailto:customerservice@diamondnexuslabs.com)
 
-© 2004-2013 Diamond Nexus Div. Lautrec Corp. All Rights Reserved.  |  [Privacy Policy](https://web.archive.org/customer-service-privacy-policy.html "View our Privacy Policy")
+© 2004-2014 Diamond Nexus Div. Lautrec Corp. All Rights Reserved.  |  [Privacy Policy](https://web.archive.org/customer-service-privacy-policy.html "View our Privacy Policy")
