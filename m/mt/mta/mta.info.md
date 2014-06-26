@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216234004id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040634id_/http%3A//web.mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
 ## Overview
 
-The Metropolitan Transportation Authority and its subsidiary and affiliated agencies, MTA Metro-North Railroad, MTA Long Island Rail Road, MTA New York City Transit, MTA Long Island Bus, MTA Bridges and Tunnels, and MTA Capital Construction (collectively the "MTA Agencies") are committed to protecting your privacy when you use the MTA website (the "MTA Website"). Consistent with the provisions of the New York State Internet Security and Privacy Act, the New York State Freedom of Information Law, and the New York State Personal Privacy Protection Law, this Policy describes the MTA Agencies’ privacy practices regarding information collected from users of the MTA Website. 
+The Metropolitan Transportation Authority and its subsidiary and affiliated agencies, MTA Metro-North Railroad, MTA Long Island Rail Road, MTA New York City Transit, MTA Bridges and Tunnels, and MTA Capital Construction (collectively the "MTA Agencies") are committed to protecting your privacy when you use the MTA website (the "MTA Website"). Consistent with the provisions of the New York State Internet Security and Privacy Act, the New York State Freedom of Information Law, and the New York State Personal Privacy Protection Law, this Policy describes the MTA Agencies’ privacy practices regarding information collected from users of the MTA Website. 
 
 This Policy describes what information is collected when you access the MTA Website and how that information is used. Because this Policy only applies to the MTA Website itself and not linked websites, you should examine the privacy policy of any other websites that you access from the MTA Website.
 
@@ -79,7 +79,7 @@ The information provided in this Policy should not be construed as giving busine
 
 ## Contact Information
 
-For questions regarding this Policy, please _[contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20111216234004id_/http%3A//www.mta.info/mta/privacy2.htm)_
+For questions regarding this Policy, please _[contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20140626040634id_/http%3A//web.mta.info/mta/privacy2.htm)_
 
 or by mail to:
 
