@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpxi.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183030id_/http%3A//www.cpxi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024618id_/http%3A//www.cpxi.com/privacy-policy) for the most accurate reproduction.*
 
-# CPX Interactive – Privacy Policy
+# CPXi – Privacy Policy
 
 ## Privacy and Data Use Policy for CPX Interactive
 
