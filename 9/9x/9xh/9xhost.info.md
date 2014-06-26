@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123195737id_/http%3A//9xhost.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9xhost.info privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111837id_/http%3A//www.9xhost.info/privacy-policy.html) for the most accurate reproduction.*
 
 # 9xhost - Privacy Policy
 
 ## The Privacy policy below describes how 9xhost (the Company) collects and uses information about its customers and website visitors (The Users)
+
+  
+
 
 ####  What information is collected from the User by the Company? 
 
