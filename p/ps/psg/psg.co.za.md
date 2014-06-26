@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the psg.co.za privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821173440id_/http%3A//www.psg.co.za/compliance/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psg.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074512id_/http%3A//www.psg.co.za/compliance/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PSG
 
-[Home](https://web.archive.org/web/20130821173440id_/http%3A//www.psg.co.za/main/) > [Compliance](https://web.archive.org/web/20130821173440id_/http%3A//www.psg.co.za/compliance/) > [Privacy Policy](https://web.archive.org/web/20130821173440id_/http%3A//www.psg.co.za/compliance/privacy-policy.php)
+[Home](https://web.archive.org/web/20140626074512id_/http%3A//www.psg.co.za/main/) > [Compliance](https://web.archive.org/web/20140626074512id_/http%3A//www.psg.co.za/compliance/) > [Privacy Policy](https://web.archive.org/web/20140626074512id_/http%3A//www.psg.co.za/compliance/privacy-policy.php)
 
 Keeping your financial information secure is one of our most important responsibilities. Read about how we manage the privacy and security of your personal and account information online.
 
