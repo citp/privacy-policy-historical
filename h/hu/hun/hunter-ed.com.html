@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hunter-ed.com privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202040732id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunter-ed.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626042204id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="hunter-ed landing  js canvas geolocation video audio localstorage sessionstorage texttrackapi track"><!--<![endif]--><head>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/hc1ibhbnga/analytics.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYBUlNUGwIFUVRXDgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 		<title>Privacy Policy - Hunter Safety Course with Online Exam - Get Your Hunting License or Certification</title>
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +12,7 @@
 <meta name="robots" content="all">
 	
 		<link rel="stylesheet" href="/assets/css/hunter.min.css?v13103101">
-		<script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/hc1ibhbnga/analytics.min.js"></script><script src="/assets/js/libs.min.js?v13103101"></script>
+		<script src="/assets/js/libs.min.js?v13103101"></script>
 	</head>
 		<body>
 		<!-- Prompt IE 6 users to install another browser. -->
@@ -25,11 +25,11 @@
 		<div class="container">
 	<a class="skiptomain" href="#main">Skip to Main Content</a>
 </div>
-<header class="navbar navbar-fixed-top">
+<header class="navbar navbar-fixed-top" role="banner">
 	<div class="navbar-inner">
 		<div class="container">
-												<a href="/&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;colorado/&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9; ">
-					<h1 class="brand"><span class="logo"></span>Colorado <span class="hidden-phone">Hunter’s Ed </span>Course </h1>
+												<a href="/&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;montana/&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9; ">
+					<h1 class="brand"><span class="logo"></span>Montana <span class="hidden-phone">Hunter’s Ed </span>Course </h1>
 					</a>
 												<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
@@ -39,11 +39,9 @@
 			<div class="nav-collapse">
 							<nav>
 				<ul class="nav pull-right">
-					 					<li class=""><a href="/colorado/faq">FAQs</a></li>
-					 
-					 
-						 							<li class=""><a href="/colorado/studyGuide/201006">Study Guide</a></li>
-																			<li><a href="/colorado/in_person_component.html#replace">Lost Cards</a></li>
+					 					<li class=""><a href="/montana/faq">FAQs</a></li>
+																 							<li class=""><a href="/montana/studyGuide/20102701">Study Guide</a></li>
+																			<li><a href="/montana/in_person_component.html#replace">Lost Cards</a></li>
 																			<li class=""><a href="/register/create">Register</a></li>
 															 					<li><a href="/site/login" class="btn btn-primary">Log In
 						<span class="hidden-phone"> to Your Course</span>
@@ -51,7 +49,7 @@
 									</ul>
 			</nav>
 			 		</div>
-		<!-- end .nav-collapse --> 
+		<!-- end .nav-collapse -->
 			</div>
 </div>
 </header>
@@ -68,30 +66,30 @@
                                     </div>
             </div> <!-- end .container -->
             
-
 	<div class="container">
 		<div class="page-header">
 			<h1>Privacy Policy</h1>
 		</div>
 		<div class="row">
 			<div class="span8">
-				<p><b>Hunter Ed</b> is committed to protecting the privacy of its users. Because <b>Hunter Ed</b> gathers information about the users who choose to take the online state certification exams, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. This privacy statement discloses what information we gather and how we use it. Please review the following policy to understand how the information you provide <b>Hunter Ed</b> will be treated.</p>
+				<p><b>Hunter Ed</b> is committed to protecting the privacy of its users. Because <b>Hunter Ed</b> gathers information about the users who choose to take the online certification exams, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. This privacy statement discloses what information we gather and how we use it. Please review the following policy to understand how the information you provide <b>Hunter Ed</b> will be treated.</p>
+				
 				<h2>Information We Collect</h2>
-				<p>In order to access the course material, users must register by providing personal information such as  name,
-					birth date, gender, city and state, e-mail address, and additional information that varies by state. This information is required by the state agencies responsible for hunting to issue your hunting safety certification card. When you are ready to take the exam, you will be required to pay by supplying a valid credit card number, expiration date, and name.</p>
+				<p>In order to access the course material, users must register by providing personal information such as  name, birth date, gender, city and state, e-mail address, and additional information that varies by state. This information is required by the state agencies responsible for hunting to issue your hunting safety certification card. When you are ready to take the exam, you will be required to pay by supplying a valid credit card number, expiration date, and name.</p>
+				
 				<h2>What Hunter Ed Does With the Information We Collect</h2>
-				<p>The personal information you supply to <b>Hunter Ed</b> will not be disclosed outside of <b>Hunter Ed</b>,
-					except to securely transfer the personal data to the agency in your state which is responsible for hunting in order to issue your hunter education certificate. Your credit card information will be used only for processing your fee(s)
-					related to taking the online certification exam.</p>
+				<p>The personal information you supply to <b>Hunter Ed</b> will not be disclosed outside of <b>Hunter Ed</b>, except to securely transfer the personal data to the agency in your state which is responsible for hunting in order to issue your hunter education certificate. Your credit card information will be used only for processing your fee(s) related to taking the online certification exam.</p>
 				<p><b>Hunter Ed</b> will not use the personal information we collect for any other purpose other than to help you obtain your hunting safety certification.</p>
-				<p>The online hunting safety courses on this site contain links to other sites. <b>Hunter Ed</b> is not responsible for the privacy practices or the content of such websites; however,
-					we make our best effort to only provide links to reputable sites with acceptable content. Please remember that any information that is disclosed in these other sites may become public information and you should exercise caution when deciding to disclose your personal information.</p>
+				<p>The online hunting safety courses on this site contain links to other sites. <b>Hunter Ed</b> is not responsible for the privacy practices or the content of such websites; however, we make our best effort to only provide links to reputable sites with acceptable content. Please remember that any information that is disclosed in these other sites may become public information and you should exercise caution when deciding to disclose your personal information.</p>
+				
 				<h2>With Whom Information Is Shared</h2>
 				<p>We do not share, sell, or otherwise distribute information about individual users taking the online hunting safety exam with any third party, or any outside companies or organizations except the agency in your state that is responsible for hunting.</p>
-				<h2>Security</h2>
-				<p>All of your personal and credit card information is collected using SSL (Secure Socket Layer), which allows your information to be securely transferred to us using Verisign Secure Server Digital ID. Hunter Ed has been approved by VeriSign to protect your credit card and other confidential information with industry-leading SSL encryption. The VeriSign Secured Seal is a trust mark available for display on any website that protects its customers' confidential information using VeriSign services. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.</p>
-				<script src="https://seal.godaddy.com/getSeal?sealID=LvzggP1z5OWVf5vtS5beTFIINnX9ryeURnxJ2ZhiVHoEBPh70zrmkjhlIMoO"></script>				<h2>Children and Privacy</h2>
-				<p><b>Hunter Ed</b> encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. <b>Hunter Ed</b> fully complies with the Federal Trade Commission's COPPA Act - Children's Online Privacy Protection Act and follows state guidelines for compliance for each state hunter education course we offer.</p>
+				
+				<h2>Identity Theft and Security</h2>
+				<p>All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Boat Ed. The SSL Certificate that protects the Boat Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.</p>
+				<script src="https://seal.godaddy.com/getSeal?sealID=LvzggP1z5OWVf5vtS5beTFIINnX9ryeURnxJ2ZhiVHoEBPh70zrmkjhlIMoO"></script>				
+				<h2>Children and Privacy</h2>
+				<p><b>Hunter Ed</b> encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. <b>Hunter Ed</b> fully complies with the Federal Trade Commission's COPPA Act (Children's Online Privacy Protection Act) and follows state  guidelines for compliance for each hunter education course we offer.</p>
 				<p><strong>Parental access</strong>: Parents of students of any age may contact our Privacy Coordinator at the mailing address provided below if you would like to do any of the following:</p>
 				<ul>
 					<li>Access personally identifiable information that <b>Hunter Ed</b> has collected online from your child,</li>
@@ -100,25 +98,21 @@
 					<li>Request that we no longer collect or maintain such information.</li>
 				</ul>
 				<p>Please include your e-mail address and telephone number where we can reach you. <b>Hunter Ed</b> takes steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child's parent or legal guardian.</p>
+				
 				<h2>How to contact Hunter Ed</h2>
-				<p>If you have any questions about this privacy statement, the practices of this site you can contact us at:</p>
+				<p>If you have any questions about this privacy statement or the practices of this site, you can contact us at:</p>
 				<address class="vcard">
-				<b class="org">Hunter Ed</b><br>
-				<span class="adr">
-				<span class="street-address">14086 Proton Rd.</span>
-				<br>
-				<span class="locality">Dallas</span>
-				, <abbr class="region" title="Texas">TX</abbr>
-				<span class="postal-code">75244</span>
-				<br>
-				<span class="tel">214-351-0461</span>
-				</span>
+					<b class="org">Hunter Ed</b><br>
+					<span class="adr">
+						<span class="street-address">14086 Proton Rd.</span><br>
+						<span class="locality">Dallas</span>, <abbr class="region" title="Texas">TX</abbr> <span class="postal-code">75244</span><br>
+						<span class="tel">214-351-0461</span>
+					</span>
 				</address>
 				<p><b>Hunter Ed</b> hopes this document answers your questions and concerns about our privacy policy. <b>Hunter Ed</b> is committed to protecting the privacy of our students.</p>
 			</div>
 		</div>
-	</div>
-        </div> <!-- end #main -->
+	</div>        </div> <!-- end #main -->
         <footer>
             <div class="container">
 	<div class="page-info row">
@@ -130,8 +124,11 @@
 				<ul>
 					<li><a rel="external" target="_blank" title="Follow us on Twitter" class="twitter" href="https://www.twitter.com/hunter_ed">Twitter</a></li>
 					<li><a rel="external" target="_blank" title="Follow us on Facebook" class="facebook" href="https://www.facebook.com/hunterEdcom">Facebook</a></li>
+					<li><a rel="external" target="_blank" title="Follow us on Pinterest" class="pinterest" href="http://www.pinterest.com/hunteredcom/">Pinterest</a></li>
 					<li><a rel="external" target="_blank" title="Subscribe to our YouTube channel" class="youtube" href="http://www.youtube.com/user/kalkomey">YouTube</a></li>
-					<li><a rel="external" target="_blank" title="Follow us on Google +" class="google-plus" href="https://plus.google.com/104347826810491487931/posts">Google +</a></li>					
+					<li><a rel="external" target="_blank" title="Follow us on Google +" class="google-plus" href="https://plus.google.com/+Hunter-ed/posts">Google +</a></li>	
+					<li><a rel="external" target="_blank" title="Follow us on Instagram" class="instagram" href="http://instagram.com/hunteredcom">Instagram</a></li>
+					<li><a target="_blank" title="Check out the latest on the Hunter Ed blog" class="blog" href="http://www.hunter-ed.com/blog/">Hunter Ed blog</a></li>				
 				</ul>
 			</div>
 		</div>
@@ -171,7 +168,7 @@
 
 		<section class="span6">
 			<h4>About Kalkomey Enterprises, Inc.</h4>
-			<p>Kalkomey is the official provider of recreational safety education materials for all 50 states. We provide online boating and hunting licenses and other recreational safety education. <a href="http://www.kalkomey.com/about/press-resources/releases/" rel="external" title="Kalkomey’s press resources">View press releases.</a></p>
+			<p>Kalkomey is the leading provider of recreational safety education for North America. We provide online boating license courses, online hunter safety courses, and other safety education. <a href="http://www.kalkomey.com/about/press-resources/releases/" rel="external" title="Kalkomey’s press resources">View press releases.</a></p>
 			<p>Hunter Ed is produced by <a href="http://www.kalkomey.com">Kalkomey Enterprises, Inc.</a></p>
 			<address>
 				14086 Proton Road<br>
@@ -183,17 +180,17 @@
 
 		<section class="span3">
 			<h4>Customer Support</h4>
-			<p>Our office hours are 8:30 a.m. to 5:30 p.m. Central, Monday through Friday, with extended hours during late spring and summer.</p>
+			<p>We provide support Monday through Friday from 8:30 a.m. to midnight CST and Saturday and Sunday from 8:30 a.m. to 4:30 p.m. CST.</p>
 			<ul>
-				<li><b>phone:</b> 1-800-830-2268</li>
-				<li><b>e-mail:</b> <a href="mailto:support-co@hunter-ed.com">Hunter Ed Customer Service</a></li>
+			  <li><b>phone:</b> 1-800-830-2268</li>
+				<li><b>e-mail:</b> <a href="mailto:support-mt@hunter-ed.com">Hunter Ed Customer Service</a></li>
 			</ul>		
 		</section>
 	</div>
 
 	<div class="row" id="copyright">
 		<a class="kalkomey-logo" title="We are the official provider of recreational safety education materials for all 50 states." rel="external" href="http://kalkomey.com">Kalkomey Enterprises, Inc.</a>
-		 <small>© 1998—2013 All rights reserved.</small>
+		 <small>© 1998—2014 All rights reserved.</small>
 		 <a href="/site/privacy/">Privacy and Terms of Use.</a>
 	</div>
 </div>		</footer>
@@ -207,6 +204,6 @@
         <script src="//use.typekit.net/soa6uym.js"></script>
         <script>try{Typekit.load();}catch(e){}</script>
 
-    
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"e9cf630f5c","applicationID":"1555598","transactionName":"ZgRWMUtSCxIFAUwNV19OdQZNWgoPSzFREF1yDloRS1wJDQEQFxRKWBdVBkA=","queueTime":0,"applicationTime":11,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
