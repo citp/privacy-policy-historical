@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the demandforced3.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085544id_/http%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforced3.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153858id_/https%3A//www.demandforce.com/privacy-policy) for the most accurate reproduction.*
 
-# Demandforce | Privacy Policy
-
-_Update dated May 18, 2012_
+# Privacy Policy - Demandforce
 
 Demandforce is committed to protecting your privacy.
 
@@ -30,7 +28,7 @@ Demandforce will not use Consumer Information for the purposes of directly marke
 
 ### Consumers
 
-As a consumer, you receive valuable and timely communication, including reminders and "Thank You" notes from a company with which you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please e-mail [privacy@Demandforce.com](mailto:privacy@Demandforce.com), click on the "preferences" button in our emails, or sending "STOP" in response to text messages. You acknowledge that if you transmit personal health information you waive any right to the privacy of such information.
+As a consumer, you receive valuable and timely communication, including reminders and "Thank You" notes from a company with which you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please e-mail[privacy@Demandforce.com](mailto:privacy@Demandforce.com), click on the "preferences" button in our emails, or sending "STOP" in response to text messages. You acknowledge that if you transmit personal health information you waive any right to the privacy of such information.
 
 ### Corporate website visitors
 
@@ -64,7 +62,7 @@ Demandforce may use Subscriber Information and/or Consumer Information to analyz
 
 ### Choice and Opt-Out
 
-Demandforce always provides the ability for Subscriber and Consumers to opt-out of having personally identifiable information used as part of our service offering. All e-mails and text messages Demandforce sends out on behalf of our subscribers provide a way for consumers to opt-out. In addition, any visitor to our site, subscriber to our service or consumer may e-mail us at [privacy@Demandforce.com](mailto:privacy@Demandforce.com) to opt-out of receiving any further correspondence from us.
+Demandforce always provides the ability for Subscriber and Consumers to opt-out of having personally identifiable information used as part of our service offering. All e-mails and text messages Demandforce sends out on behalf of our subscribers provide a way for consumers to opt-out. In addition, any visitor to our site, subscriber to our service or consumer may e-mail us at [privacy@Demandforce.com](mailto:privacy@Demandforce.com) to opt-out of receiving any further correspondence from us.
 
 ### Links to other sites
 
@@ -88,4 +86,9 @@ Demandforce will update this policy from time to time. A "last revised" date wil
 
 ## Contact information
 
-If you have any questions about this privacy policy or if you feel that Demandforce is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [privacy@Demandforce.com](mailto:privacy@Demandforce.com) or mail us at 22 Fourth Street, 12th Floor, San Francisco, CA 94104.
+If you have any questions about this privacy policy or if you feel that Demandforce is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [privacy@Demandforce.com](mailto:privacy@Demandforce.com) or mail us at 22 Fourth Street, 12th Floor, San Francisco, CA 94104.
+
+© 2014 Intuit Inc. All rights reserved. _May 18, 2012_
+
+  
+
