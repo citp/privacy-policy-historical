@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013214344id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123349id_/https%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
 
 # SOS Privacy Policy
 
