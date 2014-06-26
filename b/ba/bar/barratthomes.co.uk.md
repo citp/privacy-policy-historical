@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204357id_/http%3A//www.barratthomes.co.uk/Global/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratthomes.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081548id_/http%3A//www.barratthomes.co.uk/Footer/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Barratt Homes
 
@@ -28,7 +28,7 @@ We collect information from you when you;
 
 Please see our [Cookie Policy](http://www.barratthomes.co.uk/Footer/Cookie-policy/) for further details of cookies used on this website.
 
-Through the analysis of statistical information, we can provide you with an enchanced website user experience.
+Through the analysis of statistical information, we can provide you with an enhanced website user experience.
 
 **On-line forms**
 
