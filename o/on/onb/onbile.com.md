@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215183657id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbile.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063417id_/http%3A//www.onbile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Services
 
 ## ONBILE Privacy Policy
 
-Last updated on November 4th 2013
+Last updated on January 2th 2014
 
 Thank you for visiting ONBILE. We take your privacy seriously and we are committed to honoring the privacy of our members and visitors. We provide this Privacy Policy, part of our general Terms of Service, to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit www.onbile.com, and when you use any part of our service available through the site or other related websites, toolbars, widgets, applications or distribution channels we may operate from our "Service".
 
-The Spanish version of this Privacy Policy is the final version for legal purposes. This translation into English is merely informative. 
+The Spanish version of this Privacy Policy is the final version for legal purposes. This translation into English is merely informative.
 
-This Policy applies only to information that you provide to us through the Site or the Service, or when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service. This Policy may be amended or updated from time to time. You are advised to consult this Policy regularly for any changes.
-
-This Privacy Policy has been elaborated by ONBILE in accordance to the Organic Law 15/1999, of December 13th, of Personal Data Protection (LOPD) (Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, LOPD), Royal Decree 1720/2007 that approves the regulation for the development of LOPD (Real Decreto 1720/2007 que aprueba el Reglamento de desarrollo de la LOPD), Directive 2002/58/CE of the European Parliament and of the Council, of July 12th 2002, concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) and Directive 2009/136/CE of the European Parliament and of the Council, of November 25th 2009, (known as the Cookie Directive).
+This Policy applies only to information that you provide to us through the Site or the Service, or when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service. This Policy may be amended or updated from time to time without us being obliged to notify you. You are advised to periodically check this document in case there were changes.
 
   1. ### Information Collection & Use:
 
@@ -27,7 +25,7 @@ Non Personally Identifiable Information: When you access the Site or use the Ser
       * Information regarding your use of the Service, including, activity and visit behavior on your mobile website.
       * Information that your browser sends whenever you visit a website or an online service "Log Data", that may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on the Site.
 
-Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that their child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20131215183657id_/http://www.onbile.com/privacy-policy/www.onbile.com/contact-us/)
+Policy Towards Children: We do not knowingly collect personally identifiable information from minors. If a parent or guardian becomes aware that their child has provided us with Personal Information without their consent, he or she should contact us at [www.onbile.com/contact-us/](https://web.archive.org/web/20140626063417id_/http://www.onbile.com/privacy-policy/www.onbile.com/contact-us/)
 
     2. **Account Subscriptions**
 
@@ -47,7 +45,7 @@ Personal Information is used for the following purposes: (i) to provide the Serv
 
   3. ### Information Security
 
-We store all user information in secure databases protected by means of a variety of industrystandard access controls. Secure passwords, SSL encryption, disk-based encryption, firewalls, and other measures are in place to helps us to protect your data. This data is accessed only for the purposes specified in this privacy statement.
+We store all user information in secure databases protected by means of a variety of industrystandard access controls. Secure passwords, SSL encryption, disk-based encryption, firewalls, and other measures are in place to help us to protect your data. This data is accessed only for the purposes specified in this privacy statement.
 
 If you have any questions about security on our website, you send us a support request using our support system or an email to [support@onbile.com.](mailto:support@onbile.com)
 
@@ -143,17 +141,25 @@ Please note that your information may be processed, stored or transferred outsid
 
 ONBILE reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website.
 
-  12. ### Changes in this Privacy Statement
+  12. ### Changes in this Privacy Policy
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. We will not materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-  13. ### Security
+  13. ### Third Party Companies, Business Transitions and Information Processing
+
+We may employ third party companies and individuals to facilitate the Service, to provide the Service on our behalf or to perform services related to the management of the Service or the Site (including, but not limited to, maintenance, payments, hosting and database management services, web analytics and administration). These third parties will only have access to your Personal Information in order to perform these tasks on our behalf. However, these parties may be subject to their own privacy policies, so you are advised to consult them regularly.
+
+In the event that ONBILE went through a business transition, such as a merger, acquisition by another company, or sale of all or part of its assets, or in the event of bankruptcy, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+
+Please note that your information may be processed, stored or transferred outside of your state, where the privacy laws may not be as protective as those within your area.
+
+  14. ### Security
 
 We are concerned with safeguarding your information. We employ a variety of measures designed to protect your information from unauthorized access and disclosure. However, we do not promise that your Personal Information or private communications will be protected from unauthorized disclosure or use. Please do not provide any privileged information on the site or when using the service.
 
 If you receive an e-mail asking you to update your Personal Information, do not reply and please contact us at [www.onbile.com/contact-us/](http://www.onbile.com/contact-us/)
 
-  14. ### Contacting Us
+  15. ### Contacting Us
 
 If you have any concerns or questions about this Policy, please contact us at [www.onbile.com/contact-us/](http://www.onbile.com/contact-us/).
 
