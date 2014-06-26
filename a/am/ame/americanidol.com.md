@@ -1,96 +1,122 @@
-> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019145043id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030424id_/http%3A//www.americanidol.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# American idol on FOX - Privacy Policy
 
-* ### Introduction
+Effective February 18, 2014:
 
-Fox Broadcasting Company, a division of Fox Entertainment Group, ("Fox", "Our", "Us", "We") operates AmericanIdol.com (the "Site"), an entertainment website. The services the Site offers include applications, community pages, message boards, music and video services, and any other _American Idol_ ("Show") related features, content, promotions, games or applications offered from time to time by Us including when accessed via the Internet, mobile or other devices (collectively, the "Services"). A list of our affiliated companies (“Company Affiliates”) is available at [www.21cf.com](http://www.21cf.com/).
+Table of Contents:
 
-As set forth in Our [Terms of Use](http://www.americanidol.com/legal/terms/), the Site is a general audience site, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+  1. INTRODUCTION  
 
-This Privacy Policy applies to all "users," including both those who use some of the Services without being registered or subscribing to Services and those who have subscribed to one or more Service, and/or have registered with Us to create a profile or enter a contest or sweepstake (collectively "Members"). This Privacy Policy describes Our collection and use of users' personal information (e.g., information that identifies a specific person, such as full name or email address) where that information is not otherwise publicly available on the Services. We also provide information on the Site's Privacy Settings and describe generally Our practices for handling non-personally identifiable information (e.g., interests, demographics and site usage) to the extent such information is associated with a particular user or user account.
+  2. COLLECTION OF INFORMATION
+  3. USE AND DISCLOSURE 
+  4. SECURITY  
 
-* ### Submission and collection of information on the services
+  5. USER ACCESS AND CONTROL  
 
-_User Submitted Information_
+  6. OTHER IMPORTANT INFORMATION
+  7. CONTACT US   
 
-**Registration Information** is the information that Members must provide at registration in order to create a profile, subscribe to a Service or enter a game, contest or sweepstake (also called an "Account"), such as display name, email address and date of birth.
 
-**Public Information and Posts** consist of your display name and, if you provide one, your display picture and your posts and comments on the Site outside of your profile (e.g., posts and comments made on other Member profiles and on general Site content, such as site provided photos, and in general site areas, such as community forums). Your Public Information and Posts are always public, which means they are available to everyone and will be displayed in search results both on the Services and on external search engines. However, when you post content or comments to another Member's profile, that information will be disclosed consistent with that Member's Privacy Settings.
 
-**Profile Content** consists of information Members may add to their profile. It includes information and content you may add to your profile, such as gender, location, first, middle and last name, "favorite idol moment," friends, comments and similar information. You can control whom you share some of your Profile Content with through your Privacy Settings accessible on your "Edit your Account" page.
 
-**Third Party Information and Content.** If you access the Site or Services through a third party connection or log-in, your user submitted information may also include your user ID and/or user name associated with that third party service, any information/content you have permitted the third party to share with the Services, and any information you have made public in connection with that third party service (collectively, "Third Party Information and Content"). Third Party Information and Content obtained in this manner will be governed by this Privacy Policy, any applicable policy of the third party and the terms and conditions and/or terms of use for the Services.
+1.   INTRODUCTION
 
-_Site Collected Information_
+Fox Broadcasting Company (“FOX”, “we”, “our”, or “us”) operates Americanidol.com (the “Site”) and wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, music and video services, content, sweepstakes, contests, promotions, games, mobile sites, applications (“apps”), widgets and any other American Idol related features that link or otherwise refer users to this Privacy Policy (collectively, the “Services”). By using the Services, you agree to the terms and conditions of this Privacy Policy. A list of the FOX affiliated companies (“Company Affiliates”) is available at [www.21cf.com](http://www.21cf.com/). 
 
-**Site Activity Information.** When users access the Site or Services, We may collect certain non-personally identifiable information about those visits. For example, in order to permit your connection to the Site, Our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Site from a mobile or other device, We may collect a unique device identifier assigned to that device or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. We may use these technologies to collect and store information about your usage of the Site, such as pages you have visited, search queries you have run, and advertisements you have seen. American Idol may also use cookies and similar tools to relate your use of the Site to personal information obtained from you or a reputable third party. For example, if you have asked Us to provide you information about Our upcoming products or promotions, cookie and/or click stream data about your activities on the Site may allow Us to limit the materials We provide you to items We think you will find interesting, based on your prior online activities and preferences.
+As set forth in our [Terms of Use](http://www.americanidol.com/terms) available at <http://www.americanidol.com/terms>, the Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
-Third parties that support the Site by serving advertisements or providing services, such as allowing users to share content or tracking aggregate site usage statistics, may also use these technologies to collect similar information. We do not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party ad networks that use these technologies, see [www.aboutads.info](http://www.aboutads.info/).
+This Privacy Policy applies to all users, including both those who use the Services without being registered with or subscribing to a Service and those who have registered with or subscribed to a Service. This Privacy Policy applies to our collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally our practices for handling non-personal information (for example, interests, demographics and services usage). 
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies). Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through the Site.
+  
+FOX and our service providers collect the following information from and about you: 
 
-**Third Parties.** To improve the quality of the Site, We may supplement the information We collect with information from third parties. If you access the Site through a third-party connection or log-in, We may also collect Third Party Information and Content.
+Registration Information is the information you submit to register for a Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, and birthday. 
 
-* ### Notice & Choice
+Public Information and Posts consist of comments or content that you post to THE Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines. 
 
-**Means of Notice and Choice.** This Privacy Policy and your Privacy Settings are the primary means by which We provide you with notice and choice about Our collection and use of your personal information. We will not use your personal information in a manner different from what is described in this Privacy Policy without your permission.
+ 
 
-**Privacy Policy Changes.** We may modify this Privacy Policy as necessary. If We make material changes to this Privacy Policy that expand Our rights to use your personal information, We will notify you to seek your consent. In the event the last email address you provided to Us is not valid or is not capable of delivering the notice to you, Our dispatch of an email containing the notice to that e-mail address shall nonetheless constitute effective notice.
+Information from Social Media. If you access or log-in to a Service through a social media or other service or connect a Service to a social media or other service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Services through social media services or when you connect a Service to social media services, you are authorizing us to collect, store, and use such information and content in accordance with this Privacy Policy. 
 
-**Location of Data.** The Site is hosted in the United States. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, processed and stored in the United States and other countries where data protection and other privacy laws may not offer the same level of protection as those in your jurisdiction, such as the European Union. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+  
 
-**Linked Websites or Services.** The Services may also be linked to sites or services operated by Company Affiliates or third parties, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes or applications developed and maintained by third parties, including, the online store. We are not responsible for the privacy practices of any such third parties, and once you leave the Site via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party site. Additionally, users who visit a Company Affiliate site should still refer to its separate privacy policy, which may differ in some respects from this Privacy Policy.
+Activity Information. When you access and interact with the Services, we may collect certain information about those visits. For example, in order to permit your connection to the Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. At this time we do not respond to browser ‘Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-* ### Use and Disclosure
+Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website, app or other service can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. 
 
-_Information Made Public Through Use of the Site and User Privacy Settings_
+Third parties that support the Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Services usage statistics, may also use these technologies to collect similar information. We do not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-Members' Public Information and Posts are always publicly available to anyone, including other users, search engines, advertisers, third-party application developers, and anyone else with access to the Services. Beyond your Public Information and Posts, you control what information you add to your Profile Content, and whether you want to restrict some of the information other users can see through your Privacy Settings. When your Privacy Setting is "public" your Profile Content is made available to any and all third parties. Additionally, when you post content or comments to another Member's profile, that information will be disclosed consistent with that Member's Privacy Settings. For users under 18, the Site does not permit you to make certain information public.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe's website, see <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>.. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Services.
 
-Third Party Information and Content may be publicly available according to the permissions you grant to the Site, the applicable policies of the third party and the terms and conditions and/or terms of use for the Site.
+Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from Company Affiliates or business partners. 
 
-_Site's Use and Disclosure of Information_
+We use the information we collect from and about you to provide the Services and features to you, including: to measure and improve those Services and features; to improve your experience with both online and off-line Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties, including the purposes below.
 
-We only share your non-public personal information with non-affiliated third parties when We believe sharing is permitted by you or authorized by this Privacy Policy. In addition, We may share your Registration Information, Profile Content and Third Party Information and Content with Company Affiliates.
+We use the information we collect from and about you for these additional purposes:
 
-We use the information We collect from and about users for the following purposes:
+To allow service providers to assist us in providing and managing the Services. We may make your information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the Services. 
 
-**To provide and manage the Services.** We use the information We collect from and about users to provide the Services and features to you including to measure and improve those Services and features, to personalize your experience by delivering relevant content, advertising and marketing messages, to allow you to participate in online games, contests or promotions, to enable you to communicate and share with other users, and to provide you with customer support and respond to inquiries. We may use aggregated, anonymous data about use of and activity on the Services to assist Us in this regard and such data is not subject to this Privacy Policy.
+ 
 
-**To allow third-party service providers to assist Us in providing and managing the Services.** We may make your non-public personal information available to certain third-party service providers, such as contractors, agents or sponsors, who help Us manage or provide the Services, for example: developing or supporting products and features; conducting email marketing on Our behalf; processing payments; administering message boards; fulfilling orders; processing data or statistics; or assisting with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. These outside service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to the Services.
+To allow social sharing functionality. If you log in with or connect a social media service account with Services, we may share your information, including your user name, picture, and likes, as well as your activities and comments with other Services' users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Services account and do not participate in social sharing on Services.
 
-**To deliver relevant advertising.** We may use the information you provide to Us, and information We collect about your use of the Site through cookies and other technologies, to assist Us in delivering you relevant ads when you visit the Site. We may work with third-party advertising networks and advertisers who help deliver these ads to you. We do not share your non-public personal information with these third parties, but We may share anonymized or aggregated information with them to improve the relevancy of the ads you see on the Services. As noted above, these third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party online advertising and to opt out of this type of advertising, visit the [Network Advertising Initiative Website](http://www.networkadvertising.org/managing/opt_out.asp).
+To provide co-branded services and features. We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on the Services or on the third party's service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party's use of your information will be governed by the third party's privacy policy. 
 
-**To allow other users to find you.** In order to locate Members that a user may already know in the physical world and/or want to get to know in the online world, the Site may allow users to search for Members using information the user already knows, such as display name or email address and identifies users matching that search information.
+To deliver relevant advertisements. FOX and our service providers may use the information we collect from and about you to deliver relevant ads to you when you use the Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info, and to opt-out of such advertising networks' and services' advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-**To contact you.** We may periodically send promotional materials (e.g., newsletters) or notifications to the email address provided to Us at registration or to your account. If you want to stop receiving promotional materials from Us, follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of as long as you are a Member, such as notifications of changes to the Site or policies.
+ 
 
-**To protect Our rights and the rights of Our users.** There may be instances when We may disclose user information without providing notice or choice, including situations where We have a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of Fox, Company Affiliates or their employees, agents and contractors (including enforcement of Our agreements); (ii) protect the safety and security of users of the Site or members of the public; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process.
+To contact you. We may periodically send promotional materials or notifications related to the Services. If you want to stop receiving promotional materials, follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
-**To complete a merger or sale of assets.** If We sell all or part of Our business or make a sale or transfer of Our assets or are otherwise involved in a merger or transfer of all or a material part of Our business, We may transfer your information to the party or parties involved in the transaction as part of that transaction.
+To share with our Company Affiliates. We may share your information with Company Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Company Affiliates can be found at the beginning of this policy. Users who visit Company Affiliates' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
 
-* ### Security
+To share with business partners. We may share your information with business partners to permit them to send you marketing communications consistent with your choices. 
 
-The Site uses reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification.
+ 
 
-* ### ACCESS, REMEDIES AND COMPLIANCE
+To protect the rights of FOX and others. There may be instances when we may disclose your information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of FOX, our Company Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities. 
 
-**User Control and Account Cancellation.**
+ 
 
-By clicking on your user name on the upper left hand corner of the Site and visiting the "Edit Your Account" page, you can access or edit your Account Information. You may unsubscribe to the American Idol newsletter by clicking the link at the bottom of the newsletter e-mail or writing to the Privacy Officer (see contact information in "Contact Us" below). You may also link or unlink your Account from third party service accounts under the "Linked Accounts" heading on the "Edit Your Account" page and also unlinking the Account through your account on the third party service. If you no longer want to use the Services, you may cancel your account by emailing Us at [ask.fox@fox.com](mailto:ask.fox@fox.com) with the subject line "Cancel Account" and requesting the cancellation of your AmericanIdol.com Account. Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances. We may also retain backup information related to your account on Our servers for some time after cancelation for fraud detection or to comply with applicable law or Our internal security policies. Because of the nature of caching technology, your account may not be instantly inaccessible to others, and there may be a delay in the removal of the content from elsewhere on the Internet and from search engines.
+To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-* ### Contact Us
+We use reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information. If you are asked to select a password to access a Service, you should select a password that contains a combination of letters, numbers and non-alphanumeric characters (for example, %, $ and &) and avoid dictionary words. In addition, you should not use the same password that you use for other business or personal accounts.
 
-If you have questions about this Privacy Policy, please contact AmericanIdol.com at:
+If you no longer want to use the Services, you may cancel your account by clicking on your profile page on the Site and then clicking on Delete. You may unsubscribe to the the American Idol newsletter by clicking the "unsubscribe" link at the bottom of the newsletter email.
 
-Via email:
-    [idol.privacy@fox.com](mailto:idol.privacy@fox.com)
+If you are a California resident, you may request that we not share your personal information on a going-forward basis with FOX Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [idol.californiaprivacy@fox.com](mailto:idol.californiaprivacy@fox.com), with AmericanIdol.com”: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable. 
 
-Via mail:
-    AmericanIdol.com   
-c/o Fox Broadcasting Company  
-Attn: Privacy Officer   
-P.O. Box 900  
-Beverly Hills, CA 90213  
-USA 
+Updates to Privacy Policy. FOX may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services.
+
+ 
+
+Location of Data. The Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+
+Linked Services. The Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, rewards programs, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. FOX is not responsible for the privacy practices of unaffiliated companies, and once you leave the Services or click an advertisement you should check the applicable privacy policy of the other service. 
+
+Collection of Personal Financial Information by a Payment Service. In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service's privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service's use of information collected through any Payment Service. 
+
+Data Retention. We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
+
+ 
+
+Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+
+Sensitive Information. We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Services or otherwise.
+
+  
+If you have questions about this Privacy Policy, please contact us at:
+
+Via Mail:     AmericanIdol.com   
+
+
+> > c/o Fox Broadcasting Company
+
+> > Attn: Privacy Officer 
+
+> > P.O. Box 900
+
+> > Beverly Hills, CA 90213
+
+> > USA
