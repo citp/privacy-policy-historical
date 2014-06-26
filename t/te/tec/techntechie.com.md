@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528183547id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techntechie.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075138id_/http%3A//www.techntechie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech N TechieTech N Techie
+# Privacy Policy | Tech N Techie
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at hssahaetc09@gmail.com
 
