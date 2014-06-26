@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208142522id_/http%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051314id_/https%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // Twitonomy
 
-Twitonomy.com is a service brought to you by Diginomy Pty Ltd (ACN 162 821 954) ("we" or "us" or "Twitonomy" or "Diginomy"). We collect and manage user data according to the following Privacy Policy. This document is part of our [Terms of Service](http://www.twitonomy.com/content/terms.php), and by using Diginomy services and Twitonomy.com (the “Service” or the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service.
+Twitonomy.com is a service brought to you by Diginomy Pty Ltd (ACN 162 821 954) ("we" or "us" or "Twitonomy" or "Diginomy"). We collect and manage user data according to the following Privacy Policy. This document is part of our [Terms of Service](https://www.twitonomy.com/content/terms.php), and by using Diginomy services and Twitonomy.com (the “Service” or the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service.
 
 Diginomy analyzes Twitter data that is made available publicly through the Internet in order to provide the Service. We present some of this data on the Website and may share it with our third party partners (as described in more details below). Diginomy does not analyze non-public data from private networks.
 
