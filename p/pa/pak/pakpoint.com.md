@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128133938id_/http%3A//www.pakpoint.org/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120614id_/http%3A//www.pakpoint.org/useronline) for the most accurate reproduction.*
 
 # Privacy
-
-#### Privacy
 
 This privacy policy is applicable to pakpoint.com, pakpoint.net and pakpoint.org
 
