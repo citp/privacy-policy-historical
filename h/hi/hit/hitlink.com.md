@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitlink.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805233909id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitlink.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063111id_/http%3A//www.hitlink.com/public/privacy.php) for the most accurate reproduction.*
 
-# Welcome to hitlink
+# Welcome to HitLink
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR HitLink.com**
 
