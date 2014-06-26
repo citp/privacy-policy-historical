@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205041316id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032532id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
 
 # SermonIndex.net Privacy Policy - Sermon Index
 
@@ -58,12 +58,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-SermonIndex.net  
-35715 Ledgeview Dr  
-Abbotsford, BC v3g2z2  
+Greg Gordon  
+PO Box 16021 Sumas Mountain PO  
+Abbotsford, BC, V3G OC6  
 Canada  
-sermonindex@gmail.com  
-770-744-2145
+sermonindex@gmail.com
 
 This policy is powered by Trust Guard PCI compliance.
 
