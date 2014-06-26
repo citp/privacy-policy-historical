@@ -1,72 +1,88 @@
-<!--The following is the downloaded HTML source of the torguard.net privacy policy that was archived on 2013-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130829175442id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torguard.net privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626025631id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
 <title>TorGuard - </title>
-<meta name="keywords" content=""> 
+<meta name="keywords" content="">
 <meta name="description" content="">
-
-<base href="http://torguard.net/">
+<base href="https://torguard.net/">
 <link rel="stylesheet" type="text/css" href="templates/PenguinHost/style.css">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="includes/jscript/jquery.js"></script>
-
-
-<style type="text/css" media="screen">
-/*<![CDATA[*/
-#cah img { border: 0; padding: 0; margin: 0px 0 0px 0; background-position: 1px 0;vertical-align: bottom; }
-#cah img.greenbar { background: white url(modules/addons/clientareahome/images/percentbar_green.png) bottom left no-repeat; }
-#cah img.redbar { background: white url(modules/addons/clientareahome/images/percentbar_red.png) bottom left no-repeat; }
-#cah img.bluebar { background: white url(modules/addons/clientareahome/images/percentbar_blue.png) bottom left no-repeat; }
-#cah img.goldbar { background: white url(modules/addons/clientareahome/images/percentbar_gold.png) bottom left no-repeat; }
-#cah img.blackbar { background: white url(modules/addons/clientareahome/images/percentbar_black.png) bottom left no-repeat; }
-/*]]>*/
-</style>
-<link rel="stylesheet" href="modules/addons/clientareahome/templates/default/style.css" type="text/css">
-
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="includes/jscript/jquery.js"></script>
+<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+<script type="text/javascript" src="https://torguard.net/includes/jscript/stripe.js?v=wrMb7mBA"></script>
 <script type="text/javascript">
-/*<![CDATA[*/
-function makeTxt(id,txt){var obj = document.getElementById(id);obj.firstChild?obj.firstChild.data=txt:obj.appendChild(document.createTextNode(txt))}
+            jQuery(document).ready(function() {
+                // Grab the URL
+                var href = window.location.href;
 
+                // Activate StripeBilling for 'Cart Checkout'
+                if( href.indexOf( 'cart.php?a=checkout' ) > -1 || href.indexOf( 'cart.php?a=view' ) > -1 ) {
+                    // Retrieve Payment Method and CC Info radio inputs
+                    var paymentMethod = jQuery('input[name="paymentmethod"]');
+                    var ccInfo = jQuery('input[name="ccinfo"]');
 
-  // Tabs Changer
-  // ===============================
-jQuery(document).ready(function(){
-	//Default Action
-	jQuery(".cahtab_content").hide(); //Hide all content
-	jQuery("#cahtabs ul.tabs li:first").addClass("active").show(); //Activate first tab
-	jQuery(".cahtab_content:first").show(); //Show first tab content
+                    // If, initially, Stripe is selected, initialize it
+                    if( paymentMethod.filter(':checked').val() == 'stripe' )
+                        StripeBilling.init('', ccInfo.filter(':checked').val() || 'new', 'cart-checkout');
 
-	//On Click Event
-	jQuery("#cahtabs ul.tabs li").click(function() {
-        jQuery("ul").find("li").removeClass("open");
-		jQuery("ul.tabs li").removeClass("active"); //Remove any "active" class
-		jQuery(this).addClass("active"); //Add "active" class to selected tab
-		var activeTab = jQuery(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-        if (activeTab.substr(0,1)=="#" && activeTab.substr(1)!="") { //Determine if a tab or link
-            jQuery(".cahtab_content").hide(); //Hide all tab content
-    		jQuery(activeTab).fadeIn(); //Fade in the active content
-            return false;
-        } else {
-            return true; // If link allow redirect
-        }
-	});
+                    // Invoke on Payment Gateway change
+                    paymentMethod.on('change', function() {
+                        // Check if Stripe is selected
+                        if( paymentMethod.filter(':checked').val() == 'stripe' ) {
+                            // Check if Publishable Key has already been set - if not, set it
+                            if( typeof StripeBilling.publishableKey == 'undefined' )
+                                StripeBilling.init('', ccInfo.filter(':checked').val() || 'new', 'cart-checkout');
 
-});
+                            // Otherwise, set the 'new' or 'useexisting' type
+                            else
+                                StripeBilling.type = ccInfo.filter(':checked').val() || 'new';
+                        }
+                    });
 
-/*]]>*/
+                    // Check if CC Info has changed - if so, set accordingly
+                    ccInfo.on('change', function() {
+                        StripeBilling.type = ccInfo.filter(':checked').val() || 'new';
+                    });
+                }
+
+                // Activate StripeBilling for 'Manage Credit Card'
+                else if( href.indexOf( 'clientarea.php?action=creditcard' ) > -1 ) {
+                    // Initialize Stripe Billing
+                    StripeBilling.init('', 'new', 'manage-credit-card');
+                }
+
+                // Activate StripeBilling for 'Pay by Credit Card'
+                else if( href.indexOf( 'creditcard.php' ) > -1 ) {
+                    // Retrieve CC Info radio input
+                    var ccInfo = jQuery('input[name="ccinfo"]');
+
+                    // Initialize Stripe Billing
+                    StripeBilling.init('', ccInfo.filter(':checked').val() || 'new', 'pay-by-credit-card');
+
+                    // Check if CC Info has changed - if so, set accordingly
+                    ccInfo.on('change', function() {
+                        StripeBilling.type = ccInfo.filter(':checked').val() || 'new';
+                    });
+                }
+            });
+        </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35040022-1']);
+  _gaq.push(['_setDomainName', '.https://www.torguard.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-
-
-
-
-<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
-<!--  BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+ 
+ 
 <script type="text/javascript">
 <!--
 	var LiveHelpSettings = {};
@@ -87,25 +103,13 @@ jQuery(document).ready(function(){
 	})(document, jQuery);
 -->
 </script>
-<!--  END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+ 
 <link rel="shortcut icon" href="templates/PenguinHost/images/favicon.ico">
-
 <link rel="stylesheet" type="text/css" href="templates/PenguinHost/glossy-buttons.css">
-
-
-
 <link href="templates/PenguinHost/html/css/style.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="templates/PenguinHost/html/js/jquery-1.3.2.min.js"></script>
-
 <script type="text/javascript" src="templates/PenguinHost/html/js/hoverIntent.js"></script>
-
 <script type="text/javascript" src="templates/PenguinHost/html/js/superfish.js"></script>
-
 <link rel="stylesheet" type="text/css" href="templates/PenguinHost/html/css/superfish.css" media="screen">
-
-
-
 <script type="text/javascript">
 
 
@@ -121,10 +125,6 @@ jQuery(function(){
 
 
 </script>
-
-
-
- 
 <script type="text/javascript">
   var __lc = {};
   __lc.license = 2039691;
@@ -135,23 +135,16 @@ jQuery(function(){
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
   })();
 </script>
-
+<meta name="google-translate-customization" content="8a756c33150b9395-43ef7d9297f0672d-ga7d84f42927524fb-c">
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options();</script>
 </head>
-
-
-
 <body>
-
-
-
 <div id="headerWrapper">
-
-  <div class="wrapper">
-
-    <div id="topmenu">
-
-     <div class="livesupport">
-     <a href="submitticket.php" target="_blank"></a></div>
+<div class="wrapper">
+<div id="topmenu">
+<div class="livesupport"> <div data-id="ce339c9575" class="livechat_button"><a href="#" "="" title="TorGuard Live Support Chat" target="_blank"></a></div></div>
 
       <ul>
 
@@ -175,28 +168,22 @@ jQuery(function(){
 
 	  <ul class="sf-menu">
 
-      	<li class="home"><a href="index.php" title="TorGuard Home" class="active"><span></span>Home</a></li>
+      	<li class="home"><a href="index.php" title="TorGuard Home"><span></span>Home</a></li>
 
 	    <li class="shared"><a href="anonymousbittorrentproxy.php" title="Torrent Proxy"><span></span>Torrent Proxy</a></li>
 
-	    <li class="reseller"><a href="anonymoustorrentvpn.php" title="Anonymous VPN"><span></span>Anonymous VPN</a></li>
+	    <li class="reseller"><a href="https://torguard.net/anonymoustorrentvpn.php" title="Anonymous VPN"><span></span>Anonymous VPN</a></li>
 
-	    <li class="dedicated"><a href="#" title="More Info..."><span></span>More Info...</a>
+	    <li class="shared"><a href="https://torguard.net/smart-dns.php" title="Smart DNS"><span></span>Smart DNS</a></li>
+
+	    <li class="contact"><a href="https://torguard.net/store" title="Buy DDWRT Routers" target="_blank"><span></span>VPN Routers</a>
             <ul>
-              <li><a href="https://torguard.net/proxyvsvpn.php">Proxy vs VPN</a></li>
-              <li><a href="https://torguard.net/pptpvsopenvpn.php">PPTP vs OpenVPN</a></li>
-              <li><a href="https://torguard.net/torrentvpnservice.php">Torrent VPN Service</a></li>
-              <li><a href="https://torguard.net/androidvpnservice.php">Android VPN Service</a></li>
-              <li><a href="https://torguard.net/unblocknetflixpandora.php">Bypass Censorship</a></li>
-              <li><a href="https://torguard.net/store">Buy DDWRT Routers</a></li>
-              <li><a href="https://torguard.net/anonymous-email.php">Anonymous Email</a></li>
-            
+      
+                          
                           </ul>
-         </li>
+        </li>
 
-	    <li class="about"><a href="login.php" title="TorGuard Members Area"><span></span>Members Area</a></li>
-
-	    <li class="contact"><a href="contact.php" title="Contact Us" class="nobg"><span></span>Contact Us</a></li>
+	    <li class="contact"><a href="https://torguard.net/setup/" title="Setup" class="nobg"><span></span>Setup Guides</a></li>
 
       </ul>
 
@@ -205,6 +192,7 @@ jQuery(function(){
   </div>
 
 </div>
+
 
 
 <div id="subbannerwrapper">
@@ -223,11 +211,6 @@ jQuery(function(){
 
 </div>
 
-<!-- Netop Live Guide Monitor Tag -->
-	<script type="text/javascript"><!-- hide script contents from old browsers
-	function LgTrackingTag()catch(e)else document.write(s);} if(window.attachEvent)window.attachEvent('onload',LgTrackingTag);else window.addEventListener("load",LgTrackingTag,false);
-// end hide script contents from old browsers --></script>
-<!-- Netop Live Guide Monitor Tag -->
 
 <div id="contentwrapper">
 
@@ -307,52 +290,61 @@ judgment, we are obligated to do so under applicable laws.</p>
       	</div>
     	</div>
    		<div id="right">
-      <div class="box3">
+<!--      <div class="box3">
         <div class="box3top"></div>
         <div class="box3content">
         <h1>Client Login</h1>
-<form method="post" action="https://torguard.net/dologin.php">
-<input type="hidden" name="token" value="723571326aef7324228d0e751fda3590f4a8ad21">
+<form method="post" action="dologin.php">
+<input type="hidden" name="token" value="70efd183d021c9e7fb2fc35d6291388497e30024" />
           <div class="box3content2">
             <ul>
               <li>
                 <label>Email</label>
               </li>
               <li>
-              <input type="text" name="username" id="textfield" class="textfielstyle1">
+              <input type="text" name="username" id="textfield" class="textfielstyle1" />
               </li>
               <li>
               <label>Password</label>
               </li>
               <li>
-              <input type="password" name="password" id="textfield" class="textfielstyle1">
+              <input type="password" name="password" id="textfield" class="textfielstyle1" />
               </li>
               <li>
-              <input type="checkbox" name="rememberme" id="checkbox">
+              <input type="checkbox" name="rememberme" id="checkbox" />
               <label for="checkbox">Remember Me</label>
               </li>
-              <li><div class="login"><input type="submit" class="button square small black" value="Login"></div></li>
+              <li><div class="login"><input type="submit" class="button square small black" value="Login" /></div></li>
             <li><a href="pwreset.php">Request a Password Reset</a></li>
             </ul>
           </div>
 </form>
         </div>
       </div>
-      <div class="box3">
+-->
+
+
+    <div class="box3">
         <div class="box3top"></div>
         <div class="box3content">
-          <h1>Quick Navigation</h1>
-          <div class="box3content2">
-            <ul class="sidemenu">
-	      <!--<li><a href="clientportal.php" title="Portal Home">Portal Home</a></li>-->
+                  <h1>Your IP Address:</h1>
+                   <div class="box3content2">
+           <ul class="sidemenu">
+	       <center>
+  <p><em>Secure yourself with TorGuard VPN!</em><em></em></p>
+		<div id="ip-lookup" class="tools">
+						<center><h2>207.241.237.102</h2></center>
+		</div>
+
+      <!--<li><a href="clientportal.php" title="Portal Home">Portal Home</a></li>
       <li><a href="register.php" title="Register">Register</a></li>
       <li><a href="clientarea.php" title="Client Area">Client Area</a></li>
       <li><a href="announcements.php" title="Announcements">Announcements</a></li>
       <li><a href="knowledgebase.php" title="Knowledgebase">Knowledgebase</a></li>
       <li><a href="submitticket.php" title="Support Tickets">Submit Ticket</a></li>
       <li><a href="downloads.php" title="Downloads">Downloads</a></li>
-      <li><a href="cart.php" title="Order">Order</a></li>
-	              </ul>
+      <li><a href="cart.php" title="Order">Order</a></li>-->
+	              </center></ul>
           </div>
         </div>
       </div>
@@ -367,16 +359,6 @@ judgment, we are obligated to do so under applicable laws.</p>
           </div>
         </div>
       </div>
-      <div class="box3">
-        <div class="box3top"></div>
-        <div class="box3content">
-          <h1>Change Language</h1>
-          <div class="box3content2">
-<center><form method="post" action="/privacy.php" name="languagefrm" id="languagefrm">
-<input type="hidden" name="token" value="723571326aef7324228d0e751fda3590f4a8ad21"><strong>Language:</strong> <select name="language" onchange="languagefrm.submit()"><option>English</option><option>Arabic</option><option>Catalan</option><option>Croatian</option><option>Czech</option><option>Danish</option><option>Dutch</option><option selected="selected">English</option><option>Farsi</option><option>French</option><option>German</option><option>Hungarian</option><option>Italian</option><option>Norwegian</option><option>Portuguese-br</option><option>Portuguese-pt</option><option>Russian</option><option>Spanish</option><option>Swedish</option><option>Turkish</option><option>Ukranian</option></select></form></center>
-          </div>
-        </div>
-      </div>
     </div>
       <div class="clr"></div>
     <div class="partner">&nbsp;</div>
@@ -385,7 +367,7 @@ judgment, we are obligated to do so under applicable laws.</p>
       <div class="sitemap">
         <h1>Company Info</h1>
         <ul>
-        <li><a href="contact.php" title="Contact TorGuard">Contact Us</a></li>
+        <li><a href="announcements.php" title="Contact TorGuard">Announcements</a></li>
           <li> <a href="terms.php" title="Terms of Service">TOS Policy</a></li>
           <li><a href="privacy.php" title="Privacy Policy">Privacy Policy</a> </li>
           <li><a href="http://torguard.net/blog" title="TorGuard Blog">TorGuard Blog</a> </li>
@@ -395,20 +377,21 @@ judgment, we are obligated to do so under applicable laws.</p>
       <div class="sitemap">
         <h1>Privacy Services</h1>
         <ul>
-                  <li><a href="anonymousbittorrentproxy.php" title="Anonymous Torrent Proxy">Torrent Proxy</a></li>
-          <li><a href="anonymoustorrentvpn.php" title="Anonymous VPN service">VPN Sevice</a></li>
+          <li><a href="anonymousbittorrentproxy.php" title="Anonymous Torrent Proxy">Torrent Proxy</a></li>
+          <li><a href="vpnservice.php" title="Anonymous VPN service">VPN Sevice</a></li>
           <li><a href="androidvpnservice.php" title="Android VPN Service">Android VPN</a></li>
-          <li><a href="http://torguard.net/howtodownloadtorrentsanonymously.php" title="Torrent VPN Service">Torrent VPN</a></li>
+          <li><a href="anonymoustorrentvpn.php" title="Torrent VPN Service">Torrent VPN</a></li>
           <li><a href="http://torguard.net/anonymous-email.php" title="Anonymous Email">Anonymous Email</a></li>
+
         </ul>
       </div>
       <div class="sitemap">
-        <h1>Extra Links</h1>
+        <h1>TorGuard Links</h1>
         <ul>		  <li><a href="faq.php" title="Frequently Asked Questions" target="_blank">FAQ Page</a></li>
-          <li><a href="vpn-dns-leak-test.php" title="TorGuard passes the DNS Leak Test" target="_blank">DNS Leak Test</a></li>
+           <li><a href="whats-my-ip.php" title="Whats My IP" target="_blank">Whats My IP</a></li>
           <li><a href="http://torguard.net/store" title="Buy DDWRT Routers" target="_blank">Buy DDWRT Routers</a></li>
           <li><a href="checkmytorrentipaddress.php" title="Check my Torrent IP">Check my Torrent IP</a></li>
-          <li><a href="prepaid-vpn.php" title="The TorGuard Reseller List">Pre-Paid VPN Service</a></li>
+          <li><a href="gettingstartedvpn.php" title="Getting Started">Getting Started</a></li>
         </ul>
       </div>
       <div class="sitemap">
@@ -417,7 +400,7 @@ judgment, we are obligated to do so under applicable laws.</p>
     	  <li><a href="vpn-reseller-affiliate.php" title="Affiliate System">Affiliate System</a></li>
           <li><a href="knowledgebase.php" title="Knowledgebase and How To's">Knowledgebase</a></li>
           <li><a href="submitticket.php" title="Submit a Support Request">Submit Ticket</a></li>
-          <li><a href="contact.php" title="Contact Us">Contact Us</a></li>
+          <li><a href="downloads.php" title="Downloads">Downloads</a></li>
           <li><a href="forum.php" title="TorGuard Member's Forum">Members Forum</a></li>
         </ul>
       </div>
@@ -428,34 +411,38 @@ judgment, we are obligated to do so under applicable laws.</p>
 </div>
 <div id="footerwrapper">
   <div class="wrapper">
+  
+  <div align="center">
+  <span class="st_googleplus_large" displaytext="Google +"></span>
+<span class="st_facebook_large" displaytext="Facebook"></span>
+<span class="st_twitter_large" displaytext="Tweet"></span>
+<span class="st_linkedin_large" displaytext="LinkedIn"></span>
+<span class="st_pinterest_large" displaytext="Pinterest"></span>
+<span class="st_email_large" displaytext="Email"></span> 
+</div>
+<br>
+
     <div class="footerC">
       
      <p><a href="vpnservice.php" title="VPN Service" class="noborderLT">VPN Service</a><a href="anonymousbittorrentproxy.php" title="torrent proxy">Torrent Proxy</a><a href="anonymoustorrentvpn.php" title="Anonymous Torrent VPN"> Bittorrent VPN</a><a href="voipvpnservices.php" title="VoIP VPN Service">VoIP VPN</a><a href="unblocknetflixvpn.php" title="Unblock Netflix">Unblock Netflix</a><a href="unblockfacebookvpn.php" title="Unblock Facebook" class="noborderRT">Unblock Facebook</a></p>
-     <p><a href="howtodownloadtorrentsanonymously.php" title="How to Bittorrent Anonymously" class="noborderLT">How to  Bittorrent Anonymously</a><a href="anonymoustorrentvpn.php" title="Anonymous VPN Service">Anonymous VPN </a><a href="checkmytorrentipaddress.php" title="Check My Torrent IP Address" class="noborderRT">Check your Torrent IP </a><a href="proxyvsvpn.php" title="Proxy vs VPN">Proxy vs VPN</a><a href="stealth-vpn.php" title="PPTP vs OpenVPN" class="noborderRT">Stealth VPN</a></p>
-     <p> <a href="torrentvpnservice.php" title="Torrent VPN Service" class="noborderLT">Torrent VPN</a><a href="iphonevpnservice.php" title="iPhone VPN Service">iPhone VPN </a><a href="ipadvpnservice.php" title="iPad VPN Service" class="noborderRT">iPad VPN </a><a href="androidvpnservice.php" title="Android VPN Service">Android VPN</a><a href="unblockpandoravpn.php" title="Unblock Pandora" class="noborderRT">Unblock Pandora</a><a href="anonymous-proxy.php" title="Unblock Pandora" class="noborderRT">Anonymous Proxy</a></p>
+     <p><a href="howtodownloadtorrentsanonymously.php" title="How to Bittorrent Anonymously" class="noborderLT">How to  Bittorrent Anonymously</a><a href="anonymoustorrentvpn.php" title="Anonymous VPN Service">Anonymous VPN </a><a href="checkmytorrentipaddress.php" title="Check My Torrent IP Address" class="noborderRT">Check your Torrent IP </a><a href="proxyvsvpn.php" title="Proxy vs VPN">Proxy vs VPN</a><a href="stealth-vpn.php" title="Stealth VPN" class="noborderRT">Stealth VPN</a><a href="buy-vpn.php" title="Buy VPN" class="noborderRT">Buy VPN</a></p>
+          <p> <a href="torrentvpnservice.php" title="Torrent VPN Service" class="noborderLT">Torrent VPN</a><a href="iphonevpnservice.php" title="iPhone VPN Service">iPhone VPN </a><a href="ipadvpnservice.php" title="iPad VPN Service" class="noborderRT">iPad VPN </a><a href="androidvpnservice.php" title="Android VPN Service">Android VPN</a><a href="unblockpandoravpn.php" title="Unblock Pandora" class="noborderRT">Unblock Pandora</a><a href="anonymous-proxy.php" title="Anonymous Proxy" class="noborderRT">Anonymous Proxy</a></p>
     </div>
     <div class="clr"></div>
-   <div class="copyright">© Copyright <a href="http://torguard.net" target="_blank"><font color="#FFFFFF">TorGuard.net </font></a> 2013. All rights reserved.<br></div>
-   
+   <div class="copyright">© Copyright <a href="http://torguard.net" target="_blank"><font color="#FFFFFF">TorGuard.net </font></a> 2014. All rights reserved.<br></div><br> 
    
    
     <div class="clr"></div>
   </div>
+<br>
+   
+   <center>
+   <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> </center> 
 </div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35040022-1']);
-  _gaq.push(['_setDomainName', '.https://www.torguard.net']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 
 
 
