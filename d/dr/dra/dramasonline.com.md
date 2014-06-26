@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dramasonline.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223153632id_/http%3A//www.dramasonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramasonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213821id_/http%3A//www.dramasonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Pakstani Dramas Online in High Quality
+# Privacy Policy | Watch Pakstani Dramas Online in High Quality <script> // Load the SDK Asynchronously (function(d){ var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0]; if (d.getElementById(id)) {return;} js = d.createElement('script'); js.id = id; js.async = true; js.src = "//connect.facebook.net/en_US/all.js"; ref.parentNode.insertBefore(js, ref); }(document)); </script> <script> (function(d, t) { var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'Your external javascript code'; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ###  Privacy Policy 
 
