@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813175805id_/http%3A//www.arizonahighways.com/contact/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054755id_/http%3A//www.arizonahighways.com/contact/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Arizona Highways Magazine
 
