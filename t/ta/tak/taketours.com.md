@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163044id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080516id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TakeTours
 
