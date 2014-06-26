@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckynuggetcasino.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229154050id_/http%3A//www.luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynuggetcasino.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051053id_/http%3A//www.luckynuggetcasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # The Lucky Nugget Online Casino – Security and Privacy
 
@@ -48,7 +48,7 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20131229154050id_/http%3A//www.luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20140626051053id_/http%3A//www.luckynuggetcasino.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
 
 ## Right to use the Software
 
