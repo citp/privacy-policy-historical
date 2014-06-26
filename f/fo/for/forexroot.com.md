@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615050328id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexroot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025537id_/http%3A//www.forexroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Root
 
