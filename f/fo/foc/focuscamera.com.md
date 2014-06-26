@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the focuscamera.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014212508id_/https%3A//www.focuscamera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focuscamera.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034631id_/https%3A//www.focuscamera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Focus Camera
+
+
+
 
 At Focus Camera Inc, the privacy and protection of your personal and financial information is very important to us. That's why we've created this privacy statement, which fully describes our information gathering and dissemination practices. It's the best way we can demonstrate our firm commitment to your privacy.
 
