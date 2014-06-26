@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backstage.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230004021id_/http%3A//www.backstage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backstage.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626022438id_/http%3A//www.backstage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         
@@ -26,12 +26,23 @@
         
         
         
-        <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1580366700000/200838.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        
+        
+<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1580366700000/200838.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">
+    var esi_user_authenticated = false;
+    var esi_user_has_castingcalls = false;
+    var esi_nav_thumbnail = null;
+    
+    
+        var esi_profile_view_url = null;
+    
+
+    var esi_targeting_user_state = "anon";
+</script>
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
         <script type="text/javascript" src="http://cdn-static.backstage.com/static/js/jquery.ui.touch-punch.min.js" defer="" async=""></script>
-        
-            
-        
 
         
 
@@ -54,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 var newsletter = newsletter | {};
-newsletter.enabled = false;
+newsletter.enabled = true;
 */
 
 var newsletter = newsletter || {};
@@ -65,25 +76,10 @@ newsletter.url = 'http://offers.backstage.com/newsletter-signup-2013-08-14';
 newsletter.fancybox_url = 'http://cdn-static.backstage.com/static/js/jquery.fancybox.js';
 newsletter.width = 600;
 newsletter.height = 606;
+newsletter.enabled = true;
 //newsletter.enabled = true;
-newsletter.enabled = false;
 
 </script>
-        
-            
-            
-<script type="text/javascript">var switchTo5x = true;</script>
-<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">
-    stLight.options({
-        publisher:"4d2ca103-3b10-40c2-8083-b850d05fbbd0",
-        doNotHash:true,
-        onhover: false
-    });
-</script>
-
-
-        
         <script type="text/javascript">
             var dfp_ads = [];
         </script>
@@ -167,29 +163,35 @@ newsletter.enabled = false;
                     <a href="https://twitter.com/Backstage" target="_blank" onclick="trackOutboundLink(this, 'Top Nav Outbound Links', 'Backstage Twitter Account'); return false;">Follow us on Twitter</a>
                   </li>
                   <li class="user"><a href="/casting/talent/">Find Talent</a></li>
-                  <li class="user">
-                      
-                      
-
-    
-
-
-    <script>
-        $(document).ready(function(){
-            googletag.cmd.push(function () {
-                googletag.pubads().setTargeting("user_state", "anon");
-            });
-        });
-    </script>
-</li><li class="user">
-  <a href="/accounts/subscribe/" style="font-weight:bold;color:#DB2327;">JOIN</a>
-</li>
-<li class="user">
-  <a href="/accounts/">LOG IN</a>
-</li>
-  <input type="hidden" id="logged_in_user" name="logged_in_user" value="no">
-
-
+                  <li class="user" id="header_user_dropdown">
+                      </li><li class="user esi_authenticated_show" id="user_menu">
+                          <a class="menuDownArrow" href="/accounts/manage/">My Account</a>
+                          <div class="utility-dropdown" style="display:none">
+                              <ul>
+                                  <li style="padding: 0;">
+                                      <a href="/casting/profile/details/" style="padding: 10px;">Edit Profile</a>
+                                  </li>
+                                  <li style="padding: 0;">
+                                      <a href="/casting/manage/" style="padding: 10px;">My Posted Jobs</a>
+                                  </li>
+                                  <li style="padding: 0;">
+                                      <a href="/accounts/manage/" style="padding: 10px;">Account Settings</a>
+                                  </li>
+                                  <li style="padding: 0;">
+                                      <a href="http://help.backstage.com/" style="padding: 10px;">Help</a>
+                                  </li>
+                                  <li style="padding: 0;">
+                                      <a href="/accounts/logout/" style="padding: 10px;">Logout</a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </li>
+                      <li class="user esi_authenticated_hide">
+                          <a href="/accounts/subscribe/" style="font-weight:bold;color:#DB2327;">JOIN</a>
+                      </li>
+                      <li class="user esi_authenticated_hide">
+                          <a href="/accounts/">LOG IN</a>
+                      </li>
                   
                 </ul>
                 <div class="search">
@@ -275,7 +277,7 @@ newsletter.enabled = false;
             <div id="inside-backstage">
     <ul>
         <li class="inside"><img src="http://cdn-static.backstage.com/static/images/header-inside.gif" alt="Inside Backstage" width="143" height="16"></li>
-        <li class="sag"><a href="/news/old-auditions-calendar/">Auditions Calendar</a></li>
+        <li class="sag"><a href="/auditions/">Auditions Calendar</a></li>
         <li class="agent"><a href="/advice-for-actors/first-person/">First Person</a></li>
         <li class="spotlight"><a href="/advice-for-actors/backstage-experts/">Backstage Experts</a></li>
         <li class="who"><a href="/advice-for-actors/secret-agent-man/">Secret Agent Man</a></li>
@@ -285,10 +287,10 @@ newsletter.enabled = false;
 
 <div id="drip-pan">
   <ul>
-    <li><span class="tag"><a href="/news/">News</a><span></span></span><a href="/news/old-auditions-calendar/upcoming-auditions/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/regional_auditions_at_a_glance_6.jpg.300x207_q100.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/news/old-auditions-calendar/upcoming-auditions/" class="text">Upcoming Auditions at a Glance</a></li>
-    <li><span class="tag"><a href="/news/">News</a><span></span></span><a href="/news/12-days-actor-christmas/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/Arnold-Christmas.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/news/12-days-actor-christmas/" class="text">The 12 Days of Actor Christmas</a></li>
-    <li><span class="tag"><a href="/interview/">Interview</a><span></span></span><a href="/interview/4-things-know-about-being-replacement-ron-raines/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/Ron.raines.as.Daddy.Warbucks.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/interview/4-things-know-about-being-replacement-ron-raines/" class="text">4 Things to Know About Being a Replacement From Ron Raines</a></li>
-    <li class="last"><span class="tag"><a href="/news/">News</a><span></span></span><a href="/news/17-great-actors-who-have-never-won-oscars/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/Julianne-Moore_GettyImages.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/news/17-great-actors-who-have-never-won-oscars/" class="text">17 Great Actors Who Have Never Won Oscars</a></li>
+    <li><span class="tag"><a href="/news/">News</a><span></span></span><a href="/auditions-redirect/upcoming-auditions/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/regional_auditions_at_a_glance_6.jpg.300x207_q100.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/auditions-redirect/upcoming-auditions/" class="text">Upcoming Auditions at a Glance</a></li>
+    <li><span class="tag"><a href="/news/">News</a><span></span></span><a href="/news/13-inspirational-tv-quotes-actors/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/fbd717a1-34d0-3d62-1fa6-85f238489209_MMS3_Gallery_Don_0431.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/news/13-inspirational-tv-quotes-actors/" class="text">13 Inspirational TV Quotes for Actors</a></li>
+    <li><span class="tag"><a href="/advice-for-actors/">Advice</a><span></span></span><a href="/advice-for-actors/secret-agent-man/5-questions-ask-potential-manager/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/SAM_0619_PeteMcDonnell.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/advice-for-actors/secret-agent-man/5-questions-ask-potential-manager/" class="text">5 Questions to Ask a Potential Manager</a></li>
+    <li class="last"><span class="tag"><a href="/advice-for-actors/">Advice</a><span></span></span><a href="/advice-for-actors/casting-director-note/sign-good-acting-teacher/" class="image"><img alt="" src="http://cdn-media.backstage.com/files/media/uploads/zinnia/Note_0619_NickBertozzi.jpg.207x139_q90_crop-0,0_upscale.jpg"></a><a href="/advice-for-actors/casting-director-note/sign-good-acting-teacher/" class="text">The Sign of a Good Acting Teacher</a></li>
   </ul>
   <div class="breaker"></div>
 </div>
@@ -311,7 +313,7 @@ newsletter.enabled = false;
             
             
                 <div class="content" style="margin-bottom:60px;">
-                <p>© 2013 Backstage. All rights reserved.
+                <p>© 2014 Backstage. All rights reserved.
                     <a href="/terms-of-service/">Terms of Use</a> |
                     <a href="/privacy-policy/">Privacy Policy</a> |
                     <a href="/about-us/">About Us</a> |
@@ -352,23 +354,79 @@ olark.identify('2234-135-10-2879');
         </div>
 
         
-                
-                <script type="text/javascript" src="http://cdn-static.backstage.com/static/js/newsletter.js" defer="" async=""></script>
-
-            
 
         <script type="text/javascript">
-            $(document).ready(function(){
-                $('#user_menu').mouseover(function() {
-                    $('.utility-dropdown').show();
-                });
-                $('#user_menu').mouseout(function() {
-                    $('.utility-dropdown').hide();
-                });
+            $(document).ready(function () {
+                // Handle general ESI changes
+                if (esi_user_authenticated) {
+                    $('#user_menu').mouseover(function() {
+                        $('.utility-dropdown').show();
+                    });
+                    $('#user_menu').mouseout(function() {
+                        $('.utility-dropdown').hide();
+                    });
+                    $('.esi_authenticated_show').removeClass('esi_authenticated_show');
+                    $('.esi_authenticated_hide').hide();
+
+                    if(esi_nav_thumbnail) {
+                        $('#user_menu a.menuDownArrow').prepend("<img src='"+esi_nav_thumbnail+"' id='nav_thumbnail'>");
+                    }
+                } else {
+                    $('.esi_authenticated_show').hide();
+                    $('.esi_authenticated_hide').removeClass('esi_authenticated_hide');
+                }
             });
         </script>
-    
+        <script type="text/javascript">
+/*
+document.addEventListener('DOMContentLoaded', function() {
+    if (newsletter.cookie.get('ws_video') != 1){
+      $.getScript('http://cdn-static.backstage.com/static/js/jquery.fancybox.js', function(data, textStatus, jqxhr){
+        $.fancybox({
+            href: 'http://issues.backstage.com/slp_video.html',
+            type: 'iframe',
+            margin: 0,
+            padding: 0,
+            width: 600,
+            height: 400,
+            scrolling: 'no'
+        });
+      });
+     newsletter.cookie.set('ws_video', 1, 1);
+    }
+});
+var newsletter = newsletter | {};
+newsletter.enabled = true;
+*/
 
+var newsletter = newsletter || {};
+newsletter.interval = 7;
+newsletter.delay = 6;
+newsletter.pages = 2;
+newsletter.url = 'http://offers.backstage.com/newsletter-signup-2013-08-14';
+newsletter.fancybox_url = 'http://cdn-static.backstage.com/static/js/jquery.fancybox.js';
+newsletter.width = 600;
+newsletter.height = 606;
+newsletter.enabled = true;
+//newsletter.enabled = true;
+
+</script>
+        
+            
+                <script type="text/javascript">var switchTo5x = true;</script>
+                <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+                <script type="text/javascript">
+                    stLight.options({
+                        publisher:"4d2ca103-3b10-40c2-8083-b850d05fbbd0",
+                        doNotHash:true,
+                        onhover: false
+                    });
+                </script>
+            
+        
+        
+            <script type="text/javascript" src="http://cdn-static.backstage.com/static/js/newsletter.js" defer="" async=""></script>
+        
         
     <script type="text/javascript">
         window.fbAsyncInit = function() {
@@ -425,8 +483,7 @@ olark.identify('2234-135-10-2879');
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript';
         ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
-                'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0];
         s.parentNode.insertBefore(ga, s);
     })();
@@ -461,26 +518,26 @@ olark.identify('2234-135-10-2879');
 <!-- End of Async HubSpot Analytics Code -->
 
 
-
 <script type="text/javascript">
-    // Really
-    adroll_adv_id = "7QSX3T465ZDFFPQNHVQRFU";
-    adroll_pix_id = "IRZEF4TOYRCYRNXG5KCLKU";
-    (function () {
-        var oldonload = window.onload;
-        window.onload = function(){
-          __adroll_loaded=true;
-          var scr = document.createElement("script");
-          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-          scr.setAttribute('async', 'true');
-          scr.type = "text/javascript";
-          scr.src = host + "/j/roundtrip.js";
-          ((document.getElementsByTagName('head') || [null])[0] ||
-            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-          if(oldonload){oldonload()}};
-    }());
+    if(!esi_user_authenticated) {
+        // Really
+        adroll_adv_id = "7QSX3T465ZDFFPQNHVQRFU";
+        adroll_pix_id = "IRZEF4TOYRCYRNXG5KCLKU";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function(){
+              __adroll_loaded=true;
+              var scr = document.createElement("script");
+              var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+              scr.setAttribute('async', 'true');
+              scr.type = "text/javascript";
+              scr.src = host + "/j/roundtrip.js";
+              ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+              if(oldonload){oldonload()}};
+        }());
+    }
 </script>
-
 
 <!--*******************************************-->
 <!--************ END ANALYTICS BLOCK **********-->
@@ -501,6 +558,9 @@ olark.identify('2234-135-10-2879');
                 var node = document.getElementsByTagName('script')[0];
                 node.parentNode.insertBefore(gads, node);
             })();
+            googletag.cmd.push(function () {
+                googletag.pubads().setTargeting("user_state", esi_targeting_user_state);
+            });
             googletag.cmd.push(function () {
                 googletag.pubads().enableSingleRequest();
                 googletag.pubads().collapseEmptyDivs();
