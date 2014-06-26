@@ -1,225 +1,107 @@
-> *The following text is extracted and transformed from the swingtowns.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201215id_/http%3A//www.swingtowns.com/members/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingtowns.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124342id_/http%3A//www.swingtowns.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement of SwingersTownUSA
+# Swingtowns.com
 
-****
+Privacy Policy for _[www.SWINGTOWNS.com](http://www.swingtowns.com/)_
 
-**_ _ Privacy Statement of SwingersTownUSA.com Inc. **
+Last Updated: December 17, 2007
 
-**Information about our Organization and Web site**
+**I. General**
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like SwingersTownUSA.com Inc. . We are based in USA . Our principal activity is creating a forum where adult internet users can meet and play in a safe environment. Our privacy policy covers SwingersTownUSA.com Inc. and its Web sites: ****
+A. The operative parties referred to in this Privacy Policy (“Policy”) are Street Ink Corporation (“Street Ink” or “COMPANY”) and you, the user of this site.
 
-** Organization Name:  | SwingersTownUSA.com Inc.   
----|---  
-Controller:  | SwingersTownUSA.com Inc.   
-Web Site(s):  |   
-**
+1\. COMPANY -- COMPANY is the publisher of _[www.swingtowns.com](http://www.swingtowns.com/)_. Hereinafter, when first-person pronouns are used in this Policy, (us, we, our, ours, etc.) they are referring to COMPANY or _[www.swingtowns.com](http://www.swingtowns.com/)_. Additionally, when the terms “Website” or is used, this term refers to _[www.swingtowns.com](http://www.swingtowns.com/)_. Hereinafter, The COMPANY shall be referred to as Website, or will be referred to in first-person, plural, pronouns.
 
-**The services and links of our Web sites**
+2\. **You, the User** – As the user of this Website, this policy will refer to the user as “You” or through any second-person pronouns, such as “Yours,” etc. Hereinafter, the user of the Website shall be referred to in applicable second-person pronouns.
 
-Our Web sites enable you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data. Our Web sites do not include links to third party Web service providers. We do, however, link to 3rd party payment processors including:
+B. This Privacy Policy describes how We use information received about You when You visit Our Website or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Website. 
 
-  * **[ http://www.authorize.net](http://www.authorize.net/) **
-  * **[ http://www.paypal.com](http://www.paypal.com/)**
-  * **[ http://www.paybycheck.com](http://www.paybycheck.com/)**
+**II. Revisions to this Policy**
 
+1\.         From time to time, We may revise this Policy. We reserve the right to do so, and You agree that We have this unilateral right. You agree that all modifications or changes to this Policy are in force and enforceable immediately upon posting. The updated or edited version supersedes any prior versions immediately upon posting, and the prior version is of no continuing legal effect unless the revised version specifically refers to the prior version and keeps the prior version or portions thereof in effect.
 
+2.         We agree that if We change anything in this Policy, We will change the “last modified date” at the top of this Policy. You agree to re-visit this web page on a **weekly** basis, and to use the “refresh” button on Your browser when doing so. You agree to note the date of the last revision to this Policy. If the “last modified” date remains unchanged from the last time You reviewed this Policy, then You may presume that nothing in the Policy has been changed since the last time You read it. If the “last modified” date has changed, then You can be certain that something in the Policy has been changed, and You agree that You will re-review the Policy in its entirety and that You will agree to its terms or immediately cease use of any websites in the Network.
 
-**Automatic Collection of Information**
+3.         **Waiver** – if You fail to re-review this Policy as required to determine if any of the terms have changed, You assume all responsibility for such omissions and You agree that such failure amounts to Your affirmative waiver of Your right to review the amended terms. We are not responsible for Your neglect of Your legal rights. 
 
-We automatically log personal data by means such as programming or we link information automatically logged by such means with personal data about specific individuals. We do so for the following purposes: 
+**III. Personal information that We collect**
 
-  * Technical administration of the Web site 
-  * Research and development 
-  * Customer administration 
-  * Marketing 
-  * Financial Identifiers 
-  * Physical and Personal Details 
-  * Lifestyle and Personal Taste 
+When using Our Website, You will register as a Member, an Upgraded Subscriber, an Affiliate or You may create a Member Profile. Depending upon how You register, We will collect different information about You. The type of information collected is as follows:
 
+A. **Username, Password, Email Address, and Gender/Sexual Information;**
 
+B. **Name, Credit Card Information, Street Address, City, Country, Postal Code, Age, Email Address;**
 
-We use cookies to store personal data or we link information stored in cookies with personal data about specific individuals. We do so for the following purposes: 
+C. **Telephone Number, Fax Number; and**
 
-  * Technical administration of the Web site 
-  * Customer administration 
-  * Solvency, Credibility 
+D. **Age, Geographic Location, Hair Color, Eye Color, Body Shape, Race, Height, Self-Description, Gender and Other Information regarding Your sexuality and the sexual experience You are seeking or any other information You volunteer into Your profile.**
 
+**IV. How We collect information from You**
 
+A. **We collect information on the following pages:**
 
-**Data Collection and Purpose Specification**
+1\. Member Registration Page
 
-We collect the personal data that you may volunteer while using our services. 
+2\. Upgraded Subscription Registration Page
 
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
+3\. Login Page
 
-To access the table of personal data collected and purposes for which they are used, please ** click here  **
+4\. _Member_ Profile
 
-We do not collect or use personal data for any purpose other than that indicated in the table below. 
+5\. Affiliate Registration Page
 
-**Disclosure and Visitor Choice**
+B **. Passive Collection** – We use cookies to collect information about You in order to promote the products or Websites of COMPANY or other third party business associates, as well as to enhance Your experience on the Website. The information collected in Our cookies includes, but is not limited to, Your user IP address, Your browser information, Your browser geographic location, and Your username and password used at login, Your instant messenger username, and other session data. 
 
-We disclose our visitors' personal data to our subsidiaries or other organizations. Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure.
+C. **Active Collection** – We collect information from You when You complete registration forms to sign up for Your membership on Our Website. Locations for such collection are listed above, but We reserve the right to add additional information collection portals. We also reserve the right to collect personal information from You each time You access Our Website through birthdate verification procedures. 
 
-**Confidentiality / Security**
+D. **Additional Collection** – We log all movements of Our Members on each page they visit for the purpose of solving any technical problems, or for verifying Member activity or inactivity for legal or business purposes such as to respond to valid requests from law enforcement or other court-ordered disclosure and/or for purposes of evaluating the propriety of any requested refunds or claims of non-use of our services. 
 
-We give you the option of using a secure transmission method to send us identifiers (such as credit card details, Web site password) 
+**V**. **How We use Your information**
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from: 
+The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services to You. 
 
-  * unauthorized access 
-  * improper use or disclosure 
-  * unauthorized modification 
-  * unlawful destruction or accidental loss 
+We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for subscription services. We also use Your information for market research purposes – in order to increase Your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
 
+**VI.** **Special Cases**. 
 
+It is Our policy not to use or share the personal information about Visitors or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Visitors or Members, or information regarding Your use of the Services or Web sites accessible through our Services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law, other regulation, or moral obligation. 
+1\. To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; 
 
-**  
+2\. To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating Our Acceptable Use Policy or other user policies; 
 
-Access to the personal data we may hold about you 
+3\. To operate Our Services properly; 
 
-**
+4\. To protect Ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
 
-You can ask us, by visiting **[ http://www.swingtowns.com/help](http://www.swingtowns.com/help)** whether we are keeping personal data about you. 
+5\. We may cooperate with law enforcement authorities, private-party litigants, and others seeking information about Our end users to the extent required by applicable law. Examples of such cooperation may include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
 
-Upon request, we will provide you with a readable copy of the personal data which we keep about you,  within a week. - although we may before require proof of your identity -. We will provide the information  without any charge. 
+**VII.** **Transmittals from Us**
 
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
+We may send You periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. 
 
-  * erased 
-  * rectified or amended 
-  * completed 
+If You provide Your information to Us, use the Website, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
 
+**VIII.** **Photographs,** **Public Forums, Member Directories, and Internal Messaging:**
 
+A. **Photographs** – Any photographs, images or graphics posted by You to the Website should immediately be considered available for viewing by the public. We do not, can not, and will not act to maintain the privacy of any such material that You provide in any such medium. You are responsible for the viewing of any photographs that You upload into Your albums on the Website. If at any point a photograph of Yours was uploaded into an album other than Your Private Album, it should be considered available for viewing by the public.
 
-We reserve the right to refuse to provide our visitors with a copy of their personal data,  but will give reasons for our refusal. 
+B. **Public Forums** – Any information posted to a Forum, Message Board or Chat Room/Group should immediately be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
 
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data. 
+C. **Member Directories** – Any information provided in a user profile, member directory, or other related service should be considered to be public information. We do not, can not, and will not act to maintain the privacy of any information that You provide in any such forum or medium.
 
-Primary personal data/Business information volunteered by each visitor  is used for: 
+D. **Internal Messaging** – We provide an internal messaging system for use between members of Our Website. Any information that You send via this internal messaging system is not secure, and is not considered to be private information. You should use caution when sending any personal information over the internal messaging system, and You should not transmit any information that You would not wish to see disclosed to the general public. 
 
-| Technical administration of the Web site  | Research &development  | Customer Administration  | Marketing   
----|---|---|---|---  
-Name  | No | 
+**IX.** **Our Commitment to Data Security.**
 
-No
+We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party “hackers” from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that Our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures. 
 
-| 
+**X.** **How to Access or Modify Your Information**. 
 
-Yes
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact Our Customer Service Department at _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_.
 
-| 
+**XI.** **Where to Direct Questions About Our Privacy Policy**.
 
-No  
-  
-Gender  | 
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_.
 
-Yes
-
-| 
-
-Yes
-
-| 
-
-Yes
-
-| 
-
-Yes  
-  
-Address  | No | No | Yes | 
-
-No  
-  
-E-mail address  | 
-
-Yes
-
-| 
-
-No
-
-| 
-
-Yes
-
-| 
-
-No  
-  
-Phone/Fax number  | No | No | Yes | 
-
-No  
-  
-Other personal details and profiling data volunteered by each visitor  is used for:
-
-| Technical administration of the Web site  | Research & development  | Customer Administration  | Marketing   
----|---|---|---|---  
-Personal details  | Yes | No | 
-
-Yes
-
-| 
-
-No  
-  
-Physical description | Yes | No | 
-
-Yes
-
-| 
-
-No  
-  
-Family characteristics  | Yes | 
-
-Yes
-
-| 
-
-Yes
-
-| 
-
-Yes  
-  
-Life style or personal tastes  | Yes | Yes | Yes | Yes  
-  
-Identifiers volunteered by each visitor is used for:
-
-| Technical administration of the Web site  | Customer Administration   
----|---|---  
-On-line identifiers  | Yes | 
-
-Yes  
-  
-Financial identifiers  | 
-
-No 
-
-| 
-
-Yes  
-  
-identifiers assigned by Public bodies  | 
-
-No 
-
-| 
-
-Yes  
-  
-Specific Data volunteered by each visitor is used for:
-
-| Customer Administration  | Marketing   
----|---|---  
-Racial or ethnic origin  | Yes | Yes  
-Sex life  | Yes | Yes  
-  
-* * *
-
-_With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, SwingTowns is regulated by the Federal Trade Commission (FTC). You can obtain information about the FTC at **[http://www.ftc.gov](http://www.ftc.gov/)**._
+**\- End -**
