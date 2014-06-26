@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235705id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063554id_/http%3A//www.jancisrobinson.com/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Jancis Robinson.com | Fine Wine Writing, Wine Reviews & Tasting Notes from Jancis Robinson
 
