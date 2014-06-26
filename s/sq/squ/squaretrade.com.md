@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015071256id_/http%3A//www.squaretrade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033046id_/http%3A//www.squaretrade.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SquareTrade
 
 **1\. Purpose of Privacy Policy**
 
-This privacy policy (“ **Privacy Policy** ”) describes how SquareTrade, Inc. and its related companies (“ **SquareTrade** ”) collect, use, and share personal information of consumer users of their websites, [www.squaretrade.com](https://www.squaretrade.com/), [www.squaretrade.co.uk](https://www.squaretrade.co.uk/), [http://m.squaretrade.com](http://m.squaretrade.com/) and [www.squaretrade.de](https://www.squaretrade.de/) (collectively the “Sites” and each individually a “Site”). This Privacy Policy explains our online information practices regarding the collection of information that we collect about you, how we use that information and the choices that you can make regarding your personal information. This Privacy Policy does not apply to websites, applications, or services that do not display or link to this statement or that display or link to different privacy statements. 
-
-SquareTrade, Inc. has been awarded TRUSTe's Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through [www.squaretrade.com](https://www.squaretrade.com/) and does not cover information that may be collected behind the log in on our website or through our mobile apps.
-
-TRUSTe's mission, as an independent third party, is to increase online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding SquareTrade's privacy policy or practices, please contact us at [privacy@squaretrade.com](mailto:privacy@squaretrade.com). If you are not satisfied with our response you can contact [TRUSTe here](http://truste.org/consumers/watchdog_complaint.php).
+This privacy policy (" **Privacy Policy** ") describes how SquareTrade, Inc. and its related companies (" **SquareTrade** ") collect, use, and share personal information of consumer users of their websites, [www.squaretrade.com](http://www.squaretrade.com/), [www.squaretrade.co.uk](http://www.squaretrade.co.uk/), [http://m.squaretrade.com](http://m.squaretrade.com/) and www.squaretrade.de (collectively the "Sites" and each individually a "Site"). This Privacy Policy explains our online information practices regarding the collection of information that we collect about you, how we use that information and the choices that you can make regarding your personal information. This Privacy Policy does not apply to websites, applications, or services that do not display or link to this statement or that display or link to different privacy statements. If you have questions or complaints regarding SquareTrade's privacy policy or practices, please contact us at [privacy@squaretrade.com](mailto:privacy@squaretrade.com).
 
 **2\. U.S. - EU Safe Harbor Privacy Statement.**
 
 We comply with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. We have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SquareTrade's certification, please visit <http://www.export.gov/safeharbor/>.
+
+**Dispute Resolution**   
+If you have questions or concerns regarding this Policy, you should first contact [privacy@squaretrade.com](mailto:privacy@squaretrade.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), or by fax at 415-520-3420 or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
 **3\. Information We Collect.**
 
@@ -62,9 +61,9 @@ Our policy only addresses the use and disclosure of information we collect from 
 
 **6\. Choice/Opt Out.**
 
-By registering on our Sites or over the phone, you agree to receive marketing communications from SquareTrade (including but not limited to newsletters, e-mail, direct mail, phone calls, etc.) and will also be automatically enrolled in SquareTrade’s Rewards Program. 
+By registering on our Sites or over the phone, you agree to receive marketing communications from SquareTrade (including but not limited to newsletters, e-mail, direct mail, phone calls, etc.) and will also be automatically enrolled in SquareTrade's Rewards Program. 
 
-You may opt out of receiving our newsletter and/or marketing and promotional communications from SquareTrade at any time by (a) clicking on the “unsubscribe” link that appears in all of our emails; (b) by changing the communication preferences for your account by going to the My Profile page at [www.squaretrade.com/my-profile](https://web.archive.org/my-profile) or (c) by contacting us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com). To specifically opt out of the SquareTrade Rewards Program, please contact us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com).
+You may opt out of receiving our newsletter and/or marketing and promotional communications from SquareTrade at any time by (a) clicking on the "unsubscribe" link that appears in all of our emails; (b) by changing the communication preferences for your account by going to the My Profile page at [www.squaretrade.com/my-profile](https://web.archive.org/my-profile) or (c) by contacting us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com). To specifically opt out of the SquareTrade Rewards Program, please contact us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com).
 
 If you opt out, we may still send you non-promotional emails, such as emails about your accounts, our ongoing business relations, or to respond to requests and inquiries.
 
@@ -80,4 +79,4 @@ We welcome your comments or questions about this Privacy Policy or the practices
 
 We may change our Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will change the “Last Updated” date below.
 
-Last updated 9-05-2013 
+Last updated 2-05-2014 
