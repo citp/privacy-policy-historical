@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107105739id_/http%3A//www.tipalti.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143506id_/http%3A//www.tipalti.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Tipalti > PrivacyPolicy
+# Privacy Policy | Tipalti.com
 
 Tipalti Solutions Ltd. (" **Tipalti** " or " **we** ") is providing this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information we receive when you visit the www.Tipalti.com website (the " **Site** "), and when you use any part of our services via our Site or on the websites of our partners or other third parties (collectively, the " **Services** "). By entering the Site, you fully understand and unambiguously consent to the collection and processing of such information and to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must not use the Site or any available Services.
 
