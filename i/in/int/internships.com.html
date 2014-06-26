@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internships.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222044039id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internships.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626152153id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -16,9 +16,9 @@
         window.appEnv = 'PROD';
     </script>
 
-    <script src="/static/js/bundles/init?v="></script>
+    <script src="/static/js/bundles/init?v=9PTORsdpRMnnkE2EcGFH-dEjuE-YYX-91ZSTnS3IxTI1"></script>
 
-    <script src="/static/js/bundles/jquery?v=QQrW72dS8dX6eTfYOuFlQh-Dv5N4SITLB_SJQQxDMd81"></script>
+    <script src="/static/js/bundles/jquery?v=XvLbc8lRBs3LnqcU2vDiaP3kRleL0l8LCgib8seiESI1"></script>
 
     <style type="text/css">
         @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic);
@@ -32,7 +32,7 @@
           font-style: normal;
         }
     </style>
-    <link href="/static/css/bundles/lib?v=v0VNu2n4m_xJhKIsbfIpc-wRZj5ZcIMsMZdLS3nlw7c1" rel="stylesheet">
+    <link href="/static/css/bundles/lib?v=zEpYUWHxE35EHfBc2xjANiDcMB4qOY1QDJkfj_v1gzQ1" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="/static/css/IDC.less">
     <link rel="stylesheet" type="text/css" href="/static/css/controllers/About.less">
@@ -86,7 +86,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="span4">
             <h4>Locations</h4>
             <br>
-            <a href="/new-york-ny">Internships in New York</a><br>
+            <a href="/new-york-ny">Internships in New York City</a><br>
             <a href="/los-angeles-ca">Internships in Los Angeles</a><br>
             <a href="/chicago-il">Internships in Chicago</a><br>
             <a href="/boston-ma">Internships in Boston</a><br>
@@ -181,7 +181,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 window.initializeFormWidgets($modalContainer);
 
                 $('h3 small').toggle($this.data('entity-type') == undefined || $this.data('entity-type') != 'student');
-                $('form', $modalContainer).AjaxifyForm({});
+                $('form', $modalContainer).AjaxifyForm({
+                    success: function() {
+                        _gaq.push(['_trackEvent', window.pageCampaign, 'Nav - Signup Complete', 'Student']);
+                    }
+                });
             });
         });
     });
@@ -363,7 +367,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div class="span12">
                 <div class="copyright">
                     <img src="https://dzslrzrlge7x0.cloudfront.net/site/images/ftr_logo.png" height="40" style="vertical-align: middle;"><br>
-                    Internships.com® is a service provided by © 2013 CareerArc Group LLC.  
+                    Internships.com® is a service provided by © 2014 CareerArc Group LLC.  
                     All rights reserved. Patent Pending.&nbsp;&nbsp;|&nbsp;&nbsp;<a title="About Us" href="/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Site Map" href="/sitemap">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Terms of Service" rel="nofollow" href="/terms">Terms</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Privacy Policy" rel="nofollow" href="/privacy">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a title="Help" href="/help">Contact Us</a>&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/internships" target="_blank"><img src="https://dzslrzrlge7x0.cloudfront.net/whitelabel/socialbtn_twitter.png" style="height: 28px !important; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/internships.com" target="_blank"><img src="https://dzslrzrlge7x0.cloudfront.net/whitelabel/socialbtn_facebook.png" style="height: 28px !important; vertical-align: middle;"></a><a href="//plus.google.com/102059960287129493828?prsrc=3" rel="publisher" target="_blank" style="text-decoration: none; position: absolute; margin-left: 9px;">
                         <img src="https://dzslrzrlge7x0.cloudfront.net/whitelabel/socialbtn_gplus.png" style="height: 28px !important; vertical-align: middle;">
                     </a>
@@ -376,9 +380,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </footer>
 
-    <script src="/static/js/bundles/bootstrap?v=XNd6pU1n0xbo-s9cjMzqPyWq5l58hC9w8IhSzwBsyWc1"></script>
+    <script src="/static/js/bundles/bootstrap?v=V_mQCt3SGNDfB3eFn304EAimVGzG9n2MA6nEzpLPFxE1"></script>
 
-    <script src="/static/js/bundles/widgets?v=L2ARz4TrQUXKVIYiITOr6vKkaXy4EXilJd1D0kH2Acc1"></script>
+    <script src="/static/js/bundles/widgets?v=EzrATt2k-TMOpYhKgTV-08GUAnj4J4042g-QCXHFlTA1"></script>
 
     <script type="text/javascript">
         //initialize any vars that needs server substitution (the gaq values below should be appsettings by environment)
@@ -390,9 +394,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         window.pageCampaign = window.pageCampaign || 'about_privacy';
         window.pageLabel = window.pageLabel || '';
         window.FacebookApplicationId = '118877491477539';
-        var idcEnvironment = '';
     </script>
-    <script src="/static/js/bundles/foot?v=IYye8cE6Z07ljEX4jnaGLbty0CwPg7rOphwdSy8Qaqo1"></script>
+    <script src="/static/js/bundles/foot?v=kMcBog2JXVa5znl6jOItpTG1-3Xx8jAEL1J-Q0h8-OU1"></script>
 
     
     
@@ -458,34 +461,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             };
         }());
     </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-    <noscript>
+        <noscript>
         <img src="http://b.scorecardresearch.com/p?c1=2&c2=7521795&c3=&c4=&c5=&c6=&c15=&cj=1" />
     </noscript>
     <!-- End comScore Tag -->
-
-    <!-- SiteCatalyst code version: H.21.
-Copyright 1996-2010 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-
-<script type="text/javascript"><!--
-    /* You may give each page an identifying name, server, and channel on
-    the next lines.*/
-    s["pageName"] = 'about:privacy';
-
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code = s.t();
-    if (s_code) document.write(s_code);//--></script>
-<script type="text/javascript"><!--
-    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
-    //--></script>
-<noscript>
-    <a href="http://www.omniture.com" title="Web Analytics">
-        <img
-src="http://internships.122.2o7.net/b/ss//1/H.21--NS/0"
-height="1" width="1" border="0" alt="" /></a>
-</noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.21. -->
 
     <!-- Qualaroo for internships.com -->
     <!-- Paste this code right after the <body> tag on every page of your site. -->
