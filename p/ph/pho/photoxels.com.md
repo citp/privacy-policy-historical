@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203052753id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoxels.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112616id_/http%3A//www.photoxels.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - Photoxels - Digital Photography
+# Privacy Notice - Photoxels
 
 We work incredibly hard to ensure that the information contained within the pages of our site is accurate, relevant and of the highest quality. This privacy statement is written to demonstrate our firm commitment to your privacy.
 
@@ -32,7 +32,7 @@ You may be able to direct your internet browser not to allow cookies and you can
 
 Preference Based Advertising:
 
-We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at [www.aboutads.info](https://web.archive.org/web/20131203052753id_/http://www.photoxels.com/privacy/www.aboutads.info).
+We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at [www.aboutads.info](https://web.archive.org/web/20140626112616id_/http://www.photoxels.com/privacy/www.aboutads.info).
 
 Google Ads (Privacy Policy):
 
