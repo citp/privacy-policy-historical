@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527133942id_/http%3A//onepiece.com/us/shop/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepiece.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022612id_/http%3A//onepiece.com/en-us/shop/info/privacy) for the most accurate reproduction.*
 
-# Privacy policy - OnePiece
+# Privacy policy
 
-## Privacy policy
-
-### Payment
+## Payment
 
 We accept credit card payments with Visa and MasterCard. Your credit card will be charged with the full order amount as soon as the order is registered. Our credit card provider is DIBS, they will securely handle your personal and financial information. DIBS has a PCI (Payment Card Industry) certification, with is an extensive program which aims to increase the security for all parties that store, process and transmit data. Read more about DIBS at dibs.se. 
 
 We accept invoice payments with Klarna in Sweden, Norway, Denmark and Finland. Read more about Klarna at klarna.com. 
 
-### Information security
+## Information security
 
 In order to process your order, we will collect personal information about you (e.g. your name, e-mail address, shipping/billing address and phone number). Credit card information is only handled by our third-party credit card provider (DIBS). 
 
