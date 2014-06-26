@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221213537id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122442id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Solve Your Tech
 
