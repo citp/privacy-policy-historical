@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127081144id_/http%3A//www.tassimodirect.com/on/demandware.store/Sites-Tassimo-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093618id_/https%3A//www.tassimodirect.com/on/demandware.store/Sites-Tassimo-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Tassimo | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Effective Date: October 26, 2011
 
-This website is owned and operated by Kraft Foods Holdings, Inc. ("Kraft"). At TASSIMO, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We've prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website. 
+This website is owned and operated by Kraft Foods Holdings, Inc. ("Kraft"). At TASSIMO, we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. We've prepared this website Privacy Notice to address those concerns. This notice relates only to information collected through this website.
 
   * Types of Information We Collect
   * Personally Identifiable Information
@@ -32,12 +32,12 @@ This website is owned and operated by Kraft Foods Holdings, Inc. ("Kraft"). At T
   
 
 
-### Personally Identifiable Information 
+### Personally Identifiable Information
 
 On our website, we collect certain personally identifiable information about our online visitors. Personally identifiable information relates to an individual consumer - for example, name, address, telephone number and e-mail address. You may provide personally identifiable information, for example, by registering on our site or by entering a promotion. We don't require you to register or provide personally identifiable information to view our site or access much of its content. But if you register, you may use certain additional features like "TASSIMO Updates." Here are the ways we collect personally identifiable information.  
 Back To Top
 
-### Registration 
+### Registration
 
 To take full advantage of all our offerings, you may choose to register on our site. In the registration process, we request certain information (such as your contact information and age range) so we can provide you with the communications you request, tailor our website to better meet your needs and customize our contacts with you. We also may use the registration information you provide for other purposes to which you consent.  
 Back To Top
@@ -52,7 +52,7 @@ Back To Top
 When you ask us to send you information about our products and promotions by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.  
 Back To Top
 
-### "Contact Us" Link 
+### "Contact Us" Link
 
 If you e-mail us through the "Contact Us" link on this site, we ask you for information such as your first name and e-mail address so we can respond to your questions and comments. You may choose to provide additional information as well.  
 Back To Top
@@ -97,16 +97,16 @@ We may use the information you provide to contact you from time to time. For exa
 We also use personally identifiable information about you to improve our website features and content and to analyze website usage. In addition, we use personally identifiable information for market research purposes. We also may use Personally identifiable information about you to deliver content that is customized to your interests as we understand them from the information you've provided to us and your activities on the site. This customized content may include product information and promotions  
 Back To Top
 
-### How We Share Personally Identifiable Information 
+### How We Share Personally Identifiable Information
 
-Except as described below, we don't sell, transfer or otherwise disclose to third parties the Personally identifiable information we collect on this website without your prior consent. We disclose information where we think it's necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to Personally identifiable information about our website visitors if it is needed to perform their functions for TASSIMO, but they are not authorized by TASSIMO to use the information for their own marketing purposes. 
+Except as described below, we don't sell, transfer or otherwise disclose to third parties the Personally identifiable information we collect on this website without your prior consent. We disclose information where we think it's necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others or where disclosure is required by law. We also may disclose information in response to a request from law enforcement authorities or other government officials. We also disclose information to third parties we retain to perform services on our behalf. For example, we hire service providers to help us run promotions, fulfill orders you may place and provide customer service. These service providers may have access to Personally identifiable information about our website visitors if it is needed to perform their functions for TASSIMO, but they are not authorized by TASSIMO to use the information for their own marketing purposes.
 
-On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain Personally identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it's ok to do so. 
+On our website, we may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain Personally identifiable information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you tell us it's ok to do so.
 
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this website in a manner that is consistent with this Privacy Notice.  
 Back To Top
 
-### Links To Other Websites 
+### Links To Other Websites
 
 This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you're visiting to understand the privacy practices associated with that site.  
 Back To Top
@@ -121,12 +121,12 @@ Back To Top
 The security of Personally identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the Personally identifiable information we collect on this website.  
 Back To Top
 
-### Updates To This Privacy Notice 
+### Updates To This Privacy Notice
 
 We may change or update portions of this Privacy Notice at any time. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice's effective date on the first page of the notice.  
 Back To Top
 
-### How To Contact Us 
+### How To Contact Us
 
 If you have any questions about this Privacy Notice, you can contact us at:
 
@@ -136,7 +136,11 @@ Dover, DE 19905-6361
 
 1-877-TDISCS1 (1-877-834-7271)
 
-Email us at [customer_service@TASSIMOUS.com](mailto:customer_service@TASSIMOUS.com)
+Email us 
+
+[_here_](https://web.archive.org/on/demandware.store/Sites-Tassimo-Site/default/CustomerService-ContactUs)
+
+.
 
 We would be happy to answer your questions or hear your concerns.  
 Back To Top
