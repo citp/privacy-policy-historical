@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whimseybox.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816072417id_/https%3A//www.whimseybox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whimseybox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120732id_/https%3A//whimseybox.com/privacy) for the most accurate reproduction.*
 
-# Privacy - DIY Craft Kits, Monthly Craft Projects, Supplies, Subscription Box | Whimseybox
+# Privacy - DIY Craft Kits, Monthly Craft Projects, Craft Supplies, Subscription Box | Whimseybox
 
 Whimseybox Inc. (“ **Company** ”) is committed to protecting your privacy. We prepared this Privacy Policy to describe our practices regarding the information (as defined below) we collect from users of our website, located at www.whimseybox.com, and use of our related services. By submitting information through our website or through our related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your information in accordance with this Privacy Policy.
 
