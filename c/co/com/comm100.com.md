@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230100324id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071333id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
 
 # Comm100 Privacy Policy
 
-**Last Updated on June 24, 2013**
+**Last Updated on January 08, 2014**
 
 Comm100 Network Corporation (herein referred to as "We", "Comm100" or the "Company") is committed to protecting the privacy of your information. This Privacy Policy describes Comm100's information practices. 
 
@@ -12,7 +12,7 @@ Comm100 Network Corporation (herein referred to as "We", "Comm100" or the "Compa
   
 ---|---  
   
-Comm100 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Comm100's information practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/#WPS) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site comm100.com and its sub-domains. 
+Comm100 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and Comm100's information practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site comm100.com and its sub-domains. 
 
 If you have questions or concerns regarding this statement, you should first contact Comm100 at privacy@comm100.com. If you are not satisfied with our response you can contact [ TRUSTe here](https://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -69,7 +69,7 @@ Flash cookies are different from browser cookies because of the amount of, type 
   * Comm100 may provide bulletin boards or blogs on the Company's Web sites. Any personally identifiable information you choose to submit in such forums may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Comm100 is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at privacy@comm100.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
   * Users and Visitors may elect to use the Company's referral service to inform friends about the Company's Web sites. When using the referral service, the Company requests the friend's name and email address. Comm100 will automatically send the friend a one-time email inviting him or her to visit the Company's Web sites. Comm100 does not store this information.
   * Comm100 may make references to User, User's logo and Website URL in Comm100's user list located on the Comm100 web site and press releases published by Comm100. If you do not want your information to be displayed on our site, please contact us and we will reply to your request in 10 business days.
-  * Comm100 posts a list of case studies and testimonials on the Company's Web sites that contain information such as Users' names and titles. Comm100 obtains the consent of each User prior to posting case studies or testimonials.
+  * Comm100 posts a list of case studies and testimonials on the Company's Web sites that contain information such as Users' names and titles. Comm100 obtains the consent of each User prior to posting case studies or testimonials. If you wish to update or delete your case study or testimonial, you can contact us at [ privacy@comm100.com](mailto:privacy@comm100.com).
 
 
 
@@ -99,9 +99,9 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 
 
-9\. Updating/Accessing/Amending/Correcting Personally Identifiable Information
+9\. Updating/Accessing/Amending/Correcting/Deleting Personally Identifiable Information
 
-  * If your personally identifiable information changes, you may correct, update or amend it by making the change on your site or user profile page after logging into your site account with your site Id, email and password. Your request will be responded in 10 business days. 
+  * If your personally identifiable information changes, you may correct, update or amend it by making the change on your site or user profile page after logging into your site account with your site Id, email and password. If you no longer desire our service, you may request to delete/remove your personally identifiable information by emailing [privacy@comm100.com](mailto:privacy@comm100.com). Your request will be responded in 10 business days. 
 
 
 
