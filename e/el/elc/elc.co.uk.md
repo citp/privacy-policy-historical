@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124005407id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062733id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html%3Fcm_re%3DHP-_-footer-_-privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy : Early Learning Centre UK Toy Shop
 
@@ -8,7 +8,7 @@ Yes. We are committed to protecting your privacy. We use the information we coll
 
 Are my personal details kept private?
 
-Any personal information provided to or gathered at [www.elc.co.uk](http://www.elc.co.uk/) is controlled by Early Learning Centre Limited, South Marston Park , Swindon SN3 4TJ. We never make your details available to any third parties without your prior written consent.
+Any personal information provided to or gathered at [www.elc.co.uk](http://www.elc.co.uk/) is controlled by Early Learning Centre Limited, Cherry Tree Road, Watford, Hertfordshire, WD24 6SH. We never make your details available to any third parties without your prior written consent.
 
 Why does ELC need so much information from me when I order?
 
@@ -55,7 +55,7 @@ We will only provide your contact details to third parties for marketing purpose
 
 What have I agreed to, by using this site?
 
-By using our Website, you consent to the collection and use by elc.co.uk of any information you provide.   
+By using our Website, you consent to the collection and use by elc.co.uk of any information you provide.  
 If we decide to change our privacy policy, we will update the information on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 What about ‘cookies' – how do they affect me?
@@ -70,8 +70,8 @@ To shop at elc.co.uk you need to have cookies enabled on your browser. The most 
 
 **Select the 'Tools' option in the browser window  
 Select the 'Internet Options' menu  
-Select the Privacy tab, and set the level to 'medium-high'  
-**   
+Select the Privacy tab, and set the level to 'medium-high'**
+
 This will ensure that cookies are enabled and the site will remember your details, without exposing you to unwanted 3rd party cookies.
 
 I've still got questions. Who can I contact?
