@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116020602id_/http%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehighline.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020715id_/http%3A//www.thehighline.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Friends of the High Line
 
