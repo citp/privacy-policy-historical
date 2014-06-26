@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmegroup.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122053459id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmegroup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063730id_/http%3A//www.cmegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Exchange Privacy Policy
 
@@ -42,7 +42,7 @@ We may also give information about you, such as your name and address, to person
 
 **YOUR ACCESS TO INFORMATION**
 
-You may request from us certain information about you including, but not limited to, any information you have provided to us upon registration for various services. Requests should be sent to [info@cmegroup.com](mailto:info@cmegroup.com)
+You may request from us certain information about you including, but not limited to, any information you have provided to us upon registration for various services. Requests should be sent to [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com)
 
 **SECURITY**
 
@@ -102,6 +102,6 @@ As part of our normal operations and in order to better serve your particular ne
 
 **CONTACT US**
 
-If you have any questions or comments regarding this Policy, or wish to communicate to the Exchange your desire to opt out of receiving communications from the Exchange or others as described in this Policy, please contact us via [info@cmegroup.com](mailto:info@cmegroup.com).
+If you have any questions or comments regarding this Policy, or wish to communicate to the Exchange your desire to opt out of receiving communications from the Exchange or others as described in this Policy, please contact us via [Privacy@cmegroup.com](mailto:Privacy@cmegroup.com).
 
-© 2013 CME Group. All rights reserved.
+© 2014 CME Group. All rights reserved.
