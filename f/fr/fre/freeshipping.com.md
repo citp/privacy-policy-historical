@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911035625id_/https%3A//www.freeshipping.com/policy.asp%3Fref%3Dft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113811id_/https%3A//www.freeshipping.com/about/PrivacyPolicy) for the most accurate reproduction.*
 
 # FreeShipping.com | Privacy Policy
 
@@ -84,4 +84,4 @@ Contacting Us. If you have any questions about this Privacy Policy, or the pract
 
 * * *
 
-Copyright 2013 Clarus Marketing Group. All rights reserved.
+Copyright 2014 Clarus Marketing Group. All rights reserved.
