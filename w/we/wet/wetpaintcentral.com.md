@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wetpaintcentral.com privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914150026id_/http%3A//www.wikifoundrycentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaintcentral.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121638id_/http%3A//www.wikifoundrycentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy - WikiFoundry Central
 
 Last Revised: December 3, 2010
 
-This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by WikiFoundry.com, Inc. (“WikiFoundry”, “we” or “us”) with respect to your use of the Web sites located at [http://www.wetpaint.com](http://www.wetpaint.com/), [http://www.wetpaintcentral.com](http://www.wetpaintcentral.com/) and any Wikis by WikiFoundry Web sites hosted through the service (the "Sites"), so you can make an informed decision about using the Sites. **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.**   
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by WikiFoundry.com, Inc. (“WikiFoundry”, “we” or “us”) with respect to your use of the Web sites located at [http://www.wetpaint.com](http://www.wetpaint.com/), [http://www.wikifoundrycentral.com](http://www.wikifoundrycentral.com/) and any Wikis by WikiFoundry Web sites hosted through the service (the "Sites"), so you can make an informed decision about using the Sites. **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.**   
 
 
 ## What is Personal Information?
