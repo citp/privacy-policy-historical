@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buymobilephones.net privacy policy that was archived on 2013-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130728081333id_/http%3A//www.buymobilephones.net/help-and-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buymobilephones.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061026id_/http%3A//www.buymobiles.net/help-and-support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BuyMobilePhones.net Ltd.
+# Privacy Policy - buymobiles.net
 
-Buymobilephones.net Limited ("We") are committed to protecting and respecting your privacy.
+Buymobiles.net Limited ("We") are committed to protecting and respecting your privacy.
 
 This policy and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -12,7 +12,7 @@ Please read the following carefully to understand our views and practices regard
 
 1.1 We may collect and process the following data about you:
 
-1.1.1 Information that you provide by filling in forms on our site http://www.buymobilephones.net/ (our site) or when speaking to our customer service or sales staff. This includes information provided at the time of making purchases from our site or requesting further services.
+1.1.1 Information that you provide by filling in forms on our site http://www.buymobiles.net/ (our site) or when speaking to our customer service or sales staff. This includes information provided at the time of making purchases from our site or requesting further services.
 
 1.1.2 If you contact us, we may keep a record of that correspondence.
 
