@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbobetuk.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122651id_/http%3A//info.sbobet.com/en/article/AA-00273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbobetuk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174223id_/http%3A//info.sbobet.com/article/AA-00273) for the most accurate reproduction.*
 
 # Privacy Policy | SBOBET Information Center
 
@@ -60,7 +60,7 @@ research and data analysis purposes;
 
 ### 4\. ACCURACY OF PERSONAL INFORMATION
 
-  1. It is the Customer's responsibility to notify the Operator of any changes in their personal information by sending an e-mail to the Operator at [support@sbobet.com](mailto:support@sbobet.com). If the Customer believes any of its personal information held by the Operator is incorrect or inaccurate, the Customer may request corrections or changes to such personal information by contacting the Operator at: [support@sbobet.com](mailto:support@sbobet.com) and providing the Operator with the Customer's membership number and the details that the Customer wishes to change.
+  1. It is the Customer's responsibility to notify the Operator of any changes in their personal information by sending an e-mail to the Operator at [support@sbobet.com](mailto:support@sbobet.com). If the Customer believes any of its personal information held by the Operator is incorrect or inaccurate, the Customer may request corrections or changes to such personal information by contacting the Operator at: [support@sbobet.com](mailto:support@sbobet.com) and providing the Operator with the Customer's Account ID and the details that the Customer wishes to change.
   2. To obtain a copy of the personal information the Operator holds about you or if you have any queries regarding this Privacy Policy or the Operator's practices please contact the Operator at [support@sbobet.com](mailto:support@sbobet.com).
 
 
