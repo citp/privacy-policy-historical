@@ -1,61 +1,100 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013193747id_/http%3A//www.gallup.com/shared/922/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040729id_/http%3A//www.gallup.com/shared/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its websites. Please read the following policy for further details as to the types of information collected through Gallup websites, including personal information, and how it is treated.
+Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless an individual user consents to the release of the user's Personal Information or individual results. In a like manner, Gallup protects the identity of individuals who access Gallup Websites. For the purposes of this Privacy Statement, the terms "Gallup, we, us, and our" refer to Gallup, Inc., 901 F Street, NW, Washington, D.C., 20004, U.S.A. For questions about this Privacy Statement or your Personal Information, please contact [privacy_administrator@gallup.com](mailto:privacy_administrator@gallup.com).
 
-**INFORMATION COLLECTED BY GALLUP WEBSITES**
+This statement describes the types of information, including Personal Information, collected and processed through Gallup websites and through the services delivered via Gallup websites, and how Gallup treats such information.
+
+**_Personal Information_**
+
+By using the term " **Personal Information** " in our Privacy Statement, we refer to information that you individually provide to Gallup either directly or indirectly that on its own or in combination with other information, can be used to identify you. Personal Information includes your name, your mailing address, your telephone number, and your e-mail-address, and may include other information that identifies you.  
+Information that by itself cannot be used to identify you does not qualify as Personal Information. This includes but is not limited to your age, your gender, or other preferences.  
+
+
+**I. INFORMATION COLLECTED BY GALLUP WEBSITES**
 
 Gallup websites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages).
 
-**_Information Collected Indirectly_**
+**_1\. Information Collected Indirectly_**
 
-Gallup indirectly collects a variety of information pertaining to use of its websites. One type of this information is that which is related to site traffic volume and patterns, such as the number of visitors to a given site or page on a daily basis. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you visit a page from Gallup, our servers log your computer's IP address.
+Gallup indirectly collects a variety of information pertaining to use of our websites.
 
-Only designated administrators can access this information, and it is used only for administrative and planning purposes to meet the needs of our users, such as to improve the content of the site and to customize the content and/or layout of the site for individuals or groups of users.
+**_1.1. Tracking Data  
+_** Website traffic volume and patterns, such as the number of visitors to a given website or page on a daily basis is typically referred to as **Tracking Data**. This type of indirectly collected information is gathered through various means, such as an IP address, which is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you visit any Gallup Websites, our servers log your computer's IP address.
 
-Other types of indirectly collected information are stored in "cookies." Cookies are small files of electronic information that a website can transfer to a visitor's hard drive to help that visitor while on the site. Some Gallup sites use cookies simply to store a user code so that the user does not have to re-enter their information when rejoining the site. The use of cookies is standard on the Internet. Although most Web browsers automatically accept cookies, the decision of whether to accept them is yours. A browser can usually be adjusted to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. Even without accepting a cookie, users can still access most of the features offered by Gallup websites.
+To obtain these Tracking Data, Gallup uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help us analyze how users use the Gallup websites. The information generated by the cookie about your use of the Gallup websites (including your IP address) will be transmitted to and stored by Google on servers in the United States. On behalf of us, Google will use this information for the purpose of evaluating your use of the Gallup websites, compiling reports on website activity, and providing other services relating to website activity. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of the Gallup Websites.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may use cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+You can prevent Google's collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout?hl=en> . In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, is the full IP address sent to and shortened by Google servers in the USA.
 
-**_Information Collected Directly_**
+Further information can be found under <http://www.google.com/analytics/terms/gb.html> (Google Analytics Terms of Service & Privacy).
 
-Gallup also collects information that is voluntarily provided by site visitors, such as a name or an email address. When Gallup collects this type of information, we will notify you as to why we are asking for the information and how it will be used. It is entirely your decision to provide the requested information. Such personal data is collected when a site visitor registers with a site or requests Web services. This information is kept totally confidential, and will be used only to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users.
+Only designated administrators of Gallup can access the information gathered by Google Analytics, and the information is only used for administrative and planning purposes to meet the needs of our users, such as to improve the content of the site and to customize the content and/or layout of the site for individuals or groups of users.
 
-**_Correcting and Changing User Information and Preferences_**
+_**1.2. Gallup Cookies**_  
+Other types of indirectly collected information are stored in "cookies". Cookies are small files of electronic information that a website can transfer to a visitor's hard drive to help that visitor while on the site. Some Gallup websites use cookies simply to store a user code so that the user does not have to re-enter their information when re-joining the site. The use of cookies is standard on the Internet. Although most Web browsers automatically accept cookies, the decision of whether to accept them is yours. Adjust your browser settings to prevent the reception of cookies, or to provide notification whenever a cookie is sent to you. Even without accepting a cookie, users can still access most of the features offered by Gallup websites. Cookies placed by Gallup will expire when the user terminates the website session or after a reasonable period of inactivity.
 
-If you are receiving email communications from Gallup but wish to discontinue this service, you may request to do so at any time by emailing us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com).
+  
+**_1.3. Third-Party Cookies_**  
+We may use third-party advertising companies to serve ads on our behalf. These companies may use cookies and action tags to measure advertising effectiveness. You can still decide whether you want to accept these cookies. Adjust your browser settings to prevent the reception of third-party cookies, or to provide notification whenever such a third-party cookies are sent to you.  
 
-You also have the option to request a revision of your user information at any time by emailing the requested changes to [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com).
 
-**_Information Security_**
+**_2\. Information Collected Directly_**
 
+Gallup also collects Personal Information and other information that users voluntarily provide. It is entirely your decision to provide the requested information.
+
+Gallup keeps all information directly collected confidential, and will only use the information to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users.
+
+**_2.1. User Account data_**  
+When setting up an account on one of the Gallup Websites ("User Account"), you may be asked to provide personal information that could include: your name, e-mail address, and your phone number. If you choose to purchase any products, services, access codes or other items for sale by Gallup, you will be asked to provide payment details and your full address for billing purposes.
+
+Any User Account data will only be stored until you decide to terminate your User Account (see clause III.1. below). In case we are obliged to further store your Personal Information due to statutory retention requirements, your Personal Information will be barred for further use by Gallup and only be stored until such retention periods expire.
+
+**_2.2. Other Personal Information provided directly_**  
+Other Personal Information provided by you on Gallup Websites, e.g. via contact forms, or via phone will be stored in our service database and retained for the period necessary to fulfil the business need, unless a longer retention period is required by law.
+
+**II. DATA COLLECTION**
+
+Many Gallup websites offer users the opportunity to participate in surveys or assessments via the internet. You can find information about the purpose and process for each of these surveys or assessments on Gallup's website at <http://www.gallup.com/>.
+
+**_1\. Access to your Survey or Assessment Results from another User Account_**  
+Another Online user may purchase an access code to a Gallup survey or assessment for you. Please note that when participating in a survey or assessment, your results will also be accessible to the online user who purchased the Gallup access code. The data accessible to that account holder may include your name and your results, but will not include your specific answers to individual questions within the survey or assessment. In addition, the account holder cannot modify, alter or delete any of your results or User Account data.
+
+After completion of the survey or assessment, you will at all times have the opportunity to change your settings for sharing your results with other account holders.
+
+  
+**_2\. Sharing your Survey Results with other people_**  
+After completion of the survey or assessment, you may have the opportunity share your survey or assessment results via e-mail, or social networks. Please note that only your name and results will be displayed. By sharing your information from your Gallup account with any social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users, and your friends, and you understand that the social media service's use of the shared information will be governed by the social media service's privacy policy. If you do not want your personal information shared in this way, please do not connect your Gallup information to a social media service provider.  
+
+
+**III. GENERAL INFORMATION ON COLLECTION AND PROCESSING OF INFORMATION**
+
+**_1\. Correcting and Changing User Information and Preferences; Deletion of User Accounts_**  
+If you have given your consent to receiving e-mail communications from Gallup but wish to discontinue this service, you may request to do so at any time by emailing us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com). In addition, as a registered user, you can change your settings within your User Account under "MY ACCOUNT" by updating your "Contact Me"-settings.
+
+You also have the option at all times to have your User Accounts deleted for any of the Gallup websites or to request a revision of your user information at any time by emailing the requested changes to [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com).
+
+**_2\. Information Security_**  
 Gallup employees understand the need for user privacy, and we maintain strict security procedures to protect your information. Gallup has appointed a Privacy Policy Administrator to monitor privacy practices. Access to user data is strictly limited to specific individuals who are trained to respect user privacy. The access given to these employees is restricted to their need of such information for business reasons. A log of those who accessed the data is maintained and monitored to prevent security breaches.
 
-**_Third-Party Information Storage_**
+**_3\. Third-Party Information Storage_**  
+Some information may be stored for Gallup by authorized third-party companies. These companies are carefully selected by Gallup and only act on behalf of and as instructed by Gallup. We limit such third parties in their access to and use of your personal information, and like Gallup, they will never barter, trade, or sell access to your information.
 
-Some information is stored for Gallup by authorized third-party companies. These companies are carefully selected by Gallup. We limit such third parties in their access to and use of your personal information, and like Gallup, they will never barter, trade, or sell access to your information.
-
-**_Children and Privacy_**
-
+**_4\. Children and Privacy_**  
 Gallup encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. Gallup sites will not contain content that is generally considered unsuitable for children.
 
-**_Links to Other Sites_**
-
+**_5\. Links to Other Sites_**  
 Gallup websites may contain links to sites owned and/or operated by other organizations, and the privacy policies of those sites may differ from that of Gallup. These sites may collect data and make use of it in ways that Gallup does not. We encourage you to review the privacy policies posted on all third-party sites.
 
-**_Transfer of Information to the United States_**
+**_6\. Location of Data collection and processing_**  
+In personally accessing Gallup websites, you may be submitting Personal Information and survey or assessment results that Gallup will use for business purposes that are consistent with this Privacy Statement. As a worldwide organization, Gallup collects information that may be processed internationally throughout Gallup offices worldwide. Your information may be processed in the United States or any other country in which Gallup, its affiliates, subsidiaries, or service providers maintain facilities.
 
-In accessing Gallup websites, you may be transferring personal data that is used by Gallup for statistical, administration, or marketing purposes. As a worldwide organization, Gallup collects data that may be transferred internationally throughout Gallup offices worldwide. In using any Gallup site you consent to having your information transferred to and processed in the United States or any other country in which Gallup is located. If Gallup seeks to collect any additional personal data, you will be informed of the proposed uses of that data and asked for your consent.
-
-**_Safe Harbor Provisions_**
-
+**_7\. Safe Harbor Provisions_**  
 Gallup complies with the U.S. - European Union Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Gallup certifies that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Gallup's certification, please visit <http://www.export.gov/safeharbor/>.
 
-**_Policy Updates_**
+**_8\. Policy Updates_**  
+This Privacy Statement is Gallup's promise to its websites users and Users with a registered User Account. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons, we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Statement on each site. Gallup reserves the right to change the policy on use of information collected at any time.
 
-This Privacy Policy is Gallup's promise to its websites users. Additional information that is particular to specific Gallup sites may exist, and updates to this policy may be posted. For these reasons we suggest that users who may have specific concerns about the information being gathered and use of that information regularly view the Privacy Policy on each site. Gallup reserves the right to change the policy on use of information collected at any time.
+**_9\. Additional Questions or Comments_**  
+If you have any additional questions or comments regarding Gallup's Privacy Policy, please email us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com).  
 
-**_Additional Questions or Comments_**
-
-If you have any additional questions or comments regarding Gallup's Privacy Policy, please email us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com).
