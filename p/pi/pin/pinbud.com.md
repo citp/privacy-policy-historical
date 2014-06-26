@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pinbud.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124256id_/http%3A//www.pinbud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinbud.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165548id_/http%3A//www.pinbud.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | PinBud USA
+
+  Home > Privacy Policy | PinBud USA
 
 ### HOW WE PROTECT YOUR PRIVACY
 
