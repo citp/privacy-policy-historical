@@ -1,443 +1,553 @@
-<!--The following is the downloaded HTML source of the sexyandfunny.com privacy policy that was archived on 2013-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822021756id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sexyandfunny.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626033525id_/http%3A//www.sexyandfunny.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Sexy and Funny - Privacy Policy/Terms - SexyAndFunny.com</title>
-<meta name="Description" content="">
-<meta name="Keywords" content="">
-<meta http-equiv="Robots" content="Index, all, follow">
-<meta name="Distribution" content="Global">
-<meta name="Audience" content="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Sexy and Funny - Privacy Policy/Terms - SexyAndFunny.com</title>
+  <meta name="Description" content="">
+  <meta name="Keywords" content="">
+  <meta name="Expires" content="Wed, 01 Apr 2015 19:45:00 GMT">
+  <meta http-equiv="Cache-Control" content="max-age=1209600">
+  <meta http-equiv="Robots" content="Index, all, follow">
+  <meta name="Distribution" content="Global">
+  <meta name="Audience" content="all">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <meta name="author" content="Garison Piatt; GarisonWebDesign.com">
 
-<link href="/style.css" rel="stylesheet" type="text/css">
-<link href="/star_rating.css" rel="stylesheet" type="text/css">
-<link href="/star_rated.css" rel="stylesheet" type="text/css">
-<link href="/star_blue.css" rel="stylesheet" type="text/css">
-<link rel="image_src" href="http://www.sexyandfunny.com/images/logofinal.jpg">
+
+
+  <link href="/css/all-styles.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" media="all" href="/css/styles-ie.css"/>
+<![endif]-->
+<!--[if lte IE 7]>
+  <link rel="stylesheet" type="text/css" href="/css/styles-ie7.css"/>
+<![endif]-->
+  <link rel="image_src" href="http://www.sexyandfunny.com/images/logofinal.jpg">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script language="JavaScript" src="/js/jquery.slimmenu.js"></script>
+
+  <script language="javascript">
+    function toggleBest() {
+      $('#forums-best').show();
+      $('#forums-latest').hide();
+      $('.active').removeClass('active');
+      $('#forums-best-link').addClass('active');
+    }
+
+    function toggleLatest() {
+      $('#forums-best').hide();
+      $('#forums-latest').show();
+      $('.active').removeClass('active');
+      $('#forums-latest-link').addClass('active');
+    }
+
+    var menuindex = '1';
+
+    function startQuickSearch() {
+     // First, make sure the quick search response area is hidden.
+//      $('#quick-search').hide();
+     // Attach the change function to the input field.
+      $('#search-input').keyup(function() {
+       // Get the current contents of the input field.
+        var val = $(this).val();
+       // If the value is three characters or more, do the searck.
+        if (val.length >= 3) {
+         // Send the request.
+          $.ajax({
+            url:'/quicksearch.php',
+            data:'find='+escape(val)
+          })
+         // And process the response.
+          .done(function(data) {
+           // if there were no results found, just make sure the results box is hidden.
+            if (data == 'no results') {
+              $('#quick-search').hide();
+            } else {
+             // Otherwise, store the results (they're preformatted) and show the box.
+              $('#quick-search').html(data);
+              $('#quick-search').show();
+            }
+          });
+        } else {
+         // The search key is too short.  Hide the results box.
+          $('#quick-search').hide();
+        }
+      });
+    }
+
+
+    window.onload = function() {
+      startQuickSearch();
+    };
+  </script>
 </head>
-
 <body>
 
-<div align="center">
-<div id="site">
 
-<div id="header">
-	<div id="logo"><a href="http://www.sexyandfunny.com"><img src="/images/logofinal.jpg" width="207" height="113" alt=""></a></div>
-	<div id="right">
-	<iframe src="http://www.clipjunkie.com/sftopbanner.php" scrolling="No" allowtransparency="true" width="760" height="113" frameborder="No"></iframe>
-	</div>
-</div>
+<div id="main-body" class="site group">
+ <div id="header">
+  <div id="logo"><a href="http://www.sexyandfunny.com/"><img src="/images/logofinal.jpg" alt="Sexy &amp; Funny"></a></div>
+  <div id="banner-ad">
+  	<iframe src="http://www.clipjunkie.com/sftopbanner.php" scrolling="No" allowtransparency="true"></iframe>
+  </div>
+ </div>
 
+<style type="text/css">
+  .mobile-only { display:none; }
+</style>
+ <nav>
+  <div id="top-navigation">
+   <ul class="navmenu">
+    <li class="navitem nav-active" id="menu-1"><a href="http://www.sexyandfunny.com/">Home</a>
+     <ul class="submenu">
+      <li class="subitem"><a href="http://www.sexyandfunny.com/">Featured</a></li>
+      <li class="subitem"><a href="/showall/page_1.html">Show All</a></li>
+      <li class="subitem"><a href="/halloffame/page_1.html">Best Of S&amp;F</a></li>
+      <li class="subitem"><a href="/sites/page_1.html">Site Index</a></li>
+      <li class="subitem"><a href="/nakednews.html">Daily NakedNews</a></li>
+      <li class="subitem"><a href="/site-news_17.html">Site News</a></li>
+      <li class="subitem"><a href="/login.html">Log In</a>/<a href="/register.html">Register</a></li>
+      <li class="subitem"><a href="/contactus.html">Contact Us</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-2"><a href="/videos_13.html">Videos</a>
+     <ul class="submenu">
+      <li class="subitem mobile-only"><a href="/videos_13.html">All Videos</a></li>
+      <li class="subitem"><a href="/sexy-videos_1.html">Sexy Videos</a></li>
+      <li class="subitem"><a href="/funny-videos_10.html">Funny Videos</a></li>
+      <li class="subitem"><a href="/videos_13_1_0.html">Most Viewed</a></li>
+      <li class="subitem"><a href="/videos_13_1_3.html">Most Loved</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-3"><a href="/photos_6.html">Photos</a>
+     <ul class="submenu">
+      <li class="subitem mobile-only"><a href="/photos_6.html">All Photos</a></li>
+      <li class="subitem"><a href="/girl-galleries_7.html">Girl Galleries</a></li>
+      <li class="subitem"><a href="/random-photos_8.html">Random Photos</a></li>
+      <li class="subitem"><a href="/adult-toons_20.html">Adult Toons</a></li>
+      <li class="subitem"><a href="/10randomphotos.php">Random Photo Generator</a></li>
+      <li class="subitem"><a href="/photos_6_1_0.html">Most Viewed</a></li>
+      <li class="subitem"><a href="/photos_6_1_3.html">Most Loved</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-4"><a href="/girlindex/page_1.html">Models</a>
+     <ul class="submenu">
+      <li class="subitem"><a href="/girlindex/page_1.html">Model Index</a></li>
+      <li class="subitem"><a href="/request/page_1.html">Requests</a></li>
+      <li class="subitem"><a href="/girlindex/page_1_1.html">Latest Added</a></li>
+      <li class="subitem"><a href="/girlindex/page_1_2.html">Most Viewed</a></li>
+      <li class="subitem"><a href="/girlindex/page_1_3.html">Best Rated</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-5"><a href="javascript:void(0)">More</a>
+     <ul class="submenu">
+      <li class="subitem"><a href="/sexy-animations_14.html">Sexy Animations</a></li>
+      <li class="subitem"><a href="/adult-games_3.html">Adult Games</a></li>
+      <li class="subitem"><a href="/adult-jokes_5.html">Adult Jokes</a></li>
+      <li class="subitem"><a href="/sexy-articles_22.html">Sexy Articles</a></li>
+      <li class="subitem"><a href="/contests_18.html">Contests</a></li>
+      <li class="subitem"><a href="http://www.spreadshirt.com/shop.php?sid=25381" target="_blank">S&amp;F Shop</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-6"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=submenu" class="freecam-highlight" target="_blank">Free Cams</a>
+     <ul class="submenu">
+      <li class="subitem"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=submenu" target="_blank">Launch Cams</a></li>
+      <li class="subitem"><a href="http://www.sexyandfunny.com/myfreecams.php">Guide to Free Cams</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/showthread.php?t=108883" target="_blank">Discussion Thread</a></li>
+     </ul>
+    </li>
+
+    <li class="navitem" id="menu-7"><a href="http://forums.sexyandfunny.com" target="_blank">Forums</a>
+     <ul class="submenu">
+      <li class="subitem mobile-only"><a href="http://forums.sexyandfunny.com" target="_blank">Go To Forums</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/hof.php" target="_blank">Best Posts Today</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/search.php?do=getnew" target="_blank">Newest Posts</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=2" target="_blank">General Mayhem</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=7" target="_blank">Funhouse of Fun</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=36" target="_blank">S&amp;F Babes</a></li>
+      <li class="subitem"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=54" target="_blank">Homegrowns</a></li>
+     </ul>
+    </li>
+   </ul><!-- navmenu -->
+
+   <div id="nav-sidebar">
+    <div id="search-box">
+     <form name="X_SEARCH" action="/search.html" method="POST">
+      <input onfocus="return SetText(this, '', 'keyword');" onblur="return SetText(this, 'keyword', '');" id="search-input" class="input" type="text" name="XS_KEYWORD" value="keyword" autocomplete="off">
+      <input class="button" name="" type="image" src="http://www.sexyandfunny.com//images/search_button.jpg">
+     </form>
+     <div id="quick-search"></div>
+    </div>
+
+    <div id="follow-links">
+     <span class="label">Follow Us:</span>
+     <a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com//images/fb24.png"></a>
+     <a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com//images/twitter24.png"></a>
+     <a href="http://www.sexyandfunny.com//rss.php" target="_blank"><img src="http://www.sexyandfunny.com//images/rss24.png"></a>
+    </div>
+   </div><!-- nav-sidebar -->
+  </div><!-- top-navigation -->
+ </nav>
+<script type="text/javascript">
+
+    $('ul.navmenu').slimmenu({
+        resizeWidth: '640',
+        collapserTitle: 'Site Navigation',
+        easingEffect:'easeInOutQuint',
+        animSpeed:'medium',
+        indentChildren: false,
+        childrenIndenter: '',
+        subCollapserChar: null,
+        subCollapserClass: 'navitem',
+        subCollapserElement: 'A',
+        expandedClass: 'nav-active',
+        onToggleClick: function() {
+          $('.navitem').removeClass('nav-active');
+        },
+        onMouseEnter: function(el) {
+          menuindex = el.attr('id').charAt(5);
+          $('.navitem').removeClass('nav-active');
+          el.addClass('nav-active');
+        },
+        onMouseLeave: null,
+        onResize: function(size) {
+          if (size=='compact')  $('.mobile-only').show();
+          else $('.mobile-only').hide();
+        }
+    });
+
+</script>
+<script type="text/javascript">document.getElementById('menu-'+menuindex).className+=' nav-active';</script>
+
+<!-- Main Content Area -->
+ <div id="main" class="group">
+  <div id="main-content">
+   <!-- _oddity_includes/sections/privacy.php -->
+   <!-- Featured Links Section: links to featured selections -->
+   <div id="featured-links" class="content-box">
+    <div class="table-container featured-relative">
+     <table width="530" bgcolor="white" border="0" cellspacing="3" cellpadding="3" class="featured-table">
+      <tbody><tr id="load-featured-content">
+       <td align="center" valign="top">
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp1_b1&amp;purl=http://www.break.com/index/break-after-dark-ladies-like-hynudais-2377327" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img50878f45531d3.png" width="100" height="75" border="0"></a>
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp1_b1&amp;purl=http://www.break.com/index/break-after-dark-ladies-like-hynudais-2377327" target="_blank" style="font-size:11px;">Nipples + Upskirt = Best C..</a>
+       </td>
+       <td align="center" valign="top">
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp2_2b&amp;purl=http://www.break.com/article/kate-upton-supermodel-of-the-year-in-gif-form-2401460/1/" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img50e2cf5dceafd.png" width="100" height="75" border="0"></a>
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp2_2b&amp;purl=http://www.break.com/article/kate-upton-supermodel-of-the-year-in-gif-form-2401460/1/" target="_blank" style="font-size:11px;">Kate Upton Sexy Gif Collec..</a>
+       </td>
+       <td align="center" valign="top">
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp3_1b&amp;purl=http://www.break.com/index/the-best-samba-class-youll-ever-see-2444423" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img5195e4f0b28a6.png" width="100" height="75" border="0"></a>
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp3_1b&amp;purl=http://www.break.com/index/the-best-samba-class-youll-ever-see-2444423" target="_blank" style="font-size:11px;">Venezuelan Girl Has Incred..</a>
+       </td>
+       <td align="center" valign="top">
+        <a href="/watch_video/flawless-katie-bathes_83921.html" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img53945a33a0b52.png" width="100" height="75" border="0"></a>
+        <a href="/watch_video/flawless-katie-bathes_83921.html" target="_blank" style="font-size:11px;">Flawless Katie Bathes</a>
+       </td>
+       <td align="center" valign="top">
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp5_1ch&amp;purl=http://www.collegehumor.com/picture/6164044/this-is-so-funny" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img525946048685a.png" width="100" height="75" border="0"></a>
+        <a href="http://www.sexyandfunny.com/te3/out.php?l=sp5_1ch&amp;purl=http://www.collegehumor.com/picture/6164044/this-is-so-funny" target="_blank" style="font-size:11px;">Now This is Multitasking</a>
+       </td>
+      </tr>
+     </tbody></table>
+     <a href="JavaScript:void(0);" class="featured-arrow"></a>
+    </div><!-- table-container -->
+   </div><!-- featured-links -->
+   <!-- Privacy Content Area  -->
+   <div id="content-area" class="content-box">
+    <h2 class="section-header"><span>Privacy</span> <span>Policy</span></h2>
+    
+    <div class="policy">
+      <p><b>SexyAndFunny.com </b>has created this privacy
+      statement in order to demonstrate our firm commitment
+      to privacy. The following discloses the information
+      gathering and dissemination practices for this
+      Web site.</p>
+
+      <h4>Personal Information</h4>
+      <p>This Web site does not request any personal information
+      or collect any information that personally identifies
+      you or allows you to be personally contacted.
+      Since we do not collect any personal information
+      on this Web site, we do not share any personal
+      information with any third parties nor do we use
+      any personal information for any purposes.</p>
+
+      <h4>Information Automatically Logged</h4>
+      <p>Sexyandfunny.com also logs IP addresses for systems administration
+      purposes. IP addresses are logged to track a user's
+      session. This gives Sexyandfunny.com an idea of which
+      parts of our site users are visiting. We do not
+      link IP addresses to anything personally identifiable.
+      This means that a users session will be tracked,
+      but the user will be anonymous.</p>
+
+      <h4>Cookies</h4>
+      <p>Cookies, by themselves, cannot be used to find
+      out the identity of any user. Sexyandfunny.com will only
+      store information provided voluntarily, but this
+      information is not personally identifiable. If
+      for some reason you would rather not take advantage
+      of the benefits made possible with cookies, most
+      browsers allow you to reject cookies or to choose
+      which cookies to accept.</p>
+
+      <h4>Contacting the Web Site</h4>
+      <p>If you have any questions about this privacy statement,
+      the practices of this site, or your dealings with
+      this Web site, you can contact us <a href="/contactus.html">here</a>.</p>
+      
+    </div>
+   </div><!-- content-area -->
+  </div><!-- main-content -->
+
+  <!-- Sidebar Content -->
+  <div id="sidebar">
+   <!-- Member Information -->
+   <div id="member-info" class="content-box group">
+    <div id="avatar"><img src="http://sexyandfunny.com/images/avatar.jpg"></div>
+    <h2 id="title" class="section-header"><span>You Are Not Logged In!</span> <span></span></h2>
+    <div id="member-info-buttons">
+    <p>Hi! Click <a href="/login.html">here to login</a> or
+       <a href="/register.html">here to register</a>. It's free,
+       unlocks features and makes pop-ups go away!</p>
+    </div>
+   </div>
+
+   <!-- Ad Block #1 -->
+   <div id="ad-block-1" class="content-box ad-block">
+    <a href="http://www.sexyandfunny.com/te3/out.php?l=ch3&amp;purl=http://www.collegehumor.com/video/6310796/time-lapse-body-paint" target="_blank"><img src="http://www.sexyandfunny.com/_odd_images/ch3.gif" border="0"></a>
+   </div>
+
+   <!-- Best Friends Block -->
+   <div id="best-friends" class="content-box group">
+    <h2 class="section-header"><span>Best</span> <span>Friends</span></h2>
+    <ul id="column-1" class="column">
+    
+      <li><a href="/te3/out.php?id=gorillamask.net" target="_blank" rel="nofollow">Gorilla Mask!</a></li>
+      <li><a href="/te3/out.php?id=eroticbeauties.net" target="_blank" rel="nofollow">Erotic Beauties</a></li>
+      <li><a href="/te3/out.php?id=sexyfuckgames.com" target="_blank" rel="nofollow">Sexy Games</a></li>
+      <li><a href="/te3/out.php?id=foobies.com" target="_blank" rel="nofollow">Foobies 18+</a></li>
+      <li><a href="/te3/out.php?id=foxhq.com" target="_blank" rel="nofollow">Fox HQ!</a></li>
+      <li><a href="/te3/out.php?id=funnyinside.com" target="_blank" rel="nofollow">Sexy Videos</a></li>
+      <li><a href="/te3/out.php?id=doubleviking.com" target="_blank" rel="nofollow">Double Viking</a></li>
+      <li><a href="/te3/out.php?id=phun.org" target="_blank" rel="nofollow">phun.org</a></li>
+    </ul>
+    <ul id="column-2" class="column">
+	<li><a href="/te3/out.php?id=kindgirls.com" target="_blank" rel="nofollow">Kind Girls 18+</a></li>
+	<li><a href="/te3/out.php?id=yourdirtymind.com" target="_blank" rel="nofollow">Your Dirty Mind!</a></li>
+	<li><a href="/te3/out.php?id=labatidora.net" target="_blank" rel="nofollow">Labatidora Nudes</a></li>
+	<li><a href="/te3/out.php?id=cherrynudes.com" target="_blank" rel="nofollow">Cherry Nudes</a></li>
+	<li><a href="/te3/out.php?id=bigboobsalert.com" target="_blank" rel="nofollow">Big Boobs Alert</a></li>
+	<li><a href="/te3/out.php?id=drunkenstepfather.com" target="_blank" rel="nofollow">Sexed Up Celebs</a></li>
+	<li><a href="/te3/out.php?id=primecurves.com" target="_blank" rel="nofollow">Prime Curves</a></li>
+	<li><a href="/te3/out.php?id=freshpictures.net" target="_blank" rel="nofollow">Tons of Sexy Pictures</a></li>
+    </ul>
+    <p class="more-links"><a href="/morelinks.html" rel="nofollow">More Links</a></p>
+   </div>
+
+   <!-- Ad Block #2 -->
+   <div id="ad-block-2" class="content-box ad-block">
+    <a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.myfreecams.com/?co_id=30163&amp;track=right300" target="_blank"><img src="http://www.sexyandfunny.com/images/mfc2012_300.gif" width="300" height="250" border="0"></a>
+   </div>
+
+   <!-- Forums Corner -->
+   <div id="forums-corner" class="content-box">
+    <h2 class="section-header"><span>Forums</span> <span>Corner</span></h2>
+    <div id="tabs">
+     <a href="javascript:toggleBest();" id="forums-best-link" class="active">Best Posts Today</a> |
+     <a href="javascript:toggleLatest();" id="forums-latest-link">Latest Threads</a>
+    </div>
+    <div id="forums-best">
+      <ul class="post">
+       <dt><span>+160</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000298#post3000298" target="_blank" rel="nofollow">First World Problems</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+149</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000296#post3000296" target="_blank" rel="nofollow">Life Facts Compilation</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+147</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000306#post3000306" target="_blank" rel="nofollow">Guess Who?</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+147</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000336#post3000336" target="_blank" rel="nofollow">Toons Toons Toons.................................</a></dd>
+        <dd class="author">By: eattit</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+137</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000310#post3000310" target="_blank" rel="nofollow">Randomination</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+132</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000297#post3000297" target="_blank" rel="nofollow">Waitress Compilation</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+129</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000311#post3000311" target="_blank" rel="nofollow">Randomination - Celebs and Stars</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+108</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?p=3000315#post3000315" target="_blank" rel="nofollow">Randomination - Breasts</a></dd>
+        <dd class="author">By: Nunbrew</dd>
+      </ul>
+    </div>
+    <div id="forums-latest" style="display: none">
+      <ul class="post">
+       <dt><span>+0</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164210" target="_blank" rel="nofollow">The Results Are In! - Year #4 - Daily Post #184</a></dd>
+        <dd class="author">By: The Hitman</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+10</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164209" target="_blank" rel="nofollow">I overheard</a></dd>
+        <dd class="author">By: HUNGWELL</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+49</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164208" target="_blank" rel="nofollow">GF Problem</a></dd>
+        <dd class="author">By: 12941</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+10</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164207" target="_blank" rel="nofollow">Bad Breath</a></dd>
+        <dd class="author">By: HUNGWELL</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+10</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164206" target="_blank" rel="nofollow">How girls take care of business in the bathroom...</a></dd>
+        <dd class="author">By: chaosdragon0000</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+73</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164205" target="_blank" rel="nofollow">Free the Nipples</a></dd>
+        <dd class="author">By: BigCambo</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+70</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164204" target="_blank" rel="nofollow">How To...</a></dd>
+        <dd class="author">By: sfwriter</dd>
+      </ul>
+      <ul class="post">
+       <dt><span>+100</span><span>reps</span></dt>
+        <dd class="title"><a href="http://forums.sexyandfunny.com/showthread.php?t=164203" target="_blank" rel="nofollow">Random Sexiness</a></dd>
+        <dd class="author">By: LikeARock</dd>
+      </ul>
+    </div>
+   </div><!-- forums-corner -->
+
+   <!-- Sexy Links -->
+   <div id="sexy-links" class="content-box">
+    <h2 class="section-header"><span>Sexy</span> <span>Links</span></h2>
+    <div class="plug">
+      <div class="thumb"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=rightpanel" target="_blank" rel="nofollow"><img src="http://www.sexyandfunny.com//images/myfreecams.jpg" width="80" height="80" alt=""></a></div>
+      <div class="title"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=rightpanel" target="_blank" rel="nofollow">Check Out MyFreeCams!</a></div>
+      <div class="description">By far the best cams site going round. Unlike others, everything is free to watch and people tip if they like what they see. It's a win/win for cam girls and pervs!</div>
+    </div>
+    <div class="plug">
+      <div class="thumb"><a href="http://c.actiondesk.com/?s=37874&amp;p=21&amp;pp=1" target="_blank" rel="nofollow"><img src="http://www.sexyandfunny.com//images/totemnewyes.jpg" width="80" height="80" alt=""></a></div>
+      <div class="title"><a href="http://c.actiondesk.com/?s=37874&amp;p=21&amp;pp=1" target="_blank" rel="nofollow">Strippers on Your Desktop</a></div>
+      <div class="description">Download this free (and safe!) software to see real-life babes stripping on your desktop. There are over a hundred girls to choose from! </div>
+    </div>
+
+   </div><!-- sexy-links -->
+  </div><!-- sidebar -->
+ </div><!-- main -->
+
+ <!-- Footer -->
+ <div id="footer" class="group">
+  <dl class="footer-links">
+   <dt>Site Related</dt>
+   <dd><a href="/register.html" target="_blank">Register</a> or <a href="/login.html" target="_blank">Login</a></dd>
+   <dd><a href="/rss.php" target="_blank">RSS Feed</a></dd>
+   <dd><a href="http://twitter.com/SEXYandFUNNYcom" target="_blank">Twitter</a> / <a href="http://www.facebook.com/sexyfunny" target="_blank">Facebook</a></dd>
+   <dd><a href="http://www.spreadshirt.com/shop.php?sid=25381" target="_blank">S&amp;F Shop</a></dd>
+   <dd><a href="/contactus.html" target="_blank">Trade Traffic</a></dd>
+   <dd><a href="/privacy.html" target="_blank">Privacy Policy</a> / <a href="http://forums.sexyandfunny.com/register.php?do=showrules" target="_blank">TOS</a></dd>
+  </dl>
+
+  <dl class="footer-links">
+   <dt>S&amp;F Forums</dt>
+   <dd><a href="http://forums.sexyandfunny.com" target="_blank">Forums Home</a></dd>
+   <dd><a href="http://forums.sexyandfunny.com/hof.php" target="_blank">Todays Best Posts</a></dd>
+   <dd><a href="http://forums.sexyandfunny.com/search.php?do=getnew" target="_blank">Newest Posts</a></dd>
+   <dd><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=2" target="_blank">General Mayhem</a></dd>
+   <dd><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=7" target="_blank">Funhouse of Fun</a></dd>
+  </dl>
+
+  <dl class="footer-links">
+   <dt>More Friends</dt>
+   <dd><a href="http://www.clipjunkie.com" target="_blank">Sexy Funny Clips</a></dd>
+   <dd><a href="http://www.foxhq.com" target="_blank">Fox HQ Babes</a></dd>
+   <dd><a href="http://www.bumblegirls.com" target="_blank">Sexy Bumblegirls</a></dd>
+   <dd><a href="/te3/out.php?id=go-girls-go.com" target="_blank" rel="nofollow">Go Girls Go!</a></dd>
+   <dd><a href="http://www.cherrynudes.com" target="_blank">Cherry Nudes</a></dd>
+  </dl>
+
+  <dl class="footer-links">
+   <dt>&nbsp;</dt>
+   <dd><a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.myfreecams.com/?co_id=30163&amp;track=bottom" target="_blank">Free Live Cams</a></dd>
+   <dd><a href="/te3/out.php?id=yourdirtymind.com" target="_blank" rel="nofollow">Dirty Mind 18+</a></dd>
+   <dd><a href="/te3/out.php?id=sensualarousalblog.com" target="_blank" rel="nofollow">Sensual Arousal</a></dd>
+   <dd><a href="http://www.hottystop.com" target="_blank">Hot Girls</a></dd>
+   <dd><a href="http://www.mrskin.com/" target="_blank">Nude Celebs</a></dd>
+  </dl>
+
+  <dl class="footer-links">
+   <dt>&nbsp;</dt>
+   <dd><a href="http://www.zootoday.com" target="_blank">Zoo Today</a></dd>
+   <dd><a href="/te3/out.php?id=badgirlsblog.com" target="_blank" rel="nofollow">Bad Girls Blog</a></dd>
+   <dd><a href="/te3/out.php?id=kindgirls.com" target="_blank" rel="nofollow">Kind Girls 18+</a></dd>
+   <dd><a href="http://www.eroticbeauties.net" target="_blank">Erotic Beauties</a></dd>
+   <dd><a href="http://www.uniquedaily.com" target="_blank">Unique Daily</a></dd>
+  </dl>
+
+  <dl class="footer-links">
+   <dt>&nbsp;</dt>
+   <dd><a href="http://www.gorillamask.net" target="_blank">Gorilla Mask!</a></dd>
+   <dd><a href="http://www.asredas.com" target="_blank">As Red As</a></dd>
+   <dd><a href="http://www.sexyfuckgames.com" target="_blank">Adult Sexy Games</a></dd>
+   <dd><a href="http://m.freeones.com" target="_blank">Free Mobile Erotica</a></dd>
+   <dd><a href="http://www.doubleviking.com/" target="_blank">Double Viking</a></dd>
+  </dl>
+ </div><!-- footer -->
+
+ <div id="copyright">©2003-2013 SexyAndFunny.com</div>
+</div><!-- site -->
 
 <script type="text/javascript">
-function show(i){
-
-for(var k=1; k<8; k++) {
-	document.getElementById("div"+k).style.display="none";
-	document.getElementById("menu"+k).style.backgroundImage = "url(/images/nav_item.jpg)";
-}
-
-document.getElementById("div"+i).style.display="block";
-document.getElementById("menu"+i).style.backgroundImage = "url(/images/nav_item_roll.jpg)";
-}
-</script>
-
-
-<script language="javascript">
-function toggleLatest() {
-	var best = document.getElementById("forumsBest");
-	var latest = document.getElementById("forumsLatest");
-
-    best.style.display = "none";
-	latest.style.display = "block";
-}
-
-function toggleBest() {
-	var best = document.getElementById("forumsBest");
-	var latest = document.getElementById("forumsLatest");
-
-    best.style.display = "block";
-	latest.style.display = "none";
-}
-</script>
-
-
-
-<div id="navigation" class="white">
-	<div class="menu">
-    	<div id="menu1" class="nav_item" style="background-image: url(&quot;/images/nav_item_roll.jpg&quot;);"><a href="http://www.sexyandfunny.com" onmouseover="show(1)">Home</a></div>
-    	<div id="menu2" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="/videos_13.html" onmouseover="show(2)">Videos</a></div>
-    	<div id="menu3" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="/photos_6.html" onmouseover="show(3)">Photos</a></div>
-    	<div id="menu4" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="/other_2.html" onmouseover="show(4)">Other</a></div>
-    	<div id="menu5" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=submenu" onmouseover="show(5)" target="_blank"><font color="red">Free Cams</font></a></div>
-    	<div id="menu6" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="http://forums.sexyandfunny.com" onmouseover="show(6)" target="_blank">Forums</a></div>
-    	<div id="menu7" class="nav_item" style="background-image: url(&quot;/images/nav_item.jpg&quot;);"><a href="#" onmouseover="show(7)">More</a></div>
-        <div class="search">
-            <form name="X_SEARCH" action="/search.html" method="POST" target="_self" style="margin:0px; padding:0px;">
-            <input onfocus="return SetText(this, '', 'keyword');" onblur="return SetText(this, 'keyword', '');" class="input" type="text" name="XS_KEYWORD" value="keyword" size="149">
-            <input class="button" name="" type="image" src="/images/search_button.jpg">
-            </form>
-        </div>
-    </div>
-	<div id="div1" class="submenu" style="display: block;">
-    	<div class="item"><a href="http://www.sexyandfunny.com">Featured</a></div>
-    	<div class="item"><a href="/showall/page_1.html">Show All</a></div>
-    	<div class="item"><a href="/halloffame/page_1.html">Best Of S&amp;F</a></div>
-        <div class="item"><a href="/nakednews.html">Daily NakedNews</a></div>
-        <div class="item"><a href="/site-news_17.html">Site News</a></div>
-                <div class="item"><a href="/login.html">Log In</a>/<a href="/register.html">Register</a></div>
-                <div class="item"><a href="/contactus.html">Contact Us</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-	<div id="div2" class="submenu" style="display:none;">
-    	<div class="item"><a href="/sexy-videos_1.html">Sexy Videos</a></div>
-        <div class="item"><a href="/funny-videos_10.html">Funny Videos</a></div>
-        <div class="item"><a href="/videos_13_1_0.html">Most Viewed</a></div>
-        <div class="item"><a href="/videos_13_1_3.html">Most Loved</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-	<div id="div3" class="submenu" style="display:none;">
-    	<div class="item"><a href="/girl-galleries_7.html">Girl Galleries</a></div>
-        <div class="item"><a href="/random-photos_8.html">Random Photos</a></div>
-        <div class="item"><a href="/girlindex/page_1.html">Model Index</a></div>
-        <div class="item"><a href="/10randomphotos.php">Random Photo Generator</a></div>
-        <div class="item"><a href="/photos_6_1_0.html">Most Viewed</a></div>
-        <div class="item"><a href="/photos_6_1_3.html">Most Loved</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;margin-left:0px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-	<div id="div4" class="submenu" style="display:none;">
-    	<div class="item"><a href="/sexy-animations_14.html">Sexy Animations</a></div>
-        <div class="item"><a href="/adult-games_3.html">Adult Games</a></div>
- 	    <div class="item"><a href="/adult-jokes_5.html">Adult Jokes</a></div>
-        <div class="item"><a href="/sexy-articles_22.html">Sexy Articles</a></div>
-        <div class="item"><a href="/adult-toons_20.html">Adult Toons</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-	<div id="div5" class="submenu" style="display:none;">
-		<div class="item"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=submenu" target="_blank">Launch Cams</a></div>
-		<div class="item"><a href="http://www.sexyandfunny.com/myfreecams.php">Guide to Free Cams</a></div>
-	    <div class="item"><a href="http://forums.sexyandfunny.com/showthread.php?t=108883" target="_blank">Discussion Thread</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-	<div id="div6" class="submenu" style="display:none;">
-    	<div class="item"><a href="http://forums.sexyandfunny.com/hof.php" target="_blank">Best Posts Today</a></div>
-    	<div class="item"><a href="http://forums.sexyandfunny.com/search.php?do=getnew" target="_blank">Newest Posts</a></div>
-        <div class="item"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=2" target="_blank">General Mayhem</a></div>
-        <div class="item"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=7" target="_blank">Funhouse of Fun</a></div>
-        <div class="item"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=36" target="_blank">S&amp;F Babes</a></div>
-        <div class="item"><a href="http://forums.sexyandfunny.com/forumdisplay.php?f=54" target="_blank">Homegrowns</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
- 	<div id="div7" class="submenu" style="display:none;">
-     	<div class="item"><a href="/contests_18.html">Contests</a></div>
-     	<div class="item"><a href="http://www.spreadshirt.com/shop.php?sid=25381" target="_blank">S&amp;F Shop</a></div>
-     	<div class="item"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=menulink" target="_blank">Live Cam Girls</a></div>
-		<div class="item"><a href="/morelinks.html" target="_blank" rel="nofollow">Our Friends</a></div>
-        <div class="item" style="float:right;margin-top:-7px;margin-right:10px;"><img src="http://www.sexyandfunny.com/images/follow.png" width="92" height="24">&nbsp;<a href="http://www.facebook.com/sexyfunny" target="_blank"><img src="http://www.sexyandfunny.com/images/fb24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank"><img src="http://www.sexyandfunny.com/images/twitter24.png" width="24" height="24" border="0"></a>&nbsp;<a href="http://www.sexyandfunny.com/rss.php" target="_blank"><img src="http://www.sexyandfunny.com/images/rss24.png" width="24" height="24" border="0"></a></div>
-    </div>
-</div>
-
-<script type="text/javascript">
-show(1);
-</script>
-
-<div id="middle">
-<div class="middle_top"></div>
-<div id="left">
-<div class="content_top"></div>
-
-<div class="content">
-<center>
-<table width="575" bgcolor="white" border="0" cellspacing="3" cellpadding="3">
-
-<tbody><tr>
-<td width="115" align="center" valign="top">
-
-<a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.myfreecams.com/?co_id=30163" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img4d21eb7784d25.jpg" width="100" height="75" border="0"></a><br>
-<a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.myfreecams.com/?co_id=30163" target="_blank" style="font-size:11px;">Live Girls on Cam</a>
-</td>
-<td width="115" align="center" valign="top">
-
-<a href="/watch_video/stacey-p-and-her-boobs-in-motion_79475.html" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img500f945a426ec.png" width="100" height="75" border="0"></a><br>
-<a href="/watch_video/stacey-p-and-her-boobs-in-motion_79475.html" target="_blank" style="font-size:11px;">Stacey P and Her Boobs in ..</a>
-</td>
-<td width="115" align="center" valign="top">
-
-<a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.epicfail.com/2010/06/11/summer-photo-fail/" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img4da5d3da78b32.jpg" width="100" height="75" border="0"></a><br>
-<a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.epicfail.com/2010/06/11/summer-photo-fail/" target="_blank" style="font-size:11px;">MILF Photo Fail</a>
-</td>
-<td width="115" align="center" valign="top">
-
-<a href="/watch_video/tori-black-strawberries-chocolate-sauce-clothes-mmmmm_76873.html" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img4e5e41e34cbf6.jpg" width="100" height="75" border="0"></a><br>
-<a href="/watch_video/tori-black-strawberries-chocolate-sauce-clothes-mmmmm_76873.html" target="_blank" style="font-size:11px;">Tori Black + Strawberries ..</a>
-</td>
-<td width="115" align="center" valign="top">
-
-<a href="/watch_video/stand-up-comedy-naked-news-style_80821.html" target="_blank"><img src="http://www.sexyandfunny.com/_oddity_media/thumbs/img511858d4f399c.png" width="100" height="75" border="0"></a><br>
-<a href="/watch_video/stand-up-comedy-naked-news-style_80821.html" target="_blank" style="font-size:11px;">Stand Up Comedy: Naked New..</a>
-</td>
-</tr>
-</tbody></table>
-</center>
-</div>
-
-<div class="content_bottom"></div>
-
-
-<div class="content_top"></div>
-
-<div class="content_title_main">Privacy Policy</div>
-<div class="content" style="text-align:left;padding-left:20px;">
-<div style="padding-top:5px;"></div>
-<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
-
-                            <tbody><tr>
-                              <td align="left"> <br>
-                                <b>SexyAndFunny.com </b>has created this privacy
-                                statement in order to demonstrate our firm commitment
-                                to privacy. The following discloses the information
-                                gathering and dissemination practices for this
-                                Web site. <br>
-                                <br>
-                                <b>Personal Information</b><br>
-
-                                This Web site does not request any personal information
-                                or collect any information that personally identifies
-                                you or allows you to be personally contacted.
-                                Since we do not collect any personal information
-                                on this Web site, we do not share any personal
-                                information with any third parties nor do we use
-                                any personal information for any purposes. <br>
-                                <br>
-                                <b>Information Automatically Logged</b><br>
-                                Sexyandfunny.com also logs IP addresses for systems administration
-                                purposes. IP addresses are logged to track a user's
-                                session. This gives Sexyandfunny.com an idea of which
-                                parts of our site users are visiting. We do not
-                                link IP addresses to anything personally identifiable.
-                                This means that a users session will be tracked,
-                                but the user will be anonymous <br>
-                                <br>
-                                <b>Cookies</b><br>
-                                Cookies, by themselves, cannot be used to find
-                                out the identity of any user. Sexyandfunny.com will only
-                                store information provided voluntarily, but this
-                                information is not personally identifiable. If
-                                for some reason you would rather not take advantage
-                                of the benefits made possible with cookies, most
-                                browsers allow you to reject cookies or to choose
-                                which cookies to accept. <br>
-
-                                <br>
-                                <b>Contacting the Web Site</b><br>
-                                If you have any questions about this privacy statement,
-                                the practices of this site, or your dealings with
-                                this Web site, you can contact us <a href="/contactus.html">here</a>.
-                              </td>
-                            </tr></tbody></table>
-<br><br>
-
-</div>
-
-
-<div class="content_bottom"></div>
-
-
-
-</div>
-
-
-
-
-<div id="right">
-
-<div class="box_top"></div>
-<div class="box_members">
-	<div class="avatar"><a href="http://forums.sexyandfunny.com/profile.php?do=editavatar"><img src="/images/avatar.jpg" width="81" height="93" alt=""></a></div>
-    <div class="title"><span class="white">You are not logged in!</span></div>
-	<div style="padding-right:10px; text-align:right">Hi! Click <a href="/login.html">here to login</a> or <a href="/register.html">here to register</a>. It's free, unlocks features and makes pop-ups go away!</div>
-</div>
-<div class="box_bottom"></div>
-
-
-
-<div class="box_top"></div>
-<div class="box_texture">
-
-<div class="ad300x250"><a href="http://www.nakednewsanchors.com/nn1/?nnid=37018" target="_blank"><img src="http://www.sexyandfunny.com/images/300nn2.jpg" border="0" width="300" height="250"></a></div>
-</div>
-<div class="box_bottom"></div>
-
-<div class="box_top"></div>
-<div class="box_title"><img src="/images/bestfriendstitle.jpg" width="335" height="43" alt=""></div>
-<div class="box_texture">
-<div style="padding-left:20px;">
-<table width="100%" align="left">
-<tbody><tr>
-<td width="50%" align="left" valign="top">
-
-<a href="/te3/out.php?id=gorillamask.net" target="_blank" rel="nofollow">Gorilla Mask!</a><br>
-<a href="/te3/out.php?id=yourdirtymind.com" target="_blank" rel="nofollow">Your Dirty Mind!</a><br>
-<a href="/te3/out.php?id=sexyfuckgames.com" target="_blank" rel="nofollow">Sexy Games</a><br>
-<a href="/te3/out.php?id=drunkenstepfather.com" target="_blank" rel="nofollow">Sexed Up Celebs</a><br>
-<a href="/te3/out.php?id=bigboobsalert.com" target="_blank" rel="nofollow">Big Boobs Alert</a><br>
-<a href="/te3/out.php?id=cherrynudes.com" target="_blank" rel="nofollow">Cherry Nudes</a><br>
-<a href="/te3/out.php?id=primecurves.com" target="_blank" rel="nofollow">Prime Curves</a><br>
-<a href="/te3/out.php?id=phun.org" target="_blank" rel="nofollow">phun.org</a><br>
-</td>
-<td width="50%" align="left" valign="top">
-<a href="/te3/out.php?id=kindgirls.com" target="_blank" rel="nofollow">Kind Girls 18+</a><br>
-<a href="/te3/out.php?id=doubleviking.com" target="_blank" rel="nofollow">Double Viking</a><br>
-<a href="/te3/out.php?id=eroticbeauties.net" target="_blank" rel="nofollow">Erotic Beauties</a><br>
-<a href="/te3/out.php?id=foobies.com" target="_blank" rel="nofollow">Foobies 18+</a><br>
-<a href="/te3/out.php?id=funnyinside.com" target="_blank" rel="nofollow">Sexy Videos</a><br>
-<a href="/te3/out.php?id=foxhq.com" target="_blank" rel="nofollow">Fox HQ!</a><br>
-<a href="/te3/out.php?id=labatidora.net" target="_blank" rel="nofollow">Labatidora Nudes</a><br>
-<a href="/te3/out.php?id=hottystop.com" target="_blank" rel="nofollow">Hotty Stop 18+</a><br>
-</td>
-</tr>
-<tr><td colspan="2" width="100%" align="right" style="padding-right:5px;"><small><a href="/morelinks.html" rel="nofollow">More Links</a></small></td></tr>
-</tbody></table></div>
-</div>
-<div class="box_bottom"></div>
-
-<div class="box_top"></div>
-<div class="box_texture">
-<div class="ad300x250"><a href="http://www.sexyandfunny.com/te3/out.php?purl=http://www.myfreecams.com/?co_id=30163&amp;track=right300" target="_blank"><img src="http://www.sexyandfunny.com/images/mfc2012_300.gif" width="300" height="250" border="0"></a></div>
-</div>
-<div class="box_bottom"></div>
-
-<div class="box_top"></div>
-<div class="box_title"><img src="/images/right_box_title_forums2.jpg" width="335" height="43" alt=""></div>
-<div class="box_texture">
-
-<div id="forumsBest">
-<div align="right" style="padding-right:10px;"><span style="font-weight:bold;">Best Posts Today</span> | <a href="javascript:toggleLatest();"><span style="font-weight:bold;">Latest Threads</span></a></div>
-<div style="padding-top:8px"></div>
-<div class="post"><div class="number"><p class="num">+128</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864625#post2864625" target="_blank" rel="nofollow">Some Sexy...Some Funny</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+117</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864632#post2864632" target="_blank" rel="nofollow">I fucked my girlfriend for the first time last night</a></p></div><div class="info gray">By: BriansBrain</div></div><div class="post"><div class="number"><p class="num">+117</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864635#post2864635" target="_blank" rel="nofollow">Randomination - Celebrity Breasts</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+96</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864642#post2864642" target="_blank" rel="nofollow">News Stories Compilation</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+89</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864650#post2864650" target="_blank" rel="nofollow">Randomination - Celebs and Stars</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+79</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864640#post2864640" target="_blank" rel="nofollow">Facebook Brats Compilation</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+70</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864620#post2864620" target="_blank" rel="nofollow">Today is Wet Wednesday</a></p></div><div class="info gray">By: Nunbrew</div></div><div class="post"><div class="number"><p class="num">+70</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?p=2864821#post2864821" target="_blank" rel="nofollow">Animation Hobby Has its Advantages</a></p></div><div class="info gray">By: sfwriter</div></div></div>
-
-
-<div id="forumsLatest" style="display: none">
-<div align="right" style="padding-right:10px;"><a href="javascript:toggleBest();"><span style="font-weight:bold;">Best Posts Today</span></a> | <span style="font-weight:bold;">Latest Threads</span></div>
-<div style="padding-top:8px"></div>
-<div class="post"><div class="number"><p class="num">+0</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153840" target="_blank" rel="nofollow">Would you bean A-Rod</a></p></div><div class="info gray">By: nat2928</div></div><div class="post"><div class="number"><p class="num">+70</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153838" target="_blank" rel="nofollow">Animation Hobby Has its Advantages</a></p></div><div class="info gray">By: sfwriter</div></div><div class="post"><div class="number"><p class="num">+30</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153837" target="_blank" rel="nofollow">Hump Day Random</a></p></div><div class="info gray">By: Registered_Dirty_Old_Man</div></div><div class="post"><div class="number"><p class="num">+50</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153836" target="_blank" rel="nofollow">Sharkception</a></p></div><div class="info gray">By: walkir</div></div><div class="post"><div class="number"><p class="num">+10</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153835" target="_blank" rel="nofollow">OnlyTease Models are Sexy and Funny</a></p></div><div class="info gray">By: GalleryBot</div></div><div class="post"><div class="number"><p class="num">+60</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153834" target="_blank" rel="nofollow">Best cinemagraph ever!</a></p></div><div class="info gray">By: fluffybunny</div></div><div class="post"><div class="number"><p class="num">+0</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153833" target="_blank" rel="nofollow">Liberal Hypocrites Ban Minorities</a></p></div><div class="info gray">By: egotripp</div></div><div class="post"><div class="number"><p class="num">+27</p><p class="text">reps</p></div><div class="title"><p class="blue"><a href="http://forums.sexyandfunny.com/showthread.php?t=153832" target="_blank" rel="nofollow">Hot blonde Eva strips</a></p></div><div class="info gray">By: babespotting</div></div></div>
-
-
-</div>
-<div class="box_bottom"></div>
-
-
-<div class="box_top"></div>
-<div class="box_title"><img src="/images/right_box_title_links.jpg" width="335" height="43" alt=""></div>
-<div class="box_texture">
-	<div class="plug">
-    	<div class="thumb"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=rightpanel" target="_blank" rel="nofollow"><img src="/images/myfreecams.jpg" width="80" height="80" alt=""></a></div>
-    	<div class="title blue"><a href="http://www.myfreecams.com/?co_id=30163&amp;track=rightpanel" target="_blank" rel="nofollow">Check Out MyFreeCams!</a></div>
-    	<div class="description">By far the best cams site going round. Unlike others, everything is free to watch and people tip if they like what they see. It's a win/win for cam girls and pervs!</div>
-    </div>
-	<div class="plug">
-    	<div class="thumb"><a href="http://c.actiondesk.com/?s=37874&amp;p=21&amp;pp=1" target="_blank" rel="nofollow"><img src="/images/totemnewyes.jpg" width="80" height="80" alt=""></a></div>
-
-    	<div class="title blue"><a href="http://c.actiondesk.com/?s=37874&amp;p=21&amp;pp=1" target="_blank" rel="nofollow">Strippers on Your Desktop</a></div>
-    	<div class="description">Download this free (and safe!) software to see real-life babes stripping on your desktop. There are over a hundred girls to choose from! </div>
-    </div>
-
-</div>
-<div class="box_bottom"></div>
-
-
-</div>
-
-<div class="middle_bottom"></div>
-</div>
-
-<div id="footer" style="text-align:center;">
-<div style="padding-top:10px;"></div>
-<table width="920" align="center" cellpadding="1" cellspacing="0">
-<tbody><tr>
-<td width="16%" align="left" valign="top"><p class="text white bold">Site Related</p></td>
-<td width="16%" align="left" valign="top"><p class="text white bold">S&amp;F Forums</p></td>
-<td width="16%" align="left" valign="top"><p class="text white bold">More Friends</p></td>
-<td width="16%" align="left" valign="top">&nbsp;</td>
-<td width="16%" align="left" valign="top">&nbsp;</td>
-<td width="16%" align="left" valign="top">&nbsp;</td>
-</tr>
-<tr>
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="/register.html" target="_blank">Register</a> or <a href="/login.html" target="_blank">Login</a><br>
-<a href="/rss.php" target="_blank">RSS Feed</a><br>
-<a href="http://twitter.com/SEXYandFUNNYcom" target="_blank">Twitter</a>/<a href="http://www.facebook.com/sexyfunny" target="_blank">Facebook</a><br>
-<a href="http://www.spreadshirt.com/shop.php?sid=25381" target="_blank">S&amp;F Shop</a><br>
-<a href="/contactus.html" target="_blank">Trade Traffic</a><br>
-<a href="/privacy.html" target="_blank">Privacy Policy</a>/<a href="http://forums.sexyandfunny.com/register.php?do=showrules" target="_blank">TOS</a><br>
-</td>
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="http://forums.sexyandfunny.com" target="_blank">Forums Home</a><br>
-<a href="http://forums.sexyandfunny.com/hof.php" target="_blank">Todays Best Posts</a><br>
-<a href="http://forums.sexyandfunny.com/search.php?do=getnew" target="_blank">Newest Posts</a><br>
-<a href="http://forums.sexyandfunny.com/forumdisplay.php?f=2" target="_blank">General Mayhem</a><br>
-<a href="http://forums.sexyandfunny.com/forumdisplay.php?f=7" target="_blank">Funhouse of Fun</a><br>
-</td>
-
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="http://www.clipjunkie.com" target="_blank">Sexy Funny Clips</a><br>
-<a href="http://www.foxhq.com" target="_blank">Fox HQ Babes</a><br>
-<a href="http://www.bumblegirls.com" target="_blank">Sexy Bumblegirls</a><br>
-<a href="/te3/out.php?id=go-girls-go.com" target="_blank" rel="nofollow">Go Girls Go!</a><br>
-<a href="http://www.cherrynudes.com" target="_blank">Cherry Nudes</a><br>
-</td>
-
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="http://www.nuts.co.uk" target="_blank">Nuts Magazine</a><br>
-<a href="/te3/out.php?id=yourdirtymind.com" target="_blank" rel="nofollow">Dirty Mind 18+</a><br>
-<a href="/te3/out.php?id=sensualarousalblog.com" target="_blank" rel="nofollow">Sensual Arousal</a><br>
-<a href="http://www.hottystop.com" target="_blank">Hot Girls</a><br>
-<a href="http://www.mrskin.com/" target="_blank">Nude Celebs</a><br>
-</td>
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="http://www.zootoday.com" target="_blank">Zoo Today</a><br>
-<a href="/te3/out.php?id=badgirlsblog.com" target="_blank" rel="nofollow">Bad Girls Blog</a><br>
-<a href="/te3/out.php?id=kindgirls.com" target="_blank" rel="nofollow">Kind Girls 18+</a><br>
-<a href="http://www.eroticbeauties.net" target="_blank">Erotic Beauties</a><br>
-<a href="http://www.uniquedaily.com" target="_blank">Unique Daily</a><br>
-
-</td>
-<td width="16%" align="left" valign="top" class="footerlinks">
-<a href="http://www.gorillamask.net" target="_blank">Gorilla Mask!</a><br>
-<a href="http://www.asredas.com" target="_blank">As Red As</a><br>
-<a href="http://www.sexyfuckgames.com" target="_blank">Adult Sexy Games</a><br>
-<a href="http://m.freeones.com" target="_blank">Free Mobile Erotica</a><br>
-<a href="http://www.doubleviking.com/" target="_blank">Double Viking</a><br>
-</td>
-</tr>
-</tbody></table>
-</div>
-<p class="text gray text10"><small>©2003-2013 SexyAndFunny.com</small></p>
-
-</div>
-</div>
-
-<script language="javascript" type="text/javascript">
 <!--
-document.cookie='te3b=bm9yZWZ8fGRlZmF1bHR8MXw4fDB8ZnVubnlpbnNpZGUuY29tfDE6ZnVubnlpbnNpZGUuY29tfG15ZnJlZWNhbXMuY29tfHNlbnN1YWxhcm91c2FsYmxvZy5jb218Z28tZ2lybHMtZ28uY29tfHVuaXF1ZWRhaWx5LmNvbXxwaHVuLm9yZ3xiaWdib29ic2FsZXJ0LmNvbXxzZXh5ZnVja2dhbWVzLmNvbQ==; expires=Fri, 23 Aug 2013 02:17:56 GMT; path=/;';
-document.cookie='te3bookmark=1377137876; expires=Fri, 22 Aug 2014 02:17:56 GMT; path=/;';
+document.cookie='te3b=bm9uZXx8ZGVmYXVsdHwxfDB8MHxub25lfDA6; expires=Fri, 27 Jun 2014 03:35:26 GMT; path=/;';
+document.cookie='te3bookmark=1403753726; expires=Fri, 26 Jun 2015 03:35:26 GMT; path=/;';
 //-->
 </script>
 
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-90672-3";
-urchinTracker();
+  _uacct = "UA-90672-3";
+  urchinTracker();
 </script>
 
-<script language="JavaScript" src="/js/base.js"></script>
-<script language="JavaScript" src="/js/obj.oddity.js"></script>
-<script language="JavaScript" src="/js/obj.oddity_ratings.js"></script>
-<script language="JavaScript" src="/js/obj.oddity_tellafriend.js"></script>
+<script language="JavaScript" src="/js/all-js.js"></script>
+<!--[if lt IE 7]>
 <script language="JavaScript" src="/js/fix_iepng.js"></script>
+<![endif]-->
+
 
 
 </body></html>
