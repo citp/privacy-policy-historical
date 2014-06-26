@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223095655id_/http%3A//ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055626id_/http%3A//www.ivertech.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Ivertech - Privacy Policy
-
-  
-
+# Privacy Policy
 
 #### Privacy Policy
 
@@ -18,6 +15,8 @@ We use [third-party advertising companies](https://www.google.com/adsense/suppor
   * Google, as a third party vendor, uses cookies to serve ads on our site.
   * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our site and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+
 
 Ivertech takes your privacy seriously. Ivertech understands that the confidentiality of your data is important to you. Ivertech agrees to not sell, lease, or divulge personal or corporate data. 
 
