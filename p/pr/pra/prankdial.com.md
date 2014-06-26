@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125224516id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042225id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
 
 # PrankDial - Privacy Policy
-
-Click here if you forgot your token id.
 
 PrankDial believes that privacy is important to the success and use of the Internet. This statement sets forth PrankDial's Privacy Statement and describes the practices that PrankDial will follow with respect to the privacy of users of this Site. 
 
