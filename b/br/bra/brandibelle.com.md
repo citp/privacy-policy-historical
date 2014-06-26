@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandibelle.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906053601id_/http%3A//www.brandibelle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandibelle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033538id_/http%3A//brandibelle.com/privacy.htm) for the most accurate reproduction.*
 
 # Brandi Belle - Privacy Policy
 
