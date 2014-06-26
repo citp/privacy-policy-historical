@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205733id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.com.ph privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135143id_/http%3A//www.lazada.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Online Shopping - Privacy Policy | Online Shopping in the Philippines| lazada.com.ph
+# Privacy Policy of Lazada Philippines | Lazada.com.ph
 
 LAZADA ("Company," "we," "our," "us") understands that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the LAZADA, and any further linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you recognize and accept the practices and policies stated in this Privacy Policy.
 
@@ -23,6 +23,8 @@ _Personal Information Collected Automatically:_
   * We accept and store certain types of information when you interact with our Website or services. Company automatically receives and registers information on our server logs from your browser including your IP address, cookie information, page requested, and any items you purchase. This information may be used to customize content or to connect with you about specials and new features.
 
   * Usage information, such as numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of data enable us to figure out how often customers use certain parts of the Website or services so that we can make the Website pleasing to many customers as possible, and improve those services. As part of this use of data, we may provide aggregate information to our partners about how our customers, en masse, use our site. We share this type of statistical information so that our partners also understand how often people use their services and our Website, so that they, too, may deliver an optimal online experience. LAZADA never discloses aggregate information to a partner in a manner that would identify you personally.
+
+  * The tracking we implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting) and can collect information such as age, gender, interests and interaction with ads impressions. Using the Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. Lazada and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website and across the Internet
 
 
 
