@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220234846id_/http%3A//www.lumens.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050433id_/http%3A//www.lumens.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy & Security at Lumens.com
+
+## **Privacy and Security** Policies
 
 * * *
 
@@ -10,7 +12,7 @@ Information is collected from Customers by Lumens.com through the use of the Lum
 
 #### A. WHAT INFORMATION IS COLLECTED?
 
-In order to provide you with products of interest to you and to continually improve your shopping experience on Lumens.com.com, we collect information about our Customers in a variety of ways. In some cases, Lumens.com asks Customers directly for information in order for them to purchase products or use our services, and, in other cases, information is collected automatically as Customers are using the Lumens.com Web site. You may choose not to provide certain information, but then you may not be able to purchase products or take advantage of the features we offer. Lumens.com is the sole owner of information collected on the Lumens.com Web site. The following is a summary of the kinds of information Lumens.com collects: 
+In order to provide you with products of interest to you and to continually improve your shopping experience on Lumens.com, we collect information about our Customers in a variety of ways. In some cases, Lumens.com asks Customers directly for information in order for them to purchase products or use our services, and, in other cases, information is collected automatically as Customers are using the Lumens.com Web site. You may choose not to provide certain information, but then you may not be able to purchase products or take advantage of the features we offer. Lumens.com is the sole owner of information collected on the Lumens.com Web site. The following is a summary of the kinds of information Lumens.com collects: 
 
 **1\. Active Collection.**   
 Lumens.com collects certain information either voluntarily or as required in order to register with Lumens.com or use certain Lumens.com services or features. This type of information includes: 
