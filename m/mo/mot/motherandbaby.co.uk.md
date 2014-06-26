@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherandbaby.co.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206014001id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherandbaby.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092843id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
@@ -9,6 +9,10 @@ Bauer Consumer Media Ltd, whose registered office is at 1 Lincoln Court, Lincoln
 **And**
 
 Bauer Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 01394141, VAT no. 918 5617 01. 
+
+**And**
+
+Absolute Radio Ltd, whose registered office is at 1 Lincoln Court, Lincoln Road, Peterborough, PE1 2RF. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
 
 **Please click on the following links or scroll down to see the details of our Privacy Policy:**
 
@@ -42,7 +46,9 @@ To understand how our "apps" are used we may use the service of Flurry Analytics
 
 You may opt-out of reporting by Flurry Analytics by following the instructions on their site <http://www.flurry.com/user-opt-out.html>
 
-Currently it is not possible to opt out of reporting by Google Analytics. If you do not wish to be included in their reporting, please do not use our Apps. 
+As part of our Google Analytics tracking we have implemented the following features: Remarketing, Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising by visiting here <https://tools.google.com/dlpage/gaoptout/>
+
+We use this information for reporting purposes and to advertise online. Third-party vendors, including Google, may show your ads on sites across the Internet. We may use the cookies relating to Google Analytics together with third party cookies to inform, optimise and serve ads based on a user's part visits to our websites. 
 
 * ### Do we share that data with any other companies?
 
@@ -70,7 +76,7 @@ When you click on advertisements or links on any of our sites, you will leave th
 
 "Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner's Office. 
+For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](http://static.bauercdn.com/cookiePolicy/policy.html). 
 
 * ### How you can gain access to the personal data we collect about you
 
@@ -103,4 +109,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in November 2013. 
+This Privacy Policy was last revised in February 2014. 
