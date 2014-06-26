@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018011850id_/http%3A//www.fonts2u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050832id_/http%3A//www.fonts2u.com/privacy.html) for the most accurate reproduction.*
 
 # Fonts2u.com free fonts
 
