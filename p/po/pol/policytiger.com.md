@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127043630id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154136id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Health Insurance Plans, Online Health Insurance Policy, Life Insurance Plans, Health Insurance Premium, Car Insurance Premium, Travel Insurance Premium
+# Health Insurance Plans, Online Health Insurance Policy, Life Insurance Plans, Health Insurance Premium, Car Insurance Premium, Travel Insurance Premium - Policy Tiger
 
 **PolicyTiger.com respects your** privacy. By accessing this site, certain information about you, such as Internet protocol (IP) addresses, navigation through the site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers. 
 
