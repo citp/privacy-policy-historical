@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobzella.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831100418id_/http%3A//www.jobzella.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobzella.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040947id_/http%3A//www.jobzella.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | Jobzella.com
 
-Date of Last Revision: June 15, 2013
+Date of Last Revision: Nov 4, 2013
 
 Being part of Jobzella means sharing information about yourself with other professionals, communicating with them, as well as working privately on your own. By default, your account is set up to share the information that we have found the vast majority of our Users are interested in sharing. But the amount and type of information you decide to share, and with whom you share it, is up to you.
 
@@ -168,6 +168,8 @@ A. Changes to this Privacy Policy:
 We may update this Privacy Policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, or in the Privacy Policy document itself, we will display a notice on the Jobzella website or send you an email, so that you may review the changed terms prior to continuing to use the site. As always, if you object to any of the changes to our terms, and you no longer wish to use Jobzella, you may deactivate. Unless stated otherwise, our current Privacy Policy applies to all information that Jobzella has about you and your account.
 
 Using the Jobzella Services after a notice of changes has been sent to you or published on our site shall constitute consent to the changed terms or practices.
+
+This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information. Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone. 
 
 In order to help secure your personal information, access to your data on Jobzella is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Jobzella website. To protect any data you store on our servers, Jobzella also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Jobzella. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that emails, instant messaging, and similar means of communication with other Users of Jobzella are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
 
