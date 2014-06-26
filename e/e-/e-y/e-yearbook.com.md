@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808053223id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092142id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
 
-# E-Yearbook.com Privacy Policy
+# Privacy Policy
 
 Digital Data Online, Inc. E-Yearbook Website Privacy Policy
 
