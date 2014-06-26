@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201133410id_/http%3A//www.cbseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbseguess.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131250id_/http%3A//www.cbseguess.com/pages/privacy_policy.php) for the most accurate reproduction.*
 
-# CBSE India, CBSE Board Guess Questions Papers & Results, CBSE Tutors, Books, Schools India, Indian Educational
+# CBSEGuess.com Privacy Policy
 
-cbseguess.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about cbseguess.com, please review our Terms of Service.   
-cbseguess.com does not sell or rent your personal identification to third parties. cbseguess.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf. 
+CBSEGuess.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and usage practices. For additional information about CBSEGuess.com, please review our Terms of Service. 
+
+CBSEGuess.com does not sell or rent your personal identification to third parties. cbseguess.com does provide your personal identification to selected, affiliated companies to allow them to perform services for members on our behalf. 
 
 Personal Messaging
 
-It is the policy of cbseguess.com to send our members only the types of pm they elect to receive in addition to cbseguess.com customary business communications (address confirmation, renewal notifications, new product offerings, etc.) Further, it is our policy to remove members from any cbseguess.com mailing list to which they have subscribed upon request (members will continue to receive customary business communications from cbseguess.com). At any time, members can update their email preferences list via the "My Page" button. In addition, every subscribed email communication from cbseguess.com will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list.
+It is the policy of CBSEGuess.com to send our members only the types of pm they elect to receive in addition to cbseguess.com customary business communications (address confirmation, renewal notifications, new product offerings, etc.) Further, it is our policy to remove members from any cbseguess.com mailing list to which they have subscribed upon request (members will continue to receive customary business communications from cbseguess.com). At any time, members can update their email preferences list via the "My Page" button. In addition, every subscribed email communication from cbseguess.com will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list.
 
 Membership Registration
 
-Demographic and profile data is also collected at our site. We use this data to tailor your experience at cbseguess.com, showing content that we think you might be interested in, and displaying the content according to your preferences. We do this in two ways. First, we analyze member’s information in aggregate - that is, we collect information about thousands of site visits and analyze it as a whole. This kind of study involves looking for trends among many visitors to cbseguess.com, rather than analyzing information about any individual member. Examples include researching which parts of the site are accessed most frequently, or determining which products are most attractive to our users. Second, we may use information gathered during your visit to help customize our communications with you.   
-cbseguess.com may periodically conduct individual voluntary member surveys. We encourage our members to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer, and how we provide them to you. The responses we collect in online surveys are anonymous. In the end, we hope to tailor our communications with you to fit your needs - so that you receive more of what you want from us and less of what you don't want.
+Demographic and profile data is also collected at our site. We use this data to tailor your experience at cbseguess.com, showing content that we think you might be interested in, and displaying the content according to your preferences. We do this in two ways. First, we analyze member’s information in aggregate - that is, we collect information about thousands of site visits and analyze it as a whole. This kind of study involves looking for trends among many visitors to cbseguess.com, rather than analyzing information about any individual member. Examples include researching which parts of the site are accessed most frequently, or determining which products are most attractive to our users. Second, we may use information gathered during your visit to help customize our communications with you. 
+
+CBSEGuess.com may periodically conduct individual voluntary member surveys. We encourage our members to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer, and how we provide them to you. The responses we collect in online surveys are anonymous. In the end, we hope to tailor our communications with you to fit your needs - so that you receive more of what you want from us and less of what you don't want.
 
 Cookies
 
@@ -24,7 +26,7 @@ Like most Internet sites, we use your IP address to help diagnose problems with 
 
 Advertising and Third Party Links
 
-Some cbseguess.com advertisers and affiliate partners may request information directly from users, or link to sites that do so. cbseguess.com has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them.  
+Some CBSEGuess.com advertisers and affiliate partners may request information directly from users, or link to sites that do so. cbseguess.com has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them.  
 cbseguess.com contains non-advertising links to a variety of third party sites to enhance the member experience. cbseguess.com has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
 
 Updates to our information practices
@@ -47,13 +49,13 @@ Privacy policy FAQ’s
 10\. Methods of contacting the site.   
 Please contact www.cbseguess.com with questions regarding this statement. If the website has not responded to your inquiry or your inquiry has not been satisfactorily addressed.
 
-1\. About cbseguess.com and the Information We Collect 
+1\. About CBSEGuess.com and the Information We Collect 
 
 cbseguess.com which provide facility to students for online syllabus, guess papers, sample papers and guess model. It also provides the facility to student for sending personal mails to tutors. cbseguess.com is the complete platform for the cbse students, teachers & other directly & indirectly linked with cbse. It helps to locate tutors all over India, your school friends, book sellers, educators and strengthens this bond by offering an easy means to keep in touch with each other through, personal messaging (PM), Photo gallery(coming soon), Friend lists etc
 
-Information Collected/Tracked by cbseguess.com
+Information Collected/Tracked by CBSEGuess.com
 
-cbseguess.com gathers two types of information:
+CBSEGuess.com gathers two types of information:
 
      1.information users submit to us and  
      2\. information not directly submitted by users
@@ -73,11 +75,11 @@ Aggregate: This is information we collect that is not personally identifiable, s
 
 **1\. How does cbseguess.com share Information Obtained?**
 
-Information users submit to cbseguess.com
+Information users submit to CBSEGuess.com
 
 Surveys & Contests: Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-cbseguess.com’s Affiliate Partners: Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between cbseguess.com and the Affiliate Partner. Affiliate Partners may not view or access private information on cbseguess.com subscribers.
+CBSEGuess.com’s Affiliate Partners: Information submitted by the Affiliate Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between cbseguess.com and the Affiliate Partner. Affiliate Partners may not view or access private information on cbseguess.com subscribers.
 
 Information that users do not submit to us
 
@@ -93,7 +95,7 @@ A cookie is a piece of data stored on the user's hard drive containing informati
 
 **4\. Info on Correcting/Updating or Removing Information**
 
-cbseguess.com gives users several options for modifying or removing their information from our database please visit the My Page or contact us.
+CBSEGuess.com gives users several options for modifying or removing their information from our database please visit the My Page or contact us.
 
 **5\. Changes in cbseguess.com Privacy Policy**
 
@@ -105,6 +107,6 @@ Our users are given the opportunity to 'opt-out' of having information used for 
 
 Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email or by logging-in and changing their email options in the My Page section of the site.
 
-**7\. How to contact cbseguess.com?**
+**7\. How to contact CBSEGuess.com?**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20131201133410id_/http%3A//www.cbseguess.com/pages/contactus.php)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us.](https://web.archive.org/web/20140626131250id_/http%3A//www.cbseguess.com/pages/contactus.php)
