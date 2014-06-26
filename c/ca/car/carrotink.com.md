@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820202136id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152711id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Carrot Ink
 
-**Privacy Policy - Effective October 13, 2010**
+**Privacy Policy - Effective January 27, 2012**
 
-Carrot Ink LLC (“Carrot Ink”) is committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
+Carrot Acquisition Partners LLC (“Carrot Ink”) is committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
 
 As a part of our commitment to your privacy, Carrot Ink supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to: (1) provide customers with the notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Carrot Ink.
 
@@ -55,4 +55,4 @@ Asking to be removed from Carrot Ink’s Promotional E-Mail List will not preven
 **From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our web site. We encourage you to review our privacy policy periodically.
 
 **Your Feedback  
-**To help us improve our privacy policy and practice, please give us your feedback. You may email at [service@carrotink.com](mailto:service@carrotink.com) us or write to us at Carrot Ink – Privacy Director, 3732 Arapaho Rd., Addison, TX 75001.
+**To help us improve our privacy policy and practice, please give us your feedback. You may email at [service@carrotink.com](mailto:service@carrotink.com) us or write to us at Carrot Ink – Privacy Director, PO Box 2606, Addison, TX 75001.
