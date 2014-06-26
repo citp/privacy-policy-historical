@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleedingcool.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216093628id_/http%3A//bleedingcool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleedingcool.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041709id_/http%3A//bleedingcool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bleeding Cool Comic Book, Movies and TV News and Rumors
 
