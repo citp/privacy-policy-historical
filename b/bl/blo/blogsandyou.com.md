@@ -1,55 +1,61 @@
-> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php%3Fpage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsandyou.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050047id_/http%3A//blogsandyou.com/privacy-policy) for the most accurate reproduction.*
 
-# Blogs and You
+# Privacy Policy - Blogsandyou
 
-This is the web site of First Point Marketing.
+This Privacy Policy governs the manner in which blogsandyou collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://blogsandyou.com website (“Site”). This privacy policy applies to the Site and all products and services offered by blogsandyou.
 
-Our postal address is:  
-614-33 Heritage Meadows Way  
-SE Calgary, Alberta, T2H 3B8  
+Personal identification information
 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We can be reached via e-mail at privacypolicy@firstpointmarketing.com or via our contact form. 
+Non-personal identification information
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address).
+Web browser cookies
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes and may be shared with other organizations for commercial purposes.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-With respect to cookies: We use cookies to store visitors’ preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on which pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at our site in order to provide better service when visitors return to our site and customize Web page content based on visitors' browser types or other information that the visitor sends.
+How we use collected information
 
-If you do not want to receive e-mail from us in the future, please [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+blogsandyou may collect and use Users personal information for the following purposes:  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests.  
+How we protect your information
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-If you supply us with your postal address on-line, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+Sharing your personal information
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+Third party websites
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by [contacting us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. 
+Advertising
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+Ad servers or ad networks use technology to the advertisements and link that appear on www.blogsandyou.com sends directly to your browsers. They automatically receives your IP Address when this occurs.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by [contacting us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html). 
+Other Technologies (such as cookies, JavaScript or Web Beacons) may also be used by the third party ad networks to measure the effectiveness to their advertisements and / or to personalize the advertising content that you see. www.blogsandyou.com has no access / control over these cookies that are used by third-party advertisers.  
+Changes to this privacy policy
 
-Upon request, we provide site visitors with access to a description of information that we maintain about them.
+blogsandyou has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Consumers can access this information by [contacting us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+Your acceptance of these terms
 
-Consumers can have this information corrected by [contacting us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html).
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Contacting us
 
-If you feel that this site is not following its stated information policy, you may [contact us](https://web.archive.org/web/20080609235048id_/http%3A//blogsandyou.com/index.php?page=contactus.html) at the above addresses.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: blog.rout@gmail.com
 
-  
-
+Alternatively you may [fill the contact us](http://blogsandyou.com/contact-us/) form. Also read our [about us](http://blogsandyou.com/about-us/) page.
