@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113064358id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023552id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Zelda Wiki:Privacy policy - Zelda Wiki
 
-Hey! Listen! This wiki contains spoilers! Read at your own risk! 
+Hey! Listen! This wiki contains spoilers! Read at your own risk! And don't forget to [register](https://web.archive.org/Special:CreateAccount "Special:CreateAccount") to remove the ads! 
 
 From Zelda Wiki, the Zelda encyclopedia
 
@@ -18,4 +18,4 @@ Zelda Wiki may not be held responsible for, or under any circumstances be associ
 
 In a similar fashion, we cannot be held responsible or directly associated with the advertisements shown at our site, as they are served through a third party network. We will, however, do everything in our power to limit these ads to those which are suitable for people of all ages and, in the event that Zelda Wiki is informed of inappropriate advertising, certainly bring such an issue up with the advertising companies that sponsor it. 
 
-If you have any questions regarding Zelda Wiki's privacy policies, please use the [Administrators](https://web.archive.org/Zelda_Wiki:Staff "Zelda Wiki:Staff") page to get in touch with one of Zelda Wiki's many knowledgeable owners, who will be happy to answer them for you. 
+If you have any questions regarding Zelda Wiki's privacy policies, please email the [staff](https://web.archive.org/Zelda_Wiki:Staff "Zelda Wiki:Staff") at [webmaster@zeldawiki.org](mailto:webmaster@zeldawiki.org). 
