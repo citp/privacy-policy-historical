@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210095455id_/http%3A//www.joomlacontenteditor.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacontenteditor.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033216id_/https%3A//www.joomlacontenteditor.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,6 +123,6 @@ If you have any questions about this privacy policy or our treatment of your per
 
 **(12) Data controller**
 
-The data controller responsible in respect of the information collected on this website is [Widget Factory Limited](http://www.joomlacontenteditor.net/www.widgetfactorylimited.co.uk "Widget Factory Limited")
+The data controller responsible in respect of the information collected on this website is [Widget Factory Limited](https://www.joomlacontenteditor.net/www.widgetfactorylimited.co.uk "Widget Factory Limited")
 
 Our data protection registration number is PZ2562553
