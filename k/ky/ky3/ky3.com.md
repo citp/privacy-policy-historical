@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ky3.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225171837id_/http%3A//www.ky3.com/Privacy-Policy/-/21048768/21048334/-/2r8fuf/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ky3.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063904id_/http%3A//www.ky3.com/Privacy-Policy/21048768_21048334) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
