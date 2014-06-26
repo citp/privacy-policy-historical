@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109020745id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020759id_/http%3A//www.afroromance.com/privacy-policy) for the most accurate reproduction.*
 
-# BLACK AND WHITE DATING - Specialists in Interracial Dating
+# Privacy Policy | Chellaul
 
 ## Your Privacy Rights
 
 ## Last Updated: September 9, 2008
 
-AfroRomance.com, Chellaul Corporation ("AfroRomance.com") respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of AfroRomance.com, or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
+AfroRomance, Chellaul Corporation ("AfroRomance") respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of AfroRomance, or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. AfroRomance.com is a part of the Chellaul Corporation family of businesses, which includes AfroRomance.com and many others. This Privacy Policy only applies to your use of the  website. 
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. AfroRomance is a part of the Chellaul Corporation family of businesses, which includes AfroRomance and many others. This Privacy Policy only applies to your use of the AfroRomance website. 
 
 If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
 
@@ -42,7 +42,7 @@ _In General._ We may use information that we collect about you to:
   * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister Chellaul businesses or other third parties; 
   * develop and display content and advertising tailored to your interests on our site and other sites; 
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
-  * enforce our [terms](https://web.archive.org/dating/terms.php) and conditions; 
+  * enforce our [terms](https://web.archive.org/terms) and conditions; 
   * manage our business and 
   * perform functions as otherwise described to you at the time of collection. 
 
@@ -66,7 +66,7 @@ _Personal information._ We do not share your personal information with others ex
   * **Other Chellaul businesses.** We are part of the Chellaul family of businesses. We may share information we collect, including personal information such as your name and contact information, interests, activities and transactions on our site, with the Chellaul companies. Sharing information with our Chellaul companies enables us to provide you with information about a variety of products and services that might interest you. All Chellaul companies comply with the Chellaul Consumer Privacy statement. Our Chellaul companies also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future. 
   * **Other Situations.** We also may disclose your information, including personal information: 
   * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
-  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website [terms](https://web.archive.org/dating/terms.php) and conditions or other agreements or policies. 
+  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website [terms](https://web.archive.org/terms) and conditions or other agreements or policies. 
   * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. 
 
 
@@ -83,7 +83,7 @@ There are a number of places on our website where you may click on a link to acc
 
 If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on your account settings. You can also review and update your personal information by contacting us at the email address provided below in the "How to contact us" section of this privacy policy. More information about how to contact us is provided below. 
 
-If you have an online account with us, you also may choose to resign and close your account at any time by visiting the "My Account" page for your account. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new, separate account at any time or re-activate your previous account by following instructions we will give you at the time you close your account. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our [terms](https://web.archive.org/dating/terms.php) and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
+If you have an online account with us, you also may choose to resign and close your account at any time by visiting the "My Account" page for your account. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new, separate account at any time or re-activate your previous account by following instructions we will give you at the time you close your account. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our [terms](https://web.archive.org/terms) and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
 
 ## Your choices about collection and use of your information
 
@@ -102,7 +102,7 @@ We want you to feel confident using our website to transact business. However, n
 
 ## Information you provide about yourself while using our service
 
-We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our [Terms of Use](https://web.archive.org/dating/terms.php). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our [Terms of Use](https://web.archive.org/terms). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. 
 
 ## Children's privacy
 
@@ -125,14 +125,11 @@ We will occasionally update this Privacy Policy to reflect changes in our practi
 If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: 
 
 Privacy Officer  
-AfroRomance.com   
-c/o Chellaul Corporation   
-1135 Terminal Way   
-Suite 209   
-Reno, NV, 89502   
-USA 
+c/o Chellaul Corporation  
+1135 Terminal Way, Suite 209  
+Reno, NV, 89502 
 
-(C) 2013 Chellaul Corporation. All rights reserved. 
+(C) 2014 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
@@ -144,7 +141,7 @@ For example, when you sign in to our website, we will record your user or member
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. 
 
-We may allow third-parties, including Chellaul companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org). This policy covers the use of cookies by AfroRomance.com only and does not cover the use of cookies by any advertisers. 
+We may allow third-parties, including Chellaul companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org). This policy covers the use of cookies by AfroRomance only and does not cover the use of cookies by any advertisers. 
 
 _Web Beacons:_
 
