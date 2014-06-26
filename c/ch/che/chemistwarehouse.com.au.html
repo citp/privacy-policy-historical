@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the chemistwarehouse.com.au privacy policy that was archived on 2013-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131216214942id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chemistwarehouse.com.au privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627010743id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head><script async="" src="https://secure.chemistwarehouse.com.au/inc_dyn_updater_nocache.asp?callback=jQuery162015756393686617098_1582146757752&amp;_=1582146758174"></script>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head><script async="" src="https://secure.chemistwarehouse.com.au/inc_dyn_updater_nocache.asp?callback=jQuery1620008466338093518821_1582146761466&amp;_=1582146761574"></script>
     
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLCXD9"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//cdn.optimizely.com/js/315498746.js"></script>
     
@@ -13,17 +13,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="keywords" content="prescription drugs pharmacy online direct medicines online chemist influenza aspirin paracetamol natural health beauty products quit smoking gum patches vitamins online weight loss pills tablets products">
     <meta name="description" content="Chemist Warehouse - We Beat Everyones Prices – Shop at our Online Pharmacy for authentic Fragrances, Prescriptions, Vitamins, Weight loss, Baby Care, Perfume, Aftershave, Medicines...">
-    <!-- Meta tags for like button-->
-    
-    <meta property="og:title" content="Chemist Warehouse - Australia's Cheapest Online Pharmacy">
-    <meta property="og:type" content="company">
-    <meta property="og:url" content="/AboutUs/privacy.asp">
-    <meta property="og:image" content="http://www.chemistwarehouse.com.au/images/productimages//150_CW.jpg">
-    <meta property="og:site_name" content="http://www.chemistwarehouse.com.au">
-    <meta property="fb:admins" content="100002529976554">
-    
-    <!-- End of meta tags-->
-    <link rel="stylesheet" href="/style/Min_home_2014.css" type="text/css">
+    <link rel="stylesheet" href="/style/Min_home_2014_new.css?3" type="text/css">
     <!-- Fix for strange random issue -->
     <style type="text/css">
         img 
@@ -114,13 +104,20 @@
 
                 //Cart Info
                 $("#cart_num_items").html(num_total_items_in_cart);
+                if (!num_total_items_in_cart > 0)
+                    document.getElementById("cart_num_circle").style.display = "none";
+                else
+                    document.getElementById("cart_num_circle").style.display = "block";
                 $("#cart_total_amount").html(total_Amount_in_cart);
-                document.getElementById("cart_details_div").style.display = "inline";
+                //document.getElementById("cart_details_div").style.display = "inline";
 
                 //Account Status
                 if (boolLoggedIn === "True") {
-                    document.getElementById("logged_in_div").style.display = "block";
-                    document.getElementById("logged_out_div").style.display = "none";
+                    document.getElementById("header_past_link").style.display = "inline";
+                    document.getElementById("header_youraccount_link").style.display = "inline";
+                    document.getElementById("header_register_link").style.display = "none";
+                    document.getElementById("header_logout_link").style.display = "inline";
+                    document.getElementById("header_login_link").style.display = "none";
                 }
 
                 //Free Shipping Yellow Box
@@ -203,7 +200,7 @@
             UpdateProductsIfNeeded();
             
 
-            //For textboxes with default value/text
+                //For textboxes with default value/text
             $(".defaultText").focus(function(srcc)
             {
                 if ($(this).val() == $(this)[0].title)
@@ -266,8 +263,9 @@
     <script type="text/javascript">
         googletag.cmd.push(function () {
             
-                googletag.defineSlot('/20725952/CWH-MREC', [300, 250], 'div-gpt-ad-1335235213624-0').addService(googletag.pubads());
-                googletag.defineSlot('/20725952/CWH-MREC2', [300, 250], 'div-gpt-ad-1335235213624-1').addService(googletag.pubads());
+            //Updated MREC slots to filter out the category IDs based on custom criteria set in the DFP line item (Musashi campaign -Sports Nutrition) ~ 14 May 2014 by L.Morasa
+            googletag.defineSlot('/20725952/CWH-MREC', [300, 250], 'div-gpt-ad-1335235213624-0').addService(googletag.pubads()).setTargeting("CategoryID","");
+            googletag.defineSlot('/20725952/CWH-MREC2', [300, 250], 'div-gpt-ad-1335235213624-1').addService(googletag.pubads()).setTargeting("CategoryID","");
             
             googletag.pubads().enableSingleRequest();
             googletag.pubads().collapseEmptyDivs();
@@ -388,7 +386,7 @@
     
 </head>
 
-<body style="background-color:#ffdd58; ">
+<body style="background-color:#fff; ">
 
     
 
@@ -413,382 +411,61 @@
 
     <center>
         
-            <style type="text/css">
-                .left_banner_class {
-                background-image: url('/marketing/pageskinning/left_1909911426.jpg');
-                background-color: #ffdd58;
-                right: 50%;
-                position: absolute; /* set it as fixed if need to enable scrolling lock */
-                margin-right: 452px;
-                width: 362px;
-                height: 939px;
-                margin-top: 126px; 
-                top:0px;
-                z-index:1;
-                background-repeat:no-repeat;
-                }
-
-                .right_banner_class {
-                background-image:url('/marketing/pageskinning/right_11861765850.jpg');
-                background-color: #ffdd58;
-                left:50%;
-                position:absolute; /* set it as fixed if need to enable scrolling lock */
-                margin-left:452px;
-                width: 341px;
-                height: 940px;
-                margin-top: 126px; 
-                top:0px;
-                z-index:1;
-                background-repeat:no-repeat;
-                }
-                @-moz-document url-prefix() { 
-                  .left_banner_class {
-                     top: 3px;
-                  }
-                  .right_banner_class {
-                     top: 3px;
-                  }
-                }
-            </style>
-            <div id="left-banner" class="left_banner_class"></div>
-            <div id="right-banner" class="right_banner_class" style="width: 231px;"></div>
-            <script type="text/javascript">
-
-                //Make sure to change cursor type to pointer for both when linking
-                $(document).ready(function() {
-                    
-                });
-                if (screen.width < 1000 && $(window).width() < 1000) { //Hide skins if resolution is too low like iPad and iPhone.
-                    document.getElementById("left-banner").className = "";
-                    document.getElementById("right-banner").className = "";
-                    document.body.style.background = "White";
-                }
-                else
-                {
-                    //TO AUTOMATICALLY ADJUST RIGHT SKIN WIDTH ON RESIZING
-                    $(document).ready(function () {
-                        $('#right-banner').css("width", ((parseInt($(window).width())) / 2) - 452);
-                        
-                            if (940 > parseInt($('#SiteDefault').height()))
-                        $('#right-banner').css("height", parseInt($('#SiteDefault').height()-50));
-                        
-                            if (939 > parseInt($('#SiteDefault').height()))
-                        $('#left-banner').css("height", parseInt($('#SiteDefault').height()-50));
-                        
-                    });
-                    $(window).resize(function() {
-                        $('#right-banner').css("width", ((parseInt($(window).width())) / 2) - 452);
-                        
-                            if (940 > parseInt($('#SiteDefault').height()))
-                        $('#right-banner').css("height", parseInt($('#SiteDefault').height()-50));
-                        
-                            if (939 > parseInt($('#SiteDefault').height()))
-                        $('#left-banner').css("height", parseInt($('#SiteDefault').height()-50));
-                        
-                    });
-                }
-            </script>
-        
                     <div id="top_nav_header">
+                        <div class="container">
+                            <div class="text_strip">
+                                <ul>
+                                    <li><a href="../aboutus/storelocator/default.asp">Store Locations &amp; Hours</a></li>
+                                    <li><a href="http://catalogues.ChemistWarehouse.com.au" target="_blank">Catalogues</a></li>
+                                    <li id="header_register_link" style="font-weight:bold"><a href="..//youraccount/">Register</a></li>
+                                    <li id="header_youraccount_link" style="font-weight:bold; display:none"><a href="..//youraccount/">Your Account</a></li>
+                                    <li id="header_past_link" style="font-weight:bold; display:none"><a href="..//youraccount/shoppinglist/">Past Purchases</a></li>
+                                    <li id="header_login_link" style="font-weight:bold; border-right:none"><a href="..//youraccount/">Login</a></li>
+                                    <li id="header_logout_link" style="font-weight:bold; border-right:none; display:none"><a href="https://secure.chemistwarehouse.com.au/logout.asp">Logout</a></li>
+                                </ul>
+                            </div>
+                        </div>
                         <div class="container">
                             <div class="logo">
                                 
-                                        <a href="../home.asp"><img src="/images/2013/header/CWH_logo_xmas.png" width="420" height="127" alt="Go to home page"></a>
+                                    <!--START update CWH logo with asterisk in the tagline ~ 16 April 2014 by L.Morasa-->
+                                    <!--START Logo split and assign different click through destinations ~ 22 April 2014 by L.Morasa-->
+                                        <div style="float:left; width:386px;">
+                                            <div style="float:left; width:141px;"><a href="../home.asp"><img src="/images/2014/header/CW-logo-Apr2014_01.png" width="141" height="130" alt="Go to home page"></a></div>
+                                            <div style="float:left; width:245px;"><a href="/AboutUs/why-shop-with-us.asp"><img src="/images/2014/header/CW-logo-Apr2014_02.png" width="245" height="130" alt="Go to Why Shop With Us page"></a></div>
+                                        </div>
+                                    <!--END CWH Logo split and assign different click through destinations ~ 22 April 2014 by L.Morasa-->
+                                    <!--END update CWH logo with asterisk in the tagline ~ 16 April 2014 by L.Morasa-->
                                     
                             </div>
                             <div class="right_container">
-                                <div class="freeshipping">
-                                    <div class="container" style="white-space:nowrap">
-                                        <div class="heading" style="*font-size:20px"><a href="../AboutUs/shipping.asp">FREE SHIPPING</a></div>
-                                        <div class="sub_heading"><a href="../AboutUs/shipping.asp">FOR PURCHASES OVER $99*</a></div>
+                                <div style="margin-top:25px;color:white; clear:both">
+                                    <div style="width:235px; height:37px; padding-left:240px; *margin-left:235px; *padding-left:0px">
+                                        <div class="cart_wrapper">
+                                            <div class="cart">
+                                                <div style="float:left; width:122px; cursor:pointer" onclick="window.location='../cartedit.asp'">
+                                                    <table border="0" cellpadding="0" cellspacing="0" style="width:110px; height:35px">
+                                                        <tbody><tr>
+                                                            <td valign="middle" align="left" style="background-image:url(/images/2014/header/basket_img.png); width:43px; min-height:24px; background-position:2px 5px; background-repeat:no-repeat">
+                                                                <div id="cart_num_circle" style="display:none; background-image:url(/images/2014/header/cart_indicator.png);width: 23px; height:23px; overflow:hidden; float:right; color:#FFF; text-align:center; vertical-align:middle; font-size:12px; line-height:22px;padding-right:0px">
+                                                                    <div id="cart_num_items" style="text-align:center; width:23px; height:24px; line-height:22px"></div>
+                                                                </div>
+                                                            </td>
+                                                            <td valign="middle" align="center" style="color:#fff; font-size:15px"><span id="cart_total_amount"></span></td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </div>
+                                                <div style="float:right; width:111px"><a href="../cartedit.asp"><img src="/images/2014/header/cart_btn.png" width="111" height="35"></a></div>
+                                            </div>
+                                        </div>
+                                        <div><img src="/images/2014/header/cart_shadow.png"></div>
                                     </div>
-                                    <div class="ap_logo" style="margin-right:-200px;"><img src="/images/2013/header/shipping.png" width="89" height="46"></div>
                                 </div>
-                                <div class="edm_box">
-                                    <div class="heading" style="*font-size:17px">SPECIAL OFFERS BY EMAIL</div>
-                                    <div class="container">
-                                        <form method="GET" action="/subscribe/default.aspx" name="subsribe_EDM_TOP">
-                                            <input type="text" name="subsribe_EDM_email_popup" class="defaultText" title="Enter email address...">
-                                            <input type="hidden" name="EDM_SUB_FROM" value="other">
-                                            <input type="image" name="Subscribe_TOP" src="/images/2013/header/edm_signup_btn.png" class="signup_btn">
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="clearner">&nbsp;</div>
-                    </div>
-                    <div style="clear:both; width:905px; background-color:#fff">
-                        
-                            <img src="/images/2013/header/h1.png" width="880" height="1" alt="design_image">
-                        
-                    </div>
-                    <style type="text/css">
-                        
-                    </style>
-                    <div style="width:905px; background-color:#fff; padding-bottom:15px">
-                        <div id="top_nav_header_menu_top">
-                            <div class="container">
-                                <div class="center">
-                                
-                                    <ul>
-    <li id="top_nav_542"><a href="../category.asp?id=542&amp;cname=Fragrances" id="cat_542">Fragrances</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_81"><a href="../category.asp?id=81&amp;cname=Vitamins" id="cat_81">Vitamins</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_257"><a href="../category.asp?id=257&amp;cname=Beauty" id="cat_257">beauty</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_665"><a href="../category.asp?id=665&amp;cname=Skin%20Care" id="cat_665">skin care</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_648"><a href="../category.asp?id=648&amp;cname=Cosmetics" id="cat_648">Cosmetics</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_517"><a href="../category.asp?id=517&amp;cname=Weight%20Loss" id="cat_517">Weight Loss</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_20"><a href="../category.asp?id=20&amp;cname=Baby%20Care" id="cat_20">Baby Care</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_89"><a href="../category.asp?id=89&amp;cname=Sexual%20Health" id="cat_89">Sexual Health</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_198"><a href="../category.asp?id=198&amp;cname=Smoking+Deterrents" id="cat_198">Quit Smoking</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li><a href="../samples/" style="font-weight:bold; color:#fff34a">samples</a></li>
-</ul>
-<!-- End of New Top Navigation with Drop Down menu -->
-                                </div>
-                            </div>
-                        </div>
-                        <div style="clear:both;height:1px; background-color:#8d8d8d; line-height:1px; width:880px; font-size:1px">&nbsp;</div>
-                        <div id="top_nav_header_menu_bottom">
-                            <div class="container">
-                                <div class="center">
-                                    <ul>
-    <li id="top_nav_presc"><a href="../prescriptions.asp">prescriptions</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_258"><a href="../category.asp?id=258&amp;cname=Medicines" id="cat_258">Medicines</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_1093"><a href="../category.asp?id=1093&amp;cname=Cold+%26+Flu" id="cat_1093">cold &amp; flu</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_ps_1755"><a href="../productset.asp?id=1755&amp;cname=All%20Fish%20Oil%20Supplements" id="cat_ps_1755">Krill &amp; fish oil</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_159"><a href="../category.asp?id=159&amp;cname=Oral%20Hygiene%20and%20Dental%20Care" id="cat_159">Dental</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_1183"><a href="../category.asp?id=1183&amp;cname=Deodorants" id="cat_1183">Deodorants</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_129"><a href="../category.asp?id=129&amp;cname=Hair%20Care" id="cat_129">hair Care</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li id="top_nav_1255"><a href="../category.asp?id=1255&amp;cname=Sports%20Nutrition" id="cat_1255">Protein</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li><a href="../BestSellers.asp">best sellers</a></li>
-    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
-
-    <li><a href="../categories.asp" style="font-weight:bold; color:#fff34a">all categories</a></li>
-</ul>
-<!-- End of New Top Navigation with Drop Down menu -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="SiteDefault">
-		<!-- INDEX BAR -->
-		<!-- INDEX BAR END -->
-
-<!-- START MAIN TABLE - 3 COLUMN SETUP -->
-<table width="880" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td width="150" height="7" valign="top"><img src="../images/Blankspace.gif" width="150" height="1" border="0"></td>
-	<td width="12" height="7" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
-	<td width="406" height="7" valign="top"><img src="../images/Blankspace.gif" width="406" height="1" border="0"></td>
-	<td width="12" height="1" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
-	<td width="300" height="1" valign="top"><img src="../images/Blankspace.gif" width="300" height="1" border="0"></td>
-</tr>
-<tr>
-	<td width="149" valign="top" align="left"><!-- START LEFT BAR FRAME -->
-<!-- SIDEBAR -->
-	
-<div>
-    
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=89&amp;Sexual Health">
-                    <img src="/images/2012/Left_nav/CatList/89.jpg" width="150" height="114" title="Sexual Health" alt="Sexual Health">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=89&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=261&amp;Prescriptions">
-                    <img src="/images/2012/Left_nav/CatList/261.jpg" width="150" height="114" title="Prescriptions" alt="Prescriptions">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=261&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=159&amp;Oral Hygiene and Dental Care">
-                    <img src="/images/2012/Left_nav/CatList/159.jpg" width="150" height="114" title="Oral Hygiene and Dental Care" alt="Oral Hygiene and Dental Care">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=159&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=257&amp;Beauty">
-                    <img src="/images/2012/Left_nav/CatList/257.jpg" width="150" height="114" title="Beauty" alt="Beauty">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=257&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=81&amp;Vitamins">
-                    <img src="/images/2012/Left_nav/CatList/81.jpg" width="150" height="114" title="Vitamins" alt="Vitamins">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=81&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=517&amp;Weight Loss">
-                    <img src="/images/2012/Left_nav/CatList/517.jpg" width="150" height="114" title="Weight Loss" alt="Weight Loss">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=517&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=694&amp;Confectionery">
-                    <img src="/images/2012/Left_nav/CatList/694.jpg" width="150" height="114" title="Confectionery" alt="Confectionery">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=694&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=542&amp;Fragrances">
-                    <img src="/images/2012/Left_nav/CatList/542.jpg" width="150" height="114" title="Fragrances" alt="Fragrances">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=542&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
-            
-        <div align="center" style="width:150px">
-            <div>
-                <a href="../category.asp?id=20&amp;Baby Care">
-                    <img src="/images/2012/Left_nav/CatList/20.jpg" width="150" height="114" title="Baby Care" alt="Baby Care">
-                </a>
-            </div>
-            <div><a href="../category.asp?id=20&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
-        </div>
-        
-</div>
-<!-- START SHOPPING INFO PANEL -->
-<!-- SIDEBAR END -->
-<!-- END LEFT BAR FRAME --></td>
-	<td width="12" height="1" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
-	<td width="406" valign="top"><!-- START MAIN CONTENT FRAME --><div id="MainContent">
-	<table width="406" border="0" cellspacing="0" cellpadding="0">
-    	<tbody><tr><td valign="top">
-<!-- MAIN -->
-
-<div class="page_title">
-    <div class="text">
-        Privacy
-    </div>
-</div>
-
-<div style="margin-left: 10px; margin-right: 10px; text-align:left"><br>
-
-<font color="#112244"><b>What is Chemist Warehouse's Privacy Statement?</b></font><br>
-Our web server makes a record of your visit and logs the following information for
-statistical purposes - the user's server address, the user's top level domain name
-(eg. .com, .gov, .au, .uk etc.), the date and time of the visit to the site, the pages
-accessed and documents downloaded, the referring site and the type of browser used. 
-No attempt will be made to identify users or their browsing activities 
-except, in the unlikely event of an investigation, where a law enforcement 
-agency may exercise a warrant to inspect the web server's logs.<br>
-<br>
-<font color="#112244"><b>What do we do with the data collected in our privacy statement?</b></font><br>
-Chemist Warehouse uses this information to improve our services and capabilities in operating
-our business for the consumer. We do not sell, provide, or allow our information to be
-viewed by any other person other than those employed by Chemist Warehouse.<br>
-<br>
-<font color="#112244"><b>Why do we collect email addresses?</b></font><br>
-Chemist Warehouse requires email addresses for correspondence in regard to 
-orders placed and registration of users. We do not use these emails for 
-commercial use without prior consent.<br>
-<br>
-<font color="#112244"><b>Why do we require Patient Profiles to be entered on particular products?</b></font><br>
-Patient profiles are required for particular products to ensure that these products will not cause any potential interactions with other drugs, allergies or health conditions that the patient may currently take or have. The information is not supplied to any other party. Patient Profiles are not required for products that we deem do not have a potential for these types of interactions.<br>
-<br>
-<font color="#112244"><b>How can Chemist Warehouse customers ensure the accuracy of data quality and security in regard to their personal information?</b></font><br>
-The customers enter all information collected and stored on Chemist Warehouse customers. Registered customers can view and alter this information by logging in with their username and password and accessing their account information. The information includes patient profiles, addresses, and past orders. Access to this information by Chemist Warehouse staff can only be performed by staff members with a secure password, with access only performed when required. Access to this information is recorded by log files to track unauthorised access and modifications.<br>
-<br>
-<font color="#112244"><b>Can Chemist Warehouse customers order with anonymity?</b></font><br>
-As Chemist Warehouse requires a physical address to deliver parcels to and a signature on delivery, anonymity cannot be assured.<br>
-<br>
-<font color="#112244"><b>How can Chemist Warehouse customers' information be removed from our database?</b></font><br>
-If at any stage an Chemist Warehouse customer would like their information removed from our database, we require an email with the username, password and identifying information and the patients file will be deleted from our records. Please send to:<br>
-<br>
-<a href="mailto:info@chemistwarehouse.com.au"><b>info@chemistwarehouse.com.au</b></a><br>
-<br>
-<br>
-<br>
-
-
-
-</div><!-- MAIN END -->
-
-	</td></tr>
-	</tbody></table>
-	</div><!-- END MAIN CONTENT FRAME --></td>
-	<td width="20" height="1" valign="top"><img src="../images/Blankspace.gif" width="5" height="1" border="0"></td>
-	<td width="300" valign="top">
-        <div style="clear:both"><img src="/images/2013/footer/RHS_Header.png" width="300" height="35" alt="Shop Online Now!"></div>
-        <div class="RHS_Top_Box"><!-- Shopping Cart -->
-            <div class="searchbox">
-                <div>
-                    <form method="GET" action="/searchresult.asp" name="productsearch">
-                        <style>
+                                <div class="searchbox">
+                                    <div class="wrapper">
+                                        <div style="clear:both; height:43px">
+                                            <form method="GET" action="/searchresult.asp" name="productsearch" style="padding:0;margin:0">
+                                            <style>
                             .ui-autocomplete 
                             {
                                 position:absolute; 
@@ -911,49 +588,329 @@ If at any stage an Chemist Warehouse customer would like their information remov
 	                                        return false;
 	                                    },
 	                                    position: {
-	                                        my: "right top",
-	                                        at: "right bottom",
-                                            offset: "75 0"
+	                                        my: "left top",
+	                                        at: "left bottom",
+                                            offset: "0 0"
 	                                    }
 	                                });
 	                            }
 	                        });
 	                    </script>
-                        <div class="container">
-                            <div class="searchform">
-                                <input id="SearchBox" name="terms" type="text" style="width:220px; *width:218px; height:40px; *height:38px; margin:0; line-height:30px; font-size:17px; border:none; padding:5px; color:#898989; -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */ -moz-box-sizing: border-box; /* Firefox, other Gecko */ box-sizing: border-box; /* Opera/IE 8+ */" class="defaultText ui-autocomplete-input" title="Search for products/brands" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-                                <input type="hidden" name="SearchSection" value="products">
-                                <input type="hidden" name="requery" value="1"> 
+                                            <div class="container">
+                                                <input id="SearchBox" name="terms" type="text" class="defaultText ui-autocomplete-input" title="Search for products/brands" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                                                <input type="hidden" name="SearchSection" value="products">
+                                                <input type="hidden" name="requery" value="1"> 
+                                            </div>
+                                            <div style="float:right; width:110px; padding-top:1px">
+                                                <input type="submit" value="" class="button">
+                                            </div>
+                                            </form>
+                                        </div>
+                                        <div><img src="/images/2014/header/search_shadow.png"></div>
+                                    </div>
+                                </div>
                             </div>
-                            <div style="float:left"><input type="submit" value="" style="background-image: url(/images/2013/footer/search_btn.jpg); margin-top:0px; border:none; width:70px; height:40px; background-color:White; cursor:pointer"></div>
                         </div>
-                    </form>
-                </div>
-            </div>
-            <div class="cart_buttons">
-                <span style="padding-right:10px; float:left"><a href="../cartedit.asp"><img src="/images/2013/footer/view_cart_btn.png" alt="View Your Cart / Check Out" title="View Your Cart / Check Out" width="137" height="28"></a></span>
-                <span style="padding-left:0px; float:left"><a href="../cartedit.asp"><img src="/images/2013/footer/checkout_btn.png" alt="View Your Cart / Check Out" title="View Your Cart / Check Out" width="137" height="28"></a></span>
-            </div>
-            <div class="cart_container">
-                <span id="cart_details_div">
-                    <span style="padding-right:10px">ITEMS: <a href="/cartedit.asp"><b><span id="cart_num_items" style="color:#ff002c"></span></b></a></span>
-                    <span style="padding-right:10px">TOTAL: <a href="/cartedit.asp"><b><span id="cart_total_amount" style="color:#ff002c"></span></b></a></span>
-                </span>
-                <span id="logged_in_div" style="display:none; padding-top:5px">
+                        <div class="clearner">&nbsp;</div>
+                    </div>
                     
-                    <a href="/youraccount/manageaccount.asp" style="color:#00569d; text-decoration:underline">Your Account</a>
-                     | 
-                    <a href="/youraccount/shoppinglist/" style="color:#00569d; text-decoration:underline">Past Purchases</a>
-                     | 
-                    <a href="https://secure.chemistwarehouse.com.au/logout.asp" id="loginOrLogoutLink" style="color:#00569d; text-decoration:underline">Logout</a><!-- Also need to update link @ inc_static if updating -->
-                </span>
-                <span id="logged_out_div" style="display:inline">
-                    <a href="/youraccount/default.asp" id="loginOrLogoutLink2" style="color:#00569d; text-decoration:underline">LOGIN</a>
-                </span>
+                    
+                        <div style="clear:both; width:905px; background-color:#fff; height:1px; overflow:hidden">
+                            <img src="/images/2013/header/h1.png" width="880" height="1" alt="design_image">
+                        </div>
+                    
+                    
+                    
+                    <div class="top_nav_header_top_wrapper">
+                        
+                        <div id="top_nav_header_menu_top">
+                            <div class="container">
+                                <div class="center">
+                                    <ul>
+    <li id="top_nav_542"><a href="../category.asp?id=542&amp;cname=Fragrances" id="cat_542">Fragrances</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_81"><a href="../category.asp?id=81&amp;cname=Vitamins" id="cat_81">Vitamins</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_257"><a href="../category.asp?id=257&amp;cname=Beauty" id="cat_257">beauty</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_665"><a href="../category.asp?id=665&amp;cname=Skin%20Care" id="cat_665">skin care</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_648"><a href="../category.asp?id=648&amp;cname=Cosmetics" id="cat_648">Cosmetics</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_517"><a href="../category.asp?id=517&amp;cname=Weight%20Loss" id="cat_517">Weight Loss</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_20"><a href="../category.asp?id=20&amp;cname=Baby%20Care" id="cat_20">Baby Care</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_89"><a href="../category.asp?id=89&amp;cname=Sexual%20Health" id="cat_89">Sexual Health</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_198"><a href="../category.asp?id=198&amp;cname=Smoking+Deterrents" id="cat_198">Quit Smoking</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li><a href="../samples/" style="font-weight:bold; color:#fff34a">samples</a></li>
+</ul>
+<!-- End of New Top Navigation with Drop Down menu -->
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div style="clear:both;height:1px; background-color:#8d8d8d; line-height:1px; width:880px; font-size:1px">&nbsp;</div>
+                        
+                        <div id="top_nav_header_menu_bottom">
+                            <div class="container">
+                                <div class="center">
+                                    <ul>
+    <li id="top_nav_presc"><a href="../prescriptions.asp">prescriptions</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_258"><a href="../category.asp?id=258&amp;cname=Medicines" id="cat_258">Medicines</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_1093"><a href="../category.asp?id=1093&amp;cname=Cold+%26+Flu" id="cat_1093">cold &amp; flu</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_ps_1755"><a href="../productset.asp?id=1755&amp;cname=All%20Fish%20Oil%20Supplements" id="cat_ps_1755">Krill &amp; fish oil</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_159"><a href="../category.asp?id=159&amp;cname=Oral%20Hygiene%20and%20Dental%20Care" id="cat_159">Dental</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_1183"><a href="../productset.asp?id=2320&amp;cname=Kids%20Health" id="cat_ps_2320">Kids Health</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_129"><a href="../category.asp?id=129&amp;cname=Hair%20Care" id="cat_129">hair Care</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li id="top_nav_1255"><a href="../category.asp?id=1255&amp;cname=Sports%20Nutrition" id="cat_1255">Protein</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li><a href="../BestSellers.asp">best sellers</a></li>
+    <li style="padding:0px"><img src="/images/2013/header/nav_seperator.gif" width="2" height="27" alt="design_image"></li>
+
+    <li><a href="../categories.asp" style="font-weight:bold; color:#fff34a">all categories</a></li>
+</ul>
+<!-- End of New Top Navigation with Drop Down menu -->
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div id="SiteDefault">
+		<!-- INDEX BAR -->
+		<!-- INDEX BAR END -->
+
+<!-- START MAIN TABLE - 3 COLUMN SETUP -->
+<table width="880" border="0" cellspacing="0" cellpadding="0" style="padding-top:7px">
+<tbody><tr>
+	<td width="150" height="7" valign="top"><img src="../images/Blankspace.gif" width="150" height="1" border="0"></td>
+	<td width="12" height="7" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
+	<td width="406" height="7" valign="top"><img src="../images/Blankspace.gif" width="406" height="1" border="0"></td>
+	<td width="12" height="1" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
+	<td width="300" height="1" valign="top"><img src="../images/Blankspace.gif" width="300" height="1" border="0"></td>
+</tr>
+<tr>
+	<td width="149" valign="top" align="left"><!-- START LEFT BAR FRAME -->
+<!-- SIDEBAR -->
+	
+<div>
+    
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=542&amp;Fragrances">
+                    <img src="/images/2012/Left_nav/CatList/542.jpg" width="150" height="114" title="Fragrances" alt="Fragrances">
+                </a>
             </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=542&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
         </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=81&amp;Vitamins">
+                    <img src="/images/2012/Left_nav/CatList/81.jpg" width="150" height="114" title="Vitamins" alt="Vitamins">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=81&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=20&amp;Baby Care">
+                    <img src="/images/2012/Left_nav/CatList/20.jpg" width="150" height="114" title="Baby Care" alt="Baby Care">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=20&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=517&amp;Weight Loss">
+                    <img src="/images/2012/Left_nav/CatList/517.jpg" width="150" height="114" title="Weight Loss" alt="Weight Loss">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=517&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=159&amp;Oral Hygiene and Dental Care">
+                    <img src="/images/2012/Left_nav/CatList/159.jpg" width="150" height="114" title="Oral Hygiene and Dental Care" alt="Oral Hygiene and Dental Care">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=159&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=257&amp;Beauty">
+                    <img src="/images/2012/Left_nav/CatList/257.jpg" width="150" height="114" title="Beauty" alt="Beauty">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=257&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=694&amp;Confectionery">
+                    <img src="/images/2012/Left_nav/CatList/694.jpg" width="150" height="114" title="Confectionery" alt="Confectionery">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=694&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=89&amp;Sexual Health">
+                    <img src="/images/2012/Left_nav/CatList/89.jpg" width="150" height="114" title="Sexual Health" alt="Sexual Health">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=89&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+            <div align="center" style="width:150px"><img src="/images/2012/Left_nav/CatList/horz_div.gif" width="150" height="31"></div>
+            
+        <div align="center" style="width:150px">
+            <div>
+                <a href="../category.asp?id=261&amp;Prescriptions">
+                    <img src="/images/2012/Left_nav/CatList/261.jpg" width="150" height="114" title="Prescriptions" alt="Prescriptions">
+                </a>
+            </div>
+            <div class="ShopNow_Opti"><a href="../category.asp?id=261&amp;Vitamins"><img src="/images/2012/buttons/ShopNow.jpg" width="126" height="29" alt="Shop Now"></a></div>
+        </div>
+        
+</div>
+<!-- START SHOPPING INFO PANEL -->
+<!-- SIDEBAR END -->
+<!-- END LEFT BAR FRAME --></td>
+	<td width="12" height="1" valign="top"><img src="../images/Blankspace.gif" width="12" height="1" border="0"></td>
+	<td width="406" valign="top"><!-- START MAIN CONTENT FRAME --><div id="MainContent">
+	<table width="406" border="0" cellspacing="0" cellpadding="0">
+    	<tbody><tr><td valign="top">
+<!-- MAIN -->
+
+<div class="page_title">
+    <div class="text">
+        Privacy
+    </div>
+</div>
+
+<div style="margin-left: 10px; margin-right: 10px; text-align:left"><br>
+
+<font color="#112244"><b>What is Chemist Warehouse's Privacy Statement?</b></font><br>
+Our web server makes a record of your visit and logs the following information for
+statistical purposes - the user's server address, the user's top level domain name
+(eg. .com, .gov, .au, .uk etc.), the date and time of the visit to the site, the pages
+accessed and documents downloaded, the referring site and the type of browser used. 
+No attempt will be made to identify users or their browsing activities 
+except, in the unlikely event of an investigation, where a law enforcement 
+agency may exercise a warrant to inspect the web server's logs.<br>
+<br>
+<font color="#112244"><b>What do we do with the data collected in our privacy statement?</b></font><br>
+Chemist Warehouse uses this information to improve our services and capabilities in operating
+our business for the consumer. We do not sell, provide, or allow our information to be
+viewed by any other person other than those employed by Chemist Warehouse.<br>
+<br>
+<font color="#112244"><b>Why do we collect email addresses?</b></font><br>
+Chemist Warehouse requires email addresses for correspondence in regard to 
+orders placed and registration of users. We do not use these emails for 
+commercial use without prior consent.<br>
+<br>
+<font color="#112244"><b>Why do we require Patient Profiles to be entered on particular products?</b></font><br>
+Patient profiles are required for particular products to ensure that these products will not cause any potential interactions with other drugs, allergies or health conditions that the patient may currently take or have. The information is not supplied to any other party. Patient Profiles are not required for products that we deem do not have a potential for these types of interactions.<br>
+<br>
+<font color="#112244"><b>How can Chemist Warehouse customers ensure the accuracy of data quality and security in regard to their personal information?</b></font><br>
+The customers enter all information collected and stored on Chemist Warehouse customers. Registered customers can view and alter this information by logging in with their username and password and accessing their account information. The information includes patient profiles, addresses, and past orders. Access to this information by Chemist Warehouse staff can only be performed by staff members with a secure password, with access only performed when required. Access to this information is recorded by log files to track unauthorised access and modifications.<br>
+<br>
+<font color="#112244"><b>Can Chemist Warehouse customers order with anonymity?</b></font><br>
+As Chemist Warehouse requires a physical address to deliver parcels to and a signature on delivery, anonymity cannot be assured.<br>
+<br>
+<font color="#112244"><b>How can Chemist Warehouse customers' information be removed from our database?</b></font><br>
+If at any stage an Chemist Warehouse customer would like their information removed from our database, we require an email with the username, password and identifying information and the patients file will be deleted from our records. Please send to:<br>
+<br>
+<a href="mailto:info@chemistwarehouse.com.au"><b>info@chemistwarehouse.com.au</b></a><br>
+<br>
+<br>
+<br>
+
+
+
+</div><!-- MAIN END -->
+
+	</td></tr>
+	</tbody></table>
+	</div><!-- END MAIN CONTENT FRAME --></td>
+	<td width="20" height="1" valign="top"><img src="../images/Blankspace.gif" width="5" height="1" border="0"></td>
+	<td width="300" valign="top">
 
         
+
+            <div style="margin-top:0px">
+                <!--Made all the elements clickable and linked to WSWU page - 4 April 2014 - by L. Morasa -- 10 lines affected-->
+<!---Added asterisk to the line 'Lowest Prices Guaranteed' - 16 April 2014 by L. Morasa -- 1 line affected-->
+<div class="whyshop_container">
+    <div><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp" style="border:0px;"><img src="/images/2013/footer/whyshop_header.png" width="298" height="34" alt="Why Shop With Us"></a></div>
+    <div>
+        <ul>
+            <li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp">Australia's #1 Online Pharmacy</a></li>
+            <li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp">Lowest Prices Guaranteed*</a></li>
+            <li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp">Safe, Secure and Trusted</a></li>
+            
+                <!--Changed "Almost" to "Over" - 11 April 2014 by L.Morasa-->
+                <li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp">Over 300 Stores Nationally!</a></li>
+            
+            <!--Removal of 90% Shipped reference - by L.Morasa ~ 6 June 2014-->
+            
+            <!--<li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp">Over 90% Shipped Next Day</a></li>-->
+            
+            <li><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp"><span style="font-weight:bold; color:#ff1f32">FREE SHIPPING</span> On Orders Over $99*</a></li>
+        </ul>
+
+    </div>
+    <div><a href="http://www.chemistwarehouse.com.au/AboutUs/why-shop-with-us.asp" style="border:0px;"><img src="/images/2013/footer/whyshop_footer4.png" width="298" height="39" alt="Secure Shopping"></a></div>
+</div>
+            </div>
+
+            
                 <div id="FSBPlaceHolder_div" style="display:none">
                     <div class="freeshipping_yellowbox">
                         <div class="text">simply add <span id="need_more_value" style="color:Black; text-decoration:underline">-</span> to your cart!</div>
@@ -961,46 +918,32 @@ If at any stage an Chemist Warehouse customer would like their information remov
                 </div>
             
 
-            <div style="margin-top:8px">
+<!--START Removal/Hiding of Store Locations tile from Right Hand Side - 11 April 2014 by L.Morasa-->
+            <!--<div style="margin-top:8px">
                 
-                    <a href="../aboutus/storelocator/default.asp"><img src="/images/2013/footer/store_locator.png" width="300" alt="View Store Locations"></a>
+                    <a href="../aboutus/storelocator/default.asp"><img src="/images/2013/footer/store_locator.png" width="300" alt="View Store Locations" /></a>
                 
-            </div>
+                    <a href="../home.asp"><img src="/images/2012/footer/shoponline.gif" width="300" height="250" alt="Shop Online Now" /></a>
+                
+            </div>-->
+<!--END Removal/Hiding of Store Locations tile from Right Hand Side - 11 April 2014 by L.Morasa-->
 
             
                <div style="padding-top: 8px;">
                     
-                        <a href="http://catalogues.chemistwarehouse.com.au/catalogue/chemist-warehouse-catalogue-scorching-xmas-sale/4ww6w3i8i.html?pid=promotedCatalogue#pageNo=4" target="_blank">
-                        <img src="/Marketing/FeatureTile/CW-RHST-HOWDecCat_h_1371891215.jpg" width="300"></a>
+                        <a href="http://catalogues.chemistwarehouse.com.au/home.html" target="_blank">
+                        <img src="/Marketing/FeatureTile/CW-RHST-July_554545476.jpg" width="300"></a>
                     
                 </div>
             
-
-            <div style="margin-top:8px">
-                <div class="whyshop_container">
-    <div><img src="/images/2013/footer/whyshop_header.png" width="298" height="34" alt="Why Shop With Us"></div>
-    <div>
-        <ul>
-            <li>Australia's #1 Online Pharmacy</li>
-            <li>Lowest Prices Guaranteed</li>
-            <li>Safe, Secure and Trusted</li>
+               <div style="padding-top: 8px;">
+                    
+                        <a href="http://catalogues.chemistwarehouse.com.au/catalogue/chemist-warehouse-catalogue-the-house-of-wellness-june-edition/4yz3p6ybf.html?pid=promotedCatalogue#pageNo=0" target="_blank">
+                        <img src="/Marketing/FeatureTile/RHST-June-HOW-Catalogue_1806467970.jpg" width="300"></a>
+                    
+                </div>
             
-                <li>Almost 300 Stores Nationally!</li>
-            
-            <li><span style="font-weight:bold; color:#ff1f32">FREE SHIPPING</span> On Orders Over $99*</li>
-        </ul>
-
-    </div>
-    <div><img src="/images/2013/footer/whyshop_footer3.png" width="298" height="39" alt="Secure Shopping"></div>
-</div>
-            </div>
-
-            
-           <!--NEWFROM2012 DELETE 9 LINES - START  
-            <div style="margin-top:15px">
-                <a href="http://catalogues.chemistwarehouse.com.au" target="_blank"><img src="/Catalogue/CatalogueImages/183/catalogue.jpg" width="300" alt="View Our Latest Catalogue Now!" /></a>
-            </div>
-             
+           <!--NEWFROM2012 DELETE 9 LINES - START   
             NEWFROM2012 DELETE 9 LINES - END-->
 
             
@@ -1035,131 +978,126 @@ If at any stage an Chemist Warehouse customer would like their information remov
 
                 
 
-                <div>
-                    <div><img src="/images/2012/footer/checklist/1.jpg" alt="Got Everything You Need?" width="300" height="108"></div>
+                <div class="notepad_LHS">
                     <div>
-                    <a href="../category.asp?id=161&amp;cname=Toothbrushes" style="display:block">
-                        <img src="/images/2012/footer/checklist/2.jpg" alt="Toothbrush" width="300" height="22" onmouseover="this.src='/images/2012/footer/checklist/2_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/2.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=162&amp;cname=Toothpaste+%26+Gel" style="display:block">
-                        <img src="/images/2012/footer/checklist/3.jpg" alt="Toothpaste" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/3_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/3.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=1183&amp;cname=Deodorants" style="display:block">
-                        <img src="/images/2012/footer/checklist/4.jpg" alt="Deodorants" width="300" height="17" onmouseover="this.src='/images/2012/footer/checklist/4_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/4.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=129&amp;cname=Hair+Care" style="display:block">
-                        <img src="/images/2012/footer/checklist/5.jpg" alt="Hair Product" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/5_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/5.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=600&amp;cname=Fragrances+%2D+Mens" style="display:block">
-                        <img src="/images/2012/footer/checklist/6.jpg" alt="Aftershave" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/6_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/6.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=542&amp;cname=Fragrances" style="display:block">
-                        <img src="/images/2012/footer/checklist/7.jpg" alt="Perfume" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/7_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/7.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=81&amp;cname=Vitamins" style="display:block">
-                        <img src="/images/2012/footer/checklist/8.jpg" alt="Vitamins" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/8_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/8.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=665&amp;cname=Skin+Care" style="display:block">
-                        <img src="/images/2012/footer/checklist/9.jpg" alt="Moisturiser" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/9_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/9.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=214&amp;cname=Sunscreen%2C+Lotions+%26+Gels" style="display:block">
-                        <img src="/images/2012/footer/checklist/10.jpg" alt="Suncreen" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/11_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/10.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=90&amp;cname=Feminine+Hygiene" style="display:block">
-                        <img src="/images/2012/footer/checklist/12.jpg" alt="Tampons" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/12_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/12.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=91&amp;cname=Condoms" style="display:block">
-                        <img src="/images/2012/footer/checklist/13.jpg" alt="Condoms" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/13_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/13.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=157&amp;cname=Men%27s+Shavers+%26+Blades" style="display:block">
-                        <img src="/images/2012/footer/checklist/14.jpg" alt="Shavers" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/14_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/14.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=20&amp;cname=Baby+Care" style="display:block">
-                        <img src="/images/2012/footer/checklist/15.jpg" alt="Baby Needs" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/15_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/15.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=514&amp;cname=Insect+Repellents" style="display:block">
-                        <img src="/images/2012/footer/checklist/16.jpg" alt="Insect Repellents" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/16_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/16.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=517&amp;cname=Weight+Loss" style="display:block">
-                        <img src="/images/2012/footer/checklist/17.jpg" alt="Weight Loss" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/17_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/17.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=236&amp;cname=Cleansers" style="display:block">
-                        <img src="/images/2012/footer/checklist/18.jpg" alt="Face Wash &amp; Soap" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/18_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/18.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=230&amp;cname=Acne" style="display:block">
-                        <img src="/images/2012/footer/checklist/19.jpg" alt="Pimple Stuff" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/19_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/19.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=648&amp;cname=Cosmetics" style="display:block">
-                        <img src="/images/2012/footer/checklist/20.jpg" alt="Make Up" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/20_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/20.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=232&amp;cname=Depilatory" style="display:block">
-                        <img src="/images/2012/footer/checklist/21.jpg" alt="Wax" width="300" height="17" onmouseover="this.src='/images/2012/footer/checklist/21_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/21.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=196&amp;cname=Analgesics" style="display:block">
-                        <img src="/images/2012/footer/checklist/22.jpg" alt="Pain Killers" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/22_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/22.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=1111&amp;cname=Tissues+%26+Cotton+Wool" style="display:block">
-                        <img src="/images/2012/footer/checklist/23.jpg" alt="Cotton Buds" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/23_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/23.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=583&amp;cname=Band-Aid" style="display:block">
-                        <img src="/images/2012/footer/checklist/24.jpg" alt="Band Aids" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/24_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/24.jpg'">
-                    </a>
-                </div>
-                <div>
-                    <a href="../category.asp?id=694&amp;cname=Confectionery" style="display:block">
-                        <img src="/images/2012/footer/checklist/25.jpg" alt="Lollies" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/25_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/25.jpg'">
-                    </a>
-                </div>
-                    <div><img src="/images/2012/footer/checklist/26.jpg" width="300" height="37"></div>
-                </div>
-            
-               <div style="margin-bottom: 10px; padding-top: 8px;">
-                    
-                        <a href="http://www.redcross.org.au/typhoon-haiyan-2013.aspx" target="_blank">
-                        <img src="/Marketing/FeatureTile/CW-RHS-typhoonappeal_h_1453411901.jpg" width="300"></a>
-                    
+                        <div><img src="/images/2012/footer/checklist/1.jpg" alt="Got Everything You Need?" width="300" height="108"></div>
+                        <div>
+                        <a href="../category.asp?id=161&amp;cname=Toothbrushes" style="display:block">
+                            <img src="/images/2012/footer/checklist/2.jpg" alt="Toothbrush" width="300" height="22" onmouseover="this.src='/images/2012/footer/checklist/2_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/2.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=162&amp;cname=Toothpaste+%26+Gel" style="display:block">
+                            <img src="/images/2012/footer/checklist/3.jpg" alt="Toothpaste" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/3_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/3.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=1183&amp;cname=Deodorants" style="display:block">
+                            <img src="/images/2012/footer/checklist/4.jpg" alt="Deodorants" width="300" height="17" onmouseover="this.src='/images/2012/footer/checklist/4_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/4.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=129&amp;cname=Hair+Care" style="display:block">
+                            <img src="/images/2012/footer/checklist/5.jpg" alt="Hair Product" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/5_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/5.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=600&amp;cname=Fragrances+%2D+Mens" style="display:block">
+                            <img src="/images/2012/footer/checklist/6.jpg" alt="Aftershave" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/6_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/6.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=542&amp;cname=Fragrances" style="display:block">
+                            <img src="/images/2012/footer/checklist/7.jpg" alt="Perfume" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/7_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/7.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=81&amp;cname=Vitamins" style="display:block">
+                            <img src="/images/2012/footer/checklist/8.jpg" alt="Vitamins" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/8_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/8.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=665&amp;cname=Skin+Care" style="display:block">
+                            <img src="/images/2012/footer/checklist/9.jpg" alt="Moisturiser" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/9_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/9.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=214&amp;cname=Sunscreen%2C+Lotions+%26+Gels" style="display:block">
+                            <img src="/images/2012/footer/checklist/10.jpg" alt="Suncreen" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/11_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/10.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=90&amp;cname=Feminine+Hygiene" style="display:block">
+                            <img src="/images/2012/footer/checklist/12.jpg" alt="Tampons" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/12_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/12.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=91&amp;cname=Condoms" style="display:block">
+                            <img src="/images/2012/footer/checklist/13.jpg" alt="Condoms" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/13_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/13.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=157&amp;cname=Men%27s+Shavers+%26+Blades" style="display:block">
+                            <img src="/images/2012/footer/checklist/14.jpg" alt="Shavers" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/14_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/14.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=20&amp;cname=Baby+Care" style="display:block">
+                            <img src="/images/2012/footer/checklist/15.jpg" alt="Baby Needs" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/15_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/15.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=514&amp;cname=Insect+Repellents" style="display:block">
+                            <img src="/images/2012/footer/checklist/16.jpg" alt="Insect Repellents" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/16_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/16.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=517&amp;cname=Weight+Loss" style="display:block">
+                            <img src="/images/2012/footer/checklist/17.jpg" alt="Weight Loss" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/17_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/17.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=236&amp;cname=Cleansers" style="display:block">
+                            <img src="/images/2012/footer/checklist/18.jpg" alt="Face Wash &amp; Soap" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/18_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/18.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=230&amp;cname=Acne" style="display:block">
+                            <img src="/images/2012/footer/checklist/19.jpg" alt="Pimple Stuff" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/19_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/19.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=648&amp;cname=Cosmetics" style="display:block">
+                            <img src="/images/2012/footer/checklist/20.jpg" alt="Make Up" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/20_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/20.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=232&amp;cname=Depilatory" style="display:block">
+                            <img src="/images/2012/footer/checklist/21.jpg" alt="Wax" width="300" height="17" onmouseover="this.src='/images/2012/footer/checklist/21_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/21.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=196&amp;cname=Analgesics" style="display:block">
+                            <img src="/images/2012/footer/checklist/22.jpg" alt="Pain Killers" width="300" height="18" onmouseover="this.src='/images/2012/footer/checklist/22_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/22.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=1111&amp;cname=Tissues+%26+Cotton+Wool" style="display:block">
+                            <img src="/images/2012/footer/checklist/23.jpg" alt="Cotton Buds" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/23_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/23.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=583&amp;cname=Band-Aid" style="display:block">
+                            <img src="/images/2012/footer/checklist/24.jpg" alt="Band Aids" width="300" height="19" onmouseover="this.src='/images/2012/footer/checklist/24_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/24.jpg'">
+                        </a>
+                    </div>
+                    <div>
+                        <a href="../category.asp?id=694&amp;cname=Confectionery" style="display:block">
+                            <img src="/images/2012/footer/checklist/25.jpg" alt="Lollies" width="300" height="20" onmouseover="this.src='/images/2012/footer/checklist/25_mo.jpg'" onmouseout="this.src='/images/2012/footer/checklist/25.jpg'">
+                        </a>
+                    </div>
+                        <div><img src="/images/2012/footer/checklist/26.jpg" width="300" height="37"></div>
+                    </div>
                 </div>
             
 
@@ -1167,26 +1105,6 @@ If at any stage an Chemist Warehouse customer would like their information remov
 </tr>
 </tbody></table>
 <!-- END MAIN TABLE - 3 COLUMN SETUP -->
-
-
-    <div style="margin-top:20px">
-        <div style="width:750px; background-image:url(/images/2012/footer/email_sub_bg.jpg); background-repeat:repeat-x; margin: 0 auto; height:36px; position:relative">
-            <div style="float:left; width:351px; height:36px">
-                <img src="/images/2012/footer/email_sub_left.jpg" alt="Subscribe for exclusive offers by email" title="Subscribe for exclusive offers by email">
-            </div>
-            <div style="float:left; width:387px; height:36px">
-                <form method="GET" action="/subscribe/default.aspx" name="subsribe_EDM">
-                    <input type="text" name="subsribe_EDM_email_popup" class="email_sub_TB_footer defaultText" title="Enter email address...">
-                    <input type="hidden" name="EDM_SUB_FROM" value="other">
-                    <input type="image" name="Subscribe" src="/images/2012/footer/email_sub_btn.png" style="width:122px; height:28px; margin:4px 0px 4px 12px; float: left; border:none">
-                </form>
-            </div>
-            <div style="float:left; width:12px; height:36px">
-                <img src="/images/2012/footer/email_sub_right.jpg">
-            </div>
-        </div>
-    </div>
-
 
 <!-- TO ENABLE PAGE SKINNING -->
 
@@ -1197,76 +1115,66 @@ If at any stage an Chemist Warehouse customer would like their information remov
 <!-- START FOOTER -->
 <div id="top_nav_footer">
     <div class="rows">
-        <div class="row info_link" style="width:900px">
-          <a href="../aboutus/storelocator/default.asp">Store Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/shipping.asp">Shipping</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/payment.asp">Security</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/privacy.asp">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../careers/">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/faq.asp">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/terms.asp">Terms &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;
-          
-            <a href="../samples/">Samples For Free</a>
-          
+        
+        <div style="height:72px; border-bottom:2px solid #d3dadf; background-color:#ff0030; background-image:url(/images/2014/footer/footer_pointer.jpg); background-repeat:no-repeat; background-position:top center">
+            
+            <div class="row" style="width:900px; text-align:left;color:#fff;font-size:22px;font-weight:bold;padding-top:17px;line-height:37px;vertical-align:middle">
+            <!--START Update the Email Newsletter form text and div setting - 15 April 2014 by L.Morasa-->
+                <div style="float:left; text-align:center; margin-right:23px; margin-left:55px; ">
+            <!--Old text "Sign up for hot offers and HUGE savings!"-->
+                    Join our Email Newsletter!
+                </div>
+            <!--END Update the Email Newsletter form text - 15 April 2014 by L.Morasa-->    
+                <form method="GET" action="/subscribe/default.aspx" name="subsribe_EDM" style="padding:0;margin:0">
+                <div style="width:310px;float:left">
+                    <div style="width:310px;height:33px;background-color:#fff; border:2px solid #fffc05">
+                        <input type="text" name="subsribe_EDM_email_popup" class="email_sub_TB_footer defaultText" title="Enter email address...">
+                        <input type="hidden" name="EDM_SUB_FROM" value="other">
+                    </div>
+                    <div style="*margin-top:-12px"><img src="/images/2014/footer/edm_shadow.png" width="310" height="7"></div>
+                </div>
+                <div style="width:120px;float:left;vertical-align:top">
+                    <input type="image" name="Subscribe" src="/images/2014/footer/edm_signup_btn.png" style="width:96px; height:42px; border:none">
+                </div>
+                </form>
+            </div>
         </div>
-        <div style="text-align:center">
-            <img src="/images/2012/footer/footer_horz_sep.jpg" width="627" height="2" style="margin:0 auto">
+        
+        <div style="border-bottom:2px solid #d3dadf">
+            
+            <div class="row info_link" style="width:950px;text-align:center">
+                <!--Add Refund Policy text link, remove About Us and Sample for Free links - 13 May 2014 by L. Morasa-->
+              <a href="../aboutus/storelocator/default.asp">Store Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/shipping.asp">Shipping</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/payment.asp">Security</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../refundpolicy/default.asp">Refund Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/privacy.asp">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../careers/">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/faq.asp">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../AboutUs/terms.asp">Terms &amp; Conditions</a><!--<a href="../samples/">Samples For Free</a>-->
+              
+                <script type="text/javascript">
+                    function launchPlayer(siteCode) {
+                        var w = 734;
+                        var h = 376 + 90;
+                        var t = 0;
+                        var l = 0;
+
+                        try {
+                            t = (screen.height - h) / 2;
+                            l = (screen.width - w) / 2;
+                        } catch (e) {
+                        }
+                        var playerWin = window.open("http://player.arn.com.au/" + siteCode + ".aspx", "playerWin" + siteCode, "top=" + t + ",left=" + l + ",width=" + w + ",height=" + h + ",scrollbars=0,resizable=0", 1);
+                        playerWin.focus();
+                    }
+                </script>
+                &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://player.arn.com.au/cwremix.aspx" target="_blank" title="Listen live" onclick="launchPlayer('cwremix'); return false">Remix Radio</a>
+              
+            </div>
         </div>
         <div class="row contact_info">
             Phone: 1300 367 283&nbsp;&nbsp;|&nbsp;&nbsp;Stores: 1300 734 876&nbsp;&nbsp;|&nbsp;&nbsp;Fax: 1300 363 879&nbsp;&nbsp;|&nbsp;&nbsp;Email: <a href="mailto:info@chemistwarehouse.com.au">info@chemistwarehouse.com.au</a>
         </div>
         
-        <div class="row">
-            
-                    <div class="column footer_left_col">
-                        <a href="../home.asp"><img src="/images/2012/header/logo.png" width="100" height="100" alt="Go to home page"></a>
-	                </div>
-	                <div class="column footer_right_col">
-                        <a href="../home.asp"><img src="/images/2012/header/slogan.png" width="258" height="100" alt="Go to home page"></a>
-	                </div>
-                    <div class="column middle_sep">
-                        <a href="../home.asp"><img src="/images/2012/footer/footer_vert_sep.jpg" width="2" height="100" style="margin-left:10px"></a>
-	                </div>
-                    
-            <div class="column most_right_col">
-                <div style="width:260px; clear:both; padding-bottom:10px">
-                    <div style="float:left; width:55px"><a href="http://www.qcpp.com" target="_new"><img src="/images/2012/footer/qcpp.png" width="55" height="55" alt="Quality Care Pharmacy"></a></div>
-                    <div style="float:left; width:25px">&nbsp;</div>
-                    <div style="float:left; width:180px; font-size:9px; padding-top:10px; text-align:justify">Chemist Warehouse is now accredited for internet, distance dispensing and retail pharmacy.</div>
-                </div>
-                <div class="clear-row">
-                    &nbsp;
-                </div>
-                
-                <div style="width:260px; clear:both; padding-bottom:10px">
-                    <div style="float:left; width:31px">&nbsp;</div>
-                    <div style="float:left; width:115px">
-                        <script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-                    </div>
-                    <div style="float:left; width:10px">&nbsp;</div>
-                    <div style="float:left; width:94px"><!-- START SCANALERT CODE --><a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.chemistwarehouse.com.au&amp;lang=AU"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.chemistwarehouse.com.au/23.gif?lang=AU" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a><!-- END SCANALERT CODE --></div>
-                </div>
-                
-	        </div>
-	        <div class="clear-row">
-            </div>
+        <div class="row" style="padding:10px 0 25px 0">
+            <img src="/images/2014/footer/logos_new.png" width="527" height="33" alt="Payment &amp; Security">
         </div>
-        
-        <div class="row">
-            <script type="text/javascript">
-                function launchPlayer(siteCode) {
-                    var w = 734;
-                    var h = 376 + 90;
-                    var t = 0;
-                    var l = 0;
 
-                    try {
-                        t = (screen.height - h) / 2;
-                        l = (screen.width - w) / 2;
-                    } catch (e) {
-                    }
-                    var playerWin = window.open("http://player.arn.com.au/" + siteCode + ".aspx", "playerWin" + siteCode, "top=" + t + ",left=" + l + ",width=" + w + ",height=" + h + ",scrollbars=0,resizable=0", 1);
-                    playerWin.focus();
-                }
-            </script>
-            <a href="http://player.arn.com.au/cwremix.aspx" target="_blank" title="Listen live" onclick="launchPlayer('cwremix'); return false"><img src="/images/2012/footer/CWRemix.gif" width="272" height="76" style="margin-left:auto; margin-right:auto; margin-top:15px; margin-bottom:5px" border="0"></a>
-        </div>
-        
-        <div class="row" style="text-align:center; font-size:9px; padding-top:10px; padding-bottom:20px">
+        <div class="row" style="text-align:center; font-size:9px; padding-top:10px; padding-bottom:20px; width:910px">
             
             *Please note that not all products available online are available in the stores. In addition, some stores may have slightly different prices on selected lines.<br>
             
@@ -1319,6 +1227,6 @@ If at any stage an Chemist Warehouse customer would like their information remov
     <div style="text-align:center"><img src="/images/ui-anim_basic_16x16.gif"></div>
     <div style="text-align:center; padding-top:5px">Please Wait...</div>
   </div>
-</div></div><div class="pp_pic_holder popup" style="top: 127px; left: 263px; width: 840px;">       <div class="ppt" style="width: 800px; opacity: 1;">&nbsp;</div>       <div class="pp_top">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>       <div class="pp_content_container">        <div class="pp_left">        <div class="pp_right">         <div class="pp_content" style="height: 496px; width: 800px;">          <div class="pp_loaderIcon" style="display: none;"></div>          <div class="pp_fade">           <a href="#" class="pp_expand" title="Expand the image" style="display: none;">Expand</a>           <div class="pp_hoverContainer" style="height: 460px; width: 800px; display: none;">            <a class="pp_next" href="#">next</a>            <a class="pp_previous" href="#">previous</a>           </div>           <div id="pp_full_res">
-    <iframe id="actualContent" src="/subscribe/popup_form.asp?wmode=transparent" width="800px" height="460px" frameborder="0" scrolling="no" allowtransparency="true" style="background-color:transparent; overflow:hidden"></iframe>
-</div>           <div class="pp_details" style="width: 800px;">            <div class="pp_nav" style="display: none;"><a href="#" class="pp_play">Play</a>             <a href="#" class="pp_arrow_previous">Previous</a>             <p class="currentTextHolder">1/1</p>             <a href="#" class="pp_arrow_next">Next</a>            </div>            <p class="pp_description" style="display: none;"></p>            <div class="pp_social"></div>            <a class="pp_close" href="#">Close</a>           </div>          </div>         </div>        </div>        </div>       </div>       <div class="pp_bottom">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>      </div>      <div class="pp_overlay" style="opacity: 0.7; height: 4633px; width: 1366px;"></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</div></div><div class="pp_pic_holder popup" style="top: 103.5px; left: 263px; display: block; width: 840px;">       <div class="ppt" style="opacity: 1; display: block; width: 800px;">&nbsp;</div>       <div class="pp_top">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>       <div class="pp_content_container">        <div class="pp_left">        <div class="pp_right">         <div class="pp_content" style="height: 496px; width: 800px;">          <div class="pp_loaderIcon" style="display: none;"></div>          <div class="pp_fade" style="display: block;">           <a href="#" class="pp_expand" title="Expand the image" style="display: none;">Expand</a>           <div class="pp_hoverContainer" style="height: 460px; width: 800px; display: none;">            <a class="pp_next" href="#">next</a>            <a class="pp_previous" href="#">previous</a>           </div>           <div id="pp_full_res">
+    <iframe id="actualContent" src="/subscribe/popup_form.asp" width="800px" height="460px" frameborder="0" scrolling="no" allowtransparency="true" style="background-color:transparent; overflow:hidden"></iframe>
+</div>           <div class="pp_details" style="width: 800px;">            <div class="pp_nav" style="display: none;"><a href="#" class="pp_play">Play</a>             <a href="#" class="pp_arrow_previous">Previous</a>             <p class="currentTextHolder">1/1</p>             <a href="#" class="pp_arrow_next">Next</a>            </div>            <p class="pp_description" style="display: none;"></p>            <div class="pp_social"></div>            <a class="pp_close" href="#">Close</a>           </div>          </div>         </div>        </div>        </div>       </div>       <div class="pp_bottom">        <div class="pp_left"></div>        <div class="pp_middle"></div>        <div class="pp_right"></div>       </div>      </div>      <div class="pp_overlay" style="opacity: 0.7; height: 2580px; width: 1366px; display: block;"></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 201; top: 0px; left: 0px; display: none;"></ul></body></html>
