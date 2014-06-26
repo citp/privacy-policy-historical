@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930220843id_/http%3A//www.kingcounty.gov/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626204206id_/http%3A//www.kingcounty.gov/about/website/privacy) for the most accurate reproduction.*
 
-# Privacy and the King County Website
+# Privacy - King County
 
 ### Preface
 
-King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.56 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56) (Washington Public Disclosure Act) and consistent with [KCC 2.14.030](https://web.archive.org/web/20130930220843id_/http%3A//www.kingcounty.gov/About/~/media/66F5294335984517A42266E6B1DC28DC.ashx) (1.4MB DOC; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
+King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.56 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56) (Washington Public Disclosure Act) and consistent with KCC 2.14.030 (1.4MB DOC; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
 
 ### Information privacy
 
@@ -16,7 +16,7 @@ King County gathers personal information when it is relevant and necessary, fair
   * Take steps to ensure that, at the time of collection, your personal information is accurate, complete and current. 
   * Provide your personal information only to authorized King County employees and private contractors or public organizations on a need-to-know basis and as a result of a public disclosure request as required by the Public Records Act. 
   * Do not sell or make your personal information available to others without your consent   
-except when:
+except when: 
     * Legally required or permitted by law; or 
     * Needed to complete your transaction with the county. 
   * Retain personal information only as long as necessary to conduct county business in accordance with records retention schedules. 
@@ -45,10 +45,10 @@ To find out more, contact King County at the e-mail address or telephone number 
 
 ### Contact information and alternate languages
 
-For privacy inquiries or alternate languages, please contact King County by e-mail at [PrivacyContact@kingcounty.gov](mailto:PrivacyContact@kingcounty.gov) or leave a telephone message at 206-205-6899. (Languages offered: Cambodian, Chinese, Korean, Laotian, Russian, Spanish and Vietnamese.)
+For privacy inquiries or alternate languages, please contact King County by e-mail at [PrivacyContact@kingcounty.gov](mailto:PrivacyContact@kingcounty.gov) or leave a telephone message at [206-296-4025](tel:2062964025). (Languages offered: Cambodian, Chinese, Korean, Laotian, Russian, Spanish and Vietnamese.)
 
 ### Other King County privacy notices
 
 Some King County agencies may have privacy notices that are more restrictive than this information privacy notice. In that case, the agency's specific privacy notice takes precedence over this notice. For privacy inquiries specific to a King County agency's privacy notice, please contact that agency directly.
 
-Alternate formats of this document are available by telephone, at 206-205-6899 or TTY Relay 711.
+Alternate formats of this document are available by telephone, at [206-296-4025](tel:2062964025) or TTY Relay 711.
