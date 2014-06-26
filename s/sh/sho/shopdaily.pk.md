@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopdaily.pk privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213093858id_/http%3A//www.shopdaily.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopdaily.pk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064936id_/http%3A//www.shopdaily.pk/privacy.php) for the most accurate reproduction.*
 
 # Tohfay.com-Privacy Policy
 
