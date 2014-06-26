@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126004614id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114301id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Erito.com ("our", "we", "us" the "site") websites including but not limited to Erito.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Erito ("our", "we", "us" the "site") websites including but not limited to Erito. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
 ## USE
 
