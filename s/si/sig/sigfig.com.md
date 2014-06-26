@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigfig.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202229id_/https%3A//www.sigfig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigfig.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052704id_/https%3A//www.sigfig.com/l/privacy) for the most accurate reproduction.*
 
 # SigFig :: Privacy Policy
 
@@ -16,15 +16,33 @@ SigFig has been awarded TRUSTe's Privacy Seal signifying that this privacy polic
 
 We collect user submitted account information such as name, email address, and profile photo to identify you and send you notifications related to the use of the services offered by the Sites. We maintain information you submit in your profile on the Sites, and we also collect user submitted content about companies and investing and other information. We collect information from you when you send us feedback as well. Some information collected is not explicitly submitted by the user. Examples of such information include (but are not limited to): browser-type related information, IP address, requested URL, referring URL, and timestamp. See “Use of Cookies and IP Address” below. If you choose to use our portfolio tracker service, we also collect your brokerage account login credentials provided by you and information about your holdings in those accounts.
 
+## Additional Information Collected for Operations for the Paid Service
+
+We may collect additional information from paid service members in order to rebalance user accounts in line with brokerage firm security requirements including: 
+
+  * Social Security numbers and financial account numbers
+  * Account balances and transaction information
+  * Income and employment information
+
+
+
+We may collect other information from you during your use of the paid service. For example, if you sync your financial institution to the paid service, your financial institution may provide us with information about you and your account to facilitate our ability to provide our services to you and to reduce the amount of data you need to enter. The information we collect may include but is not limited to your name, age, salary, financial account information including financial institution, contributions, investment holdings and preferences, and contact information.
+
+We keep records of our advisory service, which may include but are not limited to records of the advice that we provide to you, your use of our services, and your communications to us about our services.
+
 ## Blogs, Forums, and Wikis
 
 If you use a blog, forum, wiki, or other publicly published content product on the Site or Partner Portfolio Trackers, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-## How We Use Your Information
+## How We Use Portfolio Information
 
 Information such as your full name, profile photo and any personally identifiable information you have included in your profile may be shown to users, primarily in conjunction with any content you have contributed. We use information supplied to us to respond to your feedback or inquiries. In addition, part of the Wikinvest service is a real time feed that displays user activity. For example, if you post an article, a streaming notice may be posted about that activity or the activity of other users. This is part of the Wikinvest service and Wikinvest users may not opt-out of this functionality. Your full name and email address may also be used when you send an email notification to another user on Wikinvest. We may also use your email address to send you communications from us or messages that we send you on behalf of other users, but you may opt out of receiving emails by changing your email preferences in your profile settings.
 
 We never share your personally identifiable information with our advertisers. Our ad targeting is done entirely anonymously. If advertisers select demographic targeting for their ads, we automatically match those ads to the appropriate audience. Advertisers only receive anonymous data reports.
+
+## How We Use Information Collected Through the Paid Service
+
+Your personal, investment and forecast information is maintained by SigFig in order to provide you with customized investment services and to fulfill our legal and regulatory requirements. By having more information about you, we are able to customize our services to your particular investment preferences. We may use your brokerage account information in order to rebalance your accounts and keep your accounts in line with the investment preferences that you specified when signing up for the paid service. Data that does not include personally identifiable information may be used for research purposes. For instance, we may compile data, excluding personally identifiable information, for purposes of demographic analysis and research.
 
 ## Service-related Announcements
 
@@ -92,7 +110,7 @@ Our Sites utilizes framing techniques to make it appear that the user is still o
 
 Conversely, the Partner Portfolio Trackers appear on our partners’ websites but are actually offered or hosted by us. The Partner Portfolio Trackers will be clearly marked with our name, and your use of them will be governed by this privacy policy.
 
-## Modifcation to the Privacy Policy
+## Modifications to the Privacy Policy
 
 By using the Sites or the Partner Portfolio Trackers, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use any of the Sites or Partner Portfolio Trackers. We may modify this Privacy Policy at any time. If a material change is made to this Privacy Policy and/or the way we use our users’ personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the Sites or Partner Portfolio Trackers indicates your assent to any changes to this Privacy Policy.
 
