@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyworks4me.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229172243id_/http%3A//www.moneyworks4me.com/stock-market/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyworks4me.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022559id_/http%3A//www.moneyworks4me.com/stock-market/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – For Portfolio Management, Value Investing & Stock Analysis
 
