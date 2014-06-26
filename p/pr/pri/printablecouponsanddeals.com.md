@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117055850id_/http%3A//printablecouponsanddeals.com/438-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061509id_/http%3A//www.printablecouponsanddeals.com/438-2) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy » Printable Coupons and Deals
 
@@ -23,6 +23,9 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
+Compliance with children’s online privacy protection act  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
 AdSense and General Privacy Policy Provided by JenSense
 
 **Our Disclosure Policy** ****
@@ -34,5 +37,11 @@ This blog accepts forms of cash advertising, sponsorship, paid insertions or oth
 Due to the high volume of advertising requests on PrintableCouponsAndDeals,  and in order to offer our potential clients a flexible and reliable system, we have decided to exclusively use Google  Awords for managing adhoc advertising on our websites. Google Adwords allows advanced targeting (geographically and content-based), reduces costs and is very manageable in terms of your investment.
 
 The owner(s) of this blog are not compensated to provide opinions on products, services, websites and various other topics. The views and opinions expressed on this blog are purely the blog owners. If we claim or appear to be experts on a certain topic or product or service area, we will only endorse products or services that we believe, based on our expertise, are worthy of such endorsement. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer or provider. This blog does not contain any content which might present a conflict of interest.
+
+Changes to this privacy policy  
+PrintableCouponsAndDeals.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our website. Your continued use of the website following the posting of changes to this policy will be deemed as your acceptance of the terms.
 
 To get your own disclosure policy, go to <http://www.disclosurepolicy.org/>
