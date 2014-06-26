@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609000925id_/http%3A//www.atlnightspots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020457id_/http%3A//www.atlnightspots.com/privacy-policy) for the most accurate reproduction.*
 
-# Atlnightspots | Privacy Policy
+# Privacy Policy
 
 **Privacy  Policy **
 
@@ -37,7 +37,7 @@ We and our subscriptions servicing provider are the sole custodians of the infor
 
 _Cookies_
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use cookies and other similar interfaces that the standard internet software installed on your computer makes available to website proprietors such as ourselves for monitoring and tracking the identity of the websites you browse.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use cookies and other similar interfaces that the standard internet software installed on your computer makes available to website proprietors such as ourselves for monitoring and tracking the identi*y of the websites you browse.
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser or client software’s “help” file.
 
@@ -51,12 +51,12 @@ This privacy statement covers only our own use of cookies, and does not cover th
 
 _Third Party Advertisers_
 
-The ads appearing on this Web site are delivered to users by a third party advertising network, such as Google or Yahoo. We share Web site usage information about users for the purpose of targeting our Internet banner advertisements on this site.
+The ads appearing on this Web site are delivered to users by a third party advertising network, such as Google or Yahoo. We share Web site usage information about users for the purpose of targeting our Internet banner advertisem**ts on this site.
 
 Advertising networks uses cookies and clear GIFs on this site, which allow it to recognize a user’s cookie when a user visits this site. The information that they collect and share through this technology is not personally identifiable.
 
 _Changes in this Privacy Statement_  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circu*stances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
