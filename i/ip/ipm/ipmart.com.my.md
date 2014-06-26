@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipmart.com.my privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023353id_/http%3A//www.ipmart.com.my/main/page_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipmart.com.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151352id_/http%3A//ipmart.com.my/main/page_privacy_policy.php) for the most accurate reproduction.*
 
 # ipmart.com :: Privacy Policy
 
