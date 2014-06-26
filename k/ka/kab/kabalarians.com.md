@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118185621id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabalarians.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085946id_/http%3A//www.kabalarians.com/cfm/cfmincludes/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Looking for your Purpose in Life, the Meaning of a Name, Meaning of Baby Names, or how to Make a Name Change?
 
@@ -14,7 +14,7 @@ We, at the Society of Kabalarians of Canada ("Society") are firmly committed to 
   * How is the personal information used 
   * With whom may the information be shared 
   * What choices are available to you regarding collection, use and disclosure of the information 
-  * What kind of security procedures are in place to protect loss, misuse or alteration of information under our control 
+  * What kind of security procedures are in place to protect loss, misuse, or alteration of information under our control 
   * How can you correct any inaccuracies in the information 
   * How long do we keep your personal information 
 
@@ -32,7 +32,7 @@ The purpose for collecting personal information from people will be identified b
 
 ### Principle 3 - Consent
 
-We shall require the customer's knowledge and consent for the collection, use or disclosure of their personal information, except where required or permitted by law. 
+We shall require the customer's knowledge and consent for the collection, use, or disclosure of their personal information, except where required or permitted by law. 
 
 ### Principle 4 - Limiting Collection
 
@@ -70,9 +70,9 @@ The Kabalarian Philosophy will not retain your personal information longer than 
 
 ### Cookies
 
-The Kabalarian Philosophy web site uses cookies. Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. The Kabalarian Philosophy also uses cookies when you register for one of our web programs. In this situation, a cookie will store useful information that enables our web site to remember you when you return. The Kabalarian Philosophy can only read cookies from the Kabalarian Philosophy web site. 
+The Kabalarian Philosophy web site uses cookies. Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. The Kabalarian Philosophy also uses cookies when you register for one of our products. In this situation, a cookie will store useful information that enables our web site to remember you when you return. The Kabalarian Philosophy can only read cookies from the Kabalarian Philosophy web site. 
 
-If you choose to disable cookies in your browser, you can still access most of our web site. Some areas will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
+If you choose to disable cookies in your browser, you can still access most of our web site. Some areas will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping cart will not work and you would not be able to order. 
 
 Current versions of Web browsers offer enhanced user controls regarding the placement and duration of both first and third party cookies. Search for "Cookies" under your Web browser's Help menu for more information on cookie management features available to you. 
 
@@ -100,14 +100,12 @@ We need your help in making sure your personal information is correct in our sys
 
 Each email newsletter has instructions on how to unsubscribe.
 
-The Kabalarian Philosophy forums are public. Please consider this before posting.
-
 ### Types and Uses of Personal Information
 
 Your personal information is used in the following ways: 
 
   * User IDs and Passwords — Provide you with access to your profile areas and to protected content. Account Information — Tells us more about who you are, how to contact you, and your shipping and billing information. Also contains any preferences you have provided, such as language, e-mail format and interests. 
-  * Customer Feedback and Support — Provides a mechanism for requesting information from the Kabalarian Philosophy. Also used to tell us how we can improve our products, services and site designs. 
+  * Customer Feedback and Support — Provides a mechanism for requesting information from the Kabalarian Philosophy, and a way that you can improve our products, services and site designs. 
   * E-mail Correspondence — Used to raise and respond to issues and inquiries of all types. Also used to distribute information about the Kabalarian Philosophy, our products, and services. 
   * Transactions — Show which products and services you have requested. 
 
@@ -117,14 +115,13 @@ We will only use your personal information in the ways specified when it was col
 
 ### Policy Updates
 
-All updates to this policy will be posted here. Last update: October 12, 2011
+All updates to this policy will be posted here. Last update: June 25, 2014
 
 ###  Need Help with an Update, Access or Unsubscribe Request?
 
 [Contact the Kabalarian Philosophy](https://web.archive.org/cfm/feedback.cfm). To aid in processing your request, please include the following details:
 
   * Contact information (your name, address, email address, etc.) 
-  * Name of the program where you want the update applied 
   * Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) 
 
 
@@ -138,9 +135,7 @@ Check out the privacy policy frequently asked questions (FAQs) listed below. Sho
 ###  FAQs
 
 **_Q: What should I do if I have a privacy question after reading the policy and FAQs?_**  
-A: As always, you can send your privacy questions and comments to us at [privacy@kabalarians.com](mailto:privacy@kabalarians.com?Subject=Privacy%20Question). We will use these items as input to future FAQs. Please send technical support questions to the [technical support department](mailto:technical99@kabalarians.com?Subject=Technical%20Question). 
+A: As always, you can send your privacy questions and comments to us at [privacy@kabalarians.com](mailto:privacy@kabalarians.com?Subject=Privacy%20Question). We will use these items as input to future FAQs. Please send technical support questions to the [technical support department](mailto:technical99@kabalarians.com?Subject=Technical%20Question).
 
 _**Q: Does this policy also cover personal information collected offline?**_  
 A: Yes. We strive to have consistent privacy practices for your personal information, regardless of the medium used to collect the information. 
-
-* * *
