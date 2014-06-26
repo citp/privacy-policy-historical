@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bachelorsportal.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509090345id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bachelorsportal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060919id_/http%3A//www.studyportals.eu/about/privacy) for the most accurate reproduction.*
 
-# StudyPortals: The European Study Choice Platform
+# StudyPortals: Taking you further
 
-_We respect the privacy of visitors to the websites owned by StudyPortals B.V. (hereafter “the Website”) and take care that the personal data which you provide us is handled in a confidential manner. The processing of the personal data happens in a manner in accordance with the demands of the Dutch Data Protection Act._
+_We respect the privacy of visitors to the websites owned by StudyPortals B.V. (hereafter "the Website") and take care that the personal data which you provide us is handled in a confidential manner. The processing of the personal data happens in a manner in accordance with the demands of the Dutch Data Protection Act._
 
  **Goals of the data processing**
 
@@ -18,7 +18,7 @@ We try to keep this data as anonymous as we can.
 
  **Google Analytics**
 
-We make use of Google Analytics to keep track of how visitors use the Website and how effective our AdWords-advertisements are on Google’s search results. The acquired data is, including the address of your computer (IP-address), transferred to and by Google to be stored in servers in the United States. Please read Google’s privacy policy for more data in addition to Google Analytics specific privacy policy. 
+We make use of Google Analytics to keep track of how visitors use the Website and how effective our AdWords-advertisements are on Google´s search results. The acquired data is, including the address of your computer (IP-address), transferred to and by Google to be stored in servers in the United States. Please read Google´s privacy policy for more data in addition to Google Analytics specific privacy policy. 
 
 Google uses this data to keep track of how the Website is used, to report on the use of the Website to us and to be able to inform its advertisers about the effectiveness of their campaigns. Google can share this data with third parties when they are required to do so by Law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. We have not granted permission to Google to use the acquired data for any other services provided by Google.
 
@@ -28,15 +28,23 @@ Incorporated in the Website are buttons to promote or share web-pages on the soc
 
 Please read the privacy statements of AddThis, Facebook and Twitter (which are changed on a regular basis) to see what they do with the personal data which is acquired and processed by this code.
 
- **E-mail services**
+ **User account**
 
-We offer newsletters with which we want to inform interested persons about news and developments in the area of higher education, our services and related events, as well as personal notifications and service messages about the status of your account. Your e-mail address will only be added to our list of subscribers with your express permission. Every newsletter contains a link with which you can remove yourself from our mailing list. The data of subscribers is not shared with any third parties.
+You can create an account in order to customize their experience. As registered user you can for instance save your favourite programmes or search queries, and more easily contact the universities of your interest. We save information about your interest in order to present relevant content. This includes your former search queries and click behaviour. We send occasional personal notifications and service messages about the status of your account; this can include a request to update your account details.
+
+ **Inquiries**
+
+You can reach out to education institutes through our Website, by means of an electronic form. The details in your inquiry will then be shared with the particular institute you are trying to contact, and only with that institute. By sending in inquiry you also create your own user account, enabling you to view the inquiries you sent. We will never share your contact details or other information which can be used to personally identify you with any institute or third party without your express consent. 
+
+**E-mail services**
+
+We offer newsletters with which we want to inform interested persons about news and developments in the area of higher education, our services, and related events. Your e-mail address will only be added to our list of newsletter subscribers with your express permission. We also offer update mailings which contain information we believe will be of interest to you, based on your profile information and indicated interests. The frequency of these update mailings will be set to a default frequency upon the creation of your user account. Every newsletter and update mailing contains a link with which you can adjust the frequency or remove yourself from our mailing list. The data of subscribers is not shared with any third parties.
 
  **Use of cookies**
 
 We make use of cookies in the offering and performance of our electronic services. A cookie is a simple small file which is sent along with the web-pages of the Website and is saved on your hard-drive by your browser. We use cookies to save your options and preferences. You can disable these cookies through your browser, see for examples and more data on cookies [http://www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-Cookies from the American company Google are placed through the Website as part of the “Analytics”-service. We use this service to keep track of and acquire data on how visitors use the Website. Google can share data when required to do so by law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. 
+Cookies from the American company Google are placed through the Website as part of the "Analytics"-service. We use this service to keep track of and acquire data on how visitors use the Website. Google can share data when required to do so by law, or to the extent that third parties process this data for Google. We have no influence on how Google performs its business practices. 
 
 **Insight, correction and removal**
 
@@ -44,7 +52,7 @@ When you have a relation with StudyPortals B.V., you have after written request 
 
 StudyPortals B.V.
 
-Torenallee 45 – 4.02
+Torenallee 45 4.02
 
 5617 BA Eindhoven
 
