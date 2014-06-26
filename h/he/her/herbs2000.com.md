@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbs2000.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103173417id_/http%3A//www.herbs2000.com/h_menu/2_disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs2000.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131617id_/http%3A//www.herbs2000.com/h_menu/2_disclaimer.htm) for the most accurate reproduction.*
 
 # Disclaimer
 
@@ -12,5 +12,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Google's use of the DART cookie enables it to serve ads to our users based on their visit. Users may opt out or learn more about the use of the DART cookie by visiting: [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
-  
+## Archived articles
 
+[2012](https://web.archive.org/web/20140626131617id_/http%3A//www.herbs2000.com/articles/2012.htm) , [2013](https://web.archive.org/web/20140626131617id_/http%3A//www.herbs2000.com/articles/2013.htm)
