@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812221522id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092717id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Packaging - Privacy Policy
 
@@ -109,4 +109,4 @@ Australia
 [privacy@info-pack.com](mailto:privacy@info-pack.com)
 
 **Additional Security Information**  
-This information is unrelated to this [Privacy page](http://www.info-pack.com/privacy.htm), however keeping your privacy [secure](http://www.uwsp.edu/admin/stuaffairs/rights/rightsSecurityCamPolicy.pdf) is on every ones minds. So considering the many options, which range from [Security CCTV Cameras](http://www.123-cctv.com/) to simple [security camera systems](http://www.123-cctv.com/seccams/secsystems.html), one issue is certain - these matters will never fade again.
+This information is unrelated to this [Privacy page](http://www.info-pack.com/privacy.htm), however keeping your privacy [secure](http://www.uwsp.edu/admin/stuaffairs/rights/rightsSecurityCamPolicy.pdf) is on every ones minds. So considering the many options, which range from [Security CCTV Cameras](http://www.123-cctv.com/) to simple [security camera systems](http://www.123-cctv.com/seccams/secsystems.htm), one issue is certain - these matters will never fade again.
