@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230170120id_/http%3A//scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111922id_/https%3A//scripted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scripted
 
-Scripted ("Scripted" or "We") is very sensitive to the privacy needs of its website visitors and members (collectively, "You" or "User") and recognizes the importance of protecting personally identifiable information that You may choose to share with Scripted. This Online Privacy Policy ("Privacy Policy") provides You with important information regarding Scripted's collection, storage and use of personally identifiable information.
+Scripted (“Scripted” or “We”) is very sensitive to the privacy needs of its website visitors and members (collectively, “You” or “User”) and recognizes the importance of protecting personally identifiable information that You may choose to share with Scripted. This Online Privacy Policy (“Privacy Policy”) provides You with important information regarding Scripted’s collection, storage and use of personally identifiable information.
 
-This Privacy Policy applies only to personally identifiable information collected on the website(s) operated by Scripted on which this Privacy Policy is posted (collectively, "Website"), and does not apply to any other information collected by Scripted offline or through any other means.
+This Privacy Policy applies only to personally identifiable information collected on the website(s) operated by Scripted on which this Privacy Policy is posted (collectively, “Website”), and does not apply to any other information collected by Scripted offline or through any other means.
 
 Capitalized terms not defined in this Privacy Policy are defined in the Scripted Terms of Service.
 
 Registration Information
 
-Scripted never automatically collects any information that specifically identifies Users, such as their name, address, or e-mail address. Scripted collects personally identifiable information from Users only when Users voluntarily provide it as part of the registration process ("Registration Information") to open an Account. We always ask Users whenever we need Registration Information that identifies Users or allows us to contact Users.
+Scripted never automatically collects any information that specifically identifies Users, such as their name, address, or e-mail address. Scripted collects personally identifiable information from Users only when Users voluntarily provide it as part of the registration process (“Registration Information”) to open an Account. We always ask Users whenever we need Registration Information that identifies Users or allows us to contact Users.
 
 Scripted may collect and use personally identifiable information from Users for purposes other than to open an Account, e.g., such as subscribing to a newsletter, participating in polls, surveys, and questionnaires, using tell-a-friend features, participating in contests, sweepstakes, or other promotions, or receiving technical support.
 
 Consent and Security
 
-It is Your choice whether or not You provide Your Registration Information to Scripted, but Registration Information is required in order for Scripted to provide You with services - namely, access to and/or participation in Jobs, to post Jobs and receive Writer Services, and certain other features of the Website.
+It is Your choice whether or not You provide Your Registration Information to Scripted, but Registration Information is required in order for Scripted to provide You with services – namely, access to and/or participation in Jobs, to post Jobs and receive Writer Services, and certain other features of the Website.
 
 Use of Personally Identifiable Information
 
@@ -28,7 +28,7 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 Usage Information
 
-Non-personally identifying information ("Usage Information") comprises information that does not identify any particular User. Examples include: information about which of Scripted's pages are visited on an aggregate level, browser type, operating system type, or IP address of a User.
+Non-personally identifying information (“Usage Information”) comprises information that does not identify any particular User. Examples include: information about which of Scripted’s pages are visited on an aggregate level, browser type, operating system type, or IP address of a User.
 
 Scripted may collect other types of non-personally identifying information, e.g., age, date of birth, gender, hobbies, or other demographic information.
 
@@ -38,7 +38,7 @@ Your Usage Information may be disclosed internally within Scripted and to third 
 
 Cookies and Log Files
 
-The Website may place a text file called a "cookie" in the browser files of Your computer. Cookies can be used to provide You with tailored information from the Website. The cookie itself does not contain Registration Information. You can set Your browser to notify You when You receive a cookie, giving You the chance to decide whether or not to accept it. Scripted also records information that Your web browser sends whenever You visit any website, such as Your Internet Protocol address.
+The Website may place a text file called a “cookie” in the browser files of Your computer. Cookies can be used to provide You with tailored information from the Website. The cookie itself does not contain Registration Information. You can set Your browser to notify You when You receive a cookie, giving You the chance to decide whether or not to accept it. Scripted also records information that Your web browser sends whenever You visit any website, such as Your Internet Protocol address.
 
 The Website uses a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on the Website, such as the frequency with which our Users visit various parts of the Website. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We may collect information from use of these technical methods in a form that is personally identifiable.
 
@@ -58,7 +58,7 @@ Upon such removal, Scripted may not be able to provide certain services or featu
 
 Third-party Advertisers, Links to Other Sites
 
-Scripted may allow advertising services companies to serve advertisements within the Website. Advertising may be based on usage, text, demographic, or other information gathered by or on behalf of Scripted. Scripted's Privacy Policy does not apply to, and we cannot control, the activities of advertisers.
+Scripted may allow advertising services companies to serve advertisements within the Website. Advertising may be based on usage, text, demographic, or other information gathered by or on behalf of Scripted. Scripted’s Privacy Policy does not apply to, and we cannot control, the activities of advertisers.
 
 This Privacy Policy applies only to the Website operated by Scripted, and not to any other websites to which we may link.
 
@@ -66,7 +66,7 @@ Our Commitment To Data Security
 
 Scripted uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of Your personally identifiable information. We cannot, however, ensure or warrant the security of any information You provide to Scripted and You do so at Your own risk. Once We receive Your transmission of information, Scripted makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-Our Commitment To Children’s' Privacy
+Our Commitment To Children’s’ Privacy
 
 Protecting the privacy of young children is especially important. For that reason, Scripted does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If You are under 13 years of age, then please do not use or access the Website at any time or in any manner. If Scripted learns that personally identifiable information of persons under 13 years of age has been collected on the Website without verified parental consent, then Scripted will take appropriate steps to delete this information.
 
