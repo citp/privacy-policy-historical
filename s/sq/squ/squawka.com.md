@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squawka.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222103445id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawka.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060938id_/http%3A//www.squawka.com/privacy-policy) for the most accurate reproduction.*
 
 # Squawka | Privacy Policy
 
@@ -32,4 +32,4 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 ## Controlling your personal information
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us at [info[AT]squawka.com](mailto:info\[AT\]squawka.com) or write to Squawka Ltd, Warnford Court, 29 Throgmorton Street, London EC2N 2AT. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us at [rikkesh[AT]squawka.com](mailto:rikkesh@squawka.com) or write to Squawka Ltd, Warnford Court, 29 Throgmorton Street, London EC2N 2AT. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
