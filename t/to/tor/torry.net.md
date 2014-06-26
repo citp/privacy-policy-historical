@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208221700id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627003948id_/http%3A//torry.net/privacy.php) for the most accurate reproduction.*
 
 # Torry's Delphi Pages
 
