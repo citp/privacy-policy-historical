@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225091615id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040948id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ## We are committed to your privacy in every transaction
 
-At OneSimCard®, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes. We only share your personal information with financial service providers to process credit card transactions. 
+At OneSimCard®, the privacy and security of your personal information is extremely important to us. We want to make sure that your personal information is properly protected. We only grant access to personal information about you (such as your name, address, etc.) to our company employees to provide or offer products and services to you, process and service your account(s), and for administration purposes. We only share your personal information with financial service providers to process credit card transactions.
 
 ## OneSimCard Code of Conduct
 
@@ -16,7 +16,20 @@ Our Code of Conduct requires that your information remain confidential. Even if 
 
 ## Links to other sites
 
-This web site may contain links to other sites. If you use a link to visit the site of another company, we cannot be responsible for the privacy practices, content of that company, or its web site. We do not control the content, practices or policies of any other site, including what information those sites collect about you. Accordingly, we disclaim all liability for the actions of any third party site and do not endorse the privacy policies or information gathering practices of any site that you may visit from our site. If you respond to advertisements that are posted on our web site, direct marketing offers from third party sponsors or advertisers, or made available via our services, we cannot be held liable for the content, practices or policies of said sponsors or advertisers. Accordingly, we do not endorse, nor can OneSimCard be held liable for the privacy policies or information gathering practices of any sponsor or advertiser who may collect information about you. 
+This web site may contain links to other sites. If you use a link to visit the site of another company, we cannot be responsible for the privacy practices, content of that company, or its web site. We do not control the content, practices or policies of any other site, including what information those sites collect about you. Accordingly, we disclaim all liability for the actions of any third party site and do not endorse the privacy policies or information gathering practices of any site that you may visit from our site. If you respond to advertisements that are posted on our web site, direct marketing offers from third party sponsors or advertisers, or made available via our services, we cannot be held liable for the content, practices or policies of said sponsors or advertisers. Accordingly, we do not endorse, nor can OneSimCard be held liable for the privacy policies or information gathering practices of any sponsor or advertiser who may collect information about you.
+
+## How is your information collected?
+
+In two basic ways: 
+
+  * You provide it to us when you make a purchase or set up an account with us. 
+  * Some information is automatically collected when you use our products and services. For example, network tools are used to collect your call records which you can later review from your account; and we also use cookies and other technologies some provided to us by third parties to learn about your experience with our website. 
+
+
+
+## How the collected information is used?
+
+We use your information to improve customer experience and our services. Some examples include: providing customer & technical support; delivering customized content and relevant advertising; communicating service updates and special offers (please see “Communications from the website" section below); maintaining systems security; ensuring quality control; conducting research and development for improving our services; preventing illegal activities like fraud and other potential threats to our systems.
 
 ## Amendments to Our Privacy Policy
 
@@ -51,5 +64,5 @@ Contact [OneSimCard Support](https://web.archive.org/contact.php)
 Phone: 1-617-313-8888 or 1-800-640-2113  
 Fax:1-617-812-0370  
 Mail: PO Box 481, Belmont, MA 02478-0004, USA  
-© 2006-2013 Belmont Telecom Inc., DBA OneSimCard.com  
+© 2006-2014 Belmont Telecom Inc., DBA OneSimCard.com  
 All rights reserved
