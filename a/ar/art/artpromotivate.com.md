@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artpromotivate.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214014041id_/http%3A//www.artpromotivate.com/p/privacy-policy-and-disclosure.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artpromotivate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626175035id_/http%3A//www.artpromotivate.com/p/privacy-policy-and-disclosure.html) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - Artpromotivate
 
