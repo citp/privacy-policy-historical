@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819115733id_/https%3A//contactmonkey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmonkey.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115204id_/https%3A//contactmonkey.com/privacy) for the most accurate reproduction.*
 
-# ContactMonkey | Smart Email Tracking
+# Privacy Policy | ContactMonkey
 
 Your privacy is very important to us. We strive to ensure the privacy of everyone who visits this site. This privacy policy sets out what information we track and how we use it. By using this site, you consent to the collection of information in accordance with the terms of this privacy policy.
 
