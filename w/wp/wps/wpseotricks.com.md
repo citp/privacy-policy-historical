@@ -1,18 +1,25 @@
-> *The following text is extracted and transformed from the wpseotricks.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109060118id_/http%3A//www.wpseotricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpseotricks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091704id_/http%3A//www.wpseotricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPSEOTricks
+# Privacy Policy | WordPress SEO Tricks
 
 At [WPSeoTricks](http://www.wpseotricks.com/ "WPSeoTricks") the **privacy** of our visitors is extremely important. This _Privacy_ Policy outlines the types of personal information that is received and collected and how it is used. [WPSeoTricks](http://www.wpseotricks.com/ "WPSeoTricks") reserves the right to make changes in the policy of this blog anytime and without prior notice.
 
 ## **1\. Log Files**
 
-**We use log files like many other websites. The information in the log files include:**  
-* Internet Protocol addresses (IP)  
-* Types of browser  
-* Internet Service Provider (ISP)  
-* Date and time stamp  
-* Referring and exit pages  
-* Number of clicks  
+**We use log files like many other websites. The information in the log files include:**
+
+* Internet Protocol addresses (IP)
+
+* Types of browser
+
+* Internet Service Provider (ISP)
+
+* Date and time stamp
+
+* Referring and exit pages
+
+* Number of clicks
+
 All of this information is not linked to anything that is personally identifiable.
 
 ## 2\. Cookies
