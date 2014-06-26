@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011757id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626105706id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ArtFire.com
 
@@ -85,9 +85,9 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://artfire.com  
-7739 E Broadway # 167  
-Tucson, AZ 85710  
+http://www.artfire.com  
+283 N Stone  
+Tucson, AZ 85701  
 United States  
 service@artfire.com  
 
