@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexandani.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128161450id_/http%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandani.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626234519id_/http%3A//www.alexandani.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alex and Ani
 
 ## Categories of Information We Collect
 
