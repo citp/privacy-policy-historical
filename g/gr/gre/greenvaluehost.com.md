@@ -1,35 +1,24 @@
-> *The following text is extracted and transformed from the greenvaluehost.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109095830id_/http%3A//greenvaluehost.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenvaluehost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042148id_/http%3A//www.greenvaluehost.com/privacy.html) for the most accurate reproduction.*
 
 # GreenValueHost: Privacy Policy
 
-#### Privacy Policy
+#### Introduction
 
-This Privacy Policy will govern the use of your data by GreenValueHost
+This Privacy Policy describes in detail the information that we collect from you, what we do with the information, and our security practices to keep your data safe. 
 
-  
+#### Collected Information
 
+When you sign up for service with us, we collect your full name, email address, street address, city, country, phone number, IP address, payment information, and credit/debit card information (in cases whereas you pay with a credit/debit card).   
+If you contact us for technical support, we may request information such as your control panel login information, server IP address, and password(s). 
 
-#### Collection of Cookies
+#### Information Utilization
 
-This website uses cookies to collect information such as your IP address. Cookies are used for required purposes such as session management.   
+GreenValueHost utilizes the information you provide to us solely for the purposes of identifying your account, to provide customer support, and to collect payment for services rendered. We will not release any of your personally identifiable information to any persons or organizations other than law enforcement agencies or third parties whom provide services on our behalf (such as our credit/debit card processor). 
 
+#### Security of your Information
 
-#### Information Collected by GVH
+All of the information that we collect from you is stored in a safely secured environment, inaccessible and unavailable to view for all unauthorized persons outside of our company. The server in which stores your information will be kept up-to-date constantly with security updates and patches as needed to ensure that your information is always safe.
 
-GVH collects the following infomration from it's clients:  
-Contact information such as e-mail address, mailing address, phone number, fax number, etc.  
-Non-financial identification information such as username and password combinations to GVH-related services.  
-Payment information such as your PayPal e-mail used for payment.   
+#### Minors under the age of 13
 
-
-#### Usage of our collected Information
-
-We use the collected information from our clients to:  
-Register domain names associated with your account  
-Keep track of our clients  
-Contact you regarding GVH-related services   
-
-
-#### Confidentiality of your Information
-
-GreenValueHost will not release any of your information to any other companies. However, we reserve the right to fully cooperate with legal authorities in cases where we are required to release your information to law enforcement. 
+GreenValueHost understands that children's privacy is important and that it is necessary to protect the young from the dangers of the internet. Our services are not available for purchase for any persons under the age of 13. We will not intentionally store the information of any persons under the age of 13 and our services/website are in no way structured or targeted towards persons under the age of 13. 
