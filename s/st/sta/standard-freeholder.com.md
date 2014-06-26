@@ -1,91 +1,111 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105230137id_/http%3A//www.standard-freeholder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083745id_/http%3A//www.standard-freeholder.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cornwall Standard Freeholder
 
-* ## Welcome to Standard-Freeholder (the "Site").
+**Last Updated: February 12, 2014**
 
-We understand that privacy online is important to users of our Site, especially when conducting business. 
+**Cornwall Standard Freeholder, a division of Sun Media Corporation (Sun Media)** respects the confidentiality of the personal information of its subscribers, readers, advertisers, those who enter our contests and promotions and those who use any website or web page operated or provided by Sun Media. As part of our commitment to you, we want to clarify the details of our privacy policy concerning the personal information that we may collect, use or disclose. 
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Standard-Freeholder (collectively, "Services") ("Authorized Customers"). 
+Please read the following sections carefully. We also strongly suggest that you refer to the Terms and Conditions and this Privacy Policy periodically for changes or updates. Please be assured that Sun Media will not collect any personal information without your prior consent or knowledge. 
 
-* ## "Personally Identifiable Information"
+## Protection and respect of your privacy
 
-Refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
+Sun Media appreciates the concerns you may have with respect to the circulation of personal information on the Internet and, with your collaboration, wishes to address these issues. This is why we feel it is important that you fully understand the type of information we collect from you when visiting our website along with its intended use. 
 
-* ## What Personally Identifiable Information is collected?
+  * ## I- The collection and processing of aggregated personal information
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
+    * ### a. **"Cookies"**
 
-* ## What organizations are collecting the information?
+**What is a cookie?**
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
+"Cookies" are little bits of information that are sent by our web site servers to the Internet browser of your computer when you visit a web site. They are saved on your computer, either temporarily or permanently, keeping a trace of your passage associated with the IP address assigned to your computer or equipment. The information can include such things as the date and time of your last visit, a given answer to an online question, etc. This interaction between your computer and web sites can enhance your web experience by recording your navigation preferences for a given web site. For example, it will remember your language preference, your location, your user ID and password to a member restricted zone, etc. 
 
-* ## How does the Site use Personally Identifiable Information?
+The use of cookies on the web has become standard practice which evolves rapidly. Most Internet browsers used on computers or wireless equipment will accept them by default. If you so choose, you may, at any time, change the parameters of your computer or wireless equipment to disallow the use of cookies or, simply erase, from time to time, all the cookie files stored by your browser. However, in doing so, you could be unable to access the full features of certain sites. 
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+It should be noted that the actual cookie files stored on your hard drive are harmless. They may be read and deleted at any time. THUS, YOU ALWAYS HAVE THE CHOICE TO **OPT-OUT OR DISALLOW THE USE OF COOKIES** BY ACCESSING TO THE INTERNET OPTIONS OF YOUR COMPUTER SETTINGS. 
 
-* ## With whom may the information may be shared?
+    * ### b. **The use of cookies by Sun Media**
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+TO BETTER UNDERSTAND HOW VISITORS INTERACT WITH OUR WEB SITE AND HOW THEY VALUE OUR ADVERTISEMENT, WE USE GOOGLE ANALYTICS' SERVICES TO COLLECT AND ANALYZE AUDIENCE DATA, AND TO ADVERTISE OUR WEB SITES VISITORS BASED ON INTEREST. MORE SPECIFICALLY, WE USE THE FOLLOWING GOOGLE ANALYTICS SERVICES : GOOGLE ANALYTICS DEMOGRAPHICS AND REMARKETING. GOOGLE ANALYTICS ACTIVITIES ARE SUBJECT TO GOOGLE'S POLICIES AND TERMS. WHEN USING GOOGLE ANALYTICS SERVICES, SUN MEDIA DOES NOT SHARE NOR DISCLOSE ANY PERSONALIZED INFORMATION ABOUT YOU. THE INFORMATION SHARED OR DISCLOSES BY SUN MEDIA IS ALWAYS ANONYMIZED. 
 
-* ## How is Personally Identifiable Information stored?
+**IF YOU DON'T WANT TO BE PRESENTED WITH INTEREST BASE ADVERTISEMENT** , you may choose to set your computer to reject cookies or you can control advertising cookies from Google by using its Ad Preferences Manager, available here: <https://support.google.com/ads/answer/2662922?hl=en>. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer by other companies you can visit <http://youradchoices.ca/>. 
 
-Personally Identifiable Information collected by Standard-Freeholder is securely stored and is not accessible to third parties or employees of Standard-Freeholder except for use as indicated above. 
+The cookie files collected during your visit of our web site are used by Sun Media for the following reasons and shared with Google Analytics who may use it to improve its own products and services. Also, your interest in news content could help Google Analytics present you more relevant advertisements. 
 
-* ## What choices are available to Visitors regarding collection, use and distribution of the information?
+While the information cannot be used to directly identify a visitor, cookies provide important data for our marketing department as well as our research and development department. 
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
+The Sun Media web site uses cookies to : 
 
-* ## Are Cookies Used on the Site?
+      * enhance the user experience, 
+      * monitor traffic, 
+      * better understand its targeted audience, and 
+      * advertise according to user's interests and habits 
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
+#### Enhance user's experience
 
-* ## How does Standard-Freeholder use login information?
+For example, Sun Media web site will remember from your previous visits your favored language, your user ID and password, the key words search and field of interests. 
 
-Standard-Freeholder uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+#### Monitor traffic
 
-* ## What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
+It enables Sun Media to estimate the size of its audience, the favorite hours of visits, the fidelity of the visitor, the popularity of certain pages and sponsored content, etc. A better understanding of its audience helps Sun Media to improve its products and services to meet its user's needs and to give proper retribution to its sponsors. It also allows our sponsors to estimate or measure the probable or actual impact of their ads. It also allows us to determine our ad rates. While this information helps our sponsors buy ad space, it does not allow them to identify you individually. 
 
-Standard-Freeholder has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. 
+#### Understand its targeted audience (Google Analytics Demographics)
 
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. 
+Also, Sun Media will collect, from Google Analytics, aggregated demographic information on its visitors or web site users. By demographic information, Sun Media means user's age, gender, favorite language, interests and location. 
 
-Our privacy policy does not cover their collection or use of this information. 
+#### Interest base advertisement (Remarketing)
 
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+It allows Sun Media to display more relevant advertising and content to its users. Sun Media uses Google Analytics services to serve you with advertisements on and outside its web site. Google Analytics may place and access cookies on your browser to deliver tailored advertisements to you from and to Sun Media's web site. As a result, Google and third parties can show Sun Media's advertisements on sites across Internet. 
 
-* ## How does the Site keep Personally Identifiable Information secure?
+  * ## II- The collection and processing of identifiable personal information
 
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+The collection and processing of personal information takes place under very precise conditions and at specific times. For example, when participating in online contests, you are required to enter your name, postal address, e-mail and other personal information by filling out an online form. From time to time, Sun Media also solicits online reader comments on various issues and topics. For the comments to be accepted, Sun Media requires that you submit your full name and city, along with any relevant comments and information, for potential publication online or in the print version of the newspaper. 
 
-* ## How can Visitors correct any inaccuracies in Personally Identifiable Information?
+Sun Media also accepts letters to the editor online. When you send a letter to the editor to the Sun, you are consenting to the letter being published, along with your name and city. Please be advised that after you submit a letter to the editor, Sun Media owns the content of this letter and may republish it at any time. 
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
+At these very specific times, the information that you submit will be processed and be subject to a host of data collection practices including saving, storing, editing, detailing, archiving and destruction. 
 
-* ## Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+Sun Media also provides, within reasonable limits, means to verify the accuracy and to update your personal information. As well, on certain online forms, Sun Media may ask you if you wish to receive information on other services, contests or news about Sun Media and its partners. You are always given the option to decline such offers or to end your subscription to a previously requested service. 
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+WE WILL NEVER DISCLOSE ANY PERSONAL INFORMATION TO PARTIES OUTSIDE OF SUN MEDIA WITHOUT GIVING YOU AN OPPORTUNITY TO OPT OUT OR WITHOUT YOUR EXPLICIT PRIOR CONSENT. FURTHERMORE, ALL PERSONAL INFORMATION COLLECTED BY SUN MEDIA IS STORED IN SERVER SECTORS THAT ARE INACCESSIBLE TO THE PUBLIC. 
 
-* ## What happens if the Privacy Policy Changes?
+The length of time Sun Media retains your personal information will vary depending upon the rules and requirements of each individual contest, promotion, or activity. 
 
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+Despite the above, at any time, you may request that Sun Media end its use or planned uses of your personal information. Doing so may disentitle you to participate in contests. 
 
-* ## Links:
+IN ADDITION, SUN MEDIA MAY DISCLOSE YOUR PERSONAL INFORMATION: UPON REQUEST BY A LEGAL AUTHORITY OR IN GOOD FAITH WHEN SUCH ACTION IS DEEMED NECESSARY (A) IN ORDER TO ABIDE BY APPLICABLE LAWS OR REGULATIONS OR TO INTERVENE IN A LAWSUIT AGAINST SUN MEDIA; (B) IN ORDER TO PROTECT OR DEFEND THE LEGAL OR PROPERTY RIGHTS OF SUN MEDIA OR THOSE OF ITS USERS; AND (C) TO INTERVENE, UNDER EXTREME CIRCUMSTANCES, IN ORDER TO PROTECT THE PERSONAL SAFETY OF SUN MEDIA USERS OR THE SAFETY OF THE GENERAL PUBLIC. 
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+  * ## III- Be careful!
 
-* ## Contacting the privacy manager:
+Sun Media may contain links to third-party web sites; these are provided solely for your convenience. Clicking on these links will take you outside of the Sun Media. Please be advised that the Sun Media has no control over these third-party sites and, while Sun Media may feature such links, Sun Media will not, at any time, accept liability for these sites. Consequently, personal information that you provide to a web site outside of Sun Media is subject to the privacy protection policies of the given third-party site. In the event of abuse by such sites, Sun Media cannot, at any time, be held responsible. Therefore, we strongly urge you to carefully read the privacy protection policies of all third-party sites you choose to enter. 
 
-  * The Privacy Manager
-  * Sun Media Corporation
+We also wish to inform you that the risks associated with the supplying of personal information in a chat room, via e-mail or on a web-based message board are not covered by our privacy protection policy; thus, you must be extremely careful if you choose to supply personal information through these means. You are submitting this information at your own risk. Indeed, this information may be collected and used by third parties without your prior consent. In other words, if you choose to provide personal information online and this information is available to the public, you may, eventually, receive unsolicited e-mail from third parties. Sun Media declines all responsibility in this regard. We urge you to remain cautious and vigilant, at all times, on the Internet. 
+
+  * ## IV- Security
+
+Sun Media has set up security measures to protect you from the loss or unauthorized use of your supplied personal information. As well, our Sun Media servers are equipped with firewall technology. Despite these measures, and given that no technology is foolproof, we must advise you that there will always remain a certain amount of risk and that your personal information may be disclosed, without your consent, unintentionally, and without fault on the part of Sun Media. Sun Media declines any responsibility in the event that such confidential information is disclosed, unless caused by negligence on the part of the Sun Media. 
+
+  * ## V- Protection of children and teens on the Internet
+
+Children and teenagers are increasingly using the Internet and discovering its many advantages. However, as is the case in many other environments, their greater vulnerability may be targeted for crime and exploitation. This is why we urge you to monitor the Internet use of your children and teenagers and provide them with advice on security and recommendations based on common sense. Such measures will often prevent your children and teenagers from being exposed to offensive content, or from becoming victims of harassment or other criminal acts. 
+
+To reduce these risks, as a parent, you should exercise a reasonable amount of supervision of Internet use by your children and teenagers. They should be told to never give out their personal information, such as their name, address or phone number, on any Internet forum. 
+
+It is also important that children and teenagers be encouraged to share their concerns with you in the event that they receive disturbing or provocative messages. 
+
+These recommendations will help your children and teenagers surf the Internet in an informed fashion and allow you to ensure that they fully benefit from the learning and development possibilities that exist online. 
+
+  * ## In conclusion…
+
+We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that Sun Media reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
+
+If you have any questions or concerns about our privacy practices, you may call 416-947-3100 or contact us in writing at the following address: 
+
+
+
+  * Sun Media Corporation Privacy Officer
   * 333 King Street East
-  * Toronto, Ontario
-  * M5A 3X5
-  * E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
+  * Toronto ON M5A 3X5
 
 
-
-Any rights not expressly granted herein are reserved.  
-© 2012 Standard-Freeholder, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of Standard-Freeholder RSS feeds is strictly forbidden. 
-
-COPYRIGHT NOTICE. © 1999-2012 [PriorityDigital.com](http://209.204.219.152/) Prepared for: Standard-Freeholder, All rights reserved. 
+  *[ON]: Ontario
