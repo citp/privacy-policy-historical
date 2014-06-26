@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930045708id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appycouple.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052715id_/http%3A//www.appycouple.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Appy Couple
 
-This Privacy Policy governs the manner in which AppeProPo, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the appycouple.com website (the "Site") and the mobile application service generally known as “appycouple” or as “powered by appycouple” (the “Service”). This privacy policy applies to the Site and all products and services offered, managed or maintained by AppeProPo, Inc.
+This Privacy Policy governs the manner in which AppeProPo, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the appycouple.com website (the "Site") and the mobile application service generally known as “Appy Couple” or as “powered by Appy Couple” (the “Service”). This privacy policy applies to the Site and all products and services offered, managed or maintained by AppeProPo, Inc.
 
 **Personal identification information**
 
@@ -61,11 +61,8 @@ By using the Site and/or Service, you signify your acceptance of this policy and
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Appy Couple  
-AppeProPo, Inc, 1133 Broadway, Penthouse New York, NY, 10010  
-1-347-922-5235  
+AppeProPo, Inc, 1133 Broadway, Suite 923, New York, NY, 10010  
+(877) 868-2779  
 support@appycouple.com
 
-_This document was last updated on February 20, 2012_
-
-© 2012 AppeProPo, Inc.  
-Screens shown here are for simulation purposes only and may vary slightly depending on your device.
+_This document was last updated on November 2, 2013_
