@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109090259id_/http%3A//www.tomtop.com/helpcenter/index/post/post_id/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626185708id_/http%3A//www.tomtop.com/helpcenter/index/post/post_id/12) for the most accurate reproduction.*
 
 # TOMTOP Online Store - Wholesale Electronics, Home & Garden, LEDs, Clothing, Sport & Outdoor With Free Shipping
 
