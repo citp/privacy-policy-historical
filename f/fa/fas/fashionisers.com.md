@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121114722id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionisers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022800id_/http%3A//www.fashionisers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion Trends, Makeup Tutorials, Hairstyles and Style Secrets for Women
+# Privacy Policy | Fashion Trends, Makeup Tutorials, Hairstyles and Style Secrets
 
 ## **Privacy Policy and User License Agreement**
 
-The Fashionisers, which is the owner of the website [www.fashionisers.com](http://www.fashionisers.com/) (the “Site”), takes your privacy very seriously. Therefore, make sure to read the website’s “User License Agreement” and the “Privacy Policy” before using the Site. By using the Site, you agree to be legally bound by the User License Agreement. Otherwise, if you don’t want to be bound by this User License Agreement, please do not access fashionisers.com.  
+The Fashionisers, which is the owner of the website [www.fashionisers.com](http://fashionisers.com/) (the “Site”), takes your privacy very seriously. Therefore, make sure to read the website’s “User License Agreement” and the “Privacy Policy” before using the Site. By using the Site, you agree to be legally bound by the User License Agreement. Otherwise, if you don’t want to be bound by this User License Agreement, please do not access fashionisers.com.  
 The Fashionisers may change this User License Agreement and the Privacy Policy at any time by posting the changes made online. Please come to review the User License Agreement constantly to be aware of the changes made.
 
 ### **What Information the Site Collects**
@@ -54,7 +54,7 @@ The Site isn’t intended for children, especially those under age 13. We do not
 ### **Disclaimer**
 
 We do our best to provide you with the most accurate information on the Internet. However, we are NOT LIABLE for any losses or damages that may occur through your use of the information, services or products through the Site or any of the affiliated websites. Fashionisers.com cannot make any representation or warranty about the information collected on the Site. Postings on this site may have some errors and inaccurate information. However, the information is selected maximum carefully.  
-All the images that appear on the Site are copyrighted by their respective owners. We may link to other sites or mention the copyright owners of the images; however, we take no control or responsibility for the source. Fashionisers.com claims no credit for images unless noted. If you own the rights to any image that appears on the Site and do not wish them to appear on Fashionisers.com, please, [contact us](http://www.fashionisers.com/contact-us/), and they will be immediately removed.
+All the images that appear on the Site are copyrighted by their respective owners. We may link to other sites or mention the copyright owners of the images; however, we take no control or responsibility for the source. Fashionisers.com claims no credit for images unless noted. If you own the rights to any image that appears on the Site and do not wish them to appear on Fashionisers.com, please, [contact us](http://fashionisers.com/contact-us/), and they will be immediately removed.
 
 ### **Warning**
 
@@ -62,4 +62,4 @@ It is our goal to provide you with high quality, original content and we don’t
 
 ### **Questions and Suggestions**
 
-Should you have any questions about this privacy policy, feel free to [contact us](http://www.fashionisers.com/contact-us/).
+Should you have any questions about this privacy policy, feel free to [contact us](http://fashionisers.com/contact-us/).
