@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107203622id_/http%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094707id_/http%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
@@ -10,13 +10,13 @@ At Jurys Inn, the privacy and protection of personal data is treated with the ut
 
 We fully endorse and adhere to the principles of the Data Protection Acts 1998 and 2003. Specifically, we state that we will: 
 
-  * Obtain and process information fairly. 
-  * Keep it only for one or more specified, explicit and lawful purpose. 
-  * Use and disclose it only in ways compatible with these  purposes. 
-  * Keep it safe and secure. 
-  * Keep it accurate, complete and up to date. 
-  * Ensure that it is adequate, relevant and not excessive. 
-  * Retain it for no longer than is necessary for the purpose or purposes. 
+  * Obtain and process information fairly.
+  * Keep it only for one or more specified, explicit and lawful purpose.
+  * Use and disclose it only in ways compatible with these  purposes.
+  * Keep it safe and secure.
+  * Keep it accurate, complete and up to date.
+  * Ensure that it is adequate, relevant and not excessive.
+  * Retain it for no longer than is necessary for the purpose or purposes.
   * Give a copy of his/her personal data to that individual, on written request.
 
 
