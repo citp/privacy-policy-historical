@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106224949id_/http%3A//www.islandcrisis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124030id_/http%3A//www.islandcrisis.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Island Crisis
 
 IslandCrisis.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
