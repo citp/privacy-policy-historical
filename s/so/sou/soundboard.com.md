@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822101147id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundboard.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626184255id_/http%3A//www.soundboard.com/privacy.aspx) for the most accurate reproduction.*
 
 # Soundboard.com Privacy Policy
 
