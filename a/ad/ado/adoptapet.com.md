@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194531id_/http%3A//www.adoptapet.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoptapet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124746id_/http%3A//www.adoptapet.com/public/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policies :: Adopt-a-Pet.com
 
+Adopt-a-Pet.com Terms of Use and Privacy Policies
+
 **So, what are the rules?**  
 Adopt-a-Pet.com is a free service where your local animal shelters and rescue groups lists their pets available for adoption. It is free for you to use and free for the animal shelters and rescue groups as well. We simply provide a way for you to see homeless pets that animal shelters and rescue groups are advertising for adoption. The adoption fees and adoption guidelines for each pet vary with the different shelters so to find out about a particular pet, please contact the organization directly who has the pet. We do not house, make any guarantees or have any contact with any of the pets listed on our website. Information regarding pets posted on Adopt-a-Pet.com is provided by the posting organization and is not checked for accuracy nor guaranteed to be accurate or complete. We are not therefore responsible for any issues that may arise out of contact you have with any pets listed on our site. We are also not responsible for any issues that arise regarding any of the organizations or individuals that post pets on our site. We do our best to make sure that animal shelters and rescue groups keep their listings on our website up to date, and that these groups are reputable and responsive to the public, but we assume no responsibility for any actions any of these organizations may or may not take. By using the Adopt-a-Pet.com website, you releases Adopt-a-Pet.com and it's parent foundation as well as all sponsors from any and all liability arising out of or in any way connected with the use of this website or the adoption of a pet listed on the this website. 
+
+All images and text on Adopt-a-Pet.com, whether accessed on this website or via tools that access the data from this website, and whether originating from our approved animal shelters/rescues or from Adopt-a-Pet.com itself, is for the sole use of our website and search-tool audience or for our partners as agreed to in advance. The text and images on this website as accessed on this website or in any other way may not be used by any third party whether for-profit or non-profit without the express and prior consent of Adopt-a-Pet.com.
 
 **We hate spam too, grrr... hsss...**  
 We will not give your e-mail, or any personal information you give us to evil forces who send out annoying spam! We hope they get barked at, hissed at, and step in poop. By opting in to any e-mail communication of ours, you are also opting into e-mails from our non-profit sponsor North Shore Animal League America (NSALA), and also from our sponsor Nestle Purina PetCare Company, who produces pet care products. Any e-mail you get from us or our sponsors will be one you asked for. You will always have the choice never to hear from any of us again.
@@ -49,8 +53,8 @@ Donor past giving information is kept in a separate password-protected database 
 If you have any questions or concerns please contact:
 
 Adopt-a-Pet.com  
-P.O. Box 7  
-Redondo Beach, CA 90277  
+310 N. Indian Hill Blvd., #800  
+Claremont, CA 91711  
 You can also send an e-mail to: [info@adoptapet.com](mailto:info@adoptapet.com)  
 
 
