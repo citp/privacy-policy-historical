@@ -1,65 +1,30 @@
-> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610035656id_/http%3A//www.mercola.com/forms/security_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercola.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063443id_/http%3A//shop.mercola.com/pages/security_privacy.aspx) for the most accurate reproduction.*
 
-# Privacy, Security Policy, Terms of Use
+# Mercola Policy on Security, Privacy and Website Terms of Use - Mercola.com
 
-[](http://www.truste.org/ivalidate.php?url=www.mercola.com&sealid=101) |   
-Contents  
----  
-  
-  1. [Your Consent](http://www.mercola.com/forms/security_privacy.htm#consent)
-  2. [Notification of Changes](http://www.mercola.com/forms/security_privacy.htm#changes)
-  3. [Opt-Out or Termination of User Accounts](http://www.mercola.com/forms/security_privacy.htm#accounts)
-  4. [Contact Information](http://www.mercola.com/forms/security_privacy.htm#contactinfo)
-  5. [Security](http://www.mercola.com/forms/security_privacy.htm#security)
-  6. [The Information We Collect](http://www.mercola.com/forms/security_privacy.htm#infocollect)
-  7. [Agents](http://www.mercola.com/forms/security_privacy.htm#agents)
-  8. [Service Providers](http://www.mercola.com/forms/security_privacy.htm#serviceproviders)
-  9. [Access to Personally Identifiable Information](http://www.mercola.com/forms/security_privacy.htm#personalinformation)
-  10. [Children under 13](http://www.mercola.com/forms/security_privacy.htm#children13)
-  11. [Log Files](http://www.mercola.com/forms/security_privacy.htm#logfiles)
-  12. [The Way We Use Non-Medical Information](http://www.mercola.com/forms/security_privacy.htm#nonmedicalinfo)
-  13. [Newsletter](http://www.mercola.com/forms/security_privacy.htm#newsletter)
-  14. [Email-A-Friend](http://www.mercola.com/forms/security_privacy.htm#emailafriend)
-  15. [Links](http://www.mercola.com/forms/security_privacy.htm#links)
-  16. [Third Party Advertising](http://www.mercola.com/forms/security_privacy.htm#3rdpartyad)
-  17. [Blogs, Forums, Testimonials](http://www.mercola.com/forms/security_privacy.htm#bft)
-  18. [Personally Identifiable Information](http://www.mercola.com/forms/security_privacy.htm#personalinformationshare)
-  19. [Unsolicited Ideas](http://www.mercola.com/forms/security_privacy.htm#unsolicitedideas)
-  20. [TRUSTe Privacy Program](http://www.mercola.com/forms/security_privacy.htm#truste)
+## Effective Date: 4/2/2014
 
-  
-  
-This policy sets forth the type of information Mercola.com collects from you via this website (the "Website"), the way we use such information, and the procedures we use to keep such information confidential. This policy also sets forth the terms and conditions of your use of the website and its content.
+[](https://privacy.truste.com/privacy-seal/Mercola-com/validation?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f "TRUSTe online privacy certification")
 
-Mercola.com takes every reasonable precaution to protect our users' personal information. When users submit sensitive information via the Mercola.com website, their information is protected both online and off-line.
+This policy sets forth the type of information [Mercola.com](http://www.mercola.com/) collects from you via this website: [www.mercola.com](http://www.mercola.com/) (the "Website"), the way we use such information, and the procedures we use to keep such information confidential.
 
-* * *
+[Mercola.com](http://www.mercola.com/) takes every reasonable precaution to protect our users' personal information. When users submit sensitive information via the [Mercola.com](http://www.mercola.com/) website, their information is protected both online and off-line.
 
-**Your Consent**
+By using the Website, you consent to the collection and use of certain information in the manner we describe and agree to be bound by the terms of use as set forth herein. By logging into your cart, you consent to periodic email notifications regarding the status of your check-out process. You may opt out of these any time after your initial notice.
 
-By using the Website, you consent to the collection and use of certain information in the manner we describe and agree to be bound by the terms of use as set forth herein.
+The practices and policies contained in this Policy are subject to change at any time without prior notice. If we decide to change our policies, we will post those changes on this Website. Information collected before changes are made will be secured according to the Policy in place at the time such information is collected notwithstanding future changes to this Policy. The practices and policies in this Policy replace all previous notices or statements with respect to the same subject matter. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-* * *
+## Opt-out or Termination of User Accounts
 
-**Notification of Changes**
+If users have opted out of all communication with the Website, or deleted/deactivated their account, [Mercola.com](http://www.mercola.com/) will not contact such users again nor will their personal information ever be used by us in any manner.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage
+If users have any questions or suggestions regarding our privacy policy, please [contact us](http://shop.mercola.com/pages/ContactUs.aspx).
 
-* * *
+You may also contact us at:
 
-**Opt-out or Termination of User Accounts**
-
-If users have opted out of all communication with the Website, or deleted/deactivated their account, Mercola.com will not contact such users again nor will their personal information ever be used by us in any manner.
-
-* * *
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at [http://support.mercola.com](http://support.mercola.com/) or call 847.985.2680.
-
-* * *
-
-**Security**
+**Mercola.com**  
+3200 West Higgins Road  
+Hoffman Estates, IL 60169
 
 We are committed to preventing others from unauthorized access to the personal information you provide to us, and we maintain commercially reasonable procedures and technology designed for this purpose. The Website has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of information under our control. However, we cannot guarantee that unauthorized third parties will never be able to defeat those security measures or use your personal information for improper purposes.
 
@@ -67,72 +32,35 @@ When our registration/order form asks users to enter sensitive information, such
 
 While we use 128-bit SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment.
 
-* * *
+## The Information We Collect
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**The Information We Collect**
-
-We request information from the user on our secure order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user. This information is only shared with other companies who work on behalf of Mercola.com to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. We may also use this information to inform you of additional goods and services about which you might be interested or to customize your experience and use of the Website.
+We request information from the user on our secure order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. We may store this information securely on our server. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. If we have trouble processing an order, the information is used to contact the user. This information is only shared with other companies who work on behalf of [Mercola.com](http://www.mercola.com/) to provide a product or service to you. Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us. We may also use this information to inform you of additional goods and services about which you might be interested or to customize your experience and use of the Website.
 
 We may ask you for personally-identifying information in connection with a promotion or survey. Any email you receive from us, or third parties authorized by you to send email, will contain additional opt-out or unsubscribe options in the email with instructions on how to unsubscribe from receiving future emails.
 
-We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics and marketing partners. Although these partners log the information coming from our site on our behalf, we authorize how that data may and may not be used. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+If you want to send an item to your friend, like a gift card, we will ask for your friend's first name, last name, and email address. We will only use this information to complete your order and send the item to your friend. [Mercola.com](http://www.mercola.com/) stores this information for the sole purpose of processing this order and tracking the success of your order. Your friend may contact us at <http://shop.mercola.com/pages/ContactUs.aspx> to request that we remove this information from our database. 
 
-* * *
+We may automatically gather general statistical information about our website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, transactions completed, etc. To do this, we use action tags and cookies provided by our site analytics and marketing partners. Although these partners log the information coming from our site on our behalf, we authorize how that data may and may not be used.
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Agents**
-
-We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Service Providers**
-
-We use other third parties to provide credit card transactions on our site. When you process an order, we will share credit card information, name & address information as necessary for the third party to provide the credit card transaction service. The third parties are prohibited from using your personally identifiable information for any other purpose
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Access to Personally Identifiable Information**
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or contacting our Customer Support at [http://support.mercola.com](http://support.mercola.com/) or by contacting us by telephone or postal mail at the contact information listed below.
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Children under 13**
-
-We do not knowingly collect or use personal information from children under 13 without containing verifiable consent from their parents. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities. For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC website: [www.ftc.gov](http://www.ftc.gov/).
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Log Files**
+We do not knowingly collect or use personal information from children under 13 without containing verifiable consent from their parents. We have no way of distinguishing the age of individuals who address our website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities. For more information about the Children's Online Privacy Protection Act (COPPA), visit <http://www.coppa.org/>.
 
 Like most standard website servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-* * *
+## Cookies and Other Tracking Technologies
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**The Way We Use Non-Medical Information**
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. These are used to keep track of your shopping cart, as well as track activity around the site so that we can better tailor our layout to your needs. A persistent cookie remains on your hard drive for an extended period of time. These are used to remember you when you come back to the site, and to serve advertisements that apply to you and the products that you have shown interest in. You can remove persistent cookies by following the directions provided in your Internet browser's "help" directory. For more information, please visit: <https://support.google.com/accounts/answer/61416?hl=en>
+
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. 
+
+We also use clear gifs (a.k.a. Web beacons), that help us better manage the content of our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”
+
+The use of cookies by our partners is covered by our privacy policy. We do have access or control over these cookies. Our partners use session ID and persistent cookies to ensure that our advertisements are relevant to your interests. 
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+
+## The Way We Use Information
 
 Our goal is to provide products that best meet your needs, therefore we evaluate your personal interactions with us in an effort to bring you the products which best suit your tastes. In addition, we use your information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services.
 
@@ -140,90 +68,50 @@ We may use your information to deliver information to you that, in some cases, i
 
 If you place a request for products or services, we use your personal information to ship your order; if the products or services are from a retail partner, we may provide your relevant information to that retailer for purposes of the transaction. If you establish a credit account with us or our providers, we collect additional information, including billing information, credit card number and expiration date, and tracking information from checks or money orders.
 
+If [Mercola.com](http://www.mercola.com/) is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
 We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
-We may use your IP address to help diagnose problems with our servers, to manage our website and to enhance our site based on the usage pattern data we receive .
+We may use your IP address to help diagnose problems with our servers, to manage our website and to enhance our site based on the usage pattern data we receive.
 
-* * *
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend or delete it by making the change on your [member information page](https://web.archive.org/profile/myaccount.aspx), or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Newsletter**
+### MAIL
 
-Users who no longer wish to receive our newsletter may opt-out of receiving these communications by following the instructions on our unsubscribe page [http://store.mercola.com/unsubscribe](http://store.mercola.com/unsubscribe)
+Mercola.com, LLC  
+3200 W. Higgins Road  
+Hoffman Estates, IL 60169
 
-* * *
+### PHONE
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Email-A-Friend**
+**US Toll-Free:**  
+877-985-2695
 
-If a user elects to use our E-mail to a friend service for informing a someone about an article, we launch the default email program on the user's computer. We do not know who you send the article to and therefore we could not collect and store that data.
+**Int'l Customers:**  
+847-252-4355
 
-* * *
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Links**
+Users who no longer wish to receive our newsletter may opt-out of receiving these communications by following the instructions on our unsubscribe page.
 
-The Website contains links to other sites. Mercola.com is not responsible for the privacy practices or the content of such other sites. By including links to other websites, we neither endorse such sites nor guarantee that the information they contain is accurate. We encourage you to be aware when you leave our site to read the privacy statements of every linked website as the privacy policies of each may differ from ours. This privacy statement applies solely to the Mercola.com website.
+If a user elects to use our E-mail to a friend service for informing a someone about an article, we launch the default email program on the users computer. We do not know who you send the article to and therefore we could not collect and store that data.
 
-* * *
+The Web site contains links to other sites. [Mercola.com](http://www.mercola.com/) is not responsible for the privacy practices or the content of such other sites. By including links to other websites, we neither endorse such sites nor guarantee that the information they contain is accurate. We encourage you to be aware when you leave our site to read the privacy statements of every linked website as the privacy policies of each may differ from ours. This privacy statement applies solely to the [Mercola.com](http://www.mercola.com/) website.
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Third Party Advertising**
+Our Site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-We do not accept any paid advertisements on Mercola.com. Any services or products recommended and/or offered in the newsletter or elsewhere on Mercola.com have gone through extensive review before such recommendations, and based on that review were recommended and/or offered. Mercola.com's powerful search capability is provided by Google, however, and so it should be noted that when Mercola.com visitors use this search functionality and see outside websites/products/services advertised in the search results, those are part of Google's program, not Mercola.com's.
+We do not accept any paid advertisements on [Mercola.com](http://www.mercola.com/). Any services or products recommended and/or offered in the newsletter or elsewhere on [Mercola.com](http://www.mercola.com/) have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
 
-* * *
+Google, as a third party vendor, uses cookies to serve ads on [Mercola.com](http://www.mercola.com/). Google's use of the DART cookie enables it to serve ads to [Mercola.com](http://www.mercola.com/) users based on their visit to [Mercola.com](http://www.mercola.com/) and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Blogs, Forums& Testimonials**
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of advertising messages. You will continue to receive generic ads.
 
-If you use a bulletin board chat room, blog or post a testimonial on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+We also use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google's Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
-As a condition of use of the Blogs, Forums, & Testimonials, you may only use the services for lawful purposes and are in compliance with the Terms of Use found at [http://v.mercola.com/TermsofService.htm](http://v.mercola.com/TermsofService.htm) . You understand and agree that Mercola.com is not under any obligation to control, monitor or verify the statements made by members of Mercola.com's on-line community. If Mercola.com discovers that you are making unacceptable use of Mercola.com, however, Mercola.com may terminate your account.  
- 
+We welcome feedback, questions and comments about our products, services and this Website. As a general policy, we do not accept unsolicited ideas for products or services through this Website. All communications and other materials (including, without limitation, unsolicited ideas, photographs, drawings, suggestions, or materials) you send to this Website by e-mail or otherwise are and shall remain the sole and exclusive property of [Mercola.com](http://www.mercola.com/) and may be used by us for any purpose whatsoever, commercial or otherwise, without compensation to you.
 
-* * *
+[](https://privacy.truste.com/privacy-seal/Mercola-com/validation?rid=25d2a2d6-712e-4176-8b4f-67002e042b9f "TRUSTe online privacy certification")
 
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Personally Identifiable Information**
+Mercola.com has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.mercola.com](http://www.mercola.com/).
 
-We Do Not Share Personally Identifiable Information with Third Parties other than those mentioned above under Service Providers.
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**Unsolicited Ideas**
-
-We welcome feedback, questions and comments about our products, services and this Website. As a general policy, we do not accept unsolicited ideas for products or services through this Website. All communications and other materials (including, without limitation, unsolicited ideas, photographs, drawings, suggestions, or materials) you send to this Website by e-mail or otherwise are and shall remain the sole and exclusive property of Mercola.com and may be used by us for any purpose whatsoever, commercial or otherwise, without compensation to you.
-
-* * *
-
-| **[Top](http://www.mercola.com/forms/security_privacy.htm#top)**  
----|---  
-  
-**TRUSTe Privacy Program**
-
-Mercola.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.mercola.com](http://www.mercola.com/). Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact our customer service department at [http://support.mercola.com](http://support.mercola.com/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php) . TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-**_Privacy Policy last updated 12/20/2006_**
-
-Mercola.com  
-1443 W Schaumburg Rd Suite 250  
-Schaumburg IL 60194   
-847.985.2680
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
