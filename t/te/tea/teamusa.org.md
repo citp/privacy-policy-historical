@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214230156id_/http%3A//www.teamusa.org/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamusa.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130432id_/http%3A//www.teamusa.org/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | USOC Official Website
 
