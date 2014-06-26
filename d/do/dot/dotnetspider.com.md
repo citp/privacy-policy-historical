@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930174018id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetspider.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165631id_/http%3A//www.dotnetspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # dotnetspider.com privacy policy
-
-[](http://emarketing.lakequincy.com/public/phWC/tW7/subscribe)
-
-|    
-
 
 At dotnetspider.com, we know that you care how information about you is stored, used and shared. We do our best to keep your trust by using the information about you carefully and sensibly. This privacy notice explains our privacy policy. By visiting dotnetspider.com, you are accepting this privacy policy and our terms & conditions.
 
@@ -38,8 +33,10 @@ As we continue to develop and grow our web site, we may sell dotnetspider.com or
   
 | 
 
+[](http://emarketing.lakequincy.com/public/phWC/tW7/subscribe)
+
 **Awards & Gifts**
 
 Talk to Webmaster Tony John  
   
----|---|---
+---|---
