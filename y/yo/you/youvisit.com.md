@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youvisit.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208160646id_/http%3A//youvisit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youvisit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061553id_/https%3A//www.youvisit.com/privacy.php) for the most accurate reproduction.*
 
 # College Campus Tour Provider Works With Top Colleges & Universities
 
