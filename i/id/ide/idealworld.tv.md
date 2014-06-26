@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the idealworld.tv privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616135123id_/http%3A//www.idealworld.tv/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealworld.tv privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051729id_/http%3A//www.idealworld.tv/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IdealWorld
+
+## Privacy Policy
 
 The [www.idealworld.tv](http://www.idealworld.tv/) website is operated by Ideal Shopping Direct Limited, a company registered in England and Wales, whose registered office is at Newark Road, Peterborough, Cambridgeshire, United Kingdom, PE1 5WG.
 
@@ -19,12 +21,14 @@ The purpose of this statement is to set out how we use personal information that
 
 
 
+
     * email
     * telephone
     * SMS text message and other electronic messages such as picture messaging
     * post
     * fax
-    * or otherwise, including products and services of other companies and organisations which we consider may be of interest to you. If you do not wish to receive information about such products and services, please tick the opt-out box provided when registering on this website; 
+    * or otherwise, including products and services of other companies and organisations which we consider may be of interest to you. If you do not wish to receive information about such products and services, please tick the opt-out box provided when registering on this website;
+    * if you receive communication from us and wish to opt out; from email please clink the Unsubscribe link on one of the emails, or if you receive an SMS from us, reply to the message with STOP. Alternatively, call our Customer Services team on 08717 123 456* (Open 24 hours a day, seven days a week) *Calls cost 10p per minute plus network extras. 
 
 
 
@@ -82,4 +86,4 @@ If you want to be removed from our mailing list, please contact our Customer Ser
 
 To change any of your registered details on idealworld.tv, click on 'your account' and enter your login name and PIN. Once logged in change any of the details shown and click 'change details'.
 
-For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/web/20120616135123id_/http%3A//www.idealworld.tv/Terms_and_Conditions.aspx) and [Home Delivery ](https://web.archive.org/web/20120616135123id_/http%3A//www.idealworld.tv/HomeDelivery.aspx).
+For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/Terms_and_Conditions.aspx) and [Home Delivery ](https://web.archive.org/HomeDelivery.aspx).
