@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010231243id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcocoon.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043440id_/https%3A//getcocoon.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cocoon
 
@@ -15,8 +15,6 @@ Advertising within Cocoon:
 To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at [https:getcocoon.com/plans](https://getcocoon.com/plans).
 
 If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
-
-To help pay for the Cocoon service, advertisements are shown on Cocoon pages. Ads that are shown in Cocoon are not based on your browsing history. If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
 
 Only operational information, such as processing speed or what features are under greatest demand, may be used to ensure Cocoon provides the best possible performance and experience to our users.
 
