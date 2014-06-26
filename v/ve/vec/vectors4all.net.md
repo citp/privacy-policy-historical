@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectors4all.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202234342id_/http%3A//www.vectors4all.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectors4all.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153147id_/http%3A//www.vectors4all.net/privacy.html) for the most accurate reproduction.*
 
 # Free Vector :: Free Clip Art :: Free Images
 
