@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228165757id_/http%3A//www.soapoperanetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055842id_/http%3A//www.soapoperanetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Soap Opera Network - Privacy Policy | Soap Opera Network
+# Soap Opera Network - Privacy Policy
+
+  
+
 
 **_Last Updated May 30, 2010_**
 
@@ -20,4 +23,5 @@ In some cases, we may collect information about you that is not individually ide
 When you view one of our Web sites or advertisements, we may store some information on your computer. This information will be in the form of a “cookie” or similar file and will help us in many ways. For example, cookies allow us to tailor this website or advertisement to better match your interests and preferences. With most Internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.
 
 **Who to Contact**  
-If you have submitted individually identifiable information through a SON or interactive advertisement and would like that information deleted from our records, please contact us at [admin@sonuni.com](mailto:admin@sonuni.com). We will delete this information from our existing files.
+If you have submitted individually identifiable information through a SON or interactive advertisement and would like that information deleted from our records, please contact us at [admin@sonuni.com](mailto:admin@sonuni.com). We will delete this information from our existing files.  
+
