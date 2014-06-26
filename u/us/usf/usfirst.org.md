@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109163932id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134149id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # FIRST Privacy Policy and User Agreement | USFIRST.org
 
-**__****Last Updated January 21, 2013**
+**_FIRST_ Privacy Policy and User Agreement**
 
-We, at  _FIRST_ _®_ _,_  take the privacy and security of personal information very seriously. This Privacy Policy and User Agreement describes how _FIRST_  (" _FIRST,_ " "our," "we," "us,") collects, uses and protects the information users (“user,” “your,” or “you”) provide to us when using any of our web sites where this policy is posted (the “Sites”).  This Privacy Policy applies to the Sites and governs data collected and used from the Sites.   
+**Last Review and Update:  April 15, 2014**
 
-* * *
+We, at  _FIRST ®,_ take the privacy and security of personal information very seriously. This Privacy Policy and User Agreement describes how _FIRST_  (" _FIRST,_ " "our," "we," "us,") collects, uses and protects the information users (“user,” “your,” or “you”) provide to us when using any of our web sites where this policy is posted (the “Sites”).  This Privacy Policy applies to the Sites and governs data collected and used from the Sites.   
 
 **Youth Under the Age of 13**
 
@@ -18,31 +18,29 @@ If we learn that we have personal information obtained from a child under 13 wit
 
 **For more information on how _FIRST_ addresses the privacy of children under 13, see Section 13 (Privacy Issues Specific to Children under 13) below.**
 
-* * *
-
-**1.   Agreement to the** **  Policy**
+**1.   Agreement to the Policy**
 
 By accessing or using any of our Sites, you agree to be bound by all of the Site’s terms and conditions.  These terms and conditions include this Privacy Policy.   If you do not agree to these terms and conditions, please do not access or use any of our Sites.
 
 **2.  Types of Information We Collect**
 
-We collect Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") to facilitate the operation, funding, and management of _FIRST_ programs. ****
+We collect Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") to facilitate the operation, funding, and management of _FIRST_ programs.
 
-**a.      ****Personally Identifiable Information (“PII”):**
+**a.      Personally Identifiable Information (“PII”):**
 
-This refers to information that lets us know the specifics of who a person is.  It includes a first and last name, title, mailing address (including zip code), email address, phone number, and, to facilitate certain transactions, credit card information. ****
+This refers to information that lets us know the specifics of who a person is.  It includes a first and last name, title, mailing address (including zip code), email address, phone number, and, to facilitate certain transactions, credit card information.
 
-**b.      ****Non-Personally Identifiable Information ("Non-PII"):   **
+**b.      Non-Personally Identifiable Information ("Non-PII"):  **
 
 This refers to information that does not by itself identify any specific person.  Through the use of cookie technology or otherwise, we may track and collect Non-PII about your computer and software when you visit one of our Sites.  This information may include:  (i) your Internet Protocol ("IP") address; (ii) your domain server; (iii) your type of computer; (iv) your type of web browser; (v) your access times; and (vi) the web sites you came from and navigate to next. 
 
 This information is anonymous information that does not personally identify you.  For more information on cookies, see Section 8 below.
 
-**3.  How We Collect and Use Information** ****
+**3.  How We Collect and Use Information**
 
-**a.      ****Collection and Use of PII**
+**a.      Collection and Use of PII**
 
-We only collect PII when you provide it to us. You may provide certain PII to us when you: (a) register for any _FIRST_ program or event; (b) subscribe to our newsletter; (c) send e-mail messages, submit forms, or transmit other information by telephone or letter; (d) order products; (e) submit your credit card or other payment information; (f) visit other points on the Sites that state that such information is being collected; or, (g) attend a _FIRST_ event or a _FIRST_ affiliate or operational partner activity.
+We only collect PII when you provide it to us. You may provide certain PII to us when you: (a) register for any _FIRST_ program or event; (b) subscribe to our newsletter; (c) send e-mail messages, submit forms, or transmit other information by telephone or letter; (d) order products; (e) submit your credit card or other payment information; (f) visit other points on the Sites that state that such information is being collected; or, (g) attend a _FIRST_ event or a _FIRST_ affiliate partner activity.
 
 When you engage in certain activities on any of our Sites, we may ask you to provide PII by filling out and submitting an online form. Depending upon the activity, some of the PII may be mandatory and some may be voluntary.  If you do not provide the mandatory PII with respect to a particular activity, you or your child will not be able to engage in that activity. 
 
@@ -54,7 +52,7 @@ We will primarily use PII to provide our services, as required by our agreements
 
 We, or entities that provide direct service to us, may track and collect Non-PII about your computer and software when you visit a Site.  This may be done at different places on that Site in several ways, including through the use of cookie technology or through other means. 
 
-We will primarily use Non-PII to; analyze and enhance the operation of our Sites, improve our marketing and promotional efforts, statistically analyze use, improve our product and service-offerings, gather demographic information, customize and improve our Sites’ content, layout, and services, diagnose problems with our servers, software, and administer our Sites, often with the assistance of our vendors. 
+We will primarily use Non-PII to: analyze and enhance the operation of our Sites, improve our marketing and promotional efforts, statistically analyze use, improve our product and service-offerings, gather demographic information, customize and improve our Sites’ content, layout, and services, diagnose problems with our servers, software, and administer our Sites, often with the assistance of our vendors. 
 
 **4.  How we Share Information **
 
@@ -84,7 +82,7 @@ You also have choices with respect to cookies, as described below in Section 8. 
 
 We use current industry standard, security measures to protect your PII.  Access to PII is available through a unique customer ID and password selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your PII resides on a secure server that only selected  _FIRST_  personnel and Service Providers have access to via a password.
 
-You may opt to display PII in Volunteer, Team Contact, Team Up, JR.FLL Showcase, Alumni Community or forum areas of the Site.  PII submitted to these areas can be read, collected, or used by other users, and could be used to send you unsolicited messages.  We are not responsible for the PII you choose to submit in these areas.  You are solely responsible for maintaining the confidentiality of your password and account information. Please be careful and responsible whenever you are online.
+You may opt to display PII in Volunteer, Team Contact, Team Up, Jr.FLL Showcase, Alumni Community or forum areas of the Site.  PII submitted to these areas can be read, collected, or used by other users, and could be used to send you unsolicited messages.  We are not responsible for the PII you choose to submit in these areas.  You are solely responsible for maintaining the confidentiality of your password and account information. Please be careful and responsible whenever you are online.
 
 In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. For security, this information is encrypted during communication.
 
@@ -130,17 +128,17 @@ Users who reside in California and have provided their personal information to u
 
 **13.   Privacy Issues Specific to Children Under 13**
 
-_FIRST_ is particularly aware of privacy issues specific to the collection of personal information of children under the age of 13.  In connection with children under the age of 13, this policy explains: ****
+_FIRST_ is particularly aware of privacy issues specific to the collection of personal information of children under the age of 13.  In connection with children under the age of 13, this policy explains:
 
-**a.      ****The kinds of personal information _FIRST_ collects (see Section 2); **
+**a.      The kinds of personal information _FIRST_ collects (see Section 2); **
 
-**b.      ****How such information is used (see Section 3); and,**
+**b.      How such information is used (see Section 3); and,**
 
-**c.       ****How such information is disclosed or shared with third parties (see Section 4).**
+**c.       How such information is disclosed or shared with third parties (see Section 4).**
 
-Parents should also be aware of the following in connection with _FIRST_ collection and use of their children’s personal information: ****
+Parents should also be aware of the following in connection with _FIRST_ collection and use of their children’s personal information:
 
-**d.      ****  Parental Notification, Verification and Consent:  **
+**d.       Parental Notification, Verification and Consent:  **
 
 _FIRST_ will not knowingly collect PII from children under the age of 13 without first obtaining parental consent.  Prior to providing any PII (other than a name and a parent’s email address) children under the age 13 must have a parent or legal guardian complete, sign, and return (by e-mail or regular mail) a Parental Consent Form to _FIRST_ at:
 
@@ -152,15 +150,15 @@ Manchester, NH  03101
 
 The Parent Consent form states that the child’s parent or legal guardian, by his or her signature, consents to the collection and use of his/her child’s PII in accordance with this Privacy Policy. Consent may be revoked by sending a written request to _FIRST_ at the email or physical address above.
 
-**e.      ****Parental Choice on the Collection and Use of Information:   **
+**e.      Parental Choice on the Collection and Use of Information:  **
 
 Parents may allow for the collection and use of the child’s information without consenting to the disclosure of the information to third parties other than those who are acting on behalf of _FIRST_ to help operate our Sites, handle communications, and conduct  _FIRST_  programs.  Parents can review a child’s personal information, ask to have it deleted, and refuse to allow for any further collection or use of the information at any time.  Parents can access, change, or delete a child’s personal information by accessing the child’s account at the Site, or by contacting _FIRST_ at the email or physical address above. 
 
-For security reasons, _FIRST_ will not post a child’s specific address or last name on any _FIRST_   Site. 
+For security reasons, _FIRST_ will not post a child’s specific address or last name on any _FIRST_ Site. 
 
 **14.   How to Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of any of our Sites, or your dealings with any of our Sites, please contact us via our [ **Contact Us**](https://web.archive.org/contactform "Contact Us") page or by sending a letter to:
+If you have any questions about this Privacy Policy, the practices of any of our Sites, or your dealings with any of our Sites, please contact us via our [ **Contact Us**](http://usfirst.org/contactform "Contact Us") page or by sending a letter to:
 
 _FIRST_  
 200 Bedford St.  
@@ -168,25 +166,22 @@ Manchester, NH  03101
 (603) 666-3906   
 [**customerservice@us _FIRST_.org**](mailto:%20customerservice@usFIRST.org)
 
-**_FIRST_** **DIRECT NOTICE AND PARENTAL CONSENT FORM**
+**_FIRST_ DIRECT NOTICE AND PARENTAL CONSENT FORM**
 
-We, at  _FIRST,_  take the privacy and security of personal information very seriously. This notice gives parents additional information about the practices of _FIRST_ in collecting and using personal information from children under 13 years of age with regard to the _FIRST_ web site [**www.usfirst.org**](https://web.archive.org/ "www.usfirst.org") (the “Sites”).
+We, at  _FIRST,_  take the privacy and security of personal information very seriously. This notice gives parents additional information about the practices of _FIRST_ in collecting and using personal information from children under 13 years of age with regard to the _FIRST_ web site [**www.usfirst.org**](http://usfirst.org/ "www.usfirst.org") (the “Sites”).
 
-The _FIRST_ Privacy Policy and User Agreement (“Privacy Policy”) is available for review at [http://www.usfirst.org/aboutus/privacy-policy](https://web.archive.org/aboutus/privacy-policy).
+The _FIRST_ Privacy Policy and User Agreement (“Privacy Policy”) is available for review at [http://www.usfirst.org/aboutus/privacy-policy](http://usfirst.org/aboutus/privacy-policy).
 
-We are sending you this notice because your child may want to provide personal information to us.  We collect Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") to facilitate the operation, funding, and management of _FIRST_ programs. ****
+We are sending you this notice because your child may want to provide personal information to us.  We collect Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") to facilitate the operation, funding, and management of _FIRST_ programs.
 
-**a.      ****Personally Identifiable Information (“PII”):   **
+**a.      Personally Identifiable Information (“PII”):  **
 
 This refers to information that lets us know the specifics of who a person is.  It includes first and last name, title, mailing address (including zip code), email address, phone number, and, to facilitate certain transactions, credit card information.
 
-**b.      ****Non-Personally Identifiable Information ("Non-PII"):   **
+**b.      Non-Personally Identifiable Information ("Non-PII"):  **
 
 This refers to information that does not by itself identify any specific person.   Through the use of cookie technology or otherwise, we may track and collect Non-PII about your computer and software when you visit one of our Sites.  This information may include:  (i) your Internet Protocol ("IP") address; (ii) domain server; (iii) type of computer; (iv) type of web browser; (v) access times; and, (vi) the web site addresses you just came from and navigate to next.  This is anonymous information that does not personally identify you.  Non-PII assists us to design and arrange our web pages in the most user-friendly manner and to continually improve our Sites.
 
 _FIRST_ will not knowingly collect any PII from children under the age of 13 without first obtaining parental consent.  Prior to providing any PII (other than name and a parent’s email address) children under age 13 must have a parent or legal guardian complete and return (by e-mail or regular mail) a signed Parental Consent Form to _FIRST_.
 
-This [Parental Consent form](https://web.archive.org/sites/default/files/uploadedFiles/About_Us/Parental_Consent_Form.docx) states that the child’s parent or legal guardian, by his or her signature, consents to the collection and use of his/her child’s PII in accordance with the Privacy Policy. Consent may be revoked by sending a written request to _FIRST_ at the email or physical address above.
-
-  
-
+This [Parental Consent form](http://usfirst.org/sites/default/files/uploadedFiles/About_Us/Parental_Consent_Form.docx) states that the child’s parent or legal guardian, by his or her signature, consents to the collection and use of his/her child’s PII in accordance with the Privacy Policy. Consent may be revoked by sending a written request to _FIRST_ at the email or physical address above.
