@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017143433id_/http%3A//www.all-things-photography.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-things-photography.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627001427id_/http%3A//www.all-things-photography.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.all-things-photography.com
 
