@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109014203id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024935id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
 # It's Nice That : Privacy Policy and Cookies
 
@@ -28,7 +28,7 @@ We collect personal information from you in a number of situations. When you sig
 
 ### Use of Information
 
-Except as set out below, we will never sell, exchange or divulge your personal information to any third party without your consent. We may disclose your personal information when we believe that it is appropriate in order to comply with the law, or to enforce our terms of use[Note: embed link], or to protect our rights, property or safety, our users, or other third parties. We will only disclose or share your personal information with agents in order to provide our products or services. In these circumstances, we will only provide them with the information they need to perform their function.
+Except as set out below, we will never sell, exchange or divulge your personal information to any third party without your consent. We may disclose your personal information when we believe that it is appropriate in order to comply with the law, or to enforce our terms of use, or to protect our rights, property or safety, our users, or other third parties. We will only disclose or share your personal information with agents in order to provide our products or services. In these circumstances, we will only provide them with the information they need to perform their function.
 
 We will use your personal information for the purpose of planning and managing It’s Nice That’s business including record keeping, statistical analysis and for tracking activity on It’s Nice That. We may also use your personal information to check you are eligible to register for any sections of our web-site to which you have requested access, to provide you with that access and with facilities which you have requested, e.g. the ability to post messages or other content. We may send you information about features and services which we believe might be of interest to you.
 
