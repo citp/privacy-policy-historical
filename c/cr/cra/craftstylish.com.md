@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftstylish.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219140240id_/http%3A//www.taunton.com/thetauntonpress/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftstylish.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110925id_/http%3A//www.taunton.com/thetauntonpress/privacy.asp) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy
 
