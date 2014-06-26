@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerpoetry.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102202156id_/http%3A//www.powerpoetry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpoetry.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045214id_/http%3A//www.powerpoetry.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Power Poetry
 
@@ -64,7 +64,13 @@ We limit access to personal information about you to employees who we believe re
 
 Your Account Information is password-protected.
 
-IV. Notification of Changes:  Any changes in our Privacy Policy will be posted to the Site or Service and will become effective as of the date of posting with respect to information We then collect in the future, but will not be changed with respect to information that We have then already collected. It is and will be your responsibility to review our Privacy Policy from time to time to make sure you are aware of any changes.
+IV. The Google Analytics features Power Poetry has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjnLIRO_qykNCRIpCzO72Yw_vwH6H-aG6QU06CCG609PSlGKDeR7pkJ30frrmxc0XuM3AbFoa6DjMzJ6ivXcG2yjMsFZeyMQu8lugQ-DFtCIpyXxsPPkDCrEYOMDUhCuMdX9D9_5bwGxksPpHHZAGU3rea0DqZvKFWsBR57EUQzrGfR90QW9hNkTeVOkegHWzG5zeIxkT2z63ddiKg1k1kkdWU5Fw).
+
+Power Poetry will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless you have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+
+V. Notification of Changes:  Any changes in our Privacy Policy will be posted to the Site or Service and will become effective as of the date of posting with respect to information We then collect in the future, but will not be changed with respect to information that We have then already collected. It is and will be your responsibility to review our Privacy Policy from time to time to make sure you are aware of any changes.
 
 VI. Effective Date:  The effective date of this policy is 2/4/2012.  
 
