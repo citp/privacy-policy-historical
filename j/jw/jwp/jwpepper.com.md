@@ -1,94 +1,39 @@
-> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216024431id_/http%3A//jwpepper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwpepper.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063027id_/http%3A//www.jwpepper.com/sheet-music/services-privacy.jsp) for the most accurate reproduction.*
 
-# J.W. Pepper & Son, Inc. Privacy Statement
+# Privacy | J.W. Pepper Sheet Music
 
-**The J.W. Pepper & Son, Inc. Internet Privacy Policy**
+## J.W.Pepper® Privacy Statement
 
-Since our founding in 1876, J.W. Pepper's goals have been to provide the best possible service for our customers, and to treat customers with respect and loyalty. Our customers have rewarded our efforts by making J.W. Pepper one of the world's largest retailers of printed music. Buying from Pepper means buying from someone you trust. This 125-year tradition continues in the age of the Internet. 
+Welcome to the J.W.Pepper® website located at ("Site"), provided by J.W. Pepper & Son®, Inc. ("Pepper"). This Privacy Statement addresses Pepper®'s practices regarding information collected from users of the Site, including users who register with the Site to obtain certain products and services (a "Member"), and only addresses information collected directly through or from the Site - does not address or govern any information gathering, use, or dissemination practices related to information collected from the user (sometimes referred to as a "visitor," "you" or "your") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. Pepper® can be contacted at [satisfaction@jwpepper.com](mailto:satisfaction@jwpepper.com) or by telephone at (610) 648-0500. This Privacy Statement is incorporated into Pepper®'s Website Terms of Use by reference, as if set forth fully therein, which must be reviewed and accepted by you. 
 
-**Collection of Personal Information from Site Visitors:**
+**1\. Collection of Personal Information from Site Visitors** Pepper® may, from time to time, collect personal information about you that you voluntarily submit to the Site in order to become a Member of the Site, to purchase products or services from the Site, or to participate in online surveys, sweepstakes, contests, to receive newsletters or other activities. If you do not wish to provide such information to the Site, you may be unable to register and/or to obtain products or services from the Site. 
 
-Pepper does not intend to collect any personally identifiable information on visitors to our Web site ([http://www.jwpepper.com](http://www.jwpepper.com/)) unless the visitor chooses to provide information, for example to open an account and place an order, or to take advantage of information services available on our Web site. If information is provided by the user for these purposes, we will use it only for internal purposes.   
-Today, Internet browser software (for example Netscape Navigator and Internet Explorer) automatically sends to visited Web sites anonymous information including the internet domain name the user came from, and which browser software version the user has. This does not include personal identifying information such as the visitor's e-mail address or name. Operators of Internet sites sometimes use this anonymous statistical information to decide what Web site features are popular and which aren't, a similar process to TV ratings. Pepper may choose to engage in similar analysis of overall or "aggregate" Web site use, but remember, unless you choose to provide us with personally identifiable information, your visit to our Web site is anonymous. Even if you are a Pepper customer who has chosen to give us your name and address to open an account, we do not connect that information to aggregate statistical studies on Web site usage. 
+Except as specifically set forth herein, Pepper® may collect or track: (a) the home server domain names, date and time of your visit, type of computer, the originating IP address, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Site; (b) the e-mail addresses of visitors that communicate with Pepper® via e-mail; (c) information knowingly provided by the visitor in online forms, registration or membership forms, surveys, e-mail, and other online avenues (including, without limitation, demographic and personal profile data);and (d) aggregate and user-specific information regarding which pages a user accesses. 
 
-**"Cookie" Files**
+We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. When a visitor performs a search within the Site, Pepper® may record information identifying the visitor or linking the visitor to the search performed and recording information related to the search request. Pepper® may place Internet "cookies" on your hard drive. Internet cookies are small amounts of data that contain a unique identifier that many websites frequently send to your web browser to be stored on your computer's hard drive in order to save data about you, such as your name, password, user-name, screen preferences, and the pages of a website you have viewed. When you revisit the Site, Pepper® may recognize you by your Internet cookies and customize your experience accordingly. You may decline Internet cookies by using the appropriate feature of your Web browser software, if available. Pepper® may use Google Analytics or a similar service to gather, store, and track certain information related to your visit to and activity on the Site. The collection, use, and disclosure of information contemplated in this Privacy Statement may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. 
 
-Our Web site uses an "order basket" system that allows customers freedom to assemble their order before making the purchase, to explore various parts of our Web site while assembling the order basket, and even to leave our Web site and return (during the same browser session) without losing the order in progress. It's like being able to browse, with a shopping cart, in a supermarket that sells printed music.   
-To keep everyone's order separate and accurate, the computer needs to connect each Web site user with their order basket. Otherwise, it would be like being in a supermarket where nobody could remember which shopping cart they were using. Everyone's groceries would get mixed up.   
-Our "cookie" file system assigns a number to each shopper and each order basket. If you are shopper number 1234 and your order basket is number 1234, the computer always knows where to put your purchases   
-The "cookie" file from Pepper is a number that resides in your computer's memory until you close your browser, at which time it disappears. Although some Web sites will write the "cookie" file to your computer's hard drive, the cookie file from Pepper's site disappears the moment you close your Web browser and is not written to your hard drive.   
-If you prefer to set your browser to reject all "cookie" files, our Web site will still function normally for information and searching uses, but you will experience a reduction in our ability to track the contents of your order basket. 
+**2\. Use of Personal Information Collected** Personal information collected by Pepper® may be used by Pepper® for many reasons, for example, for recordkeeping, to fill orders, editorial and feedback purposes, marketing and promotional purposes, statistical analysis of users' behavior, product development, content improvement, or to customize the content and layout of the Site. Aggregate data on visitors' home servers may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to Pepper® may be added to Pepper®'s databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events. 
 
-**Use of Information:**
+Pepper® also may use Site visitor data to contact the Site visitors regarding registration and account status and changes to the Terms of Use, Privacy Statement and any other policies or agreements relevant to Site visitors. 
 
-In the age of the Internet, many Web sites are supported to a large degree by advertising revenue. Pepper's is not. Our Web site exists to provide our customers with the world's best online service in printed music and related products. Customer information is not supplied or sold to third parties. Notwithstanding the above, Pepper may disclose information if required to do so by law. 
+**3\. Disclosure of Personal Information to Third Parties** Except as provided herein, individually identifying personal information provided through the Site will not be sold, exchanged, transferred or otherwise disclosed to third parties not affiliated with Pepper® without your consent, other than for the express purpose of delivering the applicable purchased product or service or information requested. 
 
-**Security Measures:**
+**4\. Links to Other Sites** The Site may also contain links to third party websites. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Statement. It is possible that these links may be used by third parties or others to collect personal or other information about you. Pepper® is not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. Pepper® does not control these third parties' use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties. 
 
-**Customer online accounts:**
+**5\. Security Measures** Pepper® has implemented physical, electronic and procedural security features that are designed to prevent the unauthorized release of or access to personal information. Despite Pepper®'s efforts to protect your personal information, there is always a risk that an unauthorized third party may circumvent such procedures or that transmissions of your information over the Internet may be intercepted. The confidentiality of any communication or material transmitted to or from Pepper® via this Site or via e-mail cannot be and is not guaranteed. Accordingly, Pepper® is not responsible for the security of information transmitted via the Internet. Instead of communicating with Pepper® via e-mail or the Internet, visitors can contact Pepper® by telephone at (610) 648-0500. 
 
-Pepper's online services include the ability of our customers to monitor the progress of their order and shipping status. Pepper keeps this information secure by limiting access to customers who have been issued valid ID and PIN (Personal Identification Number) numbers. Customers should keep their ID and PIN in a secure location to protect the privacy of their account information. This applies to any future security measures, log-on methods, and passwords issued by Pepper to its customers. 
+**6\. Comments, Notices and User Content** Any materials or comments posted to any of our webpages are public. Please refer to Section 4 of the Terms of Use for further detail concerning User Content and other materials submitted to the Site. As such, Pepper® assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
 
-**Credit card information:**
+**7\. Opt-Out Right** Except as necessary for Pepper® to provide the products, services, or information, requested by a Member, the Member or any user may opt out of having his or her personally identifiable information, which has been voluntarily provided to Pepper® through an account registration or information subscription, prospectively retained by Pepper®, used by Pepper® for secondary purposes, or disclosed by Pepper® to third parties by updating profile preferences on the Site. (This does not apply to collection of the type of Web browser of the visitor to the Site or to non-identifiable visitor information provided or collected.) Electronic communications sent by Pepper® include detailed unsubscribe instructions at the bottom of each email. 
 
-Credit Card information may be transmitted by customers to Pepper via secure encryption technology at the customer's option, and is thereafter kept in our mainframe computer, behind the Internet "firewall" that restricts access from the Internet. In order to further customer security, credit card numbers are not stored for future use by the customer, and must be re-entered with each new purchase. 
+**8\. Privacy of Children** The Site is not intended for children under the age of 13. The Site does not knowingly collect personal information online from visitors in this age group. All users must be at least 13 years of age in order to use the Site. 
 
-**Transmission over the Internet:**
+**9\. Access to and Ability to Correct Personal Information** Upon your request via postal mail, e-mail, or telephone, Pepper® will provide you with a summary of any personal information retained by Pepper® that has been voluntarily provided by you to Pepper® through online forms, registration forms, surveys, e-mail, or another online avenue. You may modify, correct, change or update your personal information by contacting Pepper® via postal mail, e-mail, or telephone at the addresses below or number above. 
 
-Information transmitted to any Web site travels via the interconnected network of computers called the Internet. While Pepper has implemented measures to protect customer privacy once information reaches our Web site computer, users who may have concerns about the privacy of their information have the option of placing orders using our toll-free telephone and fax numbers, or via mail:
+**10\. Right to Change Privacy Statement** Pepper® may change this Privacy Statement at any time. It is the obligation of users returning to the Site to learn of changes to the Privacy Statement since their last visit. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before the change was made. 
 
-Toll-free telephone: 1.800.345.6296  
-Toll-free fax: 1.800.260.1482  
-Mail: P.O. Box 850, Valley Forge, PA 19482.
+**11\. Your California Privacy Rights** If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your personal information to third parties for direct marketing purposes, including a description of the categories of personal information disclosed. In order to obtain such information, please email your request to [satisfaction@jwpepper.com](mailto:satisfaction@jwpepper.com) or write us at the following address: 191 Sheree Blvd., Exton, PA 19341. 
 
-Customer Access to Data and Ability to Correct Personal Data:
+Updated: May 25, 2011 
 
-Customers may review, correct, and delete information in their account at any time using the "My Account" feature on the Pepper Web site. 
-
-**Email advertising Opt-in and Opt-out:**
-
-Customers who have opened Pepper accounts may chose to subscribe (Opt-in) to J.W. Pepper Online Music Clubs which from time to time send information on new products via e-mail. Pepper may also add existing customers to an e-mail advertising list. Either way, customers who have received e-mail from Pepper may cancel their e-mail Music Club subscription at any time (Opt-out) by accessing the "My Account" feature on the Pepper Web site. 
-
-**Customers under the age of 16:**
-
-It is Pepper's policy not to knowingly sell to or collect personally identifiable information from children under the age of 16. 
-
-**Right to Contact Users:**
-
-Pepper reserves the right to contact users of its Web site who have provided e-mail addresses regarding account status; changes to any policies; and other information we feel may be of interest. 
-
-**Right to Change Privacy Statement**
-
-Due to the fast-changing nature of the Internet, Pepper reserves the right to change this Privacy Statement at any time with or without notice. Users of the Pepper Web site are encouraged to review this information from time to time, as all changes will be effective as to new and previous visitors. 
-
-**Links to and from Other Web Sites**
-
-Pepper's privacy policy applies only to our own Web site. While Pepper may provide links to other Web sites, it is the customer's responsibility to read and understand the terms of use and the privacy policies posted on other Web sites. 
-
-**Acceptance of Terms**
-
-By using the J.W. Pepper & Son, Inc. Web site and services you acknowledge that you have read and agree to all terms and policies. 
-
-**Questions and Comments**
-
-**Privacy Policy:**
-
-Please let us know if we can answer any questions you have or if you would like to make any comments about our privacy policy.  
-Contact us at [gburtch@jwpepper.com](mailto:gburtch@jwpepper.com). 
-
-**General Comments:**
-
-If you would like to make general comments or suggestions concerning the J.W. Pepper Web site, please contact us at: [support@jwpepper.com](mailto:support@jwpepper.com)
-
-* * *
-
-J.W. Pepper & Son, Inc.  
-Box 850  
-Valley Forge, PA 19482  
-Toll Free Music Line: 1-800-345-6296  
-Toll Free Fax Line: 1-800-260-1482 
-
-For inquiries, technical support, or other communication, please visit the [Contact Pepper](https://web.archive.org/web/20021216024431id_/http%3A//jwpepper.com/direct.html) page. 
-
-[Legal Notice](https://web.archive.org/web/20021216024431id_/http%3A//jwpepper.com/legalnotice.html)  
-copyright, J.W. Pepper & Son, Inc. 
+Copyright © 2013 J.W. Pepper & Son®, Inc.; All rights reserved. 
