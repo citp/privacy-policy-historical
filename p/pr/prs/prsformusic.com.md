@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122174508id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626224706id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
+
+The MCPS-PRS Alliance Limited takes your privacy very seriously. This Privacy Policy sets out our data processing practices through the use of the Internet and any other electronic communications networks. It also sets out your options regarding the way your personal information is used. 
 
 ## Information collected
 
