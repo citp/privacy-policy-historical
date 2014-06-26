@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225075129id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefoodsmarket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033135id_/http%3A//www.wholefoodsmarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whole Foods Market
 
 #### General
 
-Whole Foods Market recognizes that the protection of privacy is a major concern to many of our customers and wants you to know how we acquire personal information through the Whole Foods Market website, WFM's mobile applications and WFM's social media (collectively this "website") and how we use, share and protect that information. By using our services and viewing this website, you are consenting to the information collection, use and disclosure practices described in this Privacy Policy. As used in this Privacy Policy, "Whole Foods Market", "us", or "we" refers to Whole Foods Market, Inc., and its subsidiaries and affiliates.
+Whole Foods Market recognizes that the protection of privacy is a major concern to many of our customers and wants you to know how we acquire personal information through the Whole Foods Market website, WFM's mobile applications and WFM's social media (collectively this "website") and how we use, share and protect that information. By using our services and viewing this website, you are consenting to the information collection, use and disclosure practices described in this Privacy Policy. As used in this Privacy Policy, "Whole Foods Market", "us", or "we" refers to Whole Foods Market Services, Inc., and its subsidiaries and affiliates.
 
 #### Users Outside the United States
 
