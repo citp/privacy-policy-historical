@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026013346id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151152id_/http%3A//www.jacobtime.com/osc/privacy.php%3FosCsid%3D593a39a3d8c3f18dc16e6982d57c5499) for the most accurate reproduction.*
 
-# Raymond Weil Watches | Armani Watches | Jacobtime.com
+# Luxury Watches for Men and Women | JacobTime
 
 **Our Commitment To Privacy**
 
