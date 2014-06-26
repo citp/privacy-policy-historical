@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the etotalk.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211220354id_/http%3A//www.etotalk.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etotalk.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626234032id_/http%3A//www.etotalk.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Privacy Notice - Smartphone Professional - EtoTalk</title>
 <!-- 6-rzuy8TtPgtzTXF5_nvxWUm150 -->
 <meta name="ROBOTS" content="All">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="Operating System, Sim Card Type, Screen Size, Camera, Accessories, For Car, Tablets / MID / iPAD, All Smartphones, Phone Brand, Tablets Brand, , Privacy Notice">
-<meta name="description" content="EtoTalk - Smartphone Professional - Privacy Notice - Operating System, Sim Card Type, Screen Size, Camera, Accessories, For Car, Tablets / MID / iPAD, All Smartphones, Phone Brand, Tablets Brand, ">
+<meta name="keywords" content="Smartphones, Tablet PC, Phone Accessories, Tablet Accessories, Electronics, Smart Bags, , Privacy Notice">
+<meta name="description" content="EtoTalk - Smartphone Professional - Privacy Notice - Smartphones, Tablet PC, Phone Accessories, Tablet Accessories, Electronics, Smart Bags, ">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="google-site-verification" content="Wi59HUl4RfRuswFROhBW1wkCnHItElsuCCQ0MYDQaqw">
 <meta name="google-translate-customization" content="505d0fa659638058-784c1fdc80b814e0-g1062256890ebb1d9-f">
@@ -18,7 +18,7 @@
 
 
 <base href="http://www.etotalk.com/">
-<script async="" src="//www.etotalk.com/facebook/fp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var baseURL = "http://www.etotalk.com/"</script>
+<script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var baseURL = "http://www.etotalk.com/"</script>
 <link rel="stylesheet" type="text/css" href="includes/templates/etotalk/css/style_sheets.css">
 <script type="text/javascript" src="includes/templates/etotalk/jscript/jscript_SpryMenuBar.js"></script>
 <script type="text/javascript" src="includes/templates/etotalk/jscript/jscript_frmCheck.js"></script>
@@ -80,6 +80,49 @@ jQuery("#root_categories").show();
 
 });
 
+
+jQuery(".cate-menu-out").bind("mouseenter",function(){  
+    var  setWidth;
+	var  menuWidth;
+	var  menuHight;
+	menuHight = 0;
+    jQuery(this).children('div').show(); 
+    menuHight = jQuery(this).find('ul').height() ;
+	//alert(menuHight);
+	if(menuHight>222){
+	jQuery('#cate-menu').css("height",menuHight);	
+	jQuery(this).find('ul').css("height",menuHight);
+	}else{
+	menuHight = 221;
+	jQuery(this).find('ul').css("height",menuHight);
+	jQuery('#cate-menu').css("height",menuHight);
+	}
+    setWidth = jQuery(this).children('div').width()+181;
+   // setHight = jQuery(this).children('div').hight() + menuHight;
+  //  jQuery('#cate-menu').css("height",menuHight);		
+    jQuery('#cate-menu').css("width",setWidth);
+    // �Ǵ�0��ʼ��
+    jQuery(this).find('em').show(); // �Ǵ�0��ʼ��
+
+});
+
+
+jQuery(".cate-menu-out").bind("mouseleave",function(){ 
+      
+	  var  chkWidth;
+	  chkWidth=jQuery(this).children('div').width();
+      jQuery('#cate-menu').css("height",221);
+
+
+    jQuery(this).children('div').hide(); // �Ǵ�0��ʼ��
+    jQuery(this).find('em').hide(); // �Ǵ�0��ʼ��
+	jQuery('#cate-menu').stop().css("width",175);
+
+
+});
+
+
+
 jQuery("#main").mousemove(function(){  
 
 
@@ -87,6 +130,20 @@ jQuery("#root_categories").hide();
 
 });
 
+jQuery(".relative  .cur").mousemove(function(){  
+
+
+jQuery("#currencies").show();
+jQuery(".relative .cur").addClass("cur_from");
+
+});
+
+jQuery(".relative .cur").mouseout(function(){  
+
+jQuery(".relative .cur").removeClass("cur_from");
+jQuery("#currencies").hide();
+
+});
 
 
 
@@ -175,17 +232,18 @@ q_reg();
 }); 
 
 jQuery(".e_news").mousedown(function(){  
-chk_news();
+jQuery('.latest_news').show(); 
+//chk_news();
 }); 
 
 jQuery(".news_close").mousedown(function(){  
+jQuery('.latest_news').hide(); 
 chk_news();
 }); 
 
 jQuery(window).resize(function() {
 chk_windows_width=jQuery(window).width(); 
 if(chk_windows_width < 1300){
-jQuery('.latest_news').hide(); 
 jQuery('.click').show(); 
 jQuery('#left_banner').hide(); 
 jQuery('#right_banner').hide(); 
@@ -215,19 +273,34 @@ success: function(json){
 if(json.chk_news== true){
 jQuery('.latest_news').hide(); 
 jQuery('.click').show();  
-}else
-{
+}
    if(json.chk_news == false){
    jQuery('.latest_news').show(); 
       jQuery('.click').hide();  
   }
   
-  }
+
   }
   }); 
   
   } 
 
+function chk_paypal_login(){
+
+jQuery.ajax({ 
+type: "post", 
+url : "chk_paypal_login.php", 
+dataType:'json',
+data: '', 
+success: function(json){
+if(json.chk_paypal_login== true){
+window.location.reload();  
+}
+
+  }
+  }); 
+  
+  } 
 
 
 function login(){
@@ -492,6 +565,8 @@ document.execCommand("BackgroundImageCache", false, true);
 </script><![endif]-->
 
 
+
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -507,6 +582,7 @@ document.execCommand("BackgroundImageCache", false, true);
   })();
 
 </script>
+
 
 <script language="javascript" type="text/javascript">
       
@@ -524,20 +600,7 @@ document.execCommand("BackgroundImageCache", false, true);
 	
 });
 </script>
-<script type="text/javascript">
-var fb_param = {};
-fb_param.pixel_id = '6006598251056';
-fb_param.value = '0.00';
-(function(){
-  var fpw = document.createElement('script');
-  fpw.async = true;
-  fpw.src = '//www.etotalk.com/facebook/fp.js';
-  var ref = document.getElementsByTagName('script')[0];
-  ref.parentNode.insertBefore(fpw, ref);
-})();
-</script>
 
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6006598251056&amp;value=0" /></noscript>
 <script type="text/javascript">
 function shut(){
 	window.opener=null;
@@ -617,19 +680,7 @@ jQuery(window).scroll(function () {
   jQuery("#right_banner").animate({opacity: "1",top:left_height},  100);
     }
 </script>
-<div id="left_banner" style="background-color: #F7F7F7; position:absolute; width:170px; height:380px; left:-178px; top:175px; z-index:999; ">
-<div class="banners">
 
-<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=102"><img src="images/Lenovo_P780_170X380.jpg" alt="Lenovo P780" title=" Lenovo P780 " width="170" height="380"></a>
-</div>
-</div>
-<div id="right_banner" style="background-color:#F7F7F7; position:absolute; width:170px; height:380px; right:-178px; top:175px; z-index:999;">
-
-<div class="banners">
-
-<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=93"><img src="images/Christmas_170X380.jpg" alt="Christmas" title=" Christmas " width="170" height="380"></a></div>
-
-</div>
 </div>
 
 
@@ -662,7 +713,29 @@ function googleTranslateElementInit() {
    
 
 
-	<div class="toplang fr">Currency:<select class="Selectinput"><option>US Dollar</option></select></div>
+	<form class="fr" name="form1" method="post" action="">
+Currency:
+  <select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
+  <option selected="">USD</option>	 
+	 					<option value="/privacy.html?currency=EUR">
+
+			
+			
+			
+			EUR			           
+		           </option>
+			
+								<option value="/privacy.html?currency=GBP">
+
+			
+			
+			
+			GBP			           
+		           </option>
+			
+			
+  </select>
+</form>
 
 
 	<div class="fr"><!-- facebook -->
@@ -676,7 +749,7 @@ function googleTranslateElementInit() {
 	    <div class="clear fl"><!-- logo start -->
 		<div class="logo">
 	 <a href="http://www.etotalk.com"><img src="/images/logo.png" border="0"></a>
-	 <div style="position: absolute; top:14px; left:120px"><img src="/images/logo_star.gif" border="0"></div>
+	 <div style="position: absolute;top:23px; left:320px"><a href="http://www.etotalk.com/html/app/"><img src="/images/APP.png" border="0"></a></div>
 	    </div>
 	</div><!-- logo end -->
 	
@@ -689,9 +762,26 @@ function googleTranslateElementInit() {
    			
 
 		
-	<li id="login_user" class="fr"><a style="color:#990000" id="login_but" href="http://www.etotalk.com/login.html">Login </a> or<a ref="nofollow" id="register" style="color:#990000; margin-left:10px; " href="http://www.etotalk.com/login.html" title="Register">Register</a></li>
+	
+    <li id="login_user" class="fr">
+	<a style="color:#990000" id="login_but" href="http://www.etotalk.com/login.html">Login </a> or<a ref="nofollow" id="register" style="color:#990000; margin-left:10px; " href="http://www.etotalk.com/login.html" title="Register">Register</a></li>
 
-		
+     <li class="fr">
+	<span id="etotalk.com"></span>
+<script src="https://www.paypalobjects.com/js/external/api.js"></script>
+<script>
+paypal.use( ["login"], function(login) {
+  login.render ({
+    "appid": "AQa-ZhBYvby6oiXWFc7wp9c41eYc0Z7CASgLML5Q41xx_HnRUxjz-TGDS45u",
+    //"authend": "sandbox",
+    "scopes": "profile address phone email",
+    "containerid": "etotalk.com",
+    "locale": "en-us",
+    "returnurl": "http://www.etotalk.com/paypal_login.php"
+  });
+});
+</script></li>
+
           
 			
 		
@@ -709,14 +799,16 @@ function googleTranslateElementInit() {
    
    <!-- nav start -->
    <div class="fr" id="header_nav">
-   <div style="top:122px; left:440px; position:absolute; z-index:999"><img src="/images/gift.png" title="Gift"></div>
+   <!--
+   <div style="top:122px; left:440px; position:absolute; z-index:999"><img  src="/images/gift.png" title="Gift" /></div> 
+   -->
 	<!--bof-header ezpage links-->
 		
 
 
 
 
-<ul id="nav_menu">
+<ul id="nav_menu" style="padding-top:0;top:130px;">
   <div class="catemenu fl">
 			<div class="tit" onclick="click_show('#root_categories');"></div>
   </div>
@@ -736,19 +828,19 @@ function googleTranslateElementInit() {
   
 
   
-<li class="li3 nav_li"><a href="http://blog.etotalk.com" target="_blank"><span></span>Blog</a></li>
+<li class="li3 nav_li"><a href="http://www.etotalk.com/index.php?main_page=wholesale"><span></span>Wholesale</a></li>
 
 
   
 
   
-<li class="li4 nav_li"><a href="/xmas/index.php"><span></span>Xmas</a></li>
+<li class="li4 nav_li"><a href="/html/8core" target="_blank"><span></span>Octa Core</a></li>
 
 
   
 
   
-<li class="li5 nav_li"><a href="http://www.etotalk.com/index.php?main_page=wholesale"><span></span>Wholesale</a></li>
+<li class="li5 nav_li"><a href="http://www.etotalk.com/html/anniversary/"><span></span>Anniversary</a></li>
 
 
 
@@ -768,155 +860,128 @@ function googleTranslateElementInit() {
 -->
 		
     <div id="root_categories" style="left:0; top:170px; position:absolute; display:none; z-index:9999;">
-    
-<!--// bof: box_categories //-->
+    <div id="litb-cate-menu" class="litb-cate-menu ctrInfo ctrTrackA"><div id="cate-menu" class="cate-menu" style="overflow: hidden; width: 175px; display: block; z-index: 0;"><div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Smartphones<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1112" style="width: 813px; top: 0px; display: none; z-index: 50;"><ul id="1112" class="litb-cate-menu-specialoffer"><dl><dt class="red">What's HOT !!!</dt><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=109"><img src="images/Red_rice-S.jpg" alt="Red rice" title=" Red rice " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=110"><img src="images/HUAWEI_3C_175X75.jpg" alt="HUAWEI 3C" title=" HUAWEI 3C " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=111"><img src="images/ZP980+-S.jpg" alt="ZOPO ZP980+" title=" ZOPO ZP980+ " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=112"><img src="images/thl_T100s-S.jpg" alt="thl T100s" title=" thl T100s " width="175" height="75"></a></div></dl></ul><ul class="cate-menu-sub" style="width:573px;"><dl class="fr"><dt>Screen</dt><dd><a href="http://www.etotalk.com/Wholesale-40-inches_c1026" title="4.0 inches" class="pad_l_28px block">4.0 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-43-inches_c1008" title="4.3 inches" class="pad_l_28px block">4.3 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-45-inches_c1043" title="4.5 inches" class="pad_l_28px block">4.5 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-47-inches_c1047" title="4.7 inches" class="pad_l_28px block">4.7 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-50-inches_c1040" title="5.0 inches" class="pad_l_28px block">5.0 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-53-inches_c1041" title="5.3 inches" class="pad_l_28px block">5.3 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-55-inches_c1064" title="5.5 inches" class="pad_l_28px block">5.5 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-57-inches_c1065" title="5.7 inches" class="pad_l_28px block">5.7 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-60-inches_c1066" title="6.0 inches" class="pad_l_28px block">6.0 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-65-inches_c1110" title="6.5 inches" class="pad_l_28px block">6.5 inches</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-70-inches_c1042" title="7.0 inches" class="pad_l_28px block">7.0 inches</a></dd></dl>
 
-<!-- <h3 class="title_ba line_30px" id="">All Categories</h3> -->
+<dl class="fr"><dt>Brand</dt><dd><a href="http://www.etotalk.com/Wholesale-lenovo_c1054" title="Lenovo" class="pad_l_28px block">Lenovo</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-zopo_c1059" title="ZOPO" class="pad_l_28px block">ZOPO</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-thl_c1067" title="ThL" class="pad_l_28px block">ThL</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-jiayu_c1063" title="Jiayu" class="pad_l_28px block">Jiayu</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-elephone_c1147" title="Elephone" class="pad_l_28px block">Elephone</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-huawei_c1056" title="Huawei" class="pad_l_28px block">Huawei</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-zte_c1057" title="ZTE" class="pad_l_28px block">ZTE</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-xiaomi_c1096" title="Xiaomi" class="pad_l_28px block">Xiaomi</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-samsung_c1055" title="Samsung" class="pad_l_28px block">Samsung</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-htc_c1058" title="HTC" class="pad_l_28px block">HTC</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-ladies-day_c1139" title="Ladies Day" class="pad_l_28px block">Ladies Day</a></dd></dl>
 
+<dl class="fr"><dt>Smartphone</dt><dd><a href="http://www.etotalk.com/Wholesale-all-smartphones_c1028" title="All Smartphones" class="pad_l_28px block">All Smartphones</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-presales-phones_c1093" title="Presales Phones" class="pad_l_28px block">Presales Phones</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-octa-core-phones_c1106" title="Octa Core Phones" class="pad_l_28px block">Octa Core Phones</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-dual-sim-full-active_c1108" title="Dual SIM Full Active" class="pad_l_28px block">Dual SIM Full Active</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-2gb-ram-phones_c1130" title="2GB RAM Phones" class="pad_l_28px block">2GB RAM Phones</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-fhd-1080p-display_c1131" title="FHD 1080P Display" class="pad_l_28px block">FHD 1080P Display</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-triproof-phones_c1148" title="Tri-Proof Phones" class="pad_l_28px block">Tri-Proof Phones</a></dd></dl>
 
-              <div id="catalog" class="con" style="width:172px">
-			  
-			
- <div id="newPriceLinks" class="default_ul newPriceLinks"> 
-<dl class="default_li"><dt class="nobr"><span>All Smartphones</span><i class="arrow"></i>
- <div style="top:-11px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-all-smartphones_c1028">All Smartphones</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-free-shipping_c1070">Free shipping</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-presales-phones_c1093">Presales Phones</a></dl>
+<dl class="bottop fl"><dt>Frequency</dt><dd><a href="http://www.etotalk.com/Wholesale-dual-sim-3g_c1003" title="Dual Sim (3G)" class="pad_l_28px block">Dual Sim (3G)</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-dual-sim-gsm_c1002" title="Dual Sim (GSM)" class="pad_l_28px block">Dual Sim (GSM)</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-dual-sim-cdma_c1049" title="Dual Sim (CDMA)" class="pad_l_28px block">Dual Sim (CDMA)</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-single-sim-3g_c1005" title="Single Sim (3G)" class="pad_l_28px block">Single Sim (3G)</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-single-sim-4g-lte_c1082" title="Single Sim (4G LTE)" class="pad_l_28px block">Single Sim (4G LTE)</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-dual-sim-4g-lte_c1132" title="Dual Sim (4G LTE)" class="pad_l_28px block">Dual Sim (4G LTE)</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Phone Brand</span><i class="arrow"></i>
- <div style="top:-48px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-lenovo_c1054">Lenovo</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-zopo_c1059">ZOPO</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-zte_c1057">ZTE</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-huawei_c1056">Huawei</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-jiayu_c1063">Jiayu</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-xiaomi_c1096">Xiaomi</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-thl_c1067">ThL</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-samsung_c1055">Samsung</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-htc_c1058">HTC</a></dl>
+<dl class="bottop fl"><dt>System</dt><dd><a href="http://www.etotalk.com/Wholesale-android-44_c1144" title="Android 4.4" class="pad_l_28px block">Android 4.4</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-android-43_c1120" title="Android 4.3" class="pad_l_28px block">Android 4.3</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-android-42_c1062" title="Android 4.2" class="pad_l_28px block">Android 4.2</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-android-41_c1048" title="Android 4.1" class="pad_l_28px block">Android 4.1</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-android-40_c1044" title="Android 4.0" class="pad_l_28px block">Android 4.0</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Operating System</span><i class="arrow"></i>
- <div style="top:-85px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-android-v42_c1062">Android V4.2</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-android-v41_c1048">Android V4.1</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-android-v40_c1044">Android V4.0</a></dl>
+<dl class="bottop fl"><dt>Camera</dt><dd><a href="http://www.etotalk.com/Wholesale-50-mega-pixel_c1012" title="5.0 mega pixel" class="pad_l_28px block">5.0 mega pixel</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-80-mega-pixel_c1013" title="8.0 mega pixel" class="pad_l_28px block">8.0 mega pixel</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-130-mega-pixel_c1061" title="13.0 mega pixel" class="pad_l_28px block">13.0 mega pixel</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-160-mega-pixel_c1146" title="16.0 mega pixel" class="pad_l_28px block">16.0 mega pixel</a></dd></dl></ul></div>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Sim Card Type</span><i class="arrow"></i>
- <div style="top:-122px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-dual-sim-3g-wcdma_c1003">Dual Sim (3G WCDMA)</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-dual-sim-gsm_c1002">Dual Sim (GSM)</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-dual-sim-cdma2000_c1049">Dual Sim (CDMA2000)</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-single-sim-3g_c1005">Single Sim (3G)</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-single-sim-4g-lte_c1082">Single Sim (4G LTE)</a></dl>
+</div>
+<div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Tablet PC<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1113" style="width: 673px; top: -37px; display: none; z-index: 50;"><ul id="1113" class="litb-cate-menu-specialoffer"><dl><dt class="red">What's HOT !!!</dt><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=113"><img src="images/Teclast_X98.jpg" alt="Teclast X98" title=" Teclast X98 " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=114"><img src="images/cube_u30gt2.jpg" alt="cube u30gt2" title=" cube u30gt2 " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=115"><img src="images/Chuwi_VX3.jpg" alt="Chuwi vx3" title=" Chuwi vx3 " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=116"><img src="images/Pipo_Max-M6pro.jpg" alt="Pipo Max-M6pro" title=" Pipo Max-M6pro " width="175" height="75"></a></div></dl></ul><ul class="cate-menu-sub" style="width:433px;"><dl class="fr"><dt>Tablets Brand</dt><dd><a href="http://www.etotalk.com/Wholesale-ainol_c1084" title="Ainol" class="pad_l_28px block">Ainol</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-cube_c1085" title="Cube" class="pad_l_28px block">Cube</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-freelander_c1086" title="Freelander" class="pad_l_28px block">Freelander</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-onda_c1087" title="Onda" class="pad_l_28px block">Onda</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-pipo_c1088" title="PiPO" class="pad_l_28px block">PiPO</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-ployer_c1089" title="PLOYER" class="pad_l_28px block">PLOYER</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-ramos_c1090" title="Ramos" class="pad_l_28px block">Ramos</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-teclast_c1091" title="Teclast" class="pad_l_28px block">Teclast</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-windowvido_c1092" title="Window/Vido" class="pad_l_28px block">Window/Vido</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Screen Size</span><i class="arrow"></i>
- <div style="top:-159px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-70-inches_c1042">7.0 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-60-inches_c1066">6.0 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-57-inches_c1065">5.7 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-55-inches_c1064">5.5 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-53-inches_c1041">5.3 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-50-inches_c1040">5.0 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-47-inches_c1047">4.7 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-45-inches_c1043">4.5 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-43-inches_c1008">4.3 inches</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-40-inches_c1026">4.0 inches</a></dl>
+<dl class="bottop fl"><dt>Android Tablets</dt><dd><a href="http://www.etotalk.com/Wholesale-all-android-tablets_c1022" title="All Android Tablets" class="pad_l_28px block">All Android Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-3g-wcdma-tablets_c1109" title="3G WCDMA Tablets" class="pad_l_28px block">3G WCDMA Tablets</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Camera</span><i class="arrow"></i>
- <div style="top:-196px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-50-mega-pixel_c1012">5.0 mega pixel</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-80-mega-pixel_c1013">8.0 mega pixel</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-130-mega-pixel_c1061">13.0 mega pixel</a></dl>
+<dl class="bottop fl"><dt>Screen Size</dt><dd><a href="http://www.etotalk.com/Wholesale-70-inch-tablets_c1025" title="7.0 inch Tablets" class="pad_l_28px block">7.0 inch Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-79-inch-tablets_c1104" title="7.9 inch Tablets" class="pad_l_28px block">7.9 inch Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-80-inch-tablets_c1033" title="8.0 inch Tablets" class="pad_l_28px block">8.0 inch Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-90-inch-tablets_c1051" title="9.0 inch Tablets" class="pad_l_28px block">9.0 inch Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-97-inch-tablets_c1105" title="9.7 inch Tablets" class="pad_l_28px block">9.7 inch Tablets</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-101-inch-tablets_c1052" title="10.1 inch Tablets" class="pad_l_28px block">10.1 inch Tablets</a></dd></dl></ul></div>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Accessories</span><i class="arrow"></i>
- <div style="top:-233px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-screen-protector_c1078">Screen Protector</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-protective-case_c1015">Protective Case</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-leather-case_c1079">Leather Case</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-battery-charger_c1029">Battery &amp; Charger</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-cable-headset_c1030">Cable &amp; Headset</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-touch-screen-digitizer_c1031">Touch Screen &amp; Digitizer</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-power-bank_c1073">Power Bank</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-smart-stylish_c1081">Smart &amp; Stylish</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-led-projector_c1103">LED Projector</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-others_c1032">Others</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-firmware_c1019">Firmware</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-software_c1020">Software</a></dl>
+</div>
+<div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Phone  Accessories<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1114" style="width: 813px; top: -74px; display: none; z-index: 50;"><ul id="1114" class="litb-cate-menu-specialoffer"><dl><dt class="red">What's HOT !!!</dt><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=117"><img src="images/Nillkin.jpg" alt="Nillkin" title=" Nillkin " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=118"><img src="images/Mofi.jpg" alt="MoFi" title=" MoFi " width="175" height="75"></a></div><div class="allborder margin_t" style="overflow: hidden;"><a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=119"><img src="images/ROCK.jpg" alt="Rock" title=" Rock " width="175" height="75"></a></div></dl></ul><ul class="cate-menu-sub" style="width:573px;"><dl class="bottop fl"><dt>Accessories</dt><dd><a href="http://www.etotalk.com/Wholesale-screen-protector_c1078" title="Screen Protector" class="pad_l_28px block">Screen Protector</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-protective-case_c1015" title="Protective Case" class="pad_l_28px block">Protective Case</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-leather-case_c1079" title="Leather Case" class="pad_l_28px block">Leather Case</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-cable-headset_c1030" title="Cable &amp; Headset" class="pad_l_28px block">Cable &amp; Headset</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-power-bank_c1073" title="Power Bank" class="pad_l_28px block">Power Bank</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-others_c1032" title="Others" class="pad_l_28px block">Others</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>For Car</span><i class="arrow"></i>
- <div style="top:-270px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-fm-transmitter_c1094">FM Transmitter</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-car-dvr_c1097">Car DVR</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-car-gps_c1098">Car GPS</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-car-mp3-player_c1099">Car MP3 Player</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-car-bluetooth-hifi_c1100">Car Bluetooth HiFi</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-car-bluetooth-accessories_c1101">Car Bluetooth Accessories</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-bluetooth-headset_c1102">Bluetooth Headset</a></dl>
+<dl class="bottop fl"><dt>Repair Parts</dt><dd><a href="http://www.etotalk.com/Wholesale-touch-screen_c1031" title="Touch Screen" class="pad_l_28px block">Touch Screen</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-display-screen_c1137" title="Display Screen" class="pad_l_28px block">Display Screen</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-back-cover_c1107" title="Back Cover" class="pad_l_28px block">Back Cover</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-battery_c1029" title="Battery" class="pad_l_28px block">Battery</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-power-charger_c1138" title="Power Charger" class="pad_l_28px block">Power Charger</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Tablets / MID / iPAD</span><i class="arrow"></i>
- <div style="top:-307px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-all-android-tablets_c1022">All Android Tablets</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-7-inch-tablets-mid_c1025">7 inch Tablets / MID</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-8-inch-tablets-mid_c1033">8 inch Tablets / MID</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-9-inch-tablets-mid_c1051">9 inch Tablets / MID</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-10-inch-tablets-mid_c1052">10 inch Tablets / MID</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-tablets-accessories_c1095">Tablets Accessories</a></dl>
+<dl class="bottop fl"><dt>Software</dt><dd><a href="http://www.etotalk.com/Wholesale-firmware_c1019" title="Firmware" class="pad_l_28px block">Firmware</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-software_c1020" title="Software" class="pad_l_28px block">Software</a></dd></dl>
 
- </div>
-</dt></dl>
-<dl class="default_li"><dt><span>Tablets Brand</span><i class="arrow"></i>
- <div style="top:-344px" class="abc"><div id="catalog_banner" class="fr">banner</div> 
-<dl class="nobr"><a href="http://www.etotalk.com/Wholesale-ainol_c1084">Ainol</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-cube_c1085">Cube</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-freelander_c1086">Freelander</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-onda_c1087">Onda</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-pipo_c1088">PiPO</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-ployer_c1089">PLOYER</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-ramos_c1090">Ramos</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-teclast_c1091">Teclast</a></dl>
-<dl><a href="http://www.etotalk.com/Wholesale-windowvido_c1092">Window/Vido</a></dl>
+<dl class="bottop fl"><dt>Brand</dt><dd><a href="http://www.etotalk.com/Wholesale-nillkin_c1141" title="Nillkin" class="pad_l_28px block">Nillkin</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-mofi_c1142" title="Mofi" class="pad_l_28px block">Mofi</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-rock_c1143" title="ROCK" class="pad_l_28px block">ROCK</a></dd></dl></ul></div>
 
- </div>
-</dt></dl>
+</div>
+<div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Tablet Accessories<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1115" style="width: 326px; top: -111px; display: none; z-index: 50;"><ul class="cate-menu-sub" style="width:293px;"><dl class="bottop fl"><dt>Accessories</dt><dd><a href="http://www.etotalk.com/Wholesale-tablet-screen-film_c1095" title="Tablet Screen Film" class="pad_l_28px block">Tablet Screen Film</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-tablet-leather-case_c1133" title="Tablet Leather Case" class="pad_l_28px block">Tablet Leather Case</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-tablet-charger_c1134" title="Tablet Charger" class="pad_l_28px block">Tablet Charger</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-tablet-protective-bag_c1135" title="Tablet Protective Bag" class="pad_l_28px block">Tablet Protective Bag</a></dd></dl>
 
- </div>
+<dl class="bottop fl"><dt>Others</dt><dd><a href="http://www.etotalk.com/Wholesale-others_c1127" title="Others" class="pad_l_28px block">Others</a></dd></dl></ul></div>
 
-			             </div>
-                   <script>
-				//���ձ��۲˵�
-				if (document.getElementById("newPriceLinks")){
-				var sfEls = document.getElementById("newPriceLinks").getElementsByTagName("dt");
-				for (var i=0; i<sfEls.length; i++) {
-				sfEls[i].onmouseover=function() {
-				this.className+=(this.className.length>0? " ": "") + "sfhover";
-				}
-				sfEls[i].onmouseout=function() {
-				this.className=this.className.replace(new RegExp("( ?|^)sfhover\\b"), 
-				"");
-				}
-				}
-				}
-				//startmarquee(23,100,2000,"divScroll");//����
-			</script>
+</div>
+<div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Electronics<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1116" style="width: 466px; top: -148px; display: none; z-index: 50;"><ul class="cate-menu-sub" style="width:433px;"><dl class="fr"><dt>Car Electronics</dt><dd><a href="http://www.etotalk.com/Wholesale-fm-transmitter_c1094" title="FM Transmitter" class="pad_l_28px block">FM Transmitter</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-dvr_c1097" title="Car DVR" class="pad_l_28px block">Car DVR</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-gps_c1098" title="Car GPS" class="pad_l_28px block">Car GPS</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-mp3-player_c1099" title="Car MP3 Player" class="pad_l_28px block">Car MP3 Player</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-bluetooth-hifi_c1100" title="Car Bluetooth HiFi" class="pad_l_28px block">Car Bluetooth HiFi</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-bluetooth-accessories_c1101" title="Car Bluetooth Accessories" class="pad_l_28px block">Car Bluetooth Accessories</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-bluetooth-headset_c1102" title="Bluetooth Headset" class="pad_l_28px block">Bluetooth Headset</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-car-others_c1145" title="Car Others" class="pad_l_28px block">Car Others</a></dd></dl>
 
-<!--// eof: box_categories //-->    </div>
+<dl class="bottop fl"><dt>Smart &amp; Stylish</dt><dd><a href="http://www.etotalk.com/Wholesale-smart-stylish_c1081" title="Smart &amp; Stylish" class="pad_l_28px block">Smart &amp; Stylish</a></dd>
+<dd><a href="http://www.etotalk.com/Wholesale-wearables_c1149" title="Wearables" class="pad_l_28px block">Wearables</a></dd></dl>
+
+<dl class="bottop fl"><dt>Projectors</dt><dd><a href="http://www.etotalk.com/Wholesale-led-projector_c1103" title="LED Projector" class="pad_l_28px block">LED Projector</a></dd></dl></ul></div>
+
+</div>
+<div class="cate-menu-out" style="width: 990px; "><h2 class="in_1em"><a>&nbsp;Smart Bags<em style="display: none;"></em></a></h2><div class="cate-menu-in" id="1117" style="width: 326px; top: -185px; display: none; z-index: 50;"><ul class="cate-menu-sub" style="width:293px;"><dl class="bottop fl"><dt>Phone Bags</dt><dd><a href="http://www.etotalk.com/Wholesale-phone-bags_c1111" title="Phone Bags" class="pad_l_28px block">Phone Bags</a></dd></dl>
+
+<dl class="bottop fl"><dt>Tablet Bags</dt><dd><a href="http://www.etotalk.com/Wholesale-tablet-bags_c1126" title="Tablet Bags" class="pad_l_28px block">Tablet Bags</a></dd></dl></ul></div>
+
+</div><!-- 1end --></div></div>
+    </div>
 
 	
 	
@@ -1156,6 +1221,7 @@ function googleTranslateElementInit() {
   <option value="159">Northern Mariana Islands</option>
   <option value="160">Norway</option>
   <option value="161">Oman</option>
+  <option value="246">Other</option>
   <option value="162">Pakistan</option>
   <option value="163">Palau</option>
   <option value="164">Panama</option>
@@ -1317,8 +1383,11 @@ function googleTranslateElementInit() {
 	</ul></form></div>
 </div>
 </div>
+<!-- News start -->
+<div id="e_news" class="latest_news" style="display:none">
 
-<div id="e_news" class="latest_news" style="display:block"><!-- News start -->
+
+
       <ul class="title2 fl">
 	 <li class="news_logo fl"></li>
 	 <li class="fl">News</li>
@@ -1328,98 +1397,103 @@ function googleTranslateElementInit() {
 	 <div class="latestfrom">
 	 
 
+<div class="banners" style="padding:3px;">
+
+<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=107"><img src="bmz_cache/0/0c18d288ea28b229cc3c1a45a13d1374.image.240x48.png" alt="Shopping Process" title=" Shopping Process " width="240" height="50"></a></div>
+
+
 <ul class="news">
+<!--
 	 <li class="fl" style="width:30%">
 	    <dl>
 	   <dd style="padding-left:15px; padding-top:5px;">
 	   
            <a href="http://www.etotalk.com/lenovo-p780_p3798.html">
-		   <img src="products_img/2013/New_video/New_P.jpg" width="80" height="80"></a>
+		   <img src="images/s/201310/13825870470.jpg" alt="" width="80" height="80" /></a>
        </dd>
 	   <dd style="text-align: center; background-color:#F5F5F5; margin:5px 15px 5px 15px"> 
 	    <a href="http://www.etotalk.com/lenovo-p780_p3798.html">
           Lenovo P780		  </a>
          </dd>
 	 <dd style="padding-left:15px ;padding-top:5px;">
-	 <a href="http://www.etotalk.com/samsung-galaxy-note-3-n9002-32g_p4453.html">
-		   <img src="images/s/201310/13827526140.jpg" alt="" width="80" height="80"></a>
+	 <a href="http://www.etotalk.com/samsung-n9002-32g_p4453.html">
+		   <img src="images/s/201310/13827526140.jpg" alt="" width="80" height="80" /></a>
        </dd>
 	   <dd style="text-align: center; background-color:#F5F5F5; margin:5px 15px 5px 15px"> 
-	    <a href="http://www.etotalk.com/samsung-galaxy-note-3-n9002-32g_p4453.html">
+	    <a href="http://www.etotalk.com/samsung-n9002-32g_p4453.html">
           Note 3		  </a>
 	 </dd>
 	</dl>
 	<dl></dl>
 	 </li>
-
-	 <li class="list fr" style="width:70%">
-	     <h2><a href="http://www.etotalk.com/lenovo-k910_p4401.html" style="color:#cc0000">Lenovo K910 VIBE Z Dual SIM Full Active Snapdragon 800</a></h2>
+-->
+	 <li class="list">
+	     <h2><a href="http://www.etotalk.com/lenovo-k910_p4401.html" style="color:#cc0000">K910: Faster than Galaxy S4</a></h2>
+<dl><a href="http://www.etotalk.com/huawei-p7l00_p5584.html" style="color:#0000ff">Huawei P7 4G LTE Dual SIM Full Active!
+</a></dl>
 		 <dl>
-		 <a href="http://www.etotalk.com/zopo-zp980-2gb_p3950.html">ZOPO ZP980 32G 389.99-&gt;<b><span class="red">$266.99
+		 <a href="http://www.etotalk.com/xiaomi-redmi-note-pro_p5560.html">Xiaomi Redmi Note -&gt;<b><span class="red">$199.99</span></b></a>		 </dl>
+		 <dl>
+		 <a href="http://www.etotalk.com/zopo-zp980-c2a-2gb-ram_p5040.html"><span class="red">ZOPO ZP980+ 2GB RAM in stock</span></a></dl>
+		 <dl>
+		 <a href="http://www.etotalk.com/elephone-p7-mini_p5402.html">Elephone P7 mini -&gt;<b><span class="red">$96.99
 </span></b></a>		 </dl>
 		 <dl>
-		 <a href="http://www.etotalk.com/zopo-c2-32g_p4051.html">ZOPO C2 32G</a>  $359.99-&gt;<span class="red"><b>$219.99</b></span></dl>
+		 <a href="http://www.etotalk.com/elephone-p8-android-44_p5400.html">Elephone P8 <span class="red"><b>Android 4.4 Kit Kat</b></span></a>		 </dl>
 		 <dl>
-		 <a href="http://www.etotalk.com/zopo-zp700_p4801.html">ZOPO ZP700 <b><span class="red"> $30 USD off
-</span></b> </a>		 </dl>
+		 <a href="http://www.etotalk.com/htc-one-e8-m8sw_p5641.html">HTC One E8 <span style="color:#0000ff"><b>4G LTE Dual SIM!</b></span></a>		 </dl>
 		 <dl>
-		 <a href="http://www.etotalk.com/thl-w100s_p4634.html">THL W100S <b><span class="red"> $30 USD off
+		 <a href="http://www.etotalk.com/xiaomi-redmi-1s-wcdma_p5758.html">Redmi 1S $239.99-&gt;<b><span class="red">$153.99</span></b></a>		 </dl>
+		 <dl>
+		 <a href="http://www.etotalk.com/elephone-p10c_p5908.html">Elephone P10c 5.8mm UltraThin</a>		 </dl>
+		 <!--
+		 <dl>
+		 <a href=http://www.etotalk.com/lenovo-p780_p3798.html >Lenovo P780</a>  $269.99-><span class="red"><b>$189.99</b></span>		 </dl>
+		 <dl>
+		 <a href=http://www.etotalk.com/lenovo-s750_p4015.html>Lenovo S750 -><b><span class="red">Water Proof
 </span></b></a>		 </dl>
 		 <dl>
-		 <a href="http://www.etotalk.com/thl-w200_p4205.html">THL W200 <b><span class="red"> $30 USD off
-</span></b></a>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-a820_p3758.html">Lenovo A820</a>  $229.99-&gt;<span class="red"><b>$139.99</b></span>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenove-a850_p4143.html">Lenove A850</a>  $239.99-&gt;<span class="red"><b>$149.99</b></span>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-p780_p3798.html">Lenovo P780</a>  $289.99-&gt;<span class="red"><b>$229.99</b></span>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-s750_p4015.html">Lenovo S750 -&gt;<b><span class="red">Water Proof
-</span></b></a>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-s820_p3992.html">Lenovo S820</a>  $399.99-&gt;<span class="red"><b>$209.99</b></span>		 </dl>
+		 <a href=http://www.etotalk.com/ktouch-w68_p4473.html >K-Touch W68</a>  $109.99-><span class="red"><b>$59.99</b></span>		 </dl>
+		 -->
 	 </li>
 	 </ul>
-	 <div class="clear"></div>
-	 <ul class="new_product">
-          <h2 class="p_logo fl"></h2>
-		  <li class="fl" style="color:#2678b1; font-size:14px;"><b>New Arrival</b></li>
-		  <div class="clear"></div>
-		  <li class="fl" style="width:30%">
-          <dl>
-		  <dd style="padding-left:15px; padding-top:5px;">
-	   
-           <a href="http://blog.etotalk.com/?p=1958">
-		   <img src="products_img/2013/New_video/780Case.jpg" width="80" height="80">
-</a>
-       </dd>
-	   <dd style="text-align: center; background-color:#F5F5F5; margin:5px 15px 5px 15px"> 
-	    <a href="http://blog.etotalk.com/?p=1958 " target="_blank">
-          P780 &amp; Case		  </a>
-         </dd>
-		  </dl>
-		  
-		  </li>
-		  <li class="list fr" style="width:70%; padding-top:0px;">
-		  	     <h2><a href="http://www.etotalk.com/lenovo-s750_p4015.html" style="color:#cc0000">Lenovo S750 WaterProof IP67 Arrived!</a></h2>
-          		  		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-a706_p3993.html">Lenovo A706</a>  $239.99-&gt;<span class="red"><b>$129.99</b></span>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-s650_p4639.html">Lenovo S650 <b><span class="red"> Multi Language
-</span></b></a></dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/jiayu-g4-2gram_p3932.html">JiaYu G4 2GRAM</a>  $339.99-&gt;<span class="red"><b>$269.99</b></span>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/haier-w718_p4673.html">Haier W718 <b><span class="red"> water proof
-</span></b></a>		 </dl>
-		 <dl>
-		 <a href="http://www.etotalk.com/lenovo-p770_p3476.html">Lenovo P770</a>  $289.99-&gt;<span class="red"><b>$169.99</b></span>		 </dl>
-		 </li>
-		 <div class="clear"></div>
-	 </ul>    
+	 
+
+	 <div class="clear"></div>    
      </div>
 </div><!-- News end -->
+
+<div class="services_online">
+     <script>
+	 function show_online(obj){
+	    jQuery(obj).show();
+		setTimeout("hide_online()",8000);
+	 }
+	 function hide_online(){
+	    jQuery('#skype').hide();
+		jQuery('#msn').hide();
+	 }
+	 </script>
+      <ul>
+	  
+	  <li>
+	  <dl id="skype" style="display:none;  z-index:1000">
+	  <dd> <a href="skype:etowalk?call" target="_blank"><span style="background-position: 0px -87px;"></span></a></dd>
+	  <dd> <a href="skype:etotalk0?call" target="_blank"><span style="background-position: 0px -109px;"></span></a></dd><a href="skype:etotalk0?call" target="_blank">
+	  </a></dl><a href="skype:etotalk0?call" target="_blank">
+	  </a><a href="skype:etotalk0?call" target="_blank"><span onmouseover="show_online('#skype');"></span></a>
+	  </li>
+	  <li><a target="blank" href="tencent://message/?uin=2237899168&amp;Site=http://www.etotalk.com&amp;Menu=yes"><span style="background-position: 0px -42px;"></span></a></li>
+	  <li><a target="_blank" href="http://www.taobao.com/webww/ww.php?ver=3&amp;touid=etotalk&amp;siteid=cntaobao&amp;status=1&amp;charset=utf-8"><span style="background-position: 0px -21px;"></span></a></li>
+	  <li>
+	  <dl id="msn" style="display:none">
+	  <dd><a href="msnim:chat?contact=Jeremy@etowalk.com" target="_blank"><span style="background-position: 0px -132px;"></span></a></dd>
+	  <dd><a href="msnim:chat?contact=etotalk@hotmail.com" target="_blank"><span style="background-position: 0px -154px;"></span></a></dd>
+	  </dl>
+	  <a href="msnim:chat?contact=Jeremy@etowalk.com" target="_blank"><span style="background-position: 0px -63px;" onmouseover="show_online('#msn');"></span></a></li>
+	  </ul>
+	  
+	  </div>
 
 </div><!-- main end -->
 
@@ -1479,9 +1553,13 @@ function googleTranslateElementInit() {
 </div> <!-- mian end -->
 	
 		
-	<br class="clear">
+	<div class="clear"> </div>
+		<div class="wrap"><div class="banners">
 
-<div class="foot">
+<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=105"><img src="images/Clearance_sales_banner.jpg" alt="Clearance" title=" Clearance " width="1004" height="100"></a></div>
+
+</div>
+<div class="foot" style="margin-top:0">
 
 <script language="javascript" type="text/javascript">
 function block_div(obj){
@@ -1494,13 +1572,16 @@ $(obj).style.display='none';
 
 
 <!--bof-navigation display -->
-
 <div class="foot_title wrap">
+
 <ul>
-<li class="act">Special Sales Area</li>
+<!--<li class="act">Special Sales Area</li>-->
+<dd class="foot_special_area" style=" position: relative; left:270px; top:17px;"><a href="/specials.html" title="Special"><img src="/images/Special_Sales.png"></a></dd>
 </ul>
+
 </div>
-<div class="clear"></div>
+<br class="clear">
+
 <div class="wrap">
 <div class="foot_special">
 
@@ -1509,31 +1590,33 @@ $(obj).style.display='none';
 <!-- bof: specials -->
 
 
- <ul><li><a href="http://www.etotalk.com/lenovo-p770_p3476.html"><img src="images/l/201310/13826011840.jpg" alt="Lenovo P770 Super Power 3500mAh Dual Core 1.2GHz Dual Sim Android4.1 Jelly Bean Long Battery Life" title=" Lenovo P770 Super Power 3500mAh Dual Core 1.2GHz Dual Sim Android4.1 Jelly Bean Long Battery Life " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-p770_p3476.html">Lenovo P770 Super Power 3500mAh Dual Core 1.2GHz Dual Sim Android4.1 Jelly Bean Long Battery Life</a></li><li class="price"><del class="ordprice">$289.99 </del><sup>$</sup>169<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/thl-w100s_p4634.html"><img src="images/l/201405/14012467900.jpg" alt="ThL W100S Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch QHD 3G WCDMA 8.0MP" title=" ThL W100S Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch QHD 3G WCDMA 8.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/thl-w100s_p4634.html">ThL W100S Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch QHD 3G WCDMA 8.0MP</a></li><li class="price"><del class="ordprice">$209.99 </del><sup>$</sup>119<sup>99</sup></li></ul>
 
- <ul><li><a href="http://www.etotalk.com/thl-w7-multi-language-ips-android-40-dual-sim-57-inch-hd-80mp-3g-wcdma_p3572.html"><img src="images/l/201212/13563216570.jpg" alt="ThL W7 Multi Language IPS Android 4.0 Dual Sim 5.7 inch HD 8.0MP 3G WCDMA" title=" ThL W7 Multi Language IPS Android 4.0 Dual Sim 5.7 inch HD 8.0MP 3G WCDMA " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/thl-w7-multi-language-ips-android-40-dual-sim-57-inch-hd-80mp-3g-wcdma_p3572.html">ThL W7 Multi Language IPS Android 4.0 Dual Sim 5.7 inch HD 8.0MP 3G WCDMA</a></li><li class="price"><del class="ordprice">$269.99 </del><sup>$</sup>149<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/lenovo-p780_p3798.html"><img src="images/l/201310/13825870470.jpg" alt="Lenovo P780 4000mAh OTG Android 4.2 Quad Core 1.2GHz Dual Sim 5.0&quot; HD 8.0MP Gorilla Glass 2" title=" Lenovo P780 4000mAh OTG Android 4.2 Quad Core 1.2GHz Dual Sim 5.0&quot; HD 8.0MP Gorilla Glass 2 " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-p780_p3798.html">Lenovo P780 4000mAh OTG Android 4.2 Quad Core 1.2GHz Dual Sim 5.0" HD 8.0MP Gorilla Glass 2</a></li><li class="price"><del class="ordprice">$269.99 </del><sup>$</sup>189<sup>99</sup></li></ul>
 
- <ul><li><a href="http://www.etotalk.com/lenovo-a820_p3758.html"><img src="images/l/201310/13825870210.jpg" alt="Lenovo A820 Android 4.1 Jelly Bean Quad Core 1.2GHz Dual Sim 4.5 inch qHD" title=" Lenovo A820 Android 4.1 Jelly Bean Quad Core 1.2GHz Dual Sim 4.5 inch qHD " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-a820_p3758.html">Lenovo A820 Android 4.1 Jelly Bean Quad Core 1.2GHz Dual Sim 4.5 inch qHD</a></li><li class="price"><del class="ordprice">$229.99 </del><sup>$</sup>139<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/utime-u6_p5696.html"><img src="images/l/201404/13983280340.jpg" alt="Utime U6 Android 4.2 Dual Core 1.3GHz Dual Sim 4.0 inch WVGA 3G WCDMA 2.0MP Smartphone" title=" Utime U6 Android 4.2 Dual Core 1.3GHz Dual Sim 4.0 inch WVGA 3G WCDMA 2.0MP Smartphone " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/utime-u6_p5696.html">Utime U6 Android 4.2 Dual Core 1.3GHz Dual Sim 4.0 inch WVGA 3G WCDMA 2.0MP Smartphone</a></li><li class="price"><del class="ordprice">$89.99 </del><sup>$</sup>49<sup>99</sup></li></ul>
 
- <ul><li><a href="http://www.etotalk.com/cube-u30gt2_p3770.html"><img src="images/l/201310/13825785600.jpg" alt="Cube U30GT2 32GB 10.1 inch Android 4.1 Quad Core 1.8GHz 2GB DDR3 Multi Language" title=" Cube U30GT2 32GB 10.1 inch Android 4.1 Quad Core 1.8GHz 2GB DDR3 Multi Language " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/cube-u30gt2_p3770.html">Cube U30GT2 32GB 10.1 inch Android 4.1 Quad Core 1.8GHz 2GB DDR3 Multi Language</a></li><li class="price"><del class="ordprice">$299.99 </del><sup>$</sup>229<sup>99</sup></li></ul>
-
-
-
- <ul><li><a href="http://www.etotalk.com/lenovo-s820_p3992.html"><img src="images/l/201308/13765605360.jpg" alt="Lenovo S820 Gorilla Glass Dual Sim 13.0MP 4.7 inch HD Android 4.2 Quad Core 1.2GHz" title=" Lenovo S820 Gorilla Glass Dual Sim 13.0MP 4.7 inch HD Android 4.2 Quad Core 1.2GHz " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-s820_p3992.html">Lenovo S820 Gorilla Glass Dual Sim 13.0MP 4.7 inch HD Android 4.2 Quad Core 1.2GHz</a></li><li class="price"><del class="ordprice">$399.99 </del><sup>$</sup>209<sup>99</sup></li></ul>
-
- <ul><li><a href="http://www.etotalk.com/zopo-c2-32g_p4051.html"><img src="images/l/201310/13820668550.jpg" alt="ZOPO C2 Platinum 32G Gorilla Glass OTG OGS Quad Core 1.5GHz Dual 3G Dual SIM 5.0&quot; FHD 441PPI 13MP" title=" ZOPO C2 Platinum 32G Gorilla Glass OTG OGS Quad Core 1.5GHz Dual 3G Dual SIM 5.0&quot; FHD 441PPI 13MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/zopo-c2-32g_p4051.html">ZOPO C2 Platinum 32G Gorilla Glass OTG OGS Quad Core 1.5GHz Dual 3G Dual SIM 5.0" FHD 441PPI 13MP</a></li><li class="price"><del class="ordprice">$359.99 </del><sup>$</sup>219<sup>99</sup></li></ul>
-
- <ul><li><a href="http://www.etotalk.com/lenove-a850_p4143.html"><img src="images/l/201311/13842465970.jpg" alt="Lenovo A850 Android 4.2 Quad Core 1.3GHz Dual Sim 5.5 inch QHD 3G WCDMA 5.0MP" title=" Lenovo A850 Android 4.2 Quad Core 1.3GHz Dual Sim 5.5 inch QHD 3G WCDMA 5.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenove-a850_p4143.html">Lenovo A850 Android 4.2 Quad Core 1.3GHz Dual Sim 5.5 inch QHD 3G WCDMA 5.0MP</a></li><li class="price"><del class="ordprice">$239.99 </del><sup>$</sup>149<sup>99</sup></li></ul>
-
- <ul><li><a href="http://www.etotalk.com/freelander-px2_p4239.html"><img src="images/l/201310/13826013830.jpg" alt="Freelander PX2 3G Dual Sim 7.0 inch Android 4.2 Quad Core 1.2GHz GPS Bluetooth Tablet" title=" Freelander PX2 3G Dual Sim 7.0 inch Android 4.2 Quad Core 1.2GHz GPS Bluetooth Tablet " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/freelander-px2_p4239.html">Freelander PX2 3G Dual Sim 7.0 inch Android 4.2 Quad Core 1.2GHz GPS Bluetooth Tablet</a></li><li class="price"><del class="ordprice">$219.99 </del><sup>$</sup>159<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/power-bank-6600_p4686.html"><img src="images/l/201311/13848272570.jpg" alt="KID WY66H Power Bank 6600mAh" title=" KID WY66H Power Bank 6600mAh " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/power-bank-6600_p4686.html">KID WY66H Power Bank 6600mAh</a></li><li class="price"><del class="ordprice">$33.99 </del><sup>$</sup>20<sup>99</sup></li></ul>
 
 
 
- <ul><li><a href="http://www.etotalk.com/lenovo-a516_p4440.html"><img src="images/l/201310/13823448900.jpg" alt="Lenovo A516 Dual Sim Dual Ringtones Android 4.2 Dual Core 1.3GHz 4.5 inch FWVGA 3G WCDMA 5.0MP" title=" Lenovo A516 Dual Sim Dual Ringtones Android 4.2 Dual Core 1.3GHz 4.5 inch FWVGA 3G WCDMA 5.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-a516_p4440.html">Lenovo A516 Dual Sim Dual Ringtones Android 4.2 Dual Core 1.3GHz 4.5 inch FWVGA 3G WCDMA 5.0MP</a></li><li class="price"><del class="ordprice">$199.99 </del><sup>$</sup>109<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/xiaomi-m3-16g_p3805.html"><img src="images/l/201401/13899460130.jpg" alt="Xiaomi M3/Mi3 16G Snapdragon Quad Core 2.3GHz 5.0 inch FHD Android 4.2 Single Sim 13.0MP" title=" Xiaomi M3/Mi3 16G Snapdragon Quad Core 2.3GHz 5.0 inch FHD Android 4.2 Single Sim 13.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/xiaomi-m3-16g_p3805.html">Xiaomi M3/Mi3 16G Snapdragon Quad Core 2.3GHz 5.0 inch FHD Android 4.2 Single Sim 13.0MP</a></li><li class="price"><del class="ordprice">$369.99 </del><sup>$</sup>319<sup>99</sup></li></ul>
 
- <ul><li><a href="http://www.etotalk.com/samsung-galaxy-gear-v700_p4539.html"><img src="images/l/201310/13823245540.jpg" alt="Samsung Galaxy Gear V700 Smart Watch" title=" Samsung Galaxy Gear V700 Smart Watch " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/samsung-galaxy-gear-v700_p4539.html">Samsung Galaxy Gear V700 Smart Watch</a></li><li class="price"><del class="ordprice">$499.99 </del><sup>$</sup>299<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/htc-d310w_p5691.html"><img src="images/l/201404/13982443970.jpg" alt="HTC D310W Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch FWVGA 3G WCDMA 5.0MP Smartphone" title=" HTC D310W Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch FWVGA 3G WCDMA 5.0MP Smartphone " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/htc-d310w_p5691.html">HTC D310W Android 4.2 Quad Core 1.3GHz Dual Sim 4.5 inch FWVGA 3G WCDMA 5.0MP Smartphone</a></li><li class="price"><del class="ordprice">$179.99 </del><sup>$</sup>111<sup>99</sup></li></ul>
 
- <ul><li><a href="http://www.etotalk.com/lenovo-s930_p4594.html"><img src="images/l/201310/13831902350.jpg" alt="Lenovo S930 5.7 inch HD Android 4.2 Quad Core 1.3GHz Dual Sim Compass 8.0MP" title=" Lenovo S930 5.7 inch HD Android 4.2 Quad Core 1.3GHz Dual Sim Compass 8.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/lenovo-s930_p4594.html">Lenovo S930 5.7 inch HD Android 4.2 Quad Core 1.3GHz Dual Sim Compass 8.0MP</a></li><li class="price"><del class="ordprice">$439.99 </del><sup>$</sup>259<sup>99</sup></li></ul>
+ <ul><li><a href="http://www.etotalk.com/cube-u30gt2_p3770.html"><img src="images/l/201310/13825785600.jpg" alt="Cube U30GT2 32GB Free DHL 10.1 inch Android 4.2 Quad Core 1.8GHz 2GB DDR3 Multi Language" title=" Cube U30GT2 32GB Free DHL 10.1 inch Android 4.2 Quad Core 1.8GHz 2GB DDR3 Multi Language " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/cube-u30gt2_p3770.html">Cube U30GT2 32GB Free DHL 10.1 inch Android 4.2 Quad Core 1.8GHz 2GB DDR3 Multi Language</a></li><li class="price"><del class="ordprice">$299.99 </del><sup>$</sup>229<sup>99</sup></li></ul>
+
+ <ul><li><a href="http://www.etotalk.com/utime-fx_p6049.html"><img src="images/l/201406/14025643030.jpg" alt="Utime FX Android 4.2 Quad Core 1.2GHz Dual Sim 5.0 inch qHD 3G WCDMA 8.0MP Smartphone" title=" Utime FX Android 4.2 Quad Core 1.2GHz Dual Sim 5.0 inch qHD 3G WCDMA 8.0MP Smartphone " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/utime-fx_p6049.html">Utime FX Android 4.2 Quad Core 1.2GHz Dual Sim 5.0 inch qHD 3G WCDMA 8.0MP Smartphone</a></li><li class="price"><del class="ordprice">$136.99 </del><sup>$</sup>86<sup>99</sup></li></ul>
+
+
+
+ <ul><li><a href="http://www.etotalk.com/chuwi-vx1_p5364.html"><img src="images/l/201402/13927105930.jpg" alt="Chuwi VX1 Free DHL 3G WCDMA 7.0 inch 1280x800 Android 4.2 Quad Core 1.3GHz 1GB/16GB Tablet" title=" Chuwi VX1 Free DHL 3G WCDMA 7.0 inch 1280x800 Android 4.2 Quad Core 1.3GHz 1GB/16GB Tablet " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/chuwi-vx1_p5364.html">Chuwi VX1 Free DHL 3G WCDMA 7.0 inch 1280x800 Android 4.2 Quad Core 1.3GHz 1GB/16GB Tablet</a></li><li class="price"><del class="ordprice">$229.99 </del><sup>$</sup>169<sup>99</sup></li></ul>
+
+ <ul><li><a href="http://www.etotalk.com/huawei-h3u10-2gb_p4875.html"><img src="images/l/201402/13922808460.jpg" alt="Huawei Honor 3C H30-U10 2GB RAM Android 4.2 Quad Core 1.3GHz 3G Dual Sim 5.0 inch HD" title=" Huawei Honor 3C H30-U10 2GB RAM Android 4.2 Quad Core 1.3GHz 3G Dual Sim 5.0 inch HD " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/huawei-h3u10-2gb_p4875.html">Huawei Honor 3C H30-U10 2GB RAM Android 4.2 Quad Core 1.3GHz 3G Dual Sim 5.0 inch HD</a></li><li class="price"><del class="ordprice">$259.99 </del><sup>$</sup>179<sup>99</sup></li></ul>
+
+ <ul><li><a href="http://www.etotalk.com/mini-power-bank-4400_p4685.html"><img src="images/l/201311/13848267490.jpg" alt="KID WY44J Power Bank 4400mAh" title=" KID WY44J Power Bank 4400mAh " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/mini-power-bank-4400_p4685.html">KID WY44J Power Bank 4400mAh</a></li><li class="price"><del class="ordprice">$29.99 </del><sup>$</sup>15<sup>99</sup></li></ul>
+
+ <ul><li><a href="http://www.etotalk.com/zopo-zp980-c2a-2gb-ram_p5040.html"><img src="images/l/201403/13954732740.jpg" alt="ZOPO ZP980+ C2A 2GB RAM OTG Android 4.2 Octa Core 1.7GHz Dual Sim 5.0 inch FHD 14.0MP" title=" ZOPO ZP980+ C2A 2GB RAM OTG Android 4.2 Octa Core 1.7GHz Dual Sim 5.0 inch FHD 14.0MP " width="130" height="130"></a></li><li class="title"><a href="http://www.etotalk.com/zopo-zp980-c2a-2gb-ram_p5040.html">ZOPO ZP980+ C2A 2GB RAM OTG Android 4.2 Octa Core 1.7GHz Dual Sim 5.0 inch FHD 14.0MP</a></li><li class="price"><del class="ordprice">$283.99 </del><sup>$</sup>229<sup>99</sup></li></ul>
 
  
 <!-- eof: specials -->
@@ -1542,11 +1625,15 @@ $(obj).style.display='none';
 <div class="clear"></div>
 </div>
 
+
 <div class="wrap foot_banner"><div class="banners">
 
-<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=90"><img src="images/ETOTALK_Mobile_APP_banner.jpg" alt="Etotalk_Mobile_APP" title=" Etotalk_Mobile_APP " width="1000" height="72"></a></div>
+<a href="http://www.etotalk.com/index.php?main_page=redirect&amp;action=banner&amp;goto=90"><img src="images/8core_1000X72.jpg" alt="8 core Smartphone" title=" 8 core Smartphone " width="1000" height="72"></a></div>
 
 </div>
+
+
+<br class="clear">
 
 <!-- hot search start-->
 <div class="wrap">
@@ -1558,7 +1645,7 @@ $(obj).style.display='none';
 <div style="width:660px" class="fl">
 
 <h2>Popular Search:</h2>
-     <ul id="search_con" class="use_nav_bg"> <li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=gionee&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="gionee">gionee</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=iocean&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="iocean">iocean</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=lte&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="lte">lte</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=waterproof&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="waterproof">waterproof</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=newman&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="newman">newman</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=JIAYU+G4&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="JIAYU G4">JIAYU G4</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=UMI&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="umi">umi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=zopo+c2&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="zopo c2 dual sim">zopo c2 dual sim</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/thl-w100_p4079.html" title="thl w100">thl w100</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=Alcatel&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="Alcatel">Alcatel</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenove-a850_p4143.html" title="lenovo a850">lenovo a850</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-k900-intel-dual-core-20ghz-2g-ram-android-42-55-inch-fhd-130mp-single-sim_p3675.html" title="Lenovo K900">Lenovo K900</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=etotalk+fast+and+safe&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="etotalk fast and safe">etotalk fast and safe</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=lg&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="lg">lg</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=4G&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="4g">4g</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/samsung-galaxy-note-3-n9002-16g_p4533.html" title="note 3">note 3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=iocean+x7&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="iocean x7">iocean x7</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/jiayu-g3t_p4304.html" title="G3T">G3T</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/jiayu-g5-android41-quad-core-12ghz-dual-sim-45-inch-hd-ogs-130mp_p3731.html" title="jiayu g5">jiayu g5</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-s650_p4639.html" title="S650">S650</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=zopo+c2&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="zopo c2">zopo c2</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=ip67&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="ip67">ip67</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/Wholesale-dual-sim-3g-wcdma_c1003" title="dual sim">dual sim</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-s820_p3992.html" title="Lenovo S820">Lenovo S820</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-p770_p3476.html" title="p770">p770</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=philips&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="philips">philips</a></li></ul></div>
+     <ul id="search_con" class="use_nav_bg"> <li><a href="" title="lenovo s8">lenovo s8</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=Mi3+&amp;zenid=tdvp5ogdg30thdrj47002mm0u7&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="Mi3">Mi3</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-s820_p3992.html" title="Lenovo S820">Lenovo S820</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-s660_p5461.html" title="s660">s660</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=UMI&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="umi">umi</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=power+bank&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="power bank">power bank</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-s860_p5460.html" title="S860">S860</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=dual+sim+full+active&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="dual sim full active">dual sim full active</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=philips&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="philips">philips</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-p780_p3798.html" title="P780">P780</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="" title="p10c">p10c</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=HTC+One&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="HTC One">HTC One</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="" title="THL T11">THL T11</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=oneplus&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="oneplus">oneplus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=Nubia&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="Nubia">Nubia</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=vivo&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="vivo">vivo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=lte&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="lte">lte</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=tcl+&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="tcl">tcl</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=Asus&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="asus">asus</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/elephone-p8-android-44_p5400.html" title="Elephone p8">Elephone p8</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=Vibe+z&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="Vibe Z">Vibe Z</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/huawei-p7l00_p5584.html" title="ascend p7">ascend p7</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/advanced_search_result.html?keyword=ip67&amp;search_in_description=1&amp;inc_subcat=1&amp;productsort=1" title="ip67">ip67</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/elephone-p7-mini_p5402.html" title="P7">P7</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="http://www.etotalk.com/lenovo-k900-intel-dual-core-20ghz-2g-ram-android-42-55-inch-fhd-130mp-single-sim_p3675.html" title="k900">k900</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li><a href="" title="elephone P10c">elephone P10c</a></li></ul></div>
 <div class="clear"></div>
 <h2 class="top_line"></h2>
 </div>
@@ -1577,7 +1664,7 @@ $(obj).style.display='none';
 		   <dd>on Twitter</dd>
 		   </li>
 		   </a>
-		   <a href="http://www.youtube.com/user/etotalkdogcom">
+		   <a href="http://www.youtube.com/user/etotalkdogcom/videos">
 		   <li style="background-position: 0 -37px;">
 		   <h3><em><b>Watch us</b></em></h3>
 		   <dd>on YouTube</dd>
@@ -1589,16 +1676,22 @@ $(obj).style.display='none';
 		   <dd>on VK</dd>
 		   </li>
 		   </a>
-		   <a href="https://plus.google.com/110254890011969709039">
+		   <a href="https://plus.google.com/+etotalkcs">
 		   <li style="background-position: 0 -74px;">
 		   <h3><em><b>Follow US</b></em></h3>
 		   <dd>on Google+</dd>
 		   </li>
 		   </a>
+		   <a href="http://etotalk.tumblr.com/">
+		   <li style="background-position: 0 -222px;">
+		   <h3><em><b>Follow US</b></em></h3>
+		   <dd>on Tumblr</dd>
+		   </li>
+		   </a>
 		    <a href="http://www.etotalk.com/blog/">
 		   <li style="background-position: 0 0px;">
 		   <h3><em><b>Read US</b></em></h3>
-		   <dd>on our official blog</dd>
+		   <dd>on official blog</dd>
 		   </li>
 		   </a>
 		   </ul>
@@ -1624,6 +1717,10 @@ $(obj).style.display='none';
   <a href="http://www.etotalk.com/index.php?main_page=account">My Account</a>
 &nbsp;|&nbsp;
   <a href="http://www.etotalk.com/site_map.html">Site Map</a>
+&nbsp;|&nbsp;
+  <a href="http://blog.etotalk.com" target="_blank">Blog</a>
+&nbsp;|&nbsp;
+  <a href="http://www.etotalk.com/index.php?main_page=supplier">寻求供应商</a>
 
 </li>
 </ul>
@@ -1652,7 +1749,7 @@ $(obj).style.display='none';
 		    <img border="0" src="includes/templates/etotalk/images/logo/gif_logo1.gif">
 		    <img border="0" src="includes/templates/etotalk/images/logo/gif_logo2.gif"></div>
 
-<div class="wrap foot_shipping" align="center">Copyright ©2008-2013 <a href="http://www.etotalk.com/" target="_blank">EtoTalk</a>. All Rights Reserved.<br>
+<div class="wrap foot_shipping" align="center">Copyright ©2008-2014 <a href="http://www.etotalk.com/" target="_blank">EtoTalk</a>. All Rights Reserved.<br>
 
 Buy <a href="http://www.etotalk.com/"></a> at <a href="http://www.etotalk.com/">China Wholesale</a> price from <a href="http://www.etotalk.com/">etotalk.com</a>
 
@@ -1663,7 +1760,7 @@ Buy <a href="http://www.etotalk.com/"></a> at <a href="http://www.etotalk.com/">
     <a href="#" id="go_top" class="top" style="display:none" onclick="_gaq.push(['_trackEvent', 'User', 'right_window', 'top']);goTop();return false" >top</a>
     <a class="i_review" onClick="javascript:block_div('i_review');_gaq.push(['_trackEvent', 'User', 'right_window', 'i_review'])">...</a>	
 	<a class="e_news">News</a>	
-	<div class="click" style="display:none"></div>
+	<div class="click" style="display:block"></div>
 </div>
 -->
 
@@ -1715,12 +1812,30 @@ Phone brand
 <dl class="barad_events_icons barad_events_icons_cart"><a style="left:13px;>" href="http://www.etotalk.com/shopping_cart.html">0</a></dl>
 </li>
 <li style="border-left:0; ">
-<dl class="barad_events_icons barad_events_icons_top" onclick="_gaq.push(['_trackEvent', 'User', 'right_window', 'top']);goTop();return false">  </dl>
+<dl class="barad_events_icons barad_events_icons_top" onclick="goTop();">  </dl>
 </li>
 </ul>
 
 </div>
 </div>
+
+
+<!-- Facebook Conversion Code for key page views -->
+<script type="text/javascript">
+var fb_param = {};
+fb_param.pixel_id = '6012787735256';
+fb_param.value = '0.00';
+fb_param.currency = 'USD';
+(function(){
+  var fpw = document.createElement('script');
+  fpw.async = true;
+  fpw.src = '//connect.facebook.net/en_US/fp.js';
+  var ref = document.getElementsByTagName('script')[0];
+  ref.parentNode.insertBefore(fpw, ref);
+})();
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6012787735256&amp;value=0&amp;currency=USD" /></noscript>
+
 
 <!--
 <script type="text/javascript">
@@ -1876,7 +1991,7 @@ var itemMouseOver = function(target, items) {
         current: i
     });
 }; //endof itemMouseOver
-_titles.click(function() {
+_titles.hover(function() {
     if (jqn(this).attr('class') != 'cur') {
         itemMouseOver(this, _titles);
     } else {
@@ -1887,7 +2002,7 @@ _titles.mouseout(function() {
 go();
 })
 //_titles_bg.hover(function() { itemMouseOver(this, _titles_bg); }, go);
-_bodies.click(stop, go);
+_bodies.hover(stop, go);
 //trigger the slidebox
 go();
 var slideX = {
