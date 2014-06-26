@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the gls-group.eu privacy policy that was archived on 2013-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130817024625id_/https%3A//gls-group.eu/EU/en/privacy-policy-group) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gls-group.eu privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626151804id_/https%3A//gls-group.eu/EU/en/privacy-policy-group) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
 	<title>Privacy policy | GLS Parcel Service</title> 
 	<!-- noindex -->
-	<!-- creating canonical Links -->
-<link rel="alternate" hreflang="en-IE" href="">
+	<link rel="alternate" hreflang="en-IE" href="/IE/en/privacy-policy">
 	<!-- index -->
 	<meta name="searchTitle" content="Privacy policy | GLS Parcel Service">
 <!-- noindex -->
@@ -16,25 +15,24 @@
 
 
 
-<!-- widget:  -->
 	
 		
 		
 		
 	
-	<link type="image/icon" href="/resources/8120034/img/favicon.ico" rel="shortcut icon">
-	<link rel="stylesheet" href="/resources/8120034/css/common/base.css">
-	<link rel="stylesheet" href="/resources/8120034/css/common/public.css">
-	<link rel="stylesheet" href="/resources/8120034/css/common/cnt.css">
-	<link rel="stylesheet" href="/resources/8120034/css/common/print.css" media="print">
-	<link rel="stylesheet" href="/app/resources/8120034/css/common/dijit/themes/gls/gls.css">
-	<link rel="stylesheet" href="/app/resources/8120034/css/common/app/app-base.css">
-	<link rel="stylesheet" href="/app/resources/8120034/css/common/app/app-wilh001.css">
+	<link type="image/icon" href="/resources/8530011/img/favicon.ico" rel="shortcut icon">
+	<link rel="stylesheet" href="/resources/8530011/css/common/base.css">
+	<link rel="stylesheet" href="/resources/8530011/css/common/public.css">
+	<link rel="stylesheet" href="/resources/8530011/css/common/cnt.css">
+	<link rel="stylesheet" href="/resources/8530011/css/common/print.css" media="print">
+	<link rel="stylesheet" href="/app/resources/8530011/css/common/dijit/themes/gls/gls.css">
+	<link rel="stylesheet" href="/app/resources/8530011/css/common/app/app-base.css">
+	<link rel="stylesheet" href="/app/resources/8530011/css/common/app/app-wilh001.css">
 			
 	<!--[if lte IE 8]>
-	<link rel="stylesheet" href="/resources/8120034/css/common/public-ie.css"/>
-	<link rel="stylesheet" href="/resources/8120034/css/common/cnt-ie.css"/>
-	<link rel="stylesheet" href="/app/resources/8120034/css/common/app/app-base-ie.css"/>
+	<link rel="stylesheet" href="/resources/8530011/css/common/public-ie.css"/>
+	<link rel="stylesheet" href="/resources/8530011/css/common/cnt-ie.css"/>
+	<link rel="stylesheet" href="/app/resources/8530011/css/common/app/app-base-ie.css"/>
 	<![endif]-->
 	
 
@@ -42,16 +40,20 @@
 		var dojoConfig = {
 			isDebug:false,
 			async:true,
-			locale:'en',
-			baseUrl:'/resources/8120034/js/',
+			locale:document.getElementsByTagName("HTML")[0].lang.toLowerCase()||'en',
+			baseUrl:'/resources/8530011/js/',
 			packages:[
-				{name:"gls/app", location:"/app/resources/8120034/js/gls/app"},
+						{name:"dgrid", location:"dgrid"},
+						{name:"dijit", location:"dijit"},
+						{name:"dojo", location:"dojo"},				
+						{name:"dojox", location:"dojox"},
+						{name:"put-selector", location:"put-selector"},
+						{name:"xstyle", location:"xstyle"},
+						{name:"gls/app", location:"/app/resources/8530011/js/gls/app"},					
 
-				{name:"gls/global/te", location:"/resources/8120034/js/gls/global/te"},
+						{name:"gls/global/te", location:"/resources/8530011/js/gls/global/te"},				
 
-				{name:"dojo", location:"dojo"},
-				{name:"dijit", location:"dijit"},
-				{name:"dojox", location:"dojox"}
+						{name:"gls/gls-carousel", location:"/app/resources/8530011/js/gls/gls-carousel"}
 			]
 		};
 	</script>
@@ -59,35 +61,32 @@
 
 	
 	
-		<script type="text/javascript" src="/resources/8120034/js/dojo/dojo.js"></script>
+		<script type="text/javascript" src="/resources/8530011/js/dojo/dojo.js"></script>
 	
 
 
 	<script type="text/javascript">
-		require(["dojo/dojo",
-			"gls/global/load",
-			"gls/app/load"				
-		], function() {
-			require([
-				"dojo/parser",
-				"dojox/io/xhrPlugins",
+        require([
+            "gls/global/load",
+            "gls/app/load"
+        ], function() {
+            require([
+                "dojo/parser",
+                "dojox/io/xhrPlugins",
+                
+                "gls/app/wilh001/load",
+                
+                "gls/gls-carousel/load",
+                "gls/global/te/load",
+                "dojo/domReady!"
+            ], function(parser,xhrPlugins) {
+            	
 				
-				"gls/app/wilh001/load",
-				
-				"gls/global/te/load",
-				"dojo/domReady!"
-			], function(parser,xhrPlugins) {	
-				xhrPlugins.addCrossSiteXhr("https://gls-group.eu/"); parser.parse();
-			});
-		});
+				parser.parse();
+            });
+        });
 	</script>
-	
-	<!--[if lte IE 8]>
-		<link rel="stylesheet" href="/resources/css/common/public-ie.css"/>
-		<link rel="stylesheet" href="/resources/css/common/cnt-ie.css"/>
-		<link rel="stylesheet" href="/app/resources/css/common/app/app-base-ie.css"/>
-	<![endif]-->
-	<!-- [hal->fl.mr] -->
+
 	<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-826175-27']);
@@ -110,7 +109,7 @@
 <div class="cnt cs-1">	
 			<ul id="breadcrumb" class="breadcrumb clearfix">
 			<li class="back"><a href="home">Back</a></li>
-			<li><a href="#"></a></li>
+			<li><a></a></li>
 			</ul>
 
 	<div class="cntWrp">
@@ -181,10 +180,10 @@
 	
 
   
-<!-- BEGIN wilh001 --><div class="app wilh001"><div class="x-appStateController" data-dojo-type="gls.app.wilh001.appStateController" data-dojo-props="errorMessages:{invalidNumberValue:'Invalid value!',invalidEmail:'The E-mail you have entered doesn´t look like a valid address. Can you please correct it.',checkPopupBlocker:'An error during the login process prevented the opening of the website (possibly pop-up-windows are blocked).',invalidDataError:'On this page an error has occurred. Please check your entries.',clientError:'An error occurred [js: client].',mandatoryError:'Please enter.'},restUrls:{rslg002:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg002',rslg004:'https://gls-group.eu/app/service/open/rest/EU/en/rslg004',rslg005:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg005'},widgetId:'wilh001',ns:'c09afadb-2900-4f39-a7cf-91dd11974e89'">
+<!-- BEGIN wilh001 --><div class="app wilh001"><div class="x-appStateController" data-dojo-type="gls.app.wilh001.appStateController" data-dojo-props="errorMessages:{invalidNumberValue:'Invalid value!',invalidEmail:'The e-mail address you have entered does not look like a valid address. Please correct.',checkPopupBlocker:'Due to a system error, you could not be logged on to the GLS system. Please try again.',invalidDataError:'On this page an error has occurred. Please check your entries.',clientError:'An error occurred [js: client].',mandatoryError:'Please enter.'},restUrls:{rslg011:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg011',rslg002:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg002',rslg004:'https://gls-group.eu/app/service/open/rest/EU/en/rslg004',rslg005:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg005'},widgetId:'wilh001',ns:'0ece2fcc-a318-4c7a-b766-8d70405b29db',loginPostUrl:'https://gls-group.eu/app/service/closed/rest/EU/en/rslg001'">
 
 	<!-- BEGIN WILH001_Initial --><div class="x-page" data-dojo-type="gls.app.wilh001.pageControllerInit" data-dojo-props="pageId:'WILH001_Initial'">
-		<form class="" action="" method="get" data-dojo-type="dijit.form.Form" id="WILH001page1formc09afadb-2900-4f39-a7cf-91dd11974e89">
+		<form class="" action="" method="get" data-dojo-type="dijit.form.Form" id="WILH001page1form0ece2fcc-a318-4c7a-b766-8d70405b29db">
 			<div class="init">&nbsp;</div>
 		</form>
 	</div><!-- END WILH001_Initial -->
@@ -193,7 +192,6 @@
 		<div class="tnavHeadWrp tnav-1 col1">
 			<div class="left">
 				<h2>
-
 					
 					
 					
@@ -218,7 +216,7 @@
 
 		<div class="x-generalMsgArea x-hidden"></div>
 
-		<form id="mainformc09afadb-2900-4f39-a7cf-91dd11974e89" name="LAGACY" action="" method="POST">
+		<form id="mainform0ece2fcc-a318-4c7a-b766-8d70405b29db" name="LAGACY" action="" method="POST">
 			<input type="hidden" name="txtAction" value="70340">
 			<input type="hidden" name="method" value="">
 			<input type="hidden" name="getColumn" value="">
@@ -226,25 +224,31 @@
 			<input type="hidden" id="txtOpenAreaLoginUserName" name="txtOpenAreaLoginUserName" value="">
 			<input type="hidden" id="txtOpenAreaLoginPassword" name="txtOpenAreaLoginPassword" value="">
 		</form>
-
-		<form class="login form-placeholder" autocomplete="on" name="WILH000loginform" action="https://gls-group.eu/app/service/closed/rest/EU/en/rslg001" method="POST" data-dojo-type="dijit.form.Form">
+		
+		<form id="easternEuropeForm0ece2fcc-a318-4c7a-b766-8d70405b29db" method="POST" action="" target="_blank"> 
+			<input type="hidden" id="ee_username0ece2fcc-a318-4c7a-b766-8d70405b29db" name="username" value=""> 
+			<input type="hidden" id="ee_password0ece2fcc-a318-4c7a-b766-8d70405b29db" name="password" value="">
+			<input type="hidden" name="page" value="welcome.php"> 
+		</form>
+		
+		<form class="login form-placeholder" autocomplete="on" name="WILH000loginform" action="" method="POST" data-dojo-type="gls.app.loginForm">
 			<div class="row">
 				<div class="labelWrp topLabel">
-					<label for="WILH001_Login_usernamec09afadb-2900-4f39-a7cf-91dd11974e89"> User name </label>
+					<label for="WILH001_Login_username0ece2fcc-a318-4c7a-b766-8d70405b29db"> User name </label>
 				</div>
 				<div class="inputWrp">
 					
-					<input type="text" id="WILH001_Login_usernamec09afadb-2900-4f39-a7cf-91dd11974e89" name="username" autocomplete="on" class="x-mandatory">
+					<input type="text" id="WILH001_Login_username0ece2fcc-a318-4c7a-b766-8d70405b29db" name="username" autocomplete="on" class="x-mandatory">
 					
 				</div>
 			</div>
 			<div class="row">
 				<div class="labelWrp topLabel">
-					<label for="WILH001_Login_passwordc09afadb-2900-4f39-a7cf-91dd11974e89">Password </label>
+					<label for="WILH001_Login_password0ece2fcc-a318-4c7a-b766-8d70405b29db">Password </label>
 				</div>
 				<div class="inputWrp">
 					
-					<input type="password" id="WILH001_Login_passwordc09afadb-2900-4f39-a7cf-91dd11974e89" autocomplete="on" name="password" class="x-mandatory">
+					<input type="password" id="WILH001_Login_password0ece2fcc-a318-4c7a-b766-8d70405b29db" autocomplete="on" name="password" class="x-mandatory">
 				</div>
 			</div>
 			<div class="tnavFootWrp col2 clearfix">
@@ -252,7 +256,12 @@
 									
 				</div>
 				<div class="right">
-					<input class="submit x-pageButton" type="button" name="btnLogin" value="login" data-dojo-type="gls.app.button" data-dojo-props="pressOnReturn:true, baseClass:'submit', showLabel: true, button:'doLogin', label:'login'">
+					
+						
+						
+							<input class="submit x-pageButton" type="button" name="btnLogin" value="login" data-dojo-type="gls.app.button" data-dojo-props="pressOnReturn:true, baseClass:'submit', showLabel: true, button:'doLogin', label:'Login'">
+						
+					
 				</div>
 				
 			</div>
@@ -268,14 +277,12 @@
 						YourGLS
 					
 				
-					
-					
 			</h2>
 			<hr>
 			<ul class="x-menu">
 			</ul>
 			<div class="tnavFootWrp clearfix">
-				<input class="submit x-pageButton" type="button" name="btnLogout" value="login" data-dojo-type="gls.app.button" data-dojo-props="baseClass:'submit', showLabel: true, button:'doLogout', label:'logout'">
+				<input class="submit x-pageButton" type="button" name="btnLogout" value="login" data-dojo-type="gls.app.button" data-dojo-props="baseClass:'submit', showLabel: true, button:'doLogout', label:'Logout'">
 			</div>
 		</form>
 	</div><!-- END WILH001_Menu -->
@@ -355,7 +362,7 @@
 
 
 <h2 class="hidden">Choose Language</h2>
-<ul class="lang">
+<ul class="lang" id="languageLink">
 
 
 
@@ -366,7 +373,7 @@
 		
 		
 		
-
+		
 		
 			
 				
@@ -430,13 +437,13 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/NL99/EN/400011.htm" class="fi">Finland</a></li>
+		<li><a href="/FI/fi/index" class="fi">Finland</a></li>
 	
 		
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/FR01/FR/1.htm" class="fr">France</a></li>
+		<li><a href="/FR/fr/index" class="fr">France</a></li>
 	
 		
 		
@@ -460,13 +467,13 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/NL99/EN/400017.htm" class="it">Italy</a></li>
+		<li><a href="http://www.gls-italy.com" class="it">Italy</a></li>
 	
 		
 		
 		
 		
-		<li><a href="https://gls-group.eu/EU/en/gls-croatia" class="hr">Croatia</a></li>
+		<li><a href="/HR/hr/index" class="hr">Croatia</a></li>
 	
 		
 		
@@ -499,7 +506,7 @@
 			</ul>
 			<ul class="right">
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/NL99/EN/400023.htm" class="nl">Netherlands</a></li>
+		<li><a href="http://www.gls-netherlands.com" class="nl">Netherlands</a></li>
 	
 		
 		
@@ -529,7 +536,7 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/NL99/EN/400035.htm" class="ro">Romania</a></li>
+		<li><a href="/RO/ro/index" class="ro">Romania</a></li>
 	
 		
 		
@@ -541,7 +548,7 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/SL01/EN/1.htm" class="sl">Slovenia</a></li>
+		<li><a href="/SI/en/index" class="si">Slovenia</a></li>
 	
 		
 		
@@ -571,7 +578,7 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/CZ02/EN/1.htm" class="cz">Czech Republic</a></li>
+		<li><a href="/CZ/cs/index" class="cz">Czech Republic</a></li>
 	
 		
 		
@@ -583,7 +590,7 @@
 		
 		
 		
-		<li><a href="http://www.gls-group.eu/276-I-PORTAL-WEB/content/GLS/HU01/EN/1.htm" class="hu">Hungary</a></li>
+		<li><a href="/HU/hu/index" class="hu">Hungary</a></li>
 	
 		
 		
@@ -613,7 +620,7 @@
 										</li>
 										<li><a href="gls-history">History</a>
 										</li>
-										<li><a href="think-green-initiative">Sustainability</a>
+										<li><a href="sustainability">Sustainability</a>
 										</li>
 										<li><a href="compliance">Compliance</a>
 										</li>
@@ -636,7 +643,11 @@
 									</ul>
 									<strong>Media</strong>
 									<ul class="clearfix">
-										<li><a href="downloads">Downloads</a>
+										<li><a href="downloads">Video | Sound | Images</a>
+			<ul>
+										<li><a href="downloads/gls-film">The GLS film</a>
+										</li>
+			</ul>
 										</li>
 										<li><a href="press">Press room</a>
 										</li>
@@ -652,7 +663,7 @@
 								<div class="left">
 									<strong>How to ship with GLS</strong>
 									<ul class="clearfix">
-										<li><a href="regular-shipment">Regular Shipment</a>
+										<li><a href="regular-shipment">Regular shipment</a>
 			<ul>
 										<li><a href="regular-shipment/dispatch-systems">IT solutions</a>
 										</li>
