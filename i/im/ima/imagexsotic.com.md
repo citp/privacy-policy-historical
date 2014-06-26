@@ -1,25 +1,76 @@
-> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231170252id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170602id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at imagexsotic.com
 
-**PRIVACY POLICY  for Imagexsotic.com**  
-**Your privacy**
+It is our intention at  **imagexsotic.com**  to manage your personal information in an open and transparent way.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online practices and the choices you can make about how your information is collected and used. To easy to find this note, we make it possible on our footer and at every point where personally identifiable information may be requested.
+**imagexsotic.com**  is committed to ensuring that your privacy is protected. If we collect your personal information through our websites or web services, it will only be used in accordance with this privacy policy.
 
-**Google Adsense and the DoubleClick DART Cookie**
+**imagexsotic.com**  may change this policy from time to time. You should check whenever you return to our websites. The last date of change is set out at the end of this policy.
 
-****Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+**What kind of personal information do we collect?**
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+**Website visitors**  – If you are just browsing, we are not collecting your personal information. We might collect information using ‘cookies’, but that information by itself does not personally identify you. More about ‘cookies’ below.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, imagexsotic.com has no access or control over these cookies that may be used by third party advertisers.
+The only personal information collected on this website is gathered on our “contact us” forms. We may collect the following information:
 
-**Links to third party Websites**
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Changes to this Privacy Statement**  
-The contents of this statement may be altered at any time, at our discretion.
 
-For any problems or questions don’t hesitate to [Contacts](http://imagexsotic.com/contacts/ "contact us").
+**What we do with the information we gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails ** ** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, ** ** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**The DoubleClick cookie**
+
+The DoubleClick cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. We use AdSense, so there is a good chance you will gain a Google cookie from our website.  When you visit a website like ours and either view or click on an ad, a cookie may be dropped on that your browser. Other advertisers and social network plugins use a similar process.
+
+A DoubleClick cookie helps web applications tailor operations to your needs, likes and dislikes by gathering and remembering information about your preferences based on your visit to our and other sites on the Internet. You get to see ads based on your selections in  prior visits to our website.
+
+You can opt out of using DoubleClick cookies for interest-based advertising by visiting www.google.com/ads/preferences/. For non-AdSense ads, you can opt out by visiting www.aboutads.info, or go directly to the advertiser’s website and check their settings.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at  **info@imagexsotic.com**
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please write to  **info@imagexsotic.com**.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+Last Updated:  Oct 2013
