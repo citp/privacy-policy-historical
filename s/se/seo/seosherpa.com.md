@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seosherpa.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123085856id_/http%3A//www.seosherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seosherpa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626232554id_/http%3A//www.seosherpa.com/privacy) for the most accurate reproduction.*
 
-# SEO Sherpa Privacy Statement
+# SEO Sherpa Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. SEO Sherpa abides by the privacy laws of United Arab Emirates.
 
