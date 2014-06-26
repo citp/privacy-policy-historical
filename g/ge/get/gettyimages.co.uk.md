@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224132446id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113953id_/http%3A//www.gettyimages.co.uk/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images Privacy Policy - Getty Images UK
 
@@ -24,7 +24,7 @@ Getty Images collects and uses your personal information to operate and improve 
 
 We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders and purchase confirmations. We may also send you surveys or marketing emails to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing emails, you may adjust your “Personal Information Preferences” as described below or follow the “unsubscribe” instructions included within each email communication.
 
-Personal information collected by Getty Images may be stored and processed in the United States or any other country in which Getty Images or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Getty Images abides by the safe harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union and Switzerland. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below.
+Personal information collected by Getty Images may be stored and processed in the United States or any other country in which Getty Images or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Getty Images complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Getty Images has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor programme, and to view Getty Images’ certification, please visit http://www.export.gov/safeharbor/. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below.
 
 Sharing of Your Personal Information
 
@@ -110,7 +110,7 @@ We may link to websites, including those of our third-party content providers, t
 
 DMA
 
-If you have questions or concerns regarding this privacy policy, you should first contact Getty Images (using the Contact Information below). If you do not receive acknowledgement of your enquiry, or your enquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "safeharbor@the-dma.org", by post at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410.
+If you have questions or concerns regarding this privacy policy, you should first contact Getty Images (using the Contact Information below). If you do not receive acknowledgement of your enquiry, or your enquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org%20%20%20%20%20%20%20%20%20%20?subject=)", by post at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410.
 
 Changes to This Privacy Policy
 
@@ -120,4 +120,4 @@ Contact Information
 
 You can contact Getty Images Sales by emailing [sales@gettyimages.co.uk](mailto:sales@gettyimages.co.uk%20%20%20%20%20%20%20%20%20%20?subject=Privacy%20Policy), or by phone at 0800 376 7977, or by post at Getty Images, Inc., Sales, 101 Bayham Street, London, NW1 0AG, United Kingdom. 
 
-© 1999-2013 Getty Images, Inc. All rights reserved. Privacy Policy.
+© 1999-2014 Getty Images, Inc. All rights reserved. Privacy Policy.
