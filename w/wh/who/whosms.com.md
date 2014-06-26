@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosms.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207224437id_/http%3A//whosms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosms.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150554id_/http%3A//www.whosms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - WhoSms.Com
 
