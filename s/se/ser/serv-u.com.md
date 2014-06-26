@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serv-u.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229132512id_/https%3A//www.serv-u.com/purchase/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serv-u.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034109id_/https%3A//www.serv-u.com/purchase/privacy.asp) for the most accurate reproduction.*
 
 # SolarWinds Privacy Policy
 
@@ -44,4 +44,4 @@ SolarWinds uses reasonable security measures to safeguard information concerning
 
 This Privacy Statement and the Terms of Use of the SolarWinds Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. SolarWinds reserves the right to modify this Privacy Statement without prior notice. In the event SolarWinds updates or modifies this Privacy Statement, SolarWinds shall endeavor to post such updates or modifications on this Website following any such modifications. Therefore, User is advised to review this Privacy Statement occasionally, or at least every thirty (30) days. User's continued use of this Website subsequent to SolarWinds' notice of modification of this Privacy Statement shall constitute User's acceptance of the modified Privacy Statement. 
 
-©2013, SolarWinds Worldwide, LLC. All Rights Reserved.
+©2014, SolarWinds Worldwide, LLC. All Rights Reserved.
