@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124231138id_/http%3A//thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095554id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - City of Melbourne
 
@@ -19,9 +19,28 @@ The City of Melbourne will only collect personal information supplied by you to 
   * to provide you with newsletters/updates where you have subscribed to them
   * to contact you in relation to any business listings/events you have listed on the site
   * to promote your business or event on the City of Melbourne's websites or the websites of other organisations (such as Tourism Victoria)
-  * photographs submitted with your business or event listing may also be used for promotional purposes by City of Melbourne marketing channels. This may include the What's On homepage, newsletter, blog and social media. Please refer to our [photos and privacy guidelines](https://web.archive.org/Pages/PhotoPrivacy.aspx). 
+  * photographs submitted with your business or event listing may also be used for promotional purposes by City of Melbourne marketing channels. This may include the What's On homepage, newsletter, blog and social media. Please refer to our [photos and privacy guidelines](https://web.archive.org/Pages/PhotoPrivacy.aspx). 
 
 
+
+ **
+
+  
+Social media collection statement  
+
+
+Information Regarding Your Social Networking Services (“SNS”)  
+
+
+**
+
+If you use your Facebook, Twitter, or other social networking sites ("SNS") account information to log in and/or authenticate with a City of Melbourne website (“CoM”), we will collect and store a unique user ID provided by your SNS.  
+
+
+As a CoM website user, you can choose to log in and/or authenticate with a SNSs, such as Facebook. To do so, you must use your account credentials (typically username and password) for your SNS. Your SNS will provide CoM will a unique user ID which CoM can use to identify you on CoM websites. CoM will retain this user ID, keep it private and use it to identify you and enable your access to features on CoM websites. The City of Melbourne will not access or collect any information from your SNS profile.  
+
+
+We encourage you to read the privacy policies and other statements of the SNSs you use. 
 
 **Third parties**
 
@@ -99,4 +118,12 @@ To view Council’s Privacy Policy statement, please click on either of the link
 [City of Melbourne’s Privacy Policy Statement (PDF 124KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.pdf)  
 
 [City of Melbourne's Privacy Policy Statement (Word 84KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.DOC)  
+
+
+**See also:**
+
+  * [Copyright](https://web.archive.org/Pages/Copyright.aspx)
+  * [Photographs and information privacy](https://web.archive.org/Pages/PhotoPrivacy.aspx)
+  * [Disclaimer](https://web.archive.org/Pages/Disclaimer.aspx)
+
 
