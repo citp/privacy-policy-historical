@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inmyarea.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224233710id_/http%3A//inmyarea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmyarea.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075459id_/http%3A//inmyarea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | In My Area
 
-This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from visitors to this website.
+## This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from visitors to this website.
 
 **What information do we collect?**
 
@@ -10,29 +10,23 @@ We collect information from you when you place an order or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, or phone number. You may, however, visit our site anonymously.
 
-We may also collect non-personal identification information about website visitors whenever they interact with our website.  Non-personal identification information may include the browser name, the type of computer and technical information about visitors’ means of connection to our site such as the operating system and the internet service providers utilized and other similar information.
+We may also collect non-personal identification information about website visitors whenever they interact with our website. Non-personal identification information may include the browser name, the type of computer and technical information about visitors’ means of connection to our site such as the operating system and the internet service providers utilized and other similar information.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to your site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to your site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve our website.
-
-
+* To improve our website.
 
 (We continually strive to improve our website offerings based on the information and feedback we receive from you.)
 
-  * To process transactions.
-
-
+* To process transactions.
 
 (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)
 
-  * To send periodic emails.
-
-
+* To send periodic emails.
 
 (The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
 
@@ -56,7 +50,11 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Links from this website**
 
-We do not monitor or review the content of other parties’ websites which are linked to from this website.  Opinions expressed or materials appearing on such websites are not necessarily shared or endorsed by us and should not be regarded as the publisher of such opinions or material.  Please be aware that we are not responsible for the privacy practices, or content, of these sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of these sites.  You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to them.  This Company will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information.
+We do not monitor or review the content of other parties’ websites which are linked to from this website. Opinions expressed or materials appearing on such websites are not necessarily shared or endorsed by us and should not be regarded as the publisher of such opinions or material. Please be aware that we are not responsible for the privacy practices, or content, of these sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these sites. You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to them. This Company will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information.
+
+**Terms Relating to Google**
+
+This Site utilizes the Google Maps API(s) and by visiting and using the Site's services and applications, you are also agreeing to be bound by the [Google Privacy Policy](http://www.google.com/policies/privacy/).
 
 **California Online Privacy Protection Act Compliance**
 
@@ -72,11 +70,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Use](https://web.archive.org/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -86,9 +84,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Consumer Brands, LLC  
-120 Vantis, Suite 570  
-Aliso Viejo, CA 92656  USA  
-(949) 267-4117
+**Consumer Brands, LLC**  
+65 Enterprise  
+Aliso Viejo, CA 92656  
+949-356-1315
 
 _Effective as of September 28, 2012_
+  *[949-356-1315]: Phone
