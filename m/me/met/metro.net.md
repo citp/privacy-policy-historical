@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208080826id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626191250id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Site Information | Privacy Policy
 
@@ -33,14 +33,7 @@ Metro tracks activity and site function on its web site in the form of log files
 
 **Last Revised**
 
-Tuesday June 04, 2013
-
-  
-
-
-**Last Revised**
-
-Thursday February 11, 2010
+Friday January 24, 2014
 
   
 
