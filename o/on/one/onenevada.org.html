@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onenevada.org privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127164423id_/http%3A//onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onenevada.org privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626102740id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 <!-- ==================== Favicon ================================================== -->
@@ -19,6 +19,7 @@
 <link rel="stylesheet" type="text/css" href="/_css/content.css">
 <link rel="stylesheet" type="text/css" href="/_css/mobile-portal.css">
 <link rel="stylesheet" type="text/css" href="/_css/login-dropdown.css">
+<link rel="stylesheet" type="text/css" href="/_css/careers.css">
 <link rel="stylesheet" type="text/css" href="/_css/silvercloud-integration.css">
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
 <!-- ===================== Mobile Styling ========================================= -->
@@ -28,11 +29,34 @@
 <![endif]-->
 
 <!-- ==================== SCRIPTS ============================================== -->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=406043699427927"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>  
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.js"></script>  
 <script type="text/javascript" src="/_scripts/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 <link href="https://answers.silvercloudinc.com/clients/29707931/stylesheets/silvercloud.css" media="screen" rel="stylesheet" title="no title" type="text/css">
 <script src="https://answers.silvercloudinc.com/javascripts/jquery-1.6.4.min.js" type="text/javascript"></script>
+
+<!-- ==================== FACEBOOK REMARKETING ============================================== -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1434466290137698']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1434466290137698&amp;ev=NoScript" /></noscript>
+
+   
+<!-- DDSlider jQuery Plugin - VERY IMPORTANT -->
+<script type="text/javascript" src="~/_scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="~/_scripts/jquery.DDSlider.min.js&quot;"></script>
 
 <!-- ____________________ pop-up / Modal Box Plugin _____________________________ -->
 		<script type="text/javascript" src="/_scripts/fancybox/jquery.fancybox.pack.js"></script>
@@ -44,30 +68,6 @@
 <!-- ____________________ Site Specific Javascript _____________________________ -->
 
 <script type="text/javascript" defer="defer" src="/_scripts/OneNevada.js"></script>
-
-		<!-- Submit SilverLink Online login on 'Enter' key -->
-		<!-- Make sure this code is placed below the jQuery.js script within the HTML document -->
-
-<script type="text/javascript">
-   jQuery(document).ready(function(j$){
-                j$('.silvercloud_searchbar_submit').click(function(e){
-                                        e.preventDefault();
-                                        j$('.silvercloud_searchbar_form').removeAttr('action');
-                                        q = j$(this).prev('.silvercloud_searchbar_input').attr('value');
-                                        window.location = "/ask.aspx?q=" + q;
-                                        return false;                     
-                });
-   });
-   
-   
-   		// Hides the pop up in the content. Wraps the pop up content in div with a css class that hides the content. 
-		// css() instead of hide() because the content would still be hidden inside the pop-up /modal box.
-		$('#mainContent .pop-up-content').wrap('<div class="hide" />'); 
-		
-</script>
-
-
-
 
 
 
@@ -119,37 +119,16 @@
 <!-- ==================== HEADER ============================================= -->       
 	<div id="header">
 				<div><a href="/"><img src="/images/logo_OneNevada.gif" alt="One Nevada Credit Union" id="logo"></a></div>
+				
 <!-- ____________________ Silver Cloud Question Search Bar ____________________ -->       
 				<div id="silvercloud-header">
 					<div class="silvercloud_searchbar_container"></div></div>
+					
 <!-- ____________________ Login In Button _____________________________________ --> 
-<div class="login"><a href="/index.aspx" class="lock">Manage Your Account</a></div><!-- ____________________ Social Media _____________________________________ --> 
+<div class="login"><a href="/index.aspx" class="lock">Manage Your Account</a></div>
 
-			<!-- Facebook Like Script ____________________ -->
-			<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=406043699427927";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+	
 
-<!-- End Facebook Like Script -->
-			
-            <div id="social-media">
-						<!-- Facebook Like -->
-			<div class="fb-like" data-href="http://www.facebook.com/OneNevada/" data-send="false" data-layout="button_count" data-width="90" data-show-faces="true" data-font="arial"></div>
-            <!-- End Facebook Like -->
-			<a href="https://www.facebook.com/OneNevada" target="_blank">
-			<img src="/images/icon_facebook.png" alt="Facebook"></a>
-			<a href="https://twitter.com/onenevada" target="_blank">
-			<img src="/images/icon_twitter.png" alt="Twitter"></a>
-			<a href="http://www.youtube.com/onenevadacu" target="_blank">
-            <img src="/images/icon_youtube.png" alt="YouTube"></a>
-			<a href="http://www.onenevadacreditunion.blogspot.com/" target="_blank">
-			<img src="/images/icon_blogger.png" alt="Blog"></a>
-            </div><!--end of #social-media-->				
 	
 			
 <!-- ==================== NAVIGATION =========================================== -->
@@ -198,21 +177,33 @@
 		<li><a href="/loans/personal.aspx#Emergency">Emergency Loan</a></li>
 		<li><a href="/loans/personal.aspx#Share">Share Secured Loan</a></li>
 		<li><a href="/loans/personal.aspx#Certificate">Certificate Secured Loan</a></li>
-		<li><a href="/loans/personal.aspx#Credit">Credit Builder Loan</a></li>
-		<li><a href="/loans/fedpaydisruption.aspx">Federal Employee Pay Disruption</a></li></ul></li>
+		<li><a href="/loans/personal.aspx#Credit">Credit Builder Loan</a></li></ul></li>
 	<li><a>Business Lending</a>
         <ul>
 		<li><a href="/loans/commercial-real-estate.aspx">Commercial Real Estate</a></li></ul></li></ul></li>
+<li><a href="/visa/index.aspx">Visa<sup>®</sup> Cards</a>
+<ul>
+	<li><a>Visa<sup>®</sup> Credit</a>
+        <ul>
+		<li><a href="/visa/platinum.aspx">Visa<sup>®</sup> Platinum</a></li>
+		<li><a href="/visa/design.aspx">Design Your Own Visa<sup>®</sup> Card</a></li>
+		<li><a href="/visa/share-visa.aspx">Share Secured Visa<sup>®</sup> Credit Card</a></li>
+		<li><a href="/visa/CURewards.aspx">CURewards<sup>®</sup></a></li></ul></li>
+	<li><a href="/visa/debit.aspx">Visa<sup>®</sup> Debit</a>
+        </li>
+	<li><a href="/visa/gift.aspx">Visa<sup>®</sup> Gift Cards</a>
+        </li></ul></li>
 <li><a href="/home-loans/index.aspx">Home Loans</a>
 <ul>
 	<li><a>Mortgage</a>
         <ul>
 		<li><a href="/home-loans/first-mortgage.aspx">First Mortgage</a></li>
-		<li><a href="/home-loans/second-mortgage.aspx">Second Mortgage</a></li>
-		<li><a href="/home-loans/HARP.aspx">HARP Refinance 2.0</a></li></ul></li>
+		<li><a href="/home-loans/home-equity.aspx">Home Equity / HELOC</a></li>
+		<li><a href="/home-loans/HARP.aspx">HARP Refinance 2.0</a></li>
+		<li><a href="/home-loans/new-start-mortgage.aspx">New Start Mortgage</a></li></ul></li>
 	<li><a>Resources</a>
         <ul>
-		<li><a href="/home-loans/community-realty.aspx">Community Realty</a></li>
+		<li><a href="/home-loans/community-realty.aspx">One Nevada Realty Services, LLC</a></li>
 		<li><a href="/home-loans/MLO/index.aspx">SAFE Act / Mortgage Loan Originators (MLO)</a></li></ul></li></ul></li>
 <li><a href="/insurance/index.aspx">Insurance</a>
 <ul>
@@ -242,40 +233,6 @@
 		<li><a href="/insurance/contact.aspx">Insurance Agents</a></li></ul></li></ul></li>
 <li><a href="http://www.inionenevada.org/">Investments</a>
 </li>
-<li><a href="/visa/index.aspx">Visa<sup>®</sup> Cards</a>
-<ul>
-	<li><a>Visa<sup>®</sup> Credit</a>
-        <ul>
-		<li><a href="/visa/platinum.aspx">Visa<sup>®</sup> Platinum</a></li>
-		<li><a href="/visa/design.aspx">Design Your Own Visa<sup>®</sup> Card</a></li>
-		<li><a href="/visa/new-start.aspx">New Start Visa<sup>®</sup></a></li>
-		<li><a href="/visa/CURewards.aspx">CURewards<sup>®</sup></a></li></ul></li>
-	<li><a href="/visa/debit.aspx">Visa<sup>®</sup> Debit</a>
-        </li>
-	<li><a href="/visa/gift.aspx">Visa<sup>®</sup> Gift Cards</a>
-        </li></ul></li>
-<li><a href="/about/index.aspx">About Us</a>
-<ul>
-	<li><a>Who We Are</a>
-        <ul>
-		<li><a href="/about/history.aspx">Our History</a></li>
-		<li><a href="/about/community.aspx">Our Community</a></li>
-		<li><a href="/about/green-efforts.aspx">Our Green Efforts</a></li>
-		<li><a href="/about/Fact-Sheet.pdf">Fact Sheet (PDF)</a></li>
-		<li><a href="/about/press.aspx">Media and Press</a></li></ul></li>
-	<li><a>Who We Serve</a>
-        <ul>
-		<li><a href="/about/membership.aspx">Field of Membership</a></li>
-		<li><a href="/about/join.aspx">Become a Member</a></li>
-		<li><a href="/about/faq.aspx">Credit Union FAQs</a></li>
-		<li><a href="/about/partnerships.aspx">Partnerships</a></li></ul></li>
-	<li><a>Corporate</a>
-        <ul>
-		<li><a href="/about/president-message.aspx">Message from the President</a></li>
-		<li><a href="/about/executive-team.aspx">Executive Team</a></li>
-		<li><a href="/about/board-of-directors.aspx">Board of Directors</a></li>
-		<li><a href="/about/supervisory-committee.aspx">Supervisory Committee</a></li>
-		<li><a href="/about/financial-report.pdf">Financial Reports (PDF)</a></li></ul></li></ul></li>
 
 </ul>
 </div><!-- end #nav --> 
@@ -453,46 +410,60 @@
 <!-- end #container --></div>
   
 <!-- ==================== FOOTER =========================================== -->
-  <div id="footer">
-  		<div id="footer-text">
-		
+ 	<div id="footer">
+  	<div id="footer-text">
 		<p>*APR = Annual Percentage Rate | APY = Annual Percentage Yield </p>
-		<p>Copyright © 2013 One Nevada Credit Union | All Rights Reserved</p>
-		
-    	Federally insured by NCUA.
-		<img src="/images/logo_ehl.png" alt="Equal Housing Lender">
-		<img src="/images/logo_nafcu.gif" alt="NAFCU Proud Member">
-		
-       </div>
+		<p>Copyright © 2014 One Nevada Credit Union | All Rights Reserved<br>
+    	 Federally insured by NCUA.
+		<img id="equalhousing-img" src="/images/logo_ehl.png" alt="Equal Housing Lender">
+		<img src="/images/logo_nafcu.gif" alt="NAFCU Proud Member"><br></p>
+
+	
+	<div id="bbb-logo">
+		<ul>
+		<li>
+		<a id="bbblink" class="rbhzbus" href="http://www.bbb.org/southern-nevada/business-reviews/credit-unions/one-nevada-credit-union-in-las-vegas-nv-90010099#bbbseal" title="One Nevada Credit Union is a BBB Accredited Credit Union in Las Vegas, NV" style="display: block;position: relative;overflow: hidden; width: 100px; height: 38px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-southernnevada.bbb.org/logo/rbhzbus/one-nevada-credit-union-90010099.png" width="200" height="38" alt="One Nevada Credit Union is a BBB Accredited Credit Union in Las Vegas, NV"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-southernnevada.bbb.org' + unescape('%2Flogo%2Fone-nevada-credit-union-90010099.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-southernnevada.bbb.org/logo/one-nevada-credit-union-90010099.js" type="text/javascript"></script></li>			
+	</ul></div> 	<!--end of BBB-LOGO-->				
+            <div id="social-media">
+			<a href="https://www.facebook.com/OneNevada" target="_blank">
+			<img src="/images/icon_facebook.png" alt="Facebook"></a>
+			<a href="https://twitter.com/onenevada" target="_blank">
+			<img src="/images/icon_twitter.png" alt="Twitter"></a>
+			<a href="http://www.youtube.com/onenevadacu" target="_blank">
+            <img src="/images/icon_youtube.png" alt="YouTube"></a>
+			<a href="http://www.onenevadacreditunion.blogspot.com/" target="_blank">
+			<img src="/images/icon_blogger.png" alt="Blog"></a>
+            </div><!--end of #social-media-->				
+
+	</div> 	<!--end of footer-text -->		
+					
        <div id="footer-links">
        			<ul>
 					<li><a href="/about/index.aspx">About Us</a></li>
 					<li><a href="/banking/avoid-fees.aspx">Avoid Fees</a></li>
                     <li><a href="/calculators/index.aspx">Calculators</a></li>
-					<li><a href="/about/careers.aspx">Careers</a></li>
+					<li><a href="/about/careers/career.aspx">Careers</a></li>
                     <li><a href="/contact.aspx">Contact Us</a></li>
 				</ul><ul>
                     <li><a href="/disclosures/index.aspx">Disclosures</a></li>
-					<li><a href="https://ssl8.onenevada.org/form/email-us.aspx">Email Us</a></li>
 					<li><a href="/members/balance.aspx">Financial Management</a></li>
-					<li><a href="https://www.ezforex.com/login.asp?Affiliate=3089&amp;WebUser=12858" target="_blank">Foreign Currency</a></li>
 					<li><a href="/holiday-closings.html" class="pop-up  fancybox.ajax">Holiday Hours</a></li>
-				</ul><ul>
 					<li><a href="/locations/index.aspx">Locations</a></li>
 					<li><a href="/discounts/index.aspx">Member Discounts</a></li>
+				</ul><ul>
 					<li><a href="/members/magazine.aspx" target="_blank">Member Magazine</a></li>
                     <li><a href="/disclosures/privacy.aspx">Privacy Policy</a></li>
                     <li><a href="/rates/index.aspx">Rates</a></li>
-				</ul><ul>
-                    <li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Routing Number</a></li>
-					<li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Wire Instructions</a></li>
+					<li><a href="/referral/index.aspx">Refer a Friend</a></li>
+					<li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Routing Number</a></li>
+				</ul><ul>				
 					<li><a href="/members/security.aspx">Security</a></li>
                     <li><a href="/sitemap.aspx">Sitemap</a></li>
 					<li><a href="/Social-Media.html" class="pop-up social-media-link">Social Media</a></li>
+					<li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Wire Instructions</a></li>
 				</ul>
-         </div><!--end of #footer-links-->
-
-  <!-- end #footer --></div>
+         </div>			<!--end of #footer-links-->		
+	</div>	<!-- end #footer -->
 <!-- Silver Cloud Code -->
 <script src="https://answers.silvercloudinc.com/clients/29707931/javascripts/silvercloud.js" type="text/javascript"></script>
 
