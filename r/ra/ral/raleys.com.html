@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raleys.com privacy policy that was archived on 2013-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119080629id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raleys.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626150245id_/http%3A//www.raleys.com/www/feature/legal.jsp%3Ffeatureid%3D1095065) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head></head><body><div id="webroot-value" style="display: none;">http://www.raleys.com/www</div>
 <div id="secureroot-value" style="display: none;">https://www.raleys.com/www</div>
@@ -76,7 +76,7 @@
 	<link rel="stylesheet" type="text/css" href="/stylesheets/se.ie-only.css" />
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery/jquery-1.7.1.min.js"></script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery-ui-1.8.13.custom.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery-numeric/jquery.numeric.js"></script>
 <script type="text/javascript" src="/scripts/jquery/showLoading.min.js"></script>
@@ -246,8 +246,8 @@ aWindow=window.open("http://www.raleys.com/www/promotions/promotions.jsp?content
 
 
 
-  <a href="/cfapps/orders/itemlist.cfm?typeid=102">
-  <img src="/images/imageslayout/3316575.jpg" width="295" height="65" border="0" alt="Order Holiday Dinners"></a>	  			
+  <a href="/www/digital-offers">
+  <img src="/images/imageslayout/3543114.jpg" width="295" height="65" border="0" alt="Sign In Now For More Coupon Offers"></a>	  			
 
 
 
@@ -339,17 +339,8 @@ aWindow=window.open("http://www.raleys.com/www/promotions/promotions.jsp?content
 					<li class="divider"></li>
 					
 					<li><a href="/cfapps/orders/enter.cfm">Party Trays and Desserts</a></li>
-					<!-- <li><a href="/go/orderfresh">Order Fresh Turkey</a></li> -->
+
 					<li><a href="http://www.raleys.com/www/giftcards">Order Gift Cards</a></li>
-
-					<li class="divider"></li>
-
-					<!-- 
-					<li><a href="https://raleys.elsstore.com">Special Order Service</a></li>
-					<li><a href="">Expressions from Hallmark</a></li>
-					 -->
-					 
-           			<li><a href="http://raleys.lifepics.com">Online Photo Processing</a></li>
 
 			      	<li class="divider"></li>
 			      	
@@ -478,7 +469,7 @@ Monday December 29, 2008
 	</em></p>
 <p>
 	<br>
-	If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, or you can link directly to it here.</p>
+	If you request a refill of your prescription on-line, we require that you provide certain personally identifying information, including your last name, birth date, and prescription number. This information is necessary to process your refill. This personally identifying information is subject to the terms and conditions of our pharmacy’s Privacy Notice, which is available on the Web-Fill web page, or you can link directly to it <a href="/www/feature/legal.jsp?featureid=1113647">here</a>.</p>
 <p>
 	<em><br>
 	Surveys, Sweepstakes and Contests<br>
@@ -685,6 +676,7 @@ $(document).ready(function(){
 	
     var window_width = $(window).width();
     var window_height = $(window).height();
+    var docHeight = $(document).height()+50;
 
     $('.modal_window, .modal_window_small').each(function(){
         var modal_height = $(this).height();
@@ -711,12 +703,17 @@ $(document).ready(function(){
 	}
 
 	function show_modal(modal_id){
-    	$('#mask').css({ 'display' : 'block', opacity : 0});
+    	$('#mask').css({ 'display' : 'block', opacity : 0, 'height' : docHeight});
     	$('#mask').fadeTo(500,0.9);
     	$('#'+modal_id).fadeIn(500);
 	}
+	
+	$("#se-login-close-modal").live('click',function() {	
+		history.pushState(null, null, "/www/home.jsp");
+	});	
 
 	function close_modal(){
+    	
     	$('#mask').fadeOut(500);
     	$('.modal_window, .modal_window_small').fadeOut(500);
 	}
@@ -922,7 +919,7 @@ $(document).ready(function(){
 
 <div id="se-login-modal" class="modal_window modal_small" style="top: 10px; left: 433px;">
 
-		<a href="#" class="close_modal padded" style="position: absolute;top:0;right:0;">close</a>
+		<a href="#" class="close_modal padded" id="se-login-close-modal" style="position: absolute;top:0;right:0;">close</a>
 
 		<div class="align-left modal_content">
 		
@@ -1081,7 +1078,7 @@ $(document).ready(function(){
 
 <ul class="footer-list-item">
 	<li><a id="seShowEnrollmentModalFooter" href="https://www.raleys.com/www/enroll">Free to Join!</a></li>
-	<li><a href="/cfapps/se_flash/something_extra_digital.cfm">SE Magazine</a></li>
+	<li><a href="/extra">SE Magazine</a></li>
 </ul>
 
 
@@ -1100,6 +1097,7 @@ $(document).ready(function(){
 <ul class="footer-list-item">
 	<li id="main-about-link"><a href="http://www.raleys.com/www/about_us.jsp">About Us</a></li>
 	<li><a href="/cfapps/contact/contact.cfm">Contact Us</a></li>
+	<li><a href="/go/recall">Product Recalls</a></li>
 	<li><a href="/go/ctscact">California Transparency in Supply Chains Act of 2010</a></li>
 	<li><a href="http://www.raleys.com/www/feature/legal.jsp?featureid=1095065">Privacy Policy</a></li>
 	<li><a href="http://www.raleys.com/www/feature/legal.jsp?featureid=1113715">Comment Posting Guidelines</a></li>
@@ -1109,7 +1107,7 @@ $(document).ready(function(){
 </div>
 
 <p class="margin-top-20 margin-bottom-20 align-center small">
-©  2013 Raley's Family of Fine Stores
+©  2014 Raley's Family of Fine Stores
 </p>
 
 </div>
@@ -1173,6 +1171,7 @@ $(document).ready(function(){
 	
     var window_width = $(window).width();
     var window_height = $(window).height();
+    var docHeight = $(document).height()+50;
 
     $('.modal_window, .modal_window_small').each(function(){
         var modal_height = $(this).height();
@@ -1199,12 +1198,17 @@ $(document).ready(function(){
 	}
 
 	function show_modal(modal_id){
-    	$('#mask').css({ 'display' : 'block', opacity : 0});
+    	$('#mask').css({ 'display' : 'block', opacity : 0, 'height' : docHeight});
     	$('#mask').fadeTo(500,0.9);
     	$('#'+modal_id).fadeIn(500);
 	}
+	
+	$("#se-login-close-modal").live('click',function() {	
+		history.pushState(null, null, "/www/home.jsp");
+	});	
 
 	function close_modal(){
+    	
     	$('#mask').fadeOut(500);
     	$('.modal_window, .modal_window_small').fadeOut(500);
 	}
@@ -1241,6 +1245,63 @@ $(document).ready(function(){
 
 });
 </script> 
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+
+	<script type="text/javascript">
+		var google_tag_params = {
+		ecomm_prodid: 'REPLACE_WITH_VALUE',
+		ecomm_pagetype: 'REPLACE_WITH_VALUE',
+		ecomm_totalvalue: 'REPLACE_WITH_VALUE',
+		};
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 979150824;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979150824/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>	
+
+
+
+
+<!-- Facebook Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+	
+	<script>(function() {
+	  var _fbq = window._fbq || (window._fbq = []);
+	  if (!_fbq.loaded) {
+	    var fbds = document.createElement('script');
+	    fbds.async = true;
+	    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	    var s = document.getElementsByTagName('script')[0];
+	    s.parentNode.insertBefore(fbds, s);
+	    _fbq.loaded = true;
+	  }
+	  _fbq.push(['addPixelId', '683858191673820']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(["track", "PixelInitialized", {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=683858191673820&amp;ev=NoScript" />
+	</noscript>		
+
+
 
 
 
