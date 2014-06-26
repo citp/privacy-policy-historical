@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231035412id_/http%3A//www.republicoftea.com/Privacy-Policy/a/CS3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104310id_/http%3A//www.republicoftea.com/Privacy-Policy/a/CS3) for the most accurate reproduction.*
 
 # Privacy Policy | The Republic of Tea
 
@@ -6,7 +6,7 @@
 
 [](http://privacy.truste.com/privacy-seal/The-Republic-of-Tea/validation?rid=ddb376b1-fe2f-4010-8409-60243ef46076 "TRUSTe European Safe Harbor certification")
 
-This privacy policy describes how The Republic of Tea collects and uses the personal information you provide on our Web site: www.republicoftea.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy describes how The Republic of Tea collects and uses the personal information you provide on our Web site: www.republicoftea.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy was last updated in February, 2014. 
 
 The Republic of Tea has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.republicoftea.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at citizenhelp@republicoftea.com or via phone at 800-298-4832. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
@@ -39,7 +39,7 @@ We use this information to:
   * Send you marketing communications
   * Administer contests and sweepstakes you entered, and notify you if you won
   * Respond to your questions and concerns
-  * 
+
 
 
 **Information Sharing**
@@ -48,41 +48,56 @@ We will share your personal information with third parties only in the ways that
 
 We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
-**How does The Republic of Tea safeguard my personal information?**  
+**How does The Republic of Tea safeguard my personal information?**
+
 The Republic of Tea has implemented a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special secured access rights. When you place orders or access your personal information, your session will be over a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in The Republic of Tea's database.
 
 **Security**
 
 Our website is secured by Verisign. Click the seal below to find out more info. 
 
-**Does The Republic of Tea provide a way to update or remove personal information?**  
+**Does The Republic of Tea provide a way to update or remove personal information?**
+
 The Republic of Tea provides a my account feature on our website which allows you to modify, delete and/or remove most of your personal information. This page can be accessed by clicking the my account link at the top and bottom of every page on the site or by emailing our Customer Support at citizenhelp@republicoftea.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 10 days.   
 Rest assured that all of your information within your account is secure and accessible only by you or limited The Republic of Tea personnel. 
 
-**How does The Republic of Tea use my e-mail address?**  
+**How does The Republic of Tea use my e-mail address?**
+
 Your e-mail address is used to create and identify your account on The Republic of Tea. Your e-mail address is also used by The Republic of Tea to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. With your permission, we may also use your e-mail address to notify you about important functionality changes to the Web site, [new tea products](http://www.republicoftea.com/what%27s-new/c/WN/) and special offers or [promo code coupons](http://www.republicoftea.com/the-republic-of-tea-promo-code-coupons/a/CS14/) that we think you'll find valuable.   
 If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers, newsletters and promotions. You may also unsubscribe from this kind of email by visiting our [unsubscribe page and entering your email address](http://www.republicoftea.com/unsubscribe.aspx).
 
-**Does The Republic of Tea use "cookies"?**   
-A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come from (e.g. "aol.com" or "msn.com") and the addresses of the sites visited immediately before coming to and immediately after leaving The Republic of Tea.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths take by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you.   
+**Does The Republic of Tea use "cookies"?**
+
+A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come from (e.g. "aol.com" or "msn.com") and the addresses of the sites visited immediately before coming to and immediately after leaving The Republic of Tea.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths take by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you. 
+
 The Republic of Tea may use third-party companies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and The Republic of Tea reserves the right to provide that information and data to these third parties.   
-The use of cookies by these third-party companies is covered by our privacy policy. We do have access or control over these cookies.   
+The use of cookies by these third-party companies is covered by our privacy policy. We do not have access or control over these cookies.   
 To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. Even without accepting a cookie, you can still access most of the features on The Republic of Tea. 
 
 **Widgets**
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. For instance, our site may allow social media platforms, such as Facebook®, Twitter®, and Pinterest® to host plug-ins or Widgets on our Web site. These social media platforms’ data collection and handling practices are defined by those platforms, and not by this Web site. Information collected by these Widgets is governed by the privacy policy of the company that created it, and not by The Republic of Tea. 
 
 **Links to 3rd Party Sites**
 
-Our seit includes links to other Web sites whose privacy practices may differ from those of The Republic of Tea. If you submit personal information to any of those site, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+Our site includes links to other Web sites whose privacy practices may differ from those of The Republic of Tea. For example, we allow social media platforms, such as Facebook®, Twitter®, and Pinterest® to host “share,” “like,” or similar buttons that collect data on our Web site. These social media platforms’ data collection and handling practices are defined by those platforms, and not by this Web site. If you submit personal information to any of those sites, your information is governed by their privacy policies, and not by The Republic of Tea’s Privacy Policy. We encourage you to carefully read the privacy policy of any Web site you visit. 
+
+**Compliance With California Online Privacy Protection Act.**
+
+Neither The Republic of Tea, nor our Web site, respond to Web browser “do not track” signals or other mechanisms that provide users with the ability to exercise choice regarding the collection of personally identifiable information about a user’s online activities over time and/or across third-party websites or online services. To the best of our knowledge, no third parties are collecting personally identifiable information about your online activities over time and across different websites when you use this Web site. 
 
 **Blogs**
 
-Our Web site offers publicly accessible [blogs](http://the.republicoftea.com/teablog/) or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.   
-How can you remove your name from our direct mail or email list?   
+Our Web site offers publicly accessible [blogs](http://the.republicoftea.com/teablog/) or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
+
+**How can you remove your name from our direct mail or email list?**
+
 To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. Alternately, if you have created an account with The Republic of Tea, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by unchecking "Email Me" while placing your next order. You may also unsubscribe from our email list by visiting [our unsubscribe page and entering your email address](http://www.republicoftea.com/unsubscribe.aspx).   
-PLEASE NOTE: It can take up to 8 days to process this request so you may get another email from us. Thank you in advance for your understanding. **How to Unsubscribe from The Republic of Tea's Direct Mail (Physical Mail) Program:** Visit [our contact page](http://www.republicoftea.com/Contact-Us/a/CS2/) and send a message to our Minister of Citizen Satisfaction. Please include your name and mailing address. You may also request to be removed by calling 800-298-4832.
+PLEASE NOTE: It can take up to 8 days to process this request so you may get another email from us. Thank you in advance for your understanding. 
+
+**How to Unsubscribe from The Republic of Tea's Direct Mail (Physical Mail) Program:**
+
+Visit [our contact page](http://www.republicoftea.com/Contact-Us/a/CS2/) and send a message to our Minister of Citizen Satisfaction. Please include your name and mailing address. You may also request to be removed by calling 800-298-4832.
 
 **Data Retention**
 
