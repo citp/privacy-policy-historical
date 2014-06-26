@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513030055id_/http%3A//www.theaterseatstore.com/customer-service/privacy-policy_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111941id_/http%3A//www.theaterseatstore.com/customer-service/privacy-policy_3) for the most accurate reproduction.*
 
 # Privacy Policy - Sofas and Sectionals
 
