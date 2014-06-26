@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112201120id_/http%3A//www.identogo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140234id_/http%3A//identogo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Identogo > Privacy
 
-**IdentoGO Centers:**
-
-•  Convenient  
-•  Professional  
-•  Trustworthy  
-•  Single source for all your identity needs  
-  
----  
-  
 **Privacy Statement**  
  
 
@@ -32,16 +23,18 @@ Some pages on this site use “cookies,” which are small files that the site p
 
 _MorphoTrust USA reserves the right to change, modify, or update this statement at any time without notice._
 
-[](https://web.archive.org/ProductServices/FBICriminalHistoryReport.aspx)
+[](https://web.archive.org/ProductsServices/TSAPreCheck.aspx)
 
-**FBI Criminal     
-History Report**
+**IdentoGO Centers:**
 
-Whether you want a copy of your FBI criminal history report or are fulfilling adoption requirements, IdentoGO is the ONLY company with the capability to accept hard card fingerprints and provide electronic fingerprinting across the nation.
-
-  
-**[View additional  information!](https://web.archive.org/LinkClick.aspx?link=151&tabid=139&portalid=1&mid=552)**  
+•  Convenient  
+•  Professional  
+•  Trustworthy  
   
 ---  
   
-[](https://web.archive.org/Partners.aspx)
+[
+
+](http://www.identogo.com/ProductsServices/TSAPreCheck.aspx)  
+  
+---
