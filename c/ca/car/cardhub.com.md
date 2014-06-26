@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020165012id_/http%3A//www.cardhub.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhub.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024506id_/http%3A//www.cardhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at CardHub.com
 
@@ -52,7 +52,7 @@ The Site includes links to other web sites and provides access to products and s
 
 You can also connect your Evolution Finance account to your accounts on third party services like Facebook or Twitter, in which case we may collect and store information identifying your account with the third party service as well as other information from these third party services that you have given us permission to access (e.g. name, date of birth, profile picture and friends birthdays). We use the information to help you connect and share public content with your friends and followers. You can always disconnect your accounts on these third party services from your Evolution Finance account by visiting those services directly.
 
-**Children:** At Evolution Finance we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 18. ?If you are under 18 years of age, please do not submit any personal information through the Site
+**Children:** At Evolution Finance we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 18. If you are under 18 years of age, please do not submit any personal information through the Site
 
 ### DISCLOSURE AND SHARING OF INFORMATION
 
