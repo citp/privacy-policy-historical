@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the padlet.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033512id_/http%3A//jn.padlet.com/knowledgebase/articles/153269-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padlet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042748id_/http%3A//jn.padlet.com/article/32-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Junction: Where Paddlers meet for help, ideas, and feedback
+# Privacy Policy - Padlet Junction
 
 Wallwisher, Inc. (" **Padlet** ", " **we** ", " **us** ", or " **our** ") takes the private nature of your personal information very seriously. This policy regarding our privacy practices (the "Privacy Policy") describes how we treat the information we collect when you visit and use the website available at Padlet.com (the "Site") and/or Padlet's other domains, products, services, and/or content (collectively with the Site, the "Services"). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy; please read it carefully. 
 
