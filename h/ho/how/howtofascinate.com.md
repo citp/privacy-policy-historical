@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtofascinate.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022183730id_/http%3A//www.howtofascinate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtofascinate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042457id_/http%3A//www.howtofascinate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Please read this Privacy Policy carefully. By visiting and using the Site, you a
 
 _Personal Identification Data:_
 
-We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). howtofascinate.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. We collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). howtofascinate.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. We collect personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
 
 _Automatically Generated Data:_
 
