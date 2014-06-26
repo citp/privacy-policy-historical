@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824132115id_/http%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055428id_/http%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SPECTRUM BRANDS HOLDINGS, INC. PRIVACY POLICY | Remington Products
 
-This privacy policy is effective on August 26, 2011.
+This privacy policy is effective on October 21, 2013.
 
 This policy describes Spectrum Brands Holdings, Inc.’s and its affiliated companies and subsidiaries (collectively “Spectrum”) practices with respect to information it collects and receives from users of this Site, including the types of information collected, how it is used, and with whom it is shared. 
 
@@ -52,7 +52,7 @@ Information transmitted on the Internet and/or stored on systems attached to the
 
 If you would like to review the personally identifiable information that we have collected about you online, please send your name, street address, telephone number and e-mail address to us by regular mail to the following address:
 
-Spectrum Brands, Inc. 601 Rayovac Drive, Madison, WI 53711 attention: Information Services Department.
+Spectrum Brands, Inc. 3001 Deming Way, Middleton, WI 53562-1431 attention: Information Services Department.
 
 We will send you the personally identifiable information that we have collected about you online. If you would like to correct any factual errors, please note such corrections and send them to us at the same address listed above, so that we may make the corrections that you have requested.
 
@@ -72,4 +72,4 @@ While you are using this Site, you may be linked or directed to other third part
 
 We welcome your comments regarding this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please e-mail us at [www.spectrumbrands.com](http://www.spectrumbrands.com/) or contact us by U.S. mail at:
 
-Spectrum Brands, Inc., 601 Rayovac Drive, Madison, WI 53711 attention: Legal Department.
+Spectrum Brands, Inc., 3001 Deming Way, Middleton, WI 53562-1431 attention: Legal Department.
