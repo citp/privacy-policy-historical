@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213012028id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022548id_/http%3A//www.cartoonnetwork.com.au/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network Australia | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
