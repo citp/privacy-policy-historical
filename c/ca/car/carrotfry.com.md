@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrotfry.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821154634id_/http%3A//www.carrotfry.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotfry.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072420id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.*
 
-# Carrot Fry
+# privacy
 
   
 
