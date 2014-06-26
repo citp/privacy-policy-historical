@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124084023id_/http%3A//www.utahcoupondeals.com/getting-started/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075558id_/http%3A//lovebugsandpostcards.com/getting-started/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Utah Coupon Deals
+# Privacy Policy - Lovebugs and Postcards
 
-[ ](http://www.utahcoupondeals.com/getting-started/privacy-policy/locked-keys/)
+[ ](http://lovebugsandpostcards.com/getting-started/privacy-policy/locked-keys/)
 
 At Utah Coupon Deals, we are committed to protecting your privacy wither you are a first-time visitor or regular reader of this website.
 
@@ -41,16 +41,15 @@ Email: [utahcoupondeals@gmail.com](mailto:utahcoupondeals@gmail.com)
 
 _This policy was lasted updated on August 24, 2011_
 
+  
+This post may contain affiliate links. By using them, you are helping to keep this site free and maintained. We appreciate your support. [Click here to read our privacy policy](http://lovebugsandpostcards.com/getting-started/privacy-policy/).
+
   * Bio
   * Twitter
   * Facebook
   * Google+
-  * Pinterest
+  * Latest Posts
 
 
 
-#### Coralie
-
-Coralie is a mom of four kids and a SAHM. She does [web design](http://www.serightdesigns.com/) on the side and is always looking for something fun to do with her family (activities, being outdoors, games, movies, etc). Be sure to sign up for our FREE daily email:[](http://feedburner.google.com/fb/a/mailverify?uri=UtahCouponDeals&loc=en_US)
-
-Please follow us on Pinterest to stay up to date: [ ](http://pinterest.com/utahcoupondeals/)
+Coralie is a SAHM of four kids. She does [web design](http://www.serightdesigns.com/) on the side and is always looking for something fun to do with her family (activities, being outdoors, games, movies, etc). Be sure to sign up for our [FREE daily email](http://feedburner.google.com/fb/a/mailverify?uri=UtahCouponDeals&loc=en_US)
