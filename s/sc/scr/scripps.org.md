@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228044912id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161452id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
 # Scripps Health - Privacy Policy
+
+  * [ Email ](mailto:?body=I%20thought%20you%20might%20be%20interested%20in%20this%20article%3A%20http%3A%2F%2Fwww.scripps.org%2Fprivacy-policy&subject=Scripps.org%3A%20Privacy%20Policy)
+  * [ Like ](http://www.facebook.com/sharer.php?u=http://www.scripps.org/privacy-policy&t=Privacy%20Policy "Like")
+  * [ Tweet ](http://twitter.com/intent/tweet?text=Privacy%20Policy:+http://www.scripps.org/privacy-policy+-+via%20@scrippshealth "Twitter")
+  * [ Plus 1 ](http://plus.google.com/share?url=http://www.scripps.org/privacy-policy "Plus 1")
+  * [ Pin It ](https://www.pinterest.com/pin/create/button/?url=http://www.scripps.org/privacy-policy&description=Last+Updated:+11/29/10%0ABy+using+this+website,+you+agree+to+the+following+Privacy+Policy.+If+you+do+not+agree+to+all+of+these+terms,+please+do+not+use+this+website.+Scripps+Health+reserves+the+right+to+change,+modify,+add,+or+delete+portions+of+this+Privacy+Policy+at+any+time.+Your+continued+use+of+... "Pinterest")
+
+
 
 Last Updated: 11/29/10
 
