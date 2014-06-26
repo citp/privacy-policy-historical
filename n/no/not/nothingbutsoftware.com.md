@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807002504id_/http%3A//www.nothingbutsoftware.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nothingbutsoftware.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060947id_/http%3A//www.nothingbutsoftware.com/ContentPage/8-Privacy-Statement) for the most accurate reproduction.*
 
 # NothingButSoftware.com - Privacy Statement
 
