@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209135353id_/http%3A//www.webincomejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072147id_/http%3A//www.webincomejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ The following activities at our website will generate an email from us:
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys. If you participate, we may request certain personally identifiable information from you.
 
-Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information. The requested information typically includes [contact](http://www.webincomejournal.com/contact-us "contact") information (such as name, email and/or shipping address), and demographic information (such as zip code).
+Participation in these surveys or contests is completely voluntary and therefore you have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, email and/or shipping address), and demographic information (such as zip code).
 
 We use this information to notify contest winners and award prizes. We may use a third party service provider to conduct these surveys or contests; We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
