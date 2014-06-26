@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103193300id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakerdeck.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075213id_/https%3A//speakerdeck.com/privacy) for the most accurate reproduction.*
 
 # Speaker Deck - Share Presentations without the Mess
+
+## General
 
 GitHub Inc. (GitHub) collects e-mail addresses of people who send us e-mail. We also collect information on what pages consumers access and information provided to us by consumers via surveys and presentation uploads. Such information may contain personal data about you including your address, phone numbers, credit card numbers etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide us a valid consent to disclose the following:
 
@@ -19,7 +21,7 @@ GitHub Inc. (GitHub) collects e-mail addresses of people who send us e-mail. We 
 
 ## Security
 
-The security of your personal information is important to us. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [support@speakerdeck.com](mailto:support@speakerdeck.com).
+The security of your personal information is important to us. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [support@speakerdeck.com](mailto:support@speakerdeck.com)v.
 
 ## Disclosure
 
