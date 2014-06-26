@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225125054id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111434id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Holiday Extras - privacy policy | How we use your information
-
-"Once again I was given a speedy and professional service. The staff are always helpful and cheerful over the phone and make sure that you get the best deal around. Holiday Extras always makes your custom and you feel important and are always there to help with any questions or problems."  
-**Mr Lings**
-
-"I have used Holiday Extras several times now and have always been delighted with the packages I've purchased."  
-**Mr Sowerby**
-
-"Everybody I had contact with at Holiday Extras was polite, helpful and clear on their instructions. Will use again and recommend to others."  
-**Mr Heseyin**
-
-"I travel overseas on business many times throughout the year and always use Holiday Extras. Professional, efficient and always great value for money."  
-**Mrs Scarth**
-
-"Have used Holiday Extras several times and everything is/happens as promised. The product we purchased was good value for money and we will certainly be using Holiday Extras again."  
-**Mrs Massey**
-
-**[Our latest awards](https://web.archive.org/about-us/holiday-extras-awards.html)**  
-**[Sponsorships](https://web.archive.org/about-us/holiday-extras-sponsorship.html)**  
-**[Registered office](https://web.archive.org/about-us/registered-office.html)**  
-**[Our trademarks](https://web.archive.org/about-us/holiday-extras-trademarks.html)**  
-**[Directions to Holiday Extras](https://web.archive.org/about-us/directions-holiday-extras.html)**  
-**[About you](https://web.archive.org/about-us/about-you.html)**
 
 ## What information do we ask for?
 
