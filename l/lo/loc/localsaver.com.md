@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223082707id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095001id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
 
 # None
 
