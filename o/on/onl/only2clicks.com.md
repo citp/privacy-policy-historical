@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only2clicks.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114003657id_/http%3A//www.only2clicks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only2clicks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035225id_/http%3A//www.only2clicks.com/privacy.php) for the most accurate reproduction.*
 
 # Only2Clicks Tour
 
