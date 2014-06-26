@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225062920id_/http%3A//www.carbonfund.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonfund.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123902id_/http%3A//www.carbonfund.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | carbonfund.org
 
-The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [**Terms of Use**](http://carbonfund.org/terms-of-use). If you have any questions, please [**contact us**](http://carbonfund.org/contact).
+The following statement details the Carbonfund.org Foundation, Inc. privacy policy. You may also be interested in our [**Terms of Use**](https://www.carbonfund.org/terms-of-use). If you have any questions, please [**contact us**](https://www.carbonfund.org/contact).
 
 ### What personal information is collected and how is it used?
 
