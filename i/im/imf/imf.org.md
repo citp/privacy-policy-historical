@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imf.org privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015061446id_/http%3A//www.imf.org/external/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imf.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025216id_/http%3A//www.imf.org/external/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - IMF Website
 
 Last Updated: October 30, 2007
 
-This privacy policy statement applies to www.imf.org only. It does not apply to information collected and stored by a means other than this website. You can find the [ International Financial Statistics Online](http://www.imfstatistics.org/imf/) privacy policy statement [here](http://www.imfstatistics.org/imf/privacy.asp). 
+This privacy policy statement applies to www.imf.org only. It does not apply to information collected and stored by a means other than this website. You can find the [ International Financial Statistics Online](http://elibrary-data.imf.org/DataExplorer.aspx) privacy policy statement [here](http://elibrary-data.imf.org/DataExplorer.aspx). 
 
 ## Privacy of Personal Information
 
