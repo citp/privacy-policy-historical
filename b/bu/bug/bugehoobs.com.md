@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bugehoobs.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923123524id_/http%3A//www.bugehoobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugehoobs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143951id_/http%3A//www.bugehoobs.com/privacy) for the most accurate reproduction.*
 
-# Privacy - BugeHoobs.com
+# Privacy
 
 BugeHoobs.com respects your privacy. This policy explains the privacy practices of BugeHoobs.com website and products, software, data feeds, and services offered to you on, from or through the BugeHoobs.com Website (the “Service”). It describes the ways BugeHoobs.com collects and uses your personal information on the Service and the rights and options available to you with respect to your information.
 
