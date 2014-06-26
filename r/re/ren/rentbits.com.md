@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentbits.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208215856id_/http%3A//rentbits.com/rb/site/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentbits.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043130id_/http%3A//rentbits.com/rb/site/privacy-policy.jsp) for the most accurate reproduction.*
 
 # rentbits - Integrated online solutions for the rental industry.
 
@@ -73,4 +73,4 @@ We may amend this Privacy Policy at any time by posting the amended terms on the
 
 **Contact Us**
 
-If you have any questions regarding this Privacy Policy please [contact us here](https://web.archive.org/web/20131208215856id_/http%3A//rentbits.com/rb/site/contact.jsp)
+If you have any questions regarding this Privacy Policy please [contact us here](https://web.archive.org/web/20140626043130id_/http%3A//rentbits.com/rb/site/contact.jsp)
