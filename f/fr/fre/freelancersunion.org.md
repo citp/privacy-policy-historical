@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelancersunion.org privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917224941id_/http%3A//www.freelancersunion.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersunion.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053602id_/https%3A//www.freelancersunion.org/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Freelancers Union :: About Us - Pages from Freelancers Union
+# Freelancers Union :: About Us
 
 Your privacy concerns are important to Working Today, Inc. and Freelancers Union (collectively referred to herein as "we" or "us"). This Privacy Policy is designed to provide you with the information you need to control your personal information. Please note also that this Privacy Policy should be read in conjunction with our [Terms of Use](https://web.archive.org/about/terms-of-use.html). By using this Website, you agree to the collection and use of your information by us in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use this Website.
 
