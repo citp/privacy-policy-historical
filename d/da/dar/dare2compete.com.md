@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205102502id_/http%3A//www.dare2compete.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare2compete.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090027id_/http%3A//www.dare2compete.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dare2Compete
 
