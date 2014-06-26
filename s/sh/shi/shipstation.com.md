@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipstation.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930053706id_/http%3A//www.shipstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipstation.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053909id_/http%3A//www.shipstation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShipStation
 
