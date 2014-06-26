@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2013-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130708193609id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgirls.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113731id_/http%3A//www.travelgirls.com/page/privacy-policy) for the most accurate reproduction.*
 
 # travelgirls.com-Privacy policy
-
-The following describes the conditions of the Privacy Policy on which “Eastbo Development Limited” offers you to access and explore the travelgirls.com website (hereinafter referred to as the “Site”). The Site is operated by “Eastbo Development Limited” (hereinafter referred to as “us”, “we”), a limited liability company, registered in the Republic of Lithuania. By using this Site, you agree to comply with and be legally bound by the following conditions of the Privacy Policy, whether or not you become a registered user of the Site. Failure to use this Site in accordance with the following conditions of the Privacy Policy may subject you to severe civil and criminal penalties. We reserve the right to make changes to these conditions of the Privacy Policy at any time. Your continued use of the Site constitutes your acceptance of such changes. Accordingly, you should review these terms from time to time for such changes.
 
 **By entering and/or registering on the Site you give your consent to and accept the following conditions  **:
 
@@ -76,48 +74,36 @@ The following describes the conditions of the Privacy Policy on which “Eastbo 
 
 4.5. If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the service can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
 
-**5\. Emails sent by site**
+**5\. Your use of members' information**
 
-5.1. If you do not wish to receive any further email correspondence, you can unsubscribe by doing one of the following:
+5.1. You may not use another members' information, whether private or not, for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other members' information or who otherwise violate any user agreements, policies, or rules governing the use of the Site.
 
-  * Click on the “unsubscribe” link in any email received from Site.
-  * Or log in to your profile and click on “My profile” on the left side menu. Then click on “Email” and uncheck “I want to get email notifications about new messages”.
+**6\. Member disputes.**
 
+6.1. You are solely responsible for your interactions with other members. Because we are not involved in member interactions, in the event that you have a dispute with one or more members or those who have posted, viewed, or used information on this Site, you release us, including our officers, directors, agents, subsidiaries and employees, from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes.
 
+**7\. Security**
 
-5.2. Emails are sent by Nabaka LLC. Company address: Konstitucijos av. 15-12, Vilnius LT-09319, Lithuania  
-      [info@nabaka.com](mailto:info@nabaka.com), +370 (615) 81 255.
+7.1. This Site use reasonable security measures to help protect and prevent the loss, misuse, and alteration of the information under our control.
 
-**6\. Your use of members' information**
+**8\. Disclaimers**
 
-6.1. You may not use another members' information, whether private or not, for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other members' information or who otherwise violate any user agreements, policies, or rules governing the use of the Site.
+8.1. We and our officers, directors, agents, subsidiaries and employees are not responsible for any incorrect or inaccurate content posted on the Site, whether caused by users, members or by any of the equipment or programming associated with or utilized in the service, nor for the conduct of any user and/or member whether online or offline.
 
-**7\. Member disputes.**
+8.2. We assume no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, user and/or member communications.
 
-7.1. You are solely responsible for your interactions with other members. Because we are not involved in member interactions, in the event that you have a dispute with one or more members or those who have posted, viewed, or used information on this Site, you release us, including our officers, directors, agents, subsidiaries and employees, from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes.
+8.3. We are not responsible for any problems or technical malfunction of any telephone network or lines, computer on-line-systems, servers or providers, computer equipment, software, failure of email or players on account of technical problems or traffic congestion on the Internet or at any website or combination thereof, including injury or damage to users and/or members or to any other person's computer related to or resulting from participating or downloading materials in connection with the site and/or in connection with the service.
 
-**8\. Security**
+8.4. Under no circumstances we will be responsible for any loss or damage resulting from anyone's use of the Site or the service and/or any content posted on the site or transmitted to members.
 
-8.1. This Site use reasonable security measures to help protect and prevent the loss, misuse, and alteration of the information under our control.
+**9\. Limitation on liability**
 
-**9\. Disclaimers**
+9.1. Except in jurisdictions where such provisions are restricted (and in that event liability is disclaimed to the fullest extent permitted by law), in no event we shall be liable to you or any third person for any indirect, consequential, exemplary, incidental, special or punitive damages, including also lost profits arising from your use of the Site.
 
-9.1. We and our officers, directors, agents, subsidiaries and employees are not responsible for any incorrect or inaccurate content posted on the Site, whether caused by users, members or by any of the equipment or programming associated with or utilized in the service, nor for the conduct of any user and/or member whether online or offline.
+**10.  ** **Reservations to this Privacy Policy**
 
-9.2. We assume no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, user and/or member communications.
+10.1. The Site reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Privacy Policy will be effective by posting revisions on the Site's Privacy Policy page.
 
-9.3. We are not responsible for any problems or technical malfunction of any telephone network or lines, computer on-line-systems, servers or providers, computer equipment, software, failure of email or players on account of technical problems or traffic congestion on the Internet or at any website or combination thereof, including injury or damage to users and/or members or to any other person's computer related to or resulting from participating or downloading materials in connection with the site and/or in connection with the service.
+10.2. Any changes posted on this page will be effective from the date of posting.
 
-9.4. Under no circumstances we will be responsible for any loss or damage resulting from anyone's use of the Site or the service and/or any content posted on the site or transmitted to members.
-
-**10\. Limitation on liability**
-
-10.1. Except in jurisdictions where such provisions are restricted (and in that event liability is disclaimed to the fullest extent permitted by law), in no event we shall be liable to you or any third person for any indirect, consequential, exemplary, incidental, special or punitive damages, including also lost profits arising from your use of the Site.
-
-**11.  ** **Reservations to this Privacy Policy**
-
-11.1. The Site reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Privacy Policy will be effective by posting revisions on the Site's Privacy Policy page.
-
-11.2. Any changes posted on this page will be effective from the date of posting.
-
-11.3. It is your responsibility to check Privacy Policy and terms of use of the Site.
+10.3. It is your responsibility to check Privacy Policy and terms of use of the Site.
