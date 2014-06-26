@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015013954id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102952id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # 49ers.com | Privacy Policy
 
-Revised policy updated as of November 2010.
+Revised policy updated as of March 2014.
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.49ers.com/seal_m "TRUSTe European Safe Harbor certification")This privacy policy applies to San Francisco 49ers Websites located at [**sf49ers.com**](http://sf49ers.com/) and [**49ers.com**](http://49ers.com/), www.49ersnewstadium.com, [49ers.com/stories](http://foreverfaithful.49ers.com/) (foreverfaithful.49ers.com) and [**http://www.49ersfaithful.net/**](http://www.49ersfaithful.net/) (the “Website”). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.49ers.com/seal_m "TRUSTe European Safe Harbor certification")This privacy policy applies to San Francisco 49ers Websites located at [**sf49ers.com**](http://sf49ers.com/) and [**49ers.com**](http://49ers.com/) (the “Website”), [LevisStadium.com](http://www.levisstadium.com/), and [LevissStadiumFanWalk.com](http://www.levisstadiumfanwalk.com/). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+The San Francisco 49ers comply with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  The San Francisco 49ers have certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view The San Francisco 49ers  certification, please visit <http://www.export.gov/safeharbor/>
+
+The TRUSTe program covers only information that is collected through [www.49ers.com](http://www.49ers.com/) and [www.sf49ers.com](http://www.sf49ers.com/) and does not cover information that may be collected through our mobile application.
 
 When this privacy policy uses the term “personally identifiable information” or “personal information,” we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -40,17 +42,17 @@ Please read the information below to learn more about our data collection polici
 
 The following are the types of information we may collect:
 
-**Information You Provide Us:** In the course of using the Website, we may ask you to provide us with certain information, including contact information such as your name, address, email, zip code, phone number, unique identifiers such as your user ID, user password, demographic information such as your date of birth, age, or gender, and financial information such as your credit card number or similar information. On our member fan networking site set up for the Faithful ([49ersfaithful.net](http://49ersfaithful.net/)) we also ask for other information regarding your personal interests such as hobbies, occupation, favorites, etc. When sending an email to a friend from our site we will ask you for your friend’s name and email address.
+**Information You Provide Us:** In the course of using the Website, we may ask you to provide us with certain information, including contact information such as your name, address, email, zip code, phone number, unique identifiers such as your user ID, user password, demographic information such as your date of birth, age, or gender, and financial information such as your credit card number or similar information. On our member fan networking site set up for the Faithful [forums.49ers.com](http://forums.49ers.com/) we also ask for other information regarding your personal interests such as hobbies, occupation, favorites, etc. When sending an email to a friend from our site we will ask you for your friend’s name and email address. **Site Usage Information:** We may receive and store certain types of internet usage information whenever you visit the Website, such as your IP address. See “IP Addresses and Click Stream Data” section below for further information on this topic.
 
-**Site Usage Information:** We may receive and store certain types of internet usage information whenever you visit the Website, such as your IP address. See “IP Addresses and Click Stream Data” section below for further information on this topic.
-
-**Email Communications:** When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
+**Email Communications:** When you open emails from us, we may receive a confirmation noting you opened the email through the use a clear gif or pixel tags, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
 **HOW INFORMATION MAY BE COLLECTED**
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
 **Registration:** You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
+
+**Social Media Widgets:** Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 **Tell-a-friend**
 
@@ -97,25 +99,17 @@ At times, we may share your personal information with others for various purpose
 
 **Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include web developing, web hosting, software management, fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, sending text messages to your phone, providing marketing assistance, processing credit card payments, provide interactive services and functions and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
-[4INFO](http://www.4info.net/logon.jsp?tag=fr_49ers_com), [MBNA](http://image.applyonlinenow.com/us/49ers-mx2k/mx2k.html), [Sign Up 4,](http://signup4.com/) [GSI](http://www.shop49ers.com/home/), [RazorGator ](http://www.razorgator.com/49ers/)and [Ticket Master](http://www.ticketmaster.com/) are powered by these individual companies and their privacy policies apply to all information collected. Some of these sites may have the look and feel of the 49ers, but you are actually entering your information on these third party sites.
-
 **Aggregate Information:** We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
 **Other Promotional Offers:** We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email or change your preferences by logging into your account.
 
-**Ad Serving & Audience and Traffic Measurement Services:** The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.
-
-**Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See “Your Acceptance Of The Privacy Policy and Notification Of Changes To The Policy” section below.
+**Ad Serving & Audience and Traffic Measurement Services:** The Website may use a third party network advertiser to serve the advertisements on the Website or may use a traffic measurement service to analyze the traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to this Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products or Websites you might be interested in. Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads **. Business Transfers:** In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. See “Your Acceptance Of The Privacy Policy and Notification Of Changes To The Policy” section below.
 
 **Administrative or Legal Process:** Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this Website.
 
 **Chat Rooms, Forums, Blogs and Message Boards**
 
 The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
-
-Also, please note that any Club administrators for our Booster Club Directory may access their posted information to either edit or have de-listed by contacting Teri Ramos at the San Francisco 49ers, 408/562-4949.
-
-The 49ers Faithful site is mainly a member social networking site that allows you to create a profile. If a member chooses to create a profile, the general public will be allowed to view your profile, and your username will also be included in the “Find Faithful Fans” search directory. You will have the opportunity to click shown or hidden on your other personal information outside of your username. Clicking shown will display the item in your public profile page and can be used as a search field in the directory. Clicking hidden will remove the item from your public profile page and will not be used as a search field in the directory.
 
 **LINKS TO OTHER WEBSITES**
 
@@ -124,6 +118,10 @@ You should be aware that when you are on the Website you could be directed to ot
 **SECURITY**
 
 This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. In certain instances, your sensitive personally identifiable information (such as credit card number)is transferred to our computers utilizing SSL encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
+
+**DATA RETENTION**
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 A Special note for Parents concerning Privacy
 
@@ -137,4 +135,8 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 Correcting/Updating Personal Information
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [Ask49ers@niners.nfl.com](mailto:Ask49ers@niners.nfl.com). We will respond to your request within 10-20 business days..
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by contact us [**HERE**](http://www.49ers.com/about-us/contact-us.html). We will respond to your request within 10-20 business days.
+
+San Francisco 49ers  
+4949 Marie P. DeBartolo Way  
+Santa Clara, CA 95054
