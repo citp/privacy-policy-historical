@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225010350id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the values.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005405id_/http%3A//www.values.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Values - Pass It On
 
