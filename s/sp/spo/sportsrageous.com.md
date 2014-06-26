@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113090556id_/http%3A//www.sportsrageous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024127id_/http%3A//www.sportsrageous.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sportsrageous
 
