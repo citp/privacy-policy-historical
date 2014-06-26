@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytrader.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103063250id_/http%3A//www.dailytrader.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytrader.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062715id_/http%3A//www.dailytrader.com/privacy.php) for the most accurate reproduction.*
 
 # DailyTrader.com - Privacy Policy
 
