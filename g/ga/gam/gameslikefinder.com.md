@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231113202id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115621id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games Finder
 
@@ -47,14 +47,16 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. Visitors of our website should be aware that at times we may receive compensation for any traffic, leads or related sales that we provide to these third parties.  These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback in regard to these websites.
 
 **Website Content**  
-While a majority of our website content is written in house we do occasionally accept reviews and more often game related imagery from our users. We do our best to ensure that the user has permission to claim the image as their own but we cannot make a guarantee. If you believe your rights are being impacted by imagery, text or other media displayed on our website please do not hesitate to contact us for immediate removal.
+While Games Finder has an in house team of writers we do also accept reviews and game related imagery from third parties (freelancer writers, readers of our websites and others). We do our best to ensure that the user has permission to claim the image, text or other media as their own but we cannot make a guarantee. If you believe your rights are being impacted by imagery, text or other media displayed on our website please do not hesitate to contact us for immediate removal.
 
-All media items on our website are used according to a Fair Use policy and are used for identification and review purposes.
+The administrative team of the website is not responsible for any infringements by these third parties. We take copyright claims seriously and will act immediately on such issues.
+
+All media items on our website are used according to a Fair Use policy and are used for identification and review purposes. Some imagery is provided by relevant publisher media departments.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 30 November 2013.
+This policy was last modified on 15 March 2014
 
 Please direct all enquiries to <http://gameslikefinder.com/contact>
