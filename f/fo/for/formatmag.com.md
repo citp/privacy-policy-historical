@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formatmag.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226071354id_/http%3A//www.formatmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formatmag.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626193123id_/http%3A//www.formatmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Format Magazine Urban Art Fashion
 
@@ -36,6 +36,6 @@ If you feel that this site is not following its stated information policy, you m
 
 Advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags.
 
-End users may opt out of behavioral targeting through the opt-out link located at <http://www.networkadvertising.org/managing/opt_out.asp>
+End users may opt out of behavioral targeting through the opt-out link located at [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
-Everyguyed is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising: [http://www.aboutads.info/choices/.](http://www.aboutads.info/choices/)
+Everyguyed is participating in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program for Online Behavioral Advertising: [http://www.aboutads.info/choices/.](https://www.aboutads.info/choices/)
