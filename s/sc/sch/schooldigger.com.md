@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121015514id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151323id_/https%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
-# schooldigger.com Privacy Policy
+# SchoolDigger.com - Privacy Policy
 
 Effective **Jan 1, 2007** , updated **Nov 11, 2013**
 
@@ -71,4 +71,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20131121015514id_/http%3A//www.schooldigger.com/contact.aspx). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20140626151323id_/https%3A//www.schooldigger.com/contact.aspx). 
