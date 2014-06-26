@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129054721id_/http%3A//www.openstack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openstack.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626070413id_/http%3A//www.openstack.org/privacy) for the most accurate reproduction.*
 
 # OpenStack Privacy Policy » OpenStack Open Source Cloud Computing Software
 
-OpenStack, LLC (OpenStack) respects your privacy and is committed to protect the privacy and confidentiality of personal data we collect when you use the website located at http://www.openstack.org (the Website). This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
+OpenStack Foundation (OpenStack) respects your privacy and is committed to protect the privacy and confidentiality of personal data we collect when you use the website located at http://www.openstack.org (the Website). This Privacy Policy describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
 
@@ -100,7 +100,6 @@ If you have a question or complaint about this Privacy Policy or our information
 
 ## 9\. CHANGES
 
-We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on January 7, 2011
+We may change this Privacy Policy from time to time. You should check our website frequently to see recent changes; however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on January 13, 2014
 
-©2010 OpenStack, LLC  
-January 7, 2011
+January 13, 2014
