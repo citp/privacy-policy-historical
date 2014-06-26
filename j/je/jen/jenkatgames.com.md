@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224055033id_/http%3A//www.jenkatgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081425id_/http%3A//www.jenkatgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at JenkatGames.com
 
-We have created this Privacy Policy in order to show our commitment to your privacy. The following discloses our information gathering and dissemination practices. This policy covers all Jenkat Media, Inc. properties including, but not limited to the following domains: http://www.jenkatmedia.com, http://www.jenkatgames.com, http://www.breakplay.com, http://www.gamehug.com, and all other websites owned and/or operated by Jenkat Media, Inc. ("the Network").
+Last Updated April 28, 2014
+
+We have created this Privacy Policy in order to show our commitment to your privacy. The following discloses our information gathering and dissemination practices. This policy covers all Jenkat Media, Inc. properties including, but not limited to the following domains: http://www.jenkatmedia.com, http://www.jenkatgames.com,http://www.gamehug.com, Jenkat Games Arcade and Jenkat Games Arcade Plus, and all other websites and products owned and/or operated by Jenkat Media, Inc. (\\\\\"the Network\\\\\").
 
 ### PERSONAL INFORMATION
 
@@ -19,7 +21,7 @@ We may collect the following information when you sign up for a service:
 
 ### IP Address:
 
-When a user visits any website owned or operated by Jenkat Media, Inc., we may collect the IP address that requested the display of one of our sites. This address is collected primarily for two purposes. The first purpose is to exercise our ability to restrict access to the site by users who have violated our Terms of Service. The second purpose is to support our advertising partners, so that the partners will be able to accurately count the number of unique visitors to our sites who may have viewed a given advertisement. When a user accesses a Network website, our web server may also automatically collect and store the user's domain name, the date and time of access to the site and the Internet address of the website that linked you to our site.
+When a user visits any website owned or operated by Jenkat Media, Inc., we may collect the IP address that requested the display of one of our sites. This address is collected primarily for two purposes. The first purpose is to exercise our ability to restrict access to the site by users who have violated our Terms of Service. The second purpose is to support our advertising partners, so that the partners will be able to accurately count the number of unique visitors to our sites who may have viewed a given advertisement. When a user accesses a Network website, our web server may also automatically collect and store the user\\\\\'s domain name, the date and time of access to the site and the Internet address of the website that linked you to our site.
 
 ### Sign Up and Survey information:
 
@@ -37,9 +39,9 @@ Other identifying information collected during the sign up process or through ot
 
 We use the information that we collect from users in a variety of ways, including to improve the content of the website, to address user preferences and to attract new users, to track user trends and patterns on the Internet so that users may be informed about products and services of interest and, in some instances, to properly credit third parties that have referred users to the site. Stored information is also used to pre-populate information fields for purchases, contests or promotions.
 
-Our advertisers and marketing partners who contract directly with the Network are required to confirm that they will comply with the Network's Privacy Policy with respect to information collected through ads displayed on any Network site. Third-party advertising companies use cookies to measure and improve the effectiveness of their clients' ads. To do this, advertisers may use anonymous information about a user's visit to a website (as well as other websites) including what banner ad was shown, the date and time it was shown, the cookie and the IP address. This information may also be used for online preference marketing purposes. The Network does not control these third party cookies and users of the Network should check the privacy policy of the advertising company or advertiser to see whether and how it uses cookies. 
+Our advertisers and marketing partners who contract directly with the Network are required to confirm that they will comply with the Network\\\\\'s Privacy Policy with respect to information collected through ads displayed on any Network site. Third-party advertising companies use cookies to measure and improve the effectiveness of their clients\\\\\' ads. To do this, advertisers may use anonymous information about a user\\\\\'s visit to a website (as well as other websites) including what banner ad was shown, the date and time it was shown, the cookie and the IP address. This information may also be used for online preference marketing purposes. The Network does not control these third party cookies and users of the Network should check the privacy policy of the advertising company or advertiser to see whether and how it uses cookies. 
 
-A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. The Network may allow third party pixel tags to be present on the Network for purposes of advertising, providing services or data and statistics collection. You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Network. Visit Network Advertising Initiative's ("NAI") gateway opt-out site www.networkadvertising.org to review the privacy policies of third-party advertising companies and/or opt-out of third-party advertising cookies. 
+A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. The Network may allow third party pixel tags to be present on the Network for purposes of advertising, providing services or data and statistics collection. You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Network. Visit Network Advertising Initiative\\\\\'s (\\\\\"NAI\\\\\") gateway opt-out site www.networkadvertising.org to review the privacy policies of third-party advertising companies and/or opt-out of third-party advertising cookies. 
 
 In the event that Jenkat Media, Inc. merges with another company or transfers or sells substantially all of its assets to a third party, all information stored on the web server would be included in the merger, transfer or sale. Also, if required by law, information may be disclosed to a third party. 
 
@@ -55,14 +57,18 @@ Except as described in this Privacy Policy, the Network will get your permission
 
 When you sign up as a Jenkat Media user, or download any software from Jenkat Media, Inc., by default the option will be selected to allow us to communicate with you via e-mail about news, games, special offers, and events. You have the option to uncheck or check a box during the sign up process that will prevent this, although by doing so you are potentially asking us to not inform you of events and prize awards that may have tangible value to you. Any e-mail we send to you will contain information about opting-out of any further mailings, and all Jenkat Media websites have areas where you may manually opt-out of receiving further communications. Jenkat Media treats each of its consumer offerings individually, so if you have opted to receive mailings from more than one business entity, if you want to unsubscribe you must do so from each entity individually. 
 
-A second communication option is chosen by default, allowing Jenkat Media to share your information with trusted partners who may also choose to communicate with you. You also have the choice to uncheck the box for this option during the sign up process. 
+A second communication option is chosen by default, allowing Jenkat Media to share your information with trusted partners who may also choose to communicate with you. You also have the choice to uncheck the box for this option during the sign up process.
+
+### CHILDREN\'S PRIVACY
+
+Jenkat Games is not intended for use by anyone under the age of 13. Jenkat Games does not permit the registration on the Sites by, and will not knowingly collect personally identifiable information from, anyone under 13 years of age.  In the event that we learn that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly erase such information from our records.
 
 ### FACEBOOK PLATFORM
 
 This site makes use of Facebook Platform which lets you log into other applications and websites using your Facebook account. When you log in using Facebook, Facebook gives Jenkat Media your User ID, but they do not share your email address or password with Jenkat Media without you giving permission.  
 
 
-If you already have an account with Jenkat Media, you may also be able to connect that account with your Facebook account. This can be done using techniques like an "email hash", which is similar to searching for someone on Facebook using an email address. The email addresses in this case are encrypted, so no email addresses are actually shared between Facebook and Jenkat Media.  
+If you already have an account with Jenkat Media, you may also be able to connect that account with your Facebook account. This can be done using techniques like an \\\\\"email hash\\\\\", which is similar to searching for someone on Facebook using an email address. The email addresses in this case are encrypted, so no email addresses are actually shared between Facebook and Jenkat Media.  
 
 
 How It Works  
@@ -73,7 +79,7 @@ The website (Jenkat Media) sends over an encrypted version of your email address
 About Social Plugins  
 
 
-When you go to a game or application, or connect with a website using the Facebook Platform, Facebook gives the game, application, or website (sometimes referred to as just "Applications" or "Apps") your _User ID_ , as well your friends' User IDs (or your friend list).
+When you go to a game or application, or connect with a website using the Facebook Platform, Facebook gives the game, application, or website (sometimes referred to as just \\\\\"Applications\\\\\" or \\\\\"Apps\\\\\") your _User ID_ , as well your friends\\\\\' User IDs (or your friend list).
 
 Your friend list helps us make your experience more social because it lets you find your friends on our website. Your User ID helps us personalize your experience because it can connect your account on our website with your Facebook account, and it can access your _public information_. This includes the information you choose to make public, as well as information that is always publicly available. If the application needs additional information, it will have to ask you for specific permission.  
 
