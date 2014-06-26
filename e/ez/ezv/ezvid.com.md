@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029215318id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040017id_/http%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
 
 # www.ezvid.com | Privacy Policy
 
@@ -34,9 +34,6 @@ We use third-party advertising companies to serve ads and collect information wh
 
 **ONLINE PRIVACY POLICY**  
 This online privacy policy applies only to information collected through our website and not to information provided offline. By using our site, you consent to our website’s privacy policy. We reserve the right to make changes to this policy at any time, in which instance such changes will be reflected on this page. It is the responsibility of the site visitor to review the current privacy policy on the date of site engagement.
-
-**THIRD PARTY INSTALLER**  
-Ezvid is monetized via an installation platform provided by a third party. See [here](http://www.ezvid.com/?p=6690). During the installation process, certain anonymous technical information may gathered from your computer. Some of the technical information that may be collected or received includes: Your manner of connecting to the Internet, such as the type of browser you are using, operating system and domain name of your Internet Service Provider; entries in your Windows Registry, and default browser settings. This information is not shared with Ezvid, its use is controlled solely by our our third party platform provider. The third party platform provider uses this anonymous information in order to optimize the offers that you may see during Ezvid’s installation process. You are under no obligation to accept any of these offers, and successful installation and use of Ezvid does not require acceptance of these offers.
 
 **CONTACT**  
 If there are any questions regarding this privacy policy, please contact us:
