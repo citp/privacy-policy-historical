@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thirstiesbaby.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000117id_/http%3A//www.thirstiesbaby.com/customer-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirstiesbaby.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040357id_/http%3A//www.thirstiesbaby.com/customer-center/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | Thirsties Modern Cloth Diapers!!
 
 ### Privacy Policy
 
-This privacy policy of Thirsties, Inc. ("Thirsties") describes the privacy practices for Thirsties (the "Privacy Policy").  The purpose of this Privacy Policy is to inform you about the types of information we gather about you, including information gathered when you visit a Thirsties website (the "Site"), located at [www.thirstiesbaby.com](http://www.thirstiesbaby.com/), [www.thirstiesoutlet.com](http://www.thirstiesoutlet.com/), or [www.thirstieswholesale.com](http://www.thirstieswholesale.com/), and information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  Thirsties strives to help visitors of the Site protect their privacy while using our Site.  By using the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
+This privacy policy of Thirsties, Inc. ("Thirsties") describes the privacy practices for Thirsties (the "Privacy Policy").  The purpose of this Privacy Policy is to inform you about the types of information we gather about you, including information gathered when you visit a Thirsties website (the "Site"), located at [www.thirstiesbaby.com](https://www.thirstiesbaby.com/), [www.thirstiesoutlet.com](http://www.thirstiesoutlet.com/), or [www.thirstieswholesale.com](http://www.thirstieswholesale.com/), and information we may receive from third parties or affiliates, how we may use that information, whether we disclose that information to anyone, and the choices you have regarding our use of, and your ability to correct, the information.  Thirsties strives to help visitors of the Site protect their privacy while using our Site.  By using the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
 
 **How We Collect and Use Information**
 
@@ -33,7 +33,7 @@ Thirsties also may disclose an individual's personal information:
   * to a person who in the reasonable judgment of Thirsties is seeking the information as an agent of the individual; 
   * in situations where sharing or disclosing your information is required in order to offer you products or services you desire; 
   * to a third party or parties, where disclosure is required or permitted by law; 
-  * if, in the reasonable judgment of Thirsties, it is necessary enforce compliance with our internal policies or the [Terms of Use](http://www.thirstiesbaby.com/customer-center/terms-of-use) or to protect our Site, customers, or others; and
+  * if, in the reasonable judgment of Thirsties, it is necessary enforce compliance with our internal policies or the [Terms of Use](https://www.thirstiesbaby.com/customer-center/terms-of-use) or to protect our Site, customers, or others; and
   * to any other entity that acquires all or a portion of our organization by merger, reorganization, operation of law, or a sale of some or all of Thirsties’ assets.
 
 
