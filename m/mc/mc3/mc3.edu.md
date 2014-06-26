@@ -1,9 +1,5 @@
-> *The following text is extracted and transformed from the mc3.edu privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614090813id_/http%3A//www.mc3.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc3.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035918id_/http%3A//mc3.edu/privacy-statement) for the most accurate reproduction.*
 
-# MCCC :: Privacy Statement
-
-[Home](https://web.archive.org/)  >  Privacy Statement  
-
-### Privacy Statement
+# MCCC :: - Privacy Statement
 
 In the course of using this web site, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a web form) to request information, you may sign up for a mailing list, or you may send us your address so we may send you an application or other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. Each web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page with questions or concerns on the use of personally identifiable information.
