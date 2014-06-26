@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122161213id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154159id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Adam's Dog Training & Dog Behavior
+# Privacy Policy
 
 We are strongly committed to safeguarding subscribers’ privacy on this web site.
 
