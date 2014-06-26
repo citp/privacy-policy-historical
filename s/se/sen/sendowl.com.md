@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendowl.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028113634id_/http%3A//www.sendowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendowl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131602id_/http%3A//www.sendowl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SendOwl
 
@@ -8,7 +8,7 @@ For all visitors to our site, we collect aggregated information on pages viewed.
 
 ## Use of Data
 
-The data recorded is use to customise the layout of the page for each visitor and to help us improve the service over time. It is not shard or sold, in raw or aggregate form, unless either required by law officials (subject to our Terms and Conditions), or SendOwl is acquired or merged with another company (in which case users will be offered a "delete option" first).
+The data recorded is used to customise the layout of the page for each visitor and to help us improve the service over time. It is not shared or sold, in raw or aggregate form, unless either required by law officials (subject to our Terms and Conditions), or SendOwl is acquired or merged with another company (in which case users will be offered a "delete option" first).
 
 ## Cookies
 
@@ -20,7 +20,7 @@ SendOwl uses third party vendors and hosting partners to provide the necessary e
 
 ## Advertising
 
-We have no relationships with ad server companies
+We have no relationships with ad server companies.
 
 ## Updates
 
