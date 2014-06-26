@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206015346id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beads.us privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025531id_/http%3A//www.beads.us/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Privacy Policy and Guarantee - Beads.us
+# Privacy Policy and Guarantee - beads.us
 
-Milky Way Jewelry Ltd. ( [Beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this Milky Way Jewelry Ltd. uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
+Milky Way Jewelry Ltd. ( [beads.us](http://www.beads.us/) ) is serious about privacy. How do we do this Milky Way Jewelry Ltd. uses a secure server (128-bit SSL encryption) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records.
 
 ## What exactly does Ironclad Guarantee mean?
 
@@ -18,7 +18,7 @@ And here's all we ask Returned items must be unaltered, in original packaging an
 
 ## How we use information?
 
-Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Credit card number do not offer to Beads.us. Beads.us can not accept credit card ,If you want use credit card ,We advise you use Paypal .
+Our site uses an order form allowing you to request information, products and services. Contact information (email address, telephone number, address, etc.) is also used to get in touch with you when necessary. Credit card number do not offer to beads.us. beads.us can not accept credit card ,If you want use credit card ,We advise you use Paypal .
 
 We may use your IP address to help diagnose problems with our server and to administer our web site. Your IP address may also be used to gather broad demographic information and to recognize customer traffic patterns and site usage. This information assists us in developing the design and layout of the site. 
 
@@ -26,16 +26,16 @@ To enhance your shopping experience, our site uses cookies. Cookies are alpha-nu
 
 You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please log in to your account. You will see a number of options for maintaining your account. Select Change how often you wish to receive email offers. You'll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 00493068085344.
 
-This site may now, or in the future, contain links to other sites. Milky Way Jewelry Ltd. ( Beads.us)is not responsible for the privacy practices or content of such sites. 
+This site may now, or in the future, contain links to other sites. Milky Way Jewelry Ltd. ( beads.us)is not responsible for the privacy practices or content of such sites. 
 
 By using our web site or purchasing product from us, you agree to the collection and use of information as set forth in this privacy policy. This policy may be updated at any time. We will post any changes to our privacy policy on this page so that you are always aware of what information we collect and how we use it. 
 
-If, at any time, you have questions or concerns about Beads.us privacy policy, please feel free to email us at: sales@gets.cn or call customer service, at +010-67686888 67639955 to speak to one of our friendly Customer Service representatives.
+If, at any time, you have questions or concerns about beads.us privacy policy, please feel free to email us at: sales@gets.com or call customer service, at +010-67686888 67639955 to speak to one of our friendly Customer Service representatives.
 
 ## Popups and Spam 
 
-Beads.us does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered. 
+beads.us does not use any type of pop-up advertising on our web site. Our true feelings about this ugly advertising is that each of us should have the choice whether or not we want to view what is offered. 
 
-The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit [Beads.us](http://www.beads.us/) , you are free from aggressive advertising.
+The only pop-up messages on our web site are for help desk related issues, and these only pop-up if you request them. When you visit [beads.us](http://www.beads.us/) , you are free from aggressive advertising.
 
-Beads.us recommends safe-surfing online. To protect your computer from adware and popups, we suggest that you visit this page and begin using a safe-surfing program that is right for you. 
+beads.us recommends safe-surfing online. To protect your computer from adware and popups, we suggest that you visit this page and begin using a safe-surfing program that is right for you. 
