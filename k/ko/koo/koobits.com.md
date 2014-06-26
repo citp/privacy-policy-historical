@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007223449id_/http%3A//www.koobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koobits.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092613id_/http%3A//products.koobits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KooBits
 
 _Last modified: 20 December, 2010_
 
-At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](http://www.koobits.com/assessment-books/), [problem sums](https://web.archive.org/problemsums/) or [Singapore math worksheets](http://www.koobits.com/singapore-math/), collectively known as KooBits’ “services”. 
+At KooBits, we recognize that privacy and intellectual property rights are important to our users. This Privacy Policy applies to all products, services and websites offered by KooBits Pte Ltd or its affiliated companies, such as [top school exam papers](http://products.koobits.com/assessment-books/), [problem sums](https://web.archive.org/problemsums/) or [Singapore math worksheets](http://products.koobits.com/singapore-math/), collectively known as KooBits’ “services”. 
 
 KooBits processes personal information only for the purposes described in this Privacy Policy including:
 
@@ -77,7 +77,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](http://www.koobits.com/about-us/contact/).
+If you have any additional questions or concerns regarding this Privacy Policy, please contact us contact us at the following address, or by [email or phone](http://products.koobits.com/about-us/contact/).
 
 KooBits Pte Ltd  
 71 Ayer Rajah Crescent  
