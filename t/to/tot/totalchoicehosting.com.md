@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalchoicehosting.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811051204id_/https%3A//www.totalchoicehosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalchoicehosting.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111833id_/http%3A//www.totalchoicehosting.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy @ TCH- Server Reliablity, hosting security and access
+# Privacy Policy | Totalchoice Hosting
 
 ##  Privacy  Policy
 
@@ -34,7 +34,7 @@ We may amend this policy at any time and will always keep it posted on our websi
 
 **Contacting Us:**
 
-You may contact us at any time via our ‘[Contact Us](https://web.archive.org/web/20130811051204id_/https%3A//www.totalchoicehosting.com/contactus.html)’ page or alternatively via US MAIL:
+You may contact us at any time via our ‘[Contact Us](https://web.archive.org/web/20140626111833id_/http%3A//www.totalchoicehosting.com/contactus.html)’ page or alternatively via US MAIL:
 
 TotalChoice Hosting, Inc.  
 PO Box 518  
