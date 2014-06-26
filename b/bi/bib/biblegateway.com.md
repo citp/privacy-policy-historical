@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004438id_/http%3A//www.biblegateway.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblegateway.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005820id_/http%3A//www.biblegateway.com/legal/privacy) for the most accurate reproduction.*
 
 # BibleGateway.com - Privacy
 
