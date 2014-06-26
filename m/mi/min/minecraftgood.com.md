@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minecraftgood.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228132342id_/http%3A//minecraftgood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftgood.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626171727id_/http%3A//minecraftgood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Minecraft Download
+# Privacy Policy | Minecraft
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
