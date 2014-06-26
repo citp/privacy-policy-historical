@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211190024id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billeo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051814id_/http%3A//www.billeo.com/web/privacypolicy) for the most accurate reproduction.*
 
 # Billeo, Inc. Privacy Policy - Billeo Inc.
 
