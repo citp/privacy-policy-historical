@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111070506id_/http%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samash.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060138id_/http%3A//www.samash.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sam Ash Music 1-800-4-SAMASH
+# Privacy Policy | Sam Ash Direct
 
 Thanks for visiting our website! We fully respect your right to privacy and the need for you to have control of your personal information. We want to make this site function at a level that best serves your needs.  In certain areas of this site, we may ask you may to provide personal information to receive a catalog, make a purchase, enter a contest, or subscribe to a newsletter.
 
