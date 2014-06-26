@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the rockstargames.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128233610id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstargames.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194541id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rockstar Games
 
-  * [EN](http://www.rockstargames.com/privacy)
-  * [BR](http://www.rockstargames.com/privacy/br)
-  * [DE](http://www.rockstargames.com/privacy/de)
-  * [ES](http://www.rockstargames.com/privacy/es)
-  * [FR](http://www.rockstargames.com/privacy/fr)
-  * [IT](http://www.rockstargames.com/privacy/it)
-  * [JP](http://www.rockstargames.com/privacy/jp)
-  * [KR](http://www.rockstargames.com/privacy/kr)
-  * [MX](http://www.rockstargames.com/privacy/mx)
-  * [PL](http://www.rockstargames.com/privacy/pl)
-  * [RU](http://www.rockstargames.com/privacy/ru)
-  * [TW](http://www.rockstargames.com/privacy/tw)
-  * [NL](http://www.rockstargames.com/privacy/nl)
+  * [EN](https://web.archive.org/privacy?locale=en)
+  * [BR](https://web.archive.org/privacy?locale=br)
+  * [DE](https://web.archive.org/privacy?locale=de)
+  * [ES](https://web.archive.org/privacy?locale=es)
+  * [FR](https://web.archive.org/privacy?locale=fr)
+  * [IT](https://web.archive.org/privacy?locale=it)
+  * [JP](https://web.archive.org/privacy?locale=jp)
+  * [KR](https://web.archive.org/privacy?locale=kr)
+  * [MX](https://web.archive.org/privacy?locale=mx)
+  * [PL](https://web.archive.org/privacy?locale=pl)
+  * [RU](https://web.archive.org/privacy?locale=ru)
+  * [TW](https://web.archive.org/privacy?locale=tw)
+  * [NL](https://web.archive.org/privacy?locale=nl)
 
 
 
