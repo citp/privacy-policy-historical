@@ -1,7 +1,57 @@
-> *The following text is extracted and transformed from the fashiongrosir.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826144410id_/http%3A//fashiongrosir.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongrosir.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Fashion Grosir dot com
 
+### Categories
+
+### Sale Sale Sale
+
+  * [Fashion Obral](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/koleksi-obral.php)
+
+
+
+### House Brand
+
+  * [William](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/brand.php?id=William)
+  * [VXY](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/brand.php?id=VXY)
+  * [Koleksi Sprei](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/brand.php?id=Koleksi%20Sprei)
+  * [New You](https://web.archive.org/web/20140626063853id_/http%3A//www.fashiongrosir.com/brand.php?id=New%20You)
+
+
+
+### Customer Service
+
+### Catalog Subscription
+
+EMAIL Catalog? Type your email
+
+### Status Order
+
+### Testimony
+
+Jika Anda puas, beritahu pada teman dan kerabat Anda. Jika Anda tidak puas, beritahu kami.  
+[klik untuk email  
+](https://web.archive.org/web/20140626063853id_/http%3A//contact-us.php)  
+---  
+  
+Dear FasGro,
+
+Barang2 pesenanku udah nyampai semua ke semarang, saluuuutttt deh buat fasgro, senin baru transfer, selasa siang udah nyampe ke smg sampai tercengang ak... Pokoknya barang bagus, bungkusannya rapi, service memuaskan.
+
+Sukses selalu yah!!!
+
+Regards,
+
+_ASTI - Semarang_
+
+BaJu nya OkeY ..   
+Pelayanan nya cePat !!!   
+Thanks Fashion grosir .. smoga ada barang2 sale lagiiiii ....
+
+_Jessie, Bandung_
+
+[Testimonial Lainnya](https://web.archive.org/web/20140626063853id_/http%3A//testi.php)  
+  
 > ### -Collection and Use of Information-
 > 
 >   
