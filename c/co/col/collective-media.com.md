@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023104id_/http%3A//collective.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626203734id_/http%3A//collective.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Collective | Privacy Policy
 
-### MARCH 5, 2013
+### JANUARY 24, 2014
 
 The protection of individual privacy is critically important to us. Collective’s combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy.
 
@@ -116,15 +116,17 @@ This information may also be combined with data from other sources, and shared w
 
 Any PII you provide may be used by Collective to contact you about services or information requested by you and may be shared between our offices in the United States and the United Kingdom for this purpose. We may share this information with third parties who provide administrative services on our behalf (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials, or otherwise to protect the legal rights or legitimate interests of Collective, its affiliates, partners, and each of their respective investors, directors, officers, employees, agents and suppliers.
 
+From time to time, Collective may conduct surveys through various online methods. When participating in a survey, we may ask you to provide PII. The PII you submit in a survey may be used by Collective for research and measurement purposes,  including to measure the effectiveness of content, advertising or programs.  If you wish to contact use about surveys conducted by Collective, you can reach us by email at [surveys@collective.com](mailto:surveys@collective.com).
+
 ###### **COOKIES**
 
 A cookie is a piece of data stored on a user’s hard drive containing information about the user. We use cookies, for example, to provide information to advertisers on users’ web browsing activity. We believe this enables us and our advertiser clients to provide users with a more meaningful web experience.
 
 ###### **CHOICE**
 
-Collective is a member of the Network Advertising Initiative and the Digital Advertising Alliance (“DAA”), which are programs that provide consumer awareness and choices regarding web viewing data. As a member of these programs, we provide choice via the DAA choice tool.
+Collective is a member of the Network Advertising Initiative and the Digital Advertising Alliance (“DAA”), and adhere to their respective self-regulatory codes. The NAI and DAA administer programs that provide consumer awareness and choices regarding web viewing data. As a member of these programs, we provide choice via the DAA choice tool.
 
-Therefore, if you’d like to exercise that choice with respect to Collective or Ensemble by Collective collecting data from your browser or device in connection with tailoring ads on our network of web sites, please click here<<[www.aboutads.info/choices](http://www.aboutads.info/choices)>>. When you exercise choice, Collective and/or Ensemble by Collective will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect data from your browser or device to tailor online advertisement campaigns.
+Therefore, if you’d like to exercise that choice with respect to Collective or Ensemble by Collective collecting data from your browser or device in connection with tailoring ads on our network of web sites, [please click here www.aboutads.info/choices](http://www.aboutads.info/choices "www.aboutads.info/choices"). When you exercise choice, Collective and/or Ensemble by Collective will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect data from your browser or device to tailor online advertisement campaigns.
 
 ###### **DISABLING COOKIES**
 
@@ -151,9 +153,9 @@ This Privacy Policy may contain links to third-party sites, which are maintained
 
 ###### **SECURITY**
 
-We have reasonable security measures in place intended to protect against the loss, misuse or alteration of any Data collected. This includes, but is not limited to the use of firewalls and encryption. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
+We have reasonable security measures in place intended to help protect against the loss, misuse or alteration of any Data collected. This includes, but is not limited to the use of firewalls and encryption. However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
 
-We retain Data indefinitely provided that we have a business purpose for retaining it.
+We retain Data used for advertising purpose for up to two years from the last interaction between our cookie and your browser or device.
 
 ###### **CHANGES TO OUR PRIVACY POLICY**
 
