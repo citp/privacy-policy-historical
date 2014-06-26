@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the campaignlive.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203202619id_/http%3A//www.brandrepublic.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignlive.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163444id_/http%3A//www.campaignlive.co.uk/go/privacy) for the most accurate reproduction.*
 
-# Privacy - Brand Republic - Connecting advertising, marketing, media & PR
+# Privacy
+
+**Privacy and Data Protection**
 
 Haymarket Business Publications Limited ("Haymarket") is committed to protecting and respecting your privacy.
 
@@ -22,6 +24,7 @@ We may collect and process the following data about you:
 
 We may collect information about your computer including where available your IP address, operating system and browser type for system administration and to report aggregate information to our advertisers. These are data about our users' browsing actions and patterns and do not identify any individual.
 
+  
 For the same reason we may obtain information about your general Internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Cookies and the information contained in your IP address enable us:
 
 • to estimate our audience size and usage pattern;
@@ -36,17 +39,17 @@ You may refuse to accept cookies by activating the setting on your browser, whic
 
 Please note that our advertisers may also use cookies over which we have no control.
 
-Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office. ** **
+Following recent revisions of the Privacy and Electronic Communications (EC Directive) Regulations 2003 relating to the notification and use of cookies we are currently working towards implementing the new requirements in line with guidance provided by The Information Commissioner’s Office. 
 
 **Storage and retention of your information**
 
 We will keep your information on a secure server. The technology that we use and the security policies which we have implemented are intended to safeguard your information from unauthorised access and improper use.
 
-We will keep your information (to the extent permitted by the Act to enable us to use it for the purposes described in this Privacy Policy. ** **
+We will keep your information (to the extent permitted by the Act to enable us to use it for the purposes described in this Privacy Policy.
 
 **Transfer of Personal Data Outside of the EU**
 
-The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area where the laws on data protection are not necessarily as strong as they are within the EU. By submitting your personal data you agree to this transfer. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. ** **
+The data that we collect from you may be transferred to and stored at a destination outside the European Economic Area where the laws on data protection are not necessarily as strong as they are within the EU. By submitting your personal data you agree to this transfer. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 **Risks Involved in Transmitting Personal Data Over the Internet**
 
@@ -70,6 +73,7 @@ We may also **disclose** your information (subject in each case to the requireme
 
 We may disclose your personal information to any member of our group which means our subsidiaries, our ultimate holding company and its subsidiaries as defined in section 1159 of the Companies Act 2006 .
 
+  
 We may disclose your personal information to **third parties** :
 
 • in the event that we offer to sell any assets in which case we may disclose your personal data to the potential purchaser of such assets;
@@ -80,13 +84,13 @@ We may disclose your personal information to **third parties** :
 
 Subject to your consent we may also use your data or permit selected third parties to use your data to provide you with information about goods and services of those third parties which may be of interest to you.
 
-We do not disclose individual information to our advertisers without your consent, but we may provide third parties with aggregated, anonymised information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We would comply with our advertisers' wishes by displaying their advertisement to that target audience using the personal data we have collected from you and from others. ** **
+We do not disclose individual information to our advertisers without your consent, but we may provide third parties with aggregated, anonymised information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We would comply with our advertisers' wishes by displaying their advertisement to that target audience using the personal data we have collected from you and from others.
 
 **Your rights**
 
-You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at [unsubscribe@haymarket.com](mailto:unsubscribe@haymarket.com "unsubscribe").
+You have the right to request us not to disclose any of your personal data or information or to pass information to third parties. We will usually inform you before collecting your data if we intend to disclose your information to any third party and you can exercise that right by checking certain boxes on the forms we use to collect your data. You can also notify us by contacting us at [unsubscribe@haymarket.com](mailto:unsubscribe@haymarket.com "unsubscribe")
 
-The Site may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that Haymarket does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites. ** **
+The Site may from time to time contain links to and from partner and/or affiliate websites. If you follow a link to their sites, please note that these sites have their own privacy policy and that Haymarket does not accept any responsibility or liability for protection of personal data which you may submit to a third party's site. You are recommended to check the wording of the relevant privacy policies before you submit any personal data to those sites.
 
 **Access to information**
 
