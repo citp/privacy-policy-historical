@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129031529id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7cupsoftea.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034913id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | 7CupsOfTea.com
 
@@ -57,7 +57,7 @@ Web browser is a software program that allows a user to access, retrieve and vie
 
 ### Information that 7CupsofTea.com collects from Users requesting calls
 
-When you request a chat or call on 7CupsofTea.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information.
+When you request a chat or call on 7CupsofTea.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we may collect information about your computer, like your IP address and browser information.
 
 In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. 
 
@@ -103,7 +103,7 @@ You understand that we may not always identify paid services and communications 
 
 ### Child Protection
 
-7CupsofTea.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old. If 7CupsofTea.com learns of a user who is younger than 18, then 7CupsofTea.com, at their sole discretion, can terminate that account.
+7CupsofTea.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old, or between the ages of 13-18 years old with parental consent. If 7CupsofTea.com learns of a user who is younger than 18, or 13-18 years old without parental consent, then 7CupsofTea.com, at their sole discretion, can terminate that account.
 
 ### Consent and Changes
 
