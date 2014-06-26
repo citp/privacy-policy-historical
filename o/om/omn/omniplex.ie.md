@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniplex.ie privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204150743id_/http%3A//www.omniplex.ie/cinema/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniplex.ie privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626134141id_/http%3A//www.omniplex.ie/cinema/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Movie Listings, Trailer, Tickets, News, Book Movies - Only at Omniplex Online.
 
