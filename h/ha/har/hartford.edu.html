@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hartford.edu privacy policy that was archived on 2013-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203031807id_/http%3A//www.hartford.edu/web_privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hartford.edu privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626141619id_/http%3A//www.hartford.edu/web_privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -7,7 +7,7 @@
     
     
     
-    <meta content="5e637550893101290086b875b0b044cd" name="PageID">
+    <meta content="5e637550893101290086b875b0b044cd" name="PageID"><meta content="" name="robots">
     </head><body><div>
 
 
@@ -32,10 +32,27 @@
 <script type="text/javascript" src="/render/file.act?path=/files/js/iepngfix.js">
 </script>
 <![endif]-->
+<script>
+jQuery(document).ready(function($) {
+    var form = $('form[name="searchSites"]'),
+        radio = $('input[name="s_value"]'),
+        choice = '';
 
+    radio.change(function(e) {
+        choice = this.value;
+
+        if (choice === 'web') {
+            form.attr('action', 'http://www.hartford.edu/search-results/default.aspx');
+        } else {
+            form.attr('action', 'http://www.hartford.edu/router-cc.asp?');
+        }
+    });
+});
+</script>
+<br>
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
+// <![CDATA[
+var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-77676-1']);
   _gaq.push(['_setDomainName', 'hartford.edu']);
   _gaq.push(['_addIgnoredRef', 'admission.hartford.edu']);
@@ -52,7 +69,7 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
+// ]]>
 </script>
 
 
@@ -78,7 +95,7 @@
 <li id="ctl00_GlobalNav_rptGlobalNav_ctl03_lnkEnd"><a href="http://www.hartford.edu/selfserve/" id="ctl00_GlobalNav_rptGlobalNav_ctl03_link">Register</a></li>
 <li id="ctl00_GlobalNav_rptGlobalNav_ctl03_lnkEnd"><a href="http://www.hartford.edu/selfserve/" id="ctl00_GlobalNav_rptGlobalNav_ctl03_link">Self-Service</a></li>
 <li id="ctl00_GlobalNav_rptGlobalNav_ctl05_lnkEnd"><a href="http://www.hartford.edu/phone-directory/" id="ctl00_GlobalNav_rptGlobalNav_ctl05_link">Phone Directory</a></li>
-<li id="ctl00_GlobalNav_rptGlobalNav_ctl04_lnkEnd"><a href="http://www.hartford.edu/a_to_z/" id="ctl00_GlobalNav_rptGlobalNav_ctl04_link">A–Z</a></li>
+<li id="ctl00_GlobalNav_rptGlobalNav_ctl04_lnkEnd"><a href="http://www.hartford.edu/aboutuofh/resources/site-index.aspx" id="ctl00_GlobalNav_rptGlobalNav_ctl04_link">A–Z</a></li>
 <li class="End" id="ctl00_GlobalNav_rptGlobalNav_ctl06_lnkEnd"><a href="http://www.hartford.edu/daily" id="ctl00_GlobalNav_rptGlobalNav_ctl06_link">UNotes</a></li>
 </ul>
 <!-- End GlobalNav --></div> <!-- END GLOBALNAV --> 
@@ -88,8 +105,8 @@
 <div class="GlobalSearchConatiner">
 <div class="GlobalSearchContent">
 <div class="searchBox">
-<form action="http://www.hartford.edu/router-cc.asp?" id="searchbox" method="get">
-<div class="search"><input class="box" name="q" type="text"> <input alt="submit button" src="files/images/search_btn.gif" type="image"></div>
+<form action="/search-results/default.aspx" id="searchbox" method="get" name="searchSites"><input name="cx" type="hidden" value="011351308810148088677:qqt_jnmmj2k"> <input name="ie" type="hidden" value="UTF-8"> 
+<div class="search"><input class="box" id="q" name="q" type="text"> <input alt="submit button" id="submit" name="sa" src="files/images/search_btn.gif" type="image"></div>
 <div class="options"><input checked="checked" id="s_value_web" name="s_value" type="radio" value="web"> <label for="s_value_web">Hartford.edu</label> <input id="s_value_students" name="s_value" type="radio" value="students"> <label for="s_value_students">Email</label> <input id="s_value_facstaff" name="s_value" type="radio" value="facstaff"> <label for="s_value_facstaff">Faculty &amp; Staff</label> <input id="s_value_library" name="s_value" type="radio" value="library"> <label for="s_value_library">Library&nbsp;</label></div>
 </form>
 </div>
@@ -98,7 +115,12 @@
 <!-- End HeaderContainer |||||||||||||||||||||||||||||||||||||||| --></div>
             <!--// begin:  web alert //-->
             
-    
+    <div class="subBody" id="web-alert">
+	<h2 id="web-alert-title">
+		Library Closed
+	</h2><p>
+	The University's Mortensen Library and the Dorothy Goodwin Café are closed today (Thursday, June 26) due to water leakage from last night’s rain storm.</p>
+</div>
     
             <!--// end:  web alert //-->
             <a id="navLeftNav"></a>
@@ -235,7 +257,7 @@
         </div>
         <div class="FooterBar"><!-- Start FooterBar --><img alt="Red Impact Bar" src="files/images/bg_footer_bar.png"><!-- End FooterBar --></div>
 <div class="Footer"><!-- Start Footer ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   -->
-<div class="Line1">© 2013 University of Hartford, 200 Bloomfield Avenue, West Hartford, CT 06117 | 860.768.4100</div>
+<div class="Line1">© 2014 University of Hartford, 200 Bloomfield Avenue, West Hartford, CT 06117 | 860.768.4100</div>
 <div class="Line2"><!--a href="/aboutuofh/default" id="ctl00_FooterNav_rptFooterNav_ctl01_link">About This Site</a--><a href="web_privacy_policy.aspx" id="ctl00_FooterNav_rptFooterNav_ctl03_link" title="Web Privacy Policy">Web Privacy Policy</a> | <a href="aboutuofh/contact_us.aspx" id="ctl00_FooterNav_rptFooterNav_ctl05_link" title="contact us">Contact University of Hartford</a> | <a href="hrd/Employment.aspx" id="ctl00_FooterNav_rptFooterNav_ctl07_link">Employment Opportunities</a></div>
 <!-- End Footer ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||   --></div>
         <!-- End MainContainer -->
