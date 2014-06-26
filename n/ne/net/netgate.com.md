@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226015445id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050241id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
 
-# Privacy Statement @ Netgate
-
-## PRIVACY STATEMENT
+# Privacy Statement
 
 This is the web site of Rubicon Communications, LP, DBA Netgate® (hereafter referred to as Netgate).
 
 Our postal address is:   
-3800 Lamar Blvd  
-Suite 730-203  
-Austin, TX 78756
+7212 McNeil Drive  
+Suite 204  
+Austin, TX 78729
 
 We can be reached via:  
 e-mail: sales@netgate.com  
