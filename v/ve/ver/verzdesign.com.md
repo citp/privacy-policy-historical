@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verzdesign.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108021055id_/http%3A//www.verzdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verzdesign.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042158id_/http%3A//www.verzdesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Verz Design
 
 This privacy policy sets out how Verz Design uses and protects any information that you give Verz Design when you use this website.
 
@@ -53,6 +53,6 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [enquiry@verzdesign.com](mailto:enquiry@verzdesign.com).
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [enquiry@verzdesign.com](mailto:enquiry@verzdesign.com).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
