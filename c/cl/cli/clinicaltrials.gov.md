@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230202544id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100222id_/http%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
 # NLM Privacy Policy
 
@@ -23,7 +23,7 @@ If your electronic medical record (EMR), patient health record (PHR) or other sy
 
 ## Cookies
 
-When you visit any Web site, it may place a small text file, known as a "cookie" on your computer. The cookie allows the Web site to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) (PDF*, 1.03MB), 6/25/10, allows Federal agencies to use session and persistent cookies, defined below.
+When you visit any Web site, it may place a small text file, known as a "cookie" on your computer. The cookie allows the Web site to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) (PDF, 1.03MB), 6/25/10, allows Federal agencies to use session and persistent cookies, defined below.
 
 The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from NLM Web pages only collect information about your browser's visit to the site; they do not collect personal information about you. While visiting certain NLM sites, you may occasionally encounter a Web page that automatically employs cookies to make it easier to use the dynamic features of these Web pages.
 
@@ -67,7 +67,7 @@ The AddThis service collects non-personal data, including aggregate and summary 
 
 ### Go.USA.Gov and Bit.ly
 
-NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/policies>. The Bit.ly Privacy Policy is available at: <http://bit.ly/pages/privacy>.
+NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/policies>. The Bit.ly Privacy Policy is available at: <http://bitly.com/pages/privacy>.
 
 ### Facebook
 
@@ -99,4 +99,6 @@ If you want to subscribe to (also known as "Follow") the NLM Twitter feeds, you 
 
 NLM staff monitor the number of subscribers (known as "Followers") and respond to their comments and queries via Twitter, but we  do not track the personal information of our Twitter followers. NLM does not collect, maintain, disclose or share any information about people who follow NLM on Twitter. The Twitter Privacy Policy is available at: <http://twitter.com/privacy>.
 
-*PDF documents require the use of the Adobe® Reader, which can be [downloaded](http://get.adobe.com/reader) from the Adobe Web site at no charge.
+### WordPress
+
+NIH uses the _WordPress.com_ blog platform to support its NIH Director’s Blog initiative along with others, enabling visitors to interact with staff regarding news and initiatives posted by NIH leaders. As a visitor to an NIH Wordpress instance, you can access the NIH.gov home page and post comments. You do not need to register, provide your name, or supply any personal information. The comments are not collected, processed, or reported in any way. However, if you provide your name or other personally identifiable information (PII), the information you provide will appear along with your feedback. Although _WordPress_ offers some analytics and usage data to NIH, these reports do not include any PII. The reports are password- protected and only available to NIH Managers, System Owners, Communications Staff, Web Teams, and other designated staff that require this information to perform their duties. The _WordPress.com_ Privacy Policy is available at <http://automattic.com/privacy/>.
