@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033531id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140759id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -16,7 +16,11 @@ Personal information you provide is used by us only for the following purposes:
 
 ## We hate junk mail too
 
-We will only email you to process your order and afterwards if you have given your consent. We will never pass on your email address or personal information to a third party.
+We will email you to process your order and afterwards to introduce you to the benefits of our loyalty programme. Only Lovehoney will use your email address. We will never pass on your email address or personal information to a third party.
+
+## You can unsubscribe at any time
+
+When you join the Lovehoney email newsletter, you can unsubscribe at any time by clicking the unsubscribe link that is at the bottom of every message that we send. Or you can send a message to our customer care department and we will unsubscribe you.
 
 ## Data protection
 
