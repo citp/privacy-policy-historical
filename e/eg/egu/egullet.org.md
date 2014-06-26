@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014212016id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111001id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eGullet Forums
 
-### Welcome to the eGullet Forums! 
+### Welcome to the eG Forums!
 
 These forums are a service of the Society for Culinary Arts & Letters, a 501c3 nonprofit organization dedicated to advancement of the culinary arts. Anyone can read the forums, however if you would like to participate in active discussions please [join the Society](http://forums.egullet.org/index.php?app=core&module=global&section=register).
 
