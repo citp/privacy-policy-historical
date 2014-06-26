@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220014927id_/http%3A//www.gossipwelove.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipwelove.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124621id_/http%3A//www.gossipwelove.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy « Gossipwelove | Your Celebrity Gossip News and Lifestyle Magazine
+# Privacy Policy | Gossipwelove | Celebrity Events Gossip News and Lifestyle Magazine
+
+This Privacy Policy governs the manner in which GWLMag collects, uses, maintains and discloses information collected from users (each, a &q...
 
 This Privacy Policy governs the manner in which GWLMag collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://gwlmag.com](http://gwlmag.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by GWLMag.
 
@@ -67,4 +69,4 @@ URL: [http://gwlmag.com](http://gwlmag.com/)
 Bronx, New York  
 shanewitter@gossipwelove.com
 
-This document was last updated on November 05, 2013
+This document was last updated on February 05, 2014
