@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212194405id_/http%3A//www.iis.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iis.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080340id_/http%3A//www.iis.net/privacy) for the most accurate reproduction.*
 
 # IIS.NET Privacy Statement : The Official Microsoft IIS Site
 
@@ -8,7 +8,7 @@ Microsoft is committed to protecting your privacy. This privacy statement applie
 
 ## Collection of Your Information
 
-We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include **_e-mail address, location, occupation, interests, birth date, web address, blog address, instant messenger address, Twitter username, bio, and password for the site_**.
+We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include **_e-mail address, location, occupation, interests, web address, blog address, instant messenger address, Twitter username, bio, and password for the site_**.
 
 We may collect information about your visit to the Site. For example, we may use Web site analytics tools to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our Site, the pages you view within the Site, your browser add-ons, and your browser's width and height. Additionally, we collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
