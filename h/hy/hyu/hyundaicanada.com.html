@@ -1,136 +1,161 @@
-<!--The following is the downloaded HTML source of the hyundaicanada.com privacy policy that was archived on 2013-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130406005739id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hyundaicanada.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627013722id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_MasterHeader"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="google-site-verification" content="ohqv0x5Bk2ib9AFgAoB_-XC9UsFVBdixmfgbi45X2oE"><meta name="verify-v1" content="0OVD/BtBHEiGm89/edHkRiae6RUomMY2g/c9bitSbes="><meta name="google-site-verification" content="ifbniIIOoHB3yALyzRwfvqfrVH-s2mxWVYpVRKXjJVE"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style=""><head id="ctl00_MasterHeader"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="google-site-verification" content="ohqv0x5Bk2ib9AFgAoB_-XC9UsFVBdixmfgbi45X2oE"><meta name="verify-v1" content="0OVD/BtBHEiGm89/edHkRiae6RUomMY2g/c9bitSbes="><meta name="google-site-verification" content="ifbniIIOoHB3yALyzRwfvqfrVH-s2mxWVYpVRKXjJVE"><title>
 	Hyundai Privacy Policy
 </title>
     <!-- Loading the Style Sheets -->
     <link rel="stylesheet" type="text/css" href="../../Style/corp1.css"><link id="ctl00_cssMenu" rel="stylesheet" type="text/css" href="../../Style/menu.css"><link rel="stylesheet" type="text/css" href="../../Style/specialoffer.css">
+
     <!-- Loading the Java Scripts -->
-    <script type="text/javascript" src="../../include/javascript/jquerymini.js"></script>
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="../../include/javascript/jquerymini.js"></script>
     <script type="text/javascript" src="../../include/javascript/common.js"></script>
-
     <script src="../../include/javascript/Showroom.js" type="text/javascript"></script>
-
     <script src="../../include/javascript/flashobject.js" type="text/javascript"></script>
+
+    <!-- Slider -->
+    <link href="../../Style/slider.css" rel="stylesheet">
+    <script src="../../include/javascript/slidercore.js" type="text/javascript"></script>
+    <script src="../../include/javascript/Modernizer.js" type="text/javascript"></script>
+   
+
 
     <!-- Loading the shortcut Icon -->
     <link rel="shortcut icon" href="../../images/Design/favicon.ico">
-    <!-- These are not comments and should not be removed. Loading the css for IE6 if required -->
+    <!-- These are not comments and should not be removed. Loading the css for IE6 if require   d -->
     <!--[if lte IE 6]>
     <link href="../../Style/ie6.css" rel="stylesheet" type="text/css" /> 
     <![endif]-->
+    <!--[if IE 8 ]>    <html lang="en" class="ie8">    <![endif]-->
     <!-- Page Based Java Script -->
 
     <script type="text/javascript">
-       
-    function open_new_window(url)
-    { 
-        new_window = window.open(url,'window_name','toolbar=0,menubar=0,resizable=0,scrollbars=1,dependent=0,status=0,width=780,height=400,left=25,top=25')
-    }
-    
-    
-     function drop(id) 
-     {
-	    if (doc(id).style.display == "block") 
-	    {
-		    doc(id).style.display = "none";
-	    } 
-	    else 
-	    {
-		    doc(id).style.display = "block";
-	    }
-    }
-    
-    function doc(i) 
-    {
-	    return document.getElementById(i);
-    }
 
-    function swapcar(src) 
-    {   
-        doc('menucar').src = src;
-    }
-    
-    function changeBackground() 
-    {   
-        this.attributes = src;
-    }
+        $(window).on('load resize', function () {
+            $('.cli').width($(this).width());
 
-    function doOnLoad()
-    {
-       try
-       {
-          doContentOnLoad();
-       }
-       catch (exception)
-       {
-       }
-    }
-    
-    
-     function popup() 
-    {   
-         $('#sign_up').lightbox_me({
-        centered: true, 
-        onLoad: function() { 
-            $('#sign_up').find('input:first').focus()
-            }
         });
-   
-    }
-    
+
+        $(document).ready(function () {
+            clickSubMenu('see_all');
+        });
+
+        //$(document).ready(function () {
+        //    $('.bxslider').bxSlider();
+        //});
+
+        function open_new_window(url) {
+            new_window = window.open(url, 'window_name', 'toolbar=0,menubar=0,resizable=0,scrollbars=1,dependent=0,status=0,width=780,height=400,left=25,top=25')
+        }
+
+
+        function drop(id) {
+            if (doc(id).style.display == "block") {
+                doc(id).style.display = "none";
+            }
+            else {
+                doc(id).style.display = "block";
+            }
+        }
+
+        function doc(i) {
+            return document.getElementById(i);
+        }
+
+        function swapcar(src) {
+            doc('menucar').src = src;
+        }
+
+        function changeBackground() {
+            this.attributes = src;
+        }
+
+        function doOnLoad() {
+            try {
+                doContentOnLoad();
+            }
+            catch (exception) {
+            }
+        }
+
+
+        function popup() {
+            $('#sign_up').lightbox_me({
+                centered: true,
+                onLoad: function () {
+                    $('#sign_up').find('input:first').focus()
+                }
+            });
+
+        }
+
     </script>
 
     
 
     <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-5153661-1");
-    pageTracker._setDomainName(".hyundaicanada.com");
-    pageTracker._setAllowLinker(true);
-    pageTracker._trackPageview();
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36951347-1']);
+        _gaq.push(['_setDomainName', 'hyundaicanada.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
     </script>
 
-<meta name="keywords" content="Hyundai Privacy Policy"><meta name="description" content="Hyundai Privacy Policy"><meta name="date" content="2013-04-05" scheme="YYYY-MM-DD"></head>
-<body id="bd" onload="doOnLoad()">
+
+    
+    <script type="text/javascript" src="http://o2.eyereturn.com/?site=1858&amp;page=generic"></script>
+    
+  
+
+<meta name="keywords" content="Hyundai Privacy Policy"><meta name="description" content="Hyundai Privacy Policy"><meta name="date" content="2014-06-26" scheme="YYYY-MM-DD"></head>
+<body id="bd" onload="doOnLoad()" style="">
+
     <script>
-var versaTag = {};
-versaTag.id = "66";
-versaTag.sync = 0;
-versaTag.dispType = "js";
-versaTag.ptcl = "";
-versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
-versaTag.activityParams = {}; //"Param1":"[value]" , "Param2":"[value]" ,"Param3":"[value]", "Param4":"[value]"
-versaTag.retargetParams = {}; //"TagID":"[value]", "TagID":"[value]"
-versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4":"[value]","a":"[value]","b":"[value]","c":"[value]", "d":"[value]","e":"[value]","f":"[value]","g":"[value]","h":"[value]"
-</script>
-<script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
-<noscript>
-<iframe src="http://bs.serving-sys.com/BurstingPipe?cn=ot&amp;onetagid=66&amp;ns=1&amp;activityValues=$$Value=[Revenue]&amp;OrderID=[OrderID]&amp;ProductID=[ProductID]&amp;ProductInfo=[ProductInfo]&amp;Quantity=[Quantity]$$" style="display:none;width:0px;height:0px"></iframe>
-</noscript>
+        var versaTag = {};
+        versaTag.id = "66";
+        versaTag.sync = 0;
+        versaTag.dispType = "js";
+        versaTag.ptcl = "";
+        versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe";
+        versaTag.activityParams = {}; //"Param1":"[value]" , "Param2":"[value]" ,"Param3":"[value]", "Param4":"[value]"
+        versaTag.retargetParams = {}; //"TagID":"[value]", "TagID":"[value]"
+        versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4":"[value]","a":"[value]","b":"[value]","c":"[value]", "d":"[value]","e":"[value]","f":"[value]","g":"[value]","h":"[value]"
+    </script>
 
-    <form name="aspnetForm" method="post" action="/Pages/About/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDYxMDI0ODYPFgYeEkJhbm5lckltYWdlQWx0VGV4dGUeEUltYWdlTG9nZ29BbHRUZXh0ZR4QU2lkZUltYWdlQWx0VGV4dGUWAmYPZBYEAgEPZBYCAggPFgIeBGhyZWYFFC4uLy4uL1N0eWxlL21lbnUuY3NzZAIDD2QWBgIDDxAPFggeDEF1dG9Qb3N0QmFja2ceDURhdGFUZXh0RmllbGQFCVNob3J0TmFtZR4ORGF0YVZhbHVlRmllbGQFCVNob3J0TmFtZR4LXyFEYXRhQm91bmRnZBAVCgJBQgJCQwJNQgJOQgJOTAJOUwJPTgJQRQJRQwJTSxUKAkFCAkJDAk1CAk5CAk5MAk5TAk9OAlBFAlFDAlNLFCsDCmdnZ2dnZ2dnZ2cWAQIGZAIEDw8WAh4EVGV4dAUCRlIWAh4Hb25jbGljawUPQ2hhbmdMYW5ndWFnZSgpZAIHD2QWCAIDD2QWAgIBD2QWAmYPFgIeBXN0eWxlBVRiYWNrZ3JvdW5kOiB1cmwoLi4vLi4vaW1hZ2VzL0Rlc2lnbi9sb2NhdGVkZWFsZXJfYmcuZ2lmKSAjZTZlNmU2IHRvcCBsZWZ0IG5vLXJlcGVhdDsWBgIFDw8WAh4MRXJyb3JNZXNzYWdlBQoqIFJlcXVpcmVkZGQCCQ9kFgJmD2QWAgIBD2QWAgIBDw8WAh8IBQ9EZWFsZXJzIExvY2F0ZWRkZAILDxYEHwMFLX4vUGFnZXMvU2hvcHBpbmdUb29scy9zdGVwMV9sb2NhdGVkZWFsZXIuYXNweB4JaW5uZXJodG1sBQ9BZHZhbmNlZCBTZWFyY2hkAgcPZBYCZg8WAh4HVmlzaWJsZWcWAmYPFgIfDWhkAgkPFgIfDWdkAgsPFgIfDWhkZOny02SeGABd0iWgwHX8RjwkmG9c">
+    <script id="ebOneTagUrlId" src="http://ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
+
+    <noscript>
+        <iframe src="http://bs.serving-sys.com/BurstingPipe?cn=ot&amp;onetagid=66&amp;ns=1&amp;activityValues=$$Value=[Revenue]&amp;OrderID=[OrderID]&amp;ProductID=[ProductID]&amp;ProductInfo=[ProductInfo]&amp;Quantity=[Quantity]$$"
+            style="display: none; width: 0px; height: 0px"></iframe>
+    </noscript>
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDYxMDI0ODYPFgYeEkJhbm5lckltYWdlQWx0VGV4dGUeEUltYWdlTG9nZ29BbHRUZXh0ZR4QU2lkZUltYWdlQWx0VGV4dGUWAmYPZBYEAgEPZBYCAggPFgIeBGhyZWYFFC4uLy4uL1N0eWxlL21lbnUuY3NzZAIDD2QWFgICDxAPFggeDEF1dG9Qb3N0QmFja2ceDURhdGFUZXh0RmllbGQFCVNob3J0TmFtZR4ORGF0YVZhbHVlRmllbGQFCVNob3J0TmFtZR4LXyFEYXRhQm91bmRnZBAVCgJBQgJCQwJNQgJOQgJOTAJOUwJPTgJQRQJRQwJTSxUKAkFCAkJDAk1CAk5CAk5MAk5TAk9OAlBFAlFDAlNLFCsDCmdnZ2dnZ2dnZ2cWAQIGZAIDDw8WAh4EVGV4dAUJRlJBTsOHQUlTFgIeB29uY2xpY2sFD0NoYW5nTGFuZ3VhZ2UoKWQCBQ8WAh4JaW5uZXJodG1sBewQPGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9YWNjZW50JyB0aXRsZT0nQWNjZW50Jz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdBY2NlbnQnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9BY2NlbnQucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkFjY2VudDwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxMyw4OTkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9YWNjZW50IHNlZGFuJyB0aXRsZT0nQWNjZW50IFNlZGFuJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdBY2NlbnQgU2VkYW4nIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9BY2NlbnRfU2VkYW4ucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkFjY2VudCBTZWRhbjwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxMyw1NDkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9ZWxhbnRyYScgdGl0bGU9J0VsYW50cmEnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J0VsYW50cmEnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9FbGFudHJhLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5FbGFudHJhPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDE1LDk5OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1lbGFudHJhIGd0JyB0aXRsZT0nRWxhbnRyYSBHVCc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nRWxhbnRyYSBHVCcgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvbWVkaXVtL2NvbG91cmVkL0VsYW50cmFfR1QucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkVsYW50cmEgR1Q8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMTgsNDQ5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPWVsYW50cmEgY291cGUnIHRpdGxlPSdFbGFudHJhIENvdXBlJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdFbGFudHJhIENvdXBlJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvRWxhbnRyYV9Db3VwZS5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+RWxhbnRyYSBDb3VwZTwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxOCw5OTkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9dmVsb3N0ZXInIHRpdGxlPSdWZWxvc3Rlcic+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nVmVsb3N0ZXInIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9WZWxvc3Rlci5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+VmVsb3N0ZXI8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMTksODQ5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXZlbG9zdGVyIHR1cmJvJyB0aXRsZT0nVmVsb3N0ZXIgVHVyYm8nPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1ZlbG9zdGVyIFR1cmJvJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvVmVsb3N0ZXJfVHVyYm8ucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPlZlbG9zdGVyIFR1cmJvPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDI2LDc0OS4wMDwvc3Bhbj48L2E+PC9saT5kAgYPFgIfCgWcBzxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNvbmF0YScgdGl0bGU9J1NvbmF0YSc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nU29uYXRhJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvU29uYXRhLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5Tb25hdGE8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMjMsOTk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNvbmF0YSBoeWJyaWQnIHRpdGxlPSdTb25hdGEgSHlicmlkJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdTb25hdGEgSHlicmlkJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvU29uYXRhX0h5YnJpZC5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+U29uYXRhIEh5YnJpZDwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQyOCwyNDkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9c29uYXRhIDIuMHQnIHRpdGxlPSdTb25hdGEgMi4wVCc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nU29uYXRhIDIuMFQnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxMy9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9Tb25hdGFfMi4wVC5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+U29uYXRhIDIuMFQ8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMzEsNzk5LjAwPC9zcGFuPjwvYT48L2xpPmQCBw8WAh8KBYMHPGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9Z2VuZXNpcyBjb3VwZScgdGl0bGU9J0dlbmVzaXMgQ291cGUnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J0dlbmVzaXMgQ291cGUnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL21lZGl1bS9jb2xvdXJlZC9HZW5lc2lzX0NvdXBlLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5HZW5lc2lzIENvdXBlPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDI2LDY5OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1nZW5lc2lzJyB0aXRsZT0nR2VuZXNpcyc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nR2VuZXNpcycgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE1L1RodW1ibmFpbHMvbWVkaXVtL2NvbG91cmVkL0dlbmVzaXMucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkdlbmVzaXM8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkNDMsMDAwLjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPWVxdXVzJyB0aXRsZT0nRXF1dXMnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J0VxdXVzJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvRXF1dXMucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkVxdXVzPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDY0LDc5OS4wMDwvc3Bhbj48L2E+PC9saT5kAggPFgIfCgWhBzxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXR1Y3NvbicgdGl0bGU9J1R1Y3Nvbic+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nVHVjc29uJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvVHVjc29uLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5UdWNzb248L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMjEsNDk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNhbnRhIGZlIHNwb3J0JyB0aXRsZT0nU2FudGEgRmUgU3BvcnQnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1NhbnRhIEZlIFNwb3J0JyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9tZWRpdW0vY29sb3VyZWQvU2FudGFfRmVfU3BvcnQucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPlNhbnRhIEZlIFNwb3J0PC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDI2LDc5OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1zYW50YSBmZSB4bCcgdGl0bGU9J1NhbnRhIEZlIFhMJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdTYW50YSBGZSBYTCcgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvbWVkaXVtL2NvbG91cmVkL1NhbnRhX0ZlX1hMLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5TYW50YSBGZSBYTDwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQzMSwwOTkuMDA8L3NwYW4+PC9hPjwvbGk+ZAIJDxYCHwoF5RA8bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1hY2NlbnQnIHRpdGxlPSdBY2NlbnQnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J0FjY2VudCcgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvQWNjZW50LnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5BY2NlbnQ8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMTMsODk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPWFjY2VudCBzZWRhbicgdGl0bGU9J0FjY2VudCBTZWRhbic+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nQWNjZW50IFNlZGFuJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9BY2NlbnRfU2VkYW4ucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkFjY2VudCBTZWRhbjwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxMyw1NDkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9ZWxhbnRyYScgdGl0bGU9J0VsYW50cmEnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J0VsYW50cmEnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL3NtYWxsL2NvbG91cmVkL0VsYW50cmEucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPkVsYW50cmE8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMTUsOTk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPWVsYW50cmEgZ3QnIHRpdGxlPSdFbGFudHJhIEdUJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdFbGFudHJhIEdUJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9FbGFudHJhX0dULnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5FbGFudHJhIEdUPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDE4LDQ0OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1lbGFudHJhIGNvdXBlJyB0aXRsZT0nRWxhbnRyYSBDb3VwZSc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nRWxhbnRyYSBDb3VwZScgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvRWxhbnRyYV9Db3VwZS5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+RWxhbnRyYSBDb3VwZTwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxOCw5OTkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9dmVsb3N0ZXInIHRpdGxlPSdWZWxvc3Rlcic+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nVmVsb3N0ZXInIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL3NtYWxsL2NvbG91cmVkL1ZlbG9zdGVyLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5WZWxvc3Rlcjwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQxOSw4NDkuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9dmVsb3N0ZXIgdHVyYm8nIHRpdGxlPSdWZWxvc3RlciBUdXJibyc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nVmVsb3N0ZXIgVHVyYm8nIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL3NtYWxsL2NvbG91cmVkL1ZlbG9zdGVyX1R1cmJvLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5WZWxvc3RlciBUdXJibzwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQyNiw3NDkuMDA8L3NwYW4+PC9hPjwvbGk+ZAIKDxYCHwoFmQc8bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1zb25hdGEnIHRpdGxlPSdTb25hdGEnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1NvbmF0YScgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvU29uYXRhLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5Tb25hdGE8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMjMsOTk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNvbmF0YSBoeWJyaWQnIHRpdGxlPSdTb25hdGEgSHlicmlkJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdTb25hdGEgSHlicmlkJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9Tb25hdGFfSHlicmlkLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5Tb25hdGEgSHlicmlkPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDI4LDI0OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1zb25hdGEgMi4wdCcgdGl0bGU9J1NvbmF0YSAyLjBUJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdTb25hdGEgMi4wVCcgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDEzL1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvU29uYXRhXzIuMFQucG5nJyAvPjwvc3Bhbj48c3BhbiBjbGFzcz0nbW9kZWwnPlNvbmF0YSAyLjBUPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDMxLDc5OS4wMDwvc3Bhbj48L2E+PC9saT5kAgsPFgIfCgWABzxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPWdlbmVzaXMgY291cGUnIHRpdGxlPSdHZW5lc2lzIENvdXBlJz48c3BhbiBjbGFzcz0ndGh1bWInPjxpbWcgYWx0PSdHZW5lc2lzIENvdXBlJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9HZW5lc2lzX0NvdXBlLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5HZW5lc2lzIENvdXBlPC9zcGFuPjxzcGFuIGNsYXNzPSdwcmljaW5nJz4NCiAgICAgICBmcm9tDQogICAgICAgJDI2LDY5OS4wMDwvc3Bhbj48L2E+PC9saT48bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD1nZW5lc2lzJyB0aXRsZT0nR2VuZXNpcyc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nR2VuZXNpcycgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE1L1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvR2VuZXNpcy5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+R2VuZXNpczwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQ0MywwMDAuMDA8L3NwYW4+PC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy4uL3Nob3dyb29tL3Nob3dyb29tLmFzcHg/bW9kZWw9ZXF1dXMnIHRpdGxlPSdFcXV1cyc+PHNwYW4gY2xhc3M9J3RodW1iJz48aW1nIGFsdD0nRXF1dXMnIHNyYz0nLi4vLi4vY29udGVudC9Bc3NldHMvMjAxNC9UaHVtYm5haWxzL3NtYWxsL2NvbG91cmVkL0VxdXVzLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5FcXV1czwvc3Bhbj48c3BhbiBjbGFzcz0ncHJpY2luZyc+DQogICAgICAgZnJvbQ0KICAgICAgICQ2NCw3OTkuMDA8L3NwYW4+PC9hPjwvbGk+ZAIMDxYCHwoFngc8bGk+PGEgaHJlZj0nLi4vc2hvd3Jvb20vc2hvd3Jvb20uYXNweD9tb2RlbD10dWNzb24nIHRpdGxlPSdUdWNzb24nPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1R1Y3Nvbicgc3JjPScuLi8uLi9jb250ZW50L0Fzc2V0cy8yMDE0L1RodW1ibmFpbHMvc21hbGwvY29sb3VyZWQvVHVjc29uLnBuZycgLz48L3NwYW4+PHNwYW4gY2xhc3M9J21vZGVsJz5UdWNzb248L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMjEsNDk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNhbnRhIGZlIHNwb3J0JyB0aXRsZT0nU2FudGEgRmUgU3BvcnQnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1NhbnRhIEZlIFNwb3J0JyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9TYW50YV9GZV9TcG9ydC5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+U2FudGEgRmUgU3BvcnQ8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMjYsNzk5LjAwPC9zcGFuPjwvYT48L2xpPjxsaT48YSBocmVmPScuLi9zaG93cm9vbS9zaG93cm9vbS5hc3B4P21vZGVsPXNhbnRhIGZlIHhsJyB0aXRsZT0nU2FudGEgRmUgWEwnPjxzcGFuIGNsYXNzPSd0aHVtYic+PGltZyBhbHQ9J1NhbnRhIEZlIFhMJyBzcmM9Jy4uLy4uL2NvbnRlbnQvQXNzZXRzLzIwMTQvVGh1bWJuYWlscy9zbWFsbC9jb2xvdXJlZC9TYW50YV9GZV9YTC5wbmcnIC8+PC9zcGFuPjxzcGFuIGNsYXNzPSdtb2RlbCc+U2FudGEgRmUgWEw8L3NwYW4+PHNwYW4gY2xhc3M9J3ByaWNpbmcnPg0KICAgICAgIGZyb20NCiAgICAgICAkMzEsMDk5LjAwPC9zcGFuPjwvYT48L2xpPmQCDw9kFggCAw9kFgICAQ9kFgJmDxYCHgVzdHlsZQVUYmFja2dyb3VuZDogdXJsKC4uLy4uL2ltYWdlcy9EZXNpZ24vbG9jYXRlZGVhbGVyX2JnLmdpZikgI2U2ZTZlNiB0b3AgbGVmdCBuby1yZXBlYXQ7FgYCBQ8PFgIeDEVycm9yTWVzc2FnZQUKKiBSZXF1aXJlZGRkAgkPZBYCZg9kFgICAQ9kFgICAQ8PFgIfCAUPRGVhbGVycyBMb2NhdGVkZGQCCw8WBB8DBS1+L1BhZ2VzL1Nob3BwaW5nVG9vbHMvc3RlcDFfbG9jYXRlZGVhbGVyLmFzcHgfCgUPQWR2YW5jZWQgU2VhcmNoZAIHD2QWAmYPFgIeB1Zpc2libGVnFgJmDxYCHw1oZAIJDxYCHw1nZAILDxYCHw1oZGTLEOlEUyfNcPtAKzn8UdCzMqLUVh9bar57ZdtIkfB0hA==">
 
 
-<script src="/ScriptResource.axd?d=hRDliiKcJG63XKh6O64T0SZY9xT8-mw4HZmxLxZP_tbaeJquUE787Qgs1_igms8-b8JO07So3cONQ63FkQup0HQ0wIMbObXC6BkVCKNWhH5RjHXQEwnVtFh25L02n2SWry2fOPSZKvr5E0k2V5s7Zw0KE6uJP5dUiWpWb638Eqn_EETD0&amp;t=633575103315278946" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5epNCbw-04crhtMGU06rYAhitOJPVMDL4H--AvHsCLkWDqFbS0INoV2EKGwMIWDCsvAAOJoLMr5OY8KmJMSp7nP9-xwBga-9CIeH5CvTRxsQuiNyxeIZUp7hUc-cy7B6sLzm1a5c-cRkObtT75zzdFqs8n4DW8bZhxXXwcMqMd41&amp;t=4fd3f051" type="text/javascript"></script>
 <script src="../../WebServices/AutoComplete.asmx/js" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgLthO+bCgKqzM/QDQKrzPPQDQKWzM/QDQKXzM/QDQKXzNfQDQKXzLPQDQKUzN/QDQKFzPvQDQKazPPQDQKYzNPQDQKVqc2VBQL0ydOFCgK0z/ynDo6KvVjFzVlJDzbWuwOawosJYYrD">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgLw8+GvDgKqzM/QDQKrzPPQDQKWzM/QDQKXzM/QDQKXzNfQDQKXzLPQDQKUzN/QDQKFzPvQDQKazPPQDQKYzNPQDQKVqc2VBQL0ydOFCgK0z/ynDkWWtjrVJNgQ1D2MRF0c67kvO1YsThGLQWyI4BV4twLy">
         
         
-        <div class="wrapper" id="container">
-            <div class="header">
-                <a href="../../Default.aspx" id="ctl00_anchorLoggo">
-                    <img src="../../images/Design/logo.gif" alt="Hyundai Auto Canada – New Affordable Vehicles" title="Hyundai Auto Canada – New Affordable Vehicles" id="logo" style="margin-left: 20px;"></a>
-                <div class="selectors">
-                    <div>
-                        Choose Province
-                        <select name="ctl00$DDList_province" id="ctl00_DDList_province">
+        <div id="page">
+            <div class="hwrapper">
+                <div class="header">
+
+                    <div class="social">
+                        <ul style="float: right;">
+                            <li class="chooseprovince">
+                                Province
+                            </li>
+                            <li class="provinceselector">
+                                <label class="selprovlabel">
+                                    <select name="ctl00$DDList_province" id="ctl00_DDList_province" class="selectProvince">
 	<option value="AB">AB</option>
 	<option value="BC">BC</option>
 	<option value="MB">MB</option>
@@ -143,154 +168,345 @@ versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4"
 	<option value="SK">SK</option>
 
 </select>
-                        <a id="anchorLanguage" href="http://fr.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx">
-                            FR
-                        </a>
-                        
-                        <img src="../../images/Design/leaf.gif" alt="Canadian Flag">
+                                </label>
+
+                            </li>
+                            <li class="chooselanguage">
+                                <a id="anchorLanguage" href="http://www.hyundaicanada.com/fr/pages/about/PrivacyPolicy.aspx">
+                                    FRANÇAIS
+                                </a>
+                                
+                            </li>
+                        </ul>
+                        <ul style="float: right;">
+                            <li class="follow">Follow us on</li>
+                            <li class="facebook"><a href="http://www.facebook.com/HyundaiCanada" target="_blank" onclick="">
+                                <img src="../../images/New/btn_top_f.gif" alt="facebook" width="18px;" title="Facebook"></a></li>
+                            <li class="twitter"><a href="https://twitter.com/hyundaicanada" target="_blank" onclick="">
+                                <img src="../../images/New/Twitter_logo_blue.png" alt="facebook" width="18px;" title="Twitter"></a></li>
+                            <li class="youtube"><a href="http://www.youtube.com/user/HyundaiCanada" target="_blank" onclick="">
+                                <img src="../../images/New/btn_top_youtobe.png" alt="youtube" width="18px;" title="Youtube"></a></li>
+                            <li class="google"><a target="_blank" href=" https://plus.google.com/+HyundaiCanada" onclick="">
+                                <img alt="googleplus" src="../../images/New/btn_top_google.png" width="18px;" title="Google Plus"></a></li>
+                            <li class="Instagram last"><a target="_blank" href="http://instagram.com/hyundaicanada/" onclick="">
+                                <img alt="Instagram" src="../../images/New/Instagram.png" width="18px;" title="Instagram"></a></li>
+                        </ul>
+                        <div style="display: none">
+                            <input id="Text_langLinkID" type="text" value="ctl00_LinkBtn_language"><br>
+                            <input id="Text_langValueID" type="text" value="ctl00_Text_langValue">
+                            <input name="ctl00$Text_langValue" type="text" id="ctl00_Text_langValue">
+                        </div>
+
                     </div>
-                    <!-- This div contains hidden controls for retrieving information from client.
-                    should have used hidden field -->
-                    <div style="display: none">
-                        <input id="Text_langLinkID" type="text" value="ctl00_LinkBtn_language"><br>
-                        <input id="Text_langValueID" type="text" value="ctl00_Text_langValue">
-                        <input name="ctl00$Text_langValue" type="text" id="ctl00_Text_langValue">
+                    <div class="clear"></div>
+                    <div class="navigation">
+                        <div class="logo"><a href="../../Default.aspx" title="Home"></a></div>
+                        <ul class="oneDepth" id="oneDepth">
+                            <li class="livehiclelineup"><a href="#" id="mvehiclelineup" onclick="clickMenu('vehiclelineup');">
+        VEHICLE LINEUP
+      </a></li>
+                            <li class="lishoppingtools"><a href="#" id="mshoppingtools" onclick="clickMenu('shoppingtools');">
+        SHOPPING TOOLS
+      </a></li>
+                            <li class="liawards"><a href="Awards.aspx" id="mawards" onclick="clickMenu('awards');">
+        AWARDS
+      </a></li>
+                            <li class="licpo"><a href="http://www.hyundaicertified.ca/" id="mcpo" onclick="clickMenu('cpo');" target="_blank">
+        CERTIFIED PRE-OWNED
+      </a></li>
+                            <li class="lifad"><a href="../shoppingtools/step1_locatedealer.aspx" id="mfad" onclick="clickMenu('fad'); ">
+        FIND A DEALER
+      </a></li>
+                            <li class="libap"><a href="../buildprice/step1_models.aspx" id="mbap" onclick="clickMenu('bap'); ">
+        BUILD AND PRICE
+      </a></li>
+
+                          
+                        </ul>
+                        <div class="sGnbB gnb_layer" id="gnb_vehiclelineup">
+                            <div class="sGnbL">
+                                <div class="sGnb">
+                                    <div class="tab">
+                                        <a id="asub_see_all" class="see_all on" href="#" onclick="clickSubMenu('see_all');">
+        SEE ALL
+      </a><a href="#" class="close_showroom" onclick="clickMenu('vehiclelineup');"><img src="../../images/New/icon_x.gif" alt="X"></a>
+                                        <ul>
+                                            
+                                            <li class="cars"><a class="" href="#" onclick="clickSubMenu('showroomCompact');" id="asub_showroomCompact">
+        Compacts
+      </a></li>
+                                            <li class="midsize"><a class="" href="#" onclick="clickSubMenu('showroomMidsize');" id="asub_showroomMidsize">
+        Midsize
+      </a></li>
+                                            <li class="sport"><a class="" href="#" onclick="clickSubMenu('showroomSport');" id="asub_showroomSport">
+        Luxury / Sport
+      </a></li>
+                                            <li class="suv"><a class="" href="#" onclick="clickSubMenu('showroomCrossover');" id="asub_showroomCrossover">
+        Crossovers
+      </a></li>
+
+                                        </ul>
+
+                                    </div>
+                                    <div class="list" id="ul_list_category" style="display: none;">
+                                       
+                                        <ul id="ul_showroomCompact" class="large"><li><a href="../showroom/showroom.aspx?model=accent" title="Accent"><span class="thumb"><img alt="Accent" src="../../content/Assets/2014/Thumbnails/medium/coloured/Accent.png"></span><span class="model">Accent</span><span class="pricing">
+       from
+       $13,899.00</span></a></li><li><a href="../showroom/showroom.aspx?model=accent sedan" title="Accent Sedan"><span class="thumb"><img alt="Accent Sedan" src="../../content/Assets/2014/Thumbnails/medium/coloured/Accent_Sedan.png"></span><span class="model">Accent Sedan</span><span class="pricing">
+       from
+       $13,549.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra" title="Elantra"><span class="thumb"><img alt="Elantra" src="../../content/Assets/2014/Thumbnails/medium/coloured/Elantra.png"></span><span class="model">Elantra</span><span class="pricing">
+       from
+       $15,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra gt" title="Elantra GT"><span class="thumb"><img alt="Elantra GT" src="../../content/Assets/2014/Thumbnails/medium/coloured/Elantra_GT.png"></span><span class="model">Elantra GT</span><span class="pricing">
+       from
+       $18,449.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra coupe" title="Elantra Coupe"><span class="thumb"><img alt="Elantra Coupe" src="../../content/Assets/2014/Thumbnails/medium/coloured/Elantra_Coupe.png"></span><span class="model">Elantra Coupe</span><span class="pricing">
+       from
+       $18,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=veloster" title="Veloster"><span class="thumb"><img alt="Veloster" src="../../content/Assets/2014/Thumbnails/medium/coloured/Veloster.png"></span><span class="model">Veloster</span><span class="pricing">
+       from
+       $19,849.00</span></a></li><li><a href="../showroom/showroom.aspx?model=veloster turbo" title="Veloster Turbo"><span class="thumb"><img alt="Veloster Turbo" src="../../content/Assets/2014/Thumbnails/medium/coloured/Veloster_Turbo.png"></span><span class="model">Veloster Turbo</span><span class="pricing">
+       from
+       $26,749.00</span></a></li></ul>
+                                        <ul id="ul_showroomMidsize" class="large"><li><a href="../showroom/showroom.aspx?model=sonata" title="Sonata"><span class="thumb"><img alt="Sonata" src="../../content/Assets/2014/Thumbnails/medium/coloured/Sonata.png"></span><span class="model">Sonata</span><span class="pricing">
+       from
+       $23,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=sonata hybrid" title="Sonata Hybrid"><span class="thumb"><img alt="Sonata Hybrid" src="../../content/Assets/2014/Thumbnails/medium/coloured/Sonata_Hybrid.png"></span><span class="model">Sonata Hybrid</span><span class="pricing">
+       from
+       $28,249.00</span></a></li><li><a href="../showroom/showroom.aspx?model=sonata 2.0t" title="Sonata 2.0T"><span class="thumb"><img alt="Sonata 2.0T" src="../../content/Assets/2013/Thumbnails/medium/coloured/Sonata_2.0T.png"></span><span class="model">Sonata 2.0T</span><span class="pricing">
+       from
+       $31,799.00</span></a></li></ul>
+                                        <ul id="ul_showroomSport" class="large"><li><a href="../showroom/showroom.aspx?model=genesis coupe" title="Genesis Coupe"><span class="thumb"><img alt="Genesis Coupe" src="../../content/Assets/2014/Thumbnails/medium/coloured/Genesis_Coupe.png"></span><span class="model">Genesis Coupe</span><span class="pricing">
+       from
+       $26,699.00</span></a></li><li><a href="../showroom/showroom.aspx?model=genesis" title="Genesis"><span class="thumb"><img alt="Genesis" src="../../content/Assets/2015/Thumbnails/medium/coloured/Genesis.png"></span><span class="model">Genesis</span><span class="pricing">
+       from
+       $43,000.00</span></a></li><li><a href="../showroom/showroom.aspx?model=equus" title="Equus"><span class="thumb"><img alt="Equus" src="../../content/Assets/2014/Thumbnails/medium/coloured/Equus.png"></span><span class="model">Equus</span><span class="pricing">
+       from
+       $64,799.00</span></a></li></ul>
+                                        <ul id="ul_showroomCrossover" class="large"><li><a href="../showroom/showroom.aspx?model=tucson" title="Tucson"><span class="thumb"><img alt="Tucson" src="../../content/Assets/2014/Thumbnails/medium/coloured/Tucson.png"></span><span class="model">Tucson</span><span class="pricing">
+       from
+       $21,499.00</span></a></li><li><a href="../showroom/showroom.aspx?model=santa fe sport" title="Santa Fe Sport"><span class="thumb"><img alt="Santa Fe Sport" src="../../content/Assets/2014/Thumbnails/medium/coloured/Santa_Fe_Sport.png"></span><span class="model">Santa Fe Sport</span><span class="pricing">
+       from
+       $26,799.00</span></a></li><li><a href="../showroom/showroom.aspx?model=santa fe xl" title="Santa Fe XL"><span class="thumb"><img alt="Santa Fe XL" src="../../content/Assets/2014/Thumbnails/medium/coloured/Santa_Fe_XL.png"></span><span class="model">Santa Fe XL</span><span class="pricing">
+       from
+       $31,099.00</span></a></li></ul>
+
+
+                                    </div>
+                                    <div class="see_all" id="ul_see_all" style="display: block; width: 100%; height: auto; visibility: visible;">
+                                        <div class="showroom">
+                                            <h2 class="showTit">
+        Compacts
+      </h2>
+                                            <ul id="ul_show_all_Compact"><li><a href="../showroom/showroom.aspx?model=accent" title="Accent"><span class="thumb"><img alt="Accent" src="../../content/Assets/2014/Thumbnails/small/coloured/Accent.png"></span><span class="model">Accent</span><span class="pricing">
+       from
+       $13,899.00</span></a></li><li><a href="../showroom/showroom.aspx?model=accent sedan" title="Accent Sedan"><span class="thumb"><img alt="Accent Sedan" src="../../content/Assets/2014/Thumbnails/small/coloured/Accent_Sedan.png"></span><span class="model">Accent Sedan</span><span class="pricing">
+       from
+       $13,549.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra" title="Elantra"><span class="thumb"><img alt="Elantra" src="../../content/Assets/2014/Thumbnails/small/coloured/Elantra.png"></span><span class="model">Elantra</span><span class="pricing">
+       from
+       $15,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra gt" title="Elantra GT"><span class="thumb"><img alt="Elantra GT" src="../../content/Assets/2014/Thumbnails/small/coloured/Elantra_GT.png"></span><span class="model">Elantra GT</span><span class="pricing">
+       from
+       $18,449.00</span></a></li><li><a href="../showroom/showroom.aspx?model=elantra coupe" title="Elantra Coupe"><span class="thumb"><img alt="Elantra Coupe" src="../../content/Assets/2014/Thumbnails/small/coloured/Elantra_Coupe.png"></span><span class="model">Elantra Coupe</span><span class="pricing">
+       from
+       $18,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=veloster" title="Veloster"><span class="thumb"><img alt="Veloster" src="../../content/Assets/2014/Thumbnails/small/coloured/Veloster.png"></span><span class="model">Veloster</span><span class="pricing">
+       from
+       $19,849.00</span></a></li><li><a href="../showroom/showroom.aspx?model=veloster turbo" title="Veloster Turbo"><span class="thumb"><img alt="Veloster Turbo" src="../../content/Assets/2014/Thumbnails/small/coloured/Veloster_Turbo.png"></span><span class="model">Veloster Turbo</span><span class="pricing">
+       from
+       $26,749.00</span></a></li></ul>
+
+
+                                        </div>
+                                        <div class="showroom">
+                                            <h2 class="showTit">
+        Midsize
+      </h2>
+                                            <ul id="ul_show_all_Midsize" class="midsize"><li><a href="../showroom/showroom.aspx?model=sonata" title="Sonata"><span class="thumb"><img alt="Sonata" src="../../content/Assets/2014/Thumbnails/small/coloured/Sonata.png"></span><span class="model">Sonata</span><span class="pricing">
+       from
+       $23,999.00</span></a></li><li><a href="../showroom/showroom.aspx?model=sonata hybrid" title="Sonata Hybrid"><span class="thumb"><img alt="Sonata Hybrid" src="../../content/Assets/2014/Thumbnails/small/coloured/Sonata_Hybrid.png"></span><span class="model">Sonata Hybrid</span><span class="pricing">
+       from
+       $28,249.00</span></a></li><li><a href="../showroom/showroom.aspx?model=sonata 2.0t" title="Sonata 2.0T"><span class="thumb"><img alt="Sonata 2.0T" src="../../content/Assets/2013/Thumbnails/small/coloured/Sonata_2.0T.png"></span><span class="model">Sonata 2.0T</span><span class="pricing">
+       from
+       $31,799.00</span></a></li></ul>
+                                        </div>
+                                        <div class="showroom last">
+                                            <h2 class="showTit">
+        Luxury / Sport
+      </h2>
+                                            <ul id="ul_show_all_Sport" class="sport"><li><a href="../showroom/showroom.aspx?model=genesis coupe" title="Genesis Coupe"><span class="thumb"><img alt="Genesis Coupe" src="../../content/Assets/2014/Thumbnails/small/coloured/Genesis_Coupe.png"></span><span class="model">Genesis Coupe</span><span class="pricing">
+       from
+       $26,699.00</span></a></li><li><a href="../showroom/showroom.aspx?model=genesis" title="Genesis"><span class="thumb"><img alt="Genesis" src="../../content/Assets/2015/Thumbnails/small/coloured/Genesis.png"></span><span class="model">Genesis</span><span class="pricing">
+       from
+       $43,000.00</span></a></li><li><a href="../showroom/showroom.aspx?model=equus" title="Equus"><span class="thumb"><img alt="Equus" src="../../content/Assets/2014/Thumbnails/small/coloured/Equus.png"></span><span class="model">Equus</span><span class="pricing">
+       from
+       $64,799.00</span></a></li></ul>
+
+                                        </div>
+                                        <div class="showroom">
+                                            <h2 class="showTit">
+        Crossovers
+      </h2>
+                                            <ul id="ul_show_all_Crossover"><li><a href="../showroom/showroom.aspx?model=tucson" title="Tucson"><span class="thumb"><img alt="Tucson" src="../../content/Assets/2014/Thumbnails/small/coloured/Tucson.png"></span><span class="model">Tucson</span><span class="pricing">
+       from
+       $21,499.00</span></a></li><li><a href="../showroom/showroom.aspx?model=santa fe sport" title="Santa Fe Sport"><span class="thumb"><img alt="Santa Fe Sport" src="../../content/Assets/2014/Thumbnails/small/coloured/Santa_Fe_Sport.png"></span><span class="model">Santa Fe Sport</span><span class="pricing">
+       from
+       $26,799.00</span></a></li><li><a href="../showroom/showroom.aspx?model=santa fe xl" title="Santa Fe XL"><span class="thumb"><img alt="Santa Fe XL" src="../../content/Assets/2014/Thumbnails/small/coloured/Santa_Fe_XL.png"></span><span class="model">Santa Fe XL</span><span class="pricing">
+       from
+       $31,099.00</span></a></li></ul>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sGnbB" id="gnb_shoppingtools">
+                            <div class="sGnbL">
+                                <div class="sGnb">
+                                    <h2 class="twoTit">
+        SHOPPING TOOLS
+      </h2>
+                                    <div class="twoMenu">
+                                        <ul>
+                                            <li><a href="../SpecialOffer/SalesPromotions.aspx">
+        Special Offers
+      </a></li>
+                                            <li><a href="../buildprice/step1_models.aspx">
+        Build &amp; Price
+      </a></li>
+                                            <li><a href="../shoppingtools/step1_testdrive.aspx">
+        Test Drive
+      </a></li>
+                                            <li><a href="../shoppingtools/step1_requestquote.aspx">
+        Request a Quote
+      </a></li>
+                                            <li><a href="http://hyundaica-comp.autodatadirect.com/hyundai-compare/comparetool/Compare.jsp?locale=en_CA&amp;year=&amp;model=&amp;trim=" target="_blank">Compare</a></li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="close2">
+                                        <a href="#" onclick="clickMenu('shoppingtools')">
+                                            <img src="../../images/New/icon_x.gif" alt="X"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu" id="menu" style="height: 0px; visibility: hidden;">
+                        <ul class="main">
+                            <li id="m_vehicles" class="top" onmouseover="drop('drop_v');" onmouseout="drop('drop_v');">
+                                <a href="#">Vehicles</a>
+                                <div class="vehicles" id="drop_v">
+                                    <div class="inside">
+
+                                        <ul class="compacts">
+                                            <li id="m_compacts"><a title="compact cars" href="../economy-compact-cars.aspx">Compacts</a></li>
+                                            <li id="m_accenthatchback" onmouseover="swapcar('../../content/menurollovers/accent_hatchback.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Accent">Accent</a></li>
+                                            <li id="m_accentsedan" onmouseover="swapcar('../../content/menurollovers/accent_sedan.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Accent Sedan">Accent</a></li>
+                                            <li id="m_elantra" onmouseover="swapcar('../../content/menurollovers/elantra.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Elantra">Elantra</a></li>
+
+                                            <li id="m_elantragt" onmouseover="swapcar('../../content/menurollovers/elantra_gt.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Elantra GT">Elantra gt</a></li>
+                                            <li id="m_elantracoupe" onmouseover="swapcar('../../content/menurollovers/elantra_coupe.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Elantra Coupe">Elantra Coupe</a></li>
+                                            <li id="m_veloster" onmouseover="swapcar('../../content/menurollovers/veloster.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Veloster">Veloster</a></li>
+                                            <li id="m_velosterturbo" onmouseover="swapcar('../../content/menurollovers/veloster_turbo.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Veloster Turbo">Veloster Turbo</a></li>
+                                        </ul>
+                                        <ul class="sedans">
+                                            <li id="m_sedans"><a title="midsize cars" href="../midsize-cars.aspx">Sedans</a></li>
+                                            <li id="m_sonata" onmouseover="swapcar('../../content/menurollovers/sonata.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Sonata">Sonata</a></li>
+                                            <li id="m_sonata20t" onmouseover="swapcar('../../content/menurollovers/sonata_2.0T.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Sonata 2.0T">Sonata Turbo</a></li>
+                                            <li id="m_sonatahybrid" onmouseover="swapcar('../../content/menurollovers/sonata_hybrid.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Sonata Hybrid">Sonata Hybrid</a></li>
+                                        </ul>
+                                        <ul class="luxury">
+                                            <li id="m_luxury"><a title="luxury cars" href="../luxury-sports-cars.aspx">Luxury/Sport</a></li>
+
+                                            <li id="m_genesis" onmouseover="swapcar('../../content/menurollovers/genesis.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Genesis">Genesis</a></li>
+                                            <li id="m_genesiscoupe" onmouseover="swapcar('../../content/menurollovers/genesis_coupe.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Genesis Coupe">Genesis</a></li>
+                                            <li id="m_equus" onmouseover="swapcar('../../content/menurollovers/equus.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Equus">Equus</a></li>
+                                        </ul>
+                                        <ul class="crossovers">
+                                            <li id="m_crossovers"><a title="suv-crossover cars" href="../suv-crossover-minivan.aspx">Crossovers/Minivans</a></li>
+                                            <li id="m_tucson" onmouseover="swapcar('../../content/menurollovers/tucson.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Tucson">Tucson</a></li>
+                                            <li id="m_santafesport" onmouseover="swapcar('../../content/menurollovers/santafe.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Santa Fe Sport">Santa
+                                            Fe Sport</a></li>
+                                            <li id="m_santafexl" onmouseover="swapcar('../../content/menurollovers/santafexl.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Santa Fe XL">Santa Fe XL</a></li>
+                                            <li id="m_veracruz" onmouseover="swapcar('../../content/menurollovers/veracruz.gif');">
+                                                <a href="../showroom/showroom.aspx?model=Veracruz">Veracruz</a></li>
+
+                                        </ul>
+                                        <div class="carhover">
+                                            <img src="../../content/menurollovers/accent_hatchback.gif" alt="vehicle" id="menucar">
+                                        </div>
+                                        <div class="clear">
+                                        </div>
+                                        <ul class="lineup">
+                                            <li id="m_lineup"><a href="../showroom/ViewAllVehicles.aspx">Vehicle Line Up</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="bottom">
+                                    </div>
+                                </div>
+                            </li>
+                            <li id="m_bp" class="top" onmouseover="drop('drop_q');" onmouseout="drop('drop_q');">
+                                <a href="#">Shopping Tools</a>
+                                <div class="quicklinks" id="drop_q">
+                                    <div class="inside">
+                                        <ul>
+                                            <li id="q_1"><a href="../SpecialOffer/SalesPromotions.aspx">View Special Offers</a></li>
+                                            <li id="q_2"><a href="../buildprice/step1_models.aspx">Build and Price</a></li>
+                                            <li id="q_3"><a href="../shoppingtools/step1_testdrive.aspx">Schedule a Test Drive</a></li>
+                                            <li id="q_4"><a href="../shoppingtools/step1_requestquote.aspx">Request a Quote</a></li>
+                                            <li id="q_5"><a href="../shoppingtools/step1_locatedealer.aspx">Locate a Dealer</a></li>
+                                            <li id="q_6"><a href="Warranty.aspx">Warranty</a></li>
+                                        </ul>
+                                        <div class="clear">
+                                        </div>
+                                    </div>
+                                    <div class="bottom">
+                                    </div>
+                                </div>
+                            </li>
+                            <li id="m_awards" class="top"><a href="Awards.aspx">Awards</a></li>
+                            <li id="m_aboutus" class="top"><a href="Message.aspx">About Us</a></li>
+                            <li id="m_contactus" class="top"><a href="Contact.aspx">Awards</a></li>
+                            <li id="m_updateme" class="top"><a href="UpdateMe.aspx">Update Me</a></li>
+                            <li id="m_cpo" class="top"><a href="http://www.hyundaicertified.ca">Certified Pre-Owned</a></li>
+
+                            <span id="ctl00_spn_search">
+                                <li id="m_search" class="top"><a href="Search.aspx">Search</a></li>
+                            </span>
+                            <li id="m_home" class="top"><a href="../../Default.aspx">Home</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            <div class="menu" id="menu">
-                <ul class="main">
-                    <li id="m_vehicles" class="top" onmouseover="drop('drop_v');" onmouseout="drop('drop_v');">
-                        <a href="#">Vehicles</a>
-                        <div class="vehicles" id="drop_v">
-                            <div class="inside">
-                                <!--<img src="images/drop_v.gif" alt="temp image"/>-->
-                                <!-- lists and rollovers for car showroom selection -->
-                                <ul class="compacts">
-                                    <li id="m_compacts"><a title="compact cars" href="../economy-compact-cars.aspx">
-                                        Compacts</a></li>
-                                    <li id="m_accenthatchback" onmouseover="swapcar('../../content/menurollovers/accent_hatchback.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Accent">Accent</a></li>
-                                    <li id="m_accentsedan" onmouseover="swapcar('../../content/menurollovers/accent_sedan.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Accent Sedan">
-                                            Accent</a></li>
-                                    <li id="m_elantra" onmouseover="swapcar('../../content/menurollovers/elantra.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Elantra">Elantra</a></li>
-                                   
-                                    <li id="m_elantragt" onmouseover="swapcar('../../content/menurollovers/elantra_gt.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Elantra GT">
-                                            Elantra gt</a></li>
-                                    <li id="m_elantracoupe" onmouseover="swapcar('../../content/menurollovers/elantra_coupe.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Elantra Coupe">
-                                            Elantra Coupe</a></li>
-                                    <li id="m_veloster" onmouseover="swapcar('../../content/menurollovers/veloster.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Veloster">Veloster</a></li>
-                                         <li id="m_velosterturbo" onmouseover="swapcar('../../content/menurollovers/veloster_turbo.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Veloster Turbo">Veloster Turbo</a></li>
-                                </ul>
-                                <ul class="sedans">
-                                    <li id="m_sedans"><a title="midsize cars" href="../midsize-cars.aspx">
-                                        Sedans</a></li>
-                                    <li id="m_sonata" onmouseover="swapcar('../../content/menurollovers/sonata.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Sonata">Sonata</a></li>
-                                    <li id="m_sonata20t" onmouseover="swapcar('../../content/menurollovers/sonata_2.0T.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Sonata 2.0T">
-                                            Sonata Turbo</a></li>
-                                    <li id="m_sonatahybrid" onmouseover="swapcar('../../content/menurollovers/sonata_hybrid.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Sonata Hybrid">
-                                            Sonata Hybrid</a></li>
-                                </ul>
-                                <ul class="luxury">
-                                    <li id="m_luxury"><a title="luxury cars" href="../luxury-sports-cars.aspx">
-                                        Luxury/Sport</a></li>
-                                    
-                                    <li id="m_genesis" onmouseover="swapcar('../../content/menurollovers/genesis.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Genesis">Genesis</a></li>
-                                    <li id="m_genesiscoupe" onmouseover="swapcar('../../content/menurollovers/genesis_coupe.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Genesis Coupe">
-                                            Genesis</a></li>
-                                    <li id="m_equus" onmouseover="swapcar('../../content/menurollovers/equus.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Equus">Equus</a></li>
-                                </ul>
-                                <ul class="crossovers">
-                                    <li id="m_crossovers"><a title="suv-crossover cars" href="../suv-crossover-minivan.aspx">
-                                        Crossovers/Minivans</a></li>
-                                    <li id="m_tucson" onmouseover="swapcar('../../content/menurollovers/tucson.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Tucson">Tucson</a></li>
-                                    <li id="m_santafe" onmouseover="swapcar('../../content/menurollovers/santafe.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Santa Fe">Santa
-                                            Fe</a></li>
-                                             <li id="m_santafexl" onmouseover="swapcar('../../content/menurollovers/santafexl.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Santa Fe XL">Santa
-                                            Fe XL</a></li>
-                                    <li id="m_veracruz" onmouseover="swapcar('../../content/menurollovers/veracruz.gif');">
-                                        <a href="../showroom/showroom.aspx?model=Veracruz">Veracruz</a></li>
-                                    
-                                </ul>
-                                <div class="carhover">
-                                    <img src="../../content/menurollovers/accent_hatchback.gif" alt="vehicle" id="menucar"></div>
-                                <div class="clear">
-                                </div>
-                                <ul class="lineup">
-                                    <li id="m_lineup"><a href="../showroom/ViewAllVehicles.aspx">
-                                        Vehicle Line Up</a></li>
-                                </ul>
-                            </div>
-                            <div class="bottom">
-                            </div>
-                        </div>
-                    </li>
-                    <li id="m_bp" class="top" onmouseover="drop('drop_q');" onmouseout="drop('drop_q');">
-                        <a href="#">Shopping Tools</a>
-                        <div class="quicklinks" id="drop_q">
-                            <div class="inside">
-                                <ul>
-                                    <li id="q_1"><a href="../SpecialOffer/SalesPromotions.aspx">
-                                        View Special Offers</a></li>
-                                    <li id="q_2"><a href="../buildprice/step1_models.aspx">
-                                        Build and Price</a></li>
-                                    <li id="q_3"><a href="../shoppingtools/step1_testdrive.aspx">
-                                        Schedule a Test Drive</a></li>
-                                    <li id="q_4"><a href="../shoppingtools/step1_requestquote.aspx">
-                                        Request a Quote</a></li>
-                                    <li id="q_5"><a href="../shoppingtools/step1_locatedealer.aspx">
-                                        Locate a Dealer</a></li>
-                                    <li id="q_6"><a href="Warranty.aspx">Warranty</a></li>
-                                </ul>
-                                <div class="clear">
-                                </div>
-                            </div>
-                            <div class="bottom">
-                            </div>
-                        </div>
-                    </li>
-                    <li id="m_awards" class="top"><a href="Awards.aspx">
-                        Awards</a></li>
-                    <li id="m_aboutus" class="top"><a href="Message.aspx">
-                        About Us</a></li>
-                    <li id="m_contactus" class="top"><a href="Contact.aspx">
-                        Awards</a></li>
-                    <li id="m_updateme" class="top"><a href="UpdateMe.aspx">
-                        Update Me</a></li>
-                    <li id="m_cpo" class="top"><a href="http://www.hyundaicertified.ca">
-                        Certified Pre-Owned</a></li>
-                    
-                    
-                    <span id="ctl00_spn_search">
-                        <li id="m_search" class="top"><a href="Search.aspx">
-                            Search</a></li>
-                    </span>
-                    <li id="m_home" class="top"><a href="../../Default.aspx">Home</a></li>
-                </ul>
-            </div>
-            <div id="pageContent">
-                
+            <div id="ctl00_pnl_Carousel">
+	
+            
+</div>
+
+
+            <div class="wrapper">
+                <div class="container">
+                    <div id="pageContent">
+                        
     <div id="subMenu">
         
-<div class="misc_menu">
-<ul>
-    <li id="m_privacy_policy" class="active"><a href="PrivacyPolicy.aspx">Privacy Policy</a></li>   
-</ul>
+
+<div id="showroom_subnav" style="height: 45px; background: #e8e5e0;">
+    <h2 class="title corporate_information" style="width: auto;">Privacy Policy</h2>
+    <div class="clear"></div>
+
 </div>
 
     </div>
@@ -431,7 +647,7 @@ versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4"
                     75 Frontenac Drive<br>
                     Markham, Ontario L3R 6h5<br>
                     Attention: Privacy Officer<br>
-                    905.948.6867 
+                    905.948.6726 
                 </p>
                 <p>
                     If the above steps fail to resolve your question or concern, you may also contact the Office of the Privacy Commissioner of Canada: 
@@ -455,74 +671,250 @@ versaTag.conditionalParams = {}; //"1":"[value]","2":"[value]","3":"[value]","4"
         </div>
     </div>
 
-            </div>
-            <div class="footercontent" style="background-color: #F3F3F3; padding: 10px 0px;">
-                <div style="border: 1px solid #CCCCCC; background-color: #ffffff; padding: 10px;
-                    font-size: 11px;">
-                     Hyundai Auto Canada offers an exciting lineup of affordable, value-packed and fuel-efficient vehicles. If you’re shopping for an economical new car, you can choose from our small / compact cars, midsize / family vehicles, luxury sedan and sports cars and cross-over SUVs. Visit your local Hyundai dealer today to learn about our current promotions and take one of our great Hyundai vehicles for a test drive!
+                    </div>
                 </div>
             </div>
-            <div class="footer">
-                <div class="clear">
-                </div>
-                <ul class="left">
-                    <li id="f_0"><a href="../../Default.aspx" class="last">Hyundai
-                        Auto Canada Corp</a></li>
-                </ul>
-                <ul class="right">
-                    <li id="f_1"><a href="Awards.aspx">
-                        
-				Awards
-			
-                    </a></li>
-                    <li id="f_2"><a href="javascript:popup();">
-                         Accessibility
-                    </a></li>
-                    <li id="f_3"><a href="Message.aspx">
-                        About Hyundai
-                    </a></li>
-                    <li id="f_4"><a href="PrivacyPolicy.aspx">
-                        Privacy Policy
-                    </a></li>
-                    <li id="f_5"><a href="SiteMap.aspx">
-                        Site Map
-                    </a></li>
-                    <li id="f_6"><a href="Contact.aspx">
-                        Contact Us
-                    </a></li>
-                    <li id="f_7"><a href="Careers.aspx">
-                         Careers
-                    </a></li>
-                    <li id="f_8"><a href="LegalNotice.aspx" class="last">
-                        Legal
-                    </a></li>
-                </ul>
-                <p>
-                    
-				The Hyundai names, logos, product names, feature names, images and slogans are trade
-				marks owned by Hyundai Auto Canada Corp.
-			
-                </p>
-            </div>
-        </div>
-        <div id="sign_up">
-                
-				Hyundai Auto Canada Corp. is committed to providing services to its
-				customers with disabilities in an integrated manner that respects their dignity and
-				independence.   For a copy of our corporate policy relating to the manner in which
-				we accommodate customers with disabilities, please contact us.
-			
-               
-                <a id="close_x" class="close sprited" href="#">close</a>
-            </div>
-    
+            <div class="wrapper">
+                <div id="nfooter">
+                    <div style="padding: 0px 10px;">
+                        <div id="footerNav">
+                            <ul>
+                                <li class="">
+                                    <div class="title">
+        Purchase
+      </div>
+                                    <ul>
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
+
+                                        <li class="">
+                                            <a href="../shoppingtools/step1_requestquote.aspx" title="Request a Quote">Request a Quote</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="../shoppingtools/step1_locatedealer.aspx" title="Locate a Dealer">Locate a Dealer</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="../SpecialOffer/SalesPromotions.aspx" title="Special Offers">Special Offers</a>
+                                        </li>
+
+
+
+
+                                    </ul>
+                                </li>
+                                <li class="">
+                                    <div class="title">Consider</div>
+                                    <ul>
+
+
+                                        <li class="">
+                                            <a href="../buildprice/step1_models.aspx" title="Build &amp; Price">Build &amp; Price</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="../shoppingtools/step1_testdrive.aspx" title="Schedule a Test-drive">Schedule a Test-drive</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="http://hyundaica-comp.autodatadirect.com/hyundai-compare/comparetool/Compare.jsp?locale=en_CA&amp;year=&amp;model=&amp;trim=" title="Compare" target="_blank">Compare</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="Awards.aspx" title="Awards">Awards</a>
+                                        </li>
+
+
+
+
+                                        <li class="">
+                                            <a href="http://www.hyundaicertified.ca/index.spy" target="_blank" title="Certified Pre-Owned (CPO)">Certified Pre-Owned (CPO)</a>
+                                        </li>
+
+                                    </ul>
+                                </li>
+                                <li class="">
+                                    <div class="title">Discover</div>
+                                    <ul>
+
+
+
+
+
+                                        <li class="">
+                                            <a href="Warranty.aspx" title="Hyundai's Warranty">Hyundai's Warranty</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="RequestABrochure.aspx" title="Request a Brochure">Request a Brochure</a>
+                                        </li>
+                                          <li class="">
+                                            <a href="../../Genesis_Sedan_2015/Genesis.aspx" title="2015 Genesis">2015 Genesis</a>
+                                        </li>
+                                          <li class="">
+                                            <a href="Sonata2015.aspx" title="
+        2015 Sonata
+      ">
+        2015 Sonata
+      </a>
+                                        </li>
+                                         <li class="">
+                                            <a href="../../Campaigns/Challenge/Challenge.aspx" title="CHALLENGE">CHALLENGE</a>
+                                        </li>
+                                         <li class="">
+                                            <a href="FIFA.aspx" title="2014 FIFA World Cup Brazil<sup>TM</sup>">2014 FIFA World Cup Brazil<sup>TM</sup></a>
+                                        </li>
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <div class="title">Service &amp; Parts</div>
+                                    <ul>
+
+
+                                        <li>
+                                            <a href="../SpecialOffer/PartsPromotion.aspx" title="Parts and Service Special Offers">Parts and Service Special Offers</a>
+                                        </li>
+
+
+                                        
+                                    </ul>
+                                </li>
+
+                                <li class="">
+                                    <div class="title">About Hyundai</div>
+                                    <ul>
+
+
+                                        <li>
+                                            <a href="Message.aspx" title="President's Message">President's Message</a>
+                                        </li>
+
+
+                                        <li>
+                                            <a href="Awards.aspx" title="Awards">Awards</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="Careers.aspx" title="Careers">Careers</a>
+                                        </li>
+
+
+                                        <li class="">
+                                            <a href="Contact.aspx" title="Contact Us">Contact Us</a>
+                                        </li>
+                                         <li>
+                                <a href="Updates.aspx" title="Sign Up For updates">Sign Up For updates</a>
+                            </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                        </div>
+
+                        <div id="footerLogo">
+                            <img src="../../images/New/footer/Hyundai_Logo_En.png" width="180" height="54" alt="">
+                        </div>
+                        <ul id="footerSubNav">
+
+
+
+                            <li>
+                                <a href="../shoppingtools/step1_locatedealer.aspx" title="Locate a Dealer">Locate a Dealer</a>
+                            </li>
+
+
+
+
+                            <li>
+                                <a href="SiteMap.aspx" title="Site Map">Site Map</a>
+                            </li>
+
+
+
+
+                            <li>
+                                <a href="PrivacyPolicy.aspx" title="Privacy Policy">Privacy Policy</a>
+                            </li>
+
+
+
+
+                            <li>
+                                <a href="LegalNotice.aspx" title="Legal">Legal</a>
+                            </li>
+
+
+
+
+                            <li>
+                                <a href="Warranty.aspx" title="Warranty">Warranty</a>
+                            </li>
+
+                            <li>
+                                <a href="javascript:popup();" title=" Accessibility">
+                                     Accessibility
+                                </a>
+
+                            </li>
+
+
+                            
+
+
+
+
+                            <li class="last">
+                                <a href="Contact.aspx" title="Contact Us">Contact Us</a>
+                            </li>
+                            
+
+                        </ul>
+                        <div id="footerCopy">The Hyundai name, logo, product names, feature names, images and slogans are trademarks owned by Hyundai Auto Canada Corp.</div>
+                    </div>
+                    <div id="sign_up">
+                        
+        Hyundai Auto Canada Corp. is committed to providing services to its
+        customers with disabilities in an integrated manner that respects their dignity and
+        independence.   For a copy of our corporate policy relating to the manner in which
+        we accommodate customers with disabilities, please <a href="Contact.aspx" style="color:#084c8d"> contact us </a>.
+      
+                        <a id="close_x" class="close sprited" href="#">close</a>
+                    </div>
+                </div>
+
+
+                
+            </div>
+
+        </div>
+
+
+    </form>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1056295864;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
 </script>
-</form>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1056295864/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 
 </body></html>
