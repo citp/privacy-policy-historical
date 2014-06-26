@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131340id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signonsandiego.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626164451id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UTSanDiego.com
 
@@ -104,7 +104,7 @@ You may see certain ads on our Sites and Services because we participate in adve
 
 The information our ad network vendors collect includes information about your use of our mobile applications and visits to websites that participate in the advertising networks, such as the pages or advertisements you have viewed, the location of your mobile device and the actions you take on the websites and mobile applications. The networks use this information to show you targeted advertisements on our Sites and Services, and on third party sites, applications and services, that they believe will be of most interest to you. This process also helps us track the effectiveness of our marketing efforts. 
 
-For ad serving solutions we incorporate [Doubleclick](http://www.google.com/policies/technologies/ads/) and [Mixpo](http://dynamicvideoad.mixpo.com/legal/) technologies. 
+For ad serving solutions we incorporate [Doubleclick](http://www.google.com/policies/technologies/ads/), [Nielsen eXelate](http://exelate.com/privacy/services-privacy-policy/) and [Mixpo](http://dynamicvideoad.mixpo.com/legal/) technologies. 
 
 ### Social Media Interaction
 
