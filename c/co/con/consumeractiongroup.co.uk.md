@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108192827id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213735id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
-[Patricia Pearl - Small Claims Procedure - A Practical Guide](http://consumeractiongroup.co.uk/paypal.php?go=pearl)  
-An excellent guide for the layperson in how to use the County Court - a must if you are intending to start a claim.
 
-£19.99 + £1.50 (P&P)
-
-* * *
-
-[BAILIFFS - The Law and Your Rights](http://consumeractiongroup.co.uk/paypal.php?go=bailiff)
-
-  
-Written by John Kruse, one of the leading experts on Bailiff Law, this consumer friendly guide is essential reading for anyone who comes into contact with a bailiff. 
-
-The book is easy to understand and clearly explains the rights a bailiff has, and also what they cannot do when collecting debts and repossessing goods etc.
-
-£13.95 + £2.00 (P&P)
-
-| 
-    
-    
     THE CONSUMER FORUMS PRIVACY POLICY
     
     This policy applies to all forums operated by Reclaim the Right Limited, and includes (but is not limited to) the Consumer Action Group, 
@@ -145,7 +127,3 @@ The book is easy to understand and clearly explains the rights a bailiff has, an
     
     Effective Date: July  05, 2006
     
-
-  
-[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)  
----|---
