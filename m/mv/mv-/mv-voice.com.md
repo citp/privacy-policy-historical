@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231451id_/http%3A//mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061830id_/http%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountain View Online |
 
-_Last updated: Tuesday, February 12, 2013 2:31 PM_
+_Last updated: Tuesday, February 11, 2014 2:01 PM_
 
 ### Privacy Policy 
 
@@ -16,8 +16,13 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 Other companies that place advertising on our site also have the ability to assign their cookies to you if you visit their sites. This is a process that we do not control.
 
+Additionally, we use services which employ cookies to gather 3rd-party audience data (such as age, gender, and interests), interest-based advertising or information. We do not participate in personally-identifiable information nor do we merge information to build such data repositories.
+
 **E-bulletins**  
-If you sign up to receive e-bulletins from , you may also receive infrequent other announcements from us. Users can choose to unsubscribe from any new mailing lists we create (opt-out) at any time by following the unsubscribe instructions found in each e-mail. 
+If you sign up to receive e-bulletins from mv-voice.com, you may also receive infrequent other announcements from us. Users can choose to unsubscribe from any new mailing lists we create (opt-out) at any time by following the unsubscribe instructions found in each e-mail. 
+
+**Site Registration**  
+If you sign up to become a member of mv-voice.com, your personally identifiable information (such as name, address, phone number, email address) will be stored in our database. We will not disclose your individual identity or personally identifiable data that you supply us without your permission, except as required by law. 
 
 **Surveys**   
 We may conduct voluntary surveys of visitors to the site to collect certain demographic information. This information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals. We may use the e-mail address you provided us for the distribution of other announcements. Users can choose to unsubscribe (opt-out) from any mailing lists we create at any time by following the unsubscribe instructions found in each e-mail. 
@@ -39,7 +44,7 @@ We will not otherwise disclose or make use of personal information without conse
 Our sites contain links to sites on the Internet operated by others. We cannot control and are not responsible for the privacy practices or content of such other Web sites. 
 
 **Unsubscribe and Data Removal Policies**  
-If you would like to unsubscribe from any mailing list, please follow the instructions at the bottom of the mailing list itself. If you want to remove your name and e-mail address from any of our mailing lists, you can send an e-mail requesting removal to [ webmaster@](mailto:webmaster@). Please include which list you are asking to be removed from.
+If you would like to unsubscribe from any mailing list, please follow the instructions at the bottom of the mailing list itself. If you want to remove your name and e-mail address from any of our mailing lists, you can send an e-mail requesting removal to [ webmaster@mv-voice.com](mailto:webmaster@mv-voice.com). Please include which list you are asking to be removed from.
 
 **Further questions?**  
-If you have any further questions or concerns about our privacy policies and use of personal information, please send them to [ webmaster@](mailto:webmaster@).
+If you have any further questions or concerns about our privacy policies and use of personal information, please send them to [ webmaster@mv-voice.com](mailto:webmaster@mv-voice.com).
