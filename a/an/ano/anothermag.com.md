@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619023018id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162602id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnOther
 
@@ -30,6 +30,8 @@ If you have set your computer to reject cookies you can still browse Another Mag
 ### Use and Storage of Information
 
 When you supply any personal information to Anothermag.com we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else.
+
+We may use your information to: remember you when you visit our website and track your browsing patterns by using cookies, place your anonymised information into audience segments to identify your interests.
 
 In general, any information you provide to Anothermag.com will only be used within Anothermag.com and by its agents and service providers. Your information will be disclosed where we are obliged or permitted by law. Also, if you post or send offensive, inappropriate or objectionable content anywhere on or to Anothermag.com, we can use whatever information that is available about you to stop such behaviour. This may involve informing relevant third parties such as your employer, school, e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
 
