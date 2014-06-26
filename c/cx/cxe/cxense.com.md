@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxense.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230005944id_/http%3A//www.cxense.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxense.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055322id_/http%3A//www.cxense.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cxense
 
@@ -24,7 +24,7 @@ When you visit Cxense, or a website powered by Cxense technology, one or more co
 
 ### Log information
 
-When you access our services via a browser, application or other client, Cxense servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser or your account. Cxense never stores or retain personally identifiable information such as IP addresses.
+When you access our services via a browser, application or other client, Cxense servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser or your account.
 
 ### Affiliated Cxense services on Client sites
 
@@ -61,5 +61,3 @@ Cxense regularly reviews its compliance in view of this Directive. If formal wri
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. Cxense will post any Privacy Policy changes on this page and, if the changes are significant, a more prominent notice will be provided.
-
-Last modified: 31/08/2011
