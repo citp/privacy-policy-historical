@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jossip.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061051id_/http%3A//www.jossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jossip.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041313id_/http%3A//jossip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Jossip
-
-Privacy Policy
+# Privacy Policy - Jossip
 
 Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn't be in business. Listen up.
 
@@ -16,4 +14,4 @@ We do collect standard usage and tracking data, including IP addresses, page vis
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-If you have any concerns, please write us at [publisher@jossip.com](mailto:publisher@jossip.com).
+If you have any concerns, please write us at [publisher@jossip.com](http://www.jossip.com/).
