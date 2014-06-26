@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229005434id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084801id_/http%3A//www.birst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birst BI
 
@@ -15,7 +15,14 @@ This privacy policy covers the site [www.birst.com](http://www.birst.com/) as we
 
 Birst has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance withTRUSTe's [Web Privacy](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address below. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe programs only cover information collected through the Birst Web site and the Birst services platform. The TRUSTe programs do not cover information that may be collected from mobile devices.
 
-_Birst complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Birst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Birst’s certification, please visit<http://www.export.gov/safeharbor/>._
+_Birst complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Birst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Birst’s certification, please visit<http://www.export.gov/safeharbor/>._  
+
+
+[](http://www.skyhighnetworks.com/enterprise-ready/)
+
+Skyhigh Enterprise-Ready cloud services fully satisfy the most stringent requirements for data protection, identity verification, service security, business practices, and legal protection.
+
+Skyhigh Networks performs objective and thorough evaluations of the enterprise-readiness of cloud service based on a detailed set of criteria developed in conjunction with the Cloud Security Alliance (CSA). Services designated as Skyhigh Enterprise-Ready are the services receiving the highest CloudTrust™ Ratings, which fully satisfy the most stringent requirements for data protection, identity verification, service security, business practices, and legal protection.
 
 ### When Information Is Collected
 
