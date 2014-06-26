@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsampleresume.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816150300id_/http%3A//www.bestsampleresume.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsampleresume.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120342id_/http%3A//www.bestsampleresume.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
