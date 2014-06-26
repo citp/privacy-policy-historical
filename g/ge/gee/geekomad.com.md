@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the geekomad.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231192353id_/http%3A//www.geekomad.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekomad.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154106id_/http%3A//www.geekomad.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | geekOmad - Technology Blog
+
+Below is information regarding geekOmad.com ’s commitment to protect the privacy of users and to ensure the integrity of the Internet. Thi...
 
 Below is information regarding **geekOmad.com** ’s commitment to protect the privacy of users and to ensure the integrity of the Internet. This privacy policy is reviewed and revised from time to time. The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website’s privacy policies, please contact us. We are committed to ensuring that every user’s needs are addressed.
 
