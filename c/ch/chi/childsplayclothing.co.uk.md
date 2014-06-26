@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502113836id_/http%3A//www.childsplayclothing.co.uk/customer-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childsplayclothing.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173107id_/http%3A//www.childsplayclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,8 +72,8 @@ You can access all your personally identifiable information that we collect onli
 
 You can correct factual errors in your personally identifiable information by logging in and making changes, or you can contact us and we can make those changes for you.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20130502113836id_/http%3A//www.childsplayclothing.co.uk/customer-services/customer-services/contact-us).
+Should you have other questions or concerns about these privacy policies, or if you wish for us to remove your data from our systems please [contact us](https://web.archive.org/web/20140626173107id_/http%3A//www.childsplayclothing.co.uk/customer-services/contact-us) or email directly to info @ childsplayclothing.co.uk.
