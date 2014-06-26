@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826025930id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121419id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Color On Demand**](http://www.aussiepages.com.au/Color-On-Demand.html)  
-Booklets | Unley | Color On Demand  
+[**Happy Wheels Bicycle Service Centre (Best in Service)**](http://www.aussiepages.com.au/Happy-Wheels-Bicycle-Service-Centre--28Best-in-Service-29.html)  
+Best bike servicing shop in Sydney, New South Wales (NSW). Repair, parts, tools, custom builds, bike accessories, bike wheels, & other cycling needs in the Eastern Suburbs & Inner City  
   
   
 ---  
   
-[**Celebration Homes South West**](http://www.aussiepages.com.au/Celebration-Homes-South-West.html)  
-Celebration Homes is your local builder in the South West. Featuring over 35 modern home designs as well as a great range of house and land packages, you are sure to find exactly what you wish.  
+[**Rhinoplasty in Melbourne at Advance Beauty Cosmetic Surgery**](http://www.aussiepages.com.au/Rhinoplasty-in-Melbourne-at-Advance-Beauty-Cosmetic-Surgery.html)  
+Avail the low average rhinoplasty cost in Melbourne at Advance Beauty Cosmetic Surgery. The clinic is headed by Dr Ahnsup Kim, a Korean cosmetic surgeon in Australia for 10 years.  
   
   
-[**Web Science**](http://www.aussiepages.com.au/Web-Science.html)  
-Web Science is a highly skilled provider of all things related to websites and the internet. We create beautiful and highly functional professional websites for any business or niche and we are located close to Parramatta.  
+[**The Welcomed Gift**](http://www.aussiepages.com.au/The-Welcomed-Gift.html)  
+Giving for a reason, season or lifetime  
   
   
-[**Classic Elegance Photography**](http://www.aussiepages.com.au/Classic-Elegance-Photography.html)  
-With more than 12yrs experience in the wedding industry, Classic Elegance create beautiful images of your wedding day with a personal touch, flexible options and affordable packages starting at $1495.  
+[**BioMagnetic Sport**](http://www.aussiepages.com.au/BioMagnetic-Sport.html)  
+BioMagnetic technology offers more than regular joint supports. Loaded with therapeutic magnets, it specifically targets painful trouble spots.  
   
   
-[**Glamorous Ladies Shoes, Handbags & Jewellery**](http://www.aussiepages.com.au/Glamorous-Ladies-Shoes-Handbags-Jewellery.html)  
-Glamorous is a vibrant and youth­ful online busi­ness that prides itself on provid­ing the hot­test fash­ion jew­ellery and hand­bags to our cus­tom­ers through­out Australia. Drawing inspir­a­tion from the latest trends in London, New York, Paris and Tokyo, we strive to provide you wit  
+[**About Installations Pty Ltd - TV Antenna, Satellite Dish & Home Theatre Installations**](http://www.aussiepages.com.au/About-Installations-Pty-Ltd---TV-Antenna-Satellite-Dish-Home-Theatre-Installations.html)  
+More than just home theatre installers, we offer a variety of services including installation of TV Antennas, computer networks, telephone outlets, satellite dishes and of course home theatres.  
   
   
-[**Architectural Plans and Council Approvals**](http://www.aussiepages.com.au/Architectural-Plans-and-Council-Approvals.html)  
-Willco Consulting was founded in 2007 and brings together over 16 years of experience drawing Architectural Plans and dealing with local councils in Sydney, Bathurst, Blue Mountains, ACT, Wollongong and the South Coast.  
+[**Carpet Cleaning Melbourne**](http://www.aussiepages.com.au/Carpet-Cleaning-Melbourne.html)  
+Call Omega Carpet Cleaning today.  
   
   
-[**Architectural Plans and Council Submission**](http://www.aussiepages.com.au/Architectural-Plans-and-Council-Submission.html)  
-Willco Consulting was founded in 2007 and brings together over 16 years of experience drawing Architectural Plans and dealing with local councils in Sydney, Bathurst, Blue Mountains, ACT, Wollongong and the South Coast.  
+[**AJH Lawyers**](http://www.aussiepages.com.au/AJH-Lawyers.html)  
+AJH Lawyers have Law Institute of Victoria Accredited Specialists in the fields of Business Law, Commercial Litigation and Immigration Law.  
   
   
-[**Designer Cosmetics and Makeup 90% Off !**](http://www.aussiepages.com.au/Designer-Cosmetics-and-Makeup-90--Off--.html)  
-A huge range of Designer Label Makeup and Cosmetics from Revlon, Loreal, Maybelline, Covergirl, Almay and Rimmel. We also stock brand name Jewellery and Silk Men's Ties from the worlds most famous designers. Best of all we sell all the above items at the cheapest prices in Australia.  
+[**honeymoons**](http://www.aussiepages.com.au/honeymoons.html)  
+Honeymooners flock to Paradise Bay to enjoy the peace, quiet, serenity and romance, so come and experience Paradise for yourself and discover the romance!  
   
   
-[**PARTY SHUTTLE BUS, PARTY BUS HIRE SYDNEY, CHARTER MINIBUS SYDNEY**](http://www.aussiepages.com.au/PARTY-SHUTTLE-BUS-PARTY-BUS-HIRE-SYDNEY-CHARTER-MINIBUS-SYDNEY.html)  
-Welcome to PartyShuttle.com.au 04500 600 55 Delivering You The Safe Way in our 14,21,24 & 42 Seater Party Bus, All our Sydney Party Buses have a great special lighting affects & 1000 Watt sound system to listen to your favourite CD or iPhone (AUX cable) music.  
+[**Training8m- The Global Leader in Corporate Training, Corporate restructuring and Global recruitments**](http://www.aussiepages.com.au/Training8m--The-Global-Leader-in-Corporate-Training-Corporate-restructuring-and-Global-recruitments.html)  
+• Business Analysis • Business Development • Business Ethics • Business Management Skills • Business Strategy • International Business • Internet Business • Corporate Acquisitions •   
   
   
-[**Happy Life Balance Business Opportunity - Work From Home**](http://www.aussiepages.com.au/Happy-Life-Balance-Business-Opportunity---Work-From-Home.html)  
-Lucrative Online Home Business promoting Award Winning and Accredited Personal Leadership Development products for Success Education.  
+[**Portable Digital Inverter Generators**](http://www.aussiepages.com.au/Portable-Digital-Inverter-Generators.html)  
+HTG - High Tech Generators are specialist in portable digital inverter generators for camping caravan campervan and motorhome  
   
   
    
