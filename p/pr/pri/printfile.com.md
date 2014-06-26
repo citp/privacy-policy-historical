@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221095505id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfile.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100930id_/http%3A//www.printfile.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Print File | Archival Supplies | Photo Storage Products - Privacy Policy
 
-[](https://web.archive.org/web/20131221095505id_/http%3A//www.printfile.com/index.aspx)  
+[](https://web.archive.org/web/20140626100930id_/http%3A//www.printfile.com/index.aspx)  
   
 ---  
 | 
 
-[ ](https://web.archive.org/web/20131221095505id_/index.asp?PageAction=CONTACTUS) 
+[ ](https://web.archive.org/web/20140626100930id_/index.asp?PageAction=CONTACTUS) 
 
 |  |  [  
 ](https://www.mcafeesecure.com/RatingVerify?ref=www.printfile.com)  
