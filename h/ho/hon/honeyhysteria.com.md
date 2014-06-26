@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honeyhysteria.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222023215id_/http%3A//www.jackdaniels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyhysteria.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151310id_/http%3A//www.jackdaniels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy USA | Jack Daniel's Tennessee Whiskey
 
@@ -78,4 +78,4 @@ If you choose to submit your resume or apply for a position with us through this
 
 Questions regarding this policy should be directed to Jack Daniel's Consumer Support, P.O. Box 8027, Lynchburg, Tennessee 37352, USA or online [here](https://web.archive.org/contact).
 
-© 2013 Brown-Forman Corporation.  All Rights Reserved. 
+© 2014 Brown-Forman Corporation.  All Rights Reserved. 
