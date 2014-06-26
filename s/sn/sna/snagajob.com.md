@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234127id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626225500id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
 
 # SnagAJob.com Privacy Policy
 
@@ -207,6 +207,8 @@ As a Member, you have certain obligations to other Members. Those obligations in
   3. Any violation of these guidelines may lead to the restriction, suspension or termination of your account at our sole discretion.
 
 
+
+### [SMS/Text Program Terms and Conditions](https://web.archive.org/sms-terms/ "Snagajob SMS Terms")
 
 ###  How to contact us
 
