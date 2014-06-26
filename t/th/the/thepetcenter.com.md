@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepetcenter.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109052957id_/http%3A//www.pet360.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetcenter.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153345id_/http%3A//www.pet360.com/privacypolicy) for the most accurate reproduction.*
 
 # Pet360 - Customer Privacy Policy - Pet360 Pet Parenting Simplified
 
@@ -10,7 +10,7 @@ Pet360
 Plymouth Meeting PA , 19462  
 1-877-PET-FOOD
 
-or complete our contact form by [clicking here](https://web.archive.org/web/20131109052957id_/http%3A//www.pet360.com/contactus)
+or complete our contact form by [clicking here](https://web.archive.org/web/20140626153345id_/http%3A//www.pet360.com/contactus)
 
 ### What Information We Collect
 
@@ -35,4 +35,4 @@ If our information practices change at some time in the future we will post the 
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you do not want to receive e-mail or postal mailings from us in the future, please unsubscribe below [Unsubscribe](https://web.archive.org/web/20131109052957id_/http%3A//www.pet360.com/myaccount/unsubscribe)
+If you do not want to receive e-mail or postal mailings from us in the future, please unsubscribe below [Unsubscribe](https://web.archive.org/web/20140626153345id_/http%3A//www.pet360.com/myaccount/unsubscribe)
