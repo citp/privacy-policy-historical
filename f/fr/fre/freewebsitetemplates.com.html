@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freewebsitetemplates.com privacy policy that was archived on 2013-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131220021656id_/http%3A//www.freewebsitetemplates.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freewebsitetemplates.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626145314id_/http%3A//www.freewebsitetemplates.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public LoggedOut NoSidebar  NoResponsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -8,7 +8,7 @@
 	
 	
 		<base href="http://www.freewebsitetemplates.com/">
-		<script type="text/javascript" defer="" async="" src="https://piwik.freewebsitetemplates.com//piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		<script type="text/javascript" defer="" async="" src="https://piwik.freewebsitetemplates.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 			var _b = document.getElementsByTagName('base')[0], _bH = "http://www.freewebsitetemplates.com/";
 			if (_b && _b.href != _bH) _b.href = _bH;
 		</script>
@@ -16,29 +16,31 @@
 
 	<title>Privacy Policy | Free Website Templates</title>
 	
-	<noscript><style>.JsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=2&amp;dir=LTR&amp;d=1386958202">
-	<link rel="stylesheet" href="css.php?css=help_wrapper,login_bar&amp;style=2&amp;dir=LTR&amp;d=1386958202">
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=6&amp;dir=LTR&amp;d=1403778752">
+	<link rel="stylesheet" href="css.php?css=help_wrapper,login_bar&amp;style=6&amp;dir=LTR&amp;d=1403778752">
 	
 	
 
 	
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-241068-1', 'auto');
-ga('send', 'pageview');
-
-</script>
-<!-- End Google Analytics -->
+	
+	<!-- Google Analytics -->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-241068-1', 'auto');
+	ga('send', 'pageview');
+	
+	</script>
+	<!-- End Google Analytics -->
+	
 
 		<script src="/js/jquery/jquery-1.10.2.min.js"></script>	
 		
-	<script src="/js/xenforo/xenforo.js?_v=0a524e9c"></script>
+	<script src="/js/xenforo/xenforo.js?_v=fa355ea2"></script>
 
 	
 	<link rel="apple-touch-icon" href="http://www.freewebsitetemplates.com/styles/custom/fwt/logo.og.png">
@@ -46,23 +48,26 @@ ga('send', 'pageview');
 	
 	
 
-<!--[if lte IE 6]><link rel="stylesheet" href="css.php?css=lte_ie6&amp;style=2&amp;dir=LTR&amp;d=1386958202" /><![endif]-->
-<script>
-$(document).ready(function() {
-	$("a[data-ga-event='click']").each(
-		function() {
-			if ($(this).data("gaCategory") && $(this).data("gaAction") && $(this).data("gaLabel")) {
-				//console.log($(this).data("gaCategory") + " - " + $(this).data("gaAction") + " - " + $(this).data("gaLabel"));
-				$(this).on('click', function() {
-					ga('send', 'event', $(this).data("gaCategory"), $(this).data("gaAction"), $(this).data("gaLabel"));
-				});
-			} else {
-				console.error("missing attributes for google analytics event tracking");
+
+	<script>
+	$(document).ready(function() {
+		$("a[data-ga-event='click']").each(
+			function() {
+				if ($(this).data("gaCategory") && $(this).data("gaAction") && $(this).data("gaLabel")) {
+					//console.log($(this).data("gaCategory") + " - " + $(this).data("gaAction") + " - " + $(this).data("gaLabel"));
+					$(this).on('click', function() {
+						ga('send', 'event', $(this).data("gaCategory"), $(this).data("gaAction"), $(this).data("gaLabel"));
+						Piwik.getAsyncTracker().trackEvent($(this).data("gaCategory"), $(this).data("gaAction"), $(this).data("gaLabel"));
+					});
+				} else {
+					console.error("missing attributes for google analytics event tracking");
+				}
 			}
-		}
-	);
-});
-</script>
+		);
+	});
+	</script>
+
+<!--[if lte IE 6]><link rel="stylesheet" href="css.php?css=lte_ie6&amp;style=6&amp;dir=LTR&amp;d=1403778752" /><![endif]-->
 </head>
 
 <body>
@@ -180,7 +185,9 @@ $(document).ready(function() {
 				</ul>
 			</li>
 		</ul>
-	<a rel="nofollow" href="http://www.wix.com/fwthtml/complete-solution?utm_source=freewebsitetemplates&amp;amp;utm_medium=banner&amp;amp;utm_term=general&amp;amp;utm_content=ma_fwt_12shiny&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_fwt_12shiny" class="OverlayTrigger" data-href="/click/b/11/" data-ga-event="click" data-ga-category="Banner" data-ga-action="Wix Click" data-ga-label="About (create free websites)"><img src="/images/website/large/0_11.png" border="0" alt="create free websites"></a>
+	
+<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/create-free-websites/" data-ga-event="click" data-ga-category="Image Link" data-ga-action="Ad Click" data-ga-label="Banner for about page"><img src="/images/website/thumbs/30_1.png" alt="create free websites"></a>
+
 </div>
 	
 	<div class="mainContentBlock section sectionMain">
@@ -396,23 +403,23 @@ $(document).ready(function() {
 					</div>
 					<ul class="secondaryContent blockLinksList">
 	<li>
-		<a rel="nofollow" href="http://www.wix.com/fwthtml/online-shop?utm_source=freewebsitetemplates&amp;amp;utm_medium=link&amp;amp;utm_term=general&amp;amp;utm_content=ma_html_fwt_tab2_7&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_html_fwt_tab2_7" class="OverlayTrigger" data-href="/click/tl/5/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Wix Click" data-ga-label="Free Website - Top Navigation - 1">Free Business Sites</a>
+		<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/fw-free-business-sites/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Ad Click" data-ga-label="Free Website - Top Navigation - 1">Free Business Sites</a>
 	</li>
 
 	<li>
-		<a rel="nofollow" href="http://www.wix.com/fwthtml/400_1?utm_source=freewebsitetemplates&amp;amp;utm_medium=link&amp;amp;utm_term=general&amp;amp;utm_content=ma_fwt_tab2_8&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_fwt_tab2_8" class="OverlayTrigger" data-href="/click/tl/6/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Wix Click" data-ga-label="Free Website - Top Navigation - 2">Free Website Builder</a>
+		<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/fw-free-website-builder/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Ad Click" data-ga-label="Free Website - Top Navigation - 2">Free Website Builder</a>
 	</li>
 
 	<li>
-		<a rel="nofollow" href="http://www.wix.com/fwthtml/400_1?utm_source=freewebsitetemplates&amp;amp;utm_medium=link&amp;amp;utm_term=general&amp;amp;utm_content=ma_fwt_tab2_9&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_fwt_tab2_9" class="OverlayTrigger" data-href="/click/tl/7/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Wix Click" data-ga-label="Free Website - Top Navigation - 3">Free Web Design</a>
+		<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/fw-free-web-design/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Ad Click" data-ga-label="Free Website - Top Navigation - 3">Free Web Design</a>
 	</li>
 
 	<li>
-		<a rel="nofollow" href="http://www.wix.com/fwthtml/200_1?utm_source=freewebsitetemplates&amp;amp;utm_medium=link&amp;amp;utm_term=general&amp;amp;utm_content=ma_fwt_tab2_10&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_fwt_tab2_10" class="OverlayTrigger" data-href="/click/tl/8/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Wix Click" data-ga-label="Free Website - Top Navigation - 4">Free Website Templates</a>
+		<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/fw-free-website-templates/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Ad Click" data-ga-label="Free Website - Top Navigation - 4">Free Website Templates</a>
 	</li>
 
 	<li>
-		<a rel="nofollow" href="http://www.wix.com/fwthtml/complete-solution?utm_source=freewebsitetemplates&amp;amp;utm_medium=link&amp;amp;utm_term=general&amp;amp;utm_content=ma_fwt_tab2_11&amp;amp;utm_campaign=ma_fwt&amp;amp;experiment_id=ma_fwt_tab2_11" class="OverlayTrigger" data-href="/click/tl/9/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Wix Click" data-ga-label="Free Website - Top Navigation - 5">Free Stunning Templates</a>
+		<a rel="nofollow" href="http://www.freewebsitetemplates.com/link/fw-free-stunning-templates/" data-ga-event="click" data-ga-category="Text Link" data-ga-action="Ad Click" data-ga-label="Free Website - Top Navigation - 5">Free Stunning Templates</a>
 	</li>
 </ul>
 
@@ -432,6 +439,8 @@ $(document).ready(function() {
 						<div class="muted">Quick Links</div>
 					</div>
 					<ul class="secondaryContent blockLinksList">
+	<li><a href="freewebdesign/request">Request a Free Web Design</a></li>
+	<li><a href="freewebdesign/queue/">Queue</a></li>
 </ul>
 
 				</div>
@@ -674,7 +683,7 @@ $(document).ready(function() {
 			
 			</ul>
 			
-			<div id="copyright">© 2000 – 2013 Free Website Templates – We respect your privacy.</div>
+			<div id="copyright">© 2000 – 2014 Free Website Templates – We respect your privacy.</div>
 			
 		
 			
@@ -694,8 +703,8 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1387505816,
-		today: 1387432800,
+		now: 1403794394,
+		today: 1403758800,
 		todayDow: 4
 	},
 	_lightBoxUniversal: "0",
@@ -719,7 +728,7 @@ jQuery.extend(true, XenForo,
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "0a524e9c"
+	_jsVersion: "fa355ea2"
 });
 jQuery.extend(XenForo.phrases,
 {
@@ -758,21 +767,23 @@ XenForo.Facebook.forceInit = false;
 </script>
 
 
-<!-- Piwik -->
-<script type="text/javascript"> 
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.freewebsitetemplates.com//";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
 
-</script>
-<noscript><p><img src="http://piwik.freewebsitetemplates.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+	<!-- Piwik -->
+	<script type="text/javascript"> 
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.freewebsitetemplates.com/";
+	    _paq.push(['setTrackerUrl', u+'piwik.php']);
+	    _paq.push(['setSiteId', 1]);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+	    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	
+	</script>
+	<noscript><p><img src="http://piwik.freewebsitetemplates.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+	<!-- End Piwik Code -->
+
 
 </body></html>
