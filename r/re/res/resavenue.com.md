@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resavenue.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813075109id_/http%3A//www.resavenue.com/content/privacy_resav.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resavenue.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074551id_/http%3A//resavenue.com/content/privacy_resav.jsp) for the most accurate reproduction.*
 
 # ResAvenue :: Online Hotel Reservation Software With Global Distribution System (GDS) and Internet Distribution System (IDS) Connectivity :: Privacy Policy
 
