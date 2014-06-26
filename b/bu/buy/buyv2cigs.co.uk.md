@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201001558id_/http%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101504id_/http%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : BuyV2Cigs
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. Our Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the BuyV2Cigs website. The BuyV2Cigsifestyle Foods website includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by BuyV2Cigs. By accessing our website, you are consenting to the information collection and use practices described in this Privacy Policy.
+We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. Our Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the BuyV2Cigs website. The BuyV2Cigs website includes all web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and/or operated by BuyV2Cigs. By accessing our website, you are consenting to the information collection and use practices described in this Privacy Policy.
 
 We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows-
 
@@ -78,4 +78,4 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 **Your Consent To This Agreement**  
 By using our network of websites, you consent to the collection and use of information by us as specified above. We reserve the right to modify this Policy in the future. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
 
-(Last revised 29th February 2012)
+(Last revised 29th April 2014)
