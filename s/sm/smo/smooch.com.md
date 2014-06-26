@@ -1,102 +1,123 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928090918id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160725id_/http%3A//www.smooch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Completely Free Dating at Smooch.com™
+# Smooch.com, 100% Free Online Dating Site for Singles and Personals
 
-Your privacy its important to us. This Privacy Statement explains what information we  
-collect about you and what we do with it. Please take a few minutes to read it. 
+Last updated on Friday 21 June 2013
 
-1\. Who are we?
+## Proprietor
 
-Smooch.com, owned by WooWise Ltd (“We”), run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. Woowise Ltd will hereby be referred to as Smooch.com for the purposes of this Privacy Statement.
+For the purposes of the Data Protection Act 1998 we confirm that the proprietor and operator of the Smooch website at [http://www.smooch.com](http://www.smooch.com/) (the "Website") and the dating and networking service offered via the site (the "Service") is Woowise Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG ("we," "us," "our" or "Woowise"). Woowise can be contacted via the contact section on the Website or by writing to our registered address.
 
-2\. What information do we collect about you and what do we use it for?
+Woowise respects the privacy of each user accessing the Website ("you," "your") and is committed to protecting your privacy. Woowise has structured the Website so that, in general, it is necessary to provide log-in information and identify yourself to access the Website. Woowise ensures that any personal information provided by you to Woowise will be processed in accordance with the eight principles of the Data Protection Act 1998 and the Privacy Policy set out below. The Website is registered with the Information Commissioner in accordance with the Data Protection Act 1998.
 
-We collect the following types of information:
+## Submission and Processing of Data
 
-Contact information
+When you subscribe or sign up to the Website, Woowise may ask you for certain information and, subject to the Terms governing use of the Website, you may submit to or communicate through the Website, personal data of any kind, such as:
 
-Smooch.com's registration form requires you to give us contact information (like your user name and email address). We use this contact information from the registration form to send you information about our company and your account. You will be identified on the site by your user name.
-
-Profile information
-
-During registration on the site you will be asked to provide certain information about yourself describing things such as your physical appearance, your level of education, your star sign and attitudes towards certain things, like smoking, drinking, etc. We collect and use this information as part of the service so other users can decide if they would like to meet you. All of this information is optional and it is up to you to decide what you want to provide us with.
-
-Sensitive information
-
-We also ask for some information about you which is more “sensitive”, such as information about your sexuality, ethnic origin and your religion. You may also submit photographs of yourself. All such information you submit will be visible to all other users under “Your Profile”. Again, we ask you for this information to help other users find out about you and decide whether they want to meet you.
-
-Cookie information
-
-While you are using this site, we may store a text file called a “cookie” on your computer, or check for the existence of a cookie that we stored on your computer during a previous visit by you to our site. The information we store does not tell us anything about you personally, but tells us about your Smooch.com account, and the use of our site generally. For more information, see below (About Cookies).
-
-3\. About Cookies
-
-Cookies are text files that are stored on your computer by websites. Cookie files help to identify the computer that is accessing our server, but not the person that is viewing the site. Cookie files are extremely small and are not likely to use up much space on your computer.
-
-We use cookies to record the following:
-
-  
-
-
-  * * which of our pages are being visited
-  * * the date and time the site is being accessed
-  * * the IP address from which the site is accessed
-  * * the type of browser and operating system you use
-  * * preventing barred members from accessing our site
-  * * to identify members for security purposes
+  * your name, phone number, postal address, email address, contact and bank / credit card details;
+  * if you contact us, a record of that correspondence;
+  * your answers to any surveys that we use for research purposes, although you do not have to respond to them; or
+  * details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 
 
-We use this information for the following purposes:
+Woowise may also record which services you are interested in and which services you purchase as well as user traffic patterns and site use. This information will be kept securely in accordance with an internal security policy and may be used to:
 
-  
-
-
-  * * to work out which parts of our site are most popular
-  * * to assist you in using certain aspects of the site – e.g. the payment page
-  * * to personalise some of the pages you visit
-
-
-
-We cannot read cookies that other websites have stored on your computer. Our cookies do not tell us what you have been doing on other sites. 
-
-Some of our cookies remain on your computer only during your use of the site. Others will remain on your hard drive after your session has finished and until they automatically expire or until you delete them via your browser.
-
-You do not have to agree to the use of cookies. For information on how to reject cookies, see below (Removing and Disabling Cookies). 
-
-4\. Third-Party Cookies
-
-We may use third-party advertising companies to display ads on our website. These third-party advertising companies may separately place or recognise a cookie file on your browser in the course of delivering advertisements to Smooch.com. We cannot see the information collected or stored in third party cookies. We do not provide personal data about you to these third party advertisers.
-
-5\. Removing and Disabling Cookies
-
-If you don’t want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of our service.
-
-If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.
-
-6\. Transferring your data outside Europe
-
-We have members in countries around the world. It’s likely that at some point your data will be transferred to a country outside the EU, such as, for example, if a member outside the EU wants to find out about you and looks up your details. Generally, most countries outside the EU have lower legal standards for protection of personal data than EU countries. However, we take reasonable precautions to safeguard your data in these circumstances by having a high level of security in place during transfer across the internet.
-
-7\. How to access your information
-
-You can access and update your personal information at any time by logging into the site, and clicking on “Edit Profile” in the menu. To change your email address, click on “Site Preferences” in the menu.
-
-8\. Changes to this Privacy Statement
-
-We reserve the right to make changes to this Privacy Statement from time to time. Any changes to the Privacy Statement will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this policy. 
-
-9\. Website Analytics
-
-This site uses ClickTale web analytics service.ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to gather a random sample of site behaviour in order to help improve the service provided. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
-
-10\. Contacting us
-
-If you have any questions about any aspect of this Privacy Statement or want to discuss how we handle your data, please click on the 'Contact Us' link.
-
-  
+  * Smooch Member Privacy Policy
+  * provide you with an up to date, efficient and reliable service;
+  * help fraud prevention i.e. Woowise checks card details with credit agencies and reserves the right to refuse to make available the Website services on that basis (your credit rating can be checked for a nominal fee with the main UK agencies Equifax and Experian);
+  * open and run your account;
+  * administer prize draws;
+  * provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; and
+  * generally run the Website.
 
 
-## Completely free dating and free chat at Smooch.com
 
- \- yes really! Single guys and single girls who are looking for a girlfriend or boyfriend to be their partner in life. If you're seeking a long-term or short-term relationship, Smooch.com is the perfect place to start looking, because thousands of hot singles join this free online dating site every day - and any one of them might be your perfect match! Fear not, Smooch.com really is a totally 100% free online dating web site. We aim to provide you with a 100% free, cool, safe and fun place to meet others. We want you to have fun and success while you're looking for your ideal partner, so we've provided a wide range of tools to help you do just that. These include an efficient, fast search facility, fully detailed personals, free emails and free private chat, a photo gallery, a picture rating feature, a contact filter, and your very own personal hotlist for you to create and add to. With all that at your disposal, you can hardly fail to find romance or a soulmate. Join Smooch.com today and start looking for your dream date, and it will never cost you a penny, 'cos Smooch stands for genuinely free online dating. 
+By registering and submitting your data you agree to this use.  
+From time to time Woowise also monitor and record telephone calls for training purposes and to improve the service to you.  
+Woowise will never collect sensitive information about you without your explicit consent.
+
+## Associate Websites
+
+The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website. These websites may include all those operated by Woowise Limited or Global Personals Limited in accordance with the classifications described below.
+
+Woowise makes an effort to ensure that members of the Service are not connected with other members that may be inappropriate and therefore apply various classifications to the various web sites that provide access to the Service. By registering with the site you acknowledge and accept that Woowise may apply certain classifications to your profile due to your accessing the Service via the Website and may use such classifications to restrict:
+
+  * the availability of communication between yourself and other members of the Service;
+  * the availability of the details of other members of the Service to yourself; and
+  * the availability of your details to other members of the Service.
+
+
+
+## Marketing Communications
+
+If you have used the Website before, it is possible that Woowise have this information already and it is being used to contact you about offers, events, items or related activities that you may find useful. If you are an existing customer, Woowise will continue to keep you informed unless you tell us not to.
+
+If you are a new customer, Woowise will give you the choice (for example, once you have subscribed or signed up) whether or not you want us or other reputable companies to contact you about future offers, events and new services or related activities that you may find useful. Woowise will not bombard you with emails, but Woowise would like to keep you informed of any developments on the Website.
+
+Woowise and the Website do not sell, trade or rent your personal information to other companies and partners but from time to time may want to share data with other reputable companies both within and outside the European Union who may have interesting offers and information for you.
+
+Woowise and the Website will not send you any marketing emails or pass your information on to third parties unless you give your consent or you have given it already. If you wish to receive this information, on the "My Settings" page please select "On" next to the option to receive "Relevant information from selected third parties" and click the "Save my settings" button.
+
+## Cookies
+
+In order to improve the service and the Website, Woowise may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited the Website before) is recorded on your hard drive and used by us to improve the Website and the services and services available to you.
+
+Cookies enable us:
+
+  * To estimate our audience size and usage pattern;
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests;
+  * To speed up your searches; and
+  * To recognise you when you return to our site.
+
+
+
+Use of cookies is integral to the operation of the Website and if you disable cookies the Website will not function upon your computer.
+
+## Third-Party Cookies
+
+We may use third-party advertising companies to display ads on our website. These third-party advertising companies may separately place or recognise a cookie file on your browser in the course of delivering advertisements to Smooch. We cannot see the information collected or stored in third party cookies. We do not provide personal data about you to these third party advertisers.
+
+## Security of Personal Data
+
+Transmission of data and information via the Website is not a secure or encrypted transmission method for sending your personal data, unless otherwise indicated on the Website. Accordingly, your attention is drawn to the fact that any information and personal data carried over the Internet is not secure. Information and personal data may be intercepted, lost, redirected, corrupted, changed and accessed by other people.
+
+We set strict security standards to prevent any unauthorised access to your personal data once we have received it and wherever possible we will use adequate security software and working procedures to ensure the security of your personal data. To prevent unauthorised access, maintain accuracy, and ensure proper use of personal data, we have employed physical, electronic, and managerial processes to safeguard and secure the information we collect online.
+
+## Disclosure of Personal Data
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * If Woowise or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+  * For the purpose of asking that third party to carry out data analysis, cleansing and/or market research on our behalf; or
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/Terms.aspx); or to protect the rights, property, or safety of Woowise, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## Subject Access Rights
+
+Under the Data Protection Act 1998, we have to provide you, as a "data subject", with a readable copy of all personal data which we may hold about you, within 40 days of receiving your written request for us to provide it. The Data Protection Act 1998 allows us to charge a fee of £10 pounds for this. Evidence or proof of your identity (for example, a copy of your passport, driver's licence or current bills) will be required.
+
+It is both in our interest and yours to store and process accurate personal data. If the data we hold about you is inaccurate in any way, where appropriate, you may have your personal data corrected by us on request by having it:
+
+  * completed;
+  * amended; and/or
+  * erased.
+
+
+
+Please contact us to update any of your personal data or to request access to your personal data by addressing the "Information Officer" via:
+
+[Our Contact Form](https://support.smooch.com/anonymous_requests/new)  
+We reserve the right to refuse to provide you with a copy of your personal data based on the exemptions set out in the Data Protection Act 1998, but if we do refuse we will give full reasons for our refusal and allow you to challenge our decision.
+
+If you have any questions or comments about privacy or the Website privacy policy, or if you already have submitted information that you do not wish us to have or if you think that the Website has cookies or data about you that you don't want us to use or that is incorrect please [Contact Us](https://support.smooch.com/anonymous_requests/new) and the information will be corrected as soon as possible or removed from the database as you request.
+
+## Changes to this Privacy Policy and Transfers of Ownership
+
+You agree that if we transfer ownership or management of the Website or Woowise to a third party we may also transfer your personal data or other personal data you have provided to us, including all sensitive personal data and any other information about you to such third party, provided such third party agrees to observe this policy.
+
+Woowise will post any changes to this Privacy Policy on the Website from time to time and, where appropriate, notify you by e-mail. Please be sure to regularly check our Privacy Policy before using the Website. Continued use of the Website shall indicate your acceptance of any changes to this Privacy Policy.
