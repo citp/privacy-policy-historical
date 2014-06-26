@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207090036id_/http%3A//www.auckland.ac.nz/uoa/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064405id_/https%3A//www.auckland.ac.nz/en/admin/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The University of Auckland
 
-**Introduction**
+## Introduction
 
 * * *
 
@@ -10,7 +10,7 @@ The collection, use, storage, disclosure and correction of personal information 
 
 The University collects, stores and uses and discloses personal information about individuals in a number of circumstances set out below.
 
-**1\. Collection of Information**
+## 1\. Collection of Information
 
 * * *
 
@@ -38,18 +38,21 @@ The following information is recorded and logged by the University server when y
 
 The University uses this information for statistical purposes and for system administration tasks to maintain this service. The University does not attempt to identify individuals as part of regular business practice. However, in the event of an investigation, the University, a law enforcement agency or other government agency may exercise its legal authority to inspect relevant server logs.
 
+### **Confidential and personal information**
+
 The University takes all reasonable precautions to guard against unauthorised access to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted.
+
+### **Cookies**
 
 A cookie is a very small text file that is sent to your browser from our web server and stored on your computer hard drive. The text file is sent back to the server each time the browser requests a page from the server. Cookies help us to provide the user with a customized experience without having to remind us of his/her preferences each time he/she returns to our web pages. Cookies cannot damage files, nor can they read information from the hard drive of a computer. It is possible to disable the acceptance of cookies by your web browser. However, doing so may restrict your ability to access some web pages.
 
-**2\. Use of personal information**
+## 2\. Use of personal information
 
 * * *
 
-Personal information you supply to us through the use of online forms, email, online surveys and feedback will be used for the purposes of the University including student administration matters, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates.  
- 
+Personal information you supply to us through the use of online forms, email, online surveys and feedback will be used for the purposes of the University including student administration matters, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates.
 
-**3\. Disclosure of personal information**
+## 3\. Disclosure of personal information
 
 * * *
 
@@ -59,15 +62,15 @@ If at any stage you provide us with your email address either as part of a messa
 
 External sites that are linked to or from the University site are generally not under the control or responsibility of the University and you are advised to review their privacy statement.
 
-**4\. Data quality/ access**
+## 4\. Data quality/ access
 
 * * *
 
 The University will use reasonable endeavours to maintain accurate, up-to-date information regarding students and staff.
 
-If you believe that the personal information the University holds about you is inaccurate and requires correction or if you require copies of your personal information held by the University, please contact the [Privacy Officer](mailto:legal@auckland.ac.nz?subject=Privacy%20enquiry%20from%20website).
+If you believe that the personal information the University holds about you is inaccurate and requires correction or if you require copies of your personal information held by the University, please contact the [Privacy Officer](mailto:legal@auckland.ac.nz?subject=Privacy%20enquiry%20from%20website).
 
-**Official Information Act 1982**
+## Official Information Act 1982
 
 * * *
 
@@ -123,5 +126,5 @@ Under the Act the University may make a reasonable charge for providing "officia
 
 You should familiarise yourself with the Act if you wish to make a request for official information. If you make any request for official information that concerns a third party the University may give notice of your request to the third party.
 
-[Information about copyright](https://web.archive.org/uoa/site/central/copyright)   
-[Read the disclaimer](https://web.archive.org/uoa/site/central/disclaimer)
+[Information about copyright](https://www.auckland.ac.nz/en/admin/footer-links/copyright.html)   
+[Read the disclaimer](https://www.auckland.ac.nz/en/admin/footer-links/disclaimer.html)
