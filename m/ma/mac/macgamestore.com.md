@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055048id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061859id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
 
 # Privacy | Macgamestore.com
-
-_Last Updated: Jul 31, 2012_
 
 MacGameStore, Inc, its subsidiaries and affiliated companies ("MACGAMESTORE" or "we") provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of (i) the website located at [www.macgamestore.com](https://web.archive.org/) (the "Site"), including any services, features and content accessible or downloadable from the Site, and (ii) any other MACGAMESTORE application, service or product licensed, downloaded or otherwise accessed by such users through third party websites or sources ((i) and (ii) collectively, the "Service"). 
 
@@ -49,3 +47,6 @@ We will disclose any information about you to government or law enforcement offi
 **Our Policy Regarding Children:** The Service is not directed to children under the age of 14. We do not knowingly collect or solicit personally identifiable information from children under 14. If you are under 14, please do not attempt to register for an Account on the Service or send any information about yourself to MACGAMESTORE. If we become aware that a child under 14 has provided us with personal information, we will delete such information from our files. 
 
 **Contacting Us:** If you have any questions about this Privacy Policy, please contact us using our Support section. 
+
+_Last Updated: Jul 31, 2012_  
+
