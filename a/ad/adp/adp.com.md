@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120053429id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adp.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200410id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -46,7 +46,9 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > **Safe Harbor Privacy Statement**
 > 
-> ADP, Inc. and its US subsidiaries Virtual Edge Corporate and RightThing LLC (formerly AIRS/The Right Thing) participate in the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Programs. For ADP, Inc., we protect client human resources information received for processing from clients in the European Economic Area and Switzerland in accordance with the Safe Harbor Principles. We also protect all data processed by our Trusted Platform Security Infrastructure and related technologies in accordance with the Principles. Additionally, ADP, Inc. protects all ADP associate information in accordance with the Safe Harbor Principles, and it has certified to the U.S.- E.U. and U.S.-Swiss Safe Harbor Frameworks for its own human resources data. To learn more about Safe Harbor and to view ADP's certification, please visit <http://www.export.gov/safeharbor/>.
+> Some ADP companies participate in the U.S. – EU and U.S. – Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce, including Virtual Edge Corporation and RightThing LLC (formerly AIRS/The Right Thing). This means that, for personal information that individuals in the European Economic Area and Switzerland provide to these affiliates for processing on behalf of our clients, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Additionally, ADP protects all ADP associate information in accordance with the Safe Harbor Principles, and ADP, Inc. has certified to the U.S. - EU and U.S. - Swiss Safe Harbor Frameworks for human resources data. 
+> 
+> For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
 > 
 > [](https://safeharbor.export.gov/list.aspx)  
 > [](http://www.export.gov/safeharbor)
