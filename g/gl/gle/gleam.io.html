@@ -1,38 +1,50 @@
-<!--The following is the downloaded HTML source of the gleam.io privacy policy that was archived on 2013-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131025015608id_/https%3A//gleam.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gleam.io privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626035738id_/https%3A//gleam.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="" xmlns:ng="http://angularjs.org" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 <meta charset="utf-8">
-<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=152351391599356"></script><script src="https://gleam.io/iR0GQ/ol.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"6fcc9884b2","applicationID":"4348758","transactionName":"Il1YFhNXCA9cRxoTVA1RWQ8EFwcMV0FQCkU=","queueTime":0,"applicationTime":31,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYEWV9aGwcDUFlVAgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta content="width=980" name="viewport">
+<meta content="notranslate" name="google">
 <title>Gleam Privacy Policy</title>
-<meta content="ijt0eln-QrPOQOWv_7SyWvjpIfLLMezC9NWTGEcIBvY" name="google-site-verification">
+<meta content="Mqt6LB8YixoNmUrYX15T1wBhmC21gdvDey2B1l_tZUo" name="google-site-verification">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="zKU/V3X9b3yRmCx6UyxvKBe2Yg7P9GpjoTQkZ+BM668=" name="csrf-token">
-<script src="https://gleam.io/iR0GQ/ol.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script data-apikey="549f75d41cada6be843309e1890670d7" src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-1.0.9.min.js"></script>
-
+<meta content="RNgPb0YvCbKBFJKXvnFcar8cURwh4SoIFuj08DXnr90=" name="csrf-token">
 <!--[if lt IE 9]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script>
 <![endif]-->
-<link href="https://js.gleam.io/assets/main-7362d5b8599a6c94d23b266b7628dfc1.css" media="all" rel="stylesheet">
+<link href="https://js.gleam.io/assets/main-2f2bf652447ab479a27914adf28f06ff.css" media="all" rel="stylesheet">
 <style>html{overflow-y:scroll}</style>
 <meta content="Gleam" property="og:site_name">
-<meta content="https://js.gleam.io/images/logo.png" property="og:image">
-<link href="//fonts.googleapis.com/css?family=Open+Sans:400,700|Montserrat:400,700" rel="stylesheet" type="text/css">
-<link href="/apple-touch-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-<link href="/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-<link href="/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-<link href="/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+<meta content="https://gleam.io/images/logo.png" property="og:image">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Montserrat:400,700" rel="stylesheet" type="text/css">
 <link href="/favicon.ico" rel="shortcut icon">
-<script src="https://js.gleam.io/assets/main-83da30e54acbca84a19981cc26d6eccb.js"></script>
-</head>
+<script>
+//<![CDATA[
+window.actionMarketingAppName = "Gleam"
 
-<body class="">
+//]]>
+</script><script src="https://js.gleam.io/assets/main-107815b13c8157e59cd7df29ef3b1883.js"></script>
+<script>
+//<![CDATA[
+
+if (typeof jQuery === 'undefined') {
+    document.write("\u003Clink href=\"/assets/main-2f2bf652447ab479a27914adf28f06ff.css\" media=\"all\" rel=\"stylesheet\" /\u003E");
+    document.write("\u003Cscript src=\"/assets/main-107815b13c8157e59cd7df29ef3b1883.js\"\u003E\u003C/script\u003E");
+    document.write('<span class=apply-cdn-fallback></span>');
+}
+
+//]]>
+</script><link href="/assets/main-2f2bf652447ab479a27914adf28f06ff.css" media="all" rel="stylesheet"><script src="/assets/main-107815b13c8157e59cd7df29ef3b1883.js"></script></head><body class=""><span class="apply-cdn-fallback"></span>
+
+
+
 <div class="navbar navbar-fluid-top">
 <div class="navbar-inner">
 <div class="container-fluid">
 <a class="brand no-underline" href="/">
-<img alt="Gleam logo" src="https://js.gleam.io/assets/gleam-039659f2d0e2babd9cc1f7fc7a451562.png">
+<img alt="Gleam logo" src="https://js.gleam.io/assets/gleam-599f3883d6583fc2790d2c16f107dfe7.png">
 </a>
 <div class="container nav-collapse collapse">
 <ul class="nav">
@@ -41,7 +53,7 @@
 <li><a href="/pricing">Pricing</a></li>
 </ul>
 <ul class="nav pull-right">
-<li><a data-no-turbolink="" href="/signup">Sign Up</a></li>
+<li><a data-no-turbolink="" data-signup="" href="/signup">Sign Up</a></li>
 <li class="login-nav"><a data-login="" data-placement="bottom" data-track-pageview="/login" href="/login">Login</a></li>
 </ul>
 </div>
@@ -109,6 +121,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
             <br>
             <a href="#support-modal" class="no-underline" data-modal-clone="#support-modal-template">Contact Us</a>
             <br>
+            <a href="/docs/referral" class="no-underline">Referral Program</a>
+            <br>
             <a href="/privacy" class="no-underline">Privacy Policy</a>
             <br>
             <a href="/terms" class="no-underline">Terms of Service</a>
@@ -118,10 +132,12 @@ If you have any questions about this Privacy Policy, the practices of this site,
             <a href="/app/competitions" class="no-underline">Competitions</a>
             <br>
             <a href="/app/rewards" class="no-underline">Rewards</a>
-            <br>
-            <a class="no-underline">Feedback (Coming Soon)</a>
-            <br>
-            <a class="no-underline">GleamBar (Coming Soon)</a>
+           <br><br>
+            <a href="https://gleam.io/agency" class="no-underline">Agencies</a>
+           <br><br>
+            <i class="icon-smile"> </i> <a href="/docs/updates" class="no-underline">Gleam Updates</a>
+           <br>
+            <i class="icon-thumbs-up-alt"> </i> <a href="http://blog.gleam.io/case-studies/" class="no-underline">Case Studies</a>
         </div>
         <div class="span6">
             <h4>Connect With Us</h4>
@@ -162,16 +178,16 @@ If you have any questions about this Privacy Policy, the practices of this site,
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-39718003-1', 'gleam.io');
+ga('create', 'UA-39718003-1');
 ga('send', 'pageview');
 
 //]]>
 </script>
 <script id="support-modal-template" style="display: none" type="text/html">
 <div class='modal hide fade' id='support-modal'>
-<form accept-charset="UTF-8" action="/feedbacks" class="js-ajax-submit formtastic feedback" id="new_feedback" method="post" novalidate="novalidate" style="margin: 0"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zKU/V3X9b3yRmCx6UyxvKBe2Yg7P9GpjoTQkZ+BM668=" /></div><div class='modal-header'>
+<form accept-charset="UTF-8" action="/feedbacks" class="js-ajax-submit formtastic feedback" id="new_feedback" method="post" novalidate="novalidate" style="margin: 0"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RNgPb0YvCbKBFJKXvnFcar8cURwh4SoIFuj08DXnr90=" /></div><div class='modal-header'>
 <button class='close' data-dismiss='modal' type='button'>&times;</button>
-<h3 id='myModalLabel'>How Can We Help?</h3>
+<h3 id='myModalLabel'>How can we help?</h3>
 </div>
 <div class='modal-body'>
 <p style='margin-bottom: 16px'>
@@ -184,9 +200,9 @@ first.
 <fieldset class="inputs" style="padding: 0"><div class="email input required stringish control-group" id="feedback_email_input"><label class=" control-label" for="feedback_email">Your Email</label><div class="controls"><input id="feedback_email" maxlength="255" name="feedback[email]" placeholder="jane.doe@example.com" style="width: 300px" type="email" />
 
 </div></div>
-<div class="text input required control-group" id="feedback_text_input"><label class=" control-label" for="feedback_text">How Can We Help You?</label><div class="controls"><textarea id="feedback_text" name="feedback[text]" rows="4" style="width: 515px">
+<div class="text input required control-group" id="feedback_text_input"><label class=" control-label" for="feedback_text">How can we help you?</label><div class="controls"><textarea id="feedback_text" name="feedback[text]" rows="4" style="width: 515px">
 </textarea>
-
+<span class="help-block">For technical issues, be specific and include which browser/device.</span>
 </div></div>
 </fieldset></div>
 <div class='modal-footer'>
@@ -200,7 +216,7 @@ first.
 
 <script>
 //<![CDATA[
-(function(d, t){if(window.location.hash!='#gleam'&&(document.cookie+'').match(/(^|;) *GleamP1cGJ=X($|;)/)){return;}
+(function(d, t){if(window.location.hash!='#gleam'&&(document.cookie+'').match(/(^|;) *GleamiR0GQ=X($|;)/)){return;}
 var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
 g.src = 'https://gleam.io/iR0GQ/ol.js'; s.parentNode.insertBefore(g, s);
 }(document, "script"));
@@ -208,8 +224,16 @@ g.src = 'https://gleam.io/iR0GQ/ol.js'; s.parentNode.insertBefore(g, s);
 //]]>
 </script>
 <div id="login-form" style="display: none" type="text/html">
-<form accept-charset="UTF-8" action="/login" class="js-ajax-submit form-micro formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="zKU/V3X9b3yRmCx6UyxvKBe2Yg7P9GpjoTQkZ+BM668="></div>
-<fieldset class="inputs"><div class="email input required stringish control-group" id="user_email_input"><label class=" control-label" for="user_email">Email</label><div class="controls"><input class="auto-focus" id="user_email" maxlength="255" name="user[email]" placeholder="Email" style="width: 208px" type="email" value="">
+<form accept-charset="UTF-8" action="/login" class="js-ajax-submit form-micro formtastic user" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="RNgPb0YvCbKBFJKXvnFcar8cURwh4SoIFuj08DXnr90="></div>
+<fieldset class="inputs"><div>
+<a class="btn btn-full btn-full-small facebook-bg" data-facebook-login="" href="javascript:void(0)" style="margin: 10px">
+<i class="icon-facebook"></i>
+<i class="icon-refresh icon-spin"></i>
+Login with Facebook
+</a>
+</div>
+<hr class="small">
+<div class="email input required stringish control-group" id="user_email_input"><label class=" control-label" for="user_email">Email</label><div class="controls"><input class="auto-focus" id="user_email" maxlength="255" name="user[email]" placeholder="Email" style="width: 208px" type="email" value="">
 
 </div></div>
 <div class="password input required stringish control-group" id="user_password_input"><label class=" control-label" for="user_password">Password</label><div class="controls"><input class="auto-focus" id="user_password" maxlength="128" name="user[password]" placeholder="Password" style="width: 208px" type="password">
@@ -226,10 +250,136 @@ Remember me
 <a data-no-turbolink="" href="/password/new">Forgot?</a>
 </small>
 </div>
-</fieldset><fieldset class="form-actions"><input class="btn btn-primary" name="commit" type="submit" value="Login">
+</fieldset><fieldset class="form-actions"><input class="btn btn-primary btn-embossed" name="commit" type="submit" value="Login">
 </fieldset></form>
 
 
 </div>
+<div class="modal hide signup-wizard" id="lead-form" ng-class="{'on-step-1': signupStatus.step == 1, 'on-step-2': signupStatus.step == 2, 'login-step': existingEmailUser, 'facebook-create-step': signupStatus.facebook_login}" ng-controller="SignupController" ng-init="leadType=&quot;Pre-Signup&quot;" style="" type="text/html">
+<div class="modal-header bergamot-bg">
+<h3 class="center color-white">Create Your Free Account</h3>
+</div>
+<div class="modal-body">
+<form class="contestant compact-box form-compact step-1 form-horizontal center" name="userCreateForm" ng-submit="proceed()">
+<fieldset class="inputs">
+<div class="email input required stringish control-group" ng-class="{error: userCreateForm.email.$invalid &amp;&amp; userCreateForm.email.$dirty, success: userCreateForm.email.$valid}">
+<div class="controls pull-left">
+<input id="lead[email]" maxlength="255" name="email" ng-model="signupStatus.email" ng-pattern="/^[A-Z0-9._%a-z\-]+@(?:[A-Z0-9a-z\-]+\.)+[A-Za-z]{2,4}$/" placeholder="jane.doe@example.com" required="" style="width: 277px" type="email">
+</div>
+<button class="btn btn-primary btn-input-append btn-embossed pull-right" href="javascript:void(0)" ng-disabled="userCreateForm.$invalid">
+Start
+</button>
+</div>
+<h4>Or</h4>
+<a class="btn btn-large facebook-bg btn-full btn-embossed" ng-click="facebookLogin()">
+<i class="icon-facebook" ng-if="!fbLoggingIn"></i>
+<i class="icon-refresh icon-spin" ng-if="fbLoggingIn"></i>
+Login with Facebook
+</a>
+</fieldset>
+</form>
+<form class="contestant compact-box form-compact step-2 form-horizontal" name="userDetailsForm" ng-submit="proceed()">
+<fieldset class="inputs">
+<div class="email input required stringish control-group" ng-class="{error: userDetailsForm.email.$invalid &amp;&amp; userDetailsForm.email.$dirty, success: userDetailsForm.email.$valid}" ng-if="signupStatus.facebook_login">
+<label class="control-label" for="user[email]">Email</label>
+<div class="controls">
+<input id="user[email]" maxlength="255" name="email" ng-model="signupStatus.email" ng-pattern="/^[A-Z0-9._%a-z-]+@(?:[A-Z0-9a-z-]+.)+[A-Za-z]{2,4}$/" placeholder="jane.doe@example.com" required="" type="email">
+</div>
+</div>
+<div class="input require stringish control-group" ng-class="{error: userDetailsForm.name.$invalid &amp;&amp; userDetailsForm.name.$dirty, success: userDetailsForm.name.$valid}" ng-if="!existingEmailUser">
+<label class="control-label" for="user[name]">Your Name</label>
+<div class="controls">
+<input id="user[name]" maxlength="32" name="name" ng-model="signupStatus.name" ng-required="signupStatus.step > 1 &amp;&amp; !existingEmailUser" type="text">
+</div>
+</div>
+<p ng-if="existingEmailUser">
+Please log in to your existing account
+<br>
+<a data-no-turbolinks="" href="/password/new">Forgot your password?</a>
+</p>
+<div class="input require password control-group stringish" ng-class="{error: userDetailsForm.password.$invalid &amp;&amp; userDetailsForm.password.$dirty, success: userDetailsForm.password.$valid}" ng-if="!signupStatus.facebook_login">
+<label class="control-label" for="user[password]">Password</label>
+<div class="controls">
+<input id="user[password]" name="password" ng-model="signupStatus.password" ng-pattern="/^$|.{6,}/" ng-required="!signupStatus.facebook_login &amp;&amp; signupStatus.step > 1" type="password">
+</div>
+</div>
+<div class="input require stringish control-group" ng-class="{error: userDetailsForm.site_name.$invalid &amp;&amp; userDetailsForm.site_name.$dirty, success: userDetailsForm.site_name.$valid}" ng-if="!existingEmailUser">
+<label class="control-label" for="user[site_name]">Site Name</label>
+<div class="controls">
+<input id="user[site_name]" maxlength="255" name="site_name" ng-model="signupStatus.site_name" ng-required="signupStatus.step > 1 &amp;&amp; !existingEmailUser" type="text">
+</div>
+</div>
+<div class="input require stringish control-group" ng-class="{error: userDetailsForm.site_url.$invalid &amp;&amp; userDetailsForm.site_url.$dirty, success: userDetailsForm.site_url.$valid}" ng-if="!existingEmailUser">
+<label class="control-label" for="user[site_url]">Site Url</label>
+<div class="controls">
+<input id="user[site_url]" maxlength="255" name="site_url" ng-model="signupStatus.site_url" ng-required="signupStatus.step > 1 &amp;&amp; !existingEmailUser" type="text">
+</div>
+</div>
+<div class="center">
+<input class="btn btn-primary btn-embossed btn-full btn-large" ng-if="!existingEmailUser" type="submit" value="Create My Account">
+<input class="btn btn-primary pull-right btn-embossed btn-full" ng-if="existingEmailUser" type="submit" value="Login">
+</div>
+</fieldset>
+</form>
+<div class="progress-spots">
+<div class="progress-spots-spot cursor" ng-class="{'progress-spots-on': signupStatus.step == 1}" ng-click="signupStatus.step = 1"></div>
+<div class="progress-spots-spot" ng-class="{'progress-spots-on': signupStatus.step == 2}"></div>
+</div>
+</div>
+</div>
 
-</body></html>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.Event.subscribe('edge.create', function(url) {
+      $('[ng-controller=EnterController]').scope().handleLike(url);
+  });
+
+  FB.getLoginStatus(function (data) {
+      var entryScope = $('[ng-controller=EnterController]').scope();
+      if(entryScope) {
+          entryScope.facebookContestantLoginStatus(data);
+      }
+
+      var loginScope = $('[ng-controller=LoginController]');
+  });
+
+  var app = window.Gleam;
+
+  FB.Canvas.setAutoGrow(91);
+
+  if(app && app.resizeContent) {
+    app.resizeContent();
+  }
+};
+
+(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=152351391599356";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+//<![CDATA[
+$('#lead-form').exit_intent({
+'location'           : 'center',
+'animation-in'       : 'fadeIn',
+'animation-out'      : 'fadeOut',
+'speed'              : 'fast',
+'overlayColor'       : '#378ed5',
+'overlayOpacity'     : '0.5',
+'nbTimepopupCanApear': 1,
+'cookieLife'         : 30,
+<!-- / those last two are the width and height of the class "overlayContent" -->
+'width'              : '680',
+'height'             : '400',
+'exitWindow'         :  'large'
+});
+
+//]]>
+</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
