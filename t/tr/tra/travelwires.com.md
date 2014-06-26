@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelwires.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018071746id_/http%3A//www.travelwires.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelwires.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143524id_/http%3A//www.travelwires.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy PolicyTravel Press Release
 
 **What information do we collect?** We collect information from you when you register on our site, place an order or subscribe to our newsletter.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
