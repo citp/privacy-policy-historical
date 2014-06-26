@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weasyl.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807171459id_/https%3A//www.weasyl.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weasyl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045418id_/https%3A//www.weasyl.com/policy/privacy) for the most accurate reproduction.*
 
-# Weasyl
+# Privacy Policy — Weasyl
 
 Weasyl.com takes your privacy very seriously. To make sure your personal information is secure, we communicate our privacy and security guidelines to Weasyl staff and employees and strictly enforce privacy safeguards within the company. This Privacy Policy applies to our web site, Weasyl.com. This Privacy Policy explains what information we collect through the Site, how we use that information, and what choices you have.
 
