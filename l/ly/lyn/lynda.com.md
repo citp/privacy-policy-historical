@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231235120id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200120id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.*
 
 # lynda.com Online Training Library®: Privacy
 
@@ -9,6 +9,8 @@ lynda.com has been awarded TRUSTe’s Privacy and Children’s Privacy Seal sign
 The TRUSTe program covers information collected through the websites [www.lynda.com](http://www.lynda.com/), [m.lynda.com](http://m.lynda.com/) and [www.video2brain.com](https://www.video2brain.com/), the lynda.com mobile application, and the service platform associated with this website.
 
 We self-certify compliance with the following: the U.S. – E.U. Safe Harbor Framework and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. lynda.com has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the lynda.com certification, please visit <http://www.export.gov/safeharbor>.
+
+lynda.com privacy practices described in this Policy comply with the APEC Cross Border Privacy Rules System.
 
 If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), or by fax at 415-520-3420 or by mail to: TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact_us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
@@ -124,7 +126,7 @@ With respect to your communications preferences, you can unsubscribe from newsle
 
 If you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only lynda.com (or agents working on behalf of us and under confidentiality agreements) will send you these direct mailings, and only if you did not later ‘opt-out’ of such offers.
 
-We do not send unsolicited commercial e-mails (“spam”). We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. Please note that we may not include the opt-out information in non-commercial Service e-mails (i.e., e-mails concerning your order, the Website Terms and Conditions of Use, etc.).
+We do not send unsolicited commercial e-mails (“spam”). We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. Please note that we may not include the opt-out information in non-commercial Service e-mails (i.e., e-mails concerning your order, the Website Terms of Service, etc.).
 
 You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Websites may not work properly in your case.
 
