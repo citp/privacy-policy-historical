@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204195033id_/http%3A//unisys.com/unisys/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115103id_/http%3A//unisys.com/unisys/privacy.html) for the most accurate reproduction.*
 
 # Unisys Privacy Notice
 
@@ -14,7 +14,7 @@ The personal data we request and that you voluntarily choose to provide will dep
 
 We do not sell your personal data.
 
-We use the personal data you provide to manage the services you request, respond to inquiries from you and tailor your Unisys experience. We may also use your personal data to support our relationship with you by sending you materials or contacting you about services or offers that we think would be of interest to you.
+We use the personal data you provide to manage the services you request, respond to inquiries from you, tailor your Unisys experience and otherwise perform our tasks and functions as a global IT service provider. We may also use your personal data to support our relationship with you by sending you materials or contacting you about services or offers that we think would be of interest to you.
 
 At all times, we will process your data fairly and lawfully. We will retain your personal data for as long as is necessary for the purposes stated above.
 
@@ -22,7 +22,7 @@ At all times, we will process your data fairly and lawfully. We will retain your
 
 We share your personal data with authorized Unisys personnel and third parties who are acting on our behalf in order to provide the services you request or to support our relationship with you.
 
-We are a global enterprise based in the United States with operations in countries around the world. We may access, use and process personal data collected from you in a country that is different from the country where you entered the personal data. By providing your personal data, you consent to the sharing of your personal data as described above and any resulting cross-border transfers.
+We are a global enterprise based in the United States with operations in countries around the world. Authorized Unisys personnel and third parties acting on our behalf may access, use and process personal data collected from you in a country that is different from the country where you entered the personal data. By providing your personal data, you consent to the sharing of your personal data as described above and any resulting cross-border transfers.
 
 We may also disclose your personal data if we are required to do so in order to comply with our legal obligations.
 
@@ -76,8 +76,15 @@ We may update, amend or remove this Privacy Notice from time to time without not
 
 ### Contact Us
 
-If you have any questions or comments regarding this notice or Unisys' privacy practices, or any concerns regarding a possible violation of the same, please contact the _**[Unisys Global Privacy Office](https://web.archive.org/unisys/privacyqueries.jsp)**_.
+If you have any questions or comments regarding this notice or Unisys' privacy practices, or any concerns regarding a possible violation of this notice, our practices or any applicable privacy law, please contact the _**[Unisys Global Privacy Office](https://web.archive.org/unisys/privacyqueries.jsp)**_ and we will promptly respond.
 
-Effective May 14, 2013
+Unisys Global Privacy Office  
+11720 Plaza America Drive, Tower 3  
+MS 7-516  
+Reston, VA 20170  
+United States  
+[unisysglobalprivacy@unisys.com](mailto:unisysglobalprivacy@unisys.com)
 
-Copyright © 2013 Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
+Effective February 17, 2014
+
+Copyright ©  Unisys. All rights reserved. [www.unisys.com](http://www.unisys.com/)
