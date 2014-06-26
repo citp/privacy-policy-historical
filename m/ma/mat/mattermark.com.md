@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211090055id_/http%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090156id_/https%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
 
 # Mattermark - Quantifying Private Company Growth for Startup Investors
 
