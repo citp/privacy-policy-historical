@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425033750id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproteinworks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024213id_/http%3A//www.theproteinworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy THE PROTEIN WORKS™
+# Privacy Policy
 
 This privacy policy sets out how The Protein Works™ uses and protects any information that you give The Protein Works™ when you use this website.
 
