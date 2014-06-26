@@ -1,63 +1,60 @@
-> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810210601id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gavick.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120544id_/http%3A//www.gavick.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### GavickPro takes your privacy seriously.  
-Please read the following to learn more about our privacy policy.
+## We take your privacy seriously; please read the following to learn more about our privacy policy:
 
-  1. [General Information](http://www.gavick.com/privacy-policy.html#1)
-  2. [Safe and Secure Online Purchase](http://www.gavick.com/privacy-policy.html#2)
-  3. [Information Collection and Use](http://www.gavick.com/privacy-policy.html#3)
-  4. [Changing / Updating Personal Data](http://www.gavick.com/privacy-policy.html#4)
-  5. [Protection of Personal Information](http://www.gavick.com/privacy-policy.html#5)
-  6. [Consent to Disclose Data](http://www.gavick.com/privacy-policy.html#6)
-  7. [Contact Information](http://www.gavick.com/privacy-policy.html#7)
-
+  1. [General information](http://www.gavick.com/privacy-policy.html#1)
+  2. [Safe and secure online purchases](http://www.gavick.com/privacy-policy.html#2)
+  3. [Information collection and use](http://www.gavick.com/privacy-policy.html#3)
+  4. [Changing / updating personal data](http://www.gavick.com/privacy-policy.html#4)
+  5. [Protection of personal information](http://www.gavick.com/privacy-policy.html#5)
+  6. [Consent to disclose data](http://www.gavick.com/privacy-policy.html#6)
+  7. [Contact information](http://www.gavick.com/privacy-policy.html#7)
 
 
-####  General Information
 
-The Privacy Policy of GavickPro is used to protect our customers' privacy and security of information stored and shared with us through www.gavick.com. Through the act of registering with and using our website, you automatically give consent to use and disclose information as needed. If you do not agree with the terms defined below, you should not use products or services offered by GavickPro.
+###  General Information
 
-####  Safe and Secure Online Purchase
+GavickPro’s privacy policy is designed to protect our customers’ rights to privacy and to ensure any information shared with us through www.gavick.com is securely stored. By registering with us and making use of our website, you consent for GavickPro to use and disclose information as needed, in accordance with EU law. If you do not agree with the terms defined below, you should not use the products and services offered by GavickPro. 
 
-We realize that using secure online shopping is important to you. Therefore, we use Thawte® Extended Validation SSL Certificate. It is used to keep your information secure while making online transactions with us.
+###  Safe and Secure Online Purchase
 
-Extended Validation SSL confirms GavickPro has been assessed and that we have instituted the highest standard in Internet security available to commercial industries. It also means that while visiting our site, a green-colored address bar will be visible. Once you click in this field, Thawte® will be displayed as the authority which issued the Extended Validation SSL Certificate. 
+We realize the importance in ensuring your online shopping experience is secure. To this end, we use the Thawte® Extended Validation SSL Certificate to secure your personal information whenever you make a transaction with us. 
 
-####  Information Collection and Use
+The Extended Validation SSL Certificate confirms that GavickPro has been assessed to have installed the highest standard of Internet Security available to commercial industries. Whenever you enter a secure section of our site, such as payment or sign-up pages, you will see a green-colored address bar. If you click this field you will be able to view information regarding the Extended Validation SSL Certificate and confirm Thawte® as the issuing body. 
 
-It is essential that we collect some personal information in order to accurately process your order in a timely fashion. Further, we require specific username and password information for you to access our website when desired. At the time of registration, you provide consent for us to periodically send you informative email messages. In addition, your data is used when you access technical support. In the case of the issuing of invoices, it is the responsibility of the buyer to provide us with such additional personal information such as full name, email address and mailing addresses.
+###  Information Collection and Use
 
-Your personal information may also be used as required for the purpose of legal action. Protection and defence of the rights and property of GavickPro are taken into consideration, as well as any merger or other business action.
+In order to process your order accurately and in a timely fashion it is essential that we collect some personal information from you. Furthermore, we require username and password validation before we may allow you to access the functions of our website. At the time of registration you provide consent for us to send informational email messages to you regarding your account or other offers by GavickPro. In addition, your data will be stored when you access technical support. With regards to the issuing of invoices; it is the responsibility of the purchaser to provide us with additional information required for the invoice, such as full names, email addresses and mailing addresses.
 
-####  Changing / Updating Personal Data
+Your personal information also may be used as required in the event of legal action regarding the protection and defense of GavickPro’s rights and property, or in regards to any merger or other business action that requires that data stored by GavickPro be disclosed. 
 
-If you give us permission to send you information updates, including newsletters about product upgrades, updates, new products / services, or discounts available, you must remember to keep us informed when you change your email address. If you are unable to make such changes yourself on our website, we will do it at your request. Also, remember that you can cancel email notifications at any time at gavick.com.
+###  Changing / Updating Personal Data
 
-####  Protection of Personal Information
+Should you give us permission to send you information regarding updates, including newsletters about product upgrades, updates, new products/services and discounts, then it is your responsibility to advise us of any changes to your contact details. If you are unable to make such changes via our website you may contact our support team, who will make changes to your account at your behest. You may cancel email notifications at any time via Gavick.com. 
 
-Information gathered and stored at gavick.com is fully protected. We do our best to secure data collected from customers and we do not disclose it to any unauthorized person or organization. All data is restricted to GavickPro employees and external service providers only, which are entitled to use it to fulfill business functions. Misuse of this data is forbidden and GavickPro will take appropriate disciplinary action as required should we learn that personal data we store was used in an unapproved manner. 
+###  Protection of Personal Information
 
-Please note that GavickPro does not take responsibility for data used in a Paypal financial transaction when purchases are made at gavick.com. Paypal is responsible for accepting and verifying your financial account details. As a result, your financial details are not stored on our system. 
+Information gathered and stored by GavickPro is protected. We ensure that data collected from our customers is secured as much as reasonably possible and do not disclose this data to any unauthorized person or organization. All data is restricted to GavickPro employees and contracted external service providers only, who may use it to fulfill business functions. Misuse of this data is forbidden and GavickPro will take appropriate disciplinary action as required should this information be used in an inappropriate manner. 
 
-####  Consent to Disclose Data
+Please note that GavickPro does not take responsibility for data provided in a Paypal transaction when purchases are made via Gavick.com. Paypal functions as our merchant and processes your financial details; we do not receive or store any such details in our system. 
 
-It is necessary for GavickPro to maintain a minimum amount of personal information about our customers in order to provide appropriate products and services. It is not possible to make a purchase without providing some level of personal information.
+###  Consent to Disclose Data
 
-At any time, you are free to advise us as to what personal information you are not willing to share. Be aware that our services may be restricted as a result.
+It is necessary for GavickPro to maintain a minimal amount of personal information about our customers in order to provide appropriate products and services, as it is not possible to complete a purchase without providing some amount of personal information.
 
-Please note that there may be situations where it is necessary for your personal information to be used despite the fact you have withdrawn consent to disclose details of your purchase records.
+At any time, you may advise us of which personal information you do not wish to share; however please be aware that the products and services we provide may be restricted as a result. 
 
-####  Contact Information
+Please note that there may be legal or official situations where it is necessary for your personal information to be used despite your withdrawn consent to disclose details of your purchase records. 
+
+###  Contact Information
 
 Please do not hesitate to contact us at:
     GavickPro
     ul. Kraszewskiego 1
     33-380 Krynica Zdroj
     Poland
-    Phone: (0048) 535 79 19 04, (0048) 18 30 70 703
+    Phone: (0048) 535 79 19 04
     Fax: (0048) 18 521 37 52
-    E-mail: [info@gavick.com](mailto:info@gavick.com)
-
-GavickPro website uses cookies. By continuing to use this website, you are giving consent to cookies being used. For more information visit our [Cookie policy.](http://www.gavick.com/cookies.html) [×](http://www.gavick.com/privacy-policy.html#close)
+    E-mail: [office@gavick.com](mailto:office@gavick.com)
