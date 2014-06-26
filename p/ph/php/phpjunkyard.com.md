@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816152412id_/http%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110329id_/http%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -12,7 +12,7 @@ Klemen Stirn is the sole owner of the information collected on PHPJunkyard. Klem
 
 #### Order
 
-[2checkout Inc.](https://web.archive.org/web/20130816152412id_/http%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+[2checkout Inc.](https://web.archive.org/web/20140626110329id_/http%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
 ### Information Use
 
