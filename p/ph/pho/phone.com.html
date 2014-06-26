@@ -1,28 +1,30 @@
-<!--The following is the downloaded HTML source of the phone.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221071904id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phone.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626055642id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P697LD"></script><script src="//cdn.optimizely.com/js/7064005.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P697LD"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/rsicwmd708/analytics.min.js"></script><script src="//cdn.optimizely.com/js/7064005.js"></script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">		
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/ico" href="//www.phone.com/favicon.ico"> 
   <link href="/phonecom.css" rel="stylesheet" type="text/css">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P697LD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-P697LD');</script>
-<!-- End Google Tag Manager -->
+<!-- Begin loading Segment.io library -->
+<script type="text/javascript">
+window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
+window.analytics.load("rsicwmd708");
+window.analytics.page();
+</script>
+<!-- End loading Segment.io library -->
 
 <script type="text/javascript" src="/js/jshashtable.js"></script>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 <script src="/js/jquery/js/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
 <script src="/js/jquery/js/jquery.kinetic.min.js" type="text/javascript"></script>
-  
+
+<link rel="stylesheet" type="text/css" href="/tooltipster.css">
+<script type="text/javascript" src="/js/jquery/js/jquery.tooltipster.min.js"></script>
+
 <script type="text/javascript" src="/js/jquery/js/ajaxfileupload.js"></script>
 <script type="text/javascript" src="/js/jquery/js/jquery.numberformatter-1.2.3.jsmin.js"></script>
 <script type="text/javascript" src="/js/jquery/js/jquery.md5.js"></script>
@@ -66,41 +68,108 @@ if ( !Modernizr.input.placeholder ) {
 <body>
 
 <!-- header goes here -->
-  <script type="text/javascript" src="/js/plugin-detect.js"></script>
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P697LD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P697LD');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript" src="/js/plugin-detect.js"></script>
 <script type="text/javascript"><!--
 $(document).ready(function() {
     PC.Controller.Global.getCurrentLoginDisplay();
     PC.Controller.Global.setDeviceFingerprint();
 });
 // --></script>
-<div id="sign_up_form" class="sign-up-overlay" style="z-index: 3000;">
+  <style>
+#pop-mask {
+    background: none no-repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    left: 0;
+    position: absolute;
+    top: 0;
+    z-index: 1001;
+    height: 100%; width: 100%; 
+}
+#signup-pop {
+    box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);
+    z-index: 1002;
+    left: 50%;
+    margin: -300px 0 0 -256px;
+    position: absolute;
+    top: 50%;
+    width: 512px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align:center;
+}
+@media screen and (max-width: 1099px) {
+#signup-pop {
+    left: 45%;
+    margin: -250px 0 0 -256px;
+    position: absolute;
+    top: 60%;
+    width: 70%;
+}
+    
+}
+@media screen and (max-width: 450px) {
+#signup-pop {
+    left: 5%;
+    margin: 0 0 0 0;
+    position: absolute;
+    top: 2%;
+    width: 80%;
+}
+    
+}
+</style>
 
-<div class="center-div" style="padding-top: 5%; padding-bottom: 2%;">
-<div class="close"><a href="javascript:void(0);" id="signup-global-close"><img src="/images/button_close.png" border="0" title="Close"></a></div>
-<h2>FREE 30 Day Phone.com Trial</h2>
+<script>
+function amIclicked(e, element)
+{
+    e = e || event;
+    var target = e.target || e.srcElement;
+    if(target.id==element.id)
+        return true;
+    else
+        return false;
+}
+function oneClick(event, element)
+{
+    if(amIclicked(event, element))
+    {
+            hideMe('pop-mask');
+    }
+}
 
-<div class="half-col">
+function showMe(target){
+    var toShow = target;
+	document.body.scrollTop = document.documentElement.scrollTop = 0;
+    document.getElementById(toShow).style.display = 'block';
+}
+function hideMe(target){
+    document.getElementById(target).style.display = 'none';
+}
+</script>
+		
 
-<h3>It's fast and free to get started</h3>
-<p>Start using your new Phone.com number in minutes.</p>
-
-<div class="half-col">
-<p>Customize your service and access all our calling features.</p>
-</div>
-<div class="half-col omega">
-<p>No credit card needed for trial.</p>
-</div>
-<br class="clear">
-
-
+    <div id="pop-mask" style="display: none;" onclick="oneClick(event, this);">
+      <div id="signup-pop"> 
+        <a href="javascript:void(0);" onclick="oneClick(event, this);" style="position: absolute; top: 5px; right: 5px;"><img src="/images/button_close_grey.png" alt="Close" title="Close" border="0"></a>
+        <div style="margin-bottom: 20px; text-align: center;"><img src="http://www.phone.com/images/logo_phonecom.png" border="0" title="Phone.com" alt="Phone.com"></div>
+        <div style="background-color: #919191; color: #fff; font-size: 22px; margin-top: 1%; margin-left: -20px; margin-right: -20px; margin-bottom: 20px;padding: 10px; text-align: center;">
+          Start your free 30 day trial
         </div>
-        <div class="half-col omega">
-        <div class="global-form-center" style="text-align: center">
-
-          <div class="field-wrap">
+        
+        <h3>Sign up now and start using today</h3>
+        <div class="field-wrap" id="sign_up_form">    
           <form id="signup-global-form" style="position: relative;">
-            <div id="signup-global-error" style="position: absolute; top: 0; margin-top: -50px; color: #CC3300; display: none;"></div>
-            <div id="signup-global-message" style="position: absolute; top: 0; margin-top: -50px; color: #FFFFFF; display: none;"></div>
+            <div id="signup-global-error" style="padding-bottom: 20px; color: #CC3300; display: none;"></div>
+            <div id="signup-global-message" style="font-size: 16px; color: #ff6600; padding-bottom: 20px; display: none;"></div>
             <div class="first-field">
               <input name="fime" class="text" type="text" placeholder=" First Name" style="width: 99%" id="signup-global-2a034e9d9e2601c21191cca53760eaaf">
               <input name="2a034e9d9e2601c21191cca53760eaaf" class="text" type="text" placeholder=" First Name" style="width: 99%" id="signup-global-first-name" required="">
@@ -115,23 +184,23 @@ $(document).ready(function() {
             </div>
             <div>
               <input name="service_type" type="hidden" value="general" id="signup-global-service-type">
-              <input name="submit" type="submit" class="button action" style="width: 100%" value="Start FREE Trial" id="signup-global-submit" onclick="mixpanel.track('Dropdown sign up submitted');">
+              <input name="submit" type="submit" class="button action" value="Start Free Trial" id="signup-global-submit" onclick="analytics.track('Dropdown sign up submitted');">
             </div>
           </form>
-          </div>
- 
-
         </div>
-        </div>
+        
         <br class="clear">
-        <p align="center">Service starts at <a href="/pricing">$14.99/mo</a> | No Contracts | 24/7 Customer Support</p>
-</div>
-</div>
+        <p align="center">No Credit Card  | No Contracts | 24/7 Customer Support</p>  
+      </div>
+    </div>
+
 <div id="header-wrapper">
       <div id="header">
+        <div style="float: right; top: 97px; position: absolute; right: 20px; z-index: 99;"> <a href="/mobile" title="Get our Mobile Office App for iPhone"><img src="/images/app_ribbon.png" height="100" border="0"></a>
+        </div>
         <div id="logo"><a href="/"><img src="/images/logo_phonecom.png" border="0" title="Phone.com" alt="Phone.com"></a></div>
-        <div class="signup-button-mobile"><a href="#" onclick="ShowSignup(); return false;" class="button action">Sign Up</a></div>
-        <div id="subnav"><!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><a href="javascript: void(0);" onclick="javascript: window.open('https://supportphd.com/visitor/index.php?/Phonecom/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=4%2C12%2C4%2C13%2C4/_randomNumber=tss04zx9oalll00fbg3um03kquqmd06h/_fullName=/_email=/', 'livechatwin', 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=1,width=600,height=680');" class="livechatlink"><img src="/images/nav_icon_chat.png" style="vertical-align:middle; margin-right:5px"><strong>Live Chat</strong></a><!-- END FUSION TAG CODE - DO NOT EDIT! --> | <a href="/contact"><strong>Contact Us</strong></a> | <a href="/support"><strong>Support</strong></a> <strong>1-800-998-7087</strong> <div class="login-button" id="login-and-myaccount"><a href="https://control.phone.com/login?_branding_id=586">Login</a></div></div>
+        <div class="signup-button-mobile"><a href="javascript:void(0);" onclick="showMe('pop-mask');" class="button action">Sign Up</a></div>
+        <div id="subnav"><!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><a href="javascript: void(0);" onclick="javascript: window.open('https://supportphd.com/visitor/index.php?/Phonecom/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=4%2C12%2C4%2C13%2C4/_randomNumber=tss04zx9oalll00fbg3um03kquqmd06h/_fullName=/_email=/', 'livechatwin', 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=1,width=600,height=680');" class="livechatlink"><img src="/images/nav_icon_chat.png" style="vertical-align:middle; margin-right:5px"><strong>Live Chat</strong></a><!-- END FUSION TAG CODE - DO NOT EDIT! --> | <a href="/support"><strong>Support</strong></a> | <strong style="color:#336699;">Sales 800-842-3394</strong> <div class="login-button" id="login-and-myaccount"><a href="https://control.phone.com/login?_branding_id=586&amp;_tracking_id=700">Login</a></div></div>
 
 <div id="nav-main">
         
@@ -146,6 +215,16 @@ $(document).ready(function() {
                </ul>
                </li>
                <li><a href="/features">Features</a></li>
+               <li><a href="javascript:void(0);">Resources</a>
+                 <ul>
+                   <li><a href="/blog/webinars/">Webinars</a></li>
+                   <li><a href="/blog/category/tips-tricks/">Phone.com University</a></li>
+                   <li><a href="/blog/category/features/">Feature Guide</a></li>
+                   <li><a href="/blog/category/general/">Our Blog</a></li>
+                   <li><a href="/blog/category/news/">Industry News</a></li>
+                   <li><a href="/blog/category/events/">Events</a></li>
+                 </ul>
+               </li>
                <li><a href="/pricing">Pricing</a></li>
                <li><a href="/phones">Phones</a></li>
             </ul>
@@ -153,7 +232,7 @@ $(document).ready(function() {
         </div>
         
         
-        <div class="signup-button"><a href="javascript:void(0);" id="signup-global-button-show-form" class="button action">Start FREE Trial</a></div>        
+        <div class="signup-button"><a href="javascript:void(0);" onclick="showMe('pop-mask');" class="button action">Start FREE Trial</a></div>        
         
                 
       </div><br class="clear">
@@ -169,7 +248,7 @@ $(document).ready(function() {
 
 
 <div class="mobile-sign-up">
-<a href="javascript:void(0);" id="signup-global-button-show-form">Start FREE Trial</a>
+<a href="javascript:void(0);" onclick="showMe('pop-mask');">Start FREE Trial</a>
 </div>
 <div class="sub-nav">
   <div id="sub-nav-wrapper">
@@ -269,7 +348,7 @@ Attn: Privacy Administrator</p>
 
 <!-- testing new footer -->
 </div> <!-- #wrapper -->
-<br class="clear">
+
 <style>
 .clearfix:after {
 	content: ".";
@@ -308,21 +387,21 @@ html[xmlns] .clearfix {
  padding: 0;
  position: relative;
 } 
-.footer-links1 a:link, .footer-links2 a:link, .footer-links1 a:visited, .footer-links2 a:visited, .footer-legal a:link, .footer-legal a:visited, .footer-copyright a:link, .footer-copyright a:visited  {
+.footer-links1 a:link, .footer-links2 a:link, .footer-links1 a:visited, .footer-links2 a:visited, .footer-links3 a:link, .footer-links3 a:visited, .footer-copyright a:link, .footer-copyright a:visited  {
  color: #ccc;
 }
-.footer-links1 a:hover, .footer-links2 a:hover, .footer-legal a:hover, .footer-copyright a:hover {
+.footer-links1 a:hover, .footer-links2 a:hover, .footer-links3 a:hover, .footer-copyright a:hover {
  color: #b1b1b1;
 }
-.footer-legal { float: left;
+.footer-links3 { float: left;
  width: 22%;
  margin: 0 4% 0 0;
  padding: 0;
  position: relative;
 }
 
-.footer-legal ul, .footer-nav ul {margin: 0;padding: 0px;list-style:none;}
-.footer-legal li, .footer-nav li {display: inline-block; margin-right: 15px;}
+.footer-links3 ul, .footer-nav ul {margin: 0;padding: 0px;list-style:none;}
+.footer-links3 li, .footer-nav li {display: inline-block; margin-right: 15px;}
 .footer-copyright { float: left;
  width: 22%;
  margin: 0 0 0 0;
@@ -332,7 +411,7 @@ html[xmlns] .clearfix {
   color:#ccc;
 } 
 .footer-images {
- float: left;width: 22%; margin-bottom: 0;
+ float: left;width: 50%; margin-bottom: 0;
 }
 .footer-images img {
  vertical-align: middle;
@@ -341,7 +420,7 @@ html[xmlns] .clearfix {
  float: left;width: 55%; margin-bottom: 0; text-align: center;
 }
 .footer-social {
- float: left;width: 23%; margin-bottom: 0; text-align: right; vertical-align: middle;
+ float: left;width: 50%; margin-bottom: 0; text-align: right; vertical-align: middle;
 }
 @media screen and (min-width: 1100px) and (max-width: 1500px) {
  .footer-social-label {
@@ -378,7 +457,7 @@ html[xmlns] .clearfix {
  margin: 0 0 3% 0;
  text-align: center;
 }
-.footer-legal { float: left;
+.footer-links3 { float: left;
  width: 48%;
  margin: 3% 4% 0 0;
  text-align: center;
@@ -391,7 +470,7 @@ html[xmlns] .clearfix {
 
 }
 @media screen and (max-width: 481px) {
-.footer-legal { float: none;
+.footer-links3 { float: none;
  width: 100%;
  margin: 3% 0 3% 0;
  text-align: center;
@@ -405,24 +484,13 @@ html[xmlns] .clearfix {
 } 
 
 </style>
-<div style="border-top:1px solid #f0f0f0;">
+<div style="border-top:1px solid #f0f0f0;clear:both;">
 <div class="gray-cover" style="background:rgba(188, 194, 202, 0.2);padding-top: 40px; padding-bottom: 40px;">
 
 <div class="center-div clearfix">
-<div class="footer-images"> <a href="/about/awards.php"><img border="0" title="Inc. 500 List no. 262" src="/images/footer_logo_inc_500.png"></a>&nbsp;&nbsp;<a href="/about/awards.php"><img border="0" title="Internet Telephony Excellence Award 2012" src="/images/footer_award_tmc_2012.png"></a>&nbsp;&nbsp;<a href="/about/awards.php"><img border="0" title="Internet Telephony Product of the Year 2012" src="/images/footer_award_int_tel_POTY_2012.png"></a>
+<div class="footer-images"> <a href="/about/awards.php"><img border="0" title="Inc. 500 List no. 262" src="/images/footer_logo_inc_500.png"></a>&nbsp;&nbsp;<a href="/about/awards.php"><img border="0" title="Internet Telephony Product of the Year 2014" src="/images/footer_award_int_tel_POTY_2014.png"></a>&nbsp;&nbsp;<a href="/about/awards.php"><img border="0" title="The Stevies" src="/images/footer_award_stevies_2014.png"></a>&nbsp;&nbsp;<a href="/about/awards.php"><img border="0" title="Better Business Bureau A+ Rating" src="/images/footer_logo_bbb.png"></a>
 </div>
-<div class="footer-nav">
-  <ul>
-  <li><a href="/blog/category/media-coverage/">News</a></li>
-  <li><a href="/testimonials">Testimonials</a></li> 
-  <li><a href="/partners">Channel Partners</a></li>
-  <li><a href="/about/partners">Business Partners</a></li> 
-  <li><a href="/jobs">Jobs</a></li>
-  <li><a href="/about">About</a></li>
-  <li><a href="/contact">Contact Us</a></li>
-  <li class="omega"><a href="/blog">Blog</a></li>
-  </ul>
-</div>
+
 <div class="footer-social">
 <span style=" vertical-align: middle;"><span class="footer-social-label"><strong>Follow Us</strong>&nbsp;&nbsp;</span>
 <a href="http://www.facebook.com/pages/Phonecom/60980572176?ref=ts" target="_blank"><img width="24" height="24" border="0" src="/images/icon_facebook.png" title="Facebook" style=" vertical-align: middle;"></a>&nbsp;&nbsp;<a href="http://twitter.com/phonedotcom/" target="_blank"><img width="24" height="24" border="0" src="/images/icon_twitter.png" title="Twitter" style=" vertical-align: middle;"></a>&nbsp;&nbsp;<a href="http://www.linkedin.com/companies/phone.com" target="_blank"><img width="24" height="24" border="0" src="/images/icon_linkedin.png" title="LinkedIn" style=" vertical-align: middle;"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/user/phonedotcom" target="_blank"><img width="24" height="24" border="0" src="/images/icon_youtube.png" title="YouTube" style=" vertical-align: middle;"></a>&nbsp;&nbsp;<a href="https://plus.google.com/107988056764612960596" target="_blank"><img width="24" height="24" border="0" src="/images/icon_googleplus.png" title="Google+" style=" vertical-align: middle;"></a></span>
@@ -449,7 +517,7 @@ html[xmlns] .clearfix {
   <a href="http://www.phone.com/features/toll_free.php">Toll Free Numbers</a><br>
   <a href="http://www.phone.com/how-it-works/virtual/">Virtual Phone Number</a><br>
   <a href="http://www.phone.com/features/call_forwarding.php">Call Forwarding</a><br>
-  <a href="http://www.phone.com/how-it-works/virtual/">Virtual PBX</a>
+  <a href="http://www.phone.com/features/">Virtual PBX</a>
 </div>
 
 
@@ -466,17 +534,23 @@ html[xmlns] .clearfix {
 </div>
 
 
-<div class="footer-legal">
-  <ul>
-    <li><a href="/legal/general-terms.php">TERMS</a></li>
-    <li><a href="/legal/privacy-policy.php">PRIVACY</a></li>
-    <li class="omega"><a href="/legal/security-statement.php">SECURITY</a></li>
-  </ul>
+<div class="footer-links3">
+<span style="color: #ccc;"><strong>ABOUT US</strong></span><br>
+
+  <a href="/about">About Phone.com</a><br>
+  <a href="/blog">Our Blog</a><br>
+  <a href="/jobs">Join our Team/Careers </a><br>
+  <a href="/contact">Contact Us</a><br>
+  <a href="/blog/category/media-coverage/">Press/News </a><br>
+  <a href="/testimonials">Testimonials</a><br>
+  <a href="/about/partners">Business Partners</a><br>
+  <a href="/partners">Affiliates/Channel Partners</a>
 </div>
+
 <div class="footer-copyright">
 <h3 style="color: #fff; text-shadow:none;">1-800-998-7087</h3>
-  © 2013 <a href="https://plus.google.com/103277310884728567823?rel=author">Phone.com</a>, Inc. All rights reserved.
-
+  © 2014 <a href="https://plus.google.com/103277310884728567823?rel=author">Phone.com</a>, Inc. All rights reserved.
+<p><a href="/legal/general-terms.php">TERMS</a> &nbsp;&nbsp; <a href="/legal/privacy-policy.php">PRIVACY</a> &nbsp;&nbsp; <a href="/legal/security-statement.php">SECURITY</a></p>
   <div style="margin-top: 50px;"><a href="http://www.grassroots.org" rel="nofollow" target="_blank"><img src="/images/footer_logo_grassroots.png" border="0"></a></div>
   </div>
 <br class="clear">
@@ -489,31 +563,7 @@ html[xmlns] .clearfix {
 
 
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1764940-1']);
-  _gaq.push(['_setDomainName', '.phone.com']);
-  _gaq.push(['_addIgnoredRef', 'phone.com']);
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']); 
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<iframe src="//pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=2094" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-
-<!-- Google Code for Remarketing tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1054402872;
-var google_conversion_label = "kqswCJiTggQQuNLj9gM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
