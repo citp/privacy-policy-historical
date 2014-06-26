@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the getnaughty.com privacy policy that was archived on 2012-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120128145315id_/http%3A//www.getnaughty.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnaughty.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102140id_/http%3A//www.getnaughty.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# 
+# Casual Dating at GetNaughty.com
 
 ### Privacy Policy
 
-(' **We** ') Alcuda Ltd are committed to protecting and respecting your privacy.
+(' **We** ') Ldate Ltd (as subsidiary of Bulova Invest Ltd, company number 1585862 (British Virgin Islands)) are committed to protecting and respecting your privacy. Ldate Ltd is the data controller (for the purposes of the Data Protection Act 1998).
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
-
-We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** ').
 
 **What information do we collect about you?**
 
 We may collect and process the following information about you: 
 
-  * Information that you provide by filling in forms on our site **Getnaughty.com** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * Information that you provide by filling in forms on our site **GetNaughty** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
   * Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website.
   * Your location according to the IP address assigned to your PC by your Internet Service Provider.
   * If you contact us, we may keep a record of that correspondence.
@@ -45,7 +43,7 @@ We use the information we hold about you in the following ways:
 
   * If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site.
   * We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
-  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [admin@getnaughty.com](mailto:admin@getnaughty.com).
+  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@ldate.com](mailto:datarequest@ldate.com).
   * We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
 
 **Disclosure of your information**
@@ -63,13 +61,16 @@ We may also share information about you with third parties that we engage to hel
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
+Our site is SSL secured which means that when you may need to enter information such as your bank details, passwords and addresses - the information cannot be intercepted by a third party as the data gets encrypted and secured.
+
+  
 **Marketing and other uses of your non-personal data by us and by third parties**
 
 We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
 
 We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [](mailto:)
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [admin@getnaughty.com](mailto:admin@getnaughty.com)
 
 **Cookies**
 
@@ -98,9 +99,9 @@ The Site may, from time to time, contain links to and from the websites of our p
 
 **Access to information and correction**
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [](mailto:). Please note that we may make a small charge for this service.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [admin@getnaughty.com](mailto:admin@getnaughty.com). Please note that we may make a small charge for this service.
 
-We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [](mailto:).
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [admin@getnaughty.com](mailto:admin@getnaughty.com).
 
 **Changes to our privacy policy**
 
@@ -108,4 +109,4 @@ We keep our privacy policy under regular review and will post any changes to it 
 
 **Questions**
 
-If you have any questions about this privacy policy then please contact us at [](mailto:).
+If you have any questions about this privacy policy then please contact us at [admin@getnaughty.com](mailto:admin@getnaughty.com).
