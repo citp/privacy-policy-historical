@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216090737id_/http%3A//valenciacollege.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173604id_/http%3A//valenciacollege.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Valencia College
 
