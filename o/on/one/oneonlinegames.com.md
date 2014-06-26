@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227141833id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneonlinegames.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074010id_/http%3A//www.oneonlinegames.com/privacy-policy-and-copyrights) for the most accurate reproduction.*
 
 # Privacy Policy & Copyrights Free Games Download
 
