@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113193003id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113248id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
 
 # NOVASOL Cookie and Privacy Policy
 
