@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926230115id_/http%3A//www.fashionphile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154940id_/http%3A//fashionphile.com/privacy) for the most accurate reproduction.*
 
-# Proenza: Pre-owned Luxury, Handbags, Wallets, and Accessories
+# Miu Miu: Pre-owned Luxury, Handbags, Wallets, and Shoes
 
 Thank you for visiting www.Fashionphile.com (the “Website”). This privacy and security policy (“Policy”) explains the information we collect about you, how we use the information, some of the security steps taken to protect the information, and the choices you have to review, revise and/or restrict our usage of this information. This Policy is part of the Terms & Conditions of Use that govern the Website and is binding on all Website users.
 
