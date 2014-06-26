@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postgradproblems.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228142712id_/http%3A//dev.postgradproblems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgradproblems.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131637id_/http%3A//postgradproblems.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Post Grad Problems
+# Post Grad Problems | Privacy Policy
 
 Your privacy on the Internet is important to us. As a part of the operation of postgradproblems.com, we gather your e-mail address only when you submit it to subscribe to our newsletter. We respect your privacy and will not share or sell your e-mail address to a third party. However, we may use it to contact you regarding site updates, news, and information.
 
