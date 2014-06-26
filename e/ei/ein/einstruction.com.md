@@ -1,62 +1,43 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917111039id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131806id_/http%3A//www.einstruction.com/about-einstruction/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | © eInstruction®
 
-eInstruction has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for all eInstruction websites.
+Turning Technologies, LLC (“Turning”) has created this privacy statement to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices forTurning’s websites located at [www.TurningTechnologies.com](http://www.turningtechnologies.com/) and [www.eInstruction.com](http://www.einstruction.com/) (the “Websites”).  By accessing and/or using the Websites, you consent to the collection, use and disclosure of your information, including your personally identifiable information, by Turning in accordance with the terms of our Privacy Policy in effect at that time. Please also see the Website's Terms of Use [http://www.turningtechnologies.com/termsofuse/](http://www.turningtechnologies.com/termsofuse) for other terms and conditions governing your use of the Websites. You acknowledge that we have the right, at our sole discretion, to modify any terms or conditions of this Privacy Policy without notice to you. Any modifications to this Privacy Policy will be effective immediately following the posting of such changes on the Websites. For this reason, we encourage you to review this Privacy Policy on a periodic basis.
 
-  **Information Collected by eInstruction**
+###  **Information Collected by Turning; Use; Disclosure**
 
-Our Website's registration form may require users to give us contact information (such as their name and email address), unique identifiers (such as their social security number), financial information (such as their account or credit card numbers), and demographic information (such as their zip code, age, or income level).
+Our registration forms may require you to give us contact information (such as your name and email address) and demographic information (such as your zip code, country, or industry). If you choose to register, you agree to give us accurate and current information about yourself. We may use personally identifiable information that you provide on the registration form to send information to you, for example, information about our company and products. Your personally identifiable information may also used to contact you when necessary or desirable. You may opt-out of receiving information; please see the Choice/Opt-out section below. We may collect demographic and profile data through the Websites. We may use this data to tailor your experience on the Websites (for example, to provide content that we think you may be interested in and display the content according to your preferences). Turning may use cookies. A cookie is a small data file that attaches to your hard drive when you visit the Websites. Furthermore, our servers may automatically record information that your browser sends when you visit the Websites, and we may provide third party links in a format that enable us to keep track of whether the links have been followed. We may use this information, including your IP address, to track user traffic patterns, to help diagnose problems with our server, and to administer the Websites. Turning may share your personally identifiable information and/or aggregate information with our affiliates, business partners, the media (for press releases), third parties performing functions on our behalf, and/or a third party that acquires ownership or control of our business. We may also disclose information if we believe in good faith that it is required by law, to prevent a crime or protect the rights of third parties, or to enforce the Terms of Use or Privacy Policy. Turning may transfer your information for various purposes, including, without limitation, to administer the Websites, process your requests, provide you with information and customized content, and for purposes relating to business development, direct marketing, and market research and analysis. Information, suggestions, and comments received by Turning shall be deemed to be non-confidential. Turning shall be free to reproduce, use, disclose and distribute such information to others without limitation. If you use or post content on any public area on the Websites, you should be aware that any information, including personally identifiable information, that you submit there can be read, collected, or used by other users of the Websites, and may be used to send you unsolicited messages. Turning is not responsible for loss of privacy or any claim relating to the information you choose to submit by these means.
 
-We use customer contact information from the registration form to send the user information about our company and our products. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving information; see the Choice/Opt-out section below.
+###  **Security**
 
-Unique identifiers (such as social security numbers) are collected to verify the user's identity. Demographic and profile data may also be collected at our Website. We use this data to tailor the visitor's experience at our Website, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+The Websites have security measures in place to protect the loss, misuse and alteration of the information under our control. However, the transmission of information over the Internet or other publicly accessible networks is not secure, and is subject to possible loss, interception or alteration while in transit. Accordingly, we do not assume any liability for any damage you may experience or costs you may incur as a result of any transmissions over the Internet or other publicly accessible networks, such as the submission of any of your personally identifiable information to us.
 
-We may use your IP address to help diagnose problems with our server, and to administer our Website.
+###  **Use by Children**
 
-We will not disclose collected information to any organization outside eInstruction.
+We do not intend to collect any personally identifiable information from children through the Websites. Individuals under eighteen (18) should consult with a parent or guardian about the use of the Websites.
 
- **Security**
+###  **Supplemental Information**
 
-This Website has security measures in place to protect the loss, misuse and alteration of the information under our control. The servers are located in a secure environment and access to sensitive data is provided to authorized individuals only.
+The Websites may supplement the information that you provide with information that is received from third parties to provide you with a better experience.
 
- **Supplemental Information**
+###  **Updating Information**
 
-This Website may supplement the information that you provide with information that is received from third parties.
+Any user who desires to review, amend or correct information relating to them, or has questions about their personal information submitted to Turning, should contact us at [info@turningtechnologies.com](mailto:info@turningtechnologies.com).
 
-Choice/Opt-Out
+###  **Choice/Opt-Out**
 
-Our Website provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. We will implement requested changes within ten days of the receipt of a request. In addition, visitors may contact us at anytime by:
+Our emails provide users the opportunity to opt-out of receiving Turning’s communications. We will implement requested changes within ten days of the receipt of a request. In addition, visitors may contact us at anytime by sending an email to: [info@turningtechnologies.com](mailto:info@turningtechnologies.com) or calling us toll-free at 1-866-746-3015. If you contact us directly, please let us know which kind of information you would no longer like to receive.
 
-    * Sending an email to: [SUPPORT@EINSTRUCTION.COM](mailto:SUPPORT@EINSTRUCTION.COM)  
-    * Calling the following telephone number: 866-496-4949
+###  **Contacting the Websites**
 
-If you contact us directly, please let us know which kind of information you would no longer like to receive:
+If you have any questions about this privacy statement, the practices of the Websites, or your experience with the Websites, you can contact us as follows:
 
-    * Product news, enhancements, and updates  
-    * Product promotions  
-    * Newsletters
+Turning Technologies, LLC  
+255 West Federal Street  
+Youngstown, OH 44503
 
- **Children's Online Privacy Protection Act (COPPA)**
+Toll Free Phone: 1-866-746-3015  
+Phone: (330) 746-3015  
+Fax: (330) 746-6863
 
-If you use the ExamView Internet test-hosting feature, please be aware of the following privacy issue.
-
-If you create a test with a class roster, you will see that we have provided space for your students' names, IDs, and email addresses. The Children's Online Privacy Protection Act precludes us from requesting and collecting any information that would allow someone to identify or contact a student who is under the age of 13 (e.g., full name, home address, email address, telephone number, and so on).
-
-Accordingly, FOR STUDENTS UNDER THE AGE OF 13, please DO NOT provide us with the student's real name, email address, or any ID number that a third party might be able to associate with the student (e.g., social security number). Instead, we require that you use a code number or user ID for each of your students that you have contrived and that could not be used by someone else to identify that student.
-
-Your access to the Internet test-hosting service is conditioned upon your agreement to comply with this requirement. Your use of the service will constitute your agreement to comply and to hold us harmless from any cost or damage we might suffer as a consequence of your failure to do so.
-
- **Contacting the Website**
-
-If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, you can contact:
-
-eInstruction Corporation  
-7125 Riverwood Drive  
-Columbia, MD 21046
-
-Tel: 866-496-4949  
-Fax: 410-910-0051  
-Email: [SUPPORT@EINSTRUCTION.COM](mailto:SUPPORT@EINSTRUCTION.COM)
-
-eInstruction continues to collaborate with the education community to pioneer innovative solutions to help energize, engage and assess students in learning.
+Email: [info@turningtechnologies.com](mailto:info@turningtechnologies.com)
