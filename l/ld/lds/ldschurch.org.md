@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldschurch.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223204828id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldschurch.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626195626id_/https%3A//www.lds.org/legal/privacy%3Flang%3Deng) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,6 +66,10 @@ We collect this information to better understand how you use and interact with o
 
 You can change your web browser settings to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you do not accept cookies, however, you may not be able to use some sections or functions of our sites.
 
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [http://www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+
+To opt out of being tracked by Google Analytics across all websites visit <https://tools.google.com/dlpage/gaoptout>.
+
 _11\. Policy Compliance and Questions Regarding the Privacy of Personal Information_. We have a data privacy officer who helps ensure compliance with this Privacy Policy and answers questions about data privacy or security issues. This officer also helps educate Church employees concerning compliance. Inquiries concerning this Privacy Policy or the security of personal information that we process may be sent through e-mail, fax, or mail to the following:
 
 E-mail:             [DataPrivacyOfficer@ldschurch.org](mailto:DataPrivacyOfficer@ldschurch.org)  
@@ -82,4 +86,4 @@ _14\. Future Changes to Privacy Policy_. We regularly review this Privacy Policy
 
 **Effective Date**
 
-This version of the Privacy Policy became effective on February 01, 2012.
+This version of the Privacy Policy became effective on March 18, 2014.
