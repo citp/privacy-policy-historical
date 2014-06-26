@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213114438id_/http%3A//www.magestore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magestore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051414id_/http%3A//www.magestore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,8 @@ Our main purpose to collect your information is to provide you secure, smooth, e
 **How we use cookies**
 
 When you access our website, we may place small data files called "cookies" on your computer. This data contains information about you and it helps us to identify you if you visit multiple pages on our site during the same session, so that we don’t need to ask you for your password on each page. Once you log out your account or close your browser, this cookie expires and no longer has any effect. If you disable cookies for our site, you may still use our site, but certain benefits of your shopping experience with us may be impacted.
+
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. It connects the activity of www.magestore.com with the Adwords advertising network. You can opt out of the cookie tracking [here](http://google.com/settings/ads/onweb/optout?hl=en "here"). Personal Data collected: Cookie and Usage Data.
 
 **How we protect and store personal information**
 
