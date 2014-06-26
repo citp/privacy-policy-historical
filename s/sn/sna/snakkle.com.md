@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102221437id_/http%3A//www.snakkle.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snakkle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100236id_/http%3A//www.snakkle.com/legal) for the most accurate reproduction.*
 
-# Privacy Policy - Snakkle
+# Privacy Policy
 
 **SNAKKLE Privacy Statement**
 
@@ -54,7 +54,11 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided:  Visit [http://_______________________](http://_______________________/).
 
-**9\. Contacting SNAKKLE**
+**9\. Magnetic**
+
+Snakkle.com allows Magnetic to monitor Snakkle affiliated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Snakkle users.  For further information about Magnetic’s search re-targeting product, Magnetic’s homepage on the Web is located at [http://www.magnetic.is](http://www.magnetic.is/).  The full text of Magnetic’s privacy policy is available on the Web at [http://privacy.magnetic.is](http://privacy.magnetic.is/).  Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users.  Users may go to [http://magnetic.is](http://domdex.com/i) for information on what is being tracked. Users may go to [http://privacy.magnetic.is/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information by Magnetic and may go to [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) to opt-out of most third party tracking.
+
+**10\. Contacting SNAKKLE**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
