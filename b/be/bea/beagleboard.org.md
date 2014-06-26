@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808194402id_/http%3A//beagleboard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beagleboard.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073935id_/http%3A//www.beagleboard.org/privacy) for the most accurate reproduction.*
 
 # BeagleBoard.org - privacy
 
@@ -59,4 +59,4 @@ The vast majority of BeagleBoard.org does not target and is not intended for chi
 
 We reserve the right to change this policy at any time. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using BeagleBoard.org's web site, see the Terms of Use.
 
-Last updated by blog.hangerhead.com on Tue Aug 11 2009 12:59:51 GMT-0500 (CDT).
+Last updated by blog.hangerhead.com on Tue Aug 11 2009 17:59:51 GMT-0000 (UTC).
