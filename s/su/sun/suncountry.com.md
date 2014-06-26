@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225101356id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064142id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -57,3 +57,10 @@ Once you complete a travel profile and become a member, we will occasionally use
 
 
 Sun Country will not disclose or sell any of your personal information, including your name, address, credit-card number, shopping or transaction history to any third party other than for those purposes mentioned above. 
+
+**Sun Country Airlines Promotional Emails**
+
+If you have subscribed to any of our promotional emails Sun Country Airlines will not disclose or sell any of your information.  
+
+
+_Please note:_ If you wish to unsubscribe from our promotional email lists, you may do so by selecting "Update Profile" at the bottom of the most recent email you have received from Sun Country Airlines. 
