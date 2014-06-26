@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the intocareers.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109094011id_/http%3A//registrar.uoregon.edu/records_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intocareers.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043044id_/http%3A//registrar.uoregon.edu/records_privacy) for the most accurate reproduction.*
 
 # Student Records Privacy Policy | Office of the Registrar
 
-  * [Students](https://web.archive.org/records_privacy?category=Students "Student Record Privacy Policy For Students")(active tab)
-  * [Parents](https://web.archive.org/records_privacy?category=Parents "Student Record Privacy Policy For Parents")
-  * [Faculty & Staff](https://web.archive.org/records_privacy?category=Faculty-Staff "Student Record Privacy Policy For Faculty & Staff")
-  * [Resources](https://web.archive.org/records_privacy?category=Resources "Resources")
+Student records are protected by the Family Educational Rights and Privacy Act (FERPA), federal regulations which assign rights to students and responsibilities to educational institutions regarding students' education records. The Act governs the maintenance and release of information from those records.
 
-
+To see how FERPA regulations apply to you, select a category.
 
 ## Student Records Privacy Policy For Students
 
@@ -43,7 +40,7 @@ Faculty and staff are responsible for protecting the identity of students and ke
 
 Some records created and maintained by the university, although not covered by FERPA, may be subject to other federal and state laws or regulations regarding disclosure.
 
-The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the full text of the University of Oregon Student Records Policy, available at the web address given below. The most common exceptions to disclosure restrictions are disclosures to university faculty or staff – “School Officials” - with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
+The exceptions under FERPA which allow the university to disclose personally identifiable information from your education record are stated in the [full text of the University of Oregon Student Records Policy](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html "University of Oregon Student Records Policy"). The most common exceptions to disclosure restrictions are disclosures to university faculty or staff -- “School Officials” -- with a legitimate educational interest, or disclosure of personally identifiable information designated as Directory Information.
 
 ### Definition of Directory Information
 
@@ -202,7 +199,7 @@ Whether a graduate student has a GTF appointment and their teaching assignment |
 
 |   
   
-**Note:** items marked as releasable will be provided to a third party upon request unless a Directory Information Restriction has been filed. (See section below.)
+**Note:** items marked as releasable will be provided to a third party upon request unless a Directory Information Restriction has been filed.
 
 ### Definition of School Official
 
@@ -269,3 +266,454 @@ Students are requested to provide voluntarily their Social Security Numbers to a
 ### The Family Educational Rights and Privacy Act (FERPA)
 
 FERPA was enacted by the U.S. Congress in 1974 and has since had many amendments. Responsibility for oversight of FERPA compliance rests with the [Department of Education's Family Policy Compliance Office.](http://www2.ed.gov/policy/gen/guid/fpco/index.html)
+
+### Forms and Other Resources
+
+Name | Description  
+---|---  
+[Consent Form for Releasing Education Records](https://web.archive.org/files/pdf/Consent_to_Release_Educational_Records.pdf) | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
+
+  1. What information is to be released 
+  2. To whom the information is to be released 
+  3. The purpose for which it is to be released 
+  4. Your signature and the date signed
+
+  
+[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
+[Consent Form for Requesting References/Recommendations](https://web.archive.org/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
+[Code of Responsibility for Education Records](https://web.archive.org/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
+[Random Number Generator](https://web.archive.org/faculty_staff/random_number_generator "Random Number Generator") | Faculty and staff can use the Random Number Generator to generate code numbers for students enrolled in their classes. (Graded papers, exams, quizzes and other assignments are considered part of the student's education record, and must be returned to the student in a manner designed to maintain confidentiality.)  
+[Consent Form for ePortfolio Participation](https://web.archive.org/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
+Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
+[Consent Forms for Photos and Videos](http://digital.uoregon.edu/ferpa-releases "Consent Forms for Photos and Videos")
+
+  * [Option #1](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release%20%233.pdf "Consent Form for Photos and Videos Option #1")
+  * [Option #2](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release.pdf "Consent Form for Photos and Videos Option #2")
+
+| Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
+[Consent Form for the Common Application](https://web.archive.org/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current_students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.  
+  
+## Student Records Privacy Policy For Parents
+
+The University of Oregon Student Records Policy and the Family Educational Rights and Privacy Act (FERPA) provide guidelines for maintaining the confidentiality of education records and monitoring the release of information from those records.
+
+### Definition of Education Records
+
+Education records are those records directly related to a student and maintained by the University or by a party acting for the university. Some examples: records of grades, coursework, records indicating progress toward a degree, student financial account records.
+
+### Parent Rights
+
+Once a student has reached age 18 or is attending the university, all FERPA rights belong to the student. Parent access to education records is limited to information classified as Directory Information under the University of Oregon Student Records Policy. The following information is classified as Directory Information:
+
+  * A student's full name
+  * Mailing and permanent address(es) and telephone number(s)
+  * Email address(es)
+  * The fact that the student is or has ever been enrolled
+  * Enrollment status (e.g., full-time, half-time or less than half-time)
+  * Class level
+  * Major/minor
+  * Dates of attendance
+  * Degrees, honors or awards received
+  * Cumulative credit hours
+  * Participation in officially recognized activities
+  * For graduate teaching fellows, status as a graduate teaching fellow and teaching assignment
+
+
+
+Parental access to other education records is allowed when the student provides the university with a signed and dated release specifying the records to be disclosed, stating to whom they should be disclosed and the purpose of the disclosure. Each instance of release of non-Directory Information requires its own separate and specific written authorization to release.
+
+Parents are encouraged to read the Privacy Policy information provided for students.
+
+### Family Emergency Situations
+
+During the 8:00-5:00 work week, if a parent, guardian, or other family member needs assistance in contacting a University of Oregon student in an emergency, they should contact the student’s complex director in the student’s residence hall if the student lives in University Housing, or the Office of the Dean of Students, (541) 346-3216, if the student lives off campus. Staff members in those offices have systems in place and work closely with the Department of Public Safety to help families connect with their students in emergency circumstances. For emergencies after 5:00 PM (or if parents or families are unable to connect with a staff member), the Department of Public Safety at (541) 346-6666 can assist.
+
+### Public Health or Safety Emergencies
+
+Disclosure of information from education records is allowed under the University of Oregon Student Records Policy and FERPA in connection with a health or safety emergency if the information is necessary to protect the health or safety of the student or others. Factors the University considers in determining whether to make the disclosure include:
+
+  * the seriousness of the threat to health or safety;
+  * the need for the information to meet the emergency;
+  * whether the individual(s) to whom the information is released is in a position to deal with the situation; and
+  * the extent to which time is of the essence.
+
+
+
+### See Also
+
+  * [Full text of the University of Oregon Student Records Policy](http://arcweb.sos.state.or.us/rules/OARS_500/OAR_571/571_020.html "Full text of the University of Oregon Student Records Policy")
+  * [Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html)
+  * [More information about the federal Family Educational Rights and Privacy Act](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html "More information about the federal Family Educational Rights and Privacy Act")
+  * [More information about the Family Policy Compliance Office (FPCO)](http://www2.ed.gov/policy/gen/guid/fpco/index.html "More information about the Family Policy Compliance Office \(FPCO\)")
+
+
+
+## Student Records Privacy Policy For Faculty & Staff
+
+The University of Oregon, in compliance with the Family Educational Rights and Privacy Act (FERPA), is responsible for monitoring access to and release of information from student education records. Staff and faculty with access to student education records are legally responsible for protecting the privacy of the student by using information only for legitimate educational reasons to instruct, advise, or otherwise assist students. FERPA also assures certain rights to students at the university regarding their education records. These rights do not transfer to parents, guardians, spouses or other family members without the specific written permission of the student. (Please see the Student section of the Privacy Policy for more information).
+
+### Code of Responsibility for Security and Confidentiality of Records and Files
+
+Security and confidentiality are matters of concern to all University employees and to all other persons who have access to education records. The purpose of this code is to clarify responsibilities in these areas. Each individual who has access to confidential information is expected to adhere to the regulations stated below. A person who has access to education records may not:
+
+  * Reveal the content of any record or report to anyone, except in the conduct of his or her work assignments and in accordance with University policies and procedures.
+  * Make or allow any unauthorized use of information.
+  * Knowingly include false, inaccurate or misleading entry in any report or record.
+  * Knowingly expunge a data record or a data entry form and record, report or file.
+  * Share individual passwords with any other person (for password protected data).
+  * Seek personal benefit or allow others to benefit personally from the knowledge of any confidential information they have acquired through work assignments.
+  * Remove any official record or report, or copy of any official report, from the office where it is maintained, except in the performance of official duties.
+
+
+
+Any knowledge of a violation of this code must be reported immediately to the violator's supervisor. Violations may lead to disciplinary action, including dismissal. Violations can also lead to action under the State of Oregon statutes pertaining to theft, alteration of public records, or other applicable sections.
+
+**See also:** [Code of Responsibility for Security and Confidentiality of Records and Files](https://web.archive.org/files/pdf/Ferpa-Code-of-Responsibility.pdf)
+
+### Definition of Education Records
+
+Education records are those records directly related to a student maintained by the University or by a party acting for the university.
+
+### Directory Information
+
+Only those records defined as "Directory Information" may be released without the express written permission of the student. Directory information includes the student name, local and permanent addresses, e-mail addresses, telephone numbers, class level and type, enrollment status (e.g., full-time or part-time), academic major and/or minor, dates of attendance, the fact that the student is or has ever been enrolled, total earned credit hours, degrees and certificates awarded, honors awarded, participation in officially recognized activities, and, for Graduate Teaching Fellows, their status as a GTF and teaching assignment. _No other information contained in a student's educational records may be released to persons or organizations without the student's prior written approval._ A chart below lists information that is frequently requested from student education records and indicates whether or not it is Directory Information.
+
+### Students with Restricted Directory Information
+
+A student may restrict release of all Directory Information by filing a [Restriction of Directory Information](https://web.archive.org/records_privacy#Directory_Information_Restriction "Restriction of Directory Information") with the Office of the Registrar. The restriction will usually take effect immediately and in no case longer than 2 working days from the filing date. Once the restriction form is processed, no information - including directory information - is to be released to anyone, including persons claiming to be the student, parents, relatives, friends, other students, or prospective employers, who may wish to contact the student or verify their status at the University. Students who have restricted the release of Directory Information are required to present photo identification when they wish to discuss or make inquiries about their education record.
+
+The restriction is permanent until the student requests, in writing, that it be removed. The restriction remains in place even after the student has stopped attending or has graduated from the University.
+
+#### Student Records Policy Directory Information Chart
+
+[This chart is also available as a PDF download.](https://web.archive.org/files/pdf/UO_Directory_Information_Chart.pdf)
+
+DIRECTORY INFORMATION? | YES | NO  
+---|---|---  
+Student's full name | 
+
+**X**
+
+|   
+UO ID number |  | 
+
+**X**  
+  
+Personal Access Code (PAC) |  | 
+
+**X**  
+  
+Date of Birth |  | 
+
+**X**  
+  
+Gender |  | 
+
+**X**  
+  
+Ethnicity |  | 
+
+**X**  
+  
+Mailing address and telephone number | 
+
+**X**
+
+|   
+Permanent address and telephone number | 
+
+**X**
+
+|   
+All addresses and telephone numbers except Mailing and Permanent (e.g. Alternate Billing Address, Contact/Emergency Address, RO Diploma Address, etc.) |  | 
+
+**X**  
+  
+E-Mail Address | 
+
+**X**
+
+|   
+Parent names and/or addresses |  | 
+
+**X**  
+  
+Class level and academic major/minor | 
+
+**X**
+
+|   
+Dates of attendance | 
+
+**X**
+
+|   
+Fact that the student is or has been enrolled | 
+
+**X**
+
+|   
+Degrees, honors, certificates awarded | 
+
+**X**
+
+|   
+GPA or grades |  | 
+
+**X**  
+  
+Cumulative credit hours | 
+
+**X**
+
+|   
+Current term credits or class schedule (CRNs, meeting times, locations) |  | 
+
+**X**  
+  
+Full-time, half-time or less than half-time enrollment status | 
+
+**X**
+
+|   
+Information on academic standing (probation, disqualification, etc.) or whether student is eligible to return to school |  | 
+
+**X**  
+  
+Petitions to ARC or SRC |  | 
+
+**X**  
+  
+Whether student has applied for graduation |  | 
+
+**X**  
+  
+Unmet degree requirements for graduation |  | 
+
+**X**  
+  
+Accounts Receivable balance |  | 
+
+**X**  
+  
+Financial records of parents |  | 
+
+**X**  
+  
+Participation in official recognized activities | 
+
+**X**
+
+|   
+Student employment records |  | 
+
+**X**  
+  
+Psychiatric or psychological records |  | 
+
+**X**  
+  
+Copies of transcripts from other schools or colleges |  | 
+
+**X**  
+  
+Whether a graduate student has a GTF appointment and their teaching assignment | 
+
+**X**
+
+|   
+  
+**Note:** items marked as releasable will be provided to a third party upon request unless a Directory Information Restriction has been filed.
+
+### Faculty and Staff Responsibility
+
+You are responsible for maintaining the security of your workstation or computer monitor. This includes the responsibility for all transactions that occur under your username and password, and for all information that is released about university students. **Do not leave your workstation or computer unattended while logged in to Banner or _Web for Faculty_. Do not give your password or Personal Access Code (PAC) to another employee or student.** Violation of this regulation may revoke your access privileges.
+
+University staff and faculty members performing instructional, supervisory, advisory, or administrative duties for the University are considered to have a legitimate educational need for access to student data for students for whom they are performing these functions. Individuals without legitimate educational interest must present EITHER an appropriate written signed and dated authorization for release from the student, which must include: 1) the specific information to be released, 2) the person or class of persons to whom the information is to be released, and 3) the purpose for which the information is to be released, OR a valid subpoena or court order. If presented with a subpoena or court order, faculty and staff are to contact the University Registrar immediately. The University Registrar, in consultation with the General Counsel to the President, determines validity of and extent of compliance with subpoenas and court orders. You have the authority and responsibility to deny any request for data that you feel is not legitimate. If you are in doubt, it is always wiser to err on the side of caution than to release information that may constitute a FERPA violation.
+
+When responding to an inquiry about a student, staff and faculty must determine whether the student has placed a restriction on his/her record. If a student has filed a restriction, records are marked *CONFIDENTIAL* and _Web for Faculty_ records include the note "THE STUDENT HAS RESTRICTED RELEASE OF DIRECTORY INFORMATION." Class lists have the symbols >> preceding the student name. An appropriate response to an inquiry about a student with a directory restriction is "I'm sorry, I have no information for a person (or individual) by that name." **Note: Use of the term "student" in your response is not permitted under FERPA regulations.** You may not respond to the inquiry by indicating that the person has restricted the release of his/her directory information.
+
+### Posting of Grades
+
+Faculty and staff are responsible for protecting the identity of students and keeping student grades confidential. Grades or evaluations linked to personal identifiers (names, UO ID numbers, or social security numbers) may not be publicly disclosed without specific permission from the student as described above. Without student permission, grades or evaluations may be posted, whether on office doors or on websites, only by using [randomly generated codes or numbers](https://web.archive.org/faculty_staff/random_number_generator). The Office of the Registrar has created a mechanism that can be used by faculty to generate code numbers for students enrolled in their classes. It is available at [Random number generator](https://web.archive.org/faculty_staff/random_number_generator). Graded papers, exams, quizzes and other assignments are considered part of the student's education record, and must be returned to the student in a manner designed to maintain confidentiality.
+
+To read the complete University of Oregon Student Records Policy, OAR 571-020-0100, go to the [Oregon Secretary of State Archives Division](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html).
+
+Sue Eveland, University Registrar, is the designated Custodian of Student Records. Questions about the Student Records Policy or the information described above should be forwarded to Ms. Eveland (seveland [at] uoregon [dot] edu) or (541) 346-3195.
+
+## Privacy Related Resources
+
+### University of Oregon Directory Information Chart [(PDF download)](https://web.archive.org/files/pdf/UO_Directory_Information_Chart.pdf)
+
+Records defined as "Directory Information" may be released at any time without the express written permission of the student unless the student has filed a Restriction of Directory Information.
+
+DIRECTORY INFORMATION? | YES | NO  
+---|---|---  
+Student's full name | 
+
+**X**
+
+|   
+UO ID number |  | 
+
+**X**  
+  
+Personal Access Code (PAC) |  | 
+
+**X**  
+  
+Date of Birth |  | 
+
+**X**  
+  
+Gender |  | 
+
+**X**  
+  
+Ethnicity |  | 
+
+**X**  
+  
+Mailing address and telephone number | 
+
+**X**
+
+|   
+Permanent address and telephone number | 
+
+**X**
+
+|   
+All addresses and telephone numbers except Mailing and Permanent (e.g. Alternate Billing Address, Contact/Emergency Address, RO Diploma Address, etc.) |  | 
+
+**X**  
+  
+E-Mail Address | 
+
+**X**
+
+|   
+Parent names and/or addresses |  | 
+
+**X**  
+  
+Class level and academic major/minor | 
+
+**X**
+
+|   
+Dates of attendance | 
+
+**X**
+
+|   
+Fact that the student is or has been enrolled | 
+
+**X**
+
+|   
+Degrees, honors, certificates awarded | 
+
+**X**
+
+|   
+GPA or grades |  | 
+
+**X**  
+  
+Cumulative credit hours | 
+
+**X**
+
+|   
+Current term credits or class schedule (CRNs, meeting times, locations) |  | 
+
+**X**  
+  
+Full-time, half-time or less than half-time enrollment status | 
+
+**X**
+
+|   
+Information on academic standing (probation, disqualification, etc.) or whether student is eligible to return to school |  | 
+
+**X**  
+  
+Petitions to ARC or SRC |  | 
+
+**X**  
+  
+Whether student has applied for graduation |  | 
+
+**X**  
+  
+Unmet degree requirements for graduation |  | 
+
+**X**  
+  
+Accounts Receivable balance |  | 
+
+**X**  
+  
+Financial records of parents |  | 
+
+**X**  
+  
+Participation in official recognized activities | 
+
+**X**
+
+|   
+Student employment records |  | 
+
+**X**  
+  
+Psychiatric or psychological records |  | 
+
+**X**  
+  
+Copies of transcripts from other schools or colleges |  | 
+
+**X**  
+  
+Whether a graduate student has a GTF appointment and their teaching assignment | 
+
+**X**
+
+|   
+  
+**Note:** items marked as releasable will be provided to a third party upon request unless a Directory Information Restriction has been filed.
+
+### Student Records Privacy Quiz
+
+[Take the Student Records Policy Quiz](https://web.archive.org/web/20140626043044id_/http://registrar.uoregon.edu/records_privacy/?width=1000&height=760&inline=true#inline-quiz "Student Records Privacy Quiz").
+
+### University of Oregon Student Records Policy
+
+[Full text of the University of Oregon Student Records Policy](http://arcweb.sos.state.or.us/pages/rules/oars_500/oar_571/571_020.html)
+
+### Forms and Other Resources
+
+Name | Description  
+---|---  
+[Consent Form for Releasing Education Records](https://web.archive.org/files/pdf/Consent_to_Release_Educational_Records.pdf) | For students requesting the release of _**non-directory information**_. Other written formats are acceptable if they include: 
+
+  1. What information is to be released 
+  2. To whom the information is to be released 
+  3. The purpose for which it is to be released 
+  4. Your signature and the date signed
+
+  
+[Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools](https://web.archive.org/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf "Consent Form for Courses Using Blogs, Social Media or Other Publicly-accessible Communication Tools") | For faculty using blogs, social media or other publicly-accessible communication tools in courses, collect this form from each of your students.  
+[Consent Form for Requesting References/Recommendations](https://web.archive.org/files/pdf/StudentReferenceRequestForm.pdf) | For students requesting letters of reference or recommendation from University of Oregon faculty or staff members.  
+[Code of Responsibility for Education Records](https://web.archive.org/files/pdf/Ferpa-Code-of-Responsibility.pdf "Code of Responsibility for Education Records") | For departments to use when students/staff without access to systems are handling records.  
+[Random Number Generator](https://web.archive.org/faculty_staff/random_number_generator "Random Number Generator") | Faculty and staff can use the Random Number Generator to generate code numbers for students enrolled in their classes. (Graded papers, exams, quizzes and other assignments are considered part of the student's education record, and must be returned to the student in a manner designed to maintain confidentiality.)  
+[Consent Form for ePortfolio Participation](https://web.archive.org/files/pdf/ePortfolio_FERPA_Consent_Form.pdf "Consent Form for ePortfolio Participation") | For faculty using ePortfolio, collect and retain this form from each of your students.  
+Banner form SWIFERP | A Banner form available to all Faculty and Staff with Banner access. If the student does not have a directory restriction, all information on this form is releasable to a third party with the exception of the student ID number.  
+[Consent Forms for Photos and Videos](http://digital.uoregon.edu/ferpa-releases "Consent Forms for Photos and Videos")
+
+  * [Option #1](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release%20%233.pdf "Consent Form for Photos and Videos Option #1")
+  * [Option #2](http://digital.uoregon.edu/sites/digital.wc-sites.uoregon.edu/files/uploads/FERPA%20Photograph%20Release.pdf "Consent Form for Photos and Videos Option #2")
+
+| Use when taking photos and videos of students for use on the web and in print. Use either waiver when producing content involving students.  
+[Consent Form for the Common Application](https://web.archive.org/files/pdf/Common-Application-Consent-to-Release-Education-Records.pdf) | For students requesting a [Common Application](https://web.archive.org/current_students/common-application "Common Application") "Transfer Registrar Report" to be completed by the Registrar's Office.
