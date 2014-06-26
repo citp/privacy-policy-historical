@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127063653id_/http%3A//quinstreet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021529id_/http%3A//quinstreet.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | QuinStreet.com
 
@@ -46,7 +46,7 @@ You may choose whether or not to provide Personal Information to QuinStreet. The
 
 If you chose to have a relationship with QuinStreet, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
 
-If you no longer wish to receive communications via email, you may opt-out by clicking here [http://unsubscribe.quinstreet.com](http://unsubscribe.quinstreet.com/) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+If you no longer wish to receive communications via email, you may opt-out by clicking here [http://unsubscribe.quinstreet.com](http://unsubscribe.quinstreet.com/) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [info@QuinStreet.com](mailto:info@QuinStreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
 ## Security
 
@@ -54,7 +54,7 @@ Wherever your Personal Information may be held within QuinStreet or on its behal
 
 ## Access/Accuracy
 
-To the extent that you do provide us with Personal Information, QuinStreet wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with Personal Information, QuinStreet wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting QuinStreet should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [info@QuinStreet.com](mailto:info@QuinStreet.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 ## Children's Privacy
 
@@ -64,7 +64,7 @@ QuinStreet.com is not structured to attract children. Accordingly, we do not int
 
 Protecting your privacy online is an evolving area, and QuinStreet's websites are constantly evolving to meet these demands.
 
-If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [info@QuinStreet.com](mailto:info@QuinStreet.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 ## Your Consent
 
@@ -72,7 +72,7 @@ By using this website, you consent to the terms of our Online PRIVACY POLICY and
 
 ## Contacting Us
 
-For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) or you can send correspondence to the following address:
+For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [info@QuinStreet.com](mailto:info@QuinStreet.com) or you can send correspondence to the following address:
 
 Privacy  
 QuinStreet, Inc.  
