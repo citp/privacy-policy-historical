@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursetalk.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118112023id_/http%3A//coursetalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursetalk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095211id_/http%3A//www.coursetalk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [web site privacy policy](https://www.freeprivacypolicy.com/).
 
  **Changes to our Privacy Policy**
 
@@ -81,6 +81,6 @@ This policy was last modified on 5/19/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[info@coursetalk.org](mailto:info@coursetalk.org)
+[info@coursetalk.com](mailto:info@coursetalk.com)
 
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
+This policy is powered by Trust Guard [PCI compliance](https://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
