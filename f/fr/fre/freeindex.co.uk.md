@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806224019id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075728id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # FreeIndex.co.uk - Privacy Policy
 
@@ -34,5 +34,4 @@
   * FreeIndex Ltd may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Business Listing or account username, or by placing a prominent notice on the site.
 
   
-|   
----|---
+
