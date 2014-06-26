@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ru privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229050639id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ru privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626142156id_/http%3A//pages.ebay.com/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -163,7 +163,7 @@ Without limiting the above, in an effort to respect your privacy and our ability
 
 ### Information You Share on eBay
 
-Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile and your About Me page. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities. 
+Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you chose to share in your profile. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities. 
 
 If you access our websites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity or reminders from eBay, may also be visible to other individuals who use the computer after you.
 
@@ -375,7 +375,7 @@ Without limiting the above, in an effort to respect your privacy and our ability
   
 **Information You Share on eBay**
 
-Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you choose to share in your profile and your About Me page. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities. 
+Your User ID is displayed throughout eBay (and so available to the public), and is connected to all of your eBay activity. Other people can see your bids, purchases, items for sale, your collections, the members and collections you follow, storefronts, Feedback, ratings and associated comments. Other users can also see any information you choose to share in your profile. Notices sent to other community members about suspicious activity and policy violations on our sites refer to User IDs and specific items. So if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your eBay activities. 
 
 If you access our sites from a shared computer or a computer in an internet café, certain information about you, such as your User ID, activity, or reminders from eBay, may also be visible to other individuals who use the computer after you.
 
