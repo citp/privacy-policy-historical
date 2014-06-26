@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215150157id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.tv privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125901id_/http%3A//www.filmon.com/page/privacy-policy-en) for the most accurate reproduction.*
 
-# Privacy Policy Free Live Tv | Online Tv | Live Tv for Free | Film On | Best Social Tv | Battlecam
+# Privacy Policy FILMON TV FREE LIVE TV MOVIES AND SOCIAL TELEVISION
 
 ### Our privacy practices
 
