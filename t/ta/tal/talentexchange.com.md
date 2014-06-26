@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentexchange.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821024327id_/https%3A//www.talentexchange.com/candidate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentexchange.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020503id_/https%3A//www.talentexchange.com/candidate/privacy.html) for the most accurate reproduction.*
 
 # Data Privacy | TalentExchange
 
