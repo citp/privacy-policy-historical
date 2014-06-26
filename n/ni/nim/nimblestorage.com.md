@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229152628id_/http%3A//www.nimblestorage.com/website/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626033536id_/http%3A//www.nimblestorage.com/website/privacy-policy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Nimble Storage
 
   * [Home](https://web.archive.org/)»
   * Privacy Policy
