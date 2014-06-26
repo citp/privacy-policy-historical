@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224173808id_/http%3A//www.simplycast.com/Interactive-Marketing-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplycast.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052230id_/http%3A//www.simplycast.com/interactive-marketing-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | SimplyCast
 
 At SimplyCast, it is our intent to give you as much control as possible over your privacy in regards to your personal information and how we use it in our business. In general, you can visit SimplyCast on the web without telling us who you are or revealing any information about yourself.
 
