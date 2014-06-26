@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508135042id_/https%3A//www.concern.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090621id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Concern Privacy Statement - Concern Worldwide
 
@@ -17,6 +17,8 @@ You may inform us of any changes in your personal data, and in accordance with o
 ## Sensitive information
 
 Credit card numbers, account numbers, and online donations are protected by a secure server software called Realex. This secure software encrypts financial information provided online. It prevents anyone else reading your personal and sensitive information while your donation is being processed.
+
+When you make an online donation, your data will  be shared with third party merchant account providers so that the transaction may be processed.  Any data which you share with third party merchant account providers and which is then shared with Concern may be used by us strictly in relation to processing this transaction, and with your consent we will keep you updated about our work.
 
 To ensure we have an accurate personal record of our supporters, please contact us if your personal details have changed so we can update your record.
 
