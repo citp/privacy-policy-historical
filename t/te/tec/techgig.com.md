@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201011033id_/http%3A//www.techgig.com/user_links.php%3Fshow%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgig.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626070016id_/http%3A//www.techgig.com/user_links.php%3Fshow%3DPrivacy) for the most accurate reproduction.*
 
 # TechGig.com : Privacy Policy
 
