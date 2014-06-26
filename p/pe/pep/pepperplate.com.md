@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperplate.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095732id_/http%3A//www.pepperplate.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperplate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040529id_/http%3A//www.pepperplate.com/privacy.aspx) for the most accurate reproduction.*
 
 # Pepperplate
 
