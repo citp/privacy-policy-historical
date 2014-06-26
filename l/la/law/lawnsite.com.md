@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819203227id_/http%3A//www.lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnsite.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095706id_/http%3A//lawnsite.com/privacypolicy.php) for the most accurate reproduction.*
 
-# LawnSite.com™ - Lawn Care & Landscaping Business Forum
+# LawnSite.com Privacy Policy, Terms of Use, Contact Moose River Media
 
   
 **PRIVACY POLICY**   
@@ -67,7 +67,7 @@ Suite 201, 515 Bay Street
 St. Johnsbury, VT 05819   
 Telephone: 802-748-8908   
 Facsimile: (802) 748-1866   
-Email: kstagnito@mooserivermedia.com 
+Email: privacy@mooserivermedia.com 
 
 _Last Revised 8/12_   
 
