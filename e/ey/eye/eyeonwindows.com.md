@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeonwindows.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201012521id_/http%3A//www.eyeonwindows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeonwindows.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030536id_/http%3A//www.eyeonwindows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,4 @@ Our firm and its affiliated sites use only an “opt-in or opt out” method of 
 
 We obtain email addresses and personal information from third parties that follow the same set of policies. Email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via the [contact form](http://www.windows8update.com/contact-us/).
-
-[ Join the forum discussion on this post](http://www.eyeonwindows.com/forum/windows-8-news/privacy-policy/)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via the [contact form](http://www.eyeonwindows.com/contact-us/).
