@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bodycentral.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110121758id_/http%3A//www.bodycentral.com/service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodycentral.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060024id_/http%3A//www.bodycentral.com/service/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Body Central
 
 BODY CENTRAL ONLINE PRIVACY POLICY  
-Last modified: February 2013
+Last modified: May 2014
 
 1.    INTRODUCTION
 
@@ -85,11 +85,12 @@ Cookies.  When you visit our Site we send one or more “cookies” to your com
     Pixel Tags.  We may use “pixel tags,” also known as “web beacons,” which are small graphic files that allow us to monitor the use of our websites.  A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server. 
 
   
-Text/SMS Messaging.  Body Central Alerts offers mobile access to various promotions and other announcements over SMS. Enrollment can be achieved by texting BODY to 737269 and following the double opt-in instructions provided to you over SMS. The mobile phone number's verification message along with all other SMS messages may have standard text and data rates that apply. Users will be allowed to opt-out of this program at any time by sending the message STOP to 737269 or by emailing [help@pgminf.com](mailto:help@pgminf.com) with the subject line “STOP” along with your 10 digit mobile number. Message frequency is no more than 10 autodialed SMS messages per month, however we will respond to each of your requests for information. Consent is not required to purchase goods or services from Body Central. 
+Text/SMS Messaging.  Body Central Alerts offers mobile access to various promotions and other announcements over SMS. Enrollment can be achieved by texting BODY to 62088 and following the double opt-in instructions provided to you over SMS. The mobile phone number's verification message along with all other SMS messages may have standard text and data rates that apply. Users will be allowed to opt-out of this program at any time by sending the message STOP to 62088 or by emailing [help@pgminf.com](mailto:help@pgminf.com) with the subject line “STOP” along with your 10 digit mobile number. Message frequency is no more than 10 autodialed SMS messages per month, however we will respond to each of your requests for information. Consent is not required to purchase goods or services from Body Central. 
 
 If your mobile telephone number and/or mobile provider change, you agree to notify Body Central and provide your updated mobile telephone number and/or updated mobile provider. If you are sending an inbound text message to Body Central and do not receive a response, please contact your mobile provider for support. Some devices and mobile providers may not be SMS compatible, please contact your mobile provider for additional support.
 
-You can contact us at 877-471-4885 with questions about the text messaging program, or by texting HELP to 737269.3.    HOW WE USE AND SHARE YOUR INFORMATION
+You can contact us at 877-471-4885 with questions about the text messaging program, or by texting HELP to 62088.  
+3.    HOW WE USE AND SHARE YOUR INFORMATION
 
     To Provide Products, Services, and Information.  As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us.  We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you.  We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.
 
@@ -126,7 +127,7 @@ of receiving interest-based advertising from Dotomi, please visit Dotomi’s pri
 [Contact Us](http://www.bodycentral.com/service/contact.aspx) or call Customer Service at (800) 741-9696. You can opt-out of receiving marketing and promotional e-mails from Body Central by the following:  
 
 
-  * Call Customer Service at (800) 741-9696 Monday-Friday 9AM-6PM EST
+  * Call Customer Service at (800) 741-9696 Monday-Friday 7AM-7PM EST and Saturday 9AM-1PM EST
   * Email Customer Service at customerservice@bodyc.com
   * Use the unsubscribe link contained in our marketing e-mails
   * Use the Catalog [Opt-out Link](http://www.bodycentral.com/service/catalog.aspx) in the [Contact Us](http://www.bodycentral.com/service/contact.aspx) section of our Site.
@@ -150,22 +151,13 @@ of receiving interest-based advertising from Dotomi, please visit Dotomi’s pri
     If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, you can contact us by the following: 
 
   1. Use the [Contact Us](http://www.bodycentral.com/service/contact.aspx) link on the Site or email Customer Service at [customerservice@bodyc.com](mailto:customerservice@bodyc.com)
-  2. Call Customer Service at (800) 741-9696 Monday-Friday 9AM-6PM EST
+  2. Call Customer Service at Monday-Friday 7AM-7PM EST and Saturday 9AM-1PM EST
   3. Contact us through US postal mail at
 
 
 
 Catalog/Website Inquiries
 
-Attn: Direct Customer Service
-
-Body Central Direct, Inc.  
-6225 Powers Avenue  
-Jacksonville, FL 32217
-
-Store/Retail Inquiries
-
-Attn: Store Customer Service  
-Body Central Stores, Inc.  
+Attn: Customer ServiceBody Central  
 6225 Powers Avenue  
 Jacksonville, FL 32217
