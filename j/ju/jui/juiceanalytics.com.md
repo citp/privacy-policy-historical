@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208231014id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054226id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
 
-# Juice Inc. Privacy Policy – Juice Analytics
+# Privacy Policy — Juice Analytics
 
-_Juice Inc. operates several websites including juiceanalytics.com, juiceslice.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites._
+_Juice Inc. operates several websites including juiceanalytics.com, fruitiondata.com, juiceslice.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites._
 
 ### Website Visitors
 
@@ -44,4 +44,4 @@ Juice Inc. restricts access to personal information to Juice Inc. employees, con
 
 Although most changes are likely to be minor, Juice Inc. may change its Privacy Policy from time to time, and at Juice Inc.’s sole discretion. Juice Inc. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Thanks to the kind people of [WordPress.com](http://www.wordpress.com/) for making portions of this document available under the Creative Commons Sharealike license.
+Thanks to the kind people of [WordPress.com](http://www.wordpress.com/) for making portions of this document available under the Creative Commons Sharealike license.
