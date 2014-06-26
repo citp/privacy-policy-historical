@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206041235id_/http%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143914id_/http%3A//www.prowrestling.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ProWrestling.com
+# Privacy Policy | ProWrestling.com
+
+You are here: Privacy Policy
 
 ProWrestling.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
