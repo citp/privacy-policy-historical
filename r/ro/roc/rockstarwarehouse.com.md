@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112025254id_/http%3A//www.rockstarwarehouse.com/ContentPage%3FId%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031646id_/http%3A//www.rockstarwarehouse.com/ContentPage%3FId%3DPrivacyPolicy%26HideBreadCrumbs%3DTrue) for the most accurate reproduction.*
 
-# STORE PrivacyPolicy
+# Rockstar Warehouse | PrivacyPolicy
 
 Arvato Digital Services' Rockstar Games Online Store
 
