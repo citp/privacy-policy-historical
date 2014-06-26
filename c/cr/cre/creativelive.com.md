@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114042336id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152751id_/https%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
 
 # creativeLIVE: Privacy Policy
 
-creativeLIVE, Inc. (“CL”) has created this privacy policy to inform you about our how we treat various pieces of information you provide. The following discloses our information gathering and dissemination practices for the [www.creativelive.com](http://www.creativelive.com/) website. 
+CreativeLive, Inc. (“CL”) has created this privacy policy to inform you about our how we treat various pieces of information you provide. The following discloses our information gathering and dissemination practices for the [www.creativelive.com](http://www.creativelive.com/) website. 
 
 **Collection of Data/Contact Information/Financial Information**
 
@@ -78,5 +78,9 @@ Address:
 757 Thomas Street  
 Seattle, WA 98109  
 Telephone: (206) 403-1395 
+
+**User Profiles**
+
+You may create a user profile on the CL website by going to [www.creativelive.com/settings/profile](http://www.creativelive.com/settings/profile). This user profile allows your to participate in the CL online community. Once you have created a user profile, we expect you to use good judgement when using and accessing your user profile. Information and materials posted on or through your user profile are no longer private, and are subject to all the conditions of both our then-current Terms of Use and this Privacy Policy. Because user profiles are an integral part of the CL community experience, CL may, at its sole discretion, permanently or temporarily suspend, block, delete or terminate all or portions of your user profile if you violate or breach the CL Terms of Use or this Privacy Policy. 
 
 **EFFECTIVE DATE: Oct 7, 2012**
