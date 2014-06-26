@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205201733id_/http%3A//www.newtechnetwork.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnetwork.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151502id_/http%3A//www.newtechnetwork.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | New Tech Network
 
@@ -47,10 +47,6 @@ Any user can visit our website at www.newtechnetwork.org without providing any i
 * * *
 
 ##  **INFORMATION WE DO NOT COLLECT**
-
-###  **Children Under 13**
-
-As explained further in our Terms of Service, NTN’s services are intended for users ages thirteen (13) years and older only. You must be at least thirteen (13) years of age or older to use NTN’s service, or you must have the consent of a parent or guardian in order to use the service. NTN does not knowingly collect personally identifiable information from anyone under the age of 13 or knowingly allow Network Schools to create user information for such persons. In the event that we learn that we have inadvertently collected personal information from a person under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at privacydirector@newtechnetwork.org and/or write to us at the address noted above in the opening paragraph of this Privacy Statement.
 
 ###  **Children Between the Ages of 13 and 18**
 
