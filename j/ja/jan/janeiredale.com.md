@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janeiredale.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117060336id_/https%3A//janeiredale.com/us/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janeiredale.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054819id_/https%3A//janeiredale.com/us/en/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
