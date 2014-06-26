@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liquidplanner.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806023020id_/http%3A//www.liquidplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidplanner.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094700id_/http%3A//www.liquidplanner.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - LiquidPlanner
+# Privacy Policy – LiquidPlanner
 
 Date of Last Revision: June 25, 2008
 
@@ -21,19 +21,12 @@ We may collect various types of information about you including personal, demogr
 In general, we use personal information that we collect to process your requests or transactions, to facilitate your use and our administration and operation of the Site and the Services, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to learn more about and improve the Site and the Services and for the purpose for which information was provided. For example, we may use the information we collect to:
 
   1. provide you with the services you request and to complete any transactions or enable the use of any features;
-
   2. send you a welcoming, account related or customer service email;
-
   3. contact you about our or a third party’s services, products, activities, special events or offers;
-
   4. respond to your emails, submissions, comments, requests or complaints;
-
   5. process payments;
-
   6. request feedback and to enable us to develop, customize and improve the Site, the Services and new offerings; and
-
   7. notify contest winners.
-
 
 
 
