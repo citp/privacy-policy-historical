@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214013755id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydishrecipes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213439id_/http%3A//dailydishrecipes.com/disclosuresprivacy-policy) for the most accurate reproduction.*
 
-# Disclosures/Privacy Policy | Daily Dish Recipes
+# Disclosures/Privacy Policy - Daily Dish Recipes
 
 **Affiliate Disclosure**
 
