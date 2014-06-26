@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomtv.me privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226143754id_/http%3A//www.zoomtv.me/index.php%3Fp%3Dc%26id%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomtv.me privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022139id_/http%3A//www.zoomtv.me/index.php%3Fp%3Dc%26id%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Zoom TV
 
