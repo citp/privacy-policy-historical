@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101182721id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120826id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
 # Sony Electronics Inc
 
@@ -10,7 +10,7 @@
 
 Effective: June 2001
 
-Last Update: July 2011
+Last Update: January 2014
 
 ##  
 
@@ -43,14 +43,14 @@ SEL may contact you to provide information about products, services, promotions,
 You can also click below to adjust your communication preferences:
 
   * To opt out of information related to consumer products, click [here](http://products.sel.sony.com/SEL/legal/choice.html). 
-  * To opt out of information related to professional products, click [here](http://sonyleadmgmt.com/email_opt_out.html). 
+  * To opt out of information related to professional products, click [here](https://www.sony.com/prooptout). 
   * To opt out of Reader Store newsletters and information, visit the "My Account" section of your [Reader Store](http://ebookstore.sony.com/) and revise your email preferences. 
 
 
 
 ### _With your consent_ ,
 
-SEL may share your Personal Information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you. SEL will seek to obtain your consent at the place where the information is collected either by an "opt-out" or "opt-in" method, or by other means (such as an email request). Each of these companies may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our Affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. Except as to the eBook Service (see Supplement below), (i) if you wish to withdraw your consent from any further sharing of your Personal Information with third parties for marketing purposes related to consumer products, you may do so by clicking [here](http://products.sel.sony.com/SEL/legal/choice.html) and providing the requested information and (ii) if you wish to withdraw your consent from any further sharing of your Personal Information with third parties for marketing purposes with respect to professional products, you may do so by clicking [here](http://sonyleadmgmt.com/email_opt_out.html) and providing the requested information.
+SEL may share your Personal Information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you. SEL will seek to obtain your consent at the place where the information is collected either by an "opt-out" or "opt-in" method, or by other means (such as an email request). Each of these companies may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our Affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. Except as to the eBook Service (see Supplement below), (i) if you wish to withdraw your consent from any further sharing of your Personal Information with third parties for marketing purposes related to consumer products, you may do so by clicking [here](http://products.sel.sony.com/SEL/legal/choice.html) and providing the requested information and (ii) if you wish to withdraw your consent from any further sharing of your Personal Information with third parties for marketing purposes with respect to professional products, you may do so by clicking [here](https://www.proleadmgmt.com/) and providing the requested information.
 
 ### For instructions on how to request changes to the Personal Information you have provided to SEL,
 
@@ -74,6 +74,12 @@ When you visit any of our websites, advertisements appearing thereon, use one or
 ### Research and Tracking Techniques.
 
 SEL may also itself use, or engage third parties to use, Web beacons, pixel tags, passive capture technologies or other technologies for purposes such as researching and tracking certain usage, site interaction, and other activities on our website, on certain network enabled devices, and in emails you receive from us. The information collected by SEL or requested from third parties through these technologies is typically in an aggregate, non-personally identifiable form. However, in some cases, the information collected may include personally identifiable information provided by the user where SEL deems it advantageous to collect such information for purposes such as improving the usability of our website and customer support.
+
+### "Do Not Track" Signals. 
+
+Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, SEL currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit[ http://www.allaboutdnt.com.](http://www.allaboutdnt.com/)
+
+In addition, note that third parties may collect personal information about your online activities over time and across different websites when you visit our websites or other online websites and services.
 
 ##  
 
@@ -163,7 +169,9 @@ If you have questions regarding products or services, please click [here](http:/
 
 ##  
 
-Supplement to Sony Electronics Inc. Privacy Policy for Users of the Reader Store
+**Supplement to Sony Electronics Inc. Privacy Policy for Users of the Reader Store**
+
+##  
 
 1\. If you are a user of (i) the Sony eBook Service, (ii) any content of the Service, (iii) or any associated websites (the foregoing being collectively referred to herein as the "Services"), then, in addition to the terms of the Privacy Policy set forth above, the following terms ("Supplemental Terms") shall apply with respect to the Services. These Supplemental Terms do not apply to any other software, websites, services, goods, or materials (tangible or intangible), even if they are Sony branded or are linked to/from the Services. Terms not otherwise defined herein are defined in Section 6.
 
