@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frank151.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611180123id_/http%3A//www.frank151.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frank151.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061556id_/http%3A//www.frank151.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Frank151 - A Distinctive Mix of Exclusive and Unvarnished Content
+# Privacy - FRANK151
 
 ##  Privacy 
 
