@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228151826id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075535id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.*
 
 # privacy | The Daily News Journal | dnj.com
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
+[View subscription options](http://subscribe.dnj.com/?gps-source=CPPWOPT)
 
 ## You now have full access.
 
