@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrapbootstrap.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807133922id_/https%3A//wrapbootstrap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrapbootstrap.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165550id_/https%3A//wrapbootstrap.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - WrapBootstrap: Themes for Twitter Bootstrap
+# Privacy policy | WrapBootstrap - Bootstrap Themes & Templates
 
 WrapBootstrap does not share personal information of any kind with anyone. We will not sell or rent your name or personal information to any third party. We DO NOT sell, rent or provide outside access to our mailing list or any data we store. Any data that a user stores via our facilities is wholly owned by that user or business. At any time a user or business is free to take their data and leave, or to simply delete their data from our facilities.
 
