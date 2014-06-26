@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828202235id_/http%3A//www.oldversion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045030id_/http%3A//www.oldversion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms - OldVersion.com
 
-Stats: 17,536 versions of 691 programs
+Stats: 17,484 versions of 690 programs
 
 ## Pick a software title... to downgrade to the version you love!
 
@@ -22,3 +22,11 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+ 
+
+###### OldVersion.com Points System
+
+When you upload software to oldversion.com you get rewarded by points. For every field that is filled out correctly, points will be rewarded, some fields are optional but the more you provide the more you will get rewarded!
+
+So why not upload a peice software today, share with others and get rewarded! **[click here to upload software>>](https://web.archive.org/upload/)**
