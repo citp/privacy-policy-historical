@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203153023id_/http%3A//www.chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronoengine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081740id_/http%3A//chronoengine.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
