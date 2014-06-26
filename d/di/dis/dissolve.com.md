@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112134357id_/http%3A//www.dissolve.com/stockfootage/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dissolve.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141704id_/http%3A//www.dissolve.com/legal/privacy) for the most accurate reproduction.*
 
-# Dissolve — Royalty free HD stock video footage from $5 per clip
+# Privacy Policy - HD stock video footage for today's visual storyteller - Dissolve
 
 ## What information do we collect?
 
@@ -26,13 +26,13 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider’s database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the sites or service providers' systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the sites or service providers’ systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -50,9 +50,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-## Children's Online Privacy Protection Act Compliance
+## Children’s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ## Online Privacy Policy Only
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our [terms and conditions](http://www.dissolve.com/stockfootage/home/terms.do) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.dissolve.com](http://www.dissolve.com/stockfootage/home.do)
+Please also visit our [terms and conditions](https://web.archive.org/legal/terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dissolve.com](https://web.archive.org/)
 
 ## Your Consent
 
