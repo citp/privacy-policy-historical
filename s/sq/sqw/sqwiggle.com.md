@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sqwiggle.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821035748id_/https%3A//www.sqwiggle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqwiggle.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005449id_/https%3A//www.sqwiggle.com/privacy) for the most accurate reproduction.*
 
-# Sqwiggle - Privacy Policy
+# Privacy Policy | Sqwiggle
 
 ### Website Visitors
 
@@ -10,7 +10,9 @@ Sqwiggle also collects potentially personally-identifying information like Inter
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Sqwiggle's websites choose to interact with Sqwiggle in ways that require Sqwiggle to gather personally-identifying information. The amount and type of information that Sqwiggle gathers depends on the nature of the interaction. Sqwiggle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Sqwiggle. Sqwiggle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+Certain visitors to Sqwiggle's websites choose to interact with Sqwiggle in ways that require Sqwiggle to gather personally-identifying information. The amount and type of information that Sqwiggle gathers depends on the nature of the interaction. Sqwiggle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Sqwiggle. 
+
+Sqwiggle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
 ### Aggregated Statistics
 
