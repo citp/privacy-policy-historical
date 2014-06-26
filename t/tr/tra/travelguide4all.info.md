@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelguide4all.info privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216103508id_/http%3A//travelguide4all.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelguide4all.info privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080827id_/http%3A//travelguide4all.info/privacy-policy) for the most accurate reproduction.*
 
 # travelguide4all.info » Privacy Policy
 
