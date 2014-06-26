@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010022918id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sockshare.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194156id_/http%3A//www.sockshare.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # SockShare - Privacy Policy
-
-This file doesn't exist, or has been removed.
 
 Thank you for visiting the SockShare website located at www.SockShare.com (the "Site"). The Site is an Internet property of SockShare Ltd. and its affiliated companies ("SockShare," "we" or "us"). This SockShare Website Privacy Policy ("Privacy Policy") covers our treatment of Personal Information (as defined hereinbelow) and other information that we collect when you: (a) access or use the Site; (b) become a Member (as defined in the SockShare Website Terms and Conditions ("Terms and Conditions")); and/or (c) use the Services (as defined in the Terms and Conditions). It is important that visitors are fully informed about the use of their Personal Information.
 
@@ -84,8 +82,6 @@ By using this Site and/or Services, you agree to the terms of our Privacy Policy
 Any disclosure of personal information will be strictly controlled in accordance with current UK legislation, in particular the UK Data Protection Act 1998 (the Act). 
 
 Our business changes constantly and our UK Privacy Policy may also change from time to time. You should check our website frequently to see recent changes, however, we will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. Unless stated otherwise, our current UK Privacy Policy applies to all information that we have about you.
-
-For any inquiries you may contact us at +44 0121 288 3422 
 
 #### Contacting Us about Privacy Questions or Concerns
 
