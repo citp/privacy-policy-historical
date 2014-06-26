@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224010204id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambient-mixer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104916id_/http%3A//www.ambient-mixer.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -27,3 +27,7 @@ We may disclose your information if necessary to protect our legal rights or if 
 ## 6\. Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+## 7\. Display advertising
+
+We may have implemented Google Analytics features based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. 
