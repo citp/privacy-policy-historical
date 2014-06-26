@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229230440id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023704id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
 
 # Privacy policy - 24 November 2004 - New Scientist
 
@@ -68,7 +68,7 @@ _Category 1 cookies used by newscientist.com:_
 _Category 2 cookies used by newscientist.com:_
 
   * **Web analytics** \- Web analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.
-  *  **Embedded videos** \- Most videos on NnewsScientist.com are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience.
+  *  **Embedded videos** \- Most videos on NewScientist.com are hosted on [Brightcove](http://www.brightcove.com/en/privacy) and [YouTube](http://www.google.com/policies/privacy/ads/). These sites use cookies to collect video statistics and improve site experience.
 
 
 
