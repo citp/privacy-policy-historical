@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014032524id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626180204id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | US Concealed Carry Association | USCCA
 
