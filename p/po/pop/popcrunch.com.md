@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629124804id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcrunch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174000id_/http%3A//www.popcrunch.com/privacy-policy) for the most accurate reproduction.*
 
-# Pop CrunchPrivacy Policy
+# Privacy Policy - PopCrunch
 
 **Privacy Policy – Last Updated May, 2012**  
 Thank you for visiting a SeaWaves Technology ("we" or "us") Web site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted.
