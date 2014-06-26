@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223173232id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143003id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Formula 1® - The Official F1® Website
+# 
 
 **This website, Formula1.com (the "Site"), and all personal information collected from users of this Site, are owned solely by Formula One Management Limited. In this Privacy Policy references to "we", "us", "our", are references to Formula One Management Limited.**
 
