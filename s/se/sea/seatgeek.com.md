@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127095326id_/http%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110246id_/http%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
@@ -90,4 +90,4 @@ Persons under the age of 18 are not eligible to use any services on our Site. Se
 
 Should you have any questions, concerns or comments please email us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-© 2013 SeatGeek, all rights reserved. SEATGEEK, and SEATGEEK are trademarks of SeatGeek Inc. 
+© 2014 SeatGeek, all rights reserved. SEATGEEK, and SEATGEEK are trademarks of SeatGeek Inc. 
