@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035005id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasheartinstitute.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120420id_/http%3A//www.texasheartinstitute.org/privacy.cfm) for the most accurate reproduction.*
 
 # Website Terms of Use and Privacy Policy
 
@@ -21,8 +21,6 @@ Privacy Policy
 The Texas Heart Institute honors the legal requirements of the medical/health information privacy policies that apply in Houston, Texas, USA, where the website originates.
 
 The Texas Heart Institute and its website respect the confidentiality of data relating to individual visitors to the site, including their identity. Individual visitor information is not collected, shared, or distributed. Please note that aggregate data are collected and analyzed strictly for the purposes of identifying statistical information concerning site traffic, visitor demographics, and pages of greatest interest. In areas of the site where users must provide personal information for registration purposes or for purchasing certain services, this personal information may be forwarded to third parties in order to fulfill these requests. Please note also that e-mail to the Webmaster or to members of the Heart Information Center is not secure.
-
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm).
 
 Source of Funding
 
