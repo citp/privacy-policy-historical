@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thethemefoundry.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219192702id_/http%3A//thethemefoundry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethemefoundry.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090455id_/https%3A//thethemefoundry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — The Theme Foundry
 
@@ -22,7 +22,7 @@ The Theme Foundry also collects potentially personally-identifying information l
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to The Theme Foundry’s websites choose to interact with The Theme Foundry in ways that require The Theme Foundry to gather personally-identifying information. The amount and type of information that The Theme Foundry gathers depends on the nature of the interaction. For example, we ask visitors who purchase a product at [thethemefoundry.com](http://thethemefoundry.com/) to provide their name, a username, and an email address. The Theme Foundry collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with The Theme Foundry. The Theme Foundry does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to The Theme Foundry’s websites choose to interact with The Theme Foundry in ways that require The Theme Foundry to gather personally-identifying information. The amount and type of information that The Theme Foundry gathers depends on the nature of the interaction. For example, we ask visitors who purchase a product at [thethemefoundry.com](https://thethemefoundry.com/) to provide their name, a username, and an email address. The Theme Foundry collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with The Theme Foundry. The Theme Foundry does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
