@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926143347id_/http%3A//www.mypersonalfinancejourney.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112553id_/http%3A//www.mypersonalfinancejourney.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer — My Personal Finance Journey
 
