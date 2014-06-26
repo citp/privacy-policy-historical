@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530213135id_/http%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myworldofwork.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040227id_/http%3A//www.myworldofwork.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | My World of Work
 
-The website [www.myworldofwork.skillsdevelopmentscotland.co.uk] (the “Site”) is operated by The Skills Development Scotland Co. Limited, a company registered in Scotland with company number SC202659 and having its registered office at Alhambra House, 45 Waterloo Street, Glasgow G2 6HS (“we” or “us”).
+The website [www.myworldofwork.co.uk] (the “Site”) is operated by The Skills Development Scotland Co. Limited, a company registered in Scotland with company number SC202659 and having its registered office at Monteith House, 11 George Square, Glasgow G2 1DY (“we” or “us”).
 
 We are committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information that you provide to us.
 
@@ -93,7 +93,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 ##  Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email at [myworldofwork@sds.co.uk](mailto:myworldofwork@sds.co.uk "Email My World of Work") or by post to Alhambra House, 45 Waterloo Street, Glasgow, G2 6HS.
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email at [myworldofwork@sds.co.uk](mailto:myworldofwork@sds.co.uk "Email My World of Work") or by post to Monteith House, 11 George Square, Glasgow G2 1DY.
 
 ##  Data controller
 
