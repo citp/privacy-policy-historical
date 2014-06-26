@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026222430id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051129id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix
 
@@ -51,4 +51,7 @@ Business Development
 
 Press  
   
----|---
+---|---  
+  
+©2004-2014 Playrix®. 22 Puteiskaya St, Vologda 160000, Russia. All rights reserved.  
+All names are trademarks or registered trademarks of Playrix or their respective owners. 
