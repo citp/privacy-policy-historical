@@ -1,123 +1,21 @@
-<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2013-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130821154634id_/http%3A//www.carrotfry.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrotfry.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626072420id_/http%3A//www.carrotfry.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-    <meta name="description" content="Welcome to the best website for free cashback in india. Buy shopping with us you can get free cashback online. Learn our privacy policies and set up your carrot cash account.">
-    <meta name="keywords" content="Free online cash, online cashback in india, Free cashback, online mobile recharge, free cashback online, online cashback india">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head1">
+    
 <title>
-	Carrot Fry
-</title><link href="favicon.ico" rel="icon" type="image/x-icon"><link rel="stylesheet" type="text/css" href="Styles/cfsite.css">
-    
-    <script type="text/javascript" src="http://www.carrotfry.com/Scripts/jquery-1.7.2.js"></script>
-    
-    
-     <script src="http://www.carrotfry.com/Scripts/PlaceHolders.js" type="text/javascript"></script>
-    <link href="Styles/NotificationStyles.css" rel="stylesheet">
-    <script src="http://www.carrotfry.com/Scripts/jquery-1.7.1.min.js"></script>
-    <link href="http://www.carrotfry.com/images/NotificationImages/jquery.thumbnailScroller.css" rel="stylesheet">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
-    <script src="http://www.carrotfry.com/images/NotificationImages/jquery-ui-1.8.13.custom.min.js"></script>
-    <link href="Styles/tooltip.css" rel="stylesheet">
-    <script src="http://www.carrotfry.com/Scripts/toolmaster.js"></script>
-     <script type="text/javascript">
-         $(document).ready(function () {
-             // Tooltip only Text
-             $('.masterTooltip').hover(function () {
-             
-                 // Hover over code
-                 var title = $(this).attr('title');
-                 $(this).data('tipText', title).removeAttr('title');
-                 $('<p class="tooltip"></p>')
-                 .text(title)
-                 .fadeIn('slow');
-             }, function () {
-                 // Hover out code
-                 $(this).attr('title', $(this).data('tipText'));
-                 $('.tooltip').remove();
-             }).mousemove(function (e) {
-                 var mousex = e.pageX + 20; //Get X coordinates
-                 var mousey = e.pageY + 10; //Get Y coordinates
-                 $('.tooltip')
-                 .css({ top: mousey, left: mousex })
-             });
-         });
-    </script>
-   
+	privacy
+</title><link href="favicon.ico" rel="icon" type="image/x-icon"><link rel="stylesheet" type="text/css" href="http://www.carrotfry.com/Styles/cfsite.css">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.carrotfry.com/Scripts/jquery-1.7.2.js"></script>
     <script type="text/javascript">
         var GetLastCount = 0;
         var GetLastCountElement = 0;
-        var getTitle;
-
-        $(document).ready(function () {
-
-            getTitle = document.title;
-            DetectBrowserSafari();
-            $.ajax({
-                cache: false,
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "Carrotfry.asmx/GetLiveFeedActivityCount",
-                dataType: "json",
-                success: function (data) {
-                    //debugger;
-                    if (data.d != 0) {
-                        GetLastCount = data.d;
-                    }
-                },
-                failure: function (msg) {
-                    //alert(msg);
-                    Result = false;
-                }
-            });
-            CountLiveFeed();
-        });
-
-        //call LiveFeed for every 10 seconds 
-
-        function CountLiveFeed() {
-            LiveFeedCount();
-            setTimeout(CountLiveFeed, 10000);
-            if (GetLastCountElement > GetLastCount) {
-                var ActivityCount = GetLastCountElement - GetLastCount;
-                //<div id="lblLiveFeedCount" title="New Updates" style="color: orange;background:white;width:23px;height:11px;border-radius:13px;text-align:center;font-size: 9px;float: right;margin-top: 10px;margin-right: 3px;">99<div style="clear:both;"></div></div> 
-                if (ActivityCount < 99) {
-                    $(document).attr('title', '');
-                    $(document).attr('title', '(' + ActivityCount + ')' + ' ' + getTitle);
-                    $("#lblLiveFeedCount").html('');
-                    $("#lblLiveFeedCount").html('<div title="New Updates" style="color: orange;background:white;width:23px;height:11px;border-radius:13px;text-align:center;font-size: 9px;float: right;margin-top: 10px;margin-right: 3px;">' + ActivityCount + '<div style="clear:both;"></div></div> ');
-                }
-                else {
-                    $("#lblLiveFeedCount").html('');
-                    $("#lblLiveFeedCount").html('<div title="New Updates" style="color: orange;background:white;width:23px;height:11px;border-radius:13px;text-align:center;font-size: 9px;float: right;margin-top: 10px;margin-right: 3px;">99+<div style="clear:both;"></div></div> ');
-                }
-            }
-        }
+        var getTitle;        
         function IsSpecialInviteTitle() {
             var getTitle = document.title;
             $(document).attr('title', '');
             $(document).attr('title', '(' + 1 + ')' + ' ' + getTitle);
         }
-
-        function LiveFeedCount() {
-            $.ajax({
-                cache: false,
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: "Carrotfry.asmx/GetLiveFeedActivityCount",
-                dataType: "json",
-                success: function (data) {
-                    //debugger;
-                    if (data.d != 0) {
-                        GetLastCountElement = data.d;
-                    }
-                },
-                failure: function (msg) {
-                    //alert(msg);
-                    Result = false;
-                }
-            });
-        }
-
         function DetectBrowserSafari() {
             var ua = navigator.userAgent.toLowerCase();
             if (ua.indexOf('safari') != -1) {
@@ -129,155 +27,8 @@
                 }
             }
         }
-    </script>
-    <script type="text/javascript">
-        function DoWaterMarkOnFocus(txt, text) {
-            if (txt.value == text)
-                txt.value = "";
-        }
-        function DoWaterMarkOnBlur(txt, text) {
-            if (txt.value == "")
-                txt.value = text;
-        }
-        var val = 0;
-        $(document).ready(function () {
-
-            //$(".login-container").hide();
-            //toggle the componenet with class msg_body
-            $("#badgelogin,#loginnow,#notilogin,#carrotcash,#invite").click(function () {
-                $(".login-menu").next(".login-container").slideToggle(300);
-            });
-
-            $(".login-menu, .badgelogin").click(function () {
-                $(this).next(".login-container").slideToggle(300);
-            });
-            //.middle-container, removed this from function below for badges,levels,notification logins
-            $(".menu-container, .brand-index, .left, .members-review-container, .brand-links-container, .right-curve, .steps").click(function () {
-                $(".login-container").slideUp(300);
-            });
-
-            $(".loggedin-container").hide();
-            $(".user-loggedin").click(function () {
-                $(this).next(".loggedin-container").slideToggle(300);
-            });
-            if (val == 1) {
-                $(".login-container").show();
-            }
-            //forgot Password
-
-            $(".login-input-container-forgot").hide();
-            $(".fp-text-a").click(function () {
-                $(this).next(".login-input-container-forgot").slideToggle(300);
-                //alert("");
-            });
-            //forgot password recovery mail 
-            $("#lbtnRecover").click(function () {
-                var Result = false;
-                var DataResult = "";
-                $.ajax({
-                    cache: false,
-                    type: "POST",
-                    contentType: "application/json; charset=utf-8",
-                    url: "Carrotfry.asmx/ForgotValidateEmailID",
-                    data: "{'strEmail':'" + $('#txtForgot').val() + "'}",
-                    dataType: "json",
-                    success: function (data) {
-                        for (var e in data) {
-                            if (data[e] != "")
-                                DataResult = DataResult + data[e];
-                        } //debugger;
-                        if (DataResult == "Email Already Exist")
-                            return true;
-                        else
-                            return false;
-                    },
-                    failure: function (msg) {
-                        //alert(msg);
-                        Result = false;
-                    }
-                });
-            });
-
-
-        });
-
-
-        function LoadPage() {
-            $(".login-container").hide();
-            $(".loggedin-container").hide();
-        }
-        function LoginSlide() {
-            val = 1;
-        }
-    </script>
-     <script>
-        $(function () {
-
-            var id = $("#uid").val();
-            if (id != "") {
-               // $(".noofnoti").css("display", "none");
-            }
-            
-            $("#noti").click(function () {
-                if (id != "") {
-                    if ($("#notification").is(":hidden")) {
-                        $("#notification").slideToggle("slow", function () {
-
-                            $(".main-slide").toggleClass("border");
-                        });
-
-                        $("#panel").hide();
-                        $("#levelpanel").hide();
-                    }
-                    else {
-                        $("#notification").slideToggle("slow", function () { });
-                    }
-
-                } else {
-                    if ($("#notificationpanel").is(":hidden")) {
-                        $("#notificationpanel").slideToggle("slow", function () {
-
-                            $(".main-slide").toggleClass("border");
-                        });
-
-                       // $("#panel").hide();
-                        $("#levelpanel").hide();
-                    }
-                    else {
-                        $("#notificationpanel").slideToggle("slow", function () { });
-                    }
-                }
-
-
-            });
-
-            $(".noticlose a,.close a,.closenoti a").click(function () {
-                $("#panel").hide();
-                $("#notification").hide();
-                $("#notificationpanel").hide();
-                $("#levelpanel").hide();
-                $(".main-slide").addClass("border");
-            });
-        });
-
-    </script>
-    <script type="text/javascript">
-        $(function () {
-            blinkeffect('#txtblnk');
-        })
-        function blinkeffect(selector) {
-            $(selector).fadeOut('slow', function () {
-                $(this).fadeIn('slow', function () {
-                    blinkeffect(this);
-                });
-            });
-        }
-</script>
-
-<script src="http://www.carrotfry.com/Scripts/jquery.validate.js" type="text/javascript"></script>
-<script src="http://www.carrotfry.com/Scripts/validation.js" type="text/javascript"></script>
-    
-  
+    </script>   
+	
     
 
   <style type="text/css">
@@ -306,57 +57,400 @@
                  
        </style>
 
-    <style type="text/css">
-        .search-box-master {
-            -moz-box-sizing: border-box;
-            -webkit-box-sizing: border-box;
-            box-sizing: border-box;
+    <style type="text/css">   
+        .btnShopnow
+        {
+            width: 100px;
+            height: 25px;
+            background-color: #ff8a00;
+            color: #fff;
+            border: none;
+            font-weight: bold;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .Logged
+        {
+            font-size: 14px;
+            font-weight: bold;
             float: right;
-            padding: 2px 30px 2px 2px;
-            width: 180px;
-            height: 30px;
-            padding: 8px;
-            margin: 12px 5px 4px 10px;
-            border-radius: 12px;
-            border: 1px;
+            margin-left: 0px;
         }
 
-        .btn-search-magnify-master {
+        .slideLoggedUser
+        {
+            //margin-left: 53px;
+        }
+
+        .userLogOut
+        {
+            margin-top: 0px;
+            height: 25px;
+            box-shadow: none;
+        }
+
+        .myprofile_slide li:hover
+        {
+            background: linear-gradient(rgb(255, 138, 0), rgb(255, 138, 0)) repeat scroll 0% 0% transparent;
+        }
+        .carrot_ul li:hover
+        {
+           background: linear-gradient(rgb(255, 138, 0), rgb(255, 138, 0)) repeat scroll 0% 0% transparent;
+        }
+          .carrot_ul ul li:last-child a:hover
+        {
+            background-color: none;
+        }
+        .carrot_ul ul a:hover
+        {
+            background-color: none;
+        }
+        .carrot_ul ul li:last-child a
+        {
+            -moz-border-radius: 0 0 0px 0px;
+            -webkit-border-radius: 0 0 0px 0px;
+            border-radius: 0 0 0px 0px;
+        }
+        .fixedSocialIcon
+        {
+            background: #fff;
+            border: 1px solid #C2C2C2;
+            border-right: none;
             float: right;
-            background-image: url(http://www.carrotfry.com/images/portal/magnify_img.png);
-            background-repeat: no-repeat;
-            margin-right: -183px;
-            width: 20px;
-            height: 20px;
-            position: relative;
-            top: 17px;
+            font-size: 1.2em;
+            font-weight: bold;
+            position: fixed;
+            top: 230px;
+            right: 0;
+            height: 182px;
+            width: 34px;
+            z-index: 9999;
         }
 
-        .logo {
-            width: 209px;
-        }
+            .fixedSocialIcon ul li
+            {
+                background: #fff;
+                border: 1px solid transparent;
+                border-right: none;
+                line-height: 24px;
+                height: 24px;
+                padding: 4px 5px;
+                position: absolute;
+                width: 100px;
+                list-style: none;
+            }
 
-        .SP_invite {
-            color: white;
-            background: #BA0000;
-            width: 23px;
-            height: 20px;
-            border-radius: 100px;
-            text-align: center;
-            font-size: 9px;
-            float: right;
-            margin-top: 10px;
-            margin-right: -22px;
-        }
+                .fixedSocialIcon ul li.hover
+                {
+                    border: 1px solid #C2C2C2;
+                }
 
-    </style>
-</head>
+                .fixedSocialIcon ul li a
+                {
+                    color: #333;
+                    text-decoration: none;
+                    float: left;
+                    width: 100%;
+                    font-size: 12px;
+                    font-family: arial;
+                }
+
+                    .fixedSocialIcon ul li a span
+                    {
+                        background: url(http://www.carrotfry.com/images/sprite-icon.png) no-repeat 0 0;
+                        display: block;
+                        margin-right: 5px;
+                        float: left;
+                        height: 24px;
+                        width: 24px;
+                    }
+
+                .fixedSocialIcon ul li.twitter a span
+                {
+                    background-position: 0 -31px;
+                }
+
+                .fixedSocialIcon ul li.googlePlus a span
+                {
+                    background-position: 0 -63px;
+                }
+
+                .fixedSocialIcon ul li.pinterest a span
+                {
+                    background-position: 0 -97px;
+                }
+
+                .fixedSocialIcon ul li.youtube a span
+                {
+                    background-position: 0 -131px;
+                }
+
+                .fixedSocialIcon ul li.facebook
+                {
+                    top: 6px;
+                }
+
+                .fixedSocialIcon ul li.twitter
+                {
+                    top: 40px;
+                }
+
+                .fixedSocialIcon ul li.googlePlus
+                {
+                    top: 74px;
+                }
+
+                .fixedSocialIcon ul li.pinterest
+                {
+                    top: 108px;
+                }
+
+                .fixedSocialIcon ul li.youtube{top: 142px;}
+                #menu ul li p{color: #fff;font: bold 12px/25px Arial, Helvetica;text-shadow: 0 1px 0 #000;margin-top: -17px;margin-left: 10px;height: 25px;float: left; }
+                .main-sub-header a{
+                     color: rgb(0, 10, 255);
+                     font-family: arial;
+                     font-weight: bold;
+                     font-size: 13px;
+                }
+                .text_banner a
+                {
+                  font-size:13px;
+                  width:850px;
+                }
+                .text_banner a:hover
+                {
+                    color:#109b1c;
+                }
+                .search1 {
+float: right;
+margin-top: -45px;
+}
+                .search1 input[type=text] {
+					background: #f1eff0;
+						border: 0 none;
+						border-radius: 8px;
+					height: 21px;
+					outline: 0;
+					width: 200px;
+					margin: 6px 10px;
+						padding: 4px 32px 4px 10px;
+					}
+					.fourmsearchbtn {
+					  float: right;
+background-image: url(http://www.carrotfry.com/images/portal/magnify_img.png);
+background-repeat: no-repeat;
+width: 20px;
+height: 20px;
+position: absolute;
+margin-left: 225px;
+margin-top: -32px;
+}
+</style>
+    <script type="text/javascript">
+        function isNumberPop(evt) {
+            evt = (evt) ? evt : window.event;
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+                return false;
+            }
+            return true;
+        }
+        var nConf_form = jQuery.noConflict(true);
+        nConf_form(function(){
+           openpopup('divJoinUsPopUp', '');
+            nConf_form('#txtSignUpEmailPop').focusout(function () {
+                if (nConf_form('#txtSignUpEmailPop').val() != "")
+                    ValidateEmailPop();
+            });
+            nConf_form('#txtMobilePop').focusout(function () {
+                if (nConf_form('#txtMobilePop').val() != "")
+                    MobileVerificationPop();
+            });
+            var divbg = document.getElementById('bg');
+            divbg.style.visibility = "hidden";
+            document.getElementById('divJoinUsPopUp').style.display = "none";
+            
+            nConf_form('#lbtnExpertSubmit').click(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test(nConf_form('#txtExpertEmail').val());
+                    if (nConf_form('#txtExpertMsg').val() == "") {
+                        alert("Please enter your message and email. ");
+                        return false;
+                    }
+                    if (nConf_form('#txtExpertEmail').val() == "") {
+                        alert("Please Enter Email.");
+                        return false;
+                    }
+                    if (valid == false)
+                    {
+                        alert("Please Enter Valid Email.");
+                        return false;
+                    }
+                    return true;
+                });
+        }); 
+        function ValidateEmailPop() {
+            nConf_form.ajax({
+                cache: false,
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: "http://www.carrotfry.com/Carrotfry.asmx/ValidateEmailID",
+                data: "{'strEmail':'" + nConf_form('#txtSignUpEmailPop').val() + "'}",
+                dataType: "json",
+                success: function (data) {
+                    for (var e in data) {
+                        if (data[e] != "") {
+                            alert(data[e]);
+                            nConf_form('#txtSignUpEmailPop').val('');
+                            nConf_form('#txtSignUpEmailPop').focus();
+                        }
+                    }
+                },
+                failure: function (msg) {
+                    alert(msg);
+                }
+
+            });
+        }
+        function MobileVerificationPop() {
+            nConf_form.ajax({
+                cache: false,
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: "http://www.carrotfry.com/Carrotfry.asmx/MobileVerification",
+                data: "{'mobile':'" + nConf_form('#txtMobilePop').val() + "'}",
+                dataType: "json",
+                success: function (data) {
+                    for (var e in data) {
+                        if (data[e] != "") {
+                            alert(data[e]);
+                            nConf_form('#txtMobilePop').val('');
+                            nConf_form('#txtMobilePop').focus();
+                        }
+
+                    }
+                },
+                failure: function (msg) {
+                    alert(msg);
+                }
+
+            });
+        }
+        function CheckValidEmailOrNotPop() {
+            nConf_form.ajax({
+                cache: false,
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: "http://www.carrotfry.com/CarrotFry.asmx/ValidateEmailID",
+                data: "{'strEmail':'" + nConf_form('#txtForgotPwdEmailPop').val() + "'}",
+                dataType: "json",
+                success: function (data) {
+                    for (var e in data) {
+                        if (data[e] != "") {
+                            window.event.returnValue = true;
+                            nConf_form("#lblForgotPwdEmailErrPop").html('An Email has been sent.').css({ 'color': 'green', 'display': 'block' });
+                        }
+                        else {
+                            nConf_form("#lblForgotPwdEmailErrPop").html('Email Doest Not Exist').css({ 'color': 'red', 'display': 'block' });
+                            if (nConf_form("#lblForgotPwdEmailErrPop").html() == "Email Doest Not Exist") {
+                                nConf_form("#txtForgotPwdEmailPop").after('<span id="spanFN" class="ValidationErrors"><img  style="margin-right: -18px;float: right;margin-top: -42px;" src="http://www.carrotfry.com/images/jquery.liveValidation-invalid.png" title="Please enter a valid Email id."></span>').next().next().css("display", "none");
+                            }
+                            window.event.returnValue = false;
+                            return false;
+                        }
+                    }
+                },
+                failure: function (msg) {
+                    alert(msg);
+                }
+            });
+            return true;
+        }
+    </script>
+    
+<script language="javascript">
+        function ValidSearch()
+        {
+          if(document.getElementById('txt_search').value=="")
+            return false;
+          else
+            return true;
+        }
+        function openpopup(id, url) {
+            if(id=="popupcoupon")
+              document.getElementById('hdnPop').value ="1";
+            if(document.getElementById('hdnPopUpUrl').value=="")
+               document.getElementById('hdnPopUpUrl').value = url;
+            document.getElementById('divLoginPopUp').style.display = "none";
+            document.getElementById('divJoinUsPopUp').style.display = "none";
+            document.getElementById('divForgotPopUp').style.display = "none";
+            //Calculate Page width and height 
+            var pageWidth = window.innerWidth;
+            var pageHeight = window.innerHeight;
+            if (typeof pageWidth != "number") {
+                if (document.compatMode == "CSS1Compat") {
+                    pageWidth = document.documentElement.clientWidth;
+                    pageHeight = document.documentElement.clientHeight;
+                } else {
+                    pageWidth = document.body.clientWidth;
+                    pageHeight = document.body.clientHeight;
+                }
+            }
+            //Make the background div tag visible... 
+            var divbg = document.getElementById('bg');
+            divbg.style.visibility = "visible";
+            divbg.style.display = "block";
+
+            var divobj = document.getElementById(id);
+            divobj.style.visibility = "visible";
+            divobj.style.display = "block";
+            if (navigator.appName == "Microsoft Internet Explorer")
+                computedStyle = divobj.currentStyle;
+            else computedStyle = document.defaultView.getComputedStyle(divobj, null);
+            //Get Div width and height from StyleSheet 
+            var divWidth = computedStyle.width.replace('px', '');
+            var divHeight = computedStyle.height.replace('px', '');
+            var divLeft = (pageWidth - divWidth) / 2;
+            var divTop = (pageHeight - divHeight) / 3;
+            //Set Left and top coordinates for the div tag 
+            divobj.style.left = divLeft + "px";
+            divobj.style.top = divTop + "px";
+            //Put a Close button for closing the popped up Div tag 
+            if (divobj.innerHTML.indexOf("closepopup('" + id + "')") < 0)
+                divobj.innerHTML = "<a href=\"http://www.carrotfry.com/joinus\" onclick=\"closepopup('" + id + "');return false;\"><span class=\"close_button\">X</span></a>" + divobj.innerHTML;
+        }
+        function closepopup(id) {
+            document.getElementById('hdnPopUpUrl').value = "";
+            var divbg = document.getElementById('bg');
+            divbg.style.visibility = "hidden";
+            var divobj = document.getElementById(id);
+            divobj.style.visibility = "hidden";
+            document.getElementById('divLoginPopUp').style.display = "none";
+            document.getElementById('divJoinUsPopUp').style.display = "none";
+            document.getElementById('divForgotPopUp').style.display = "none";
+        }
+    </script>
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40783751-1', 'carrotfry.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+<meta name="Description" content="privacy"><meta name="keywords" content="privacy"></head>
 <body>
-    <form method="post" action="PrivacyPolicy.aspx" id="form1">
+    <form method="post" action="privacypolicy" id="form1">
 <div class="aspNetHidden">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYGAgIPZBYCZg8WAh4HVmlzaWJsZWdkAgYPFgIeC18hSXRlbUNvdW50AgkWEmYPZBYCAgEPFgIeBGhyZWYFIU1lcmNoYW50U2VhcmNoLmFzcHg/U2VhcmNoQnlJRD05ORYCZg8VAQdGYXNoaW9uZAIBD2QWAgIBDxYCHwIFIk1lcmNoYW50U2VhcmNoLmFzcHg/U2VhcmNoQnlJRD0xMzEWAmYPFQELRWxlY3Ryb25pY3NkAgIPZBYCAgEPFgIfAgUiTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzMhYCZg8VAQZUcmF2ZWxkAgMPZBYCAgEPFgIfAgUiTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzMxYCZg8VAQ5Ib21lICYgS2l0Y2hlbmQCBA9kFgICAQ8WAh8CBSJNZXJjaGFudFNlYXJjaC5hc3B4P1NlYXJjaEJ5SUQ9MTM1FgJmDxUBD0hlYWx0aCAmIEJlYXV0eWQCBQ9kFgICAQ8WAh8CBSJNZXJjaGFudFNlYXJjaC5hc3B4P1NlYXJjaEJ5SUQ9MTM2FgJmDxUBCEZvb3R3ZWFyZAIGD2QWAgIBDxYCHwIFIk1lcmNoYW50U2VhcmNoLmFzcHg/U2VhcmNoQnlJRD0xMzcWAmYPFQEXRW50ZXJ0YWlubWVudCAmIExlaXN1cmVkAgcPZBYCAgEPFgIfAgUiTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzOBYCZg8VARFKZXdlbGxlcnkgJiBDb2luc2QCCA9kFgICAQ8WAh8CBSJNZXJjaGFudFNlYXJjaC5hc3B4P1NlYXJjaEJ5SUQ9MTkwFgJmDxUBDkZvb2RzICYgRHJpbmtzZAIMDxYCHglpbm5lcmh0bWwF4QU8bGk+PHNwYW4gY2xhc3M9J29yYW5nZS1ib2xkJz5NZXJjaGFudCBDYXRlZ29yaWVzPC9zcGFuPjwvbGk+PGxpPjxhIGhyZWY9J01lcmNoYW50U2VhcmNoLmFzcHg/U2VhcmNoQnlJRD05OSc+RmFzaGlvbjwvYT48L2xpPjxsaT48YSBocmVmPSdNZXJjaGFudFNlYXJjaC5hc3B4P1NlYXJjaEJ5SUQ9MTMxJz5FbGVjdHJvbmljczwvYT48L2xpPjxsaT48YSBocmVmPSdNZXJjaGFudFNlYXJjaC5hc3B4P1NlYXJjaEJ5SUQ9MTMyJz5UcmF2ZWw8L2E+PC9saT48bGk+PGEgaHJlZj0nTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzMyc+SG9tZSAmIEtpdGNoZW48L2E+PC9saT48bGk+PGEgaHJlZj0nTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzNSc+SGVhbHRoICYgQmVhdXR5PC9hPjwvbGk+PGxpPjxhIGhyZWY9J01lcmNoYW50U2VhcmNoLmFzcHg/U2VhcmNoQnlJRD0xMzYnPkZvb3R3ZWFyPC9hPjwvbGk+PC91bD48dWwgc3R5bGU9J21hcmdpbi10b3A6IDQ4cHg7Jz48bGk+PGEgaHJlZj0nTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzNyc+RW50ZXJ0YWlubWVudCAmIExlaXN1cmU8L2E+PC9saT48bGk+PGEgaHJlZj0nTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTEzOCc+SmV3ZWxsZXJ5ICYgQ29pbnM8L2E+PC9saT48bGk+PGEgaHJlZj0nTWVyY2hhbnRTZWFyY2guYXNweD9TZWFyY2hCeUlEPTE5MCc+Rm9vZHMgJiBEcmlua3M8L2E+PC9saT48L3VsPmQYAQUWY3RsMDAkbXZBdXRoZW50aWNhdGlvbg8PZGZkSqSVaB1WSmBo9F/Y4ANxIbcb2ufulY8TjCPfrg9rZk0=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYEAgIPFgIeB1Zpc2libGVoZAIGDxYCHglpbm5lcmh0bWwFRzxhIGhyZWY9J2h0dHA6Ly93d3cuY2Fycm90ZnJ5LmNvbS9mYXRoZXJzZGF5ZGVhbHMgJz5GYXRoZXJzRGF5RGVhbHM8L2E+ZGS85E//ZiwjKJJTpFfsCq2794F4CrODlOiKao1t7Seg7w==">
 </div>
 
 <script type="text/javascript">
@@ -383,187 +477,175 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/ScriptResource.axd?d=Hl59NhpNW6HNWg2_ZgDmtRb3z2AcJ4I9Sop4OqqCHHSCF03tHns-jnFS7KIlCUqJiJYFa2U4EXXx065RatLd0mhiQh0kv2xfQEO7W3CfkcdnmHVbHidyMLUX6OW9FU4lbMcBMN8zUQ7VSVQgvM7JFVHMjbZ9fvnWdTuwPTIoPoZBVnBG5ZZBevcmsGWpIX9X0&amp;t=6119e399" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAnvckdmY7CeYK1m0xqowM1lQ54v8enJ0/cMOGrzy+yPHisk7ZkZNVgoFnYsFvuKbFYadux+TJ142ktxD+r25OjfL89IC/HJsgbvQaLuUxKjYZSVz51AgmyYuY/mn2SJvYycX5nW5Za23+Ciit6xAirv9vQQvH05042KsEn5OX4hipG+HA8ac8o+L1+U2ZpaqeFi6Y7cPF+Wmt3NWCeXa0kuFAlUHBFpOglXyc2elxZE9Q==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABQVhcMjwMRMoXZO7UbRVwcgqmnQWtWg89VPdDy9cmBZ4lV6RkAfufrqJa6LpqnGFgurso+AjPkYOyt7Lm7k63eI/vu0TsWzkZOFcMEFcDZTT1psT4BNIhlmelqFJFlk1aLtYOVF3oOoDqu5wlSRFn6OG8jycQxZVtiBF9whDSLEbo2OlE+CUr82FHXSLcPNjsZFvdgBKPDp5XjmjCN4o7aOqznenfX7IsEoK6qokDsYKrKQPOLERu2I4MkX2uwU1hHTQmnPkTGmVln2SWuOMX+fR1CJ86xNtNvRlDtB8YbkCMtgON7+UMMQCDg0WPKhvtIVDwTtSj0Po5RVQYQ27Pf0epdjl8rtA2xrnh/+bkTr7E9CIRLkeIP27F8p+7Zwq5yRvhwPGnPKPi9flNmaWqnhbwNwGa3j6kjaLcrZTmkHDrtranG3GFvDEJP81lEQi9teDiq5l4Zd0/xFImD95Fad">
 </div>
-        <script type="text/javascript">
+         <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [], [], [], 90, 'ctl00');
 //]]>
 </script>
 
-        <div class="main-container">
-            <div class="header-container">
-                <div class="header-container-left">
-                </div>
-                <div class="header-content">
-                    <a href="http://www.carrotfry.com/Home.aspx">
-                        <img src="http://www.carrotfry.com/images/Portal/cfbeta.png" class="logo" alt="Carrot Fry" title="Carrot Fry" style="margin-top: 2px;
-margin-left: -1px;">
-                        <!-- <img src="images/Portal/logo.png" class="logo" alt="Carrot Fry" title="Carrot Fry" />-->
-                    </a>
-                    <div class="top-menu">
-                        <div class="sep"></div>
-                        <div>
-                            
-                            <a href="http://www.carrotfry.com/cfforum/home.aspx">
-                                <div id="lblLiveFeedCount" style="float: right; margin-left: 3px;"></div>
-                                <img src="http://www.carrotfry.com/images/Portal/hot-deal-forum.png" style="width: 40px; height: 40px; margin-top: -4px; margin-left: 22px;">
-                                <div style="margin-top: 1px;">Deals Forum</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>
-                        <!-- <div>
-                            <a href="http://www.carrotfry.com/LoveBoard.aspx">
-                                <img src="http://www.carrotfry.com/images/Portal/love_board.png" style="margin-top: 10px; margin-left: 18px;" />
-                                <div>Love Board</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>-->
-                        <div>
-                            <a href="#" id="carrotcash">
-                                <img src="http://www.carrotfry.com/images/Portal/carrot_cash_acc.png" style="margin-left: 45px;">
-                                <div style="margin-top: 1px;">Carrot Cash Wallet</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>
-                        <div>
-                            <a href="http://www.carrotfry.com/HowItWorks.aspx">
-                                <img src="http://www.carrotfry.com/images/Portal/how_it_works.png" style="margin-top: 7px; margin-left: 65px;">
-                                <div>How to Earn Carrot Cash</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>
-                        <div>
-                            <a href="#" id="invite">
-                                <div id="SpInviteImg" class="SP_invite" style="float: left; margin-top: 8px; padding-right: 3px; padding-top: 5px; margin-left: 6px;">1</div>
-                                <img src="http://www.carrotfry.com/images/Portal/invite_people.png" style="margin-top: 13px; margin-left: 25px;">
-                                <div style="margin-top: 3px;">Invite &amp; Earn</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>
+        <div class="headertop">
+            <div class="head_socialicon">
+                <a href="http://wwww.facebook.com/carrotfry" class="head_facebook" rel="nofollow" target="_blank"></a>
+                <a href="http://www.twitter.com/carrotfry" class="head_twitter" rel="nofollow" target="_blank"></a>
+                <a href="http://www.pinterest.com/carrotfry/pins" class="head_pinterest" rel="nofollow" target="_blank"></a>
+                <a href="http://www.carrotfry.com/feed" class="head_rss" rel="nofollow" target="_blank"></a>
+                <a href="https://plus.google.com/+carrotfry" class="head_google_plus" rel="nofollow" target="_blank"></a>
+            </div>
+            <div id="WithOutLogin" class="user_auth">
+                <a href="http://www.carrotfry.com/forums" class="forum_btn">Deal Forums </a>
+                <a href="http://www.carrotfry.com/joinus" class="LoginBtn" onclick="openpopup('divLoginPopUp', '');return false;">Login</a>
+                <a href="http://www.carrotfry.com/joinus" class="JoinBtn" onclick="openpopup('divJoinUsPopUp', '');return false;">Join us</a>
+            </div>
+            
+        </div>
+        <header>
+            <div id="logo">
+                <a href="http://www.carrotfry.com"><img alt="Online Shopping Deals and Coupons india – Carrotfry.com" src="https://s3-ap-southeast-1.amazonaws.com/carrotfry-images/cflogonew.png"></a>
+            </div>
+            <div class="top_promotion_link" style="float:right;"></div>
+<div id="nav">
+<ul>
+<li id="liDeals">
+<a href="http://www.carrotfry.com" class="drop">Deals </a>
+</li>
+<span class="span-sep"></span>
+<li id="liCoupons">
+<a href="http://www.carrotfry.com/coupons">Coupons </a>
+</li>
+<span class="span-sep"></span>
+<li id="liStores">
+<a href="http://www.carrotfry.com/online-shopping-stores">Shopping Stores </a>
+</li>
+<span class="span-sep"></span>
+    
+<li id="dmSpecial"><a href="http://www.carrotfry.com/fathersdaydeals ">FathersDayDeals</a></li>
+</ul>
+<div id="dd_search_filter">
+<input name="ctl00$txt_search" type="text" id="txt_search" class="nav_search1" placeholder="Search for">
+<select class="search-select" id="search_list" name="search_list"><option value="premium_deal">Deals</option>
 
-                        <!-- <div>
-                            <a href="#">
-                                <img src="http://www.carrotfry.com/images/Portal/Affiliate_symbol.png" style="margin-top: 9px; margin-left: 13px;" />
-                                <div>Affiliates</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>
-                        <div>
-                            <a href="#">
-                                <img src="http://www.carrotfry.com/images/Portal/Advertise.png" style="margin-top: 3px; margin-left: 18px;" />
-                                <div>Advertisers</div>
-                            </a>
-                        </div>
-                        <div class="sep"></div>-->
-                       <!-- <div>
-                            <a href="http://www.carrotfry.com/PetBunny.aspx">
-                                <img src="http://www.carrotfry.com/images/Portal/pet_bunny.png" style="width: 30%; margin-top: 3px; margin-left: 18px;" />
-                                <div>Play & Earn</div>
-                            </a>
-                        </div>-->
-
-                        <div style="display: none;">
-                            <img src="http://www.carrotfry.com/images/Portal/search.png">
-                            Merchants, etc...
-                        </div>
-                        <div class="sep"></div>
-                        <span id="spanMasterSearch">
-                            <input name="ctl00$txtMasterSearch" type="text" id="txtMasterSearch" class="search-box-master" placeholder="Merchant/Brand Name">
-                            
-
-                            <a onclick="this.value='Please..';" id="lbtnSearchmaster" class="btn-search-magnify-master" href="javascript:__doPostBack('ctl00$lbtnSearchmaster','')"></a>
-                            <script>
-                                $(document).ready(function () {
-                                    $("#txtMasterSearch").keyup(function (event) {
-                                        if (event.keyCode == 13) {
-                                            __doPostBack('ctl00$lbtnSearchmaster', '')
-                                        }
-                                    });
-                                });
-
-                            </script>
-                        </span>
-                    </div>
-                    
-                            <div id="pnlLoginPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'lbtnlogin')">
-	
-                                <div class="login-menu">
-                                    <a href="#">Login
-                                    </a>
-                                </div>
-                                <div class="login-container" style="display: none;">
-                                    <div class="login-input-container" style="margin-top: 0px;">
-                                        <input name="ctl00$txtEmail" type="text" maxlength="45" id="txtEmail" placeholder="Email">
-                                    </div>
-                                    <div class="login-input-container">
-                                        <input name="ctl00$txtPassword" type="password" id="txtPassword" placeholder="Password" class="mypassword">
-                                    </div>
-                                    <span id="lblMsg" style="color: red; margin-left: 16px; margin-top: 8px; float: left;"></span>
-                                    <div>
-                                        <a id="lbtnlogin" class="btn-orange" href="javascript:__doPostBack('ctl00$lbtnlogin','')" style="float: right; width: 80px; margin: 10px 0; margin-right: 4px;">Login</a>
-                                    </div>
-
-                                    <p style="float: left; margin: 40px 0 10px">Forgot your password?</p>
-                                    <div class="login-input-container" style="margin-top: 0px;">
-                                        <input name="ctl00$txtForgot" type="text" maxlength="45" id="txtForgot" placeholder="Email">
-                                    </div>
-                                    <div>
-                                        <a id="lbtnRecover" class="btn-orange" href="javascript:__doPostBack('ctl00$lbtnRecover','')" style="float: right; width: 80px; margin: 10px 0; margin-right: 4px;">Recover</a>
-                                        <span id="spanMsg" style="color: green; margin-left: -13px; margin-top: -7px; float: left; width: 261px; font-size: 13px;"></span>
-                                    </div>
-
-                                </div>
-                            
+</select>
+<input type="submit" name="ctl00$btnSearch" value="" onclick="return ValidSearch();" id="btnSearch" class="searchclass">
 </div>
-                        
-                </div>
-                <div class="header-container-right">
-                </div>
-            </div>
-            <div class="menu-container">
-                
-                        <a href="MerchantSearch.aspx?SearchByID=99" id="rptMenu_ahrefName_0" class="menu-container-a">Fashion</a>
-                        <div id="rptMenu_right_dot_0" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=131" id="rptMenu_ahrefName_1" class="menu-container-a">Electronics</a>
-                        <div id="rptMenu_right_dot_1" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=132" id="rptMenu_ahrefName_2" class="menu-container-a">Travel</a>
-                        <div id="rptMenu_right_dot_2" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=133" id="rptMenu_ahrefName_3" class="menu-container-a">Home &amp; Kitchen</a>
-                        <div id="rptMenu_right_dot_3" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=135" id="rptMenu_ahrefName_4" class="menu-container-a">Health &amp; Beauty</a>
-                        <div id="rptMenu_right_dot_4" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=136" id="rptMenu_ahrefName_5" class="menu-container-a">Footwear</a>
-                        <div id="rptMenu_right_dot_5" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=137" id="rptMenu_ahrefName_6" class="menu-container-a">Entertainment &amp; Leisure</a>
-                        <div id="rptMenu_right_dot_6" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=138" id="rptMenu_ahrefName_7" class="menu-container-a">Jewellery &amp; Coins</a>
-                        <div id="rptMenu_right_dot_7" class="menu_right_div"></div>
-                    
-                        <a href="MerchantSearch.aspx?SearchByID=190" id="rptMenu_ahrefName_8" class="menu-container-a">Foods &amp; Drinks</a>
-                        <div id="rptMenu_right_dot_8" class="menu_right_div"></div>
-                    
-            </div>
+</div>
 
-            <!-- <div class="brand-index">
-                <div class="brand-index-text">
-                    Brand Index:
-                </div>
-                <div class="brand-index-alpha">
-                    <a href="http://www.carrotfry.com/MerchantSearch.aspx?SearchByBrand=A">A</a> <a href="MerchantSearch.aspx?SearchByBrand=B">B</a> <a href="MerchantSearch.aspx?SearchByBrand=C">C</a> <a href="MerchantSearch.aspx?SearchByBrand=D">D</a> <a href="MerchantSearch.aspx?SearchByBrand=E">E</a>
-                    <a href="http://www.carrotfry.com/MerchantSearch.aspx?SearchByBrand=F">F</a> <a href="MerchantSearch.aspx?SearchByBrand=G">G</a> <a href="MerchantSearch.aspx?SearchByBrand=H">H</a> <a href="MerchantSearch.aspx?SearchByBrand=I">I</a>
-                    <a href="http://www.carrotfry.com/MerchantSearch.aspx?SearchByBrand=J">J</a> <a href="MerchantSearch.aspx?SearchByBrand=K">K</a> <a href="MerchantSearch.aspx?SearchByBrand=L">L</a> <a href="MerchantSearch.aspx?SearchByBrand=M">M</a> <a href="MerchantSearch.aspx?SearchByBrand=N">N</a> <a href="MerchantSearch.aspx?SearchByBrand=O">O</a> <a href="MerchantSearch.aspx?SearchByBrand=P">P</a> <a href="MerchantSearch.aspx?SearchByBrand=Q">Q</a> <a href="MerchantSearch.aspx?SearchByBrand=R">R</a>
-                    <a href="http://www.carrotfry.com/MerchantSearch.aspx?SearchByBrand=S">S</a> <a href="MerchantSearch.aspx?SearchByBrand=T">T</a> <a href="MerchantSearch.aspx?SearchByBrand=U">U</a> <a href="MerchantSearch.aspx?SearchByBrand=V">V</a> <a href="MerchantSearch.aspx?SearchByBrand=W">W</a> <a href="MerchantSearch.aspx?SearchByBrand=X">X</a> <a href="MerchantSearch.aspx?SearchByBrand=Y">Y</a> <a href="MerchantSearch.aspx?SearchByBrand=Z">Z</a>
-                </div>
-            </div>-->
+<div id="subnav">
+<ul>
+<li>
+<a href="http://www.carrotfry.com">Home</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/mobiles-and-accessories/1">Mobiles</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/desktops-and-laptops/1">Computers</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/electronics/1">Electronics</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/fashion/1">Fashion</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/footwear/1">Footwear</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/books-and-music/1">Books</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/health-and-beauty/1">Health &amp; Beauty</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/home-and-kitchen/1">Kitchen</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/food/1">Food</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/travels/1">Travel</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/hotels/1">Hotels</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/kids/1">Kids</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/women-exclusive/1">Women Exclusive</a>
+</li>
+<li>
+<a href="http://www.carrotfry.com/deals/accessories/1">Accessories</a>
+</li>
+</ul>
+</div>
+<div class="expertdiv">
+    <span id="lblExpert" class="expert-head">Expert Help</span>
+    <span class="expert-sep"></span>
+    <input name="ctl00$txtExpertMsg" type="text" id="txtExpertMsg" class="expetmsg" placeholder="Ask our experts for a Product( brand , model ) you want to Purchase for best Price(*)">
+    <input name="ctl00$txtExpertEmail" type="text" id="txtExpertEmail" class="expettextbox" placeholder="Email (*)">
+    <input name="ctl00$txtExpertMobile" type="text" id="txtExpertMobile" class="expettextbox" placeholder="Mobile Number ( Optional )">
+    <a id="lbtnExpertSubmit" class="expertbutton" href="javascript:__doPostBack('ctl00$lbtnExpertSubmit','')">Submit</a>
+</div>           
+</header>
 
+        
+        <div style="clear: both;"></div>
+        
+        <!--PopUp-->
+        <div id="divLoginPopUp" class="popup">
+            <div class="login_head">Login to Carrotfry</div>
+            <div>
+                <input name="ctl00$txtLoginEmailPopUp" type="text" id="txtLoginEmailPopUp" class="LogintextboxForLogin" placeholder="Email">
+                <label id="loginPop" class="error_star">*</label>
+            </div>
+            <div>
+                <input name="ctl00$txtLoginPasswordPopUp" type="password" id="txtLoginPasswordPopUp" class="LogintextboxForLogin" placeholder="Password">
+                <label id="password" class="error_star">*</label>
+            </div>
+            <span id="lblMsgPOP" style="color: red; margin-left: 16px; margin-top: 3px; float: left;"></span>
+            <a id="lbtnloginPopUp" class="loginbuttonForPopUp" href="javascript:__doPostBack('ctl00$lbtnloginPopUp','')">Login</a>
+            <div style="width: 100%; float: left; margin-top: 15px;">
+                <a href="http://www.carrotfry.com/joinus" id="lbtnForgotPasswordPOPUp" onclick="openpopup('divForgotPopUp','');return false;" style="float: left; color: #1322CC; margin-left: 20px;">Forgot Password?</a>
+                <a href="http://www.carrotfry.com/joinus" id="A1" onclick="openpopup('divJoinUsPopUp','');return false;" style="float: right; color: #1322CC; margin-left: 20px;">New Registration? Click here</a>
+            </div>
+            
+        </div>
+
+        <div id="divJoinUsPopUp" class="popupJoinUs">
+            <div class="login_head">Signup to Carrotfry</div>
+            <input name="ctl00$txtFirstNamePop" type="text" maxlength="16" id="txtFirstNamePop" class="LogintextboxForLogin" onkeypress="ValidateAlpha();" placeholder="First Name">
+            <label id="fname" class="error_star">*</label>
+            <input name="ctl00$txtLastNamePop" type="text" id="txtLastNamePop" class="LogintextboxForLogin" onkeypress="ValidateAlpha();" placeholder="Last Name">
+            <label id="lname" class="error_star">*</label>
+            <input name="ctl00$txtMobilePop" type="text" maxlength="10" id="txtMobilePop" class="LogintextboxForLogin" placeholder="Mobile Number" onkeypress="return isNumberPop(event)">
+            <label id="mobile" class="error_star">*</label>
+            <input name="ctl00$txtSignUpEmailPop" type="text" id="txtSignUpEmailPop" class="LogintextboxForLogin" placeholder="Email">
+            <label id="email" class="error_star">*</label>
+            <input name="ctl00$txtPasswordPop" type="password" id="txtPasswordPop" class="LogintextboxForLogin" placeholder="Password">
+            <label id="spassword" class="error_star">*</label>
+            <br>
+            <span style="margin-left: 45px;">I Agree to the </span><a href="TermsNConditions.aspx" target="_blank" style="color: #1322CC;">Terms &amp; Conditions</a>
+            <a id="btnJoinusPop" class="loginbuttonForJoinPopUp" href="javascript:__doPostBack('ctl00$btnJoinusPop','')">Join Us</a>
+            <div>
+                <a href="http://www.carrotfry.com/joinus" id="A2" onclick="openpopup('divLoginPopUp','');return false;" style="float: left; color: #1322CC; margin-left: 45px;">Already Registered? Login here</a>
+            </div>
+        </div>
+
+        <div id="divForgotPopUp" class="popupForgot">
+            <div class="login_head">Forgot password?</div>
+            <input name="ctl00$txtForgotPwdEmailPop" type="text" id="txtForgotPwdEmailPop" class="LogintextboxForLogin" placeholder="Email" style="margin-bottom: 15px;">
+            <label id="forgotEmail" class="error_star">*</label>
+            <p style="height: 32px; position: absolute; margin-top: 59px; margin-left: -79px;">
+                <label id="lblForgotPwdEmailErrPop" style="font-size: 11px; color: red; margin-left: 82px; margin-top: -50px; display: none">Enter valid email</label>
+            </p>
+            <a id="lbtnForgotPwdEmailPop" class="loginbuttonForPopUp" href="javascript:__doPostBack('ctl00$lbtnForgotPwdEmailPop','')" style="color: #fff;">Send Mail</a>
+        </div>
+        
+        <!--End PopUp-->
+        <div style="clear: both;"></div>        
+        
             <div class="middle-container">
                 
       <div class="Content">
@@ -652,318 +734,321 @@ margin-left: -1px;">
             <p style="color:#ff9f2d;font:bold 16px arial,helvetica,san-serif; margin-top:10px; margin-bottom:10px;">DATE LAST MODIFIED: 11/04/2013</p>
             </div>
           </div>
-
-
-                 <div class="main-slide border">
-                    <div class="icons">
-                        <a href="#" id="badges">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/badges_03.png"></a>
-                        <a href="#" id="levels">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/level_03.png">
-                        </a>
-                        <a id="noti" href="#">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/new_03.png" style="margin-bottom: -2px; margin-left: -6px;">
-                        </a>
-
-
-                        <div class="noofnoti">
-                            <p>
-                                2+
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-                <input type="hidden" name="ctl00$uid" id="uid">
                 
-                
-                <div class="toggler">
-                <div id="panel">
-                    <div class="fixed"></div>
-                    <div class="close">
-                        <a href="#">
-                            <img src="http://www.carrotfry.com/images/cancel_btn.png"></a>
-                    </div>
-                    <div class="fixed"></div>
-                    <div class="cfimgtext">
-                        <div class="cfimg">
-                            <div id="badgeUserimgdiv" class="cfimage float-l">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/f_03.png"></div>
-                            <div id="badgeLogin" class="unlock float-l">
-                                <a href="#" id="badgelogin">Login</a>
-                                <p>&nbsp; Now!</p>
-                            </div>
-                        </div>
-                        <div class="fixed"></div>
-                        <div id="badgeUserearningdiv" class="unlockbadge">
-                        <span>Unlock Badges And</span><div class="fixed"></div><span>Earn Carrotcash.</span></div>
-                        <div class="fixed"></div>
-                    </div>
-                    <div class="bagdes">
-                        <div id="tS2" class="jThumbnailScroller">
-                            <div class="jTscrollerContainer">
-                                <div class="jTscroller">
-                                    <ul id="mcts1"><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/14d0f5a2-810c-4cde-a00e-fb8cfd84c997new-bie.png"><span><br>Newbie</span><span></span><span></span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/a5bc8d66-0221-4ed8-a1fb-652648daf343cash-back.png"><span><br>Cash back </span><span></span><span></span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/bde11187-501f-4044-8431-b3c0ab8f7031invite-earning.png"><span><br>Invite &amp; Earn</span><span></span><span></span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/a4ea1ee0-8642-43bc-93f8-f8448732b9derefern-earn.png"><span><br>Refer &amp; Earn</span><span style="color:Black;"><br>Earn </span><span></span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/70ecd8e4-a9f9-4b54-b32a-f715acd875e81st-thread.png"><span><br>First Thread</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/8797fb34-921f-4478-8168-12f64cccbbab1st-reply.png"><span><br>First Reply</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/c0c9432a-f1d9-4196-b4a6-b7d43e80acd6thread-butterfy.png"><span><br>Thread Butter..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/5ebd79d0-07fe-4cd0-bbcc-601ce6676d24reply-butterflies.png"><span><br>Reply Butterf..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/d3aac945-fa84-4d77-bbaa-88fb933a511f1st-responder.png"><span><br>First Respond..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/558da604-0110-4b25-b6d0-2b8a32bfafb6Top-deal-king.png"><span><br>Top Deals Kin..</span><span style="color:Black;"><br>Earn </span><span>20&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/d799b4fd-f385-4280-b35b-187eb19f4b80thread-sale.png"><span><br>Thread Sale</span><span style="color:Black;"><br>Earn </span><span>20&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/a5b0c331-fef6-4140-bdca-7542f324c433daily-visitor-10.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/a862c112-55a6-4e1a-829e-7959644ce06cdaily-visitor-30.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>3&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/56d1d9fa-81c9-4fad-953c-5f5a3adca256daily-visitor-90.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>6&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/7047e7b0-b472-471c-a769-51a178d0ed17daily-visitor-180.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>10&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/43f77e2c-e51f-4462-b2a4-f69f6e348ededaily-visitor-270.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>75&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/64cdb3cf-ba30-48ec-b1c5-f52984c8d81adaily-visitor-365.png"><span><br>Daily Visitor..</span><span style="color:Black;"><br>Earn </span><span>100&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/cbbcebc8-b42d-4ce7-8370-e5fbcee3ebedthread-creator-100.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/24f849fa-7d31-4823-b895-b5f1a57c332athread-creator-250.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/f5af7f58-ea3b-4f1a-81b1-3356a37d1e53thread-creator-500.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/e6eb12c9-b533-4918-8976-4dae1fc75eb0thread-creator-1000.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/812d169c-2d0f-4e48-8937-6c5f952cfcd5thread-creator-5000.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/eb490fc1-f73e-489a-8488-c4c45d884161thread-creator-10000.png"><span><br>Threads Creat..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/bfe029b6-a13f-4241-ac18-c9f1d7a47962total-replies100.png"><span><br>Replies Given..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/9f29909a-91ff-4368-bdd4-418c1365d50dtotal-replies250.png"><span><br>Replies Given..</span><span></span><span></span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/5679532c-96a0-498b-89ec-5b26b841a57etotal-replies500.png"><span><br>Replies Given..</span><span style="color:Black;"><br>Earn </span><span>3&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/ed309aff-7947-4f25-a3ae-fd4d97123979total-replies1000.png"><span><br>Replies Given..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/7cc526a4-63f7-441e-af3e-a23244a18c74total-replies-5000.png"><span><br>Replies Given..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/4081d848-a29e-49aa-9a44-a1b5c3e27ed3total-replies-10000.png"><span><br>Replies Given..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/b33549f4-02c7-49d4-be2c-151cf8664e80replies-received-10.png"><span><br>Replies Recei..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/35143f2f-cd9e-4a0e-a5ef-09228067dd17replies-received-25.png"><span><br>Replies Recei..</span><span style="color:Black;"><br>Earn </span><span>2&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/3f92174a-ed7d-4508-96c9-2904c8cb1895replies-received-50.png"><span><br>Replies Recei..</span><span style="color:Black;"><br>Earn </span><span>3&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/29a6f11f-82cd-449c-90df-39017c03aa88likes25.png"><span><br>Likes Receive..</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/75a823ba-9882-4616-a95e-c1e219aca253likes50.png"><span><br>Likes Receive..</span><span style="color:Black;"><br>Earn </span><span>2&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/609622e9-8b68-4394-945f-0d4ec3a3c519likes100.png"><span><br>Likes Receive..</span><span style="color:Black;"><br>Earn </span><span>3&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/2aae1214-5bb8-4be2-ae5e-fc1ecf42cbddmy-thread-views100.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>2&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/a33dae5b-d173-4abc-9e49-e972b6c0ff9emy-thread-views250.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>3&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/fa47c7ea-6b9b-4fdb-aa17-5eef04906fcamy-thread-views500.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/ac0fe29e-7084-4d32-8e43-86349c789c5dmy-thread-views1000.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>7&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/c2cc7b58-b7bb-4a49-b060-460a3d1a8b9dmy-thread-views5000.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>10&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/83554d1f-1da4-483d-8bde-8293a07a0b33my-thread-views10000.png"><span><br>My thread vie..</span><span style="color:Black;"><br>Earn </span><span>20&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/15e80dad-4b46-49b4-aebb-7ac60d109ed5SUBSCRIBER-100.png"><span><br>Subscriber 50</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/e1468c7c-af82-46e3-8908-4bbbfa241e84top-recommender.png"><span><br>Top Recommend..</span><span style="color:Black;"><br>Earn </span><span>5&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/2305759c-c07d-4552-a39d-992501fcd1b1alert.png"><span><br>Alert King</span><span style="color:Black;"><br>Earn </span><span>1&nbsp;CC</span></li><li class="scrollLeft"><img src="http://www.carrotfry.com/cfadmin/Uploads/BadgeImage_Small/4a074074-47f9-416a-a374-85b7c2d23babplay-n-earn.png"><span><br>Play &amp; Earn</span><span style="color:Black;"><br>Earn </span><span></span></li></ul>
-                                </div>
-                            </div>
-                            <a href="#" class="jTscrollerNextButton"></a>
-                            <a href="#" class="jTscrollerPrevButton"></a>
-                        </div>
-                    </div>
-                      <script src="http://www.carrotfry.com/images/NotificationImages/jquery-ui-1.8.13.custom.min.js"></script>
-            <script>
-                jQuery.noConflict();
-                (function ($) {
-                    window.onload = function () {
-
-                        $("#badges").click(function () {
-
-                            if ($("#panel").is(":hidden")) {
-                                $("#panel").slideToggle("slow", function () {
-
-                                    $(".main-slide").toggleClass("border");
-                                });
-                                $("#levelpanel").hide();
-                                $("#notificationpanel").hide();
-                                $("#notification").hide();
-
-                                $("#tS2").thumbnailScroller({
-                                    scrollerType: "clickButtons",
-                                    scrollerOrientation: "horizontal",
-                                    scrollSpeed: 2,
-                                    scrollEasing: "easeOutCirc",
-                                    scrollEasingAmount: 600,
-                                    acceleration: 4,
-                                    scrollSpeed: 800,
-                                    noScrollCenterSpace: 10,
-                                    autoScrolling: 0,
-                                    autoScrollingSpeed: 2000,
-                                    autoScrollingEasing: "easeInOutQuad",
-                                    autoScrollingDelay: 500
-                                });
-                            }
-                            else {
-                                $("#panel").slideToggle("slow", function () { });
-                            }
-
-                        });
-
-                        $("#levels").click(function () {
-                            if ($("#levelpanel").is(":hidden")) {
-                                $("#levelpanel").slideToggle("slow", function () {
-
-                                    $(".main-slide").toggleClass("border");
-                                });
-                                $("#panel").hide();
-                                $("#notificationpanel").hide();
-                                $("#notification").hide();
-                                $("#tS1").thumbnailScroller({
-                                    scrollerType: "clickButtons",
-                                    scrollerOrientation: "horizontal",
-                                    scrollSpeed: 2,
-                                    scrollEasing: "easeOutCirc",
-                                    scrollEasingAmount: 600,
-                                    acceleration: 4,
-                                    scrollSpeed: 800,
-                                    noScrollCenterSpace: 10,
-                                    autoScrolling: 0,
-                                    autoScrollingSpeed: 2000,
-                                    autoScrollingEasing: "easeInOutQuad",
-                                    autoScrollingDelay: 500
-                                });
-                            }
-                            else {
-                                $("#levelpanel").slideToggle("slow", function () { });
-                            }
-
-                        });
-                    }
-                })(jQuery);
-            </script>
-                    <div>
-                        <img src="http://www.carrotfry.com/images/NotificationImages/e_03.png">
-                    </div>
-
+                <input type="hidden" name="ctl00$uid" id="uid">                
+        
+            <div class="footer-content">
+                <div class="nav">
+                    <ul id="ulCategory">
+                    </ul>
+                    <ul style="margin-left: 60px;">
+                        <li style="margin-left: 90px;"><span class="orange-bold">Find Best Deals By Categories</span></li>
+                        <li>
+                          <ul>							
+							<li><a href="http://www.carrotfry.com/deals/books-and-music/1">Books &amp; Music Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/mobiles-and-accessories/1">Mobiles &amp; Accessories Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/electronics/1">Electronics Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/desktops-and-laptops/1">Desktops,Laptops &amp; Accessories Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/fashion/1">Fashion Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/jewellery-and-gold/1">Jewellery &amp; Gold Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/footwear/1">Footwear Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/accessories/1">Accessories Best Deals</a></li>							
+						  </ul>
+						  <ul>
+						    <li><a href="http://www.carrotfry.com/deals/women-exclusive/1">Women Exclusive Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/kids/1">Kids Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/home-and-kitchen/1">Home &amp; Kitchen Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/health-and-beauty/1">Health &amp; Beauty Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/travels/1">Travels Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/food/1">Food Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/hotels/1">Hotels Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/freebies/1">Freebies &amp; Gifts Best Deals</a></li>
+							<li><a href="http://www.carrotfry.com/deals/others/1">Others Best Deals</a></li>
+						  </ul>
+                        </li>
+                    </ul>
+                    <ul style="margin-left: 25px;">
+                        <li><span class="orange-bold">Ways to Earn Carrot Cash</span></li>
+                        <li><a href="http://www.carrotfry.com/online-shopping-stores">Shopping Stores</a></li>
+                        <li><a href="http://www.carrotfry.com/coupons">Coupons</a></li>
+                        
+                        <li><a href="http://www.carrotfry.com/forums">Post Deals &amp; Earn</a></li>
+                        
+                        <li><span class="orange-bold">Company</span></li>
+                        <li><a href="http://www.carrotfry.com/aboutus">About us</a></li>
+                        <li><a href="http://www.carrotfry.com/contactus">Contact us</a></li>    
+                    </ul>
+                    <ul style="margin-left: 25px;">
+                        <li><span class="orange-bold">Brands/Merchant</span></li>
+                        <li><a href="http://www.carrotfry.com/newmerchantsignup">Advertise With Us</a></li>                        
+                        <li><span class="orange-bold">Policies</span></li>
+                        <li><a href="http://www.carrotfry.com/terms" rel="nofollow">Terms &amp; Conditions</a></li>
+                        <li><a href="http://www.carrotfry.com/privacypolicy" rel="nofollow">Privacy policy</a></li>
+                        
+                        <li><span class="orange-bold">Help</span></li>
+                        <li><a href="http://www.carrotfry.com/howitworks">Howitworks</a></li>
+                        <li><a href="http://www.carrotfry.com/forums/newbie-guide-or-announcements-or-website-queries/topics/new-user-guide-for-new-bunnys-500">NewUserGuide</a></li>
+                        <li><a href="http://www.carrotfry.com/faq">FAQ'S</a></li>
+                        <li><a href="http://www.carrotfry.com/sitemap">Site Map</a></li>
+                    </ul>                    
                 </div>
-
-                <div id="levelpanel">
-                    <div class="fixed"></div>
-                    <div class="close">
-                        <a href="#">
-                            <img src="http://www.carrotfry.com/images/cancel_btn.png"></a>
-                    </div>
-                    <div class="fixed"></div>
-                    <div class="cfimgtext">
-                        <div class="cfimg">
-                            <div id="levelUserimgdiv" class="cfimage float-l">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/f_03.png"></div>
-                            <div id="levelLogin" class="unlock float-l">
-                                <a href="#" id="loginnow">Login</a>
-                                <p>&nbsp; Now!</p>
-                            </div>
-                        </div>
-                        <div class="fixed"></div>
-                        <div id="levelUserearningdiv" class="unlockbadge">
-                        <span>Unlock Badges And</span><div class="fixed"></div><span>Earn Carrotcash.</span></div>
-                        <div class="fixed"></div>
-
-                    </div>
-                    <div class="levels">
-                        <div id="tS1" class="jThumbnailScroller">
-                            <div class="jTscrollerContainer">
-                                <div class="jTscroller">
-                                    <ul id="mcts2">
-                                    <li><div class="level-div class2"><span>UNLOCK <br>1<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Newbie</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>25<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Budding Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>100<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Rock Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>200<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Bronze Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>500<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Silver Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>1000<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Gold Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>1500<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Power Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>2000<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Mega Star</span></div></li><li><div class="level-div class2"><span>UNLOCK <br>2500<br> BADGES</span></div><div class="class3" style="margin-top:0;"><span>Deal Super Star</span></div></li></ul>
-                                </div>
-                            </div>
-                            <a href="#" class="jTscrollerNextButton"></a>
-                            <a href="#" class="jTscrollerPrevButton"></a>
-                        </div>
-                    </div>
-           <script src="http://www.carrotfry.com/images/NotificationImages/jquery.thumbnailScroller.js"></script>
-                              
-                    <div>
-                        <img src="http://www.carrotfry.com/images/NotificationImages/e_03.png">
-                    </div>
+                <div class="footer-logo">
+                    <a href="http://www.carrotfry.com">
+                        <img src="https://s3-ap-southeast-1.amazonaws.com/carrotfry-images/cflogonew-white.png" alt="CarrotFry footer logo" title="CarrotFry">
+                    </a>
                 </div>
-
-                <div id="notification">
-                    <div class="closenoti">
-                        <a href="#">
-                            <img src="http://www.carrotfry.com/images/cancel_btn.png"></a>
-                    </div>
-                    <div class="notifdivheader">
-                        <p>NOTIFICATIONS</p>
-                    </div>
-                    <div id="scrolldiv">
-                        <div class="userinfo-text">
-                            <div id="txtblnk">
-                                <p style="color: #ba0000; text-align: center">
-                                    Badges Earnings Tips
-                                </p>
-                            </div>
-                            <div>
-                                <p>
-                                    <img src="http://www.carrotfry.com/images/NotificationImages/arrow.gif">
-                                    To Earn more badges, visit our community forum and start posting threads,replying and various other activities.
-                                </p>
-                            </div>
-                            <div>
-                                <p>
-                                    <img src="http://www.carrotfry.com/images/NotificationImages/arrow.gif">
-                                    Invite your friends to join in carrotfry and and let them know how can they earn free cash very easily.
-                                </p>
-                            </div>
-
-
-                        </div>
-                        <div id="userinfo">
-                        </div>
-                        <div class="padding">
-                            <img src="http://www.carrotfry.com/images/NotificationImages/n_03.png" style="height: 84px;">
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-  
-                </div>
-
-                <div id="notificationpanel">
-
-                    <div class="fixed"></div>
-                    <div class="noticlose">
-                        <a href="#"><img src="http://www.carrotfry.com/images/cancel_btn.png"></a>
-                    </div>
-                    <div class="fixed"></div>
-
-                    <div class="notilogin">
-                        Hello Howdy!<br>
-                        Please <a id="notilogin" href="#">Login</a> To Know<br>
-                        Your Latest Notifications.
-                    </div>
-                    <div class="dots">
-                        <img src="http://www.carrotfry.com/images/NotificationImages/dots_03.png">
-                    </div>
-                    <div>
-                        <img src="http://www.carrotfry.com/images/NotificationImages/n_03.png">
-
-                    </div>
-                </div>
-
-            </div>
-            <div class="left">
-                <div class="footer-container-left">
-                </div>
-                <div class="footer-content">
-                    <div class="nav">
-                        <ul id="ulCategory"><li><span class="orange-bold">Merchant Categories</span></li><li><a href="MerchantSearch.aspx?SearchByID=99">Fashion</a></li><li><a href="MerchantSearch.aspx?SearchByID=131">Electronics</a></li><li><a href="MerchantSearch.aspx?SearchByID=132">Travel</a></li><li><a href="MerchantSearch.aspx?SearchByID=133">Home &amp; Kitchen</a></li><li><a href="MerchantSearch.aspx?SearchByID=135">Health &amp; Beauty</a></li><li><a href="MerchantSearch.aspx?SearchByID=136">Footwear</a></li></ul><ul style="margin-top: 48px;"><li><a href="MerchantSearch.aspx?SearchByID=137">Entertainment &amp; Leisure</a></li><li><a href="MerchantSearch.aspx?SearchByID=138">Jewellery &amp; Coins</a></li><li><a href="MerchantSearch.aspx?SearchByID=190">Foods &amp; Drinks</a></li></ul>
-                        <ul>
-                            <li><span class="orange-bold">Company</span></li>
-                            <li><a href="http://www.carrotfry.com/Aboutus.aspx">About us</a></li>
-                            <li><a href="http://www.carrotfry.com/ContactUs.aspx">Contact us</a></li>
-                            <li><a href="#">Work for us</a></li>
-                        </ul>
-                        <ul>
-                            <li><span class="orange-bold">Ways to Earn Carrot Cash</span></li>
-                            <li><a href="#">Cashback</a></li>
-                            <li><a href="#">Refer &amp; Earn Sale</a></li>
-                            <li><a href="#">Refer &amp; Earn Registration</a></li>
-                            <li><a href="http://www.carrotfry.com/cfforum/home.aspx">Post Deals &amp; Earn</a></li>
-                        </ul>
-                        <ul>
-                            <li><span class="orange-bold">Policies</span></li>
-                            <li><a href="http://www.carrotfry.com/TermsNConditions.aspx">Terms &amp; Conditions</a></li>
-                            <li><a href="http://www.carrotfry.com/PrivacyPolicy.aspx">Privacy policy</a></li>
-                        </ul>
-                        <ul>
-                            <li><span class="orange-bold">Brands/Merchant</span></li>
-                            <li>
-                                <!--<a href="MerchantSignUp.aspx"></a>-->
-                                <a href="http://www.carrotfry.com/MerchantSignUp.aspx">Partner With Us</a></li>
-                            <li><a href="http://www.carrotfry.com/cfadmin">Merchant Login</a></li>
-                        </ul>
-                        <ul>
-                            <li><span class="orange-bold">Help</span></li>
-                            <li><a href="http://www.carrotfry.com/faq.aspx">FAQ'S</a></li>
-                        </ul>
-                        <ul style="margin-top: -14.9%; margin-left: 87.3%;">
-                            
-                            <li>
-                                <a href="http://www.facebook.com/Carrotfry.in" target="_blank">
-                                    <img src="http://www.carrotfry.com/images/Icons/fb_icon.png" alt="Facebook"></a>
-                                <a href="http://www.twitter.com/Carrotfry" target="_blank">
-                                    <img src="http://www.carrotfry.com/images/Icons/Twitter_icon.png" alt="Twitter"></a>
-                                <a href="http://www.youtube.com/Carrotfry" target="_blank">
-                                    <img src="http://www.carrotfry.com/images/youtube.png" alt="Twitter" style="border-radius: 8px;"></a>
-                            </li>
-                        </ul>
-                        <!--<ul style="margin-top:-181px;float:right;">-->
-
-                    </div>
-                    <div class="footer-logo">
-                        <a href="http://www.carrotfry.com/Home.aspx">
-                            <img src="http://www.carrotfry.com/images/Portal/cfbeta.png" alt="Carrot Fry" title="Carrot Fry">
-                            <!--<img src="images/Portal/logo.png" alt="Carrot Fry" title="Carrot Fry" />-->
-                        </a>
-                    </div>
-                    <div class="copyright">
-                        © Copyright 2012-2013 carrotfry.com or its affiliates.<br>
-                    </div>
-                </div>
-                <div class="footer-container-right">
-                </div>
-            </div>
+                <div class="copyright">
+                    © Copyright 2012-2014 carrotfry.com or its affiliates.<br>
+                </div>                
+            </div></div>
             
-    
+            
+                 
+            
+                       
+            <input type="hidden" name="ctl00$hdnPopUpUrl" id="hdnPopUpUrl">
+        <!--[if IE 7]>
+        <style>
+        #menu li{float: left;position: relative;padding:0;}
+        </style>
+        <![endif]-->
+        
+        <div id="bg" class="popup_bg"></div>
+        <input type="hidden" id="hdnPop" value="0">
+        <script type="text/javascript">
+            $(document).ready(function () {
+                             
+                openpopup('divLoginPopUp', '');
+                $('#txtLoginEmailPopUp').keyup(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                        $('#loginPop').css('display', "block");
+                    else
+                        $('#loginPop').css('display', "none");
 
-<script type="text/javascript">
-//<![CDATA[
-IsSpecialInviteTitle();//]]>
-</script>
-</form>
+                });
+                $('#txtLoginEmailPopUp').change(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                        $('#loginPop').css('display', "block");
+                    else
+                        $('#loginPop').css('display', "none");
+                });
+                $('#txtLoginEmailPopUp').blur(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                        $('#loginPop').css('display', "block");
+                    else
+                        $('#loginPop').css('display', "none");
+                });
+                $('#txtLoginPasswordPopUp').keyup(function () {
+                    if ($('#txtLoginPasswordPopUp').val() == "")
+                        $('#password').css('display', "block");
+                    else
+                        $('#password').css('display', "none");
+
+                });
+                $('#txtLoginPasswordPopUp').change(function () {
+                    if ($('#txtLoginPasswordPopUp').val() == "")
+                        $('#password').css('display', "block");
+                    else
+                        $('#password').css('display', "none");
+                });
+                $('#txtLoginPasswordPopUp').blur(function () {
+                    if ($('#txtLoginPasswordPopUp').val() == "")
+                        $('#password').css('display', "block");
+                    else
+                        $('#password').css('display', "none");
+                });
+                $('#lbtnloginPopUp').click(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtLoginEmailPopUp').val());
+                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false)
+                        $('#loginPop').css('display', "block");
+                    else
+                        $('#loginPop').css('display', "none");
+                    if ($('#txtLoginPasswordPopUp').val() == "")
+                        $('#password').css('display', "block");
+                    else
+                        $('#password').css('display', "none");
+                    if ($('#txtLoginEmailPopUp').val() == "" || valid == false || $('#txtLoginPasswordPopUp').val() == "")
+                        return false;
+                    else
+                        return true;
+                });
+
+
+                openpopup('divForgotPopUp', '');
+                $('#txtForgotPwdEmailPop').keyup(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                        $('#forgotEmail').css('display', "block");
+                    else
+                        $('#forgotEmail').css('display', "none");
+
+                });
+                $('#txtForgotPwdEmailPop').change(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                        $('#forgotEmail').css('display', "block");
+                    else
+                        $('#forgotEmail').css('display', "none");
+                });
+                $('#txtForgotPwdEmailPop').blur(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false)
+                        $('#forgotEmail').css('display', "block");
+                    else
+                        $('#forgotEmail').css('display', "none");
+                });
+                $('#lbtnForgotPwdEmailPop').click(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtForgotPwdEmailPop').val());
+                    if ($('#txtForgotPwdEmailPop').val() == "" || valid == false) {
+                        $('#forgotEmail').css('display', "block");
+                        return false;
+                    }
+                    else {
+                        $('#forgotEmail').css('display', "none");
+                        return true;
+                    }
+                });
+
+                openpopup('divJoinUsPopUp', '');
+                $('#txtFirstNamePop').keyup(function () {
+                    if ($('#txtFirstNamePop').val() == "")
+                        $('#fname').css('display', "block");
+                    else
+                        $('#fname').css('display', "none");
+
+                });
+                $('#txtFirstNamePop').change(function () {
+                    if ($('#txtFirstNamePop').val() == "")
+                        $('#fname').css('display', "block");
+                    else
+                        $('#fname').css('display', "none");
+                });
+                $('#txtFirstNamePop').blur(function () {
+                    if ($('#txtFirstNamePop').val() == "")
+                        $('#fname').css('display', "block");
+                    else
+                        $('#fname').css('display', "none");
+                });
+                $('#txtLastNamePop').keyup(function () {
+                    if ($('#txtLastNamePop').val() == "")
+                        $('#lname').css('display', "block");
+                    else
+                        $('#lname').css('display', "none");
+
+                });
+                $('#txtLastNamePop').change(function () {
+                    if ($('#txtLastNamePop').val() == "")
+                        $('#lname').css('display', "block");
+                    else
+                        $('#lname').css('display', "none");
+                });
+                $('#txtLastNamePop').blur(function () {
+                    if ($('#txtLastNamePop').val() == "")
+                        $('#lname').css('display', "block");
+                    else
+                        $('#lname').css('display', "none");
+                });
+
+                $('#txtMobilePop').keyup(function () {
+                    if ($('#txtMobilePop').val().length != "10")
+                        $('#mobile').css('display', "block");
+                    else
+                        $('#mobile').css('display', "none");
+
+                });
+                $('#txtMobilePop').change(function () {
+                    if ($('#txtMobilePop').val().length != "10")
+                        $('#mobile').css('display', "block");
+                    else
+                        $('#mobile').css('display', "none");
+                });
+                $('#txtMobilePop').blur(function () {
+                    if ($('#txtMobilePop').val().length != "10")
+                        $('#mobile').css('display', "block");
+                    else
+                        $('#mobile').css('display', "none");
+                });
+                $('#txtSignUpEmailPop').keyup(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                    if ($('#txtSignUpEmailPop').val() == "" || valid == false)
+                        $('#email').css('display', "block");
+                    else
+                        $('#email').css('display', "none");
+
+                });
+                $('#txtSignUpEmailPop').change(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                    if ($('#txtSignUpEmailPop').val() == "" || valid == false)
+                        $('#email').css('display', "block");
+                    else
+                        $('#email').css('display', "none");
+                });
+                $('#txtSignUpEmailPop').blur(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                    if ($('#txtSignUpEmailPop').val() == "" || valid == false)
+                        $('#email').css('display', "block");
+                    else
+                        $('#email').css('display', "none");
+                });
+                $('#txtPasswordPop').keyup(function () {
+                    if ($('#txtPasswordPop').val() == "")
+                        $('#spassword').css('display', "block");
+                    else
+                        $('#spassword').css('display', "none");
+
+                });
+                $('#txtPasswordPop').change(function () {
+                    if ($('#txtPasswordPop').val() == "")
+                        $('#spassword').css('display', "block");
+                    else
+                        $('#spassword').css('display', "none");
+                });
+                $('#txtPasswordPop').blur(function () {
+                    if ($('#txtPasswordPop').val() == "")
+                        $('#spassword').css('display', "block");
+                    else
+                        $('#spassword').css('display', "none");
+                });
+                $('#btnJoinusPop').click(function () {
+                    var emailReg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                    var valid = emailReg.test($('#txtSignUpEmailPop').val());
+                    if ($('#txtFirstNamePop').val() == "" || $('#txtLastNamePop').val() == "" || $('#txtMobilePop').val().length != "10" || $('#txtSignUpEmailPop').val() == "" || valid == false || $('#txtPasswordPop').val() == "") {
+                        $('#forgotEmail').css('display', "block");
+                        return false;
+                    }
+                    else {
+                        $('#forgotEmail').css('display', "none");
+                        return true;
+                    }
+                });
+             var divbg = document.getElementById('bg');
+             if(document.getElementById('hdnPop').value =="0")
+             {
+                divbg.style.visibility = "hidden";
+                
+              }
+              document.getElementById('divLoginPopUp').style.display = "none";
+                document.getElementById('divJoinUsPopUp').style.display = "none";
+                document.getElementById('divForgotPopUp').style.display = "none";
+            
+                //openpopup('divLoginPopUp', '');
+            });
+        </script>
+    </form>
 
 
 
