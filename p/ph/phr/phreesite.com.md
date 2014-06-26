@@ -1,100 +1,50 @@
-> *The following text is extracted and transformed from the phreesite.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phreesite.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626175122id_/http%3A//www.bigcommerce.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Bigcommerce - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Last updated: March 20, 2014
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This is the website of **Bigcommerce**.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Our postal address is:  
+Level 6, 1-3 Smail St  
+Ultimo NSW 2007  
+Australia
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We can be reached via email at [sales@bigcommerce.com](mailto:sales@bigcommerce.com) or you can reach us by telephone at (US) 1-888-699-8911 or (Int) +1-512-758-7588.
 
-**Information Collection and Use**
+We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the website located at the [www.bigcommerce.com](http://www.bigcommerce.com/) and related Bigcommerce websites, pages, applications, and mobile applications (collectively, the “Site”), that you were viewing when you clicked through to this policy, which is operated directly by us or by our affiliated companies.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+For each visitor to our Site, our web server automatically recognizes no information regarding the domain or email address except for information gathered utilizing Google Analytics. We collect the email addresses of those who communicate with us via email. These email addresses are used for internal review only. We use cookies to allow Bigcommerce customers to log in to their account.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you do not want to receive email from us in the future, please let us know by sending us email at the above address.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+When you interact with our Site, for example by making a purchase or subscribing to an email list, we may collect information about you including but not limited to your name, address, telephone number, and email address.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may share this information with our affiliated companies who are controlled by, who control or who are under common control with Bigcommerce.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We may share this information along with a record of any transactions you conduct on our Site or offline with us with a third-party advertising partner and its service providers in order to deliver you advertising tailored to your interests when you visit certain other websites. Data shared with our third-party partner is made anonymous.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We may use third parties to help us provide services and marketing to you, such as processing payments, fulfilling orders or designing website templates for your use. If personally identifiable information is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use cookies to allow Bigcommerce customers to login to their account. We may use technologies such as our own cookies to provide you with enhanced online display advertising tailored to your interests. To opt out of advertising provided by us, click here.
 
-**Security**
+We may participate in behavioral-based advertising. This means that a third party may place a cookie on your browser, or use a web beacon, to collect information about your use of our website so that they can provide advertising about products and services tailored to your interest. That advertising may appear either on our website, or on other websites. If you would like to opt-out from having the behavioral-based advertising companies with whom we have a relationship use your information for advertising purposes you can do so by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/choices/) or [Digital Advertising Alliance](http://www.aboutads.info/choices/). Opting out will not in any way affect your use of our Site.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may participate in demographic, interest, and location based advertising. If we do so, we will not use personally identifiable information (PII) in conjunction with this information. You may opt out or customize your demographic and interest based settings, on the Google Display Network, using [Ad Settings](https://www.google.com/settings/ads).
 
-**Updating Your Information**
+At times, you may be directed to third party websites and/or offered the option to download an application using a third party platform. Our provision of a link to any other website or our provision of an application using a third party platform is for your convenience and does not signify our endorsement of such other website, platform or its contents. When you click on such a link or download and use such an application, you will leave our Site and go to another website. During this process, a third party may collect personally identifiable information from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this privacy policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. You will need to contact them to understand their privacy policies.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We are always seeking to improve our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Our Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide personal information through our Site. We do not knowingly collect information from children under thirteen (13) without parental consent. Visit the Federal Trade Commission website for more information about the Children's Online Privacy Protection Act (COPPA).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+This privacy policy is subject to change. Please review it periodically. If we make changes to the policy, we will revise the “Last Updated” date at the top of this policy. Any changes to this policy will become effective when we post the revised policy on the Site. Your use of the Site following these changes means that you accept the revised policy.
 
-      iii.      You may call us at: (480) 505-8800
+Upon request, we provide Site visitors with access to all information (including proprietary information) that we maintain about them.
 
-       iv.      You may fax us at: (480) 505-8844
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Site.
 
-**Sending Emails**
+If you feel that this Site is not following its stated information policy, you may contact us at the above addresses or phone numbers.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+IF YOU, FOR YOURSELF OR ON BEHALF OF ONE OR MORE PERSONS YOU ARE REPRESENTING WITH RESPECT TO BIGCOMMERCE SERVICES, DO NOT AGREE TO ANY OF THE FOREGOING TERMS, YOU MUST, FOR YOURSELF AND ON BEHALF ANY SUCH PERSON(S), DISCONTINUE THE REGISTRATION PROCESS, DISCONTINUE YOUR USE OF THE SERVICES, AND, IF YOU ARE ALREADY A MEMBER, CANCEL YOUR ACCOUNT. BEGINNING NOW, ANY CONTINUATION BY YOU IN USING THE SERVICES CONSTITUTES FOR YOU AND THOSE REPRESENTED BY YOU AN EXPRESS AFFIRMATION AND COMMITMENT TO BE (OR TO CONTINUE TO BE, AS APPLICABLE) LEGALLY BOUND BY AND TO COMPLY WITH ALL OF THESE TERMS.
