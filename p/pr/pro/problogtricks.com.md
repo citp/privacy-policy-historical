@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the problogtricks.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231095209id_/http%3A//www.problogtricks.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogtricks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074820id_/http%3A//www.problogtricks.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pro Blog Tricks
 
