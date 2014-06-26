@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lift.do privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221165633id_/https%3A//lift.do/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lift.do privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060935id_/https%3A//lift.do/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
