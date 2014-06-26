@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vagabondjourney.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127072954id_/http%3A//www.vagabondjourney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagabondjourney.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111410id_/http%3A//www.vagabondjourney.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Vagabond Journey Perpetual Travel
+# Privacy – Vagabond Journey Travel Stories and World Culture
 
 Here at [VagabondJourney.com](http://www.vagabondjourney.com/) I recognize that privacy of your personal information, and education on visitor privacy, is important. The following outlines what types of personal information I receive and collect when you use and visit this site, and how I safeguard your information. Note: I never sell your personal information to third parties.
 
