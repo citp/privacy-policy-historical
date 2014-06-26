@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212083000id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmaphoto.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092034id_/http%3A//www.sigmaphoto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sigma
+# Privacy Policy | Sigma Corporation of America
 
 PRIVACY POLICY  
-Last Updated: April 26, 2010
+Last Updated: April, 2014
 
 Welcome to the Sigma Corporation of America (“Sigma” or “we/our/us”) website (the “Site”). This privacy policy describes how Sigma treats your use of the Site, including the handling of personal information. We reserve the right to revise this privacy policy at any time. If we make any substantive changes, we will notify registered users by posting bulletins on the Site, by e-mail at the address provided by you, or by posting notice of changes at the Site. Your use of the Site after such changes constitutes your agreement to the new policies. You should periodically read this policy to learn of any revisions. Your use of the Site at any time is deemed to constitute your agreement to all of the terms of this privacy policy then in effect. If you do not agree to these terms, please do not use the Site.
 
@@ -71,7 +71,14 @@ While we follow generally accepted industry standards to protect the personal in
 **10\. INTERNATIONAL USERS**  
 This site is operated, in whole or in part, from the United States. By using this Site, regardless of where you live in the world, you consent to have your personal data transferred to and processed in the United States, and allow Sigma to use and collect your personal information in accordance with this Privacy Policy.
 
-**11\. UNSUBSCRIBE / CONTACT US  
+**11\. YOUR CALIFORNIA PRIVACY RIGHTS  
+** Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, email and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please contact us via email through our Contact Us page or write to us at the address indicated below.  
+
+We will respond to such requests to information access within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+
+California law also provides that California residents are entitled to know how this site responds to “Do Not Track” browser settings. Like many other websites and online services, this site does not currently alter its practices when it receives Do Not Track signals because there is no consensus among industry participants as to what “Do Not Track” means in this context. To find out more about “Do Not Track,” and for opt out information, you may wish to visit [www.aboutads.info](http://www.aboutads.info/). 
+
+**12\. UNSUBSCRIBE / CONTACT US  
 ** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from Sigma or would like to update or change your personal information or preferences, follow the instructions below. However, Sigma may send you service-related announcements, and transactional e-mail such as confirmations and receipts, from time to time through the general operation of the Site or by e-mail. If you do not want to receive any e-mail from us in the future, click the “unsubscribe” reference in any e-mail we send you, or follow the directions here: <http://www.sigmaphoto.com/newsletter-retrieve-updatelink>.   
 If you wish to review the contact information we have on file for you, correct your contact information, provide a change of address, or inform us how you wish your contact information to be used, please contact our staff. You may contact us by mail, telephone, or e-mail, as follows:
 
