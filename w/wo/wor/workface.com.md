@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208213331id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123457id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
 
 # Web Live Chat Software for Social Business | Workface® | Beyond Web Chat
 
@@ -15,6 +15,8 @@ Cookies (small bits of information that websites send to your computer) are used
 When you use the Workface Service we may collect data from your computer. This data can include your IP address, browser type, the information and pages you view on Workface , referring URL, date/time, and other information. The primary use of this information is to deliver you an optimal experience on our site, and help guide future Workface development efforts. In all cases we use the best moral compass possible and consider the ethical implications of our data collection practices.
 
 Shared objects (sometimes referred to as Flash cookies) may be used in identifying your computer and associating you to the Workface Service. In addition, when you digitally “share” your Workface we may use such shared objects to recognize you, although we do so with unique tokens. In all cases, the use of shared objects is designed to provide the Service in a way that is convenient and honorable. If you choose to use the Workface Service you agree to use of shared objects. If you would like to remove the shared object, you can modify the Settings Manager here:<http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
+
+Workface uses Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show Workface ads on sites across the Internet. Workface and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to the workface.com website.
 
 We collect personal information online when:
 
@@ -60,4 +62,4 @@ We may send you e-mail as part of the private messaging system, with details abo
 
 We reserve the right to modify this privacy notice from time to time, by posting a prominent announcement on this page, by changing the date of modification or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained.
 
-This Privacy Notice was last amended on 08/23/2011.
+This Privacy Notice was last amended on 01/13/2014.
