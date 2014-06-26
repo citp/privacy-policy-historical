@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213180043id_/http%3A//www.axisbank.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626225346id_/https%3A//www.axisbank.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Axis Bank
+# 
 
 Axis Bank Limited (The Bank) recognizes the expectations of its customers with regard to privacy, confidentiality and security of their personal information that resides with the Bank. Keeping personal information of customers secure and using it solely for activities related to the Bank and preventing any misuse thereof is a top priority of the Bank.
 
