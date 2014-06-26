@@ -1,87 +1,52 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203063409id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031852id_/http%3A//business.usa.gov/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy Policy | SBA.gov
+# Privacy and Security | BusinessUSA
 
-###  General Disclaimer
+Business.USA.gov or USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.
 
-Thank you for visiting the U.S. Small Business Administration’s website and reviewing our Privacy Policy. While visiting SBA.gov, we will not collect any personal information about you unless you choose to provide that information to us. If you choose to provide this information, it will be used for the express purpose for which it was intended, such as responding to your request for information or joining a web discussion forum. We remind you that if you visit a link outside of SBA.gov you are subject to the privacy policies of that site.
+## Information Collected and Stored Automatically
 
-###  Information Collected and Stored Automatically
+When you visit, we may store some or all of the following: the Internet address from which you access Business.USA.gov, date and time, the Internet address of the web site from which you linked to Business.USA.gov, the name of the file or words you searched, items clicked on a page, and the browser and operating system used.
 
-SBA.gov automatically collects some technical information from you when you visit the site in order to give you the best possible experience. SBA.gov uses web measurement technology (Google Analytics) to automatically track how visitors interact with SBA.gov including where they came from, what they did on the site and whether they completed any pre-determined tasks while on the site. This type of usage is classified by the Office of Management and Budget as Tier 2 usage since it is a multi-session web measurement. Aggregate data is used to help SBA improve our user interface and diversify our content offerings to meet the needs of our customers, track operational problems, prevent fraud and improve the effectiveness, security and integrity of the site. This information does not identify you personally and data is only retained in accordance with the SBA data retention policy. For each page that you visit, we collect and store only the following technical information:
+This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us develop the site, analyze patterns of usage, and to make the site more useful. This information is not used for associating search terms or patterns of site navigation with individual users. Business.USA.gov periodically deletes its Web logs. On occasion, Business.USA.gov may provide this information to third party entities it contracts with for the purposes of research analysis only. 
 
-  * Date and time of access
-  * URL address of the SBA.gov webpage visited
-  * Internet domain and IP address from which our website was accessed
-  * Type of browser and operating system used to access our site (if provided by the browser)
-  * URL address of the referring page (if provided by the browser)
-  * Completion or success status of the request for a web page or other on-line item
-  * File size of the webpage visited
+## Use of Persistent Cookies
+
+Like many websites, Business.USA.gov uses "persistent cookie" technology. A persistent cookie is a small text file that this website places on your computer so that it can remember you when you show up again later�kind of like cookie crumbs! (Hence the name.) We use persistent cookies to enhance your experience on Business.USA.gov while also protecting your privacy. To get aggregate metrics on site usage to understand how people are using the site and how we can make it better. We use web metrics services to track activity on Business.USA.gov. Government agencies only ever receive traffic statistics anonymously and in the aggregate.
+
+Most Internet browsers automatically accept persistent cookies. Although we think using persistent cookies creates a much better experience for you, this site will also work without them. If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit; [here's how to disable cookies](http://www.usa.gov/optout-instructions.shtml "Opt-out of persistent cookies").
+
+## If You Provide Us Personal Information
+
+We do not collect personal information for any purpose other than to respond to your requests. The only personal information that we collect is what you decide to give us by providing your business email address to receive updates sending or alert services by e-mail. If you choose to provide us with personal information we use that information to respond to your message, and to help get you the information you requested.   
+We only share the information you give us with another Government agency if your question relates to that agency, or as otherwise as required by law. Business.USA.gov never shares information with other entities for commercial marketing.
+
+## Site Security
+
+For site security purposes and to ensure that this service remains available to all users, this Government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.  
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act and other applicable laws.
+
+## External Links
+
+Business.USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our [Linking Policy](http://www.usa.gov/About/Linking-Policy.shtml). If you click a link to an outside website, such as [Facebook](http://www.facebook.com/USAgov) or [YouTube](http://www.youtube.com/USGovernment), you will leave the Business.USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+## Social Media Sites
+
+While USA.gov and Business.USA.gov manages presence on social media sites (e.g., [Facebook](http://www.facebook.com/USAgov), [Twitter](http://twitter.com/USAgov), [YouTube](http://www.youtube.com/USGovernment)) in order to share Government information and engage with the public, we do not collect any Personally Identifiable Information through those sites. We also do not use personal information made available by the user to these third-party sites.
+
+## Prohibitions
+
+Business.USA.gov will not link to any website that exhibits hate, bias, or discrimination. Business.USA.gov reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with Business.USA.gov's mission or policies.
+
+## Disclaimer of Endorsement
+
+The information posted on the Business.USA.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. Business.USA.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the Business.USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+
+  * The General Services Administration (GSA) and Business.USA.gov do not control or guarantee the accuracy, relevance, timeliness, or completeness of information contained on a linked website.
+  * GSA and Business.USA.gov do not endorse the organizations sponsoring linked websites and we do not endorse the views they express or the products/services they offer.
+  * GSA and Business.USA.gov cannot authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website.
+  * GSA and Business.USA.gov are not responsible for transmissions users receive from linked websites.
+  * GSA and Business.USA.gov do not guarantee that outside websites comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
 
 
-
-This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits and we do not share this data with anyone outside the SBA unless necessary for law enforcement purposes.
-
-###  Cookies
-
-When you visit some websites, their web servers generate pieces of information known as cookies, which helps webmasters understand how users interact with their site's content and services. Websites use cookies to track one's activities on a website (e.g., pages visited, links clicked on, etc.), and to record information about the user so when the user returns to the site, customized features can be provided.
-
-There are two types of cookies. A session cookie is a line of text that is stored temporarily in your web browser’s memory cache, and will expire when the browser is closed. A session cookie is not placed on any hard drive, and it is destroyed as soon as you close your browser. A persistent cookie is saved to a file on your hard drive and is accessed whenever you re-visit the website that put it there. This lets that website remember what you were interested in the last time you visited.
-
-We use persistent cookies to enable Google Analytics to differentiate between new and returning SBA.gov visitors. Persistent cookies remain on your computer between visits to SBA.gov until they expire. We also use persistent cookies to block repeated invitations to take the customer satisfaction survey. The persistent cookies that block repeated survey invitations expire in 90 days.
-
-The U.S. Small Business Administration may utilize third party services to enhance its distribution of data and information (e.g., videos) through links from the SBA.gov web site. A persistent cookie may be set by such a third party provider when you click on the provider's link in order to access U.S. Small Business Administration data (e.g., play a video).
-
-By default, persistent cookies and web measurement technologies are automatically used when you visit SBA.gov. Nevertheless, if you decide to disable or remove cookies from your browser, you will continue to have access to all information and resources on SBA.gov. To learn more about how to disable cookies in your browser please visit <http://www.usa.gov/optout_instructions.shtml>
-
-###  Information Collected from Interactive Forms and Surveys
-
-SBA.gov provides interactive forms that let you voluntarily submit personal information (such as your e-mail address, name, or organization). This occurs when you register to join an online community to submit information to web discussion forums, blogs and other community features; registering to receive e-mail updates and newsletters; and sending questions and comments to the SBA.gov team. In these cases, all submitted information is used only for the express purposes for which it is provided, and is not made available to any third party.
-
-SBA.gov only shares information you voluntarily provide with other government agencies if required by law. SBA.gov never collects information or creates individual profiles for commercial marketing. However, when you join an online community and participate in online discussions, your name and other personal information you provide (except e-mail) are viewable by anyone visiting SBA.gov, unless you choose not share this information with the public on your user profile page. Any personal information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.
-
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found on the [Freedom of Information Act home page](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm).
-
-SBA may also use online survey instruments to obtain feedback on your experience with SBA.gov. The survey initiation pops up for a random sample of visitors, is voluntary and does not collect personal information. If you decline the survey you will still have access to the same information and resources of SBA.gov as those who do take the survey. The survey reports are available only to SBA.gov managers and other staff who require this information to perform their duties. The SBA retains the data from the survey results in accordance with its data retention policy.
-
-###  Privacy Impact Assessment (PIA)
-
-The E-Government Act requires agencies to conduct privacy impact assessments for collections of information through electronic information systems or otherwise and make them publicly available.
-
-###  Children's Privacy
-
-Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the Internet. SBA.gov does not knowingly contact or collect personal information from children under 13. SBA.gov is not intended to solicit information of any kind from children under 13.
-
-It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by sending an e-mail to the [SBA Answer Desk](mailto:answerdesk@sba.gov).
-
-###  Site Security
-
-For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-Except for authorized law enforcement investigations, no attempts are made to identify individual users and their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
-
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/ccmanual/01ccma.html) and the [National Information Infrastructure Protection Act](http://www.justice.gov/criminal/cybercrime/1030analysis.html).
-
-###  Social Media and Third Party Websites
-
-The SBA uses some social media tools and websites to interact with its customers and resource partners. Social media websites are used to publicize SBA programs and services and engage with members of the public. The SBA does not use third party websites to solicit and collect personal information from individuals. Any personal information collected by a third party website will not be transmitted to SBA unless required for law enforcement purposes or as otherwise permitted by law. SBA’s privacy and other web policies do not apply to these third party sites and we encourage you to read the policies of the third party site when deciding whether to use it. The official SBA “social media” sites are listed below.
-
-**Facebook:** <http://www.facebook.com/SBAgov>  
-[SBA’s Facebook Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21051/)
-
-**IdeaScale:**[http://reducingbarriers.ideascale.com](http://reducingbarriers.ideascale.com/)  
-[SBA’s IdeaScale Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21061)
-
-**Twitter:** <http://twitter.com/#!/sbagov>  
-[SBA’s Twitter Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21331)
-
-**YouTube:** <http://www.youtube.com/sba>  
-[SBA’s YouTube Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21071)
-
-###  Links to Other Sites
-
-SBA.gov contains links to websites of other public and private organizations. When you follow a link to another site, you leave the SBA.gov site and your website interactions are no longer protected by our privacy policy. SBA.gov is not responsible for, and does not endorse the privacy or security practices and content of sites to which SBA.gov links.
-
-Please visit SBA.gov’s [Linking Policy](http://www.sba.gov/content/linking-policy-0) for more information about the linking policies of SBA.gov.
-
-This policy was updated on May 24, 2011.
