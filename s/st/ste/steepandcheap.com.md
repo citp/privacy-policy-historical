@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104212527id_/http%3A//www.steepandcheap.com/steepcheap/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072824id_/http%3A//www.steepandcheap.com/privacy-policy) for the most accurate reproduction.*
 
-# Steepandcheap.com | Privacy Policy from Steepandcheap.com
+# Privacy Policy | Steep & Cheap
 
-Effective April, 4th, 2013.
+Effective April 4th, 2013.
 
 ## Our Commitment To Privacy
 
@@ -86,20 +86,16 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## Opting Out Of Communications From SteepandCheap
 
-You may elect not to receive on-line or off-line communication from us. To stop receiving SteepandCheap email or catalogs, go to [http://www.SteepandCheap.com/steepcheap/mail_preferences.html](http://www.steepandcheap.com/steepcheap/mail_preferences.html)
+You may elect not to receive on-line or off-line communication from us. To stop receiving SteepandCheap email or catalogs, [click here](http://www.steepandcheap.com/steepcheap/mail_preferences.html).
 
 ## Opting Out Of Having Our Marketing Partner Deliver Ads Tailored To Your Web Preferences And Usage Patterns
 
-If you choose NOT to have our marketing partner, BlueKai, deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: <http://www.networkadvertising.org/managing/opt_out.asp> and opting out from targeted ads delivered by "BlueKai Inc."
+If you choose NOT to have our marketing partner, BlueKai, deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool [located here](http://www.networkadvertising.org/managing/opt_out.asp) and opting out from targeted ads delivered by "BlueKai Inc."
 
 ## Opting Out Of Sharing Information With Third Party Partners For Marketing Purposes
 
-If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line "opt out" to [optout@SteepandCheap.com](mailto:optout@SteepandCheap.com).
+If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line "opt out" to [info@backcountry.com](mailto:info@backcountry.com).
 
 ## Changes To This Privacy Policy
 
 We may change or replace this Privacy Policy at any time. If we make material changes, we will provide current customers with a revised notice that describes our new practices or a link to the new privacy policy.
-
-## One Deal at a Time
-
-At Steep and Cheap, we sell premium, core outdoor gear and clothing at prices that are downright criminal. Here’s how it works: Steep and Cheap sells one screamin’ deal at a time until it’s gone. The deals are fat, so they sell out fast. You have to act fast or you’ll miss it, but don’t stress—as soon as one deal sells out, we kick off another. It’s back-to-back deals all day long. [Learn more](http://sales.liveperson.net/hc/s-9551721/cmd/kbresource/kb-3432330500148897931/view_question!PAGETYPE?sc=490&sp=101&sf=101133&documentid=340727&action=view&VisitorProfile=SAC&MESSAGEVAR!home=yes&MESSAGEVAR!cookie=no&MESSAGEVAR!docid=340727). 
