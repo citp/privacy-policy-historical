@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201090428id_/http%3A//primalblueprint.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626070028id_/http%3A//www.primalblueprint.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](https://web.archive.org/) » Privacy Policy 
 
 Primal Nutrition believes that your privacy is very important. Read the following to learn all about our privacy policy.
 
