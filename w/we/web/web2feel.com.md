@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2feel.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120151622id_/http%3A//www.web2feel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2feel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063650id_/http%3A//www.web2feel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | web2feel.com
 
