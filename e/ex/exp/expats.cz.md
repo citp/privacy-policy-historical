@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212220541id_/http%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626114420id_/http%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
 
 # User/ Advertising User: PRIVACY POLICY, Prague - Czech Republic
 
@@ -58,40 +58,3 @@ Howlings SRO reserves the right to revise, amend, or modify this policy and our 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
 Updated as of June 1st, 2012
-
-### ASSOCIATED Business & Finance LISTING
-
-[ ](http://www.expats.cz/prague/czech/directory/legal-and-law/ "Visit the directory")
-
-[ ](http://www.expats.cz/prague/czech/company-formation/eurospolecnosti-a-s/ "Visit this listing")
-
-  
-
-
-[ ](http://www.expats.cz/prague/czech/directory/business-and-finance/ "Visit the directory")
-
-[ ](http://www.expats.cz/prague/czech/mortgages-loans/orbium/ "Visit this listing")
-
-  
-
-
-[ ](http://www.expats.cz/prague/czech/directory/business-and-finance/ "Visit the directory")
-
-[ ](http://www.expats.cz/prague/czech/coaching-training/academy-of-coaching-excellence/ "Visit this listing")
-
-  
-
-
-[ ](http://www.expats.cz/prague/czech/directory/health-and-medical/ "Visit the directory")
-
-[ ](http://www.expats.cz/prague/czech/health-insurance/maxima-pojistovna-a-s-2/ "Visit this listing")
-
-  
-
-
-[ ](http://www.expats.cz/prague/czech/directory/digital-media-and-it/ "Visit the directory")
-
-[ ](http://www.expats.cz/prague/czech/computer-repair/clarexon-trading-s-r-o-ltd/ "Visit this listing")
-
-  
-
