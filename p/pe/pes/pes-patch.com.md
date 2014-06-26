@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231090308id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pes-patch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143127id_/http%3A//www.pes-patch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download PES 2014 Patch, PES 2014 Demo, PES 2013 Patch, PES 2012 Patchs, PES2014 Update, PES Patch, PES Edit, Option File and DLC. - PES Patch,PES 2014 Patch,PES 2014 Demo,Pro Evolution Soccer 2014
 
