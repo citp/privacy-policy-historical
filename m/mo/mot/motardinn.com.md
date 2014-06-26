@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motardinn.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122205054id_/http%3A//www.motardinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motardinn.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627014418id_/http%3A//www.motardinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # motardinn Privacy policy. Online motorcycle gear and motorcycle equipment shop.
 
