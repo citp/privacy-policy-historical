@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814075244id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115259id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
 
-# Get Organized - Organizers and much more
+# Get Organized Privacy Policy
 
 In over 50 years in the Direct Marketing business, Shop Get Organized has adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence - is handled with the utmost discretion.
 
