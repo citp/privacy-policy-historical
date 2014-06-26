@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212150146id_/http%3A//www.latamdate.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latamdate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145412id_/http%3A//latamdate.com/help/privacy.php) for the most accurate reproduction.*
 
 # Personal Privacy And Data Disposal Policy| LatamDate.com
 
-  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use LatamDate.com. The following describes our privacy practices that are specific to LatamDate.com.
+  | The [Qpid Network Privacy Policy](https://secure.qpidnetwork.com/help/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use LatamDate.com. The following describes our privacy practices that are specific to LatamDate.com.
 
 Welcome to LatamDate.com ("LatamDate" or the "Site"). Your privacy is important to us. As such, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected, processed, maintained and disposed by LatamDate, including any services owned, operated or offered by or on behalf of LatamDate, and by third-party service providers if applicable.
 
