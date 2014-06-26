@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themes4all.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215171724id_/http%3A//www.themes4all.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themes4all.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112012id_/http%3A//www.themes4all.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Themes4all - WordPress Premium Templates
 
@@ -44,7 +44,7 @@ The content of our website is not directed at children under the age of 15. That
 
 ## Newsletter
 
-You will receive our Newsletter, when you sign up for it on the main page.
+You will receive our Newsletter, until you unsubscribed through email. How to unsubscribe is in all our emails.
 
 ## How to access or change your information
 
