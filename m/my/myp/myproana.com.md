@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myproana.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813061915id_/http%3A//www.myproana.com/index.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproana.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626044105id_/http%3A//www.myproana.com/index.php/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Pro-Ana Forums and Community
-
-[](http://a8fc3h1g3mjjcm0ahbw5y2ud4c.hop.clickbank.net/)
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -18,12 +16,9 @@ This website does not store any information that would, on its own, allow us to 
 
 We will comply with requests from a legal guardian (eg. Parent) to delete an account if the member is under the age of 18. Such deletion requests should include a signed letter stating the relationship of the guardian to the minor and be mailed to support@myproana.com
 
+**What will you do with my email address?**  
+We use your email address to send you notifications of activity on myproana.com, such as when you receive a personal message or when you choose to follow a topic. We may occasionally send you an informational newsletter that may or may not contain 3rd party advertising. However, your email address is NEVER shared or sold to any 3rd party and is in the sole control of myproana.com
+
 MyProAna.com is owned and operated by UBMM Holdings LLC, a Wyoming Corporation. Inquiries or correspondence should be sent to support@ubmm.com or
 
 UBMM Holdings LLC, 412 N. Main Street,Suite 100,Buffalo, WY 82834 
-
-  1.  
-  2. [Privacy Policy](http://www.myproana.com/index.php/privacypolicy/)
-  3. [Site Guidelines and Rules](http://www.myproana.com/index.php?app=forums&module=extras&section=boardrules) · 
-
-
