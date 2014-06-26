@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909235856id_/http%3A//www.kitepackaging.co.uk/sitepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170809id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Kite Packaging
+# Privacy and Cookie Policy | Kite Packaging
 
 Based in England, our principal activity is online packaging distribution, through our web site at  [www.kitepackaging.co.uk](http://www.kitepackaging.co.uk/). This privacy policy sets out how Kite Packaging uses and protects any information that you give Kite Packaging when you use our website.
 
@@ -78,7 +78,7 @@ Our website may contain links to enable you to visit other websites of interest 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We will not use your personal information to send you promotional information about third parties for promotional purposes.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write us (see our postal address at the top of the page). A small fee of £5 will be payable. Alternatively, you can view and edit your details online - [please click here](https://web.archive.org/catapult/frontend/MyAccount/AccountOverview.aspx).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write us (see our postal address at the top of the page). A small fee of £5 will be payable. Alternatively, you can view and edit your details online \- [please click here](https://web.archive.org/catapult/frontend/MyAccount/AccountOverview.aspx?myacctab=3).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
 
