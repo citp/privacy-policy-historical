@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couchtuner.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216005236id_/http%3A//www.couchtuner.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couchtuner.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213417id_/http%3A//www.couchtuner.eu/privacy-policy) for the most accurate reproduction.*
 
 # Watch Privacy Policy Online Streaming | CouchTuner FREE
 
@@ -22,3 +22,6 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: contactmeowner[at] gmail [dot] com
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+
+**Last Modified:** April 8, 2011 at 5:26 am  
+**Author:** [Couchtuner](https://plus.google.com/b/105463674046208381770?rel=author)
