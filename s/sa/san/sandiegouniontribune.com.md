@@ -1,178 +1,171 @@
-> *The following text is extracted and transformed from the sandiegouniontribune.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625222112id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegouniontribune.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626164451id_/http%3A//www.utsandiego.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UTSanDiego.com
 
-### What does this policy cover?
+### U-T San Diego Privacy Policy
+
+Effective Date: July 4, 2013
+
+This Privacy Policy ("Policy") is intended to describe the kinds of information that The San Diego Union-Tribune, LLC, d/b/a U-T San Diego, and its subsidiaries and affiliates ("U-T San Diego" "we," "us" or "our") may collect with respect to our Sites and Services (as defined below), how we use and share that information and your choices with respect to same, how we endeavor to protect that information, how we make changes to this Policy, and how you can contact us if you have any questions about this Policy.
+
+Click on one of the links below to jump directly to that section:
+
+  * Information We Collect
+  * How We Use the Information We Collect
+  * Targeted Online Advertising
+  * Social Media Interaction
+  * Information We Share
+  * Your Choices
+    * Opt-Out of Sharing Personal Information with Third Parties And Affiliates for their Own Direct Marketing Purposes
+    * Unsubscribe From Marketing Emails Sent by Us
+    * Unsubscribe From Text Messages Sent by Us
+    * Web Analytics
+    * Targeted Advertising
+    * Geo-Location Information
+    * Cookies
+    * Social Media Information
+  * Your California Privacy Rights
+  * Access and Correction
+  * Links to and Use of Other Websites and Services
+  * How We Endeavor to Protect Personal Information
+  * Children's Privacy
+  * Updates to this Privacy Policy
+  * How to Contact Us
 
-This Privacy Policy discloses the privacy practices of The San Diego Union-Tribune, LLC, d/b/a U-T San Diego, with regard to information collected from subscribers to the U-T San Diego newspaper and our other print publications, as well as to user of and subscribers to our related websites (such as www.UTSanDiego.com), our mobile messaging services and other digital applications and services (collectively referred to as the "U-T San Diego services"), and to any of our other services and products that include reference to this policy. Some U-T San Diego services include features and components provided by or that we license from third parties, and may also contain links to other Web sites for your convenience and information. We are not responsible for the privacy practices of those third parties or the content of those sites. Some of those third parties and links to their privacy policies are identified and included below. Please note that, for the avoidance of doubt, this Privacy Policy does not apply in any way to information collected in connection with any of U-T San Diego’s news gathering or reporting activities.
 
-### What personal information does U-T San Diego collect?
 
-The information that U-T San Diego gathers falls into two general categories: 1) personal information, which includes, for example, personal information you supply when you subscribe, order, make purchases, complete a survey, register for one of our sites, or enter a contest; and 2) non-personal information collected through technology, which includes tracking information collected as you use U-T San Diego Services.
+### Information We Collect
 
-### Personal Information That You Provide
+We collect personal information (information that can be used to identify a specific individual) from: 
 
-#### Registration Information.
+  * Subscribers to the U-T San Diego newspaper and our other print publications;
+  * Users, visitors and subscribers of www.UTSanDiego.com, www.discoversd.com, www.sandiegoclubs.com, www.vidalatinasd.com, deals.utsandiego.com, and utsandiego.premiumrewards.com, and their subdomains;
+  * Users of U-T San Diego mobile applications and mobile messaging services operated by or on behalf of U-T San Diego, including those applications identified at http://apps.utsandiego.com;
+  * Customers and others that attend U-T San Diego sponsored events who provide sign-in and registration information;
+  * Persons that choose to participate in surveys, polls, panels, focus groups and other means of conducting market research online, over the phone, through the mail or in person; and
+  * Persons enrolled in or that participate in events, contests, reward programs, daily deal services, sweepstakes and other promotions of ours or third parties, including individuals enrolled in or registered for U-T Rewards. 
 
-Registration for U-T San Diego services requires that you supply certain personal information, including, in most cases, a unique e-mail address and demographic information (ZIP code, age, sex, household income (optional), job industry and job title) to register. Purchases of, or that may be made through, the U-T San Diego services usually require that you supply your name, address, telephone number, e-mail address, credit card number or other billing or payment information. You may also choose to register for, or log in to, certain features or perform certain activities available at www.UTSanDiego.com or through other U-T San Diego Services (such as commenting, contests, daily deal registration, etc.) through the Facebook Connect feature. By doing this, you are asking Facebook to send us certain information from your Facebook profile, and you authorize us to collect, store, and use in accordance with this Privacy Policy any and all information available to us through the Facebook interface. After you have connected, Facebook also sends us additional information from your profile that allows us to display a Facebook module on the pages you view. To disassociate your U-T San Diego activities from Facebook Connect, please visit the applicable section of the website or feature, or you may adjust your privacy and sharing settings through your Facebook profile/account by clicking here.
 
-#### Billing and Credit Card Information.
 
-To enable payments, we collect and store billing and credit card information. This information will only be shared with third parties who perform tasks related to the purchase transaction, such as fulfilling or delivering orders, processing credit card payments, or providing customer service.
+Throughout this privacy policy, these sites, mobile applications, services and activities are collectively referred to as the "Sites and Services."  
+We may collect certain personal information about you related to your visiting, enrollment in or use of the Sites and Services. We also may obtain information about you from our parent, affiliate or subsidiary companies, business partners and other third parties. The types of information we may collect that may be considered personal information include: 
 
-#### User Generated Content and Other Public Activities.
+  * Your contact information (such as name, postal and email address, and phone number);
+  * Username and password for any account(s) you may establish for any of our Sites and Services;
+  * Payment card information (including payment card number, security code, expiration date, cardholder name and billing address);
+  * Material you contribute using our Sites and Services, including comments, photos, recommendations, reviews, ratings or other items you submit; 
+  * Demographic information (such as age, date of birth and gender);
+  * Information you provide by connecting our Sites and Services to, or interacting with us through, social media (such as Facebook, YouTube, GooglePlus, Pinterest or Twitter), including social media user name, recommendations, pictures, shared articles, ratings, information contained in your posts, the identities of your friends and profile information;
+  * Location information, such as country, state, city, the real-time geographic location of the device used to access Sites and Services or on which you install our mobile applications, and the location of places and businesses you visit;
+  * Offline and online shopping behavior and preferences, such as a record of the purchases you make on our websites and while visiting third party establishments; 
+  * Household or personal characteristics, behavior and preferences, such as might be provided in connection with voluntary surveys, panels, focus groups or other means of conducting market research in which you may participate;
+  * With respect to text messages sent to U-T San Diego or via U-T San Diego's text services, your incoming phone number, the lists or campaigns users have responded to, the identity of your wireless provider, the date and time the text services were activated and deactivated, the date and time of the text, and the content of the messages sent between you and U-T San Diego;
+  * The name and email address of another person provided by you in connection with a recommendation to, referral of, or purchase for or on behalf of such person through our Sites and Services;
+  * Messages that you send to others, and records related to when and where such messages were sent, using messaging features provided by our online Sites and Services; and
+  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
+In addition, when you visit or use our Sites and Services, we may collect certain information about you by automated means, such as cookies and web beacons. A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server. We also may use third-party website analytics tools (such as Google Analytics, Anametrix and quantcast) that collect information about visitor traffic, browsing patterns and usage on our Sites and Services. The information we may collect by automated means includes:
+  * Information about the computers, mobile devices or other devices our visitors use to access the Internet and our Sites and Services (such as website IP addresses, unique device identifiers, the device, browser and operating system type, domain names, and browser language);
+  * Websites that refer users to our Sites and Services, and websites that users visit from our Sites and Services;
+  * Dates and times of visits and uses of our Sites and Services;
+  * Information on actions taken on or when using our Sites and Services (such as page views, landing pages, exit pages, "clicks", time spent on the website or pages, dates and times of actions taken on a website or page and site navigation patterns);
+  * A general geographic location (such as country and city) from which a visitor accesses our Sites and Services;
+  * Usage and volume statistics related to our Sites and Services; and
+  * Search terms that visitors use to reach our sites.
 
-U-T San Diego services provide opportunities for you to contribute material that is intended to be visible to others (“public activities”), such as reader or user comments, recommendations, reviews, ratings or any other items that you submit. By choosing to participate in public activities, you are electing to share and display such material via www.UTSanDiego.com or other applicable platform or media. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public and may be used by U-T San Diego for online and offline promotional or commercial uses in any and all media. If you choose to engage in public activities, you should be aware that any personal information you submit there can be read, collected, or used by others, including to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums and U-T San Diego has no responsibility to publish, take down, remove or edit any of your public activities or any of your submissions that are a result of your public activities. For more information, see our Commenting Rules and please read the applicable section of the U-T San Diego Terms of Use. When you share or recommend (with or without adding your own comments) articles or content to your Facebook profile, that action is governed by the Facebook Privacy Policy. We do not track or store a record of those comments or actions. If you have registered for a U-T San Diego account, we will track and aggregate your public activities when using U-T San Diego services. Also, public activities may be included in RSS feeds, APIs and made available to other Web sites via other formats. As a result, your public activities may appear on other Web sites, blogs, or feeds. Keep in mind that we are not responsible for any personal information you choose to make public via your public activities, and you agree that such sharing will be deemed to have been done by you, not U-T San Diego.
 
-#### Contests, Sweepstakes and Special Offers.
 
-U-T San Diego collects personal information from you in connection with optional sweepstakes, contests or other special or promotional offers or programs. If this information is also being collected and used by a third party other than U-T San Diego in a way that is not apparent at the time such information is provided, we will notify you at the same time. If you do not want any personal information shared, you may always decline to participate in the sweepstakes, contest or special offer or promotion.
+### How We Use the Information We Collect 
 
-#### Surveys, Panels, Focus Groups and Market Research.
+We may use the information we obtain about you to: 
 
-U-T San Diego may collect personal information from you in connection with your voluntary participation in surveys, panels, focus groups or other means of conducting market research. Information may include your household or personal characteristics, purchase behavior and preferences. This data may be collected through the U-T San Diego services, on the phone, through the mail or in person. The information you provide in connection with these activities may be shared in the aggregate with advertisers and marketing partners, unless we notify you otherwise at the time of collection.
+  * Register you for membership for, or a subscription to, our Sites and Services and certain features, functions and activities related to our Sites and Services;
+  * Provide you with, develop and enhance our products or services;
+  * Process, validate, record, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone);
+  * Respond to your questions and comments and provide customer support;
+  * Communicate with you about your account, subscription or use of our Sites and Services, including emails related to order confirmations, renewal/expiration notices, administering and troubleshooting of the Sites and Services, notices of credit card problems, other transactional e-mails and notifications about changes to the U-T San Diego Sites and Services and/or to our Privacy Policy;
+  * Assist with administration, diagnosis of problems and troubleshooting related to our Sites and Services;
+  * Communicate with you about products, services, transactions, offers, events and promotions of ours or third parties, and display or offer you content, deals, products and services we believe may be of interest to you, including targeting offers and advertisements to you that are more likely to be of interest and value to you; 
+  * Enable you to communicate with us through our blogs, social networks and other interactive media;
+  * Enroll you in and manage your participation in our events, contests, reward programs, daily deal services, sweepstakes and other promotions;
+  * Tailor and customize our Sites and Services, products, services and features to suit your personal interests and enhance your use of our Sites and Services;
+  * Operate, evaluate and improve our business and the products and services we offer;
+  * Conduct marketing analysis of our customers and users, including through surveys and polls, and analyze and enhance our marketing communications and strategies;
+  * Combine it with other online or off-line information we possess or obtain from third parties to help us maintain a more complete profile about you so that we can offer you more personalized products, services, advertising and marketing and promotional communications;
+  * Analyze trends, demographics and statistics regarding visitors' use of our Sites and Services, including the advertisements users click on and purchases they make using our Sites and Services;
+  * Protect against and prevent, investigate, monitor for and mitigate fraud, physical harm, property damage, criminal activity, financial loss, violations of law, breach of contract, unauthorized transactions, unauthorized use of the U-T San Diego Sites and Services, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users;
+  * Enforce our Terms of Use and other agreements;
+  * Help us comply with applicable legal requirements, industry standards and our policies.
 
-#### Special Events and Promotions.
 
-We often receive information regarding readers, customers or others who may attend U-T San Diego sponsored events and promotions from sign-in and registration lists. Unless we indicate otherwise at the time we collect the information, we will use such information in accordance with our Privacy Policy.
 
-#### Mobile Messaging Service.
+### Targeted Online Advertising
 
-When you send a text message to U-T San Diego or via U-T San Diego, we may log the incoming phone number, the wireless provider associated with the number, the date and time of the transaction, and the content of the messages sent between you and U-T San Diego. Your wireless carrier and other service providers also collect data about text service usage, and their practices are governed by their own privacy policies. U-T San Diego uses the information collected from your mobile messaging service interactions with U-T San Diego for the purposes of providing relevant information and other commercial or promotional communications you have elected to receive, as well as to analyze the message traffic in order to operate, develop and improve mobile messaging service interactions.
+You may see certain ads on our Sites and Services because we participate in advertising networks. Some ad networks allow us and other advertisers to target advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means when you visit our Sites and Services and third party sites, applications and services, including through the use of cookies, web server logs, web beacons and other methods. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. We do not have access to or control over the cookies that may be placed by these parties on your computer, and have no control over these parties' privacy policies or information collection practices. 
 
-### Personal Information Acquired From Third Parties
+The information our ad network vendors collect includes information about your use of our mobile applications and visits to websites that participate in the advertising networks, such as the pages or advertisements you have viewed, the location of your mobile device and the actions you take on the websites and mobile applications. The networks use this information to show you targeted advertisements on our Sites and Services, and on third party sites, applications and services, that they believe will be of most interest to you. This process also helps us track the effectiveness of our marketing efforts. 
 
-Certain products and services available in connection with or through the U-T San Diego Services may involve registration, purchase or other transactions that are partially or wholly completed with a third party (for example, purchase of access to historical U-T San Diego archives from Newsbank, Inc., or download of the U-T iPad application from Apple, Inc.). Please note that, once such activities occur outside of the environment owned or controlled by U-T San Diego, the privacy practices of those third parties will be applicable and you should consult their policies concerning same. Those third parties may provide us with information about you from those interactions and our possession and use of that information would be governed by this Privacy Policy.
+For ad serving solutions we incorporate [Doubleclick](http://www.google.com/policies/technologies/ads/), [Nielsen eXelate](http://exelate.com/privacy/services-privacy-policy/) and [Mixpo](http://dynamicvideoad.mixpo.com/legal/) technologies. 
 
-We may also purchase or otherwise receive your personal information from third parties and add that information to the personal information you provide us to create a more complete profile of you in our database. We believe that the more we know about our readers, subscribers and other customers, the better and more personalized our products and services will be, the more relevant our advertising, marketing and promotional messages will be, and the more satisfied our advertising and marketing clients and customers will be.
+### Social Media Interaction
 
-### Non-Personal Information Automatically Collected
+When you choose to participate in a third party application, social media site, feature or service offered within the Sites and Services (for example Facebook Connect, integrated Facebook comments or Twitter website widgets), you may be opting to link or share your activity on Sites and Services with that third party application, social media site, feature or service, which may then collect information about you and may publish that activity to your "profile," "timeline," "feedback" or similar feature with that third party. For example, if you choose to "like" or "share" content through our Sites and Services when a third party application, social media site, feature or service is enabled, or to otherwise post information from or via our Sites and Services to a third party application, social media site, feature or service, that information may be publicly displayed or displayed to your friends or followers and the third party may have access to information about you and your use of our Sites and Services. You may be able to disable ongoing sharing of information with us from third party applications, social media site and features. To do so visit the applicable section of the application, site or feature and adjust your privacy and sharing settings, or otherwise disassociate the application, site or feature from our Sites and Services. 
 
-#### Device Information.
+### Information We Share
 
-We may collect non-personal information about the computer, mobile device or other device you use to access U-T San Diego services, such as IP address, geolocation information, unique device identifiers, browser type, browser language and other transactional information.
+We may share and disclose personal information we collect with our parent, affiliate and subsidiary companies, business partners, ad network vendors and their participants, and other third parties for the purposes described in this Privacy Policy, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you. We may also share and disclose information as follows: 
 
-#### IP Addresses.
+  * Service Providers. We may use third parties to perform certain services on our behalf, such as hosting or analyzing certain data, performing administrative services, credit card billing and processing, delivery and shipping of products and services, email distribution, list processing and analytics, and survey and promotions management. These service providers are generally not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+  * Aggregated and De-Identified Information. We may disclose information in an aggregate or de-identified form (for example, personal information stripped of reference to a named individual) with third parties in our discretion, including advertisers, affiliates and business associates. Nothing in this Privacy Policy is intended to restrict U-T San Diego's use of aggregated or de-identified information in any way.
+  * Legal Matters and Safety. We may disclose information about you, in our sole discretion: (i) if we are required to do so by law or legal process (such as a court order or subpoena); (ii) in response to a request or investigation by law enforcement authorities or regulators; (iii) to protect or defend our rights, business or property or protect the safety of any individual; (iv) protect against, investigate or mitigate the misuse or unauthorized use of the Sites and Services; or (v) when we believe disclosure is necessary or appropriate to prevent, investigate or mitigate physical harm, property damage, violations of law, breach of contract, criminal activity or financial loss. 
+  * Third Parties and Affiliates for Marketing. We may exchange, sell, rent or otherwise disclose your personal information to third parties and our affiliates for their own direct marketing purposes. You may choose to opt-out of such disclosures (see "Your Choices" below).
+  * Sweepstakes, Contests and Reward Programs. We may disclose your personal information to third parties that provide and manage events, contests, reward programs, sweepstakes and other promotions.
+  * User Contributed Information. By contributing material on our Sites and Services (including for example material submitted on or using discussion boards, blogs, comment sections, reviewing and rating features and other features), you are electing to share and publicly display such material, including comments, posts, photos, recommendations, reviews, ratings or other material you submit. When you contribute such material, additional information about you may also be displayed and disclosed to others, including name, profile photo, username, email and other personal information. You should be aware that any such material you contribute is considered public information and can be read, collected, or used by others, including for the purposes of sending you unsolicited messages. U-T San Diego has no responsibility to publish, take down, remove or edit any of this material. However, U-T San Diego reserves the right to monitor, edit, or delete such material, in its discretion. Also, we may sell or otherwise make this material available to other persons and sites using RSS feeds, APIs and via other formats and means. As a result, personal information included in your public activities and user material you contribute may appear on other sites, applications, blogs, or feeds. 
+  * Gifts and Referral Programs. If you use our Sites and Services to make recommendations to, referrals of or buy a product or service for or on behalf of another person, an email identifying the relevant information, product or service will be sent to that person. 
+  * Corporate Events. We also reserve the right to transfer personal information we have about you if we sell, consolidate, merge or transfer all or a portion of our business or assets, or enter into a joint venture or undergo other corporate changes or reorganization, including, without limitation, in the event of bankruptcy or during the course of any due diligence process related to any such activities or events. Following such a sale, joint venture, merger, reorganization, bankruptcy or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the handling of that information.
 
-U-T San Diego logs Internet Protocol (IP) addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We use this information in an aggregate fashion to track access to our Web sites and mobile applications.
 
-#### Log Files and Reading History.
 
-We automatically log certain usage information about your use of U-T San Diego services. This information includes a reading history of the Web pages you view. We use this information in order to provide you with customized recommendations on www.UTSanDiego.com based on your reading history. We also use log files in the aggregate to analyze usage of our Web sites and mobile applications. If you download and use our software applications, the log files will automatically be collected by the application and sent to our servers when your computer syncs up for the latest news.
+### Your Choices
 
-#### Cookies.
+We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you, including the following: 
 
-In providing the U-T San Diego services, we use "cookies," Web beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand where our visitors are going and how much time they spend there. You may not be able to access certain areas of our Web sites if your computer does not accept cookies from us. U-T San Diego also transmits non-personally identifiable Web site usage information about visitors to the servers of a reputable third party for the purpose of targeting our advertisements on other sites. To do this, we use Web Beacons in conjunction with cookies provided by our third-party ad server on this site. For more information about our third-party ad server, or to learn your choices about not having this non-personal information used to target ads to you, please click here. In addition, third parties providing services or whose ads are displayed in connection with the U-T San Diego services, including on www.UTSanDiego.com and within our mobile apps, may also place or recognize cookies, Web beacons or other technology to track certain non-personal information about our users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser in order to collect certain information about your use of the U-T San Diego services. In many cases, this information could be used to show you ads based on your interests on other Web sites. We do not have access to, nor control over, advertisers' or service providers' use of cookies or other tracking technologies or how they may be used. You may be able to choose to be notified about and/or decline to accept cookies by choosing the applicable privacy settings available through your Web browser of choice.
+  * Opt-Out of Sharing Personal Information with Third Parties and Affiliates for their Own Direct Marketing Purposes. If, at any time, you prefer that we do not share personal information with third parties or our affiliates for their own direct marketing purposes, please either e-mail us at privacy@UTSanDiego.com or send a letter to us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line. We may still share your information with third parties and our affiliates for various other purposes, such as customer service, fulfillment and our own marketing. You cannot prevent sharing for these other purposes.
+  * Unsubscribe From Marketing Emails Sent by Us. You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish for some of our Sites and Services. For some of our Sites and Services, you may have the ability to opt-out of receiving certain emails by changing your preferences in the "account" or "preferences" section of the Site and Service. In some cases you will have the choice to opt-in or opt-out of certain marketing emails prior to us sending those emails. 
+  * Unsubscribe From Text Messages Sent by Us. You may choose to stop our delivery of text messages to you that relate to the particular list that you subscribe to by texting "stop" in reply to any such text message. This will only prevent the sending of text messages from the relevant list, and will not stop text messages from other lists to which you have subscribed. You may also request that we stop delivery of text messages by sending an email to privacy@utsandiego.com with the subject line: "FULL TEXT MESSAGE UNSUBSCRIBE."
+  * Targeted Advertising. To opt out of receiving marketing communications targeted to you based on tracking of your online activities through the advertising networks or our ad network vendors, please visit http://www.bluekai.com/consumers_optout.php, and follow the instructions for opting out. Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program here: http://www.youradchoices.com/ . In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (NAI). The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, click here: http://www.networkadvertising.org/choices/. We may use other advertising networks that target marketing communications to you based on tracking your online activities, and if you want more information about the opt-out choices these networks may provide please email us at privacy@utsandiego.com
+  * Geo-Location Information. When you use a U-T San Diego application on your mobile device, you may be able choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+  * Cookies. Most web browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of the features of our Sites and Services. 
 
-#### Analytics Technologies.
 
-We use certain third parties to provide us information, reports and analysis about the usage and browsing patterns of users of the U-T San Diego services. These third parties track and analyze non-personally identifiable usage and volume statistical information from our visitors, users and customers.
 
-#### Location Information.
+### Your California Privacy Rights
 
-Some of our mobile applications can deliver content based on your current location if you choose to enable that feature of the app. If you enable the location-based feature, your current location will be stored locally on your device, which will then be used by the app. If you elect to have a location-based search saved to your history, we will store that information on our servers. If you do not enable the location-based service, or if an app does not have that feature, the app will not transmit to us, and we will not collect or store, location information. Ads may be displayed within our apps. The ads you see are not targeted to you based on your current GPS location, but they may be targeted to you based on your device's IP address or ZIP code.
+When California customers provide personal information to a business, they have the right to request certain disclosures if that business shares personal information with our affiliates or third parties for the third parties' or our affiliates' direct marketing purposes. Once per calendar year the customer may request that the business provide a list of companies with which it shares personal information for the third parties' or our affiliates' direct marketing purposes, and a list of the categories of personal information that the business shares. Instead of responding to such requests, however, a company may choose to comply with this law by establishing and publishing on its website a policy of not disclosing a customer's personal information to such third parties or our affiliates unless the customer affirmatively agrees to such disclosures, or a policy of not disclosing a customer's personal information to such third parties or our affiliates if the customer has exercised an option that prevents that information from being disclosed to third parties or our affiliates for those purposes. Thus, a company may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right. As noted in the "Your Choices" section above, you may opt-out of our sharing of your personal information with third parties or our affiliates for their own direct marketing purposes. 
 
-### What do we do with the information we collect?
+California customers may request information about our compliance with this law by sending an email to privacy@utsandiego.com. Any such inquiry must include "California Privacy Rights Request" in the first line of the description. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address. 
 
-Providing the Services You Request. We use the information we gather about you to manage and enable your use of the U-T San Diego services, to fulfill your requests for certain products and services, and to send out electronic or other communications.
+### Access and Correction
 
-#### Statistical Analysis.
+You may access certain personal information we maintain about you, or update or correct inaccuracies in that information, using the online account "profile" or "preferences" feature of our Sites and Services (if applicable). In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the "How to Contact Us" section of this Privacy Policy. If we deny an access request, we will notify you of the reasons for the denial. 
 
-We perform statistical, demographic and marketing analyses of customers and users of the U-T San Diego services, and their subscribing and purchasing patterns, for product development purposes and to generally inform advertisers about the nature of our subscriber and customer base.
+### Links to and Use of Other Websites and Services
 
-#### Customizing Your Experience.
+Our Sites and Services may contain links to other sites and services for your convenience and information and for advertising purposes. Linked sites may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites or services not operated by U-T San Diego, any use of those sites or services, or the privacy practices of those sites or services. When you visit or use our Sites and Services, visit linked sites, click on advertisements displayed in our Sites and Services, receive or participate in a service with a third party, or choose to share your information with third parties (including reward program providers and third party social media sites like Facebook and Twitter), your information may be collected and used by third parties and accessible by users of third party sites. The information collected by the third party is subject to the third party's privacy and other practices, policies, and agreements, including whether the third party continues to share information with us or with other third parties, the types of information shared and your choices with regard to the collection, use and disclosure of the information. We are not responsible for any use of those sites or services or the privacy practices of the third parties that operate those sites or provide those services. 
 
-We may use the information we collect to customize certain features of the U-T San Diego services to provide you with an enhanced experienced, including based on the type of device you are using to access the U-T San Diego services.
+### How We Endeavor to Protect Personal Information
 
-#### Advertising and Marketing.
+We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. When you provide your credit or debit card information as payment for a transaction, the payment card information is encrypted while in transit to the payment processor that processes your transaction. Please note that no data storage or electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail or that those measures will always be sufficient or effective. 
 
-We may use demographic and preference information to allow advertising on the U-T San Diego services to be targeted to the users for whom it appears most pertinent. This means users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. Information may also be used to market and promote U-T San Diego products or services or those of affiliated companies or third parties that we believe may be of interest to U-T San Diego subscribers, users and customers.
+To further protect yourself, you should safeguard your user name and password for any Sites and Services and not share that information with anyone. You should also sign off your account and close your browser window when you have finished your visit to our sites. Please note that we will never ask for your U-T San Diego account user name or password via email. 
 
-### When will we disclose or divulge the information we collect?
+### Children's Privacy
 
-#### Aggregate and De-Identified Information.
+U-T San Diego does not direct its websites to children under the age of thirteen. If we learn that a user is under thirteen years of age, we will promptly delete any personal information that the individual has provided to us. 
 
-We regularly share information about our audience, users and customers in aggregate or de-identified (i.e. stripped of reference to a named individual) form. Nothing in this Privacy Policy is intended to restrict U-T San Diego's use of aggregated or de-identified information in any way.
+### Updates to this Privacy Policy
 
-#### Service Providers.
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice (and/or provide notice using other methods) with respect to our Sites and Services to notify you of any material changes to our Privacy Policy. The "Effective Date" at the top of this Privacy Policy indicates when it was most recently updated. Your continued use of any of our Sites and Services once such changes are posted to this policy will mean you accept those changes. 
 
-We contract with other companies to provide services on our behalf, including credit-card and billing processing, delivery or shipping, email distribution, list processing and analytics, and survey and promotions management. We provide these companies with the information they need to perform their services. Our contracts with these service providers generally prohibit them from using this information in any way other than to provide services for U-T San Diego, and they agree not to share, resell or use the data for their own direct marketing purposes.
+### How to Contact Us
 
-#### Legal and Related Matters.
-
-We may disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to:
-
-  * (1) comply with the law or with legal process;
-  * (2) protect and defend our rights and property;
-  * (3) protect against misuse or unauthorized use of the U-T San Diego services; or
-  * (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
-
-
-
-#### Third Party Marketing.
-
-If you are a subscriber to or registered user of U-T San Diego services, and unless you opt out of disclosure as described below, we may exchange, sell or rent your name, contact (including your email address) and certain other information, such as when you first subscribed to U-T San Diego, with or to other reputable companies seeking to promote their products or services to U-T San Diego subscribers and customers. If you prefer that we do not share this information, you may opt out by either emailing us at Subscriber.Requests@UTSanDiego.com or you may contact us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line. We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws.
-
-#### Sale/Purchase of Business or Joint Ventures.
-
-In the future, we may sell, buy, merge or partner with other companies or businesses. In such transactions, we may include your information among the transferred or shared assets. What is our email policy?
-
-#### CAN-SPAM Act Compliance.
-
-We will not share, sell, rent, swap or authorize any third party to use your email address for commercial purposes except in compliance with applicable law. You can view and change your email preferences and profile at any time by visiting www.UTSanDiego.com/manageemail. If at any time you feel you have received an email from us in error, please contact feedback@utsandiego.com. Account and Service-Related Email. U-T San Diego at all times reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to the U-T San Diego services and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities. Email Newsletters. U-T San Diego will periodically send you e-mail newsletters. If you no longer wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of the newsletter.
-
-#### Promotional Email.
-
-U-T San Diego may periodically email you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of any such email. From time to time, U-T San Diego may obtain email addresses from third party sources to be used for promotional emails. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of any such email. 
-
-#### Survey Email.
-
-We may send you an email inviting you to participate in user surveys, asking for feedback on U-T San Diego services or prospective products and services, as well as information to better understand our users and customers. Surveys greatly help us to improve the U-T San Diego services, and any information we obtain in such surveys will not, unless otherwise noted, be shared with third parties other than in aggregate or de-identified form.
-
-#### HTML Email.
-
-When you provide us with an email address, you may be asked to select either plain text or HTML (with images) format. If you select the HTML format, we may place a one-pixel gif to determine whether or not the e-mail was read. This process does not leave any information on your computer, nor does it collect information from your computer. U-T San Diego may share this data with others in aggregate or de-identified form.
-
-#### Emails From You.
-
-If you send us emails, you should be aware that information disclosed in emails may not be secure or encrypted and thus may be available to others. We suggest that you exercise caution when deciding to disclose any personal or confidential information in emails. We will use your email address to respond directly to your questions or comments.
-
-#### Email This Article Feature.
-
-Our websites or other digital products may allow readers to email links to articles (or other content). The email addresses that you supply may be saved for your convenience for future articles or information you may wish to share by email; these addresses are not used for any other purpose, and will not be shared with any third parties.
-
-### How do I change or update my personal information?
-
-#### U-T San Diego Subscriber Account.
-
-You may update and/or edit your subscriber account information online at www.UTSanDiego.com/subscriptions by clicking on the link for “Manage Subscription.” You may review and update your subscription or account information and access your transaction history, and ensure your personal information is accurate and up to date. To gain access to your subscription information, you will be asked to enter or re-enter your login and password. If you do not remember your login or password, you can reset your password. Should you require assistance, please call our toll free number 1-800-533-8830.
-
-### How do I opt-out of use of my information for marketing purposes?
-
-If, at any time, you prefer not to receive solicitations originated by U-T San Diego, or if you prefer that we do not share information with third parties for marketing purposes, please either e-mail us at Subscriber.Requests@UTSanDiego.com or send a letter to us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail, and if you choose to opt-out via e-mail, please put "Opt Out" in the subject line.
-
-### How does U-T San Diego protect the privacy of children?
-
-We will not knowingly gather or request personally identifiable information from or about children under the age 13 except as permitted by law. If we find we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you have reason to believe that U-T San Diego has any information from or about anyone under the age of 13, please contact us using the information provided herein or available elsewhere on www.UTSanDiego.com.
-
-### Can this policy change?
-
-Yes. We reserve the right to change this policy at any time and you should check this page periodically. Your continued use of U-T San Diego services once such changes are posted to this policy will mean you accept those changes.
-
-### What is the law governing use of U-T San Diego and this Privacy Policy?
-
-#### California Law.
-
-California law governs the use of the U-T San Diego services and this Privacy Policy. Users of U-T San Diego consent to the jurisdiction and venue of an appropriate court or other tribunal in San Diego as the most convenient and appropriate forum for the resolution of disputes concerning this policy. U-T San Diego is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States and that by accessing or using the U-T San Diego Services you are consenting to this transfer. Please see our Terms of Use for additional information concerning dispute resolution, including the arbitration provisions contained therein.
-
-#### California Privacy Rights.
-
-A California resident who has provided Personal Information to a business with whom he/she has established a business relationship for personal, family, or household purpose is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a user or customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business maintains and adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless (1) the customer first affirmatively agrees to the disclosure or (2) the customer refrains from exercising an option that prevents the disclosure. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
-
-As stated in this Privacy Policy, U-T San Diego may share information with third parties for their direct marketing purposes unless you opt-out of receiving such information. Please note that whenever you opt-in to receive future communications from a third party or refrain from opting out from such sharing, your personal information may become subject to the third party's privacy policy and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use personal information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
-
-If you are a California resident and request information about how to exercise your third party disclosure choices you may send an e-mail to customerservice@UTSanDiego.com or you may contact us by regular mail at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108.
-
-All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via e-mail. Please include your zip code for our own record keeping.) U-T San Diego will not accept requests via the telephone or by facsimile. U-T San Diego is not responsible for notices that are not labeled or not sent properly or do not have complete information.
-
-If you have questions about this Privacy Policy, please send an e-mail to customerservice@UTSanDiego.com, or you may contact us by regular mail at: U-T San Diego, Attention: General Counsel, 350 Camino de la Reina, San Diego, California 92108.
+If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@utsandiego.com. You also may write to us at: U-T San Diego, Attention: Customer Service, 350 Camino de la Reina, San Diego, California 92108. 
