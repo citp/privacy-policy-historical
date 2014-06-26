@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efrontlearning.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601002715id_/http%3A//www.efrontlearning.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrontlearning.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627002245id_/http%3A//www.efrontlearning.net/privacy) for the most accurate reproduction.*
 
 # Enterprise Learning Management System Software - eFront LMS
 
