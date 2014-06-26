@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblackbookmail.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102045206id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbookmail.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124745id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
@@ -53,7 +53,7 @@ Members of the Website can directly communicate with you through messaging servi
 
 If you choose to use our external referral service to tell a friend about the Website, we will ask you for your friend's contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this email and tracking the success of the referral.
 
-#### 6). Your Use of Other Users' Information. 
+#### 6) Your Use of Other Users' Information. 
 
 You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. XXXBlackBook.com reserves the right to terminate the Service to those who misuse other Users' information.
 
@@ -150,13 +150,11 @@ XXXBlackBook.com
 
 13 Upper Baggot Street
 
-Dublin 4
+Dublin 4, Ireland
 
-Ireland 
+Telephone: +353.15262707 Fax: +353.16335198 
 
-Telephone: +353.15262707 Fax: +353.16335198
-
-#### 18). Dispute Resolution 
+#### 18) Dispute Resolution
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or XXXBlackBook.com's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
 
