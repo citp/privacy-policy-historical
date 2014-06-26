@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201232350id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonchronicle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064641id_/http%3A//www.houstonchronicle.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Houston Chronicle
+# Privacy Policy | HoustonChronicle.com - Houston Chronicle
 
 ## 1\. Purpose and Scope of this Privacy Policy.
 
@@ -26,7 +26,9 @@
 
 (e) Location Information. We may, and may enable our advertisers to, collect your location via certain services we provide through digital applications, wireless access protocol services ("WAP Services") or mobile phone service ("Mobile Services"). We, or the service provider, will inform you of such collection at the time you use the service. By using such service, you hereby consent to our collection, use and disclosure of your location information as described. 
 
-(f) Third Parties. We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our Newspaper. Those third parties have privacy policies that differ from this Privacy Policy.
+(f) Third Parties. We may receive information from third parties, including demographic information from your mobile carrier, and information from third parties that solicit subscriptions to our Newspaper. Those third parties have privacy policies that differ from this Privacy Policy. 
+
+(g) Tracking Requests. Hearst does not act on Do Not Track requests from your browser. For more information click here.
 
 ## 3\. Use of Information.
 
