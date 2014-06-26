@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingpanel.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618133130id_/http%3A//rewardingpanel.com/PrivacyPolicy/tabid/147/language/en-JM/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingpanel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085007id_/http%3A//rewardingpanel.com/PrivacyPolicy/tabid/147/language/en-JM/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,10 +11,10 @@ Ipsos Stat FZ - LLC, is a company registered in the UAE. Ipsos Stat is part of t
   1. What information do we collect about you?
   2. How will we use the information you provide?
   3. Children?
-  4. Use of Cookies and similar code?
-  5. Use of Digital fingerprinting?
+  4. Use of Cookies and similar code
+  5. Use of Digital fingerprinting
   6. How long will we keep the information you provide?
-  7. How you can get access to your information and/or correct it?
+  7. How you can get access to your information and/or correct it
   8. How do you ensure my personal information is secure?
   9. How to contact us
   10. Changes to our privacy policy
@@ -31,11 +31,11 @@ We will use the information you provide to:
 
   * Keep a record of all panel members.
   * Send you invitations to participate in surveys that are relevant to you based on the information you provided in response to our recruitment questionnaire(s).
-  * Append personal information about you to your responses to any surveys you participate in, such as geographical location, ethnicity, occupation categories etc for the purpose of analysing the survey responses and producing anonymous, statistical research results.
+  * Append personal information about you to your responses to any surveys you participate in, such as geographical location, ethnicity, occupation categories etc. for the purpose of analysing the survey responses and producing anonymous, statistical research results.
   * Enter you into any prize draws that you are eligible to take part in or, where invited to do so, have asked to be entered into.
   * With your explicit consent when asked in a survey, to pass your individual survey responses together with your personal information to the client who commissioned the survey. The client will use this information only for research purposes as explained in the survey. The client may also use this information to contact you in order to invite your participation in further research they conduct, but only where you have been informed of this and have explicitly consented to your information being used by the client for this purpose.
   * To create anonymous, statistical profiles of panel membership based on the information provided by panel members.
-  * With your consent, to pass your information to other Ipsos Group companies so that they may invite you to participate in research studies they are carrying out that may relevant to you.
+  * With your consent, to pass your information to other Ipsos Group companies so that they may invite you to participate in research studies they are carrying out that may be relevant to you.
 
 
 
@@ -56,7 +56,7 @@ Or by letter sent to:
 
 For any panels or surveys aimed at children, we will always seek consent from a parent, legal guardian or other person legally responsible for the child before inviting them to join a panel or take part in the research.
 
-## 4\. Use of Cookies and similar code?
+## 4\. Use of Cookies and similar code
 
 Some on-line surveys collect information through the use of 'cookies'. These are small files stored on your computer. These files are used as sparingly as possible and only for quality control, validation and, more importantly, to prevent us sending you reminders for any on-line survey you have already completed. It is possible for you to delete 'cookies' or to prevent their use by adjusting the browser settings on your computer.
 
@@ -68,19 +68,19 @@ We also automatically capture information about your IP Address, operating syste
 
 
 
-With your prior agreement, we may also install advanced cookies or similar code that can identify tags attached to certain web-sites or on-line advertisements relating to our clients and/or their products. Alternatively, again with your prior agreement, we may scan for and read cookies or code installed by other websites that you may have visited. The information obtained in this way will be used to help us send you surveys that are relevant to you (for example, you may be asked your opinion on ads that you've actually seen), or for other research into internet usage.
+With your prior agreement, we may also install advanced cookies or a similar code that can identify tags attached to certain websites or on-line advertisements relating to our clients and/or their products. Alternatively, again with your prior agreement, we may scan for and read cookies or code installed by other websites that you may have visited. The information obtained in this way will be used to help us send you surveys that are relevant to you (for example, you may be asked your opinion on ads that you've actually seen), or for other research into internet usage.
 
-## 5\. Use of Digital fingerprinting?
+## 5\. Use of Digital fingerprinting
 
 We may use digital fingerprinting technology, also known as "Machine Identification" digital fingerprints, to gather certain information about your computer hardware and software, for example, your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc. This information is sent to our trusted third-party partner who converts it into a unique serial number – the digital "fingerprint" – and determines if it matches previous fingerprints. The data collected in this process and the digital fingerprint created is not tied to any of your personal information, is stored on secured servers, and is only used for quality control purposes and to help prevent panellists from completing the same survey many times.
 
 ## 6\. How long will we keep the information you provide?
 
-We will keep the information you provided when you joined our panel, together with any information you provided in response to a recruitment questionnaire for as long as you remain a member of the panel. You can leave the panel at any time you wish. We may also remove you from our panel if you are not taking part in any surveys, are no longer eligible to be a member of any other reason, or the panel is closed. Before removing anyone from our panel, we will contact them to let them know and provide details of how to remain a panel member where appropriate. However, in the event we consider you breach Rewarding Panel's rules or terms and conditions, Rewarding Panel may remove you from our panel without any notice and your access to the panellist website and to your points account will be closed.
+We will keep the information you provided when you joined our panel, together with any information you provided in response to a recruitment questionnaire for as long as you remain a member of the panel. You can leave the panel at any time you wish. We may also remove you from our panel if you are not taking part in any surveys, are no longer eligible to be a member for any other reason, or the panel is closed. Before removing anyone from our panel, we will contact them to let them know and provide details of how to remain a panel member where appropriate. However, in the event we consider you breach Rewarding Panel's rules or terms and conditions, Rewarding Panel may remove you from our panel without any notice and your access to the panellist website and your points account will be closed.
 
 When you leave the panel, are removed, or the panel is closed, we will delete all your contact details, together with any other information that could be used to identify you, leaving only anonymous responses to surveys that you participated in.
 
-## 7\. How can you get access to your information and/or correct it?
+## 7\. How you can get access to your information and/or correct it
 
 You have the right to request a copy of all the information we hold about you. If you would like a copy of some or all of your personal information please contact our Data Protection Department. They can be contacted by
 
