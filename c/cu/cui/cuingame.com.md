@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928210517id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuingame.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052323id_/http%3A//www.cuingame.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Diablo 3 gold, D3 gold, GW2 gold, PoE orbs, SWTOR credits
+# Diablo 3 powerleveling, FIFA 14 Coins, Astral Diamonds, GW2 gold, FFXIV gil, SWTOR credits
 
 **                                                                                    Privacy Policy**
 
