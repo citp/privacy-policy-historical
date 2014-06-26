@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripmegamart.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208210633id_/http%3A//www.tripmegamart.com/footer_content_page%3Fid%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripmegamart.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626055449id_/http%3A//www.tripmegamart.com/footer_content_page%3Fid%3D1) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,8 +12,8 @@
 <meta name="robots" content="Welcome to Trip Mega Mart">
 <meta name="google-site-verification" content="Put your Google Verification Code">
 <!-- session Expire-->
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="js/session.expire.js"></script>
-<link href="http://www.hotel.tripmegamart.com/css/css.css" rel="stylesheet" type="text/css">
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" charset="utf-8" src="//v2.zopim.com/?1vk7stIx7zMbVsKLHGzxSlrwqjhhnrsn" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="js/session.expire.js"></script>
+<link href="css/css.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="http://www.hotel.tripmegamart.com/images/favicon.ico">
 <script type="text/javascript" src="http://www.hotel.tripmegamart.com/js/jquery-1.3.2.min.js"></script>
  <script src="http://www.hotel.tripmegamart.com/datepicker/jquery-ui-1.8.13.custom.min.js"></script>
@@ -29,6 +29,14 @@
 <link rel="stylesheet" href="css/home.css" type="text/css" media="screen">
 <script type="text/javascript" src="js/home.js" defer="defer"></script>
 <!--<script src="js/ga.js"  type="text/javascript"></script>-->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"5qZUi1a8Dy00yE", domain:"tripmegamart.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=5qZUi1a8Dy00yE" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
 <!--wysiwyg editor-->
 <script type="text/javascript" src="http://www.tripmegamart.com/editor/wysiwyg.js" defer="defer"></script>
 <script type="text/javascript" src="http://www.tripmegamart.com/ckeditor/ckeditor.js" defer="defer"></script>
@@ -90,7 +98,8 @@
 			numberOfMonths: 2,			
 			minDate: new Date(),
 			//dateFormat: 'yy-mm-dd',
-			dateFormat: 'D, d M yy',
+			//dateFormat: 'D, d M yy',
+			dateFormat: 'dd/mm/yy',
 			showOn: "both", //button,focus
 			buttonImage:"images/calender_icon.png",
 			buttonImageOnly: true ,
@@ -142,13 +151,63 @@ function openModal(url,width,height)
 <!--Color script start-->
 <script type="text/javascript" src="http://www.hotel.tripmegamart.com/jscolor/jscolor.js" defer="defer"></script>
 <!--Color script start-->
+
+
 <link href="css/css.css" rel="stylesheet" type="text/css"></head>
 
 
 <body>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td align="center" valign="top"> <!--<script src="megamenu/js/jquery.js"></script>-->
+    <td align="center" valign="top"> <!-- ajax function for outlet.php -->
+<script>
+	function genericAjaxFunctioncity( queryString, outputDiv,recallInterval )
+  {
+  var xmlHttp;
+  //alert("ommmm");
+  try
+    {
+    xmlHttp=new XMLHttpRequest();
+    }
+  catch (e)
+    {
+    // Internet Explorer
+    try
+      {
+      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+      }
+    catch (e)
+      {
+      try
+        {
+        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+      catch (e)
+        {
+        alert("Your browser does not support AJAX!");
+        return false;
+        }
+      }
+    }
+    xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4)
+        {
+      document.getElementById(outputDiv).innerHTML=xmlHttp.responseText;
+
+	  if(recallInterval>0)
+			setTimeout("genericAjaxFunction( '"+queryString+"', '"+outputDiv+"',"+recallInterval+")",recallInterval);
+
+        }
+      }
+
+xmlHttp.open("POST",queryString,true);
+xmlHttp.send(null); 
+		
+		}
+</script>
+<!-- ajax function for outlet.php -->
+<!--<script src="megamenu/js/jquery.js"></script>-->
 <script type="text/javascript">
 var pid=0;
 function mega_menu(id,color,txtcolor){
@@ -188,6 +247,17 @@ function mega_menu(id,color,txtcolor){
 	}
 }
 </script>
+
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//v2.zopim.com/?1vk7stIx7zMbVsKLHGzxSlrwqjhhnrsn';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
+
  <!---- for face book ----->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -226,63 +296,129 @@ function mega_menu(id,color,txtcolor){
 		  font-family:Arial, Helvetica, sans-serif;
 		  font-weight:bold;
 		  list-style:none;
-		  font-size:14px;}
+		  font-size:13px;}
 		  
 #menu li a{ color:#FFFFFF; }
 /*#menu  li:hover{ background:#EEEEEE; color:#000000; }*/
 
 .myred{background: none; }
 .myblue{background-color: #B5BF4A;}
+
+/*===================================================follow us =============================================*/
+/*
+.followus{ width:163px; float:left; padding:3px 0 0 61px;}
+.followus ul{ padding:0px; margin:0px;}
+.followus ul li{ padding:0px 3px; margin:0px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFF;}
+.followus ul li a.facebook{ background:url(images/facebook_dark.png) no-repeat; width:22px; height:22px; display:block; text-indent:-9999px;}
+.followus ul li a.facebook:hover{ background:url(images/facebook_active.png) no-repeat; width:22px; height:22px; display:block;}
+
+.followus ul li a.twitter{ background:url(images/twitter02_dark.png) no-repeat; width:22px; height:22px; display:block; text-indent:-9999px;}
+.followus ul li a.twitter:hover{ background:url(images/twitter02_active.png) no-repeat; width:22px; height:22px; display:block;}
+
+.followus ul li a.google{ background:url(images/google_dark.png) no-repeat; width:22px; height:22px; display:block; text-indent:-9999px;}
+.followus ul li a.google:hover{ background:url(images/google_active.png) no-repeat; width:22px; height:22px; display:block;}
+
+.followus ul li a.rss{ background:url(images/rss_dark.png) no-repeat; width:22px; height:22px; display:block; text-indent:-9999px;}
+.followus ul li a.rss:hover{ background:url(images/rss_active.png) no-repeat; width:22px; height:22px; display:block;}
+
+.followus ul li a.linkedin{ background:url(images/in_dark.png) no-repeat; width:22px; height:22px; display:block; text-indent:-9999px;}
+.followus ul li a.linkedin:hover{ background:url(images/in_active.png) no-repeat; width:22px; height:22px; display:block;}*/
+.spinning_icons
+{
+width:315px;
+}
+.spinning_icons a{
+	width:30px;
+	height:30px;
+	display:inline-block;
+	text-indent:-9999em;
+	background-position:0 0;
+	background-repeat:no-repeat;
+	z-index:2000;
+	overflow:hidden;
+}
+
+.twitter{ background:url('icons/twitter_m.png'); }
+.google{ background:url('icons/google_m.png'); }
+.facebook{ background:url('icons/facebook_m.png'); }
+.linkedin{ background:url('icons/linkedin_m.png'); }
+
+
+.spinning_icons a:hover{
+	transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+	transition: transform 0.2s ease-out;
+	-webkit-transition: -webkit-transform 0.2s ease-out;
+        -moz-transition: -moz-transform 0.2s ease-out;
+
+
+/*===================================================follow us =============================================*/
+
 </style>
-<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Trebuchet MS !important;">
   <tbody><tr>
-    <td width="462" height="85" align="left" valign="top"><a href="http://www.hotel.tripmegamart.com/"><img src="http://www.hotel.tripmegamart.com/images/logo.gif" alt="logo" width="221" height="82" border="0"></a></td>
-    <td width="538" height="85" align="right" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td style="padding-left:176px;" width="462" height="85" align="left" valign="top"><a href="index.php">
+	<img src="http://www.hotel.tripmegamart.com/images/logo.gif" alt="logo" width="221" height="82" border="0"></a>
+	</td> 
+		<td width="62%" height="10" align="center" style="padding-left:66px;">
+	
+		<img src="http://www.tripmegamart.com/surma//img/1402478912_rahul.png" alt="logo" width="380" height="82" border="0"></td>
+        
+	
+    <td style="padding-right:176px;" width="538" height="85" align="right" valign="center">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	
 	<tbody><tr>
-        <td width="62%" height="10" align="center"></td>
-        <td width="7%" align="center" valign="middle" class="topmenu"></td>
-        <td width="31%" align="center" valign="middle" class="topmenu"></td>
-        </tr>
-		      <tr>
-        <td height="20" align="right" valign="middle" class="text8"><img src="http://www.tripmegamart.com/images/telephone.png" alt="Telephone" id="img" align="absmiddle">9031 00 6501 </td>
+        
+    </tr>
+    <tr>
+        
+       
         <td align="right" valign="middle"></td>
         <td align="right" valign="middle">
-        	<div class="fb-like" data-href="https://www.facebook.com/TripMegaMartIndia" data-send="false" data-layout="button_count" data-show-faces="true" style="overflow:hidden; width:45px; float:left;"></div>
-                          <div style="float:right; width:30px;">
-                <a href="https://twitter.com/tripmegamart" target="_blank">
-                <img src="http://www.tripmegamart.com/social/1346663181_small_twitter.jpg" alt="social logo" height="16" width="16" title="Twitter"></a>
-              </div>
-                          <div style="float:right; width:30px;">
-                <a href="https://www.facebook.com/TripMegaMartIndia" target="_blank">
-                <img src="http://www.tripmegamart.com/social/1346663259_small_facebook.jpg" alt="social logo" height="16" width="16" title="Facebook"></a>
-              </div>
-                          <div style="float:right; width:30px;">
-                <a href="http://www.linkedin.com" target="_blank">
-                <img src="http://www.tripmegamart.com/social/1346666249_small_in.jpg" alt="social logo" height="16" width="16" title="Linkedin"></a>
-              </div>
-                          <div style="float:right; width:30px;">
-                <a href="http://www.google.com" target="_blank">
-                <img src="http://www.tripmegamart.com/social/1346666355_social_google_box_blue.png" alt="social logo" height="16" width="16" title="Google"></a>
-              </div>
-                   </td>
+           <!--follow us-->
+											
+	<div class="fb-like" data-href="https://www.facebook.com/TripMegaMartIndia" data-send="false" data-layout="button_count" data-show-faces="true" style="overflow:hidden;width:160px;padding:7px; float:left;"></div>										
+	<div class="spinning_icons">
+	  	
+				<a href="https://twitter.com/tripmegamart" class="twitter" title="twitter" target="_blank"></a>
+											
+								<a href="https://www.facebook.com/TripMegaMartIndia" class="facebook" title="facebook" target="_blank"></a>
+							
+										<a href="http://www.linkedin.com" class="linkedin" title="linkedin" target="_blank"></a>
+					
+						<a href="http://www.google.com" class="google" title="google" target="_blank"></a>
+										
+	</div>
+											
+											<!--follow us-->
+           
+        </td>
         </tr>
       <tr>
-	  <td height="10" align="right" valign="left"></td>
+	  <td height="1" align="right" valign="left"></td>
 	  <td align="right" valign="middle"></td>
 	  <td align="right" valign="middle"></td>
 	  </tr>
       <tr>
-        <td height="17" align="right" valign="top"><!--<form name="search" action="" method="post" autocomplete="off">
-          <input id="srch_result" type="text" name="srch_result" style="width:180px;border:solid 1px #CCC;" onFocus="if(this.value=='Search entire sites here')this.value='';" onBlur="if(this.value=='')this.value='Search entire sites here';" onClick="this.value=''" value="Search entire sites here"/>
-        </form>--></td>
-        <td align="left" valign="top" class="head_regd"><!--<img src="images/search-button.png" alt="search"  height="25" width="25" title="Search"/>--></td>
-		<td align="center" valign="middle" class="head_regd">
+      
+
+       
+        <td align="left" valign="top" class="head_regd"></td>
+       
+		<td align="right" valign="middle" class="head_regd">
         	
-                          <table width="100%" border="0">
+                          <table width="100%" border="0" style="
+    padding-left: 21px;
+">
+             
              	<tbody><tr>
-                <td width="45%" align="center" class="head_regd"><a href="http://www.tripmegamart.com/register_user">Register</a></td>
-                <td width="10%" align="center" class="head_regd">|</td>
-                <td width="45%" align="center" class="head_regd"><a href="http://www.tripmegamart.com/login">Sign in</a></td>
+             	 
+                        	<td width="30%" align="right" class="head_regd" style="padding-top: 1px;"><img src="http://www.tripmegamart.com/images/telephone.png" alt="Telephone" id="img" align="top" style="margin-top: -4px;">9031 00 6501</td>
+                <td width="2%" align="right" class="head_regd" style="padding-left: 14px;"><a href="http://www.tripmegamart.com/register_user">Register</a></td>
+                <td width="1%" align="right" class="head_regd">|</td>
+                <td width="7%" align="right" class="head_regd"><a href="http://www.tripmegamart.com/login">Sign in</a></td>
               </tr>
                </tbody></table>
                          
@@ -292,19 +428,19 @@ function mega_menu(id,color,txtcolor){
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="left" valign="top">
+    <td colspan="3" align="left" valign="top" style="padding-left: 162px;background: url(images/mmm.jpg) 0px 30px ;">
 	<table width="1000" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td height="30" align="right" valign="middle" id="menu">
 			<ul>
-            	                <li><a href="http://www.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Home</a></li>
-                                <li><a href="http://flight.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Flights</a></li>
-                                <li><a href="http://www.hotels.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Hotels</a></li>
-                                <li><a href="http://www.hotel.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Hotel Dynamic</a></li>
-                                <li><a href="http://www.tour.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Holiday</a></li>
-                                <li><a href="http://www.car.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Car</a></li>
-                                <li><a href="http://www.bus.tripmegamart.com?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Bus</a></li>
-                                <li><a href="http://www.tripmegamart.com/help_desk?ssid=WXpRNU56azVOekUxWVROaE5EWXdOalEyTVRrMU9XUXpORGswWkRWaU5XTT0=">Help Desk</a></li>
+            	                <li><a href="http://www.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Home</a></li>
+                                <li><a href="http://flight.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Flights</a></li>
+                                <li><a href="http://www.hotels.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Hotels</a></li>
+                                <li><a href="http://www.tour.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Holiday</a></li>
+                                <li><a href="http://www.tour.tripmegamart.com/add-package?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Tailor Made Holidays</a></li>
+                                <li><a href="http://www.car.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Car</a></li>
+                                <li><a href="http://www.bus.tripmegamart.com?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Bus</a></li>
+                                <li><a href="http://www.tripmegamart.com/help_desk?ssid=WmpBMk5qVmtOV0ptWlRBd05EZ3dNbVpsWldWaU5XWTNPVFZsT1dGa05qTT0=&amp;af=Tk8gQUdFTlQ=">Help Desk</a></li>
                 			</ul>
 		</td>
       </tr>
@@ -350,8 +486,7 @@ function mega_menu(id,color,txtcolor){
       
     </tbody></table></td>
   </tr>
-</tbody></table>
-</td>
+</tbody></table></td>
   </tr>
   <tr>
     <td align="center" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
@@ -410,48 +545,255 @@ function mega_menu(id,color,txtcolor){
   <tr>
     <td align="center" valign="top">
     <!--footer section-->
-	<link href="css/css.css" rel="stylesheet" type="text/css">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<link href="css/css.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+   .eemail_caption {
+	color: #92F0DE;
+}
+
+.eemail_textbox {
+	 border: 1px solid #F3F3F3;
+    float: left;
+    height: 27px;
+    margin: 5px 10px 10px 0;
+ 
+    padding: 0 6px 2px 0 !important;
+//    width: 59%;
+    color:black !important;
+}
+
+.eemail_textbox .eemail_textbox_class {
+ /*   background-color: #F3F3F3;
+    border: 1px solid #F3F3F3;
+    border-radius: 0 0 0 0;
+    color: black !important;
+    height: 12px;
+    //width:120px;
+    float: left;
+    margin: -3px 0 0 -3px;
+    padding: 5% 10.5% 5% 5%;
+    font-size:13px;*/
+    	 border: 1px solid #F3F3F3;
+    float: left;
+    height: 27px;
+    margin: 5px 10px 10px 0;
+    padding: 0 3px 1px 0 !important;margin: -3px -3px;
+//    width: 59%;
+    color:black !important;
+}
+.eemail_textbox:focus,
+.eemail_textbox .eemail_textbox_class:focus,
+.eemail_textbox:hover,
+.eemail_textbox .eemail_textbox_class:hover {
+	background-color: #F3F3F3;
+}
+
+.eemail_textbox .eemail_textbox_class:focus {
+	box-shadow: none;
+	border-color: #F3F3F3;
+}
+.eemail_button {
+	border: 1px solid #F3F3F3;
+    float: left;
+	margin: 5px 10px 10px 0;
+	width: 28%;
+    padding: 0 1px 2px 0!important;
+     // padding:0 0 2px !important
+}
+
+.eemail_button .eemail_textbox_button {
+    background-color: #F3F3F3;
+    border: 1px solid #F3F3F3;
+    color: black;
+    float: left;
+    margin: -3px 0 0 -3px;
+   /* padding: 13% 10% 12%;*/
+	width: 101% !important;
+}
+.eemail_button .eemail_textbox_button:hover,
+.eemail_button:hover {
+	background-color: #F3F3F3;
+}
+</style>
+<script type="text/javascript">
+function genericAjaxFunction( queryString, outputDiv,recallInterval )
+  {
+  var xmlHttp;
+  var eml=document.getElementById('eemail_txt_email').value;
+ // alert(eml);
+  if(eml=="")
+	  {
+		alert("Email cant be empty !!");
+		document.getElementById('eemail_txt_email').select();
+		document.getElementById('eemail_txt_email').focus();
+		return false;
+	  }
+	 var pattern=/^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
+	if(!pattern.test(eml))
+		{
+		alert("Please enter the correct email address !!");
+		document.getElementById('eemail_txt_email').focus();
+		document.getElementById('eemail_txt_email').select();
+		return false;
+		}
+	
+  try
+    {
+    xmlHttp=new XMLHttpRequest();
+    }
+  catch (e)
+    {
+    // Internet Explorer
+    try
+      {
+      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+      }
+    catch (e)
+      {
+      try
+        {
+        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+      catch (e)
+        {
+        alert("Your browser does not support AJAX!");
+        return false;
+        }
+      }
+    }
+    xmlHttp.onreadystatechange=function()
+      {
+      if(xmlHttp.readyState==4)
+        {
+      document.getElementById(outputDiv).innerHTML=xmlHttp.responseText;
+
+	  if(recallInterval>0)
+			setTimeout("genericAjaxFunction( '"+queryString+"', '"+outputDiv+"',"+recallInterval+")",recallInterval);
+
+        }
+      }
+
+xmlHttp.open("POST",queryString,true);
+xmlHttp.send(null); 
+return false;
+		
+}
+</script>
+<table width="1000" class="animation scaleUp">
+	<tbody><tr>
+	     <td width="270">
+	     	<font style="font-size: 17px;font-weight: normal;color: gray;text-align: left;padding: 8px 16px;">We Accept Payment Through</font>
+	     </td>
+	     <td style="background-color:white;">
+	        <!--<hr style="color:gray;margin-top:7px !important;">-->
+	     </td>
+	</tr>
+	<tr>
+	   <td colspan="2" height="1"></td>
+	</tr>
+	<tr>
+	   <td colspan="2">
+	   <!-- payment -->
+	         <script type="text/javascript" language="javascript">
+		function changeImage(img,imid){
+														   document.getElementById(imid).src=img;
+														}
+														
+														function origmalimage(img,imid)
+															{
+																document.getElementById(imid).src=img;
+															}
+													</script>
+	   <!-- payment -->
+	       <div style="min-height:52px;border: solid 4px #F3F3F3;width:100%;background-color:white;margin-left:-4px;" class="animation scaleUp">
+	       
+	            <table width="977"> <!-- width: 1039px; mastero1  maserto2-->
+			<tbody><tr>																
+	<td width="100" align="center" style="padding-top:5px;background-color:white;">																			<img id="img1" src="images/final/logo/maserto2.png" onmouseover="changeImage('images/final/logo/mastero1.png','img1')" onmouseout="origmalimage('images/final/logo/maserto2.png','img1')">
+																			</td>
+														  
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img2" src="images/final/logo/v2.png" onmouseover="changeImage('images/final/logo/v1.png','img2')" onmouseout="origmalimage('images/final/logo/v2.png','img2')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img3" src="images/final/logo/master_card1.png" onmouseover="changeImage('images/final/logo/master_card2.png','img3')" onmouseout="origmalimage('images/final/logo/master_card1.png','img3')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img4" src="images/final/logo/jcb2.png" onmouseover="changeImage('images/final/logo/jcb1.png','img4')" onmouseout="origmalimage('images/final/logo/jcb2.png','img4')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img5" src="images/final/logo/itzf2.png" onmouseover="changeImage('images/final/logo/itzf1.png','img5')" onmouseout="origmalimage('images/final/logo/itzf2.png','img5')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img6" src="images/final/logo/secure.png" onmouseover="changeImage('images/final/logo/secure_1.png','img6')" onmouseout="origmalimage('images/final/logo/secure.png','img6')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img7" src="images/final/logo/finalaex2.png" onmouseover="changeImage('images/final/logo/finalaex1.png','img7')" onmouseout="origmalimage('images/final/logo/finalaex2.png','img7')">
+																			</td>
+																			<td width="100" align="center" style="padding-top:10px;">
+																				<img id="img8" src="images/final/logo/visa2.png" onmouseover="changeImage('images/final/logo/visa1.png','img8')" onmouseout="origmalimage('images/final/logo/visa2.png','img8')">
+																			</td>
+																		</tr>
+</tbody></table>
+	       
+	       </div>
+	   </td>
+	</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="">
   <tbody><tr>
-    <td align="center" valign="top"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" style="border:solid 1px #b4b2b2; border-top:none;">
-      <tbody><tr>
+    <td align="center" valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="border:solid 1px #b4b2b2; border-top:none;"> <!-- width="1000" -->
+      <!--<tr>
         <td height="4" bgcolor="#e20001"></td>
-      </tr>
-      <tr>
+      </tr>-->
+      <tbody><tr>
         <td height="10"></td>
       </tr>
-      
+     <tr>
+       <td>
+           <div style="min-height:34px;background-color:#2F9DDA;color:white;font-size:17px;padding-top:13px;text-align:center;box-shadow: inset 0 0 15px black;" class="animation scaleUp">The Most Progressive Travel Super Market With Widest Travel Network Across India.</div>
+       </td>
+     </tr>      
+
+
       <tr>
-        <td align="right" valign="top"><table width="978" border="0" cellpadding="0" cellspacing="0">
+        <td align="right" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color:#2F9DDA;box-shadow: inset 0 0 50px;">
           <tbody><tr>
-            <td align="left" valign="top" class="bgfooter">
-            			
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
+            <td align="left" valign="top"> <!-- class="bgfooter" -->
+            <!-- news letter -->
+                <table width="1196" border="0" cellspacing="0" cellpadding="0" style="float:left;">
+                     <tbody><tr>
+                          <td style="padding:25px 0 0 15%;">
+                              
+                              		
+                        <table width="180" border="0" cellspacing="0" cellpadding="0" style="float:left;" class="animation scaleUp">
                         <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">General Info's</td>
+                          <td width="145" height="30" align="left" valign="middle" class="footerheading" style="color:white;">General Info's</td>
                           <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
                           </tr>
                         <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
+                          <td width="138" height="4"></td>
                           <td width="25" height="4"></td>
                           </tr>
                         <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
+                          <td height="5" colspan="2"></td>
                         </tr>			
                         <tr>
                           <td width="138" align="center" valign="top">
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
-                                                                                        <a href="aboutus" target="_self">About Us</a><br>
-                                                                                        <a href="http://www.tripmegamart.com/contact_us" target="_self">Contact Us</a><br>
+                                <td class="footercontent" align="left">
+                                                                                        <a href="http://www.tripmegamart.com/aboutus" target="_self">About Us</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/contactus" target="_self">Contact Us</a><br>
                                                                                         <a href="http://guide.tripmegamart.com" target="_blank">Travel Guide</a><br>
-                                                                                        <a href="paymentoption" target="_blank">Payment Option</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/paymentoption" target="_blank">Payment Option</a><br>
                                                                                         <a href="http://www.tripmegamart.com/career" target="_self">Career</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/team" target="_self">Our Team</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/advisors" target="_blank">Advisory Board</a><br>
                                                                         </td>
                               </tr>
                               <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
+                                <td>&nbsp;</td>
                               </tr>
                           </tbody></table></td>
                           <td width="25" align="left" valign="top">&nbsp;</td>
@@ -463,30 +805,31 @@ function mega_menu(id,color,txtcolor){
                     </tbody></table>
 		
 					
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
+                        <table width="180" border="0" cellspacing="0" cellpadding="0" style="float:left;" class="animation scaleUp">
                         <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">Support</td>
+                          <td width="145" height="30" align="left" valign="middle" class="footerheading" style="color:white;">Support</td>
                           <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
                           </tr>
                         <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
+                          <td width="138" height="4"></td>
                           <td width="25" height="4"></td>
                           </tr>
                         <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
+                          <td height="5" colspan="2"></td>
                         </tr>			
                         <tr>
                           <td width="138" align="center" valign="top">
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
-                                                                                        <a href="/help_desk" target="_blank">Help Desk</a><br>
-                                                                                        <a href="/feedback" target="_blank">Post Your Feedback</a><br>
-                                                                                        <a href="/faq" target="_blank">FAQ</a><br>
+                                <td class="footercontent" align="left">
+                                                                                        <a href="http://www.tripmegamart.com/help_desk" target="_blank">Help Desk</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/feedback" target="_blank">Post Your Feedback</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/faq" target="_blank">FAQ</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/comparison.php" target="_blank">Check Website Ranking</a><br>
                                                                         </td>
                               </tr>
                               <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
+                                <td>&nbsp;</td>
                               </tr>
                           </tbody></table></td>
                           <td width="25" align="left" valign="top">&nbsp;</td>
@@ -498,66 +841,31 @@ function mega_menu(id,color,txtcolor){
                     </tbody></table>
 		
 					
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
+                        <table width="180" border="0" cellspacing="0" cellpadding="0" style="float:left;" class="animation scaleUp">
                         <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">Our Policy</td>
+                          <td width="145" height="30" align="left" valign="middle" class="footerheading" style="color:white;">First Time in India</td>
                           <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
                           </tr>
                         <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
+                          <td width="138" height="4"></td>
                           <td width="25" height="4"></td>
                           </tr>
                         <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
+                          <td height="5" colspan="2"></td>
                         </tr>			
                         <tr>
                           <td width="138" align="center" valign="top">
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
-                                                                                        <a href="http://www.tripmegamart.com/product_services" target="_self">Products &amp; Services</a><br>
-                                                                                        <a href="http://www.tripmegamart.com/term_condition" target="_self">Terms and Conditions</a><br>
-                                                                                        <a href="http://www.tripmegamart.com/refund_cancel" target="_self">Refund &amp; Cancellation</a><br>
-                                                                        </td>
-                              </tr>
-                              <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
-                              </tr>
-                          </tbody></table></td>
-                          <td width="25" align="left" valign="top">&nbsp;</td>
-                          </tr>
-                        <tr>
-                          <td width="138">&nbsp;</td>
-                          <td width="25">&nbsp;</td>
-                          </tr>
-                    </tbody></table>
-		
-					
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
-                        <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">First Time in India</td>
-                          <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
-                          </tr>
-                        <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
-                          <td width="25" height="4"></td>
-                          </tr>
-                        <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
-                        </tr>			
-                        <tr>
-                          <td width="138" align="center" valign="top">
-                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
+                                <td class="footercontent" align="left">
                                                                                         <a href="http://hotel.tripmegamart.com" target="_self">Hotel Negotiation</a><br>
-                                                                                        <a href="http://www.tour.tripmegamart.com" target="_self">3000 + Tour Packages</a><br>
-                                                                                        <a href="http://www.car.tripmegamart.com" target="_self">15 K+ Cars in 238+ City</a><br>
+                                                                                        <a href="http://www.tour.tripmegamart.com" target="_self">Tour Pkg Aggregator</a><br>
+                                                                                        <a href="http://www.car.tripmegamart.com" target="_self">Cars in 200+ Cities</a><br>
                                                                                         <a href="http://www.b2b.tripmegamart.com" target="_self">Franchisee Web Service</a><br>
                                                                         </td>
                               </tr>
                               <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
+                                <td>&nbsp;</td>
                               </tr>
                           </tbody></table></td>
                           <td width="25" align="left" valign="top">&nbsp;</td>
@@ -569,30 +877,33 @@ function mega_menu(id,color,txtcolor){
                     </tbody></table>
 		
 					
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
+                        <table width="180" border="0" cellspacing="0" cellpadding="0" style="float:left;" class="animation scaleUp">
                         <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">Partners Guide</td>
+                          <td width="145" height="30" align="left" valign="middle" class="footerheading" style="color:white;">Partner With Us</td>
                           <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
                           </tr>
                         <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
+                          <td width="138" height="4"></td>
                           <td width="25" height="4"></td>
                           </tr>
                         <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
+                          <td height="5" colspan="2"></td>
                         </tr>			
                         <tr>
                           <td width="138" align="center" valign="top">
                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
-                                                                                        <a href="http://www.tripmegamart.com/hotelguide" target="_self">Hotel's Guide</a><br>
-                                                                                        <a href="http://www.tripmegamart.com/tourguide" target="_self">Tour Operator's Guide</a><br>
-                                                                                        <a href="http://www.tripmegamart.com/carguide" target="_self">Car Rental Agency Guide</a><br>
+                                <td class="footercontent" align="left">
+                                                                                        <a href="http://www.tripmegamart.com/partner?userType=car" target="_self">Be Our Car Partner</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/partner?userType=tour" target="_self">Be Our Tour Partner</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/partner?userType=hotel" target="_self">Be Our Hotel Partner</a><br>
+                                                                                        <a href="http://www.b2b.tripmegamart.com" target="_blank">Be Our Franchisee</a><br>
+                                                                                        <a href="http://www.b2h.tripmegamart.com/" target="_blank">Be Our Hotel Associate</a><br>
+                                                                                        <a href="http://www.tripmegamart.com/outlet" target="_self">Be Our Outlet Partner</a><br>
                                                                         </td>
                               </tr>
                               <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
+                                <td>&nbsp;</td>
                               </tr>
                           </tbody></table></td>
                           <td width="25" align="left" valign="top">&nbsp;</td>
@@ -603,42 +914,110 @@ function mega_menu(id,color,txtcolor){
                           </tr>
                     </tbody></table>
 		
-					
-                        <table width="163" border="0" cellspacing="0" cellpadding="0" style="float:left; ">
-                        <tbody><tr>
-                          <td width="138" height="30" align="center" valign="middle" bgcolor="#FFFFFF" class="footerheading">Partner With Us</td>
-                          <td width="25" height="30" align="left" valign="middle">&nbsp;</td>
-                          </tr>
-                        <tr>
-                          <td width="138" height="4" bgcolor="#b2b2b2"></td>
-                          <td width="25" height="4"></td>
-                          </tr>
-                        <tr>
-                          <td height="5" colspan="2" bgcolor="#FFFFFF"></td>
-                        </tr>			
-                        <tr>
-                          <td width="138" align="center" valign="top">
-                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td bgcolor="#FFFFFF" class="footercontent" align="center">
-                                                                                        <a href="http://www.tripmegamart.com/partner" target="_self">Be Our Partner</a><br>
-                                                                                        <a href="http://www.b2b.tripmegamart.com" target="_self">Travel Agent / Tour Operator / Car Agency - Get Your Website</a><br>
-                                                                                        <a href="http://www.b2b.tripmegamart.com" target="_self">Be Our Franchisee</a><br>
-                                                                        </td>
-                              </tr>
-                              <tr>
-                                <td bgcolor="#FFFFFF">&nbsp;</td>
-                              </tr>
-                          </tbody></table></td>
-                          <td width="25" align="left" valign="top">&nbsp;</td>
-                          </tr>
-                        <tr>
-                          <td width="138">&nbsp;</td>
-                          <td width="25">&nbsp;</td>
-                          </tr>
-                    </tbody></table>
-		
-			            </td>
+							
+			<!--<table class="animation scaleUp" style="padding:0 0 0 10px;width: 293px;">
+                                  <tr>
+                                      <td colspan="3" height="30" style="color:white;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;">Email Newsletter</td>
+                                  </tr>
+                                  <tr>
+                                      <td colspan="3" style="color:#000066;font-family:'Noto Sans', sans-serif;font-size:12px;">Sign up for our email newsletters</td>
+                                  </tr>
+                                  <tr>
+                                      <td colspan="3">
+                                         <form name="frm" action="" onSubmit="return genericAjaxFunction('rand.php?cid='+document.getElementById('eemail_txt_email').value+'&color='+document.getElementById('hidcolor').value, 'mynewsletter',0);">
+							<div id="mynewsletter">
+							  
+							  <div class="eemail_msg">
+								<span id="eemail_msg"></span>
+							  </div>
+							  <div class="eemail_textbox" style="background:none;font-size:13px;">
+								<input class="eemail_textbox_class" name="eemail_txt_email" style="background-color:#EDEFEE !important;" id="eemail_txt_email" placeholder="Enter Email"  type="text" style="background-color:#F3F3F3;">
+							  </div>
+							  <input type="hidden" name="hidcolor" id="hidcolor" value="#1111FF"/>
+							  <div class="eemail_button" style="width:70px;">
+								<input class="eemail_textbox_button" style="background-color:#F3F3F3;height:30px;" name="eemail_txt_Button" id="eemail_txt_Button" value="Submit" type="submit">
+							  </div>
+							</div>
+							</form>
+
+                                      </td>
+                                      
+                                  </tr>
+                              </table>-->
+                              
+                               <!-- news letter design -->
+                              
+                              <style>
+	.emailnews
+		{
+		background-color:white;
+		border-radius:3px;
+		min-height:41px;
+		width:260px;
+		border:1px solid black;
+		}
+	.innernews
+		{
+			height:35px;
+			
+		}
+	.emailtextbox
+		{
+		background-color:#D1D6D9;
+		border-radius:3px;
+		height:30px;
+		width:160px;
+		color:gray;
+		border:0px;
+		text-align:left;
+		padding:0 0 0 5px;
+		}
+	.submitbtn
+		{
+		background-image:url(images/submit_button.png);
+		border:0px;
+		height:35px;
+		width:90px;
+		}	
+</style>
+<table style="padding:0 0 0 10px;">
+                                  <tbody><tr>
+                                      <td colspan="3" style="color:white;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;">Email Newsletter</td>
+                                  </tr>
+                                  <tr>
+                                      <td colspan="3" style="color:#000066;font-family:'Noto Sans', sans-serif;font-size:12px;">Sign up for our email newsletters</td>
+                                  </tr>
+                                  <tr>
+                                      <td colspan="3">
+                                      		<!--<form name="frm" action="" onSubmit="">-->
+                                      		<div id="mynewsletter">
+						<div class="emailnews">
+								<div class="innernews">
+								
+									<table>
+										<tbody><tr>
+											<td>
+												<input type="text" class="emailtextbox" id="eemail_txt_email" placeholder="Enter Your Email" style="background-color:#EDEFEE !important;color:black !important;">
+											</td>
+											<td>
+												<input type="button" class="submitbtn" value="" onclick="return genericAjaxFunction('rand.php?cid='+document.getElementById('eemail_txt_email').value, 'mynewsletter',0);">
+											</td>
+										</tr>
+									</tbody></table>
+								</div>
+							</div>
+						</div>	
+						<!--</form>-->	
+                              		</td>
+                              	  </tr>
+                             </tbody></table> 	  		
+                              <!-- news letter design -->	
+                              
+                          </td>
+                     </tr>
+                </tbody></table>
+            <!-- news letter -->
+            </td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -646,20 +1025,29 @@ function mega_menu(id,color,txtcolor){
     </tbody></table></td>
   </tr>
   <tr>
-    <td height="50" align="center" valign="top"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+    <td height="30" align="center" valign="top" style="background-color:black;color:white;"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td></tr><tr>
-      </tr><tr>
-      	<td width="270" class="footercontent" align="left"> © 2013 Trip Mega Mart,  All Rights Reserved.</td>
-      	<td width="730" class="footercontent" align="right">				
-			<a href="http://www.tripmegamart.com/footer_content_page?id=1">Privacy</a> &nbsp;&nbsp; | &nbsp; 
-							<a href="http://www.tripmegamart.com/footer_content_page?id=2">Disclaimer</a>				
+       <td colspan="2" style="height:5px;"></td>
+    </tr>
+      <tr>
+      	<td width="270" class="footercontent" style="color:white;" align="left"> © 2014 Trip Mega Mart,  All Rights Reserved.</td>
+      	<td width="730" class="footercontent" style="color:white;padding-right:40px;" align="right">				
+			<a style="color:white;" href="http://www.tripmegamart.com/footer_content_page?id=1">Privacy</a> &nbsp;&nbsp; | &nbsp; 
+							<a style="color:white;" href="http://www.tripmegamart.com/footer_content_page?id=2">Disclaimer</a>				
 		</td></tr>
     </tbody></table>
     </td>
   </tr>
-</tbody></table>	<!--end footer section-->
+</tbody></table>
+
+<!-- animation effect -->
+  <!-- nemo source -->
+<!--	<link href="css/style1.css" rel="stylesheet" type="text/css" /> -->
+<!--	<link href="css/animated.css" rel="stylesheet" type="text/css" /> -->
+<!--	<script type="text/javascript" src="js/scroll-effect.js"></script> -->
+<!-- nemo source -->
+
+<!-- animation effect -->	<!--end footer section-->
 	</td>
   </tr>
 </tbody></table>
