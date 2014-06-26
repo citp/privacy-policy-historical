@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812164409id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042635id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.*
 
 # J&P Cycles | Our Security and Privacy Policy
 
@@ -10,7 +10,7 @@ J&P Cycles
 Anamosa, IA  
 52205 
 
-We can be contacted via email [here](http://support.jpcycles.com/app/contactus). 
+We can be contacted via email [here](https://web.archive.org/support). 
 
 You can also reach us by telephone at 1-800-318-4823. Your call to our sales and service department could be monitored. If you do not want your conversation to be monitored, just let your representative know. 
 
