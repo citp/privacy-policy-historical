@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planyourwedding.my privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204222854id_/http%3A//www.planyourwedding.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planyourwedding.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626041413id_/http%3A//www.planyourwedding.my/privacy) for the most accurate reproduction.*
 
-# Wedding Planner & Wedding Vendors List
+# Privacy Policy | Planyourwedding.my
 
 The Site does not collect any personally identifiable information ("Personal Information") about you other than information that you affirmatively choose to submit to us and pertaining to yourself as well as information which may be obtained from your browser during registration.
 
