@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedayfatloss.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117064651id_/http%3A//onedayfatloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedayfatloss.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050531id_/http%3A//www.onedayfatloss.com/privacy-policy) for the most accurate reproduction.*
 
 # The ONE Day Diet - Privacy Policy
 
