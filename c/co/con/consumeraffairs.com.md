@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209212651id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020401id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
@@ -42,6 +42,8 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 We use third-party advertising companies to serve ads when you visit our Web site. ConsumerAffairs.com does not evaluate or endorse the products and services advertised. See the [FAQ](http://www.consumeraffairs.com/about/faq/) for more information.  These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>).
 
 In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique "cookie" on your computer. A cookie is a data file that is installed on your computer’s hard disk. We may also place a “cookie” on your computer in order to track your web browsing or to provide information to other companies about your web browsing.  You can instruct your browser not to accept cookies, although some services may not function properly if you disable cookies.
+
+This site implements Google Analytics features based on Display Advertising data, including Google Analytics Demographics and Interest Reporting. Using Google Ad Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use data from Google’s Interest-based advertising or third party audience data (such as age, gender, and interests) to help improve the site and user experience.
 
  **Other things you should know:**
 
