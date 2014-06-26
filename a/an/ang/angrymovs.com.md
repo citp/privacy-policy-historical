@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angrymovs.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807220844id_/http%3A//www.angrymovs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angrymovs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063603id_/http%3A//www.angrymovs.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porn Movs, XXX Sex Tube, Online HD Vids, Streaming Sex Clips and Free Porn Videos
 
