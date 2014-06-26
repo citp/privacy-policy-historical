@@ -1,171 +1,140 @@
-> *The following text is extracted and transformed from the nintendo.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014030359id_/http%3A//www.nintendo.com/corp/privacy_ca.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100136id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
-# Online Privacy Policy
+# Nintendo Privacy Notice
 
-Online Privacy Policy
+Nintendo Privacy Notice
 
-[Version française](http://nintendo.ca/2002/french/privacy.shtml)
+[Version française](https://web.archive.org/web/20140625050803id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20140625050803id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20140625050803id_/http://www.nintendo.com/corp/privacy_br.jsp)
 
-Please Note: If you are looking for the Privacy Policy related to the use of your Wii console, [click here](https://web.archive.org/consumer/systems/wii/en_na/privacy.jsp). 
+Please Note: If you are looking for the Privacy Notice related to the use of specific Nintendo products, please use these links: [Wii U](https://web.archive.org/consumer/info/en_na/docs.jsp?menu=wiiu&submenu=wup-nna-gi-privacy-policy), [Wii](https://web.archive.org/consumer/info/en_na/docs.jsp?menu=wii&submenu=rvl-doc-privacy-policy), [Nintendo 3DS](https://web.archive.org/consumer/info/en_na/docs.jsp?menu=3ds&submenu=ctr-doc-privacy-policy), [Nintendo DSi / Nintendo DSi XL](https://web.archive.org/consumer/systems/dsi/en_na/privacyPolicy.jsp)
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20131014030359id_/http%3A//www.nintendo.com/corp/privacy_list.jsp). 
+The Privacy Notice listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20140625050803id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
-**Nintendo of Canada Ltd. Web Site Privacy Statement**
+Last Updated: December 10, 2013
 
-Last Updated: March 23, 2011
+Nintendo knows that privacy is important to you. This Privacy Notice describes our collection, use, disclosure, storage and protection of your information. By using a Nintendo product or service, you are consenting to the practices described in this Privacy Notice.
 
-**SCOPE OF POLICY**
+**1\. YOUR INFORMATION**
 
-At Nintendo of Canada Ltd. (“NOCL” or “we” or “us”) we respect your privacy rights and are committed to protecting the information we collect from you online. To further this commitment, we have developed the following website Privacy Policy (“Privacy Policy”) which explains how we collect, use, disclose, update and protect information you provide to us on any website operated by NOCL.  This Privacy Policy applies only to information submitted and collected online through a website we operate or authorize. This Privacy Policy does not apply to information collected on websites operated by our parent, subsidiaries or other third parties.
+_**Information you provide to us.**_ We collect information that you provide to us when you use our products and services or anytime you are in contact with us. Some types of information you may provide include:
 
-**UPDATES TO POLICY**
+  * Registration information that you may be required to provide when you sign up to use our services, including your name, address, telephone number, and email address;
+  * Login information that you use to sign in to our services, such as your username and password;
+  * Demographic information about you, including your age, gender, hobbies, interests, and country of residence;
+  * Payment information that you submit, including your credit card number, expiration date, and credit card security code, where needed to complete a transaction you have initiated;
+  * Messages, photos, videos, drawings, audio recordings and other information shared by you through the interactive features of our products and services;
+  * Correspondence you send directly to us; and
+  * Information you provide to us offline (through, for example, regular mail, in-person sweepstakes entry forms, and consumer service transactions such as repairs, part orders and direct purchases).
 
-Occasionally, we will revise and update this Privacy Policy. Please check back from time to time to ensure that you are aware of any changes to our privacy practices. If we revise this Privacy Policy, the "Last Updated" date above will be changed. If we make a major change to this Privacy Policy, we will post a notice of the change on all NOCL operated websites. 
 
-**QUICK PRIVACY LINKS**
 
-·     [**INFORMATION COLLECTED ABOUT YOU**](http://www.nintendo.com/corp/privacy.jsp#information_you)
+_**Information we collect automatically.**_ We may collect some information automatically when you use our products and services. Some types of information we may collect automatically include:
 
-·     [**COLLECTION AND USE OF PERSONAL INFORMATION**](http://www.nintendo.com/corp/privacy.jsp#collection_use)
+  * Information about your use of our products and services, including your browser type, operating system, platform, IP address, MAC address, cookies, language and region; 
+  * Information about websites you visited before and after visiting our websites, search queries that landed you on our websites, search queries you conducted on our websites, and pages and advertisements you viewed and links you clicked on while using our websites;
+  * Information about your Nintendo device including device serial number, device ID and friend codes; and
+  * Information about your game play, online status, wireless access point, purchases, and other information about your interactions with our products and services.
 
-·     [**DISCLOSURE OF PERSONAL INFORMATION**](http://www.nintendo.com/corp/privacy.jsp#disclosure_personal)
 
-·     [**USE OF COOKIES, IP ADDRESSES AND WEB BEACONS**](http://www.nintendo.com/corp/privacy.jsp#cookies)
 
-·     [**NETWORK AND INFORMATION SECURITY**](http://www.nintendo.com/corp/privacy.jsp#network_security)
+_**Information we receive from other sources.**_ We may receive information about you from other sources, including through third-party services and retailers. Some examples of information we may receive from other sources include:
 
-·     [**OPTING OUT**](http://www.nintendo.com/corp/privacy.jsp#opting_out)
+  * Navigation data, including websites visited and advertisements viewed or clicked;
+  * Information about consumer service transactions; and 
+  * Retail purchase information. 
 
-·     [**CHECKING ACCOUNT INFORMATION FOR ACCURACY**](http://www.nintendo.com/corp/privacy.jsp#checking_account)
 
-·     [**COLLECTION**](http://www.nintendo.com/corp/privacy.jsp#children_privacy) **OF PERSONAL INFORMATION FROM CHILDREN**
 
-·     [**THIRD PARTY WEB SITES**](http://www.nintendo.com/corp/privacy.jsp#third_party)
+Please note that we may add information we receive from other sources to the information we already have about you. We also may combine your information with information about other users, including game play, demographic, search term, clickstream and purchase information, and use this combined information in an aggregated format.
 
-·     [**INTERNATIONAL USERS**](http://www.nintendo.com/corp/privacy.jsp#international_users)
+**2\. COOKIES, WEB BEACONS, LOG FILES AND THIRD PARTY PARTNERS**
 
-·     [**CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS**](http://www.nintendo.com/corp/privacy.jsp#contact_us)
+In order to collect some of the information described above, we may use web beacons, cookies, log files, and similar technologies in some of our products and services, including our emails.
 
-**INFORMATION COLLECTED ABOUT YOU**
+  * Web Beacons: We may use web beacons (also referred to as pixel trackers or clear GIFs), which are small graphic images placed on a web page, on a web-based document, or in an email message. Web beacons are designed to collect certain user information and monitor certain user activity. Information collected by web beacons might include your IP address, MAC address, the URL of the page you came from, or your interactions with our website or an email message we send to you. We may use the information collected through web beacons, for example, to determine how to improve certain products and services by identifying popular web pages, services, features, and products; to personalize our products and services; to make recommendations for products and services; and to complete transactions you have requested.
+  * Cookies: We may use cookies, which are unique identifiers that are sometimes placed on your device to record data about your visits to a website, so that the site can recognize your device and personalize your visit. Information collected by cookies may be linked to your transaction history, online game play or other information. We may use information collected by cookies, for example, to determine how to improve certain products and services by identifying popular web pages, services, features, and products; to personalize our products and services; to make recommendations for products and services; and to complete transactions you have requested.
+  * Log Files: We maintain log files which record activity related to the use of our products and services, such as the number of hits a particular webpage has received, the type and quality of a user's Internet connection, the type of hardware and/or software used to access a particular service, which features of a service are used and their frequency of use. The entries within these log files may include, for example, your IP addresses, MAC addresses, cookie information, device ID, transactional data, device settings, and download activity. We may use these log files, for example, to monitor traffic on our website, to facilitate use of certain services and to troubleshoot technical problems.
+  * Third Party Partners: We also may permit our third party partners to set cookies and web beacons on our websites, or within emails sent on our behalf, to help us perform various internal functions necessary to operate our business. These third parties may use these cookies and web beacons to collect information about your visit to our website and may use that information during, or after, your visits to our website to provide you advertisements about goods and services that may be of greater interest to you. These third parties may offer you a way to opt-out of this type ad targeting. To learn more, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](https://web.archive.org/web/20140625050803id_/http://www.nintendo.com/corp/www.aboutads.info).
 
-In order to give you the best experience on our website, we may collect personal and non-personal information. Non-personal information includes anonymous information such as demographic data. Under all circumstances, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. Please read below for a description of each type of information collected. 
 
-·       **Personal Information** is information that can be used to identify you such as your name, address, telephone number, or email address. We do not collect any Personal Information about you unless you choose to provide it to us. If you choose not to provide Personal Information, you may be unable to use certain features on our website. 
 
-·       **Demographic Information** is **anonymous** information such as a person’s age, date of birth, gender, hobbies, interests, zip/postal code or country.  Demographic Information is not considered Personal Information unless it is linked to Personal Information about a specific user.  Demographic Information may be collected for an activity that also requires Personal Information, in which case we may combine the Demographic Information with your Personal Information. Combining data allows us to customize the notices we send you and the content we provide you according to your interests and preferences.  If we do combine your Demographic Information with your Personal Information, we then treat all of that data as Personal Information. If you choose not to provide certain Demographic Information, you may not be able to use certain features on this website.
+**3\. USE OF INFORMATION**
 
-·       **Aggregate Information** is anonymous data about individuals that is grouped together to study a group or category of services or users. Aggregate Information is not considered Personal Information unless it is linked to Personal Information about a specific user. 
+We may use your information in order for us, our affiliated companies, or our third party partners, to: (i) fulfill your requests for products, services, and information, including to send you commercial and non-commercial messages and to process orders you have placed; (ii) contact you in connection with our products and services, including for marketing and promotional purposes; (iii) facilitate your use of our products and services; (iv) enable your participation in online games, contests, sweepstakes, surveys, public forums, and other features offered through our products and services; (v) make recommendations and customize the content, features, and advertising available through our products and services; (vi) set up repair orders and respond to consumer service inquiries; (vii) provide back-end services, including system updates and system messages; (viii) provide free games, applications, trials, and other content; (ix) analyze and facilitate the use of our products and services; (x) conduct demographic studies; (xi) understand, improve, and develop our products and services; (xii) prevent potentially illegal or offensive activities; (xiii) enforce our rights or the rights of our users; (xiv) verify your identity and prevent fraudulent transactions; and (xv) for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-**COLLECTION AND USE OF PERSONAL INFORMATION**
+**4\. DISCLOSURE OF INFORMATION**
 
-We request Personal and Demographic Information to respond to your requests and provide services to you such as: registering for and participating in Club Nintendo; sending email newsletters; participating in online contests and sweepstakes; sending e-cards and wish lists; processing orders through our online store; setting up repair orders; posting online resumes and using media applications; and sending email correspondence.   Please note that information you submit may be sent to or shared with Nintendo of America Inc. in the United States.  Each category below describes how we handle the requested information. 
+At times we may make certain information that we collect available to our affiliated companies, to our third party partners, to other Nintendo users, and for other legal and business purposes. For example: 
 
-**"Club Nintendo" Registration**
+  * Nintendo Affiliates. We may share information with other Nintendo affiliated companies that use it consistent with this Privacy Notice.
+  * Third Parties. We may share information with our third party partners to help us perform various functions necessary to operate our business or fulfill your requests (for example, completing downloads or purchases, developing and executing marketing campaigns). We also may share such information to, for example, complete your transactions, provide you with advertising and other promotional materials, and assist in the creation of user accounts with such third parties.
+  * Other Users. We may share information, including, for example, your Mii name, Mii profile information, online status, Mii greeting, and other game play information, with other Nintendo users when you use the online features of our products and services.
+  * Friends. Some of our products and services allow you to add friends to a friend list. Through the friend list and friend messaging features, certain information that you have provided, or that is stored on your Nintendo device, including your Mii name, Mii profile information, Mii greeting, online status, rankings, and other user or game play information, may be shared with your friends.
+  * Local Communications. Some Nintendo devices have local communication features that can be activated by you. These features allow some of your information to be collected and shared, automatically, with us and with other Nintendo users. These features also allow us, and other Nintendo users, to automatically contact and interact with you. When these features are enabled by you, you may receive information about, and communications from, other Nintendo users, and you may also receive advertising and promotional materials from Nintendo and its third party partners. You may disable these local communication features at any time through the system settings on your Nintendo device. 
+  * Legal and Business Purposes. We may disclose your information in order to comply with legal process, to respond to claims or inquiries, or to protect the rights, property or personal safety of Nintendo, our users, or the public. Your information may also be disclosed as part of any sale or transfer of company assets, if legally permitted.
 
-Individuals at least 13 years of age may register for a Club Nintendo account on [**https://club.nintendo.com/**](https://club.nintendo.com/). **  **All information you submit on Club Nintendo will be provided directly to Nintendo of America Inc. in the United States.  Certain Personal Information will be requested during registration. For children under the age of 13, we have developed a Family Account system. In order for a child under 13 to have a Club Nintendo account, the child's parent or guardian must register for Club Nintendo and create a Family Account. That parent or guardian can then create sub-accounts for other family members. Thus, Club Nintendo registration does not collect Personal Information from children under the age of 13. 
 
-For further information regarding our children's online privacy, see the section "[ **COLLECTION**](http://www.nintendo.com/corp/privacy.jsp#children_privacy) **OF PERSONAL INFORMATION FROM CHILDREN** " below.  For additional information regarding Club Nintendo go to [**https://club.nintendo.com/**](https://club.nintendo.com/) **** and click on “How It Works”. 
 
-**Newsletter(s)**
+You are responsible for any information that you share with others through use of our products and services. Please be aware that other users may be able to store, modify, or share with third parties, information that you provide to them. 
 
-To subscribe to our newsletters, you can either provide your email address and country on various pages on our website or on the Nintendo.ca website.  You can also receive such newsletters by registering for a Club Nintendo account on [**https://club.nintendo.com/**](https://club.nintendo.com/) , as described above.   Please note that by subscribing to our newsletters, your information will be shared with Nintendo of America Inc. in the United States.  To receive communications from Nintendo concerning repairs or other transactions, you do not need to register for Club Nintendo. 
+**5\. LINKING ACCOUNTS**
 
-**Product Registration**
+We may offer you an account for one or more of our loyalty programs, including Club Nintendo, so that you have the opportunity to receive personalized content and participate in a variety of activities, promotions and programs. Within certain parameters, you may be able to link your Nintendo device or network account to your loyalty account. In such circumstances, we will use your information to, for example, automatically register your purchases in your loyalty account so that you have the opportunity to receive rewards and promotions. You may unlink these accounts in the settings section of the Nintendo eShop.
 
-Only Club Nintendo members can register products to earn Coins.   Club Nintendo members under the age of 13 can register products to their Family Account but cannot spend or redeem Coins. More information regarding Coins is available in the Club Nintendo Terms and Conditions, available at http://www.nintendo.com/consumer/club/en/terms.jsp. 
+**6\. THIRD-PARTIES**
 
-**Online Contests and Sweepstakes**
+You may disclose your information to third parties when you use our products and services in order to play third-party games, use third-party applications or plugins, view third-party advertisements, or visit third-party websites. We are not responsible for the privacy practices of these third parties, and we recommend that you review their privacy notices before submitting any information to them.
 
-To enter our online contests and sweepstakes, you may be required to provide us with certain Personal and/or demographic information about yourself. To learn more about the information collected and used for a specific contest or sweepstake, please see the official contest or sweepstakes rules. 
+**7\. ATTENTION PARENTS OR LEGAL GUARDIANS: PROTECTING CHILDREN'S PRIVACY**
 
-**Demographic and Opinion Information**
+In accordance with applicable law, we obtain consent from parents for the collection of personal information from their children. You can find information about how we collect, use, and disclose personal information from our users, including children under the age of 13, in the sections above titled YOUR INFORMATION, USE OF INFORMATION, DISCLOSURE OF INFORMATION. 
 
-Club Nintendo surveys may request demographic or opinion information, such as your favorite games or which Nintendo systems you own. Responses will be linked to your Club Nintendo account and may be used to provide a more personalized online experience and, if your email and message settings allow, send you product newsletters and other communications we think you will enjoy. 
+You may review, and have deleted, the personal information we have collected from your child, and you may refuse to permit our further collection or use of your child's personal information, by contacting a Nintendo Privacy Administrator via email at [privacypolicy@noa.nintendo.com](mailto:privacypolicy@noa.nintendo.com), by phone at 1-888-977-7627, or by regular mail at Nintendo of America Inc., Attn: Nintendo Privacy Administrator, 4600 150th Avenue NE, Redmond, WA 98052, U.S.A. Before responding to your request to review personal information collected from your child, we may require that you follow reasonable procedures to help verify your identity as the child's parent or legal guardian. We may deny any request that fails to follow these procedures. If you choose to have your child's personal information deleted, or refuse to permit further collection or use of your child's personal information, certain features of our products and services may be limited or unavailable.
 
-**E-cards and Wish Lists**
+Please note that third-party game publishers, application providers, and content providers may collect, use, and disclose your child's personal information through our products and services when your child uses third-party services or content. Nintendo is not responsible for the privacy practices of these third parties, and we recommend that you review their privacy notices before your child provides or exchanges any personal information through third-party services or content.
 
-Web users who wish to send an e-card or their wish list to a friend or family member are required to give us their first name and the email address(es) of the person(s) to whom they wish to send the e-card or wish list. In general, we delete the senders' and recipients' email addresses after we send the e-card or wish list. Please note that some activities on our website allow registered Club Nintendo members and users 13 years or older to send game challenges to other users via e-cards. In such cases, we may store the senders' and recipients' email addresses until the game challenge has been completed, but we do not permanently store these email addresses or use them for any other purpose. 
+We strongly recommend that you supervise your child's use of our products and services at all times. You can restrict your child's use of certain features of our products and services by setting up the parental controls on your Nintendo device. For a detailed description of these parental control features, please see the user manual for your Nintendo device.
 
-**Repair Orders**
+**8\. SECURITY**
 
-If you set up a repair order on our website, you will need to provide your name, mailing and billing addresses, phone number and email address. You may also need to provide a valid credit card number, expiration date and credit card security code. All financial information is transmitted by SSL protocol via our secure server. 
+Nintendo uses reasonable measures, and has established reasonable safeguards, to help protect your information from loss, theft, misuse, and unauthorized access, disclosure, alteration and destruction. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-**Email Correspondence and Other Communication**
+Please note that information collected by third parties may not have the same security protections as information you submit to us or that we collect, and we are not responsible for protecting the security of such information.
 
-We may respond to email correspondence and communications you send to us. Because an email address is Personal Information, we protect the privacy of the sender by limiting access to these email messages. Only employees with a legitimate business need to access the emails are allowed to do so. For quality control purposes, email messages may be kept for a period of time. There may, however, be certain cases where hard copies may be kept on file, such as emails concerning product safety or consumer complaints. Information from email messages will not be used for marketing purposes and will be maintained in a secure location. 
+If you install unauthorized applications or content on, or make unauthorized modifications to, your Nintendo device or its software, your information may be compromised. Nintendo is not responsible for any collection, use or disclosure of information from any Nintendo device that has unauthorized modifications or contains unauthorized software or content.
 
-**Online Interaction**
+**9\. OPTING-OUT**
 
-This website may make chat rooms, forums, message boards, and/or newsgroups (“Public Forums”) available to users. Please remember that any information disclosed in Public Forums becomes public information and you should exercise caution when deciding whether to disclose your Personal Information in these Public Forums. 
+You may use a Nintendo device without providing us your information; however, some features and applications may not be available to you. You can opt-out of the collection of certain information by not using our services. You also may be able to opt-out of certain types of information collection through your Nintendo device settings, parental controls or other opt-out mechanisms we make available to you. You may opt out of receiving commercial email messages from Nintendo by following the instructions contained in those email messages.
 
-**Linking Accounts**
+**10\. REMOVING INFORMATION STORED ON YOUR NINTENDO DEVICE**
 
-If you have a Wii console, Nintendo DSi, Nintendo DSi XL or Nintendo 3DS system and are at least 13 years of age, you may link one of each product line to your Club Nintendo account.  Doing so will automatically register your Shop Account purchases so that you may receive surveys and coins. 
+Certain information about you may be stored on your Nintendo device. For your protection, before selling, transferring, or otherwise disposing of your Nintendo device, please remove all stored information, including information stored on any of the device's accessories. For instructions on how to remove stored information from your Nintendo device, please see the user manual or visit [support.nintendo.com](http://support.nintendo.com/). 
 
-**DISCLOSURE OF PERSONAL INFORMATION**
+If you transfer data from one Nintendo device to another, using any of our system transfer tools or features, any information about you, that is stored on that device, will be transferred as part of the process.
 
-We do not sell or rent Personal Information to third parties. We may share Personal Information with vendors who help us perform various internal functions necessary to operate our business. We may disclose Personal Information (a) in the good faith belief that we are required to do so by law; (b) if doing so is reasonably necessary to comply with legal process; (c) to respond to any claims; (d) to enforce the terms and conditions of our or other Nintendo owned websites; or (e) to protect the rights, property, or personal safety of Nintendo, our customers, or the public. We also may disclose your email address to our partners solely to send you email messages you have requested, or to ensure that you do not receive such messages if you have opted out of receiving them. Any vendors or partners with whom we may share Personal Information are permitted to obtain only the Personal Information they need to deliver the services requested. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. In addition, information about our customers, including Personal Information, may be disclosed as part of any merger, sale, transfer of company assets, or acquisition, if permitted by and done in accordance with applicable laws. 
+**11\. INTERNATIONAL USERS**
 
-**USE OF COOKIES, IP ADDRESSES AND WEB BEACONS**
+Any information you provide, or that is collected through use of our products and services, may be stored, processed, and transferred within, or to, the United States, or any other country in which we or our affiliated companies or third party partners maintain facilities. As a result, it is possible that your information could be accessed by foreign governmental authorities, or otherwise, in accordance with applicable local laws. By using our US based website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. We abide by the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area, and Swittzerland. For more information about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
 
-We use cookies on our website. Cookies are small text files that a website places on your hard drive whenever you visit the website. These files identify your computer and record your preferences and other data about your visit so that when you return to the website, it knows who you are and can personalize your visit. Cookies may be linked to Personal Information about you. Specifically, we use cookies to keep track of your shopping cart and wish lists and to prevent you from having to reenter your registration data (such as user name and password) at each connection. In addition, we may use information collected by cookies, as well as other tools such as log files or Web beacons, for other purposes, such as helping us determine how to improve our website by seeing which areas, features, and products are most popular; personalizing the website and making recommendations based on products you have linked to in the past; and completing transactions you have requested. Most browsers are automatically set to accept cookies. If you disable this function, some areas of our website will not function properly. 
+**12\. CHANGES TO THE PRIVACY NOTICE**
 
-Please note that cookies cannot be used to run programs or deliver viruses to your computer. 
+We may update this Privacy Notice from time to time. When we update this Privacy Notice, we will revise the "Last Updated" date above. Updates will be posted at [support.nintendo.com](http://support.nintendo.com/). We recommend that you review this Privacy Notice each time you use our products or services to help you stay informed of our privacy practices.
 
-We maintain log files, which contain Internet Protocol ("IP") addresses. An IP address is a numeric address that is assigned to your computer by your Internet Service Provider. We do not link IP addresses to Personal Information, unless we notify you or unless necessary to enforce our website’s terms and conditions. In general, we use log files to monitor traffic on our website and to troubleshoot technical problems. In the event of abuse, however, we may block certain IP addresses. 
+**13\. ESRB CERTIFICATION**
 
-We may use a common Internet technology called "Web beacons" (also called "Web bugs," "action tags," "pixel trackers," or "clear GIFs") on our website. Web beacons are small graphic images placed on a web page, web-based document, or in an email message that are designed to allow us or our vendors to collect certain information and monitor user activity on our website. Web beacons are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or email message. We do not use Web beacons to collect Personal Information about you. We may use Web beacons to collect non-personal information such as the IP address of the computer that the Web beacon is sent to, the URL of the page the Web user comes from, and the time the Web beacon is activated (such as when you view the Web page, advertisement, or email that contains the Web beacon). In general, we do not link such non-personal information to Personal Information; however, we may use Web beacons to record whether individual users view emails from Nintendo. This allows us to more effectively manage our database of active registered members. We may also use Web beacons to display emails in the appropriate HTML or text format. From time to time, we may permit vendors to place Web beacons on our website or in emails sent on our behalf. Web beacons used by our vendors collect the same types of information and are treated in the same manner as specified above. 
+This Privacy Notice and the certification seal located on our website confirms that we are a valid licensee, and participating member, of the Entertainment Software Rating Board's Privacy Certified Program: ESRB Privacy Certified. To help protect your privacy, we have voluntarily undertaken this privacy initiative. As a licensee in this privacy certification program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB. All of our sites containing the ESRB certification seal have been reviewed, and certified, by ESRB to meet established online information collection and use practices.
 
-**SECURITY**
+**14\. CONTACT US WITH YOUR PRIVACY QUESTIONS, COMMENTS OR CONCERNS**
 
-The security and confidentiality of your information is extremely important to us. That's why we have technical, administrative, and physical security measures in place to protect your Personal Information from unauthorized access and improper use. Personal Information is stored in firewall-protected servers. We will notify users of a data breach involving unencrypted Personal Information by email or by posting a notice on the affected website. We also strive to limit access to Personal Information to employees performing a legitimate business function. We review our security procedures periodically to consider appropriate new technology and updated methods. Despite our efforts, no security measure is ever perfect or impenetrable. 
+If you have any questions, complaints or comments regarding this Privacy Notice, or any of our privacy practices, please contact a Nintendo Privacy Administrator via email at [privacypolicy@noa.nintendo.com](mailto:privacypolicy@noa.nintendo.com), via phone at 1-888-977-7627, or via regular mail at Nintendo of America Inc., Attn: Privacy Administrator, 4600 150th Avenue NE, Redmond, WA 98052, U.S.A.
 
-It is your responsibility to keep your Club Nintendo password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users. 
+You may also contact ESRB Privacy Certified via email at [privacy@esrb.org](mailto:privacy@esrb.org), or via regular mail at ESRB Privacy Certified, Attn: Vice President, Privacy Certified, 317 Madison Avenue, 22nd Floor, New York, NY 10017.
 
-If you forget your Club Nintendo password, we will authenticate your identity by sending an email to the address in your account profile. For children under 13, we will send this email to the Family Account Administrator. 
+| 
 
-**OPTING OUT**
-
-If you do not want us to send you email, regular mail, or other messages about our products and services, you can opt-out at the time you register for Club Nintendo or other information collection. If you have opted-in and, at a later date, wish to have your name removed from our email or regular mail databases, you can log on to Club Nintendo and update your preferences by going to My Account Settings, Newsletters and Communications and then Communication Central.
-
-If you would like to be removed from our mailing lists at any time, please send an email to [**remove@cmail.nintendo.com**](mailto:remove@cmail.nintendo.com). Put the word "REMOVE" in the subject line. In the body of the email, please include your name and address and the database(s) from which you would like your information to be removed. You may also remove yourself from our mailing lists by contacting our Privacy Administrators located in the United States at (888) 977-7627. Please note that in some instances, despite your opt-out selections, we may send you email communications regarding transactions or services you have specifically requested or to inform you of important changes to our website, products or policies. 
-
-**CHECKING ACCOUNT INFORMATION FOR ACCURACY**
-
-As a member of Club Nintendo, you may access your Personal Information by logging in and going to the "Club Nintendo" section of www.nintendo.ca. Once there, you may view and change your Personal Information at "My Account Settings." If you are not a registered member of Club Nintendo, access to your Personal Information is available by contacting us via email at **privacypolicy@noa.nintendo.com** or by phone at (888) 977-7627and we will review or update your information as appropriate. Please be aware that you will need to provide the updated information to our Online Administrators; to protect your privacy, we will not disclose information that we have on file. If you would like to delete your Personal Information, please contact us and we will delete it unless we have a good faith belief that we are legally required to retain the information. 
-
-**COLLECTION OF PERSONAL INFORMATION FROM CHILDREN**
-
-NOCL recognize a special obligation to protect Personal Information obtained from young children.  As such, we encourage parents and guardians to spend time online with their children and instruct their children to never give out their real name, address or phone number, without their parent’s permission, when using the Internet.
-
-**THIRD PARTY WEB SITES**
-
-If you decide to provide Personal Information to any third party website linked from this website, the sharing of such information will be subject to the privacy policy of that company, not our privacy practices. Be cautious before providing any Personal Information to any third party. 
-
-**INTERNATIONAL USERS**
-
-Visitors to NOCL's web sites from outside of Canada are advised that this Privacy Policy is intended to meet the laws and requirements of Canada, which may not necessarily be the same as the laws and regulations of your home country. Nintendo of Canada Ltd. recommends that you **NOT** provide personal information if you are not a resident of Canada. Any information that you provide to NOCL online will be treated in accordance with the laws and regulations of the Provinces and the applicable laws of Canada.
-
-**CONTACT US FOR PRIVACY QUESTIONS, COMMENTS OR CONCERNS**
-
-If you have any questions, complaints or comments regarding this Privacy Policy or our privacy practices, please contact the Nintendo Privacy Policy Administrators located in the United States via email at **privacypolicy@noa.nintendo.com** or by phone at (888) 977-7627, or by regular mail at Nintendo, Attn: Online Privacy Policy Administrator - NOCL, 4600 150th Avenue NE, Redmond WA 98052.
-
-  
-|   
-  
-
-
-  
-  
-[](http://www.esrb.com/)  
+[](http://www.esrb.org/confirm/nintendo-confirmation.jsp)  
 Nintendo of America is an official participant in the ESRB Privacy Online Program.  
-
-
   
-
-
   
-
-
-  
-[](http://www.esrb.org/confirm/nintendo-confirmation.jsp)
+---|---
