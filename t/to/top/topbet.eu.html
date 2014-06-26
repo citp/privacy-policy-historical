@@ -1,22 +1,31 @@
-<!--The following is the downloaded HTML source of the topbet.eu privacy policy that was archived on 2013-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130701050959id_/http%3A//topbet.eu/privacy.php%23fm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topbet.eu privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626151745id_/http%3A//topbet.eu/privacy.php%23fm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html><head>
 <meta name="viewport" content="width=device-width">
 <title>Top Bet Online Betting – Privacy Policy</title>
 
 
-<link rel="stylesheet" type="text/css" media="all" href="/css/v2/style-v1.10.css?d=06182013">
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/9359.js?439024" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css">
 <link rel="stylesheet" type="text/css" media="all" href="/css/v2/casino-campaign-bonus.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/ticker-style.css">
+<link rel="stylesheet" type="text/css" media="all" href="/css/top-menu.css">
+
+<!--<link rel="stylesheet" type="text/css" href="/css/topbet-home.compressed.v1.24.css?d=08282013" />-->
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/v2/style-v1.11.css">
 <!--[if IE]> <link rel="stylesheet" type="text/css" media="all" href="/css/v2/ie.css" />
 <![endif]-->
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=PlayerInfo&amp;SubLicenseeID=1306&amp;ContentType=javascript"></script>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://js.topbet.eu/jquery.ticker.js"></script>
+<script type="text/javascript" src="/js/upcomingwidget.js"></script>
+<script type="text/javascript" src="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=PlayerInfo&amp;SubLicenseeID=1306&amp;ContentType=javascript"></script>
 <script type="text/javascript" src="http://shared.hostassets.com/scripts/login/error.js"></script>
 
 
 <script type="text/javascript">
-var IsMember = 'Non-Player';
+var IsMember = 'Player';
 var visitorRef = 'Direct Visit';
 </script>
 
@@ -26,8 +35,8 @@ var visitorRef = 'Direct Visit';
     _gaq.push(['_setAllowLinker', true]);
         _gaq.push(['_setCustomVar', 1,'VisitorRef',visitorRef, 1]);
         _gaq.push(['_setCustomVar', 2,'IsMember',IsMember, 1]);
+    _gaq.push(['_setCustomVar', 3, 'beta', 'http://topbet.eu/privacy.php', 3]);
     _gaq.push(['_trackPageview']);
-    //_gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -35,19 +44,209 @@ var visitorRef = 'Direct Visit';
     })();
 </script>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript">
-updatePlayerInfo('login');
+	updatePlayerInfo('login');
+$(document).ready(function() {
 
-function getRolloverPromotion()
-{
-                      var promotions = [
-                    ['bonus','/promotions/social'],
-                    ['join','/signup.php'],
-                    ['tournaments','/casino/?tournament=1'],
-                                    ];
-      
-    var promo = promotions[Math.floor(Math.random() * promotions.length)];
+	var durl = document.URL;
+    if(durl.indexOf("/sportsbook") != -1){
+	$('#shm-btn').css({
+		"border-left-color": "#bfbfbf",
+		"border-right-color": "#bfbfbf",    
+		"background-image" : "-webkit-linear-gradient(top, #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -webkit-gradient(linear, left top, left bottom, #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -moz-linear-gradient(top,  #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -moz-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -o-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -ms-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, linear-gradient(#f5f5f5, #ffffff)"	
+		});
+    }else if((durl.indexOf("/casino") != -1) && (durl.indexOf("promotions") == -1)){
+		$('#chm-btn').css({
+		"border-left-color": "#bfbfbf",
+		"border-right-color": "#bfbfbf",    
+		"background-image" : "-webkit-linear-gradient(top, #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -webkit-gradient(linear, left top, left bottom, #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -moz-linear-gradient(top,  #f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -moz-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -o-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, -ms-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "url('/images/new-header/icon_arrow_down_gray.png')	no-repeat scroll 93% 49%, linear-gradient(#f5f5f5, #ffffff)"    });
+	}else if(durl.indexOf("/promotions") != -1){
+		$('#promotions-tab').css({
+		"border-left-color": "#bfbfbf",
+		"border-right-color": "#bfbfbf",
+		"background-image" : "-webkit-linear-gradient(top, #f5f5f5, #ffffff)",
+		"background": "-webkit-gradient(linear, left top, left bottom, #f5f5f5, #ffffff)",
+		"background": "-moz-linear-gradient(top,  #f5f5f5, #ffffff)",
+		"background": "-moz-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "-o-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "-ms-linear-gradient(#f5f5f5, #ffffff)",
+		"background": "linear-gradient(#f5f5f5, #ffffff)"
+		});
+	}
+$('ul#log-in, #call ul, #logged-box').hide();
+$('span#button-signin').click(function(e){
+    e.stopPropagation();
+    $('ul#log-in').slideToggle("fast");
+	$('#call ul').slideUp("fast");
+});
+$('li#call, li#mail').click(function(e){
+    e.stopPropagation();
+    $('#call ul').slideToggle("fast");
+	$('ul#log-in, div#logged-box').slideUp("fast");
+});
+$('li#player-info').click(function(e){
+    e.stopPropagation();
+    $('div#logged-box').slideToggle("fast");
+	$('#call ul').slideUp("fast");
+});
+$('ul#log-in, #call ul').click(function(e){
+    e.stopPropagation();
+});
+$(document).click(function(){
+     $('ul#log-in, #call ul, div#logged-box').slideUp("fast");
+});
+
+ /*   //this is for logging in
+    $("#sign-in").click(function(e) {
+			e.stopPropagation();
+			if (!$(e.target).is('#log-in *')) {
+				$("#log-in").toggle();
+	}});
+    $(document).click(function(f) { // you don't need the else part to fadeout
+		var $el2 = $("#log-in");
+		if ($el2.is(":visible") && !$(f.target).is('#log-in *')) {
+			$el2.toggle();
+	}});
+$(document).click(function (e) {
+    if ($(e.target).has(".player-info-clicked").length > 0) { 
+        $('#login').removeClass('player-info-clicked');
+        $("#logged-box").hide();
+    }else if($(e.target).has(".call-info-clicked").length > 0) { 
+        $('#call').removeClass('call-info-clicked');
+        $("#call-dropdown").hide();
+    }
+});
+
+$(window).load(function() {
+    $('#call').click(function(){
+		var menu = $('#call ul');
+		menu.toggle();
+		$('#call').toggleClass('call-info-clicked');
+    });
+    $('#mail').click(function(){
+		var menu = $('#call ul');
+		menu.toggle();
+		$('#call').toggleClass('call-info-clicked');
+    });
+	$('#player-info').click(function() {
+		var menu = $('#logged-box');
+		menu.toggle();
+    });
+    $('#casino-hover-menu').mouseover(function() { clearTimeout(callHideTimer)}).click(function(){
+		callHideTimer = setTimeout('$("#call-dropdown").hide(300)', 200);
+    });
+}); */
+
+    var pi_username = $('#pi-username').html();
+    if(pi_username){ //already logged in //hide the join and signup
+		$('#login').show();
+		$('#player-info').show();
+		$("#header-accross ul li ul#call-dropdown").css('left', '-94px');
+		$("#header-accross ul li ul#call-dropdown").css('width', '240px');
+		$('#logged-box').css('left', '0');
+		$('#sub-header-left').css('margin-right', "176px");
+		$('#logged-box').css('width', '184px');
+    }else{ //hide the profile
+		$('#sign-in').show();
+		$('#join-now').show();
+		$('#header-accross ul li ul#call-dropdown li').css('width', '189px');
+		$('.depositnow').css({'background': 'url("/images/new-header/btn_yellow_singning_bonus.jpg") no-repeat scroll'});
+		$('.depositnow a').attr('href', '/signup.php');
+		$('.depositnow a').removeAttr('target');
+		$('.depositnow a').removeAttr('onclick');
+		$('.depositnow a').click(function(e) { e.preventDefault(); });
+    }
+    
+});
+
+$(window).load(function() {
+	$('.hm-dim').css('opacity', '.5');
+	$('#chm-btn').mouseover(function(){
+		if (window.chmHideTimer)
+			clearTimeout(chmHideTimer);
+		var menu = $('#casino-hover-menu');
+		menu.css({ 'top': $(this).offset().top + $(this).height(), 'left': $(this).offset().left });
+		menu.show(300);
+	}).mouseout(function(){
+		chmHideTimer = setTimeout('$("#casino-hover-menu").hide(300)', 200);
+	});
+	$('#casino-hover-menu').mouseover(function(){
+		clearTimeout(chmHideTimer)}).mouseout(function(){
+		chmHideTimer = setTimeout('$("#casino-hover-menu").hide(300)', 200);
+	});
+}); 
+
+$(window).load(function() {
+    $('.hm-dim').css('opacity', '.5');
+    $('#shm-btn').mouseover(function(){
+		if (window.shmHideTimer)
+		clearTimeout(shmHideTimer);
+		var menu = $('#sportsbook-hover-menu');
+		menu.css({'top': $(this).offset().top + $(this).height(), 'left': $(this).offset().left});
+		menu.show(300);
+    }).mouseout(function(){
+		shmHideTimer = setTimeout('$("#sportsbook-hover-menu").hide(300)', 200);
+    });
+    $('#sportsbook-hover-menu').mouseover(function() {
+		clearTimeout(shmHideTimer)
+    }).mouseout(function(){
+		shmHideTimer = setTimeout('$("#sportsbook-hover-menu").hide(300)', 200);
+    });
+});
+
+jQuery(function($) {
+	var header_accross_offset_top = $('#header-accross').offset().top;
+	function fixDiv() {
+		var $cache = $('#header-accross'); 
+		if ($(window).scrollTop() > header_accross_offset_top) 
+			$cache.css({'position': 'fixed', 'top': '0px'}); 
+		else
+			$cache.css({'position': 'relative', 'top': 'auto'});
+	}
+    $(window).scroll(fixDiv);
+    fixDiv();
+	
+	$('div.footer-list a[title="Join Now"]').click(function(e) {
+	e.preventDefault();
+    })
+	
+	if(document.URL.indexOf("casino/game/") >= 0)
+		$('.gametype-about a[target="casinoWindow1"]').attr('target', '_blank');
+
+	if(document.URL.indexOf("casino/") >= 0){
+		var ito = $('#editable2 a[target=casinoWindow]');
+		$(ito).removeAttr('target');
+		$(ito).click(function(e) {
+			$(this).removeAttr('target');
+			e.preventDefault();
+			cashierWindow(this);
+			e.preventDefault();
+		});
+    }
+
+});
+</script>
+<script type="text/javascript">
+function getRolloverPromotion(){
+        var promotions = [
+      ['bonus','/promotions/share.php'],
+      ['raf','/refer-a-friend/'],
+      ['reload','/promotions.php'],
+      ['tournaments','/casino/tournament'],
+    ];
+        var promo = promotions[Math.floor(Math.random() * promotions.length)];
     var theHTML = '<a class="rollover-promo rp'+promo[0]+'" href="'+promo[1]+'" style=""><img src="/images/'+promo[0]+'_up.jpg" alt="" /></a>';
     $('#header .cta').html(theHTML);
 }
@@ -55,226 +254,867 @@ function getRolloverPromotion()
 $(document).ready(function($) {
     getRolloverPromotion();
     $('.rollover-promo').hover(
-      function () {
-        var obj = $(this).children('img');
-        obj.fadeOut('slow');
-      },
-      function () {
-        var obj = $(this).children('img');
-        obj.fadeIn('slow');
-      }
-    );
-    if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
-        $('#header ul.sports li a, #header ul.misc li a').css('padding','0 23px');
-    }
+        function () {
+            var obj = $(this).children('img');
+            obj.fadeOut('slow');
+        },
+        function () {
+            var obj = $(this).children('img');
+            obj.fadeIn('slow');
+    });
 });
-
 </script>
 
 </head>
 
 <body class="page-sportsbook">
-<!--  -->
+
+<script type="text/javascript" src="http://shared.hostassets.com/scripts/login/error.js"></script>
+<script type="text/javascript" src="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=PlayerInfo&amp;SubLicenseeID=1306&amp;ContentType=javascript"></script>
+<div id="header-accross">
+    <div style="margin:0 auto;width:960px; padding-left:20px;">
+	<ul id="sub-header-left">
+	    <li id="shm-btn"><a title="Sportsbook" href="/sportsbook/">SPORTSBOOK</a></li>
+	    <li id="chm-btn"><a href="/casino/" title="Casino">CASINO</a></li>
+	    <li id="news"><a href="/news/" title="News">NEWS</a></li>
+	    <li id="promotions-tab"><a href="/promotions/bonus" title="Promotions">PROMOTIONS</a></li>
+	    <li id="cashier">
+<a href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=https%3A%2F%2Fcashier.topbet.eu%2Ftopbet%2Fservlet%2Fcash.ID%3Fpage%3DDepositRedirect%26depositType%3DOptions" target="cashierWindow" onclick="window.open(this.href, this.target, 'width=1100,height=800,scrollbars=1,resizable=1,status=1').focus()" title="Cashier">
+CASHIER</a>
+		</li>
+	</ul>
+	<ul id="login" style="display:none;"><li></li></ul>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$('#targetform').val(location.protocol + '//' + location.host + location.pathname);
+		});
+	</script>
+	<ul id="sub-header-right">
+	    <li id="sign-in" style="display:none">
+		<span id="button-signin"></span>
+		<form action="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=Login" method="post">
+			<input type="hidden" name="Target" value="https://web.archive.org/web/20140626151745id_/http%3A//topbet.eu/privacy.php%23fm" id="targetform">
+			<input type="hidden" name="SubLicenseeID" value="1306">
+			<ul class="dropdown" id="log-in">
+				<li style="text-align:left">
+					<label for="username">Username:</label>
+					<span style="float:right;margin-left:5px">
+					<input id="username" name="UserName" type="text" size="12" maxlength="12" placeholder="Username" required="required">
+				</span>
+				</li>
+				<li style="text-align:left">
+					<label for="password">Password:</label>
+					<span style="float:right;margin-left:5px">
+					<input id="password" name="password" type="password" size="12" maxlength="12" placeholder="********" required="required">
+					</span>
+				</li>
+				<li><input class="log-in-button" type="submit" value=""></li>
+				<li><a id="forgot-password" href="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=RequestPasswordForm" target="forgotPasswordWindow" onclick="window.open(this.href, this.target, 'width=400,height=200').focus()" title="Forgot Password?">Forgot Password?</a></li>
+			</ul>
+		 </form>
+	    </li>
+	    
+		<li id="join-now" style="display:none"><a href="/signup.php" onclick="return false;"><span id="button-joinnow"></span></a></li>
+	    
+	    <li id="player-info" class="in-or-out" style="display:none;">
+		<p class="welcome">Welcome | <span id="pi-username"></span></p>
+		<div id="logged-box">
+		    <div class="balance-holder">
+			<div id="real-balance"><span>Real Balance: $<span id="pi-realmoney"></span></span></div>
+			<div id="free-balance"><span>Free Balance: $<span id="pi-freemoney"></span></span></div>
+		    </div>
+			<ul>
+<li style="padding-top:3px;text-align:center;width:155px;background:url('http://topbet.eu/images/new-header/spr-ybar-userdrop.png')no-repeat 25px 8px;line-height:30px;vertical-align:middle;height:30px;">
+	<a id="pi-deposit" style="color:#fff;display:inline-block;width:100%;line-height:30px;vertical-align:middle;height:30px;" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=https%3A%2F%2Fcashier.topbet.eu%2Ftopbet%2Fservlet%2Fcash.ID%3Fpage%3DDepositRedirect%26depositType%3DOptions" title="Deposit" target="cashierWindow" onclick="window.open(this.href, this.target, 'width=1100,height=800,scrollbars=1,resizable=1,status=1').focus()">
+Deposit</a>
+</li>
+<li style="padding-top:3px;text-align:center;width:155px;background:url('http://topbet.eu/images/new-header/btn_login_blank.png') no-repeat 25px 8px;line-height:30px;vertical-align:middle;height:30px;">
+	<a id="pi-myaccount" style="color:#fff;display:inline-block;width:100%;line-height:30px;vertical-align:middle;height:30px;" href="/myaccount/?subsection=account&amp;page=Account" title="My Account">My Account</a>
+</li>
+<li style="padding-top:3px;text-align:center;width:155px;background:url('http://topbet.eu/images/new-header/btn_login_blank.png') no-repeat 25px 8px;line-height:30px;vertical-align:middle;height:30px;">
+	<a id="pi-referafriend" style="color:#fff;display:inline-block;width:100%;line-height:30px;vertical-align:middle;height:30px;" href="/refer-a-friend" title="Refer a Friend">Refer-a-Friend</a>
+</li>
+<li style="padding-top:3px;color:#fff;text-align:center;width:155px;background:url('http://topbet.eu/images/new-header/btn_login_blank.png') no-repeat 25px 8px;line-height:30px;vertical-align:middle;height:30px;">
+	<a id="pi-logout" style="color:#fff;display:inline-block;width:100%;line-height:30px;vertical-align:middle;height:30px;" href="#" title="Log Out">Log Out</a>
+</li>
+			</ul>
+
+		</div>
+	    </li>
+		<li id="mail"></li>
+	    <li id="call">
+		<ul class="dropdown" id="call-dropdown">
+		    <li id="customer-head" class="customer-li"><b>CUSTOMER SERVICE</b></li>
+		    <li class="customer-li" id="customer-open"><b>We're here to help you 24/7</b></li>
+		    <li id="customer-call">1-877-528-6748</li>
+		    <li id="customer-email"><a href="mailto:support@topbet.eu">support@topbet.eu<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></li>
+		    <li id="customer-help">Find answers in our <a href="/help/">Help Section</a></li>
+		</ul>
+	    </li>
+	</ul>
+    </div>
+</div><!-- end header-accross -->
+
+<div class="hover-menu" id="casino-hover-menu" style="top: 175px; left: 396.15px; display: none;">
+    <img width="0" height="0" alt="" src="http://shared.hostassets.com/images/alpha-50-bg.png">
+    <div class="hm-box">
+	<div class="hm-row">
+	    <div class="hm-column">
+		<h4>Blackjack</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Side Bet Blackjack Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D84">Side Bet Blackjack</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play VIP Side Bet Blackjack Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D88">VIP Side Bet Blackjack</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play VIP Blackjack Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D87">VIP Blackjack</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Blackjack Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D9">Blackjack</a></li>
+		</ul>
+		<h4>Video Poker</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Double Barrel Bonus Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D79">Double Barrel Bonus</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Deuces Wild Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D82">Deuces Wild</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Wild Joker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D81">Wild Joker</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Jacks or Better Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D80">Jacks or Better</a></li>
+		</ul>
+		<h4>Video Keno</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Instant Keno Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D72">Instant Keno</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Shockwave Keno Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D74">Shockwave Keno</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Table Games</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play American Roulette Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D11">American Roulette</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play European Roulette Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D12">European Roulette</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Craps Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D19">Craps</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Baccarat Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D83">Baccarat</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Mini Baccarat Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D16">Mini Baccarat</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Pai Gow Poker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D15">Pai Gow Poker</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Lucky 8's Bonus Pai Gow Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D96">Lucky 8's Bonus Pai Gow</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Triple Card Poker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D24">Triple Card Poker</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Triple Ride Poker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D17">Triple Ride Poker</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Caribbean Poker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D18">Caribbean Poker</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play War Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D22">War</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Red Dog Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D23">Red Dog</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Slot Machines</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play King's Castle Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D63">King's Castle</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Samurai Slot Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D62">Samurai Slot</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Free Spin Saloon Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D60">Free Spin Saloon</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Final Table Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D68">Final Table</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Heaven Cent Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D67">Heaven Cent</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Aces High Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D97">Aces High</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Deal or Steal Slots Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D65">Deal or Steal Slots</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Cleopatra's Bonus Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D94">Cleopatra's Bonus</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Coral Cash Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D95">Coral Cash</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play 5x Wild Diamonds Bonus Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D93">5x Wild Diamonds Bonus</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Carnival Wheel Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D61">Carnival Wheel</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Roughneck Reels Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D91">Roughneck Reels</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Cross Country Reels Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D92">Cross Country Reels</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Charmed Reels Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D66">Charmed Reels</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Slot Machines</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Volcano Bonus Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D53">Volcano Bonus</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Spider Guy Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D40">Spider Guy</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Banana Beach Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D42">Banana Beach</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Fast Lane Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D6">Fast Lane</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Conspiracy Slots Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D7">Conspiracy Slots</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Black Magic Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D58">Black Magic</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Headline Slots Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D57">Headline Slots</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Wild Sushi Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D56">Wild Sushi</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Bar Room Blast Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D59">Bar Room Blast</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Party Bucks Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D8">Party Bucks</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Crazy Coconuts Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D34">Crazy Coconuts</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Fruit Fuzion Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D36">Fruit Fuzion</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Freak Show Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D64">Freak Show</a></li>
+		</ul>
+	    </div>
+	</div>
+	<div class="hm-row">
+	    <div class="hm-column">
+		<h4>Fun Games</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Football Frenzy Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5001">Football Frenzy</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play High Roller Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5002">High Roller</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Money Shot Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5003">Money Shot</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Fun Games</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Super Hi Lo Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5005">Super Hi Lo</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Virtual Derby Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5006">Virtual Derby</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Wheel of Fortune 2 Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5007">Wheel of Fortune 2</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Fun Games</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play 3D Scratch Cards Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D">3D Scratch Cards</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Pot Shot Pachinko Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5004">Pot Shot Pachinko</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play End Zone Pachinko Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5018">End Zone Pachinko</a></li>
+		</ul>
+	    </div>
+	    <div class="hm-column">
+		<h4>Fun Games</h4>
+		<ul>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Slamm Jamm Pachinko Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5016">Slamm Jamm Pachinko</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play Grand Slam Pachinko Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5017">Grand Slam Pachinko</a></li>
+		    <li><a onclick="window.open(this.href, this.target, 'width=740,height=555,resizable=1').focus()" title="Play TV Tournament Poker Now" target="casinoWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=http%3A%2F%2Fcasino.topbet.eu%2F%3Fgametype%3D5019">TV Tournament Poker</a></li>
+		</ul>
+	    </div>
+	</div>
+    </div>
+</div>
+
+<div class="hover-menu" id="sportsbook-hover-menu" style="top: 175px; left: 271.5px; display: none;">
+    <img width="0" height="0" alt="" src="http://shared.hostassets.com/images/alpha-50-bg.png">
+    <div class="hm-box">
+		<div class="hm-column"><div class="hm-row"><h4>Baseball</h4><ul><li><a title="MLB" href="/sportsbook/mlb">MLB</a></li><li><a title="MLB 1st 5 Innings" href="/sportsbook/mlb/1st-5-innings">MLB 1st 5 Innings</a></li><li><a title="MLB Early Action Props (PARLAYABLE)" href="/sportsbook/mlb/early-action-props-parlayable">MLB Early Action Props (PARLAYABLE)</a></li><li><a title="MLB-Futures" href="/sportsbook/mlb/futures">MLB-Futures</a></li></ul></div><div class="hm-row"><h4>2014 FIFA World Cup</h4><ul><li><a title="2014 FIFA World Cup" href="/sportsbook/2014-fifa-world-cup">2014 FIFA World Cup</a></li><li><a title="2014 FIFA World Cup: Group Stage" href="/sportsbook/2014-fifa-world-cup/group-stage">2014 FIFA World Cup: Group Stage</a></li><li><a title="2014 FIFA World Cup - Live Betting" href="/sportsbook/2014-fifa-world-cup/live-betting">2014 FIFA World Cup - Live Betting</a></li><li><a title="2014 FIFA World Cup: Group A" href="/sportsbook/2014-fifa-world-cup/group-a">2014 FIFA World Cup: Group A</a></li></ul></div><div class="hm-row"><h4>Golf</h4><ul><li><a title="2014 Ryder Cup" href="/sportsbook/golf/2014-ryder-cup">2014 Ryder Cup</a></li><li><a title="2014 British Open" href="/sportsbook/golf/2014-british-open">2014 British Open</a></li><li><a title="Quicken Loans National Matchups( Parlayable)" href="/sportsbook/golf/quicken-loans-national-matchups-parlayable">Quicken Loans National Matchups( Parlayable)</a></li></ul></div><div class="hm-row"><h4>Tennis</h4><ul><li><a title="2014 Davis Cup" href="/sportsbook/tennis/2014-davis-cup">2014 Davis Cup</a></li><li><a title="Wimbledon Men's Matchups (Parlayable)" href="/sportsbook/tennis/wimbledon-mens-matchups-parlayable">Wimbledon Men's Matchups (Parlayable)</a></li><li><a title="Wimbledon Women's Matchups (Parlayable)" href="/sportsbook/tennis/wimbledon-womens-matchups-parlayable">Wimbledon Women's Matchups (Parlayable)</a></li></ul></div></div><div class="hm-column"><div class="hm-row"><h4>International Soccer</h4><ul><li><a title="International Soccer" href="/sportsbook/soccer/international-soccer">International Soccer</a></li><li><a title="2014 Swedish Allsvenskan" href="/sportsbook/soccer/2014-swedish-allsvenskan">2014 Swedish Allsvenskan</a></li><li><a title="2014 Norwegian Tippeligaen" href="/sportsbook/soccer/2014-norwegian-tippeligaen">2014 Norwegian Tippeligaen</a></li><li><a title="Major League Soccer" href="/sportsbook/soccer/major-league-soccer">Major League Soccer</a></li></ul></div><div class="hm-row"><h4>Nascar</h4><ul><li><a title="2014 Sprint Cup Championship" href="/sportsbook/nascar/2014-sprint-cup-championship">2014 Sprint Cup Championship</a></li><li><a title="Quaker State 400" href="/sportsbook/nascar/quaker-state-400">Quaker State 400</a></li></ul></div><div class="hm-row"><h4>Football</h4><ul><li><a title="NFL" href="/sportsbook/nfl">NFL</a></li><li><a title="CFL" href="/sportsbook/cfl">CFL</a></li><li><a title="NFL Futures" href="/sportsbook/nfl/futures">NFL Futures</a></li><li><a title="Superbowl XLVI Early Line (Max Bet 500.00)" href="/sportsbook/football/superbowl-xlvi-early-line-max-bet-50000">Superbowl XLVI Early Line (Max Bet 500.00)</a></li></ul></div><div class="hm-row"><h4>Basketball</h4><ul><li><a title="2015 NCAA Championship" href="/sportsbook/basketball/2015-ncaa-championship">2015 NCAA Championship</a></li><li><a title="WNBA" href="/sportsbook/wnba">WNBA</a></li></ul></div><div class="hm-row"><h4>Mixed Martial Arts</h4><ul><li><a title="UFC Fight Night 43" href="/sportsbook/mma/ufc-fight-night-43">UFC Fight Night 43</a></li><li><a title="UFC Fight Night 44" href="/sportsbook/mma/ufc-fight-night-44">UFC Fight Night 44</a></li></ul></div></div><div class="hm-column" style="float: right"><div class="hm-row"><h4>More Sports ...</h4><ul><li><a title="2014 FIFA World Cup $10 Free Bet" href="/sportsbook/2014-fifa-world-cup-10-free-bet">2014 FIFA World Cup $10 Free Bet</a></li><li><a title="Boxing" href="/sportsbook/boxing">Boxing</a></li><li><a title="NHL Futures" href="/sportsbook/nhl/futures">Hockey</a></li><li><a title="True Detective Season 2 Props" href="/sportsbook/entertainment/true-detective-season-2-props">Entertainment</a></li></ul></div></div>  </div>
+</div>
+<!-- ==================START SIGNUP==================== -->
+<div style="display:none" id="dynamic-signup-wrapper"></div>
+<!--[if IE]> <link rel="stylesheet" type="text/css" media="all" href="/js/signup/ie.css" />
+<![endif]-->
+<!--<script src="http://j.maxmind.com/app/geoip.js"></script> INTERNAL ERROR | REMOVED FOR OPTIMIZATION 20140224 ariz-->
+<!-- <script src="/js/signup/jquery.corner.js" type="text/javascript"></script> -->
+<script src="http://topbet.eu/js/signup/signup.v3.4.js" type="text/javascript"></script>
+<script src="http://topbet.eu/js/signup/closure-needed/base.js" type="text/javascript"></script>
+<script type="text/javascript">
+  goog.require('goog.dom');
+  goog.require('goog.json');
+  goog.require('goog.proto2.ObjectSerializer');
+  goog.require('goog.string.StringBuffer');
+</script>
+<script src="http://topbet.eu/js/signup/combine5signup.js" type="text/javascript"></script>
+<script type="text/javascript">
+	function gogosignup(){
+		$.fbox({ div: '#signupboxwrapper' });
+	}
+	function getQueryVariable(variable){ /***  GET URL PARAMETER ACTION=SIGNUP 20140221 ariz ***/
+		   var query = window.location.search.substring(1);
+		   var vars = query.split("&");
+		   for (var i=0;i < vars.length;i++) {
+				   var pair = vars[i].split("=");
+				   if(pair[0] == variable){return pair[1];}
+		   } return(false);
+	}
+	pathArray = window.location.href.split( '/' ); //get base url
+$(document).ready(function(){
+    $('body').on('click','.newsignup, a[href$="signup.php"], a[href$="/signup.php"], a[href$="/test/home-signuptest.php?action=signup"]',function(){ //signup via click
+		$('head').append('<link href="http://'+pathArray[2]+'/js/signup/fbox.css" media="screen" rel="stylesheet" type="text/css"/>');
+		$.getScript( "http://"+pathArray[2]+'/js/signup/fbox.js', function() {
+			$( "#dynamic-signup-wrapper" ).load( "http://"+pathArray[2]+"/inc/dynamic-signup.php", function() {
+				gogosignup();
+			});
+		});
+		$('ul#log-in, #call ul').slideUp("fast");
+		return false;
+	});
+	
+	if(getQueryVariable("action") == "signup"){ //signup via url
+		$('head').append('<link href="http://'+pathArray[2]+'/js/signup/fbox.css" media="screen" rel="stylesheet" type="text/css"/>');
+		$.getScript( "http://"+pathArray[2]+'/js/signup/fbox.js', function() {
+			$( "#dynamic-signup-wrapper" ).load( "http://"+pathArray[2]+"/inc/dynamic-signup.php", function() {
+				gogosignup();
+			});
+		});
+	}
+});
+</script>
+<!-- MOVED validatePhone Function to js/signup/signup.v3.4.js 20140221 ariz -->
+
+<script type="text/javascript">
+$('a').click(function(){
+    var obj = $(this);
+    var extra = obj.attr('title');
+    _gaq.push(['_trackEvent', IsMember, window.location.pathname, extra]);
+})
+</script>
+
+<!-- IOVATION SCRIPT STARTS HERE -->
+<input type="hidden" name="ioBB" id="ioBB">
+<script type="text/javascript"> 
+var io_enable_rip = true; // enable collection of Real IP
+var io_install_stm = false; // do not install Active X
+var io_exclude_stm = 12; // do not run Active X
+var io_install_flash = false; // do not install Flash
+</script> 
+<script type="text/javascript" src="https://mpsnare.iesnare.com/snare.js"></script> 
+<!-- IOVATION SCRIPT ENDS HERE -->
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/9359.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><!-- new -->
+
+<!-- ==================END SIGNUP ================== -->
 <div id="mainwrapper">
 
-    <div id="header">
+    <div id="header" style="height:138px;background: none;">
+        <link href="http://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet" type="text/css">
+<style>
+	/*@font-face {
+		font-family: "Fjalla One";
+		src: url('http://fonts.googleapis.com/css?family=Fjalla+One');
+	}*/
+	#gray-menu-holder ul li{
+		color: #000;
+		display: inline-block;
+		font-family:'Fjalla One';
+		font-size:18px;
+		padding-left: 4px;
+		background: url('/news/wp-content/themes/madidus-themes-v2/lib/img/new-header/icon_nav_divider.gif')no-repeat scroll 100% 7px transparent;
+	}
+	#gray-menu-holder ul li:last-child{ background: none; }
+	#gray-menu-holder a {
+		/*font-family:'FjallaOne';*/
+		color: #000;
+		font-size:18px;
+		display: inline-block;
+		padding-top: 9px;
+		padding-right: 10px;
+		text-decoration: none;
+	} 
+	.gray-menu { margin-left:5px; }
+</style>                                    
 
-        <div id="topbar">
+<div id="headershitholder" style="background-color:#070707;height: 100px;width:100%;">
+    <div id="logo1" style="float:left;margin-top:14px;width:222px;margin-left: 17px;">
+		<a href="/"><img src="http://topbet.eu/images/logo.png" alt="TopBet News Section"></a>
+    </div>
+    <div id="sportEventsDiv" style="display:none;"></div>
+<div id="data_ticker" style="display:none;"><div class="event_odd_row"><div>
+  <div id="feature_menu">
+    <ul>
 
-            <div id="login">
-                <form action="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=Login" method="post">
-                    <input type="hidden" name="Target" value="http://topbet.eu/privacy.php">
-                    <input type="hidden" name="SubLicenseeID" value="1306">
-                    <p class="username">
-                        <input id="username" name="UserName" type="text" size="12" maxlength="12" value="USERNAME" onfocus="if (this.value == 'USERNAME') {this.value = ''}" onblur="if (this.value == '') {this.value = 'USERNAME'}">
-                    </p>
-                    <p class="password">
-                        <input id="password" name="password" type="password" size="12" maxlength="12" value="********" onfocus="if (this.value == '********') {this.value = ''}" onblur="if (this.value == '') {this.value = '********'}">
-                    </p>
-                    <p class="submit">
-                        <input class="sprite" type="submit" value="Login">
-                    </p>
-                    <p class="links">
-                        <a href="http://sportsbook.topbet.eu/servlet/sportsbook.user?Page=RequestPasswordForm" target="forgotPasswordWindow" onclick="window.open(this.href, this.target, 'width=400,height=200').focus()" title="Forgot Password?">Forgot Password?</a>
-                    </p>
-                    <input type="hidden" name="ioBB" id="ioBB" size="50">
-                </form>
-            </div>
+      <li id="cross_sport_parlay_btn">
+        <a id="/servlet/sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=-10" target="Main" title="Parlay Card"><span>Parlay Card</span></a>
+      </li>
+      <li id="parlay_challenge_btn">
+        <a id="/servlet/sportsbook.user?Page=GetLicenseeParlayChallengeSelections&amp;lid=1306" target="Main" title="Parlay Challenge"><span>Parlay Challenge</span></a>
+      </li>
 
-            <div class="contact">
-                <span class="email"><a href="mailto:support@topbet.eu">support@topbet.eu</a></span>
-                <span class="phone">1-877-528-6748</span>
-            </div>
+      <li id="current_promotions_btn">
+        <a id="http://topbet.com/promotions.php#sportsbook-promotions" target="sportsbookPromotionsWindow" title="Current Promotions" onclick="window.open(this.id, this.target, 'width=800,height=600,scrollbars=1,resizable=1').focus()"><span>Current Promotions</span></a>
+      </li>
+    </ul>
+  </div>
+  
+  <div id="featured_events_list">
+    <ul>
 
-            <div id="player-info" style="display: none">
-                <p class="welcome">Welcome <span id="pi-username"></span> |</p>
-                <p class="balance">Real Balance: $<span id="pi-realmoney"></span> |</p>
-                <p class="balance">Free Balance: $<span id="pi-freemoney"></span> |</p>
-                <p class="link"><a id="pi-myaccount" href="/myaccount/?subsection=account&amp;page=Account" title="My Account">My Account</a> |</p>
-                <p class="link"><a id="pi-logout" href="#" title="Log Out">Log Out</a></p>
-            </div>
+      <li class="row0">
+        <p class="title">
 
-        </div> <!-- topbar ender -->
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736428" target="Main" title="Atlanta Braves at Houston Astros">Atlanta Braves at Houston Astros</a>
 
-        <div id="logo">
-            <a href="/">
-                <img src="/images/logo.jpg" alt="Top Bet">
-            </a>
-        </div>
+        </p>
+        <p class="time"><span>Starts In:</span>
+          2 hours 52 mins</p>
+      </li>
 
-        <div class="cta">
-            <!--<a class="bonus" href="/promotions.php#deposit-promotions">50% Deposit Bonus</a>
-            <a class="newsignup join" href="/signup.php">Join Now</a>-->
-            <!-- <a class="sprite bonus10p-head" onClick="recordOutboundLink(this, 'Player', 'Top 10% Bonus');return false;" href="/promotions.php#deposit-promotions">10% Bonus</a>
-            <a class="sprite newsignup" id="head-join-btn" href="/signup.php">Join Now</a>
-            <a class="sprite" onClick="recordOutboundLink(this, 'Player', 'RAF');return false;" id="head-refer-btn" href="/refer-a-friend/" style="display: none">Refer a friend</a> -->
-        </div>
+      <li class="row1">
+        <p class="title">
 
-        <br class="clear">
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736425" target="Main" title="Minnesota Twins at Los Angeles Angels">Minnesota Twins at Los Angeles Angels</a>
 
-        <ul id="navie">
-            <li>
-                <a name="nav_sportsbook" class="sbajax" href="/sportsbook/">Sports</a>
-                            </li>
-            <li>
-                <a name="nav_casino" href="/casino/">Casino</a>
-                            </li>
-            <li><a name="nav_signup" class="newsignup" href="/signup.php">Join Now</a></li>
-            <li><a name="nav_cashier" title="Cashier" onclick="window.open(this.href, this.target, 'width=1100,height=800,scrollbars=1,resizable=1,status=1').focus()" target="cashierWindow" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=https%3A%2F%2Fcashier.topbet.eu%2Ftopbet%2Fservlet%2Fcash.ID%3Fpage%3DDepositRedirect%26depositType%3DPreferred"><span>Cashier</span></a></li>
-            <li><a name="nav_promotions" href="/promotions/bonus">Promotions</a></li>
-            <li class="last"><a name="nav_help" href="/help/">Help</a></li>
-        </ul> <!-- navie ender -->
+        </p>
+        <p class="time"><span>Starts In:</span>
+          4 hours 17 mins</p>
+      </li>
 
-        <script type="text/javascript">
-        if (window.PlayerInfo)
-        {
-            $('#navie .newsignup').html('Refer A Friend').attr('href','/refer-a-friend/').removeClass('newsignup');
-            $('#navie li a').attr('style','font-size: 21px;');
+      <li class="row0">
+        <p class="title">
 
-            $('#head-join-btn').attr('style','display: none;');
-            $('#head-refer-btn').attr('style','display: inline-block;');
-        }
-        </script>
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736419" target="Main" title="Mia at Phila. Phillies">Mia at Phila. Phillies</a>
 
-        <div id="subnav">
+        </p>
+        <p class="time"><span>Starts In:</span>
+          7 hours 47 mins</p>
+      </li>
 
-            <ul class="sports">
-                <li><a class="sbajax" title="MLB" href="/sportsbook/MLB">MLB</a></li>
-                <li><a class="sbajax" title="NFL" href="/sportsbook/nfl">NFL</a></li>
-				<li><a class="sbajax" title="Soccer" href="/sportsbook/soccer/international-soccer">Soccer</a></li>
-                <li class="last"><a class="sbajax" title="Blackjack" href="http://casino.topbet.eu/">Blackjack</a></li>
-                
-            </ul>
-            <ul class="misc">
-                <li><a class="sbajax" href="/sportsbook/parlay-challenge">Parlay Challenge</a></li>
-                <li><a class="sbajax" href="/sportsbook/parlay-card">Parlay Card</a></li>
-                <li>
-                    <a href="/sportstats/?subsection=scores&amp;page=LiveScores">Scores/Stats</a>
-                    <ul>
-                        <li><a href="/sportstats/?subsection=scores&amp;page=LiveScores" title="Live Scores">Live Scores</a></li>
-                        <li><a href="/sportstats/stats.php?league=NFL" title="NFL">NFL news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=NCAAF" title="NCAAF">NCAAF news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=NBA" title="NBA">NBA news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=NCAAB" title="NCAAB">NCAAB news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=MLB" title="MLB">MLB news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=NHL" title="NHL">NHL news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=NASCAR" title="NASCAR">NASCAR news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=WNBA" title="WNBA">WNBA news - stats</a></li>
-                        <li><a href="/sportstats/stats.php?league=CFL" title="CFL">CFL news - stats</a></li>
-                    </ul>
-                </li>
-                <li class="last"><a href="/comp-points/">Comp Points</a></li>
-            </ul>
+      <li class="row1">
+        <p class="title">
 
-            <br class="clear">
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736420" target="Main" title="New York Mets at Pittsburgh Pirates">New York Mets at Pittsburgh Pirates</a>
 
-        </div>
+        </p>
+        <p class="time"><span>Starts In:</span>
+          7 hours 47 mins</p>
+      </li>
 
+      <li class="row0">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736426" target="Main" title="Chicago White Sox at Toronto Blue Jays">Chicago White Sox at Toronto Blue Jays</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          7 hours 47 mins</p>
+      </li>
+
+      <li class="row1">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736421" target="Main" title="Washington Nationals at Chicago Cubs">Washington Nationals at Chicago Cubs</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          8 hours 47 mins</p>
+      </li>
+
+      <li class="row0">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736427" target="Main" title="Detroit Tigers at Texas Rangers">Detroit Tigers at Texas Rangers</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          8 hours 47 mins</p>
+      </li>
+
+      <li class="row1">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736422" target="Main" title="Colorado Rockies at Milwaukee Brewers">Colorado Rockies at Milwaukee Brewers</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          8 hours 52 mins</p>
+      </li>
+
+      <li class="row0">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736423" target="Main" title="St. Louis Cardinals at Los Angeles Dodgers">St. Louis Cardinals at Los Angeles Dodgers</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          10 hours 52 mins</p>
+      </li>
+
+      <li class="row1">
+        <p class="title">
+
+          <a id="sportsbook.user?Page=EventMenu&amp;SubLicenseeID=1306&amp;SectionID=220#evid-736424" target="Main" title="Cincinnati Reds at San Fran. Giants">Cincinnati Reds at San Fran. Giants</a>
+
+        </p>
+        <p class="time"><span>Starts In:</span>
+          10 hours 57 mins</p>
+      </li>
+
+    </ul>
+  </div>
+</div>
+<div id="upcoming-games" class="one_key" style="display:none;">Upcoming Games</div></div><div class="event_odd_row"><div id="mlb" class="one_key" style="display:none;">MLB</div></div><div class="event_odd_row"><div id="2014-fifa-world-cup" class="one_key" style="display:none;">World Cup</div></div><div class="event_odd_row"><div id="nfl" class="one_key" style="display:none;">NFL</div></div></div>
+<div id="upcoming-widget">
+ <div class="news-ticker">
+	<ul style="width: 510px; height: 20px;margin:0 auto; border-radius:5px;-moz-box-shadow:3px 3px 5px 6px #000;-webkit-box-shadow: 2px #000;box-shadow:1px 1px 1px 1px #000;">
+		<li style="width:168px;background-color:#3B3A3A;border-right: 1px solid #646464; color:#FFD902;" class="ticker_tabs"></li>
+		<li style="width:113px;background-color:#5A5A5A;border-right: 1px solid #646464;" class="ticker_tabs"></li>
+		<li style="width:113px;background-color:#5A5A5A;border-right: 1px solid #646464;" class="ticker_tabs"></li>
+		<li style="width:112px;background-color:#5A5A5A;" class="ticker_tabs"></li>
+	</ul>
+	<div id="myDiv"></div>
+	<div id="betnowshit">
+		<a class="upcomingwidgetbetnow" href="/sportsbook/">
+		<img src="/news/wp-content/themes/madidus-themes-v2/lib/img/new-header/btn_betnow.png" alt="Bet Now">
+		</a>
+	</div>
+ </div>
+</div>
+		<div id="socialmediashit">
+			<ul id="soclist">
+				<li id="fb"><a href="http://www.facebook.com/topbet" target="_blank"></a></li>
+				<li id="tw"><a href="http://twitter.com/topbetsports" target="_blank"></a></li>
+				<li id="gg"><a href="http://plus.google.com/108199298633808336920/posts" target="_blank"></a></li>
+			</ul>
+		</div>
+</div>
+<div id="gray-menu-holder" style="margin:0 auto;background: url('/news/wp-content/themes/madidus-themes-v2/lib/img/new-header/icon_navbg.gif') repeat-x;display:block;height:36px;width: 100%;">
+<ul class="gray-menu" style="float:left;">
+<!--news section -->
+	<!--<li><a href="/sportsbook/college-basketball/ncaa-mens">NCAAB</a></li>-->
+	<!--<li><a href="/sportsbook/nba">NBA</a></li>-->
+	<li><a href="/sportsbook/mlb">MLB</a></li>
+	<li><a href="/sportsbook/2014-fifa-world-cup/group-stage">WORLD CUP</a></li>
+		<li><a href="/sportsbook/nfl">NFL ODDS</a></li>
+	<li><a href="/sportsbook/parlay-challenge">PARLAY CHALLENGE</a></li>
+	<li><a href="/sportsbook/parlay-card">PARLAY CARD</a></li>
+	<li style="display:none;" id="li-raf"><a href="/refer-a-friend/">REFER-A-FRIEND</a></li>
+	<li style="display:inline-block;" id="li-sign"><a href="/signup.php">$250 BONUS</a></li>
+	<li><a href="/promotions/mobile">MOBILE</a></li>
+</ul>
+<div class="depositnow" style="background: url('/news/wp-content/themes/madidus-themes-v2/lib/img/new-header/btn_deposit_yellow.jpg') scroll no-repeat;display: inline-block;width: 178px;height:36px;float: right;">
+    <a id="depositlink" style="width: 178px;height:36px;" href="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=https%3A%2F%2Fcashier.topbet.eu%2Ftopbet%2Fservlet%2Fcash.ID%3Fpage%3DDepositRedirect%26depositType%3DOptions" title="Deposit" target="cashierWindow" onclick="window.open(this.href, this.target, 'width=1100,height=800,scrollbars=1,resizable=1,status=1').focus()">
+    </a>
+</div>    
+</div>
+
+<script type="text/javascript">
+	if (window.PlayerInfo){
+		$('ul.gray-menu li#li-raf').attr('style','display:inline-block;');
+	}else{
+		$('ul.gray-menu li#li-sign').attr('style','display:inline-block;');
+	}
+
+</script>        <br class="clear">
     </div> <!-- header ender -->
     <div id="content">
 
 		<div id="content-left">
 			<h2>Betting Lines</h2>
 			<div class="excol">
-                <h3><a title="Topbet Mobile" href="/mobile.php">Topbet Mobile</a></h3><h3>Special Parlay Offers</h3>
+                <h3>Live Betting</h3>
 				<div>
 					<ul>
-						<li><a title="Parlay Challenge" href="/sportsbook/parlay-challenge">Parlay Challenge</a></li>
-						<li><a title="Parlay Card" href="/sportsbook/parlay-card">Parlay Card</a></li>
+						<li>
+							<a title="World Cup" href="/sportsbook/2014-fifa-world-cup/live-betting">
+								2014 FIFA World Cup
+							</a>
+						</li>
+					</ul>
+				</div><h3><a title="Topbet Mobile" href="/mobile.php">Topbet Mobile</a></h3><h3>Parlay &amp; Teaser Specials</h3>
+				<div>
+					<ul>
+						<li>
+							<a title="Parlay Challenge" href="/sportsbook/parlay-challenge">
+								Parlay Challenge
+							</a>
+						</li>
+						<li>
+							<a title="Parlay Card" href="/sportsbook/parlay-card">
+								Parlay Card
+							</a>
+						</li>
+						<li>
+							<!--
+							<a title="Teaser Challenge" href="/sportsbook.topbet.eu/servlet/sportsbook.user?Page=GetLicenseeTeaserChallengeSelections&lid=1306">
+							-->
+							<a title="Teaser Challenge" href="/sportsbook/teaser-challenge">
+								Teaser Challenge
+							</a>
+						</li>
 					</ul>
 				</div>
 						<h3>Baseball</h3>
 		                <div>
-		                	<ul><li><a title="MLB" href="/sportsbook/mlb">MLB (6)</a></li><li>MLB 1st 5 Innings</li>
+		                	<ul><li>
+													<a title="MLB" href="/sportsbook/mlb">
+														MLB (10)
+													</a>
+												</li><li>
+													<a title="MLB 1st 5 Innings" href="/sportsbook/mlb/1st-5-innings">
+														MLB 1st 5 Innings (10)
+													</a>
+												</li><li>
+													<a title="MLB Early Action Props (PARLAYABLE)" href="/sportsbook/mlb/early-action-props-parlayable">
+														MLB Early Action Props <br>(PARLAYABLE) (20)
+													</a>
+												</li><li>
+													<a title="MLB-Futures" href="/sportsbook/mlb/futures">
+														MLB-Futures (9)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
-						<h3>MLB Futures</h3>
+						<h3>2014 FIFA World Cup</h3>
 		                <div>
-		                	<ul><li><a title="MLB Futures" href="/sportsbook/mlb-futures">MLB Futures (9)</a></li>
+		                	<ul><li>
+													<a title="2014 FIFA World Cup" href="/sportsbook/2014-fifa-world-cup">
+														2014 FIFA World Cup (1)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group Stage" href="/sportsbook/2014-fifa-world-cup/group-stage">
+														2014 FIFA World Cup: Group Stage (12)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup - Live Betting" href="/sportsbook/2014-fifa-world-cup/live-betting">
+														2014 FIFA World Cup - Live Betting (6)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group A" href="/sportsbook/2014-fifa-world-cup/group-a">
+														2014 FIFA World Cup: Group A (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group B" href="/sportsbook/2014-fifa-world-cup/group-b">
+														2014 FIFA World Cup: Group B (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group C" href="/sportsbook/2014-fifa-world-cup/group-c">
+														2014 FIFA World Cup: Group C (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Round of 16" href="/sportsbook/2014-fifa-world-cup/round-of-16">
+														2014 FIFA World Cup: Round of 16 (18)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group D" href="/sportsbook/2014-fifa-world-cup/group-d">
+														2014 FIFA World Cup: Group D (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group E" href="/sportsbook/2014-fifa-world-cup/group-e">
+														2014 FIFA World Cup: Group E (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group F" href="/sportsbook/2014-fifa-world-cup/group-f">
+														2014 FIFA World Cup: Group F (2)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group H" href="/sportsbook/2014-fifa-world-cup/group-h">
+														2014 FIFA World Cup: Group H (5)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup Golden Ball" href="/sportsbook/2014-fifa-world-cup/golden-ball">
+														2014 FIFA World Cup Golden Ball (1)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup: Group G" href="/sportsbook/2014-fifa-world-cup/group-g">
+														2014 FIFA World Cup: Group G (6)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup Golden Boot" href="/sportsbook/2014-fifa-world-cup/golden-boot">
+														2014 FIFA World Cup Golden Boot (1)
+													</a>
+												</li><li>
+													<a title="2014 FIFA World Cup Golden Glove" href="/sportsbook/2014-fifa-world-cup/golden-glove">
+														2014 FIFA World Cup Golden Glove (1)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Nigeria at France (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-nigeria-at-france-espn">
+														Soccer Props: Nigeria at France <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Switzerland at Argentina (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-switzerland-at-argentina-espn">
+														Soccer Props: Switzerland at Argentina <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Uruguay at Colombia (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-uruguay-at-colombia-espn">
+														Soccer Props: Uruguay at Colombia <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Greece at Costa Rica (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-greece-at-costa-rica-espn">
+														Soccer Props: Greece at Costa Rica <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Chile at Brazil (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-chile-at-brazil-espn">
+														Soccer Props: Chile at Brazil <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Ghana at Portugal (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-ghana-at-portugal-espn">
+														Soccer Props: Ghana at Portugal <br>(ESPN) (4)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Mexico at Netherlands (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-mexico-at-netherlands-espn">
+														Soccer Props: Mexico at Netherlands <br>(ESPN) (6)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Germany at USA (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-germany-at-usa-espn">
+														Soccer Props: Germany at USA <br>(ESPN) (4)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Russia at Algeria (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-russia-at-algeria-espn">
+														Soccer Props: Russia at Algeria <br>(ESPN) (4)
+													</a>
+												</li><li>
+													<a title="Soccer Props: Belgium at South Korea (ESPN)" href="/sportsbook/2014-fifa-world-cup/soccer-props-belgium-at-south-korea-espn">
+														Soccer Props: Belgium at South Korea <br>(ESPN) (4)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
-						<h3>Football</h3>
+						<h3>2014 FIFA World Cup $10 Free Bet</h3>
 		                <div>
-		                	<ul><li><a class="no-ajax-fo-yo" title="NFL" href="/sportsbook/nfl">NFL (16)</a></li><li>NFL 1st Half</li><li>NFL 2nd Half</li><li>NFL 1st Quarter</li><li>NFL 2nd Quarter</li><li>NFL 3rd Quarter</li><li>NFL 4th Quarter</li><li>NCAA</li><li>NCAA 1st Half</li><li>NCAA 2nd Half</li><li>CFL</li><li><a title="NFL Futures" href="/sportsbook/nfl/futures">NFL Futures (3)</a></li><li><a title="NFL Divisions" href="/sportsbook/nfl/divisions">NFL Divisions (8)</a></li><li><a title="NCAA Futures" href="/sportsbook/college-football/ncaa-futures">NCAA Futures (2)</a></li><li><a title="CFL Futures" href="/sportsbook/cfl/futures">CFL Futures (1)</a></li><li>Arena</li><li><a title="2013 NFL REGULAR SEASON WINS" href="/sportsbook/nfl/2013-regular-season-wins">2013 NFL REGULAR SEASON WINS (32)</a></li>
+		                	<ul><li>
+													<a title="2014 FIFA World Cup $10 Free Bet" href="/sportsbook/2014-fifa-world-cup-10-free-bet">
+														2014 FIFA World Cup $10 Free Bet (1)
+													</a>
+												</li>
+		            		</ul>
+		            	</div>
+						<h3>Golf</h3>
+		                <div>
+		                	<ul><li>
+													<a title="2014 Ryder Cup" href="/sportsbook/golf/2014-ryder-cup">
+														2014 Ryder Cup (1)
+													</a>
+												</li><li>
+													<a title="2014 British Open" href="/sportsbook/golf/2014-british-open">
+														2014 British Open (1)
+													</a>
+												</li><li>
+													<a title="Quicken Loans National Matchups( Parlayable)" href="/sportsbook/golf/quicken-loans-national-matchups-parlayable">
+														Quicken Loans National Matchups<br>( Parlayable) (5)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
 						<h3>Tennis</h3>
 		                <div>
-		                	<ul><li><a title="2013 Davis Cup" href="/sportsbook/tennis/2013-davis-cup">2013 Davis Cup (1)</a></li><li><a title="2013 ATP Wimbledon Matchups ( Parlayable )" href="/sportsbook/tennis/2013-atp-wimbledon-matchups-parlayable-">2013 ATP Wimbledon Matchups <br>( Parlayable ) (8)</a></li><li><a title="2013 WTA Wimbledon Matchups ( Parlayable )" href="/sportsbook/tennis/2013-wta-wimbledon-matchups-parlayable-">2013 WTA Wimbledon Matchups <br>( Parlayable ) (8)</a></li>
+		                	<ul><li>
+													<a title="2014 Davis Cup" href="/sportsbook/tennis/2014-davis-cup">
+														2014 Davis Cup (1)
+													</a>
+												</li><li>
+													<a title="Wimbledon Men's Matchups (Parlayable)" href="/sportsbook/tennis/wimbledon-mens-matchups-parlayable">
+														Wimbledon Men's Matchups <br>(Parlayable) (2)
+													</a>
+												</li><li>
+													<a title="Wimbledon Women's Matchups (Parlayable)" href="/sportsbook/tennis/wimbledon-womens-matchups-parlayable">
+														Wimbledon Women's Matchups <br>(Parlayable) (2)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
 						<h3>International Soccer</h3>
 		                <div>
-		                	<ul><li><a title="International Soccer" href="/sportsbook/soccer/international-soccer">International Soccer (18)</a></li><li><a title="2013 CONCACAF Gold Cup" href="/sportsbook/soccer/2013-concacaf-gold-cup">2013 CONCACAF Gold Cup (1)</a></li><li><a title="2013/2014 English Premier League" href="/sportsbook/soccer/20132014-english-premier-league">2013/2014 English Premier League (8)</a></li><li><a title="2013/2014 Italian Serie A" href="/sportsbook/soccer/20132014-italian-serie-a">2013/2014 Italian Serie A (1)</a></li><li><a title="2013/2014 German Bundesliga" href="/sportsbook/soccer/20132014-german-bundesliga">2013/2014 German Bundesliga (1)</a></li><li><a title="2013/2014 French Ligue 1" href="/sportsbook/soccer/20132014-french-ligue-1">2013/2014 French Ligue 1 (1)</a></li><li><a title="Sweden Allsvenskan" href="/sportsbook/soccer/sweden-allsvenskan">Sweden Allsvenskan (6)</a></li>
+		                	<ul><li>
+													<a title="International Soccer" href="/sportsbook/soccer/international-soccer">
+														International Soccer (8)
+													</a>
+												</li><li>
+													<a title="2014 Swedish Allsvenskan" href="/sportsbook/soccer/2014-swedish-allsvenskan">
+														2014 Swedish Allsvenskan (1)
+													</a>
+												</li><li>
+													<a title="2014 Norwegian Tippeligaen" href="/sportsbook/soccer/2014-norwegian-tippeligaen">
+														2014 Norwegian Tippeligaen (1)
+													</a>
+												</li><li>
+													<a title="Major League Soccer" href="/sportsbook/soccer/major-league-soccer">
+														Major League Soccer (6)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
-						<h3>Basketball</h3>
+						<h3>Nascar</h3>
 		                <div>
-		                	<ul><li>NBA</li><li>NBA 1st Half</li><li>NBA 2nd Half</li><li><a title="2014 NCAA Championship" href="/sportsbook/basketball/2014-ncaa-championship">2014 NCAA Championship (1)</a></li><li>NCAA Men's</li><li>NCAA Men's 1st Half</li><li>NCAA Men's 2nd Half</li><li>WNBA</li><li><a title="NBA Futures" href="/sportsbook/nba/futures">NBA Futures (3)</a></li>
-		            		</ul>
-		            	</div>
-						<h3>Mixed Martial Arts</h3>
-		                <div>
-		                	<ul><li><a title="UFC 162 (Parlayable)" href="/sportsbook/mma/ufc-162-parlayable">UFC 162 <br>(Parlayable) (3)</a></li>
+		                	<ul><li>
+													<a title="2014 Sprint Cup Championship" href="/sportsbook/nascar/2014-sprint-cup-championship">
+														2014 Sprint Cup Championship (1)
+													</a>
+												</li><li>
+													<a title="Quaker State 400" href="/sportsbook/nascar/quaker-state-400">
+														Quaker State 400 (1)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
 						<h3>Boxing</h3>
 		                <div>
-		                	<ul><li><a title="Boxing" href="/sportsbook/boxing">Boxing (1)</a></li>
+		                	<ul><li>
+													<a title="Boxing" href="/sportsbook/boxing">
+														Boxing (2)
+													</a>
+												</li>
+		            		</ul>
+		            	</div>
+						<h3>Football</h3>
+		                <div>
+		                	<ul><li>
+													<a title="NFL" href="/sportsbook/nfl">
+														NFL (16)
+													</a>
+												</li><li>NFL 1st Half</li><li>NFL 2nd Half</li><li>NFL 1st Quarter</li><li>NFL 2nd Quarter</li><li>NFL 3rd Quarter</li><li>NFL 4th Quarter</li><li>NCAA</li><li>NCAA 1st Half</li><li>NCAA 2nd Half</li><li>
+													<a title="CFL" href="/sportsbook/cfl">
+														CFL (4)
+													</a>
+												</li><li>Arena</li><li>
+													<a title="NFL Futures" href="/sportsbook/nfl/futures">
+														NFL Futures (11)
+													</a>
+												</li><li>
+													<a title="Superbowl XLVI Early Line (Max Bet 500.00)" href="/sportsbook/football/superbowl-xlvi-early-line-max-bet-50000">
+														Superbowl XLVI Early Line <br>(Max Bet 500.00) (1)
+													</a>
+												</li><li>
+													<a title="2014 NFL Season Wins" href="/sportsbook/nfl/2014-season-wins">
+														2014 NFL Season Wins (32)
+													</a>
+												</li><li>
+													<a title="NCAA Football Futures" href="/sportsbook/college-football/ncaa-football-futures">
+														NCAA Football Futures (2)
+													</a>
+												</li><li>
+													<a title="CFL futures- Grey Cup" href="/sportsbook/cfl/futures-grey-cup">
+														CFL futures- Grey Cup (1)
+													</a>
+												</li>
+		            		</ul>
+		            	</div>
+						<h3>Basketball</h3>
+		                <div>
+		                	<ul><li>NBA</li><li>NBA 1st Half</li><li>NBA 2nd Half</li><li>NCAA Men's</li><li>NCAA Men's 1st Half</li><li>NCAA Men's 2nd Half</li><li>
+													<a title="2015 NCAA Championship" href="/sportsbook/basketball/2015-ncaa-championship">
+														2015 NCAA Championship (1)
+													</a>
+												</li><li>
+													<a title="WNBA" href="/sportsbook/wnba">
+														WNBA (1)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
 						<h3>Hockey</h3>
 		                <div>
-		                	<ul><li>NHL</li><li>NHL 1st Period</li><li><a title="NHL Futures" href="/sportsbook/nhl/futures">NHL Futures (1)</a></li>
+		                	<ul><li>NHL</li><li>NHL 1st Period</li><li>
+													<a title="NHL Futures" href="/sportsbook/nhl/futures">
+														NHL Futures (1)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
-						<h3>Rugby Union</h3>
+						<h3>Entertainment</h3>
 		                <div>
-		                	<ul><li><a title="2014 Six Nations Championship" href="/sportsbook/rugby-union/2014-six-nations-championship">2014 Six Nations Championship (1)</a></li><li><a title="2013 Rugby Championship" href="/sportsbook/rugby-union/2013-rugby-championship">2013 Rugby Championship (1)</a></li>
+		                	<ul><li>
+													<a title="True Detective Season 2 Props" href="/sportsbook/entertainment/true-detective-season-2-props">
+														True Detective Season 2 Props (6)
+													</a>
+												</li>
 		            		</ul>
 		            	</div>
-						<h3>Cricket</h3>
+						<h3>Mixed Martial Arts</h3>
 		                <div>
-		                	<ul><li><a title="The Ashes 2013" href="/sportsbook/cricket/the-ashes-2013">The Ashes 2013 (2)</a></li>
+		                	<ul><li>
+													<a title="UFC Fight Night 43" href="/sportsbook/mma/ufc-fight-night-43">
+														UFC Fight Night 43 (4)
+													</a>
+												</li><li>
+													<a title="UFC Fight Night 44" href="/sportsbook/mma/ufc-fight-night-44">
+														UFC Fight Night 44 (5)
+													</a>
+												</li>
 		            		</ul>
 		            	</div><!-- this content is cached -->            </div>
 		</div> <!-- content-left ender -->
 
 		<div id="content-center" class="no-sidebar">
 
-			<h1>TOPBET PRIVACY POLICY</h1>
+			<h1>TOP BET PRIVACY POLICY</h1>
 
 			<p>
-				TopBet and TOPBET.EU are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about TopBet's privacy policy.
+				Top Bet and TOPBET.EU are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about Top Bet's privacy policy.
 			</p>
 
 			<h2>Your Information</h2>
             <p>
-			TopBet and TOPBET.EU are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about TopBet's privacy policy.
+			Top Bet and TOPBET.EU are committed to protecting your privacy. The Company uses the information collected about you to track your gaming system account and game play and to provide a more personalized game playing experience. Please read on for more details about Top Bet's privacy policy.
 			</p>
 
 			<p>
-			When you participate in our for real money games, The Company needs to collect your personal information such as your real name, email address, and mailing address etc... . This allows The Company to allow you access to the games you wish to participate in and to reward prizes that you win or money that you withdraw from your TopBet account. In addition, a portion of the services offered on the Website require you to provide information as a condition of usage. These services include access to participation in sweepstakes or contests, and access to subscription-only areas (if any). You may choose not to provide personally identifiable information, but this may lead to decreased functionality of the Website for you, and/or the inability to provide you with certain products or services. If you complete a transaction on our Website using a credit card, the credit card processor may collect your information for verification.
+			When you participate in our for real money games, The Company needs to collect your personal information such as your real name, email address, and mailing address etc... . This allows The Company to allow you access to the games you wish to participate in and to reward prizes that you win or money that you withdraw from your Top Bet account. In addition, a portion of the services offered on the Website require you to provide information as a condition of usage. These services include access to participation in sweepstakes or contests, and access to subscription-only areas (if any). You may choose not to provide personally identifiable information, but this may lead to decreased functionality of the Website for you, and/or the inability to provide you with certain products or services. If you complete a transaction on our Website using a credit card, the credit card processor may collect your information for verification.
 			</p>
         
 			<p>
@@ -287,7 +1127,7 @@ $(document).ready(function($) {
 			</p>
 			
 			<p>
-			The Company may release account information when The Company believes, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any user agreements or (iii) protect the rights, property or safety of TopBet, TopBet players, or others or (iv) your information is provided to comply with a service you requested on the site. In addition, The Company also reserves the right to use the information collected to occasionally notify you about important functionality changes to the Web site, new services, and special offers you'll find valuable.
+			The Company may release account information when The Company believes, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any user agreements or (iii) protect the rights, property or safety of Top Bet, Top Bet players, or others or (iv) your information is provided to comply with a service you requested on the site. In addition, The Company also reserves the right to use the information collected to occasionally notify you about important functionality changes to the Web site, new services, and special offers you'll find valuable.
 			</p>
 			
 			<p>
@@ -299,11 +1139,11 @@ $(document).ready(function($) {
 			</p>
 			
 			<p>
-			By registering for an account, you agree that TopBet may display your user name and game play records. From time to time, (and usually when you win a prize), The Company may ask you to voluntarily provide general demographic and other personal information for inclusion on the TopBet "Winners" page.
+			By registering for an account, you agree that Top Bet may display your user name and game play records. From time to time, (and usually when you win a prize), The Company may ask you to voluntarily provide general demographic and other personal information for inclusion on the Top Bet "Winners" page.
 			</p>
 			
 			<p>
-			When you play games or access your account information, TopBet offers the use of a secure server. The secure socket layer (SSL) encrypts all information you input before it is sent to TopBet or sent to you. Furthermore, all of the customer data collected is protected against unauthorized access through the most up-to-date industry-standard security measures. That being said absolute security of any information displayed online cannot be guaranteed.
+			When you play games or access your account information, Top Bet offers the use of a secure server. The secure socket layer (SSL) encrypts all information you input before it is sent to Top Bet or sent to you. Furthermore, all of the customer data collected is protected against unauthorized access through the most up-to-date industry-standard security measures. That being said absolute security of any information displayed online cannot be guaranteed.
 			</p>
 			
             <h2>Third Party Web Sites</h2>
@@ -326,7 +1166,7 @@ $(document).ready(function($) {
             
             <h2>Changes to this policy</h2>
             <p>
-			By using the Gaming System, you consent to the collection and use of this information by TopBet. If the TopBet privacy policy changes, those changes will be posted on this page so that you are always aware of what information is collected, how the information is used, and under what circumstances the information is disclosed.
+			By using the Gaming System, you consent to the collection and use of this information by Top Bet. If the Top Bet privacy policy changes, those changes will be posted on this page so that you are always aware of what information is collected, how the information is used, and under what circumstances the information is disclosed.
 			</p>
 
 			<h2>Contact Information</h2>
@@ -338,7 +1178,11 @@ $(document).ready(function($) {
     <dt>Fax:</dt>
     <dd>1-877-517-2311</dd>
     <dt>E-mail:</dt>
-    <dd><a href="mailto:support@topbet.eu">support@topbet.eu</a></dd>
+    <dd><a href="mailto:support@topbet.eu">support@topbet.eu<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></dd>
   </dl>
 </div>
 			<p></p>
@@ -363,7 +1207,6 @@ $(document).ready(function($) {
 							            </ul>
 
 							            <ul>
-							                <li><a title="Affiliates" target="_blank" href="http://tbaffiliate.com/">Affiliates</a></li>
 							                <li><a title="Comp Points" href="/comp-points/">Comp Points</a></li>
 							                <li><a title="Help" href="/help/">Help</a></li>
 							                <li><a title="Contact Us" href="/contact.php">Contact Us</a></li>
@@ -371,6 +1214,7 @@ $(document).ready(function($) {
 							            </ul>
 
 							            <ul class="last">
+							                <li><a title="Affiliates" target="_blank" href="http://tbaffiliate.com/">Affiliates</a></li>
 							                <li><a title="Privacy Policy" href="/privacy.php">Privacy Policy</a></li>
 							                <li><a title="Terms &amp; Conditions" href="/terms.php">Terms &amp; Conditions</a></li>
 							                <li><a title="Responsible Gaming" href="/responsible-gaming.php">Responsible Gaming</a></li>
@@ -381,9 +1225,9 @@ $(document).ready(function($) {
 
             <div class="folbox">
                 <h3 class="fol">Follow Us</h3>
-                <a href="http://twitter.com/topbetsports" class="twitter">Twitter</a>
-                <a href="https://www.facebook.com/topbet" class="facebook">Facebook</a>
-                <a href="https://plus.google.com/108199298633808336920/posts" class="gplus">Google+</a>
+                <a href="http://twitter.com/topbetsports" class="twitter" target="_blank">Twitter</a>
+                <a href="https://www.facebook.com/topbet" class="facebook" target="_blank">Facebook</a>
+                <a href="https://plus.google.com/108199298633808336920/posts" class="gplus" target="_blank">Google+</a>
                 <!--<a href="#" class="rss">RSS</a>-->
             </div>
 
@@ -391,7 +1235,7 @@ $(document).ready(function($) {
                 <li class="visa">Visa</li>
                 <li class="mc">Master Card</li>
                 <li class="qc">Quick Cash</li>
-                <li class="ikoruna">iKoruna</li>
+                <!--li class="ikoruna">iKoruna</li-->
                 <li class="dhl">DHL</li>
             </ul>
 
@@ -408,14 +1252,14 @@ $(document).ready(function($) {
 <div id="copybg">
     <div id="copy">
         <div class="wrapper">
-            <a class="oc" href="http://www.oceancommunicationsltd.com/ocean/?sidH=1384">Ocean Communications</a> Copyright © 2013 Top Bet. All Rights Reserved.
+            <a class="oc" href="http://www.oceancommunicationsltd.com/ocean/?sidH=1384">Ocean Communications</a> Copyright © 2014 Top Bet. All Rights Reserved.
         </div>
     </div>
 </div> <!-- copy ender -->
 
-<script src="/js/jquery.cookie.js"></script>
-<script src="/js/jquery.collapse.js"></script>
-<script src="/js/waypoints.min.js"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/js/jquery.collapse.js" type="text/javascript"></script>
+<script src="/js/waypoints.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 $(".excol").collapse({show: function(){
@@ -459,512 +1303,10 @@ updatePlayerInfo('login');
 
 
 
-<div style="display:none">
-	<div id="signupboxwrapper">
-    	<div id="signupbox"> 
 
-            <div id="progressbar">
-            	<ul class="breadcrumb">
-                    <li><a href="#" class="sp1 current">Profile</a></li>
-                    <li><a href="#" class="sp2">Account details</a></li>
-                    <li><a href="#" class="sp3">Finalize</a></li>
-                    <li><a href="#" class="sp4">Confirmation</a></li>
-                </ul>
-                <br class="clear">
-                <div id="progress"></div>
-            </div>
-            
-            <h3>
-                You are <span class="thepercentage">10%</span> of the way to receiving your 50% initial deposit bonus
-            </h3>
-            <div class="pages">
-                <div class="page" id="sp1">
-                    <div class="left"> 
-                        <div class="input-wrapper">
-                            <span class="placeholder">Country *</span>
-                            <select name="country" class="text-input tbox required var-country" autocomplete="on">
-                                <option value=""></option><option class="us" value="220">UNITED STATES</option> <option class="as" value="12">AMERICAN SAMOA</option> <option class="ag" value="4">ANTIGUA AND BARBUDA</option> <option class="ar" value="11">ARGENTINA</option> <option class="au" value="14">AUSTRALIA</option> <option class="at" value="13">AUSTRIA</option> <option class="bs" value="30">BAHAMAS</option> <option class="bb" value="18">BARBADOS</option> <option class="by" value="34">BELARUS</option> <option class="be" value="20">BELGIUM</option> <option class="bz" value="35">BELIZE</option> <option class="bm" value="26">BERMUDA</option> <option class="br" value="29">BRAZIL</option> <option class="io" value="101">BRITISH INDIAN OCEAN TERRITORY</option> <option class="bn" value="27">BRUNEI DARUSSALAM</option> <option class="ky" value="118">CAYMAN ISLANDS</option> <option class="cl" value="44">CHILE</option> <option class="cx" value="51">CHRISTMAS ISLAND</option> <option class="cc" value="37">COCOS (KEELING) ISLANDS</option> <option class="ck" value="43">COOK ISLANDS</option> <option class="cr" value="48">COSTA RICA</option> <option class="cy" value="52">CYPRUS</option> <option class="cz" value="53">CZECH REPUBLIC</option> <option class="dk" value="56">DENMARK</option> <option class="dm" value="57">DOMINICA</option> <option class="do" value="58">DOMINICAN REPUBLIC</option> <option class="eg" value="62">EGYPT</option> <option class="sv" value="198">EL SALVADOR</option> <option class="fi" value="67">FINLAND</option> <option class="gf" value="77">FRENCH GUIANA</option> <option class="pf" value="166">FRENCH POLYNESIA</option> <option class="tf" value="203">FRENCH SOUTHERN TERRITORIES</option> <option class="ge" value="76">GEORGIA</option> <option class="de" value="54">GERMANY</option> <option class="gi" value="79">GIBRALTAR</option> <option class="gr" value="85">GREECE</option> <option class="gl" value="80">GREENLAND</option> <option class="gd" value="75">GRENADA</option> <option class="gp" value="83">GUADELOUPE</option> <option class="hk" value="91">HONG KONG</option> <option class="hu" value="96">HUNGARY</option> <option class="is" value="104">ICELAND</option> <option class="in" value="100">INDIA</option> <option class="id" value="97">INDONESIA</option> <option class="ei" value="98">IRELAND</option> <option class="il" value="99">ISRAEL</option> <option class="it" value="105">ITALY</option> <option class="jm" value="106">JAMAICA</option> <option class="jp" value="108">JAPAN</option> <option class="jo" value="107">JORDAN</option> <option class="lt" value="127">LITHUANIA</option> <option class="lu" value="128">LUXEMBOURG</option> <option class="mv" value="147">MALDIVES</option> <option class="ml" value="137">MALI</option> <option class="mt" value="145">MALTA</option> <option class="mh" value="135">MARSHALL ISLANDS</option> <option class="mq" value="142">MARTINIQUE</option> <option class="mx" value="149">MEXICO</option> <option class="mc" value="132">MONACO</option> <option class="nl" value="158">NETHERLANDS</option> <option class="nc" value="153">NEW CALEDONIA</option> <option class="nz" value="162">NEW ZEALAND</option> <option class="nf" value="155">NORFOLK ISLAND</option> <option class="mp" value="141">NORTHERN MARIANA ISLANDS</option> <option class="no" value="159">NORWAY</option> <option class="pa" value="164">PANAMA</option> <option class="pg" value="167">PAPUA NEW GUINEA</option> <option class="py" value="176">PARAGUAY</option> <option class="pe" value="165">PERU</option> <option class="pl" value="170">POLAND</option> <option class="pt" value="174">PORTUGAL</option> <option class="pr" value="173">PUERTO RICO</option> <option class="qa" value="177">QATAR</option> <option class="kn" value="114">SAINT KITTS AND NEVIS</option> <option class="lc" value="122">SAINT LUCIA</option> <option class="pm" value="171">SAINT PIERRE AND MIQUELON</option> <option class="sk" value="191">SLOVAKIA</option> <option class="si" value="189">SLOVENIA</option> <option class="za" value="233">SOUTH AFRICA</option> <option class="es" value="65">SPAIN</option> <option class="lk" value="124">SRI LANKA</option> <option class="se" value="186">SWEDEN</option> <option class="ch" value="41">SWITZERLAND</option> <option class="th" value="205">THAILAND</option> <option class="tr" value="212">TURKEY</option> <option class="uk" value="74">UNITED KINGDOM</option> <option class="us" value="220">UNITED STATES</option> <option class="um" value="219">UNITED STATES MINOR OUTLYING ISL</option> <option class="uy" value="221">URUGUAY</option> <option class="ve" value="223">VENEZUELA</option> <option class="vn" value="226">VIET NAM</option> <option class="vg" value="224">VIRGIN ISLANDS, BRITISH</option> <option class="vi" value="225">VIRGIN ISLANDS, U.S.</option> <option class="wf" value="228">WALLIS AND FUTUNA</option>
-                            </select>
-                            <span class="info">Please enter your country</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Username *</span>
-                            <input name="username" type="text" class="text-input tbox required check var-username" autocomplete="on" maxlength="12">
-                            <span class="info">Please enter a username that you can easily remember. This must be 6-12 characters using letters, numbers, dashes and underscores only.</span>
-                        </div>
-            
-                        <div class="input-wrapper">
-                            <span class="placeholder">Password *</span>
-                            <input name="password" type="password" class="text-input tbox required check var-password" autocomplete="on" maxlength="12">
-                            <span class="info">Please enter a password that is 6-12 characters using letters, numbers and underscores only, with no spaces. Please remember that passwords are case sensitive.</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Confirm Password *</span>
-                            <input name="confirmpassword" type="password" class="text-input tbox required var-confirmpassword" autocomplete="on" maxlength="12">
-                            <span class="info">Please re-enter your password.</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Title *</span>
-                            <select name="title" class="text-input tbox var-title required" autocomplete="on">
-                                <option value=""></option>
-                                <option value="Mr">Mr</option>
-                                <option value="Mrs">Mrs</option>
-                                <option value="Ms">Ms</option>
-                            </select>
-                            <span class="info">Please select your preferred title.</span>
-                        </div>
-
-                    </div> <!-- left ender -->
-                    <div class="right">
-                        <div class="input-wrapper">
-                            <span class="placeholder">First Name *</span>
-                            <input name="firstname" type="text" class="text-input tbox required var-firstname" autocomplete="on">
-                            <span class="info">Please enter your first name only.</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Middle Name</span>
-                            <input name="midlename" type="text" class="text-input tbox var-midlename" autocomplete="on">
-                            <span class="info">Please enter your middle name only. (this is not a mandatory field)</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Last Name *</span>
-                            <input name="lastname" type="text" class="text-input tbox required var-lastname" autocomplete="on">
-                            <span class="info">Please enter your last name only.</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Email *</span>
-                            <input name="email" type="text" class="text-input tbox required var-email check" autocomplete="on">
-                            <span class="info">Please enter your email address accurately as we will send you important account information, promotions and bonuses.</span>
-                        </div>
-                        
-                        <div class="input-wrapper">
-                            <span class="placeholder">Confirm Email *</span>
-                            <input name="confirmemail" type="text" class="text-input tbox required var-confirmemail" autocomplete="on">
-                            <span class="info">This should match your email address.</span>
-                        </div>
-                    </div> <!-- right ender -->
-                    <br class="clear">
-                </div> <!-- sp1 ender -->
-
-                <div class="page" id="sp2">
-                    <div class="left">
-                        <div class="input-wrapper">
-                            <span class="placeholder">Date of birth *</span>
-                            <select name="dob-mm" class="text-input tbox required nosize var-dobmm" autocomplete="on">
-                                <option value="">MM</option>
-                                <option value="01">01</option>
-                                <option value="02">02</option>
-                                <option value="03">03</option>
-                                <option value="04">04</option>
-                                <option value="05">05</option>
-                                <option value="06">06</option>
-                                <option value="07">07</option>
-                                <option value="08">08</option>
-                                <option value="09">09</option>
-                                <option value="10">10</option>
-                                <option value="11">11</option>
-                                <option value="12">12</option>
-                            </select>
-                            <select name="dob-dd" class="text-input tbox required nosize var-dobdd" autocomplete="on">
-                                <option value="">DD</option>
-                                <option value="01">01</option>
-                                <option value="02">02</option>
-                                <option value="03">03</option>
-                                <option value="04">04</option>
-                                <option value="05">05</option>
-                                <option value="06">06</option>
-                                <option value="07">07</option>
-                                <option value="08">08</option>
-                                <option value="09">09</option>
-                                <option value="10">10</option>
-                                <option value="11">11</option>
-                                <option value="12">12</option>
-                                <option value="13">13</option>
-                                <option value="14">14</option>
-                                <option value="15">15</option>
-                                <option value="16">16</option>
-                                <option value="17">17</option>
-                                <option value="18">18</option>
-                                <option value="19">19</option>
-                                <option value="20">20</option>
-                                <option value="21">21</option>
-                                <option value="22">22</option>
-                                <option value="23">23</option>
-                                <option value="24">24</option>
-                                <option value="25">25</option>
-                                <option value="26">26</option>
-                                <option value="27">27</option>
-                                <option value="28">28</option>
-                                <option value="29">29</option>
-                                <option value="30">30</option>
-                                <option value="31">31</option>
-                            </select>
-                            <select name="dob-yy" class="text-input tbox required nosize var-dobyy" autocomplete="on">
-                                <option value="">YYYY</option>
-                                                                <option value="1995">1995</option>
-                                                                <option value="1994">1994</option>
-                                                                <option value="1993">1993</option>
-                                                                <option value="1992">1992</option>
-                                                                <option value="1991">1991</option>
-                                                                <option value="1990">1990</option>
-                                                                <option value="1989">1989</option>
-                                                                <option value="1988">1988</option>
-                                                                <option value="1987">1987</option>
-                                                                <option value="1986">1986</option>
-                                                                <option value="1985">1985</option>
-                                                                <option value="1984">1984</option>
-                                                                <option value="1983">1983</option>
-                                                                <option value="1982">1982</option>
-                                                                <option value="1981">1981</option>
-                                                                <option value="1980">1980</option>
-                                                                <option value="1979">1979</option>
-                                                                <option value="1978">1978</option>
-                                                                <option value="1977">1977</option>
-                                                                <option value="1976">1976</option>
-                                                                <option value="1975">1975</option>
-                                                                <option value="1974">1974</option>
-                                                                <option value="1973">1973</option>
-                                                                <option value="1972">1972</option>
-                                                                <option value="1971">1971</option>
-                                                                <option value="1970">1970</option>
-                                                                <option value="1969">1969</option>
-                                                                <option value="1968">1968</option>
-                                                                <option value="1967">1967</option>
-                                                                <option value="1966">1966</option>
-                                                                <option value="1965">1965</option>
-                                                                <option value="1964">1964</option>
-                                                                <option value="1963">1963</option>
-                                                                <option value="1962">1962</option>
-                                                                <option value="1961">1961</option>
-                                                                <option value="1960">1960</option>
-                                                                <option value="1959">1959</option>
-                                                                <option value="1958">1958</option>
-                                                                <option value="1957">1957</option>
-                                                                <option value="1956">1956</option>
-                                                                <option value="1955">1955</option>
-                                                                <option value="1954">1954</option>
-                                                                <option value="1953">1953</option>
-                                                                <option value="1952">1952</option>
-                                                                <option value="1951">1951</option>
-                                                                <option value="1950">1950</option>
-                                                                <option value="1949">1949</option>
-                                                                <option value="1948">1948</option>
-                                                                <option value="1947">1947</option>
-                                                                <option value="1946">1946</option>
-                                                                <option value="1945">1945</option>
-                                                                <option value="1944">1944</option>
-                                                                <option value="1943">1943</option>
-                                                                <option value="1942">1942</option>
-                                                                <option value="1941">1941</option>
-                                                                <option value="1940">1940</option>
-                                                                <option value="1939">1939</option>
-                                                                <option value="1938">1938</option>
-                                                                <option value="1937">1937</option>
-                                                                <option value="1936">1936</option>
-                                                                <option value="1935">1935</option>
-                                                                <option value="1934">1934</option>
-                                                                <option value="1933">1933</option>
-                                                                <option value="1932">1932</option>
-                                                                <option value="1931">1931</option>
-                                                                <option value="1930">1930</option>
-                                                                <option value="1929">1929</option>
-                                                                <option value="1928">1928</option>
-                                                                <option value="1927">1927</option>
-                                                                <option value="1926">1926</option>
-                                                                <option value="1925">1925</option>
-                                                                <option value="1924">1924</option>
-                                                                <option value="1923">1923</option>
-                                                                <option value="1922">1922</option>
-                                                                <option value="1921">1921</option>
-                                                                <option value="1920">1920</option>
-                                                                <option value="1919">1919</option>
-                                                                <option value="1918">1918</option>
-                                                                <option value="1917">1917</option>
-                                                                <option value="1916">1916</option>
-                                                                <option value="1915">1915</option>
-                                                                <option value="1914">1914</option>
-                                                                <option value="1913">1913</option>
-                                                                <option value="1912">1912</option>
-                                                                <option value="1911">1911</option>
-                                                                <option value="1910">1910</option>
-                                                                <option value="1909">1909</option>
-                                                                <option value="1908">1908</option>
-                                                                <option value="1907">1907</option>
-                                                                <option value="1906">1906</option>
-                                                                <option value="1905">1905</option>
-                                                                <option value="1904">1904</option>
-                                                                <option value="1903">1903</option>
-                                                                <option value="1902">1902</option>
-                                                                <option value="1901">1901</option>
-                                                                <option value="1900">1900</option>
-                                                                <option value="1899">1899</option>
-                                                                <option value="1898">1898</option>
-                                                                <option value="1897">1897</option>
-                                                                <option value="1896">1896</option>
-                                                                <option value="1895">1895</option>
-                                                            </select>
-                            <span class="info">Please select your date of birth</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Address Line 1 *</span>
-                            <input name="address1" type="text" class="text-input tbox required var-address1" autocomplete="on">
-                            <span class="info">Please enter your street address with building number and apartment number (if needed)</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Address Line 2</span>
-                            <input name="address2" type="text" class="text-input tbox var-address2" autocomplete="on">
-                            <span class="info">Please ensure your address details are accurate.</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">City *</span>
-                            <input name="city" type="text" class="text-input tbox required var-city" autocomplete="on">
-                            <span class="info">Please enter your city or town name.</span>
-                        </div>
-                    </div>
-                    <div class="right">
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">State *</span>
-
-                            <select name="state" class="text-input tbox required var-state" autocomplete="on"></select>
-                            <span class="info">Please enter the state that you live in.</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Zip *</span>
-                            <input name="zip" type="text" class="text-input tbox required var-zip" autocomplete="on" maxlength="6">
-                            <span class="info">Please enter an accurate zip code</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Primary phone number *</span>
-                            <input name="phone" type="text" class="text-input tbox required check var-phone" autocomplete="on">
-                            <span class="info">Please enter your primary contact number.</span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Secondary phone number</span>
-                            <input name="mobile" type="text" class="text-input tbox var-mobilephone" autocomplete="on">
-                            <span class="info">If you have a secondary contact number please enter it here.</span>
-                        </div>
-
-                    </div>
-                </div> <!-- sp2 ender -->
-
-                <div class="page" id="sp3">
-                    <div class="left">
-                        <div class="input-wrapper">
-                            <span class="placeholder">Security Question *</span>
-                            <select name="securityquestion" class="text-input tbox required var-securityquestion" autocomplete="on">
-                                <option value=""></option>
-                                <option value="What is your mother's maiden name?">What is your mother's maiden name?</option>
-                                <option value="What is the name of your favorite pet?">What is the name of your favorite pet?</option>
-                                <option value="What high school did you attend?">What high school did you attend?</option>
-                                <option value="What is your favorite movie?">What is your favorite movie?</option>
-                                <option value="What is your favorite actor, musician or artist?">What is your favorite actor, musician or artist?</option>
-                            </select>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Security Answer *</span>
-                            <input name="securityanswer" type="text" class="text-input tbox required var-securityanswer" autocomplete="on">
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Maximum Weekly Deposit limit *</span>
-                            <select name="MaxCCPerWeek" class="text-input tbox required var-maxccperweek nosize" autocomplete="on">
-                                <option selected="selected" value="0.0">Unlimited</option>
-                                <option value="1000.0">$1000</option>
-                                <option value="950.0">$950</option>
-                                <option value="900.0">$900</option>
-                                <option value="850.0">$850</option>
-                                <option value="800.0">$800</option>
-                                <option value="750.0">$750</option>
-                                <option value="700.0">$700</option>
-                                <option value="650.0">$650</option>
-                                <option value="600.0">$600</option>
-                                <option value="550.0">$550</option>
-                                <option value="500.0">$500</option>
-                                <option value="450.0">$450</option>
-                                <option value="400.0">$400</option>
-                                <option value="350.0">$350</option>
-                                <option value="300.0">$300</option>
-                                <option value="250.0">$250</option>
-                                <option value="200.0">$200</option>
-                                <option value="150.0">$150</option>
-                                <option value="100.0">$100</option>
-                                <option value="50.0">$50</option>
-                            </select>
-                            <span class="info">
-                                If you wish, you may limit your total weekly deposits.<br> Just select the amount.
-                            </span>
-                        </div>
-                    </div>
-                    <div class="right">
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">Promo Code</span>
-                            <input name="promocode" type="text" class="text-input tbox var-promocode" autocomplete="on" value="">
-                            <span class="info">
-                                Got a promo code? Enter it here
-                            </span>
-                        </div>
-
-                        <div class="input-wrapper">
-                            <span class="placeholder">How did you hear about us?</span>
-                            <input name="referral" type="text" class="text-input tbox var-referral" autocomplete="on" value="">
-                            <span class="info">
-                                Were you referred to Top Bet by one of our customers? Enter their username and we will credit them with a special referral bonus.
-                            </span>
-                        </div>
-
-                    </div>
-                </div> <!-- sp3 ender -->
-
-                <div class="page" id="sp4">
-
-                    <div id="paycheckwrapper">
-                        <p style="text-align:center;font-size:14px;">Please verify your contact information below so that we can quickly and accurately process your payout requests</p>
-
-                        <div class="paycheck">
-                            <!--<div class="wm">
-                                <span class="left">SPORTSBETTING &bull; CASINO</span>
-                                <span class="center">SPORTSBETTING &bull; CASINO</span>
-                                <span class="right">SPORTSBETTING &bull; CASINO</span>
-                            </div>-->
-                            <div class="contents">
-                                <span class="label">Pay to</span> 
-                                <span id="check-name" class="name">John Doe</span>
-                                <!--<span id="check-money" class="money">$2500</span>-->
-
-                                <br class="clear"><br>
-
-                                <span class="label">the order of</span> 
-                                <span class="name">YOUR PAYOUT AMOUNT</span>
-
-                                <br><br>
-
-                                <p>
-                                    <span id="check-address"></span> <span id="check-city"></span><br>
-                                    <span id="check-email"></span><br>
-                                    <span id="check-phone"></span>
-                                </p>
-
-                                <img src="/images/signup/tblogo.png">
-
-                            </div>
-                        </div>
-
-                        <div id="terms">
-                            <input id="var-accept_terms" name="accept_terms" type="checkbox">I have read and accept the <a style="color:#FFCC33;" href="/inc/terms.php" target="termsWindow" onclick="window.open(this.href, this.target, 'width=500,height=750,scrollbars=1,resizable=1,status=1').focus();" title="Terms, conditions and rules">terms, conditions and rules</a> as published on this site. I confirm that I am over 18 years old.
-                        </div>
-                    </div>
-                    <div id="theSubmitLoader" class="hide" style="text-align:center;">
-                        <br><br><br>
-                        <img src="/images/signup/ajax-loader2.gif" alt="loading">
-                        <br><br><br>
-                    </div>
-                </div> <!-- sp4 ender -->
-            </div>
-            <div class="trustbox"><img src="/images/signup/trust.png"></div>
-            
-            <div class="infowrapper"><div class="info"></div></div>
-            
-            <div class="buttons">
-            	<!-- <a href="#" class="back">Back</a> -->
-                <a href="#" class="next">Next</a>
-            </div>
-            <div class="completewrapper hide">
-                <a href="#" class="complete">Complete</a>
-            </div>
-
-            <input type="hidden" value="" name="stateholder" id="stateholder">
-            <input type="hidden" value="9a463abd0dfd8187caf66b446a34869e" name="sessionholder" id="sessionholder">
-            <input type="hidden" value="" name="var-AffiliateIdentifier" id="var-AffiliateIdentifier">
-            <input type="hidden" value="" name="var-TrackerID" id="var-TrackerID">
-            
-        </div> <!-- signupbox ender -->
-    </div> <!-- signupboxwrapper ender -->
-
-    <div id="thecashier" style="width:1000px;height:665px;">
-        <iframe src="http://sportsbook.topbet.eu/servlet/com.goblinstudios.login.Login?url=https%3A%2F%2Fcashier.topbet.eu%2Ftopbet%2Fservlet%2Fcash.ID%3Fpage%3DDepositRedirect%26depositType%3DOptions" style="border:0;width:1000px;height:665px;"></iframe>
-    </div>
-
-</div>
-
-<link href="/js/signup/fbox.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/js/signup/fbox.js" type="text/javascript"></script> 
-
-<!--[if IE]> <link rel="stylesheet" type="text/css" media="all" href="/js/signup/ie.css" />
-<![endif]-->
-
-<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
-<!-- <script src="/js/signup/jquery.corner.js" type="text/javascript"></script> -->
-<script src="/js/signup/signup.v3.3.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-function gogosignup()
-{
-     $.fbox({ div: '#signupboxwrapper' });
-}
-
-$(document).ready(function(){
-    /*$('.newsignup, a[href$="signup.php"], a[href$="/signup.php"], a[href$="/test/home-signuptest.php?action=signup"]').live('click',function(){
-        gogosignup();
-        return false;
-    });*/
-    $('body').on('click','.newsignup, a[href$="signup.php"], a[href$="/signup.php"], a[href$="/test/home-signuptest.php?action=signup"]',function(){
-        gogosignup();
-        return false;
-    });
-    });
-
-</script>
-
-<script src="http://closure-library.googlecode.com/svn/trunk/closure/goog/base.js"></script>
-<script>
-  goog.require('goog.dom');
-  goog.require('goog.json');
-  goog.require('goog.proto2.ObjectSerializer');
-  goog.require('goog.string.StringBuffer');
-</script>
-<script src="/js/signup/phonemetadata.pb.js"></script>
-<script src="/js/signup/phonenumber.pb.js"></script>
-<script src="/js/signup/metadata.js"></script>
-<script src="/js/signup/phonenumberutil.js"></script>
-<script src="/js/signup/asyoutypeformatter.js"></script>
-
-<script type="text/javascript">
-    function validatePhone(phoneNumber,regionCode,theClass) {
-        //var $ = goog.dom.getElement;
-        try
-        {
-            var phoneUtil = i18n.phonenumbers.PhoneNumberUtil.getInstance();
-            var number = phoneUtil.parseAndKeepRawInput(phoneNumber, regionCode);
-            var isNumberValid = phoneUtil.isValidNumber(number);
-        }
-        catch(e)
-        {
-            return e;
-        }
-        var PNF = i18n.phonenumbers.PhoneNumberFormat;
-        $(theClass).val(phoneUtil.format(number, PNF.NATIONAL));
-        
-        return isNumberValid;
-    }
-</script>
 
 <!-- IOVATION SCRIPT STARTS HERE -->
-<input type="hidden" name="ioBB" id="ioBB" size="50">
+<input type="hidden" name="ioBB" id="ioBB">
 <script type="text/javascript"> 
 var io_enable_rip = true; // enable collection of Real IP
 var io_install_stm = false; // do not install Active X
@@ -977,8 +1319,33 @@ var io_install_flash = false; // do not install Flash
 
 
 
-
-
-
+<!-- COOKIE MANAGER SCRIPT -->
+<link type="text/css" rel="stylesheet" media="all" href="/inc/cookie-manager/cookie-manager.css">
+<div id="lightBoxGradient"></div>
+<div id="lightBoxMsg">
+	<div id="closeBtn"></div>
+	<div class="content">
+		<div class="popUpImg bSizeCoverNoRepeatCenter"></div>
+		<div class="popUptext">
+			<b></b>
+			<p></p>
+			<a href="#" id="btnGradient" class="" target=""></a>
+		</div>
+	</div>
+</div>	
+<!-- 
+	in tournamentStartTime enter the date and time casino tournament will start
+	must be in this format Ex: ('12 february 2014 8:32pm')
+ -->
+<span style="display:none;">06-26-2014 10:17 am - EST</span>
+<input type="hidden" class="tournamentStartTime" value="1402016400">
+<input type="hidden" class="currentTime" value="1403795867">
+	
+<script type="text/javascript" src="/js/cookie-manager/cookie-manager.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 </body></html>
