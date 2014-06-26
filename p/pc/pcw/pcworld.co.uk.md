@@ -1,57 +1,72 @@
-> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201044538id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626232446id_/http%3A//www.pcworld.co.uk/gbuk/privacy_on_pc_world-157-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | PC World
 
   * [](http://www.pcworld.co.uk/gbuk/s/home.html)
-  * [Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
+  * [****Laptops ****](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
     * [Laptops](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops-703-c.html)
     * [MacBooks](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptops/apple-laptops/703_7009_70009_xx_xx/xx-criteria.html)
-    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
+    * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
     * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
+    * [Laptop Buying Guide](http://www.pcworld.co.uk/gbuk/laptop-buying-guide-331-commercial.html)
+    * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
     * Clearance
-    * Feature
-  * [Desktops](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors-73-u.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-laptops)
+  * [****Desktops ****](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors-73-u.html)
     * [Desktop PCs](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/desktop-pcs-706-c.html)
     * [Monitors](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/monitor-projectors/pc-monitors/708_7030_70030_xx_xx/xx-criteria.html)
     * [Projectors](http://www.pcworld.co.uk/gbuk/desktop-pc-monitors/monitor-projectors/projectors-7032-m.html)
+    * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
     * Clearance
-    * Feature
-  * [iPad & Tablets](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-desktops)
+  * [****iPad & Tablets ****](http://www.pcworld.co.uk/gbuk/laptops-netbooks-72-u.html)
     * [Apple iPad](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/apple-ipad/889_7550_70700_xx_xx/xx-criteria.html)
+    * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech-1642-commercial.html)
     * [Tablets](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/tablets/889_7505_70535_xx_xx/xx-criteria.html)
-    * [World of Tablets](http://www.pcworld.co.uk/gbuk/world-of-tablets-343-commercial.html)
     * [eReaders](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/ereaders/889_7485_70515_xx_xx/xx-criteria.html)
-    * [Smart watches](http://www.pcworld.co.uk/gbuk/laptops-netbooks/ipad-tablets-and-ereaders/smart-watches/889_7965_71035_xx_xx/xx-criteria.html)
     * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/pay-as-you-go-mobile-broadband/801_7301_70362_xx_xx/xx-criteria.html)
-    * Feature
-  * [Software](http://www.pcworld.co.uk/gbuk/software-gaming-books-79-u.html)
+    * [Mobile Phones](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband/mobile-phones-7564-m.html)
+    * [Tablet Buying Guide](http://www.pcworld.co.uk/gbuk/tablet-buying-guide-349-commercial.html)
+    * [Services](http://www.pcworld.co.uk/gbuk/knowhow-computing-369-commercial.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-ipad-tablets)
+  * [****Software ****](http://www.pcworld.co.uk/gbuk/software-gaming-books-79-u.html)
     * [Antivirus & security](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/business-home-office/internet-security-antivirus/740_7129_70138_xx_xx/xx-criteria.html)
     * [Business & Home Office](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/business-home-office-7129-m.html)
     * [Music and Video](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/creativity-7685-m.html)
     * [ Education & Reference](http://www.pcworld.co.uk/gbuk/software-gaming-books/software/leisure-education-reference-7130-m.html)
     * [Games](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming/pc-games/742_7316_70378_xx_xx/xx-criteria.html)
     * Clearance
-    * Feature
-  * [Printers & Office](http://www.pcworld.co.uk/gbuk/printers-ink-74-u.html)
+    * [Services](http://www.pcworld.co.uk/gbuk/care-plans-gaming-147-commercial.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-software)
+  * [****Printers & Office ****](http://www.pcworld.co.uk/gbuk/printers-ink-74-u.html)
     * [Printers](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners-709-c.html)
     * [Scanners](http://www.pcworld.co.uk/gbuk/printers-ink/printers-scanners/scanners/709_7368_70457_xx_xx/xx-criteria.html)
     * [Ink, Toner & Paper](http://www.pcworld.co.uk/gbuk/printers-ink/ink-toner-711-c.html)
-    * [Networking](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
     * [Office Supplies](http://www.pcworld.co.uk/gbuk/office-supplies/office-supplies-756-c.html)
-    * Feature
-  * [Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories-78-u.html)
+    * [Buying guides](http://www.pcworld.co.uk/gbuk/buying-guides-834-commercial.html)
+    * [Services](http://www.pcworld.co.uk/gbuk/care-plans-printers-scanners-140-commercial.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-printers)
+  * [****Accessories ****](http://www.pcworld.co.uk/gbuk/pc-accessories-78-u.html)
     * [iPad & Tablet Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/apple-accessories/apple-accessories/805_7310_70371_xx_xx/xx-criteria.html)
+    * [Smart Tech](http://www.pcworld.co.uk/gbuk/smart-tech-1642-commercial.html)
     * [Laptop Accessories](http://www.pcworld.co.uk/gbuk/laptops-netbooks/laptop-bags-netbook-cases-705-c.html)
-    * [Keyboards, Mice & Smart Pens](http://www.pcworld.co.uk/gbuk/pc-accessories/mice/mice/729_7101_70110_xx_xx/xx-criteria.html)
+    * [Keyboards & Mice](http://www.pcworld.co.uk/gbuk/pc-accessories/mice-729-c.html)
     * [Webcams, Headsets & Speakers](http://www.pcworld.co.uk/gbuk/pc-accessories/webcams-headsets-728-c.html)
     * [Cables and Power Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/cables-and-power-accessories-735-c.html)
     * [Music and Video](http://www.pcworld.co.uk/gbuk/pc-accessories/music-and-video-transfer-739-c.html)
     * [PC Gaming Accessories](http://www.pcworld.co.uk/gbuk/pc-accessories/pc-gaming-accessories-731-c.html)
     * [Mobile Phone Accessories](http://www.pcworld.co.uk/gbuk/mobile-phone-accessories/801_7565_70719_xx_xx/xx-criteria.html)
     * Clearance
-    * Feature
-  * [Network & Storage](http://www.pcworld.co.uk/gbuk/data-storage-76-u.html)
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-accessories)
+  * [****Network & Storage ****](http://www.pcworld.co.uk/gbuk/data-storage-76-u.html)
     * [Networking](http://www.pcworld.co.uk/gbuk/networking/networking-727-c.html)
+    * Smart Tech
+    * [Cloud storage](http://www.pcworld.co.uk/gbuk/knowhow-cloud-1315-commercial.html)
     * [External Hard Drives](http://www.pcworld.co.uk/gbuk/data-storage/hard-drives-720-c.html)
     * [Internal Hard Drives](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
     * [USB flash drives](http://www.pcworld.co.uk/gbuk/data-storage/portable-usb-memory-sticks/portable-usb-memory-sticks/721_7069_70076_xx_xx/xx-criteria.html)
@@ -59,16 +74,17 @@
     * [Blank media](http://www.pcworld.co.uk/gbuk/data-storage/cds-dvds-blu-ray-discs-725-c.html)
     * [Mobile Broadband](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/mobile-phones-broadband-801-c.html)
     * Clearance
-    * Feature
-  * [Upgrades](http://www.pcworld.co.uk/gbuk/components-upgrades-75-u.html)
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-network-storage)
+  * [****Upgrades ****](http://www.pcworld.co.uk/gbuk/components-upgrades-75-u.html)
     * [Graphic & Sound Cards](http://www.pcworld.co.uk/gbuk/components-upgrades/sound-interface-cards-717-c.html)
     * [Memory](http://www.pcworld.co.uk/gbuk/components-upgrades/memory-713-c.html)
-    * [Processors & Motherboards](http://www.pcworld.co.uk/gbuk/components-upgrades/processors-motherboards-719-c.html)
+    * [Motherboards with Processors](http://www.pcworld.co.uk/gbuk/components-upgrades/processors-motherboards/processors/719_7061_70066_xx_xx/xx-criteria.html)
     * [Hard Drives & Storage](http://www.pcworld.co.uk/gbuk/components-upgrades/internal-hard-drives-715-c.html)
     * [Cases, Power & Cables](http://www.pcworld.co.uk/gbuk/components-upgrades/other-components-718-c.html)
     * Clearance
-    * Feature
-  * [TV, Audio & Photo](http://www.pcworld.co.uk/gbuk/tv-dvd-audio-80-u.html)
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-upgrades)
+  * [****TV, Audio & Photo ****](http://www.pcworld.co.uk/gbuk/tv-dvd-audio-80-u.html)
     * [Televisions](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/televisions-743-c.html)
     * [Blu-ray, DVD & Home Cinema](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/dvd-blu-ray-home-cinema-745-c.html)
     * [Digital Set-top Boxes](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/digital-tv-services-806-c.html)
@@ -77,8 +93,10 @@
     * [Audio](http://www.pcworld.co.uk/gbuk/tv-dvd-audio/audio-747-c.html)
     * [Gaming](http://www.pcworld.co.uk/gbuk/software-gaming-books/gaming-742-c.html)
     * [Sat Nav](http://www.pcworld.co.uk/gbuk/broadband-sat-nav-phones/sat-nav-900-c.html)
+    * [Buying guides](http://www.pcworld.co.uk/gbuk/buying-guides-834-commercial.html)
     * Clearance
-    * Feature
+    * Brand shops
+    * [Buying for Business?](http://www.pcworld.co.uk/gbuk/pc-world-business-1276-commercial.html?intcmp=business-nav-tv-audio-satnav)
 
 
 
@@ -104,7 +122,7 @@
 
 When you are browsing websites on the internet, many of these websites store tiny text files called cookies on your computer, to help track your use of the site and to personalise your journey around the website. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site. 
 
-PCWorld.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - **we do not store personally identifiable information in our cookie data**. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too. 
+PCWorld.co.uk is no different, we use cookies to help you shop our website more effectively and to place online orders - **we do not store personally identifiable information in our cookie data** . We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too. 
 
 Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this. 
 
@@ -114,7 +132,7 @@ To learn about how change the cookie settings for your browser on our Cookies & 
 
 Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at PC World fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
 
-[](http://www.adobe.com/go/getreader)
+[ ](http://www.adobe.com/go/getreader)
 
 ### The PC World Cookie Recipe
 
@@ -151,7 +169,15 @@ Affiliate Window cookies are marked awXXXX where XXXX is the ID of the website r
 
 Further information provided in terms of guidance from Affiliate Window in the document below. 
 
-[Download AWIN The ePrivacy Directive FAQs PDF](http://pcw-ng.cdn.e-merchant.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf) (Right click and "Save link as")  
+[Download AWIN The ePrivacy Directive FAQs PDF](http://pcw.cdn.dixons.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf) (Right click and "Save link as")  
+  
+SaleCycle | 
+
+SaleCycle collect information to enable us to send bespoke service emails to customers that cannot complete their checkout journey. To opt out of SaleCycle tracking, please visit: 
+
+<http://www.salecycle.com/privacy-policy>
+
+This will drop a persistent cookie on your machine, blocking the use of SaleCycle tracking. If you delete this cookie, the tracking will resume.  
   
 Walker Media | 
 
@@ -190,7 +216,7 @@ PriceRunner is an approved supplier of ours, and they use 2 cookies in conjuncti
 
 **There is also a disclaimer of information regarding cookies from our supplier (ValueClick is the parent company for PriceRunner):**
 
- _The information provided by ValueClick, its use and the results of such use is provided on an as is, as available basis, without any representation or endorsement made and without warranty of any kind whether express or implied. To the fullest extent permissible pursuant to applicable law, ValueClick disclaims all warranties. ValueClick is not liable for any damages arising in contract, tort or otherwise from your use of or inability to use this information or from any action or decision taken as a result of using this information. Please note that, whilst every effort is made to ensure the accuracy of the information, it is made available for general information only and is specifically directed to the recipient._  
+_The information provided by ValueClick, its use and the results of such use is provided on an as is, as available basis, without any representation or endorsement made and without warranty of any kind whether express or implied. To the fullest extent permissible pursuant to applicable law, ValueClick disclaims all warranties. ValueClick is not liable for any damages arising in contract, tort or otherwise from your use of or inability to use this information or from any action or decision taken as a result of using this information. Please note that, whilst every effort is made to ensure the accuracy of the information, it is made available for general information only and is specifically directed to the recipient._  
   
 Foresee | 
 
@@ -217,11 +243,11 @@ These are all the cookies currently used by our website and our approved supplie
 
 If you feel you would like to change your personal interaction with cookies, you can adjust storage of cookies settings through your web browser by checking out our Cookies & Your Computer page.
 
-_**Please be aware**_ disabling cookies will severely limit your ability to shop on PCWorld.co.uk and disable features of many websites across the internet. 
+_**Please be aware** _ disabling cookies will severely limit your ability to shop on PCWorld.co.uk and disable features of many websites across the internet. 
 
 **Sharing our pages online**
 
-On PCWorld.co.uk you are able to share certain pages with your friends and networks through 3rd party sites such as [Facebook](https://www.facebook.com/help/?page=176591669064814), [Twitter](https://twitter.com/privacy) and [Google+](http://www.google.com/intl/en/policies/). If you choose to share via these networks, you may have cookies from these networks stored on your computer. These cookies are not something we control and are sent to you by the 3rd party site you share through – click the links above to learn about the network’s policy on privacy and cookies.
+On PCWorld.co.uk you are able to share certain pages with your friends and networks through 3rd party sites such as [Facebook](https://www.facebook.com/help/?page=176591669064814) , [Twitter](https://twitter.com/privacy) and [Google+](http://www.google.com/intl/en/policies/) . If you choose to share via these networks, you may have cookies from these networks stored on your computer. These cookies are not something we control and are sent to you by the 3rd party site you share through – click the links above to learn about the network’s policy on privacy and cookies.
 
 ### Cookies & Your Computer
 
@@ -231,10 +257,10 @@ Cookies being disabled will limit your experience of PCWorld.co.uk and many othe
 
 First, find out what your default web browser is on your machine, or the browser you use most often to access the internet. To work out what browser you are using, simply open the internet as usual, and then follow the steps below: 
 
-**PC Users**  
+**PC Users**   
 On the tool bar at the top of your browser click 'Help' and choose the 'About' option from the drop down. This will tell you the browser type and version. 
 
-**Mac Users**  
+**Mac Users**   
 Open the internet as usual and once open, click on the Apple icon in the top left corner and choose the 'About' option. This will again tell you the browser type and version.
 
 Once you know the browser you are using you can find the cookie settings using the guide below relevant for your browser: 
@@ -385,14 +411,6 @@ AudienceScience help us develop a better understanding for customer behaviour on
 
 Then click the link to opt-out. This will drop a cookie that will stop the tracking of your activity by AudienceScience. If you delete this cookie, the tracking will resume.
 
-SaleCycle
-
-SaleCycle collect information to enable them to send bespoke service emails to customers that cannot complete their checkout journey. To opt out of SaleCycle tracking, please visit: 
-
-<http://www.salecycle.com/privacy-policy>
-
-This will drop a persistent cookie on your machine, blocking the use of SaleCycle tracking. If you delete this cookie, the tracking will resume.
-
 ### Privacy on PC World
 
 Is shopping online with PC World safe?
@@ -437,7 +455,7 @@ The information we collect via this website may include:
 
 (1) Any personal details you type in and submit, such as name, address, email address, etc. We only collect information that we require for completion of orders and account set up. We never store payment details on the websites. 
 
-(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found on our complete guide to cookies [here](http://www.pcworld.co.uk/gbuk/privacy-on-pc-world-157-commercial.html#tab-2). 
+(2) Data which allows us to recognise you, your preferences (including items added to your basket) and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A complete guide to our cookies policy and how to control cookies on your computer can be found on our complete guide to cookies [here](http://www.pcworld.co.uk/gbuk/privacy-on-pc-world-157-commercial.html#tab-2) . 
 
 (3) Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website and your location (e.g. county/city) for our site analytics. 
 
@@ -459,7 +477,7 @@ We would also like to inform you of various promotions, goods and services that 
 
 Your rights
 
-(1) You can ask us to update your personal information by emailing precise details of your request to [customer.services@pcworld.co.uk](mailto:customer.services@pcworld.co.uk).
+(1) You can ask us to update your personal information by emailing precise details of your request to [customer.services@pcworld.co.uk](mailto:customer.services@pcworld.co.uk) .
 
 (2) You can ask us not to send you future marketing communications. To do this, simply click this [link](https://dixonsregistration.co.uk/permoptout/?referrer=2) and submit your details.
 
