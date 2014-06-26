@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224050644id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spindices.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123235id_/http%3A//profile.standardandpoors.com/content/SP_Global_PII_Privacy_Form) for the most accurate reproduction.*
 
 # Privacy Notice for S&P Capital IQ and S&P Indices
 
@@ -11,7 +11,7 @@ Contact information that you provide to us such as: your name, title and organiz
 
 **WHY DOES SPCIQ AND S PDJI COLLECT PII?**
 
-To process your transactions, maintain your account, ensure your adherence to our [Terms of Use](http://www.standardandpoors.com/terms-of-use/en/us/), and respond to your inquiries.
+To process your transactions, maintain your account, ensure your adherence to our [Terms of Use](https://www.spcapitaliq.com/home/terms-of-use.aspx), and respond to your inquiries.
 
 To provide you with information about services and products that we believe may be of interest to you offered by SPCIQ and SPDJI and other parts of our parent company, McGraw Hill Financial ("MHF").  
   
