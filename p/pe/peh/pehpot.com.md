@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pehpot.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123062337id_/http%3A//www.pehpot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehpot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100612id_/http%3A//www.pehpot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make or Break
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pehcats@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mommypehpot@gmail.com.
 
 At www.pehpot.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pehpot.com/ and how it is used.
 
