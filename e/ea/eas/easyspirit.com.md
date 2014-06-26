@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817180309id_/http%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyspirit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084155id_/https%3A//www.easyspirit.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Easy Spirit: Comfortable Shoes & Handbags for Women
+# Comfortable Shoes for Women | Easy Spirit
 
 This easyspirit.com web site is a service of JAG Footwear, Accessories and Retail Corporation.
 
@@ -8,7 +8,7 @@ Easy Spirit respects the privacy of our customers and the users of our website a
 
 Our policy was last updated on May 1, 2012.
 
-sy Spirit collects data that you provide on easyspirit.com and the websites of our affiliated brands by visiting our websites or through transactions, email registrations, sweepstakes, contests, or online memberships; to our sales associates in our company-owned Easy Spirit stores and the stores and outlets of our affiliated brands (including Nine West, Nine West Vintage America Collection, Kasper, shoeWoo, Kurt Geiger and Jones New York); or through phone, mail and fax interactions or paper registrations that you submit.
+Easy Spirit collects data that you provide on easyspirit.com and the websites of our affiliated brands by visiting our websites or through transactions, email registrations, sweepstakes, contests, or online memberships; to our sales associates in our company-owned Easy Spirit stores and the stores and outlets of our affiliated brands (including Nine West, Nine West Vintage America Collection, Kasper, shoeWoo, Kurt Geiger and Jones New York); or through phone, mail and fax interactions or paper registrations that you submit.
 
 Easy Spirit may collect and store two types of information: "personal information" and "automatic information." 
 
@@ -26,7 +26,7 @@ Most browsers are initially set up to accept cookies but allow you to change you
 
 Finally, Easy Spirit occasionally obtains email addresses of active Easy Spirit store customers who requested fashion emails on other websites and the email addresses and/or phone numbers of people who submitted their contact information to Internet search engines to be contacted by Easy Spirit. Easy Spirit also reserves the right to obtain publicly accessible customer demographics. 
 
-Easy Spirit uses this information to confirm and process sales transactions or to contact you with questions or communications about your order, or to respond to your customer service inquiries. 
+Easy Spirit also uses this information to enhance and personalize your shopping experience, both online and in our stores, to communicate with you for marketing and promotional purposes including via targeted postal pieces, phone messages, or personalized emails, and to improve the effectiveness of our websites and business activities. You may indicate your contact preferences regarding promotional communications either directly to us online or to customer service representatives. 
 
 You may access and edit the information that you provide online by signing in at easyspirit.com. Simply click on the "[Sign in or sign up](http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Login-Show)" link from the home page and enter your email address and password to access your information. You can request password help at any time by clicking on the "[I don't have/know my password](http://www.easyspirit.com/on/demandware.store/Sites-easyspirit-Site/default/Login-Show)" link, at which time easyspirit.com will email a password to the associated email address. Currently, we do not provide online access to information that you provided to Easy Spirit offline. But at any time you may request access to your information from our customer service representatives. 
 
