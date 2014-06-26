@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141138id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083355id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
 
 # Memedroid - Privacy policy
 
