@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104121455id_/http%3A//peterpanbus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626172336id_/http%3A//peterpanbus.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Peter Pan Bus
+
+**4th of July Travel Advisory : Buses will depart as scheduled over the 4th of July holiday. Please be advised that schedules are subject to change and delays are anticipated due to traffic.** [  » MORE INFO](http://peterpanbus.com/travel%20advisories/july-2014/)
 
 ## What Information Do We Collect?
 
