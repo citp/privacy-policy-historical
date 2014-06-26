@@ -1,83 +1,47 @@
-> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224055846id_/http%3A//www.riteaidonlinestore.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaidonlinestore.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052147id_/http%3A//riteaid.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Rite Aid Online Store: Help > Privacy, Security & Accessibility
+# Online Privacy & Security Policy – Rite Aid
 
-### Privacy Policy
+At Rite Aid we are committed to providing you with the most advanced health care possible. The personal and medical information that we receive from you is vital for us to help you maintain your health. Your online privacy is important to us and we want you to be assured that your personal information is properly safeguarded.
 
-**What is the privacy policy for the Rite Aid Online Store powered by Amazon®?**  
-RITE AID ONLINE STORE POWERED BY Amazon®  
-PRIVACY AND SECURITY POLICY  
+## What Information We Collect
 
+We collect personal information you provide when using the Riteaid.com website. Your name, password, home address, medical information, e-mail address and date of birth are examples of personally identifiable information. This information is necessary to respond to your questions, provide you additional healthcare information and coupons or process your order.
 
-At the Rite Aid Online Store powered by Amazon® (the "Site"), we are committed to providing you with the best shopping experience possible. The personal information that we receive from you is vital for us to provide you with information on other products you may be interested in. Your online privacy is important to us and we want you to be assured that your personal information is properly safeguarded. 
+### Information Automatically Collected
 
-**What Information We Collect**  
-We recognize your right to confidentiality and are committed to protecting your privacy.  We collect personal information you provide when using the Site. Your name, password, home address, email address and date of birth are examples of personally identifiable information.  This information is necessary to respond to your questions, provide you promotions or coupons, or process your order. 
+We automatically receive and collect certain types of information whenever you visit the Site. For example, like many Web sites, we use "cookies" and Web beacons (described below) and obtain certain types of information when your Web browser accesses our Site. This information includes the Internet protocol (IP) address of your computer, your browser software and operating system, your web server, the date and time you access our Site, session information (such as download errors and page response times), information about your viewing, search and purchase history and information about the referring URL and the URL clickstream to, through, and from our Site. We use this information to monitor the usage and performance of our Site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns. Please note that we do not respond to or grant any requests by users of our Website not to track or collect personally identifiable information.
 
-**Information Automatically Collected**  
-We automatically receive and collect certain types of information whenever you visit the Site. For example, like many Web sites, we use "cookies" and Web beacons (described below) and obtain certain types of information when your Web browser accesses our Site. This information includes the Internet protocol (IP) address of your computer, your browser software and operating system, your web server, the date and time you access our Site, session information (such as download errors and page response times), information about your viewing, search and purchase history and information about the referring URL and the URL clickstream to, through, and from our Site. We use this information to monitor the usage and performance of our Site, to enhance our customers' search and shopping experiences and to determine aggregate information about our user base and usage patterns. 
+### How We Use Your Information
 
-**Your Account**  
-When you place an order, we will ask you to set up "your account," which includes your name, e-mail address, mailing address, credit card number and expiration date. Using your account information, we will send you communications that we believe are relevant to you, including newsletters and e-mails. If you prefer not to receive optional e-mails or other communications from us, you may either **call 1-866-967-4832** or email [riteaidonlinestore@acs-inc.com](mailto:riteaidonlinestore@acs-inc.com) and request to unsubscribe from these lists.
+The personal and medical information we receive from you enables us to provide you individualized customer service. That customer service may include messaging with Rite Aid pharmacists, providing healthcare information, special coupons and product offers, and administering contests, surveys or promotions. We may occasionally send useful information to you by e-mail, including new products and when specials or promotions become available.
 
-If you would like to review or revise the information we have in your account, you may access such information by clicking on the "your account" link below or on any screen of our Site.
+We never sell or rent your personal information to any third parties. We will not share or intentionally release personal information other than to you, Rite Aid Hdqtrs. Corp. and its subsidiaries, your authorized representatives including medical professionals and our agents, who are employed to perform functions on our behalf. These functions may include sending postal mail and e-mails, delivering packages, fulfilling orders, analyzing information or processing payments. Our agents may not use personal information for any purpose other than in performing their functions for the Company. We also may be required by valid legal process (warrants or subpoenas), to prevent harm or injury (such as product recalls or other circumstances) or by law to disclose your medical and personal information.
 
-**Information From Third Parties**  
-If we receive updated account information from third parties, we may revise your account for you so that we can efficiently process your orders, deliver your packages or otherwise communicate with you. For example, we may receive customer information from our shippers or from third parties with which we operate co-branded businesses. In addition, we may acquire customer names, e-mail addresses and mailing addresses for select mailings from third parties.
+You may decline to receive any additional e-mails concerning new products and services by [emailing](mailto:inquiry@riteaid.com "emailing") us or calling 1-800 RITE AID (1-800-748-3243) and we will promptly remove your name from the mailing list. You also have the right not to disclose your medical history to us. We encourage you to complete the information so that we can give you the most comprehensive health care possible. Rite Aid holds all this information in the strictest privacy.
 
-**Other Information You Provide**  
-We collect additional information that you choose to give us. For example, you provide information to us when you complete surveys or contest entry forms, sign up for special discounts or coupons, communicate with us by e-mail, phone or otherwise, provide product reviews, or provide alternative delivery addresses.
+### Links to Other Sites
 
-**Customer Reviews**  
-We are pleased to hear from our customers and welcome your comments regarding our products. Customer Reviews allow other customers to see what you think about a product.
+We may provide links to other sites that we believe offer our customers useful products and services. Although our website contains links to other sites, we will not share your personal information with these sites without your permission. We do not make any endorsement of or representation or warranty regarding linked sites or their content since they are not controlled by Rite Aid. This Privacy and Security Policy applies only to activities conducted and personal information collected on this Riteaid.com website. We are not responsible for the privacy policies or security procedures of these links. We suggest you review a linked site's privacy and security policy before entering any information.
 
-**Links to Other Sites**  
-Our Site may contain links to and from other Web sites operated and maintained by separate companies.   Although the Site may contain links to other sites, we will not share your personal information with these sites without your permission. We do not make any endorsement of or representation or warranty regarding linked sites or their content, as they are not controlled by our Site. We have no responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. The privacy policies of these Web sites may differ from our policy, so you should always review the privacy statement of each linked Web site you visit.
+### Updating your Personal Information
 
-**Security**  
-Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input.  
-Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing.
+You can review and update any of the information that you have given us by [emailing](mailto:inquiry@riteaid.com "emailing") us or calling 1-800 RITE AID (1-800-748-3243) . Our customer support staff will update your information.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+### Security
 
-When you place an order online, your personal information and credit card or debit card information are encrypted using SSL encryption technology before being sent over the Internet, We use SSL technology to prevent your information from being stolen or intercepted while being transferred to us. Your credit card information is always stored in encrypted form in a restricted-access database that is away from our Web site database so it isn't connected to the Internet, to keep it safe from hackers.
+Riteaid.com utilizes Secure Socket Layer (SSL) technology, which encrypts your personal and medical information as it is transmitted over the Internet. Rite Aid is committed to securing your personal information, and this technology is designed for use with secure Web servers.
 
-**Sharing Your Information with Third Parties**  
-**We protect all of your information against unauthorized access or release. We share your personal information with third parties as follows:**
+When you visit Riteaid.com, you will be assigned a "cookie", which is a small text file stored on your computer's hard drive. Cookies store your preferences and settings for a particular website and use them the next time you visit.
 
-**Brand Manufacturers** \- We may develop programs with some of our brand manufacturers through which you may be offered special discounts or coupons on products in exchange for providing your e-mail address or completing a survey about the manufacturer's products. When you are offered such discounts or coupons in exchange for providing information (for example, giving your e-mail address or completing a survey), you will be notified that if you choose to participate, your name, e-mail address and responses will be shared with the brand manufacturer. No other information will be shared. 
+Most Internet browsers permit you to erase or block cookies. Refer to your browser instructions or help screens to assist you in these processes: preventing your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please note that cookies permit you to take full advantage of Riteaid.com features and we recommend that you leave them turned on.
 
-**Agents** \- We may enter into agreements with other companies or individuals to perform functions on our behalf. These functions may include sending promotional e-mails on our behalf to such companies' customers; serving advertisements on our behalf, analyzing data; providing marketing assistance; processing credit card or debit card payments; and fulfilling and delivering orders. These companies and individuals have access to only to information necessary to perform their functions. They are not allowed to use the information for any other purpose and are contractually obligated to maintain the confidentiality and security of the information. We may share non-personal, summary, or aggregate customer data with partners and other third parties. 
+### Children's Privacy
 
-**Business Transfers** \- We may buy or sell stores or assets. In such transactions, customer information is usually treated as one of the transferred business assets. Should Rite Aid Online Store or substantially all of its assets be sold, customer information will be one of the transferred business assets. In that event, we will post a notification on this page or send you an e-mail so that you are always aware of how your information is being used. 
+Just like you, we're especially aware of children's privacy issues. We know that parents are justifiably concerned about their children's activities online and what's being done with the information they reveal. That's why we will never intentionally collect information from children under 13, with the exception of e-mail addresses used only for reply purposes. If we learn that we have collected personal information from a child under age 13, we will promptly delete that information. If you believe that we might have any information from a child under age 13, please contact us at 1-800 RITE AID (1-800-748-3243).
 
-**Compliance with Law;** Protection of Rights, Property or Safety - We will disclose account and other personal information when we believe that disclosure is necessary to comply with the law, to enforce or apply our Terms of Use or other policies or user agreements, or to protect the rights, property, or safety of our business, our customers, or others.
+### Changes to Our Policy
 
-From time to time, we may partner with certain companies who, in conjunction with their membership programs or rewards programs, require that we disclose purchasing or other personal information about their members who visit our Site (for example, to earn points for purchases made on our Site through links from the partner site). We will disclose only the information required to make these programs work for you and support your membership in them. In addition, we disclose this information to such companies only if you have consented first, including consent implied by your agreement to the membership or participation rules. If you do not want us to disclose that information to the strategic partner, then you must contact the partner directly.
+This policy was last updated on July 9, 2013. We reserve the right to modify, change or amend this policy at any time. Please check this policy periodically for changes. The use of information that you provide us now is subject to the privacy policy in effect at the time of use. Use of this Riteaid.com website after modification of this policy is deemed to constitute your consent to this policy as amended.
 
-**Cookies**  
-To personalize and enhance your browsing and shopping experience, we use a feature on your Internet browser called a cookie. Cookies are small files that your Web browser places on your computer's hard drive. We use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you to us, so that you do not need to re-enter this information every time you shop at the Site. Cookies also let us know how you found us (e.g., through a particular Web site or advertisement). Cookies are not used to access information entered on the secure server. This information can be accessed only when you enter your name and password. If you choose to configure your browser to remove or reject our cookies, you will not be able to make purchases from our Site or take advantage of many of our features.
-
-**Web Beacons**  
-From time to time we contract with third party companies to help us better provide relevant products, services and information to you and to help us effectively measure advertising effectiveness. Some of these companies use cookies and/or Web beacons (also known as action tags or single pixel gifs). A Web beacon is a transparent image that has been placed on a Web page and sends a signal when a user has visited that page. A Web beacon does not contain any personal information. No information that is personally identifiable to you is transmitted to the third party using the Web beacon. The third party is required to protect the privacy of the information it receives using Web beacons or cookies and is not allowed to use the information it receives for any purpose beyond what is necessary to assist us. In addition, we may use web beacons in connection with the e-mails we send to our customers, to determine whether and when the images in our e-mail were rendered (which allows us to determine whether the e-mail was opened). This information may then be aggregated and used to assess the effectiveness of our e-mail communications.
-
-**Unsolicited E-mail (SPAM)**  
-Your privacy is very important to us. Be assured that, in accordance with this privacy policy, we do not sell or distribute our customer list to third parties. You should be aware, however, that unscrupulous marketers can sometimes "harvest" your e-mail address directly from your computer or another person's address book or even obtain your e-mail address through programs that automatically search web pages and e-mail traffic for e-mail addresses.  If you opt out of receiving e-mail advertisements from Rite Aid Online Store, we may share that information with third parties in order to instruct them not to send advertisements on our behalf to you. If Rite Aid Online Store shares opt out information with a third party, we will direct such third party to use this information solely for the purpose of eliminating potential recipients from any e-mails they send out on our behalf.
-
-Please note that all e-mail that originates from us will display the Rite Aid Online Store logo (HTML e-mails) and Rite Aid Online Store copyright notice (text emails). In addition, our e-mails will contain the Rite Aid Online Store corporate address in Camp Hill, Pennsylvania. If you receive an unsolicited e-mail that you believe is connected with us in any way, please forward the e-mail (as an attachment) to [riteaidonlinestore@acs-inc.com](mailto:riteaidonlinestore@acs-inc.com) and we will investigate.
-
-**Children**  
-We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use our Site only with the involvement of a parent or guardian.
-
-**Your Consent**  
-By using our Site (including through our customer service line), you consent to the collection, use, and disclosure of information in accordance with the terms of this privacy policy.  This policy was last updated on August 30, 2011. We reserve the right to modify or amend this policy at any time. If we ever change our privacy policy, we will post any changes on this page or send you an e-mail so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. Unless we clearly state otherwise, the changes to our privacy policy will affect only the information we collect after the effective date of the change. Use of the Site after modification of this policy is deemed to constitute your consent to this policy as amended.
-
-**Your Comments**  
-We welcome your feedback. If you have questions or comments about our privacy policies, feel free to call or write us:
-
-**By mail:**  
-Privacy Officer   
-Rite Aid Online Store  
-30 Hunter Lane  
-Camp Hill, PA 17011  
-**By phone:** (717) 761-2633 
+**Policy Updated: December 30, 2013**
