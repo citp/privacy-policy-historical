@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806073052id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084234id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
 
 # Plastiq | Privacy Policy
 
@@ -46,7 +46,7 @@ Registered Plastiq users, in addition to easily sending immediate payments to ou
 
 ### Exclusions
 
-This Policy does not apply to any unsolicited information you provide to us via this Website or any other means. This includes, but is not limited to, information posted to any public areas of the Website, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, cookie based information brought to Plastiq.com by your web browser, public postings on social media, and other unsolicited submissions (collectively, "Unsolicited Information").
+This Policy does not apply to any unsolicited information you provide to us via this Website or any other means. This includes, but is not limited to, information posted to any public areas of the Website, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, cookie based information brought to plastiq.com by your web browser, public postings on social media, and other unsolicited submissions (collectively, "Unsolicited Information").
 
 This Website may contain links to other websites not operated or controlled by Plastiq (collectively, "Third Party Sites"). The policies and procedures we describe here do not apply to such Third Party Sites, and furthermore, links from this Website do not imply that Plastiq endorses or has reviewed any Third Party Sites. Please always review the privacy policies and terms of service of any third parties prior to engaging in business or interacting with them.
 
