@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128192509id_/http%3A//www.fortlewis.edu/businesspolicies/InformationTechnology/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043345id_/http%3A//www.fortlewis.edu/businesspolicies/InformationTechnology/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Business Policies > Information Technology > Privacy Statement
 
@@ -52,6 +52,6 @@ The information provided in this privacy statement should NOT be construed as gi
 
 Comments and Feedback
 
-Please send comments, questions or concerns to [privacy@fortlewis.edu](mailto:privacy@fortlewis.edu). When sending us comments, please include a current e-mail address. Please do not send attachments with the message.
+Please send comments, questions or concerns to <http://www.fortlewis.edu/privacyform>. When sending us comments, please include a current e-mail address. Please do not send attachments with the message.
 
-[Previous](https://web.archive.org/businesspolicies/Facilities/OfficialBuildingNames.aspx)  [Next](https://web.archive.org/businesspolicies/InformationTechnology/SoftwareLicenses.aspx)
+[Previous](http://www.fortlewis.edu/businesspolicies/Facilities/OfficialBuildingNames.aspx)  [Next](http://www.fortlewis.edu/businesspolicies/InformationTechnology/SoftwareLicenses.aspx)
