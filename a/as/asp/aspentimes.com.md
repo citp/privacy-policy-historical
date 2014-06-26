@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspentimes.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110175412id_/http%3A//apps.aspentimes.com/utils/uiincludes/privacypolicy2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspentimes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626115308id_/http%3A//apps.aspentimes.com/utils/uiincludes/privacypolicy2.php) for the most accurate reproduction.*
 
 # AspenTimes | AspenTimes.com
 
