@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221071904id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055642id_/http%3A//www.phone.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Terms | Phone.com
 
