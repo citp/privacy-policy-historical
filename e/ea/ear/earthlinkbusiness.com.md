@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthlinkbusiness.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907143451id_/http%3A//www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlinkbusiness.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112105id_/http%3A//www.earthlinkbusiness.com/about/legal/privacy-policy.xea) for the most accurate reproduction.*
 
 # EarthLink Business Privacy Policy - EarthLink Business
 
@@ -81,4 +81,4 @@ EarthLink Business reserves the right to revise, amend or modify this Privacy Po
 
 Effective June 1, 2011 
 
-**[Return to all EarthLink Business Legal Notices and Policies](https://web.archive.org/about-us/legal/legal.xea)**
+**[Return to all EarthLink Business Legal Notices and Policies](https://web.archive.org/about/legal/legal.xea)**
