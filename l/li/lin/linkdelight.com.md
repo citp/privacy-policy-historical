@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012011415id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045243id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Security and Privocy
 
-Written by LinkDelight  Friday, 25 April 2008 09:56   
-  
 **Data Security**
 
 The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 256 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
@@ -34,6 +32,6 @@ Customers may opt-in and opt-out of our newsletter service. Our newsletter subsc
 
 **Links**
 
-Our web site contains links to other web sites that are not operated by linkdelight.com. linkdelight.com is not responsible for the privacy practices of the Web sites that it does not operate. Some parts of the Web site are animated using various downloadable applications, such as Macromedia’s Shockwave/Flash.  
-  
-Last Updated on Sunday, 09 June 2013 16:39 
+Our web site contains links to other web sites that are not operated by linkdelight.com. linkdelight.com is not responsible for the privacy practices of the Web sites that it does not operate. Some parts of the Web site are animated using various downloadable applications, such as Macromedia’s Shockwave/Flash.
+
+__**Article Copyright Disclaimer:** The article content published on linkdelight.com is for the purpose of sharing useful information with our customers and visitors. Some of these may contain excerpts from other internet sources. If you believe an article has infringed on your copyright, please contact us and we'll delete or revise it immediately. 
