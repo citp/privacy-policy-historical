@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connect001.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219051549id_/http%3A//www.grappone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connect001.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030929id_/http%3A//www.grappone.com/privacy.htm) for the most accurate reproduction.*
 
 # Grappone Automotive Group | New Ford, Honda, Hyundai, Mazda, Toyota, Scion dealership in Bow, NH 03304
 
@@ -24,7 +24,7 @@ To help us better understand and respond to your needs and interests, we may in 
 
 ##### Disclosure of Personal Information:
 
-Our dealership understands the importance of your privacy. We collect and maintain the personal information of our consumers for our use and our subsidiaries. We do not sell, rent, or trade consumer information to third parties, other than as described below, and never without your consent.
+Our dealership understands the importance of your privacy. We collect and maintain the personal information of our consumers for our use and our subsidiaries. We do not sell, rent, or trade consumer information to third parties, other than as described below, and never without your consent. Third parties may collect personally identifiable information about your online activities over time and across different websites when you use this website.
 
 ##### Business Partners:
 
@@ -66,9 +66,13 @@ The personal data record created through your registration with our Web site can
 
 Our Web sites may make chat rooms, forums, message boards, and/or news groups available to its users at various times. Please remember that, unless otherwise stated, any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in these areas.
 
-##### opt-out Procedures:
+##### Opt-out Procedures:
 
 You may always opt-out of receiving future communications from our dealership. Our sites allow users to opt-out of receiving such communications at the point where personal information is requested, or through other means as identified.
+
+##### Browser-Based Do Not Track:
+
+Some browsers incorporate a "Do Not Track" (DNT) feature that, when turned on, signals to websites and online services that you do not want to be tracked.  Because there is not yet an accepted standard for how to respond to a DNT signal, we do not currently respond to DNT signals on this website or on websites where we provide advertisements, content, or other services.
 
 ##### Contacting the Web Sites:
 
