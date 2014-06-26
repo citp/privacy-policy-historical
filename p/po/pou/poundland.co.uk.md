@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113182555id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundland.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060706id_/http%3A//www.poundland.co.uk/legal/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Poundland
 
@@ -33,7 +33,7 @@ Willenhall
 West Midlands  
 WV13 2QT  
 United Kingdom  
-Email:  **[info@poundland.co.uk](mailto:info@poundland.co.uk)**
+Email:   **[poundland.legal@poundland.co.uk](mailto:poundland.legal@poundland.co.uk)**
 
 ## **  
 Third parties**
