@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501065718id_/https%3A//www.synovus.com%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043302id_/https%3A//www.synovus.com%3Fid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | Synovus
 
@@ -13,7 +13,7 @@ What We Do
 | 
 
   * Seek advice about your investments 
-  * Tell us about your investment or retirement portfolio. 
+  * Tell us about your investment or retirement portfolio 
 
   
 ---|---  
