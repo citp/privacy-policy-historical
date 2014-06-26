@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setupmyhotel.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203183531id_/http%3A//setupmyhotel.com/homepage/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setupmyhotel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626081709id_/http%3A//setupmyhotel.com/homepage/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,4 +29,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  [admin@setupmyhotel.com](mailto:admin@setupmyhotel.com) .
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@setupmyhotel.com](mailto:admin@setupmyhotel.com) .
