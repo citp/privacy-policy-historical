@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the techtrickhome.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219050246id_/http%3A//www.techtrickhome.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtrickhome.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111858id_/http%3A//www.techtrickhome.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY | TechTrickHome
+# PRIVACY POLICY - TechTrickHome
+
+  
+
 
   
 
@@ -19,10 +22,15 @@ Like many other Web sites,   **TechTrickHome**  makes use of log files. The in
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include 
 
-Google
+  
 
-Infolinks  
-Qadabra
+
+  * Google
+  * Technorati Media
+  * Qadabra
+  * Infolinks
+
+
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on   **TechTrickHome**  send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
