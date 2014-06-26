@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920015359id_/http%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsketch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060104id_/http%3A//www.bidsketch.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Bidsketch
+# Privacy
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR OUR SERVICES. Bidsketch ("Company") and www.Bidsketch.com ("the Website") (collectively "we") are committed to protecting the privacy and security of our visitors, registered users, and subscribers who access our Website or Services. This Privacy Policy sets forth how the Website and our Services collect and use personal information. By using the Website and Services, you acknowledge that you have read and accepted our privacy practices set forth below.
 
