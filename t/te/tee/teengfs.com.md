@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teengfs.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207033435id_/http%3A//www.circledreams.com/privacy/TeenGFs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teengfs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092124id_/http%3A//www.circledreams.com/privacy/TeenGFs) for the most accurate reproduction.*
 
 # Privacy Policy - TeenGFs
 
