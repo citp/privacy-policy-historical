@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806211714id_/http%3A//www.acorndomains.co.uk/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132333id_/http%3A//www.acorndomains.co.uk/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # AcornDomains.co.uk - Privacy Policy
 
