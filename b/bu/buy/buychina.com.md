@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buychina.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819182942id_/http%3A//www.buychina.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buychina.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052339id_/http%3A//www.buychina.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Buy China Products from Taobao Agent with Free Shipping - BuyChina.com
+# Buy China Wholesale from Taobao Agent online shopping - BuyChina.com
 
 We can make our services even better – to show you more relevant search results and products, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
