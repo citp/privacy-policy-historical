@@ -1,24 +1,31 @@
-<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206114356id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626082628id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta http-equiv="imagetoolbar" content="no">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
     <meta name="description" content="Vindale Research - Take free online surveys and get paid for your work! Review products and services and get paid to take surveys online! It's just that easy.">
     <meta name="keywords" content="free online surveys,paid to take surveys online,online market research,paid surveys,paid online surveys,survey jobs,surveys for money,survey for cash,get paid for survey,take survey get paid,opinion survey,pay me survey,get paid for online survey,online survey for money">
     <title>Free Online Surveys - Get Paid to Take Surveys Online - Vindale Research</title>
+    <!--[if lte IE 8]>
+    <![endif]-->
     <link rel="stylesheet" type="text/css" href="/v/stylesheets/global.css">
     <link rel="Shortcut Icon" type="image/x-icon" href="/v/favicon.ico">
     <link href="/v/stylesheets/guest.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/v/scripts/cssfx.js"></script>
 
     <script>window.console = window.console || {log:function () {}};</script>
     <script type="text/javascript" src="/v/scripts/global.js"></script>
     <script type="text/javascript" src="/v/scripts/main.js"></script>
+    <script type="text/javascript" src="/v/scripts/placeholders.min.js"></script>
+
     <script type="text/javascript" src="/v/libs/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="/v/libs/jquery/plugin/cookie/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/v/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
-    <link type="text/css" rel="stylesheet" href="/v/libs/jqueryui/1.8.4/themes/ui-lightness/jquery-ui.css">
+    <script type="text/javascript" src="/v/libs/jqueryui/1.9.2/jquery-ui-1.9.2.min.js"></script>
+
+<!--     <link type="text/css" rel="stylesheet" href="/v/libs/jqueryui/1.8.4/themes/ui-lightness/jquery-ui.css"/> -->
     <script type="text/javascript">
         $.noConflict();
         //<!--
@@ -27,7 +34,7 @@
         }
 
         
-        var func_e805836563a9b94fd799ab3e89ecf6b4 = function () {
+        var func_8942bb5516fa18183518eb4e1acc8152 = function () {
             if (top.location != location) {
                 var href = document.location.href;
                 href += href.indexOf("?") >= 0 ? "&" : "?";
@@ -49,7 +56,7 @@
     <meta name="decorator" content="default">
     <meta name="description" content="Vindale Research - Take free online surveys and get paid for your work! Review products and services and get paid to take surveys online! It's just that easy.">
     <meta name="keywords" content="free online surveys,paid to take surveys online,online market research,paid surveys,paid online surveys,survey jobs,surveys for money,survey for cash,get paid for survey,take survey get paid,opinion survey,pay me survey,get paid for online survey,online survey for money"></head>
-<body onload="func_e805836563a9b94fd799ab3e89ecf6b4();" onunload="">
+<body onload="func_8942bb5516fa18183518eb4e1acc8152();" onunload="">
     <div id="fb-root"></div>
 <script>
     (function($) {
@@ -109,28 +116,37 @@
             if (pane.hasClass('nolabel')) {
                 label = '';
             }
-            var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + fbImg + '</a>' +
+            var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + '<button class="button button-fb button-block button-large fb-button btn-fb-init btn-large" type="button"><div class="fb-logo"></div>Facebook Connect</button>' + '</a>' +
                     (!connected ?
-                            '<div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
+                            '<br><div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
                             ''
                             ) + '</div></div></div>');
             var existing = $('.fb-button');
             var clicker = '#fbSignInAnchor';
             if (existing.length) {
-                pane.html(existing.html()).show();
+                if ( !pane.hasClass('noButton') )
+                {
+                    pane.html(existing.html()).show();
+                }
                 clicker = '.fb-button';
             } else {
-                pane.html(signinForm).show();
+                if ( !pane.hasClass('noButton') )
+                {
+                    pane.html(signinForm).show();
+                }
             }
 
             $(document).on('click', clicker, function () {
 
                 var pane = $('#facebookPane');
                 pane.css('text-align', 'center');
-                if (!pane.hasClass('nolabel')) {
-                    pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/><img src="/' + contextPath + '/images/loading.gif"/>');
-                } else {
-                    pane.html('<img src="/' + contextPath + '/images/loading.gif"/>');
+                if ( !pane.hasClass('noLoading') )
+                {
+                    if (!pane.hasClass('nolabel')) {
+                        pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/><img src="/' + contextPath + '/images/loading.gif"/>');
+                    } else {
+                        pane.html('<img src="/' + contextPath + '/images/loading.gif"/>');
+                    }
                 }
 
                 if (connected) {
@@ -159,8 +175,14 @@
                                 });
                             }
                         } else {
-                            pane.empty().append(signinForm);
-                            alert('We could not sign you ' + (isSignIn ? ' in' : ' up') + ' with your Facebook account. Please try again.');
+                            if ( !pane.hasClass('noButton') )
+                            {
+                                pane.empty().append(signinForm);
+                            }
+                            if ( !pane.hasClass('noAlert') )
+                            {
+                                alert('We could not sign you ' + (isSignIn ? 'in' : 'up') + ' with your Facebook account. Please try again or use your email address.');
+                            }
                         }
                     }, {scope:'email,user_birthday,user_location,publish_stream'});
                 }
@@ -204,34 +226,26 @@
 </script><div id="wrapper">
 <div id="header">
     <div id="navigation">
-        <table width="280" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td width="48%">
-                    <ul>
-                        <li class="line"><a href="/v/index.jsp">Home</a></li>
-                        <li class="line"><a href="/v/howItWorks.jsp">How it works</a></li>
-                        <li><a href="/v/testimonials.jsp">Testimonials</a></li>
-                        </ul>
-                </td>
-                <td width="4%"></td>
-                <td width="48%">
-                    <ul>
-                        <li class="line"><a href="/v/signIn.jsp">Sign in</a></li>
-                        <li class="line"><a href="/v/faq.jsp">Common questions</a></li>
-                        <li><a href="/v/contact.jsp">Contact</a></li>
-                        </ul>
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
+
+        <ul class="horizontal-nav">
+                    <a href="/v/index.jsp"><li class="line-alt">Home</li></a>
+                    <a href="/v/waysToEarn.jsp"><li class="line-alt">Ways to Earn</li></a>
+                    <a href="/v/testimonials.jsp"><li class="line-alt">Testimonials</li></a>
+                    <a href="/v/faq.jsp"><li class="line-alt">FAQ</li></a>
+                    <a href="/v/contact.jsp"><li class="line-alt">Contact</li></a>
+                    <a class="button button-green button-nav" href="/v/signIn.jsp">Sign in</a>
+                    </ul>
+        </div>
     <a href="/v/index.jsp?ref=logo">
     
     <img src="/v/images/global/logo_r.gif" width="279" height="58" border="0" alt="Vindale Research" title="Vindale Research"></a>
 </div>
 
+
+
 <div id="content">
 
-    <div><script type="text/javascript">
+    <script type="text/javascript">
     
     (function($) {
 
@@ -294,23 +308,35 @@
     <a href="http://www.google.com/cookies.html" target="_blank">Click here</a> for more information about how to enable cookies.
 </div>
 <br>
-</div><div id="mainwide">
-<h2>Privacy policy </h2>
+<div id="mainwide">
+<h1 class="text-center">Privacy Policy </h1>
+<hr>
 
-<div style="float:right; padding:  0 2em 2em 3em; margin-right: 1em;">
-    <a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.vindale.com&amp;sealid=101" target="_blank">
-        <img src="images/global/truste_seal_ctv.gif" alt="TRUSTe - Click to Verify" height="95" width="63" border="0">
-    </a>
-</div>
+                <div style="float:right; padding:  0 2em 2em 3em; margin-right: 1em;">
+                	<table align="center" width="135" border="0" cellpadding="2" cellspacing="0">
+    <tbody><tr>
+        <td width="135" align="center" valign="top">
+            <div id="39700543-59be-4bb0-bb42-7f45cd6a53a4">
+                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Say-For-Example,-Inc-/asc?rid=39700543-59be-4bb0-bb42-7f45cd6a53a4"></script>
+                <a href="//privacy.truste.com/privacy-seal/Say-For-Example,-Inc-/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" title="TRUSTe online privacy certification" target="_blank">
+                    <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Say-For-Example,-Inc-/seal?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" alt="TRUSTe online privacy certification">
+                </a>
+            </div>
+        </td>
+    </tr>
+</tbody></table></div>
+                <p>
+	This privacy policy applies to http://www.vindale.com owned and operated by Vindale Media, LLC ("Vindale Research", "we", "us", "our"). This privacy policy describes how Vindale Research collects and uses the personal information you provide on our web site:  http://www.vindale.com.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
+</p>
 
-<p>Vindale Media, LLC  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have
-    been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and
+<p>Vindale Media, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have
+    been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and
     choice regarding the collection and use of your personal information.  The TRUSTe program only covers information
-    that is collected from this Web site, and does not cover information that may be collected through any software
+    that is collected from this Web site, http://www.vindale.com, and does not cover information that may be collected through any software
     downloaded from this Web site. TRUSTe's mission, as an independent third party, is to accelerate online trust among
     consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you
     have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@vindale.com">privacy@vindale.com</a>.
-    If you are not satisfied with our response you can <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=" target="_blank">contact TRUSTe here</a></p>
+    If you are not satisfied with our response you can <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">contact TRUSTe here</a></p>
 
 <span class="faqQuestion">Information collected and used by Vindale Research</span>
 
@@ -324,7 +350,7 @@
 </p>
 
 <p>
-    We also collect non-personally identifiable information including IP address and browser type to help run the site
+    We also collect non-personal information including IP address and browser type to help run the site
     more efficiently.
 
 </p>
@@ -345,7 +371,7 @@
 
 <p>
     Vindale Research provides members with the opportunity to upload a self-portrait
-    and/or a testimonial of our service. We will not sell, share or publish your personally identifiable information,
+    and/or a testimonial of our service. We will not sell, share or publish your personal information,
     but reserve the right to use your first name, last initial, city and state for our testimonials. If you would like
     to your self-portrait and/or testimonial to remain confidential, please express your intention clearly when you
     submit your self-portrait and/or testimonial. The specific use of your personal information will be defined at the
@@ -374,14 +400,14 @@
     are governed by the privacy policy of the company providing it.
 </p>
 
-<span class="faqQuestion">Use of non-personally identifiable information</span>
+<span class="faqQuestion">Use of non-personal information</span>
 
 <p>
     Vindale Research uses your IP address and browser type for the general administration
     of the website. Demographic
     information you provide such as age, postal code, gender and country of residence may be used to target surveys,
     advertisements and special offers. In cases where advertisements are being displayed by a third-party,
-    non-personally identifiable information may be passed to the third-party to allow for targeting.
+    non-personal information may be passed to the third-party to allow for targeting.
 </p>
 
 <span class="faqQuestion">Sharing of collected information with third parties</span>
@@ -390,13 +416,17 @@
     Except in the cases outlined hereunder or where members have granted permission via an opt-in process, Vindale Research does
     not sell, rent, share, trade or give away any of your personal information to third parties.
 
-    Vindale Research does share (i) personal information and (ii) non-personally-identifiable information with third parties for the purpose of delivering targeted advertising, surveys, products and services to members.
+    Vindale Research does share (i) personal information and (ii) non-personally-identifiable information with third parties for the purpose of delivering targeted advertising, surveys, products and services to members.  These third parties are authorized to use your personal information only as necessary to provide these services to us.
 
     If required to do so by law or third-party agreement, Vindale Research may share your personal information as part of arbitration or legal proceedings or with law enforcement officials or government agencies.
 
     Vindale Research reserves the right to share personal and non-personal information with (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.
-
+    
+    </p><p>	    
+If Vindale Research is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
     </p>
+
+    <p></p>
 
 <span class="faqQuestion">Communications to Non-members</span>
 
@@ -415,17 +445,22 @@
     future emails, even if additional peer referrals are given.
 </p>
 
-<span class="faqQuestion">Use of cookies</span>
+<span class="faqQuestion">Use of Cookies and Other Tracking Technologies</span>
 
 <p>
     Vindale Research uses cookies to manage sessions on the site, remember user
     preferences, and to ensure members do
     not continually see the same advertisements. Cookies must be enabled in order for members to
     use Vindale Research
-    services. Information stored in cookies will never contain any personally identifiable information. Third parties
+    services. Information stored in cookies will never contain any personal information. We do link the information we store in cookies to any personal information you submit while on our site. Third parties
     also place scripts and cookies on our site such as analytics providers. This data is only collected in the
     aggregate.
 </p>
+
+<p>
+	Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do tie the information gathered to our Customers' or Users' personal information.
+</p>
+
 
 <span class="faqQuestion">Links</span>
 
@@ -438,6 +473,12 @@
     including click-stream data, and you may create and disclose when visiting such third party sites. This privacy
     policy applies solely to information collected by Vindale Research.
 
+</p>
+
+<span class="faqQuestion">Single Sign On</span>
+
+<p>
+	You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.Â&nbsp;Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 </p>
 
 <span class="faqQuestion">Correcting/updating information</span>
@@ -467,7 +508,7 @@
 <span class="faqQuestion">Legal Disclosure</span>
 
 
-<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that
+<p>We reserve the right to disclose your personal information as required by law and when we believe that
     disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal
     process served on our Web site.</p>
 
@@ -522,22 +563,24 @@
     information helps advertising partners deliver targeted advertisements that will be most relevant to you. These
     cookies are not linked to personal information.
     Vindale Research does not have access to the cookies placed by third parties.
-    Vindale Research privacy statement applies
-    only to Vindale Research and does not apply to use of cookies by any third parties.
+    Vindale Research privacy policy applies
+    only to Vindale Research and does not apply to use of cookies by any third parties.  
+    If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Here</a>.  Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
 </p>
 
 <span class="faqQuestion">Changes in our privacy policy</span>
 
 <p>
-    If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and
+    If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and
     other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what
     circumstances, if any, we disclose it.
 
 </p>
 
 <p>
-    We reserve the right to modify this privacy statement at any time, so please review it frequently.
-    If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home
+    We reserve the right to modify this privacy policy at any time, so please review it frequently.
+    If we make material changes to this policy, we will notify you here, by email (sent to the e-mail address specified in your account), or by means of a notice on our home
     page prior to the changes taking effect.
 </p>
 
@@ -583,40 +626,86 @@
 </p>
 
 <p>
-    LAST UPDATED 08/30/2013</p><p>
+    EFFECTIVE AS OF 3/1/2014
+
+</p><p>
 </p></div></div>
-<div id="copyright">
-    <p>
-        <a href="/v/signIn.jsp">Sign In</a>
-        <a href="/v/memberGallery.jsp">Member Gallery</a>
-        <a href="/v/howItWorks.jsp">Learn More</a>
-        <a href="/v/testimonials.jsp">Read Testimonials</a>
-        <a href="http://blog.vindale.com/">Read Blog</a>
-        <a href="/v/faq.jsp">FAQ</a>
-        <a href="/v/cancel.jsp">Cancel Membership</a>
-        <br>
-    </p>
+<div class="footer">
 
-    <p>
-        © 2004-2013<a href="http://www.vindale.com/v/about/" style="text-decoration:none;">Vindale Media, LLC</a>. All rights reserved.
-        &nbsp;•
-        <a href="/v/about/index.jsp">About</a>
-        <a href="/v/terms.jsp">Terms</a>
-        <a href="/v/privacy.jsp">Privacy</a>
-        <a href="/v/abuse.jsp">Abuse</a>
-        <a href="/v/contact.jsp">Contact Us</a>
-        <a href="/v/affiliates.jsp">Affiliates</a>
-        <a href="/v/siteMap.jsp">Site Map</a>
-        
+    <div class="footer-branding">
+        <a class="button button-green" href="/v/signIn.jsp"><strong>Sign in</strong></a>
+            <a class="button button-blue" href="/v/join.jsp"><strong>Sign up</strong></a>
+        </div>
 
-    </p>
-    
-	<p style="padding-top: 2em;">
+    <div class="footer-links">
+        <ul>
+                <strong>Work with us</strong>
+                <br><br>
+                <li><a href="/v/affiliates.jsp">Affiliates</a></li>
+                    <li><a href="/v/ourServices.jsp">Our Services</a></li>
+            </ul>
+        <ul>
+            <strong>About us</strong>
+            <br><br>
+            <li><a href="http://blog.vindale.com/">Read Blog</a></li>        
+
+        <li><a href="/v/why.jsp">Why Vindale</a></li>
+            <li><a href="/v/waysToEarn.jsp">Ways To Earn</a></li>
+            <li><a href="/v/testimonials.jsp">Testimonials</a></li>
+        <li><a href="/v/terms.jsp">Terms</a></li>
+            <li><a href="/v/privacy.jsp">Privacy</a></li>
+        </ul>
+        <ul>
+            <strong>Let us help you</strong>
+            <br><br>
+        <li><a href="/v/contact.jsp">Contact Us</a></li>
+            <li><a href="/v/faq.jsp">Frequently Asked Questions</a></li>
+            <li><a href="/v/cancel.jsp">Cancel Membership</a></li>
+            <li><a href="/v/abuse.jsp">Report Abuse</a></li>
+            <li><a href="/v/siteMap.jsp">Site Map</a></li>
+
+        </ul>    
+        <ul>
+            <strong>Social links</strong>
+            <br>
+            <p style="padding:0;margin:10px 0 0;">
     	<a href="http://facebook.com/vindale" target="_blank"><img src="/v/images/social/footer_facebook_20.gif" height="20" width="20" border="0" alt="Like us on Facebook"></a> 
         <a href="https://plus.google.com/116851056152790235329" rel="publisher" target="_blank"><img src="/v/images/social/footer_google_plus_20.gif" height="20" width="20" border="0" alt="Find us on Google+"></a>
 	<a href="http://twitter.com/vindale" target="_blank"><img src="/v/images/social/footer_twitter_20.gif" height="20" width="20" border="0" alt="Follow us on Twitter"></a>
 	<a href="http://pinterest.com/vindale" target="_blank"><img src="/v/images/social/footer_pinterest_20.gif" height="20" width="20" border="0" alt="Find us on Pinterest"></a>
     </p>
+</ul>
+
+</div>
+        
+        
+
+    <p></p>
+</div>
+<div class="copyright">
+    <span>
+        <small>© 2004-2014&nbsp;&nbsp;<a href="http://www.vindale.com/v/about/" style="text-decoration:none;">Vindale Media, LLC</a>. All rights reserved.
+        </small>
+    </span>
+    
+    <span>
+    <table align="center" width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.vindale.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>    
+    </td>
+</tr>
+</tbody></table><table align="center" width="135" border="0" cellpadding="2" cellspacing="0">
+    <tbody><tr>
+        <td width="135" align="center" valign="top">
+            <div id="39700543-59be-4bb0-bb42-7f45cd6a53a4">
+                <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Say-For-Example,-Inc-/asc?rid=39700543-59be-4bb0-bb42-7f45cd6a53a4"></script>
+                <a href="//privacy.truste.com/privacy-seal/Say-For-Example,-Inc-/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" title="TRUSTe online privacy certification" target="_blank">
+                    <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Say-For-Example,-Inc-/seal?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" alt="TRUSTe online privacy certification">
+                </a>
+            </div>
+        </td>
+    </tr>
+</tbody></table></span>
 </div>
 </div>
 
@@ -849,9 +938,8 @@ var _sf_async_config={uid:20747,domain:"vindale.com"};
         }
 
     }(document));
-</script><iframe src="/v/component/init.jsp;jsessionid=858B27A6B094534224D3A4184BFAE0DE-n1.web2ec2?t=1386330236544" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+</script><iframe src="/v/component/init.jsp?t=1403771188407" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <p style="padding-top: 5em;text-align: center;font-size: 1em;color: #ffffff;">
     web2-ec2.vindale.com</p>
-<img style="width:1px;height:1px;display:none" src="//helium.adextent.com/vi">
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
