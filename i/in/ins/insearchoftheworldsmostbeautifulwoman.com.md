@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insearchoftheworldsmostbeautifulwoman.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224111956id_/http%3A//www.insearchoftheworldsmostbeautifulwoman.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insearchoftheworldsmostbeautifulwoman.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160922id_/http%3A//www.insearchoftheworldsmostbeautifulwoman.com/privacy.php) for the most accurate reproduction.*
 
 # Online Beauty Pageant - Privacy Policy
 
