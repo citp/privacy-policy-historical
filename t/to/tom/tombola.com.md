@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109041331id_/http%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125006id_/http%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tombola Bingo
 
 The Company respects your privacy and we are committed to protecting your personal information. We have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your personal information. 
 
@@ -48,3 +48,7 @@ When registering with the site you are agreeing to the Privacy Policy. The Priva
 ## Data Protection Act Registration
 
 tombola (International) plc is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk). Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
+
+## Opting out of Email
+
+You can choose to opt out of receiving email from tombola at any time. To opt out of all email marketing messages from tombola login to your tombola account and go to the ‘contact prefs’ tab and untick the newsletter box and click save. After 48 hours you will no longer receive any marketing via email. 
