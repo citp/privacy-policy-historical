@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d4medical.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209145105id_/http%3A//applications.3d4medical.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d4medical.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064806id_/http%3A//applications.3d4medical.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3D4Medical Apps
 
