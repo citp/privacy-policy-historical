@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003628id_/http%3A//www.fluxmagazine.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluxmagazine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626133702id_/http%3A//www.fluxmagazine.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy - Flux Magazine : Flux Magazine
 
