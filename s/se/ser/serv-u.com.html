@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the serv-u.com privacy policy that was archived on 2013-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229132512id_/https%3A//www.serv-u.com/purchase/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the serv-u.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626034109id_/https%3A//www.serv-u.com/purchase/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>SolarWinds Privacy Policy</title>
@@ -29,7 +29,7 @@
 
 	var sIEVers = "";
  // ----add a class to the <html> tag to change styles for IE versions---- //
-	if ($.browser.msie)
+	if ($.browser.msie || navigator.userAgent.indexOf("Trident/") > -1)
 		$("html").addClass("");
 		
 	if ($.browser.msie && sIEVers == "ua-msie6")
@@ -37,7 +37,8 @@
 
 	
     $(document).ready(function () {
-
+        var sHTTPS = "on";
+        
         $("#SUEdtnsChrt").dialog({
             autoOpen: false,
             modal: true,
@@ -104,6 +105,12 @@
             height: 220
             //beforeClose          : 	OnResetEditDialog
         });
+
+        
+        // set SWI_SiteCatalyst_ID and Referral Cookies on serv-u.com
+        if (sHTTPS == "off"){
+            processSWIDReferrer();
+        }
 		
     }); //.ready
     
@@ -135,25 +142,14 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  
-  
+    
   function ValidateSearch() {
       var sAction = document.getElementById("LayoutSearch").action;
       var sSearchTerm = document.getElementById("SearchKB").value;
 
       if (sSearchTerm != "")
-          document.getElementById("LayoutSearch").action = sAction + "&searchterm=" + sSearchTerm;
+          document.getElementById("LayoutSearch").action = sAction + "?searchterm=" + sSearchTerm;
   } // ValidateSearch
-
-  function ClearSearchField() {
-
-      var obj = document.getElementById("SearchKB");
-
-      if (obj.value == "SEARCH" || obj.value == "") {
-          obj.value = "";
-          obj.style.color = "black";
-      } // if
-  } // ClearSearchField
 
   function ShowDrop(sMenuID) {
       $("#" + sMenuID).css("display", "block");
@@ -163,35 +159,55 @@
       $("#" + sMenuID).css("display", "none");
   } // HideDrop
 </script>
+<script type="text/javascript" src="//assets.adobedtm.com/f621f149f278de13c57fa7bfeaddccafd7f1bda7/satelliteLib-807e101418a1ef57525cddb1ff2bfbe83a935273.js"></script>
+<script type="text/javascript" src="/inc/js/mbox.js"></script>
 	
 </head>
 <body class="prod-su">
 
-<h1>SolarWinds Privacy Policy</h1>
-<div class="headerwrap" id="headerwrap">
-	<div id="sitehome">
-		<a href="http://www.Serv-U.com/"><img width="280" height="86" border="0" src="/Images/LogoHome-su.jpg" alt="Serv-U FTP Server Home Page"></a>
-	</div>
-	<div id="globalnav">
-	
-		<div class="quicklinks">
-			<a href="https://www.Serv-U.com/shopping.asp?prod=su">Cart</a> <span style="padding-right:12px;">|</span> Contact Support : 866-530-8100 <span style="padding-left:12px;">|</span> <a href="http://www.Serv-U.com/contact.asp?prod=su" style="padding-right:0px;">Contact Sales</a> : 855-498-4154 or <a href="mailto:servusales@solarwinds.com " style="padding-left:0px;">email</a> <span>|</span> <a href="javascript:LoginToCSC();">Login</a> <span>
-	|</span> <span onmouseover="_gaq.push(['_trackEvent', 'Flag Links', 'Show Flags']);"><a style="padding-right:4px;" href="javascript:ShowDrop('rsFlags');" onmouseover="javascript:ShowDrop('rsFlags');" onmouseout="javascript:HideDrop('rsFlags');"><img width="46" height="13" border="0" src="/Images/USAFlag_DropMenu.png" alt="Show Flags"></a></span>
-		</div>
-        <div class="Flags" id="rsFlags" onmouseover="javascript:ShowDrop('rsFlags');" onmouseout="javascript:HideDrop('rsFlags');">
-			<a style="margin-left:0px;" href="http://www.serv-u.cn/" title="China" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'China']);"><span id="chinaflag"></span></a>
-            <a href="http://www.rhinosoftworld.it/servu/servu.htm" title="Italy" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Italy']);"><span id="italianflag"></span></a>
-            <a href="http://www.serv-u.jp/" title="Japan" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Japan']);"><span id="japanflag"></span></a>
-            <a href="http://www.serv-u.info/" title="Austria" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Austria']);"><span id="austriaflag"></span></a>
-            <a href="http://www.serv-u.com.es/" title="Spain" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Spain']);"><span id="spainflag"></span></a>
-            <a style="margin-right:0px;" title="Mexico" href="http://www.serv-u.com.es/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Mexico']);"><span id="mexicoflag"></span></a>
-            <a style="margin-right:0px;" title="France" href="http://serv-u.watsoft.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'France']);"><span id="franceflag"></span></a>
-        </div>
-	
-		<div id="menuwrap">
-			<div id="topnav">
-					<ul>		
-		<li><a href="http://www.Serv-U.com/" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Home', 'Nav Level 1']);"><strong>Home</strong></a></li>
+<!-- GLOBAL MBOX Section -->
+<div class="mboxDefault" id="SU_global"></div>
+<script type="text/javascript">mboxCreate('SU_global');</script>
+<!-- END GLOBAL MBOX Section -->
+
+<!-- START SU_Header_Mbox To Test Header Redesign -->
+<div class="mboxDefault" id="SU_Header_Mbox">
+    <div class="su-head">
+        <h1>SolarWinds Privacy Policy</h1>
+        <div class="headerwrap" id="headerwrap">
+	        <div id="sitehome">
+		        <a href="http://www.Serv-U.com/"><img width="280" height="86" border="0" src="/Images/LogoHome-su.jpg" alt="Serv-U FTP Server Home Page"></a>
+	        </div>
+	        <div id="globalnav">
+	        
+		        <div class="quicklinks">
+			        <a href="https://www.Serv-U.com/shopping.asp?prod=su">Cart</a> <span style="padding-right:12px;">|</span> Contact Support : 866-530-8100 <span style="padding-left:12px;">|</span> <a href="http://www.Serv-U.com/contact.asp?prod=su" style="padding-right:0px;">Contact Sales</a> : 855-498-4154 or <a href="mailto:servusales@solarwinds.com " style="padding-left:0px;">email</a> <span>|</span> <a href="javascript:LoginToCSC();">Login</a> <span>
+	        |</span> <span onmouseover="_gaq.push(['_trackEvent', 'Flag Links', 'Show Flags']);"><a style="padding-right:4px;" href="javascript:ShowDrop('rsFlags');" onmouseover="javascript:ShowDrop('rsFlags');" onmouseout="javascript:HideDrop('rsFlags');"><img width="46" height="13" border="0" src="/Images/USAFlag_DropMenu.png" alt="Show Flags"></a></span>
+		        </div>
+                <div class="Flags" id="rsFlags" onmouseover="javascript:ShowDrop('rsFlags');" onmouseout="javascript:HideDrop('rsFlags');">
+			        <a style="margin-left:0px;" href="http://www.serv-u.cn/" title="China" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'China']);"><span id="chinaflag"></span></a>
+                    <a href="http://www.rhinosoftworld.it/" title="Italy" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Italy']);"><span id="italianflag"></span></a>
+                    <a href="http://www.serv-u.jp/" title="Japan" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Japan']);"><span id="japanflag"></span></a>
+                    <a href="http://www.serv-u.info/" title="Austria" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Austria']);"><span id="austriaflag"></span></a>
+                    <a href="http://www.serv-u.com.es/" title="Spain" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Spain']);"><span id="spainflag"></span></a>
+                    <a style="margin-right:0px;" title="Mexico" href="http://www.serv-u.com.es/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'Mexico']);"><span id="mexicoflag"></span></a>
+                    <a style="margin-right:0px;" title="France" href="http://serv-u.watsoft.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Flag Links', 'France']);"><span id="franceflag"></span></a>
+                </div>
+	        
+		        <div id="menuwrap">
+			        <div id="topnav">
+				        	<ul>
+        <li>
+            <a onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Products', 'Nav Level 1']);">Products</a>
+            <ul id="ProductsSub">
+                <li>
+                    <a onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'FTP Server', 'Nav Level 2']);" href="/ftp-server.asp">FTP Server</a>
+                </li>
+                <li>
+                    <a onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'MFT Server', 'Nav Level 2']);" href="/managed-file-transfer-server.asp">MFT Server</a>
+                </li>
+            </ul>
+        </li>
 		
 		<li><a href="https://www.Serv-U.com/inc/PurchaseScripts/CartControls.asp?continue=1&amp;prodadd=1&amp;prod=su&amp;path=2yrSUGoldTopPur" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Purchase', 'Nav Level 1']);">Purchase</a>
 			<ul id="PurchaseSub" class="rsPurchSubRight">
@@ -204,9 +220,9 @@
 			</ul>
 		</li>
 
-		<li><a href="http://www.Serv-U.com/customer/record.asp?prod=su" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Evaluate', 'Nav Level 1']);">Evaluate</a>
+		<li><a href="http://www.Serv-U.com/customer/record.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Evaluate', 'Nav Level 1']);">Evaluate</a>
 			<ul id="EvaluateSub">
-	        	<li><a href="http://www.Serv-U.com/customer/record.asp?prod=su" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Download', 'Nav Level 2']);">Download</a></li>
+	        	<li><a href="http://www.Serv-U.com/customer/record.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Download', 'Nav Level 2']);">Download</a></li>
 	        	<li class="HideInNavMenu"><a href="http://www.Serv-U.com/videos.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Videos', 'Nav Level 2']);">Videos</a></li>
 	        	<li><a href="http://www.Serv-U.com/demo.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Online Demo', 'Nav Level 2']);">Online Demo</a></li>
 	        	<li><a href="http://www.Serv-U.com/screenshots" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Screenshots', 'Nav Level 2']);">Screenshots</a>
@@ -274,7 +290,9 @@
 						<li class="HideInNavMenu"><a href="http://www.Serv-U.com/linux" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'IT - Linux', 'Nav Level 3']);">IT - Linux</a></li>
 					</ul>
 				</li>
-				<li><a href="http://www.Serv-U.com/whitepapers.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Whitepapers', 'Nav Level 2']);">Whitepapers</a>
+                <li>
+                    <a href="http://www.Serv-U.com/case-studies.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Case Studies', 'Nav Level 2']);">Case Studies</a>
+                </li>				<li><a href="http://www.Serv-U.com/whitepapers.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Whitepapers', 'Nav Level 2']);">Whitepapers</a>
 					<ul id="WhitepapersSub">
 						<li><a href="http://www.Serv-U.com/distributed_architecture" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'Distributed Architecture', 'Nav Level 3']);">Distributed Architecture</a></li>
 						<li><a href="http://www.Serv-U.com/integration_guide" onclick="_gaq.push(['_trackEvent', 'Serv-U Top Nav', 'DB Integration', 'Nav Level 3']);">DB Integration</a></li>
@@ -352,18 +370,22 @@
 		
 	</ul>
 
-			</div>
-		</div>
-	</div>
+			        </div>
+		        </div>
+	        </div>
+        </div>
+    </div>
 </div>
+<script type="text/javascript">    mboxCreate('SU_Header_Mbox');</script>
+<!-- END SU_Header_Mbox -->
 
 <div id="main">
 	<div id="contentwrap">
 
 		<div class="globalkeyactions">
 	
-			<form class="search" action="http://www.Serv-U.com/kb/default.asp?prod=su" id="LayoutSearch" name="KB" method="post" onsubmit="return ValidateSearch()">
-	           	<input id="SearchKB" type="Text" name="search" value="SEARCH" onclick="javascript:ClearSearchField();">
+			<form class="search" action="http://www.Serv-U.com/kb/" id="LayoutSearch" name="KB" method="post" onsubmit="return ValidateSearch()">
+	           	<input id="SearchKB" type="Text" name="search" placeholder="SEARCH">
 	           	<input type="Submit" alt="Submit Search" value="GO" id="SearchGo">
 	           	<input type="hidden" name="Prods" value="none">
 	           	<input type="hidden" name="sub" value="Search">
@@ -373,14 +395,13 @@
 			<div class="keyaction" id="topkey">
 				<span>From $495</span><br>
 				Reliable FTP server with web,<br>file sharing and mobile support.<br><br>
-				<a href="https://www.Serv-U.com/inc/PurchaseScripts/CartControls.asp?continue=1&amp;prodadd=12&amp;prod=su&amp;path=1yrSUBronLftBuyNow" onclick="_gaq.push(['_trackEvent', 'Serv-U Left Nav', 'Buy Now Ad', 'Bronze1 - Position 1']);" class="MainKeyAction">BUY NOW</a>
+				<a href="https://www.Serv-U.com/inc/PurchaseScripts/CartControls.asp?continue=1&amp;prodadd=12&amp;prod=su&amp;path=1yrSUBronLftBuyNow" onclick="_gaq.push(['_trackEvent', 'Serv-U Left Nav', 'Buy Now Ad', 'Bronze1 - Position 1']);" class="MainKeyAction bttnOrange" id="buyNowLft">BUY NOW</a>
 			</div>
 			<div class="keyaction" id="bottomkey">
 				<span>FREE for 30 Days</span><br>
 				Full featured trial with secure<br>
 				FTP, file sharing &amp; web transfer<br><br>
-
-				<a href="http://www.Serv-U.com/customer/record.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Left Nav', 'Download Ad', 'Position 2']);" class="MainKeyAction">DOWNLOAD</a>
+				<a href="http://www.Serv-U.com/customer/record.asp?c=70150000000PfVY" onclick="_gaq.push(['_trackEvent', 'Serv-U Left Nav', 'Download Ad', 'Position 2']);" class="MainKeyAction bttnGreen" id="dlLft">DOWNLOAD FREE TRIAL</a>
 			</div>
 	    
 			<div class="subkeys">
@@ -453,7 +474,7 @@
 	<p>
 		This Privacy Statement and the Terms of Use of the SolarWinds Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. SolarWinds reserves the right to modify this Privacy Statement without prior notice. In the event SolarWinds updates or modifies this Privacy Statement, SolarWinds shall endeavor to post such updates or modifications on this Website following any such modifications. Therefore, User is advised to review this Privacy Statement occasionally, or at least every thirty (30) days. User's continued use of this Website subsequent to SolarWinds' notice of modification of this Privacy Statement shall constitute User's acceptance of the modified Privacy Statement.
 	</p>
-	<p>©2013, SolarWinds Worldwide, LLC. All Rights Reserved.</p>
+	<p>©2014, SolarWinds Worldwide, LLC. All Rights Reserved.</p>
 </div>
         
 
@@ -487,7 +508,7 @@
 			<div class="SitemapColumn">
 				<strong>EVALUATE</strong><br>
 				<ul style="margin-bottom:24px;">
-					<li><a href="http://www.Serv-U.com/customer/record.asp?prod=su" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Evaluate Menu', 'Download']);">Download</a></li>
+					<li><a href="http://www.Serv-U.com/customer/record.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Evaluate Menu', 'Download']);">Download</a></li>
 					<li><a href="http://www.Serv-U.com/demo.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Evaluate Menu', 'Online Demos']);">Online Demos</a></li>
 					<li><a href="http://www.Serv-U.com/screenshots" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Evaluate Menu', 'Screenshots']);">Screenshots</a></li>
 					<li><a href="http://www.Serv-U.com/videos.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Evaluate Menu', 'Video']);">Video</a></li>
@@ -574,7 +595,7 @@
 		</div>
 		
 		<div>
-			Copyright © 2003-2013 <a class="aTag_00649d_TDNone" href="http://www.solarwinds.com">SolarWinds</a>. All Rights Reserved.
+			© 2014 <a class="aTag_00649d_TDNone" href="http://www.solarwinds.com">SolarWinds Worldwide, LLC</a>. All rights reserved.
 			<span>
 				<a class="aTag_00649d_TDNone CopyRightNav" href="http://www.Serv-U.com/kb/2111/End-User-License-Agreement" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Copyright Menu', 'EULA']);">EULA</a> | <a class="aTag_00649d_TDNone CopyRightNav" href="http://www.Serv-U.com/termsofuse" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Copyright Menu', 'Terms of Use']);">Terms of Use</a> | <a class="aTag_00649d_TDNone CopyRightNav" href="https://www.Serv-U.com/purchase/privacy.asp" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Copyright Menu', 'Privacy Policy']);">Privacy Policy</a> | <a class="aTag_00649d_TDNone CopyRightNav" href="http://www.solarwinds.com/trademarks.aspx" target="_blank" onclick="_gaq.push(['_trackEvent', 'Serv-U Sitemap Nav', 'Copyright Menu', 'Trademarks']);" style="">Trademarks</a>
                 
@@ -587,6 +608,7 @@
 </div>
 
 
+<script type="text/javascript">_satellite.pageBottom();</script>
 
 
 
