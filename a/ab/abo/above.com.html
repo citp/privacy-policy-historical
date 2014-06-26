@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the above.com privacy policy that was archived on 2013-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130927231332id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the above.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626052721id_/http%3A//www.above.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Above.com Privacy Policy</title>
+<style type="text/css">
+</style>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="Above.com Privacy Policy">
 <meta name="keywords" content="">
@@ -11,7 +13,14 @@
 <link href="/css/menu_dd.css" rel="stylesheet" type="text/css">
 <link href="/css/pad.css" rel="stylesheet" type="text/css">
 <link href="/css/pm.css" rel="stylesheet" type="text/css">
-
+<link href="/css/aboveGlobal.css" rel="stylesheet" type="text/css">
+<link href="/css/aboveGlobal-1.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="/css/iesilver.css" />
+<![endif]-->
 <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="/javascript/iehover-fix.js"></script>
@@ -19,12 +28,17 @@
 <script type="text/javascript" src="/js/coolclock.js"></script>
 <script type="text/javascript" src="/js/moreskins.js"></script>
 <!-- <script type="text/javascript" src="/javascript/jquery126.js"></script> -->
-<script type="text/javascript" src="/js/jquery-132.js"></script>
+<!--<script type="text/javascript" src="/js/jquery-132.js"></script>-->
+<script type="text/javascript" src="/js/jquery172.js"></script>
+<script language="javascript" type="text/javascript" src="/js/general.js"></script>
+<script language="javascript" type="text/javascript" src="/js/login.js"></script>
 <script language="javascript" type="text/javascript" src="/js/general.js"></script>
 </head>
 <body onclick="return clickEventHand(event);">
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" id="container" height="100%">
+<!--<script type="text/javascript" src="js/jquery172.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
+-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" height="100%">
 	<tbody><tr>    	
 		<td valign="top" style="height: 30px;">
         
@@ -32,32 +46,54 @@
 				<table cellpadding="0" cellspacing="0" width="100%" border="0">
 								<tbody><tr>
 					<td>
-                        <table cellpadding="0" cellspacing="0" border="0" width="940" align="center">
+                        <table cellpadding="0" cellspacing="0" border="0" width="920" height="85" align="center">
 			<tbody><tr>
-				<td width="50%" height="60" style="padding-left:20px">
-					<a href="/" title="Parking Manager"><img src="/img/logo_1.gif" align="middle"></a>
+				<td width="30%" height="60">
+					 <div style="float:left">
+    <div class="logo"><a href="http://www.above.com/" title="Above.com"></a></div>
+    <div class="ftr-hdr" title="Domain Investor Platform">Domain Investor Platform</div>
+  </div>
 				</td>
-				<td width="50%" align="right">					
-
-                        <form name="form1" method="post" action="https://www.above.com/login.html">
-                        <table cellpadding="0" cellspacing="0" border="0">
-                        <tbody><tr>
-                        	<td class="t_label">Username</td>
-                            <td class="t_label" style="padding-left:2px;">Password</td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                        	<td><input id="username" name="username" class="t_login"></td>
-				<td style="padding-left:2px;"><input id="password" type="password" name="password" class="t_passwd"></td>
-				<td style="padding-left:2px;">
-					<input type="submit" value="Login" name="subLogin" class="t_login_btn">					
-									</td>
-                        </tr>
-                        <tr>
-                        	<td align="left" style="font-family:arial;color:#8d8d8d;" colspan="3">Create a new <a href="http://www.above.com/register.html">account</a>.</td>
-                        </tr>
-                        </tbody></table>
-                        </form>
+				<td width="70%" align="right" valign="top">
+                        <div class="topNav">
+    <div class="loginDiv">
+      <nav>
+        <ul>
+          <li id="login"><a id="login-trigger" style="font-size:13px; font-weight:bold; font-family:Arial, Helvetica, sans-serif">Login <span>▼</span></a>
+            <div id="login-content">
+              <form name="form1" method="post" action="https://www.above.com/login.html">
+				<input type="hidden" name="verifiedstats" value="0">
+                <table align="center" border="0" cellspacing="2" cellpadding="2" class="loginTbl">
+                  <tbody><tr>
+                    <td align="right">Username</td>
+                    <td colspan="2"><input id="username" name="username" class="uname"></td>
+                  </tr>
+                  <tr>
+                    <td align="right">Password</td>
+                    <td><input id="password" type="password" name="password" class="pswd"></td>
+                    <td><input type="submit" value="" name="subLogin" class="login-but">
+                    
+                    										<input type="hidden" value="" name="auction_id">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="sm_links" colspan="3" align="center"><a href="http://www.above.com/forgotten-pass.html">Forgot password?</a> | <a href="http://www.above.com/register.html">Create new account</a></td>
+                  </tr>
+                </tbody></table>
+              </form>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="topNavLinks">
+      <ul>
+        <li class="fL au"><a href="http://www.above.com/blog/">Above Blog</a></li>
+        <li class="fL au"><a href="http://www.above.com/about.html">About Us</a></li>
+        <li class="fL cu"><a href="http://www.above.com/contact.html">Contact Us</a></li>
+      </ul>
+    </div>
+  </div>
                   </td>
                  </tr>
                 </tbody></table>	                       
@@ -65,10 +101,10 @@
         </tr>
         <tr>
 					<td style="background: url('/img/base/middle-tab-bg.gif') repeat-x;" valign="top">
-						<table cellpadding="0" cellspacing="0" border="0" width="940" align="center">
+						<table cellpadding="0" cellspacing="0" border="0" width="920" align="center">
 							<tbody><tr>
 								<td>
-									<div id="Nsites" style="border:0px solid;padding-left:20px;">
+									<div id="Nsites" style="border:0px solid;">
 										<div style="float:left; vertical-align: bottom; margin-top: 2px;">
                                             
                                            <table cellpadding="0" cellspacing="0" border="0">
@@ -81,17 +117,17 @@
 												</tr>
 											</tbody></table> 
 										</div>
-										<div style="float:right; margin-top: 5px;">
+<!--										<div style="float:right; margin-top: 5px;">
                                         <table cellpadding="0" cellspacing="0" border="0">
-                                        <tbody><tr>						
+                                        <tr>						
                                             <td style="padding-bottom: 7px"><a href="/blog/" style="font-size:13px;font-weight:bold;">Above Blog</a></td>
                                             <td class="divider"></td>
                                             <td style="padding-bottom: 7px"><a href="/about.html" style="font-size:13px;font-weight:bold;">About Us</a></td>
                                             <td class="divider"></td>
                                             <td style="padding-bottom: 7px;"><a href="/contact.html" style="font-size:13px;font-weight:bold;">Contact Us</a></td>
                                         </tr>
-                                        </tbody></table>
-										</div>
+                                        </table>
+										</div>-->
 									</div>
 								</td>
 							</tr>
@@ -148,11 +184,501 @@
 }
 </style>
 
-
 	
 	
 <tr><td valign="top" style="padding-left:17px;*height:80%;">	
-	   <div style="height:20px;"> </div>
+	   <script type="text/javascript" src="javascript/jquery-ui.js"></script>
+<link rel="stylesheet" href="css/jquery-ui.css" type="text/css">
+
+<script>
+	function show_info_box(info_id){	
+		var theDialog = $(info_id).dialog({ autoOpen: false, height: 400, width: 400, title: "Help" });
+		theDialog.dialog('open');		
+	}	
+</script>
+
+
+<div id="manage_accounts" class="textstyle" style="display:none"> <!-- accounts.html page  -->
+
+<p><b>Manage Accounts</b></p>
+
+<p>The Manage Accounts page is where you can manage your parking service accounts.</p>
+
+<p><b>Service</b><br>
+This column shows the parking service name.</p>
+
+<p><b>Account</b><br>
+This column shows the username of this parking service's account.<br>
+Click a username to view daily revenue statistics for that account.</p>
+
+<p><b>Enabled</b><br>
+This column lets you know if this account is enabled or disabled in Above.com.<br>
+To change the setting, click <b>Edit</b>.</p>
+
+<p><b>Edit</b><br>
+Clicking Edit will allow you to change settings for this account or remove this parking service account from Above.com.</p>
+
+<p>See the <a href="/manual-manage-accounts.html" target="_blank">Manage Accounts manual page</a> for more information.</p>
+
+</div>
+
+<div id="dashboard" class="textstyle" style="display:none"> <!-- dashboard.html page  -->
+
+<p><b>Dashboard</b></p>
+
+<p>This table shows an overview of daily statistics from the last 10 days.<br>
+Incomplete days and days with estimated values are in red and will update when final results are available.<br>
+You can click the <img src="http://www.above.com/img/report_icon.png"> icon to show more.</p>
+
+<p><b>Day</b><br>
+Click a date in this column for a detailed break down of that day.</p>
+
+<p><b>Hits</b><br>
+Total hits (page impressions) for all domains for this day.</p>
+
+<p><b>Uniques</b><br>
+Total unique hits for all domains for this day. This value is only available when domains are using the Above.com DNS.</p>
+
+<p><b>Reported</b><br>
+Total unique hits for all domains for this day, reported by parking companies.</p>
+
+<p><b>Clicks</b><br>
+The total number of clicks reported for this day.</p>
+
+<p>
+<b>CTR</b><br>
+The average click through ratio, calculated from reported uniques.</p>
+
+<p>
+<b>nCTR</b><br>
+The normalised average click through ratio. This value is calculated from internal statistics and is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>EPC</b><br>
+The average earning per click.</p>
+
+<p><b>RPM</b><br>
+Average revenue per thousand unique visitors.</p>
+
+<p><b>nRPM</b><br>
+A normalized RPM (revenue per thousand unique visitors) value. This value is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>Revenue</b><br>
+Total parking revenues earned for this day.<br>
+Note: Estimates are always reported in red and are updated when final results are available.</p>
+
+<p>See the <a href="/manual-dashboard.html" target="_blank">Dashboard manual page</a> for more information.</p>
+
+</div>
+
+
+<div id="blacklist" class="textstyle" style="display:none"> <!-- blacklist.html page  -->
+
+<p><b>Blacklist Manager</b></p>
+
+<p>Not all services will accept traffic from all domains. To ensure that the optimizer does not send traffic to services where the traffic can not be monetized, you can maintain a blacklist for each service.</p>
+
+<p>Effective blacklist management ensures that no traffic is wasted on services where it can not be monetized.</p>
+
+<p><b>Note:</b> You can quickly switch between services by using the <b>Services</b> menu.</p>
+
+<p><b>Tip:</b> To view the current domain blacklist for this service, click <b>View</b> (or <b>Export</b> to export a .CSV file).</p>
+
+<p>See the <a href="/manual-managing-blacklists.html" target="_blank">Managing Blacklists manual page</a> for more information.</p>
+
+</div>
+
+
+<div id="conflicts" class="textstyle" style="display:none"> <!-- conflicts.html page  -->
+
+<p><b>Domains Conflicts</b></p>
+
+<p>The conflicts page shows domains in your account that have also been added by another Above.com user.<br>
+You can claim or delete domains in the list. However, please ensure that the domains you claim still belong to you.</p>
+
+<p>Domains marked with a red exclamation icon <img src="http://www.above.com/img/exclamation.png"> are currently associated with another user's account, but have also been added to your account.<br>
+You can claim these domains if they belong to you, otherwise delete them.</p>
+
+<p>The yellow exclamation icon <img src="http://www.above.com/img/exclamation1.png"> indicates that the domain is claimed by you and the conflict is pending resolution.<br>
+Please insure your whois information is up to date or email support a screenshot of the domain in your registrar account to prove ownership. </p>
+
+<p>See the <a href="/manual-conflicts.html" target="_blank">Conflicts manual page</a> for more information.</p>
+
+</div>
+
+<div id="reports" class="textstyle" style="display:none"> <!-- display_reports.html, reports.html page  -->
+
+<p><b>Reports</b></p>
+
+<p>Reports allows you to generate and optionally export reports including statistics and revenue for a specific time period or group of domains.</p>
+
+<p><b>Hits</b><br>
+Total hits (page impressions) for all domains for the selected period. This figure includes ALL hits received by the domain including images, crawlers, bots, etc.</p>
+
+<p><b>Uniques</b><br>
+Total unique hits for all domains for the selected period. This value is only available when domains are using the Above.com DNS.</p>
+
+<p><b>Reported</b><br>
+Total unique hits for all domains for the selected period, reported by parking companies.</p>
+
+<p><b>Clicks</b><br>
+The total number of clicks reported for the selected period.</p>
+
+<p><b>CTR</b><br>
+The average click through ratio, calculated from reported uniques.</p>
+
+<p><b>nCTR</b><br>
+The normalised average click through ratio. This value is calculated from internal statistics and is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>EPC</b><br>
+The average earning per click.</p>
+
+<p><b>RPM</b><br>
+Average revenue per thousand unique visitors.</p>
+
+<p><b>nRPM</b><br>
+A normalized RPM (revenue per thousand unique visitors) value. This value is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>Revenue</b><br>
+Total parking revenues earned for the selected period.<br>
+Note: Estimates are always reported in red and are updated when final results are available.</p>
+
+<p>See the <a href="/manual-reports.html" target="_blank">Reports manual page</a> for more information.</p>
+
+</div>
+
+
+<div id="stats" class="textstyle" style="display:none"> <!-- display_statictics.html, statistics.html page  -->
+
+<p><b>Statistics</b></p>
+
+<p>Statistics allows you to generate and optionally export reports about your domains' performance, which can show a breakdown for each parking service.</p>
+
+<p><img src="http://www.above.com/img/serviceimg/services.gif">Shows the primary service used with this domain and <img src="http://www.above.com/img/serviceimg/services_tested.gif"> shows the tested service.</p>
+
+<p>Clicking <img src="http://www.above.com/img/referrer.gif"> allows you to see referrers and clicking <img src="http://www.above.com/img/searchterm.gif"> allows you to see popular search terms for this domain.</p>
+
+<p><b>Uniques</b><br>
+Total unique hits for all domains for the selected period. This value is only available when domains are using the Above.com DNS.</p>
+
+<p><b>Reported</b><br>
+Total unique hits for all domains for the selected period, reported by parking companies.</p>
+
+<p><b>Clicks</b><br>
+The total number of clicks reported for the selected period.</p>
+
+<p><b>CTR</b><br>
+The average click through ratio, calculated from reported uniques.</p>
+
+<p><b>nCTR</b><br>
+The normalised average click through ratio. This value is calculated from internal statistics and is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>EPC</b><br>
+The average earning per click.</p>
+
+<p><b>RPM</b><br>
+Average revenue per thousand unique visitors.</p>
+
+<p><b>nRPM</b><br>
+A normalized RPM (revenue per thousand unique visitors) value. This value is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p>See the <a href="/manual-statistics.html" target="_blank">Statistics manual page</a> for more information.</p>
+
+</div>
+
+
+<div id="reports_options" class="textstyle" style="display:none"> <!-- domain_search_reports.html page  -->
+
+<p><b>Reports</b></p>
+
+<p>Reports allows you to generate and optionally export reports including statistics and revenue for a specific time period or group of domains.</p>
+
+<p>The default view is the Last 7 days, All Folders and grouped by Day. You can change these options to show custom reports.</p>
+
+<p>You can also filter to show only certain domains by entering them in the <b>Domains</b> field.</p>
+
+<p>Click <b>View Report</b> to generate the report or, click <b>Export</b> to export the report as a CSV file.</p>
+
+<p>See the <a href="/manual-reports.html" target="_blank">Reports manual page</a> for more information.</p>
+
+</div>
+
+<div id="stats_page" class="textstyle" style="display:none"> <!-- domain_search_statistics.html page  -->
+
+<p><b>Statistics</b></p>
+
+<p>Statistics allows you to generate and optionally export reports about your domains' performance, which can show a breakdown for each parking service.</p>
+
+<p><img src="http://www.above.com/img/serviceimg/services.gif">Shows the primary service used with this domain and <img src="http://www.above.com/img/serviceimg/services_tested.gif"> shows the tested service.</p>
+
+<p>Clicking <img src="http://www.above.com/img/referrer.gif"> allows you to see referrers and clicking <img src="http://www.above.com/img/searchterm.gif"> allows you to see popular search terms for this domain.</p>
+
+<p>You can select to show domains from a certain folder, or enter a list to show statistics for.<br>
+You can also choose to show only certain columns and details of the performance at each parking service.</p>
+
+<p>See the <a href="/manual-statistics.html" target="_blank">Statistics manual page</a> for more information.</p>
+
+</div>
+
+<div id="edit_folder" class="textstyle" style="display:none"> <!-- edit_folder.html page  -->
+
+<p>This page allows you to change settings for this folder, as well as add or remove domains from it.</p>
+
+<p><b>Service</b><br>
+When the Auto Optimizer is disabled, you can select the service to use with domains in this folder.
+After you have made your selection, make sure to click the <b>Change</b> button to save your changes.</p>
+
+<p><b>Auto Optimizer</b><br>
+Please see the <a href="javascript:void(0)" onclick="show_info_box('#auto_optimizer')" ;="">Auto Optimizer help page</a>.</p>
+
+<p><b>Enable Maximizer </b><br>
+Please see the <a href="javascript:void(0)" onclick="show_info_box('#maximizer')" ;="">Maximizer help page</a>.</p>
+
+<p><b>Lock the folder</b><br>
+This column lets you know if the lock is turned on. If the lock is on, you will be asked before any domains are deleted or moved out of this folder.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="redirecturl" class="textstyle" style="display:none"> <!-- edit_folder.html page  -->
+
+<p><b>Redirect URL</b></p>
+
+<p>This feature allows you to redirect all traffic to domains in this folder to a certain URL.</p>
+
+<p>You can even use this feature to direct traffic in a particular folder to a parking service not supported by Above.com.</p>
+
+<p><b>Tip:</b> You can use the <b>$D</b> variable to automatically insert the domain into the custom URL.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="maximizer" class="textstyle" style="display:none"> <!-- edit_folder.html page  -->
+
+<p><b>Maximizer</b></p>
+
+<p>When Enabled, Above.com will utilize various strategies to maximize the performance of all domains in the folder. An example of these options include a Premium Direct to Advertiser Network and the Redirection of traffic from geographic regions typically not monetized by the parking services, such as Chinese Traffic.</p>
+
+<p>By enabling this option, you authorize Above.com to employ such strategies to maximize the domain revenues.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="lockfolder" class="textstyle" style="display:none"> <!-- edit_folder.html page  -->
+
+<p><b>Folder Lock</b></p>
+
+<p>When the folder lock option is ticked, domains can not be moved out of the folder. When locked, any domain move operation will fail, or require a manual confirmation.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="manage_folders" class="textstyle" style="display:none"> <!-- folders.html page  -->
+
+<p><b>Manage Folders</b></p>
+
+<p>The Manage Folders page allows you to change various settings for each folder, export domain lists, add / remove domains and add / remove folders.</p>
+
+<p>You can export a CSV or all domains in your account by clicking the <b>Export all domains</b> button. To export a single folder, click the number in the <b>Total domains</b> column, for the folder you wish to export.</p>
+
+<p><b>Folder</b><br>
+The folder name. You can click the name to edit the folder settings.<br>
+<b>Note:</b> The <b>(Deleted)</b> folder allows you to see domains deleted from your account.</p>
+
+<p><b>Total domains</b><br>
+This column shows the number of domains in this folder. You can click a number to export a list of domains in the folder.</p>
+
+<p><b>Lock</b><br>
+This column lets you know if the lock is turned on. If the lock is on, you will be asked before any domains are deleted or moved out of this folder.<br>
+To change the lock setting, click <b>Edit</b> to change folder settings.</p>
+
+<p><b>Optimizer</b><br>
+This column indicates whether or not the Auto Optimizer feature is enable on this folder.<br>
+To change the Auto Optimizer setting, click <b>Edit</b> to change folder settings.</p>
+
+<p><b>Service</b><br>
+This column tells you which parking service is being used with domains in this folder. <b>Auto</b> is shown if the Auto Optimizer is enabled.</p>
+
+<p><b>Redirect</b><br>
+Instead of directing domain traffic for a folder to a parking service, you can redirect the traffic to another URL.<br>
+This can be useful if you want to drive traffic to a new website, without having to change your domains' DNS settings.</p>
+
+<p><b>Maximizer</b><br>
+This column indicated whether or not the Maximizer is enabled.<br>
+To change the Maximizer setting, click <b>Edit</b> to change folder settings.</p>
+
+<p><b>Edit</b> or <b>Delete</b><br>
+These options allow you to Edit or Delete the folder.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="jobs_queue" class="textstyle" style="display:none"> <!-- jobs_queue.html page  -->
+
+<p><b>Jobs Queue</b></p>
+
+<p>The Jobs Queue page shows details about statistics downloads from parking services accounts.</p>
+
+<p>This log can help you or your account manager identify issues with your parking service accounts.</p>
+
+<p><b>Date</b><br>
+The date of the task.</p>
+
+<p><b>Service</b><br>
+The parking service that statistics were collected from.</p>
+
+<p><b>Account</b><br>
+Which parking service account statistics were collected from.</p>
+
+<p><b>Download</b><br>
+The date and time the download was started.</p>
+
+<p><b>Size</b><br>
+Number of domains statistics were downloaded for.</p>
+
+<p><b>Import</b><br>
+The date and time the the statistics were imported into our database.</p>
+
+<p><b>Revenue</b><br>
+Revenue for this parking account (usually for the previous 3-4 days).</p>
+
+<p><b>Message</b><br>
+If a message other that <b>LOGIN FAILED</b> is shown, there is no need for you to do anything. Our system will automatically retry later.</p>
+
+<p>Usually <b>SUCCESS</b>, which means statistics were downloaded successfully.</p>
+
+<p>See the <a href="/manual-job-queue.html" target="_blank">Jobs Queue manual page</a> for more information and the full list of message codes.</p>
+
+</div>
+
+<div id="missing_traffic" class="textstyle" style="display:none"> <!-- missing_traffic.html page  -->
+
+<p><b>Missing Traffic Report</b></p>
+
+<p>This report lists domains where traffic forwarded by Above.com has not been reported by your parking company.</p>
+<p>This may indicate a potential problem. The possible reasons are:
+
+</p><ul style="padding: 5px 0px 0px;">
+<li>The domain has not been added to your parking account.</li>
+<li>The domain is currently in the account of another user.</li>
+
+<li>The parking company does not recognize the traffic as valid and is not reporting it.</li>
+<li>The parking company has blacklisted the domain.</li>
+</ul>
+<p></p>
+
+<p>See the <a href="/manual-missing-traffic-report.html" target="_blank">Missing Traffic manual page</a> for more information and what you should do.</p>
+
+</div>
+
+<div id="missing_traffic_report" class="textstyle" style="display:none"> <!-- missing_traffic.html page  -->
+
+<p><b>Missing Traffic Report</b></p>
+
+<p>This report lists domains where traffic forwarded by Above.com has not been reported by your parking company.</p>
+
+<p><img src="http://www.above.com/img/serviceimg/services.gif">Shows the primary service used with this domain.</p>
+
+<p>Clicking <img src="http://www.above.com/img/referrer.gif"> allows you to see referrers and clicking <img src="http://www.above.com/img/searchterm.gif"> allows you to see popular search terms for this domain.</p>
+
+<p><b>Domain</b><br>
+The domain that has not been reported by your parking company. You can click the domain for further statistics.</p>
+
+<p><b>Hits</b><br>
+Total hits (page impressions) for all domains for this day.</p>
+
+<p><b>Uniques</b><br>
+Total unique hits for all domains for this day. This value is only available when domains are using the Above.com DNS.</p>
+
+<p><b>Reported</b><br>
+Total unique hits for all domains for this day, reported by parking companies.</p>
+
+<p><b>Clicks</b><br>
+The total number of clicks reported for this day.</p>
+
+<p><b>CTR</b><br>
+The average click through ratio, calculated from reported uniques.</p>
+
+<p><b>nCTR</b><br>
+The normalised average click through ratio. This value is calculated from internal statistics and is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>EPC</b><br>
+The average earning per click.</p>
+
+<p><b>RPM</b><br>
+Average revenue per thousand unique visitors.</p>
+
+<p><b>nRPM</b><br>
+A normalized RPM (revenue per thousand unique visitors) value. This value is only valid if ALL domains in the account are using the Above.com DNS.</p>
+
+<p><b>Revenue</b><br>
+Total parking revenues earned for the selected period.</p>
+
+<p>See the <a href="/manual-missing-traffic-report.html" target="_blank">Missing Traffic manual page</a> for more information and what you should do.</p>
+
+</div>
+
+<div id="ownership_conflicts" class="textstyle" style="display:none"> <!-- ownership.html page  -->
+
+<p><b>Domains Conflicts</b></p>
+
+<p>The conflicts page shows domains in your account that have also been added by another Above.com user.<br>
+You can claim or delete domains in the list. However, please ensure that the domains you claim still belong to you.</p>
+
+<p>Domains marked with a red exclamation icon <img src="http://www.above.com/img/exclamation.png"> are currently associated with another user's account, but have also been added to your account.<br>You can claim these domains if they belong to you, otherwise delete them.</p>
+
+<p>The yellow exclamation icon <img src="http://www.above.com/img/exclamation1.png"> indicates that the domain is claimed by you and the conflict is pending resolution.<br>
+Please insure your whois information is up to date or email support a screenshot of the domain in your registrar account to prove ownership.</p>
+
+<p>See the <a href="/manual-conflicts.html" target="_blank">Conflicts manual page</a> for more information.</p>
+
+</div>
+
+<div id="auto_optimizer" class="textstyle" style="display:none"> <!-- info.html page  -->
+
+<p><b>Auto Optimizer</b></p>
+
+<p>Above.com is designed to maximize the revenues from your domains by identifying the best place to park each and every domain name. To use this feature, the Auto Optimizer must be enabled in the folder settings.</p>
+
+<p><b>IMPORTANT!!!</b> If you are using the auto optimize feature, you MUST ensure that ALL domains you wish to manage have been added to all of your parking accounts.</p>
+
+<p>For more information on folder settings, see <a href="/manual-manage-folders.html" target="_blank">Manage Folders manual page</a> for more information.</p>
+
+</div>
+
+<div id="lockfolder" class="textstyle" style="display:none"> <!-- info.html page  -->
+
+<p><b>Folder Lock</b></p>
+<p>When the folder lock option is ticked, domains can not be moved out of the folder. When locked, any domain move operation will fail, or require a manual confirmation.</p>
+
+</div>
+<div id="custom_service_redirect" class="textstyle" style="display:none"> <!-- info.html page -->
+
+<p>
+<b>Custom Service &amp; Redirect</b><br><br>
+This option allows you to direct traffic to a specific parking service, or set of parking services, custom URL, for sale page, blank or static page or any combination of these options. You can use as many parking services or combinations of any of these options as you want and define what percentage of traffic should be directed to each.
+</p>
+
+</div>
+<div id="custom_redirect" class="textstyle" style="display:none"> <!-- info.html page -->
+<p>
+<b>Custom 302 Redirect</b><br><br>
+This option will redirect traffic to a custom URL.
+</p>
+
+</div>
+<div id="custom_frame_redirect" class="textstyle" style="display:none"> <!-- info.html page -->
+<p>
+<b>Custom Frame Redirect</b><br><br>
+Similar to Custom 302 Redirect, except the specified URL will be displayed in an HTML frame, meaning the domain name will be retained in the address bar.
+</p>
+
+</div>
+       <div style="height:20px;"> </div>
 		<div id="content" style="text-align: left;">
 
 	
@@ -277,51 +803,100 @@ Above.com is an<br>ICANN Accredited Registrar<br>
 </td></tr></tbody></table>
 
 
-                </div>
+    
+    </div>
+                
 </td>
 </tr>
-
 <tr>
-<td valign="bottom">
-<div id="footer" style="font-size:12px;margin:0;padding:0;">	
-		
-          
-        <div style="margin-bottom:7px;padding-top:13px;font-size:12px;">
-        <b>Domain Parking Manager:</b>
-        <a href="http://www.above.com/about.html" style="font-size:12px;">About</a> | 
-        <a href="http://www.above.com/features.html" style="font-size:12px;">Features</a> | 
-        <a href="http://www.above.com/reporting.html" style="font-size:12px;">Reporting</a> | 
-        <a href="http://www.above.com/terms.html" style="font-size:12px;">Terms</a>
+<td valign="bottom" class="pB20">
+<div class="footerWrapper">  
+    <div class="footer">
+      <div class="tblFooter">
+        <div class="w25 fL vDvdr">
+          <div class="fHdr">Domain Registration</div>
+          <div class="colFooter">
+            <ul class="p0" id="cft">
+              <li><a href="http://domains.above.com/index.html" class="cft">Register Domains</a></li>
+              <li><a href="http://domains.above.com/view_domains.html" class="cft">Manage Domains</a></li>
+              <li><a href="http://domains.above.com/domain-pricing.html" class="cft">Pricing</a></li>
+              <li><a href="http://domains.above.com/domain-dispute-policy.html" class="cft">Dispute Policy</a></li>
+              <li><a href="http://domains.above.com/domain-registrar-terms.html" class="cft">Terms</a></li>
+              <li><a href="http://domains.above.com/whois.html" class="cft">Whois</a></li>
+            </ul>
+          </div>
         </div>
-        <div style="margin-bottom:7px;font-size:12px;">
-        <b>Domain Registrar:</b>
-        <a href="http://domains.above.com/register.html" style="font-size:12px;">Register Domains</a> |
-        <a href="http://domains.above.com/login.html" style="font-size:12px;">Manage Domains</a> |
-        <a href="http://domains.above.com/domain-pricing.html" style="font-size:12px;">Pricing</a> |
-        <a href="http://domains.above.com/domain-dispute-policy.html" style="font-size:12px;">Dispute Policy</a> |
-        <a href="http://domains.above.com/domain-registrar-terms.html" style="font-size:12px;">Terms</a> |
-        <a href="http://domains.above.com/whois.html" style="font-size:12px;">Whois</a>
-        </div>
-        <div style="font-size:12px;margin:0;padding:0;">
-            Above.com Pty Ltd © 2004
-            <script language="JavaScript">
-            var d=new Date();
-            yr=d.getFullYear();
-            if (yr!=2004)
-            document.write("- "+yr);
-            </script>- 2020&nbsp;&nbsp; All Rights Reserved - 
-            <a href="http://www.above.com/about.html" style="font-size:12px;">About</a> | 
-            <a href="http://www.above.com/blog/" style="font-size:12px;">Blog</a> | 
-            <a href="http://www.above.com/contact.html" style="font-size:12px;">Contact Us</a> 
-            <!--| <a href="/escrow.html" style="font-size:12px;">Escrow</a> --> | 
-            <a href="http://www.above.com/sitemap.html" style="font-size:12px;">Sitemap</a> | 
-            <a href="http://www.above.com/partner.html" style="font-size:12px;">Affiliates</a> | 
-            <a href="http://www.above.com/privacy-policy.html" style="font-size:12px;">Privacy Policy</a> | 
-            <a href="http://www.facebook.com/above.domain" target="_blank"><img src="/img/icon_facebook.gif" border="0" align="absmiddle" style="padding:0px 0px 4px 4px"></a><a href="http://twitter.com/above_domain" target="_blank"><img src="/img/icon_twitter.gif" border="0" align="absmiddle" style="padding:0px 0px 4px 8px"></a>
+        <div class="w25 fL vDvdr">
+          <div class="m012012">
+            <div class="fHdr">Domain Parking Manager</div>
+            <div class="colFooter">
+              <ul class="p0">
+                <li><a href="http://www.above.com/about.html" class="cft">About Domain Parking</a></li>
+                <li><a href="http://www.above.com/features.html" class="cft">Domain Features</a></li>
+                <li><a href="http://www.above.com/reporting.html" class="cft">Reporting</a></li>
+                <li><a href="http://www.above.com/terms.html" class="cft">Terms</a></li>
+                <li><a href="http://www.above.com/verified-stats.html" class="cft">Verified Stats</a></li>
+              </ul>
             </div>
-        
-          
+          </div>
+        </div>
+        <div class="w25 fL vDvdr">
+          <div class="m012012">
+            <div class="fHdr">Domain Marketplace</div>
+            <div class="colFooter">
+              <ul class="p0">
+                <li><a href="http://www.above.com/marketplace/" class="cft">About Marketplace</a></li>
+                <li><a href="http://www.above.com/marketplace/features.html" class="cft">Features</a></li>
+                <li><a href="http://www.above.com/marketplace/faq.html" class="cft">Faq's</a></li>
+                <li><a href="http://www.above.com/marketplace/terms.html" class="cft">Terms</a></li>
+                <li><a href="http://www.above.com/marketplace/escrow.html" class="cft">Escrow</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="fL w24">
+          <div class="m012012">
+            <div class="fHdr">Above.com</div>
+            <br>
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td><a href="http://www.above.com/about.html" class="ftLinks">About us</a></td>
+                <td><a href="http://www.above.com/blog/" class="ftLinks">Blog</a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.above.com/contact.html" class="ftLinks">Contact us</a></td>
+                <td><a href="http://www.above.com/sitemap.html" class="ftLinks">Site Map</a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.above.com/partner.html" class="ftLinks">Affiliates</a></td>
+                <td><a href="http://www.above.com/privacy-policy.html" class="ftLinks">Privacy Policy</a></td>
+              </tr>
+            </tbody></table>
+            <br clear="all">
+            <div class="cr"> Above.com Pty Ltd © 2004
+        <script language="JavaScript">
+        var d=new Date();
+        yr=d.getFullYear();
+        if (yr!=2004)
+        document.write("- "+yr);
+        </script>- 2020<br>
+              All Rights Reserved </div>
+          </div>
+        </div>
+      </div>
+      <div class="footerBottom">
+  <div class="media">
+    <div class="socialsites" style="padding-top:0 !important"><a href="http://twitter.com/above_domain" class="tweet" target="_blank"></a> <a href="http://www.facebook.com/above.domain" class="fb" target="_blank"></a></div>
+    <a href="http://www.above.com/marketplace/verified-by-above.html" class="veri"><img src="/img/verified-icon.png" width="74" height="37" title="Verified by Above"></a> <a href="http://www.internetcommerce.org/" class="ica" target="_blank"><img src="/img/ICA_Supporter_137x38.gif" width="137" height="38" title="Internet Commerce Association"></a><a href="http://www.domainstate.com/" class="ds" target="_blank"><img src="/img/recommends120x31.gif" width="120" height="31" title="DomainState.com"></a><a href="http://www.domaining.com/" class="dmn" target="_blank"><img src="/img/domaining-120x31.gif" width="120" height="31" title="Domaining recommends this site"></a><a href="http://www.icann.org/" target="_blank"><img src="/img/icann-accredited-trans-56.png" width="56" height="56" title="ICANN Accredited Registrar"></a></div>
 </div>
+
+      <br clear="all">
+      <br>
+    </div>
+    
+</div>
+      
+  
 </td>
 </tr>
 </tbody></table>                
