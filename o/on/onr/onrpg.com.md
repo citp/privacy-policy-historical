@@ -1,46 +1,34 @@
-> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035148id_/http%3A//www.onrpg.com/MMO/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onrpg.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626232557id_/http%3A//www.onrpg.com/privacy-policy) for the most accurate reproduction.*
 
-# Free MMORPG Online Games & Free MMO RPG Directory - Onrpg.com
+# OnRPG | Privacy Policy | Free Online MMORPG and MMO Games List - OnRPG
 
-This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by us on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). SPIL GAMES B.V. (hereinafter referred to as "SPIL") with its offices at Arendstraat 23, 1223 RE, Hilversum, the Netherlands, is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.
+### Privacy Policy for OnRPG (http://onrpg.com/)
 
-## 1\. General data of visitors of the Website
+The privacy of our visitors is of extreme importance to us at OnRPG. This privacy policy document outlines the types of personal information that is received and collected by OnRPG and related third-party advertisers and how it is used.
 
-When you visit the Website, our servers automatically save your computer's IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.  
+**Log Files**
 
+Like many web sites, OnRPG makes use of access log files. The information inside these access log files include requester Internet Protocol (IP) addresses, type of web browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and a number of clicks to analyze trends, administer the site, track user movement throughout the site, and gather demographic information. IP addresses, and related logged information, are not linked to any information that is personally identifiable.
 
-## 2\. Cookies and web beacons
+**Cookies and Web Beacons**
 
-**2.1**. SPIL may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to   
-**(a)** operate and improve offerings through the Website;   
-**(b)** help authenticate you when you are on the Website;   
-**(c)** remember your preferences and registration information, as the case may be;   
-**(d)** present and help measure and research the effectiveness of SPIL's offerings, advertisements, and e-mail communications and;   
-**(e)** customize the content and advertisements provided to you through the Website.  
-**2.2.** SPIL may also use ad network providers, to help present advertisements on the Website. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience. SPIL offers some services in connection with other web sites. Personal information that you provide to those sites may be sent to SPIL in order to deliver the service. SPIL processes such information in accordance with this Privacy Policy.  
-**2.3.** SPIL may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network providers, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.  
-**2.4.** Most browsers are initially set to accept cookies, but you can (re-)set your browser to refuse all cookies or indicate when a cookie is being sent. However, some features and services may not function properly if the cookies are disabled.  
+OnRPG uses cookies to store information about user preferences, to record user-specific information on which pages the user accesses or visits, and to customize displayed content based on a user’s type of web browser or related information that the user submits.
 
+**DoubleClick DART Cookie**
 
-## 3\. Email addresses
+.:: Google, as a third party vendor, uses cookies to serve ads on OnRPG.  
+.:: Google’s use of the DART cookies enables it to serve ads to users based on their visit(s) to OnRPG and previously visited websites.  
+.:: Users may opt out of the use of the DART cookies by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/policies/technologies/ads/
 
-**3.1**. We only collect those email addresses that were provided to us directly by the addressee or when it is beyond doubt that the addresses were provided to or on behalf of us.  
-**3.2**. Email addresses will only be used for the purposes for which the email addresses were provided and for those promotion-, service- and other purposes that you expressly approved of.  
-**3.2**. Without your approval we shall not use your email address for commercial purposes.  
+Some of our advertising partners may use cookies and web beacons on our website. Our advertising partners include:  
+CPMStar
 
+These advertising partners use certain technologies to deliver ads and links directly to your web browser. These advertising partners automatically record your IP address when this occurs. Cookies, JavaScript, or Web Beacons may be used by these advertising partners to measure the effectiveness of their advertisements and/or to personalize the advertising content that you may see.
 
-## 4\. Combination of personal data
+OnRPG has no direct access or control over the methods used by third-party advertisers.
 
-For optimizing our services and the Website and for the purposes mentioned in the articles 1, 2 and 3 of this Privacy Policy, we are entitled to combine your personal data, including your email address as the case may be, with other information about you collected by or provided to us.
+Should you have any questions or concerns regarding our third-party advertisers then please consult the respective privacy policies of these third-party advertisers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. OnRPG’s privacy policy does not apply to, and cannot mandate, the activities of third-party advertisers.
 
-## 5\. Access to the information we collected about you
+If you wish to disable the use of cookies on our website then you may do so through your web browser options and configuration settings. Detailed information regarding cookie management for a specific web browser can be found at the web browser vendors’ website.
 
-If you wish to have access to the information that we collect about you, please send a written request thereto to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, The Netherlands, together with a copy of your passport (to prevent misuse of requests for information).
-
-## 6\. Miscellaneous
-
-**6.1.** We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Website. You should check the Website regularly for amendments.  
-**6.2.** Internet is a global environment and using the internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using the Website you acknowledge and agree to our processing of personal data in this way.  
-**6.3.** SPIL does not intentionally collect any personal data from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.  
-**6.4.** This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands.   
-
+If you require any further information or have any questions about our privacy policy then please feel free to [contact us](http://www.onrpg.com/boards/sendmessage.php).
