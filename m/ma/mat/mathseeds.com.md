@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619101008id_/http%3A//readingeggs.com.au/beta/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathseeds.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084123id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
 
-# Reading Eggs | Where Children Learn to Read Online
-
-## Privacy Policy
+# Privacy – Reading Eggs
 
 ### What information do we collect?
 
@@ -22,13 +20,12 @@ We may use the information we collect from you when you register, purchase produ
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and ‘members-only’ content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
-  * Also, if you have opted-in to receive the ABC Shop newsletter on new releases from the ABC Shop, the Australian Broadcasting Corporation may send you periodic emails. If you would no longer like to receive these promotional emails, you may unsubscribe at any time from a link in the email.
 
 
 
 ### How do we protect visitor information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of people who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
 ### Do we use "cookies"?
 
@@ -75,6 +72,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 By using our site, you consent to our privacy policy.
 
 This website is published by Blake Publishing, with support from 3P Learning.  
-The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
+
 
 This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth), the United Kingdom Privacy Protection Act 1998 and the United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
