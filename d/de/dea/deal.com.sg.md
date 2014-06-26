@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927072536id_/http%3A//www.deal.com.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032004id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | DEAL.com.sg - Best Deals in Singapore
 
@@ -22,7 +22,7 @@ Send to you products / information that we deem relevant before / during / after
 Supply to you services that you purchase  
 Send you statements and invoices  
 Collect payments from you; and  
-Send you marketing communications
+Send you marketing communications via Email, SMS and/or Direct Call
 
 Where DEAL.com.sg discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
@@ -64,13 +64,15 @@ This website may contain links to other websites; DEAL.com.sg is not responsible
 
 If you have any questions about this privacy policy or DEAL.com.sg’s treatment of your personal information, please write to:
 
-By email to: [info@deal.com.sg](mailto:info@deal.com.sg)  
-Or  
+By email to: [info@deal.com.sg](mailto:info@deal.com.sg)
+
+Or
+
 By post to:  
-1 King George’s Avenue  
-Rehau Building  
-Level 5  
-Singapore 208557
+2 Kallang Avenue  
+CT Hub  
+#03-05  
+Singapore 339407
 
 Or
 
