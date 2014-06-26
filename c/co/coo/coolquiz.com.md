@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815011953id_/http%3A//www.coolquiz.com/Network/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquiz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626160700id_/http%3A//www.coolquiz.com/Network/privacy.asp) for the most accurate reproduction.*
 
 # None
 
