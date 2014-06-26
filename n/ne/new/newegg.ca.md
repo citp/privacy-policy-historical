@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019222240id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090918id_/http%3A//www.newegg.ca/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # Newegg.ca - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
@@ -7,7 +7,7 @@
 
 ## Information Collection and Use
 
-Newegg Canada Inc. and its parent and affiliates is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected includes your name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as your credit card number. We also require you to submit a username and password of your choice for your future access to your account information. To safeguard that your user name and password remain confidential, DO NOT share this information with anyone. If you elect to receive our newsletter or special promotions, your contact information will be used for the delivery of these items. 
+Newegg Canada Inc. and its parent and affiliates is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected includes your name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as your credit card number. We also require you to submit a username and password of your choice for your future access to your account information. To safeguard that your user name and password remain confidential, DO NOT share this information with anyone. If you elect to receive our newsletter or special promotions, your contact information will be used for the delivery of these items. We allow third-party companies to collect non-personally identifiable information when customers visit our site. These companies typically use a cookie or web beacon to collect this information in order to provide advertisements likely to be of interest to you. Our site does not respond to “Do Not Track” signals or mechanisms. 
 
 ## Registration
 
@@ -34,17 +34,6 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes. These third parties include, but are not limited to, the following:
 
-_UPS Corporate Headquarters_  
-55 Glenlake Parkway, NE  
-Atlanta , GA 30328  
-United States  
-[www.ups.com](http://www.ups.com/) |  _Purolator Corporate Headquarters_  
-5995 Avebury Road 5th Floor Mississauga,  
-ON L5R 3T8  
-Canada Phone: 905-712-1084  
-[www.purolator.ca](http://www.purolator.ca/)  
----|---  
-  
 We may frame or mask another web site so that the look, feel and interface simulate the experience of browsing a genuine Newegg.ca web page. Extreme care and discretion is exercised when evaluating third party sites. We only brand third party sites if their organization applies stringent security and privacy practices which parallel our own commitment to safe online shopping. 
 
 As our business continues to evolve, we may acquire or sell business units or subsidiaries. Customer information is one of the business assets that would be transferred in these types of transactions. In such a situation, your personally identifiable information would only be used in a manner consistent with our pre-existing Privacy Notice. 
@@ -71,7 +60,7 @@ This website contains links to other sites. Please be aware that Newegg.ca is no
 
 Newegg.ca takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Newegg.ca uses the most advanced form of SSL software available: 128-bit encryption by VeriSign. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/). 
+When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected with the best encryption software currently available in the industry - SSL. Newegg.ca uses the most advanced form of SSL software available: 256-bit encryption by VeriSign. To learn more about SSL, follow this link [www.verisign.com](http://www.verisign.com/). 
 
 Access to all of our users' information is restricted. Newegg.ca operates in a secured and locked facility that requires all employees to check in and wear valid ID badges. Security cameras are positioned throughout the building in conjunction with multiple alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed at the time of your order, you may opt to have your financial information deleted from our records upon completion of your order. Otherwise, you may contact us at [webmaster@newegg.ca](mailto:webmaster@newegg.ca) or call toll free 1-800-390-1119 to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information. 
 
@@ -103,7 +92,7 @@ If you have opted out of receiving communications from Newegg.ca, you will still
 
 ## Last Update
 
-The Privacy Policy contained herein became officially effective October 1, 2009.
+The Privacy Policy contained herein became officially effective January 1, 2014.
 
 ## Address
 
