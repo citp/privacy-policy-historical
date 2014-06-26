@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215160815id_/http%3A//www.vodafone.ie/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031120id_/http%3A//www.vodafone.ie/terms/privacy/%23cookies) for the most accurate reproduction.*
 
 # Vodafone Ireland's Privacy Policy
+
+* Acquisition
+* Use and Disclosure of Information
+* Retention
+* Cookies
+* Access to your Information
+* Information security
+* General
+* NetPerform Privacy Information
 
 Vodafone Ireland Limited (hereinafter referred to as "Vodafone" "us" "we" or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws.
 
@@ -24,7 +33,7 @@ The content of WAP sites and SMS services (in particular premium rate services) 
 
  **4.** All acquisition methods (e.g. customer application forms, competition entries) will have a clear information piece explaining any intended purposes including secondary uses that may not be obvious to you (e.g. if competition entries are intended to be used for marketing purposes this will be clearly advised to you and an appropriate opt out box will be provided).
 
-## Use and Disclosure of Information
+## Use and disclosure of information
 
  **5.** Data will be kept only for clear and legal purposes.
 
@@ -68,7 +77,7 @@ For legal purposes call records will be retained for a period of 2 years to comp
 
 For legal purposes usage records will be retained for a period of 12 months to comply with State requirements. This retention will take place in a restricted access secure system and will not be used for Vodafone’s commercial purposes.  
   
- **Cookies**|  Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings. See more  
+Cookies are stored on a per session basis only to aid your navigation of our web-sites. Persistent cookies may be set to store display related preferences. Depending on your browser you may also be able to control cookie use by altering your browser settings. See more  
  **Invoices & Statements**| 6 years plus current year for invoices and statements.
 
 The call detail element of your standard bill will be severed and deleted after 6 months, as described above.  
@@ -81,11 +90,15 @@ The call detail element of your standard bill will be severed and deleted after 
 
  ** **17.  ** How to control cookies in your browser? **Depending on the type of browser you are using (e.g. Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Safari etc.), you may be able to configure your browser so that: (i) you are prompted to accept or reject cookies on an individual basis or (ii) to prevent your browser from accepting any cookies at all. You should refer to the supplier or manufacturer of the web browser for specific details about cookie security. For more details on cookies and how to control them, visit [www.aboutcookies.org](http://www.aboutcookies.org/ "Go to AboutCookies.org") (please note this link opens a new window or browser tab).
 
-##  **Access to your Information**
+##  **Access to your information**
+
+ ****
 
 18\. You are entitled to copies of your Data kept by us. Requests should be in writing* and should be addressed to Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18. Please quote your name, address and your mobile and/or account number. We will take all reasonable steps to confirm your identity before issuing any copy Data.
 
-##  **Information Security**
+##  **Information security**
+
+ ****
 
 19\. Vodafone is constantly reviewing and enhancing its technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. We use industry standard secure sockets layer (SSL) technology, for example, to encrypt sensitive information such as your credit card and other financial information.
 
@@ -94,6 +107,8 @@ The call detail element of your standard bill will be severed and deleted after 
 21\. It may be necessary to transfer your personal information to other group companies or service providers located in countries outside of the European Economic Area (EEA)**. This may happen where our servers or suppliers and service providers are based outside of the EEA or where you use our services and products while visiting countries outside of the EEA. The data protection and other laws of these countries may not be as comprehensive as those in Ireland or the EU - in these instances we will take steps to ensure that your privacy rights are respected.
 
 ##  **General**
+
+ ****
 
 22\. If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to dataprotection@vodafone.ie
 
@@ -104,3 +119,83 @@ The call detail element of your standard bill will be severed and deleted after 
 * - We may charge a small fee to cover the administration costs. This fee is set by the Data Protection Commissioner from time to time
 
 ** The European Economic Area (EEA) currently comprises the Member states of the European Union plus Norway, Iceland and Liechtenstein
+
+## NetPerform Privacy Information
+
+This application collects information about the way your phone interacts with our network and services as described below. We hold this data securely and anonymously for 14 months, which lets us view and plan for seasonal variations of network use.
+
+### Network coverage
+
+This application will capture statistics about your connectivity for phone calls. This allows us to diagnose connectivity or connection quality problems and make improvements to our network in your area. We log:
+
+  * the percentage of time your phone is on the network
+  * the cell ID and location of the phone masts used and how you move between them, when your phone is active
+  * signal strength
+  * areas of limited or no service
+  * quality of the coverage (2G, 3G, 4G)
+
+
+
+### Internet connectivity
+
+This application will capture statistics about your connectivity for internet or data coverage. This allows us to diagnose connectivity or connection quality problems. We log:
+
+  * every hour, a test of whether you can connect to the internet
+  * your upload and download speed
+  * the cell ID and location of the phone masts used and how you move between them, when your phone is active
+  * areas of limited or no service
+  * quality of the coverage
+  * how long it takes to set up a connection to the internet
+  * Wi-Fi quality
+  * MAC addresses of the Wi-Fi hot spots your device can see
+
+### Call quality and usage
+
+The success or failure of your calling experience can be diagnosed using technical details about the network, your coverage, or your phone’s signal quality during a call. This helps us improve all aspects of your calling experience. We log:
+
+    * the cell ID and location of phone masts serving your incoming and outgoing calls and other masts used if you change location during the call
+    * signal strength
+    * call duration
+    * how the call ends
+    * quality of the coverage
+
+### Data usage
+
+So that we can diagnose the overall usage of the internet data use on different phone models we capture information about how much your device use internet services and consume data. This helps us improve device and network data efficiency for you and other customers based on real world data usage. We log:
+
+    * hourly data use
+    * how much data your phone uses when in standby mode
+    * how much data goes over Wi-Fi connections vs. the cellular network
+
+### Applications
+
+So that we can identify trends in data usage that help us allocate capacity for data heavy applications in your area, we assess the data use of the applications on your phone. We log:
+
+    * what apps are installed on your phone
+    * how long they are used
+    * how much data and how fast each app receives and transmits
+
+### Device Information
+
+So that we can evaluate the performance of different devices on our network and diagnose phone-related problems and diagnose the overall health of your phone, we log:
+
+  * phone brand and model
+  * IMEI number, encrypted and masked making it unidentifiable and anonymous
+  * operating system
+  * firmware version
+  * hardware capabilities
+  * language & locale
+  * battery state
+  * memory consumption
+  * time since last reboot
+
+### Location
+
+When we measure the items above related to coverage and usage, we know your rough location from the phone mast Wi-Fi hot spot your phone is using. When your phone or one of your apps is using GPS location data, we use that to assess location more precisely and sometimes speed if available with GPS information.This enables us to identify areas of weak coverage and This information will be used to improve poor performance for you and fellow customers.
+
+### Anonymisation of Information
+
+The network and device improvements that this application is designed for do not require personal information. This means we do not log personal information, all network data is anonymised by the application before it is sent to Vodafone.
+
+
+
