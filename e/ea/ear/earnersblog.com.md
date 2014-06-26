@@ -1,73 +1,59 @@
-> *The following text is extracted and transformed from the earnersblog.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126150224id_/http%3A//serverbear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnersblog.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035738id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
-# ServerBear Privacy Policy
+# Gleam Privacy Policy
 
-## What information do we collect?
+This Privacy Policy governs the manner in which Gleam collects, uses, maintains and discloses information collected from users (each, a "User") of the http://gleam.io website ("Site"). This privacy policy applies to the Site and all products and services offered by Gleam.
 
-We only collect information from you when you run a server benchmark, this includes your email address & an optional field for the price you currently pay for your hosting package / server.
+## Personal Identification Information
 
-We also collect certain information about your server when you run our Benchmark, this includes: 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  * Operating System Name
-  * Free RAM & Disk Space
-  * UnixBench Benchmark Results
-  * IO Speed
-  * Data Transfer Speed
+## Non-personal Identification Information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+## Web Browser Cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## How we Use Collected Information
+
+Gleam may collect and use Users personal information for the following purposes: 
+
+  * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To run a promotion, contest, survey or other Site feature: To send Users information they agreed to receive about topics we think will be of interest to them.
+  * To send periodic emails: We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
 
-## What do we use your information for?
+## How we Protect Your Information
 
-Any of the information we collect from you may be used in one of the following ways: 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  * To provide a customised server benchmark report, we will use any information collected then compare it against other hosting plans to provide a report via email, the benchmark data is then anonymised & displayed on the ServerBear website to be used as comparison for other reports.
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).
-  * To send periodic emails (The email address you provide for benchmarking, may be used to send you information and updates pertaining to your benchmark. If you opt in you may in also recieve occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
+## Sharing Your Personal Information
 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-## How do we protect your information?
+## Third Party Websites
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-## Do we use cookies?
+## Compliance with children's online privacy protection act
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-## Do we disclose any information to outside parties?
+## Changes to This Privacy Policy
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Gleam has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-## Third party links
+## Your Acceptance of These Terms
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-## California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-## Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-## Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-## Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://serverbear.com/terms>.
-
-## Your Consent
-
-By using our site, you consent to the ServerBear privacy policy.
-
-## Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
-
-This policy was last modified on _**25th June 2012**_
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us via our [contact form](http://serverbear.com/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [hello@gleam.io](mailto:hello@gleam.io)
+
+This document was last updated on April 04, 2013
