@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecure.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219142524id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecure.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141555id_/http%3A//www.paretologic.com/company/privacy_policy.aspx) for the most accurate reproduction.*
 
 # ParetoLogic - Company - Privacy Policy
 
