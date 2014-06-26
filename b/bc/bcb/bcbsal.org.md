@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506031047id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsal.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626120712id_/https%3A//www.bcbsal.org/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Blue Cross and Blue Shield of Alabama
 
 Because we value your relationship with us, we have detailed below our privacy objectives for our Web site:
 
-Security Practices
+##  Security Practices
 
 We recognize and respect your desire for privacy when it comes to your personal and health care affairs. We attempt to protect online information according to established company security standards and practices, and we continually evaluate new technologies for safeguarding information.
 
-Use of Email
+##  Use of Email
 
 Please use your own best judgment when sending information via the Internet to an email address. Email sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure email transmissions while others have not, thereby compromising the privacy and integrity of an email. An email may be copied, altered or destroyed.
 
@@ -18,7 +18,7 @@ We preserve the content of your email, your email address and our response so th
 
 We will respect your request to be, or not to be, contacted by email.
 
-Cookies, Surveys and Forms
+##  Cookies, Surveys and Forms
 
 You may have the opportunity to provide information to us through online surveys and forms. We use this information to better understand health care needs and to provide quality products, services and other opportunities.
 
@@ -28,11 +28,17 @@ As you browse, we may install cookies (tiny text files stored on your computer w
 
 In addition to Blue Cross and Blue Shield of Alabama using first party cookies on our website, we allow certain Third Parties to include web beacons within our web pages. Web beacons are image requests which are used by the third party to install their own cookie in your browser. These companies are vendors of Blue Cross and Blue Shield of Alabama who have been hired for marketing or research purposes. Member identifiable data will not be transmitted. The use of these web beacons is subject to the privacy policies of these Third Parties, not the Blue Cross and Blue Shield of Alabama Privacy Policy.
 
-Updates to the Statement
+##  Mobile Device Applications ("Apps")
+
+Information that we receive through the use of any of our Apps, including, but not limited to, the number of times that you use the App and information that you submit, is subject to the terms of this Privacy Policy. When you download and install one of our Apps onto your mobile device, certain information may be saved to your device for certain App functionality enhancements. We do not obtain any information about your mobile device, other than the brand, make and model and type of operating software your device uses.
+
+BCBSAL's Apps obtain your consent (via an opt-in) before using information from pin-pointing technology like GPS or cell tower information. You can withdraw your consent (opt-out) for the use of "location" at any time by changing your location services in the "Settings" function on your mobile device.
+
+##  Updates to the Statement
 
 Evolving technology will continue to provide us with new and better ways to collect and use information so that we may better serve your health coverage needs. We may revise or update the BCBSAL Privacy Statement in the future to reflect these technological advances, and we encourage you to return to this page from time to time for any updates.
 
-Confidentiality
+##  Confidentiality
 
 Again, please use your own best judgment when sending information via the Internet to an email address.
 
