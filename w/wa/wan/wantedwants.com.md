@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229184312id_/http%3A//wantedwants.com/wanted/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wantedwants.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130400id_/http%3A//wantedwants.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# WantedWants.com
+# 
 
-**Privacy Policy**
-
-WantedWants.com (the “Site”) respects your privacy.   
-Here's our privacy policy for this Site:   
-
+WantedWants.com (the “Site”) respects your privacy.   
+Here's our privacy policy for this Site: 
 
 **Personally Identifiable Information**
 
@@ -32,11 +29,11 @@ If your personal information changes, you may review/correct/update your persona
 
 **Children**
 
-The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13\. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child.
+The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child.
 
 **Links to Other sites**
 
-This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
+This Site provides links and pointers to Websites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
 
 **E-Commerce and Our Secure Server**
 
@@ -48,5 +45,12 @@ This privacy policy is effective as of June 1, 2008. By using our Site and its s
 
 **More Questions?**
 
-If you have any questions about this privacy policy, e-mail them to [abuse@wantedwants.com](mailto:abuse@wantedwants.com), and be sure to indicate the specific site you’re visiting and the nature of your question or concern.  
+If you have any questions about this privacy policy, e-mail them to wantedwants@gmail.com, and be sure to indicate the specific site you’re visiting and the nature of your question or concern.
 
+### Contact Us
+
+Need assistance? Have a question that isn't answered in our [help](http://wantedwants.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://wantedwants.com/index.php?a=28&b=136) page.
+
+#### Copyright © 2014 WantedWants.com. All Rights Reserved. Established in 2007.
+
+Use of this Web site constitutes acceptance of the [User Agreement](http://wantedwants.com/index.php?a=28&b=140) and [Privacy Policy](http://wantedwants.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
