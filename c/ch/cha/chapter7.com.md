@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012335id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122100id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
 # Chapter7.com Privacy Policy for this Bankruptcy Website
 
