@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204224536id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104510id_/http%3A//www.diabetesselfmanagement.com/Privacy) for the most accurate reproduction.*
 
 # Diabetes Self-Management Web Site Privacy Policy :: Diabetes Self-Management
 
-This is the privacy policy (”Privacy Policy”) for the Diabetes Self-Management Web site (the “Site”). The Site is made available by R.A. Rapaport Publishing, Inc. (the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
+This is the privacy policy (”Privacy Policy”) for the Diabetes Self-Management Web site (the “Site”). The Site is made available by Madavor Media, LLC (the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
 This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](http://www.diabetesselfmanagement.com/terms.cfm), which govern your use of the Site in general. 
 
