@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224123903id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061624id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -19,7 +19,8 @@ Some of the information that Members provide about themselves may be shared with
   * Treatment information, e.g. treatment start dates, stop dates, dosages, side effects, treatment evaluations;
   * Symptom information, e.g. severity, duration;
   * Primary and secondary outcome scores over time, e.g. ALSFRS-R, MSRS, PDRS, FVC, PFRS, Mood Map, Quality of Life, weight, InstantMe;
-  * Laboratory results, e.g. CD-4 count, viral load, creatinine;
+  * Sensor information, e.g. personal activity trackers;
+  * Laboratory results and biomarkers, e.g. CD-4 count, viral load, creatinine, voice features, images;
   * Genetic information, e.g. information on individual genes and/or entire genetic scans;
   * Individual and aggregated survey responses;
   * Information shared via free text fields, e.g. the forum, treatment evaluations, surveys, annotations, journals, feeds, adverse event reports; and
@@ -141,6 +142,7 @@ Cambridge, MA 02141
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
+  * On Apr 10, 2014, additional examples of shared data were added.
   * On Apr 11, 2013, the heading to “How Your Data is Used” was changed and clarifying language was added to both the Cookies and How Your Data is Used sections.
   * On Feb 16, 2013, the Safe Harbor section was updated.
   * On Mar 5, 2012, this Privacy Policy was revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
