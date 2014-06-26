@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214173256id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122059id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
 
 # SIG Electronics, Privacy Policies
 
@@ -24,14 +24,10 @@
 
 [**Return Policy**](https://web.archive.org/SIG-Electronics-Return-Policy)
 
-**[**Holiday Season Policies**](https://web.archive.org/Holiday-Season-Schedule-2013)**
-
- **
-
-[**Ontario Electronic Stewardship (OES)**](https://web.archive.org/Ontario-Electronic-Stewardship-OES)
+[**Electronics Products Recycling Association (EPRA)**](https://web.archive.org/Electronics-Products-Recycling-Association-EPRA)
 
   
-** | 
+| 
 
 **PRIVACY POLICY**
 
