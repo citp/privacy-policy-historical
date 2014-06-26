@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229094343id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626143412id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of TravelMath.com
 
@@ -32,15 +32,15 @@ The use of this site is completely free. We also display links to other sites or
 
 ## Advertising cookies
 
-This site has contracted with Travora Media and its ad-serving technology provider to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travora Media may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.
+This site has contracted with MediaShift and its ad-serving technology provider to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, MediaShift may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.
 
-For more information about how the information is collected and used by Travora Media, please see Travora Media's privacy policy at <http://www.travoramedia.com/tan_privacypolicy.html>.
+For more information about how the information is collected and used by MediaShift, please see MediaShift's privacy policy at <http://www.mediashift.com/privacy_policy>.
 
 Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness.
 
 You may opt out of accepting cookies at any time by clicking these links:
 
-To opt out of TravelAdvertising.com, go to <http://www.travoramedia.com/tan_privacypolicy.html>.
+To opt out of TravelAdvertising.com, go to <http://www.mediashift.com/privacy_policy>.
 
   
 
