@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814165540id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080158id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Selector
 
-Architecture Media, which includes for the purpose of this document Architecture Media (Selector) and AGM Publishing, is committed to protecting your privacy in accordance with the relevant legislation being the Privacy Amendment (Private Sector) Act 2000 or equivalent legislation applying in New Zealand. This policy covers all personal information held by us.
+Architecture Media, which includes for the purpose of this document Architecture Media and AGM Publishing, is committed to protecting your privacy in accordance with the relevant legislation being the Privacy Amendment (Private Sector) Act 2000 or equivalent legislation applying in New Zealand. This policy covers all personal information held by us.
 
 You may be able to use our sites for a limited period without providing any personal details; however we may ask that you tell us some basic information about yourself. This statement explains our undertaking not to pass on any of your details without your prior knowledge and consent.
 
@@ -62,7 +62,7 @@ This policy is available upon request. It may be reviewed and updated from time 
 
 ## Privacy enquiries
 
-If you have any questions about our privacy policy, any privacy related dealings with us, enquiries concerning a possible breach of your privacy or you would like further information about our information management practices, you can contact the Associate Publisher, Audience Development and Events, Architecture Media, Level 6, 163 Eastern Road, South Melbourne, Victoria 3205 Australia Phone: +61 3 8699 1000 or the Publisher, AGM Publishing, 409 New North Road, Kingsland, Auckland 1149 New Zealand Phone: +64 9 846 4068.
+If you have any questions about our privacy policy, any privacy related dealings with us, enquiries concerning a possible breach of your privacy or you would like further information about our information management practices, you can contact the Associate Publisher, Architecture Media, Level 6, 163 Eastern Road, South Melbourne, Victoria 3205 Australia Phone: +61 3 8699 1000 or the Publisher, AGM Publishing, 409 New North Road, Kingsland, Auckland 1149 New Zealand Phone: +64 9 846 4068.
 
   
 
