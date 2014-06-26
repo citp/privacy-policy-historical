@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermidway.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009222137id_/http%3A//www.careermidway.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermidway.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123454id_/http%3A//www.careermidway.com/disclaimer.php) for the most accurate reproduction.*
 
 # careermidway.com | disclaimer and privacy policy
 
