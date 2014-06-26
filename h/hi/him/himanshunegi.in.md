@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himanshunegi.in privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225132109id_/http%3A//himanshunegi.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himanshunegi.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023952id_/http%3A//himanshunegi.in/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -40,6 +40,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://himanshunegi.in
 
-Me@himanshunegi.in
+Me [at] himanshunegi.in
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save! 
