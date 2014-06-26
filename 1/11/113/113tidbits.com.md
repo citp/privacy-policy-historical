@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 113tidbits.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120170759id_/http%3A//113tidbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 113tidbits.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110755id_/http%3A//113tidbits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 113tidbits
+# Privacy Policy - 113tidbits of social technology and other news
 
 This privacy policy discloses the privacy practices for [113tidbits](http://113tidbits.com/) . This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
@@ -27,12 +27,10 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 • Express any concern you have about our use of your data.
 
-[](http://shrsl.com/?~4hef)
-
 **Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
