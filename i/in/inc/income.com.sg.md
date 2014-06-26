@@ -1,136 +1,181 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004452id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154218id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
 # NTUC Income | About Us
 
-| 
+Last Updated: 10 March 2014
 
-  1. **What Personal Information do we collect?**
-    1. **Information you give us**  
-We receive and store any information you enter on our web site when you register with us or give us in any other way, such as your e-mail address, name, home or work address or telephone number. Several of the services that we offer on our sites, may require registration as a condition of use.
+##  Introduction
 
-We also collect anonymous demographic information that is not unique to you, such as your age, gender and personal interests. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier.
+NTUC Income recognizes its responsibilities in relation to the collection, usage, disclosure, storage and transfer of personal data under the Personal Data Protection Act (“PDPA”).
 
-We may also receive information about you from other sources and add it to the information you have provided to us.
+Personal data will be collected only for lawful and relevant purposes and reasonable steps will be taken to ensure that personal data held by NTUC Income is accurate. NTUC Income will take reasonable steps to protect the personal data and to avoid unauthorized access.
 
-    2. **Automatic Information**  
-We receive and store certain types of information whenever you interact with us, for example, your IP address, browser type, domain names, access times and referring Web site addresses.
+##  Customers
 
-We use "cookies", which store small amounts of data on your computer about your visit to any of our sites to allow us to track general traffic patterns, user profiles and preferences, number and frequency of users when your Web browser accesses 'Income coop'.com. However, cookies tell us nothing about who you are unless you specifically give us personally identifiable information. You do not need to have cookies turned on to visit most of our sites, although participation in certain areas of our sites may require cookies. In addition, you may choose not to allow cookies to be collected by selecting the appropriate options on your browser.
+We at NTUC Income place the privacy interests of our customers high in our priorities. We are committed to protecting the privacy, confidentiality, accuracy and security of the personal data provided to us.  
+As part of our Honest Insurance, our Privacy Policy tells you how we collect, use, disclose, store and transfer your personal data. All our employees are required to comply with our Privacy Policy when they carry out their daily activities.
 
-We use tracking technologies in different ways, including: 
+**Personal Data We Collect**
 
-      1. Keeping count of return visits to our sites or our advertisers' or strategic partners' sites;
-      2. Accumulating and reporting anonymous, aggregate, statistical information on web site and advertisement usage;
-      3. Determining which features users like best; and
-      4. Saving your password so you do not have to re-enter it each time you visit our sites.
+Under PDPA, personal data is defined as information about an individual who can be identified from that data; or from that data and other information to which the organization has or is likely to have access.
 
-This information is used for the operation of our service, to maintain the quality of our service, and to provide general statistics regarding use of our website.
+As your preferred provider of insurance products, services and advice, we require certain personal information from you for the purpose of offering suitable products and services to you. Personal data collected about you and your dependents may include:
 
-Please bear in mind that if you directly disclose personal information through forums, this information may be collected and used by others.
+**General identification and contact information**
 
-    3. **Third Party Advertisement Servers**  
-Some of our advertisers use third-party companies to serve their advertisements on our sites and in some cases, in our HTML-formatted newsletters. Often, these third-party advertising companies employ cookie and web bug technologies to measure advertisement effectiveness. We do not give any personally identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies.
-
-  2. **How we use the information?**
-
-We use the information we gather for the following purposes: 
-
-    * To customize our site's advertising, content, layout and services
-
-    * To resolve disputes and troubleshoot problems
-
-    * To improve our marketing and promotional efforts and product offerings
-
-    * To enhance customers' experience in our network of sites
-
-    * To fulfill your requests for certain products and services, such as sending out e-mails, processing your online shopping or service requests and enabling customers to participate in surveys, contests and forums
-
-    * To send you information on topics targeted to your interest, such as targeted banner advertisements, administrative notices, product offerings and communications relevant to your use of the site
-
-  3. **How we share or disclose the information?**
-
-We may disclose your personal information under certain circumstances where: 
-
-    * we have your consent to share the information
-
-    * we have engaged external companies to work with or on behalf of [NTUC Income] to provide a product or service that your have requested
-
-    * we use internal service providers to facilitate our services (e.g. surveys, discussion forums)
-
-    * you use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that external service partner
-
-    * you participate in contests or other promotional programs on our site sponsored or organized by third parties, or purchase goods and services offered by third parties
-
-    * we buy or sell a business, and customer information is one of the transferred assets
-
-    * we share our data with our subsidiaries, joint ventures and strategic partners that are committed to serving your online trading needs and related services
-
-    * we respond to court orders or legal processes, or we believe that your actions violate applicable laws, our Terms of Use or any usage guidelines for specific products or services, or threaten the rights or property of 'Income coop', our users or others
-
-  4. **We strictly protect the security of your personal identifiable information**.
-
-We secure your personal information in a controlled, secure environment, protected from unauthorized access, use or disclosure, using industry standard security techniques. We also limit access of personal information about you to certain employees who we believe reasonably need the information to provide services to you.
-
-When highly confidential information is transmitted over the Internet, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
-
-While we take all reasonable steps to safeguard the confidentiality of your personal identifiable information, "perfect security" however does not exist on the Internet. It is therefore also important for you to protect yourself against unauthorized access to your password and to your computer by logging out the web site when you are finished.
-
-  5. **What other options do you have?**
-
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still browse and view much of our content and use many of the services offered by our sites without registering.
-
-We also give users the following options:
-
-    * opting not to receive e-mails or newletters from us or third parties. Users who opt-in may remove themselves from the mailing lists at any time if they so wish
-
-    * opting not to provide certain personal information when registering for a site;
-
-    * adding or updating certain personal information collected during registration for any site at any time and as often as necessary;
-
-    * opting to disable "cookies" or prevent your browser from accepting new cookies, by clicking on the "help" portion of your toolbar.
-
-  6. **Changes to the Privacy Policy**
-
-We will occasionally update this Privacy Policy to reflect company and customer feedback. All modifications to our privacy practices will be reflected by the posting of the amended terms on our web site.
-
-In addition, if there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy policy.
-
-If we are going to use the information in a manner materially different from that stated at the time of collection we will also notify you of the amendments by administrative notices, announcements or e-mails.
-
-  7. **Contact Information**
-
-If you have questions or comments regarding this policy, we welcomes you to contact us by e-mail at **[webmaster@income.com.sg](mailto:webmaster@income.com.sg?subject=General%20Enquiry) **or to our corporate address at:
+  * Name, address and telephone number, age, date of birth, gender, family and marital status, occupation
 
 
-  
+
+**Identification numbers issued by government agencies**
+
+  * NRIC, Passport, FIN No., vehicle registration number
 
 
-**75 Bras Basah Road  
-NTUC Income Centre  
-Singapore 189557**  
+
+**Financial information and account details**
+
+  * Salary, assets, liabilities, properties, credit card number, bank account number and account details
+
+**Medical and health information**
+
+  * Health status, injury or disability information, medical procedures performed, personal habits (e.g. smoking or alcohol consumption) and medical history
+
+
+
+**Other Information enabling us to provide our products and services**
+
+  * Previous insurance and claims experience
+  * Employment information
+  * Driving record
+  * Travel arrangements
+
   
 ---  
   
-me@income
+**How we use your personal data (Purpose & Notification Obligation)**
 
-[](https://appsonline.income.com.sg/meincome/default.aspx)
+We may collect and use your personal data to:
 
-[](https://appsonline.income.com.sg/meincome/RequestPwd.aspx)
+  * identify you
+  * communicate effectively with you 
+  * underwrite and price your application and any policy changes or renewals
+  * determine and verify your creditworthiness for the financial and insurance products you apply for
+  * provide financial advice and product recommendation
+  * provide you with ongoing services and respond to your inquiries or instructions
+  * make or obtain payments
+  * investigate and settle your claims
+  * recover any debt owed to us
+  * detect and prevent fraud, unlawful or improper activities
+  * provide insurance or financial related marketing products or services
+  * promote complementary products or services to you from business partners with whom we have formed an association
+  * conduct surveys, research and statistical analysis
+  * coach employees and monitor for quality assurance
+  * reinsure risks and for reinsurance administration
+  * comply with all applicable laws, including reporting to regulatory and industry entities
+  * resolve complaints, and handle requests for data access or correction
 
-Buy Online
 
-Online Payment
 
-[](https://appsonline.income.com.sg/meincome/OnlinePayment.aspx)
+We will only collect and use personal data in an open, fair and lawful way that is necessary for the purposes identified by us above.
 
-Branches / Business Centres
+Releasing Your Data to Others (Transfer Out)  
+We may disclose your personal data to third parties:
 
-Contact Us
+  * your financial advisers
+  * medical professionals and institutions
+  * insurers and reinsurers
+  * local service providers to provide us with services such as printing, mail distribution, data storage, data entry, marketing and research, disaster recovery or emergency assistance services
+  * debt collection agencies
+  * dispute resolution parties
+  * parties that assist us to investigate, administer and adjudicate your claim
+  * financial institutions
+  * credit reference agencies
+  * industry associations
+  * regulators, law enforcement and government agencies
+  * business partners and affiliated companies
 
-Policyholder Education
 
-Birthday Treats
 
-Advance Queue Booking
+We will only disclose your personal data as it is reasonably required for the purposes stated above and the data is limited to information necessary for us and these third parties to do the work. These parties are also required to comply with the Singapore Personal Data Protection Act.
 
-[](https://priorityreservation.income.com.sg/Pre-Q/ManageBooking.aspx)
+We may transfer personal data to service providers outside of Singapore for processing, storage, analysis, disaster recovery or emergency assistance services and this data may be required to be disclosed to those authorized under the applicable laws of that foreign country. These service providers with whom we have contractual relationships are required to provide a standard of protection to the transferred personal data that is comparable to the protection under the Singapore Personal Data Protection Act and consistent with our personal data protection policies and practices.
+
+**Obtaining Your Consent (Consent Obligation)**
+
+We will only collect, use, disclose, store and transfer personal data for the above purposes with your consent or as allowed or required by law.  We will tell you why we need your personal data before or at the time we collect it.
+
+You can give your consent expressly or impliedly.  Your expressed consent can be given to us in writing, verbally (e.g. through our call centre) or electronically (e.g. through our website). Your implied consent can be given to us from your action or nature of dealings. For example, when your healthcare provider provide your personal data to us to enable us to process the payment for your healthcare claim.
+
+Your authorized representative (such as your financial adviser or a person having a power of attorney) may give consent on your behalf.
+
+##  Withdrawing Your Consent
+
+You may refuse or withdraw your consent for us to collect, use or disclose your personal data by giving us reasonable notice so long as there are no legal or contractual restrictions preventing you from doing so.
+
+But if you withdraw  consent for us to use your personal data, we will be unable to provide you with the products and services that you asked for or have with us, including preventing us from keeping your insurance cover in force or properly assessing and processing your claim.  Withdrawing such consent will require you to surrender or terminate all your policies with us.
+
+##  Using Information for Marketing Purposes
+
+The information you supply will _not_ be used by us for marketing purposes. However, if you wish to opt-in for marketing information, simply contact us to let us know.
+
+##  Accuracy
+
+We will take all reasonable efforts to ensure that your personal data collected by us or on our behalf is accurate and complete.
+
+##  Your Rights of Access & Correction
+
+Under the PDPA, you have the right to request access to any personal data of yours that we have, and know how it is being used and disclosed for the last 12 months to the extent your right is allowed by law.  However, you may be charged a reasonable fee for every request for such access.
+
+You also have the right to request correction of your personal data. 
+
+**Protecting Your Personal Data (Security)**
+
+We protect your personal data from unauthorized access, collection, use, disclosure, copying, modification or disposal by having physical, technological and organizational safeguards in place that are appropriate to the sensitivity of the data.
+
+All our staff, agents, representatives and service providers who act on our behalf must comply with our privacy policies and practices and can only access your data to do their jobs.
+
+##  Retention
+
+We will keep your personal data only for as long as it is needed for the purposes for which it was collected and as required for business or legal purposes. Once your personal data is no longer required for these purposes, we will destroy, erase or make anonymous the data.
+
+**Additional Information We May Collect**
+
+  * _Use of Cookies_
+
+
+
+We may also receive and store certain types of information whenever you interact with us on our corporate website. Through the use of “cookies”, which are small text files placed on your computer by websites, we are able to collect non-personal information such as your IP address, browser type, domain names, access times and referring website addresses.    
+We use the information collected for the following purposes:
+
+  * Keeping count of return visits to our website or our advertisers’ or strategic partners’ websites;
+  * Accumulating and reporting anonymous, aggregate, statistical information on websites and advertisement usage;
+  * Determining which features on our website that users like best;
+  * Saving your password so you do not have to re-enter each time you visit our website.
+
+
+
+The cookies used on our website will not collect your personal information unless you specifically provide us with the information. You may opt to disable cookies or prevent your browser from accepting new cookies through your browser settings.  
+If you choose not to allow us to place a cookie on your computer, this may restrict your ability to perform certain transactions, use certain services or access certain content on our website.
+
+  * _Third Party Advertisement Servers_
+
+
+
+Some of our advertisers use third-party companies to serve their advertisements on our websites, and in some cases, in our HTML-formatted newsletters.  Often, these third-party advertising companies employ cookies and web bug technologies to measure advertisement effectiveness. We do not disclose any personal, identifiable information to them as part of this relationship. Use of their tracking technology is subject to their own privacy policies. We are not responsible for the privacy  practices of these third parties  and you should refer to their privacy policies to find out about their practices.
+
+**Contacting Us**
+
+If you have any concern, query or complaint about our personal data protection policies and practices or wish to request access to, update or correct your personal data, please contact:
+
+The Data Protection Officer  
+NTUC Income Centre, 75 Bras Basah Road,  
+Singapore 189557  
+General Hotline :  63INCOME / 6788 1777  
+Email :  **[DPO@income.com.sg](mailto:DPO@income.com.sg)**
+
+**Changes to this Privacy Policy**
+
+We review this Privacy Policy regularly and reserve the right to make changes at any time to take into account of changes in our business and legal requirements.
+
+We will place updates and our revised Privacy Policy on our website. If the changes are significant and reduces your rights under this Privacy Policy, we will notify you on this website as well as through more prominent notices (e.g. email notification, letter). Any changes will be effective 30 days following the date on which this Privacy Policy is revised and posted on our website.
