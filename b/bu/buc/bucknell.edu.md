@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201133422id_/https%3A//www.bucknell.edu/x362.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626044256id_/http%3A//www.bucknell.edu/x362.xml) for the most accurate reproduction.*
 
-# Bucknell University Internet Privacy Statement || Bucknell University
+# 
 
 Bucknell University's Internet and Web Services, comprising but not limited to the hosts in the bucknell.edu domain, are committed to protecting the privacy and confidentiality of our site users. Collecting information is an inherent part of the normal operation of our sites. This Statement describes what information is collected, how m and why it is collected, and how it may be used.
 
@@ -33,3 +33,7 @@ Much of Bucknell's Web content includes links to content on Internet servers bel
 ### Circumstances beyond our control
 
 This Statement explains how information collected from users is used by Bucknell. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the university's permission or knowledge (for example, if an Internet host is "attacked", or is compromised by a virus). For this reason Bucknell disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our Internet sites.
+
+Close
+
+The following links are virtual breadcrumbs marking the 27 most recent pages you have visited in Bucknell.edu. If you want to remember a specific page forever click the pin in the top right corner and we will be sure not to replace it. Close this message.
