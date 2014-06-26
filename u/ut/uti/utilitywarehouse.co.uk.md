@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031170617id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utilitywarehouse.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154202id_/https%3A//www.utilitywarehouse.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Utility Warehouse
 
@@ -55,7 +55,7 @@ When we process your application we may use automated scoring methods to analyse
 There are certain circumstances where we may need to disclose your personal information to a third party, these include:
 
   * To verify your identity;
-  * To third party organisations who will help supply the services that you have requested.  For example, if you are an energy customer this might include gas transporters, metering operators and our meter reading agency, and if you are a telephony customer, this might include network operators;
+  * To third party organisations who will help supply the services that you have requested. For example if you are an energy customer this might include gas transporters, metering operators and our meter reading agency, if you are a telephony customer, this might include network operators and if you are a Bill Protector customer this will include the insurer and administrator of the insurance policy;
   * To our Distributors, where they may need to contact you to give you information about our other services which could save you money, unless you have requested otherwise;
   * To credit reference agencies.  We may need to make credit checks on you to help us make decisions about your ability to pay for the services you have requested, to prevent fraud or to recover debt.  When we search the files of a credit reference agency, a record will be kept of that search.  Additionally, details of how you conduct your account may also be disclosed to the agency.  This information may be used by other organisations in assessing applications from you and members of your household; 
   * To fraud prevention agencies, where we have reason to believe there may be fraudulent activity;
