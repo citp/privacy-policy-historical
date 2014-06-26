@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaguda.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216231438id_/http%3A//www.jaguda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102050id_/http%3A//www.jaguda.com/privacy-policy) for the most accurate reproduction.*
 
-# AdSense Privacy Policy - Jaguda.com
+# AdSense Privacy Policy | Jaguda.com
 
 **Jaguda.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
