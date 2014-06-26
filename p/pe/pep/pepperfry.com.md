@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022032615id_/http%3A//www.pepperfry.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022843id_/http%3A//www.pepperfry.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy covers the information Tre-ndSutra Platform Services Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.pepperfry.com ("Website") This Privacy Policy should be read in conjunction and together with the User Agreement of the Website available on http://www.pepperfry.com/privacy_policy.html. Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: 
+This Privacy Policy covers the information TrendSutra Platform Services Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.pepperfry.com ("Website") This Privacy Policy should be read in conjunction and together with the User Agreement of the Website available on http://www.pepperfry.com/privacy_policy.html. Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: 
 
 Providing information to us is your choice.   
 You can choose to have the Personal Information provided by You deleted.  
