@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212133024id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130105id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
-**Last Updated: September. 30th. 2012**
+**Last Updated: January 24th 2014**
 
-ExpertRating Solutions has been awarded TRUSTe's Privacy 
+ExpertRating Solutions (“ExpertRating”) has been awarded TRUSTe's Privacy 
 
 [](https://privacy.truste.com/privacy-seal/Expert-Rating-Solutions/validation?rid=ad9122a4-912d-4e3c-8009-dbfb7df8acab "TRUSTe online privacy certification")
 
-Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.expertrating.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ExpertRating Help Desk](http://www.expertrating.com/contact.asp). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.expertrating.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ExpertRating Help Desk](http://www.expertrating.com/contact.asp). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
-Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20131212133024id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
+Expert Rating Solutions is committed to protecting your privacy. We have established this privacy policy to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy policy applies exclusively to the Website [www.expertrating.com](http://www.expertrating.com/). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
 
 **What type of user related information do we collect?**
 
@@ -58,6 +58,10 @@ We will retain your information for as long as your account is active or as need
 **Links to 3rd Party Sites**
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Expert Rating Solutions. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+
+**Social Media Features**
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 **What is our policy if there is a change in our Privacy practices?**
 
