@@ -1,35 +1,8 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223060757id_/http%3A//www.edgarcayce.org/are/aboutus.aspx%3Fid%3D550) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101223id_/http%3A//www.edgarcayce.org/are/aboutus.aspx%3Fid%3D550) for the most accurate reproduction.*
 
 # Edgar Cayce' s A.R.E. Privacy Policy Statement
 
-|  |   | 
-
-[Ancient Mysteries](http://www.edgarcayce.org/are/ancient_mysteries.aspx)
-
-|    
----|---|---  
-  | 
-
-[Holistic Health](http://www.edgarcayce.org/are/holistic-health.aspx)
-
-|    
-  | 
-
-[Spiritual Growth](http://www.edgarcayce.org/are/spiritualGrowth.aspx)
-
-|    
-  | 
-
-[Get Involved](http://www.edgarcayce.org/are/edgarcayce.aspx?id=3477)
-
-|    
-[](http://edgarcayce.org/are/membership.aspx)  
-  | 
-
-[Member-Only Section](http://www.edgarcayce.org/membercontent.aspx?id=5163)
-
-|    
-| 
+|  |  | 
 
 Our address is  
 215 67th Street  
@@ -38,7 +11,7 @@ Virginia Beach, VA 23451
 Use our[contact form](http://www.edgarcayce.org/are/contactUs.aspx?ekfrm=468 "contact form") to send us any issues or feedback   
 or you can reach us by telephone at 757-428-3588.
 
-**Web site:** We collect the aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, and other information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page(s) for each individual visitor, and/or to notify consumers about updates to our Web site.
+**Web site:** We collect the aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, and other information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our Web page, to customize the content and/or layout of our page(s) for each individual visitor, and/or to notify consumers about updates to our Web site. Users can opt-out of Google Analytics' for Display Advertising and customize Google Display Network ads at [Tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout "tools.google.com/dlpage/gaoptout"). 
 
 **Cookies:**  We use cookies to store visitors’ preferences, record session information (such as items that consumers add to their shopping cart), record user-specific information on what page(s) users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, and customize Web page content based on visitors' browser type or other information that the visitor sends.
 
@@ -64,4 +37,6 @@ Customers may prevent their information from being used for purposes other than 
 
 **Security:**  We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information, such as financial or personal information, we redirect visitors to a secure server.
 
-If you feel that this site is not following its stated policy, you may contact us at the above e-mail address, postal address, or telephone number; or contact the DMA's Committee on Ethical Business Practices at ethics@the-dma.org, or contact your state or local chapters of the Better Business Bureau.
+If you feel that this site is not following its stated policy, you may contact us at the above e-mail address, postal address, or telephone number; or contact the DMA's Committee on Ethical Business Practices at ethics@the-dma.org, or contact your state or local chapters of the Better Business Bureau.  
+  
+---|---|---
