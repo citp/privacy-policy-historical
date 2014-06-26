@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hitachigst.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910220639id_/http%3A//www.hgst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachigst.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626091927id_/http%3A//www.hgst.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HGST Storage
 
-Your privacy is important to HGST, Inc. and its affiliates and divisions, including G-Technology (G-Tech) (collectively "HGST"). This statement discloses the information practices for the websites [hgst.com](https://web.archive.org/) and [g-technology.com](http://www.g-technology.com/), including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. Other websites of HGST are not covered by this Privacy Policy.
+Your privacy is important to HGST, Inc. and its affiliates and divisions, including G-Technology (G-Tech), sTec, Inc. (sTec) and Virident Systems, Inc. (Virident) (collectively “HGST”). This statement discloses the information practices for the websites [hgst.com](https://web.archive.org/), [g-technology.com](http://www.g-technology.com/) , [stec-inc.com](http://www.stec-inc.com/), [virident.com](http://www.virident.com/) including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. Other websites of HGST are not covered by this Privacy Policy.
 
 ## Your California Privacy Rights
 
@@ -54,7 +54,7 @@ This privacy statement was last updated on May 30, 2012. A notice will be posted
 
 ## Privacy Questions and Access
 
-If you have a question about this statement or our handling of your information, you can contact HGST in the following manner: if your question relates to the [hgst.com](https://web.archive.org/) website, please email [privacy.info@hgst.com](mailto:privacy.info@hgst.com) ; or if it relates to the [g-technology.com](http://www.g-technology.com/) website, please either email [privacy@g-technology.com](https://mce_host/privacy@g-technology.com) or phone 310-449-4599. If you wish to obtain a copy of particular information you provided to HGST, or if you become aware the information is incorrect and you would like us to correct it contact us at the address above.
+If you have a question about this statement or our handling of your information, you can contact HGST in the following manner: if your question relates to the [hgst.com](https://web.archive.org/) website, please email [privacy@hgst.com](mailto:privacy@hgst.com) ; or if it relates to the [g-technology.com](http://www.g-technology.com/) website, please either email [privacy@g-technology.com](mailto:privacy@g-technology.com) or phone 310-449-4599. If you wish to obtain a copy of particular information you provided to HGST, or if you become aware the information is incorrect and you would like us to correct it contact us at the address above.
 
 Before HGST is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
 
