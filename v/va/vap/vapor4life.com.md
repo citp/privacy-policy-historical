@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208085134id_/https%3A//vapor4life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapor4life.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031818id_/http%3A//www.vapor4life.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vapor4Life E-Cigarette
+# Privacy Policy | Electronic Cigarette | E-Cigs by Vapor4Life
 
 **Your consent**  
 By using our website, you consent to our privacy policy and our [terms and conditions](https://web.archive.org/terms-and-conditions), as explained below. This policy was last modified on June 6, 2012 and governs the use of our website and information associated with the purchase of products through our website. We encourage you to refer to this policy periodically so that you understand our current privacy policies.
