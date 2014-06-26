@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220174746id_/http%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141118id_/http%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
 
@@ -65,9 +65,9 @@ back to top
 
 ####  Our policies on email
 
-Ebates sends two types of email to members: customer service emails required to maintain the Ebates program (like cash back credits & payment notifications); and promotional emails featuring especially good offers. You may choose not to receive promotional emails at any time from [My Ebates](https://web.archive.org/myebates.htm) or by clicking the "unsubscribe" link in an email.
+Ebates sends two types of email to members: customer service emails required to maintain the Ebates program (like cash back credits & payment notifications); and promotional emails featuring especially good offers. You may choose not to receive promotional emails at any time from [My Ebates](https://web.archive.org/my-ebates.htm) or by clicking the "unsubscribe" link in an email.
 
-Ebates does not support spamming by our members and we explicitly prohibit it in our [Terms & Conditions](https://web.archive.org/terms_and_conditions.htm). If you would like to report an incident of spamming using our tell-a-friend capability, please [ contact us.](https://web.archive.org/customer_care/home.htm) We will investigate and take suitable action.
+Ebates does not support spamming by our members and we explicitly prohibit it in our [Terms & Conditions](https://web.archive.org/terms_and_conditions.htm). If you would like to report an incident of spamming using our tell-a-friend capability, please [ contact us.](https://web.archive.org/help/customer_care/other.htm) We will investigate and take suitable action.
 
 back to top
 
@@ -83,7 +83,7 @@ back to top
 
 Periodically we may send you emails on new features or special offers. On every one of these emails you will be given the choice to unsubscribe from Ebates' promotional mailings. Simply follow the directions in any of our emails.
 
-It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/myebates.htm) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including for sending you cash back payments. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
+It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/my-ebates.htm) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including for sending you cash back payments. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
 
 We will post all changes to this Privacy Agreement here at our site. You are responsible for checking periodically on policy updates.
 
@@ -99,14 +99,14 @@ back to top
 
 Ebates is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.EBATES.COM . Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have any questions or concerns regarding this statement, you should first contact [customer service](https://web.archive.org/customer_care/home.htm). If you do not receive acknowledgment of you inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Ebates to resolve your concerns.
+If you have any questions or concerns regarding this statement, you should first contact [customer service](https://web.archive.org/help/customer_care/other.htm). If you do not receive acknowledgment of you inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Ebates to resolve your concerns.
 
 _Kevin Johnson  
 Chief Executive Officer_
 
-Ebates Shopping.com, Inc.  
-333 Bryant Street, Suite 250  
-San Francisco CA, 94107  
+Ebates Inc.  
+160 Spear St. Floor 19  
+San Francisco CA, 94105  
 (415-908-2200)
 
 back to top
