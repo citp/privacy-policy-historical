@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the verizoninsider.com privacy policy that was archived on 2012-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229205319id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the verizoninsider.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626062344id_/http%3A//www.verizon.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>Verizon | About You - Privacy Policy</title></head><body><div class="wlp-bighorn-header"><div class="wlp-bighorn-layout wlp-bighorn-layout-flow"><div class="wlp-bighorn-layout-cell wlp-bighorn-layout-flow-horizontal wlp-bighorn-layout-flow-first" style="width: 100%"><div></div><div id="VerizonHeaderPortletDefn_3" class="wlp-bighorn-window  "><div class="wlp-bighorn-window-content">
 <link rel="stylesheet" href="/onecms/supplierdiversity/styles/layout.css" type="text/css">
@@ -32,6 +32,10 @@ a img{ border:none; }
 #globalTabs #scbsmbtopsites a{ color:#0066CA ; text-transform:capitalize ;padding:0px; height:auto;}
 #globalTabs #scbsmbtopsites a:hover{ background:none; color:#0066CA ;}
 #globalTabs #scbsmbtopsites p{ float:left;  margin:0px; padding:7px 0 15px;}
+.business_dd.active {
+    background: #550000;
+}
+
 </style>
 
 
@@ -39,7 +43,7 @@ a img{ border:none; }
 <div id="headerWrapper" align="left">
 <div id="top"></div><div id="header">
 <div id="globalHeader">
-<div style="float: right; padding-top: 5px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/content/ContactUs/">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/myverizon/"><strong>My Verizon</strong></a></div>
+<div style="float: right; padding-top: 5px;"><a id="espLink" style="" mporgnav="" href="http://espanol.verizon.com/" onclick="return switchLanguage('es');function switchLanguage(lang) {MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}">Español</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/content/ContactUs/">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/myverizon/"><strong>My Verizon</strong></a></div>
 <div id="globalTabs">
    <a title="Verizon Residential" href="/?lid=//global//residential" name="&amp;lid=hp_residential_tab">Residential</a> 
    <a title="Verizon Business" href="/home/verizonglobalhome/ghp_business.aspx" name="&amp;lid=hp_business_tab" class="business_dd">Business</a> 
@@ -64,10 +68,76 @@ a img{ border:none; }
  </div>
 
 </div>
+<!-- ////Motion point -->
+<script>
+	 var MP = {
+<!-- mp_trans_disable_start --> 
+  Version: '1.0.22',
+  Domains: {'es':'espanol.verizon.com'},	
+  SrcLang: 'en',
+<!-- mp_trans_disable_end -->
+  UrlLang: 'mp_js_current_lang',
+  SrcUrl: unescape('mp_js_orgin_url'),
+<!-- mp_trans_disable_start --> 	
+  init: function(){
+    if (MP.UrlLang.indexOf('p_js_')==1) {
+      MP.SrcUrl=window.top.document.location.href;
+      MP.UrlLang=MP.SrcLang;
+  }
+},
+getCookie: function(name){
+  var start=document.cookie.indexOf(name+'=');
+  if(start < 0) return null;
+  start=start+name.length+1;
+  var end=document.cookie.indexOf(';', start);
+  if(end < 0) end=document.cookie.length;
+  while (document.cookie.charAt(start)==' '){ start++; }
+  return unescape(document.cookie.substring(start,end));
+},
+setCookie: function(name,value,path,domain){
+  var cookie=name+'='+escape(value);
+  if(path)cookie+='; path='+path;
+  if(domain)cookie+='; domain='+domain;
+  var now=new Date();
+  now.setTime(now.getTime()+1000*60*60*24*365);
+  cookie+='; expires='+now.toUTCString();
+  document.cookie=cookie;
+},
+switchLanguage: function(lang){
+  if(lang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
+	document.body.appendChild(script);
+  } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+    var script=document.createElement('SCRIPT');
+    script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
+	document.body.appendChild(script);
+  }
+  return false;
+},
+switchToLang: function(url) {
+  window.top.location.href=url; 
+}
+<!-- mp_trans_disable_end -->   
+};
+
+
+</script>
+<script type="text/javascript" id="mpelid" src="//espanol.verizon.com/mpel/mpel.js"></script>
+<script>
+if((location.href.toLowerCase().indexOf('/about/terms/') > -1) || (location.href.toLowerCase().indexOf('/about/privacy/') > -1) || (location.href.toLowerCase().indexOf('/about/sitemap/') > -1))
+{
+	document.getElementById('espLink').style.display = '';
+	document.getElementById('mpelid').src = "//espanol.verizon.com/mpel/mpel.js";
+}
+
+</script>
+<!-- ////Motion point -->
+
 <!-- //// END GLOBAL HEADER --> <a href="/"><img src="/onecms/supplierdiversity/images/verizon_logo.png" alt="Verizon" name="logo" width="89" height="53" id="logo"></a>
 <div id="nav">
       <ul class="megamenu" style="display: block;">
-    <li class="mm-item" style="float: left;"><a class="active menulink mm-item-link" href="/"><img src="/idc/groups/public/documents/adacct/nav_about.png" alt="About"></a>
+    <li class="mm-item" style="float: left;"><a class="active menulink mm-item-link" href="/"><img src="http://about.verizon.com/themes/site_themes/agile_records/images/nav_about.png" alt="About"></a>
  
  
             	
@@ -148,10 +218,10 @@ a img{ border:none; }
     
     
     </li>
-    <li class="mm-item" style="float: left;"><a href="http://responsibility.verizon.com/" class="mm-item-link"><img src="/idc/groups/public/documents/adacct/nav_responsibility.png" alt="Responsibility"></a></li>
-    <li class="mm-item" style="float: left;"><a href="http://newscenter.verizon.com/" class="mm-item-link"><img src="/idc/groups/public/documents/adacct/nav_news.png" alt="News"></a></li>
-    <li class="mm-item" style="float: left;"><a href="/investor/" class="mm-item-link"><img src="/idc/groups/public/documents/adacct/nav_investors.png" alt="Investors"></a></li>
-    <li class="mm-item" style="float: left;"><a href="/jobs/" class="mm-item-link"><img src="/idc/groups/public/documents/adacct/nav_careers.png" alt="Careers"></a></li><li class="clear-fix"></li>
+    <li class="mm-item" style="float: left;"><a href="http://responsibility.verizon.com/" class="mm-item-link"><img src="http://about.verizon.com/themes/site_themes/agile_records/images/nav_responsibility.png" alt="Responsibility"></a></li>
+    <li class="mm-item" style="float: left;"><a href="http://newscenter.verizon.com/" class="mm-item-link"><img src="http://about.verizon.com/themes/site_themes/agile_records/images/nav_news.png" alt="News"></a></li>
+    <li class="mm-item" style="float: left;"><a href="/investor/" class="mm-item-link"><img src="http://about.verizon.com/themes/site_themes/agile_records/images/nav_investors.png" alt="Investors"></a></li>
+    <li class="mm-item" style="float: left;"><a href="/jobs/" class="mm-item-link"><img src="http://about.verizon.com/themes/site_themes/agile_records/images/nav_careers.png" alt="Careers"></a></li><li class="clear-fix"></li>
   </ul>
  
 </div>
@@ -161,11 +231,11 @@ a img{ border:none; }
 <div class="rowElem">
 <div class="jqTransformInputWrapper" style="width: 210px;">
 <div class="jqTransformInputInner">
-<div><input type="text" onblur="javascript:this.value='Search'" onfocus="javascript:this.value=''" value="Search" name="q" id="searchField" class="jqtranformdone jqTransformInput" style="width: 200px;height:30px;"></div>
+<div><input type="text" onblur="if(this.value=='')this.value='Search';" onfocus="if(this.value=='Search')this.value='';" value="Search" name="q" id="searchField" class="jqtranformdone jqTransformInput" style="width: 200px;height:30px;"></div>
 </div>
 
 </div>
-<input type="hidden" value="c" name="tp"> <input type="hidden" value="a" name="rv"> <input type="image" title="Go!" value=" " id="navSearchButton" name="navSearchButton" src="/idc/groups/public/documents/adacct/icon_searchSubmitButton.jpg"></div>
+<input type="hidden" value="c" name="tp"> <input type="hidden" value="a" name="rv"> <input type="image" title="Go!" value=" " id="navSearchButton" name="navSearchButton" onclick="if(document.getElementById('searchField').value=='' || document.getElementById('searchField').value == 'Search'){alert('Please type a question or keyword.');return false;}" src="/idc/groups/public/documents/adacct/icon_searchsubmitbutton.jpg"></div>
 </form>
 <!-- ///////////// END SEARCH --></div>
 </div>
@@ -234,13 +304,13 @@ removejscssfile("wlp.css", "css");
 	.tooltip { display:none; background: url(/onecms/privacypolicy/images/stock/white_sm.png) no-repeat left top; height:80px; width:169px; padding:20px 15px; color:#333; text-align:left; }
 	.tooltip p { width:150px; font-size:11px; color:#333; margin:0px; padding:0px; }
 </style>
-<span id="datetime">Jan 30, 2020 2:27 PM</span>
+<span id="datetime">Feb 24, 2020 10:46 AM</span>
 <span class="divider">|</span> 
 
 
-<strong style="font-weight: bold">VZ <label for="last" id="last">47.55</label></strong>&nbsp;
+<strong style="font-weight: bold">VZ <label for="last" id="last">45.36</label></strong>&nbsp;
 	    <img name="stockimage" id="stockimage" src="/onecms/privacypolicy/images/stock/arrow_dn.gif" width="10" height="9" alt="stock up">
-	    &nbsp;<strong style="font-weight: bold"><label for="change" id="change" style="color: rgb(255, 0, 0);">-0.31
+	    &nbsp;<strong style="font-weight: bold"><label for="change" id="change" style="color: rgb(255, 0, 0);">-0.34
 </label></strong>
 	    
 	    <span class="divider">|</span> <a href="javascript:void(0);" class="disclaimer">Disclaimer</a> 
@@ -395,7 +465,7 @@ ajaxFunctionForStockQuote();
 		<li>
 			<a href="/about/privacy/personalinformation/">Tips for Guarding Your Information</a></li>
 		<li>
-			<a href="/about/privacy/fiosprivacy/">FiOS TV Subscriber Privacy Notice</a></li>
+			<a href="/about/privacy/fiosprivacy/">FiOS Privacy Policy</a></li>
 		<li>
 			<a href="/about/privacy/browser/">Browser Policy Statement</a></li>
 		<li>
@@ -414,7 +484,7 @@ ajaxFunctionForStockQuote();
 			<a class="less" href="javascript:void(0);">[ less ]</a></div>
 	</div>
 	<div class="left_content_more">
-		<a class="bbb_logo" href="http://www.bbb.org/online/consumer/cks.aspx?id=108072593112" target="_blank"><img alt="Better Business Bureau Accredited Business" height="34" src="&#13;&#10;/onecms/privacypolicy/images/footer_logo_bbb.gif" width="90"></a>
+		<a class="bbb_logo" href="http://www.bbb.org/new-york-city/business-reviews/telephone-companies/verizon-communications-in-new-york-ny-411/#bbbonlineclick" target="_blank"><img alt="Better Business Bureau Accredited Business" height="34" src="&#13;&#10;/onecms/privacypolicy/images/footer_logo_bbb.gif" width="90"></a>
 		<p>
 			Verizon is accredited by the Better Business Bureau Online (BBBOnLine)</p>
 		<a class="more" href="javascript:void(0);">[ more ]</a>
@@ -430,23 +500,23 @@ ajaxFunctionForStockQuote();
 	<h3>
 		Verizon is Committed to Protecting Your Privacy</h3>
 	<p>
-		Protecting our customers' privacy is an important priority at Verizon and we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options with regard to that collection and use. Key elements of our <a href="/about/privacy/policy/">full privacy policy</a> are summarized below.</p>
+		At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information. Key elements of our <a href="/about/privacy/policy/">full privacy policy</a> are summarized below.</p>
 	<p>
 		Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/">Read more</a></p>
 	<h3>
 		<a name="info"></a>Information We Collect and How We Use It</h3>
 	<p>
-		Verizon collects and uses information about our customers and website visitors for a variety of purposes. Information is obtained when you interact with us, when you use our products and services, and when you visit our websites.</p>
+		Verizon collects and uses information about our customers and website visitors when you interact with us, when you use our products and services, and when you visit our websites.</p>
 	<p>
-		This information is used to deliver, provide, and repair products or services; establish and maintain customer accounts and billing records; contact you about our products and services and better direct specific offers or promotions to you; monitor website statistics; manage and protect our networks; monitor our customer service employees; and establish your online account. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.</p>
+		This information is used to deliver, provide, and repair products or services; establish and maintain customer accounts and billing records; contact you about our products and services and direct offers or promotions to you; monitor website statistics; and manage and protect our networks. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.</p>
 	<p>
-		We may also obtain consumer information such as demographic and interest data from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and to direct marketing offers.<br>
+		We may also obtain consumer information (such as demographic and interest data) from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and direct marketing offers.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/#info">Read more</a></p>
 	<h3>
 		<a name="/about/privacy/policy/#3rdparty"></a>Information Provided to or Used by Third-Party Advertisers</h3>
 	<p>
-		You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, third-party advertisers seek to provide advertising that they believe is more relevant to your interests. In these instances, cookies may be placed and used by advertising companies to collect information about your visit to our websites and may be combined with similar information obtained from other websites. We also may provide third-party advertisers with geographic or demographic information that allows them to tailor their ads. This information does not identify you individually. You have choices about how to limit the use of your information.<br>
+		You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, advertisers seek to provide advertising that may be more relevant to your interests. They do this, for example, by placing cookies on your browser and using them to collect information about your visit on our websites . They may combine this information with similar information obtained from other websites. We also may provide third-party advertisers with the ability to target their ads using geographic or demographic information about customers. This information does not identify you individually. You have choices and may limit the use of your information.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/#3rdparty">Read more</a></p>
 	<h3>
 		Information We Share<a name="share"></a></h3>
@@ -454,12 +524,12 @@ ajaxFunctionForStockQuote();
 	<h4>
 		Within the Verizon Family of Companies:</h4>
 	<p>
-		Verizon shares customer information within our family of companies for operational purposes. We also share customer information within our family of companies for our own marketing purposes unless you advise us not to. Specific laws govern our sharing and use of certain customer information known as Customer Proprietary Network Information.<br>
+		Verizon shares customer information within our family of companies. You can limit our sharing of certain types of customer information, known as Customer Proprietary Network Information, for marketing purposes.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/#insideVz">Read more</a></p>
 	<h4>
 		Outside the Verizon Family of Companies:</h4>
 	<p>
-		Except in certain circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and to the extent reasonably necessary for them to perform work on our behalf. Verizon may also share certain information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.<br>
+		Except in circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and when necessary for them to perform work on our behalf. Verizon may also share certain non-personal identifiable information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/#outsideVz">Read more</a></p>
 	<h3>
 		<a name="howtolimit"></a>How to Limit the Sharing and Use of Your Information</h3>
@@ -506,14 +576,14 @@ ajaxFunctionForStockQuote();
 			<h4>
 				<a name="fiostv"></a>FiOS TV Services:</h4>
 			<p>
-				Specific cable-related privacy protections apply to Verizon's FiOS TV subscribers.<br>
+				Specific privacy protections apply to Verizon's FiOS and other fiber-to-the-premises services.<br>
 				<a class="scblearnmore" href="/about/privacy/fiosprivacy/">Read more</a></p>
 		</li>
 		<li>
 			<h4>
-				<a name="parental"></a>Geographic and Relevant Mobile Advertising:</h4>
+				<a name="parental"></a>Relevant Advertising:</h4>
 			<p>
-				Verizon wireline Internet access customers may opt-out of participating in certain geographically-based advertising programs. Verizon Wireless Internet customers may opt-out of participating in relevant mobile advertising programs.<br>
+				Customers may opt-out of participating in relevant advertising programs on their Internet access services or their FiOS television service.<br>
 				<a class="scblearnmore" href="/about/privacy/policy/#relad">Read more</a></p>
 		</li>
 		<li>
@@ -542,10 +612,10 @@ ajaxFunctionForStockQuote();
 		If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, you may contact us at:<br>
 		<br>
 		Verizon Privacy Office<br>
-		1320 North Courthouse Road<br>
-		9th Floor<br>
-		Arlington, VA 22201<br>
-		Fax: 703-351-3669<br>
+		1300 I Street, NW<br>
+		Suite 400 West<br>
+		Washington, DC 20005<br>
+		Fax: 202-789-1432<br>
 		Email: <a href="mailto:privacyoffice@verizon.com">privacyoffice@verizon.com </a></p>
 	<h3>
 		<a name="infoaccess"></a>Accessing and Updating Your Information</h3>
@@ -561,9 +631,9 @@ ajaxFunctionForStockQuote();
 		Verizon is a licensee of the TRUSTe Privacy Program.<br>
 		<a class="scblearnmore" href="/about/privacy/policy/#truste">Read more</a></p>
 	<p>
-		Updated September 2011</p>
+		Updated November 2013</p>
 	<p style="font-weight: bold">
-		© 2009, 2011 Verizon. All Rights Reserved.</p>
+		© 2009, 2011-2013 Verizon. All Rights Reserved.</p>
 </div>
 
               
@@ -635,7 +705,7 @@ ajaxFunctionForStockQuote();
 	<li><a href="/about/terms/">Terms &amp; Conditions</a></li>
 </ul>
 </div>
-<div class="copyrights">© 2012 Verizon</div>
+<div class="copyrights">© 2013 Verizon</div>
 <div></div>
 
 	
