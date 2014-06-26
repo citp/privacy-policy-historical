@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kulfoto.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810115957id_/http%3A//www.kulfoto.com/%3Ftt%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kulfoto.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074111id_/http%3A//www.kulfoto.com/%3Ftt%3D2) for the most accurate reproduction.*
 
 # Privacy Notice
 
 1\. Personal Information
 
-**Browsing KULfoto.com:** You can watch photos on KULfoto.com without registering your Facebook account with KULfoto.com. You also can contact us through the KULfoto.com contact form without having to register your Facebook account with KULfoto.com.
+**Browsing KULfoto.com:** You can watch photos on KULfoto.com without registering your Facebook or Twitter account with KULfoto.com. You also can contact us through the KULfoto.com contact form without having to register your Facebook or Twitter account with KULfoto.com.
 
-**Your KULfoto.com Account:** For some activities on KULfoto.com, like uploading photos, flagging photos, or watching restricted photos, you need a Facebook account registered with KULfoto.com. We ask only for your public Facebook personal information (only the information you share on Facebook with everyone) when you register your Facebook account, NOT INCLUDING your email address. 
+**Your KULfoto.com Account:** For some activities on KULfoto.com, like uploading photos, flagging photos, or watching restricted photos, you need a Facebook or Twitter account registered with KULfoto.com. We ask only for your public Facebook or Twitter personal information (only the information you share on Facebook or Twitter with everyone) when you register your Facebook or Twitter account. 
 
 **Usage Information:** When you use KULfoto.com, we may record information about your usage of the site. If you are logged in, we may associate that information with your KULfoto.com Account. 
 
@@ -14,7 +14,7 @@
 
 2\. Uses
 
-If you register your Facebook account with KULfoto.com, we may use the information you share with everyone to operate, maintain, and improve the features and functionality of KULfoto.com, and to process any flagging activity or other communication you send to us. 
+If you register your Facebook or Twitter account with KULfoto.com, we may use the information you share with everyone to operate, maintain, and improve the features and functionality of KULfoto.com, and to process any flagging activity or other communication you send to us. 
 
 We do not collect your email address and we do not use your personal information to send commercial or marketing messages without your consent. 
 
@@ -22,7 +22,7 @@ We use cookies and log file information to: (a) store information so that you wi
 
 3\. Information That is Publicly Available
 
-When you register your Facebook account with KULfoto.com, NONE of the information about your KULfoto.com Account and your account activity will be provided to other users of KULfoto.com not including your activity using Facebook Social Plugins.
+When you register your Facebook or Twitter account with KULfoto.com, NONE of the information about your KULfoto.com Account and your account activity will be provided to other users of KULfoto.com not including your activity using Facebook Social Plugins.
 
 Your KULfoto.com Account name, NOT your email address, is displayed to other users when you engage in certain activities on KULfoto.com, such as when you send messages through Facebook Social Plugins on KULfoto.com. Other users can contact you by leaving a message or comment on the site. 
 
@@ -34,7 +34,7 @@ All photos that you submit to your albums on KULfoto.com are considered private 
 
 4\. Your Choices
 
-You may, of course, decline to register your Facebook account with KULfoto.com, in which case you can still view photos and explore KULfoto.com, but KULfoto.com may not be able to provide certain services to you. Some KULfoto.com features may use Google services like AdSense. The privacy notices of those services govern the use of your personal information associated with them. 
+You may, of course, decline to register your Facebook or Twitter account with KULfoto.com, in which case you can still view photos and explore KULfoto.com, but KULfoto.com may not be able to provide certain services to you. Some KULfoto.com features may use Google services like AdSense. The privacy notices of those services govern the use of your personal information associated with them. 
 
 5\. Advertising on KULfoto.com
 
@@ -48,4 +48,4 @@ We use third-party advertising companies to serve ads when you visit KULfoto.com
 
 Other third-party ad serving companies may display ads on KULfoto.com. KULfoto.com does not provide any personal information to these third-party ad servers or ad networks without your consent. You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. KULfoto.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with KULfoto.com is maintained and dealt with by KULfoto.com in accordance with this privacy policy.
 
-**Dated: January 21, 2012**
+**Dated: November 22, 2013**
