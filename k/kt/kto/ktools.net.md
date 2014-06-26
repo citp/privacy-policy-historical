@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019005016id_/http%3A//ktools.net/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130113id_/http%3A//ktools.net/privacy.policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ktools.net
 
