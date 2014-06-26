@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthandnaturalliving.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221090041id_/http%3A//healthandnaturalliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandnaturalliving.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082352id_/http%3A//healthandnaturalliving.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Health & Natural Living
 
 At _Health & Natural Living_, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Health & Natural Living_ and how it is used.
 
