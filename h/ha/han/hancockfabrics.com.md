@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124145015id_/http%3A//www.hancockfabrics.com/Security---Privacy_stcVVcatId537817VVviewcat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082414id_/http%3A//hancockfabrics.com/security-privacy/security-privacy.html) for the most accurate reproduction.*
 
-# Security & Privacy
+# Privacy Statement
 
-**Hancockfabrics.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.hancockfabrics.com 
+  1. [Home](http://hancockfabrics.com/ "Home")
+  2. [Customer Service](https://web.archive.org/help "Customer Service")
+  3. Privacy Statement
+
+
+
+Hancockfabrics.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.hancockfabrics.com 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
 Our site uses cookies to keep track of your shopping cart. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their social security number), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. From time to time, we may present offers to you from third party partners, and we may share certain contact, financial and other information with those third party partners. We will not share any personally identifiable information with any third party without your consent. 
-
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have SSL Encryption technology through Yahoo's shopping basket and order interface, which is kept up to date as technology changes. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity. From time to time, we may present offers to you from third party partners, and we may share certain contact, financial and other information with those third party partners. We will not share any personally identifiable information with any third party without your consent. 
 
 **Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
@@ -31,10 +32,18 @@ This site gives users the following options for changing and modifying informati
 Email [consumerdiv@hancockfabrics.com](mailto:consumerdiv@hancockfabrics.com)
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Attn: Webmaster   
 HancockFabrics.com  
 One Fashion Way   
-Baldwyn, MS 38824   
-[webmaster@hancockfabrics.com](mailto:webmaster@hancockfabrics.com)
+Baldwyn, MS 38824 
+
+## Need Help?
+
+If you have any question or need help with your account, you may [Contact Us](https://hancockfabrics.com/contactus) to assist you.
+
+## Customer Service
+
+Monday through Friday | 8am to 5pm CST  
+877-FABRICS (877-322-7427) 
