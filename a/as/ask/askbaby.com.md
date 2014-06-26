@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askbaby.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225022058id_/http%3A//www.askbaby.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbaby.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131923id_/http%3A//www.askbaby.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your personal information and us....
 
@@ -28,7 +28,7 @@ We will send cookies to your computer in order to enable AskBaby.com to identify
 
 **Your personal information**
 
-Any information you submit to AskBaby.com will be used for purposes set out in the Privacy policy or as otherwise specified on the website. To this end we may use your personal information to enable your use of the website, improve your browsing experience (by personalising and extending the functionality of the website), manage any competition entries you submit and to send you the AskBaby.com newsletter (if this is something you have requested). 
+Any information you submit to AskBaby.com will be used for purposes set out in the Privacy policy or as otherwise specified on the website. To this end we may use your personal information to enable your use of the website and improve your browsing experience (by personalising and extending the functionality of the website). 
 
 Personal information may be shared with contractors used to support AskBaby.com. However, third parties will be required to treat member information in accordance with this Privacy Policy.
 
@@ -37,8 +37,6 @@ Please visit [www.otpmedia.com/privacy](http://www.otpmedia.com/privacy) to view
 We will not share your personal information with third parties for the purpose of direct marketing. 
 
 We may however provide third parties with statistical information about AskBaby.com users, this information will not be used to identify any one user. 
-
-Additionally, when entering a competition on AskBaby.com if you register your interest in any of the companies displayed after you have submitted your entry you are agreeing for your details to be shared with those third parties selected and for them to contact you in due course. 
 
 We may also use your personal information to deal with enquiries and complaints relating to AskBaby.com (made by or about you) and to investigate any misuse or alleged misuse of the website. This includes disclosing information about you if we are required to do so by law, in connection with any current or prospective legal proceedings and in order to establish, exercise or defend our legal rights. 
 
