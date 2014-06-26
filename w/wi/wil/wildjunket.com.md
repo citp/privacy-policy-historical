@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215184740id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040733id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Wild Junket
+# Privacy Policy | Wild JunketWild Junket
 
 This Privacy Policy governs the manner in which WildJunket Ltd. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [wildjunket.com](http://wildjunket.com/) and/or [wildjunketmagazine.com](http://wildjunketmagazine.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by WildJunket Ltd..
 
