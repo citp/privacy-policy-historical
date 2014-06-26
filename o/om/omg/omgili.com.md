@@ -1,52 +1,61 @@
-> *The following text is extracted and transformed from the omgili.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109012450id_/http%3A//omgili.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgili.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085640id_/http%3A//omgili.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Last Updated: July 14th, 2009
-
-## Omgili Privacy Policy
+# 
 
 Omgili does not currently collect personally identifiable information regarding its users and visitors to its Website.  
-Omgili may however collect certain other information regarding its users and visitors to its Website. This information may include:  
+Omgili may however collect certain other information regarding its users and visitors to its Website. This information may include:
 
+a.Information supplied by the users' browsers when accessing the Website and/or "Omgili Buzz Graphs", such as IP address, type of browser, date and time of access, etc.;   
+b.Search terms; and   
+c.Parameters selected by users to define the information provided by "Omgili Buzz Graphs". 
 
-  * Information supplied by the users' browsers when accessing the Website and/or "Omgili Buzz Graphs", such as IP address, type of browser, date and time of access, etc.;
-  * Search terms; and
-  * Parameters selected by users to define the information provided by "Omgili Buzz Graphs".
-
-  
 This Privacy Policy sets forth the uses Omgili may make of such information, measures that Omgili takes to protect such information and the circumstances under which it may disclose such information. By using the Website, you consent to the terms of this Privacy Policy.  
-As used in this Privacy Policy:  
+As used in this Privacy Policy:
 
+a." **Services** " means the services provided by the Website, including the "Omgili Buzz Graphs";   
+b." **Website** " means the omgili.com domain and any sub-domains thereof;   
+c." **Omgili** " means Omgili Ltd. and any of its subsidiaries. 
 
-  * " **Services** " means the services provided by the Website, including the "Omgili Buzz Graphs";
-  * " **Website** " means the omgili.com domain and any sub-domains thereof;
-  * " **Omgili** " means Omgili Ltd. and any of its subsidiaries.
-
-  
-This Privacy Policy may be updated from time to time including for purposes of adapting it to new features offered by Omgili, therefore Omgili asks you to check back periodically. If in the future Omgili will collect personally identifiable information from its users and visitors to its Website, it will update the terms of this Privacy Policy to include appropriate terms for the use and disclosure of personally identifiable information.  
-
+This Privacy Policy may be updated from time to time including for purposes of adapting it to new features offered by Omgili, therefore Omgili asks you to check back periodically. If in the future Omgili will collect personally identifiable information from its users and visitors to its Website, it will update the terms of this Privacy Policy to include appropriate terms for the use and disclosure of personally identifiable information.
 
 ### Uses of Information
 
-Omgili uses the information it collects for the following purposes:  
+Omgili uses the information it collects for the following purposes:
 
+a.
 
-  * _Internal Use and Diagnostics_. Omgili uses the information collected for internal purposes, to improve its Website and Services, and to better tailor the Website and Services to meet your needs. This may include compiling user diagnostics based on geographical locations, search terms requested and/or defined parameters for "Omgili Buzz Graphs".
-  * _Resolving Problems_. Omgili may use information and other data it obtains from your current and past activities to resolve disputes and troubleshoot problems and to monitor and enforce the Omgili Terms of Use.
+ _Internal Use and Diagnostics_
 
+. Omgili uses the information collected for internal purposes, to improve its Website and Services, and to better tailor the Website and Services to meet your needs. This may include compiling user diagnostics based on geographical locations, search terms requested and/or defined parameters for "Omgili Buzz Graphs".   
+b.
 
+ _Resolving Problems_
+
+. Omgili may use information and other data it obtains from your current and past activities to resolve disputes and troubleshoot problems and to monitor and enforce the Omgili Terms of Use. 
 
 ### Disclosure of Information
 
-Omgili may disclose the information it collects in the following circumstances: 
+Omgili may disclose the information it collects in the following circumstances: a.
 
-  * _Merger or Sale_. In the event that Omgili merges with or is acquired by another business entity or sells all or substantially all of its assets to an acquirer, Omgili may share some or all of the information it collects with the merged or acquiring company in order to continue serving you and others and continuing to offer you the Services.
-  * _Special Cases_. In the event that Omgili has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating Omgili's Terms of Use or this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally) Omgili's rights or property, other users, or anyone else that could be harmed by such activities. In addition, Omgili may disclose information in the event that Omgili believes in good faith that the law requires such disclosure or if it is ordered to do so by a court.
-  * _Business Partners and Investors_. In the event that Omgili adds business partners or co-branded sites to its Website or is involved in discussions with potential investors, provided that the sharing of information with such business partners and investors will be limited to statistical information regarding users in general. 
-  * _PR Purposes: In the event Omgili wishes to publicize information for PR purposes_ , provided that such sharing of information will be limited only to statistical information regarding users in general.
+ _Merger or Sale_
 
-_Links and Displayed Sites_. The Website may contain links to other sites. Omgili is not responsible for the privacy practices or the content of such linked or otherwise displayed sites. 
+. In the event that Omgili merges with or is acquired by another business entity or sells all or substantially all of its assets to an acquirer, Omgili may share some or all of the information it collects with the merged or acquiring company in order to continue serving you and others and continuing to offer you the Services. b.
+
+ _Special Cases_
+
+. In the event that Omgili has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating Omgili's Terms of Use or this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally) Omgili's rights or property, other users, or anyone else that could be harmed by such activities. In addition, Omgili may disclose information in the event that Omgili believes in good faith that the law requires such disclosure or if it is ordered to do so by a court. c.
+
+ _Business Partners and Investors_
+
+. In the event that Omgili adds business partners or co-branded sites to its Website or is involved in discussions with potential investors, provided that the sharing of information with such business partners and investors will be limited to statistical information regarding users in general. d.
+
+ _PR Purposes: In the event Omgili wishes to publicize information for PR purposes_
+
+, provided that such sharing of information will be limited only to statistical information regarding users in general. 
+
+_Links and Displayed Sites_
+
+. The Website may contain links to other sites. Omgili is not responsible for the privacy practices or the content of such linked or otherwise displayed sites. 
 
 ### Security
 
