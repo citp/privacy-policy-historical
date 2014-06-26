@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129194630id_/http%3A//aisquared.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111503id_/http%3A//www.aisquared.com/privacy_policy) for the most accurate reproduction.*
 
-# ai squared - making accessibility simple
+# Ai Squared - We've got accessibility covered
 
 Thank you for visiting aisquared.com. We are committed to respecting the privacy of our users and we strive to provide a safe, secure user experience. This Privacy Statement outlines the online data collection and usage policies that apply to aisquared.com, and applies solely to the information we collect there. By using our website, you consent to the policies and practices described in this Statement. 
 
