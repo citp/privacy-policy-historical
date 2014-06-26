@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbestravelguide.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116223434id_/http%3A//www.forbestravelguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbestravelguide.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135753id_/http%3A//www.forbestravelguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Forbes Travel Guide
 
