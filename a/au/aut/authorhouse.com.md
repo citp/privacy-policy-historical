@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211004600id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626112846id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AuthorHouse
 
-Our privacy policy, as detailed below, answers questions you may have about access, security, and control of personal information. It also describes how the information will be used and whether it will be provided to third parties.
+Our privacy policy, as detailed below, answers questions you may have about access, security, and control of personal information. It also describes how the information will be used and whether it will be provided to third parties. 
 
-All companies that are part of Author Solutions, LLC believe that your personal information—including your name, mailing address, telephone number, e-mail address, and credit card data—belongs to you. While we collect this type of information when you provide it to us, we do not rent or sell it to third parties. We use it only to process orders and to provide a more personalized shopping experience.
-
-## WHAT INFORMATION DO AUTHOR SOLUTIONS COMPANIES COLLECT?
+All companies that are part of Author Solutions, LLC believe that your personal information—including your name, mailing address, telephone number, e-mail address, and credit card data—belongs to you. While we collect this type of information when you provide it to us, we do not rent or sell it to third parties. We use it only to process orders and to provide a more personalized shopping experience. 
 
 When users visit our Web sites, there are two types of information that may be collected.
 
@@ -20,25 +18,29 @@ To better serve you, AuthorHouse may share your name and contact information wit
 
 Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, Trafford, Wordclay, and AuthorHive.
 
-We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by [clicking HERE](https://web.archive.org/MarketingPreferences.aspx "clicking HERE").
+We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services, and special offers we think you’ll find valuable. If you would rather not receive this information, you can change the preferences by clicking HERE.
 
 We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users, or others.
 
 We may release account information when we believe, in good faith, that such release is reasonably necessary to:
 
-1\. Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  1. Respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  2. Believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Author Solutions LLC's terms of use, or as otherwise required by law.
+  3. Transfer information about you if Author Solutions LLC is acquired by or merged with another company. In this event, Author Solutions LLC will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-2\. Believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Author Solutions LLC's terms of use, or as otherwise required by law.
 
-3\. Transfer information about you if Author Solutions LLC is acquired by or merged with another company. In this event, Author Solutions LLC will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 The second type of information is known as “non-personally identifiable information” and is collected upon each visit to our Web site. Our server automatically recognizes visitors’ domain names and Internet Protocol addresses (where possible). We also collect information and statistics about how visitors use the site. This information, which is collected and maintained in an anonymous, non-personal, and composite form, allows us to improve the content of our Web site and facilitate market research.
 
 ## DOES AUTHOR SOLUTIONS USE NON-PERSONALLY IDENTIFIABLE INFORMATION?
 
+* * *
+
 On occasion, we may provide non-personally identifiable information about our users, sales, traffic patterns, and related site information to reputable third-party vendors to help us understand this information better. However, these statistics will not include any personally identifiable information. Other than improving our Web site and providing our visitors with the best experience possible, we make no other use of this information.
 
 ## HOW DOES AUTHOR SOLUTIONS PROTECT USER INFORMATION?
+
+* * *
 
 We use encryption technology to keep your personal information safe. All of your ordering information—including your name, mailing address, telephone number, e-mail address, and credit card data—is encrypted using a secure server for maximum security.
 
@@ -50,6 +52,8 @@ If you feel more comfortable doing so, you may place an order for products or se
 
 ## COOKIES
 
+* * *
+
 When you visit a Web site, information may be stored in a file known as a “cookie.” This file is stored on your computer and is used for future reference. If you revisit a Web site, the cookie allows that Web site to identify you as a returning guest and tailor your shopping experience to you.
 
 We use cookies in two places. The first is when a user places an order. We use cookies to fill in their name and e-mail address in the form where appropriate (this is known as “auto-fill.”) The second is when a customer uses the Contact Us page. Again, we use cookies for auto-filling the form.
@@ -60,16 +64,21 @@ The information contained in our cookies is only used by Author Solutions. Your 
 
 ## SECURITY
 
+* * *
+
 Author Solutions, LLC is committed to maintaining the privacy of your personally identifiable information, and will treat the privacy of your information with the same or greater security protections as we provide for our own private information. Author Solutions LLC company Web sites have industry-standard security measures in place to prevent the loss, misuse, and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we take reasonable steps to ensure the safety of all information.Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up to date on our security and privacy practices.
 
 ## YOUR CONSENT AND NOTIFICATION OF CHANGES
+
+* * *
 
 By using this Web site, products, and services, you consent to the terms of this policy. If our privacy policy changes, we will post those changes on this page so that you are always aware of access, security, control of personal information, how information will be used, and whether it will be provided to third parties. Your continued use of the Web site constitutes your consent to the updated policy.
 
 ## DO NOT CALL POLICY
 
-Author Solutions, LLC strives to maintain the highest standards of ethical conduct in its marketing activities and is committed to complying with all federal and state legislation.  
+* * *
 
+Author Solutions, LLC strives to maintain the highest standards of ethical conduct in its marketing activities and is committed to complying with all federal and state legislation.
 
 No employee or agent of Author Solutions, LLC shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulations.
 
@@ -83,13 +92,14 @@ If you do not want to receive sales calls from any imprint of Author Solutions, 
 
 When submitting a request, be sure to include all the relevant information that you want added to our Do Not Contact List, i.e., **full name, address, and telephone number(s)**. Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
 
-If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service.
+If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service. 
 
-Please note that the Author Solutions, LLC, Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. If you would like to add your number to the Global Do Not Call List, you may do so by relaying this request to the Customer Service Representative or via e-mail through [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com) 
+Please note that the Author Solutions, LLC, Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. If you would like to add your number to the Global Do Not Call List, you may do so by relaying this request to the Customer Service Representative or via e-mail through [nocalllist@authorsolutions.com](mailto:nocalllist@authorsolutions.com).
 
 Being on the Author Solutions Do Not Call List restricts telephone solicitations only. We may still contact you about service-related issues, surveys, billing, and other topics.
 
 ## TELL US WHAT YOU THINK
 
-We welcome your questions and comments about privacy. Please e-mail us using the [Contact Us](https://web.archive.org/ContactUs/default.aspx "Contact Us") page.  
+* * *
 
+We welcome your questions and comments about privacy. Please e-mail us using the [Contact Us](https://web.archive.org/ContactUs/default.aspx) page.
