@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the strongmenstayyoung.com privacy policy that was archived on 2013-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109055954id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strongmenstayyoung.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626043136id_/http%3A//strongmenstayyoung.com/strongmen/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -80,6 +80,248 @@ html { margin-top: 0px !important; }
 <body id="body" onload="IPOLoad();" class="bodytext">
 
 
+
+	
+<script type="text/javascript" language="javascript">
+<!--
+function closeoptinbox()
+{
+	document.getElementById('optin').style.visibility = 'hidden';
+	document.getElementById('optinclose').style.visibility = 'hidden';
+}
+// -->
+</script>
+<style type="text/css">
+#optinclose {
+	position:fixed;
+	right: 17px;
+	top: 80px;
+	background-image: url('http://strongmenstayyoung.com/exitpop/images/closebox2.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 27px;
+	width: 30px;
+}
+#optinclose:hover {
+	cursor: hand;
+	background-position: left bottom;
+}
+</style>
+
+	<div style="position: absolute; right: 0px; width: 300px; height: 80px; border: 0px solid green; z-index: 100;">
+		<div id="optinclose"><a href="javascript:" onclick="closeoptinbox();" style="text-decoration: none;"><img src="http://strongmenstayyoung.com/css/images/clear_pixel.gif" width="30" height="54" border="0"></a></div>
+	</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+function checkLeadTop(form_obj) {
+
+	var name = '';
+	var email = '';
+	for ( j=0; j<form_obj.elements.length; j++ )
+	{
+		var element_name = form_obj.elements[j].name;
+		var element_value = form_obj.elements[j].value;
+
+		if ( element_name == 'name' ) {
+			if ( element_value  == '' || element_value == 'Enter First Name Here') {
+				alert('Please enter your name');
+				form_obj.focus();
+				return false;
+			}
+			name = element_value;
+//			alert('name: '+name);
+		}
+		if ( element_name == 'email' ) {
+			if ( element_value  == '' || element_value == 'Enter VALID Email Here') {
+				alert('Please enter your Email Address');
+				form_obj.focus();
+				return false;
+			}
+			if(! validate_email_top(element_value) ) {
+				alert('Please provide a VALID Email Address');
+				form_obj.focus();
+				return false;
+			}
+			email = element_value;
+//			alert('email: '+email);
+		}
+	}
+
+// alert('name = '+ name + ' email = ' + email ); return false;
+
+	return true;
+}
+function validate_email_top(email)
+{
+	if(!email) { return false; }
+	if ( email.match(/^[\w\.\-]+@[\w\.\-]+\.[\w\.\-]+$/) ) { return true; }
+	return false;
+}
+function capitalizeMeTop(obj) {
+	val = obj.value;
+	newVal = '';
+	val = val.split(' ');
+	for (var c=0; c < val.length; c++) {
+		newVal += val[c].substring(0,1).toUpperCase() + val[c].substring(1,val[c].length) + ' ';
+	}
+	obj.value = newVal;
+}
+function closeoptin()
+{
+// alert('dismissoptin');
+
+	var optin = document.getElementById('optin');
+	    optin.style.visibility = 'hidden';
+
+	var optinclose = document.getElementById('optinclose');
+	    optinclose.style.visibility = 'hidden';
+}
+// -->
+</script>
+
+<!-- BEGIN SIDE OPTIN -->
+
+<style type="text/css">
+
+#optin { margin:0; padding:0; width:254px;  border: 0px solid red; position:fixed; right: 30px; top: 85px;  }
+#optin form { margin:0; }
+
+#optin .optin-top {
+	width: 254px;
+	height: 7px;
+	float: right;
+}
+#optin .optin-bottom {
+	width: 254px;
+	height: 7px;
+	float: right;
+}
+#optin .optin-center {
+	float: right;
+	width: 234px;
+	background: url('http://strongmenstayyoung.com/exitpop/images/optin-middle.png') repeat-y;
+	padding-top: 6px;
+	padding-left: 16px;
+	padding-right: 4px;
+	padding-bottom: 1px;
+}
+#optin .optin-center p.heading2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	font-style: normal;
+	margin-top: 4px;
+	margin-bottom: 6px;
+	padding: 0px;
+	line-height: 28px;
+	color: #bb0000;
+	letter-spacing: 0px;
+}
+#optin .optin-center p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 19px;
+	color: #555555;
+	letter-spacing: 0px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: 14px;
+	text-align: left;
+	border: 0px solid red;
+}
+
+#optin .optin-center input[type="text"] {
+	background-image: url('http://strongmenstayyoung.com/exitpop/images/lightbox-text-boxx.png');
+	margin-bottom: 10px;
+	border: 0px;
+	line-height: 20px;
+	height: 20px;
+	padding-right: 14px;
+	padding-top: 10px;
+	margin-left: 3px;
+	background-repeat: no-repeat;
+	padding-bottom: 10px;
+	width: 195px;
+	font-family: Verdana, Tahoma, san-serif;
+	font-size: 14px;
+	padding-left: 20px;
+	background-color: transparent;
+	outline: none;
+	border: 0px solid green;
+}
+#optin .optin-center input[type="text"].name {
+	background-position: left top;
+}
+#optin .optin-center input[type="text"].email {
+	background-position: left bottom;
+}
+#optin span {
+	font-size: 11px;
+	padding-left: 24px;
+	margin-top: 10px;
+	line-height: 14px;
+	font-weight: bold;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000;
+	width: 174px;
+	text-align: left;
+	float: left;
+	margin-left: 10px;
+}
+#optin .optin-center span {
+	color: #606060;
+}
+</style>
+
+		<form id="aweberform" method="post" action="http://www.aweber.com/scripts/addlead.pl" name="awsubmittop" onsubmit="return checkLeadTop(this);">
+
+		<input name="meta_web_form_id" value="1503543765" type="hidden">
+		<input name="listname" value="strongmenpromo2" type="hidden">
+		<input name="redirect" value="http://strongmenstayyoung.com/reports/41/fatlossfor/strongmenstayyoung/?rid=41&amp;do=checkinbox" id="redirect" type="hidden">
+		<input name="meta_redirect_onlist" value="http://strongmenstayyoung.com/reports/41/fatlossfor/strongmenstayyoung/?rid=41&amp;do=checkinbox" type="hidden">
+		<input name="meta_adtracking" value="optinside" type="hidden">
+		<input name="meta_message" value="1" type="hidden">
+		<input name="meta_required" value="email,name" type="hidden">
+		<input name="meta_forward_vars" value="0" type="hidden">
+		<input name="custom report_id" value="41" type="hidden">
+		<input name="custom product_id" value="41" type="hidden">
+		<input name="custom partner_id" value="fatlossfor" type="hidden">
+		<input name="custom partner_tid" value="strongmenstayyoung" type="hidden">
+		<input name="custom slash_product_id" value="/41" type="hidden">
+		<input name="custom slash_partner_id" value="/fatlossfor" type="hidden">
+		<input name="custom slash_partner_tid" value="/strongmenstayyoung" type="hidden">
+		<input name="meta_tooltip" value="" type="hidden">
+
+	<div style="position: absolute; width: 300px; height: 100%; right: 0px; top: 0px; border: 0px solid orange; ">
+
+		<div id="optin">
+			<div class="optin-top" style="height: 7px; background: url(http://strongmenstayyoung.com/exitpop/images/optin-top.png) no-repeat;"></div>
+
+			<div class="optin-center">
+				<p class="heading2">FREE REPORT</p>
+				<center><img src="http://strongmenstayyoung.com/exitpop/images/half-the-man-cover-small.png" width="150" height="194" border="0"></center>
+				<p>Grab Our FREE Report <b>"Half The Man You Used To Be"</b> Right Here!</p>
+				<input type="text" class="name" value="Enter First Name Here" name="name" onchange="capitalizeMeTop(this);" onfocus="this.value=''" onblur="if(!this.value){this.value='Enter First Name Here'}">
+				<input type="text" class="email" value="Enter VALID Email Here" name="email" onchange="this.value=this.value.toLowerCase();" onfocus="this.value=''" onblur="if(!this.value){this.value='Enter VALID Email Here'}">
+				<input type="image" value="INSTANT ACCESS" src="http://strongmenstayyoung.com/exitpop/images/access-btn.png" style="padding-right: 10px; border: 0px solid red;">
+
+				<div style="float: left; padding-top: 14px; padding-left: 4px; padding-right: 6px; height: 30px; border: 0px solid red;"><img src="http://strongmenstayyoung.com/exitpop/images/lightbox-secure.png" width="16" height="15" border="0"></div>
+
+				<p>Your email is safe with me, and you can opt out any time.</p>
+			</div>
+
+			<div class="optin-bottom" style="height: 7px; background: url(http://strongmenstayyoung.com/exitpop/images/optin-bottom.png) no-repeat;"></div>
+
+			<img src="http://forms.aweber.com/form/displays.htm?id=jKwMzKwszOxsrA==" width="1" height="1" border="0">
+		</div>
+	</div>
+		</form>
+
+<!-- END SIDE OPTIN -->
 
 
 <div id="wrap">
@@ -224,7 +466,7 @@ html { margin-top: 0px !important; }
 	<div style="margin-right: 20px; padding-top: 17px; border: 0px solid orange;">
 	<div style="text-align: center;">
 
-	<p>Copyright © 2010-2013, ·
+	<p>Copyright © 2010-2014, ·
 	Strong Men Stay Young ·
 	<a href="http://strongmenstayyoung.com/strongmen/privacy/">Privacy</a> ·
 	<a href="http://strongmenstayyoung.com/strongmen/disclaimer/">Disclaimer</a> ·
