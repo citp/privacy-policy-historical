@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingbook.co privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509105144id_/http%3A//www.listingbook.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingbook.co privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104813id_/http%3A//www.listingbook.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
