@@ -1,119 +1,148 @@
-> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820162121id_/http%3A//www.dell.com.au/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Dau%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141121id_/http%3A//dell.com.au/content/topics/topic.aspx/ap/policy/en/privacy%3Fc%3Dau%26l%3Den%26s%3Dgen) for the most accurate reproduction.*
 
 # Dell's Privacy Policy | Dell Australia
 
-**Privacy Policy**
+**Privacy and Data Security**
 
-**Privacy Statement Regarding Customer and Online User Information**
+At Dell, your right to privacy and security is a major concern. Below are the guidelines we use for protecting your personal information. Please read the following carefully.
 
-The Privacy Statement Regarding Customer and Online User Information applies to Dell Inc. and its affiliates around the word ("we" or "our"), but not to those Dell corporate affiliates that have published their own privacy and security statements. This privacy statement also does not apply to the websites of our business partners or to any third parties, even if their websites are linked to our website. We recommend that you review the privacy statements of the other parties with whom you interact.
+ **Dell's Privacy Policy**
 
-This Privacy Statement governs the collection of personal information of our customers and users of our website ("you"), products, services, software, Web sites of Dell, about contacts or our relationship with you. Please see our certificate of guarantee and Return Policy Dell regarding policies that apply to information contained on hard drives returned to Dell. 
+Dell respects your privacy. Across our business, around the world, we will collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information, but we may share your IP address with advertisers on Dell sites. We share your data only with partners who share Dell's commitment to protecting your privacy and data. Please contact Dell if you have privacy questions or concerns. You also may ask to see the personal data you have given us and request amendment, correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes.
 
-For purposes of this privacy statement, "corporate affiliates" means all entities or joint ventures that are fully owned, partially or controlled by Dell Inc. "Business partners" means all subcontractors, vendors or other entity with whom we have a relationship p for constant commercial supplies, services or information. "Personal information" means information that identifies you, such as your name, phone number and email address.
+ **The Information Dell Collects About You**
 
- **Information We Collect**
+Dell asks for specific types of personal information. We ask you to provide information that will enable us to process your purchase or provide services to you, enhance your site visit, respond to requests for information, support your relationship with us, assist you with technical support issues or to follow up with you after your visit.
 
-We may ask you to provide personal information when you:
+Dell may collect information when you interact with us. Some of the instances when this happens might be when you:
 
-  * Use our website;
-  * Request quotes, services, support, or information;
-  * Place orders for products or services;
-  * Apply for credit card or financing;
-  * Participate in surveys, sweepstakes, or other promotional activities;
-  * Subscribe to newsletters, promotional emails, saved cart reminders, or other materials;
-  * Apply for a job, submit your resume/CV, or create a candidate profile; or
-  * Contact us.
-
-
-
-Information we may request includes your email address, name, home address, and telephone number. If you make a purchase, we may ask for your credit card number and billing information. We may also ask for other data such as your National Identification number to process your credit or financing request. Job applicants may be requested to provide information such as educational background, employment experience, and job interest. We may also collect demographic information such as details of your business or company, age, gender, interests, preferences and favourites. The forms that you fill in will indicate whether information requested is mandatory or voluntary.
-
-We may collect information about your visits to our websites, including the pages you viewed, links and advertisements you clicked, the searched terms you made, and other actions in connection with websites and services from Dell. We may also collect certain information from the browser you used to access our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you navigate from our site if you click on a link on our site.
-
-To provide a more consistent and personalized experience in your interactions with Dell, information collected through one source can be combined with information obtained through other Dell resources. We can also supplement the information we collect with information obtained from other parties.
-
-Some services from Dell can boast two brands and be offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the services of two brands and will use information in accordance with the declaration of confidentiality of each company and other agreements with you. 
-
-**How We Use Personal Information**
-
-Dell uses your personal information to:
-
-  * Providing service and support, or perform transactions you request;
-  * Send communications to you, such as product safety information, the status of your transactions (e.g. order confirmations) , information about products and services available from Dell and its corporate affiliates, saved cart reminders, promotional offers, and surveys;
-  * Customize, analyse, and improve our products, services (including the content and advertisements on our website), technologies, communications and relationship with you;
-  * Comply with our terms of sale, website terms and/or separate contracts (if applicable) with you;
-  * Avoid fraud and other prohibited or illegal activities;
-  * Protect the security or integrity of the website, our business, or our products or services; or
-  * Otherwise, as disclosed to you at the point of collection.
+  * Register on a Dell or Dell affiliate website;
+  * Request us to provide you with a quote;
+  * Place an order with us;
+  * Request e-mail notification from us;
+  * Request assistance from our online advisors;
+  * Make a request for support either online or by telephone;
+  * Provide feedback in a survey;
+  * Participate in promotional offers;
+  * Subscribe to a publication, newsletter or a mailing list;
+  * Visit a Dell website or an affiliate website; or
+  * Apply for a job, submit your resume/CV, or create a candidate profile.
 
 
 
-Personal information collected may be stored and processed in the United States or any other country in which Dell or its corporate affiliates, subsidiaries or agents maintain facilities, and by using Dell products and services, you consent to any such transfer of information outside of your country.
+We may also collect personal information about you (such as demographic information) from third parties, including:
 
- **Disclosing Personal Information**
-
-We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal actions; as required by law or regulation, or if Dell reasonably considers necessary to protect Dell, its customers, or the public. In addition, we may share your personal information with business partners that help Dell perform transactions you request or that help Dell to customize, analyse, and/or improve our communication or relationship with you, and only with business partners who share Dell's commitment to protect your personal information. Except as described above, we will not disclose your personal information to third parties for their own marketing purposes, unless you consent.
-
- **How You Can Access Your Information**
-
-Dell wants to maintain accurate personal information about you. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the sections My Account / Premier Account sections dell.com websites. For the security of your account, you will be prompted to enter your login ID and password.
-
- **Selecting Your Communication Preferences**
-
-You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following:
-
-  * Selections from My Account / Premier Account sections on dell.com let you choose if you want to receive marketing communications from dell.com and subscribe or unsubscribe to newsletters about our products and services; and
-  * At any point, you can also visit our [Dell Subscription Center](http://au.dell.com/p/AU/Subscribe?page=unsubscribe) and request removal from our advertising and marketing lists (catalogue, telephone, faxes, and email);
-  * When you save a cart while shopping online, you can choose to receive reminders via email;
-  * All marketing by Dell or any third party on behalf of Dell, will be conducted in accordance with applicable laws.
+  * other related bodies corporate within the Dell group;
+  * third party service providers;
+  * publicly available sources of information; and
+  * in the case of job applicants, previous employers
 
 
 
-Please allow up to 10 business days for your email preferences to become effective.
+When you interact with us, we may ask for some of the following information: your name, address, e-mail address, IP address, phone number, occupation, National Identification Number, industry, transactional information such as your preferences, customer and service tag number, service history, credit card information and other bank details, referrals, and other information that is needed to process your transaction or request. We may also collect demographic information such as details of your business or company, age, gender, interests, preferences and favourites, and product purchase history. For job applicants, you may be requested to provide information such as educational background, employment experience, and job interest.
 
-As some promotions, such as direct catalogues, are developed in advance, you may receive marketing communication after receiving your request preference.
+We may collect information relating to your online interactions with us (including, for example, your IP address, the pages you view and the links and advertisements that you click on) so that we can offer you a more consistent and personalised experience in your relationship with Dell and better serve your needs by customising the content, services and marketing material that we share with you. We may use your personal information, including browser and purchase history to make recommendations to you and send customised communications via various communication methods, including email.
 
- **How We Secure Your Personal Information**
+We hold your personal information in:
 
-Dell is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use anddisclosure is not allowed, such as encryption, passwords, physical security, etc. While we strive to protect your personal information, Dell cannot ensure or guarantee that the personal information or private communications you transmit to us will always remain confidential, and you do so at your own risk. For more information about our security measures, please [click here](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/privacy?c=au&l=en&s=gen&~section=002)
+  * computer systems;
+  * electronic databases;
+  * digital archives;
+  * telephone recordings; and
+  * hard copy or paper files.
 
-If a password is used to help protect your accounts and personal information, you are responsible for keeping your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
 
-To the extent required by law, we will not require you to transmit your SSN (Social Security Number) or NIN (National Identification Number) on the Internet unless the connection is secure and the SSN or NIN is encrypted, nor expect you to transmit your SSN or NIN to access a website without requiring additional authentication.
 
- **Collection and Use of Children's Personal Information**
+These storage mechanisms may be managed in a number of ways. These may be managed or administered internally by Dell Australia and may be held locally in Australia, or, they could be managed by a third party with whom we have a contractual relationship to manage it locally or overseas. We will take all reasonable steps to protect your personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure. The ways we do this , include:
 
-Dell seriously considers the privacy of children. If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian.
+  * using Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information, such as credit card details (SSL encryption is designed to make the data unreadable by anyone but us);
+  * limiting physical access to our premises;
+  * limiting access to the information we collect about you (for instance, only those of our personnel who need your information to carry out our business activities are allowed access);
+  * ensuring that we and our third party providers have appropriate security safeguards to keep personal information secure; and
+  * destroying or de-identifying personal information as required by law.
 
- **How We Use Cookies and Web Beacons**
 
-[Click here](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/privacy?c=au&l=en&s=gen&~section=001) for information on the use of cookies and web beacons.
 
- **Third-Party Websites and Services**
+For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/privacy?c=au&l=en&s=gen&~section=002) page 
 
-Be aware that other websites that can be accessed through our website may collect personally identifiable information about you. The information practices of those third-party websites linked to dell.com are not covered by this Privacy Statement. We generally use the symbol " " to mark links that go to third party sites.
+**Dell uses your personal information for specific purposes**
 
-Please be aware that, our business partners may collect personal information about you to provide services on behalf of Dell.
+The information you provide will be kept confidential and will only be stored, used and disclosed for the purposes for which it was collected or as otherwise permitted by Australian privacy law. It is collected and processed for the following general purposes or for other lawful business purposes:
 
- **Changes to Our Privacy Statement Regarding Customer and Online User Information**
+  * To process your purchase or provide requested services;
+  * To fulfil requests for products and services;
+  * To improve our products and services;
+  * To contact you;
+  * To avoid fraud and other prohibited or illegal activities;
+  * To protect the security or integrity of the website, our business, our products or services;
+  * To customise our communication with you and the marketing material we share with you; and
+  * To allow our business partners to present customised messages to you.
 
-Occasionally weupdate this Privacy Statement. If we make changes to this Privacy Statement in Relation to Customer Information and Online, or we make any material changes to the way Dell will use your personal information, we will review the Privacy Statement to reflect such changes and also the effective date of the declaration, included at the end of this section. We encourage you to periodically review this Statement to stay informed about how Dell is protecting your personal information.
 
- **Contacting Us**
 
-If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
+**Newsletters, Mailing lists, Requests for Information**
 
-Dell Singapore Pte Ltd
+We (or another Dell entity or an agent working on behalf of Dell) will send you information about our various products and services, or other products and services that may be of interest to you. Such information may encompass alerts to product upgrades, status of your saved cart, special offers, updated information and other new offerings from Dell. Only Dell (or agents working on behalf of Dell) will send you these direct communications. If you do not want to receive such communications, please notify us by:
 
-Attention: Privacy Steward
+ **including the following information and return the communication to the appropriate addresses (or fax number) supplied below:**   
+Contact Name  
+Company Name (if appropriate)  
+Full address details
 
-180 Clemenceau Avenue
+ **Email:** Please [click here](https://ecomm.apj.dell.com/GSC/ListRemoval/Index?c=au&l=en) to unsubscribe 
 
-#06-01 Haw Par Center
+Please allow up to 10 business days for your communication preferences to take effect. Because some communications, such as direct mail catalogues, are developed and queued for distribution well in advance, you may receive additional information after we receive your request.
 
-Singapore 239922 
+ **When Dell Will Share Your Personal Information**
 
-You may also email us at [privacy@dell.com](mailto:Privacy@Dell.com).
+Your information may be shared with other Dell entities, agents or contractors performing services for Dell, such as Dell's Service Providers, marketing sub-contractors and financial institutions. If so, Dell will seek to ensure that your information is only used in connection with the functions these parties will be performing for Dell and that all such information is treated in a confidential manner.
 
- **Privacy Statement Regarding Customer and Online User Information Effective Date: 10 August 2011**
+Dell will disclose your personal information to the extent required or authorised by applicable law, if ordered or required to do so by a court or enforcement authority as appropriate, or to ensure that we are in compliance with our legal obligations.
+
+Dell may transfer your personal information to other companies in the Dell group, such as Dell Inc. in the United States and third party service providers to the extent necessary to perform our functions or activities. Click [here](http://www.dell.com/content/public/choosecountry.aspx?c=au&l=en&s=gen) for a list of countries that Dell may disclose your personal information to. We will need, from time to time, to disclose your personal information to, and collect your personal information from, other countries not on this list. This will be on an ad hoc or case by case basis and for the purposes for which we collected your personal information. 
+
+**Your rights**
+
+To request access to, or correction of, your personal information, please contact us using the contact details in the 'Contact Dell' section below. Upon your request and within 30 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients. Upon written request and within a reasonable period of time we will also amend, correct, delete or cease to process personal information if that information proves to be factually inaccurate, incomplete, or irrelevant to the purpose(s) of the processing.
+
+ **Internet Commerce**
+
+The online store at [www.dell.com.au](http://www.dell.com.au/) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's [Store Security](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/privacy?c=au&l=en&s=gen&~section=002) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase. 
+
+**Customised Experience**
+
+We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using [www.dell.com.au](http://www.dell.com.au/) and to serve you customised messages about Dell products and services when you visit the Dell website and other websites. For more information about our use of cookies (including how to delete or refuse cookies), please [click here](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/privacy?c=au&l=en&s=gen&~section=001). 
+
+**Web Beacons**
+
+We, or third parties acting on our behalf, may use web beacons or related technology on our site, in our communications, on other sites, or in our communications in others' messages. A web beacon is an electronic image that can be used to recognise a cookie on your equipment when you view a web page or online communication. Web beacons help us measure the effectiveness of our site and our interactions with you in various ways, for example, by counting the number of individuals who visit our site from a particular communication or make a purchase from our site after viewing a particular message as well as by telling us when a web page is viewed and providing a description of the page where the web beacon is placed. Web beacons also help us measure the effectiveness of our communication campaigns, for example, by counting the number of individuals who open or act upon a message, determining when a message is accessed and determining how many times a message is transmitted onwards.
+
+The information we collect may include personal information, and web beacons allow us to recognise users by accessing Dell cookies. We may also combine the information that we collect through web beacons with other personal information we have collected from you. We use all of this information to better tailor our interactions with you and we may use this information for other purposes, such as to enable a shopping cart, customise content on our website and internal research purposes. We will not share any personal information collected through Dell web beacons with any third party, except for service providers who act on our behalf and who are contractually prohibited from any other use or disclosure of the information.
+
+We allow third parties to place their own web beacons on our site or in our advertisements if they share Dell's commitment to protecting your privacy and data. You can make some web beacons unusable by rejecting cookies.
+
+ **Third-Party Sites**
+
+Please be aware that other Web sites including sites that may be accessed through our site, e.g., via a hyperlink, may collect personal information about you. This privacy statement does not cover the information practices of those third-party sites linked to [www.dell.com.au](http://www.dell.com.au/) or any other site. We use the " " symbol to mark links to third-party sites. 
+
+**Additional Information**
+
+If you have asked to be contacted by one of Dell's partners, we will need to provide them with your contact details. This information will not be shared with any other party and will be forwarded to that partner for the sole purpose of allowing them to contact you. Personal data obtained from you is held and processed in accordance with all applicable laws and consistently with Dell's privacy statement
+
+ **Complaints**
+
+If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the relevant privacy regulator. We will deal with your complaint in accordance with our complaints handling process as described [here](https://web.archive.org/content/topics/topic.aspx/ap/policy/en/au/cust_support_charter?c=au&l=en&s=gen). 
+
+**Contact Dell**
+
+If you would like to contact us, or have questions regarding our privacy statement, please write to us at:
+
+Dell Australia Pty Limited  
+Attention: Privacy Steward  
+Unit 3, 14 Aquatic Drive  
+Frenchs Forest, NSW 2086
+
+Alternatively, you may e-mail us at [privacy@dell.com](mailto:privacy@dell.com)
+
+ **Privacy Statement Regarding Customer and Online User Information Effective Date:  
+12th March 2014 **
