@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125005106id_/http%3A//www.goldmansachs.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmansachs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626185914id_/http%3A//www.goldmansachs.com/privacy-and-security) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
-
-
-
-  * [Print](http://www.addthis.com/bookmark.php?v=250&pubid=ra-4d93058d042650cf "Print")
-  * 
-
 
 **Your Privacy Is Important to Goldman Sachs**
 
@@ -121,10 +115,13 @@ The following additional information will be of interest to you as a visitor to 
   * Goldman Sachs may make available on this Web site third party applications such as content linking or sharing facilities. Information collected by providers of such applications is governed by their privacy policies.
 
 
+  * Our Web sites are not currently configured to respond to “do not track” signals or similar mechanisms.
+
+
 
 **Other Privacy Policies or Statements; Changes to Policy**
 
-This policy provides a general statement of the ways in which Goldman Sachs protects your personal information. You may, however, in connection with specific products or services offered by Goldman Sachs, be provided with privacy policies or statements that supplement this policy. This policy may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information. The revised policy will be effective immediately upon posting to our Web site. This version of the Policy is effective July 1, 2010 .
+This policy provides a general statement of the ways in which Goldman Sachs protects your personal information. You may, however, in connection with specific products or services offered by Goldman Sachs, be provided with privacy policies or statements that supplement this policy. This policy may be changed from time to time to reflect changes in our practices concerning the collection and use of personal information. The revised policy will be effective immediately upon posting to our Web site. This version of the Policy is effective December 13, 2013.
 
 **Additional Information: The European Economic Area – Switzerland, Hong Kong, Japan, Australia and New Zealand**  
 _(This section applies only if your information is processed by Goldman Sachs in a Member State of the European Economic Area (EEA), Switzerland, Hong Kong, Japan, Australia or New Zealand)._
