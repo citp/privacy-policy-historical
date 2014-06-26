@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222111146id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendemocracy.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162525id_/http%3A//www.opendemocracy.net/about/about_od_privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Legal | openDemocracy
 
