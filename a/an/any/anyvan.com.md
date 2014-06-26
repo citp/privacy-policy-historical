@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218054332id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051023id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
 
-# Advice Centre | AnyVan – The Delivery Auction Site
+# Privacy Policy | AnyVan
 
 #### Overview
 
