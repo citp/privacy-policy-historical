@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddle8.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226055809id_/http%3A//paddle8.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddle8.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020016id_/http%3A//paddle8.com/about/privacy) for the most accurate reproduction.*
 
 # Paddle8: Privacy Policy
 
@@ -91,8 +91,8 @@ Paddle8 reserves the right to change or update this Privacy Policy, or any other
 If you have any questions or comments regarding our privacy practices, you may contact us at privacy@paddle8.com. You may also send mail to us with any comments, questions or concerns at:
 
 Paddle8, Inc.  
-132 Mulberry Street, Suite 503  
-New York, New York 10013  
+30 Cooper Square, 4th Floor  
+New York, New York 10003  
 Attn: Web Master 
 
 Last Modified: November 14, 2013
