@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evo.co.uk privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221233554id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evo.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626110147id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Dennis Publishing - Privacy Notice
 
 ## Privacy Notice
 
-Last Updated April 2013
+Last Updated January 2014
 
 We have published a new [cookie policy](https://web.archive.org/cookie-policy). It explains what cookies are and how we use them on our site. To learn more about cookies and their benefits, please view our [cookie policy](https://web.archive.org/cookie-policy). If you'd like to disable cookies on this device, please visit [www.aboutcookies.org](http://www.aboutcookies.org/) for more information on how to do this. Please be aware that parts of the site will not function correctly if you disable cookies. By using our websites you consent to our use of cookies on this device in accordance with our [cookie policy](https://web.archive.org/cookie-policy) unless you have disabled them.
 
@@ -18,7 +18,7 @@ Dennis Publishing (UK) Ltd publishes over fifty magazines, websites, e-zines and
 
 [www.dennis.co.uk/brands](http://www.dennis.co.uk/brands/). Below is a non-exhaustive list of our well-known brands.
 
-Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iGizmo, iMotor, InsidePoker, InsidePoker Business, IT Pro, Know Your Mobile, Mac Channel, MacUser, Maxim, Men's Fitness, Micro Mart, Mobile Computer, Monkey, Octane, PC Pro, PokerPlayer, The First Post, The Week and Viz.
+Auto Express, bit-tech, Bizarre, Channel Pro, Computer Shopper, Custom PC, Digital SLR Photography, EVO, Fortean Times, iMotor, IT Pro, Know Your Mobile, MacUser, Men's Fitness, Micro Mart, Monkey, Octane, PC Pro, The Week and Viz.
 
 Dennis Publishing (UK) Ltd includes subsidiary companies Dennis Publishing Ltd, Evo Publications Ltd, The Week Ltd, Dennis Lifestyle Ltd, It’s in the Bag Ltd, Three PM Ltd, Four PM Ltd, First Post Newsgroup Ltd, Halo Publishing Ltd, Bit Publishing Ltd, Octane Media Ltd and Octane (Media) Holdings Ltd. Choice Publishers Limited, The Magazine Group, Dennis Interactive Ltd, I Feel good (Holdings) limited and I Feel Good Limited.
 
@@ -38,8 +38,7 @@ Anonymous data will be recorded for the purpose of reporting web traffic statist
 
 Furthermore we work with our partners Audience Science, to carry out Online Behavioural Advertising on our websites. Online Behavioural Advertising aims to provide you with more carefully targeted advertising. If you wish to know more about Online Behavioural Advertising or you wish to opt out of Online Behavioural Advertising by Audience Science please go to  [ www.youronlinechoices.com/uk  ](http://www.youronlinechoices.com/uk) .
 
-Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.   
-
+Our iPad, Android and other ‘apps’ may use a service called Flurry Analytics to collect user data which we use to learn about our readers and improve the app. To find out more, visit <http://www.flurry.com/about-us/legal/privacy.html>. You can opt out at any time by visiting <http://www.flurry.com/resources/privacy.html>.
 
 **How we use your data**
 
