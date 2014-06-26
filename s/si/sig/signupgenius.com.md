@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029042511id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626131947id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Charlotte, NC 28277
 Co-Owners: Mike Vadini, Dan Rutledge  
 [Email Us](https://web.archive.org/help)
 
-##    
+##   
 Our Policy:
 
 **We do not knowingly add users to our website without permission.** A person can be added to our site when they sign up themselves or a friend invites them to a sign up form. If a friend adds your information to our site and you do not want to be a part of our service, just [contact us](https://web.archive.org/help) and our staff will delete you from our system.
@@ -138,7 +138,7 @@ We do not publicly promote or link the web addresses of the sign ups on our site
 
 **We take precautions, but cannot provide guarantees.** We do our best to secure your data through the programming of our application and by using industry-standard technology. However, we cannot completely guarantee that no part of our system will ever fail or be compromised. If you ever suspect that our site has contributed to your personal information being compromised, please [contact us](https://web.archive.org/help) immediately so that we can investigate and try to resolve the matter.
 
-##    
+##   
 Technical Details:
 
 **Cookies**  
@@ -153,3 +153,9 @@ For exact details on Google Adsense and their privacy policy, see the [Google Pr
 Beyond our own programming, some of our aggregrate statistics are provided using the Google Analytics tool. For exact details on the Google Analytics privacy policy, see the [Google Privacy Center](http://www.google.com/privacy.html).
 
 Last Updated: 07/27/2013
+
+THE GENIUS BLOG
+
+[](https://web.archive.org/blog)  
+[Summer Fun #PinToWin](https://web.archive.org/blog)  
+Could you use some extra cash this summer for, say, vacation spending money, a new summer wardrobe, summer party-planning funds, or a stash of never-ending popsicles? Even if you're not a sweet tooth, you gotta admit - $250 could buy a lot of sweet treats! Beat the heat and join the fun by entering the SignUpGenius Summer Fun #PinToWin Giveaway.... [[Read More]](https://web.archive.org/blog)
