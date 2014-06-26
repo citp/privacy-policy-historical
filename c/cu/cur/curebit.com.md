@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223094721id_/http%3A//www.curebit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curebit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124155id_/http%3A//curebit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Curebit
 
@@ -94,7 +94,7 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Curebit
 
-42 Decatur Street   
+290 Division St., Suite 405   
 San Francisco, CA 94103 
 
   
