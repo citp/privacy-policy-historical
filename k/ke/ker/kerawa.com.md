@@ -1,50 +1,54 @@
-> *The following text is extracted and transformed from the kerawa.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217095213id_/http%3A//www.kerawa.com/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerawa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074213id_/http%3A//kerawa.com/privacy-p38) for the most accurate reproduction.*
 
-# KerawaDocumentation: Privacy Policy
+# Privacy - Kerawa.com
 
-## Privacy Policy 
+**KERAWA.COM PRIVACY POLICY**
 
-This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Kerawa.com website work and to keep it safe (details below). This policy is effective 01/01/2008.
+**What information do we collect?**   
+We collect information from you when you register on our site or fill out a form.
 
-### Collection
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number.
 
-Information posted on Kerawa.com is obviously publicly available. Our servers are located in the United States, in Europe and in Africa. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States, in Europe and in Africa. We collect and store the following personal information:
+**What do we use your information for?**
 
-email address, physical contact information, and (depending on the service used) sometimes financial information;   
-computer sign-on data, statistics on page views, traffic to and from Kerawa.com and ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);   
-other information, including users IP address and standard web log information.
+Any of the information we collect from you may be used in one of the following ways:
 
-### Use
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions: Your information, whether public or private, **will not be sold** , exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
 
-We use users' personal information to: 
 
-improve our services   
-resolve disputes, collect fees, and troubleshoot problems;   
-encourage safe trading and enforce our policies;   
-customize users' experience,   
-measure interest in our services, and inform users about services and updates;   
-communicate marketing and promotional offers to you;   
-do other things for users as described when we collect the information.
 
-### Disclosure
+**How do we protect your information?**
 
-We don’t sell or rent users’ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with: 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to).   
-service providers who help with our business operations.
+**Do we disclose any information to outside parties?**
 
-### Using Information from Kerawa.com
+We **do not** sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-You may use personal information gathered from Kerawa only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn’t agreed to that.
+**Third party links**
 
-### Access, Modification, and Deletion
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-You can see, modify or erase your personal information by reviewing your post or account status page. Contact customer support (info@kerawa.com) to review any personal information we store that is not available on Kerawa.com. There may a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
+**Online Privacy Policy Only**
 
-### Security
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-We use lots of tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing’s perfect, so we make no guarantees.
+**You’re Consent**
 
-### General
+By using our site, you consent to our websites privacy policy.
 
-We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to info@kerawa.com
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+**Please help us keep Kerawa.com a safe and enjoyable site.**
+
+**If you see a listing that violates our rules, please[notify](http://kerawa.com/contact) us immediately.**
