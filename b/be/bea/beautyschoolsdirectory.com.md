@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228042754id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyschoolsdirectory.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093650id_/http%3A//www.beautyschoolsdirectory.com/terms) for the most accurate reproduction.*
 
 # Terms of Use / Privacy Statement | Beauty Schools Directory
 
@@ -24,9 +24,9 @@ Aggregate information is automatically provided by your computer and cannot be t
 • Internet Protocol (IP) address. An IP address is a number that is automatically assigned to your computer on the Internet.
 
  **How do we use the personal information that you provide to us?**  
-Broadly speaking, your personal information is used to match your interests with the beauty schools that provide the services you seek. We may store your information for the purpose of communicating with you about the programs and services offered by the schools listed on our site and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable.  If you provide us with full address information you may be added to one of our mailing lists from which you may opt out at any time at <http://www.beautyschoolsdirectory.com/subscription>
+Your personal information is used to match your interests with the beauty schools that provide the services you seek. We collect information you provide to us when you begin the process to request information from schools through BeautySchoolsDirectory.com, even if you do not click the "Submit," "Request Information" or "Apply" buttons, as well as when you do submit a form through our website. We may also store your information for the purpose of communicating with you about the programs and services offered by the schools listed on our site and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. 
 
- **Sharing information with third parties**
+**Sharing information with third parties**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
