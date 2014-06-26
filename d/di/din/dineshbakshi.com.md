@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430133139id_/http%3A//www.dineshbakshi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626071508id_/http%3A//dineshbakshi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you.
 
-## Introduction
+##  Introduction
 
 This policy covers the dineshbakshi.com's use of personal information that dineshbakshi.com collects when you use dineshbakshi.com. The policy also gives you information about cookies; dineshbakshi.com and third parties' use of cookies; and how you may reject such cookies.
 
 By entering your details in the fields requested, you enable the dineshbakshi.com and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. When using your personal information the dineshbakshi.com will act in accordance with current legislation and aim to meet current Internet best practice.
 
-## Visitor Information
+##  Visitor Information
 
 During the course of any visit to dineshbakshi.com, the pages you see, along with a short text file called a 'cookie' may be downloaded to your computer. Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
@@ -18,7 +18,7 @@ Information supplied by cookies can help us to provide you with a better online 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-## What is a cookie?
+##  What is a cookie?
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
@@ -28,7 +28,7 @@ Cookies record information about your online preferences. Users have the opportu
 
 If you have set your computer to reject cookies you can still browse dineshbakshi.com anonymously. For further information on cookies please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/).
 
-## Use and storage of your personal information
+##  Use and storage of your personal information
 
 When you supply any personal information to dineshbakshi.com (e.g. for competitions, dineshbakshi.com services or dineshbakshi.com membership) we have legal obligations towards you in the way we use those data. We must collect the information fairly, that is, we must explain how we will use it (see the notices on particular webpages that let you know why we are requesting the information) and tell you if we want to pass the information on to anyone else.
 
@@ -38,11 +38,11 @@ We will hold your personal information on our systems for as long as you use the
 
 If you are notified on the dineshbakshi.com site that your information may be used to allow the dineshbakshi.com to contact you for "service administration purposes", this means that the dineshbakshi.com may contact you for a number of purposes related to the service you have signed up for. For example, we may wish to provide you with password reminders or notify you that the particular service has been suspended for maintenance. We will not contact you for promotional purposes, such as notifying you of improvements to the service or new services on dineshbakshi.com unless you specifically agree to be contacted for such purposes at the time you submit your information on the site, or at a later time if you sign up specifically to receive such promotional information.
 
-## How to see your cookie code
+##  How to see your cookie code
 
 Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
-## List of www.dineshbakshi.com cookies
+##  List of www.dineshbakshi.com cookies
 
 This is a list of the main cookies that dineshbakshi.com sets, and what each is used for:
 
