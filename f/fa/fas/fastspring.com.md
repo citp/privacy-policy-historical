@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213012447id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastspring.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130020id_/http%3A//www.fastspring.com/privacy.php) for the most accurate reproduction.*
 
 # FastSpring Privacy Policy
 
@@ -38,4 +38,6 @@ If you wish to update your personally identifiable information please contact FA
 
 FASTSPRING reserves the right to change this privacy policy, and will post any revisions on its website located at www.FASTSPRING.com. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this web site will be subject to the then-current privacy policy.
 
-If you have questions or comments regarding FASTSPRING's privacy practices you can contact us at: Bright Market, LLC, d/b/a FASTSPRING, 8 East Figueroa Street, Suite 240, Santa Barbara, CA 93101 or [info@fastspring.com](mailto:info@fastspring.com?subject=Web%20Inquiry%20-%20Privacy). We will be sure to address your concerns.
+If you have questions or comments regarding FASTSPRING's privacy practices you can contact us at: Bright Market, LLC, d/b/a FASTSPRING, 8 East Figueroa Street, Santa Barbara, CA 93101 or [info@fastspring.com](mailto:info@fastspring.com?subject=Web%20Inquiry%20-%20Privacy). We will be sure to address your concerns.
+
+Thank you for visiting FastSpring.com
