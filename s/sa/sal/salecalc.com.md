@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salecalc.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127042246id_/http%3A//salecalc.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salecalc.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053737id_/http%3A//salecalc.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SaleCalc.com
+# Privacy Policy | SaleCalc.com Blog
 
 This privacy policy sets out how SaleCalc.com uses and protects any information that you give when you use this website.  SaleCalc.com is committed to ensuring that your privacy is protected.  Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  SaleCalc.com may change this policy from time to time by updating this page.  You should check this page from time to time to ensure that you are happy with any changes.  This policy is effective from 30th of July, 2012.
 
