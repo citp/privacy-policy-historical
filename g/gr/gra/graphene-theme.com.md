@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112190626id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025601id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Graphene Theme
+# Privacy Policy » Graphene Themes Solutions
+
+This Privacy Policy is issued to all our valued customers/prospective customers, pursuant to the requirements of the Personal Data Protection Act 2010.
+
+We treat and view your personal data seriously.
+
+In the course of your dealings with us, **Graphene Themes Solutions** , as our valued customer / prospective customer, we will request that you provide data and information about yourself (“Personal Data”) to enable us to enter into transaction with you or to deliver the necessary notices, services and/or products.
 
 ### What information do we collect?
 
@@ -46,21 +52,40 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+The Personal Data provided to us will generally be kept confidential but you hereby consent and authorize us to provide or disclose your Personal Data to the following categories:-
+
+  1. any person to whom we are compelled or required to do so under law;
+  2. any entity within our group;
+  3. Payment channels including without limitation financial institutions for purpose of assessing, verifying, effectuating and facilitating payment of any amount due to Graphene Themes Solutions in connection with your acquisition of our services and/or products;
+  4. our business partners and affiliates that provide related services or products in connection with our business, for joint promotions and/or contest;
+  5. statutory authorities, government agencies and industry regulators;
+  6. our consultants, accountants, auditors, lawyers or other financial or professional advisers;
+  7. our sub-contractors or third party service or product providers;
+  8. our service providers for purposes of establishing and maintaining a common database where we have a legitimate common interest;
+  9. the general public when you become a winner in a contest by publishing your name and other Personal Data without compensation for advertising and publicity purposes.
+
+
+
+### Rights of Access and Correction
+
+You have the right to request for access to and correction of your information held by us and in this respect, you may:
+
+  1. Check whether we hold or use your Personal Data and request access to such data;
+  2. Request that we correct any of your Personal Data that is inaccurate, incomplete or out-of-date;
+  3. Request that your Personal Data is retained by us only as long as necessary for the fulfilment of the purposes for which it was collected;
+  4. Request that we specify or explain our policies and procedures in relation to data and types of Personal Data handled by us;
+  5. Communicate to us your objection to the use of your Personal Data for marketing purposes whereupon we will not use your Personal Data for these purposes; and
+  6. Withdraw, in full or in part, your consent given previously, in each case subject to any applicable legal restrictions, contractual conditions and a reasonable time period.
+
+
+
+Written requests for access to the Personal Data or correction and/or deletion of the Personal Data or for information regarding policies and procedures and types of Personal Data handled by us can be submitted via our contact form: http://www.graphene-theme.com/contact-us/
+
+You may also unsubscribe to our marketing materials by clicking the unsubscribe link contained in the email we send to you and following the instructions therein.
 
 ### Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-### California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-### Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 ### Terms of Service
 
@@ -70,7 +95,7 @@ Please also visit our [Terms of Service](http://www.graphene-theme.com/terms-of-
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 21 February 2013.
+This policy was last modified on 4 March 2014.
 
 ### Contacting Us
 
@@ -79,3 +104,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.graphene-theme.com/contact-us/
 
 [admin@graphene-theme.com](mailto:admin@graphene-theme.com)
+
+### Consent
+
+Your usage of our website indicates your consent to the use of your Personal Data in accordance with this Privacy Policy.
