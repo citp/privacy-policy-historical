@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211004004id_/http%3A//www.rugby365.com/article/37704-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020030id_/http%3A//www.rugby365.com/article/37704-privacy-policy) for the most accurate reproduction.*
 
 # Rugby365 | Privacy Policy
 
@@ -27,7 +27,3 @@ Rugby365.com will not disclose your personal information unless acting under a g
 If at any time you believe that Rugby365.com has not adhered to these principles, please notify us by email at [rugby@sportsmedia365.com](mailto:rugby@sportsmedia365.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
 
 This privacy statement applies specifically to the Rugby365.com service. Questions regarding this statement should be directed to [rugby@sportsmedia365.com](mailto:rugby@sportsmedia365.com).
-
-Newsletter Subscription 
-
-Subscribe now to Rugby365 and you'll be able to receive our informative newsletters and access special promotions. 
