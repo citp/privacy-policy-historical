@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424033615id_/https%3A//onehub.com/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehub.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061335id_/https%3A//onehub.com/security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Security • Onehub
 
 ## Your privacy is critically important to us.
 
 ##### **Effective:** July 15, 2011
-
-  *   * [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.onehub.com/seal_m "Validate TRUSTe privacy certification")
-
-
 
 ### Principles
 
@@ -26,11 +22,9 @@ Below is our privacy policy which incorporates these goals.
 
 Onehub Inc. (“Onehub”) operates web-based services at onehub.com. It is Onehub’s policy to respect your privacy regarding any information we may collect while operating our websites. This privacy policy describes the choices available to you regarding our use of the personal information we collect and how you can access and update this information.
 
-Onehub Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us via phone at (877) 644-7774, via email at info@onehub.com or via mail at 105 S Main ST STE 240, Seattle, WA 98104. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
 Onehub Inc. complies with the U.S. ‐ E.U. & Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
 
-If you have questions or concerns regarding this Policy, you should first contact info@onehub.com. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet using [TRUSTe’s Feedback and Resolution System](http://www.truste.org/consumers/watchdog_complaint.php), by mail at WatchDog Complaints, TRUSTe, 55 Second Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420. If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see [TRUSTe’s Feedback and Resolution System](http://www.truste.org/consumers/watchdog_complaint.php) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If you have questions or concerns regarding this Policy, contact info@onehub.com.
 
 ### Website Visitors
 
