@@ -1,9 +1,18 @@
-<!--The following is the downloaded HTML source of the digitaledge.org privacy policy that was archived on 2013-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206171333id_/http%3A//www.naa.org/About-NAA/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaledge.org privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626041322id_/http%3A//www.naa.org/About-NAA/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><title>
 	Privacy Policy
 </title><meta id="metaKeywords" name="keywords" content="privacy policy"><meta id="metaDescription" name="description" content="Privacy policy for the Newspaper Association of America website NAA.org."><meta id="metaSectionName" name="SectionName" content="About-NAA"><meta id="metaResourceType" name="ResourceType"><meta id="metaContentDate" name="ContentDate" content="05/25/2011"><meta id="metaItemID" name="ItemID" content="{76CF2800-4A88-4F61-B7A3-F2EB31F990F3}">
+
+    <style type="text/css">
+        .content a.inlineTweet, .content a.inlineTweet:visited {
+            color:#333!important;
+        }
+        .content a.inlineTweet:hover {
+            color: #1177bb!important;
+        }
+    </style>
     <script type="text/javascript" src="/Scripts/NAACorp/jquery-1.5.2.js"></script>
     <script type="text/javascript" src="/Scripts/NAACorp/jquery.color.js"></script>
     <script type="text/javascript" src="/Scripts/NAACorp/html5.js"> </script>
@@ -13,7 +22,24 @@
     <script type="text/javascript" src="/Scripts/NAACorp/functions.js"></script>
     <script type="text/javascript" src="/Scripts/NAACorp/ContentSlider.js"></script>
     <script type="text/javascript" src="/Scripts/NAACorp/twitterFetcher_v9_min.js"></script>
+    <script type="text/javascript" src="/Scripts/NaaCorp/PIE.js"></script>
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
     <script type="text/javascript">
+        function parseTwitterMessages() {
+            $R('tweet').each(function () {
+                var message = $R(this).text();
+                var querystringUrl = "";
+                var querystringVia = "";
+                if ($R(this).hasClass('includeLink'))
+                    querystringUrl = "&url=" + window.location.href;
+                if ($R(this).hasClass('includeVia'))
+                    querystringVia = "&via=NAAUpdates";
+                //$R(this).append('<img src="https://g.twimg.com/twitter-bird-16x16.png" width="12" height="12" />').wrap('<a class="inlineTweet" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent('"' + message + '"') + querystringUrl + querystringVia + '"></a>');
+                $R(this).wrap('<a class="inlineTweet" href="https://twitter.com/intent/tweet?text=' + encodeURIComponent('"' + message + '"') + querystringUrl + querystringVia + '"></a>');
+            });
+
+        }
+
         function twitterChange() {
 
             
@@ -21,10 +47,23 @@
         };
         $R(document).ready(function() {
             twitterChange();
+            parseTwitterMessages();
             $R('body').mouseover(twitterChange());
             $R('body').click(twitterChange());
         });
         
+    </script>
+
+    <script type="text/javascript">
+        $R(".global-arrow").parent().parent("a").not("a.header-head-signin").not(".header-head-secnav ul li a").css
+			({
+			    'font-family': "'Open Sans Condensed', sans-serif",
+			    'font-size': '13px',
+			    'text-transform': 'uppercase',
+			    'color': '#013253',
+			    'font-weight': 'bold'
+			});
+
     </script>
 
     <link href="/Css/NaaCorp/Print.css" rel="stylesheet" type="text/css" media="print">
@@ -40,14 +79,14 @@
 <body id="body" onload="trapEnter_FF();twitterChange();" onkeypress="return trapEnter_IE();" class="maroon">
     <form name="form1" method="post" action="/About-NAA/Privacy-Policy.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTc0MTQ0MDAPZBYEAgEPZBYOZg8WAh4EVGV4dAVOPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBfc2Zfc3RhcnRwdD0obmV3IERhdGUoKSkuZ2V0VGltZSgpPC9zY3JpcHQ+ZAICDxYCHgdjb250ZW50BQ5wcml2YWN5IHBvbGljeWQCAw8WAh8BBUhQcml2YWN5IHBvbGljeSBmb3IgdGhlIE5ld3NwYXBlciBBc3NvY2lhdGlvbiBvZiBBbWVyaWNhIHdlYnNpdGUgTkFBLm9yZy5kAgQPFgIfAQUJQWJvdXQtTkFBZAIGDxYCHwEFCjA1LzI1LzIwMTFkAgcPFgIfAQUmezc2Q0YyODAwLTRBODgtNEY2MS1CN0EzLUYyRUIzMUY5OTBGM31kAg4PFgIfAQVQaHR0cDovL3d3dy5uYWEub3JnL34vbWVkaWEvTkFBQ29ycC9JbWFnZXMvTG9nb3MvU29jaWFsLVNoYXJpbmctSWNvbl9EZWZhdWx0LmFzaHhkAgMPFgYeBm9ubG9hZAUfdHJhcEVudGVyX0ZGKCk7dHdpdHRlckNoYW5nZSgpOx4Kb25rZXlwcmVzcwUWcmV0dXJuIHRyYXBFbnRlcl9JRSgpOx4FY2xhc3MFBm1hcm9vbhYGAgEQZGQWCAIFDxYCHgdWaXNpYmxlZ2QCBw9kFgJmDw8WBh4SX19TZWFyY2hSZXN1bHRzVXJsBQwvU2VhcmNoLmFzcHgeFV9fRXh0cmFuZXRIb21lUGFnZVVybAULL015TkFBLmFzcHgeHl9fTWVtYmVyc2hpcEluZm9ybWF0aW9uUGFnZVVybAUaL0Fib3V0LU5BQS9NZW1iZXJzaGlwLmFzcHhkFgQCAg8WAh4EaHJlZgULL015TkFBLmFzcHgWAgIBDxYCHwVoZAIDD2QWBAIBD2QWBgIIDxYCHwkFTWh0dHA6Ly9uZXRmb3J1bS5uYWEub3JnL2VXZWIvRHluYW1pY1BhZ2UuYXNweD9XZWJDb2RlPWZvcmdvdHBhc3N3b3JkJlNpdGU9TkFBZAIKDxYCHwkFRWh0dHA6Ly9uZXRmb3J1bS5uYWEub3JnL2VXZWIvRHluYW1pY1BhZ2UuYXNweD9XZWJDb2RlPXZlcmlmeSZTaXRlPU5BQWQCDA8WAh8JBRovQWJvdXQtTkFBL01lbWJlcnNoaXAuYXNweGQCAw9kFgICAw8WAh8JBQsvTXlOQUEuYXNweGQCCQ9kFgJmD2QWAmYPFgIfBWhkAgsPZBYCZg9kFgJmD2QWCAIBD2QWAmYPZBYCZg9kFgICAQ8WAh8ABU88YSBocmVmPSIvIj5Ib21lPC9hPiA+IDxhIGhyZWY9Ii9BYm91dC1OQUEuYXNweCI+QWJvdXQgTkFBPC9hPiA+IFByaXZhY3kgUG9saWN5ZAIDDw8WAh8FaGRkAgUPFgIfBWhkAgcPFgIeBXN0eWxlBQx3aWR0aDo5MjJweDtkAgMPFgIfAAWlFTxzY3JpcHQgc3JjPSJodHRwOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pg0KIA0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiANCmlmIChkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSkgew0KICAgICAgICAvLyBJbml0aWFsaXplIGV4dGVybmFsIGxpbmsgaGFuZGxlcnMNCiAgICAgICAgdmFyIGhyZWZzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImEiKTsNCiAgICAgICAgZm9yICh2YXIgbCA9IDA7IGwgPCBocmVmcy5sZW5ndGg7IGwrKykgew0KCQkJCS8vIHRyeSB7fSBjYXRjaHt9IGJsb2NrIGFkZGVkIGJ5IGVyaWt2b2xkIFZLSQ0KCQkJdHJ5ew0KCSAgICAgICAgICAgICAgICAvL3Byb3RvY29sLCBob3N0LCBob3N0bmFtZSwgcG9ydCwgcGF0aG5hbWUsIHNlYXJjaCwgaGFzaA0KCSAgICAgICAgICAgICAgICBpZiAoaHJlZnNbbF0ucHJvdG9jb2wgPT0gIm1haWx0bzoiKSB7DQoJICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRMaXN0ZW5pbmcoaHJlZnNbbF0sImNsaWNrIix0cmFja01haWx0byk7DQoJICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaHJlZnNbbF0uaG9zdG5hbWUgPT0gbG9jYXRpb24uaG9zdCkgew0KCSAgICAgICAgICAgICAgICAgICAgICAgIHZhciBwYXRoID0gaHJlZnNbbF0ucGF0aG5hbWUgKyBocmVmc1tsXS5zZWFyY2g7DQoJCQkJCQkJdmFyIGlzRG9jID0gcGF0aC5tYXRjaCgvXC4oPzpkb2N8ZXBzfGpwZ3xwbmd8c3ZnfHhsc3xwcHR8cGRmfHhsc3x6aXB8dHh0fHZzZHx2eGR8anN8Y3NzfHJhcnxleGV8d21hfG1vdnxhdml8d212fG1wM3xhc2h4KSgkfFwmfFw/KS8pOwkJCQkJCQkNCgkgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNEb2MpIHsJICAgICAgICAgICAgICAgICAgICAgICAgDQoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydExpc3RlbmluZyhocmVmc1tsXSwiY2xpY2siLHRyYWNrRXh0ZXJuYWxMaW5rcyk7DQoJICAgICAgICAgICAgICAgICAgICAgICAgfQ0KCSAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCFocmVmc1tsXS5ocmVmLm1hdGNoKC9eamF2YXNjcmlwdDovKSkgew0KCSAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0TGlzdGVuaW5nKGhyZWZzW2xdLCJjbGljayIsdHJhY2tFeHRlcm5hbExpbmtzKTsNCgkgICAgICAgICAgICAgICAgfQ0KCQkJfQ0KCQkJY2F0Y2goZSl7DQoJCQkJCWNvbnRpbnVlOw0KCQkJfQ0KICAgICAgICB9DQp9DQogDQpmdW5jdGlvbiBzdGFydExpc3RlbmluZyAob2JqLGV2bnQsZnVuYykgew0KICAgICAgICBpZiAob2JqLmFkZEV2ZW50TGlzdGVuZXIpIHsNCiAgICAgICAgICAgICAgICBvYmouYWRkRXZlbnRMaXN0ZW5lcihldm50LGZ1bmMsZmFsc2UpOw0KICAgICAgICB9IGVsc2UgaWYgKG9iai5hdHRhY2hFdmVudCkgew0KICAgICAgICAgICAgICAgIG9iai5hdHRhY2hFdmVudCgib24iICsgZXZudCxmdW5jKTsNCiAgICAgICAgfQ0KfQ0KIA0KZnVuY3Rpb24gdHJhY2tNYWlsdG8gKGV2bnQpIHsNCiAgICAgICAgdmFyIGhyZWYgPSAoZXZudC5zcmNFbGVtZW50KSA/IGV2bnQuc3JjRWxlbWVudC5ocmVmIDogdGhpcy5ocmVmOw0KICAgICAgICB2YXIgbWFpbHRvID0gIi9tYWlsdG8vIiArIGhyZWYuc3Vic3RyaW5nKDcpOw0KICAgICAgICBpZiAodHlwZW9mKHBhZ2VUcmFja2VyKSA9PSAib2JqZWN0IikgcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcobWFpbHRvKTsNCn0NCiANCmZ1bmN0aW9uIHRyYWNrRXh0ZXJuYWxMaW5rcyAoZXZudCkgew0KICAgICAgICB2YXIgZSA9IChldm50LnNyY0VsZW1lbnQpID8gZXZudC5zcmNFbGVtZW50IDogdGhpczsNCiAgICAgICAgd2hpbGUgKGUudGFnTmFtZSAhPSAiQSIpIHsNCiAgICAgICAgICAgICAgICBlID0gZS5wYXJlbnROb2RlOw0KICAgICAgICB9DQogICAgICAgIHZhciBsbmsgPSAoZS5wYXRobmFtZS5jaGFyQXQoMCkgPT0gIi8iKSA/IGUucGF0aG5hbWUgOiAiLyIgKyBlLnBhdGhuYW1lOw0KICAgICAgICBpZiAoZS5zZWFyY2ggJiYgZS5wYXRobmFtZS5pbmRleE9mKGUuc2VhcmNoKSA9PSAtMSkgbG5rICs9IGUuc2VhcmNoOw0KICAgICAgICBpZiAoZS5ob3N0bmFtZSAhPSBsb2NhdGlvbi5ob3N0KSBsbmsgPSAiRXh0ZXJuYWw6ICIgKyBlLmhvc3RuYW1lICsgbG5rOw0KICAgICAgICB2YXIgaXNEb2MgPSBsbmsubWF0Y2goL1wuKD86ZG9jfGVwc3xqcGd8cG5nfHN2Z3x4bHN8cHB0fHBkZnx4bHN8emlwfHR4dHx2c2R8dnhkfGpzfGNzc3xyYXJ8ZXhlfHdtYXxtb3Z8YXZpfHdtdnxtcDN8YXNoeCkoJHxcJnxcPykvKTsgICAgICAgDQoJICAgIGlmIChpc0RvYykgICBsbmsgPSAiRG93bmxvYWQ6ICIgKyBsbms7DQoJDQogICAgICAgIGlmICh0eXBlb2YocGFnZVRyYWNrZXIpID09ICJvYmplY3QiKSBwYWdlVHJhY2tlci5fdHJhY2tQYWdldmlldyhsbmspOyANCiAgICAgICAgDQogICAgICAgLy8gcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcobG5rKTsgDQogICAgICAgIA0KfQ0KIA0KdmFyIHBhZ2VUcmFja2VyOw0Kc2V0VGltZW91dCgnc3RhcnRHQSgpOycsIDUwMCk7DQpmdW5jdGlvbiBzdGFydEdBKCkNCnsNCnBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtOTkyOTIwMy0xIik7DQpwYWdlVHJhY2tlci5faW5pdERhdGEoKTsNCnBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCk7DQp9DQo8L3NjcmlwdD5kAgUPFgIfAAWaBzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4NCiAgICB2YXIgX3NmX2FzeW5jX2NvbmZpZz17fTsNCiAgICAvKiogQ09ORklHVVJBVElPTiBTVEFSVCAqKi8NCiAgICBfc2ZfYXN5bmNfY29uZmlnLnVpZCA9IDQ5NDgyOw0KICAgIF9zZl9hc3luY19jb25maWcuZG9tYWluID0gJ25hYS5vcmcnOw0KICAgIF9zZl9hc3luY19jb25maWcudXNlQ2Fub25pY2FsID0gdHJ1ZTsNCiAgICBfc2ZfYXN5bmNfY29uZmlnLnNlY3Rpb25zID0gJyc7ICAvL0NIQU5HRSBUSElTDQogICAgX3NmX2FzeW5jX2NvbmZpZy5hdXRob3JzID0gJyc7ICAgIC8vQ0hBTkdFIFRISVMNCiAgICAvKiogQ09ORklHVVJBVElPTiBFTkQgKiovDQogICAgKGZ1bmN0aW9uKCl7DQogICAgICBmdW5jdGlvbiBsb2FkQ2hhcnRiZWF0KCkgew0KICAgICAgICB3aW5kb3cuX3NmX2VuZHB0PShuZXcgRGF0ZSgpKS5nZXRUaW1lKCk7DQogICAgICAgIHZhciBlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7DQogICAgICAgIGUuc2V0QXR0cmlidXRlKCdsYW5ndWFnZScsICdqYXZhc2NyaXB0Jyk7DQogICAgICAgIGUuc2V0QXR0cmlidXRlKCd0eXBlJywgJ3RleHQvamF2YXNjcmlwdCcpOw0KICAgICAgICBlLnNldEF0dHJpYnV0ZSgnc3JjJywgJy8vc3RhdGljLmNoYXJ0YmVhdC5jb20vanMvY2hhcnRiZWF0LmpzJyk7DQogICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoZSk7DQogICAgICB9DQogICAgICB2YXIgb2xkb25sb2FkID0gd2luZG93Lm9ubG9hZDsNCiAgICAgIHdpbmRvdy5vbmxvYWQgPSAodHlwZW9mIHdpbmRvdy5vbmxvYWQgIT0gJ2Z1bmN0aW9uJykgPw0KICAgICAgICAgbG9hZENoYXJ0YmVhdCA6IGZ1bmN0aW9uKCkgeyBvbGRvbmxvYWQoKTsgbG9hZENoYXJ0YmVhdCgpOyB9Ow0KICAgIH0pKCk7DQo8L3NjcmlwdD5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRNjdGwwMyRjaGtSZW1lbWJlck1l6385lwA2Dc/Q/Uk8S9nvKWTvlCs=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTc0MTQ0MDAPZBYEAgEPZBYOZg8WAh4EVGV4dAVOPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBfc2Zfc3RhcnRwdD0obmV3IERhdGUoKSkuZ2V0VGltZSgpPC9zY3JpcHQ+ZAICDxYCHgdjb250ZW50BQ5wcml2YWN5IHBvbGljeWQCAw8WAh8BBUhQcml2YWN5IHBvbGljeSBmb3IgdGhlIE5ld3NwYXBlciBBc3NvY2lhdGlvbiBvZiBBbWVyaWNhIHdlYnNpdGUgTkFBLm9yZy5kAgQPFgIfAQUJQWJvdXQtTkFBZAIGDxYCHwEFCjA1LzI1LzIwMTFkAgcPFgIfAQUmezc2Q0YyODAwLTRBODgtNEY2MS1CN0EzLUYyRUIzMUY5OTBGM31kAg4PFgIfAQVQaHR0cDovL3d3dy5uYWEub3JnL34vbWVkaWEvTkFBQ29ycC9JbWFnZXMvTG9nb3MvU29jaWFsLVNoYXJpbmctSWNvbl9EZWZhdWx0LmFzaHhkAgMPFgYeBm9ubG9hZAUfdHJhcEVudGVyX0ZGKCk7dHdpdHRlckNoYW5nZSgpOx4Kb25rZXlwcmVzcwUWcmV0dXJuIHRyYXBFbnRlcl9JRSgpOx4FY2xhc3MFBm1hcm9vbhYGAgEQZGQWCAIFDxYCHgdWaXNpYmxlZ2QCBw9kFgJmDw8WBh4SX19TZWFyY2hSZXN1bHRzVXJsBQwvU2VhcmNoLmFzcHgeFV9fRXh0cmFuZXRIb21lUGFnZVVybAULL015TkFBLmFzcHgeHl9fTWVtYmVyc2hpcEluZm9ybWF0aW9uUGFnZVVybAUaL0Fib3V0LU5BQS9NZW1iZXJzaGlwLmFzcHhkFgQCAg8WAh4EaHJlZgULL015TkFBLmFzcHgWAgIBDxYCHwVoZAIDD2QWBAIBD2QWBgIIDxYCHwkFTWh0dHA6Ly9uZXRmb3J1bS5uYWEub3JnL2VXZWIvRHluYW1pY1BhZ2UuYXNweD9XZWJDb2RlPWZvcmdvdHBhc3N3b3JkJlNpdGU9TkFBZAIKDxYCHwkFRWh0dHA6Ly9uZXRmb3J1bS5uYWEub3JnL2VXZWIvRHluYW1pY1BhZ2UuYXNweD9XZWJDb2RlPXZlcmlmeSZTaXRlPU5BQWQCDA8WAh8JBRovQWJvdXQtTkFBL01lbWJlcnNoaXAuYXNweGQCAw9kFgICAw8WAh8JBQsvTXlOQUEuYXNweGQCCQ9kFgJmD2QWAmYPFgIfBWhkAgsPZBYCZg9kFgJmD2QWCAIBD2QWAmYPZBYCZg9kFgICAQ8WAh8ABU88YSBocmVmPSIvIj5Ib21lPC9hPiA+IDxhIGhyZWY9Ii9BYm91dC1OQUEuYXNweCI+QWJvdXQgTkFBPC9hPiA+IFByaXZhY3kgUG9saWN5ZAIDDw8WAh8FaGRkAgUPFgIfBWhkAgcPFgIeBXN0eWxlBQx3aWR0aDo5NTJweDtkAgMPFgIfAAWlFTxzY3JpcHQgc3JjPSJodHRwOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pg0KIA0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiANCmlmIChkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSkgew0KICAgICAgICAvLyBJbml0aWFsaXplIGV4dGVybmFsIGxpbmsgaGFuZGxlcnMNCiAgICAgICAgdmFyIGhyZWZzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImEiKTsNCiAgICAgICAgZm9yICh2YXIgbCA9IDA7IGwgPCBocmVmcy5sZW5ndGg7IGwrKykgew0KCQkJCS8vIHRyeSB7fSBjYXRjaHt9IGJsb2NrIGFkZGVkIGJ5IGVyaWt2b2xkIFZLSQ0KCQkJdHJ5ew0KCSAgICAgICAgICAgICAgICAvL3Byb3RvY29sLCBob3N0LCBob3N0bmFtZSwgcG9ydCwgcGF0aG5hbWUsIHNlYXJjaCwgaGFzaA0KCSAgICAgICAgICAgICAgICBpZiAoaHJlZnNbbF0ucHJvdG9jb2wgPT0gIm1haWx0bzoiKSB7DQoJICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRMaXN0ZW5pbmcoaHJlZnNbbF0sImNsaWNrIix0cmFja01haWx0byk7DQoJICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaHJlZnNbbF0uaG9zdG5hbWUgPT0gbG9jYXRpb24uaG9zdCkgew0KCSAgICAgICAgICAgICAgICAgICAgICAgIHZhciBwYXRoID0gaHJlZnNbbF0ucGF0aG5hbWUgKyBocmVmc1tsXS5zZWFyY2g7DQoJCQkJCQkJdmFyIGlzRG9jID0gcGF0aC5tYXRjaCgvXC4oPzpkb2N8ZXBzfGpwZ3xwbmd8c3ZnfHhsc3xwcHR8cGRmfHhsc3x6aXB8dHh0fHZzZHx2eGR8anN8Y3NzfHJhcnxleGV8d21hfG1vdnxhdml8d212fG1wM3xhc2h4KSgkfFwmfFw/KS8pOwkJCQkJCQkNCgkgICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNEb2MpIHsJICAgICAgICAgICAgICAgICAgICAgICAgDQoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydExpc3RlbmluZyhocmVmc1tsXSwiY2xpY2siLHRyYWNrRXh0ZXJuYWxMaW5rcyk7DQoJICAgICAgICAgICAgICAgICAgICAgICAgfQ0KCSAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCFocmVmc1tsXS5ocmVmLm1hdGNoKC9eamF2YXNjcmlwdDovKSkgew0KCSAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0TGlzdGVuaW5nKGhyZWZzW2xdLCJjbGljayIsdHJhY2tFeHRlcm5hbExpbmtzKTsNCgkgICAgICAgICAgICAgICAgfQ0KCQkJfQ0KCQkJY2F0Y2goZSl7DQoJCQkJCWNvbnRpbnVlOw0KCQkJfQ0KICAgICAgICB9DQp9DQogDQpmdW5jdGlvbiBzdGFydExpc3RlbmluZyAob2JqLGV2bnQsZnVuYykgew0KICAgICAgICBpZiAob2JqLmFkZEV2ZW50TGlzdGVuZXIpIHsNCiAgICAgICAgICAgICAgICBvYmouYWRkRXZlbnRMaXN0ZW5lcihldm50LGZ1bmMsZmFsc2UpOw0KICAgICAgICB9IGVsc2UgaWYgKG9iai5hdHRhY2hFdmVudCkgew0KICAgICAgICAgICAgICAgIG9iai5hdHRhY2hFdmVudCgib24iICsgZXZudCxmdW5jKTsNCiAgICAgICAgfQ0KfQ0KIA0KZnVuY3Rpb24gdHJhY2tNYWlsdG8gKGV2bnQpIHsNCiAgICAgICAgdmFyIGhyZWYgPSAoZXZudC5zcmNFbGVtZW50KSA/IGV2bnQuc3JjRWxlbWVudC5ocmVmIDogdGhpcy5ocmVmOw0KICAgICAgICB2YXIgbWFpbHRvID0gIi9tYWlsdG8vIiArIGhyZWYuc3Vic3RyaW5nKDcpOw0KICAgICAgICBpZiAodHlwZW9mKHBhZ2VUcmFja2VyKSA9PSAib2JqZWN0IikgcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcobWFpbHRvKTsNCn0NCiANCmZ1bmN0aW9uIHRyYWNrRXh0ZXJuYWxMaW5rcyAoZXZudCkgew0KICAgICAgICB2YXIgZSA9IChldm50LnNyY0VsZW1lbnQpID8gZXZudC5zcmNFbGVtZW50IDogdGhpczsNCiAgICAgICAgd2hpbGUgKGUudGFnTmFtZSAhPSAiQSIpIHsNCiAgICAgICAgICAgICAgICBlID0gZS5wYXJlbnROb2RlOw0KICAgICAgICB9DQogICAgICAgIHZhciBsbmsgPSAoZS5wYXRobmFtZS5jaGFyQXQoMCkgPT0gIi8iKSA/IGUucGF0aG5hbWUgOiAiLyIgKyBlLnBhdGhuYW1lOw0KICAgICAgICBpZiAoZS5zZWFyY2ggJiYgZS5wYXRobmFtZS5pbmRleE9mKGUuc2VhcmNoKSA9PSAtMSkgbG5rICs9IGUuc2VhcmNoOw0KICAgICAgICBpZiAoZS5ob3N0bmFtZSAhPSBsb2NhdGlvbi5ob3N0KSBsbmsgPSAiRXh0ZXJuYWw6ICIgKyBlLmhvc3RuYW1lICsgbG5rOw0KICAgICAgICB2YXIgaXNEb2MgPSBsbmsubWF0Y2goL1wuKD86ZG9jfGVwc3xqcGd8cG5nfHN2Z3x4bHN8cHB0fHBkZnx4bHN8emlwfHR4dHx2c2R8dnhkfGpzfGNzc3xyYXJ8ZXhlfHdtYXxtb3Z8YXZpfHdtdnxtcDN8YXNoeCkoJHxcJnxcPykvKTsgICAgICAgDQoJICAgIGlmIChpc0RvYykgICBsbmsgPSAiRG93bmxvYWQ6ICIgKyBsbms7DQoJDQogICAgICAgIGlmICh0eXBlb2YocGFnZVRyYWNrZXIpID09ICJvYmplY3QiKSBwYWdlVHJhY2tlci5fdHJhY2tQYWdldmlldyhsbmspOyANCiAgICAgICAgDQogICAgICAgLy8gcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcobG5rKTsgDQogICAgICAgIA0KfQ0KIA0KdmFyIHBhZ2VUcmFja2VyOw0Kc2V0VGltZW91dCgnc3RhcnRHQSgpOycsIDUwMCk7DQpmdW5jdGlvbiBzdGFydEdBKCkNCnsNCnBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtOTkyOTIwMy0xIik7DQpwYWdlVHJhY2tlci5faW5pdERhdGEoKTsNCnBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCk7DQp9DQo8L3NjcmlwdD5kAgUPFgIfAAWaBzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz4NCiAgICB2YXIgX3NmX2FzeW5jX2NvbmZpZz17fTsNCiAgICAvKiogQ09ORklHVVJBVElPTiBTVEFSVCAqKi8NCiAgICBfc2ZfYXN5bmNfY29uZmlnLnVpZCA9IDQ5NDgyOw0KICAgIF9zZl9hc3luY19jb25maWcuZG9tYWluID0gJ25hYS5vcmcnOw0KICAgIF9zZl9hc3luY19jb25maWcudXNlQ2Fub25pY2FsID0gdHJ1ZTsNCiAgICBfc2ZfYXN5bmNfY29uZmlnLnNlY3Rpb25zID0gJyc7ICAvL0NIQU5HRSBUSElTDQogICAgX3NmX2FzeW5jX2NvbmZpZy5hdXRob3JzID0gJyc7ICAgIC8vQ0hBTkdFIFRISVMNCiAgICAvKiogQ09ORklHVVJBVElPTiBFTkQgKiovDQogICAgKGZ1bmN0aW9uKCl7DQogICAgICBmdW5jdGlvbiBsb2FkQ2hhcnRiZWF0KCkgew0KICAgICAgICB3aW5kb3cuX3NmX2VuZHB0PShuZXcgRGF0ZSgpKS5nZXRUaW1lKCk7DQogICAgICAgIHZhciBlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7DQogICAgICAgIGUuc2V0QXR0cmlidXRlKCdsYW5ndWFnZScsICdqYXZhc2NyaXB0Jyk7DQogICAgICAgIGUuc2V0QXR0cmlidXRlKCd0eXBlJywgJ3RleHQvamF2YXNjcmlwdCcpOw0KICAgICAgICBlLnNldEF0dHJpYnV0ZSgnc3JjJywgJy8vc3RhdGljLmNoYXJ0YmVhdC5jb20vanMvY2hhcnRiZWF0LmpzJyk7DQogICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoZSk7DQogICAgICB9DQogICAgICB2YXIgb2xkb25sb2FkID0gd2luZG93Lm9ubG9hZDsNCiAgICAgIHdpbmRvdy5vbmxvYWQgPSAodHlwZW9mIHdpbmRvdy5vbmxvYWQgIT0gJ2Z1bmN0aW9uJykgPw0KICAgICAgICAgbG9hZENoYXJ0YmVhdCA6IGZ1bmN0aW9uKCkgeyBvbGRvbmxvYWQoKTsgbG9hZENoYXJ0YmVhdCgpOyB9Ow0KICAgIH0pKCk7DQo8L3NjcmlwdD5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRNjdGwwMyRjaGtSZW1lbWJlck1lEHzZN4BbX5jliK5Ha/XknAJ+GsA=">
 </div>
 
 
-<script src="/ScriptResource.axd?d=NpZeN998HCHgA6iRl6sKB4mHs0emDXKNeIkk95m1ejxqNeNqHc4FWQV-HvOVWdNLeXZXbAmNTDfG4pDE4b7dniI1rSm-jWKkJx6201Vg_Dg6J73gXpV_gK5aO1E11qAj1Vv2hmfcJKSPnf1jpgtdT1LM0a01&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NpZeN998HCHgA6iRl6sKB4mHs0emDXKNeIkk95m1ejxqNeNqHc4FWQV-HvOVWdNLeXZXbAmNTDfG4pDE4b7dniI1rSm-jWKkJx6201Vg_Dg6J73gXpV_gK5aO1E11qAj1Vv2hmfcJKSPnf1jpgtdT1LM0a01&amp;t=2e2045e2" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKduvSlCgKMoPWTDALasM21BQL6qbHFDwL+4r6uD1Kc0h+IXx2yELTCjKydGVZgKkGf">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL0+sLwDQKMoPWTDALasM21BQL6qbHFDwL+4r6uD+JKG1ZiN4dZkOMBG5YTGvAge1sZ">
 </div>
     
 
@@ -71,15 +110,29 @@
 	<div class="header-head">
     
     	<header>
-            
+            <!--Added for Sitewide Style Update-->
+            <script>
+            $R(".global-arrow").parent("a").not("a.header-head-signin").not(".header-head-secnav ul li a").css
+			({ 
+			 'font-family': "'Open Sans Condensed', sans-serif",
+			 'font-size': '13px',
+			 'text-transform': 'uppercase',
+			 'color': '#013253',
+			 'font-weight': 'bold' 
+			 });
+            </script>
+            <!--/Style Update-->
             <!-- MAIN LOGO -->
-            <div class="header-head-logo"><a href="/"><img src="/~/media/NAACorp/Images/Logos/NAA-logo.ashx" alt="Newspaper Association of America" width="337" height="54"></a></div>
+            <div class="header-head-logo"><a href="/"><img src="/~/media/NAACorp/Images/Logos/logo-main.ashx" alt="Newspaper Association of America" width="337" height="77"></a></div>
             <!-- /MAIN LOGO -->
             
             <!-- SECONDARY NAV -->
-            <div class="header-head-secnav"><ul><li class="white"><a href="http://www.AmericanPressInstitute.org" target="_blank"><span class="global-arrow"><cufon class="cufon cufon-canvas" alt="3" style="width: 11px; height: 10.4717px;"><canvas width="12" height="11" style="width: 12px; height: 11px; top: 0px; left: 0px;"></canvas><cufontext>3</cufontext></cufon></span>American Press Institute</a></li><li><a href="/About-NAA/Events.aspx">Events</a></li><li>
-                &nbsp;|&nbsp;
-              <a href="/About-NAA/Contact-Us.aspx">Contact Us</a></li></ul></div>
+            <div class="header-head-secnav"><ul><li><a href="https://www.facebook.com/NewspaperAssociationOfAmerica" target="_blank"><img height="22" width="22" alt="Facebook" src="/~/media/NAACorp/Images/Icons/facebook-header.ashx"></a></li>
+<li><a href="https://twitter.com/NAAupdates" target="_blank"><img alt="" height="22" width="22" src="/~/media/NAACorp/Images/Icons/twitter-header.ashx"></a></li>
+<li><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2547388" target="_blank"><img height="22" width="22" src="/~/media/NAACorp/Images/Icons/linkedin-header.ashx" alt="LinkedIn"></a></li>
+<li><a href="https://plus.google.com/107109731846651703829/posts" target="_blank"><img height="22" width="22" src="/~/media/NAACorp/Images/Icons/googleplus-header.ashx" alt="Circle us on Google+"></a></li>
+<li><a href="http://www.youtube.com/user/NewspaperAssnAmerica" target="_blank"><img height="22" width="22" src="/~/media/NAACorp/Images/Icons/youtube-header.ashx" alt="Twitter"></a></li>
+<li><a href="http://www.naa.org/News-and-Media/RSS-Feeds.aspx" target="_self"><img height="22" width="22" src="/~/media/NAACorp/Images/Icons/rss-header.ashx" alt="RSS"></a></li></ul></div>
             
             <!-- /SECONDARY NAV -->
             
@@ -92,7 +145,7 @@
             <!--  SIGN-IN -->
             
             
-            <a href="/MyNAA.aspx" id="ctl03_hrefSignButton" class="header-head-signin">sign in to my naa <span class="global-arrow"><cufon class="cufon cufon-canvas" alt="6" style="width: 11px; height: 10.6656px;"><canvas width="12" height="11" style="width: 12px; height: 11px; top: 0px; left: 0px;"></canvas><cufontext>6</cufontext></cufon></span></a>
+            <a href="/MyNAA.aspx" id="ctl03_hrefSignButton" class="header-head-signin">sign in to my naa <span class="global-arrow"><cufon class="cufon cufon-canvas" alt="6" style="width: 14px; height: 14px;"><canvas width="15" height="14" style="width: 15px; height: 14px; top: 0px; left: 0px;"></canvas><cufontext>6</cufontext></cufon></span></a>
             
             <div id="ctl03_pnlSignBox" class="header-head-signinbox">
 	           
@@ -143,7 +196,7 @@
 	<div class="topnav-nav">
 	  <div class="topnav-nav-navcont">
 	    <nav>
-	      <ul class="topnav-nav-navitems"><li class="blue"><a href="/Topics-and-Tools.aspx">Topics &amp; Tools</a><ul><li><a href="/Topics-and-Tools/Advertising.aspx">Advertising</a></li><li style="border-right: 0px;"><a href="/Topics-and-Tools/Audience-and-Circulation.aspx">Audience &amp; Circulation</a></li><li style="border-right: 0px;"><a href="/Topics-and-Tools/Digital-Media.aspx">Digital Media</a></li></ul></li><li class="orange"><a href="/Trends-and-Numbers.aspx">Trends &amp; Numbers</a><ul><li><a href="/Trends-and-Numbers/Circulation-Volume/Newspaper-Circulation-Volume.aspx">Circulation Volume</a></li><li><a href="/Trends-and-Numbers/Composition-Profiles/Average-Issue-Demographic-Composition.aspx">Composition Profiles</a></li><li><a href="/Trends-and-Numbers/Newspaper-Revenue.aspx">Newspaper Revenue</a></li><li><a href="/Trends-and-Numbers/Newspaper-Websites/Newspaper-Web-Audience.aspx">Newspaper Websites</a></li><li style="border-right: 0px;"><a href="/Trends-and-Numbers/Readership.aspx">Readership</a></li><li style="border-right: 0px;"><a href="/Trends-and-Numbers/SenseMakerReports.aspx">SenseMaker Reports</a></li></ul></li><li class="violet"><a href="/Public-Policy.aspx">Public Policy</a><ul><li><a href="/Public-Policy/Government-Affairs/Advertising.aspx">Advertising</a></li><li><a href="/Public-Policy/Government-Affairs/Business-Operations.aspx">Business Operations</a></li><li><a href="/Public-Policy/Government-Affairs/Digital-Media.aspx">Digital Media</a></li><li><a href="/Public-Policy/Government-Affairs/First-Amendment.aspx">First Amendment</a></li><li style="border-right: 0px;"><a href="/Public-Policy/Government-Affairs/Postal-Affairs.aspx">Postal Affairs</a></li><li style="border-right: 0px;"><a href="/Public-Policy/Public-Policy-Action-Center.aspx">Public Policy Action Center</a></li></ul></li><li class="green"><a href="/News-and-Media.aspx">News &amp; Media</a><ul><li><a href="/News-and-Media/Press-Center.aspx">Press Center</a></li><li><a href="/News-and-Media/Blog.aspx">The NAA Blog</a></li><li><a href="/News-and-Media/CEO-Update.aspx">CEO Update</a></li><li><a href="/News-and-Media/PRESSTIME-Update.aspx">PRESSTIME Update</a></li><li style="border-right: 0px;"><a href="/News-and-Media/Multimedia/Video.aspx">Multimedia</a></li><li style="border-right: 0px;"><a href="/News-and-Media/Social-Media.aspx">Social Media</a></li></ul></li><li class="maroon"><a href="/About-NAA.aspx">About NAA</a><ul><li><a href="/About-NAA/Membership.aspx">Membership Benefits</a></li><li><a href="/About-NAA/Events.aspx">Events</a></li><li><a href="/About-NAA/Board-of-Directors.aspx">Board of Directors</a></li><li><a href="/About-NAA/Newspapers-and-Sustainability.aspx">Newspapers &amp; Sustainability</a></li><li style="border-right: 0px;"><a href="/About-NAA/Contact-Us.aspx">Contact Us</a></li><li style="border-right: 0px;"><a href="/About-NAA/American-Press-Institute.aspx">American Press Institute</a></li></ul></li><li class="mxcblue" style="border-right: 0px;"><a href="/mediaXchange.aspx">mediaXchange</a><ul><li><a href="/mediaXchange/Program.aspx">Program</a></li><li><a href="/mediaXchange/Attend/Logistics.aspx">Attend</a></li><li><a href="/mediaXchange/Sponsor.aspx">Sponsor</a></li><li><a href="/mediaXchange/Advertisers.aspx">Advertiser Meetings</a></li><li><a href="/mediaXchange/Accelerator-Pitch.aspx">Accelerator Pitch</a></li><li style="border-right: 0px;"><a href="/mediaXchange/Affiliate Meetings.aspx">Affiliate Meetings</a></li><li style="border-right: 0px;"><a href="/mediaXchange/News.aspx">News &amp; Media</a></li></ul></li><li class="white" style="border-right: 0px;"><a class="media">&nbsp;</a></li></ul>  
+	      <ul class="topnav-nav-navitems"><li class="blue"><a href="/Topics-and-Tools.aspx">Topics &amp; Tools</a><ul><li><a href="/Topics-and-Tools/Advertising.aspx">Advertising</a></li><li style="border-right: 0px;"><a href="/Topics-and-Tools/Audience-and-Circulation.aspx">Audience &amp; Circulation</a></li><li style="border-right: 0px;"><a href="/Topics-and-Tools/Digital-Media.aspx">Digital Media</a></li></ul></li><li class="orange"><a href="/Trends-and-Numbers.aspx">Trends &amp; Numbers</a><ul><li><a href="/Trends-and-Numbers/Circulation-Volume/Newspaper-Circulation-Volume.aspx">Circulation Volume</a></li><li><a href="/Trends-and-Numbers/Composition-Profiles/Average-Issue-Demographic-Composition.aspx">Composition Profiles</a></li><li><a href="/Trends-and-Numbers/Newspaper-Revenue.aspx">Newspaper Revenue</a></li><li><a href="/Trends-and-Numbers/Newspaper-Websites/Newspaper-Web-Audience.aspx">Newspaper Websites</a></li><li style="border-right: 0px;"><a href="/Trends-and-Numbers/Readership.aspx">Readership</a></li><li style="border-right: 0px;"><a href="/Trends-and-Numbers/SenseMakerReports.aspx">SenseMaker Reports</a></li></ul></li><li class="violet"><a href="/Public-Policy.aspx">Public Policy</a><ul><li><a href="/Public-Policy/Government-Affairs/Advertising.aspx">Advertising</a></li><li><a href="/Public-Policy/Government-Affairs/Business-Operations.aspx">Business Operations</a></li><li><a href="/Public-Policy/Government-Affairs/Digital-Media.aspx">Digital Media</a></li><li><a href="/Public-Policy/Government-Affairs/First-Amendment.aspx">First Amendment</a></li><li style="border-right: 0px;"><a href="/Public-Policy/Government-Affairs/Postal-Affairs.aspx">Postal Affairs</a></li><li style="border-right: 0px;"><a href="/Public-Policy/Public-Policy-Action-Center.aspx">Public Policy Action Center</a></li></ul></li><li class="green"><a href="/News-and-Media.aspx">News &amp; Media</a><ul><li><a href="/News-and-Media/Press-Center.aspx">Press Center</a></li><li><a href="/News-and-Media/Blog.aspx">The NAA Blog</a></li><li><a href="/News-and-Media/CEO-Update.aspx">CEO Update</a></li><li><a href="/News-and-Media/PRESSTIME-Update.aspx">PRESSTIME Update</a></li><li style="border-right: 0px;"><a href="/News-and-Media/Multimedia/Video.aspx">Multimedia</a></li><li style="border-right: 0px;"><a href="/News-and-Media/Social-Media.aspx">Social Media</a></li></ul></li><li class="maroon"><a href="/About-NAA.aspx">About NAA</a><ul><li><a href="/About-NAA/Membership.aspx">Membership Benefits</a></li><li><a href="/About-NAA/Events.aspx">Events</a></li><li><a href="/About-NAA/Board-of-Directors.aspx">Board of Directors</a></li><li><a href="/About-NAA/Newspapers-and-Sustainability.aspx">Newspapers &amp; Sustainability</a></li><li><a href="/About-NAA/Contact-Us.aspx">Contact Us</a></li><li style="border-right: 0px;"><a href="/About-NAA/American-Press-Institute.aspx">American Press Institute</a></li><li style="border-right: 0px;"><a href="/About-NAA/Partner-Organizations.aspx">Our Partners</a></li></ul></li><li class="mxcblue" style="border-right: 0px;"><a href="/mediaXchange.aspx">mediaXchange</a><ul><li><a href="/mediaXchange/Program.aspx">Program &amp; Coverage</a></li><li><a href="/mediaXchange/News/Blog.aspx">News &amp; Media</a></li><li><a href="/mediaXchange/Accelerator-Pitch.aspx">Accelerator Pitch</a></li><li><a href="/mediaXchange/Sponsor.aspx">Sponsors</a></li><li style="border-right: 0px;"><a href="/mediaXchange/Advertisers.aspx">Advertiser Meetings</a></li><li style="border-right: 0px;"><a href="/mediaXchange/Mobile.aspx">Mobile App</a></li></ul></li><li class="white" style="border-right: 0px;"><a class="media">&nbsp;</a></li></ul>  
 	      
         </nav>
       </div>
@@ -191,7 +244,7 @@
         </div>
     </div>
     
-    <div id="content_0_divContentMiddle" class="content-cont-middle" style="width:922px;">
+    <div id="content_0_divContentMiddle" class="content-cont-middle" style="width:952px;">
     
     
         <h1>PRIVACY POLICY</h1>
@@ -216,36 +269,51 @@
 <!-- /CONTENT -->
 
 <!-- FOOTER -->
-<div class="footer"><div class="footer-foot"><div class="footer-foot-connectleftborder"></div><ul class="footer-foot-column"><li><h5><a href="/Topics-and-Tools.aspx">Topics &amp; Tools</a></h5></li><li><a href="/Topics-and-Tools/Advertising.aspx">Advertising</a></li><li><a href="/Topics-and-Tools/Audience-and-Circulation.aspx">Audience &amp; Circulation</a></li><li><a href="/Topics-and-Tools/Digital-Media.aspx">Digital Media</a></li><li><a href="/Topics-and-Tools/SenseMakerReports.aspx">Sense Maker Reports</a></li></ul><ul class="footer-foot-column"><li><h5><a href="/Trends-and-Numbers.aspx">Trends &amp; Numbers</a></h5></li><li><a href="/Trends-and-Numbers/Newspaper-Revenue.aspx">Newspaper Revenue</a></li><li><a href="/Trends-and-Numbers/Circulation-Volume/Newspaper-Circulation-Volume.aspx">Circulation Volume</a></li><li><a href="/Trends-and-Numbers/Composition-Profiles/Average-Issue-Demographic-Composition.aspx">Composition Profiles</a></li><li><a href="/Trends-and-Numbers/Newspaper-Websites/Newspaper-Web-Audience.aspx">Newspaper Websites</a></li><li><a href="/Trends-and-Numbers/Readership.aspx">Readership</a></li><li><a href="/Trends-and-Numbers/SenseMakerReports.aspx">SenseMaker Reports</a></li></ul><ul class="footer-foot-column"><li><h5><a href="/Public-Policy.aspx">Public Policy</a></h5></li><li><a href="/Public-Policy/Government-Affairs.aspx">Government Affairs</a></li><li></li></ul><ul class="footer-foot-column"><li><h5><a href="/News-and-Media.aspx">News &amp; Media</a></h5></li><li><a href="/News-and-Media/Press-Center.aspx">Press Center</a></li><li><a href="/News-and-Media/PRESSTIME-Update.aspx">PRESSTIME Update</a></li><li><a href="/News-and-Media/CEO-Update.aspx">CEO Update</a></li><li><a href="/News-and-Media/Blog.aspx">The NAA Blog</a></li><li><a href="/News-and-Media/Multimedia/Video.aspx">Multimedia</a></li><li><a href="/News-and-Media/Social-Media.aspx">Social Media</a></li><li><a href="/News-and-Media/RSS-Feeds.aspx">RSS Feeds</a></li></ul><ul class="footer-foot-column"><li><h5><a href="/About-NAA.aspx">About NAA</a></h5></li><li><a href="/About-NAA/Membership.aspx">Membership Benefits</a></li><li><a href="/About-NAA/Events.aspx">Events</a></li><li><a href="/About-NAA/Contact-Us/Advertise-with-NAA.aspx">Advertise with NAA</a></li><li><a href="/About-NAA/Newspapers-and-Sustainability.aspx">Newspapers &amp; Sustainability</a></li><li><a href="/About-NAA/Board-of-Directors.aspx">Board of Directors</a></li><li><a href="/About-NAA/Contact-Us/Staff-Directory.aspx">Staff Directory</a></li><li><a href="/About-NAA/Contact-Us/Careers-At-NAA.aspx">Careers at NAA</a></li><li><a href="/About-NAA/Contact-Us.aspx">Contact Us</a></li></ul><ul class="footer-foot-column"><li><h5>Quick Links</h5></li><li><a href="http://mediaXchange.naa.org" target="_blank">NAA mediaXchange</a></li><li><a href="http://www.AmericanPressInstitute.org" target="_blank">American Press Institute</a></li><li><a href="http://www.nnnlp.com/" target="_blank">Newspaper National Network</a></li><li><a href="http://careerbank.naa.org/ " target="_blank">Newspaper CareerBank</a></li><li><a href="http://naavendorlinks.com/" target="_blank">VendorLinks</a></li><li><a href="http://netforum.naa.org/eweb/DynamicPage.aspx?Site=NAA&amp;WebKey=433e9741-6cfa-4ce4-b172-3f1c905a9deb">All NAA Products</a></li></ul><div class="footer-foot-connectcolumn">
-		<div class="footer-foot-connectcolumn">
-      
-<strong>CONNECT</strong> 
-
-<ul class="footer-foot-connectcolumn-icons">
-
-<li><a href="http://www.facebook.com/newspaperassociationofamerica" target="_blank"><img width="36" height="36" alt="Find us on Facebook" src="/~/media/NAACorp/Images/Icons/facebook-footer.ashx?w=36&amp;h=36&amp;as=1"></a>&nbsp; </li>
-
-<li><a href="http://www.twitter.com/NAAupdates" shape="rect" target="_blank"><img alt="Follow NAAupdates on Twitter" src="http://twitter-badges.s3.amazonaws.com/t_logo-a.png"></a> </li>
-
-<li><a href="http://linkd.in/NewspaperAssociationOfAmerica" shape="rect" target="_blank"><img width="36" height="36" alt="Join the conversation on LinkedIn" src="/~/media/NAACorp/Images/Icons/linkedin-footer.ashx?w=36&amp;h=36&amp;as=1"></a>&nbsp; </li>
-
-<li><a href="http://plus.google.com/107109731846651703829" shape="rect" target="_blank"><img width="36" height="36" alt="Circle us on Google+" src="/~/media/NAACorp/Images/Icons/googleplus-footer.ashx?w=36&amp;h=36&amp;as=1"></a>  </li>
-
-
-</ul>
-
-<strong>SUBSCRIBE</strong> 
-
-<ul class="footer-foot-connectcolumn-icons">
-<li><a href="http://www.youtube.com/user/NewspaperAssnAmerica" shape="rect" target="_blank"><img width="36" height="36" alt="NAA YouTube Channel" src="/~/media/NAACorp/Images/Icons/youtube-footer.ashx?w=36&amp;h=36&amp;as=1"></a> </li>
-
-<li><a href="/News-and-Media/RSS-Feeds.aspx" shape="rect"><img width="36" height="36" alt="RSS Feeds from NAA" src="/~/media/NAACorp/Images/Icons/rss-footer.ashx?w=36&amp;h=36&amp;as=1"></a></li>
-
-</ul>
-
-</div>
-</div><div class="footer-foot-copy">
-		<p style="FONT-SIZE: 11px">© 2013 Newspaper Association of America™. All rights reserved. &nbsp;<a href="/About-NAA/Privacy-Policy.aspx">Privacy Policy</a> &nbsp;| &nbsp; <a href="/About-NAA/Terms-of-Service.aspx">Terms of Service</a></p>
+<div class="footer"><div class="footer-foot"><ul class="footer-foot-column">
+    <li>
+    <h5>Newspaper Association of America</h5>
+    <p><img height="53" width="59" class="global-picleft" src="/~/media/NAACorp/Images/Icons/N.ashx" alt="NAA">4401 Wilson Blvd., Ste 900<br>
+    Arlington, VA 22203<br>
+    Main: 571.366.1000<br>
+    Media: 571.366.1009</p>
+    <p>
+    <a href="http://www.naa.org/About-NAA/Contact-Us.aspx" class="h9">
+    Contact Us<span class="global-arrow"><cufon class="cufon cufon-canvas" alt="4" style="width: 13px; height: 13px;"><canvas width="14" height="13" style="width: 14px; height: 13px; top: 0px; left: 0px;"></canvas><cufontext>4</cufontext></cufon></span></a><span class="global-arrow"></span></p>
+    </li>
+</ul><ul class="footer-foot-column">
+    <li>
+    <h5>Categories</h5>
+    </li>
+    <li><a href="http://www.naa.org/Topics-and-Tools.aspx">Topics &amp; Tools</a></li>
+    <li><a href="http://www.naa.org/Trends-and-Numbers.aspx">Trends &amp; Numbers</a></li>
+    <li><a href="http://www.naa.org/Public-Policy.aspx">Public Policy</a></li>
+    <li><a href="http://www.naa.org/News-and-Media.aspx">News &amp; Media</a></li>
+    <li><a href="http://www.naa.org/About-NAA.aspx">About NAA</a></li>
+    <li><a href="http://www.naa.org/mediaxchange.aspx">NAA mediaXchange</a></li>
+</ul><ul class="footer-foot-column">
+    <li>
+    <h5>Quick Links</h5>
+    </li>
+    <li><a href="http://www.naa.org/About-NAA/Membership.aspx">Membership</a></li>
+    <li><a href="http://www.naa.org/About-NAA/Events.aspx">Events</a></li>
+    <li><a href="http://www.naa.org/About-NAA/Partner-Organizations.aspx">Partner Organizations</a></li>
+    <li><a "target="_blank" href="http://careerbank.naa.org/">Newspaper CareerBanks</a></li>
+    <li><a target="_blank" href="http://naavendorlinks.com/">VendorLinks</a></li>
+</ul><ul class="footer-foot-column">
+    <li>
+    <h5>Connect with NAA</h5>
+    </li>
+    <li>
+    <ul class="footer-foot-connectcolumn-icons">
+        <li style="padding-top: 0px;"><a target="_blank" href="https://www.facebook.com/NewspaperAssociationOfAmerica"><img height="52" width="52" alt="Find us on Facebook" src="/~/media/NAACorp/Images/Icons/facebook-footerlg.ashx"></a></li>
+        <li style="padding-top: 0px;"><a target="_blank" href="https://twitter.com/NAAupdates"><img height="52" width="52" alt="Follow us on Twitter" src="/~/media/NAACorp/Images/Icons/twitter-footerlg.ashx"></a></li>
+        <li style="padding-top: 0px;"><a target="_blank" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2547388"><img height="52" width="52" alt="Connect with us on LinkedIn" src="/~/media/NAACorp/Images/Icons/linkedin-footerlg.ashx"></a></li>
+        <li><a target="_blank" href="https://plus.google.com/107109731846651703829/posts"><img height="52" width="52" alt="Circle us on Google+" src="/~/media/NAACorp/Images/Icons/googleplus-footerlg.ashx"></a></li>
+        <li><a target="_blank" href="http://www.youtube.com/user/NewspaperAssnAmerica"><img alt="" height="52" width="52" src="/~/media/NAACorp/Images/Icons/youtube-footerlg.ashx"></a></li>
+        <li><a target="_self" href="http://www.naa.org/News-and-Media/RSS-Feeds.aspx"><img height="52" width="52" alt="Subscribe via RSS" src="/~/media/NAACorp/Images/Icons/rss-footerlg.ashx"></a></li>
+    </ul>
+    </li>
+</ul><div class="footer-foot-copy">		<p style="FONT-SIZE: 11px">© 2014 Newspaper Association of America™. All rights reserved. &nbsp;<a href="/About-NAA/Privacy-Policy.aspx">Privacy Policy</a> &nbsp;| &nbsp; <a href="/About-NAA/Terms-of-Service.aspx">Terms of Service</a></p>
 </div></div></div>
 <!-- /FOOTER -->
 
