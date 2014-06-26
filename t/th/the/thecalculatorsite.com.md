@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826025309id_/http%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecalculatorsite.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135028id_/http%3A//www.thecalculatorsite.com/privacypolicy.php) for the most accurate reproduction.*
 
 # The Calculator Site Privacy Policy
 
-The Calculator Site will respect the confidentiality of the information relating to its individual users and visitors and the laws governing the privacy of information that apply in the country and state where the Web site is located. Information identifying a user will not be disclosed by The Calculator Site staff to anyone unless specifically authorized by that individual.
+The Calculator Site respects the confidentiality of the information relating to its individual users and visitors and the laws governing the privacy of information that apply in the country and state where the web site is located. Information identifying a user will not be disclosed by The Calculator Site staff to anyone unless specifically authorized by that individual.
 
 In order for The Calculator Site to count visitor numbers, a unique "cookie" may be placed on your browser. We also track IP addresses for the purposes of attaining demographic data. This data is used by us for statistical purposes only.
+
+For the purposes of remembering options such as your chosen currency in our finance calculators (to allow us to select the option for you), we place a "cookie" to store this information. 
 
 #### Third Party Advertising
 
