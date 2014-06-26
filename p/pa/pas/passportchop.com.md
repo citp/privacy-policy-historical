@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passportchop.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520090630id_/http%3A//www.passportchop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passportchop.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626122805id_/http%3A//www.passportchop.com/privacy-policy) for the most accurate reproduction.*
 
 # PassportChop.com Privacy Policy | Singapore Travel Blog
 
