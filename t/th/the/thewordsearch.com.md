@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207142129id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022017id_/http%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://thewordsearch.com/) [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/)
+[](http://thewordsearch.com/ "The Word Search") [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/)
 
   
 
