@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230231347id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021511id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
 
-# Support | Toyota.com
+# Privacy | Toyota.com
 
-**Personal Information Sharing Practices for 2012**  
-During 2012, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
+**Personal Information Sharing Practices for 2013**  
+During 2013, Toyota shared personal information about our customers with specific third parties where the information was used for the recipient's own marketing.  
 Learn more
 
 **Toyota Privacy Policy – Summary**  
-This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated October 23, 2013
+This summary of our privacy policy applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota") (all such Web sites are collectively referred to as the "Sites"). Last Updated January 1, 2014
 
 **Information Collected**
 
@@ -22,10 +22,8 @@ _Learn more_
   * We use personal information to provide you with services or information you request, such as new vehicle information alerts, promotions and mailed brochures.
   * We also use personal information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
   * We share personal information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Sites.
-  * We also share personal information with companies affiliated with Toyota and our authorized dealers, dealer advertising associations and distributors for their own use.
-  * If you choose to participate in a Program, your Personal Information may also be shared with our Program partners and may be used by our Program partners if you indicate your interest in receiving communications directly from that company.
+  * We also share personal information with companies affiliated with Toyota and our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use.
   * We, Web publishers and other Web sites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other Web sites.
-  * We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission).
 
 _Learn more_
 
@@ -57,9 +55,9 @@ To read our full Privacy Policy _click here_.
 
 [_[Versión en Español]_](https://web.archive.org/espanol/support/privacy.html)
 
-UPDATED AS OF: October 23, 2013
+UPDATED AS OF: January 1, 2014
 
-Toyota Motor Sales, USA, Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”).
+Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”).
 
 We take your privacy seriously, no matter how you access our Platforms. For a version of this Privacy Notice optimized for our mobile applications, please click [_here_](http://touch.toyota.com/help/privacy.html).
 
@@ -82,21 +80,21 @@ We take your privacy seriously, no matter how you access our Platforms. For a ve
 
 Information You Provide To Us
 
-We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Platforms. For example, we will collect your credit card number and other payment related information in connection with your purchase of products and/or services through the Platforms, and we will collect Personal Information when you submit comments or participate in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys ("Programs"). In addition, we may post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Platforms. For example, we will collect your credit card number and other payment-related information in connection with your purchase of products and/or services through the Platforms, and we will collect Personal Information when you submit comments or participate in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys ("Programs"). In addition, we may post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
 
-Toyota utilizes third party social media management services to collect and analyze publicly available information on various social media sites. Information that you post on those sites, as well as publicly available information that you post on other pages made available through those sites and on other social media sites may be used by Toyota for customer satisfaction, customized marketing, marketing analysis, consumer research and other legitimate business purposes.
+Toyota utilizes third-party social media management services to collect and analyze publicly available information on various social media sites. Information that you post on those sites, as well as publicly available information that you post on other pages made available through those sites and on other social media sites may be used by Toyota for customer satisfaction, customized marketing, marketing analysis, consumer research and other legitimate business purposes.
 
-Friend to Friend: Some features on the Platforms may permit you to submit information about other people. For example, if you wish to invite your friends to participate in a Program offered through the Platforms or forward particular content from the Platforms to your friends, you will be asked to submit your friends’ e-mail addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the Program and this Privacy Notice.
+Friend to Friend: Some features on the Platforms may permit you to submit information about other people. For example, if you wish to invite your friends to participate in a Program offered through the Platforms or forward particular content from the Platforms to your friends, you will be asked to submit your friends’ email addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the Program and this Privacy Notice.
 
 Information We Collect Automatically
 
 _Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as interactions with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor’s interests. Usage Information is generally non-identifying, but if Toyota associates it with you as a specific and identifiable person, Toyota treats it as Personal Information.
 
-_Device Identifier._ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users’ web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
+_Device Identifier._ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We, and our vendors, may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users’ web page movements over time and across different websites, help identify you and your shopping cart, and gather broad demographic information for aggregate use.
 
-_Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server.
+_Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). A pixel tag may tell your browser to get content from another server.
 
-To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Toyota account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser’s cookie folder, please refer to your browser’s help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Toyota account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this privacy statement will stop. Some browsers have a "do not track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
 **2\. HOW WE USE THE INFORMATION WE COLLECT**
 
@@ -112,7 +110,7 @@ Except as described here, we will not provide any of your Personal Information t
 
 **Your Agreement To Have Your Personal Information Shared.** While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party.
 
-**Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. We may also share your information with our authorized dealers, dealer advertising associations and distributors for their own use. In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+**Business Transfers.** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. We may also share your information with our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use. In the event that Toyota is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
 
 **Legal Disclosure.** We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public.
 
@@ -182,9 +180,9 @@ Toyota Customer Relations – Mailstop WC 11
 19001 S. Western Ave.  
 Torrance, CA 90501
 
-**PERSONAL INFORMATION SHARING PRACTICES FOR 2012**  
-(Effective as of January 01, 2013)  
-During 2012, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+**PERSONAL INFORMATION SHARING PRACTICES FOR 2013**  
+(Effective as of January 01, 2014)  
+During 2013, we shared the following types of personal information about our customers with SiriusXM Satellite Radio, Toyota Financial Services and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 Name  
 Address  
