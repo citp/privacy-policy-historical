@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705235454id_/http%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101417id_/http%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Biocompare: The Buyer's Guide for Life Scientists
 
 _Effective: 12/26/2012_
 
 CompareNetworks, Inc. is committed to protecting your privacy. We use the information we collect about you to provide you with personalized information, services and tools. We will not share, sell or disclose individually identifiable information to any third party other than as disclosed within this privacy policy. Please read on for more details about our privacy policy. 
-
-CompareNetworks, Inc has been awarded TRUSTe's Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of the sites owned by CompareNetworks, Inc that are TRUSTe certified please visit www.truste.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@comparenetworks.com](mailto:info@comparenetworks.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## Optional Registration 
 
