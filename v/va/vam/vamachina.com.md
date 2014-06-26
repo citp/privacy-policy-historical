@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vamachina.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231004123id_/http%3A//www.vamachina.com/site-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vamachina.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626191655id_/http%3A//www.vamachina.com/site-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | VAMA China
 
