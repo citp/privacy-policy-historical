@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemydrawings.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127012253id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemydrawings.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626084521id_/http%3A//www.ratemydrawings.com/pages/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,7 +7,8 @@
 <style type="text/css">
 <!--
 @import url(http://fonts.googleapis.com/css?family=Terminal+Dosis:500,300);
-@import url("/css/styles_4_00.css?v1.8");
+@import url("/css/styles_4_01.css?v2.0");
+@import url("/css/topnav_1_0.css?v1.0");
 -->
 </style>
 <!--[if lte IE 6]>
@@ -47,12 +48,13 @@
 <body>
 <!-- HEADER -->
 <!-- mheader -->
-
 <!--[if IE 6]>
 <script type="text/javascript" src="iepngfix_tilebg.js"></script>  
 <![endif]-->
+
 <div id="header">
 <div id="headerContainer">
+<div id="menulogo"></div>
 <div id="headerlogo"><a onmouseover="document.getElementById('homeIcon').style.display='block'" onmouseout="document.getElementById('homeIcon').style.display='none'" style="display:block;" href="/index.php"><img src="/images/logo_ratemydrawings_12.png" alt="Home" width="225" height="69" border="0"></a>
 <div id="homeIcon" style="display:none; position:absolute; right:20px; top: 12px; color:#fff;width:14px; height:10px; background-image:url('/images/icon_home_hover.png');"></div>
 </div>
@@ -61,18 +63,84 @@
 #nav {width: 40%;}
 </style>
 <![endif]-->
-<div id="nav">
-<ul id="men" style="max-width:1160px; margin:0 auto;">
-	<li><a href="/startdrawing.php">Draw</a>
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+/*
+	By Osvaldas Valutis, www.osvaldas.info
+	Available for use under the MIT License
+*/
+
+
+
+;(function( $, window, document, undefined )
+{
+	$.fn.doubleTapToGo = function( params )
+	{
+		if( !( 'ontouchstart' in window ) &&
+			!navigator.msMaxTouchPoints &&
+			!navigator.userAgent.toLowerCase().match( /windows phone os 7/i ) ) return false;
+
+		this.each( function()
+		{
+			var curItem = false;
+
+			$( this ).on( 'click', function( e )
+			{
+				var item = $( this );
+				if( item[ 0 ] != curItem[ 0 ] )
+				{
+					e.preventDefault();
+					curItem = item;
+				}
+			});
+
+			$( document ).on( 'click touchstart MSPointerDown', function( e )
+			{
+				var resetItem = true,
+					parents	  = $( e.target ).parents();
+
+				for( var i = 0; i < parents.length; i++ )
+					if( parents[ i ] == curItem[ 0 ] )
+						resetItem = false;
+
+				if( resetItem )
+					curItem = false;
+			});
+		});
+		return this;
+	};
+})( jQuery, window, document );
+
+
+
+
+
+
+$( function()
+{
+	$( '#nav li:has(ul)' ).doubleTapToGo();
+});
+
+
+
+
+</script>
+
+<div id="topnav" role="navigation">
+	<a href="#topnav" title="Show navigation">Show navigation</a>
+	<a href="#" title="Hide navigation">Hide navigation</a>
+	<ul>
+		<li><a href="#">Draw</a>
     <ul>
-	<li style="text-indent:10px;"><div style="width: 6px;height: 15px;background-image: url('/images/icon_rmdtiny.png');position: absolute;top:6px;left:11px;"></div><a href="/startdrawing.php">Start a drawing</a>
+	<li><div style="width: 6px;height: 15px;background-image: url('/images/icon_rmdtiny.png');margin-top:15px;margin-left:4px;float:left; display:inline-block;"></div><a href="/startdrawing.php">Start a drawing</a>
     </li><li><a href="/chat/">DrawChat</a></li>
     <li><a href="/competitions/">Competitions</a></li>     
     </ul>
 
     </li>
 
-	<li><a href="/top-drawings/">Browse</a>
+	<li><a href="#">Browse</a>
     <ul>
         <li><a href="/top-drawings/">Top Drawings</a></li> 
         <li><a href="/drawings/">Recent Drawings</a></li>
@@ -81,20 +149,20 @@
 	<li><a href="/collections/">Collections</a></li>
     </ul>
     </li> 
-	<li><a href="/topusers/">Artists</a>
+	<li><a href="#">Artists</a>
       <ul>
         <li><a href="/topusers/">Top Ranks</a></li>
         <li><a href="/topusers/featured/">Featured</a></li>
         <li><a href="/topusers/upcoming/">Upcoming</a></li>
         <li><a href="/topusers/new/">New members</a></li>
+     <li><a href="/topusers/alltime/">All Time</a></li>   
     </ul>
     </li>
 
 	
-	<li><a href="/community/">Community</a>
+	<li><a href="#">Community</a>
 		<ul>
             <li><a href="/community/">Forum Discussions</a></li>
-			<li><a href="/community.php">Community feed</a></li>
             <li><a href="/tutorials/">Tutorials</a></li>
 			<li><a href="/usersonline.php">Who's Online?</a></li>
 			<li><a href="/rmd-birthdays.php">Member Birthdays</a></li>
@@ -102,23 +170,19 @@
 		</ul>
 	</li>
 	
-	<li style="background-image:none; padding-left:3px;"><a href="/pages/about-rate-my-drawings.php">+More</a>
-		  <ul>
-		<li><a href="/community/viewforum.php?id=8">Help Forums</a></li>
-		<li><a href="/pages/about-rate-my-drawings.php">About</a></li>
-		<li><a href="/pages/advertise.php">Advertise</a></li>
-		<li><a href="/pages/donate.php">Donate</a></li></ul>
-	</li>
-  </ul>
+    <li class="meControl" style="float:right;"><div id="login">
+<div id="loginbtn" style="border-right:1px solid #666;"><a href="/community/login.php">Sign in &nbsp;</a></div>
+<div id="loginbtn"><a href="/community/register.php">&nbsp;&nbsp;Join us</a></div>
+</div>
+    
+    
+	</li></ul>
 </div>
 
-<div id="meDiv" style="float:right;"><div id="login">
-<div id="loginbtn" style="border-right:1px solid #666;"><a href="/community/login.php">Sign in </a></div>
-<div id="loginbtn"><a href="/community/register.php">Join us</a></div>
-</div>
-</div>
-<div id="searchBox">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript">
+
+
+<div id="searchBox" style="margin-left:20px;">
+<script language="javascript">
 function initSearch(){
 	var searchField = document.getElementById('sf');
 	searchField.focus();
@@ -134,6 +198,7 @@ function changeSearch(){
 	}
 }
 window.onresize = function(){
+	/*
 	if (document.body && document.body.offsetWidth) {
 	 winW = document.body.offsetWidth;
 	 //winH = document.body.offsetHeight;
@@ -155,21 +220,30 @@ window.onresize = function(){
 		document.getElementById('searchBox').style.top = '27px';
 		document.getElementById('header').style.height = '90px';
 	} else {
+		
 		document.getElementById('searchBox').style.float = 'left';	
 		document.getElementById('searchBox').style.position = 'relative';
 		document.getElementById('searchBox').style.left = 'auto';
 		document.getElementById('searchBox').style.top = 'auto';
 		document.getElementById('header').style.height = '69px';
-	}
+	}*/
 };
+
+
+
 </script>
 <form action="http://www.ratemydrawings.com/search.php" style="padding:0; margin:0; ">
-<input id="sf" name="s" type="text" style="background-color:#1a2b37; color:#FFFFFF; font-size:12px; border:1px solid #999999; background-image:url('/images/icon_rmdtiny.png'); background-repeat:no-repeat; background-position:98% center; width:115px; padding:3px; color:#CCCCCC;" value="Search" maxlength="40" onmouseover="javascript:initSearch()" onblur="javascript:changeSearch()"><input type="submit" name="sa" value="go" style="margin-left:-2px;font-size:11px; padding:4px; background-color:#1A2B37; border:1px solid #999; color: #fff;">
+<input id="sf" name="s" type="text" style="background-color:#1a2b37; color:#FFFFFF; font-size:12px; border:1px solid #999999; background-image:url('/images/icon_rmdtiny.png'); background-repeat:no-repeat; background-position:98% center; width:115px; padding:3px; color:#CCCCCC;" value="Search" maxlength="40" onfocus="javascript:initSearch()" onmouseover="javascript:initSearch()" onblur="javascript:changeSearch()"><input type="submit" name="sa" value="go" style="margin-left:-2px;font-size:11px; padding:4px; background-color:#1A2B37; border:1px solid #999; color: #fff;">
 </form>
 <br>
 </div>
+
 </div>
+
 </div>
+
+<div id="contentTopPadding"></div>
+
 <!-- END HEADER -->
 <!-- NAV -->
 <!-- moved to nav2.inc_unused. Replaced with header.inc -->
@@ -260,7 +334,7 @@ window.onresize = function(){
 <div style="clear:both; height:40px;"></div>
 <div id="onlinefollow">
 <div style="margin:0 auto; max-width:1180px;">
-<div style="float:left; margin: 0 0 0 20px; font-size:18px; width: 215px;">344 online <span style="font-size:12px; color:#999999;">members &amp; visitors</span></div>
+<div style="float:left; margin: 0 0 0 20px; font-size:18px; width: 215px;">178 online <span style="font-size:12px; color:#999999;">members &amp; visitors</span></div>
 <div style="float:left; margin: 5px 20px 0 0; font-size:12px; "><a href="/usersonline.php">See who's online</a></div>
 <div style="float:left; margin: 5px 0 0 0; font-size:12px; ">Follow us on:</div>
 <div style="float:left; margin: 0 0 0 0;">
@@ -273,25 +347,24 @@ window.onresize = function(){
 
 <div id="mixnetworkfoot">
 <div style="margin:0 auto 0 auto; max-width:1180px">
-<img style="position:absolute; margin-left:25px;" src="/images/copyright.png" width="27" height="26">
-<p style="margin:0; position:absolute; font-size:12px; color:#999999; width:310px; height:100px; margin-left:58px;">
-Copyright Mixart New Media LLC.<br>
-
-As creators of drawings, you own the rights to your own drawings. Respect copyright protected artwork.<br>
-More information in our <a href="/pages/terms.php" style="color:#999999;">Terms</a> and <a href="/pages/copyright.php" style="color:#999999;">Copyright Policy</a>.</p>
-<p style="width:40%; margin:0; position:absolute; font-size:13px; color:#999999; height:100px; margin-left:405px;">
+<p style="margin-top:10px; font-size:13px; color:#999999; height:40px;">
     <a class="footlink" href="/pages/about-rate-my-drawings.php">About RateMyDrawings</a>
     <a class="footlink" href="/pages/terms.php">Terms &amp; Conditions</a>
     <a class="footlink" href="/pages/advertise.php">Advertise on RMD</a>
     <a class="footlink" href="/pages/privacy.php">Privacy Policy</a>
     <a class="footlink" href="/pages/donate.php">Donate</a>
     <a class="footlink" href="/pages/behavior.php">Behavior Guide</a>
-
 </p>
-<div id="footlogo" style="font-size: 12px; color:#999999; float:right; width:180px;"><a href="http://www.mixart.com/" target="_blank"><img style="border:3px solid #e3e3e3;" src="/images/mixart_network.png" alt="Mixart Network" width="130" height="53"></a>
+
+<p style="margin:0; position:absolute; font-size:11px; color:#999999; height:60px; margin-left:160px;">
+Mixart New Media LLC. Online Art Communities<br>
+
+As creators of drawings, you own the rights to your own drawings. Respect copyright protected artwork.<br>
+More information in our <a href="/pages/terms.php" style="color:#999999;">Terms</a> and <a href="/pages/copyright.php" style="color:#999999;">Copyright Policy</a>.</p>
+
+<div id="footlogo" style="font-size: 11px; color:#999999; float:left; width:160px;"><a href="http://www.mixart.com/" target="_blank"><img style="border:3px solid #e3e3e3;" src="/images/mixart_network.png" alt="Mixart Network" width="130" height="53"></a><br>
 <br>
-Mixart New Media LLC.<br>
-Online Art Communities</div>
+</div>
 </div>
 </div>
 
