@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000812id_/http%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandwatch.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626035343id_/http%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Brandwatch
+# Website Privacy Policy - Brandwatch
 
 **Brandwatch Privacy Statement**  
 Brandwatch has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Brandwatch web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
