@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeinn.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218121936id_/http%3A//www.bikeinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeinn.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090359id_/http%3A//www.bikeinn.com%3Faction%3Dpolitica%26idioma%3Deng) for the most accurate reproduction.*
 
 # bikeinn Privacy policy. Online bike gear and bike equipment shop.
 
