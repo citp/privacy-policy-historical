@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpthemedetector.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212120512id_/http%3A//www.wpthemedetector.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemedetector.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030444id_/http%3A//www.wpthemedetector.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordPress Theme Detector
-
-Privacy Policy 
 
 To protect your privacy we provide this Privacy Policy document, which explains how we collect, use, and protect your personal information. Our Privacy Policy document is permanently accessible since it is linked at the bottom of our website pages, so that you can access it anytime you want. By visiting our website, you accept and agree to the terms and conditions of this privacy policy.
 
