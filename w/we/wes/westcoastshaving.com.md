@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926050451id_/http%3A//www.westcoastshaving.com/Privacy-Notice_ep_42-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastshaving.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Privacy-Notice_ep_42-1.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
+| 
+
+|  |  |  [Home](https://web.archive.org/) > [Privacy Notice](https://web.archive.org/Privacy-Notice_ep_42-1.html)  
+---  
+Privacy Notice  
+   
+|  | **Privacy Notice** |     
+---|---  
 West Coast Shaving (WCS) takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "data" below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by WCS, nor does it apply to persons that are not employees or agents of WCS, or that are not under the control of WCS. Please take time to read this site's Terms of use. 
 
 Our secure servers protect your information using advanced encryption techniques and firewall technology. 
@@ -15,4 +23,19 @@ You are provided with the ability to edit the information stored for your user a
 All documents with personal information not shipped directly to you with your order are shredded.  
 
 
-Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the site, and/or by a mail message sent to the e-mail address you have provided, which is stored within your user settings.
+Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the site, and/or by a mail message sent to the e-mail address you have provided, which is stored within your user settings.  
+  
+^ Top  
+  
+* * *  
+  
+   
+  
+| New Products  
+---  
+[](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Taylor-of-Old-Bond-Street-Shaving-Cream-Bowl-Natural_p_2559.html)  
+[Taylor of Old Bond Street Shaving Cream Bowl, Natural](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Taylor-of-Old-Bond-Street-Shaving-Cream-Bowl-Natural_p_2559.html)  
+[](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Edwin-Jagger-DE-Safety-Razor-Extra-Grip-Handle-Diamond-Chrome_p_2495.html)  
+[Edwin Jagger DE Safety Razor, 'Extra Grip' Handle, Diamond Chrome](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Edwin-Jagger-DE-Safety-Razor-Extra-Grip-Handle-Diamond-Chrome_p_2495.html)  
+[](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Pacific-Shaving-Caffeinated-Aftershave-Moisturizer_p_2604.html)  
+[Pacific Shaving Caffeinated Aftershave Moisturizer](https://web.archive.org/web/20140626085456id_/http%3A//www.westcoastshaving.com/Pacific-Shaving-Caffeinated-Aftershave-Moisturizer_p_2604.html)
