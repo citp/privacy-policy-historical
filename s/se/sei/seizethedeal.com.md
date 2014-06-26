@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183357id_/http%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizethedeal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135145id_/http%3A//www.seizethedeal.com/privacy) for the most accurate reproduction.*
 
-# Seize the Deal | Richmond, VA | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
+# Seize the Deal | Grand Junction, CO | Savings, Coupons on Local Restaurants, Entertainment, Retail, Spas and More!
 
 **READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.**
 
