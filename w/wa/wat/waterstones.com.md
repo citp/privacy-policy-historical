@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203113201id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063729id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
 
 # Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstones
 
