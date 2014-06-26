@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inspireyourway.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210024800id_/http%3A//www.inspireyourway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspireyourway.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161207id_/http%3A//www.inspireyourway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Inspireyourway, the privacy of our esteemed visitors is very important. This [privacy policy](http://www.inspireyourway.com/privacy-policy/ "privacy policy") document explains the amount of personal information [www.inspireyourway.com](http://www.inspireyourway.com/) collect and what are the process involved and how it is used.
+At Inspireyourway, the privacy of our esteemed visitors is very important. This privacy policy document explains the amount of personal information [www.inspireyourway.com](http://www.inspireyourway.com/) collect and what are the process involved and how it is used.
 
 ##### **Log Files**
 
@@ -34,4 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**_If you have any queries regarding the use of cookies feel free to[contact](http://www.inspireyourway.com/contact/ "contact") us or email us [hello@inspireyourway.com](mailto:hello@inspireyourway.com) any time. We will be more than happy to get back to you within 24 hours. _**
+**_If you have any queries regarding the use of cookies feel free to contact us or email us[hello@inspireyourway.com](mailto:hello@inspireyourway.com) any time. We will be more than happy to get back to you within 24 hours. _**
