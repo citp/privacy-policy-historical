@@ -1,0 +1,703 @@
+<!--The following is the downloaded HTML source of the law360.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626164524id_/http%3A//www.law360.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+		<meta charset="utf-8">
+		<meta content="authenticity_token" name="csrf-param">
+<meta content="mMOhf9TMLqiQAAn3HTM9nJvjq2FaruRYDDegPMUhuSc=" name="csrf-token">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d4a97ca1fb","applicationID":"508316","transactionName":"dVhXEkFaCV5cSh5AVURaSklDRwxEWFtIa0BZW1AFSg==","queueTime":0,"applicationTime":21,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcFVldUGwYAXFJTAQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+		  	<title>Law360</title>
+		  	<meta name="description" content="Lawsuit Filings, Litigation, Settlements, Verdicts and Court News.">
+		
+		  	<!--  Mobile viewport optimized: j.mp/bplateviewport -->
+		  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta property="og:title" content="Law360">
+			<meta property="og:type" content="website">
+				<meta property="og:url" content="http://www.law360.com/privacy_policy">
+			<meta property="og:image" content="http://www.law360.com/images/360.png">
+		  	<!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		  	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	  	<!-- CSS : implied media="all" -->
+		<link href="http://static.law360news.com/assets/styles-3d20522cbadf1fed58837c5527b6585c.css" media="screen" rel="stylesheet">
+		
+		<script src="http://static.law360news.com/assets/prototype-c2d434a4f88d018209a7f23c9aa3afaa.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("#navbar ul").largemenu();
+			Turbolinks.enableTransitionCache();
+		});
+		</script>
+	</head>
+	<body id="privacy_policy-page">
+	  	<div id="container">
+			<header id="Masthead">
+				<div class="content-center">
+	<div id="logo">
+		<span id="nav-search">
+			<form action="/search">
+				<input type="text" class="text" name="q" value="" title="News, cases, companies, firms">
+				<input type="submit" id="submitSearch" value="GO" style="display:none;">
+				<a href="#" id="btnGlobalSearch" class="btnSecondary"><span>Search</span></a>
+				<a href="/advanced_search">Advanced Search</a>
+			</form>
+				<a href="/subscribe/free_trial_login" title="Sign-up for Free Trial"><img src="http://static.law360news.com/prototype/images/butt_freeTrial.png" width="113" height="30" border="0" alt="Sign-up for Free Trial"></a>
+		</span>
+		<a href="/" class="logo"><img src="http://static.law360news.com/prototype/images/Law360-masthead.png" width="201" height="74" border="0" alt="Law360 - The Newswire for Business Lawyers"></a>
+	</div>
+</div>
+<div id="navigation_new">
+	<div class="content-center">
+			<div class="login"><div class="account"><span class="new"><a href="/subscribe">Subscribe</a> | <a href="/account/login?return_url=http%3A%2F%2Fwww.law360.com%2Fprivacy_policy" class="signin">Sign In</a></span></div></div>
+		<div id="navbar">
+			<div id="platformtools">
+				<div class="divider_graphic"></div>
+				<div class="title">Platform Tools</div>
+				<ul id="tool_links">
+					<li id="case_link" class="vertical"><a href="#Cases" class="navitem menu">Cases</a></li>
+					<li class="vertical"><a href="#Tools" class="navitem menu">Tracking</a></li>
+				</ul>
+			</div>
+			<ul id="menu_links">
+				<li id="news_link" class="vertical"><a href="#News" class="navitem menu">News</a></li>
+				<li id="rankings_link" class="vertical"><a href="#Rankings" class="navitem menu">Rankings</a></li>
+				<li class="vertical"><a href="http://jobs.law360.com/" class="navitem" title="Jobs">Jobs</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="Cases">
+	<div class="section">
+		<div class="col">
+			<h4>Overall</h4>
+			<p><a href="/search/cases">All cases</a></p>
+			<p><a href="/advanced_search/cases" style="color:yellow">Advanced search</a></p>
+			<h4>Key cases</h4>
+			<p><a href="/search/cases?facet=_multi_party_litigation:(%22Class Action%22 OR %22Multi-district Litigation%22)">Class actions</a></p>
+			<p><a href="/search/cases?facet=ticker_symbol:[* TO *]">Public companies</a></p>
+			<h4>Industries</h4>
+			<p><a href="/search/cases?facet=_industry:(%22Credit Services%22 OR %22Foreign Money Center Banks%22 OR %22Foreign Regional Banks%22 OR %22Money Center Banks%22 OR %22Regional - Mid-Atlantic Banks%22 OR %22Regional - Midwest Banks%22 OR %22Regional - Northeast Banks%22 OR %22Regional - Pacific Banks%22 OR %22Regional - Southeast Banks%22 OR %22Regional - Southwest Banks%22 OR %22Savings %26 Loans%22)">Banking &amp; finance</a></p>
+			<p><a href="/search/cases?facet=_sector:%22Consumer Goods%22">Consumer goods</a></p>
+			<p><a href="/search/cases?facet=_industry:(%22Accident %26 Health Insurance%22 OR %22Drug Stores%22 OR %22Healthcare Information Services%22 OR %22Health Care Plans%22 OR %22Home Health Care%22 OR %22Hospitals%22 OR %22Long-Term Care Facilities%22 OR %22Medical Practitioners%22)">Health</a></p>
+			<p><a href="/search/cases?facet=_industry:(%22Lodging%22 OR %22Restaurants%22 OR %22Resorts %26 Casinos%22 OR %22General Entertainment%22)">Hospitality</a></p>
+			<p><a href="/search/cases?facet=_industry:(%22Biotechnology%22 OR %22Diagnostic Substances%22 OR %22Drug Delivery %26 Accessories%22 OR %22Drug Manufacturers - Major%22 OR %22Drug Manufacturers - Other%22 OR %22Drug Related Products%22 OR %22Drugs - Generic%22 OR %22Drugs Wholesale%22 OR %22Medical Appliances %26 Equipment%22 OR %22Medical Instruments %26 Supplies%22 OR %22Medical Laboratories %26 Research%22)">Life sciences</a></p>
+			<p><a href="/search/cases?facet=_industry:(%22Advertising Agencies%22 OR %22Broadcasting - Radio%22 OR %22Broadcasting - TV%22 OR %22CATV Systems%22 OR %22Entertainment - Diversified%22 OR %22Movie Production - Theaters%22 OR %22Publishing - Books%22 OR %22Publishing - Magazines%22 OR %22Publishing - Newspapers%22 OR %22Publishing - Periodicals%22)">Media &amp; entertainment</a></p>
+			<p><a href="/search/cases?facet=_industry:(%22Independent Oil %26 Gas%22 OR %22Major Integrated Oil %26 Gas%22 OR %22Oil %26 Gas Drilling %26 Exploration%22 OR %22Oil %26 Gas Equipment %26 Services%22 OR %22Oil %26 Gas Pipelines%22 OR %22Oil %26 Gas Refining %26 Marketing%22 OR %22Gas Utilities%22)">Oil &amp; gas</a></p>
+			<p><a href="/search/cases?facet=industry:Stores">Retail</a></p>
+			<p><a href="/search/cases?facet=_sector:(%22Technology%22)">Technology</a></p>
+		</div>
+		<div class="col">
+			<h4>Intellectual Property</h4>
+			<p><a href="/search/cases?facet=_subject_nature:%22Property Rights - 820(Copyrights)%22">Copyright</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:%22Property Rights - 830(Patent)%22">Patent</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:%22Property Rights - 840(Trademark)%22">Trademark</a></p>
+			<h4>Labor &amp; Employment</h4>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Civil Rights - 442(Employment)%22 OR %22Civil Rights - 445(Amer w/Disabilities-Employment)%22 OR %22Labor - 791(Employee Retirement Income Security Act)%22 OR %22Labor - 710(Fair Labor Standards Act)%22 OR %22Forfeiture/Penalty - 660(Occupational Safety/Health)%22 OR %22Labor - 720(Labor/Management Relations)%22 OR %22Labor - 730(Labor/Management Reporting %26 Disclosure Act)%22 OR %22Labor - 740(Railway Labor Act)%22 OR %22Labor - 790(Other Labor Litigation)%22 OR %22Personal Injury - 330(Federal Employers Liability)%22)%7C_multi_party_litigation:(%22Class Action%22 OR %22Multi-district Litigation%22)">Employment class actions</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Civil Rights - 442(Employment)%22 OR %22Civil Rights - 445(Amer w/Disabilities-Employment)%22)">Discrimination</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:%22Labor - 791(Employee Retirement Income Security Act)%22">ERISA</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Labor - 710(Fair Labor Standards Act)%22 OR %22Forfeiture/Penalty - 660(Occupational Safety/Health)%22 OR %22Labor - 720(Labor/Management Relations)%22 OR %22Labor - 730(Labor/Management Reporting %26 Disclosure Act)%22 OR %22Labor - 740(Railway Labor Act)%22 OR %22Labor - 790(Other Labor Litigation)%22 OR %22Personal Injury - 330(Federal Employers Liability)%22)">Labor/management</a></p>
+			<h4>Corporate</h4>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Other Statutes - 410(Antitrust)%22)">Antitrust</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Bankruptcy - 422(Appeal 28 USC 158)%22)">Bankruptcy appeals</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Contract - 190(Other Contract)%22)">Commercial contracts</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Other Statutes - 893(Environmental Matters)%22)">Environmental</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Contract - 110(Insurance)%22)">Insurance</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Contract - 195(Contract Product Liability)%22 OR %22Personal Injury - 310(Airplane)%22 OR %22Personal Injury - 315(Airplane Product Liability)%22 OR %22Personal Injury - 330(Federal Employers Liability)%22 OR %22Personal Injury - 340(Marine)%22 OR %22Personal Injury - 345(Marine Product Liability)%22 OR %22Personal Injury - 350(Motor Vehicle)%22 OR %22Personal Injury - 355(Motor Vehicle Product Liability)%22 OR %22Personal Injury - 360(Other Personal Injury)%22 OR %22Personal Injury - 362(Medical Malpractice)%22 OR %22Personal Injury - 365(Product Liability)%22 OR %22Personal Injury - 368(Asbestos Personal Injury Product Liability)%22 OR %22Personal Property - 385(Property Damage Product Liability)%22 OR %22Real Property - 240(Torts to Land)%22 OR %22Real Property - 245(Tort Product Liability)%22)">Product liability</a></p>
+			<p><a href="/search/cases?facet=_subject:%22Real Property%22">Real estate</a></p>
+			<p><a href="/search/cases?facet=_subject_nature:(%22Contract - 140(Negotiable Instrument)%22 OR %22Contract - 160(Stockholders' Suits)%22 OR %22Other Statutes - 850(Securities/Commodities/Exchange)%22)">Securities</a></p>
+			<p><a href="/search/cases?facet=_subject:%22Tax%22">Tax</a></p>
+		</div>
+	</div>
+</div>
+<div id="News">
+	<div class="section">
+		<div class="col">
+			<h4>Practice Areas</h4>
+			<p><a href="/appellate">Appellate</a></p>
+			<p><a href="/bankruptcy">Bankruptcy</a></p>
+			<p><a href="/classaction">Class Action</a></p>
+			<p><a href="/commercialcontracts">Commercial Contracts</a></p>
+			<p><a href="/competition">Competition</a></p>
+			<p><a href="/consumerprotection">Consumer Protection</a></p>
+			<p><a href="/corporate">Corporate</a></p>
+			<p><a href="/employment">Employment</a></p>
+			<p><a href="/environmental">Environmental</a></p>
+			<p><a href="/governmentcontracts">Government Contracts</a></p>
+			<p><a href="/insurance">Insurance</a></p>
+			<p><a href="/ip">Intellectual Property</a></p>
+			<p><a href="/internationaltrade">International Trade</a></p>
+			<p><a href="/mergersacquisitions">Mergers &amp; Acquisitions</a></p>
+			<p><a href="/privacy">Privacy</a></p>
+			<p><a href="/productliability">Product Liability</a></p>
+			<p><a href="/projectfinance">Project Finance</a></p>
+			<p><a href="/publicpolicy">Public Policy</a></p>
+			<p><a href="/securities">Securities</a></p>
+			<p><a href="/tax">Tax</a></p>
+			<p><a href="/whitecollar">White Collar</a></p>
+		</div>
+		<div class="col">
+			<h4>Industries</h4>
+			<p><a href="/aerospace">Aerospace &amp; Defense</a></p>
+			<p><a href="/assetmanagement">Asset Management</a></p>
+			<p><a href="/automotive">Automotive</a></p>
+			<p><a href="/banking">Banking</a></p>
+			<p><a href="/energy">Energy</a></p>
+			<p><a href="/health">Health</a></p>
+			<p><a href="/hospitality">Hospitality</a></p>
+			<p><a href="/lifesciences">Life Sciences</a></p>
+			<p><a href="/media">Media &amp; Entertainment</a></p>
+			<p><a href="/privateequity">Private Equity</a></p>
+			<p><a href="/realestate">Real Estate</a></p>
+			<p><a href="/retail">Retail &amp; E-Commerce</a></p>
+			<p><a href="/technology">Technology</a></p>
+			<h4>Regions</h4>
+			<p><a href="/california">California</a></p>
+			<p><a href="/florida">Florida</a></p>
+			<p><a href="/newjersey">New Jersey</a></p>
+			<p><a href="/newyork">New York</a></p>
+			<p><a href="/pennsylvania">Pennsylvania</a></p>
+			<p><a href="/texas">Texas</a></p>
+			<h4><a href="/legalindustry">Legal Industry</a></h4>
+		</div>
+	</div>
+</div>
+<div id="Tools">
+	<div class="section">
+		<p><a href="/advanced_search/firms_directory">Law Firms</a></p>
+		<p><a href="/advanced_search/companies_directory">Companies</a></p>
+		<p><a href="/advanced_search/industries">Industries</a></p>
+		<p><a href="/advanced_search/agencies_directory">Government Agencies</a></p>
+	</div>
+</div>
+<div id="Rankings">
+	<div class="section">
+		<div class="col">
+				<p><a href="/rankings/fcpa-powerhouses">FCPA Powerhouses</a></p>
+				<p><a href="/rankings/glass-ceiling-report">Glass Ceiling Report</a></p>
+				<p><a href="/rankings/global-20">Global 20</a></p>
+				<p><a href="/rankings/innovative-managing-partners">Innovative Managing Partners</a></p>
+				<p><a href="/rankings/law360-400">Law360 400</a></p>
+				<p><a href="/rankings/mvps-of-the-year">MVPs of the Year</a></p>
+				<p><a href="/rankings/most-feared-plaintiffs-firms">Most Feared Plaintiffs Firms</a></p>
+				<p><a href="/rankings/practice-groups-of-the-year">Practice Groups of the Year</a></p>
+				<p><a href="/rankings/pro-bono-firms-of-the-year">Pro Bono Firms of the Year</a></p>
+				<p><a href="/rankings/rising-stars">Rising Stars</a></p>
+				<p><a href="/rankings/top-female-trial-attorneys">Top Female Trial Attorneys</a></p>
+		</div>
+	</div>
+</div>
+
+			</header>  
+			<div id="Page">
+				<div id="Main" class="clearfix">
+					<div id="Terms">
+<h1>Portfolio Media, Inc. Privacy Policy</h1>
+<p><b><a href="#p1">1. Scope of this Privacy Policy</a></b></p>
+<p><b><a href="#p2">2. Collection of Information</a></b></p>
+<p><b><a href="#p3">3. Use of Your Personal Information</a></b></p>
+<p><b><a href="#p4">4. Sharing or Disclosing Your Personal Information</a></b></p>
+<p><b><a href="#p5">5. Children's privacy</a></b></p>
+<p><b><a href="#p6">6. Your Choices and Selecting your Privacy Preferences</a></b></p>
+<p><b><a href="#p7">7. Access to and Accuracy of Your Personal Information</a></b></p>
+<p><b><a href="#p8">8. Security</a></b></p>
+<p><b><a href="#p9">9. Changes to this Policy</a></b></p>
+<p><b><a href="#p10">10. Cross Border Transfer of Data</a></b></p>
+<p><b><a href="#p11">11. Contacting Us</a></b></p>
+<br>
+<p><b><a name="p1">1.
+Scope of this Privacy Policy</a></b></p>
+<p>
+This privacy policy
+describes how Portfolio Media, Inc. and its worldwide affiliated
+group companies (collectively, “Portfolio Media”) will use the
+personal information collected when you visit the Portfolio Media,
+Inc. websites, application websites and mobile platforms that contain
+a link to this privacy policy, as well as any newsletters subscribed
+to via any of the foregoing (each, a “Service”).  A Service may
+supplement this privacy policy with additional privacy terms or with
+additional privacy notices in connection with certain features of
+that Service.   
+</p>
+<p>
+This privacy policy
+does not apply to websites, applications or mobile platforms that are
+not linked to this privacy policy or to those operated by third
+parties.  We encourage you to review the privacy policies posted on
+those websites, applications and mobile platforms.</p>
+<p>
+<br>
+</p>
+<p><b><a name="p2">2.
+Collection of Information</a></b></p>
+<p><br>
+</p>
+<p>The
+Service collects information from you in two ways:  directly from
+your input and automatically through the Service’s technologies.</p>
+<p><br>
+</p>
+<p><b>a.
+Information provided by you</b></p>
+<p><br>
+</p>
+<p>The
+types of information the Service collects directly from you may
+include the following as well as any other information type that we
+expressly ask you to enter and submit to the Service:</p>
+<p><br>
+</p>
+<ul>
+	<li><p>Contact
+	information, such as your name, email address, and telephone number;
+	
+	</p>
+	</li><li><p>Usernames
+	and passwords;</p>
+	</li><li><p>Comments
+	and feedback;</p>
+	</li><li><p>Interests
+	and communication preferences.</p>
+</li></ul>
+<p><br>
+</p>
+<p><b>b.
+Information Collected Automatically</b></p>
+<p><br>
+</p>
+<p>The
+Service automatically collects certain information regarding your use
+of the Service. Examples of information collected automatically
+include:</p>
+<p><br>
+</p>
+<ul>
+	<li><p>Internet
+	Protocol ("IP") address used to connect your computer to
+	the Internet; 
+	</p>
+	</li><li><p>Computer,
+	device and connection information, such as browser type and version,
+	operating system, mobile platform and unique device identifier
+	(“UDID”) and other technical identifiers; 
+	</p>
+	</li><li><p>Uniform
+	Resource Locator ("URL") click stream data, including date
+	and time, and content you
+	viewed or searched for on a Service;</p>
+</li></ul>
+<p><br>
+</p>
+<p>We
+may use and disclose automatically collected information for any
+purpose, except where we are restricted by applicable law.  If we
+combine any automatically collected information with personal
+information, the combined information will be treated by us as
+personal information.  
+</p>
+<p><br>
+</p>
+<p>We
+may also use aggregated information for any purpose, however, this
+information does not identify specific individuals and so is not
+personal information. 
+</p>
+<p>
+<br>
+</p>
+<p>
+<b>c. Cookies and
+Web Beacons</b></p>
+<p><br>
+</p>
+<p>
+The Service may
+also automatically collect information through the use of cookies or
+similar technologies, such as web beacons.  Cookies are small text
+files that a website sends to the browser on your computer or mobile
+device when you first visit a web page so that the website can
+recognize your device the next time you visit.  Most websites
+typically use the following:  
+</p>
+<p><br>
+</p>
+<ul>
+	<li><p>“Session”
+	cookies, which are temporary and deleted when you close your
+	browser;</p>
+	</li><li><p>“Persistent”
+	cookies, which remain until you delete them or they expire;  
+	</p>
+	</li><li><p>Web
+	beacons, which are electronic images also known as single-pixel
+	gifs.  
+	</p>
+</li></ul>
+<p><br>
+</p>
+<p>In
+general, cookies, web beacons and similar technologies do not contain
+personally identifiable information, but when you furnish your
+personal information through the Service, this information may be
+linked to the non-personally identifiable data stored in cookies sent
+to your browser from the Service.</p>
+<p><br>
+</p>
+<p>Portfolio
+Media and its service providers use these technologies for various
+purposes, including: facilitating the login process, administering,
+customizing and improving the Service,<b>
+</b>personalizing the browsing experience;
+advertising, promotions and surveys. <b>[</b>as
+well as tracking and analyzing user preferences and trends.</p>
+<p><br>
+</p>
+<p>
+There are a number
+of ways to manage cookies.  The “help” portion of the toolbar on
+most browsers will tell you how to stop accepting cookies, how to be
+notified when you receive a new browser cookie, and how to disable
+existing browser cookies.  However, if you block cookies, you may not
+be able to register, login or make full use of the Service.  You can
+also use your mobile device’s settings to manage the available
+privacy options.</p>
+<p><br>
+</p>
+<p>Our
+HTML-formatted emails may contain a web beacon to tell us whether our
+emails are opened and verify any clicks through to links or
+advertisements within the email.  We may use this information for
+purposes including determining which of our emails are more
+interesting to users.  The web beacon will be deleted when you delete
+the email.  Emails in plain text (if applicable) rather than HTML
+will not include the web beacon.</p>
+<p><br>
+</p>
+<p><b><a name="p3">3.
+Use of Your Personal Information</a></b></p>
+<p>
+<br>
+</p>
+<p>We
+use the personal information collected through the Service to
+complete various actions: 
+</p>
+<p><br>
+</p>
+<ul>
+	<li><p>
+	to provide and
+	improve service and support; 
+	</p>
+	</li><li><p>
+	to update you on
+	relevant new services and benefits; 
+	</p>
+	</li><li><p>
+	to personalize the
+	Service and to select content to be communicated to you or to use
+	features on the Service such as sharing content with a friend or
+	colleague;</p>
+	</li><li><p>
+	for data analysis,
+	audits, developing new products, enhancing the Service, identifying
+	usage trends and determining the effectiveness of our promotional
+	campaigns, or in other ways to which you have expressly agreed in a
+	customer agreement with us;  
+	</p>
+	</li><li><p>
+	to prevent and
+	detect security threats, fraud or other malicious activity; and 
+	</p>
+	</li><li><p>to
+	comply with our legal obligations, resolve disputes, and enforce our
+	agreements.</p>
+</li></ul>
+<p>
+<br>
+</p>
+<p>We
+may on occasion also match or combine the personal information that
+you provide with information that we obtain from other sources or
+that is already in our records, whether collected online or offline
+or by predecessor or affiliated group companies, for the purposes
+described above.</p>
+<p><br>
+</p>
+<p><b><a name="p4">4.
+Sharing or Disclosing Your Personal Information</a></b></p>
+<p>
+<br>
+</p>
+<p>
+We share your
+personal information in the following ways:</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<ul>
+	<li><p><b>Affiliates.</b>
+	Your personal information may be accessible to all Portfolio Media
+	affiliated companies worldwide for the purposes described in this
+	policy.  
+	</p>
+</li></ul>
+<p><br>
+</p>
+<p><br>
+</p>
+<ul>
+	<li><p><b>Service
+	Providers.</b>  Your personal information may be
+	accessible to our service providers and suppliers, which assist us
+	with producing and delivering our products and services, operating
+	our business, and marketing, promotion and communications. These
+	providers and suppliers include, for example, editors, reviewers,
+	credit card processors, customer support, email service providers,
+	IT service providers and shipping agents. 
+	</p>
+</li></ul>
+<p><br>
+</p>
+<ul>
+	<li><p><b>Institutional
+	Subscribers</b>.  If the Service offers a
+	content database or learning service ("Subscription Service")
+	and you access the Subscription Service through an
+	institution-sponsored subscription, your personal information and
+	certain usage data gathered through the Subscription Service, may be
+	shared with your institution for the purposes of usage analysis or
+	subscription management.&nbsp; 
+	</p>
+</li></ul>
+<p><br>
+</p>
+<ul>
+	<li><p><b>Other
+	Third Parties:</b>  We may share personal
+	Information with other third parties if we  expressly told you about
+	such potential disclosure at the point at which you submitted the
+	Information to us.</p>
+</li></ul>
+<p><br>
+</p>
+<ul>
+	<li><p>
+	<b>Compliance with
+	Law and Similar Obligations.</b>  We may share
+	personal information in order to: (i) respond to or comply with any
+	law, regulation, subpoena or court order; (ii) investigate and help
+	prevent security threats, fraud or other malicious activity; (iii)
+	enforce and protect the rights and properties of Portfolio Media or
+	its affiliates; or (iv) protect the rights or personal safety of our
+	employees and third parties on or using our property. 
+	</p>
+</li></ul>
+<p><br>
+</p>
+<ul>
+	<li><p>
+	<b>Change in
+	Corporate Circumstances.</b>  If Portfolio
+	Media, the Service or a related asset or line of business is
+	acquired by, transferred to or merged with another company, your
+	personal information may be disclosed to the prospective or actual
+	purchasers. 
+	</p>
+</li></ul>
+<p><br>
+</p>
+<p>The
+Service also may provide access to social media features, message
+boards, chat, forums, blogs, profile pages and other services to
+which you are able to post personal information and materials.  Any
+information you post or disclose through these services is public. 
+Please be careful when disclosing personal information in these
+public areas. 
+</p>
+<p><br>
+</p>
+<p><b><a name="p5">5.
+Children’s Privacy</a></b></p>
+<p>
+<br>
+</p>
+<p>
+We do not knowingly
+collect information from children under the age of 13 and Portfolio
+Media does not target its websites to children under 13.  
+</p>
+<p><br>
+</p>
+<p><b><a name="p6">6.
+Your Choices and Selecting Your Privacy Preferences</a></b></p>
+<p>
+<br>
+</p>
+<p>You
+can manage available  communications preferences when you register
+with the relevant Service, by updating your account preferences, or,
+where applicable, by using the “opt-out” or unsubscribe mechanism
+or other means provided within the communications that you receive. 
+We reserve the right to notify you of changes or updates to the
+Service whenever necessary.</p>
+<p>
+<br>
+</p>
+<p><b><a name="p7">7.
+Access to and Accuracy of Your Personal Information</a></b></p>
+<p>
+<br>
+</p>
+<p>
+You may request
+access to personal information about you that you have provided to us
+through the websites or mobile platforms governed by this policy.&nbsp;
+You may also request to review and correct any of that personal
+information.&nbsp; Additional rights may also apply under applicable
+laws.&nbsp; 
+</p>
+<p>The
+Service may allow registered users to access their registration
+information and make corrections or updates.  The accuracy of such
+information is solely the responsibility of the user.  No access is
+given to other data that may have been collected about users.  
+</p>
+<p><br>
+</p>
+<p>To
+protect your privacy and security, we will also take reasonable steps
+to verify your identity.  To view and change the personal information
+that you directly provided to us (if any), contact us at the address
+listed below.</p>
+<p>
+<br>
+</p>
+<p><b><a name="p8">8.
+Data Security</a></b></p>
+<p>
+<br>
+</p>
+<p>
+We use a variety of
+data security measures intended to ensure the confidentiality and
+integrity of your personal information.</p>
+<p>
+<br>
+</p>
+<p><b><a name="p9">9.
+Changes to Privacy Policy</a></b></p>
+<p>
+<br>
+</p>
+<p>If
+we modify this privacy policy, we will post the revised version here,
+with an updated revision date. 
+</p>
+<p>
+<br>
+</p>
+<p><b><a name="p10">10.
+Cross-Border Transfer of Personal Information</a></b></p>
+<p>
+<br>
+</p>
+<p>
+Your personal
+information may be transferred to other countries for processing, and
+by using the Service you consent to the transfer of information to
+countries outside of your country of residence, which may have
+different personal data protection rules than in your country. 
+</p>
+<p><br>
+</p>
+<p><b><a name="p11">11.
+Contacting Us</a></b></p>
+<p><br>
+</p>
+<p>
+If you have
+comments or questions about this privacy policy or
+our processing of your information, please contact:</p>
+<p><br>
+</p>
+<p>
+<br>
+</p>
+<p>Customer
+Service Department</p>
+<p><br>
+</p>
+<p>860
+Broadway, 6<sup>th</sup>
+Floor</p>
+<p>New
+York, NY 10003</p>
+<p>United
+States of America</p>
+<p>Email:
+customerservice@law360.com</p>
+<p><br>
+</p>
+<p><br>
+</p>
+<p>
+This privacy policy
+was last updated on January 2, 2014.  The effective date of this
+policy for a specific web site will depend on the date the site first
+linked to this updated policy.</p>
+</div>
+				</div>
+			</div>
+			<footer id="Footer">
+				<p class="copyright">© Copyright 2014, Portfolio Media, Inc. | <a href="/">Home</a> | <a href="/about">About</a> | <a href="/about/contact">Contact Us</a> | <a href="/site_map">Site Map</a> | <a href="/site_index">Site Index</a> | <a href="http://jobs.law360.com/">Jobs</a> | <a href="http://careers.law360.com/NA1/ats/careers/jobSearch.jsp?org=PORTFOLIOMEDIA&amp;cws=1&amp;rid=11" target="_new">Careers at Law360</a> | <a href="/m">Mobile</a> | <a href="/terms">Terms</a> | <a href="/privacy_policy">Privacy Policy</a></p>
+<p class="sitelinks">
+	<label><strong>Beta Tools:</strong> </label><a href="/advanced_search/dockets" title="Track docs">Track docs</a> | <a href="/advanced_search/attorneys" title="Track attorneys">Track attorneys</a> | <a href="/advanced_search/judges" title="Track judges">Track judges</a>
+</p>
+
+			</footer>
+		</div>
+	  	<!-- Javascript at the bottom for fast page loading -->
+			
+
+		<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-3460073-1']);
+
+			_gaq.push(['_setCustomVar', 6, 'Access-Type', 'Anonymous', 2]);
+			_gaq.push(['_setCustomVar', 7, 'Account-Type', 'Unpaid', 1]);
+
+	_gaq.push(['_trackPageview']);
+
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+		<!-- begin Pardot Website Tracking code -->
+
+<script type="text/javascript">
+piAId = '33982';
+piCId = '1554';
+
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+</script>
+
+<!-- end Pardot Website Tracking code -->
+
+	
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
