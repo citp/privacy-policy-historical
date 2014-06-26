@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2013-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130908073019id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054911id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
 
 # AddressTwo
 
