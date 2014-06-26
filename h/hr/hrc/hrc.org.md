@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206173537id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627004322id_/http%3A//www.hrc.org/the-hrc-story/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Rights Campaign
 
@@ -19,16 +19,18 @@ You do not have to share personally identifiable information to use the HRC web 
   * How to contact us about privacy
 
 
-  1. ###  **How we collect and use the information gathered when you become a member of HRC or use one of our online services:**
+  1. ###  **How we collect and use the information gathered when you become a member of HRC or use one of our online services **or mobile applications** :**
 
 
 
 
-We gather contact information when you contribute to HRC online or via mail, join at pride or another event, when you sign up to use the HRC Action Center, when you sign up on one of our listservs such as Family Project, Workplace Project or in our press room, or when you otherwise provide personal information on our web site.  We may also collect information from public sources, third party companies, or other organizations which we may combine with information from other sources. We use this information to contact you and send you legislative updates, action alerts, press releases, information about HRC programs, events and activities, local volunteer opportunities and membership and renewal appeals.
+We gather contact information when you contribute to HRC online or via mail, join at pride or another event, when you sign up to use the HRC Action Center, when you sign up on one of our listservs such as Family Project, Workplace Project or in our press room, when you download one of our mobile applications, or when you otherwise provide personal information on our web site.  We may also collect information from public sources, third party companies, or other organizations which we may combine with information from other sources. We use this information to contact you and send you legislative updates, action alerts, press releases, information about HRC programs, events and activities, local volunteer opportunities and membership and renewal appeals.
 
-HRC also uses information gathered via the HRC web site to improve our web-based services. HRC periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our web site and to use such information to improve on our website's ability to serve you better.
+HRC also uses information gathered via the HRC web site or one of our mobile applications to improve our web-based services. HRC periodically performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our web site and to use such information to improve on our website's ability to serve you better.
 
 Cookies: HRC uses "cookies" on some web pages. A cookie is a small piece of data stored in the memory of on an End User's web browser but does not itself contain any personal information. Cookies enhance an End User's experience by saving the End User from having to log in or provide information each time he or she revisits an HRC web page and by customizing content based on an End User's interests. An End User can configure his or her browser to be alerted when a site is attempting to send a cookie and refuse the cookie. HRC also tracks End User activity and click-through behavior to provide an End User with a more personalized experience while visiting our web pages and for more personalized email alerts. HRC also uses IP addresses to analyze trends, administer the web site, track End User movement and gather broad demographic information for aggregate use.
+
+Geolocation data: If you choose to provide location data pursuant to a Location-Based Service feature on our website, or to enable Location Services for an HRC mobile application [such as the "Buy4Equality App,"](http://www.hrc.org/human-rights-campaign-buy4equality-end-user-license-agreement) we may collect and use location data as you provide, or as sent from your device, to provide and improve location-based products and services. For mobile applications, you can turn off this functionality at any time by disabling Location Services in the settings for the application on your device; however, some parts of the application may not work if Location Services are disabled.
 
 HRC’s web site is not directed to children, and HRC does not knowingly collect personally identifiable information about individuals under the age of 18. 
 
