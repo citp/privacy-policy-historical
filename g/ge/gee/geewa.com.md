@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820030247id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geewa.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094141id_/http%3A//www.geewa.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Live Games - Help
 
@@ -36,8 +36,8 @@ The Geewa website (the "Site") is provided by Geewa a.s.., a company registered 
 
     1. We may use personal information for: administrative, operational and marketing purposes and to communicate with you about your use of the Services or any changes to the Services. We will only pass on your information to other companies if it is necessary to perform the Services or with your prior consent. 
     2. If you breach the Terms of Use your personal information may be passed to third parties, such as our legal advisors to the extent necessary to enable those third parties to resolve the matter. 
-    3. 4.3 If this business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchasers and their advisors and will be passed on to the new owners of the business. 
-    4. 4.4 We may be obliged to disclose your personal information if required to do so by law.
+    3. If this business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchasers and their advisors and will be passed on to the new owners of the business. 
+    4. We may be obliged to disclose your personal information if required to do so by law.
   5. ####  Other Information
 
     1. We may also collect and disclose information to third parties in aggregate (so that no individual members are identified) for statistical analysis and strategic development purposes. 
