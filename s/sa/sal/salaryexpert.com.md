@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811024956id_/http%3A//www.erieri.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626093716id_/http%3A//www.erieri.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Last Updated:
 
                                              Privacy Policy
-  Last Updated: March 2013
+  Last Updated: May 2014
   This Privacy Policy ("Policy") tells you about the information ERI Economic Research Institute,
   Inc. ("ERI") collects through the services available on the ERI family of websites, including:
-  www.erieri.com, www.erieri.ca, www.erieri.co.uk, www.eridlc.com,
-  www.eri-executive-compensation.com, www.eri-salary-survey.com, www.eri-salary-surveys.com,
-  www.eri-nonprofit-salaries.com, www.cost-of-living.com, www.costofliving.net,
-  www.nonprofit-compensation.com, http://salary-surveys.erieri.com, www.salaryexpert.com, and
-  www.globalsalarycalculator.com (collectively the "Site"), how ERI uses that information, and how
-  you (the end-user) can opt out of certain uses of information that ERI may collect.
+  www.erieri.com, www.eri-executive-compensation.com, www.eri-nonprofit-salaries.com,
+  www.cost-of-living.com, www.costofliving.net, www.paq.com, and www.salaryexpert.com
+  (collectively the "Site"), how ERI uses that information, and how you (the end-user) can opt out of
+  certain uses of information that ERI may collect.
   By using ERI's services and accessing the Site, you are consenting to the information collection
   and use practices described in this Policy, as modified from time to time by ERI. Should ERI
   decide to change the Policy, ERI will post a new policy on the Site and change the date at the top
@@ -47,10 +45,10 @@
              Subscription Delivery. ERI will use your mailing address to send to you the
            subscriptions that you have ordered, and your e-mail address to contact you about
            renewing your subscription or about other available products, programs, and services
+           provided by ERI.
 1
 
 
-     provided by ERI.
        Internal Analyses, Promotions, and Databases. ERI may use information about
      you for ERI's internal statistical, design, and operational purposes, such as to estimate
      the Site's audience size; measure aggregate traffic patterns; and understand
@@ -96,11 +94,11 @@
      or the public.
     Company Sale. Information collected through the Site is considered a trade secret of
      ERI. As the owner of such information, ERI may disclose or sell such information as an
+     asset of ERI in conjunction with the sale to a third party of ERI or a portion of ERI's
+     assets.
 2
 
 
-           asset of ERI in conjunction with the sale to a third party of ERI or a portion of ERI's
-           assets.
   International Visitors and Customers.
   This web site is hosted in the United States. If you are visiting from the European Union or other
   regions with laws governing data collection and use that may differ from U.S. law, please note
@@ -145,11 +143,11 @@
   ERI utilizes cookies in order to automate access and data entry functions of the Site such as
   correlating online ordering information, tailoring the Site to your preferences or interests, or
   customizing promotions or marketing. In addition, cookies allow ERI to track use of the Site to
+  determine those areas that are useful or popular and those that are not, thereby enabling ERI to
+  improve and update the Site.
 3
 
 
-  determine those areas that are useful or popular and those that are not, thereby enabling ERI to
-  improve and update the Site.
   You may adjust your Web browsers in order to: (a) alert you regarding the use of cookies, or (b)
   allow you to refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click
   on the "Start" button and then select "Control Panel," "Internet Options," and the "Security" tab. If
