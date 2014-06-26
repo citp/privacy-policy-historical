@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202040732id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunter-ed.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042204id_/http%3A//www.hunter-ed.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunter Safety Course with Online Exam - Get Your Hunting License or Certification
 
-**Hunter Ed** is committed to protecting the privacy of its users. Because **Hunter Ed** gathers information about the users who choose to take the online state certification exams, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. This privacy statement discloses what information we gather and how we use it. Please review the following policy to understand how the information you provide **Hunter Ed** will be treated.
+**Hunter Ed** is committed to protecting the privacy of its users. Because **Hunter Ed** gathers information about the users who choose to take the online certification exams, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. This privacy statement discloses what information we gather and how we use it. Please review the following policy to understand how the information you provide **Hunter Ed** will be treated.
 
 ## Information We Collect
 
@@ -20,13 +20,13 @@ The online hunting safety courses on this site contain links to other sites. **H
 
 We do not share, sell, or otherwise distribute information about individual users taking the online hunting safety exam with any third party, or any outside companies or organizations except the agency in your state that is responsible for hunting.
 
-## Security
+## Identity Theft and Security
 
-All of your personal and credit card information is collected using SSL (Secure Socket Layer), which allows your information to be securely transferred to us using Verisign Secure Server Digital ID. Hunter Ed has been approved by VeriSign to protect your credit card and other confidential information with industry-leading SSL encryption. The VeriSign Secured Seal is a trust mark available for display on any website that protects its customers' confidential information using VeriSign services. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
+All of your personal and credit card information is collected using SSL (Secure Socket Layer) Protocol, which encrypts your information and allows that information to be securely transferred to Boat Ed. The SSL Certificate that protects the Boat Ed site ensures that your identity is authenticated and that any and all information you enter on our website is private. After collection, your information is then stored on our servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data.
 
 ## Children and Privacy
 
-**Hunter Ed** encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. **Hunter Ed** fully complies with the Federal Trade Commission's COPPA Act - Children's Online Privacy Protection Act and follows state guidelines for compliance for each state hunter education course we offer.
+**Hunter Ed** encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. **Hunter Ed** fully complies with the Federal Trade Commission's COPPA Act (Children's Online Privacy Protection Act) and follows state guidelines for compliance for each hunter education course we offer.
 
 **Parental access** : Parents of students of any age may contact our Privacy Coordinator at the mailing address provided below if you would like to do any of the following:
 
@@ -41,11 +41,11 @@ Please include your e-mail address and telephone number where we can reach you. 
 
 ## How to contact Hunter Ed
 
-If you have any questions about this privacy statement, the practices of this site you can contact us at:
+If you have any questions about this privacy statement or the practices of this site, you can contact us at:
 
 **Hunter Ed**  
-14086 Proton Rd.   
-Dallas , TX 75244   
+14086 Proton Rd.  
+Dallas, TX 75244  
 214-351-0461
 
 **Hunter Ed** hopes this document answers your questions and concerns about our privacy policy. **Hunter Ed** is committed to protecting the privacy of our students.
