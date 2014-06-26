@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jmwant.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114034859id_/http%3A//www.jmwant.com/front_privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmwant.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072558id_/http%3A//www.jmwant.com/front_privacyPolicy.html) for the most accurate reproduction.*
 
-# My JMWant
+# Privacy Policy – JMWant
 
 JMWant.com Limited ("JMWant") is totally committed to protecting the privacy of our site visitors and customers. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for an item to be sent to you or your customer, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
 
@@ -32,4 +32,4 @@ Our site may contain links to and from the websites of our partner networks, adv
 
 **Checking your Details**
 
-If you wish to verify the details you have submitted to JMWant, you may do so by [contacting us](https://web.archive.org/web/20131114034859id_/http%3A//www.jmwant.com/front_contactUs.html). Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
+If you wish to verify the details you have submitted to JMWant, you may do so by [contacting us](https://web.archive.org/web/20140626072558id_/http%3A//www.jmwant.com/front_contactUs.html). Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information. 
