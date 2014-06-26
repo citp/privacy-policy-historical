@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsmakemoney.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111164501id_/http%3A//www.tipsmakemoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsmakemoney.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626032144id_/http%3A//www.tipsmakemoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,18 +24,18 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Tips Make Money may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  *  _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  *  _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  *  _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  *  _\- To send periodic emails_  
 We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-## **How we Protect Your Information**
+##  **How we Protect Your Information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
 
@@ -73,7 +73,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Address – Chandigarh, India, Punjab 
 
-**Pin –** 140604  
+ **Pin –** 140604  
 **Phone:** 9780188770  
 **Email:  **admin(@)tipsmakemoney.com
 
