@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the celebrations.com privacy policy that was archived on 2013-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205124722id_/http%3A//www.celebrations.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celebrations.com privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626042320id_/http%3A//www.celebrations.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-type">
@@ -7,9 +7,9 @@
 
 <meta name="description" content="Read the privacy policy for Celebrations.com."><link rel="canonical" href="http://www.celebrations.com/info/privacy"><meta name="robots" content="index,follow,noopd,noydir"><meta name="msvalidate.01" content="BDEA274D8CA739E9B67B77BB59195DA5"><meta name="p:domain_verify" content="cde06ec2e88ffb4ebc08f79e78ae07c9">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="mKJ0q/Kmxcd24E5QYnYmudO6ZIAcHXM+nvN554wyOUc=" name="csrf-token">
+<meta content="WgZNVVGHzyR8YYfzhaoAxdhmAoJ9uwkZtNt7opmB0bc=" name="csrf-token">
 
-<link href="http://wac.edgecastcdn.net/8000D3/www.celebrations.com/8000D3/www.celebrations.com/package/cms-ffeb8b91e1a8db784f4716966e0d85d2.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://wac.edgecastcdn.net/8000D3/www.celebrations.com/8000D3/www.celebrations.com/package/cms-f66ee9f398e7246655fa25b2b18294fe.css" media="screen" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 //<![CDATA[
@@ -31,7 +31,7 @@ uPing['currentAction']= "privacy" ;
 //]]>
 </script>
 
-<script src="http://wac.edgecastcdn.net/8000D3/www.celebrations.com/8000D3/www.celebrations.com/package/cms-edff450e3a2878a7bf217de6726c5d92.js" type="text/javascript"></script>
+<script src="http://wac.edgecastcdn.net/8000D3/www.celebrations.com/8000D3/www.celebrations.com/package/cms-96c2afcd1099c7daeffbc4df479d89c9.js" type="text/javascript"></script>
 
 <!-- ----------------------------- BEGIN: CMS STYLESHEETS ----------------------------- -->
 <link href="http://cms.cb.asmsrv.co/css/cb.css" rel="stylesheet" type="text/css">
@@ -54,15 +54,34 @@ var node = document.getElementsByTagName('script')[0];
 node.parentNode.insertBefore(gads, node);
 })();
 
+var ybotq = ybotq || [];
+(function() {
+var js = document.createElement('script');
+js.src = 'http://cdn.yb0t.com/js/yieldbot.intent.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(js, node);
+})();
+    
+ybotq.push(function () {
+yieldbot.pub('73ef');
+yieldbot.defineSlot('leaderboard_standard');
+yieldbot.enableAsync();
+yieldbot.go();
+});
 
+ybotq.push(function() {
 googletag.cmd.push(function() {
-googletag.defineSlot("/13795293/Leaderboard_Standard", [[970, 90], [728, 90]], "leaderboard_dfp").addService(googletag.pubads());
+googletag.defineSlot("/13795293/Leaderboard_Standard", [[970, 90], [728, 90]], "leaderboard_dfp")
+    .setTargeting('ybot_ad', yieldbot.adAvailable('leaderboard_standard'))
+    .setTargeting('ybot_slot', 'leaderboard_standard')
+    .addService(googletag.pubads());
 googletag.defineSlot("/13795293/Left_Nav_160x600", [160,600], "Left_Nav_160x600").addService(googletag.pubads());
 
 googletag.pubads().setTargeting('occasion', 'entertaining');
 googletag.pubads().setTargeting('visitor', 'guest');
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
+});
 });
 
 </script>
@@ -95,10 +114,12 @@ googletag.enableServices();
 <body>
 <div id="leaderboard">
 <div id="leaderboard_wrap">
-      <!-- DFP ad Leaderboard_Standard -->
+      <!-- ybot ad Leaderboard_Standard -->
       <div id="leaderboard_dfp" class="dfp_ad">
         <script type="text/javascript">
-          googletag.cmd.push(function() { googletag.display("leaderboard_dfp"); });
+          ybotq.push(function() {
+            googletag.cmd.push(function() { googletag.display("leaderboard_dfp"); });
+          });
         </script>
       </div>
     </div>
@@ -143,9 +164,9 @@ RECIPES
 </a>
 </li>
 <li class="nav4">
-<a href="/celebrate-this">
-CELEBRATE<br>
-THIS<span>!</span>
+<a href="/make-today">
+MAKE<br>
+TODAY<span>!</span>
 </a>
 </li>
 </ul>
@@ -158,7 +179,7 @@ SIGN
 </div>
 </div>
 <div class="popup login" data-width="200">
-<form accept-charset="UTF-8" action="/login/tiny_login" id="login_form_header" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="mKJ0q/Kmxcd24E5QYnYmudO6ZIAcHXM+nvN554wyOUc="></div>
+<form accept-charset="UTF-8" action="/login/tiny_login" id="login_form_header" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="WgZNVVGHzyR8YYfzhaoAxdhmAoJ9uwkZtNt7opmB0bc="></div>
 <input id="return_after_login" name="return_after_login" type="hidden" value="">
 <div class="bubbles"></div>
 <div class="welcome_back">Welcome Back!</div>
@@ -188,6 +209,7 @@ SIGN
 </div>
 </li>
 </ul>
+
 </div>
 
 <div class="info_origin" id="content">
@@ -209,6 +231,7 @@ SIGN
                   <li><a href="design-a-collection">Design a Collection </a><span>»</span></li>
                   <li><a href="write-for-celebrations">Write for Us </a><span>»</span></li>
                   <li><a href="contact">Contact Us </a><span>»</span></li>
+                  <li><a href="jobs">Jobs</a><span>»</span></li>
                   <li><a href="http://help.pingg.com/index.php/Main_Page">Help </a><span>»</span></li>
                 </ul>
             </div>
@@ -538,6 +561,7 @@ Carle Place, NY 11514</p>
 <li><a href="/gallery/designers">Designers</a></li>
 <li><a href="/info/design-a-collection">Design a Collection</a></li>
 <li><a href="/info/write-for-celebrations">Write for Celebrations</a></li>
+<li><a href="/info/jobs">Jobs</a></li>
 </ul>
 </div>
 <div class="learn_more box">
@@ -548,6 +572,7 @@ Carle Place, NY 11514</p>
 <li><a href="/info/membership">Memberships</a></li>
 <li><a href="/info/postal-cards-invitations">Postal</a></li>
 <li><a href="/info/ticketing">Ticketing</a></li>
+<li><a href="/info/sitemap">Sitemap</a></li>
 </ul>
 </div>
 <div class="connect box">
@@ -562,8 +587,9 @@ Carle Place, NY 11514</p>
 <li><a href="http://www.celebrations.com/callback/clickthrough/?f=dashboard&amp;t=http%3A%2F%2Fcelebrationspartyideas.tumblr.com%2F&amp;s=519a7ae23502d34ce5fbdee14e122a294ab2fdc9" class="tumblr" target="_blank">Tumblr</a></li>
 </ul>
 </div>
-<div class="sponser">
-<p>©2013 celebrations.com LLC | In association with Disney Online Mom and Family Portfolio (Family and Women Network member)</p>
+<div class="sponsor">
+<p>©2013 celebrations.com LLC | Disney Online Mom and Family Portfolio (Network Member)</p>
+<p>Celebrations.com owns and operates this website and collects the information you provide here, subject to its Privacy Policy.</p>
 </div>
 </div>
 <div class="scroll-top">top ▲</div>
@@ -601,15 +627,6 @@ Carle Place, NY 11514</p>
 </noscript>
 <!-- End comScore Tag -->
 
-<div id="facebook_connect_modal_container" style="display:none">
-<div id="facebook_connect_modal" style="text-align:center">
-  <div class="message" style="height:50px;padding-top:15px;font-size:14px;">connecting to Facebook...</div>
-  <div class="connect_image">
-    <img src="http://wac.edgecastcdn.net/8000D3/www.celebrations.com/images/facebook/pingg_facebook.png" alt="Connecting to Facebook">
-  </div>
-</div>
-
-</div>
 
           <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
           <script>
@@ -661,7 +678,6 @@ $('#cmsfeatured').orbit({
     centerBullets: false,
     afterSlideChange: function () {}
 });
-    
     $('.cmsnav').hover(function() {
         $('.dropDownSub',this).show();
     }, function() {
@@ -697,7 +713,7 @@ $('#cmsfeatured').orbit({
 
 <script type="text/javascript">(function (w, d, load) {
  var script,
- first = d.getElementsByTagName('SCRIPT')[0],  
+ first = d.getElementsByTagName('SCRIPT')[0],
  n = load.length,
  i = 0,
  go = function () {
@@ -728,8 +744,997 @@ $('#cmsfeatured').orbit({
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 })();</script>
 
-<!-- ----------------------------- END: CMS EOB JAVASCRIPTS ----------------------------- -->
+<script type="text/javascript">
+/*
+ * jQuery One Page Nav Plugin
+ * http://github.com/davist11/jQuery-One-Page-Nav
+ *
+ * Copyright (c) 2010 Trevor Davis (http://trevordavis.net)
+ * Dual licensed under the MIT and GPL licenses.
+ * Uses the same license as jQuery, see:
+ * http://jquery.org/license
+ *
+ * @version 2.2.0
+ *
+ * Example usage:
+ * $('#nav').onePageNav({
+ *   currentClass: 'current',
+ *   changeHash: false,
+ *   scrollSpeed: 750
+ * });
+ */
 
+(function($, window, document, undefined){
+
+	// our plugin constructor
+	var OnePageNav = function(elem, options){
+		this.elem = elem;
+		this.$elem = $(elem);
+		this.options = options;
+		this.metadata = this.$elem.data('plugin-options');
+		this.$nav = this.$elem.find('a');
+		this.$win = $(window);
+		this.sections = {};
+		this.didScroll = false;
+		this.$doc = $(document);
+		this.docHeight = this.$doc.height();
+	};
+
+	// the plugin prototype
+	OnePageNav.prototype = {
+		defaults: {
+			currentClass: 'current',
+			changeHash: false,
+			easing: 'swing',
+			filter: '',
+			scrollSpeed: 750,
+			scrollOffset: 0,
+			scrollThreshold: 0.5,
+			begin: false,
+			end: false,
+			scrollChange: false
+		},
+
+		init: function() {
+			var self = this;
+
+			// Introduce defaults that can be extended either
+			// globally or using an object literal.
+			self.config = $.extend({}, self.defaults, self.options, self.metadata);
+
+			//Filter any links out of the nav
+			if(self.config.filter !== '') {
+				self.$nav = self.$nav.filter(self.config.filter);
+			}
+
+			//Handle clicks on the nav
+			self.$nav.on('click.onePageNav', $.proxy(self.handleClick, self));
+
+			//Get the section positions
+			self.getPositions();
+
+			//Handle scroll changes
+			self.bindInterval();
+
+			//Update the positions on resize too
+			self.$win.on('resize.onePageNav', $.proxy(self.getPositions, self));
+
+			return this;
+		},
+
+		adjustNav: function(self, $parent) {
+			self.$elem.find('.' + self.config.currentClass).removeClass(self.config.currentClass);
+			$parent.addClass(self.config.currentClass);
+		},
+
+		bindInterval: function() {
+			var self = this;
+			var docHeight;
+
+			self.$win.on('scroll.onePageNav', function() {
+				self.didScroll = true;
+			});
+
+			self.t = setInterval(function() {
+				docHeight = self.$doc.height();
+
+				//If it was scrolled
+				if(self.didScroll) {
+					self.didScroll = false;
+					self.scrollChange();
+				}
+
+				//If the document height changes
+				if(docHeight !== self.docHeight) {
+					self.docHeight = docHeight;
+					self.getPositions();
+				}
+			}, 250);
+		},
+
+		getHash: function($link) {
+			return $link.attr('href').split('#')[1];
+		},
+
+		getPositions: function() {
+			var self = this;
+			var linkHref;
+			var topPos;
+			var $target;
+
+			self.$nav.each(function() {
+				linkHref = self.getHash($(this));
+				$target = $('#' + linkHref);
+
+				if($target.length) {
+					topPos = $target.offset().top;
+					self.sections[linkHref] = Math.round(topPos) - self.config.scrollOffset;
+				}
+			});
+		},
+
+		getSection: function(windowPos) {
+			var returnValue = null;
+			var windowHeight = Math.round(this.$win.height() * this.config.scrollThreshold);
+
+			for(var section in this.sections) {
+				if((this.sections[section] - windowHeight) < windowPos) {
+					returnValue = section;
+				}
+			}
+
+			return returnValue;
+		},
+
+		handleClick: function(e) {
+			var self = this;
+			var $link = $(e.currentTarget);
+			var $parent = $link.parent();
+			var newLoc = '#' + self.getHash($link);
+
+			if(!$parent.hasClass(self.config.currentClass)) {
+				//Start callback
+				if(self.config.begin) {
+					self.config.begin();
+				}
+
+				//Change the highlighted nav item
+				self.adjustNav(self, $parent);
+
+				//Removing the auto-adjust on scroll
+				self.unbindInterval();
+
+				//Scroll to the correct position
+				$.scrollTo(newLoc, self.config.scrollSpeed, {
+					axis: 'y',
+					easing: self.config.easing,
+					offset: {
+						top: -self.config.scrollOffset
+					},
+					onAfter: function() {
+						//Do we need to change the hash?
+						if(self.config.changeHash) {
+							window.location.hash = newLoc;
+						}
+
+						//Add the auto-adjust on scroll back in
+						self.bindInterval();
+
+						//End callback
+						if(self.config.end) {
+							self.config.end();
+						}
+					}
+				});
+			}
+
+			e.preventDefault();
+		},
+
+		scrollChange: function() {
+			var windowTop = this.$win.scrollTop();
+			var position = this.getSection(windowTop);
+			var $parent;
+
+			//If the position is set
+			if(position !== null) {
+				$parent = this.$elem.find('a[href$="#' + position + '"]').parent();
+
+				//If it's not already the current section
+				if(!$parent.hasClass(this.config.currentClass)) {
+					//Change the highlighted nav item
+					this.adjustNav(this, $parent);
+
+					//If there is a scrollChange callback
+					if(this.config.scrollChange) {
+						this.config.scrollChange($parent);
+					}
+				}
+			}
+		},
+
+		unbindInterval: function() {
+			clearInterval(this.t);
+			this.$win.unbind('scroll.onePageNav');
+		}
+	};
+
+	OnePageNav.defaults = OnePageNav.prototype.defaults;
+
+	$.fn.onePageNav = function(options) {
+		return this.each(function() {
+			new OnePageNav(this, options).init();
+		});
+	};
+
+})( jQuery, window , document );
+</script>
+<script type="text/javascript">
+/**
+ * Copyright (c) 2007-2012 Ariel Flesler - aflesler(at)gmail(dot)com | http://flesler.blogspot.com
+ * Dual licensed under MIT and GPL.
+ * @author Ariel Flesler
+ * @version 1.4.3
+ */
+;(function($){var h=$.scrollTo=function(a,b,c){$(window).scrollTo(a,b,c)};h.defaults={axis:'xy',duration:parseFloat($.fn.jquery)>=1.3?0:1,limit:true};h.window=function(a){return $(window)._scrollable()};$.fn._scrollable=function(){return this.map(function(){var a=this,isWin=!a.nodeName||$.inArray(a.nodeName.toLowerCase(),['iframe','#document','html','body'])!=-1;if(!isWin)return a;var b=(a.contentWindow||a).document||a.ownerDocument||a;return/webkit/i.test(navigator.userAgent)||b.compatMode=='BackCompat'?b.body:b.documentElement})};$.fn.scrollTo=function(e,f,g){if(typeof f=='object'){g=f;f=0}if(typeof g=='function')g={onAfter:g};if(e=='max')e=9e9;g=$.extend({},h.defaults,g);f=f||g.duration;g.queue=g.queue&&g.axis.length>1;if(g.queue)f/=2;g.offset=both(g.offset);g.over=both(g.over);return this._scrollable().each(function(){if(!e)return;var d=this,$elem=$(d),targ=e,toff,attr={},win=$elem.is('html,body');switch(typeof targ){case'number':case'string':if(/^([+-]=)?\d+(\.\d+)?(px|%)?$/.test(targ)){targ=both(targ);break}targ=$(targ,this);if(!targ.length)return;case'object':if(targ.is||targ.style)toff=(targ=$(targ)).offset()}$.each(g.axis.split(''),function(i,a){var b=a=='x'?'Left':'Top',pos=b.toLowerCase(),key='scroll'+b,old=d[key],max=h.max(d,a);if(toff){attr[key]=toff[pos]+(win?0:old-$elem.offset()[pos]);if(g.margin){attr[key]-=parseInt(targ.css('margin'+b))||0;attr[key]-=parseInt(targ.css('border'+b+'Width'))||0}attr[key]+=g.offset[pos]||0;if(g.over[pos])attr[key]+=targ[a=='x'?'width':'height']()*g.over[pos]}else{var c=targ[pos];attr[key]=c.slice&&c.slice(-1)=='%'?parseFloat(c)/100*max:c}if(g.limit&&/^\d+$/.test(attr[key]))attr[key]=attr[key]<=0?0:Math.min(attr[key],max);if(!i&&g.queue){if(old!=attr[key])animate(g.onAfterFirst);delete attr[key]}});animate(g.onAfter);function animate(a){$elem.animate(attr,f,g.easing,a&&function(){a.call(this,e,g)})}}).end()};h.max=function(a,b){var c=b=='x'?'Width':'Height',scroll='scroll'+c;if(!$(a).is('html,body'))return a[scroll]-$(a)[c.toLowerCase()]();var d='client'+c,html=a.ownerDocument.documentElement,body=a.ownerDocument.body;return Math.max(html[scroll],body[scroll])-Math.min(html[d],body[d])};function both(a){return typeof a=='object'?a:{top:a,left:a}}})(jQuery);</script>
+<script type="text/javascript">
+;(function($, window, document, undefined) {
+
+	var pluginName = 'stellar',
+		defaults = {
+			scrollProperty: 'scroll',
+			positionProperty: 'position',
+			horizontalScrolling: true,
+			verticalScrolling: true,
+			horizontalOffset: 0,
+			verticalOffset: 0,
+			responsive: true,
+			parallaxBackgrounds: true,
+			parallaxElements: true,
+			hideDistantElements: true,
+			hideElement: function($elem) { $elem.hide(); },
+			showElement: function($elem) { $elem.show(); }
+		},
+
+		scrollProperty = {
+			scroll: {
+				getLeft: function($elem) { return $elem.scrollLeft(); },
+				setLeft: function($elem, val) { $elem.scrollLeft(val); },
+
+				getTop: function($elem) { return $elem.scrollTop();	},
+				setTop: function($elem, val) { $elem.scrollTop(val); }
+			},
+			position: {
+				getLeft: function($elem) { return parseInt($elem.css('left'), 10) * -1; },
+				getTop: function($elem) { return parseInt($elem.css('top'), 10) * -1; }
+			},
+			margin: {
+				getLeft: function($elem) { return parseInt($elem.css('margin-left'), 10) * -1; },
+				getTop: function($elem) { return parseInt($elem.css('margin-top'), 10) * -1; }
+			},
+			transform: {
+				getLeft: function($elem) {
+					var computedTransform = getComputedStyle($elem[0])[prefixedTransform];
+					return (computedTransform !== 'none' ? parseInt(computedTransform.match(/(-?[0-9]+)/g)[4], 10) * -1 : 0);
+				},
+				getTop: function($elem) {
+					var computedTransform = getComputedStyle($elem[0])[prefixedTransform];
+					return (computedTransform !== 'none' ? parseInt(computedTransform.match(/(-?[0-9]+)/g)[5], 10) * -1 : 0);
+				}
+			}
+		},
+
+		positionProperty = {
+			position: {
+				setLeft: function($elem, left) { $elem.css('left', left); },
+				setTop: function($elem, top) { $elem.css('top', top); }
+			},
+			transform: {
+				setPosition: function($elem, left, startingLeft, top, startingTop) {
+					$elem[0].style[prefixedTransform] = 'translate3d(' + (left - startingLeft) + 'px, ' + (top - startingTop) + 'px, 0)';
+				}
+			}
+		},
+
+		// Returns a function which adds a vendor prefix to any CSS property name
+		vendorPrefix = (function() {
+			var prefixes = /^(Moz|Webkit|Khtml|O|ms|Icab)(?=[A-Z])/,
+				style = $('script')[0].style,
+				prefix = '',
+				prop;
+
+			for (prop in style) {
+				if (prefixes.test(prop)) {
+					prefix = prop.match(prefixes)[0];
+					break;
+				}
+			}
+
+			if ('WebkitOpacity' in style) { prefix = 'Webkit'; }
+			if ('KhtmlOpacity' in style) { prefix = 'Khtml'; }
+
+			return function(property) {
+				return prefix + (prefix.length > 0 ? property.charAt(0).toUpperCase() + property.slice(1) : property);
+			};
+		}()),
+
+		prefixedTransform = vendorPrefix('transform'),
+
+		supportsBackgroundPositionXY = $('<div />', { style: 'background:#fff' }).css('background-position-x') !== undefined,
+
+		setBackgroundPosition = (supportsBackgroundPositionXY ?
+			function($elem, x, y) {
+				$elem.css({
+					'background-position-x': x,
+					'background-position-y': y
+				});
+			} :
+			function($elem, x, y) {
+				$elem.css('background-position', x + ' ' + y);
+			}
+		),
+
+		getBackgroundPosition = (supportsBackgroundPositionXY ?
+			function($elem) {
+				return [
+					$elem.css('background-position-x'),
+					$elem.css('background-position-y')
+				];
+			} :
+			function($elem) {
+				return $elem.css('background-position').split(' ');
+			}
+		),
+
+		requestAnimFrame = (
+			window.requestAnimationFrame       ||
+			window.webkitRequestAnimationFrame ||
+			window.mozRequestAnimationFrame    ||
+			window.oRequestAnimationFrame      ||
+			window.msRequestAnimationFrame     ||
+			function(callback) {
+				setTimeout(callback, 1000 / 60);
+			}
+		);
+
+	function Plugin(element, options) {
+		this.element = element;
+		this.options = $.extend({}, defaults, options);
+
+		this._defaults = defaults;
+		this._name = pluginName;
+
+		this.init();
+	}
+
+	Plugin.prototype = {
+		init: function() {
+			this.options.name = pluginName + '_' + Math.floor(Math.random() * 1e9);
+
+			this._defineElements();
+			this._defineGetters();
+			this._defineSetters();
+			this._handleWindowLoadAndResize();
+			this._detectViewport();
+
+			this.refresh({ firstLoad: true });
+
+			if (this.options.scrollProperty === 'scroll') {
+				this._handleScrollEvent();
+			} else {
+				this._startAnimationLoop();
+			}
+		},
+		_defineElements: function() {
+			if (this.element === document.body) this.element = window;
+			this.$scrollElement = $(this.element);
+			this.$element = (this.element === window ? $('body') : this.$scrollElement);
+			this.$viewportElement = (this.options.viewportElement !== undefined ? $(this.options.viewportElement) : (this.$scrollElement[0] === window || this.options.scrollProperty === 'scroll' ? this.$scrollElement : this.$scrollElement.parent()) );
+		},
+		_defineGetters: function() {
+			var self = this,
+				scrollPropertyAdapter = scrollProperty[self.options.scrollProperty];
+
+			this._getScrollLeft = function() {
+				return scrollPropertyAdapter.getLeft(self.$scrollElement);
+			};
+
+			this._getScrollTop = function() {
+				return scrollPropertyAdapter.getTop(self.$scrollElement);
+			};
+		},
+		_defineSetters: function() {
+			var self = this,
+				scrollPropertyAdapter = scrollProperty[self.options.scrollProperty],
+				positionPropertyAdapter = positionProperty[self.options.positionProperty],
+				setScrollLeft = scrollPropertyAdapter.setLeft,
+				setScrollTop = scrollPropertyAdapter.setTop;
+
+			this._setScrollLeft = (typeof setScrollLeft === 'function' ? function(val) {
+				setScrollLeft(self.$scrollElement, val);
+			} : $.noop);
+
+			this._setScrollTop = (typeof setScrollTop === 'function' ? function(val) {
+				setScrollTop(self.$scrollElement, val);
+			} : $.noop);
+
+			this._setPosition = positionPropertyAdapter.setPosition ||
+				function($elem, left, startingLeft, top, startingTop) {
+					if (self.options.horizontalScrolling) {
+						positionPropertyAdapter.setLeft($elem, left, startingLeft);
+					}
+
+					if (self.options.verticalScrolling) {
+						positionPropertyAdapter.setTop($elem, top, startingTop);
+					}
+				};
+		},
+		_handleWindowLoadAndResize: function() {
+			var self = this,
+				$window = $(window);
+
+			if (self.options.responsive) {
+				$window.bind('load.' + this.name, function() {
+					self.refresh();
+				});
+			}
+
+			$window.bind('resize.' + this.name, function() {
+				self._detectViewport();
+
+				if (self.options.responsive) {
+					self.refresh();
+				}
+			});
+		},
+		refresh: function(options) {
+			var self = this,
+				oldLeft = self._getScrollLeft(),
+				oldTop = self._getScrollTop();
+
+			if (!options || !options.firstLoad) {
+				this._reset();
+			}
+
+			this._setScrollLeft(0);
+			this._setScrollTop(0);
+
+			this._setOffsets();
+			this._findParticles();
+			this._findBackgrounds();
+
+			// Fix for WebKit background rendering bug
+			if (options && options.firstLoad && /WebKit/.test(navigator.userAgent)) {
+				$(window).load(function() {
+					var oldLeft = self._getScrollLeft(),
+						oldTop = self._getScrollTop();
+
+					self._setScrollLeft(oldLeft + 1);
+					self._setScrollTop(oldTop + 1);
+
+					self._setScrollLeft(oldLeft);
+					self._setScrollTop(oldTop);
+				});
+			}
+
+			this._setScrollLeft(oldLeft);
+			this._setScrollTop(oldTop);
+		},
+		_detectViewport: function() {
+			var viewportOffsets = this.$viewportElement.offset(),
+				hasOffsets = viewportOffsets !== null && viewportOffsets !== undefined;
+
+			this.viewportWidth = this.$viewportElement.width();
+			this.viewportHeight = this.$viewportElement.height();
+
+			this.viewportOffsetTop = (hasOffsets ? viewportOffsets.top : 0);
+			this.viewportOffsetLeft = (hasOffsets ? viewportOffsets.left : 0);
+		},
+		_findParticles: function() {
+			var self = this,
+				scrollLeft = this._getScrollLeft(),
+				scrollTop = this._getScrollTop();
+
+			if (this.particles !== undefined) {
+				for (var i = this.particles.length - 1; i >= 0; i--) {
+					this.particles[i].$element.data('stellar-elementIsActive', undefined);
+				}
+			}
+
+			this.particles = [];
+
+			if (!this.options.parallaxElements) return;
+
+			this.$element.find('[data-stellar-ratio]').each(function(i) {
+				var $this = $(this),
+					horizontalOffset,
+					verticalOffset,
+					positionLeft,
+					positionTop,
+					marginLeft,
+					marginTop,
+					$offsetParent,
+					offsetLeft,
+					offsetTop,
+					parentOffsetLeft = 0,
+					parentOffsetTop = 0,
+					tempParentOffsetLeft = 0,
+					tempParentOffsetTop = 0;
+
+				// Ensure this element isn't already part of another scrolling element
+				if (!$this.data('stellar-elementIsActive')) {
+					$this.data('stellar-elementIsActive', this);
+				} else if ($this.data('stellar-elementIsActive') !== this) {
+					return;
+				}
+
+				self.options.showElement($this);
+
+				// Save/restore the original top and left CSS values in case we refresh the particles or destroy the instance
+				if (!$this.data('stellar-startingLeft')) {
+					$this.data('stellar-startingLeft', $this.css('left'));
+					$this.data('stellar-startingTop', $this.css('top'));
+				} else {
+					$this.css('left', $this.data('stellar-startingLeft'));
+					$this.css('top', $this.data('stellar-startingTop'));
+				}
+
+				positionLeft = $this.position().left;
+				positionTop = $this.position().top;
+
+				// Catch-all for margin top/left properties (these evaluate to 'auto' in IE7 and IE8)
+				marginLeft = ($this.css('margin-left') === 'auto') ? 0 : parseInt($this.css('margin-left'), 10);
+				marginTop = ($this.css('margin-top') === 'auto') ? 0 : parseInt($this.css('margin-top'), 10);
+
+				offsetLeft = $this.offset().left - marginLeft;
+				offsetTop = $this.offset().top - marginTop;
+
+				// Calculate the offset parent
+				$this.parents().each(function() {
+					var $this = $(this);
+
+					if ($this.data('stellar-offset-parent') === true) {
+						parentOffsetLeft = tempParentOffsetLeft;
+						parentOffsetTop = tempParentOffsetTop;
+						$offsetParent = $this;
+
+						return false;
+					} else {
+						tempParentOffsetLeft += $this.position().left;
+						tempParentOffsetTop += $this.position().top;
+					}
+				});
+
+				// Detect the offsets
+				horizontalOffset = ($this.data('stellar-horizontal-offset') !== undefined ? $this.data('stellar-horizontal-offset') : ($offsetParent !== undefined && $offsetParent.data('stellar-horizontal-offset') !== undefined ? $offsetParent.data('stellar-horizontal-offset') : self.horizontalOffset));
+				verticalOffset = ($this.data('stellar-vertical-offset') !== undefined ? $this.data('stellar-vertical-offset') : ($offsetParent !== undefined && $offsetParent.data('stellar-vertical-offset') !== undefined ? $offsetParent.data('stellar-vertical-offset') : self.verticalOffset));
+
+				// Add our object to the particles collection
+				self.particles.push({
+					$element: $this,
+					$offsetParent: $offsetParent,
+					isFixed: $this.css('position') === 'fixed',
+					horizontalOffset: horizontalOffset,
+					verticalOffset: verticalOffset,
+					startingPositionLeft: positionLeft,
+					startingPositionTop: positionTop,
+					startingOffsetLeft: offsetLeft,
+					startingOffsetTop: offsetTop,
+					parentOffsetLeft: parentOffsetLeft,
+					parentOffsetTop: parentOffsetTop,
+					stellarRatio: ($this.data('stellar-ratio') !== undefined ? $this.data('stellar-ratio') : 1),
+					width: $this.outerWidth(true),
+					height: $this.outerHeight(true),
+					isHidden: false
+				});
+			});
+		},
+		_findBackgrounds: function() {
+			var self = this,
+				scrollLeft = this._getScrollLeft(),
+				scrollTop = this._getScrollTop(),
+				$backgroundElements;
+
+			this.backgrounds = [];
+
+			if (!this.options.parallaxBackgrounds) return;
+
+			$backgroundElements = this.$element.find('[data-stellar-background-ratio]');
+
+			if (this.$element.data('stellar-background-ratio')) {
+                $backgroundElements = $backgroundElements.add(this.$element);
+			}
+
+			$backgroundElements.each(function() {
+				var $this = $(this),
+					backgroundPosition = getBackgroundPosition($this),
+					horizontalOffset,
+					verticalOffset,
+					positionLeft,
+					positionTop,
+					marginLeft,
+					marginTop,
+					offsetLeft,
+					offsetTop,
+					$offsetParent,
+					parentOffsetLeft = 0,
+					parentOffsetTop = 0,
+					tempParentOffsetLeft = 0,
+					tempParentOffsetTop = 0;
+
+				// Ensure this element isn't already part of another scrolling element
+				if (!$this.data('stellar-backgroundIsActive')) {
+					$this.data('stellar-backgroundIsActive', this);
+				} else if ($this.data('stellar-backgroundIsActive') !== this) {
+					return;
+				}
+
+				// Save/restore the original top and left CSS values in case we destroy the instance
+				if (!$this.data('stellar-backgroundStartingLeft')) {
+					$this.data('stellar-backgroundStartingLeft', backgroundPosition[0]);
+					$this.data('stellar-backgroundStartingTop', backgroundPosition[1]);
+				} else {
+					setBackgroundPosition($this, $this.data('stellar-backgroundStartingLeft'), $this.data('stellar-backgroundStartingTop'));
+				}
+
+				// Catch-all for margin top/left properties (these evaluate to 'auto' in IE7 and IE8)
+				marginLeft = ($this.css('margin-left') === 'auto') ? 0 : parseInt($this.css('margin-left'), 10);
+				marginTop = ($this.css('margin-top') === 'auto') ? 0 : parseInt($this.css('margin-top'), 10);
+
+				offsetLeft = $this.offset().left - marginLeft - scrollLeft;
+				offsetTop = $this.offset().top - marginTop - scrollTop;
+				
+				// Calculate the offset parent
+				$this.parents().each(function() {
+					var $this = $(this);
+
+					if ($this.data('stellar-offset-parent') === true) {
+						parentOffsetLeft = tempParentOffsetLeft;
+						parentOffsetTop = tempParentOffsetTop;
+						$offsetParent = $this;
+
+						return false;
+					} else {
+						tempParentOffsetLeft += $this.position().left;
+						tempParentOffsetTop += $this.position().top;
+					}
+				});
+
+				// Detect the offsets
+				horizontalOffset = ($this.data('stellar-horizontal-offset') !== undefined ? $this.data('stellar-horizontal-offset') : ($offsetParent !== undefined && $offsetParent.data('stellar-horizontal-offset') !== undefined ? $offsetParent.data('stellar-horizontal-offset') : self.horizontalOffset));
+				verticalOffset = ($this.data('stellar-vertical-offset') !== undefined ? $this.data('stellar-vertical-offset') : ($offsetParent !== undefined && $offsetParent.data('stellar-vertical-offset') !== undefined ? $offsetParent.data('stellar-vertical-offset') : self.verticalOffset));
+
+				self.backgrounds.push({
+					$element: $this,
+					$offsetParent: $offsetParent,
+					isFixed: $this.css('background-attachment') === 'fixed',
+					horizontalOffset: horizontalOffset,
+					verticalOffset: verticalOffset,
+					startingValueLeft: backgroundPosition[0],
+					startingValueTop: backgroundPosition[1],
+					startingBackgroundPositionLeft: (isNaN(parseInt(backgroundPosition[0], 10)) ? 0 : parseInt(backgroundPosition[0], 10)),
+					startingBackgroundPositionTop: (isNaN(parseInt(backgroundPosition[1], 10)) ? 0 : parseInt(backgroundPosition[1], 10)),
+					startingPositionLeft: $this.position().left,
+					startingPositionTop: $this.position().top,
+					startingOffsetLeft: offsetLeft,
+					startingOffsetTop: offsetTop,
+					parentOffsetLeft: parentOffsetLeft,
+					parentOffsetTop: parentOffsetTop,
+					stellarRatio: ($this.data('stellar-background-ratio') === undefined ? 1 : $this.data('stellar-background-ratio'))
+				});
+			});
+		},
+		_reset: function() {
+			var particle,
+				startingPositionLeft,
+				startingPositionTop,
+				background,
+				i;
+
+			for (i = this.particles.length - 1; i >= 0; i--) {
+				particle = this.particles[i];
+				startingPositionLeft = particle.$element.data('stellar-startingLeft');
+				startingPositionTop = particle.$element.data('stellar-startingTop');
+
+				this._setPosition(particle.$element, startingPositionLeft, startingPositionLeft, startingPositionTop, startingPositionTop);
+
+				this.options.showElement(particle.$element);
+
+				particle.$element.data('stellar-startingLeft', null).data('stellar-elementIsActive', null).data('stellar-backgroundIsActive', null);
+			}
+
+			for (i = this.backgrounds.length - 1; i >= 0; i--) {
+				background = this.backgrounds[i];
+
+				background.$element.data('stellar-backgroundStartingLeft', null).data('stellar-backgroundStartingTop', null);
+
+				setBackgroundPosition(background.$element, background.startingValueLeft, background.startingValueTop);
+			}
+		},
+		destroy: function() {
+			this._reset();
+
+			this.$scrollElement.unbind('resize.' + this.name).unbind('scroll.' + this.name);
+			this._animationLoop = $.noop;
+
+			$(window).unbind('load.' + this.name).unbind('resize.' + this.name);
+		},
+		_setOffsets: function() {
+			var self = this,
+				$window = $(window);
+
+			$window.unbind('resize.horizontal-' + this.name).unbind('resize.vertical-' + this.name);
+
+			if (typeof this.options.horizontalOffset === 'function') {
+				this.horizontalOffset = this.options.horizontalOffset();
+				$window.bind('resize.horizontal-' + this.name, function() {
+					self.horizontalOffset = self.options.horizontalOffset();
+				});
+			} else {
+				this.horizontalOffset = this.options.horizontalOffset;
+			}
+
+			if (typeof this.options.verticalOffset === 'function') {
+				this.verticalOffset = this.options.verticalOffset();
+				$window.bind('resize.vertical-' + this.name, function() {
+					self.verticalOffset = self.options.verticalOffset();
+				});
+			} else {
+				this.verticalOffset = this.options.verticalOffset;
+			}
+		},
+		_repositionElements: function() {
+			var scrollLeft = this._getScrollLeft(),
+				scrollTop = this._getScrollTop(),
+				horizontalOffset,
+				verticalOffset,
+				particle,
+				fixedRatioOffset,
+				background,
+				bgLeft,
+				bgTop,
+				isVisibleVertical = true,
+				isVisibleHorizontal = true,
+				newPositionLeft,
+				newPositionTop,
+				newOffsetLeft,
+				newOffsetTop,
+				i;
+
+			// First check that the scroll position or container size has changed
+			if (this.currentScrollLeft === scrollLeft && this.currentScrollTop === scrollTop && this.currentWidth === this.viewportWidth && this.currentHeight === this.viewportHeight) {
+				return;
+			} else {
+				this.currentScrollLeft = scrollLeft;
+				this.currentScrollTop = scrollTop;
+				this.currentWidth = this.viewportWidth;
+				this.currentHeight = this.viewportHeight;
+			}
+
+			// Reposition elements
+			for (i = this.particles.length - 1; i >= 0; i--) {
+				particle = this.particles[i];
+
+				fixedRatioOffset = (particle.isFixed ? 1 : 0);
+
+				// Calculate position, then calculate what the particle's new offset will be (for visibility check)
+				if (this.options.horizontalScrolling) {
+					newPositionLeft = (scrollLeft + particle.horizontalOffset + this.viewportOffsetLeft + particle.startingPositionLeft - particle.startingOffsetLeft + particle.parentOffsetLeft) * -(particle.stellarRatio + fixedRatioOffset - 1) + particle.startingPositionLeft;
+					newOffsetLeft = newPositionLeft - particle.startingPositionLeft + particle.startingOffsetLeft;
+				} else {
+					newPositionLeft = particle.startingPositionLeft;
+					newOffsetLeft = particle.startingOffsetLeft;
+				}
+
+				if (this.options.verticalScrolling) {
+					newPositionTop = (scrollTop + particle.verticalOffset + this.viewportOffsetTop + particle.startingPositionTop - particle.startingOffsetTop + particle.parentOffsetTop) * -(particle.stellarRatio + fixedRatioOffset - 1) + particle.startingPositionTop;
+					newOffsetTop = newPositionTop - particle.startingPositionTop + particle.startingOffsetTop;
+				} else {
+					newPositionTop = particle.startingPositionTop;
+					newOffsetTop = particle.startingOffsetTop;
+				}
+
+				// Check visibility
+				if (this.options.hideDistantElements) {
+					isVisibleHorizontal = !this.options.horizontalScrolling || newOffsetLeft + particle.width > (particle.isFixed ? 0 : scrollLeft) && newOffsetLeft < (particle.isFixed ? 0 : scrollLeft) + this.viewportWidth + this.viewportOffsetLeft;
+					isVisibleVertical = !this.options.verticalScrolling || newOffsetTop + particle.height > (particle.isFixed ? 0 : scrollTop) && newOffsetTop < (particle.isFixed ? 0 : scrollTop) + this.viewportHeight + this.viewportOffsetTop;
+				}
+
+				if (isVisibleHorizontal && isVisibleVertical) {
+					if (particle.isHidden) {
+						this.options.showElement(particle.$element);
+						particle.isHidden = false;
+					}
+
+					this._setPosition(particle.$element, newPositionLeft, particle.startingPositionLeft, newPositionTop, particle.startingPositionTop);
+				} else {
+					if (!particle.isHidden) {
+						this.options.hideElement(particle.$element);
+						particle.isHidden = true;
+					}
+				}
+			}
+
+			// Reposition backgrounds
+			for (i = this.backgrounds.length - 1; i >= 0; i--) {
+				background = this.backgrounds[i];
+
+				fixedRatioOffset = (background.isFixed ? 0 : 1);
+				bgLeft = (this.options.horizontalScrolling ? (scrollLeft + background.horizontalOffset - this.viewportOffsetLeft - background.startingOffsetLeft + background.parentOffsetLeft - background.startingBackgroundPositionLeft) * (fixedRatioOffset - background.stellarRatio) + 'px' : background.startingValueLeft);
+				bgTop = (this.options.verticalScrolling ? (scrollTop + background.verticalOffset - this.viewportOffsetTop - background.startingOffsetTop + background.parentOffsetTop - background.startingBackgroundPositionTop) * (fixedRatioOffset - background.stellarRatio) + 'px' : background.startingValueTop);
+
+				setBackgroundPosition(background.$element, bgLeft, bgTop);
+			}
+		},
+		_handleScrollEvent: function() {
+			var self = this,
+				ticking = false;
+
+			var update = function() {
+				self._repositionElements();
+				ticking = false;
+			};
+
+			var requestTick = function() {
+				if (!ticking) {
+					requestAnimFrame(update);
+					ticking = true;
+				}
+			};
+			
+			this.$scrollElement.bind('scroll.' + this.name, requestTick);
+			requestTick();
+		},
+		_startAnimationLoop: function() {
+			var self = this;
+
+			this._animationLoop = function() {
+				requestAnimFrame(self._animationLoop);
+				self._repositionElements();
+			};
+			this._animationLoop();
+		}
+	};
+
+	$.fn[pluginName] = function (options) {
+		var args = arguments;
+		if (options === undefined || typeof options === 'object') {
+			return this.each(function () {
+				if (!$.data(this, 'plugin_' + pluginName)) {
+					$.data(this, 'plugin_' + pluginName, new Plugin(this, options));
+				}
+			});
+		} else if (typeof options === 'string' && options[0] !== '_' && options !== 'init') {
+			return this.each(function () {
+				var instance = $.data(this, 'plugin_' + pluginName);
+				if (instance instanceof Plugin && typeof instance[options] === 'function') {
+					instance[options].apply(instance, Array.prototype.slice.call(args, 1));
+				}
+				if (options === 'destroy') {
+					$.data(this, 'plugin_' + pluginName, null);
+				}
+			});
+		}
+	};
+
+	$[pluginName] = function(options) {
+		var $window = $(window);
+		return $window.stellar.apply($window, Array.prototype.slice.call(arguments, 0));
+	};
+
+	// Expose the scroll and position property function hashes so they can be extended
+	$[pluginName].scrollProperty = scrollProperty;
+	$[pluginName].positionProperty = positionProperty;
+
+	// Expose the plugin class so it can be modified
+	window.Stellar = Plugin;
+}(jQuery, this, document));</script>
+<script type="text/javascript">
+/*
+ * jQuery Words Rotator plugin
+ *
+ * Copyright (c) 2013 Andrea Pace
+ * licensed under MIT license.
+ *
+ * https://github.com/andreapace/wordsrotator
+ * http://andreapace.co.uk/wordsrotator
+ *
+ * Version: 0.9.0
+ */
+
+(function ( $ ) {
+
+  $.fn.wordsrotator = function(options){
+    var defaults = {
+      autoLoop: true,
+      randomize: true,
+      stopOnHover: false,
+      changeOnClick: false,
+      words: null,
+      animationIn: "flipInX",
+      animationOut: "flipOutX",
+      speed: 3000
+    };
+    var settings = $.extend({}, defaults, options);
+    var listItem
+    var array_bak = [];
+
+    return this.each(function(){
+      var el = $(this)
+      var cont = $("#" + el.attr("id"));
+      var array = [];
+
+      //if array is not empty
+      if ((settings.words) || (settings.words instanceof Array)) {
+        array = $.extend(true, [], settings.words);
+
+        //In random order, need a copy of array
+        if (settings.randomize) array_bak = $.extend(true, [], array);
+
+
+        listItem = 0
+        //if randomize pick a random value for the list item
+        if (settings.randomize) listItem = Math.floor(Math.random() * array.length)
+
+        //init value into container
+        cont.html(array[listItem] );
+
+
+        // animation option
+        var rotate = function() {
+
+          cont.html("<span class='wordsrotator_wordOut'><span>" + array[listItem] + "</span></span>");
+
+          if (settings.randomize) {
+            //remove printed element from array
+            array.splice(listItem, 1);
+            //refill the array from his copy, if empty
+            if (array.length==0) array = $.extend(true, [], array_bak);
+            //generate new random number
+            listItem = Math.floor(Math.random() * array.length);
+          } else {
+            //if reached the last element of the array, reset the index
+            if (array.length==listItem+1) listItem=-1;
+            //move to the next element
+            listItem++;
+          }
+
+          $("<span class='wordsrotator_wordIn'>" + array[listItem] + "</span>").appendTo(cont);
+          cont.wrapInner("<span class='wordsrotator_words' />");
+          cont.find(".wordsrotator_wordOut").addClass("animated " + settings.animationOut);
+          cont.find(".wordsrotator_wordIn").addClass("animated " + settings.animationIn);
+        };
+
+
+
+          cont.on("click", function() {
+            if (settings.changeOnClick) {
+              rotate();
+              return false;
+            };
+          });
+
+          if (settings.autoLoop) {
+            var t = setInterval(rotate, settings.speed);
+            if (settings.stopOnHover) {
+              cont.hover(function() {
+                window.clearInterval(t)
+              },function() {
+                t = setInterval(rotate, settings.speed);
+
+              });
+            };
+          }
+
+        };
+
+      });
+    }
+
+}( jQuery ));
+</script>
+
+<!-- ----------------------------- END: CMS EOB JAVASCRIPTS ----------------------------- -->
 
 
 
