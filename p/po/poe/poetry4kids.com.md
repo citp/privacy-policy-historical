@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810161755id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626135016id_/http%3A//www.poetry4kids.com/privacypolicy) for the most accurate reproduction.*
 
 # Kenn Nesbitt's Poetry for Kids - Content
 
 Privacy Policy  
 
 
-Poetry for Kids - Privacy Policy 
+ **Poetry for Kids - Privacy Policy**
 
 Our aim is to provide poetry for children of all ages in a fun and enjoyable way. We've tried to make getting around the site as easy as possible. Parents of younger children may want to first explore the site with their children to help orient them.
 
@@ -17,14 +17,14 @@ Your child will be asked to provide a name and email address only if they wish t
 
 Members of poetry4kids.com may cancel their membership at any time. Doing so removes all record of the member from our database.
 
-Children will not be required to submit any other personal information when they are in the Poetry for Kids web site, although they may, from time to time, submit information voluntarily including their ratings and comments on the poems provided here and messages in the discussion forums. Children may also voluntarily send comments via email using the feedback form provided on the website. All information submitted by children will be used by Poetry for Kids only for the development and improvement of the site and will never be sold or shared with other companies or web sites.
+Children will not be required to submit any other personal information when they are in the Poetry for Kids web site, although they may, from time to time, submit information voluntarily including their ratings and comments on the poems provided here. Children may also voluntarily send comments via email using the feedback form provided on the website. All information submitted by children will be used by Poetry for Kids only for the development and improvement of the site and will never be sold or shared with other companies or web sites.
 
 In addition:
 
   * We automatically collect and store: the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the Internet address of the site from which you linked directly to our sites. We use this information only as anonymous aggregate data to determine the number of visitors to different sections of our sites and to help us make our sites more useful. We do not use it to track or record information about individuals. Generally, we delete this information after one year.
   * We do not use "cookies" or tracking mechanisms that collect personally identifying information on our sites.
 
-How We Use and Disclose Information 
+**How We Use and Disclose Information**
 
 We do not disclose any information about our members or visitors with any other other organizations or individuals.
 
@@ -40,21 +40,29 @@ Currently the Poetry for Kids website advertises for sale books of poetry by aut
 
 In addition, we use third-party advertising companies such as [Google AdSense](http://www.google.com/adsense) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-  * Google, as a third party vendor, uses cookies to serve ads on poetry4kids.com. 
-  * Google's use of the [Doubleclick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads based on your visit to poetry4kids.com and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-
+Google, as a third party vendor, uses cookies to serve ads on poetry4kids.com.
 
 It is our intention to adhere to the [Self-Regulatory Guidelines for Advertising](http://www.caru.org/guidelines/index.asp) of the [Children's Advertising Review Unit](http://www.caru.org/) of the [Better Business Bureau](http://www.bbb.org/).
 
-As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](https://web.archive.org/web/20130810161755id_/http%3A//www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
+As mentioned above, we have done our best to ensure that all the sites linked to from our web site are kid-friendly, but content on the Internet changes minute by minute, so we can't guarantee the content of every site. If you feel that any ad links to an inappropriate website, please [contact us](https://web.archive.org/web/20140626135016id_/http%3A//www.poetry4kids.com/modules.php?name=Feedback) with the name of the site so we may filter it to prevent it from appearing on poetry4kids.com.
+
+If you have any questions about this website, you may contact us at:
 
   
 
 
+Kenn Nesbitt
+
+1314 S. Grand Blvd. #2-321
+
+Spokane, WA 99202
+
+509-987-5366
+
+kenn@poetry4kids.com
+
 Copyright © by Kenn Nesbitt's Poetry for Kids All Right Reserved.
 
-Published on: 2004-06-21 (44581 reads)
+Published on: 2004-06-21 (66313 reads)
 
 [ Go Back ]
