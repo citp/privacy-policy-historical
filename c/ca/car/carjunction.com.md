@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822124042id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carjunction.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050343id_/http%3A//www.carjunction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Car Junction Privacy Policy : Import used vehicles directly from Japan
 
@@ -25,13 +25,15 @@ We respect each visitor’s right to personal information. To that end, we colle
 
 For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
 
-During the process of membership a user must give certain contact information (such as name, contact number, e-mail address, country, Port of discharge).
+When sending your inquiry or generating an invoice a user must give certain contact information (such as name, contact number, e-mail address, country, Port of discharge).
 
 The information we collect is:  
  • Used to sell the vehicle desired by our customer.  
  • Used to fill customers orders.  
  • Used for shipping and billing purposes.  
- • Used to notify members about updates to our website.
+ • Used to notify members about updates to our website.  
+ • Used for sending out promotional emails and special offers.  
+
 
 Car Junction Ltd. will not give out any personal or business information to third parties, unless required to do so by law, or for the purpose of shipping and clearing the vehicle.
 
@@ -52,5 +54,4 @@ Conflict Resolution:
 
 We are committed to resolving disputed within 24 to 48 hours. If problem arise, users may contact us by  
 •Email  
-•Telephone  
-
+•Telephone
