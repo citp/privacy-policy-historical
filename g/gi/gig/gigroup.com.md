@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigroup.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207034206id_/http%3A//www.gigroup.com/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigroup.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123212id_/http%3A//www.gigroup.com/en/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Gi Group - Your job our work - Employment agency
 
