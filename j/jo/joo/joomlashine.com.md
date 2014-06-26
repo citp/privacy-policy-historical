@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035224id_/http%3A//www.joomlashine.com/joomlashine/privacy-policy.html%3FItemid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062705id_/https%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Company
+# Privacy Policy | Joomlashine
 
 In today's world of shared information, we (JoomlaShine) take great care in protecting your personal information when you are using our website ([www.joomlashine.com](http://www.joomlashine.com/)) and any products or services provided on the website.
 
@@ -35,6 +35,10 @@ The use of cookies can enhance your experience on the JoomlaShine site, by remem
 #### Log files
 
 We and/or our contracted web analytics provider(s) do keep track of the domains from which you access our Site and Services on the World Wide Web, and may log IP addresses or other identifiers for statistical purposes. We do this to gather broad demographic information for aggregate use to identify and analyze trends and the results of our marketing efforts, to help diagnose problems with our servers and to administer the Site and Services, and analyze users' movements. We may periodically share aggregate demographic information with our business partners. IP addresses and other identifiers are not linked to personally identifiable information.
+
+#### Facebook Login
+
+To make login to JoomlaShine accounts more convenient for users, we allow you to sign in with Facebook. Once doing that, you agree with [terms of use](https://developers.facebook.com/policy/) and privacy policy of Facebook also. Through that process, JoomlaShine will receive some information like your public profile (name, profile picture, age gender, country, language, etc.) and email address. We respect your privacy and just keep this information so as to send you information related to product updates or to support you better.
 
 ### How do we store and protect your information
 
