@@ -1,33 +1,48 @@
-<!--The following is the downloaded HTML source of the about.me privacy policy that was archived on 2013-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202081516id_/http%3A//about.me/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the about.me privacy policy that was archived on 2014-06-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626125433id_/http%3A//about.me/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<link rel="shortcut icon" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/images/icons/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/core/v1.1.32/aboutme.core.css">
-	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/aboutme.min.css">
-	<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/lib/ie7.css" />
-	<![endif]-->
-	<!--[if IE 8]>
-	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/lib/ie8.css" />
-	<![endif]-->
+	<link rel="shortcut icon" href="http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/images/icons/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/core/v1.1.50/aboutme.core.css">
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/css/aboutme.min.css">
 	<meta name="apple-itunes-app" content="app-id=500230347">
-	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fd27a0b2f6652a46eed1ad15f26aed09717cd6b5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/mobile/modernizr-custom.js"></script>
+	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fd27a0b2f6652a46eed1ad15f26aed09717cd6b5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/js/mobile/modernizr-custom.js"></script>
 	<script type="text/javascript">
 	(function(){
 		var d = document, s = d.createElement('script');
 		s.type = 'text/javascript';
-		s.src = 'http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/mobile/respond.min.js';
+		s.src = 'http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/js/mobile/respond.min.js';
 		Modernizr.mq('(min-width:0)') || d.getElementsByTagName('head')[0].appendChild(s);
 	})();
 	</script>
-	<script src="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/amd-compiled/require/require.js"></script>
+	<script src="http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/js/amd-compiled/require/require.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/raven.js/1.0.8/raven.min.js"></script>
     <script type="text/javascript">
     //<![CDATA[
     if (window.Raven){ Raven.config("http://85b9f4c0acbc4c749ea43615ea3b577d@sentry2.aboutme-cloud.net/5", {}).install(); }
     //]]>
     </script>
+<script>
+// String.trim and typeOf courtesy of http://javascript.crockford.com/remedial.html
+if (! String.prototype.trim) {
+	String.prototype.trim = function () {
+		return this.replace(/^\s*(\S*(?:\s+\S+)*)\s*$/, "$1");
+	};
+}
+window.typeOf = function(value) {
+	var s = typeof value;
+	if (s === 'object') {
+		if (value) {
+			if (value instanceof Array) {
+				s = 'array';
+			}
+		} else {
+			s = 'null';
+		}
+	}
+	return s;
+}
+</script>
 <script type="text/javascript" id="globals">
 //<![CDATA[
 /* About.me Require Config */
@@ -49,26 +64,56 @@
         };
     }
 	var config = {
-		baseUrl: 'http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/amd-compiled/',
+		baseUrl: 'http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/js/amd-compiled/',
 		paths: {
 			'easyxdm': 'http://d2ed0w4q03gsmw.cloudfront.net/core/easyxdm/easyxdm2.4.15',
-			'carousel': 'http://d2ed0w4q03gsmw.cloudfront.net/core/plugins/carousel2.4',
+			'carousel': 'http://d2ed0w4q03gsmw.cloudfront.net/core/plugins/carousel3.2',
+			'text': 'require/text',
 			'log': 'lib/log',
 			'viewer': 'controller/viewer',
-			'mobile': 'controller/mobile',
 			'editmode': 'controller/editmode',
 			'common': 'compiled/common',
 			'nonprofile': 'compiled/nonprofile',
-			'loggedin': 'compiled/loggedin'
+			'markdown_converter': 'jquery/Markdown.Converter',
+			'markdown': 'jquery/Markdown.Sanitizer',
+			//vendor modules:
+			'backbone': 'vendor/backbone',
+			'marionette': 'vendor/backbone.marionette',
+			'backbone.babysitter': 'vendor/backbone.babysitter',
+			'backbone.wreqr': 'vendor/backbone.wreqr',
+			'backbone.collectionsubset': 'vendor/backbone.collectionsubset',
+			'underscore': 'vendor/underscore',
+			//external modules:
+			'facebook_sdk': '//connect.facebook.net/en_US/all',
+			'google_jsapi': '//www.google.com/jsapi?'
 		},
-		waitSeconds: 15
+		waitSeconds: 15,
+		shim: {
+			'markdown': {
+				deps: ['markdown_converter'],
+				exports: 'Markdown'
+			},
+			'facebook_sdk': {
+				exports: 'FB'
+			},
+			'google_jsapi': {
+				exports: 'google'
+			},
+			'underscore': {
+				exports: '_'
+			},
+			'backbone': {
+				deps: ['underscore'],
+				exports: 'Backbone'
+			}
+		}
 	}
 	var jqueryplugins = [
 		'autoGrowInput',
 		'backstretch',
+		'bloodhound',
 		'colorPicker',
 		'cookie',
-		'digits',
 		'doTimeout',
 		'dropper',
 		'fieldhint',
@@ -79,15 +124,15 @@
 		'getJSONP',
 		'iframeTransport',
 		'imagesLoaded',
-		'inview',
 		'isInArray',
-		'jnice',
 		'json',
 		'jstorage',
-		'lazyshow',
 		'matchFontSize',
+		'pagethumbs',
 		'payments',
 		'prettyDate',
+		'scrollIntoView',
+		'scrollToTop',
 		'shrinkLine',
 		'shrinkWrap',
 		'throttle',
@@ -97,6 +142,7 @@
 		'touchpunch',
 		'touchswipe',
 		'truncate',
+		'typeahead',
 		'validate',
 		'vhide',
 		'widget'
@@ -110,30 +156,32 @@
 })(requirejs);
 define('globals', function() {
 	var g = {};
+	g.UNSUPPORTED = false;
 	g.DOMAIN_NAME = "about.me";
 	g.DOMAIN_NAME_URL = "http://about.me";
 	g.SSL_DOMAIN = "https://about.me";
-	g.STATIC_HOSTNAME = "http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40";
+	g.STATIC_HOSTNAME = "http://d2ed0w4q03gsmw.cloudfront.net/103d4e4";
 	g.AWS_THUMBNAIL = "http://d3mod6n032mdiz.cloudfront.net";
 	g.AWS_IMAGES = "http://d13pix9kaak6wt.cloudfront.net";
 	g.JS_DEBUG = false;
 	g.FEED_DEBUG = false;
-	g.NAV_HEIGHT = 60;
-	g.THUMBNAIL_VIEW = false;
+	g.NAV_HEIGHT = 50;
+	g.THUMBNAIL_SIZES = ['840x560', '540x360', '300x200', '210x140', '105x70'];
 	g.ENVIRONMENT = "production";
 	g.CUSTOMIZE_SAVER_DELAY = "2000";
 	g.FACEBOOK_APP_ID = '249413078192';
 	g.SIGNUP_DELAY = 10;
 	g.VIMEO_SCREENCAST = true;
-	g.AUTH_TOKEN = "339025643149405700623833368717716737642";
+	g.AUTH_TOKEN = "62428418336147829136414600741385493278";
 	g.IOS_APP_PROMO = true;
 	g.BRANCH_ADMIN = false;
 	g.AMD_COMPILED = true;
-	g.JS_LOGS = [];
 	g.JS_LOGS_IGNORE = ['amd','metric','event'];
 	g.SHOW_ALL_CTAS = false;
 	g.STORE_KEY = "pk_live_RlI4aulcrfnDp0vi1aZHyc8y";
 	g.FRAMED = false;
+//]]>
+//<![CDATA[
 	g.MAPPED = false;
 //]]>
 	g.PAGE = 'privacy';
@@ -141,7 +189,7 @@ define('globals', function() {
 	g.SERVER_MESSAGE = { message: "", status: "ok" };
 //]]>
 //<![CDATA[
-	$(window).load(function() {
+	$(window).on('load',function() {
 		require(['lib/event'],function(Event) {
 			Event.trigger('window_load');
 		});
@@ -156,7 +204,7 @@ define('globals', function() {
 //]]>
 </script>
 	<script src="http://d2ed0w4q03gsmw.cloudfront.net/core/jquery/jquery1.8.3-jqueryui1.9.2.js"></script>
-	<script src="//cdn.optimizely.com/js/176651799.js"></script>
+    <script src="//cdn.optimizely.com/js/176651799.js"></script>
 	<script type="text/javascript">
 		require(['main'])
 	</script>
@@ -164,129 +212,21 @@ define('globals', function() {
 			<meta name="robots" content="index">
 	<meta name="description" content="About.me makes it easy for people to learn about you and find your content. Create a free page in minutes with no coding required.">
 	<title>About.me / Privacy Policy</title>
-	<meta name="apple-itunes-app" content="app-id=500230347">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="user-scalable=no, width=device-width, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="cleartype" content="on">
 </head>
-<body class="nonprofile infopage termspage privacypage">
-<div class="pagewrap">
-<div class="pagecontent">
-<div class="structure topnav" id="topnav">
-	<div class="content">
-		<div class="pane" style="display:block">
-			<span class="logo nav-item"><span class="nav-item">&nbsp;</span></span>
-		</div>
-		<div class="pane loggedin">
-	<ul class="nav accountlinks">
-			<li class="mypage menu menu-hybrid" data-menuname="My Page">
-				<span class="nav-link menu-head">
-					<a href="/edit" class="editbutton menu-label" title="View or edit my page.">My Page</a><span class="menu-toggle menu-arrow">&nbsp;</span>
-				</span>
-				<ul class="menu-content">
-					<li class="item invisible welcome-link"><a href="/__USERNAME__/#!/getstarted" class="userlink">Get Started</a></li>
-					<li class="item editpage"><a href="/__USERNAME__/#!/edit" class="userlink">Edit</a></li>
-					<li class="item"><a href="/share/">Get More Visitors</a></li>
-					<li class="item create_spotlight"><a href="/spotlight">Create Spotlight</a></li>
-					<li class="separator"><hr></li>
-					<li class="item upgrade"><a href="/upgrade">Upgrade</a></li>
-				</ul>
-			</li>
-			<li class="dashboard menu menu-hybrid" data-menuname="Home">
-				<span class="nav-item menu-head">
-					<a href="/home/" class="menu-label">Home<span class="badge"></span></a>
-					<span class="menu-toggle menu-arrow">&nbsp;</span>
-				</span>
-				<ul class="menu-content">
-					<li class="item directories"><a href="/__USERNAME__/collections" class="userlink">My Collections</a></li>
-					<li class="item"><a href="/stats/">Page Statistics</a></li>
-					<li class="item aolemail invisible"><a>View Email</a></li>
-				</ul>
-			</li>
-			<li class="accountmenu menu menu-right" data-menuname="Account">
-				<span class="nav-link menu-head">
-					<span class="menu-toggle glyph-menu glyph-center">&nbsp;</span>
-				</span>
-				<div class="menu-container">
-					<ul class="menu-content">
-						<li class="item"><a href="/account/">Account Settings</a></li>
-						<li class="item hasplan invisible plan-setup"><a href="/account/#!/plan">Premium Setup</a></li>
-						<li class="item hasplan invisible"><a href="/account/#!/billing">Billing History</a></li>
-						<li class="item"><a href="/findfriends/">Find Friends</a></li>
-						<li class="item playground invisible"><a href="/playground">Playground</a></li>
-						<li class="item helplink"><a href="http://support.about.me" target="_blank">Help</a></li>
-						<li class="separator"><hr></li>
-						<li class="item signin"><a href="/logout_handler">Log Out</a></li>
-					</ul>
-				</div>
-			</li>
-			<li class="hamburger menu menu-right" data-menuname="Hamburger">
-				<span class="nav-link menu-head">
-					<span class="menu-toggle glyph-menu glyph-center">&nbsp;</span>
-				</span>
-				<div class="menu-container">
-					<ul class="menu-content">
-						<li class="item"><a href="/__USERNAME__/" class="userlink">My Page</a></li>
-						<li class="item"><a href="/home/">Home</a></li>
-						<li class="item"><a href="/account/">Account Settings</a></li>
-						<li class="item"><a href="/findfriends/">Find Friends</a></li>
-						<li class="item helplink"><a href="http://support.about.me" target="_blank">Help</a></li>
-						<li class="separator"><hr></li>
-						<li class="item signin"><a href="/logout_handler">Log Out</a></li>
-					</ul>
-				</div>
-			</li>
-	</ul>
-			<ul class="mobile-login-container">
-				<li class="login"><a class="nav-link" href="/logout_handler">Log Out</a></li>
-			</ul>
-			<a class="logo nav-link" href="https://about.me/"><span class="nav-item">&nbsp;</span></a>
-	<ul class="nav applinks">
-			<li class="peoplemenu menu" data-menuname="Search">
-				<span class="nav-link menu-head km-find-people-global-nav">
-					<span class="menu-toggle glyph-search glyph-center">&nbsp;</span>
-				</span>
-				<ul class="menu-content">
-					<li class="nonitem findform">
-						<form onsubmit="return false">
-							<div class="buttonfield">
-								<input type="text" name="findpeople" value="" class="input findpeople" placeholder="Search by name, location, or interest">
-								<button class="button light grey" type="submit">Go</button>
-							</div>
-						</form>
-					</li>
-					<li class="separator"><hr></li>
-				</ul>
-			</li>
-			<li class="people">
-				<a href="/people/featured" class="nav-link" title="Explore the best pages on about.me">Discover</a>
-			</li>
-	</ul>
-		</div>
-		<div class="pane loggedout">
-	<ul class="nav accountlinks">
-			<li>
-				<span class="nav-link easy-find-nav invisible">Make it easy for people to find and learn about you</span>
-				<span class="nav-link signup-main-nav">Claim your name!</span>
-			</li>
-			<li class="signin">
-				<a href="https://about.me/login" class="nav-link">Log In</a>
-			</li>
-	</ul>
-			<ul class="mobile-login-container">
-				<li class="login"><a class="nav-link" href="https://about.me/login">Log In</a></li>
-			</ul>
-			<a class="logo nav-link" href="https://about.me/"><span class="nav-item">&nbsp;</span></a>
-	<ul class="nav applinks">
-	</ul>
-		</div>
-	</div>
-</div>
-			<div class="structure main">
-				<div class="content">
+<body class="nonprofile infopage termspage privacypage has-fixednav layout-mobile layout-tablet layout-desktop">
+<div class="page-container"></div>
+<div class="trailing-content">
+	<div class="pane template content-template">
 	<div class="head">
 		<h1>Pumpkinhead, Inc. / about.me<br>Privacy Policy</h1>
 	</div>
 	<div class="body">
-		<div class="row columns-3">
-			<div class="column colspan-2">
+		<div class="row">
+			<div class="column">
 				<p class="text small">Effective date: February 4, 2013</p>
 				<p>Welcome to Pumpkinhead, Inc. (“Pumpkinhead, Inc.,” “we,” “us” or “our”).  This Privacy Policy describes Pumpkinhead, Inc.’s policies and procedures on the collection, use and disclosure of your information in connection with Pumpkinhead, Inc.  services (collectively, the “Service” or “about.me”).</p>
 				<p>When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by about.me in the United States or any other country where about.me operates. </p>
@@ -333,74 +273,67 @@ define('globals', function() {
 			</div>
 		</div>
 	</div>
-				</div>
-			</div>
-<div class="structure footer">
-	<div class="content">
-		<hr class="separator">
-		<a href="http://itunes.apple.com/us/app/about.me-for-iphone/id500230347" class="ios-footer"></a>
-		<p>
-			<a href="/">Home</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/about/#!/aboutus">About Us</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/people/popular">Popular Pages</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://blog.about.me">Blog</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/assets">Assets</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/terms">Terms of Use</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/privacy">Privacy Policy</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://support.about.me" target="_blank">Help</a>
-			<span class="divider">&nbsp;</span>
-			<a href="http://twitter.com/aboutdotme" class="glyph-twitter">Follow us on Twitter</a>
-		</p>
-		<p class="copyright">
-			<span>© 2013 about.me™. All Rights Reserved.</span>
-		</p>
 	</div>
-</div>
 	<div class="signupform signup-modal invisible">
 		<div id="signup-modal">
-		    <h2>about.me</h2>
-		    <h3 class="action">It’s free and only takes minutes to set up a page.</h3>
+		    <h2><img src="http://d2ed0w4q03gsmw.cloudfront.net/103d4e4/images/logos/aboutme_logo_black.svg"></h2>
+		    <h3 class="action">It’s free and only takes minutes to set up a page. Join now or <a href="https://about.me/">learn more</a>.</h3>
 <div class="signup">
 <form action="/register" id="signup_signupmodal" method="post" onsubmit="return false">
-<input name="_authentication_token" type="hidden" value="339025643149405700623833368717716737642">
-<div class="socialsignup">
-	<!-- <h4>or Sign Up using&hellip;</h4> -->
-	<div class="buttons clearfix">
-		<a href="http://about.me/facebook/login?perm=basic" class="button signupbutton dark large branded facebook glyph-facebook not-deferred">Facebook</a>
-		<a href="http://about.me/twitter/login" class="button signupbutton dark large branded twitter glyph-twitter not-deferred">Twitter</a>
-	</div>
-	<div class="login-or"><hr class="rule"><span class="hor">or</span></div>
-</div>
+<input name="_authentication_token" type="hidden" value="62428418336147829136414600741385493278">
 <fieldset class="first_name name">
-		<label class="label" for="signupmodal_first_name">First name</label>
-		<input type="text" name="first_name" id="signupmodal_first_name" class="input fullwidth large first_name" value="" maxlength="32">
+			<label class="label" for="signupmodal_first_name">First name</label>
+			<input type="text" name="first_name" id="signupmodal_first_name" class="input fullwidth large first_name" value="" maxlength="32">
 </fieldset>
 <fieldset class="last_name name">
-		<label class="label" for="signupmodal_last_name">Last name</label>
-		<input type="text" name="last_name" id="signupmodal_last_name" class="input fullwidth large last_name" value="" maxlength="32">
+			<label class="label" for="signupmodal_last_name">Last name</label>
+			<input type="text" name="last_name" id="signupmodal_last_name" class="input fullwidth large last_name" value="" maxlength="32">
 </fieldset>
 <fieldset class="email">
-		<label class="label" for="signupmodal_email">Email address</label>
-		<input type="text" name="email" id="signupmodal_email" class="input fullwidth large email" value="" maxlength="254">
+			<label class="label" for="signupmodal_email">Email address</label>
+			<input type="text" name="email" id="signupmodal_email" class="input fullwidth large email" value="" maxlength="254">
 </fieldset>
 <input type="hidden" value="signupmodal" name="location" class="signuplocation">
-<fieldset class="buttons last large">
+<fieldset class="buttons large">
+    <div class="alreadyjoined right invisible button-item"><span class="">Already joined? &nbsp;</span><a href="http://about.me/login" class="not-deferred">Log In</a></div>
     <button type="submit" class="button test130106 large dark blue signup-submitbutton not-deferred">
    		<span class="default-text">Join for FREE</span>
    		<span class="loading-text">Join for FREE</span>
     </button>
-    <div class="alreadyjoined invisible button-item right">Already joined? &nbsp;<a href="/login" class="not-deferred">Log In</a></div>
 </fieldset>
-<div class="nothanks invisible"><span class="text link cancel glyph-close">No thanks, just browsing</span></div>
+<div class="socialsignup">
+	<h4>or continue with…</h4>
+	<div class="buttons">
+		<a href="http://about.me/facebook/login?perm=basic" class="button signupbutton large  facebook glyph-facebook not-deferred">Facebook</a>
+		<a href="http://about.me/twitter/login" class="button signupbutton large  twitter glyph-twitter not-deferred">Twitter</a>
+	</div>
+</div>
 </form>
 </div>
+		</div>
+	</div>
+	<div class="autologin invisible">
+		<div class="autologinform">
+			<form action="#" method="post" onsubmit="return false">
+<input name="_authentication_token" type="hidden" value="62428418336147829136414600741385493278">
+				<fieldset>
+					<label class="label" for="login">Username or email</label>
+					<input class="input large fullwidth" type="text" id="login" name="login" tabindex="1">
+				</fieldset>
+				<fieldset>
+					<span class="right forgotpassword-link text link" href="#forgotpassword" tabindex="3">Forgot password?</span>
+					<label class="label" for="password">Password</label>
+					<input class="input large fullwidth" type="password" id="password" name="password" tabindex="2">
+				</fieldset>
+				<fieldset class="buttons large">
+					<button type="submit" class="button button-submit large dark blue" value="submit" tabindex="5">
+						<span class="default-text">Log In</span>
+						<span class="loading-text">Logging In…</span>
+					</button>
+					<span class="button large cancel">Cancel</span>
+				</fieldset>
+				<p class="glyph-lock ssl-note">Login secured with SSL</p>
+			</form>
 		</div>
 	</div>
 	<script type="text/javascript">
@@ -431,7 +364,6 @@ define('globals', function() {
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-</div>
 </div>
 
 </body></html>
