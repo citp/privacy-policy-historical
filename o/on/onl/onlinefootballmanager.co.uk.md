@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916045751id_/http%3A//www.onlinefootballmanager.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072430id_/http%3A//en.onlinesoccermanager.com/Privacy) for the most accurate reproduction.*
 
 # Privacy policy - Online Soccer Manager
 
 **Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Soccer Manager](https://web.archive.org/). 
 
-We can be reached via e-mail at [info@gamebasics.nl](mailto:info@gamebasics.nl) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
+We can be reached via e-mail at [info@onlinesoccermanager.com](mailto:info@onlinesoccermanager.com) if you have any questions regarding our policies outlined below. Please be aware that we cannot 100% guarantee these policies, although we do our very best to abide by the policies which we have outlined. 
 
 The information we collect is used for internal review and is then discarded. It is used to improve the content of our Web page, to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, and never shared with other organizations for commercial purposes. 
 
