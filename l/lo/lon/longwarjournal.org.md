@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216090041id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwarjournal.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083159id_/http%3A//www.longwarjournal.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for the The Long War Journal
 
@@ -30,4 +30,4 @@ This Web site contains links to other sites. Please be aware that The Long War J
 
 |   
   
-Copyright ©2007 through 2010, Public Multimedia Inc. All Rights Reserved.
+Copyright ©2007 through 2014, Public Multimedia Inc. All Rights Reserved.
