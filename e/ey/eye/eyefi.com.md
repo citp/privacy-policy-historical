@@ -1,69 +1,126 @@
-> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817225531id_/http%3A//support.eye.fi/eye-fi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132859id_/http%3A//www.eyefi.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Eye-Fi Privacy Policy | Eye-Fi Support
+# Privacy Policy | Eyefi
 
-Last Revised June 21, 2012
+Last Revised April 8, 2014
 
-## Introduction
+Eye-Fi, Inc. ("Eyefi") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Eyefi websites and applications and is applicable worldwide. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy Policy" link at the footer on our website. References to Eyefi in this privacy policy include Eyefi subsidiaries and affiliates.
 
-Eye-Fi is committed to protecting the confidentiality of your personal information, as well as the content of your photos and videos, according to your sharing preferences.
+## Collection of your personal information
 
-This document describes our policy regarding privacy protection, and identifies information sharing requirements and security measures taken by Eye-Fi. This policy applies to all of the products, services and websites offered by Eye-Fi, Inc.
+Described below are situations in which personal information is collected and the purposes for which it is collected. "Personal Information" is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, information generated from use of our Products, and other information required to provide a Product, deliver a product, or carry out a transaction you have requested. Personal Information may also include "Content," as defined below. Some of the reasons we collect your Personal Information may include:
 
-We may from time-to-time revise this Privacy Policy by posting notice of these revisions at this page no later than 30 days prior to the date that the revisions are to take effect, and in the case of material changes, we will notify you at the e-mail address associated with your account. The date of last revision will be available at the top of this page, so please be sure to check back periodically. If you have questions about this policy, contact us at [privacy@eye.fi](mailto:privacy@eye.fi).
+  * account registration
+  * use of certain Product features
+  * generating reports based on information collected from use of our Products
+  * requesting service and support for our Products and providing such support
+  * placing transactions or orders
+  * participating in an online survey
+  * submitting an entry for a sweepstakes or other promotion
+  * billing and collecting payments for our Products
+  * participating in discussion groups or forums
+  * registering for membership programs or newsletter subscriptions
+  * customizing the advertising and content you see
 
-## Personal Information We Collect
 
-“Personal information” means (a) information that allows others to contact or to individually identify you, and (b) other information to the extent that it is associated with the information listed in (a). We collect personal information in the following ways:
 
-You will need to create an Eye-Fi account to configure your Eye-Fi card’s wireless connectivity as well as to take advantage of the many additional Eye-Fi service offerings. The personal information that Eye-Fi requires you submit when creating an Eye-Fi account are your email address and a password, which is used to protect your account from unauthorized access.
+When you access your Eyefi account and utilize Eyefi services, Eyefi automatically records certain information about your use, such as account activity, data displayed or clicked on, and other information including browser type, IP address, date and time of access, cookie ID, and referrer URL. Some of this information collected, such as IP address and the contents of certain cookies, may include personal information.
 
-When you transfer your photos, videos and related EXIF data (collectively, “content”) from your Eye-Fi card or natively enabled Eye-Fi camera solely to your computer, smartphone, tablet or other supported Eye-Fi electronic device, Eye-Fi does not share or transfer any user content from your computer to Eye-Fi servers. However, if you choose to enable additional features or services offered by Eye-Fi, including the geotagging service, content sharing service (such as sharing with third party websites like Facebook, Flickr, Picasa, etc.), relayed uploads feature, Eye-Fi View service, email, notifications, sharing feature and hotspot service (collectively “Eye-Fi services”), Eye-Fi transfers your content to Eye-Fi’s servers and into your Eye-Fi account where the content can be acted upon in fulfillment of your requested Eye-Fi services.
+## Uses of your Personal Information
 
-When you access your Eye-Fi account and utilize Eye-Fi services, Eye-Fi automatically records certain information about your use, such as account activity, data displayed or clicked on, and other information including browser type, IP address, date and time of access, cookie ID, and referrer URL. Some of this information collected, such as IP address and the contents of certain cookies, may include personal information.
+We will use your Personal Information only in accordance with our Privacy Policy. If you do not wish us to continue using your Personal Information in this manner, you may request that your account be deactivated as specified below. Some of the ways we may use your Personal Information include:
 
-It is a violation of our terms of service for anyone under 13 to use the Eye-Fi services. Consequently, we do not intentionally gather personal information about visitors who are under the age of 13.
+  * To process your orders and provide the Products that you have ordered or obtained.
+  * To provide reports based on information collected from use of our Products.
+  * To keep you up to date on the latest Product announcements, software updates, software upgrades, system enhancements, special offers, and other information, provided that you can edit your marketing preferences at any time as described below.
+  * To provide support and assistance for our Products.
+  * To provide the ability to create personal profile areas and view protected content.
+  * To provide the ability to contact you, and provide you with shipping and billing information.
+  * To provide customer feedback and support.
+  * To provide and administer contests, sweepstakes or other marketing or promotional activities.
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.
+  * To support recruitment inquiries.
+  * To understand more about you, so we can personalize newsletters and websites to your preferences. For example, allowing you the opportunity to request specific information on products and services that may be of interest.
+  * To provide information, at your request, to another individual such as a friend, family member or co-worker.
+  * To meet contract obligations.
 
-## How Your Personal Information is Used and Shared
 
-Some Eye-Fi services are executed through third party business partners and service providers, and in these cases your personal information is shared with the third party business partner or service provider in order to fulfill the requested service.
 
-From time to time, Eye-Fi may enter into relationships with strategic business partners to produce product offerings that are “co-branded” with the brands of both Eye-Fi and such strategic business partner. In those cases, if you purchase a co-branded product offering, Eye-Fi may share your personal information with the applicable third-party business partner in order to facilitate that business partner’s provision of support services, warranty services, or other elements of the co-branded product offering or related aftermarket services to you. For example, if Eye-Fi’s business partner is responsible for providing end-user support for the co-branded product in a given geographic territory, Eye-Fi may share your account information, support entitlement status, and other relevant personal information with such business partner to allow the business partner’s support personnel to provide support services to you.
+## Content
 
-When you use Eye-Fi to share your content with a third party website or to email your content to your friends, Eye-Fi will use your personal information to fulfill the requested services. Eye-Fi also uses your personal information to provide you with personalized content, to respond to your inquiries, to maintain and improve the Eye-Fi services, to alert you to new features or promotions, and to enforce the End User License Agreement and Terms of Service (called the “Terms of Service”).
+If you transfer photos, videos and related EXIF data (collectively, "Content") directly between Eyefi cards and cameras and other supported devices, which may include computers, smartphones, or tablets, Eyefi does not transfer such Content to, or store such Content on, Eyefi servers. However, when you use many other Product features, such as synchronization, storage, sharing, relayed uploads, hotspot services, and other services we may offer now or in the future, that use often can involve transferring Content to and storing Content on Eyefi servers for access by you and others authorized by you.
 
-In the future, Eye-Fi may sell our company or some or all or our assets. In such transactions, customer information (including your personal information) generally is one of the transferred business assets. In the event a sale of our assets includes our database, your personal information will be transferred. We will require buyers to honor our Privacy Policy.
+Eyefi handles your Content the same as other Personal Information described in this privacy policy.
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), we may in the future. We may share some or all of your personal information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+## Accessing and updating your Personal Information
 
-Information Eye-Fi receives through its relationships with other companies and websites may be combined with the personal information we collect and will be treated in accordance with this Privacy Policy.
+If you allow Eyefi Products to access your Content or other Personal Information, which you have stored in third party products and services, you will need to manage that Personal Information through your third party accounts. We do not have the ability to modify or delete your Personal Information stored in third party products and services.
 
-We may also, and you authorize us to, share your personal information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the Terms of Service, or when we believe that doing so may protect your safety or the safety of others.
+If you believe Eyefi is in possession of your Personal Information that you want modified or deleted, you may make changes or delete your account at your discretion, directly through our web site. Or you may send an email request to [privacy@eyefi.com](mailto:privacy@eyefi.com). We may need to retain some Personal Information for the period of time necessary for legal proceedings, legal requirements or for settling your account, and some copies of your Personal Information may remain in our backups.
 
-Information that contains no personally identifiable information, i.e., deidentified data, may be shared with third parties or used for any reason.
+## Unsubscribing and Opting Out
 
-## How Your Information is Protected, Maintained and Deleted
+You may unsubscribe from Eyefi's promotional emails by clicking the "unsubscribe" link at the bottom of any of our promotional emails, or by sending a letter to:
 
-Eye-Fi attempts to protect against the loss, misuse and alteration of your personal information. Our servers and systems are protected by reasonable physical and electronic security measures.
+Eyefi  
+Attn: Privacy Officer  
+967 North Shoreline Blvd,  
+Mountain View, CA 94043 USA
 
-You may delete your Eye-Fi account and all of your content at your discretion through the Eye-Fi Center software. Notwithstanding anything in this Privacy Policy to the contrary, requests to delete your personal information and content are subject to all applicable legal obligations that Eye-Fi may be required to abide by, and you acknowledge that some copies of your content may remain in our archives.
+From time to time Eyefi will merchandise its products with the use of Internet based advertising companies. These companies will use cookies and other information (but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements for products and services (including those of third parties) which may be of interest to you. If you wish to opt-out from these forms of marketing on (or with respect to your use of) the Eyefi website, please follow the opt-out instructions in the following link: [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
 
-## How We Use Cookies
+## Non-personal/anonymous information collection
 
-Like many websites, Eye-Fi make use of cookies which are small data files that can be placed on your hard drive when you visit Eye-Fi websites.
+In some instances, Eyefi may collect non-personal (aggregate or demographic) data through cookies, web logs, and web beacons. This information is used to better understand and improve the usability, performance, and effectiveness of the website. Please read the "Cookies" section below for more information.
 
-When you use the Eye-Fi service or visit Eye-Fi websites, Eye-Fi sends one or more cookies to your computer that uniquely identifies your Internet browser. We use cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide. If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized services. Additionally, be aware that if you visit other websites you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+In addition, by using some of our Products, anonymous network information may be transmitted back to us such as Product usage information. This information is transmitted back to us so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
 
-From time to time Eye-Fi will merchandise its products with the use of internet based advertising companies. These companies will use cookies and other information (but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements for products and services (including those of third parties) which may be of interest to you. If you wish to opt-out from these forms of marketing on (or with respect to your use of) the Eye-Fi website, please follow the opt-out instructions in the following link:
+## Sharing your personal information
 
-<http://www.networkadvertising.org/managing/opt_out.asp> – This is an industry association that consolidates “opt outs”. From time to time Eye-Fi might use some of these companies services.
+We do not sell or rent your Personal Information to third parties for marketing purposes unless you have granted us permission to do so.
 
-## Anonymous Application Usage Reporting
+We may share your Personal Information within Eyefi and with third party service providers for purposes of managing your accounts, providing Products, or assisting in transactions, including processing orders, processing credit card transactions, hosting websites, storing Content, and providing customer support. We only provide these third parties with Personal Information which is necessary to provide or complete the requested Product or transaction, and the third parties are not permitted to use your Personal Information except for limited purpose of providing and completing the requested Product or transaction.
 
-Eye-Fi uses software in its applications to collect anonymous usage data for the purpose of improving Eye-Fi products and services.
+If you use sharing features of our Products, we will share your Personal Information as needed to perform the sharing functions you request. But we don't have any control over what the people, services, or third-party websites you've shared with do with your Personal Information after that.
 
-## Application of This Privacy Policy
+We may respond to subpoenas, court orders, or legal process by disclosing your Personal Information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
 
-This Privacy Policy applies to websites, software and services that are owned and operated by Eye-Fi, Inc. Eye-Fi does not exercise control over websites owned or operated by third parties (for example, Flickr®, Picasa™, and Facebook™) to which you may distribute your content . These third parties may place their own cookies or other files on your computer, and have their own unique approaches on data collection and use. So please keep in mind that Eye-Fi is not responsible for the privacy practices of these websites and programs. We encourage you to read the privacy policies of every site that collects data or other personal information from you.
+We may collect and possibly share Personal Information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Eyefi's terms of service, or as otherwise required by law.
 
-Eye-Fi processes personal information on servers in the United States of America. In some cases, Eye-Fi may process your personal information on a server outside your own country, where laws regarding processing of personal information may be less stringent than the laws in your country.
+We will ask for your consent before we use or share your information for any purpose other than the reason you provided it or as otherwise provided by this policy. In order to let us know your preferences, we will require an action on your part, such as checking the appropriate option, to indicate your consent.
+
+## Security of your Personal Information
+
+Eyefi is committed to protecting the Personal Information you share with us. We utilize a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Information from unauthorized access, use or disclosure.
+
+While we strive to protect your Personal Information, we cannot ensure the security of the information you transmit over the Internet. We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, do not use the same password for multiple web sites, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
+
+## Cookies
+
+Like many websites, Eyefi uses technologies, such as cookies and web beacons, which allow us to make your visit to our website easier, more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
+
+A cookie cannot read personal data off your hard disk or read cookie files created by other sites; indeed, the only Personal Information a cookie can contain is information you supply yourself. Accepting the cookies used on our website may give us access to information about your browsing behavior, which we may use to personalize your experience and track user traffic patterns, and to merge this info when you register. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+
+In addition, Eyefi uses web beacons in conjunction with cookies to understand user behavior. Web beacons are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser's cookies will prevent web beacons from tracking your specific activity.
+
+If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Disabling cookies on your computer may cause Eyefi web pages to be inaccessible, inoperable or may disable some features. For additional information about cookies and other tracking technologies, including instructions for blocking their use, see http://privacy.getnetwise.org/browsing/tools.
+
+## Linked websites and third party services
+
+Our websites and services may provide links to other third-party websites and services, which are outside our control and not covered by this policy. We encourage you to review the privacy policies posted on these (and all) sites you visit or services you use.
+
+## Children's privacy
+
+Eyefi does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. Eyefi encourages parents and guardians to take steps to protect their children's on-line privacy. The Federal Trade Commission and other government agencies provide resources to help protect children's on-line privacy, including <http://www.onguardonline.gov/topics/protect-kids-online>.
+
+## Consent to Transfer, Processing and Storage of Personal Information
+
+Eyefi processes Personal Information on servers in the United States and other countries. In some cases, Eyefi may process or store your Personal Information on a server outside your own country, where laws regarding processing of Personal Information may be less stringent than the laws in your country. By providing your Personal Information you understand and consent to such transfer, processing and storage of Personal Information.
+
+## Questions or comments?
+
+Should you have any privacy-related questions or comments related to this privacy policy, please send an email to [privacy@eyefi.com](mailto:privacy@eyefi.com).
+
+## Policy updates
+
+Eyefi may amend this privacy statement from time to time, and at any time. We will post a notice whenever this privacy statement is materially changed. Your continued use of the Eyefi website or Products after any change will signify and confirm your assent to those changes.
