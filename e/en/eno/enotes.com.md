@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020033910id_/http%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090758id_/http%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
 
 # eNotes Privacy Policy
 
@@ -81,5 +81,3 @@ Please remember that when you use a link to go from our Web site to another Web 
 
 **Your Consent**  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-Not satisfied with anything you have purchased at eNotes? Simply [send us an email](https://web.archive.org/jax/index.php/util/contactus) and let us know. If we can't fix the problem, we'll refund you – no questions asked.
