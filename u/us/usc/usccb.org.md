@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usccb.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210140121id_/http%3A//usccb.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usccb.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626092102id_/http%3A//www.usccb.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
