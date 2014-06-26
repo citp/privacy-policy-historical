@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230182626id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060732id_/http%3A//www.bna.com/internet-privacy-policy-a4717) for the most accurate reproduction.*
 
 # Privacy Policy | Bloomberg BNA
 
-1. **Introduction**. BNA publishes its information services in print and various electronic media, including Web-based formats. We are continually adapting to changes in technology to bring you the information you rely on faster and more efficiently than ever before.
+1. **Introduction**. BNA publishes its information services in print and various electronic media, including web-based formats. We are continually adapting to changes in technology to bring you the information you rely on faster and more efficiently than ever before.
 
 BNA publishes this Privacy Policy to reaffirm our commitment to maintaining the privacy of our customers in the electronic environment and inform you of our practices concerning the collection and use of information you provide us.
 
@@ -19,7 +19,7 @@ In this Privacy Policy you will find a description of the policies and procedure
 
 BNA reserves the right to make changes to any part of this Privacy Policy in its sole discretion, at any time and without prior notice. Continued use of any Product following any such change will constitute acceptance of those changes. If we decide to revise this Privacy Policy, we will post changes in the Products so Users are aware of our information practices. To continue to stay informed about this important issue, please check this Privacy Policy frequently.
 
-This Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition, this Privacy Policy applies to all Products.
+This Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition, this Privacy Policy applies to all Products, with the exception of Bloomberg Law®, which is governed by the [Bloomberg Law Online Privacy Policy](http://www2.bloomberglaw.com/public/desktop/document/Privacy_Policy).
 
 To make this Privacy Policy as easy to read as possible, BNA has simplified certain sentences by substituting defined terms for certain concepts. Accordingly, the capitalized terms used throughout this Privacy Policy shall have the meanings assigned to such terms in Section 9 (“Definitions”) of this Privacy Policy.
 
@@ -33,11 +33,13 @@ To make this Privacy Policy as easy to read as possible, BNA has simplified cert
 
 3\. **Consent To Use Information**. By using any Product and/or by affirmatively accepting the License Agreement or this Privacy Policy, each User consents to the collection and use of all information that the User provides to BNA, all information that is provided to BNA on behalf of that User, and all information that BNA collects based on that User's use of the Products, including, without limitation, all Customer Information and other Personally Identifiable Information.
 
+You may instruct Bloomberg BNA at any time not to use your personal information collected in order to provide you with special offers or promotions by contacting [bloombergbnaprivacy@bna.com](mailto:bloombergbnaprivacy@bna.com). You can also update your settings for receiving offers and promotions via e-mail by clicking [here](http://www.bna.com/manage-email-settings-m1717988077/).
+
 4\. **Our Policies Regarding the Collection of Information**. At BNA, our goal is to provide Users with quality information, products, and services. We are also committed to providing Users with responsive, personalized service, and keeping Users informed about new information, products, and services that may be of immediate interest to Users or that can help Users derive the greatest value from the Products.
 
 Customer Information is at the heart of our ability to provide superior service to Users. We describe in this Privacy Policy the types of Customer Information and other Personally Identifiable Information that we collect, and how and why we may share that Customer Information and other Personally Identifiable Information with others.
 
-A visitor who browses the BNA Web site is not required to reveal any Personally Identifiable Information, such as name, address, or telephone number, unless subscribing to a product. Nor is such information collected passively by electronic means. BNA Web servers collect other information such as the make of a visitor's browser software and the Internet domain name of the location from which the visitor enters. This information helps us diagnose technical problems and manage our sites by tracking user interests.
+A visitor who browses the BNA website is not required to reveal any Personally Identifiable Information, such as name, address, or telephone number, unless subscribing to a product. Nor is such information collected passively by electronic means. BNA Web servers collect other information such as the make of a visitor's browser software and the Internet domain name of the location from which the visitor enters. This information helps us diagnose technical problems and manage our sites by tracking user interests.
 
 The primary reason that we collect and maintain Customer Information and other Personally Identifiable Information is to serve Users and administer our customer relationships. BNA may collect Customer Information and other Personally Identifiable Information from a variety of sources, such as the following:
 
@@ -57,19 +59,24 @@ The primary reason that we collect and maintain Customer Information and other P
       * To gather broad demographic information for aggregate use
     * BNA does link information regarding a User's usage of the Products to the User's Personally Identifiable Information
   * Cookies:
-    * Use of Cookies Generally:
-      * A cookie is a piece of data stored by each User's browser that contains information about the user of a computer. Cookies help Web sites recognize return visitors. When you return to a Web site you visited before and that Web site uses cookies, your browser gives this data back to the Web site's server.
-      * Contrary to reports about cookies and online privacy, cookies do not contain viruses and most cannot reveal any Personally Identifiable Information about you unless you willingly provide it as a user on a Web site.
-      * You will find that cookies are an industry standard and are used at most major Web sites in much the same way we use them here at BNA. You can learn most everything there is to know about cookies at www.cookiecentral.com. We also encourage you to read the privacy policies of all Web sites you visit before you accept cookies from these Web sites.
+    * Use of Cookies Generally: 
+      * A cookie is a piece of data stored by each User's browser that contains information about the user of a computer. Cookies help websites recognize return visitors. When you return to a website you visited before and that website uses cookies, your browser gives this data back to the website’s server. 
+      * Contrary to reports about cookies and online privacy, cookies do not contain viruses and most cannot reveal any Personally Identifiable Information about you unless you willingly provide it as a user on a website. 
+      * You will find that cookies are an industry standard and are used at most major websites in much the same way we use them here at Bloomberg BNA. You can learn most everything there is to know about cookies at www.cookiecentral.com. We also encourage you to read the privacy policies of all websites you visit before you accept cookies from these websites. 
       * You can set your browser to reject or to accept cookies. You have the option to reject cookies when you are just browsing the Web and accept cookies when you want to use the Products.
-    * BNA's Use of Cookies:
-      * Each Product places a cookie on the hard drive of each User's computer. If a User rejects any cookie offered by a Product, that User may not use the features of the Product.
-      * BNA stores your User ID in your cookie.
-      * BNA uses your cookie to make your experience with the Products more efficient and effective. For instance, by setting a cookie for a Product on a User's hard drive, the User does not have to log in to the Product more than once, which saves time.
-      * Setting cookies also enables BNA to track and target the interests of Users.
-    * Surveys and Promotional Activities:
-      * From time to time BNA may request information from Users via voluntary participation in promotional or market research activities.
-      * The information that we request may include contact information (such as name and business address), and demographic information (such as zip code and age level).
+ 
+
+
+  * BNA's Use of Cookies: 
+    * Each Product places a cookie on the hard drive of each User's computer. If a User rejects any cookie offered by a Product, that User may not use the features of the Product.
+    * BNA stores your User ID in your cookie.
+    * BNA uses your cookie to make your experience with the Products more efficient and effective. For instance, by setting a cookie for a Product on a User's hard drive, the User does not have to log in to the Product more than once, which saves time.
+    * Setting cookies also enables BNA to track and target the interests of Users.
+ 
+  * Surveys and Promotional Activities: 
+    * From time to time BNA may request information from Users via voluntary participation in promotional or market research activities.
+    * The information that we request may include contact information (such as name and business address), and demographic information (such as zip code and age level).
+ 
 
 
 
@@ -122,7 +129,7 @@ The primary reason that we collect and maintain Customer Information and other P
 > 
 > b) **Our Policies Regarding the Use and Disclosure of Information About Former Customers.** For a period of time after a Customer relationship ends, our policies and practices regarding the use and disclosure of Customer Information about former Customers are the same as those regarding the collection and disclosure of Customer Information and other Personally Identifiable Information about existing Customers. See the information under the heading in Section 6 of this Privacy Policy. However, after the relationship ends, we may use such Customer Information and other Personally Identifiable Information about former Customers less and less over time. We reserve the right to eventually remove such Customer Information and other Personally Identifiable Information about former Customers from our records.
 > 
-> c) **Links to Third Party Web Sites**. The BNA Privacy Policy applies solely to the Products. The Products may contain links to Web sites owned and operated by third parties. Any User's use of third party Web sites is at their own risk and subject to any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures for such Web sites. BNA is not responsible for any such terms and conditions of use, policies regarding the collection of information, privacy policies, or other practices and procedures of the third party Web sites that a User may access through hot links in the Products. We cannot guarantee how these third parties use cookies or whether they place cookies on your computer that may include Customer Information and other Personally Identifiable Information. We encourage Users to be aware when they leave the Products and to read any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures of each Third Party Web site before Users provide them with any Customer Information and other Personally Identifiable Information.
+> c) **Links to Third Party Websites**. The Bloomberg BNA Privacy Policy applies solely to the Products. The Products may contain links to websites owned and operated by third parties. Any User's use of third party websites is at their own risk and subject to any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures for such websites. Bloomberg BNA is not responsible for any such terms and conditions of use, policies regarding the collection of information, privacy policies, or other practices and procedures of the third party websites that a User may access through hot links in the Products. We cannot guarantee how these third parties use cookies or whether they place cookies on your computer that may include Customer Information and other Personally Identifiable Information. We encourage Users to be aware when they leave the Products and to read any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures of each Third Party website before Users provide them with any Customer Information and other Personally Identifiable Information.
 
 6\. **Information Confidentiality and Security**. BNA is committed to prevent any unauthorized access to each User's Customer Information and other Personally Identifiable Information. We maintain procedures and technology designed to prevent such unauthorized access.
 
@@ -134,18 +141,18 @@ The primary reason that we collect and maintain Customer Information and other P
 
 In addition, Users may want to consider if it is important to report the crime to local law enforcement agencies and to the Federal Trade Commission (FTC). To speak with a trained FTC telephone counselor, call toll-free 1-877-IDTheft (1-877-438-4338). Or, to enter information about any complaint into a secure FTC online database, sign onto [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft). The site also provides links to numerous consumer education materials.
 
-If you have any questions or concerns regarding BNA data protection practices, please send an e-mail message to BNA's Web site administrator at [webmaster@bna.com](mailto:webmaster@bna.com).
+If you have any questions or concerns regarding Bloomberg BNA’s data protection practices, please send an e-mail message to Bloomberg BNA's website administrator at _bloombergbnaprivacy@bna.com_.
 
 8\. **Definitions**. For all purposes of this Privacy Policy, the terms used throughout this Privacy Policy shall have the meanings set forth below:
 
   * **_“Customer Information”_** means any information about a Customer, its employees, contractors, suppliers, licensors, agents, distributors, and others who have any business or personal relationship with such Customer, that (i) BNA has an obligation to keep confidential or use for limited purposes or (ii) BNA has any legal obligation to keep confidential or use for limited purposes, including under the Gramm-Leach-Bliley Act, the Health Insurance Portability and Accountability Act, any laws regarding invasion of privacy, or other privacy laws. “Customer Information” does not include publicly available information.
-  * **_“License Agreement”_** means the License Agreement, as it may be amended from time, which can be found at [http://www.bna.com/corp/license.htm](https://web.archive.org/bna-customer-agreement-a4724/ "http://www.bna.com/corp/license.htm"). For all purposes, all references to the License Agreement include the Privacy Policy, the Copyright Guidelines, and any applicable Order Form.
+  * **_“BBNA Customer Agreement”_** means the BBNA Customer Agreement, as it may be amended from time, which can be found at <http://www.bna.com/corp/license.htm>. For all purposes, all references to the BBNA Customer Agreement include this Privacy Policy, the Copyright Guidelines, the Product’s Terms of Service and any applicable Order Form.
   * **_“Non-Identifying Information”_** means information that, taken alone, cannot be used to identify or locate a Person, including, without limitation, age or date of birth, gender, occupation, education, ZIP code with no address, interests, hobbies, types of hardware or Software used by a Person, income. “Non-Identifying Information” refers to this type of information, regardless of whether such information is collected along with, or is linked to, Personally Identifiable Information.
   * **_“Personally Identifiable Information”_** means information that can be used to identify or locate a Person, including, but not limited to, e-mail address, name, street address, phone number, fax number, credit card number, Social Security number, and tax identification number.
-  * **_“Privacy Policy”_** means this “Privacy Policy” as it may be amended from time to time, which can be found at [http://www.bna.com/corp/privacy.htm](https://web.archive.org/internet-privacy-policy-a4717/ "http://www.bna.com/corp/privacy.htm").
+  * **_“Privacy Policy”_** means this “Privacy Policy” as it may be amended from time to time, which can be found at <http://www.bna.com/corp/privacy.htm>.
   * The terms **_“we,” “us,”_** and other similar terms shall be deemed to refer to BNA, as appropriate.
   * The terms **_“you,” “your,”_** and other similar terms shall be deemed to refer to Customer and all individual Users, as appropriate.
 
 
 
-Revised May 2010
+Updated January 2014
