@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628204123id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the di.fm privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627053456id_/http%3A//www.di.fm/member/privacy) for the most accurate reproduction.*
 
 # Digitally Imported - addictive electronic music
 
+##  Privacy Policy Updated February 3, 2014
+
+### Last Updated: February 3, 2014
+
 ## Overview
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Digitally Imported family of websites, including the [DI.FM](http://www.di.fm/), [SKY.FM](http://www.sky.fm/) and [JAZZRADIO.com](http://www.jazzradio.com/) websites ("Website") produced and maintained by Digitally Imported, Inc. (collectively "Company" or "we", "us", or "our").
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the [DI.FM](http://www.di.fm/) website ("Website") produced and maintained by Digitally Imported, Inc. (collectively "Company" or "we", "us", or "our").
 
-The policies below are applicable to the Websites (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are made available by us. We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
+The policies below are applicable to the Website (however accessed and/or used), whether via personal computers, mobile devices or otherwise, and other interactive features, applications or downloads that are operated by us that are made available by us. We have established this privacy policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to the Website, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Website. It does not apply to information that you may submit to us offline, or to websites maintained by other companies or organizations to which we may link or who may link to us.
 
@@ -18,17 +22,19 @@ If you have any questions about this Privacy Policy or don't see your concerns a
 
 Company adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Website. Our privacy policy is simple: except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Company.
 
-### Personal Information
+## Personal Information
 
-Unless you provide comments to the website, submit information to Company, or register for updates from Company, we do not collect any personally identifiable information from you. If you submit comments or information or register to receive updates or send us e-mail, we collect identifiable information about you and your authorized users such as your name, user ID, and email address and may collect telephone numbers, billing information, and demographic information such as age, gender and zip code. We also collect and store information that you enter into this Website or that you provide to any of our representatives, or in conjunction with requests for more information. Registration may also be required and Personal Information may also be collected if there are certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
+Unless you provide comments to the website, submit information to Company, or register for updates from Company, we do not collect any personally identifiable information from you. If you submit comments or information or register to receive updates or send us e-mail, we collect identifiable information about you and your authorized users such as your name, user ID, and email address and may collect telephone numbers, billing information, and demographic information such as age, gender and zip code.
 
-### Anonymous Information
+We also collect and store information that you enter into this Website or that you provide to any of our representatives, or in conjunction with requests for more information. Registration may also be required and Personal Information may also be collected if there are certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
+
+## Anonymous Information
 
 In addition, when you interact with the Website, our servers may keep an activity log that does not identify you individually ("Anonymous Information"). Generally, this information is collected through "traffic data". We collect and store certain administrative and traffic information with each use of the service or Website including: source IP address, time of access, date of access, web page(s), software crash reports, type of browser used, session identification number, search terms, search results, access times and referring websites addresses.
 
-### Use of Cookies and Spyware
+## Use Of Cookies And Spyware
 
-We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer. Like many Websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Website and online services. We may also use cookies to monitor traffic, improve the Website and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer. Like many Websites, we use "cookies", which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Website and online services. We may also use cookies to monitor traffic, improve the Website and make it easier and/or relevant for your use. You may occasionally get cookies from companies advertising on our behalf. We do not control these cookies, and these cookies are not subject to this cookie policy. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
 
 ## Information Collected From Children
 
@@ -36,25 +42,25 @@ This is not a Website directed to children under the age of 13, and Company does
 
 ## How We Use Your Information
 
-We use the information we learn from you to help us personalize and continually improve your experience on the Website. We use the information to communicate with you about orders, products, services, promotional offers, update our records and generally maintain your relationship with us. We also use this information to enable third parties to carry out technical, logistical or other functions on our behalf. We also use the information from one Website on other Websites in our family of websites, all of which are owned and operated by Company. Except as disclosed in this Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us.
+We use the information we learn from you to help us personalize and continually improve your experience on the Website. We use the information to communicate with you about orders, products, services, promotional offers, update our records and generally maintain your relationship with us. We also use this information to enable third parties to carry out technical, logistical or other functions on our behalf. We also use the information from one Website on other Websites in our network of partnering websites which together constitute the “AudioAddict Network” operated by AudioAddict, Inc. Except as disclosed in this Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us.
 
-### Customer Service and Feedback
+## Customer Service And Feedback
 
 We may use your Personal Information to provide customer service, track your compliance with the Website's rules and regulations, or for editorial and feedback purposes (to the extent that is explained when you provide the information). In the event we plan to publicly post any of your Personal Information on a Website (as, for instance, a letter), we will request your permission to provide such posting.
 
-### Use of Anonymous Information
+## Use Of Anonymous Information
 
 We use Anonymous Information to help us determine how people use parts of the Website and who our users are so we can improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use Anonymous Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website. We may also use or share Anonymous Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary.
 
-### Third-Party Agents
+## Third-Party Agents
 
 We have third party agents, subsidiaries, affiliates and partners, including AudioAddict, Inc., that perform functions on our behalf, such as hosting, billing, marketing, analytics, providing customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Website.
 
-### Transactional Partners
+## Transactional Partners
 
 We may share non-personal information with our partners and others from time to time. Examples of such non-personal information include the number of users who visited this Website during a specific time period. This information generally is shared in an aggregated form.
 
-### Emergency Situations
+## Emergency Situations
 
 We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Website; (b) protect and defend our rights or property, the Website or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Website or the public.
 
@@ -90,8 +96,6 @@ California Civil Code Section 1798.83 permits customers of Company who are Calif
 
 ## Controllers of Personal Information
 
-The Data Controller for the Digitally Imported family of websites and any services provided through them is:
+The Data Controller for the website and any services provided through them is:
 
-Digitally Imported, Inc.  
-3457 Ringsby Court, Suite 212  
-Denver, CO 80216, USA 
+Digitally Imported, Inc. 3457 Ringsby Court, Suite 212 Denver, CO 80216, USA
