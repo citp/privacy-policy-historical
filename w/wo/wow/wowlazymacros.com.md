@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827124919id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowlazymacros.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627154606id_/http%3A//wowlazymacros.com/privacy) for the most accurate reproduction.*
 
 # Privacy — WoW Lazy Macros
 
