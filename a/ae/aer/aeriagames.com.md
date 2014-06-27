@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630131014id_/http%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221857id_/https%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
-# Graj za darmo w najlepsze gry komputerowe, przeglądarkowe i na telefon
+# Play the Best MMO, Browser, and Mobile Games for Free
 
 ## Privacy Policy
 
-Aeria Games & Entertainment, Inc. is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of personal information collected via (i) our websites, whether at www.aeriagames.com or other uniform resource locators (URLs) owned or operated by us, and (ii) our products and services, including without limitation those that we provide via our websites, other third party platforms, and desktop and mobile applications (collectively, all of the foregoing in clauses (i) and (ii) are referred to as our "Services"). 
+Aeria Games Europe GmbH is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of personal information collected via (i) our websites, whether at www.aeriagames.com or other uniform resource locators (URLs) owned or operated by us, and (ii) our products and services, including without limitation those that we provide via our websites, other third party platforms, and desktop and mobile applications (collectively, all of the foregoing in clauses (i) and (ii) are referred to as our "Services"). 
 
 This policy does not apply to (a) the practices of companies that we do not own or control, (b) people that we do not employ or manage, (c) third party websites, whether linked to or from our Services, (d) information that you provide to us for purposes of seeking employment, provision of services to us, business proposals or similar matters, (e) information that you provide to us unsolicited, or (f) information that we collect offline.
 
