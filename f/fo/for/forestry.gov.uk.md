@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109014753id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034821id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
@@ -177,7 +177,9 @@ Back to top
 
 ## Links to other sites
 
-www.forestry.gov.uk contains links to other websites, both those of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information. We do not pass on any personal information you have given us to any other site.
+When using this site you may access an online service or transaction that is delivered by another government department or agency, or by a commercial supplier. Each of these services will have its own privacy policy and terms and conditions or end user licences that apply only to that service. Users of any service should make sure they have read the relevant terms and conditions before completing that transaction.
+
+We do not pass on any personal information you have given us to any other site.
 
 Back to top
 
@@ -185,7 +187,7 @@ Back to top
 
 You can change your registration information by contacting us. If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us:
 
-e-mail: [Web_master@forestry.gsi.gov.uk](mailto:web_master@forestry.gsi.gov.uk)
+e-mail: [webmaster@forestry.gsi.gov.uk](mailto:webmaster@forestry.gsi.gov.uk)
 
 0131 314 6555
 
@@ -200,3 +202,5 @@ United Kingdom
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
 Back to top
+
+Last updated: **01/29/2014**
