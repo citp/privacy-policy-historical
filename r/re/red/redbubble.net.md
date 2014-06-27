@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101051940id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627174411id_/http%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
