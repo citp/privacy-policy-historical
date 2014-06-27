@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227120009id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627112532id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Privacy Statement - Northern Arizona University
 
@@ -42,7 +42,7 @@ Student records are protected by the federal Family Educational Rights and Priva
 
 ###  **Employee records**
 
-Employee records are controlled by Arizona Board of Regents policy 6-912 and by NAU Personnel policy 4.11, which is contained in the Personnel Policy Manual: <http://hr.nau.edu/m/images/stories/docs/policy_manual.pdf>.
+Employee records are controlled by Arizona Board of Regents policy 6-912 and by NAU Personnel policy 4.11, which is contained in the Personnel Policy Manual: [http://hr.nau.edu/m/images/stories/docs/policy_manual.pdf](http://hr.nau.edu/ext/node/10245 "http://hr.nau.edu/m/images/stories/docs/policy_manual.pdf").
 
 ###  **Public records law**
 
