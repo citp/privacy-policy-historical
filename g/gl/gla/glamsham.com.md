@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016135256id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamsham.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627055308id_/http%3A//www.glamsham.com/legal/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy@glamsham.com
+
+| 
+
+### What's Hot and Trending in Bollywood
+
+|   
+|  |  |  |   
+|   
+
 
 **glamsham.com's Privacy Policy.**
 
@@ -37,3 +46,65 @@ In the course of serving advertisements to this site, our third-party advertiser
 **If you wish to unsubscribe, kindly Click Here**
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with glamsham.com, please write to: response@glamsham.com
+
+|  |  |   
+---  
+  
+  * Movie Review
+  * Music Review
+  * Preview
+
+
+
+[**Humshakals** \- movie review  
+Sajid Khan's HUMSHAKALS has kindergarten humour at its best. Riteish Deskmukh stands out with his co...](https://web.archive.org/movies/reviews/humshakals-movie-review.asp "Humshakals Movie Review")  
+  
+[**Machhli Jal Ki Rani Hai** \- movie review  
+So, in a hurry to quicken the pace, the director felt it apt to push her foot on the accelerator. Wh...](https://web.archive.org/movies/reviews/machhli-jal-ki-rani-hai-movie-review.asp "Machhli Jal Ki Rani Hai Movie Review")  
+
+
+[ **more...**](https://web.archive.org/movies/reviews/ "More Movie Reviews")  
+  
+  * Celeb Wallpapers
+  * Movie Wallpapers
+
+
+
+[  
+Kriti Sanon](https://web.archive.org/download/wallpaper/11/1920/0/kriti-sanon-wallpapers.htm "Kriti Sanon")
+
+[  
+Shraddha Kapoor](https://web.archive.org/download/wallpaper/11/1234/0/shraddha-kapoor-wallpapers.htm "Shraddha Kapoor")
+
+[**more...**](https://web.archive.org/download/wallpaper/ "More Celeb Wallpapers")  
+  
+  * Posters
+  * Stills
+  * Screensavers
+
+
+
+[  
+Humpty Sharma Ki Dulhania](https://web.archive.org/download/poster/humpty-sharma-ki-dulhania-posters/2407/1.htm "Humpty Sharma Ki Dulhania")
+
+[  
+Mardaani](https://web.archive.org/download/poster/mardaani-posters/2397/1.htm "Mardaani")
+
+[**more...**](https://web.archive.org/download/poster/ "More Poster")  
+  
+  * Events Gallery
+  * Celeb Gallery
+
+
+
+[  
+Shahrukh Khan set to take a ride at Bandra](https://web.archive.org/picture-gallery/shahrukh-khan-set-to-take-a-ride-at-bandra-gallery/14025/0/event.htm "Shahrukh Khan set to take a ride at Bandra")
+
+[  
+Amitabh Bachchan dubs at Empire studio](https://web.archive.org/picture-gallery/amitabh-bachchan-dubs-at-empire-studio-gallery/14026/0/event.htm "Amitabh Bachchan dubs at Empire studio")
+
+[**more...**](https://web.archive.org/picture-gallery/events-n-parties.htm "More Events Gallery")  
+  
+### Tags
+
+[Rakul Preet Singh](https://web.archive.org/celebrity/Rakul-Preet-Singh "Rakul Preet Singh") [Hard Kaur](https://web.archive.org/celebrity/Hard-Kaur "Hard Kaur") [Amrita Puri](https://web.archive.org/celebrity/Amrita-Puri "Amrita Puri") [Monali Thakur](https://web.archive.org/celebrity/Monali-Thakur "Monali Thakur") [Mugdha Godse](https://web.archive.org/celebrity/Mugdha-Godse "Mugdha Godse") [Aamir Khan](https://web.archive.org/celebrity/Aamir-Khan "Aamir Khan") [Shilpa Shetty](https://web.archive.org/celebrity/Shilpa-Shetty "Shilpa Shetty") [Manisha Kelkar](https://web.archive.org/celebrity/Manisha-Kelkar "Manisha Kelkar") [Neha Sharma](https://web.archive.org/celebrity/Neha-Sharma "Neha Sharma") [Dia Mirza](https://web.archive.org/celebrity/Dia-Mirza "Dia Mirza") [Nushrat Bharucha](https://web.archive.org/celebrity/Nushrat-Bharucha "Nushrat Bharucha") [Deepika Padukone](https://web.archive.org/celebrity/Deepika-Padukone "Deepika Padukone") [Tiger Shroff](https://web.archive.org/celebrity/Tiger-Shroff "Tiger Shroff") [Uday Chopra](https://web.archive.org/celebrity/Uday-Chopra "Uday Chopra") [Sandeepa Dhar](https://web.archive.org/celebrity/Sandeepa-Dhar "Sandeepa Dhar") [Complete List](https://web.archive.org/people/)
