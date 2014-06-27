@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techverse.net privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229022433id_/http%3A//techverse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techverse.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627110513id_/http%3A//techverse.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -67,3 +67,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Techverse  
 [www.Techverse.net](http://www.techverse.net/ "techverse.net")  
 Techverseindia@gmail.com
+
+#### Incoming search terms:
+
+  * adsense
+
+
