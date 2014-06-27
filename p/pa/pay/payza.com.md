@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071526id_/https%3A//www.payza.com/legal-agreements/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013450id_/https%3A//www.payza.com/legal-agreements/online-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Protected & Secure Accounts
 
@@ -59,6 +59,10 @@ We may provide your personal information to companies that provide services to h
 
 
 
+### Communications
+
+We may send you email messages about our company, our platform and our Services, as well as email messages about products and services of selected third parties. By accepting the User Agreement, you consent to receive these messages. As a member, you can opt out of receiving commercial messages by following the ‘unsubscribe’ link found in each communication. Please note that we reserve the right to send you service-related communications, including service announcements and administrative messages, relating either to your account or to your transactions, without offering you the opportunity to opt out of receiving them unless you close your account.
+
 ### User Access and Choice
 
 If your personal information changes, or if you wish to discontinue the use of our service, you may correct, update, amend or request to deactivate your account by effectuating changes in your account settings page, by emailing our Customer Support at [info@payza.com](mailto:info@payza.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you with service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. 
@@ -73,6 +77,29 @@ We use both session ID and persistent cookies. A session ID cookie expires when 
 
 The use of cookies by our service providers is not covered by this privacy policy. We do not have access or control over these cookies. Service providers such as GOOGLE, BING and CRAZY EGG use cookies for analytical and search engine optimization purposes. You can visit the service provider’s website for more information regarding their use of cookies. As previously mentioned, the use of cookies by third party service providers for identity authentication and verification purposes will ensure that your service is efficient and seamless. When or if you clear your cache, we may require you to re-enter information you had entered prior to the cache reset.
 
+### Advertising and Analytics
+
+Payza uses third party ad networks and web-based analytical tools to manage our advertising on other websites. Our ad network partners utilize cookies and web beacons to collect non-identifiable personal information (information about you that cannot be linked to you) about your activities on the Payza website and other websites to provide you with targeted advertisements.
+
+We utilize Google Analytics, Google Remarketing and the Google Adwords Display Network, powerful tools that allow us to both gain insight into and stay engaged with our audience as well as to present customized, relevant ads and offers to our customers from across the web.
+
+You may use Google's Ads Preferences Manager to opt out of Google's use of cookies here: <https://www.google.com/ads/preferences>
+
+Google Analytics collects the following pieces of information: 
+
+  * Type of user agent (web browser) used, software and version number
+  * Type of operating system
+  * Screen colors (color processing ability of the users screen)
+  * JavaScript support
+  * Flash version
+  * Screen resolution
+  * Network location and IP address, which includes country, city, state, region, county, or any other geographic data; hostname, bandwidth (internet connection speed)
+  * Time of visit
+  * Pages visited
+  * Time spent on each page of the website
+
+
+
 ### Web Beacons
 
 Our web pages contain electronic images known as web beacons (also referred to as single-pixel gifs) and are used, along with cookies, to compile aggregated statistics in order to analyze how our site is used and how our emails are received. For example, web beacons inform us which links have been visited on our website and which emails have been opened by our recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
@@ -81,11 +108,11 @@ We use a third party to gather information about how you and others use our webs
 
 ### Local Shared Objects - Flash Cookies
 
-We use Local Shared Objects, also known as Flash cookies, to store some of your preferences and to display content based upon personalized to your preferences. Flash cookies are different from browser cookies because of the amount , type and method of data storage. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
+We use Local Shared Objects, also known as Flash cookies, to store some of your preferences and to display content based upon personalized to your preferences. Flash cookies are different from browser cookies because of the amount , type and method of data storage. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <https://www.payza.com/legal-agreements/cookies-policy>
 
 ### Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or other financial information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, however, is 100% secure. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number or other financial information) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, however, is 100% secure. Therefore we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at <https://www.payza.com/support>
 
 In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
 
