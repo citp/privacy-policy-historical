@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unknowncountry.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229081452id_/http%3A//www.unknowncountry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknowncountry.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627033510id_/http%3A//www.unknowncountry.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | unknowncountry
 
