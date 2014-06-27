@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the laughsocksoff.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105210214id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughsocksoff.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627172352id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laugh Socks off
 
 ## Privacy Policy for Laugh Socks off
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at damnlol.com{at}gmail.com
+If you require any more information or have any questions about our privacy policy, please feel free to contact us at laughsocksoff.com{at}gmail.com
 
 At http://www.laughsocksoff.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.laughsocksoff.com/ and how it is used.
 
