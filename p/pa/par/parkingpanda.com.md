@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903100129id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkingpanda.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627213417id_/https%3A//www.parkingpanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Parking Panda Privacy Policy
+# Privacy Policy - Parking Panda
 
 Parking Panda Corp. (" _we_ ", " _our_ " or " _us_ ") believes in your privacy and sharing opinions on www.parkingpanda.com (the " _Site_ "). Our lawyers drafted this privacy policy to protect the collection, use and disclosure of your information on the Site and the services, features, content or applications we offer (together with the Site, the _“Services”_ ). Please read it! This way you’ll know how we collect and use your information and share it with third parties. If you use our Site, then you are agreeing to the collection, transfer, manipulation, storage disclosure and any other things we do with your information.
 
