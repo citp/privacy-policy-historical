@@ -1,45 +1,73 @@
-> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210035559id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarnoise.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627052624id_/http%3A//www.guitarnoise.com/privacy) for the most accurate reproduction.*
 
-# Guitar Noise Privacy Policy - Guitar Noise
+# Our Privacy Policy - Guitar Noise
 
-**Updated on: September 5, 2009**
+This is a privacy policy for Guitar Noise. We respect your privacy. Below is an outline of the information that Guitar Noise gathers, how it is used, and how you can “opt-out.”
 
-We at Guitar Noise respect and are committed to protecting your privacy. This **Privacy Statement** outlines the information that Guitar Noise gathers and how it is used.
+**Site Visits:**  
+Whenever you request a page through your browser, navigation and clickstream data such as:
 
-## Newsletter and No Spam Guarantee
-
-When signing up for our newsletter you agree that Guitar Noise will use your email address to contact you with site updates, announcements, exclusive lessons and special offers. **We still never share your email address with anyone. Ever!**
-
-You can easily unsubscribe from our newsletter at any time! Every email we send includes simple instructions on how to unsubscribe. You can also unsubscribe on the [newsletter page](http://www.guitarnoise.com/newsletter/).
-
-## Collection of your personal data
-
-We collect personal data that you voluntarily provide when requesting information. We only collect the necessary personal data to answer your queries. The email addresses collected are not sold, or disclosed to any third parties.
-
-## Use of your personal data
-
-Guitar Noise has implemented all the necessary technical measures in order to secure the files containing your personal data. In particular, Guitar Noise will carefully protect your personal data from loss, unauthorized disclosure, mistreatment, alteration or destruction. The information provided by you will be strictly confidential.
-
-Guitar Noise shall not transfer your personal data to third parties, unless we could not provide the services you have requested from us directly and the assistance of a third party was required.
-
-## Information about computer tracking and cookies
-
-Sections of this web site may use cookies to keep track of your visit, or to deliver content specific to your interests. A cookie is an element of data that a website can send to your browser, and which your browser may then store on your system. You can set your browser to notify you when you receive a cookie.
-
-Cookies on this site are used by ourselves, our ad management system, and advertisers who use third-party ad serving solutions, such as Google and the DoubleClick DART cookie:
-
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it and its partners to serve ads to our users based on visits to this site and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * your IP address,
+  * browser and version,
+  * operating system,
+  * date and time and
+  * the site from which you came
 
 
 
-## Third-party Ads
+are stored in a log file and/or database. Any search terms that you enter into the site search are also logged. This information cannot be used to identify specific individuals, and is only used for:
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+  * Website and system administration,
+  * research and development,
+  * anonymous user analysis, and
+  * to provide accurate statistics to advertisers in the form of aggregated data.
 
-## Changes to this Privacy Policy
 
-Guitar Noise may amend this **Privacy Policy** at any time and without prior notice.
+
+This information is kept on a secure dedicated server.
+
+**Email addresses:**  
+The email addresses collected from subscriptions to the Guitar Noise newsletter are not sold, or disclosed to any third parties. These addresses will only be used to send out Guitar Noise newsletters. You will not receive any mailings you did not request. The email addresses collected are stored on a server hosted by MailChimp. You can remove yourself from our list at any time by visiting updating your email preferences linked from the bottom of any newsletter email received.
+
+**Contests:**  
+When a contest is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number. This information will only be used to notify winners of the contest/sweepstakes. Non-identifying information may be analyzed, aggregated and presented to third-parties to provide an overview of the demographics of our visitors.
+
+**Surveys:**  
+When a survey appears on Guitar Noise, information is collected, compiled and analyzed on an aggregated basis. Guitar Noise may share this aggregated data with advertisers or business partners.
+
+**Cookies:**  
+Cookies on this site are used by ourselves, our ad management system, and occasionally by advertisers who use 3rd party ad serving solutions. Cookies are used for:
+
+  * ad tracking,
+  * customization of content (i.e. not repeating pop-up windows),
+  * storing login information, and
+  * statistical site-traffic analysis.
+  * Third party vendors, including Google, show our ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
+  * You have the option to [opt out of Google’s use of cookies](http://www.google.com/policies/technologies/ads/) or from [participating NAI partners](http://www.networkadvertising.org/choices/).
+
+
+
+**Forums:**  
+The information collected during the registration process for the Guitar Noise Forums is used to:
+
+  * contact members,
+  * customize content based upon user preferences,
+  * display member status, and
+  * display the date of a member´s last visit.
+
+
+
+Information collected in this process can also be used to prevent banned users from re-registering under a different username. The email address will only be seen by moderators and administrators if the “Keep your email address viewable to other users when you post notes?” option is set to no. Cookies may be sent to your browser to enable automatic log-ins upon further visits, as well as for content customization.
+
+**Posts:**  
+Any postings in our Forums and Articles should be considered public knowledge and will be accessible by search engine spiders. This includes any information you provode in the “profile” associated with any accounts you have at Guitar Noise. Guitar Noise will not retroactively edit your username, profile or posted messages.
+
+**Messages:**  
+Any messages sent through our servers, including person-to-person communcations, are unencrypted and may be accessed by Guitar Noise Employees or Contractors.
+
+Guitar Noise complies with all law enforcement agency requests for information. Any data collected will be used by ourselves and our agents. Guitar Noise hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
 If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](http://www.guitarnoise.com/contact/).
+
+This Privacy Policy is effective as of February 20, 2014.
