@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108213623id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausdroid.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627042305id_/http%3A//ausdroid.net/privacy) for the most accurate reproduction.*
 
-# Privacy | Ausdroid
+# Privacy - Ausdroid
 
 **Privacy policy**
 
@@ -35,7 +35,9 @@ The discussion boards and comment pages that we provide through our websites are
 
 As explained in the terms and conditions of our websites, from time to time, Ausdroid conducts competitions and promotions. Ausdroid will collect personal information when it does so, in order to distribute prizes and administer the relevant competition or promotion.
 
-If we collect personal information in this way, when you enter the competition or promotion we may also ask you to consent to us using that information for marketing purposes or for other purposes.
+If we collect personal information in this way, when you enter the competition or promotion we also ask you to consent to us using that information for marketing purposes or for other purposes.
+
+You may, of course, opt out of receiving any future communications from us. We will always offer you this option.
 
 (c) Business Contacts
 
