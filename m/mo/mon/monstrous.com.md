@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014003318id_/http%3A//www.monstrous.com/Frequently_Asked_Questions/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstrous.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627131106id_/http%3A//www.monstrous.com/Frequently_Asked_Questions/Privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Frequently Asked Questions
 
 Monstrous.com is concerned about your privacy. Please read the following to learn more about our privacy policy. 
 
