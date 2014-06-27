@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securebuycommerce.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607064532id_/http%3A//www.securebuycommerce.com/securebuy-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securebuycommerce.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133017id_/http%3A//www.securebuycommerce.com/securebuy-privacy-statement.html) for the most accurate reproduction.*
 
-# SecureBuy Commerce - SecureBuy Privacy Statement
+# SecureBuy - SecureBuy Privacy Statement
 
 This privacy policy describes the privacy practices of SecureBuy's websites, as well as our products, online services, and technology that include a link to this policy (we refer to our products, online services, and technology as "technology"). This privacy policy also applies to SecureBuy's marketing and advertising practices. We also provide additional privacy-related information for certain SecureBuy websites and technology. Please also see the SecureBuy Terms of Use and any additional Terms of Use or Product License Agreements that may apply to the website or service you are using.
 
@@ -70,6 +70,6 @@ The SecureBuy family of services and companies we hire to help us market our web
 If we change or update this privacy policy to allow SecureBuy to use or share your previously collected personal information in a materially different way, then the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated before the change or update become effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Who can I contact with questions or concerns?  
-If you have a privacy question or complaint, please [Click Here](http://www.securebuycommerce.com/contact-us.html) to contact us.
+If you have a privacy question or complaint, please [Click Here](https://www.securebuycommerce.com/contact-us.html) to contact us.
 
 Effective January 1, 2013
