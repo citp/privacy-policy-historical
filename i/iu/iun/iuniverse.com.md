@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212044846id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iuniverse.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627121007id_/http%3A//www.iuniverse.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy -- iUniverse
 
@@ -59,7 +59,7 @@ _Back to Top_
 
 We use encryption technology to keep your personal information safe. All of your ordering information – including your name, mailing address, telephone number, e-mail address and credit card data – is encrypted using a secure server for maximum security.
 
-Credit card transactions are handled by a third-party financial institution called Verisign, the world's recognized leader in e-commerce payment solutions. They receive the credit card data only to verify the credit card numbers and process transactions.
+Credit card transactions are handled by a third-party financial institution called Merchant e-Solutions, the world's recognized leader in e-commerce payment solutions. They receive the credit card data only to verify the credit card numbers and process transactions.
 
 Furthermore, your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we store only the last five digits on a server that is not accessible from the Internet.
 
