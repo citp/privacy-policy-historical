@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231091130id_/http%3A//www.romancelatina.com/en/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627210019id_/http%3A//www.romancelatina.com/en/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | RomanceLatina.com
 
