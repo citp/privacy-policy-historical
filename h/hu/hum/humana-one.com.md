@@ -1,85 +1,105 @@
-> *The following text is extracted and transformed from the humana-one.com privacy policy that was archived on 2006-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061213192503id_/http%3A//www.humana-one.com/healthinsurance/HumanaOne-Internet-Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana-one.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627214424id_/https%3A//www.humana.com/about/legal/internet-privacy) for the most accurate reproduction.*
 
-# Health plan members and prospective members are protected at HumanaOne
+# Internet Privacy Statement - Humana
 
-[**Home**](http://www.humana-one.com/) **>  Internet Privacy Statement**  
+## TRUSTe
 
+Humana is a licensee of the TRUSTe Privacy Program. This Internet Privacy Statement applies only to information on [Humana.com](https://web.archive.org/).
 
-### Internet Privacy Statement      [](http://www.truste.org/ivalidate.php?url=www.humana.com&sealid=101)  
+[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Humana%20Inc.&sealid=101)
 
+TRUSTe is an independent organization whose mission is to advance privacy and trust in the Networked world. As this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
-Humana Inc. is a licensee of the TRUSTe Privacy Program. This Internet privacy statement applies only to information on [http://www.humana-one.com](http://www.humana-one.com/).
+By displaying the TRUSTe mark, this web site has agreed to notify you of:
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, this website has agreed to notify you of:
-
-  1. What personally identifiable information of yours or third party personal identification is collected from you through the website
-
-  2. The organization collecting the information
-
-  3. How the information is used
-
-  4. With whom the information may be shared
-
-  5. What choices are available to you regarding collection, use and distribution of the information
-
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Humana Inc. control
-
-  7. How you can correct any inaccuracies in the information.
+  * What personally identifiable information of yours or third-party personal identification is collected from you through the website
+  * The organization collecting the information
+  * How the information is used
+  * With whom the information may be shared
+  * What choices are available to you for collection, use, and distribution of the information
+  * The kind of security procedures in place to protect the loss, misuse, or alteration of information under Humana's control
+  * How you can correct any inaccuracies in the information
 
 
 
+If you have questions or concerns about this Internet Privacy Statement and/or the privacy practices of this website, you should first contact the Humana Privacy Office, PO Box 1438, Louisville, KY 40202.
 
-If you have questions or concerns regarding this internet privacy statement, you should first contact the Humana Privacy Office, PO Box 1438, Louisville, KY 40202 by postal mail or [privacyoffice@humana.com](mailto:privacyoffice@humana.com) by email. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)   TRUSTe will then serve as a liaison with the website to resolve your concerns.
+If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then [contact TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with this website to resolve your concerns.
 
-**Commitment to confidentiality**
+## Commitment to Confidentiality
 
-Confidentiality is a top priority at Humana Inc. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our current or prospective policy owners, including the information received from this web site.
+Confidentiality is a top priority at Humana. We are committed to maintaining the highest level of confidentiality with all of the information we receive from this website's users. This Internet Privacy Statement assures you that the information you share with Humana is kept confidential and fully secure.
 
-This Privacy Statement will assure you that the information you share with Humana Inc. is kept confidential and fully secure. Humana Inc. may change this Privacy Statement at any time by prominently posting revisions to our web site although, you will be notified of any modifications in the use of Personally Identifiable Information via email, mail or phone depending on circumstances.
+Links to other websites may be available to provide you with additional useful information and services. Links that take you off this website are clearly labeled. Humana is not responsible for the privacy policies or actions of those who control other websites. We encourage you to look for and review the privacy policies of any website you visit.
 
-Links to other web sites are available in order to provide you with additional useful information and services. Links that take you off our web site are clearly labeled. We are not responsible for the privacy policies or actions of those that control other web sites. We encourage you to look for and review the privacy policies of any web site you visit.
+We may also partner with third parties to provide links to third-party websites to offer you additional information and services. You may see both the Humana logo and the third party's logo on these third-party websites. Users of these websites should be aware of who is collecting personal information and who's Internet Privacy Statement applies before providing personal information. Humana may not have control over third-party partners' use of your information.
 
-Humana has also partnered with third parties and provides links to their web sites to offer you additional information and services. You may see both the Humana logo and the third parties logo on these third party web sites. Users of these web sites will be aware of who is collecting personal information and whose privacy policy applies prior to providing personal information. Humana does not have control over our third party partner’s use of your information.
+## Collection and Use of Personal Information
 
-**Personal information** At Humana Inc. (and its wholly owned subsidiaries), we are very aware of the privacy concerns of our customers and others who visit the Humana web site. In fact, we share your concerns and will not solicit personal information from you as you tour our web site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license or transmit that information outside of Humana Inc. for any reason, unless you authorize us to do so.
+Users of this website have the option to provide certain personal information. This personal information may be required in order to receive specific services. By providing such information, you are agreeing that Humana may store, process, and review such information. And we may use this personal information for the purpose for which it was collected. 
 
-There are instances in which Humana Inc. might internally use the personal information you voluntarily submit. These instances include requesting a quote for one of Humana’s products, and/or identifying and registering yourself for the Self-Service Center portion of our web sites. In addition, we may disclose your personal information (as described below) to our agents, third party partners, affiliates and subsidiaries to enable them to perform certain functions for us.
+We may collect certain personally identifiable information from our users at different places within this website. Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, telephone number, cellular phone number, text message number, fax number, e-mail address, etc. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and address). 
 
-We may also use your Secret Prompt, Secret Response and birth date that were established during the registration process, to later identify you in case you have forget or misplace your password. By learning a little about you, Humana Inc. can deliver more relevant content and product offerings, hence provide you with better service.
+Individuals (Members), Providers, Employers, Business Partners, and Agents & Brokers have the ability to register for access to the secured area of this website. To access the secured area, you may need to provide additional information such as name, address, group number, and tax identification number. The purpose of the registration process is to verify and validate who is requesting access to the secured area of the website. Registration also enables us to tailor the information you receive. 
 
-Personally Identifiable Information is described as data that is unique to an individual, such as a name, address, telephone number, social security number and date of birth (DOB). At times, we may request personal information from you through our web sites in order to deliver requested materials to you, respond to your questions, respond to your request for a price quote for one of Humana’s products, or deliver a product or service.
+We may use the voluntarily provided contact information to notify website users of updates to existing products and services, new products and services, or upcoming events. Website users who do not wish to receive such notifications via e-mail or SMS (text) can choose to opt-out of receiving such information. It is our policy that e-mail and SMS (text) messages will contain an "unsubscribe" and "STOP" function, along with instructions on how to execute the opt-out function.
 
-Members, physicians, employers and agents have the ability to register in a secured area of our web sites in order for Humana to deliver such products or services. Additional information collected by these web sites may include organization names, addresses, group numbers and tax identification numbers. The purpose of the registration is to validate members, providers, employers and agents requesting access to our secured area. The registration also enables us to tailor the information sent to you. Contact forms are used only to deliver requested materials and respond to your questions.
+Some website users may have the ability to opt-out of receiving e-mail and SMS (text) messages by updating their communications preferences within the secured area of the website. 
 
-Prospective members have the ability to register within the secured online application portion of our web site. Information collected within this portion of the web site will be used for underwriting purposes and may include the prospect member’s and dependents names, addresses, phone numbers, date of births, social security numbers, credit card and bank account information, current insurance coverage, medical history, life style issues, occupation and other pertinent information. Additionally Humana may obtain information from third party sources such as a credit bureau or fraud protection service agency to verify the user’s identity.
+After completing the log in process, website users have the option to change their password, e-mail address and security question and response. If the website user forgets or misplaces their password, Humana will use the security question and response to identify the website user and grant access to the website. To change personally identifiable information, registered members must contact the appropriate Humana Customer Care representative listed on the [Contact Humana](https://web.archive.org/individual-and-family-support/contact-us) section of this website.
 
-By providing an email address, you are indicating that publications can be sent to your email address. You are not required at any time to submit your email address for the purpose of receiving recurring informational/promotional emails from Humana Inc. and/or third parties. HumanaOne members may opt out of receiving publications via email by contacting the Customer Service toll-free number that appears on your member identification card or indicating your preference on our web site. HumanaOne applicants may opt out of receiving publications via email by contacting the customer service department at 1-866-215-2663.
+We recognize that when website users choose to provide personal information, they trust that we will protect their privacy and will provide them with choices about how that information is to be shared. Humana will not sell, trade, rent or disclose the personal information that you provide unless you authorize us to do so or required to do so by law.
 
-For prospective members during the Get-a-Quote process, you have the option to change your password and email address. In case you forget or misplace your Password, we will use your Secret Question and Secret Answer to identify you in order to provide this information to you. Your personally identifiable information can be changed by contacting the Customer Service group at 1-866-215-2663.
+There are instances in which Humana may disclose website user's personal information to our agents, third-party partners, affiliates, and subsidiaries to enable them to perform functions on our behalf. These companies are only permitted to share, store and/or use personal information for contracted business purposes.
 
-Health plan members, at the time of login to the Self Service area, you have the option to change your password and email address. In case you forget or misplace your Password, we will use your Secret Prompt and Secret Response to identify you in order to provide this information to you. Your personally identifiable information can be changed by contacting the Customer Service toll-free number that appears on your member identification card.
+We may share your personal information when we believe that such action is necessary to: 1) fulfill an enforceable government request; 2) conform with the requirements of the law or legal process; 3) protect or defend our legal rights or property, this website, or other users; or 4) protect your health and safety or the health and safety of this website's users or the general public.
 
-We collect information about you and your use of our web site through the use of session and persistent cookies. Session cookies are small text files that are stored within your computer’s temporary memory.  These temporary files are used to facilitate your navigation throughout the web site. Additionally, session cookies are used to grant you access to the secured portions of the web site.  Access to the secured portions of the web site will not be granted if the session cookie is rejected.
+## Technology use on this website
 
-Persistent cookies are small computer files that are transferred to your computer's hard drive.  These stored files are used in the generation of data that is fed to a contracted third party for web site usage analysis. Reports created using this information will provide Humana with a better understanding of the use of this web site. You may choose one of three different levels of data collection associated with the use of the persistent cookie.  Transfer to [Persistent Cookie Opt-out Options](https://www.humana-one.com/secured/opt_out.asp) for more information.
+Information about you and your use of this website is collected through the use of session and persistent cookies. Session cookies are small text files that are stored within your computer’s memory. These files are used to facilitate your navigation throughout this website.
 
-Information stored within both session and persistent cookies does not include personally identifiable information.
+Persistent cookies are small computer files that are transferred to your computer's hard drive. These stored files are used in the generation of data that is fed to a contracted third party for website usage analysis. Reports created using this information will provide Humana with a better understanding of the use of this website. You may choose one of three different levels of data collection associated with the use of the first-party persistent cookie. [Transfer to Persistent Cookie Opt-out Option](https://web.archive.org/about/legal/opt-out)
 
-Personally Identifiable Information provided to Humana may be subject to disclosure to judicial or other government subpoenas, warrants or orders.
+Humana may work with third party service providers who may place third party persistent cookies, web beacons, or similar technologies on your computer as a visitor to our website to collect anonymous information about the use of our websites. This information allows these third party service providers to customize our content and advertising. We do not permit these companies to collect any personal information about you using these technologies. 
 
-**Internal Security Procedures  
-**Information that you share with us is kept strictly confidential and fully secure. Your encrypted (encoded) information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and the Humana Inc. servers. Only authorized persons are permitted to access your personal information. All authorized persons must abide by security, privacy and confidentiality agreements.
+If you do not want these service providers to collect your information, please visit the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) website to "opt-out" of the behavioral advertising delivered by the NAI organization's member companies. [Click here ](http://www.networkadvertising.org/choices/)to execute the opt-out process. 
 
-**Email**  
-Should you send us your questions, comments and job inquiry via email to any mail box provided on this web site; we will share your correspondence with our Customer Service representatives and those employees or agents most capable of addressing your questions and concerns. We will retain your communication until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it. Your email address will not be retained for secondary purposes.
+Opting out from these services will have no effect on your use of this website in any way. Information stored within both session and persistent cookies are not tied to your Personally Identifiable Information.
 
-All information and correspondence you share with us will be handled in the strictest confidence. Please note that the email facilities on the unsecured areas of our web site (unlike those areas that require a sign-on and are password- protected) do not provide the same level of security. For that reason, please do not use unsecured email to communicate information to us that you consider to be confidential. Secured messaging facilities are available in the secured areas of our web site. If you are authorized, you may use these facilities when you wish to communicate confidential or private information to us.
+If you are concerned about the storage and use of cookies, you may be able to direct your Internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your Internet browser or other programs. You can also set your browser to refuse all cookies. Please note, however, that some parts of this website may not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-Health plan members wishing to contact Humana Inc. via telephone should contact the Customer Service group at the toll-free number that appears on your member identification card. HumanaOne applicants should contact the Customer Service group at 1-866-215-2663.
+This website does not respond to web browser "do not track" signals.
 
-**Internet Privacy Statement Changes**  
-This Internet Privacy Statement is effective as of July 2000 and was last updated on September 2005. This statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
+To gauge the effectiveness of this website, we may collect non-personal information about our website users. This information may include, among other things, your: IP address, browser type, internet service provider (ISP), domain names, referring/exit pages, operating system, date/time stamp, and clickstream data. We may use this information, which does not identify individual users, to analyze trends, to administer the website, to track users' movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personal information.
 
-**For more information**  
-The Humana Inc. web site is maintained by Humana Inc., 500 West Main Street, Louisville, KY 40202.  
+Our mobile application may collect additional information such as Device type, Device OS version, Device name, API method, etc. We may use this information to administer the application and to analyze application trends. Geo-location data includes zip code entered by the user for use within the Provider/Pharmacy search function.
 
+## Internal security procedures
+
+Information that you share on the website is kept strictly confidential and fully secure. Your encrypted (encoded) information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and this website. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Only authorized persons are permitted to access your personal information. All authorized persons must abide by security, privacy, and confidentiality agreements.
+
+## E-mail
+
+If you send questions or comments to an e-mail address listed within this website or via a contact form located within this website, we will share your correspondence with an associate most capable of addressing your questions and concerns. We will retain your communications until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it. We will not keep your e-mail address for secondary purposes. All information and correspondence you share with us will be handled in the strictest confidence.
+
+We may agree that e-mail has become a standard communication tool used by many different parties. Unfortunately by design standard Internet e-mail is not secure. For that reason, please do not use unsecured e-mail to communicate information to us that you may consider to be confidential. Secured messaging may be available within the secured area of this website. Once you successfully log in, you may be able to use this feature to communicate confidential or private information to Humana.
+
+## California privacy law
+
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third-parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third-party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing by contacting the Humana Privacy Office, PO Box 1438, Louisville, KY 40202. 
+
+## Children's privacy
+
+This website is not intended for use by children under the age of 18.
+
+## Internet Privacy Statement changes
+
+This Internet Privacy Statement is effective as of July 2000 and was last updated in April 2014. This Internet Privacy Statement is not intended to and does not create any contractual or other legal rights with or on behalf of any party.
+
+If we decide to change this website's privacy practices, we will post those changes to this Internet Privacy Statement, the home page, and other places that we deem appropriate so that you are aware of what information is being collected, how the information is being used, and under what circumstances, if any, the information may be disclosed. Humana reserves the right to modify this Internet Privacy Statement at any time, so please review it frequently.
+
+## More information
+
+This website is maintained by Humana, 500 West Main Street, Louisville, KY 40202 
