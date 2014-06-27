@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624203917id_/http%3A//www.intertrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627173602id_/http%3A//www.intertrust.com/privacy) for the most accurate reproduction.*
 
-# Intertrust's Privacy Policy | Intertrust
+# Privacy — Intertrust
 
-This Website Privacy Statement (“Privacy Statement”) tells our visitors (“You” or “Your”) about: a) the information Intertrust Technologies Corporation (“Intertrust”) collects through our website(s), www.intertrust.com and its related websites; (the “Site(s)”); b) certain services available on our Site(s); and c) how we use that information. 
+This Website Privacy Statement (“Privacy Statement”) tells our visitors (“You” or “Your”) about: a) the information Intertrust Technologies Corporation (“Intertrust”) collects through our website(s), www.intertrust.com and its related websites; (the “Site(s)”); b) certain services available on our Site(s); and c) how we use that information.
 
 ### Consent
 
@@ -22,8 +22,8 @@ We may collect information that identifies You personally, such as Your name, ad
 
 ### Here are some details about certain features of our Site(s).
 
-  * **IP Addresses.** Each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by Site management software. Intertrust uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes.
-  * **Cookies.** The Site stores no permanent cookies on any visitor's machine.
+  *  **IP Addresses.**  Each visitor to the Site is identified by an IP address during their visit and IP addresses are automatically captured by Site management software. Intertrust uses this information to help improve the operation of the Site and may at some time use this information to help adjust the content of the Site to the general geographic location of the visitor and for reporting purposes.
+  *  **Cookies.**  The Site stores no permanent cookies on any visitor's machine.
 
 
 
@@ -41,4 +41,10 @@ Intertrust uses commercially reasonable efforts to store and maintain Personal I
 
 ### Comments and Questions
 
-If You have questions or comments about this Privacy Statement, please [contact us](https://web.archive.org/contact_us_form) or write to: Intertrust Technologies Corporation attn: Legal Department, 920 Stewart Drive, Sunnyvale, CA 94085.
+If You have questions or comments about this Privacy Statement, please contact us or write to: 
+
+Intertrust Technologies Corporation, attention: Legal Department
+
+920 Stewart Drive
+
+Suite 100, Sunnyvale CA 94085
