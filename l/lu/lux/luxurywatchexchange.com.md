@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924232558id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627020456id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
-# Luxury Watch Exchange | Auction Sell Buy Watches
+# Luxury Watch Exchange | Auction Sell Buy - BUY Board (Beta) Post Specific Models NOW To Buy!
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
@@ -9,11 +9,15 @@
   * [](http://www.luxurywatchexchange.com/register.asp) [ Register ](http://www.luxurywatchexchange.com/register.asp)
   * [](http://www.luxurywatchexchange.com/myauction.asp) [ My Account ](http://www.luxurywatchexchange.com/myauction.asp)
   * [Forum](https://web.archive.org/login.asp)
+  * [](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1) [ Buy ](http://www.luxurywatchexchange.com/buyitem.asp?new_item=1)
   * [](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1) [ Sell ](http://www.luxurywatchexchange.com/sellitem.asp?new_item=1)
+  * [](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1) [ Auction ](http://www.luxurywatchexchange.com/auctionitem.asp?new_item=1)
   * [](http://www.luxurywatchexchange.com/stores.asp) [ Stores ](http://www.luxurywatchexchange.com/stores.asp)
   * [](http://www.luxurywatchexchange.com/helpgeneral.asp) [ Help ](http://www.luxurywatchexchange.com/helpgeneral.asp)
 
 
+
+BUY Board (Beta) Post Specific Models NOW To Buy! 
 
 **PRIVACY POLICY** ** **
 
@@ -35,5 +39,5 @@ Data in relation to credit card payments are processed by Authorize.net and Pay
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [admin@uxurywatchexchange.com](mailto:admin@theluxurywatchexchange.com).  You can also correct any factual errors in that information or request us to remove your details form any list under our control.
 
-[](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [ ](http://www.revisitors.com/a/don@ewristwatch.net)   
+[](http://www.connectingwatches.com/watch-top/) [](http://www.allwatchsites.com/) [](http://www.watchsites.net/)   
 
