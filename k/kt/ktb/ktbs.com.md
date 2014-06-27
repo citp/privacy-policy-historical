@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209082359id_/http%3A//www.ktbs.com/story/22289166/ktbs-3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627190202id_/http%3A//www.ktbs.com/story/22289166/ktbs-3-privacy-policy) for the most accurate reproduction.*
 
 # KTBS 3 Privacy Policy - KTBS.com - Shreveport, LA News, Weather and Sports
 
