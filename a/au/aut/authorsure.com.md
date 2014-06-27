@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103065247id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627233614id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,8 +16,13 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 ### External Links
 
-This web site may contain links to other sites. Please be aware that AuthorSure.com are not responsible for the privacy policies of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.
+This web site may contain links to other sites. Please be aware that AuthorSure.com are not responsible for the privacy policies of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.  
 
-#### About 
+
+## How to Contact Us
+
+Questions about this statement or about our handling of your information may be sent by email to [privacy@purpleparasol.com](mailto:privacy@purpleparasol.com), or by post to Purple Parasol Privacy Office, PO Box 85, Hatherleigh, Okehampton, Devon, EX20 3WH UK. 
+
+#### About 
 
 Liz is part of DiyWebmastery - she creates WordPress sites for clients, and teaches WordPress SEO to her one on one WordPress coaching students.
