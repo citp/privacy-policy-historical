@@ -1,66 +1,89 @@
-> *The following text is extracted and transformed from the wittlebee.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602111444id_/http%3A//wittlebee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wittlebee.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627164658id_/http%3A//www.fabkids.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Wittlebee
+# Privacy Policy | FabKids
 
-[Sign Up Free](https://web.archive.org/subscriptions/build/cart.json?td=956450&frequency=wittlebee_monthly&l=%2F&site=3&select_clothes=six)
+This Privacy Policy was last updated on August 20, 2012.
 
-## Privacy Policy
+### Our Policy:
 
-Wittlebee (“Company”, “we” or “us”) provides the user and/or viewer (“you”) with access to information through this website (the “Site”) and provides certain products and services in conjunction with this Site (the “Services”).  This privacy policy describes our information collection and use practices in connection with the Site and the Services, as well as circumstances under which we disclose information collected from you. 
+We at Personal Retailing, Inc. ( **"FabKids"** , "we", "us" and/or "our") know that our users ("you", your") care about how your personal information is used and shared, and we take your privacy seriously. This web site (the "Site") is operated by FabKids and has been created to provide information about our company and brand, recommendations and editorial for our members, and ecommerce shopping capabilities (the "Services") to our users. This Privacy Policy sets forth FabKids's policy with respect to information, including personally identifiable data ("Personal Data"), and other information that is collected from Site visitors and users of the Services.
 
-## Information
+### Information We Collect:
 
-“Personal Information” means data that allows someone to identify or contact you (e.g. your name, address, telephone number, e-mail address, credit/debit numbers, expiration date and other billing information; people to whom purchases have been shipped, including addresses and phone number).  “Non-Personal Information” means data that is not associated with or linked to your Personal Information.
+When you interact with us through the Site or the Services, we may collect Personal Data and other information from you, as further described below:
 
-## How Information is Obtained
+**Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information such as when you register for access to the Services (for example, your name and mailing address), use certain Services, contact us with inquiries or respond to one of our surveys. Wherever FabKids collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-## Information That Is Gathered From Visitors
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of FabKids and the authorized third parties referred to herein located in the United States.**
 
-In common with other websites, log files are stored on our web server saving details such as the visitor's Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session) address, browser type, referring page and time of visit.  Such information is not associated with any online account or registration information.
+**Non-Identifiable or Aggregated Data:** When you interact with FabKids through the Site or Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. FabKids may store such information itself or such information may be included in databases owned and maintained by FabKids affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, the domain names of our visitors' Internet service providers, and how our users use and interact with the Services. Also, in an ongoing effort to better understand and serve the users of the Services, FabKids often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis. FabKids may share this non-identifiable and aggregate data with its affiliates, agents and business partners, but this type of non-identifiable and aggregate information does not identify you personally. FabKids may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-## Information You Give to Us
+In operating this Site, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site's features.
 
-We receive and store information that you enter on the Site or give us in any other way (e.g., by telephone). This may include information you provide when you register as a member (“Registered Member”), engage in transactions, search, contact customer service, or participate in contests, promotions, surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions or other aspects or services offered by us. As a result, you may supply us with such Personal Information.  
-Each Registered Member may be provided a unique username and password that enable access to the Service. We may track the use of those usernames and passwords in order to collect and maintain records of individual transactions conducted through the Services by Registered Members, and those records may be associated with each Registered Member’s individual account profile within the Company system.  
-By submitting Personal Information through the Site or the Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.  
-The Site has security measures in place to protect against the loss, misuse and unauthorized alteration of Personal Information in Company's possession and control. Although we endeavor to provide security for information in our possession and control, no security system can prevent against all potential security breaches, and we bear no liability for uses or disclosures of Personal Information or Non-Personal Information arising in connection with the theft thereof.  Likewise, Registered Members are responsible for safeguarding the confidentiality of passwords to the Services, and we bear no liability for access to, or use or disclosure of, Personal Information, if such access, use or disclosure arises in connection with the theft or disclosure (whether intentional or negligent) of a password.
+### Our Use of Your Personal Data and Other Information:
 
-You can always modify or remove Personal Information by [logging into your account](http://wittlebee.com/login/?next=/accounts/profile/).
+FabKids uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. FabKids and its subsidiaries and affiliates (the "Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Services. FabKids and its Related Companies may use this information to communicate with you regarding the Services or to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. Note however that as user of the Service you cannot opt-out of some administrative communications that are reasonably necessary to the Service, such as billing or service notifications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-## How the Information is used
+If FabKids intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-We use information collected from our Site and the Services in several ways.  For example, we use Personal Information as needed to provide the Site and the Services, to create accounts, and to communicate with Registered Members.  We may send E-mails  to you regarding news of the Services or offers by us or our affiliates.  
-We also use both Personal Information and Non-Personal Information when evaluating ways to improve the Site and the Services.  As further described below, in limited circumstances we may disclose collected information, including Personal Information, to certain third parties in connection with providing the Services or as required by law.    
-We use Non-Personal Information in a variety of ways, including, by way of example, to evaluate the performance of the Site and Services and the general preferences of users, or to generate anonymous statistics for our benefit or for our business partners.  Because Non-Personal Information is entirely anonymous, and therefore can never be used by us to identify you, this policy does not limit our ability to use or disclose Non-Personal Information.   
-We may use third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you enter and win a contest or other promotion, you expressly consent to us (a) providing your Personal Information (e.g., your name and address) to the third party providing the prize for the contest or other promotion, solely to provide you such prize and (b) publicly disclosing your name and the fact that you won the contest or promotion. 
+### Our Disclosure of Your Personal Data and Other Information:
 
-## Information Shared with Third Parties
+There are certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-In addition, as a necessary part of providing the Services, we may disclose information collected from you to certain third parties.  For example, we may disclose certain Personal Information about you to our third-party service providers (e.g., our third party payment processors), so long as they are only using the Personal Information to provide services to us.  If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by it and us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. Under certain limited circumstances, we may cooperate with legal investigations and/or we may be subject to legal requirements to disclose information collected through the Site or the Services, such as, by way of example, to a court or a governmental agency, and our policy is to provide such cooperation and comply fully with all such legal requirements.  We may also disclose Personal Information to protect or defend the rights or property of Company or users of the Services and/or to investigate any violation or potential violation of the law, this Privacy Policy, or the Terms and Conditions.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  The disclosures contemplated by this paragraph (“Necessary Disclosures”) are necessary if you wish to use the Services.  As mentioned above, Company may use and disclose Non-Personal Information without restriction.  If you do not want us to make such Necessary Disclosures, or to use Non-Personal Information without restriction, you must not use the Services.  
-We do not sell, rent or lease e-mail addresses to third parties.
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-## Visitor Options
+**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-If you have subscribed to one or more of our Services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+**Agents, Consultants and Related Third Parties:** FabKids, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases, shipping and fulfillment, and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-## Cookies
+**Select Partners:** From time to time we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases we might rent, exchange, share and/or cross-reference information, including Personal Data about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
 
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the Site. They may also be used to track your return visits to the Site.  When using the Services, we may create “cookies” on your computer for purposes of facilitating and maintaining your current user session, and may collect Personal Information using those cookies in order to enable Company to identify you in connection with the Services and to track use of the Services for purposes consistent with this policy.  To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, IP, which may vary from session to session), domain name, and/or a date/time stamp for your visit.  
-Third party advertising companies may also use cookies for tracking purposes.  
-You may be able to block cookies via your browser settings, but this may prevent you from access to certain features of the website.
+**Legal Requirements:** FabKids may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of FabKids, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
-## Minors
+### Your Choices:
 
-You must be of age 18 or older to become a member and place orders with Company. 
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
 
-## Changes to Privacy Policy
+### Opting Out of Marketing and Transfers; Updating and Deleting Information About You:
 
-If we change our privacy policy, we will post those changes on the Site so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we will disclose it.  These changes will be effective immediately. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. Your continued access to and/or use of the Site or the Services following notice of such changes constitutes your assent to, and acceptance of, this policy, including all posted changes for which we have provided notice as described herein.
+We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know by contacting Customer Care at 1-855-FAB-KIDS or [CustomerCare@fabkids.com](mailto:CustomerCare@fabkids.com). Please be sure to include your full name, e-mail address, mailing address or other contact information.
 
-## Questions
+You may also click the designated link at the bottom of all email advertisements to be removed from future email and updates.
 
-For any questions or comments on our privacy policy please [contact us](http://wittlebee.com/customer-service/). 
+Please note that any requests to remove or update your contact information may take up to ten days for your email request and 6 to 8 weeks for your postal mail request.
 
-[Wittlebee Reviews](http://wittlebeereviews.com/)
+### Exclusions:
 
-[Sign Up Free](https://web.archive.org/subscriptions/build/cart.json?td=956450&frequency=wittlebee_monthly&l=%2F&site=3&select_clothes=six)
+This Privacy Policy does not apply to any Personal Data collected by FabKids other than Personal Data collected through the Site or Services. This Privacy Policy shall not apply to any unsolicited information you provide to FabKids through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as forums (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and FabKids shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution.
+
+### Protecting Children:
+
+FabKids does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site, and parents. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to FabKids through this Site, please contact us, and we will endeavor to delete that information from our databases.
+
+### Links to Other Web Sites:
+
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by FabKids (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that FabKids endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+
+### Integrating Social Networking Services:
+
+One of the special features of the Service is that it allows you to enable or log in to the Services via various social networking services like Facebook ("Social Networking Service(s)"). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and FabKids shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.
+
+### Security:
+
+FabKids takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way.
+
+### Other Terms and Conditions:
+
+Your access to and use of this Site is subject to the Terms of Service located at: [http://www.fabkids.com/terms.htm](https://web.archive.org/web/20140627164658id_/http%3A//www.fabkids.com/terms.htm).
+
+### Changes to FabKids's Privacy Policy:
+
+The Site and our business may change from time to time. As a result, at times it may be necessary for FabKids to make changes to this Privacy Policy. FabKids reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+
+### Access to Information; Contacting FabKids:
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site or Services.
+
+Please also feel free to contact us if you have any questions about FabKids's Privacy Policy or the information practices of this Site.
+
+You may contact us as follows: [privacy@fabkids.com](mailto:privacy@fabkids.com) or by mail: FabKids / Personal Retailing, Inc., 609 Mission Street, 2nd Floor, San Francisco, CA 94105.
