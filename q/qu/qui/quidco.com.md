@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229170846id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627080814id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.*
 
-# Quidco - the secret to smart shopping
+# Quidco - The UK's #1 Cashback Site
 
 Personal data, or personal information as it is sometimes called, is data that relates to or is capable of identifying a living person. Account Holder privacy is very important to us and we do all we can to protect it.
 
