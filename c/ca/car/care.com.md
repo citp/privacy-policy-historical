@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928011126id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014005id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
@@ -7,10 +7,6 @@
 Care.com offers various services to help its users find, coordinate, and maintain quality care. Care.com's Privacy Policy ("Privacy Policy") is designed to provide a clear understanding of the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of www.care.com and any US affiliated websites, web pages, mobile applications and mobile websites operated by Care.com (the "Site"), including those who are seeking to find a service provider through Care.com ("Care Seekers") as well as those who are looking to promote their services through Care.com ("Care Providers"), and any users of any of the various services that Care.com provides through the Site or any other channels, including over the telephone ("Services"). For purposes of this Agreement, the terms "Care.com," "we," "us," and "our" refer to Care.com, Inc. "You" refers to you, as a visitor or user or the Site or the Services. Please note that our subsidiaries have separate privacy policies. In addition, this Privacy Policy does not apply to third party entities that may use the Care.com Site or Services. Such entities' use of the Care.com Site and Services are subject to separate terms that they agreed when they registered with Care.com. 
 
 By using the Site and/or the Services, you consent to our collection, storage, use and disclosure of your personal information and other information as described in this Privacy Policy. 
-
-[ ](https://privacy.truste.com/privacy-seal/Care-com,-Inc-/validation?rid=95f0e5ae-323b-415a-8584-469c6499b33c "TRUSTe online privacy certification")
-
-Care.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the site [www.care.com](http://www.care.com/). If you have questions or complaints regarding our privacy policy or practices, please contact our legal department at the address at the bottom of this policy. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). Please note that the TRUSTe program covers only information that is collected through Care.com's full website and does not cover the information that may be collected through its mobile websites, mobile applications or software downloaded from the Site. 
 
   1. Information We Collect
     1. Information you provide 
@@ -301,8 +297,6 @@ Legal Department
 Care.com, Inc.  
 201 Jones Road, Suite 500  
 Waltham, MA 02451 USA 
-
-**OUR[PREVIOUS PRIVACY POLICY](https://s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf) (EFFECTIVE UNTIL AUGUST 20, 2013 FOR USERS WHO JOINED CARE.COM PRIOR TO JUNE 14, 2013) **
 
 
 
