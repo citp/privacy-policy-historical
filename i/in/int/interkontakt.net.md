@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121160444id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132001id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # InterKontakt NET
 
@@ -75,7 +75,7 @@ Please remember what you should do whenever you voluntarily provide personal inf
 
 ## 9\. Self-control
 
-IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20InterKontakt%20NET%20not-logged-in)** . 
+If you have any questions regarding data protection, please do not hesitate to contact our support Team. 
 
 ## 1\. Content
 
