@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020055052id_/http%3A//algorithmia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627215330id_/http%3A//algorithmia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Algorithmia
+
+Privacy Policy
 
 The Algorithmia website is an algorithm repository, hosting, and service site. This Privacy Policy describes how and when Algorithmia collects, uses and shares your information when you use our Services. By using the Algorithmia website, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
