@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225024611id_/http%3A//www.dplivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627023949id_/http%3A//www.dplivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # DPlivecams - Privacy Policy
 
