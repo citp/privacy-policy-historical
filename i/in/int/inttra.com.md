@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824220750id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627234743id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
-
-  * [Home](https://web.archive.org/)
-  * [Legal - Privacy Policy](https://web.archive.org/web/20130824220750id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
-
-
-
-**Updated March 2012**
 
 This Privacy and Security Policy (" **Privacy Policy** ") addresses our use and disclosure of information we collect from you on our product platforms and corporate web site. The product platforms are:
 
