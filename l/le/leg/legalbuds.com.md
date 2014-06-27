@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122124319id_/http%3A//www.legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbuds.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627105844id_/http%3A//www.legalbuds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ Galloway 08205
 NJ USA **
 
 You may contact us by e-mail at [globallifesupport@gmail.com](mailto:globallifesupport@gmail.com)   
-You may contact us by phone on 1-866-HERBS-4U 
+You may contact us by phone on 609-748-1700 
 
 
 
@@ -99,8 +99,8 @@ Information Retention \- How long is this information retained?
   
 
 
-All of our [legal bud](https://web.archive.org/web/20131122124319id_/http%3A//www.legalbuds.com/legal_bud.html) products are 100% natural and contain only organic smokeable material.   
-None of our products will cause you to fail a drug test. [Do legal buds get you high](https://web.archive.org/web/20131122124319id_/http%3A//www.legalbuds.com/do-legal-buds-get-you-high.html)?   
+All of our [legal bud](https://web.archive.org/web/20140627105844id_/http%3A//www.legalbuds.com/legal_bud.html) products are 100% natural and contain only organic smokeable material.   
+None of our products will cause you to fail a drug test. [Do legal buds get you high](https://web.archive.org/web/20140627105844id_/http%3A//www.legalbuds.com/do-legal-buds-get-you-high.html)?   
 None of our products are sold as marijuana alternatives, legal weed, or alternatives to illegal street drugs.   
-By purchasing from[ legal buds](https://web.archive.org/web/20131122124319id_/http%3A//www.legalbuds.com/legal_bud_herbal_smoke.html) you agree that you are atleast 18 years of age.   
+By purchasing from[ legal buds](https://web.archive.org/web/20140627105844id_/http%3A//www.legalbuds.com/legal_bud_herbal_smoke.html) you agree that you are atleast 18 years of age.   
 Our legal bud products are available in better herbal smoke stores nationally and across the world. 
