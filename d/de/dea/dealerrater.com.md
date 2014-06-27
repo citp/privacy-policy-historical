@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810112900id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealerrater.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627170844id_/http%3A//www.dealerrater.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Beyond what is explained in this Policy, DR will not disclose your Personal Info
 Accounts belonging to dealerships may privately contact reviewers through our site on items related to a consumer review. When dealers make such contact, email addresses are not provided to either party without prior consent.
 
 **How You Can Access or Correct Your Personal Information**  
-You can generally access, review and update your Personal Information by logging in to your My Account page [here](https://www.dealerrater.com/account/) and making the necessary changes. If you have any difficulty doing so or have other questions about the Personal Information we hold about you, please contact us at [support@dealerrater.com](mailto:support@dealerrater.com).
+You can generally access, review and update your Personal Information by logging in to your My Account page [here](https://www.dealerrater.com/panel?referer=legacy) and making the necessary changes. If you have any difficulty doing so or have other questions about the Personal Information we hold about you, please contact us at [support@dealerrater.com](mailto:support@dealerrater.com).
 
 To protect your privacy, we and our authorized employees and agents will take reasonable steps to verify your identity before granting you access to or making corrections to your Personal Information.
 
