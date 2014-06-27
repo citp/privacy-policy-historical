@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the gamesville.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223212018id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesville.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627100440id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
 
 # Lycos
 
-[](http://www.lycos.com/ "Lycos.com") [Survey](http://www.surveymonkey.com/s/5NHBMLY "Take our quick survey")   
+[](http://www.lycos.com/ "Lycos.com")   
 
 
 ## Resources
 
 ## Privacy Policy
 
-[ ](http://www.truste.org/ivalidate.php?companyName=Lycos,%20Inc.&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Lycos,-Inc-/validation?rid=e5f3a690-405c-4369-96fc-6d21f0496203 "TRUSTe online privacy certification")
 
-Lycos has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Lycos, Inc.](http://info.lycos.com/about/contact-us). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Lycos has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Lycos, Inc.](http://info.lycos.com/about/contact-us). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 The TRUSTe program covers only information that is collected through the Lycos Network, and does not cover information that may be collected through software downloaded from the network.
 
@@ -58,7 +58,7 @@ Lycos runs many promotions and sweepstakes across its Network. These promotions 
 
 Be aware that Lycos Network sponsors and other advertisers have links on the Network that take you to external sites. Some of these sites may collect personally identifiable information from you, and third-party advertising networks for Lycos may use cookies and Web beacons in their advertisements to collect certain information from you. Please see Section 7 of this policy for more information about advertising on the Lycos Network. While Lycos hopes that all third parties involved adhere to our policies regarding the privacy of our users, the Lycos Network Privacy Policy does not cover third-party data collection practices and the Lycos Network does not assume any responsibility for any actions of third parties.
 
-  3. ## What are "cookies" and "Web beacons" and how does Lycos use them?
+  3. ## What are "cookies", "Web beacons" and "Social Media Widgets" and how does Lycos use them?
 
 In addition to the personally identifiable information that Lycos actively collects when you register, we also collect anonymous information passively using **cookies** and **Web beacons**. This technology plays an important role in making the Internet work, but there is much confusion among Internet users about what cookies and Web beacons are and how they are used.
 
@@ -71,7 +71,7 @@ Cookies allow Lycos to automatically remember your Web browser when you visit ou
     * **Measure statistics** such as audience size and traffic patterns. This information is only collected in aggregate form and will not be linked to your personally identifiable information.
     * **Display advertisements.** Cookies let us know whether a Web browser has seen a particular advertisement (so we can show you a variety of material) and count the number of advertisements displayed to a particular browser. We also use cookies to customize the advertising you see based on non-personally identifiable demographic information that you provide when you register. Third-party advertising networks for Lycos may issue cookies on the Lycos Network and other sites when serving advertisements.
 
-The use of cookies is an industry standard, and they are currently used on most major Web sites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While Lycos does not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies.
+The use of cookies by our partners is not covered by our privacy policy. We do not have access or control over these cookies. The use of cookies is an industry standard, and they are currently used on most major Web sites. It is possible to adjust your Web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While Lycos does not require you to use cookies, keep in mind that certain sites and services will not function properly if you set your browser to refuse all cookies.
 
 **Web beacons** , also known as clear GIFs or single-pixel GIFs, are small image files that Lycos may place on Web pages and within Web-based email newsletters that we send. Working in conjunction with cookies, Web beacons allow Lycos to accurately count the number of unique users who have visited a specific page on the Lycos Network and the number of times those pages are displayed. We can also use Web beacons to let us know how many people opened a Web-based email newsletter. This information is only collected in aggregate form and will not be linked to your personally identifiable information.
 
@@ -80,6 +80,8 @@ Without cookies and Web beacons, it would be difficult for Lycos to know which s
 Because Web beacons work in conjunction with cookies, you can prevent our Web beacon from collecting anonymous information by setting your Web browser to refuse all cookies or the Lycos Network cookie in particular. Web beacons are built into our Web pages, so non-functional Web beacons will continue to appear even if you refuse the Lycos Network cookie.
 
 Third parties use flash cookies, also known as "local shared objects," on our sites that employ Flash technology. Flash cookies are small files similar to browser cookies and are used to remember the site's settings to personalize the look and feel of the site. Like normal cookies, Flash cookies are represented as small files on your computer. One method of preventing Flash cookies from being placed is to adjust your preferences in the Macromedia Website Privacy Settings Panel at macromedia.com.
+
+Our Web site also includes Social Media Widgets, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
   4. ## How does the Lycos Network use the information it collects?
 
@@ -96,16 +98,15 @@ The following are examples of how the Lycos Network may use the information it c
     * If you enter a sweepstakes or a contest on the Lycos Network, we will use the information you provided to contact you in the event you win.
     * If you told Lycos that you were interested in receiving special offers from select Lycos clients, Lycos or third parties on Lycos's behalf (i) will send you email and postal mail about products and services that we feel may be of interest to you, and (ii) may combine information we have about you with information we obtain about you from third parties for the purpose of providing you with more appropriate products, services, and offerings. If you do not wish to participate in this program, please follow the opt-out instructions set forth in Section 8 of this policy.
     * **Subscription Customers:** Your credit card information is used to collect your recurrent subscription fees for subscription services.
-    * **Lycos Family Membership Customers:** Your credit card information is used to verify the age of a parent or guardian. The credit card will not be charged during the Lycos Family Membership registration process, and only the last 4 digits and a transaction number will be stored as proof of transaction. Click here for more information.
   5. ## With whom does the Lycos Network share the information that is collected?
 
-Whenever you provide registration information on co-branded or private label sites, that data may be shared with the third-party company providing the service. You should make every effort to read the individual privacy policies of such third parties and make an informed decision on your own whether to continue based upon these sites' privacy practices and your own discretion. **You may opt-out of sharing your information with such providers by choosing not to use that service or content.**
+We will share your information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. Whenever you provide registration information on co-branded or private label sites, that data may be shared with the third-party company providing the service. You should make every effort to read the individual privacy policies of such third parties and make an informed decision on your own whether to continue based upon these sites' privacy practices and your own discretion. **You may opt-out of sharing your information with such providers by choosing not to use that service or content.**
 
 When you find goods or services through Lycos Shopping, you submit data directly to the individual merchants from whom you order goods or services. Please review carefully the privacy policies of particular merchants that you access through Lycos Shopping.
 
 In addition to finding co-branded and private label sites, you will find direct links on our site to sites offered by third parties. Some of these sites are authorized to use the Lycos Network brands and/or logos. No third-party sites are covered by this Privacy Policy. If you feel that a site using a Lycos Network brand and/or logo does not follow an acceptable privacy policy, please contact the Lycos Privacy Site Coordinator by email at [privacy@lycos.com](mailto:privacy@lycos.com).
 
-Lycos may disclose information about individual users to third parties who agree to provide services to Lycos and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties may provide a variety of services to Lycos, including, without limitation, processing and storing user information, helping to create new content and promotions for the Lycos Network, sending or coordinating the sending of marketing communications that users have consented to receive, and targeted advertising. Lycos will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other legal process. In matters involving a danger to personal or public safety, Lycos may voluntarily provide information to appropriate governmental authorities.
+Lycos may disclose information about individual users to third parties who agree to provide services to Lycos and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties may provide a variety of services to Lycos, including, without limitation, processing and storing user information, helping to create new content and promotions for the Lycos Network, sending or coordinating the sending of marketing communications that users have consented to receive, and targeted advertising. These third party service providers are authorized to use your personal information only as necessary to provide these services to us. Lycos will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other legal process. In matters involving a danger to personal or public safety, Lycos may voluntarily provide information to appropriate governmental authorities.
 
 Lycos may share non-personally identifiable information about individual users with its parent company, Ybrant Digital Ltd., for purposes of providing targeted advertising both within and outside the Lycos Network. To review Ybrant's privacy policy, please click on the following link: <http://www.ybrantdigital.com/privacy-policy>.
 
@@ -119,14 +120,19 @@ Lycos Domains Customers: Users of Lycos Domains will be required to designate an
 
   6. ## How can you access or edit your information?
 
-The Lycos Network provides its registered users the ability to access and edit the personal information in their user profiles. You can access your user profile by following these steps:
+The Lycos Network provides its registered users the ability to access and edit or delete the personal information in their user profiles. You can access your user profile by following these steps:
 
     * Go directly to this page. You will receive a prompt to log in to the Network with your Lycos Network Member Name and password.
     * After you log in, you will be taken to the Membership Information page, which contains your user profile. If you see a field that needs to be updated, click the appropriate Edit button.
     * Make the necessary changes and click the Update button to save your changes.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
   7. ## What are the policies concerning advertising on the Lycos Network?
 
-Certain advertisements on the Lycos Network may be served by Right Media, Inc. ("Right Media"), OpenX Technologies, Inc. ("OpenX"), or Adap.tv. For more information about the privacy practices and policies of Right Media, OpenX, or Adap.tv, please click on the following links: <http://info.yahoo.com/privacy/us/biz/rightmedia/details.html>, <http://www.openx.org/about/privacy-policy>, <http://adap.tv/policy.html>
+We use third-party advertising companies to serve ads and collect information when you visit the Lycos Network. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third party advertisers' use of cookies is subject to their own privacy policies. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ click here](http://www.networkadvertising.org/choices/)
+
+Lycos works with third-party ad serving companies, including but not limited to, Right Media, Inc. ("Right Media"), OpenX Technologies, Inc. ("OpenX"), LiveRail, and Adap.tv. For more information about the privacy practices and policies of Right Media, OpenX, LiveRail, or Adap.tv, please click on the following links: <http://info.yahoo.com/privacy/us/biz/rightmedia/details.html>, <http://www.openx.org/about/privacy-policy>, <http://www.liverail.com/privacy-policy/>, <http://adap.tv/policy.html>
 
   8. ## What is the opt-out policy for the Lycos Network?
 
@@ -142,7 +148,7 @@ After the point of initial collection, we offer you the ability to opt-out of re
 
 In addition, all Lycos Network newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email.
 
-To remove your listing from Lycos or WhoWhere people search, please send a request to Lycos Customer Service via the feedback form here. Please provide the exact name, address and telephone number of the listing you wish to be removed. Lycos obtains listing information from Yellowbook. To remove your listing from the Yellowbook database, and to help prevent your listing from reappearing in Lycos or WhoWhere people search, please contact Yellowbook directly and request removal of your information.
+To remove your listing from Lycos or WhoWhere people search, please send a request to Lycos Customer Service via the feedback form [here](https://cshelp.lycos.com/anonymous_requests/new). Please provide the exact name, address and telephone number of the listing you wish to be removed. Lycos obtains listing information from Yellowbook. To remove your listing from the Yellowbook database, and to help prevent your listing from reappearing in Lycos or WhoWhere people search, please contact Yellowbook directly and request removal of your information.
 
 If you have a question about the Lycos opt-out process that is not answered here, please send an email to [privacy@lycos.com](mailto:privacy@lycos.com).
 
@@ -172,11 +178,11 @@ Personal information collected by Lycos may be stored and processed in the Unite
 
 ### Know the risks.
 
-Meeting new people in an online community (chat room, forum, newsgroup, message board, Web page, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, email address, and so on. This information may be collected and used by others within the online community to send unsolicited email messages from other parties, outside the Lycos Network. Some of the messages you receive may be useful to you, but some may not. In an effort to curtail unsolicited email, Lycos blocks certain email addresses and domains from sending messages to email addresses at our domains.
+Meeting new people in an online community (chat room, forum, newsgroup, message board, Web page, etc.) is one of the best things about the Internet, but you should always be careful about disclosing personal information such as an actual name, member name, email address, and so on. This information may be collected and used by others within the online community to send unsolicited email messages from other parties, outside the Lycos Network. Some of the messages you receive may be useful to you, but some may not. In an effort to curtail unsolicited email, Lycos blocks certain email addresses and domains from sending messages to email addresses at our domains. To request removal of your personal information from our online community, contact us at [privacy@lycos.com](mailto:privacy@lycos.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Educate yourself.
 
-Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. A good place to start is [TRUSTe](http://www.truste.org/) \-- an independent, non-profit organization with a mission to build trust and confidence in the Internet. The Federal Trade Commission has a great Web site with useful information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) along with other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links
+Search the Web for as much information as you can about how to protect your privacy. Look for a privacy policy on the Web sites you visit. A good place to start is [TRUSTe](http://www.truste.org/) \-- an independent organization with a mission to build trust and confidence in the Internet. The Federal Trade Commission has a great Web site with useful information on being a [Savvy Internet Traveler](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html) along with other [privacy initiatives](http://www.ftc.gov/privacy/index.html). Additional privacy resources can be found at by clicking on any of the following links
 
 **Department of Education: Parents Guide to the Internet**  
 <http://www.ed.gov/pubs/parents/internet/>
@@ -217,11 +223,11 @@ Search the Web for as much information as you can about how to protect your priv
 
 ### Contact Us
 
-Questions regarding this statement should be directed to:
+Questions regarding this policy should be directed to:
 
-Lycos Privacy Site Coordinator Lycos, Inc. 100 5th Ave Waltham MA 02451 (781) 370-2700 (781) 370-2886 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
+Lycos Privacy Site Coordinator Lycos, Inc. 52 Second Ave, 4th FL Waltham MA 02451 (781) 370-2700 (781) 370-2886 (Fax) [privacy@lycos.com](mailto:privacy@lycos.com)
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), who will serve as a liaison with the Lycos Network to resolve your concerns.
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](https://feedback-form.truste.com/watchdog/request), who will serve as a liaison with the Lycos Network to resolve your concerns.
 
 ### Updates
 
@@ -230,4 +236,4 @@ The Lycos Network will update this policy from time to time so please check back
 
 
 
-**Last updated June 2, 2011.**
+**Last updated June 2, 2014.**
