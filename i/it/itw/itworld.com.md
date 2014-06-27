@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017101137id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworld.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627051909id_/http%3A//www.itworld.com/about/privacy-policy) for the most accurate reproduction.*
 
 # ITworld | IT news, technology analysis and how-to resources
 
