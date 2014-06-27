@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the fixya.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110233945id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixya.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133505id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Fixya
 
 At Fixya.com, we are committed to protecting online user privacy. This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below.
 
+## User Information:
+
+Fixya.com may request you to provide certain information which may be used to assist in the construction and maintenance of your account, such as your email address and full name. Fixya.com's use of your personally identifiable information is regulated by this Privacy Policy as detailed below.
+
 ## Anonymous User Information:
 
-Fixya.com collects some anonymous information each time you visit Fixya.com so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type. You do not have to register with Fixya.com before we can collect this anonymous information. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Fixya.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Fixya.com search. Fixya.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Fixya.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Fixya.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Fixya.com search.
+Fixya.com collects some anonymous information each time you visit Fixya.com so we can improve the overall quality of your online experience. We may collect your IP address, referral data, and browser and platform type, prior to and regardless of whether or not you register with Fixya.com, and serve you with advertising materials. We do not collect any unique information about you (such as your name, e-mail address, etc.) except when you specifically and knowingly provide such information. Fixya.com does not require you to share information that identifies you personally, such as your name or email address, in order for you to use the Fixya.com search or to log-in to Fixya.com as a guest user. Fixya.com assigns an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited Fixya.com, your search terms, and the links upon which you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. We analyze this information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Fixya.com may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of the Fixya.com search.
 
 ## Cookies:
 
@@ -18,15 +22,16 @@ We take appropriate security measures to protect against unauthorized access to 
 
 ## Aggregated General Information:
 
-We may share aggregated general information about our site with our corporate partners or others. Examples of this include the number of users who searched for "Digital Camera", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing: We may share personally identifying information to other companies or individuals in any of the following limited circumstances:
+We may share aggregated general information about our site with our corporate partners, advertisers or others. Examples of this include the number of users who searched for "Digital Camera", the daily number of unique visitors, or how many users clicked on a particular advertisement. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. Information sharing: We may share personally identifying information to other companies or individuals in any of the following limited circumstances:
 
   * We have your consent.
   * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
   * When required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Fixya.com's terms of use, or as otherwise required by law.
   * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.
-  * We may store and process personal information collected on our site in the Canada or any other country in which Fixya.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.
+  * We may store and process personal information collected on our site in Canada or any other country in which Fixya.com or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.
   * Fixya.com may use third party service providers to serve ads and emails on our behalf. These companies may use technologies to measure the effectiveness of ads and emails and use information about your visits to Fixya.com so that we can provide a better search experience to you. For this purpose, we may also provide these third parties service providers anonymous information about your site navigation.
   * We may share certain information about you with carefully selected business partners, including those who may offer services that complement those provided by us or which we believe may be of interest to you. We may also disclose information to third parties who assist us in providing our services to you. For example, we may engage third parties to make improvements on our site, to offer new products and to allow us to customize your experience on the Site.
+  * We may share or transfer personally identifiable information in the event of a transfer of our ownership or that of any of Fixya.com's affiliated entities, websites or services, such as acquisition by or merger with another company, or in the event of a sale of all or substantially all of Fixya.com's business related assets or any other change of ownership we may undergo.
 
 
 
@@ -42,16 +47,12 @@ Fixya.com includes content and ads from third parties that may perform user acti
 
 Fixya.com does not knowingly request or collect personally identifiable information online or offline contact information from users under 13 years of age nor do we knowingly use or share personal information from users under 13 years of age with third parties.
 
-## Sale of Assets:
-
-In the event that another company acquires all or substantially all of the assets related to the business of Fixya.com, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company.
-
 ## Paid Submissions:
 
-The Information that is gathered when submitting a URL to the Fixya.com directory is only used to contact the customer and will not be sold or otherwise transferred without their explicit permission.
+The Information that is gathered when submitting a URL to the Fixya.com directory is only used to contact the customer and will not be sold or otherwise transferred without the submitter's explicit permission.
 
 ## Changes to Privacy Policy:
 
 We reserve the right to amend or revise this privacy policy from time to time. We will post these changes to this page. Use of information that we gather now is subject to the privacy policy in effect at the time the information is used.
 
-_Last updated: January 30, 2013_
+_Last updated: May 25, 2014_
