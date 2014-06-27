@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213123416id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133624id_/http%3A//www.irs.gov/uac/IRS-Privacy-Policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
 [Para ver esta página en español haga clic aquí](https://web.archive.org/Spanish/La-Pol%C3%ADtica-de-Confidencialidad-del-IRS).
 
-**IRS Privacy Policy  
+**IRS Privacy Policy** **  
 Your Privacy Rights  
 IRS Office of Privacy  
 [Access to Privacy Impact Assessments](https://web.archive.org/uac/Access-to-Privacy-Impact-Assessments)  
 [Statistical Information](https://web.archive.org/uac/Statistical-Information-on-IRS.gov)  
 [Security](https://web.archive.org/uac/Security-on-the-IRS.gov-Website)  
 [If You Send Us Information Online  
-](https://web.archive.org/uac/If-You-Send-Us-Information-Online)[Customer Satisfaction Surveys](http://www.irs.gov/uac/Customer-Satisfaction-Surveys)  
+](https://web.archive.org/uac/If-You-Send-Us-Information-Online)[Customer Satisfaction Surveys](https://web.archive.org/uac/Customer-Satisfaction-Surveys)  
 [Cookies](https://web.archive.org/uac/Cookies-on-IRS.gov)  
 [Links to Other Sites](https://web.archive.org/uac/Links-to-Other-Websites)**
 
 * * *
 
-### IRS Privacy Policy
+###  IRS Privacy Policy
 
 You have entered the Internal Revenue Service's website, an official United States Government System. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from Web site visitors.
 
@@ -25,13 +25,13 @@ We will not collect personal information about you just because you visit this I
 
 * * *
 
-### Your Privacy Rights
+###  Your Privacy Rights
 
 The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](http://frwebgate.access.gpo.gov/cgi-bin/get-cfr.cgi?TITLE=26&PART=601&SECTION=702&TYPE=TEXT), the [Privacy Act of 1974](http://www.law.cornell.edu/uscode/html/uscode05/usc_sec_05_00000552---a000-.html), the [Freedom of Information Act](https://web.archive.org/uac/IRS-Freedom-of-Information), and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/uac/IRS-Freedom-of-Information).
 
 * * *
 
-### IRS Office of Privacy
+###  IRS Office of Privacy
 
 The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
 
@@ -49,4 +49,4 @@ _**PLEASE NOTE:**_ Do not respond to unsolicited e-mails that claim to come from
 
 For more information contact the Treasury Inspector General for Tax Administration (TIGTA) at 800-366-4484 or visit the [TIGTA website](http://www.treas.gov/tigta).
 
-Page Last Reviewed or Updated: 04-Sep-2013
+Page Last Reviewed or Updated: 16-Jun-2014
