@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cameta.com privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217174548id_/http%3A//www.cameta.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cameta.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627024015id_/http%3A//www.cameta.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html itemscope="" itemtype="http://schema.org/Product"><head>
 
@@ -29,6 +29,7 @@
 
 <link href="/inc/CMS.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/inc/CMS.css" rel="stylesheet" type="text/css" media="print">
+<script type="text/javascript" src="/js/googleTracking.js"></script>
 <script type="text/javascript" src="\shared\overlib_4.22\overlib.js"><!-- overLIB (c) Erik Bosrup --></script>
 <script type="text/javascript" src="//api.lela.com/api/v2/widget.js?_aid=cameta"></script></head>
 <body style="WIDTH:990px;" onload="">
@@ -43,7 +44,7 @@
 
 <img src="http://www.cameta.com/imag2/cameta_nanobar_over.png" class="preload" width="1" height="1" alt="" border="0">
 <div id="matchmakerRibbon" class="launch-by-class" data-lela-ad-id="Cameta_1000x40_Nano_V01">
-    <a id="matchmakerRibbonImg" onclick="_gaq.push(['_trackEvent', 'Lela', 'TopRibbon']);"><!-- --></a>
+    <a id="matchmakerRibbonImg" onclick="ga('send','event','Lela','click','TopRibbon');"><!-- --></a>
 </div>
 
 
@@ -70,7 +71,7 @@
 	<input id="searchused" type="Checkbox" name="used" value="1">
 	<div id="searchusedtext"><label for="searchused">Search<br>Used Only</label></div>
 	<input id="searchinput" type="Text" name="keywords">
-	<input id="searchgo" type="Image" src="/imag2/SEARCH_BUTTON.jpg" alt="Search" width="63" height="26" onmouseover="this.src='/imag2/SEARCH_BUTTON_OVER.jpg'" onmouseout="this.src='/imag2/SEARCH_BUTTON.jpg'" onclick="this.blur(); if (trim(document.formsearch.keywords.value)=='') {alert('Please enter keywords to search for'); document.formsearch.keywords.value=''; document.formsearch.keywords.focus(); return false;} else {var newOrUsed='New'; if (document.formsearch.used.checked) {newOrUsed='Used'}; _gaq.push(['_trackEvent', 'Search', newOrUsed]);}">
+	<input id="searchgo" type="Image" src="/imag2/SEARCH_BUTTON.jpg" alt="Search" width="63" height="26" onmouseover="this.src='/imag2/SEARCH_BUTTON_OVER.jpg'" onmouseout="this.src='/imag2/SEARCH_BUTTON.jpg'" onclick="this.blur(); if (trim(document.formsearch.keywords.value)=='') {alert('Please enter keywords to search for'); document.formsearch.keywords.value=''; document.formsearch.keywords.focus(); return false;} else {var newOrUsed='New'; if (document.formsearch.used.checked) {newOrUsed='Used'}; ga('send','event','Search','click','newOrUsed');}">
 	<img src="/imag2/SEARCH_BUTTON_OVER.jpg" class="preload" width="1" height="1" alt="Go!" border="0">
 	</form>
 	</div>
@@ -106,7 +107,7 @@
 		
 		<div id="matchmaker" xmmstylex="">
 		
-		<a data-lela-ad-id="Cameta_143x73_ULC_V01" data-lela-on-show="_gaq.push(['_trackEvent', 'Lela', 'LeftNavTop']);" href="#" class="launch-by-class">
+		<a data-lela-ad-id="Cameta_143x73_ULC_V01" data-lela-on-show="ga('send','event','Lela','click','LeftNavTop');" href="#" class="launch-by-class">
 		<img src="/imag2/matchmaker_left.jpg" width="143" height="73" border="0" alt="Cameta Camera Matchmaker" style="padding-bottom:5px;">
 		Find YOUR perfect camera<br>in less than 60 seconds!
 		</a>
@@ -126,6 +127,7 @@
 		<tr><td><a href="/used-equipment.cfm">Used Equipment</a></td></tr>
 		
 		<tr><td><a href="/special_offers.cfm"><span style="position:relative;"><img src="/imag2/specialoffers_button.jpg" style="position:absolute; top:-4px; left:-15px;" width="151" height="23" alt="Special Offers" border="0" onmouseover="this.src='/imag2/specialoffers_button_over.jpg'" onmouseout="this.src='/imag2/specialoffers_button.jpg'" onclick="this.blur();"></span></a></td></tr>
+        <tr><td><a href="http://www.cametalab.com/">Cameta Digital Lab</a></td></tr>
 		<tr><td class="shopmenubottom"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td></tr>
 		</tbody></table>
 	
@@ -137,6 +139,7 @@
 		<tr><td><a href="/olympus-cameras.cfm">Olympus</a></td></tr>
 		<tr><td><a href="/panasonic.cfm">Panasonic</a></td></tr>
 		<tr><td><a href="/pentax-cameras.cfm">Pentax</a></td></tr>
+        <tr><td><a href="/ricoh.cfm">Ricoh</a></td></tr>
 		<tr><td><a href="/samsung.cfm">Samsung</a></td></tr>
 		<tr><td><a href="/sony-cameras.cfm">Sony</a></td></tr>
 		<tr><td><a href="/top-camera-brands.cfm">More Brands...</a></td></tr>
@@ -420,15 +423,13 @@
 	</div>
 	<div id="copyright">
 		<div class="left"><img src="/imag2/footer_left.jpg" width="9" height="9" alt="" border="0"></div>
-		<div class="text">© 2006 - 2013 <a href="/">Cameta Camera Digital Camera Store</a>. All rights reserved.</div>
+		<div class="text">© 2006 - 2014 <a href="/">Cameta Camera Digital Camera Store</a>. All rights reserved.</div>
 		<div class="right"><img src="/imag2/footer_right.jpg" width="9" height="9" alt="" border="0"></div>
 	</div> 
 </div>
 
 </div> 
 
-
-<script type="text/javascript" src="/js/googleTracking.js"></script>
 
 
 
@@ -454,7 +455,7 @@
 
 
 <script type="text/javascript">
-document.cookie = "test={ts '2013-12-17 12:45:03'}";
+document.cookie = "test={ts '2014-06-26 22:40:24'}";
 </script>
 
 
