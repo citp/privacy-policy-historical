@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524163544id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627064139id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Education.com
 
@@ -11,6 +11,8 @@ This is our policy regarding the privacy of information we collect on our web si
 ## About Children
 
 This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors under the age of 13. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. Parents should not include their child’s full name anywhere on the website. Within SchoolFinder, secondary students above the age of 13 may write school reviews, however students' names will never be displayed for privacy reasons.
+
+Education.com offers a premium service called Brainzy which is intended for use by children under 13. Parental registration is required for all children using Brainzy. During registration, Brainzy customers are asked to provide personal information about their children including participating children's names, genders and dates of birth. Children are never asked to provide personal information. Brainzy is an entirely ad-free environment and Education.com does not share information collected in Brainzy (either personal information gathered during registration or tracking information collected during use) with any 3rd party.
 
 ## Information We Collect and How We Use It
 
@@ -31,7 +33,7 @@ We collect personal information in several places on our Websites, which are set
 
 
 
-Currently, we do not require users to become members in order to have access to the free editorial and reference articles available on our flagship site, Education.com. However, if you’d like to gain access to the community features on our site, or rate editorial content on Education.com, we require you to register to become a member. In order to register, you’ll have to supply us with your name and email address, a unique User Name and password, and some additional information about you (e.g., your "type": parent, teacher, or student; zip code, etc.).
+Currently, visitors to our site are able to have access to some content without becoming a member. However, visitors who would like to download worksheets, gain access to the community features on our site, or rate editorial content on Education.com, are required to register to become a member. In order to register, visitors must supply us with a valid email address, a unique User Name and password, and some additional information about you (e.g., your "type": parent, teacher, or student; zip code, etc.).
 
   * **Facebook Connect**
 
@@ -45,7 +47,7 @@ If you are not currently registered as an Education.com member and you use the F
 
 
 
-If you’d like access to one or more of our paid offerings (Education.com Plus, Workbooks, Wonder Box), you'll need to register for our site, and you'll be asked to provide personal, billing, or other specified information that we'll need to activate the service or product.
+If you’d like access to one or more of our paid offerings (Education.com Plus, Workbooks, Brainzy), you'll need to register for our site, and you'll be asked to provide additional personal, billing, or other specified information that we'll need to charge for and activate the service or product. Customers purchasing Brainzy (Education.com's online learning program) will be asked to provide personal information about their children including name, gender and date of birth. Children using Brainzy will never be asked to provide personal information.
 
   * **Blogs, JustAsk, SchoolFinder, MyEdu and Comments**
 
@@ -91,9 +93,9 @@ Our advertisers include a wide variety of companies, such as financial services 
 
 In addition to cookies placed by us or our agents, as described above, advertisers and advertising vendors that serve ads onto our web sites may use their own cookies or other tracking technologies. We are not responsible for the privacy policies or practices of any such advertisers and vendors.
 
-We use an independent network advertising server (DoubleClick) that delivers advertising content to the pages that you view on our Websites. If you would like to know more about the privacy practices of one such third-party ad server, please click here to view DoubleClick’s privacy policy. If you wish to opt out of DoubleClick’s information collection and analysis, follow the opt out instructions described in their privacy policy.
+We use an independent network advertising server (DoubleClick) that delivers advertising content to the pages that you view on our Websites. If you would like to know more about the privacy practices of one such third-party ad server, please [click here to view DoubleClick’s privacy policy](http://www.google.com/policies/technologies/ads/). If you wish to opt out of DoubleClick’s information collection and analysis, follow the [opt out](http://www.google.com/ads/preferences/) instructions described in their privacy policy.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/). 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/choices/). 
 
 ## Use of the Information
 
