@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passionforsavings.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217081929id_/http%3A//www.passionforsavings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionforsavings.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627031019id_/http%3A//www.passionforsavings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Passion for Savings
 
 **Privacy Policy:**
 
