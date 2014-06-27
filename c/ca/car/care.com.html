@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the care.com privacy policy that was archived on 2013-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130928011126id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the care.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628014005id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script>window["adrum-start-time"] = new Date().getTime();</script>
-<script src="http://s.cdn-care.com/js/adrum.js?v=130927"></script>
-<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/common.css?v=130927">
+<script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQOU15TGwEIUlJXAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/common.css?v=140613">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy - Care.com</title>
 <meta name="description" content="Care.com Privacy Policy.  Read more about how Care.com protects your privacy.">
@@ -12,19 +10,30 @@
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="imagetoolbar" content="no">
 <meta name="verify-v1" content="zz15lR180u9eCqTfur/9l+bMP75AampYtDEm6OnbkWY=">
-<link rel="image_src" href="http://s.cdn-care.com/img/care-no-tag.jpg?v=130927">
-<meta property="og:image" content="http://s.cdn-care.com/img/care-no-tag.jpg?v=130927">
+<link rel="image_src" href="http://s.cdn-care.com/img/care-no-tag.jpg?v=140613">
+<meta property="og:image" content="http://s.cdn-care.com/img/care-no-tag.jpg?v=140613">
 <meta property="fb:page_id" content="6030284861">
-<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/nav.css?v=130927">
-<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/main.css?v=130927">
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie6fix.css?v=130927" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie7fix.css?v=130927" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie8fix.css?v=130927" /><![endif]-->
+<style type="text/css">@font-face {
+  font-family: 'caredotcom-icons';
+  src:url('/css/font-face/caredotcom-icons/caredotcom-icons.eot');
+  src:url('/css/font-face/caredotcom-icons/caredotcom-icons.eot?#iefix') format('embedded-opentype'),
+    url('/css/font-face/caredotcom-icons/caredotcom-icons.woff') format('woff'),
+    url('/css/font-face/caredotcom-icons/caredotcom-icons.ttf') format('truetype'),
+    url('/css/font-face/caredotcom-icons/caredotcom-icons.svg#caredotcom-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}</style>
+<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/caredotcomIcons.css?v=140613">
+<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/nav.css?v=140613">
+<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/main.css?v=140613">
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie6fix.css?v=140613" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie7fix.css?v=140613" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie8fix.css?v=140613" /><![endif]-->
 <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie7fix.css?v=130927" />
+	<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/ie7fix.css?v=140613" />
 	<![endif]-->
-<script type="text/javascript" src="http://s.cdn-care.com/js/validation.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/cookie.js?v=130927"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/validation.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/cookie.js?v=140613"></script>
 <script type="text/javascript"> djConfig = {parseWidgets: false,dojoIframeHistoryUrl:'/iframe_history.htm',dojoBlankHtmlUrl:'/blank.htm'}; </script>
 <script type="text/javascript">
 		if(typeof czenConfig == 'undefined') czenConfig = {};
@@ -37,38 +46,41 @@
 		czenConfig.siteContext = 'fullSite';
 		czenConfig.mobileApp = '';
 		czenConfig.nudgeEnabled = 'true';
+    czenConfig.memberType = ''; 
+    czenConfig.payPageApiHost = 'https://request.securepaypage-litle.com';
+    czenConfig.breedloveUrl = 'https://www.mybreedlove.com';
 
     
 
     // Next two lines used to get the versioned qs param cachebuster // Note: someday we may want to simply expose this to the JSP to avoid this JS workaround -clow
-    var urlArgs = 'http://s.cdn-care.com/js/czen/src/czen.js?v=130927';
+    var urlArgs = 'http://s.cdn-care.com/js/czen/src/czen.js?v=140613';
     urlArgs = urlArgs.substring(urlArgs.indexOf("v="), urlArgs.length);
 
-		var require = {
-			baseUrl: 'http://s.cdn-care.com/js',
-			urlArgs: urlArgs, // cachebusting qs param
-      		// urlArgs: 'v='+(new Date()).getTime(), // use this if you want to ensure your dependencies are reloaded on a hard refresh
-			map: {
-      	'*': {
-        	'css': 'requireJS/plugins/require-css/css'
-      	}
-    	},
-    	paths: {
-    		'wepay': 'https://static.wepay.com/min/js'
-    	},
-    	shim: {
-    		'wepay/tokenization.v2': {
-    			exports: 'WePay'
-    		},
-        'czen/src/DatePicker' : {
-          exports: 'czen.DatePicker'
-        }
-    	},
-    	catchError: {
-				define: true
-			}
-		};
+    window.dojoConfig = {
+      async: false,
+      baseUrl: 'http://s.cdn-care.com/js', 
+      tlmSiblingOfDojo: false,
+      cacheBust: urlArgs.replace('v=',''), // cachebusting qs param // TODO:CE-3291 this should be a czen.property
+      // cacheBust: 'v='+(new Date()).getTime(), // use this if you want to ensure your dependencies are reloaded on a hard refresh // TODO:CE-3291 not for prod // TODO:CE-3291 this should be a czen.property
+      aliases: [
+        ['css', 'czen/src/css'], // TODO:CE-3291 test this plugin (this has been the hardest part of converting to dojo) -clow
+        ['underscore', 'underscore/underscore-min'],
+        ['jquery', 'jquery/jquery-1.10.2.min'],
+        ['handlebars', 'handlebars/handlebars']
+      ],
+      paths: {
+        'wepay': 'https://static.wepay.com/min/js',
+        'smarterer': '//smarterer.com/js'
+      },
+      packages: [
+        { name: "dojo", location: "http://s.cdn-care.com/js/dojo-current/dojo" },
+        { name: "dijit", location: "http://s.cdn-care.com/js/dojo-current/dijit" },
+        { name: "dojox", location: "http://s.cdn-care.com/js/dojo-current/dojox" },
+        { name: "czen", location: "http://s.cdn-care.com/js/czen" }
+      ]
+    };
 	</script>
+<link rel="canonical" href="http://www.care.com/privacy-policy-p1013.html">
 </head>
 <body class="tundra">
 <!-- Tracking Pixels HEADER_BODY : START -->
@@ -81,15 +93,15 @@
 <div class="siteHeader framework clearfix">
 <div class="cont">
 <style type="text/css">.phNum .newCusSelect .defaultSel{border:0px}.phNum .newCusSelect .selectCustom{background:none;border:0px}.phNum .newCusSelect li{color:#333;list-style-type:none;width:200px;text-align:left:}.phNum .newCusSelect .restAll{width:200px;top:20px;z-index:1000000;left:10px}.phNum .newCusSelect .restAll li.selFirstBorder{padding:5px 0;text-align:left;border-top:1px solid #ccc;-moz-border-radius:5px 5px 0 0;padding-left:8px;width:192px}.phNum .newCusSelect li.menu{text-align:left}.phNum .newCusSelect .selectCustom span.defaultSel{text-decoration:underline;color:#369;text-align:right}.phNum .newCusSelect .customSelect .restAll{-moz-border-radius:5px 5px 5px 5px}#referFriendsPre{padding-top:5px;display:inline-block}#referFriendsPre div span{display:none}.width215{width:215px!important}#loginLink{border-top:0px!important;text-decoration:underline!important;background-color:#fff;padding:0 1px 0 0}.loginLinkShadow{-webkit-box-shadow: 1px 0 0 #ececec, -1px 0 0 #ececec;box-shadow:1px 0 0 #ececec, -1px 0 0 #ececec}.nameDisplay{display:inline;position:absolute;right:78px;top:15px;width:100%}</style>
-<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/loginBoxL0.css?v=130927">
-<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/SmartForm.css?v=130927">
-<div class="l0" style="position:relative; z-index:3000;">
-<a href="/"><img src="http://s.cdn-care.com/img/layout/care.gif?v=130927" class="siteLogo" alt="Care.com Logo"></a>
+<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/loginBoxL0.css?v=140613">
+<link rel="stylesheet" type="text/css" href="http://s.cdn-care.com/css/SmartForm.css?v=140613">
+<div class="l0 l0Care" style="position:relative; z-index:3000;">
+<a href="/"><img src="http://s.cdn-care.com/img/layout/care.gif?v=140613" class="siteLogo" alt="Care.com Logo"></a>
 <div class="links" style="padding-top:15px;">
 <div>
-<a name="&amp;lid=Log In&amp;lpos=l0" href="javascript:;" id="loginLink">Log In<img src="http://s.cdn-care.com/img/headTerm/accordion-arrow-closed.png?v=130927" id="flipIcon" class="flipIcon"></a>
+<a name="&amp;lid=Log In&amp;lpos=l0" href="javascript:;" id="loginLink">Log In<img src="http://s.cdn-care.com/img/headTerm/accordion-arrow-closed.png?v=140613" id="flipIcon" class="flipIcon"></a>
 <span class="pipe" id="pipe">|</span>
-<a name="&amp;lid=Join Now&amp;lpos=l0" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow"><img src="http://s.cdn-care.com/img/btn_join_now_L0.gif?v=130927" height="19" width="76" border="0" style="position:relative; top:5px;" alt="Join Now"></a>
+<a name="&amp;lid=Join Now&amp;lpos=l0" href="https://www.care.com/enroll-care-seeker-p1042.html" class="btn btn-flat btn-primary">Join now</a>
 </div>
 <div class="multiVerticalVHPL0">
 <div class="l0Bar" style="background:none;height:0;padding:0;">
@@ -114,7 +126,7 @@
 <div class="clear"></div>
 </div>
 <!--  END Facebook button -->
-<img src="http://www.care.com/img/cms/web/seniorCare/ximg-or-horizontal-251x23.png.pagespeed.ic.pmmkzoCxQ3.png">
+<img src="/img/cms/web/seniorCare/img-or-horizontal-251x23.png">
 <form name="smartLoginForm" id="loginSmartForm" method="post" action="https://www.care.com/visitor/captureLogin.do" autocomplete="off" class="smartForm clearfix" style="width;255px;margin-top:15px;">
 <input type="hidden" id="forwardUrl" name="forwardUrl">
 <div>
@@ -137,7 +149,7 @@
 </div>
 <div class="ask submit submitBtn">
 <input type="submit" name="" value="Log In Now" src="/img/1x1.gif">
-<img src="http://www.care.com/img/xbutton-arrow-white-lrg.png.pagespeed.ic.mB1zmNO5ay.png" class="button-arrow" alt="link">
+<img src="/img/button-arrow-white-lrg.png" class="button-arrow" alt="link">
 </div>
 </form>
 </div>
@@ -147,7 +159,7 @@
 <div>
 <div class="phNum">
 <div class="servSelect">
-<a href="/business-p1369.html" rel="nofollow">Businesses &amp; Organizations</a>
+<a href="/business-p1369.html">Businesses &amp; Organizations</a>
 <span class="pipe">|</span>
 <a name="&amp;lid=Help&amp;lpos=l0" href="/help-faqs-p1009.html">Help</a>
 </div>
@@ -191,8 +203,8 @@
 <div class="promo1">
 </div>
 <div class="nav clearfix none-sel" id="nav">
-<div class="l1 hasl2 ch">
-<a name="&amp;lid=Children&amp;lpos=l1" href="/children" style="padding:0 12px 0 18px;">Children</a>
+<div class="l1LeftTabs hasl2 leftTab1 left-tab-start">
+<a name="&amp;lid=Children&amp;lpos=l1" href="/children">Children</a>
 <div class="l2">
 <div id="starthere">
 <div class="startherediv">
@@ -200,7 +212,7 @@
 <div class="starthereleft">
 Care for Children
 <br>Start Here </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-children.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
+<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-children.jpg?v=140613" width="40" height="40" style="vertical-align: middle;"></div>
 </div></a>
 </div>
 </div>
@@ -213,25 +225,26 @@ Care for Children
 <span class="separator"></span></div>
 </div>
 </div>
-<div><a name="&amp;lid=Child Care&amp;lpos=Children l2" href="/child-care">Child Care</a></div>
-<div><a name="&amp;lid=Babysitters&amp;lpos=Children l2" href="/babysitters">Babysitters</a></div>
-<div><a name="&amp;lid=Nannies&amp;lpos=Children l2" href="/nannies">Nannies</a></div>
-<div><a href="/child-care-centers">Child Care Centers</a></div>
-<div><a href="/family-child-care">Family Child Care</a></div>
-<div><a href="/nanny-agencies">Nanny Agencies</a></div>
+<div><a name="&amp;lid=Child Care&amp;lpos=Children l2" href="https://www.care.com/child-care">Child Care</a></div>
+<div><a name="&amp;lid=Babysitters&amp;lpos=Children l2" href="https://www.care.com/babysitters">Babysitters</a></div>
+<div><a name="&amp;lid=Nannies&amp;lpos=Children l2" href="https://www.care.com/nannies">Nannies</a></div>
+<div><a href="https://www.care.com/child-care-centers">Child Care Centers</a></div>
+<div><a href="https://www.care.com/family-child-care">Family Child Care</a></div>
+<div><a href="https://www.care.com/nanny-agencies">Nanny Agencies</a></div>
 <div><a name="&amp;lid=Au Pairs&amp;lpos=Children l2" href="/au-pairs">Au Pairs</a></div>
 <div><a href="/camps-p1361.html">Camps</a></div>
-<div><a name="&amp;lid=Special Needs Caregivers&amp;lpos=Children l2" href="/special-needs">Special Needs Care</a></div>
-<div><a name="&amp;lid=Tutoring &amp; Lessons&amp;lpos=Children l2" href="/tutoring">Tutors</a></div>
+<div><a name="&amp;lid=Special Needs Caregivers&amp;lpos=Children l2" href="https://www.care.com/special-needs">Special Needs Care</a></div>
+<div><a name="&amp;lid=Summer Care&amp;lpos=Children l2" href="/summer-child-care">Summer Care</a></div>
+<div><a name="&amp;lid=Tutoring &amp; Lessons&amp;lpos=Children l2" href="https://www.care.com/tutors">Tutors</a></div>
 <div><a name="&amp;lid=College Caregivers&amp;lpos=Children l2" href="/college-caregivers" onclick="createCookie('selectedRadio', '1', 1);">College Caregivers</a></div>
-<div><a name="&amp;lid=Join Now&amp;lpos=Children l2" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow">Transportation Needs</a></div>
+<div><a name="&amp;lid=Join Now&amp;lpos=Children l2" href="https://www.care.com/enroll-care-seeker-p1042.html">Transportation Needs</a></div>
 <span class="separator"></span>
-<div><a name="&amp;lid=My Town&amp;lpos=Children l2" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Children l2" href="/child-care-articles-resources-p1019.html">Child Care Articles</a></div>
+<div><a name="&amp;lid=My Town&amp;lpos=Children l2" href="/neighborhood-care-p1035-q38777081.html">My Town</a></div>
+<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Children l2" href="/child-care-articles">Child Care Articles</a></div>
 </div>
 </div>
-<div class="l1 hasl2 as">
-<a name="&amp;lid=Adults &amp; Seniors&amp;lpos=l1" href="/seniors">Adults &amp; Seniors</a>
+<div class="l1LeftTabs hasl2 leftTab2 left-tab-middle">
+<a name="&amp;lid=Adults &amp; Seniors&amp;lpos=l1" href="/seniors">Seniors</a>
 <div class="l2">
 <div id="starthere">
 <div class="startherediv">
@@ -239,7 +252,7 @@ Care for Children
 <div class="starthereleft">
 Care for Seniors
 <br>Start Here </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-seniors.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
+<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-seniors.jpg?v=140613" width="40" height="40" style="vertical-align: middle;"></div>
 </div></a>
 </div>
 </div>
@@ -252,17 +265,16 @@ Care for Seniors
 <span class="separator"></span></div>
 </div>
 </div>
-<div><a name="&amp;lid=Senior Care Providers&amp;lpos=Adults &amp; Seniors l2" href="/assisted-living">Assisted Living</a></div>
-<div><a name="&amp;lid=Home Care Agencies&amp;lpos=Adults &amp; Seniors l2" href="/home-care">Home Care</a></div>
-<div><a name="&amp;lid=Senior Care Providers&amp;lpos=Adults &amp; Seniors l2" href="/senior-care">Senior Caregivers</a></div>
-<div><a name="&amp;lid=Senior Care Counseling&amp;lpos=Adults &amp; Seniors l2" href="/senior-care-planning">Senior Care Advisors</a></div>
-<div><a name="&amp;lid=Join Now&amp;lpos=Adults &amp; Seniors l2" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow">Transportation Needs</a></div>
+<div><a name="&amp;lid=Senior Care Providers&amp;lpos=Adults &amp; Seniors l2" href="https://www.care.com/assisted-living">Assisted Living</a></div>
+<div><a name="&amp;lid=Home Care Agencies&amp;lpos=Adults &amp; Seniors l2" href="https://www.care.com/home-care">Home Care</a></div>
+<div><a name="&amp;lid=Senior Care Providers&amp;lpos=Adults &amp; Seniors l2" href="https://www.care.com/senior-care">Senior Caregivers</a></div>
+<div><a name="&amp;lid=Join Now&amp;lpos=Adults &amp; Seniors l2" href="https://www.care.com/enroll-care-seeker-p1042.html">Transportation Needs</a></div>
 <span class="separator"></span>
-<div><a name="&amp;lid=My Town&amp;lpos=Adults &amp; Seniors l2" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Adults &amp; Seniors l2" href="/senior-care-articles-resources-p1023.html">Senior Care Articles</a></div>
+<div><a name="&amp;lid=My Town&amp;lpos=Adults &amp; Seniors l2" href="/neighborhood-care-p1035-q38777081.html">My Town</a></div>
+<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Adults &amp; Seniors l2" href="/senior-care-articles">Senior Care Articles</a></div>
 </div>
 </div>
-<div class="l1 hasl2 pe">
+<div class="l1LeftTabs hasl2 leftTab3 left-tab-middle">
 <a name="&amp;lid=Pets&amp;lpos=l1" href="/pets">Pets</a>
 <div class="l2">
 <div id="starthere">
@@ -271,7 +283,7 @@ Care for Seniors
 <div class="starthereleft">
 Care for Pets
 <br>Start Here </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-pets.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
+<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-pets.jpg?v=140613" width="40" height="40" style="vertical-align: middle;"></div>
 </div></a>
 </div>
 </div>
@@ -284,16 +296,16 @@ Care for Pets
 <span class="separator"></span></div>
 </div>
 </div>
-<div><a name="&amp;lid=Pet Care&amp;lpos=Pets l2" href="/pet-care">Pet Care</a></div>
-<div><a name="&amp;lid=Pet Sitters&amp;lpos=Pets l2" href="/pet-sitters">Pet Sitters</a></div>
-<div><a name="&amp;lid=Dog Walkers&amp;lpos=Pets l2" href="/dog-walkers">Dog Walkers</a></div>
-<div><a name="&amp;lid=Join Now&amp;lpos=Pets l2" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow">Transportation Needs</a></div>
+<div><a name="&amp;lid=Pet Care&amp;lpos=Pets l2" href="https://www.care.com/pet-care">Pet Care</a></div>
+<div><a name="&amp;lid=Pet Sitters&amp;lpos=Pets l2" href="https://www.care.com/pet-sitters">Pet Sitters</a></div>
+<div><a name="&amp;lid=Dog Walkers&amp;lpos=Pets l2" href="https://www.care.com/dog-walkers">Dog Walkers</a></div>
+<div><a name="&amp;lid=Join Now&amp;lpos=Pets l2" href="https://www.care.com/enroll-care-seeker-p1042.html">Transportation Needs</a></div>
 <span class="separator"></span>
-<div><a name="&amp;lid=My Town&amp;lpos=Pets l2" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Pets l2" href="/pet-care-articles-resources-p1021.html">Pet Care Articles</a></div>
+<div><a name="&amp;lid=My Town&amp;lpos=Pets l2" href="/neighborhood-care-p1035-q38777081.html">My Town</a></div>
+<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Pets l2" href="/pet-care-articles">Pet Care Articles</a></div>
 </div>
 </div>
-<div class="l1 hasl2 hl">
+<div class="l1LeftTabs hasl2 leftTab4 left-tab-middle">
 <a href="/home-lifestyle">Home</a>
 <div class="l2">
 <div id="starthere">
@@ -303,7 +315,7 @@ Care for Pets
 Care for your
 <br>Home Start Here
 </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-home.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
+<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-home.jpg?v=140613" width="40" height="40" style="vertical-align: middle;"></div>
 </div></a>
 </div>
 </div>
@@ -316,45 +328,17 @@ Care for your
 <span class="separator"></span></div>
 </div>
 </div>
-<div><a name="&amp;lid=Errands &amp; Odd Jobs Providers&amp;lpos=Home &amp; Lifestyle l2" href="/personal-assistants">Personal Assistant</a></div>
-<div><a name="&amp;lid=Housekeeping&amp;lpos=Home &amp; Lifestyle l2" href="/housekeeping">House Keeper</a></div>
-<div><a name="&amp;lid=Join Now&amp;lpos=Pets l2" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow">House Cleaner</a></div>
+<div><a name="&amp;lid=Errands &amp; Odd Jobs Providers&amp;lpos=Home &amp; Lifestyle l2" href="https://www.care.com/personal-assistants">Personal Assistant</a></div>
+<div><a name="&amp;lid=Housekeeping&amp;lpos=Home &amp; Lifestyle l2" href="https://www.care.com/housekeeping">Housekeeper</a></div>
+<div><a name="&amp;lid=Join Now&amp;lpos=Pets l2" href="https://www.care.com/enroll-care-seeker-p1042.html">House Cleaner</a></div>
 <span class="separator"></span>
-<div><a name="&amp;lid=Housekeeping Jobs&amp;lpos=Home &amp; Lifestyle l2" href="/housekeeping-jobs">Housekeeping Jobs</a></div>
+<div><a name="&amp;lid=Errands &amp; Odd Jobs Providers&amp;lpos=Home &amp; Lifestyle l2" href="https://www.care.com/personal-assistants">Errands &amp; Odd Jobs</a></div>
 <span class="separator"></span>
-<div><a name="&amp;lid=My Town&amp;lpos=Home &amp; Lifestyle l2" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Home &amp; Lifestyle l2" href="/housekeeping-articles-resources-p1116.html">House Cleaning Articles</a></div>
+<div><a name="&amp;lid=My Town&amp;lpos=Home &amp; Lifestyle l2" href="/neighborhood-care-p1035-q38777081.html">My Town</a></div>
+<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Home &amp; Lifestyle l2" href="/housekeeping-articles">House Cleaning Articles</a></div>
 </div>
 </div>
-<div class="l1 hasl2 lf">
-<a href="/lifestyle-p1329.html">Lifestyle</a>
-<div class="l2">
-<div id="starthere">
-<div class="startherediv">
-<a href="/lifestyle-p1329.html"><div class="startherelinkdiv">
-<div class="starthereleft">
-Care For You <br>Start Here </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-lifestyle.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
-</div></a>
-</div>
-</div>
-<div id="startheresep">
-<div class="selectservicediv">
-<div class="selseparatordivleft">
-<span class="separator"></span></div>
-<div class="selservice">Or select a service</div>
-<div class="selseparatordivright">
-<span class="separator"></span></div>
-</div>
-</div>
-<div><a href="/salons-and-spas-p1324.html">Salons &amp; Spas</a></div>
-<div><a name="&amp;lid=Errands &amp; Odd Jobs Providers&amp;lpos=Home &amp; Lifestyle l2" href="/personal-assistants">Personal Assistants</a></div>
-<span class="separator"></span>
-<div><a name="&amp;lid=My Town&amp;lpos=Home &amp; Lifestyle l2" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Articles &amp; Resources&amp;lpos=Home &amp; Lifestyle l2" href="/housekeeping-articles-resources-p1116.html">Lifestyle Articles</a></div>
-</div>
-</div>
-<div class="l1 hasl2 mf">
+<div class="l1LeftTabs hasl2 leftTab5 left-tab-end">
 <a href="/military-families-care-p1321.html">Military Families</a>
 <div class="l2">
 <div id="starthere">
@@ -362,7 +346,7 @@ Care For You <br>Start Here </div>
 <a href="/military-families-care-p1321.html"><div class="startherelinkdiv">
 <div class="starthereleft">
 Military Care <br>Start Here </div>
-<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-military.jpg?v=130927" width="40" height="40" style="vertical-align: middle;"></div>
+<div class="starthereright"> <img src="http://s.cdn-care.com/img/l1/l1-img-military.jpg?v=140613" width="40" height="40" style="vertical-align: middle;"></div>
 </div></a>
 </div>
 </div>
@@ -370,38 +354,32 @@ Military Care <br>Start Here </div>
 <div><a href="/military-family-articles-and-resources-p1387-q18953191.html">Military Family Articles</a></div>
 </div>
 </div>
-<div class="l1 l1Right hasl2 cr ncR mCare">
-<a name="&amp;lid=My Care.com&amp;lpos=l1" href="https://www.care.com/login-p1002.html" style="padding:0 18px 0 12px;" rel="nofollow">My Care.com</a>
+<div class="l1RightTabs hasl2 cr rightTab4 right-tab-end">
+<a name="&amp;lid=My Care.com&amp;lpos=l1" href="https://www.care.com/login-p1002.html">My Care.com</a>
 <div class="l2">
-<div><a name="&amp;lid=My Account&amp;lpos=My Care.com l2" href="https://www.care.com/login-p1002.html" rel="nofollow">My Care.com</a></div>
+<div><a name="&amp;lid=My Account&amp;lpos=My Care.com l2" href="https://www.care.com/login-p1002.html">My Care.com</a></div>
 <div><a name="&amp;lid=My Groups&amp;lpos=My Care.com l2" href="/groups-p1218.html">My Groups</a></div>
-<div><a name="&amp;lid=My Town&amp;lpos=l1" href="/neighborhood-care-p1035-q43.html">My Town</a></div>
-<div><a name="&amp;lid=Back Up Care&amp;lpos=l1" href="/back-up-care-p1189.html">Back Up Care</a></div>
+<div><a name="&amp;lid=My Town&amp;lpos=l1" href="/neighborhood-care-p1035-q38777081.html">My Town</a></div>
+<div><a name="&amp;lid=Back Up Care&amp;lpos=l1" href="/better-care-starts-here-p1087-q36782971.html">Back Up Care</a></div>
 </div>
 </div>
-<div class="l1 l1Right ncM hIW">
+<div class="l1RightTabs rightTab5 right-tab-middle">
 <a name="&amp;lid=How It Works&amp;lpos=l1" href="/how-it-works-p1008.html">How It Works</a>
 </div>
-<!--
-			<div class="l1 l1Right ncM mTown">
-				<a name="&lid=My Town&lpos=l1" href="/neighborhood-care-p1035-q43.html">My Town</a>
-			</div>
-		
-		-->
-<div class="l1 l1Right ncL newsViewsandDos">
-<a name="&amp;lid=News &amp; Views&amp;lpos=l1" href="/news-views" class="nvds">News &amp; Views</a>
+<div class="l1RightTabs rightTab1 right-tab-start">
+<a name="&amp;lid=News &amp; Views&amp;lpos=l1" href="/news-views">Articles</a>
 </div>
 </div>
 <div class="l1Divider-none-sel"></div>
-<div class="searchBar2">
-<div class="searchBarCorner">
+<div class="searchBar2 search-bar">
+<div class="search-bar-left">
 <div class="inner">
-<span class="text">Post a Job Today!</span><br>
-<a name="&amp;lid=post a job&amp;lpos=search bar" href="https://www.care.com/enroll-care-seeker-p1042.html" rel="nofollow"><img src="http://s.cdn-care.com/img/buttons/btn-getstarted-sb.png?v=130927" style="width:113px; height:30px;" alt="Get Started"></a>
+<span class="text">Get started today.</span>
+<a name="&amp;lid=post a job&amp;lpos=search bar" href="https://www.care.com/enroll-care-seeker-p1042.html" class="btn btn-flat btn-primary">Post a job</a>
 </div>
 </div>
 <div class="c">
-<form name="searchBarForm" id="searchBarForm" method="post" action="/visitor/captureSearchBar.do" autocomplete="off" onsubmit="JavaScript:eraseCookie('refineSearchBuckets');">
+<form name="searchBarForm" id="searchBarForm" method="GET" action="/visitor/captureSearchBar.do" autocomplete="off" onsubmit="JavaScript:eraseCookie('refineSearchBuckets');">
 <input type="hidden" name="searchPerformed" value="true">
 <span class="label">Find a</span>
 <select name="sitterService" id="searchBar" style="font-size: 12px;"><option value="childCare">Child Care Provider</option>
@@ -409,10 +387,13 @@ Military Care <br>Start Here </div>
 <option value="nanny">&nbsp;&nbsp;Nanny</option>
 <option value="childCareLocation">&nbsp;&nbsp;Child Care Center</option>
 <option value="familyCareLocation">&nbsp;&nbsp;Family Child Care</option>
-<option value="campsLocation">&nbsp;&nbsp;Camp</option>
+<option value="nannyLocation">&nbsp;&nbsp;Nanny Agencies</option>
+<option value="campsLocation" selected="selected">&nbsp;&nbsp;Camp</option>
 <option value="auPair">&nbsp;&nbsp;Au Pair</option>
+<option value="childCareSummerCare">&nbsp;&nbsp;Summer Sitter</option>
 <option value="specialNeeds">Special Needs Provider</option>
 <option value="tutoring">Tutor/Private Lesson</option>
+<option value="tutoringSummerCare">&nbsp;&nbsp;Summer Tutor</option>
 <option value="">------------------</option>
 <option value="housingLocation">Senior Housing Community</option>
 <option value="homeCareLocation">Home Care Agency</option>
@@ -427,22 +408,20 @@ Military Care <br>Start Here </div>
 <option value="veterinaryLocation">&nbsp;&nbsp;Veterinary</option>
 <option value="">------------------</option>
 <option value="housekeeping">Housekeeper</option>
-<option value="salonsSpasLocation">Salon or Spa</option>
 <option value="careGigs">Errands &amp; Odd Jobs Provider</option>
 <option value="">------------------</option>
-<option value="childCareExchange">Child Care Exchange</option>
-<option value="petCareExchange">Pet Care Exchange</option>
-<option value="">------------------</option>
 <option value="childCareJob">Child Care Job</option>
+<option value="summerChildCareJob">&nbsp;&nbsp;Summer care job</option>
 <option value="specialNeedsJob">Special Needs Job</option>
 <option value="tutoringJob">Tutoring Job</option>
+<option value="summerTutoringJob">&nbsp;&nbsp;Summer care job</option>
 <option value="seniorCareJob">Senior Care Job</option>
 <option value="petCareJob">Pet Care Job</option>
-<option value="housekeepingJob" selected="selected">Housekeeping Job</option>
+<option value="housekeepingJob">Housekeeping Job</option>
 <option value="transportationJob">Transportation Job</option>
 <option value="careGigsJob">Errands &amp; Odd Job</option></select>
 <span class="label">in ZIP </span>
-<input type="text" name="zipCode" maxlength="5" size="5" value="76936" style="width:40px; font-size: 12px;">
+<input type="text" name="zipCode" maxlength="5" size="5" value="" style="width:40px; font-size: 12px;">
 &nbsp;&nbsp;<span class="label">within </span>
 <select name="milesFromZipCode" style="font-size: 12px;"><option value="1">1 mile</option>
 <option value="2">2 miles</option>
@@ -458,7 +437,9 @@ Military Care <br>Start Here </div>
 <option value="40">40 miles</option>
 <option value="45">45 miles</option>
 <option value="50">50 miles</option></select>
-<input type="image" name="" src="http://s.cdn-care.com/img/buttons/btn-go-sb.png?v=130927" style="width:60px; height:32px; position:absolute; margin:0 0 0 10px;" alt="Go">
+<button type="submit" class="btn btn-flat btn-secondary">
+Search
+</button>
 <input type="hidden" name="searchByZip" value="true">
 <!-- CE-2971 flag that determines if the user has changed the zip -->
 <input type="hidden" name="defaultZip" value="true" id="defaultZip">
@@ -512,7 +493,7 @@ Military Care <br>Start Here </div>
 		
 		
 	}
-	czenConfig.sitterService = 'housekeepingJob';
+	czenConfig.sitterService = 'campsLocation';
 	
 	if(!(czenConfig.sitterService == 'childCareLocation'
 			|| czenConfig.sitterService == 'campsLocation'
@@ -539,7 +520,7 @@ Military Care <br>Start Here </div>
 </div>
 <noscript>
 <p style="margin:0">
-<img src="http://s.cdn-care.com/img/js_error_msg.gif?v=130927" style="display:block; margin:5px auto;" alt="Please Enable Javascript to use all of the features on this site.">
+<img src="http://s.cdn-care.com/img/js_error_msg.gif?v=140613" style="display:block; margin:5px auto;" alt="Please Enable Javascript to use all of the features on this site.">
 </p>
 </noscript>
 </div>
@@ -568,7 +549,7 @@ Military Care <br>Start Here </div>
 </div>
 <div class="divider"></div>
 <div class="navItemOff">
-<a href="https://www.care.com/contact-us-p1011.html" style="" class="lnav" rel="nofollow">Contact Us</a><br>
+<a href="https://www.care.com/contact-us-p1011.html" style="" class="lnav">Contact Us</a><br>
 </div>
 <div class="divider"></div>
 <div class="navItemOff">
@@ -589,13 +570,12 @@ Military Care <br>Start Here </div>
 <div class="clear"></div>
 </div>
 </div>
-<div class="promo2" style="padding: 4px 0;">
-<div style="width:190px; height:1px; float:left;"></div>
+<div class="promo2" style="padding: 2px 0;">
 <div class="" czenmembertype="VISITOR" czenoverallstatus="" czenslot="PromoArea2">
 <script type="text/javascript">		
 		if(typeof czenConfig == 'undefined') czenConfig = {};
 		czenConfig.parseAdlobs = true;
-		czenConfig.zipCode = '76936';
+		czenConfig.zipCode = '';
 	</script>
 <div style="padding: 6px 0px;"></div>
 </div>
@@ -639,25 +619,6 @@ By using the Site and/or the Services, you consent to our collection, storage,
 use and disclosure of your personal information and other information as
 described in this Privacy Policy.
 </p>
-<p>
-</p><div id="527986b5-c6ed-41c9-97cf-77bcc0cbdbe2" style="float: right; padding: 0px 0 5px 10px; cursor:pointer;">
-<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Care-com,-Inc-/asc?rid=527986b5-c6ed-41c9-97cf-77bcc0cbdbe2"></script>
-<a href="//privacy.truste.com/privacy-seal/Care-com,-Inc-/validation?rid=95f0e5ae-323b-415a-8584-469c6499b33c" title="TRUSTe online privacy certification" target="_blank">
-<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Care-com,-Inc-/seal?rid=95f0e5ae-323b-415a-8584-469c6499b33c" alt="TRUSTe online privacy certification">
-</a>
-</div>
-Care.com has been awarded TRUSTe's Privacy Seal signifying that this privacy
-policy and practices have been reviewed by TRUSTe for compliance with
-<a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's
-program requirements</a> including transparency, accountability and choice regarding
-the collection and use of your personal information. The TRUSTe program covers the
-site <a href="http://www.care.com/">www.care.com</a>. If you have questions or complaints regarding our privacy policy
-or practices, please contact our legal department at the address at the bottom of this
-policy. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>. Please
-note that the TRUSTe program covers only information that is collected through Care.com's
-full website and does not cover the information that may be collected through its mobile
-websites, mobile applications or software downloaded from the Site.
-<p></p>
 <ol class="toc">
 <li><a href="#infoWeCollect">Information We Collect</a>
 <ol>
@@ -1340,10 +1301,6 @@ Care.com, Inc.<br>
 201 Jones Road, Suite 500<br>
 Waltham, MA 02451 USA
 </p>
-<p><b>
-OUR <a href="//s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf">PREVIOUS PRIVACY POLICY</a>
-(EFFECTIVE UNTIL AUGUST 20, 2013 FOR USERS WHO JOINED CARE.COM PRIOR TO JUNE 14, 2013)
-</b></p>
 </li>
 </ol>
 </div>
@@ -1365,11 +1322,11 @@ OUR <a href="//s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf">PR
 <h4>Company</h4>
 <ul>
 <li><a name="&amp;lpos=footer" href="/company-overview">About Us</a></li>
+<li><a name="&amp;lpos=footer" href="http://investors.care.com">Investor Relations</a></li>
 <li><a name="&amp;lpos=footer" href="http://blog.care.com/">Sheila's Blog</a></li>
 <li><a name="&amp;lpos=footer" href="/help-faqs-p1009.html">Help</a></li>
 <li><a name="&amp;lpos=footer" href="/safety-center-p1273.html">Safety Center</a></li>
-<li><a name="&amp;lpos=footer" href="/careers-p1089.html" rel="nofollow">Careers</a></li>
-<li><a name="&amp;lpos=footer" href="http://www.care.com/company-overview#carearoundtheworld">Care Around the World</a></li>
+<li><a name="&amp;lpos=footer" href="/careers-p1089.html">Careers</a></li>
 </ul>
 </div>
 <div class="services-footer">
@@ -1377,17 +1334,18 @@ OUR <a href="//s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf">PR
 <ul>
 <li><a name="&amp;lpos=footer" href="/babysitters">Babysitters</a></li>
 <li><a name="&amp;lpos=footer" href="/nannies">Nannies</a></li>
-<li><a name="&amp;lpos=footer" href="/child-care">Child Care</a></li>
+<li><a name="&amp;lpos=footer" href="/child-care-p1004.html">Child</a></li>
 <li><a name="&amp;lpos=footer" href="/housekeepers">Housekeepers</a></li>
 <li><a name="&amp;lpos=footer" href="/tutors">Tutors</a></li>
 </ul>
 </div>
 <div class="social-footer">
 <h4>Join us on</h4>
-<a href="http://www.facebook.com/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-facebook.png?v=130927" alt="Facebook"></a>
-<a href="http://twitter.com/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-twitter.png?v=130927" alt="Twitter"></a>
-<a href="http://www.youtube.com/user/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-youtube.png?v=130927" alt="YouTube"></a>
-<a href="https://plus.google.com/105649189868566206085/" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-g+.png?v=130927" alt="Google"></a>
+<a href="http://www.facebook.com/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-facebook.png?v=140613" alt="Facebook"></a>
+<a href="http://twitter.com/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-twitter.png?v=140613" alt="Twitter"></a>
+<a href="http://www.youtube.com/user/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-youtube.png?v=140613" alt="YouTube"></a>
+<a href="https://plus.google.com/105649189868566206085/" target="_blank"><img src="http://s.cdn-care.com/img/icons/icn-g+.png?v=140613" alt="Google"></a>
+<a href="http://pinterest.com/caredotcom" target="_blank"><img src="http://s.cdn-care.com/img/icons/ico-pinterest.png?v=140613" alt="Pinterest"></a>
 <div class="clearfix"></div>
 <div style="margin-top: 5px;">
 <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fcaredotcom&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=true&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=296867961907" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:21px;" allowtransparency="true"></iframe>
@@ -1401,125 +1359,125 @@ OUR <a href="//s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf">PR
 <div class="col">
 <ul>
 <li>
-<a href="/atlanta-babysitters">Atlanta</a>
+<a href="/child-care-atlanta-ga-babysitters-p1049-q2213.html">Atlanta</a>
 </li>
 <li>
-<a href="/austin-babysitters">Austin</a>
+<a href="/child-care-austin-tx-babysitters-p1049-q2188.html">Austin</a>
 </li>
 <li>
-<a href="/baltimore-babysitters">Baltimore</a>
+<a href="/child-care-baltimore-md-babysitters-p1049-q3948.html">Baltimore</a>
 </li>
 <li>
-<a href="/boston-babysitters">Boston</a>
+<a href="/child-care-boston-ma-babysitters-p1049-q2160.html">Boston</a>
 </li>
 <li>
-<a href="/chicago-babysitters">Chicago</a>
+<a href="/child-care-chicago-il-babysitters-p1049-q2202.html">Chicago</a>
 </li>
 <li>
-<a href="/cincinnati-babysitters">Cincinnati</a>
+<a href="/child-care-cincinnati-oh-babysitters-p1049-q104144.html">Cincinnati</a>
 </li>
 <li>
-<a href="/cleveland-babysitters">Cleveland</a>
+<a href="/child-care-cleveland-oh-babysitters-p1049-q104107.html">Cleveland</a>
 </li>
 <li>
-<a href="/dallas-babysitters">Dallas</a>
+<a href="/child-care-dallas-tx-babysitters-p1049-q2805.html">Dallas</a>
 </li>
 <li>
-<a href="/denver-babysitters">Denver</a>
-</li>
-</ul>
-</div>
-<div class="col">
-<ul>
-<li>
-<a href="/detroit-babysitters">Detroit</a>
-</li>
-<li>
-<a href="/houston-babysitters">Houston</a>
-</li>
-<li>
-<a href="/indianapolis-babysitters">Indianapolis</a>
-</li>
-<li>
-<a href="/kansas-city-babysitters">Kansas City</a>
-</li>
-<li>
-<a href="/los-angeles-babysitters">Los Angeles</a>
-</li>
-<li>
-<a href="/miami-babysitters">Miami</a>
-</li>
-<li>
-<a href="/minneapolis-babysitters">Minneapolis</a>
-</li>
-<li>
-<a href="/new-york-babysitters">New York</a>
-</li>
-<li>
-<a href="/orlando-babysitters">Orlando</a>
+<a href="/child-care-denver-co-babysitters-p1049-q2644.html">Denver</a>
 </li>
 </ul>
 </div>
 <div class="col">
 <ul>
 <li>
-<a href="/philadelphia-babysitters">Philadelphia</a>
+<a href="/child-care-detroit-mi-babysitters-p1049-q53341.html">Detroit</a>
 </li>
 <li>
-<a href="/phoenix-babysitters">Phoenix</a>
+<a href="/child-care-houston-tx-babysitters-p1049-q2715.html">Houston</a>
 </li>
 <li>
-<a href="/pittsburgh-babysitters">Pittsburgh</a>
+<a href="/child-care-indianapolis-in-babysitters-p1049-q19299.html">Indianapolis</a>
 </li>
 <li>
-<a href="/portland-or-babysitters">Portland</a>
+<a href="/child-care-kansas-city-mo-babysitters-p1049-q72724.html">Kansas City</a>
 </li>
 <li>
-<a href="/sacramento-babysitters">Sacramento</a>
+<a href="/child-care-los-angeles-ca-babysitters-p1049-q2749.html">Los Angeles</a>
 </li>
 <li>
-<a href="/salt-lake-city-babysitters">Salt Lake City</a>
+<a href="/child-care-miami-fl-babysitters-p1049-q104627.html">Miami</a>
 </li>
 <li>
-<a href="/san-antonio-babysitters">San Antonio</a>
+<a href="/child-care-minneapolis-mn-babysitters-p1049-q3195.html">Minneapolis</a>
 </li>
 <li>
-<a href="/san-diego-babysitters">San Diego</a>
+<a href="/child-care-new-york-ny-babysitters-p1049-q2149.html">New York</a>
 </li>
 <li>
-<a href="/san-francisco-babysitters">San Francisco</a>
+<a href="/child-care-orlando-fl-babysitters-p1049-q105314.html">Orlando</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<ul>
+<li>
+<a href="/child-care-philadelphia-pa-babysitters-p1049-q8603.html">Philadelphia</a>
+</li>
+<li>
+<a href="/child-care-phoenix-az-babysitters-p1049-q105721.html">Phoenix</a>
+</li>
+<li>
+<a href="/child-care-pittsburgh-pa-babysitters-p1049-q33846.html">Pittsburgh</a>
+</li>
+<li>
+<a href="/child-care-portland-or-babysitters-p1049-q83003.html">Portland</a>
+</li>
+<li>
+<a href="/child-care-sacramento-ca-babysitters-p1049-q50224.html">Sacramento</a>
+</li>
+<li>
+<a href="/child-care-salt-lake-city-ut-babysitters-p1049-q6862.html">Salt Lake City</a>
+</li>
+<li>
+<a href="/child-care-san-antonio-tx-babysitters-p1049-q67854.html">San Antonio</a>
+</li>
+<li>
+<a href="/child-care-san-diego-ca-babysitters-p1049-q1556.html">San Diego</a>
+</li>
+<li>
+<a href="/child-care-san-francisco-ca-babysitters-p1049-q3229.html">San Francisco</a>
 </li>
 </ul>
 </div>
 <div class="col last">
 <ul>
 <li>
-<a href="/san-jose-babysitters">San Jose</a>
+<a href="/child-care-san-jose-ca-babysitters-p1049-q15581.html">San Jose</a>
 </li>
 <li>
-<a href="/seattle-babysitters">Seattle</a>
+<a href="/child-care-seattle-wa-babysitters-p1049-q3481.html">Seattle</a>
 </li>
 <li>
-<a href="/saint-louis-babysitters">St. Louis</a>
+<a href="/child-care-saint-louis-mo-babysitters-p1049-q1848.html">St. Louis</a>
 </li>
 <li>
-<a href="/tampa-babysitters">Tampa</a>
+<a href="/child-care-tampa-fl-babysitters-p1049-q24075.html">Tampa</a>
 </li>
 <li>
-<a href="/virginia-beach-babysitters">Virginia Beach</a>
+<a href="/child-care-virginia-beach-va-babysitters-p1049-q43711.html">Virginia Beach</a>
 </li>
 <li>
-<a href="/washington-babysitters">Washington DC</a>
+<a href="/child-care-washington-dc-babysitters-p1049-q3918.html">Washington DC</a>
 </li>
 </ul>
 </div>
 </div>
 <ul class="national-links">
 <li>
-<a href="/sitemap-united-states-babysitters-p1196-q35.html">Babysitter Directory</a>
+<a href="/sitemap-united-states-babysitters-p1196-q38777083.html?pcp=152837">Babysitter Directory</a>
 </li>
 <li>
-<a href="/sitemap-united-states-nannies-p1196-q36.html">Nanny Directory</a>
+<a href="/sitemap-united-states-nannies-p1196-q38777084.html?pcp=152837">Nanny Directory</a>
 </li>
 </ul>
 </div>
@@ -1531,12 +1489,15 @@ OUR <a href="//s.cdn-care.com/media/cms/pdf/legal/current-privacy-policy.pdf">PR
 <li><a name="&amp;lpos=footer" href="/homepay-p1415.html">HomePay℠</a></li>
 <li><a name="&amp;lpos=footer" href="/small-business-marketing-p1320-q18473957.html">Advertising</a></li>
 <li><a name="&amp;lpos=footer" href="/workplace-solutions-p1284.html">Employee Benefits Programs</a></li>
-<li><span style="color: red;">Updated: </span><a name="&amp;lpos=footer" href="/terms-of-use-p1012.html">Terms of Use</a></li>
-<li><span style="color: red;">Updated: </span><a name="&amp;lpos=footer" href="/privacy-policy-p1013.html">Privacy Policy</a></li>
-<li><a name="&amp;lpos=footer" href="/sitemap-united-states-babysitters-p1196-q35.html">Local Directory</a></li>
+<li><a name="&amp;lpos=footer" href="/terms-of-use-p1012.html">Terms of Use</a></li>
+<li><a name="&amp;lpos=footer" href="/privacy-policy-p1013.html">Privacy Policy</a></li>
+<li><a name="&amp;lpos=footer" href="/sitemap-united-states-babysitters-p1196-q38777083.html?pcp=152837">Local Directory</a></li>
 </ul>
 </div>
 <div class="legal-footer">
+<p>
+Care.com is the world's largest online destination for care. We connect families with great caregivers and caring companies to help you be there for the ones you love.
+</p>
 <p>
 Care.com does not employ, recommend or endorse any care provider or care seeker nor is it
 responsible for the conduct of any care provider or care seeker. Care.com provides information
@@ -1547,7 +1508,8 @@ relationship they establish. Care.com does not provide medical advice, diagnosis
 in any conduct that requires a professional license.
 </p>
 <p>
-Care.com and "There for you" are service marks or registered service marks of Care.com, Inc. © 2007-2013 Care.com, Inc. All rights reserved.
+Care.com and "There for you" are service marks or registered service marks of Care.com, Inc. ©
+2007-2014 Care.com, Inc. All rights reserved.
 </p>
 </div>
 </div>
@@ -1566,12 +1528,12 @@ pageTracker._setDomainName(".care.com");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/dojo-current/dojo/dojo.xd.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/czen.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/xhr.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/nav.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/CustomSelectBox.js?v=130927"></script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/l0SelectBox.js?v=130927"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/dojo-current/dojo/dojo.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/czen.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/xhr.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/nav.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/czen/src/CustomSelectBox.js?v=140613"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/l0SelectBox.js?v=140613"></script>
 <script type="text/javascript">
 		if(typeof czen != 'undefined' && typeof czenConfig != 'undefined' && czenConfig.pageJS)czen.loadPageJS(czenConfig.pageJS);
 	</script>
@@ -1586,7 +1548,7 @@ if(typeof czenConfig == 'undefined') czenConfig = {}; if(typeof czenConfig.track
 <!--  Uber tag pixel : END-->
 <!-- Tracking Pixels FOOTER : START -->
 <!-- BOTTrackingPixel : START -->
-<script language="JavaScript" type="text/javascript"> document.write('<img src="/trackVisit.trace1380330686157" width="1" height="1" border="0"/>');</script><img src="/trackVisit.trace1380330686157" width="1" height="1" border="0">
+<script language="JavaScript" type="text/javascript"> document.write('<img src="/trackVisit.trace1403919605661" width="1" height="1" border="0"/>');</script><img src="/trackVisit.trace1403919605661" width="1" height="1" border="0">
 <!-- BOTTrackingPixel : END -->
 <!-- Tracking Pixels FOOTER : END -->
 <!--  
@@ -1596,7 +1558,7 @@ if(typeof czenConfig == 'undefined') czenConfig = {}; if(typeof czenConfig.track
 		  if(typeof czenConfig == 'undefined') czenConfig = {}; 
 		    czenConfig.gaAccountId = "UA-1164879-3";
 		  </script>
-<script type="text/javascript" src="http://s.cdn-care.com/js/gaSocialTracking.js?v=130927"></script>
+<script type="text/javascript" src="http://s.cdn-care.com/js/gaSocialTracking.js?v=140613"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"2863556","applicationTime":80,"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"e368a743a3","transactionName":"MVNUYxEDDxVWU00PWQgZZUMRFxUVdlNND1kIGVVYDkwCHFJeFwdGFhhXVBcLDggZRlAVXxJZRBkwFQgSVFhpB1EDdVlZFwcZEnZTTQ9ZCA==","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
