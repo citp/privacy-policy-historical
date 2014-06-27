@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yeskey.com privacy policy that was archived on 2013-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127002226id_/http%3A//www.yeskey.com/Security_and_Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yeskey.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627114246id_/http%3A//www.yeskey.com/Security_and_Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,7 +16,14 @@
 <script type="text/javascript" src="http://www.yeskey.com/script/home_class.js"></script>
 <script language="javascript">
 function dosel(){
-	//alert('do search');
+	if(trim(document.getElementById('keyword').value) ==""){
+		alert('Please input keyword!');
+		return false;
+	}else {
+		
+		document.getElementById('form1').submit();
+	}
+
 }
 </script>
 </head>
@@ -48,7 +55,7 @@ function dosel(){
 <!--             <div class="search_left "></div>
 -->             <div class="search_center"><form id="form1" name="form1" method="post" action="/seach.html">
                  <div class="search_title"></div>
-                 <div class="search_input"><input name="keyword" type="text" class="keyword ac_input" autocomplete="off" value="" id="searchkey" style="COLOR: #999"></div>
+                 <div class="search_input"><input name="keyword" type="text" class="keyword ac_input" autocomplete="off" value="" id="keyword" style="COLOR: #999"></div>
                  <div class="search_space"></div>
                  <div class="search_selection">
                    <select onkeydown="if(event.keyCode==13){javascript:return headsearch();}" id="catalog" name="category">
