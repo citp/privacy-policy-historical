@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014180845id_/http%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingarrangement.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014842id_/https%3A//www.seekingarrangement.com/privacy.php) for the most accurate reproduction.*
 
-# SeekingArrangement - Privacy Policy
+# Sugar Daddy & Sugar Baby Dating | Seeking Arrangement
 
 ## Privacy Policy
 
@@ -50,7 +50,7 @@ SeekingArrangement.com allows you to change your personal information at any tim
 
 When you place an order online, your personal details and credit card information are encrypted using SSL encryption techology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by [MultiCards](http://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
+Our credit card transactions are processed by [MultiCards](https://www.multicards.com/). All information sent to MultiCards is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For MultiCards' privacy statement, please click [HERE](https://www.multicards.com/en/privacy.html).
 
 ### Cookies
 
