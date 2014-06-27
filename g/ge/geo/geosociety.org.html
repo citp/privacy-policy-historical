@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the geosociety.org privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101142334id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geosociety.org privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627021959id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/resources.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- Begin Head -->
+<!-- START MODAL HEAD -->
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Geological Society of America - Internet Privacy Policy</title>
 <!-- InstanceEndEditable -->
@@ -10,20 +12,77 @@
 <meta name="description" content="GSA offers a host of resources for everyone at all levels including professionals, teachers, students, clients, web-site visitors.">
 <meta name="keywords" content="Geological Society of America, GSA, geoscience careers, employment service center, mentor programs, geocorps, Congressional Science Fellow, grants, free teacher resources, advertising, geoscience links, privacy policy, contact GSA">
 <style type="text/css" media="screen">
-<!--
-@import url("/css/gsa4.css");
-@import url("/css/gsa4_content.css");
-#wrapper #banner { background: url(/graphics/headerPics/headerMeander_r1_c1.jpg) no-repeat; }
-#wrapper #bottomBar { background: url(/graphics/headerPics/headerMeander_r2_c1.jpg) no-repeat; }
--->
+#wrapper #banner { background: url(https://rock.geosociety.org/graphics/headerPics/headerMeander_r1_c1.jpg) no-repeat;}
+#wrapper #banner_ATS { background-color: #000;}
+#wrapper #bottomBar { background: url(https://rock.geosociety.org/graphics/headerPics/headerMeander_r2_c1.jpg) no-repeat;}
+#wrapper #bottomBar_ATS { background: url(https://rock.geosociety.org/graphics/headerPics/headerHome_r2_c1.jpg) no-repeat 0 0 #330066;}
+</style>
+<style type="text/css" media="screen">
+@import url("https://rock.geosociety.org/css/gsa4.css");
+@import url("https://rock.geosociety.org/css/gsa4_content.css");
 </style>
 <style type="text/css" media="print">
-<!--
-@import url("/css/gsa4_print.css");
--->
+@import url("https://rock.geosociety.org/css/gsa4_print.css");
 </style>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/sfHover.js" type="text/javascript"></script>
-<script src="/js/emailMask_noBrackets.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://rock.geosociety.org/js/sfHover.js" type="text/javascript"></script>
+<script src="https://rock.geosociety.org/js/emailMask_noBrackets.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+<script type="text/javascript">
+<!--Cookies-->
+    function getCookie(cookieName, keyName) {
+        var ret;
+        var cookie = unescape(hGetCookie(cookieName));
+        //alert(cookie);
+        if (keyName && hasSubKeys(cookieName) == true) {
+            var cookieData = getCookieData(cookie);
+            ret = cookieData[keyName];
+        } else {
+            ret = cookie;
+        }
+        return ret
+    }
+  
+    function getCookieData(cookie) {
+        var ret = [];
+        var subKeys = cookie.split("&");
+        for (var i = 0; i < subKeys.length; i++) {
+            //alert(subKeys[i]);
+            var pos = subKeys[i].indexOf("=");
+            if (pos != 0) {
+                //alert("cookieData["+subKeys[i].substring(0,pos)+']='+subKeys[i].substring(pos+1));
+                ret[subKeys[i].substring(0, pos)] = subKeys[i].substring(pos + 1);
+            }
+        }
+        return ret;
+    }
+  
+    function checkLoginCookie() {
+        var IMISID = getCookie("GSA", "ID");
+        if (IMISID != null && IMISID != "") {
+            //Show Logged IN
+           // console.log('yes. logged in');
+						//d = document.getElementById('loggedin');
+            //d.style.display = "block";
+						$('#loggedin').css("display","block");
+						$('#loggedout').css("display","none");
+  
+            //Add first name
+            d = document.getElementById('WelcomeFirstName');
+            d.innerHTML = getCookie("GSA", "FirstName");
+        }
+        else {
+            //Show Not Logged in
+            //d = document.getElementById('loggedout');
+            //d.style.display = "block";
+        		//console.log('not logged in');
+						 $('#loggedout').css("display","block");
+						 $('#loggedin').css("display","none");
+				}
+    }
+  
+    function hGetCookie(cookie_name) { var regexp = new RegExp(cookie_name + "=(.*?)(;|$)", "i"); var results = regexp.exec(document.cookie); if (results) { return (unescape(results[1])); } else { return null; } }
+    function hasSubKeys(cookieName) { var ret = false; var cookie = unescape(hGetCookie(cookieName)); var subKeys = cookie.split("&"); if (subKeys.length >= 2) { ret = true; } else { var subKeys = cookie.split("="); if (subKeys.length >= 1) { ret = true; } } return ret; }
+</script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1008571-1']);
@@ -35,16 +94,22 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script type="text/javascript"> jQuery(document).ready(function(){ checkLoginCookie(); });</script>
+<!-- END MODAL HEAD -->
+<!-- End Head -->
 </head>
 
 <body>
+<!-- Begin Header -->
+<!-- START MODAL HEADER -->
 <a name="top" id="top"></a>
 <div id="wrapper">
+<!-- ATS_IGNORE_START -->
 <div id="banner" style="background-color: #000; z-index:-1;">
-<img src="/graphics/headerPics/print/headerArch.jpg" alt="Membership" class="print"><a href="http://www.geosociety.org/"><img src="/graphics/clear.gif" width="190" height="60" alt="GSA Home Page" style="margin:10px 0 0 10px; float:left" border="0" class="logoLink"></a>
+<img src="/graphics/headerPics/print/headerMeander.jpg" alt="Resources" class="print"><a href="http://www.geosociety.org/"><img src="/graphics/clear.gif" width="190" height="60" alt="GSA Home Page" style="margin:10px 0 0 10px; float:left" border="0" class="logoLink"></a>
 <!-- Google CSE Search Box Begins  -->
 <form id="searchbox_013017808764373766791:529el1isq64" action="http://www.google.com/search">
-<table style="margin-top:.4em; float: right;">
+<table style="margin-top:.5em;">
 <tbody><tr>
 <td colspan="2"><p style="text-align:right; margin:0 0 .5em 0;"><a href="http://www.geosociety.org/members/subaru.htm?utm_source=Search&amp;utm_medium=txtBanner&amp;utm_campaign=SubaruVIP" style="color: #C90;"><strong>Subaru benefit<br>
 for GSA members!</strong></a></p></td>
@@ -67,14 +132,38 @@ for GSA members!</strong></a></p></td>
 </div>
 <div id="bottomBar" style="background-color:#330066; z-index:-1;">
 <p class="pLeft"><a href="http://www.geosociety.org/">GSA home</a></p>
-<p style="z-index:-1;"><a href="http://www.geosociety.org/members/">join</a> | <a href="http://www.gsafweb.org/makeadonation.html" target="_blank">donate</a> | <a href="http://www.geosociety.org/contactus/">contact us</a></p>
+<p class="pRight" style="z-index:-1;"><a href="http://rock.geosociety.org/profile/login.aspx">Log In</a> | <a href="http://community.geosociety.org">GSA Community</a> | <a href="http://rock.geosociety.org/store/">GSA Store</a> | <a href="http://www.geosociety.org/members/">Join GSA</a> | <a href="http://www.gsafweb.org/makeadonation.html" target="_blank">Donate</a> | <a href="http://www.geosociety.org/contactus/">Contact Us</a></p>
 </div><!--END BOTTOM BAR-->
-<div id="125">
-<img src="/graphics/125anniv/125_logo130.gif" width="130" height="120" alt="125 Years" style="position:relative; margin-top:-90px; margin-right:210px; float:right; z-index:2;">
-</div><!--END 125 LOGO-->
-<div id="leftcol" style="z-index:-1; margin-top:-30px;">
-<p class="topMenu"><a href="/125/">125th Anniversary</a></p>
+<!-- ATS_IGNORE_END -->
+
+<!--ALTERNATE HEADER FOR ATS STORE-->
+<div id="banner_ATS">
+<div class="store"><img src="https://rock.geosociety.org/graphics/headerPics/headerStore_r1_c1.jpg" alt="GSA Store" class="print"><a href="http://www.geosociety.org/"><img src="https://rock.geosociety.org/graphics/clear.gif" width="190" height="60" alt="GSA Home Page" style="margin:10px 0 0 10px; float:left" border="0" class="logoLink"></a></div>
+<div class="profile"><img src="https://rock.geosociety.org/graphics/headerPics/print/headerHome.jpg" alt="Log In to GSA" class="print"><a href="http://www.geosociety.org/"><img src="https://rock.geosociety.org/graphics/clear.gif" width="190" height="60" alt="GSA Home Page" style="margin:10px 0 0 10px; float:left" border="0" class="logoLink"></a></div>
+<!-- Start Google Search -->
+<table class="atsGoogleSearch" width="250">
+<tbody><tr>
+<td><a href="/store/GoogleFullText.htm" target="_blank">Search Full Text<br>
+of GSA Books</a></td>
+<td><a href="/store/GoogleFullText.htm" target="_blank"><img src="https://rock.geosociety.org/store/images/poweredByGoogle.gif" alt="Google Book Search" width="75" height="40" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- End Google Search --> 
+</div>
+<div id="bottomBar_ATS">
+<p class="pLeft"><a href="http://www.geosociety.org/">GSA home</a></p>
+<p class="pRight"> | <a href="http://community.geosociety.org">GSA Community</a> | <a href="http://rock.geosociety.org/store/">GSA Store</a> | <a href="http://www.gsafweb.org/makeadonation.html" target="_blank">Donate</a> | <a href="http://www.geosociety.org/contactus/">Contact Us</a></p>
+<!--Login Content-->
+  <div class="logincontent">
+   <div id="loggedout"><a href="http://rock.geosociety.org/profile/login.aspx">Log In</a> | <a href="http://www.geosociety.org/members/">Join GSA</a></div>
+   <div id="loggedin" style="display: none;"><span class="welcome">Welcome&nbsp;<span class="Welcome" id="WelcomeFirstName"></span>!&nbsp;|&nbsp;<a href="http://rock.geosociety.org/profile/edit_profile.aspx">Edit Account</a>&nbsp;|&nbsp;<a href="http://rock.geosociety.org/profile/logout.aspx?retURL=http://www.geosociety.org">Log Out</a></span></div>
+  </div><!--End Login Content--> 
+</div><!--END BOTTOM BAR-->
+<!--END ALTERNATE HEADER FOR ATS STORE AND LOGIN-->
+
+<div id="leftcol">
 <p class="topMenu"><a href="/aboutus/index.htm">About GSA</a></p>
+<p class="topMenu"><a href="http://community.geosociety.org/home/">Connected Community</a></p>
 <p class="topMenu"><a href="/divisions/">Divisions &amp;<br>
 Associated Societies</a></p>
 <p class="topMenu"><a href="/educate/">Education &amp; Outreach</a></p>
@@ -90,15 +179,15 @@ Associated Societies</a></p>
 <li><a href="/advertising/">Advertising</a>
  <ul>
  <li><a href="/advertising/">Ad Rates &amp; Info</a></li>
-	<li><a href="/classiads/geoMart.htm">View GeoMart Ads (services)</a></li>
-	<li><a href="/classiads/">View Recruitment&nbsp;/ Classified Ads </a></li>
+	<li><a href="/classiads/geoMart.htm">GeoMart Ads (services)</a></li>
+	<li><a href="/classiads/">Recruitment&nbsp;/ Classified Ads</a></li>
 </ul>
 </li>
 <li><a href="/educate/">Educational Resources</a>
  <ul>
 	<li><a href="/educate/">K-12 Teachers&nbsp;&gt;</a>
 	 <ul>
-  <li><a href="/awards/index.htm">Awards</a></li>
+  <li><a href="/awards/">Awards</a></li>
   <li><a href="/educate/resources.htm">Links &amp; Lesson Plans</a></li>
   <li><a href="/educate/opps.htm">Opportunities</a></li>
   </ul>
@@ -138,7 +227,7 @@ Associated Societies</a></p>
  <ul>
 	<li><a href="/classiads/">Classified Ads</a></li>
  <li><a href="/Employment_Service/">Employment Service</a></li>
- <li><a href="/humanres/index.htm">Jobs at GSA</a></li>
+ <li><a href="/humanres/">Jobs at GSA</a></li>
 	</ul>
 </li>
 <li><a href="/profdev/">Opportunites</a>
@@ -201,7 +290,10 @@ Associated Societies</a></p>
 <a href="/themes/"><img src="/graphics/themes/fys130.jpg" alt="Find Your Science at GSA" width="130" height="130" border="0" style="margin:1em 0 1em 1.2em;"></a>
 </div>
 
-<div id="content"><!-- InstanceBeginEditable name="content" -->
+<div id="content">
+<!-- END MODAL HEADER -->
+<!-- End Header --> 
+<!-- InstanceBeginEditable name="content" -->
 <h1>Geological Society of America</h1>
 <h2>Internet Privacy Policy</h2>
 <p>www.geosociety.org (the "Site") is operated by the Geological Society of America, Inc. ("GSA," "we," "us," or "our").</p>
@@ -256,7 +348,9 @@ Associated Societies</a></p>
 <dd><a href="mailto:web@geosociety.org">web@geosociety.org</a></dd>
 </dl>
 <!-- InstanceEndEditable -->
-</div>
+<!-- START MODAL FOOTER -->
+<!-- Begin Footer -->
+</div><!--END CONTENT-->
 
 <div id="footer">
 <!--TRANSLATION WIDGET-->
@@ -273,5 +367,7 @@ function googleTranslateElementInit() {
 © <a href="http://www.geosociety.org/">The Geological Society of America, Inc.</a></p>
 </div><!--END FOOTER-->
 </div><!--END WRAPPER-->
+<!-- End Footer -->
+<!-- END MODAL FOOTER -->
 
 <!-- InstanceEnd --></body></html>
