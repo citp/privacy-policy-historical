@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the sheridan.com.au privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227205211id_/http%3A//www.sheridan.com.au/privacy-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheridan.com.au privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627140131id_/http%3A//www.sheridan.com.au/privacy-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=8">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMTB"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>privacy &amp; security</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMTB"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMAVF5ADAMDXVBT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>privacy &amp; security</title>
 <meta name="description" content="Sheridan - Feel the Difference">
 <meta name="keywords" content="Shop Sheridan">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.sheridan.com.au/media/favicon/default/favicon_1.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.sheridan.com.au/media/favicon/default/favicon_1.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.sheridan.com.au/media/favicon/default/favicon_1.gif" type="image/x-icon">
+<link rel="icon" href="http://media.sheridan.com.au/favicon/default/favicon_1.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.sheridan.com.au/favicon/default/favicon_1.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.sheridan.com.au/favicon/default/favicon_1.gif" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -22,10 +22,10 @@
 <!--[if lte IE 6]>
 <script src="skin/frontend/pacbrands/bonds/js/ie6/warning.js"></script><script>window.onload=function(){e("skin/frontend/pacbrands/bonds/js/ie6/")}</script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/pacbrands/A.sheridan,,_css,,_styles.css+sheridan,,_css,,_widgets.css+sheridan,,_css,,_pronav,,_css,,_pronav.default.css+default,,_css,,_mypacificbrands.css+sheridan,,_css,,_local.css+sheridan,,_css,,_typography.css+sheridan,,_css,,_colorbox.css+sheridan,,_css,,_calendar-win2k-1.css,Mcc.WYlrx8Zt9O.css.pagespeed.cf.NsVqtQ190y.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/css/A.print.css.pagespeed.cf.soXI2AoCaf.css" media="print">
-<script src="http://www.sheridan.com.au/js,_prototype,_prototype.js,Mjm.ufbjapTOku.js+js,_lib,_ccard.js,Mjm.46Y_fMzWWn.js+js,_scriptaculous,_builder.js,Mjm.wPs5WKCrTa.js+js,_scriptaculous,_effects.js,Mjm.2gOWX1ohLv.js+js,_scriptaculous,_dragdrop.js,Mjm.1MTT-YBlBa.js+js,_scriptaculous,_controls.js,Mjm.MSQlZHbBOp.js+js,_scriptaculous,_slider.js,Mjm.g37FxI5JWD.js+js,_varien,_menu.js,Mjm.mLEuB19D7s.js+js,_mage,_translate.js,Mjm.T7x0xnKtPV.js+js,_mage,_cookies.js,Mjm.kAOWcvc3yY.js+js,_jquery,_jquery-1.9.1.min.js,Mjm.roLDJ9nOeu.js+js,_jquery,_jquery-migrate-1.2.1.min.js,Mjm.mhpNjdU8Wl.js+js,_jquery,_noconflict.js+skin,_frontend,_base,_default,_js,_claim.js,Mjm.RIRAi9vTp3.js+skin,_frontend,_pacbrands,_sheridan,_js,_pronav,_jquery.hover.intent.js,Mjm.gRXCqUmTAj.js+skin,_frontend,_pacbrands,_default,_js,_enterprise,_catalogevent.js,Mjm.SPjYTCJOgc.js+skin,_frontend,_pacbrands,_sheridan,_js,_varien,_form.js,Mjm.WBeP6IX_hh.js.pagespeed.jc.VkQntMg-Nr.js"></script><script>eval(mod_pagespeed_e$Twh0VeCP);</script>
-<script>eval(mod_pagespeed_yXkDUibDmv);</script>
+<link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/pacbrands/A.sheridan,,_css,,_styles.css+sheridan,,_css,,_widgets.css+sheridan,,_css,,_pronav,,_css,,_pronav.default.css+default,,_css,,_mypacificbrands.css+sheridan,,_css,,_local.css+sheridan,,_css,,_typography.css+sheridan,,_css,,_colorbox.css+sheridan,,_css,,_calendar-win2k-1.css+sheridan,,_css,,_inside.css,Mcc.5sLg_yR8ok.css.pagespeed.cf.qpp9YhyIKS.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/css/A.print.css.pagespeed.cf.pzvp9U4Akx.css" media="print">
+<script type="text/javascript" src="http://www.sheridan.com.au/js/prototype/prototype.js.pagespeed.jm.ufbjapTOku.js"></script>
+<script src="http://www.sheridan.com.au/js/lib,_ccard.js,Mjm.46Y_fMzWWn.js+scriptaculous,_builder.js,Mjm.wPs5WKCrTa.js+scriptaculous,_effects.js,Mjm.2gOWX1ohLv.js+scriptaculous,_dragdrop.js,Mjm.1MTT-YBlBa.js+scriptaculous,_controls.js,Mjm.MSQlZHbBOp.js+scriptaculous,_slider.js,Mjm.g37FxI5JWD.js+varien,_menu.js,Mjm.mLEuB19D7s.js+mage,_translate.js,Mjm.T7x0xnKtPV.js+mage,_cookies.js,Mjm.kAOWcvc3yY.js.pagespeed.jc.5qa-NwsiJ4.js"></script><script>eval(mod_pagespeed_yXkDUibDmv);</script>
 <script>eval(mod_pagespeed_P9NcKv_Kd4);</script>
 <script>eval(mod_pagespeed_em4Ny_3RSq);</script>
 <script>eval(mod_pagespeed_aK3BvkGxQ$);</script>
@@ -34,26 +34,28 @@
 <script>eval(mod_pagespeed_fGiQ1OmDh$);</script>
 <script>eval(mod_pagespeed_UntaTcyfYa);</script>
 <script>eval(mod_pagespeed_NWYtlr87gw);</script>
-<script>eval(mod_pagespeed_MC3TolBkfY);</script>
-<script>eval(mod_pagespeed_Zj2CJnKqn8);</script>
+<script type="text/javascript" src="http://www.sheridan.com.au/js/jquery/jquery-1.9.1.min.js.pagespeed.jm.roLDJ9nOeu.js"></script>
+<script src="http://www.sheridan.com.au/js,_jquery,_jquery-migrate-1.2.1.min.js,Mjm.mhpNjdU8Wl.js+js,_jquery,_noconflict.js+skin,_frontend,_base,_default,_js,_claim.js,Mjm.RIRAi9vTp3.js+skin,_frontend,_pacbrands,_sheridan,_js,_pronav,_jquery.hover.intent.js,Mjm.gRXCqUmTAj.js+skin,_frontend,_pacbrands,_default,_js,_enterprise,_catalogevent.js,Mjm.SPjYTCJOgc.js+skin,_frontend,_pacbrands,_sheridan,_js,_varien,_form.js,Mjm.WBeP6IX_hh.js+skin,_frontend,_pacbrands,_sheridan,_js,_product,_validation.js,Mjm.q3PYB5MlRK.js+skin,_frontend,_pacbrands,_sheridan,_js,_scripts.js,Mjm.RmSkBcfo5A.js+skin,_frontend,_pacbrands,_sheridan,_js,_libs,_waypoints.js,Mjm.rWF3KH-NHO.js+skin,_frontend,_pacbrands,_sheridan,_js,_libs,_jquery.colorbox.js,Mjm.2EQnET3iCI.js.pagespeed.jc.9J7xIG6cBj.js"></script><script>eval(mod_pagespeed_Zj2CJnKqn8);</script>
 <script>eval(mod_pagespeed_v425jwhN8Q);</script>
 <script>eval(mod_pagespeed_fgXERxy$Pu);</script>
 <script>eval(mod_pagespeed_15JR6zz42P);</script>
 <script>eval(mod_pagespeed_APws91Y_78);</script>
 <script>eval(mod_pagespeed_VmK0nAwI4R);</script>
-<script src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/js/product,_validation.js,Mjm.q3PYB5MlRK.js+scripts.js,Mjm.RmSkBcfo5A.js+libs,_waypoints.js,Mjm.rWF3KH-NHO.js+libs,_jquery.colorbox.js,Mjm.2EQnET3iCI.js+libs,_jquery.jcarousel.js,Mjm.yCQfIL16hd.js+libs,_jquery.mousewheel.js,Mjm.O5P1RAs2uB.js+varien,_js.js,Mjm.F7CY0BSKxL.js.pagespeed.jc.QsXMiwaVVP.js"></script><script>eval(mod_pagespeed_$j6wEw4BOa);</script>
+<script>eval(mod_pagespeed_$j6wEw4BOa);</script>
 <script>eval(mod_pagespeed_6EMqKFp2dh);</script>
 <script>eval(mod_pagespeed_PtGzDIichD);</script>
 <script>eval(mod_pagespeed_zjVynhV_Rw);</script>
-<script>eval(mod_pagespeed__gbvV6E_zO);</script>
+<script src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/js/libs,_jquery.jcarousel.js,Mjm.yCQfIL16hd.js+libs,_jquery.mousewheel.js,Mjm.O5P1RAs2uB.js+varien,_js.js,Mjm.F7CY0BSKxL.js.pagespeed.jc.dRCsI2wE0G.js"></script><script>eval(mod_pagespeed__gbvV6E_zO);</script>
 <script>eval(mod_pagespeed_BGNuoexg6$);</script>
 <script>eval(mod_pagespeed_t5pRy1UgXT);</script>
 <script type="text/javascript" src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/js/jquery.jshow-1.0.js.pagespeed.jm.c2YSBcRvTy.js"></script>
-<script src="http://www.sheridan.com.au/skin,_frontend,_pacbrands,_sheridan,_js,_local.js,Mjm.hDVEaGaJ7C.js+skin,_frontend,_pacbrands,_sheridan,_js,_postcodeanywhere.js,Mjm.b9s5ro2fDS.js+skin,_frontend,_pacbrands,_sheridan,_js,_jquery.actual.min.js,Mjm.3zhYfXhFSF.js+skin,_frontend,_pacbrands,_sheridan,_js,_jquery.placeholder.js,Mjm.UDWLHUCxDv.js+skin,_frontend,_pacbrands,_sheridan,_js,_ipad.js,Mjm.F-_swKFwRE.js+js,_geolocation.js,Mjm.G-6wbEpDE0.js.pagespeed.jc.V6O0BLW-JL.js"></script><script>eval(mod_pagespeed_L5_zAlxPG$);</script>
+<script src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/js/jquery.jcountdown.min.js,Mjm.2mZYNocsL2.js+jquery.cookie.js,Mjm.RF0F9zsvJn.js+local.js,Mjm.pKu88mj6e0.js+postcodeanywhere.js,Mjm.b9s5ro2fDS.js+jquery.actual.min.js,Mjm.3zhYfXhFSF.js+jquery.placeholder.js,Mjm.UDWLHUCxDv.js.pagespeed.jc.q_PNXIYS_V.js"></script><script>eval(mod_pagespeed_Bs5v8WVXNt);</script>
+<script>eval(mod_pagespeed_p4rJQ8RiMB);</script>
+<script>eval(mod_pagespeed_ccSUlSv9Uv);</script>
 <script>eval(mod_pagespeed_gfqcvaE4Wr);</script>
 <script>eval(mod_pagespeed_O6BvpCD$sb);</script>
 <script>eval(mod_pagespeed_oI1IlEg0y7);</script>
-<script>eval(mod_pagespeed_yKRIBJ6Vox);</script>
+<script src="http://www.sheridan.com.au/skin,_frontend,_pacbrands,_sheridan,_js,_ipad.js,Mjm.M3frAJD0BG.js+js,_geolocation.js,Mjm.G-6wbEpDE0.js.pagespeed.jc.AW7DpMIyKg.js"></script><script>eval(mod_pagespeed_2$tfCRm1jy);</script>
 <script>eval(mod_pagespeed_TUyy8kePki);</script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/css/styles-ie.css" media="all" />
@@ -82,13 +84,15 @@ optionalZipCountries=[];
 <!--[if IE 9]>
 <link rel="stylesheet" type="text/css" href="http://www.sheridan.com.au/skin/frontend/base/default/css/ie9.css" media="all" />
 <![endif]-->
-</head>
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=73016&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140627140131id_%2Fhttp%3A%2F%2Fwww.sheridan.com.au%2Fprivacy-security%2F&amp;r=0.7944298180227556" type="text/javascript"></script></head>
 <body class=" cms-page-view cms-privacy-security">
 <script type="text/javascript">//<![CDATA[
 var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDomainName','.sheridan.com.au']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);_gaq.push(['_setCustomVar',1,'memberType','Guest',2]);_gaq.push(['_setCustomVar',2,'memberGroup','Guest',2]);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://':'http://')+'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
 //]]></script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PMTB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>dataLayer=[{"visitorType":"guest","cto_sitetype":"d"}];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PMTB');</script>
+<script type="text/javascript">var _vwo_code=(function(){var account_id=73016
+settings_tolerance=2000,library_tolerance=1500,use_existing_jquery=false,f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script>
 <noscript>
 <div class="noscript">
 <div class="noscript-inner">
@@ -104,7 +108,7 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 </div> </div>
 <div class="header-wrap">
 <div class="header">
-<div id="ajax-cart"><div class="top-cart"><div class="block-title"><p><img src="http://www.sheridan.com.au/skin/frontend/pacbrands/default/images/ajax-loader-small.gif" title="Loading ..."> Loading ...</p></div></div></div>
+<div id="ajax-cart"><div class="top-cart"><div class="block-title"><p><img src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/images/ajax-loader-small.gif" title="Loading ..."> Loading ...</p></div></div></div>
 <div class="welcome-msg"><span></span>
 <span class="accountActions"><ul class="links">
 </ul>
@@ -144,7 +148,7 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <input class="header-register-password" name="password" autocomplete="off" type="password" value="" data-popup-ajax-required="" placeholder="Password">
 <input class="header-register-password-confirm" name="confirmation" autocomplete="off" type="password" value="" data-popup-ajax-required="" placeholder="Password Confirm">
 <input class="header-register-email" name="email" type="text" autocomplete="off" value="" data-popup-ajax-required="" data-popup-ajax-type="email" placeholder="Email Address">
-<div class="header-register-subscribe-container"><input class="header-register-subscribe checkbox" checked="checked" name="is_subscribed" type="checkbox" value="1" autocomplete="off"> Send me offers by email</div>
+<div class="header-register-subscribe-container"><input class="header-register-subscribe checkbox" name="is_subscribed" type="checkbox" value="1" autocomplete="off"> Send me offers by email</div>
 <input class="button-submit" onclick="_gaq.push(['_trackEvent', 'Header Register Block', 'Submit']);" type="button" value="Register Now" style="cursor:pointer">
 <span class="popup-ajax-spinner" style="display: none;"><span>Please wait...</span></span>
 </fieldset>
@@ -160,7 +164,7 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 </div>
 <div class="header-subscribe">
 <div class="subIcon">&nbsp;</div>
-<div class="subLinks"><a class="more popup" popup-inline="#header-subscribe-box" onclick="_gaq.push(['_trackEvent','Sheridan Homepage','eNews Signup']);" href="http://www.sheridan.com.au/customer/account/create">
+<div class="subLinks"><a class="more popup" onclick="_gaq.push(['_trackEvent','Sheridan Homepage','eNews Signup']);" href="http://www.sheridan.com.au/newsletter-sign-up/">
 <div class="italic">Subscribe</div>
 <div class="newsletter">to our newsletter</div>
 </a></div> <div id="header-subscribe-box" class="hidden">
@@ -182,9 +186,9 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 </div>
 </div>
 <div class="clearfix"></div>
-<div class="branding"><a href="http://www.sheridan.com.au/"><img border="0" class="logo" title="" alt="" src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/images/logo.jpg"></a></div>
+<div class="branding"><a href="http://www.sheridan.com.au/"><img border="0" class="logo" title="" alt="" src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/images/logo_new.jpg"></a></div>
 <div class="nav-container clearfix"><ul id="pronav"><li id="" class="toplevel-bedroom"><a href="http://www.sheridan.com.au/bedroom.html" id="" class=""><span class="pronav-top-level-span">bedroom</span></a><div class="sub"><div class="row">
-<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://www.sheridan.com.au/media/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
+<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
 <div class="row-content">
 <div class="sub-head">
 <div class="col1">&nbsp;</div>
@@ -194,20 +198,23 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentTop">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Quilt Covers']);" href="http://www.sheridan.com.au/bedroom/quilt-covers-online.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Abbotson.jpg" alt="View All Quilt Covers"> </a>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Quilt Covers']);" href="http://www.sheridan.com.au/bedroom/quilt-covers-online.html"> <img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/Abbotson_Aegean_quiltcover.jpg" alt="View All Quilt Covers"> </a>
 <div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Quilt Covers']);" href="http://www.sheridan.com.au/bedroom/quilt-covers-online.html">quilt covers</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Sheets']);" href="http://www.sheridan.com.au/bedroom-1/bed-sheets-pillowcases.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Classic-Percale_Sheet-Sets.jpg" alt="View All Sheets"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Sheets']);" href="http://www.sheridan.com.au/bedroom-1/bed-sheets-pillowcases.html">sheets</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Sheets']);" href="http://www.sheridan.com.au/bedroom/bed-sheets-pillowcases.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Classic-Percale_Sheet-Sets.jpg" alt="View All Sheets"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Sheets']);" href="http://www.sheridan.com.au/bedroom/bed-sheets-pillowcases.html">sheets</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Pillowcases']);" href="http://www.sheridan.com.au/bedroom/pillowcases.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/Abbotson-pillowcase-pronav.jpg" alt="View All Pillowcases"> </a>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Pillowcases']);" href="http://www.sheridan.com.au/bedroom/pillowcases.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/Abbotson-pillowcase-pronav.jpg" alt="View All Pillowcases"> </a>
 <div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Pillowcases']);" href="http://www.sheridan.com.au/bedroom/pillowcases.html">pillowcases</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Design Accessories']);" href="http://www.sheridan.com.au/bedroom-1/design-accessories-cushions-shams-blankets.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Rani-Ottoman.jpg" alt="View All Design Accessories"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Design Accessories']);" href="http://www.sheridan.com.au/bedroom-1/design-accessories-cushions-shams-blankets.html">design accessories</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Design Accessories']);" href="http://www.sheridan.com.au/accessories.html"> <img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/AW14_062014/accessories-menu-tile.jpg" alt="View All Design Accessories"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Design Accessories']);" href="http://www.sheridan.com.au/accessories.html">design accessories</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom-1/pillows-quilts.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultralux_Pillows-and-Quilts.jpg" alt="Pillows &amp; Quilts"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom-1/pillows-quilts.html">pillows &amp; quilts</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom/pillows-quilts.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultralux_Pillows-and-Quilts.jpg" alt="Pillows &amp; Quilts"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom/pillows-quilts.html">pillows &amp; quilts</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Bedroom Personalisation']);" href="http://www.sheridan.com.au/personalisation/bedroom.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/upclose-sheets.jpg" alt="Bedroom Personalisation"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bedroom Personalisation']);" href="http://www.sheridan.com.au/personalisation/bedroom.html">Personalisation</a></div>
 </li>
 </ul>
 <hr>
@@ -219,28 +226,30 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentBottom">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','In Full Bloom']);" href="http://www.sheridan.com.au/bedroom/in-full-bloom.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_In-Full-Bloom_Malena.jpg" alt="In Full Bloom"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','In Full Bloom']);" href="http://www.sheridan.com.au/bedroom/in-full-bloom.html">in full bloom</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Floral Blooms']);" href="http://www.sheridan.com.au/bedroom/in-full-bloom.html"> <img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/Cheyenne_Aegan_quiltcover.jpg" alt="Floral Bloom"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Floral Blooms']);" href="http://www.sheridan.com.au/bedroom/in-full-bloom.html">floral blooms</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Millennia Luxury']);" href="http://www.sheridan.com.au/bedroom-1/millennia-luxury.html"> <img title="Millenia Luxury" src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Millennia-Luxury.jpg" alt="Millenia Luxury"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Millennia Luxury']);" href="http://www.sheridan.com.au/bedroom-1/millennia-luxury.html">millennia luxury </a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Timeless Luxury']);" href="http://www.sheridan.com.au/bedroom/millennia-luxury.html"> <img title="Timeless Luxury" src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/Smythson_quiltcover.jpg" alt="Timeless Luxury"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Timeless Luxury']);" href="http://www.sheridan.com.au/bedroom/millennia-luxury.html">timeless luxury </a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/bedroom-1/abbotson-luxe-linen.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Abbotson-Luxe-Linen.jpg" alt="Abbotson Luxe Linen"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/bedroom-1/abbotson-luxe-linen.html">abbotson luxe linen</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/bedroom/abbotson-luxe-linen.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Abbotson-Luxe-Linen.jpg" alt="Abbotson Luxe Linen"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/bedroom/abbotson-luxe-linen.html">abbotson luxe linen</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Vintage Wash']);" href="http://www.sheridan.com.au/bedroom-1/vintage-wash.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Reilly-Fog_CQC.jpg" alt="Vintage Wash"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Vintage Wash']);" href="http://www.sheridan.com.au/bedroom-1/vintage-wash.html">vintage wash</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Vintage Wash']);" href="http://www.sheridan.com.au/bedroom/vintage-wash.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Reilly-Fog_CQC.jpg" alt="Vintage Wash"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Vintage Wash']);" href="http://www.sheridan.com.au/bedroom/vintage-wash.html">vintage wash</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','It's All White']);" href="http://www.sheridan.com.au/bedroom-1/its-all-white.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Its-all-white_Paulson.jpg" alt="It's All White"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','It's All White']);" href="http://www.sheridan.com.au/bedroom-1/its-all-white.html">it's all white</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','It's All White']);" href="http://www.sheridan.com.au/bedroom/its-all-white.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Its-all-white_Paulson.jpg" alt="It's All White"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','It's All White']);" href="http://www.sheridan.com.au/bedroom/its-all-white.html">it's all white</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/bedroom-1/junior.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Junior_Delilah.jpg" alt="Junior"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/bedroom-1/junior.html">junior</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/bedroom/junior.html"> <img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/Rhys_quiltcover.jpg" alt="Junior"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/bedroom/junior.html">junior</a></div>
 </li>
 </ul>
 </div>
-</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-bathnbeach"><a href="http://www.sheridan.com.au/bath-and-beach.html" id="" class=""><span class="pronav-top-level-span">bath &amp; beach</span></a><div class="sub"><div class="row">
-<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://www.sheridan.com.au/media/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
+</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-bathnbeach"><a href="http://www.sheridan.com.au/bath-and-beach.html" id="" class=""><span class="pronav-top-level-span">bathroom</span></a><div class="sub"><div class="row">
+<div class="nav-arrow-up">
+<img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow">
+</div>
 <div class="row-content">
 <div class="sub-head">
 <div class="col1">&nbsp;</div>
@@ -250,14 +259,29 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentTop">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All bath Towels']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Luxury-Retreat_Towels.jpg" alt="View All Bath Towels"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bath Towels']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels.html">Bath Towels</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','View All bath Towels']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels.html">
+<img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/luxuryretreat-towels.jpg" alt="View All Bath Towels">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Bath Towels']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels.html">Bath Towels</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Beach Towels']);" href="http://www.sheridan.com.au/bath-and-beach-1/beach-towels.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Miramar_B-Towels.jpg" alt="View All Beach Towels"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Beach Towels']);" href="http://www.sheridan.com.au/bath-and-beach-1/beach-towels.html">Beach Towels</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','View All Robes']);" href="http://www.sheridan.com.au/bath-and-beach/robes.html">
+<img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultralight-Robe.jpg" alt="View All Bathrobes">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Bathrobes']);" href="http://www.sheridan.com.au/bath-and-beach/robes.html">bathrobes</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Robes']);" href="http://www.sheridan.com.au/bath-and-beach-1/robes.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultralight-Robe.jpg" alt="View All Bathrobes"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bathrobes']);" href="http://www.sheridan.com.au/bath-and-beach-1/robes.html">bathrobes</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Bathroom Personalisation']);" href="http://www.sheridan.com.au/personalisation/bathroom.html">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/dad-robe.jpg" alt="Bathroom Personalisation">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Bathroom Personalisation']);" href="http://www.sheridan.com.au/personalisation/bathroom.html">Personalisation</a>
+</div>
 </li>
 </ul>
 <hr>
@@ -269,25 +293,172 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentBottom">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Retreat']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/luxury-retreat.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Luxury-Retreat_Towels.jpg" alt="Luxury Retreat"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Retreat']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/luxury-retreat.html">Luxury retreat</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Retreat']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/luxury-retreat.html">
+<img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/luxuryretreat-towels.jpg" alt="Luxury Retreat">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Retreat']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/luxury-retreat.html">Luxury retreat</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Egyptian']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/luxury-egyptian-range.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Luxury-Egyptian_Towels.jpg" alt="Luxury Egyptian"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Egyptian']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/luxury-egyptian-range.html">Luxury Egyptian</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Egyptian']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/luxury-egyptian-range.html">
+<img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/luxury-egyptian-towels.jpg" alt="Luxury Egyptian">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Luxury Egyptian']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/luxury-egyptian-range.html">Luxury Egyptian</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Living textures']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/living-textures-range.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Living-Textures.jpg" alt="Living textures"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Living textures']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/living-textures-range.html">Living textures</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Living textures']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/living-textures-range.html">
+<img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Living-Textures.jpg" alt="Living textures">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Living textures']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/living-textures-range.html">Living textures</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Ultra-light luxury']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/ultra-light-range.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultra-Light-Luxury.jpg" alt="Ultra-light luxury"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Ultra-light luxury']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/ultra-light-range.html">Ultra-light luxury</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Ultra-light luxury']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/ultra-light-range.html">
+<img src="http://media.sheridan.com.au/wysiwyg/Homepage2014/SS13_012014/ultra-light-luxury-1.jpg" alt="Ultra-light luxury">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Ultra-light luxury']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/ultra-light-range.html">Ultra-light luxury</a>
+</div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Bleeker']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/bleeker.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Bleeker.jpg" alt="Bleeker"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bleeker']);" href="http://www.sheridan.com.au/bath-and-beach-1/bath-towels/bleeker.html">Bleeker</a></div>
+<li>
+<a onclick="_gaq.push(['_trackEvent','Pronav','Bleeker']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/mariel-range.html">
+<img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/mariel-towels.jpg" alt="Mariel">
+</a>
+<div class="navItemLabel">
+<a onclick="_gaq.push(['_trackEvent','Pronav','Mariel']);" href="http://www.sheridan.com.au/bath-and-beach/bath-towels/mariel-range.html">Mariel</a>
+</div>
 </li>
 </ul>
 </div>
-</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-acc"><a href="http://www.sheridan.com.au/bedroom-1/design-accessories-cushions-shams-blankets.html" id="" class=""><span class="pronav-top-level-span">accessories</span></a><div class="sub"><div class="row">
-<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://www.sheridan.com.au/media/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
+</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-baby"><a href="http://www.sheridan.com.au/baby.html" id="" class=""><span class="pronav-top-level-span">Baby</span></a><div class="sub"><div class="row">
+<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
+<div class="row-content">
+<div class="sub-head">
+<div class="col1">&nbsp;</div>
+<div class="col2">
+<h4>Shop by Category</h4>
+</div>
+<div class="col3">&nbsp;</div>
+</div>
+<ul class="row-contentTop">
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Gifts']);" href="http://www.sheridan.com.au/baby/baby-gifts.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/babygifts.jpg" alt="Baby Gifts"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Gifts']);" href="http://www.sheridan.com.au/baby/baby-gifts.html">baby gifts</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Sleep Bags']);" href="http://www.sheridan.com.au/baby/baby-sleeping-bags.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/baby_sleeping_bags.jpg" alt="Baby Sleep Bags"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Sleep Bags']);" href="http://www.sheridan.com.au/baby/baby-sleeping-bags.html">Baby Sleep Bags</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Blankets &amp; Wraps']);" href="http://www.sheridan.com.au/baby/baby-blankets-wraps.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/baby_blankets_wraps.jpg" alt="Baby Blankets &amp; Wraps"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Blankets &amp; Wraps']);" href="http://www.sheridan.com.au/baby/baby-blankets-wraps.html">Baby Blankets &amp; Wraps</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Sheets']);" href="http://www.sheridan.com.au/baby/baby-sheets.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/baby_sheets.jpg" alt="Baby Sheets"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Sheets']);" href="http://www.sheridan.com.au/baby/baby-sheets.html">Baby Sheets</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Towels']);" href="http://www.sheridan.com.au/baby/baby-towels.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/baby_towels.jpg" alt="Baby Towels"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Towels']);" href="http://www.sheridan.com.au/baby/baby-towels.html">Baby Towels</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Baby Personalisation']);" href="http://www.sheridan.com.au/personalisation/baby.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/baby-sheets.jpg" alt="Baby Personalisation"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Baby Personalisation']);" href="http://www.sheridan.com.au/personalisation/baby.html">Personalisation</a></div>
+</li>
+</ul>
+</div>
+</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-lounge"><a href="http://www.sheridan.com.au/loungewear.html" id="" class=""><span class="pronav-top-level-span">Loungewear</span></a><div class="sub"><div class="row">
+<div class="nav-arrow-up">
+<img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow">
+</div>
+<div class="row-content">
+<div class="sub-head">
+<div class="col1">&nbsp;</div>
+<div class="col2">
+<h4>Shop for him/her</h4>
+</div>
+<div class="col3">&nbsp;</div>
+</div>
+<div class="clearfix"></div>
+<ul class="row-contentTop">
+<li>
+<a href="http://www.sheridan.com.au/loungewear/mens.html" onclick="_gaq.push(['_trackEvent','Pronav','Shop for him']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/mens4.jpg" alt="Shop for him">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/mens.html" onclick="_gaq.push(['_trackEvent','Pronav','Shop for him']);">Shop for him</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/loungewear/womens.html" onclick="_gaq.push(['_trackEvent','Pronav','Shop for her']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/womens2.jpg" alt="Shop for her">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/womens.html" onclick="_gaq.push(['_trackEvent','Pronav','Shop for her']);">Shop for her</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/personalisation/loungewear.html" onclick="_gaq.push(['_trackEvent','Pronav','Loungewear Personalisation']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/loungewear.jpg" alt="Loungewear Personalisation">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/personalisation/loungewear.html" onclick="_gaq.push(['_trackEvent','Pronav','Shop for her']);">Personalisation</a>
+</div>
+</li>
+</ul>
+<hr>
+<div class="sub-head">
+<div class="col1">&nbsp;</div>
+<div class="col2">
+<h4>shop by category</h4>
+</div>
+<div class="col3">&nbsp;</div>
+</div>
+<div class="clearfix"></div>
+<ul class="row-contentBottom">
+<li>
+<a href="http://www.sheridan.com.au/loungewear/pyjamas-sleepwear.html" onclick="_gaq.push(['_trackEvent','Pronav','Pyjamas &amp; Sleepwear']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/womens1.jpg" alt="Pyjamas &amp; Sleepwear">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/pyjamas-sleepwear.html" onclick="_gaq.push(['_trackEvent','Pronav','Pyjamas &amp; Sleepwear']);">Pyjamas &amp; Sleepwear</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/loungewear/tops.html" onclick="_gaq.push(['_trackEvent','Pronav','Tops']);">
+<img title="Millenia Luxury" src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/womens3.jpg" alt="Tops">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/tops.html" onclick="_gaq.push(['_trackEvent','Pronav','Tops']);">Tops</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/loungewear/shorts-pants.html" onclick="_gaq.push(['_trackEvent','Pronav','Shorts &amp; Pants']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/womens10.jpg" alt="Shorts &amp; Pants">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/shorts-pants.html" onclick="_gaq.push(['_trackEvent','Pronav','Shorts &amp; Pants']);">Shorts &amp; Pants</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/loungewear/knitwear.html" onclick="_gaq.push(['_trackEvent','Pronav','Knitwear']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/womens8.jpg" alt="Knitwear">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/knitwear.html" onclick="_gaq.push(['_trackEvent','Pronav','Knitwear']);">Knitwear</a>
+</div>
+</li>
+<li>
+<a href="http://www.sheridan.com.au/loungewear/robes.html" onclick="_gaq.push(['_trackEvent','Pronav','Robes']);">
+<img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/mens3.jpg" alt="Robes">
+</a>
+<div class="navItemLabel">
+<a href="http://www.sheridan.com.au/loungewear/robes.html" onclick="_gaq.push(['_trackEvent','Pronav','Robes']);">Robes</a>
+</div>
+</li>
+</ul>
+</div>
+</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-acc"><a href="http://www.sheridan.com.au/accessories.html" id="" class=""><span class="pronav-top-level-span">accessories</span></a><div class="sub"><div class="row">
+<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
 <div class="row-content">
 <div class="sub-head">
 <div class="col1">&nbsp;</div>
@@ -297,17 +468,20 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentTop">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Cushions &amp; Throws']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/cushions-throws.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Cushions-and-Throw_Elkins.jpg" alt="View All Cushions &amp; Throws"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Cushions &amp; Throws']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/cushions-throws.html">Cushions &amp; Throws</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom/pillows-quilts.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Ultralux_Pillows-and-Quilts.jpg" alt="Pillows &amp; Quilts"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Pillows &amp; Quilts']);" href="http://www.sheridan.com.au/bedroom/pillows-quilts.html">pillows &amp; quilts</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Knitted Ottomans']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/knitted-ottomans.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Rani-Ottoman.jpg" alt="View All Knitted Ottomans"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Knitted Ottomans']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/knitted-ottomans.html">Knitted Ottomans</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Cushions &amp; Throws']);" href="http://www.sheridan.com.au/accessories/cushions-throws.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Cushions-and-Throw_Elkins.jpg" alt="View All Cushions &amp; Throws"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Cushions &amp; Throws']);" href="http://www.sheridan.com.au/accessories/cushions-throws.html">Cushions &amp; Throws</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Bed Skirts']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/bed-skirts.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/bed-skirts_nav_tile.jpg" alt="Bed Skirts"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bed Skirts']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/bed-skirts.html">Bed Skirts</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Bed Skirts']);" href="http://www.sheridan.com.au/accessories/bed-skirts.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/bed-skirts_nav_tile.jpg" alt="Bed Skirts"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Bed Skirts']);" href="http://www.sheridan.com.au/accessories/bed-skirts.html">Bed Skirts</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Gifts']);" href="http://www.sheridan.com.au/gifting.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/giftset-towels.jpg" alt="Gifts"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Gifts']);" href="http://www.sheridan.com.au/bed-accessories-2/design-accessories/bed-skirts.html">Gifts</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Gifts']);" href="http://www.sheridan.com.au/accessories/gifting/gifting.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/giftset-towels.jpg" alt="Gifts"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Gifts']);" href="http://www.sheridan.com.au/accessories/gifting/gifting.html">Gifts</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','View All Stationery']);" href="http://www.sheridan.com.au/accessories/stationery.html" _mce_href="http://www.sheridan.com.au/accessories/stationery.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/pro-nav-stationary.jpg" _mce_src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/pro-nav-stationary.jpg" alt="Stationery"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Stationery']);" href="http://www.sheridan.com.au/accessories/stationery.html" _mce_href="http://www.sheridan.com.au/accessories/stationery.html">Stationery</a></div>
 </li>
 </ul>
 <hr>
@@ -319,24 +493,56 @@ var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-23954638-1']);_gaq.push(['_setDom
 <div class="col3">&nbsp;</div>
 </div>
 <ul class="row-contentBottom">
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Vintage wash']);" href="http://www.sheridan.com.au/bed-accessories/vintage-wash.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Reilly-Bedcover.jpg" alt="Vintage wash"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Vintage wash']);" href="http://www.sheridan.com.au/bed-accessories/vintage-wash.html">Vintage wash</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Vintage wash']);" href="http://www.sheridan.com.au/accessories/vintage-wash.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Reilly-Bedcover.jpg" alt="Vintage wash"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Vintage wash']);" href="http://www.sheridan.com.au/accessories/vintage-wash.html">Vintage wash</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson luxe linen']);" href="http://www.sheridan.com.au/bed-accessories/abbotson-luxe-linen.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Abbotson-Luxe-Linen.jpg" alt="Abbotson luxe linen"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson luxe linen']);" href="http://www.sheridan.com.au/bed-accessories/abbotson-luxe-linen.html">Abbotson luxe linen</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson luxe linen']);" href="http://www.sheridan.com.au/accessories/abbotson-luxe-linen.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Abbotson-Luxe-Linen.jpg" alt="Abbotson luxe linen"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson luxe linen']);" href="http://www.sheridan.com.au/accessories/abbotson-luxe-linen.html">Abbotson luxe linen</a></div>
 </li>
-<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/bedroom-1/junior.html"> <img src="http://www.sheridan.com.au/media/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Junior-Reilly-Accessories_Star-Cushions.jpg" alt="Junior"> </a>
-<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/bedroom-1/junior.html">Junior</a></div>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','Junior']);" href="http://www.sheridan.com.au/accessories/junior.html"> <img src="http://media.sheridan.com.au/wysiwyg/SS13/menu_images/R3522-ProNav-Tiles_140x99_Shop-by-collection_Junior-Reilly-Accessories_Star-Cushions.jpg" alt="Junior"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','Abbotson Luxe Linen']);" href="http://www.sheridan.com.au/accessories/junior.html">Junior</a></div>
 </li>
 </ul>
 </div>
-</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="last"><a href="http://www.sheridan.com.au/sale.html" id="" class=""><span class="pronav-top-level-span">sale</span></a></li></ul></div>
-<script>jQuery.noConflict();jQuery(function(){jQuery('ul#pronav').addClass('pronav-selected-privacy-security');jQuery.fn.calcSubWidth=function(){rowWidth=0;jQuery(this).find("ul").each(function(){rowWidth+=jQuery(this).width();});};var paddingFix=0;function megaHoverOver(){jQuery(this).find(".sub").stop().fadeTo(0,1,function(){jQuery(this).css('filter','');}).show();subPaddingLeft=jQuery(this).find('.sub').css('padding-right');subPaddingRight=jQuery(this).find('.sub').css('padding-left');if(subPaddingLeft&&subPaddingRight)
+</div></div></li><li id="" class="bullet"><a href="http://www.sheridan.com.au/#" id="" class=""><span class="pronav-top-level-span">•</span></a></li><li id="" class="toplevel-sale"><a href="http://www.sheridan.com.au/sale.html" id="" class=""><span class="pronav-top-level-span">sale</span></a><div class="sub"><div class="row">
+<div class="nav-arrow-up"><img title="Nav Submenu Up Arrow" src="http://media.sheridan.com.au/wysiwyg/pronav/nav-arrow-up.png" alt="Nav Submenu Up Arrow"></div>
+<div class="row-content">
+<div class="sub-head">
+<div class="col1">&nbsp;</div>
+<div class="col2">
+<h4>Shop by Category</h4>
+</div>
+<div class="col3">&nbsp;</div>
+</div>
+<ul class="row-contentTop">
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','sheets on sale']);" href="http://www.sheridan.com.au/sale-1/sheets-on-sale.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/ProNav-Tiles_140x99_Sheet-Sets.jpg" alt="sheets on sale"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','sheets on sale']);" href="http://www.sheridan.com.au/sale-1/sheets-on-sale.html">sheets on sale</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','towels on sale']);" href="http://www.sheridan.com.au/sale-1/towels-on-sale.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/luxury-egyptian-towels.jpg" alt="towels on sale"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','towels on sale']);" href="http://www.sheridan.com.au/sale-1/towels-on-sale.html">towels on sale</a></div>
+</li>
+<li> <a onclick="_gaq.push(['_trackEvent','Pronav','quilt covers on sale']);" href="http://www.sheridan.com.au/sale-1/quilt-covers-on-sale.html"> <img src="http://media.sheridan.com.au/wysiwyg/AW14/menu_images/Abbotson_Aegean_quiltcover.jpg" alt="quilt covers on sale"> </a>
+<div class="navItemLabel"><a onclick="_gaq.push(['_trackEvent','Pronav','quilt covers on sale']);" href="http://www.sheridan.com.au/sale-1/quilt-covers-on-sale.html">quilt covers on sale</a></div>
+</li>
+</ul>
+</div>
+</div></div></li></ul></div>
+<script>jQuery.noConflict();jQuery(function(){jQuery('ul#pronav').addClass('pronav-selected-bath-and-beach');jQuery.fn.calcSubWidth=function(){rowWidth=0;jQuery(this).find("ul").each(function(){rowWidth+=jQuery(this).width();});};var paddingFix=0;function megaHoverOver(){jQuery(this).find(".sub").stop().fadeTo(0,1,function(){jQuery(this).css('filter','');}).show();subPaddingLeft=jQuery(this).find('.sub').css('padding-right');subPaddingRight=jQuery(this).find('.sub').css('padding-left');if(subPaddingLeft&&subPaddingRight)
 {subPaddingLeft=parseInt(subPaddingRight.replace('px',''));subPaddingRight=parseInt(subPaddingRight.replace('px',''));paddingFix=subPaddingLeft+subPaddingRight;}
 if(jQuery(this).find(".row").length>0){var biggestRow=0;var offset=0;jQuery(this).prevAll().each(function(){offset+=jQuery(this).outerWidth()-1;});var navcon_pos=jQuery(".nav-container").offset();jQuery(this).find(".row:last").css({'margin':'0'});}else{jQuery(this).calcSubWidth();jQuery(this).find(".sub").css({'width':rowWidth+paddingFix});}}
 function megaHoverOut(){jQuery(this).find(".sub").fadeTo(0,0,function(){jQuery(this).hide();});}
 var config={sensitivity:2,interval:50,over:megaHoverOver,timeout:200,out:megaHoverOut};jQuery("ul#pronav li .sub").css({'opacity':'0'});jQuery("ul#pronav li").hoverIntent(config);});</script>
-<div class="searchbar">
+<div class="zblock zblock-menu-bottom"><div class="shippingLinks">
+<div class="link-one">
+<div class="link_img_cust">&nbsp;</div>
+<a class="popup" href="http://www.sheridan.com.au/contact-us" popup="contact-us">customer service: 1800 625 516</a></div>
+<div class="link-two">
+<div class="link_img_ship">&nbsp;</div>
+<a class="popup" href="http://www.sheridan.com.au/delivery-returns" popup="delivery-and-returns">FREE DELIVERY &amp; RETURNS AUSTRALIA WIDE</a></div>
+<div class="link-three">
+<div class="link_img_store">&nbsp;</div>
+<a href="http://www.sheridan.com.au/stockists">find a store</a></div>
+</div></div> <div class="searchbar">
 <form id="search_mini_form" action="http://www.sheridan.com.au/catalogsearch/result/" method="get">
 <div class="form-search">
 <label for="search">Search site:</label>
@@ -354,7 +560,9 @@ var config={sensitivity:2,interval:50,over:megaHoverOver,timeout:200,out:megaHov
 <div id="search_categoryautocomplete" class="search-autocomplete">
 <ul>
 <li value="52" class="even"><a class="search-cat-link" href="#" name="52">Search in <span class="catname">bedroom</span></a></li>
-<li value="62" class="even"><a class="search-cat-link" href="#" name="62">Search in <span class="catname">bath &amp; beach</span></a></li>
+<li value="62" class="even"><a class="search-cat-link" href="#" name="62">Search in <span class="catname">bathroom</span></a></li>
+<li value="481" class="even"><a class="search-cat-link" href="#" name="481">Search in <span class="catname">baby</span></a></li>
+<li value="495" class="even"><a class="search-cat-link" href="#" name="495">Search in <span class="catname">loungewear</span></a></li>
 <li value="67" class="even"><a class="search-cat-link" href="#" name="67">Search in <span class="catname">accessories</span></a></li>
 </ul>
 </div>
@@ -368,19 +576,7 @@ var searchForm=new Varien.searchForm('search_mini_form','search','Search');searc
 <div class="clearfix"></div>
 </div>
 </div>
-<div class="header-links">
-<div class="shippingLinks">
-<div class="link-one">
-<div class="link_img_cust">&nbsp;</div>
-<a class="popup" popup="contact-us" href="http://www.sheridan.com.au/contact-us">customer service: 1800 625 516</a></div>
-<div class="link-two">
-<div class="link_img_ship">&nbsp;</div>
-<a class="popup" popup="delivery-and-returns" href="http://www.sheridan.com.au/delivery-returns">free shipping &amp; returns australia wide</a></div>
-<div class="link-three">
-<div class="link_img_store">&nbsp;</div>
-<a href="http://www.sheridan.com.au/stockists">find a store</a></div>
-</div> </div>
-<script type="text/javascript">ajaxCartLoad=function(callback){var cartUrl="http://www.sheridan.com.au/checkout/cart/ajax/isAjax/1/";jQuery('#ajax-cart').html('<div class="top-cart"><div class="block-title"><p id="cartHeader"><img src="http://www.sheridan.com.au/skin/frontend/pacbrands/default/images/ajax-loader-small.gif" title="Loading ..."/> &nbsp; </p></div></div>');jQuery.get(cartUrl,callback);}
+<script type="text/javascript">ajaxCartLoad=function(callback){var cartUrl="http://www.sheridan.com.au/checkout/cart/ajax/isAjax/1/";jQuery('#ajax-cart').html('<div class="top-cart"><div class="block-title"><p id="cartHeader"><img src="http://www.sheridan.com.au/skin/frontend/pacbrands/sheridan/images/ajax-loader-small.gif" title="Loading ..."/> &nbsp; </p></div></div>');jQuery.get(cartUrl,callback);}
 ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.initialize('topCartContent');});</script>
 </div>
 <div class="breadcrumbs">
@@ -403,40 +599,39 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <div class="std"><p><a name="top"></a></p>
 <p>&nbsp;</p>
 <h2><strong>Sheridan's Privacy Policy</strong></h2>
-<p>This website is owned and operated by Sheridan Australia Pty Ltd, ACN 094 091 380. Sheridan Australia Pty Ltd is part of the Pacific Brands group of companies (collectively called “Sheridan”, “we, “us” or “our” in this policy). Your privacy is very important to us and we will always act to protect your personal information. We take this responsibility seriously and are very careful about how and when your personal information is collected, used and shared. This statement outlines what our commitment is, why we need to collect personal information, who we may share that personal information with and how you may request access to and correction of the personal information that we hold.</p>
+<p>This website under the domain name sheridan.com.au (the "Website") is owned and operated by Sheridan, a division of Sheridan Australia Pty Ltd which is part of the Pacific Brands group of companies (collectively called "Sheridan", "we, "us" or "our" in this policy).</p>
 <h2><strong>Our commitment to privacy</strong></h2>
-<p>We will always handle your personal information securely and carefully. We will only use your personal information with your consent and when it is necessary for us to deliver you a service or perform other business functions and activities. We will not use your personal information for purposes unrelated to the services we provide, unless first obtaining your consent. We will always use fair and lawful means of collecting personal information. In most circumstances, we will collect personal information directly from you.</p>
+<p>Your privacy is very important to us and we will always act to protect your personal information. We take this responsibility seriously and are very careful about how and when your personal information is collected, used and shared. This statement outlines what our commitment is, why we need to collect personal information, who we may share that personal information with and how you may request access to and correction of the personal information that we hold. This statement relates to personal information we collect through the Website.</p>
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>What we collect</strong></h2>
-<p>The type of personal information we collect is dependent on the type of service or interaction you wish to receive. Personal information we collect may include: your name, address, phone and other contact details (fax, email etc.), date of birth, gender, merchandise information (purchases, orders etc.), method of payment. Sometimes we will also collect other personal information, such as where you shop or what your interests are, so that we can improve our service and product offering to you. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, products, or services. We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted to our payment processing provider.</p>
+<p>The type of personal information we collect is dependent on the type of service or interaction you wish to receive. Personal information we collect may include: your name, address, phone and other contact details (fax, email etc), date of birth, gender, merchandise information (purchases, orders etc), method of payment. Sometimes we will also collect other personal information, such as where you shop or what your interests are, so that we can improve our service and product offering to you. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, products, or services. We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted directly by you to our payment processing provider.</p>
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>How we collect it</strong></h2>
-<p>The personal information we collect is supplied directly by you through our website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. Where we wish to collect personal information about you via the internet, we will expressly ask you for that personal information and explain the purpose for which we are requesting the personal information (e.g. to add you to a mailing list). Outside of personal information that you enter through our website, we also receive and store certain types of information through the use of 'Cookies', when you interact with Sheridan via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our website.</p>
+<p>The personal information we collect is generally supplied directly by you through our Website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. There are also certain situations in which we may collect personal information about you from someone else. For example we may collect information from third parties including public sources, our related companies, your organisation, your representatives and information service providers.</p>
+We also receive and store certain types of information through the use of 'Cookies', when you interact with Sheridan via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our Website.
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>Why we collect it</strong></h2>
-<p>We collect personal information for a number of reasons, including to: deliver and improve the products and services that we offer you, to complete other transactions with you or on your behalf, to protect against fraud or theft, to provide offers and promotions that we consider may be of interest or benefit to you, and to generally provide you with a premium customer experience. We will only collect personal information that is necessary for our functions and activities. We will generally only use your personal information for purposes related to the purpose or purposes for which the information was collected, or where you have consented to the use.</p>
+<p>We collect personal information for a number of reasons, including to: deliver, administer and improve the products and services that we offer you, complete other transactions with you or on your behalf, protect against fraud or theft, provide offers and promotions that we consider may be of interest or benefit to you, conduct market research, work with our related companies and service providers, maintain and update our records, protect and uphold the rights, property and safety of us, our customers and others, facilitate acquisitions and potential acquisitions of our business and assets and generally provide you with a premium customer experience.</p>
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>Who we share it with</strong></h2>
-<p>Your personal information will be held by Sheridan Australia Pty Ltd. We take reasonable steps to make sure that the personal information we collect, use and disclose is accurate, complete and up-to-date. We do not intend to sell your personal information to other parties. However, we will often need to pass your personal details, such as your name and address, to companies who perform part of our service delivery, for example, organisations such as postal service providers or other agencies that assist us in the conduct of competitions. We may otherwise use or disclose your personal information with your consent (or if we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure) or where required or authorised by law, which may include:</p>
-<ul type="disc">
-<li>Emergency situations and assisting law enforcement agencies </li>
-<li>Accessing and updating your personal information </li>
-<li>Where we believe that the use or disclosure is reasonably necessary to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of us, our customers, or others. </li>
-</ul>
-<p>If you wish to access or correct any personal information we hold about you, please contact us using the Contact Details set out below. We request that you provide as much detail as you can about the particular personal information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing that personal information to you subject to any restrictions on fees imposed by law. In certain circumstances, we may decide to not correct your personal information. If that is the case, we will give you our reasons for that decision and will attach to the personal information a statement of the correction sought but not made.</p>
-<p>If you have any questions or feedback about privacy, or wish to make a complaint, please contact us by mail at:</p>
-<p>GPO Box 2370 <br> Hawthorn LPO <br> Hawthorn, Victoria <br> 3122</p>
-<p>Alternatively email us at <a href="mailto:privacyofficer@pacbrands.com.au">privacyofficer@pacbrands.com.au</a></p>
+<p>We may exchange your personal information with other Pacific Brands companies and companies who perform part of our service delivery or provide other support services to us, for example, organisations that assist us with postal, data processing and analysis, research, mail, promotional, customer contact, technology, banking, payment, debt collection and maintenance services. We may otherwise use or disclose your personal information with your consent (or if we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure) or where required or authorised by law, which may include emergency situations and assisting law enforcement agencies.</p>
+<p> Third parties to whom we disclose personal information may be located in Australia, United States of America, United Kingdom, Hong Kong, Philippines and other countries.</p>
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>Third party sites</strong></h2>
-<p>This website may contain links to other websites operated by third parties (such as YouTube). Be aware that this privacy policy only applies to the personal information that we collect through this website. We are not responsible for the collection, storage or usage of personal information at any such third party websites and you should review the privacy policy of any website you visit.</p>
+<p>This Website may contain links to other websites operated by third parties (such as YouTube). Be aware that this privacy statement only applies to the personal information that we collect through this Website. We are not responsible for the collection, storage or usage of personal information at any such third party websites and you should review the privacy policy of any Website you visit.</p>
 <p class="backtotop"><a href="#top">back to top</a></p>
 <h2><strong>Use outside Australia</strong></h2>
-<p>We welcome visitors from outside Australia. However, this is an Australian based website and this privacy policy governs the personal information collected at this site irrespective of where you may be located when you visit the site and interact with it. This means your personal information may be stored outside the country in which you are located and any government authorities which have jurisdiction over the website may be entitled to access any personal information provided.</p>
+<p>We welcome visitors from outside Australia. However, this is an Australian based website and this privacy statement governs the personal information collected at this Website irrespective of where you may be located when you visit the Website and interact with it. This means your personal information may be stored outside the country in which you are located and any government authorities which have jurisdiction over the Website may be entitled to access any personal information provided.</p>
 <p><span class="backtotop"><a href="#top">back to top</a></span></p>
 <h2><strong>Children</strong></h2>
 <p>We will not knowingly collect information from any unsupervised person under the age of 18. If you are under 18 years of age you must not submit any personal information to us unless you have the consent of, and are being supervised by, a parent or legal guardian.</p>
-<p><span class="backtotop"><a href="#top">back to top</a></span></p></div> </div>
+<p><span class="backtotop"><a href="#top">back to top</a></span></p>
+<h2><strong>Further information</strong></h2>
+<p> The Pacific Brands Privacy Policy contains further details about our handling of personal information, including information about how you may access or update your personal information that we hold and how we deal with your concerns. The Pacific Brands Privacy Policy is available on request or via <a href="http://www.pacificbrands.com.au" target="_blank">www.pacificbrands.com.au</a>.</p>
+<p> If you have any questions or feedback about privacy, please contact our Privacy Officer at <a href="mailto:privacyofficer@pacbrands.com.au">privacyofficer@pacbrands.com.au</a> or call (+61 3) 9947 4900. For information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at <a href="http://www.oaic.gov.au" target="_blank">www.oaic.gov.au</a> and on 1300 363 992.</p>
+<p><span class="backtotop"><a href="#top">back to top</a></span></p>
+<p>Sheridan Australia Pty Ltd ABN 89 094 091 745</p>
+<p>Latest Revision:&nbsp;12 March 2014</p></div> </div>
 </div>
 </div>
 </div>
@@ -448,11 +643,21 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <li><a href="http://www.sheridan.com.au/stockists/">find a store</a></li>
 <li><a class="popup" popup="delivery-and-returns" href="http://www.sheridan.com.au/delivery-returns/">delivery &amp; returns</a></li>
 <li><a class="popup" popup="contact-us" href="http://www.sheridan.com.au/contact-us/">contact us</a></li>
-<li class="social last" onclick="window.open('http://www.facebook.com/sheridan', 'facebook' )"><a title="become a fan on facebook" href="http://www.facebook.com/sheridan" target="_blank">Join us on facebook</a></li>
+<li><a href="http://careers.pacbrands.com.au" target="_blank">careers</a></li>
 </ul>
-<ul class="links">
+<ul class="links payments">
 <li class="first">secure online payments</li>
 <li class="paymentopions">&nbsp;</li>
+</ul>
+<ul class="sociallinks links">
+<li class="first">
+<span class="first">Follow Us</span>
+<ul class="black">
+<li><a class="a_fb" href="https://www.facebook.com/sheridan" target="_blank" title="Facebook">Facebook</a></li>
+<li><a class="a_pinterest" href="http://www.pinterest.com/sheridanaus/" target="_blank" title="Pinterest">Pinterest</a></li>
+<li><a href="http://www.instagram.com/sheridan_australia" target="_blank" class="a_instagram">Instagram</a></li>
+</ul>
+</li>
 </ul>
 <ul class="links" style="float: right;">
 <li style="padding: 0; margin: 0;">
@@ -465,10 +670,25 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 </div>
 <ul class="emailsignup">
 <li>
-<form class="signupform" action="http://www.sheridan.com.au/newsletter-sign-up/" method="post">
-<input name="email" type="text" id="email">
-<input type="submit" value=" " class="email-signup-button">
+<div class="footer-subscribe">
+<div id="footer-subscribe-box">
+<form class="popup-ajax-form" action="newsletter-sign-up/ajax/new" method="post">
+<fieldset class="popup-ajax-default" style="display: block;">
+<input class="sign-up-first-name" name="subscriber_name" autocomplete="off" type="text" value="" data-popup-ajax-required="" data-popup-ajax-type="text" placeholder="First Name">
+<input class="sign-up-email" name="email" type="text" autocomplete="off" value="" data-popup-ajax-required="" data-popup-ajax-type="email" placeholder="Email Address">
+<input class="button-submit" onclick="_gaq.push(['_trackEvent', 'Newsletter Signup Footer Block', 'Submit']);" type="button" value="Subscribe" style="cursor:pointer">
+<span class="popup-ajax-spinner" style="display: none;"><span>Please wait...</span></span>
+</fieldset>
+<fieldset class="popup-ajax-success" onclick="_gaq.push(['_trackEvent', 'Newsletter Signup Footer Block', 'Success']);" style="display: none;">
+<span>Thank-you for subscribing to our newsletter.</span>
+</fieldset>
+<fieldset class="popup-ajax-error" style="display: none;">
+<span class="span-error-message" onclick="_gaq.push(['_trackEvent', 'Newsletter Signup Footer Block', 'Error Invalid Email']);">Sorry, you've entered an invalid name or email</span>
+<input class="button-submit button-retry" onclick="_gaq.push(['_trackEvent', 'Newsletter Signup Footer Block', 'Try Again Button']);" type="button" value="Try again" style="cursor:pointer">
+</fieldset>
 </form>
+</div>
+</div>
 </li>
 </ul>
 </li>
@@ -496,7 +716,7 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <div class="footer-copyright">
 </div>
 <div id="sizechart-colorbox">
-<div id="sizechart"><ul>
+<div id="sizechart"><ul style="width:290px;">
 <h3>Quilt Cover Sizes</h3>
 <li>Single 140 cm x 210 cm</li>
 <li>Double 180 cm x 210 cm</li>
@@ -504,21 +724,21 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <li>King 245 cm x 210 cm</li>
 <li>Super King 270 cm x 240 cm</li>
 </ul>
-<ul>
+<ul style="width:290px;">
 <h3>Pillow Case Sizes</h3>
 <li>Standard 50 cm x 75 cm</li>
 <li>Euro 65 cm x 65 cm</li>
 <li>Sham 50 cm x 75 cm</li>
 <li>King 50 cm x 85 cm</li>
 </ul>
-<ul>
+<ul style="width:290px;">
 <h3>Flat Sheet Sizes</h3>
 <li>Single 195 cm x 260 cm</li>
 <li>Double 240 cm x 260 cm</li>
 <li>Queen 255 cm x 260 cm</li>
 <li>King 285 cm x 260 cm</li>
 </ul>
-<ul>
+<ul style="width:290px;">
 <h3>Fitted Sheet Sizes</h3>
 <li>Single 91 cm x 190 cm x 40-50 cm</li>
 <li>King Single 107 cm x 203 cm x 40-50 cm</li>
@@ -526,7 +746,7 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <li>Queen 152 cm x 203 cm x 40-50 cm</li>
 <li>King 180 cm x 203cm x 40-50 cm</li>
 </ul>
-<ul>
+<ul style="width:290px;">
 <h3>Bedskirt Sizes</h3>
 <li>Single 91 cm x 190 cm x 33 cm</li>
 <li>King Single 107 cm x 203 cm x 33 cm</li>
@@ -534,16 +754,44 @@ ajaxCartLoad(function(html){jQuery('#ajax-cart').html(html);Enterprise.TopCart.i
 <li>Queen 152 cm x 203 cm x 33 cm</li>
 <li>King 180 cm x 203 cm x 33 cm</li>
 </ul>
-<ul>
+<ul style="width:290px;">
+<h3>Bed Covers</h3>
+<li>Queen 220cm x 220cm</li>
+<li>King 240cm x 260cm</li>
+</ul>
+<ul style="width:290px;">
 <h3>Towel Sizes</h3>
 <li>Face Washer 33 cm x 33 cm</li>
 <li>Hand Towel 45 cm x 65 cm</li>
 <li>Queen Towel 69 cm x 140 cm</li>
 <li>King Towel 91 cm x 167 cm</li>
 <li>Bath Mat 60 cm x 80 cm</li>
+</ul>
+<ul style="width:290px;">
+<h3>Baby Cot Sheets</h3>
+<li>Cot Fitted Sheet 132 x 77 x 19cm</li>
+<li>Cot Flat Sheet 140 x 150cm<br>
+(Fits standard and large Boori cots)</li>
+</ul>
+<ul style="width:290px;">
+<h3>Sleep bags</h3>
+<li>0-6mnths</li>
+<li>6-18mnths 0.5, 1, 2.5 Tog ratings</li>
+</ul>
+<ul style="width:290px;">
+<h3>Wraps/Swaddles</h3>
+<li>Wrap Jersey 120 x 120cm</li>
+<li>Wrap Muslin 120 x 120cm </li>
+</ul>
+<ul style="width:290px;">
+<h3>Blankets</h3>
+<li>Pram size Blanket 120cm x 120cm</li>
+<li>Cellular Cot size Blanket 140 x 150cm</li>
+<li>Receiving/Newborn Blanket 80 x 80cm</li>
+<li>Receiving/Newborn Blanket 80 x 80cm</li>
 </ul></div>
 </div>
 <div id="mask"></div>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","602dfc3dda","403911,2201563","ZFwAbRMCXxFYAkELW10WI1oVCl4MFgJYERtDWAVcThVYB04=",0,485,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"602dfc3dda","applicationID":"403911,2201563","transactionName":"ZFwAbRMCXxFYAkELW10WI1oVCl4MFgJYERtDWAVcThVYB04=","queueTime":0,"applicationTime":427,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
