@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the proxfree.com privacy policy that was archived on 2013-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130820181734id_/http%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proxfree.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627052238id_/http%3A//www.proxfree.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html">
-<meta name="description" content="ProxFree is a fast, free and highly compatible anonymous proxy service. This page details ProxFree's privacy policy..">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="ProxFree Privacy Policy.">
 <meta name="keywords" content="proxy,privacy,policy">
 <title>ProxFree - Privacy Policy</title>
 <link href="//proxfree-nitrad.netdna-ssl.com/assets/style.css?3" rel="stylesheet" type="text/css">
@@ -40,6 +40,714 @@ $(function(){
 });
 </script>
 <script type="text/javascript">
+function fillpfserverDropdown(){
+removeAllOptions(document.main_submission.pfserverDropdown);
+
+addOption(document.main_submission.pfserverDropdown, "http://ca.proxfree.com/request.php?do=go", "United States West (CA)");
+addOption(document.main_submission.pfserverDropdown, "http://ut.proxfree.com/request.php?do=go", "United States West (UT)");
+addOption(document.main_submission.pfserverDropdown, "http://wa.proxfree.com/request.php?do=go", "United States West (WA) ");
+addOption(document.main_submission.pfserverDropdown, "http://co.proxfree.com/request.php?do=go", "United States Central (CO)");
+addOption(document.main_submission.pfserverDropdown, "http://tx.proxfree.com/request.php?do=go", "United States Central (TX)");
+addOption(document.main_submission.pfserverDropdown, "http://mo.proxfree.com/request.php?do=go", "United States Central (MO)");
+addOption(document.main_submission.pfserverDropdown, "http://il.proxfree.com/request.php?do=go", "United States Central (IL)");
+addOption(document.main_submission.pfserverDropdown, "http://dc.proxfree.com/request.php?do=go", "United States East (DC)");
+addOption(document.main_submission.pfserverDropdown, "http://qc.proxfree.com/request.php?do=go", "Canada East (QC)");
+addOption(document.main_submission.pfserverDropdown, "http://nj.proxfree.com/request.php?do=go", "United States East (NJ)");
+addOption(document.main_submission.pfserverDropdown, "http://fl.proxfree.com/request.php?do=go", "United States East (FL)");
+addOption(document.main_submission.pfserverDropdown, "http://uk.proxfree.com/request.php?do=go", "United Kingdom");
+addOption(document.main_submission.pfserverDropdown, "http://nl.proxfree.com/request.php?do=go", "Netherlands");
+addOption(document.main_submission.pfserverDropdown, "http://fr.proxfree.com/request.php?do=go", "France (Roubaix)");
+addOption(document.main_submission.pfserverDropdown, "http://de.proxfree.com/request.php?do=go", "Germany");
+addOption(document.main_submission.pfserverDropdown, "http://al.proxfree.com/request.php?do=go", "France (Strasbourg)");
+}
+
+function SelectpfipDropdown(){
+removeAllOptions(document.main_submission.pfipDropdown);
+
+if(document.main_submission.pfserverDropdown.value == 'http://ca.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (San Jose, CA) Fastest");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA) 9.0 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 17 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX) 18 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 23 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 23 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 37 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 42 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA 2) 45 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 53 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 54 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 60 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 61 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 70 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 72 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 3) 72 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 73 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 74 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 3) 74 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 74 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 75 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 84 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 141 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 142 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 145 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 147 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 147 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix) 150 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 151 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 3) 154 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 156 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 160 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 2) 163 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 3) 163 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 168 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 170 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 172 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 172 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 175 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 190 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://ut.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Providence, UT) Fastest");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA) 26 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA) 26 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 31 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 35 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX) 40 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 48 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 50 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA 2) 50 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 54 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 54 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 54 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 55 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 56 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 58 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC) 70 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 71 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 75 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 3) 77 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 78 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 80 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 81 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 144 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 146 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris) 147 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 148 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 149 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 151 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London) 153 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 2) 154 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 160 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 161 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 165 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 3) 167 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 168 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 169 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 174 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 177 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 201 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 224 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://wa.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Dallas, TX) Fastest");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 8.8 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA) 18 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA) 26 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 33 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 40 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 42 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 49 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA 2) 52 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 53 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 54 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 54 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 3) 64 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 67 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 71 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 72 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 72 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 81 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 86 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 86 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 3) 86 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 88 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London) 135 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 135 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 138 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam) 139 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 141 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 143 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 149 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix) 152 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 152 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 2) 152 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 3) 156 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 161 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris) 162 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 163 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 3) 166 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 170 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 172 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 180 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://co.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Denver, CO) Fastest");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 21 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX) 22 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 24 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO) 33 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO 2) 34 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 36 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 41 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 42 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 45 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 49 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 2) 52 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 53 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 55 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 56 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 59 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC) 64 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 65 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 67 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 69 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 105 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 113 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 130 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 136 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 136 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix) 140 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 143 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 2) 143 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 144 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 145 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 145 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 147 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 147 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 149 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 150 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 166 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 166 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 169 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://tx.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Dallas, TX) Fastest");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 1.1 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 21 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 22 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 22 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 27 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 28 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 31 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 31 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 33 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 2) 36 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA) 38 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 38 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 38 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC) 38 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 2) 38 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 3) 39 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 42 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 42 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 47 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 49 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 56 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam) 113 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix) 113 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 113 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 2) 113 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 3) 116 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London) 117 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 118 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 118 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 118 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris) 125 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 125 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 2) 127 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 3) 128 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 134 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 137 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 137 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 143 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 154 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://mo.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Kansas City, MO) Fastest");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO 2) 11 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 13 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 18 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 25 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX) 26 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 30 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 2) 31 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC) 33 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 33 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 2) 34 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 38 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 39 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 3) 40 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 44 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 49 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 54 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 55 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 56 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 61 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 64 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 65 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 100 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 2) 105 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 3) 106 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 108 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 2) 110 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 112 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 115 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 3) 121 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris) 121 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 122 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 127 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 131 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 132 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 3) 133 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 134 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 140 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 142 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 142 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://il.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Chicago, IL) Fastest");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 1.2 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 13 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 13 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 19 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 20 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 24 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 33 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 33 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 37 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 38 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 38 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC) 46 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 46 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 47 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 54 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 58 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 71 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 74 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 85 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 88 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 88 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 93 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 93 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 104 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 104 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam) 112 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 112 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 3) 113 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 115 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 117 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 117 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 118 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 120 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris) 120 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 120 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 2) 121 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 122 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 125 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 132 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://dc.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Dallas, TX) Fastest");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 7.4 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 10 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 15 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 19 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 25 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 28 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 30 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 31 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 32 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 36 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 36 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC) 43 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 43 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 44 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 54 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 64 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 65 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 65 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 65 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 72 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 75 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 76 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 78 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 78 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 80 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 81 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 81 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix) 82 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 2) 84 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 86 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 89 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 93 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 93 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 94 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 96 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 100 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 102 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 107 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 122 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://qc.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "Canada (Montreal, QC) Fastest");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 0.4 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 3) 1.0 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 10 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 25 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 30 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 33 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 36 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 38 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX) 39 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX 2) 44 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 45 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 47 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 50 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 56 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 65 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 69 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 71 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA) 73 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 76 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix) 82 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 82 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 3) 82 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London) 85 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 86 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam) 86 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 87 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 87 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 3) 88 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 89 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 3) 90 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 92 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 92 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 92 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 95 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 102 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 105 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 106 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 107 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 110 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://nj.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Matawan, NJ) Fastest");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 3.3 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 7.3 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 10 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 10 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 3) 10 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 19 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 21 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 23 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 29 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 32 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 39 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 39 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 45 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 50 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 54 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 56 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 61 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 67 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 67 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London) 70 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 71 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 74 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA) 74 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 74 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 75 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam) 80 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 82 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 83 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA 2) 83 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 3) 83 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 84 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 86 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 88 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 89 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 94 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 101 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 108 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 128 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 139 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://fl.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United States (Miami, FL) Fastest");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 10 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 16 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 34 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 35 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 35 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 42 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 44 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 45 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 46 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 3) 46 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 49 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 57 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 72 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 74 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 75 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX) 80 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 96 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London) 103 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 105 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 106 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 108 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam) 108 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 109 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 110 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 112 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 3) 113 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 116 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 116 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 119 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 121 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 127 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 129 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 133 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 143 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 155 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://uk.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "United Kingdom (London) Fastest");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 0.8 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 3.5 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 7.1 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 7.4 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 9.4 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 11 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 15 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 17 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 19 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 20 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 2) 21 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 3) 21 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 23 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 28 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 28 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 30 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 34 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 70 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 73 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 75 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 87 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 88 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 89 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 92 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 95 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 99 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 103 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 106 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 108 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 108 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 112 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 118 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 135 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 137 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 139 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 140 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 142 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 160 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://nl.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "Netherlands (Amsterdam) Fastest");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 2) 0.2 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 0.9 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix) 6.0 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix 2) 6.1 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 6.3 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 6.8 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 7.0 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 10 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 11 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 17 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 17 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 17 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 18 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 19 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 23 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 25 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 30 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 80 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 81 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 83 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC) 87 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 87 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 89 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 96 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO) 104 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 112 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 112 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO 2) 113 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 113 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 113 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 114 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 116 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 133 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 135 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 144 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 144 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 146 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 150 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://fr.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "France (Roubaix) Fastest");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 0.4 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 1.0 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam) 6.0 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 2) 6.1 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 3) 6.2 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris) 10 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 2) 11 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London) 12 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 12 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 14 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 3) 17 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 20 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 21 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 22 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 28 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 29 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 33 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 74 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 76 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC) 82 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 82 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 83 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 94 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 101 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 105 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 110 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO) 112 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO 2) 114 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 116 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 117 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 118 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 128 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 135 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 140 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 143 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 152 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 154 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 156 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 167 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://de.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "Germany (Frankfurt) Fastest");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam) 6.8 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 6.8 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam 3) 7.3 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris) 10 ms");
+addOption(document.main_submission.pfipDropdown,"odw", "France (Paris 2) 10 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London) 11 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 12 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 12 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 13 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London 2) 15 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 16 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 24 ms");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 3) 25 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 25 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 26 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 32 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 37 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 82 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 86 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 90 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC) 91 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 2) 92 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC 3) 96 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 104 ms");
+addOption(document.main_submission.pfipDropdown,"bha", "United States (Chicago, IL) 104 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 111 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 118 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 120 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 121 ms");
+addOption(document.main_submission.pfipDropdown,"uts", "United States (Dallas, TX 2) 124 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO) 125 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO 2) 127 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 136 ms");
+addOption(document.main_submission.pfipDropdown,"snj", "United States (Dallas, TX 3) 147 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 150 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 151 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 164 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 176 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 206 ms");
+}
+if(document.main_submission.pfserverDropdown.value == 'http://al.proxfree.com/request.php?do=go'){
+addOption(document.main_submission.pfipDropdown,"default", "France (Paris) Fastest");
+addOption(document.main_submission.pfipDropdown,"xxw", "France (Paris 2) 0.4 ms");
+addOption(document.main_submission.pfipDropdown,"bid", "France (Paris 3) 0.5 ms");
+addOption(document.main_submission.pfipDropdown,"bdh", "France (Roubaix) 10 ms");
+addOption(document.main_submission.pfipDropdown,"tpt", "Germany (Frankfurt) 10 ms");
+addOption(document.main_submission.pfipDropdown,"wuf", "France (Roubaix 2) 11 ms");
+addOption(document.main_submission.pfipDropdown,"ikm", "France (Roubaix 3) 11 ms");
+addOption(document.main_submission.pfipDropdown,"twh", "Netherlands (Amsterdam) 13 ms");
+addOption(document.main_submission.pfipDropdown,"gof", "Austria (Graz) 15 ms");
+addOption(document.main_submission.pfipDropdown,"ovy", "Netherlands (Amsterdam 2) 17 ms");
+addOption(document.main_submission.pfipDropdown,"cqq", "Netherlands (Amsterdam 3) 17 ms");
+addOption(document.main_submission.pfipDropdown,"ngo", "United Kingdom (London) 17 ms");
+addOption(document.main_submission.pfipDropdown,"eqt", "Switzerland (Zurich) 19 ms");
+addOption(document.main_submission.pfipDropdown,"qpd", "United Kingdom (London 2) 20 ms");
+addOption(document.main_submission.pfipDropdown,"lfn", "United Kingdom (London 3) 22 ms");
+addOption(document.main_submission.pfipDropdown,"rxf", "Spain (Madrid) 23 ms");
+addOption(document.main_submission.pfipDropdown,"bsc", "Poland (Warsaw) 24 ms");
+addOption(document.main_submission.pfipDropdown,"lto", "Sweden (Stånga) 39 ms");
+addOption(document.main_submission.pfipDropdown,"fpy", "United States (Matawan, NJ) 88 ms");
+addOption(document.main_submission.pfipDropdown,"bne", "United States (Thornwood, NY) 90 ms");
+addOption(document.main_submission.pfipDropdown,"qzm", "Canada (Montreal, QC) 92 ms");
+addOption(document.main_submission.pfipDropdown,"dcp", "Canada (Montreal, QC 2) 93 ms");
+addOption(document.main_submission.pfipDropdown,"gte", "Canada (Montreal, QC 3) 93 ms");
+addOption(document.main_submission.pfipDropdown,"qes", "United States (Dallas, TX) 93 ms");
+addOption(document.main_submission.pfipDropdown,"sjb", "United States (Atlanta, GA) 106 ms");
+addOption(document.main_submission.pfipDropdown,"pvr", "United States (Miami, FL) 116 ms");
+addOption(document.main_submission.pfipDropdown,"iwy", "United States (Pinellas Park, FL) 118 ms");
+addOption(document.main_submission.pfipDropdown,"ciz", "United States (Buffalo, NY) 119 ms");
+addOption(document.main_submission.pfipDropdown,"lra", "United States (Kansas City, MO) 122 ms");
+addOption(document.main_submission.pfipDropdown,"smn", "United States (Los Angeles, CA) 125 ms");
+addOption(document.main_submission.pfipDropdown,"wrn", "United States (Kansas City, MO 2) 126 ms");
+addOption(document.main_submission.pfipDropdown,"yqx", "United States (Denver, CO) 141 ms");
+addOption(document.main_submission.pfipDropdown,"dis", "United States (Los Angeles, CA 2) 146 ms");
+addOption(document.main_submission.pfipDropdown,"bup", "United States (San Jose, CA) 153 ms");
+addOption(document.main_submission.pfipDropdown,"yvm", "United States (Providence, UT) 157 ms");
+addOption(document.main_submission.pfipDropdown,"sdi", "United States (San Jose, CA 2) 164 ms");
+addOption(document.main_submission.pfipDropdown,"kgr", "United States (Portland, OR) 181 ms");
+}
+}
+
+
+function removeAllOptions(selectbox)
+{
+	var i;
+	for(i=selectbox.options.length-1;i>=0;i--)
+	{
+		selectbox.remove(i);
+	}
+}
+
+
+function addOption(selectbox, value, text )
+{
+	var optn = document.createElement("OPTION");
+	optn.text = text;
+	optn.value = value;
+
+	selectbox.options.add(optn);
+}
+</script>
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7540624-50']);
@@ -60,74 +768,61 @@ $(function(){
   <a href="/" class="pflogo"></a>
   <ul id="pfmenu">
     <li class="pflft"><span><a href="/">HOME</a></span></li>
+	<li><span><a href="/youtube-proxy.php">YOUTUBE PROXY</a></span></li>
     <li><span><a href="/facebook-proxy.php">FACEBOOK PROXY</a></span></li>
-    <li><span><a href="/youtube-proxy.php">YOUTUBE PROXY</a></span></li>
-    <li><span><a href="/adult-proxy.php">ADULT PROXY</a></span></li>
-    <li class="pfrt"><span><a href="/faq.php">FAQ</a></span></li>
+    <li><span><a href="/faq.php">FAQ</a></span></li>
+	<li class="pfrt"><span><a href="/adult-proxy.php">ADULT PROXY</a></span></li>
   </ul>
 <div class="pftopad">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-7296740877584633";
-/* ProxFree Top */
-google_ad_slot = "0223656007";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+</div>
   <h1><span>ProxFree</span> Privacy Policy</h1>
 </div>
 </div>
 <div id="pfcontent">
  <div class="pfcenterAlign">
  <div class="pfad2">
- <script type="text/javascript"><!--
-google_ad_client = "ca-pub-7296740877584633";
-/* PraxFree Leaderboard */
-google_ad_slot = "5226800071";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PraxFree Leaderboard -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-7296740877584633" data-ad-slot="5226800071"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 <div class="pfleftads">
 <div class="pfad3">
- <script type="text/javascript"><!--
-google_ad_client = "ca-pub-7296740877584633";
-/* ProxFree Side Link Unit */
-google_ad_slot = "7836997208";
-google_ad_width = 200;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ProxFree Side Link Unit -->
+<ins class="adsbygoogle" style="display:inline-block;width:200px;height:90px" data-ad-client="ca-pub-7296740877584633" data-ad-slot="7836997208"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 <div class="pfad3">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-7296740877584633";
-/* ProxFree Side Link Unit */
-google_ad_slot = "7836997208";
-google_ad_width = 200;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ProxFree Side Link Unit -->
+<ins class="adsbygoogle" style="display:inline-block;width:200px;height:90px" data-ad-client="ca-pub-7296740877584633" data-ad-slot="7836997208"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="pfad3">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ProxFree Side Link Unit -->
+<ins class="adsbygoogle" style="display:inline-block;width:200px;height:90px" data-ad-client="ca-pub-7296740877584633" data-ad-slot="7836997208"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>
 </div>
   <p class="pfctx"><a name="MoreInfo">Privacy Policy</a>Our service collects information about you during your visit. This document describes the information that we collect and how it is used.</p>
   <p class="pfctx2">We use a service provided by Google, "Google Analytics" to record some information about your visit. The data recorded from your activity may include information provided by your browser (such as user agent and referring page) as well as the requested URL, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We also collate this data for statistical purposes.</p>
-  <p class="pfctx2">The service provided on this website allows access to external, third-party websites. We record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our <a href="/terms.php">terms of use</a> may result in disclosure of any of the data recorded in our logs to an appropriate third party, which may include, but is not limited to your Internet Service Provider (ISP) or local authorities without notice. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.</p>
-  <p class="pfctx2">Our website stores a cookie on your computer, if allowed by your browser's privacy settings*. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.</p>
+  <p class="pfctx2">The service provided on this website allows access to external, third-party websites. We record your IP address and the websites you visit. The logs are used primarily for statistical purporses and safeguarding us in the event of illigal activity via our service. Any violations of our <a href="/terms.php">terms of use</a> may result in disclosure of any of the data recorded in our logs to an appropriate third party, which may include, but is not limited to your Internet Service Provider (ISP) or local authorities without notice. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed.</p>
+  <p class="pfctx2">Our website stores cookies on your computer/device, if allowed by your browser's privacy settings*. The cookies used by our service uniquely identifies you to the server and allows our website to remember your preferences.</p>
   <p class="pfctx2">Third-party vendors, including Google, use cookies to serve ads based on visitor's prior history on this and other websites. Google's use of the DART cookie enables it and its partners to serve ads to visitors based on their visit to this site and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.co.uk/privacy_ads.html">advertising opt-out page</a>.</p>
   <p class="pfctx2">The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option when entering the URL you whish to visit using this service. Sometimes cookies may be set by "JavaScript" code on the website you are visiting "indirectly". ProxFree is not responsible for any such cookies.</p>
   <p class="pfctx2">*For more information on configuring your browser, see AboutCookies.org or the documentation for your browser. We are not responsible for the content of any third-party websites.</p>
+
  </div> 
 </div>
 <div id="pffooter">
  <div class="pfcenterAlign">
-  <p>Copyright © 2011-2013 ProxFree.com all rights reserved</p>
+  <p>Copyright © 2011-2014 ProxFree.com all rights reserved</p>
   <ul><li><a href="//m.proxfree.com/">Mobile</a></li>
   <li class="pfsep">|</li>
   <li><a href="/proxy/">Proxy</a></li>
