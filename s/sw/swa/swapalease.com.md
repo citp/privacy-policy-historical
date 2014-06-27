@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210051546id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628001030id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Swapalease.com Worlds Largest Lease Marketplace
 
-## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 12/1/2011
+## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 12/1/2013
 
-Swapalease Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.swapalease.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-This privacy statement discloses the privacy practices for www.swapalease.com of Swapalease Inc.'s Website. 
-
-By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [www.swapalease.com](https://web.archive.org/) of Swapalease Inc.'s Website and encompasses the following items: 
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
   2. The organization collecting the information
@@ -20,7 +16,7 @@ By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at shall@swapalease.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions pertaining to the Swapalease Inc. privacy policy or feel that they are not abiding by what is posted, you should contact Swapalease Inc. by calling 1-866-SWAPNOW (1-866-792-7669) or emailing privacy@swapalease.com. 
 
 ### Information Collection and Use
 
@@ -30,11 +26,15 @@ Swapalease Inc. is the sole owner of the information collected on this site. We 
 
 General Perspective:
 
-It is not necessary for a user to register in order to browse the Swapalease Inc. Web Site; however, it is recommended so that the staff at Swapalease Inc. can keep users posted of new listings and special events. It will also allow personalization of the web site when the user returns in the future. 
+It is not necessary for a user to register in order to browse the Swapalease Inc. Web Site; however, it is recommended so that the staff at Swapalease Inc. can keep users posted of new inventory, site promotions, and special events. It will also allow personalization of the web site when the user returns in the future. 
 
 Lease "Seller's" Perspective:
 
-In order to list a leased vehicle on this website, a user must first complete the required listing sections. During registration a user is required to provide sensitive information (such as credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as zip code). This information is principally used for listing advertisement purposes and the collection of any listing fee due Swapalease Inc.. Secondarily, this data is used for contacting the user as well as making the sight more personalized for a particular user. 
+In order to advertise or list a vehicle on this website, a user must first complete the required listing sections. During registration a user is required to provide sensitive information (such as credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as zip code). This information is principally used for listing advertisement purposes and the collection of any listing fee due Swapalease Inc. Secondarily, Swapalease Inc. as well as potential buyers will utilize contact information for correspondence purposes. 
+
+Lease "Buyer's" Perspective:
+
+In order to register as buyer, a user must first complete the required buyer registration sections. During registration a user is required to provide sensitive information (such as credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as zip code). This information is principally used for the collection of any buyer registration fee due Swapalease Inc. Secondarily, Swapalease Inc. as well as potential sellers will utilize contact information for correspondence purposes. 
 
 ### Cookies
 
@@ -58,15 +58,13 @@ We will share aggregated demographic information with our partners and advertise
 
 We use an outside credit card processing company to bill users for services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. 
 
-For users completing the "Publisher Application", a 3rd party, Commission Junction Inc. is collecting user data and storing this information outside of the Swapalease website. 
-
 ### Links
 
 This web site contains links to other sites. Please be aware that Swapalease Inc. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 ### Surveys & Contests
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. If these surveys or contests are administered by a 3rd party, the information you provide will be given to the 3rd party. This information will not be used for marketing or contacting you outside of the Swapalease system by any 3rd parties. You may contact Swapalease at 1-866-SWAPNOW (1-866-792-7669) if you do not wish to have your information given to 3rd parties. 
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. If these surveys or contests are administered by a 3rd party, the information you provide will be given to the 3rd party and the 3rd party’s privacy policy will apply. 
 
 ### Security
 
@@ -86,7 +84,7 @@ For example, to determine if our customers qualify (meet generally accepted leas
 
 ### Special Offers
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, and special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, and special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. 
 
 ### Site and Service Updates
 
@@ -100,7 +98,7 @@ We will retain your information for as long as your account is active or as need
 
 ### Choice/Opt-out
 
-Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive our memorandums or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@swapalease.com](mailto:support@swapalease.com). 
+Our users are notified of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive memorandums or promotional materials from our partners may opt-out of receiving these communications by contacting that partner directly. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
@@ -108,7 +106,7 @@ Users of our site are always notified when their information is being collected 
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Swapalease Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@swapalease.com](mailto:support@swapalease.com) to request that we remove this information from our database. 
+Your friend may contact us at support@swapalease.com to request that we remove this information from our database. 
 
 ### Swapalease Inc. Blog
 
@@ -116,7 +114,7 @@ If you use the Swapalease Inc. Blog on this Web site, you should be aware than a
 
 ### Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on our Homepage 30 days prior to making the changes so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we decide to change our privacy policy, we will notate the date of the last update at the top of this page. Users will be responsible for understanding any changes made including changes relating to how we use personally identifiable information in a manner different from that stated at the time it was collected. 
 
 ### Legal Disclaimer
 
