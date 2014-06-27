@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the designmodo.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219180117id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designmodo.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627030321id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta charset="UTF-8">
+        <meta charset="UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMGVFZWGwEIU1JaDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -11,45 +11,57 @@
         <link rel="shortcut icon" href="http://designmodo.com/favicon.ico">
         <title>Privacy Statement - Designmodo</title>
 
+
+
                 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.21 - http://yoast.com/wordpress/seo/ -->
-<meta name="description" content="Last Updated: August 2013 Table of Contents Introduction Collection and Use of Information Choice Sharing of Information Access Security Data Integrity Chi">
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.22 - http://yoast.com/wordpress/seo/ -->
 <link rel="canonical" href="http://designmodo.com/privacy-statement/">
-<link rel="publisher" href="https://www.google.com/+DesignModo">
+<link rel="publisher" href="https://www.google.com/+Designmodo">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Statement - Designmodo">
-<meta property="og:description" content="Last Updated: August 2013 Table of Contents Introduction Collection and Use of Information Choice Sharing of Information Access Security Data Integrity Chi">
+<meta property="og:description" content="Last Updated: August 2013 Table of Contents Introduction Collection and Use of Information Choice Sharing of Information Access Security Data Integrity Children Links to Other Websites Controlling Unsolicited Email Amendments Enforcement, Dispute Resolution, and Verification Contact Information Introduction Designmodo.com (“Designmodo Inc.”) values the privacy and security of the information that you share with us. This …">
 <meta property="og:url" content="http://designmodo.com/privacy-statement/">
 <meta property="og:site_name" content="Designmodo">
 <meta property="article:publisher" content="https://www.facebook.com/designmodo">
 <meta property="article:published_time" content="2011-12-08T22:15:13+00:00">
-<meta property="article:modified_time" content="2013-08-29T21:30:24+00:00">
-<meta property="fb:app_id" content="368289576549864">
+<meta property="article:modified_time" content="2014-01-23T11:41:43+00:00">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@designmodo">
 <meta name="twitter:domain" content="Designmodo">
 <meta name="twitter:creator" content="@designmodo">
 <!-- / Yoast WordPress SEO plugin. -->
 
-<link rel="stylesheet" id="sffotckCSS-css" href="http://designmodo.com/wp-content/plugins/subscribe_to_unlock/css/sffotck2.css?ver=3.8" type="text/css" media="all">
+<link rel="stylesheet" id="sffotckCSS-css" href="http://designmodo.com/wp-content/plugins/subscribe_to_unlock/css/sffotck2.css?ver=3.9.1" type="text/css" media="all">
 <link rel="stylesheet" id="dm_fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans|Varela+Round|Montserrat:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="dm_style-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="dm_banner_css-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/css/banner-flatui.css" type="text/css" media="all">
-<link rel="stylesheet" id="affiliates-css" href="http://designmodo.com/wp-content/plugins/affiliates-pro/css/affiliates.css?ver=2.4.4" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+<link rel="stylesheet" id="dm_style-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/style.css?t=1403838203" type="text/css" media="all">
+<link rel="stylesheet" id="dm_banner_css-css" href="http://designmodo.com/wp-content/themes/designmodov2.1/css/banner-sf.css" type="text/css" media="all">
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/mobile-nav.js?ver=1.0"></script>
 <script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/modernizr.custom.79881.js"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/common.js?t=1387476077"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-includes/js/comment-reply.min.js?ver=3.8"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/banner-flatui.js?ver=1.0"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/synmedia-woocommerce-rewards/assets/js/jquery.swr.base.js?ver=1.0"></script>
-<meta name="generator" content="WordPress 3.8">
+<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/common.js?t=1403838203"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/js/banner-sf.js?ver=1.0"></script>
 
 
-<!-- WooCommerce Version -->
-<meta name="generator" content="WooCommerce 2.0.20">
+        <!-- BuySellAds.com Ad Code -->
+        <script type="text/javascript">
+        (function(){
+          var bsa = document.createElement('script');
+              bsa.type= 'text/javascript';
+              bsa.async = true;
+              bsa.src='//s3.buysellads.com/ac/bsa.js';
+          (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+        })();
+        </script><script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script>
+        <!-- END BuySellAds.com Ad Code --> 
+      
+<!-- Comment Rating plugin Version: 3.1.6 by Bob King, http://wealthynetizen.com/, dynamic comment voting & styling. --> 
+<style type="text/css" media="screen">
+   .ckrating_highly_rated {background-color:#FFFFFF !important;}
+   .ckrating_poorly_rated {opacity:0.6;filter:alpha(opacity=60) !important;}
+   .ckrating_hotly_debated {background-color:#FFFFFF !important;}
+</style>
 
 <style type="text/css" id="syntaxhighlighteranchor"></style>
         <!-- Place this tag after the last share tag. -->
@@ -67,13 +79,24 @@
             })();
         </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6008491092813&amp;value=0&amp;currency=USD" /></noscript>
-<link type="text/css" rel="stylesheet" href="http://images.dmca.com/badges/dmca.css?ID=e4da61dc-6d57-4588-a701-a53419f71fa6"><script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var cvc_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
+"http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+cvc_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
 
 
-<body>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+
+<body class=" ">
     <div class="header-banner banner-hidden">
+	<section class="bannerVideo"><div class="bannerBackground" id="bannerVideo"></div></section>
     <p>
-        <a href="http://designmodo.com/flat/" class="banner-flat-text">Flat UI Pro</a>
+        <a href="http://designmodo.com/startup/" class="banner-sf-text">Startup Framework</a>
         <a href="#" class="banner-close">Close</a>
     </p>
 </div>
@@ -83,8 +106,34 @@
     <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1020193733/?value=0&amp;label=gOX-CJv94gQQxde75gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-
-    <div id="upper-menu-mobile">
+<script>
+  jQuery(document).ready(function() {
+    var videobackground = new jQuery.backgroundVideo(jQuery('#bannerVideo'), {
+      "align": "centerXY",
+      "width": 480,
+      "height": 32,
+	  "path": "https://s3.amazonaws.com/Startup-Framework/",
+      "filename": "topbanner",
+      "types": ["mp4", "ogg", "webm"]
+    });
+	
+	setTimeout(function(){
+		jQuery('.header-banner p').css('opacity',1);
+	},1500);
+	
+	
+	setTimeout(function(){
+		jQuery('.header-banner').addClass('imagebg');
+	},10000);
+	
+	setTimeout(function(){
+		jQuery('#bannerVideo').fadeOut(2000, 'linear', function(){
+			jQuery('#video_background').get(0).pause();
+		});
+	},15000);
+  });
+</script>
+<script type="text/javascript" src="http://designmodo.com/wp-content/themes/designmodov2.1/custom-pages/startup/presentation/js/jquery.backgroundvideo.mod.js"></script>    <div id="upper-menu-mobile">
         <div id="page-menu-wrapper">
             <ul class="main no-js" style="border:none;box-shadow:none;">
                 <li class="submenu-item">
@@ -125,28 +174,28 @@
                     <div class="dropdown-menu follow">
                         <ul class="social">
                             <li>
-                                <a href="http://feeds.feedburner.com/designmodo" target="_blank" title="Subscribe by RSS" class="rss"><span aria-hidden="true" class="icn_rss"></span>RSS</a>
+                                <a href="http://feeds.feedburner.com/designmodo" title="" class="rss" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_rss"></span>RSS</a>
                             </li>	  
                             <li>
-                                <a href="http://www.twitter.com/designmodo" target="_blank" title="Follow us on Twitter" class="twitter"><span aria-hidden="true" class="icn_twitter"></span>Twitter</a>
+                                <a href="http://www.twitter.com/designmodo" title="" class="twitter" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_twitter"></span>Twitter</a>
                             </li>
                             <li>
-                                <a href="http://www.facebook.com/designmodo" target="_blank" title="Join us on Facebook" class="facebook"><span aria-hidden="true" class="icn_facebook"></span>Facebook</a>
+                                <a href="http://www.facebook.com/designmodo" title="" class="facebook" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_facebook"></span>Facebook</a>
                             </li>
                             <li>
-                                <a href="https://www.google.com/+DesignModo" target="_blank" title="Google+" class="googleplus"><span aria-hidden="true" class="icn_googleplus"></span>Google+</a>
+                                <a href="https://www.google.com/+DesignModo" title="" class="googleplus" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_googleplus"></span>Google+</a>
                             </li>
                             <li>
-                                <a href="http://dribbble.com/designmodo" target="_blank" title="Follow us on Dribbble" class="dribbble"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
+                                <a href="http://dribbble.com/designmodo" title="" class="dribbble" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
                             </li>
                         </ul>
-                        <div class="counter">338683 Subscribers &amp; Followers</div>
+                        <div class="counter">353433 Subscribers &amp; Followers</div>
                     </div>
                 </li>
 
                  
                     <li>
-                        <a href="http://designmodo.com/my-account/" class="top-menu profile">
+                        <a href="https://designmodo.com/my-account/" class="top-menu profile">
                             <span aria-hidden="true" class="icn_profile"></span>
                         </a>
                                     </li>
@@ -158,8 +207,8 @@
         <div id="page-menu-wrapper">
             <ul class="main left no-js">
                 <li><a href="http://designmodo.com" class="top-menu home"><span aria-hidden="true" class="icn_logo"></span></a></li>
-                <li class="submenu-item">
-                    <a href="javascript:void(0)" class="top-menu">
+                <li class="submenu-item mobile-class">
+                    <a href="#" class="top-menu">
                         Categories
                     </a>
                     <div class="dropdown-menu categories">
@@ -175,7 +224,7 @@
                 </li>
                 <li><a href="http://designmodo.com/shop/" class="top-menu shop">Shop</a></li>
 
-                <li>
+                <li class="mobile-class">
                     <div class="top-menu search">
                         <span class="label">Search<span class="cursor"></span></span>
                         <div class="formsearch">
@@ -191,33 +240,33 @@
                 </li>
             </ul>
             <ul style="float:right; right:-1px; position:relative;" class="main right no-js">
-                <li class="submenu-item">
-                    <a href="javascript:void(0)" class="top-menu">Follow us</a>
+                <li class="submenu-item mobile-class">
+                    <a href="#" class="top-menu">Follow us</a>
 
                     <div class="dropdown-menu follow">
                         <ul class="social">
                             <li>
-                                <a href="http://feeds.feedburner.com/designmodo" target="_blank" title="Subscribe by RSS" class="rss"><span aria-hidden="true" class="icn_rss"></span>RSS</a>
+                                <a href="http://feeds.feedburner.com/designmodo" title="" class="rss" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_rss"></span>RSS</a>
                             </li>	  
                             <li>
-                                <a href="http://www.twitter.com/designmodo" target="_blank" title="Follow us on Twitter" class="twitter"><span aria-hidden="true" class="icn_twitter"></span>Twitter</a>
+                                <a href="http://www.twitter.com/designmodo" title="" class="twitter" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_twitter"></span>Twitter</a>
                             </li>
                             <li>
-                                <a href="http://www.facebook.com/designmodo" target="_blank" title="Join us on Facebook" class="facebook"><span aria-hidden="true" class="icn_facebook"></span>Facebook</a>
+                                <a href="http://www.facebook.com/designmodo" title="" class="facebook" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_facebook"></span>Facebook</a>
                             </li>
                             <li>
-                                <a href="https://www.google.com/+DesignModo" target="_blank" title="Google+" class="googleplus"><span aria-hidden="true" class="icn_googleplus"></span>Google+</a>
+                                <a href="https://www.google.com/+DesignModo" title="" class="googleplus" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_googleplus"></span>Google+</a>
                             </li>
                             <li>
-                                <a href="http://dribbble.com/designmodo" target="_blank" title="Follow us on Dribbble" class="dribbble"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
+                                <a href="http://dribbble.com/designmodo" title="" class="dribbble" rel="nofollow" target="_blank"><span aria-hidden="true" class="icn_dribbble"></span>Dribbble</a>
                             </li>
                         </ul>
-                        <div class="counter">338683 Subscribers &amp; Followers</div>
+                        <div class="counter">353433 Subscribers &amp; Followers</div>
                     </div>
                 </li>
 
-                <li class="submenu-item">
-                                                <a href="http://designmodo.com/my-account/" class="top-menu profile">
+                <li class="submenu-item mobile-class">
+                                                <a href="https://designmodo.com/my-account/" class="top-menu profile">
                                                             <label>Sign In</label>
                         </a>
                                         </li>
@@ -227,7 +276,7 @@
 
     <div id="header-wrapper">
         <div id="logo">
-            <a class="main-logo" href="http://designmodo.com" title="Designmodo – Web Design and Development Magazine"></a>
+            <a class="main-logo" href="http://designmodo.com" title="Designmodo – Web Design Blog and Shop"></a>
         </div><!--end logo-->
 
         	
@@ -278,6 +327,7 @@
 <li>measuring, improving, and customizing our services; and</li>
 <li>fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.</li>
 </ul>
+<p>We reserve the right to use your company name and logo for marketing purposes if you post to the Designmodo website or use Designmodo products. If you see your name or logo on our website, you can opt out by writing to the team at Designmodo.</p>
 <p>Designmodo Inc. may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
 <h2>Community Information</h2>
 <p>Designmodo Inc. collects information from you to post entries to our community website or forums. Such information may include your email address, Internet Protocol address, user name, date and time of signup, and date and time of posts to the forum.</p>
@@ -295,7 +345,7 @@
 <p>Designmodo Inc. also uses information gathered from logs, cookies, and web beacons to monitor website performance; improve website design, functionality, and security; and assemble web analytics and activity trends.&nbsp;Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.</p>
 <p>You may stop your browser from accepting cookies or web beacons. The Help portion of your browser should explain how to configure your browser’s cookie handling. Your browser may have add-ons that may help you block web beacons. You may have limited functionality if you block cookies or web beacons set by our website.</p>
 <h2>Google Analytics</h2>
-<p>Designmodo Inc. uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help&nbsp;Designmodo Inc analyze how users use the site. You may find Google’s Privacy Policy at <a href="http://www.google.com/intl/en/privacypolicy.html">http://www.google.com/intl/en/privacypolicy.html</a>.</p>
+<p>Designmodo Inc. uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help&nbsp;Designmodo Inc analyze how users use the site. You may find Google’s Privacy Policy at <a href="http://www.google.com/intl/en/privacypolicy.html" rel="nofollow" title="" target="_blank">http://www.google.com/intl/en/privacypolicy.html</a>.</p>
 <h2>Choice</h2>
 <p>We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to Designmodo Inc., in which case we will be unable to provide services to you.</p>
 <h2>Sharing of Information</h2>
@@ -356,7 +406,7 @@ Designmodo Inc.</p>
     <ul class="shop-container">
         <li>
             <a href="http://designmodo.com/startup/">
-                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2013/12/Startup-Framework-Shop.jpg&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
+                <img src="http://designmodo.com/wp-content/themes/designmodov2.1/libraries/classes/timthumb.php?src=http://designmodo.com/wp-content/uploads/2013/10/Startup-Framework-Shop.jpg&amp;w=220&amp;h730&amp;zc=1&amp;q=90">
                 <span>DESIGN FRAMEWORK</span>
                 <strong>Startup Framework</strong>
                 <big>$249</big>
@@ -394,7 +444,7 @@ Designmodo Inc.</p>
 
     <h3 class="sidebar-h3">Newsletter</h3>
     <div class="newsletter-wrapper">
-    <p>Sign up for our newsletter to receive periodic articles, updates, freebies and premium items; every month.</p>
+    <p>Get our products/news earlier than others, let’s get in touch.</p>
     <form action="http://designmodo.us4.list-manage.com/subscribe/post?u=d7b5474e1bff23f08409d4ba9&amp;id=a2ae53acc1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
         <input class="subscribe-input" type="text" name="EMAIL" id="mce-EMAIL" placeholder="Enter your email address" size="47"><button type="submit" class="subscribenow"><span class="go">Go</span><span class="subscribe"> Subscribe </span></button>
     </form>
@@ -414,7 +464,7 @@ Designmodo Inc.</p>
             <!-- End BuySellAds.com Zone Code -->
             <div style="clear:both;"></div>
         </div>
-        <div class="advertwithus"><a href="http://buysellads.com/buy/detail/40472" target="_blank">- Advertise With Us -</a></div>
+        <div class="advertwithus"><a href="http://buysellads.com/buy/detail/40472" rel="nofollow" title="" target="_blank">- Advertise With Us -</a></div>
     </div>
 
     <div class="sidebar-divider"><div style="clear:both;"></div></div>
@@ -422,34 +472,34 @@ Designmodo Inc.</p>
     <h3 class="sidebar-h3">Popular Posts (Month)</h3>
         <ul class="popular-posts">
                     <li>
-                <h3><a href="http://designmodo.com/startup/" title="Startup Design Framework">Startup Design Framework</a></h3>
+                <h3><a href="http://designmodo.com/wordpress-social-media-widget/" title="How To Build a Social Media Profile Widget in WordPress">How To Build a Social Media Profile Widget in WordPress</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/login-forms-websites-apps/" title="Beautiful Examples of Login Forms for Websites and Apps">Beautiful Examples of Login Forms for Websites and Apps</a></h3>
+                <h3><a href="http://designmodo.com/web-design-project/" title="How to Start a Web Design Project [Infographic]">How to Start a Web Design Project [Infographic]</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/perspective-app-mockups/" title="Free PSD Perspective App Mockups">Free PSD Perspective App Mockups</a></h3>
+                <h3><a href="http://designmodo.com/vertical-rhythm/" title="Create Vertical Rhythm on Your Webpage">Create Vertical Rhythm on Your Webpage</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/free-photoshop-scripts/" title="Collection of Useful and Free Photoshop Scripts">Collection of Useful and Free Photoshop Scripts</a></h3>
+                <h3><a href="http://designmodo.com/create-online-portfolio/" title="Tips for Creating a Great Personal Online Portfolio">Tips for Creating a Great Personal Online Portfolio</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/black-friday-2013/" title="Black Friday on Designmodo! All Items Up To 40% OFF!">Black Friday on Designmodo! All Items Up To 40% OFF!</a></h3>
+                <h3><a href="http://designmodo.com/wordpress-contact-form/" title="How To Build a WordPress Contact Form">How To Build a WordPress Contact Form</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/misalignment-asymmetry-design/" title="Misalignment and Asymmetry in Web Design">Misalignment and Asymmetry in Web Design</a></h3>
+                <h3><a href="http://designmodo.com/augmented-reality-ux/" title="Challenges and Opportunities of UX in Augmented Reality">Challenges and Opportunities of UX in Augmented Reality</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/square-blocks-design/" title="Using Square Blocks in Web Design">Using Square Blocks in Web Design</a></h3>
+                <h3><a href="http://designmodo.com/optimizing-online-forms/" title="Optimizing the Usability of Online Forms">Optimizing the Usability of Online Forms</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/dark-mobile-apps/" title="An Air of Sophistication and Mystery Gorgeous Dark Mobile App Interfaces">An Air of Sophistication and Mystery Gorgeous Dark Mobile App Interfaces</a></h3>
+                <h3><a href="http://designmodo.com/startup-framework-rails/" title="Startup Framework on Rails">Startup Framework on Rails</a></h3>
             </li>
                     <li>
-                <h3><a href="http://designmodo.com/flat-illustrations/" title="Websites Featuring Flat Illustrations – Best Examples">Websites Featuring Flat Illustrations – Best Examples</a></h3>
+                <h3><a href="http://designmodo.com/predict-design-trends/" title="How to Predict Web Design Trends">How to Predict Web Design Trends</a></h3>
             </li>
                     <li>
-                <h3><a href="http://journal.designmodo.com/post/68370708764/third-sneak-peek-of-startup-design-framework-final" title="Third Sneak-Peek of Startup Design Framework: Final">Third Sneak-Peek of Startup Design Framework: Final</a></h3>
+                <h3><a href="http://designmodo.com/websites-login/" title="5 Ways to Enhance Your Website Login Process">5 Ways to Enhance Your Website Login Process</a></h3>
             </li>
             </ul>
     
@@ -460,34 +510,34 @@ Designmodo Inc.</p>
         <h3 class="sidebar-h3">Latest Tutorials</h3>
             <ul class="popular-posts">
                     <li>
+                <h3><a href="http://designmodo.com/svg-infographic/" class="popular-title" title="Creating a Scalable SVG Infographic">Creating a Scalable SVG Infographic</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/customize-startup-framework/" class="popular-title" title="How to Customize a Website with Startup Framework">How to Customize a Website with Startup Framework</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/create-splash-screen/" class="popular-title" title="How to Create a Splash Screen Illustration">How to Create a Splash Screen Illustration</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/generator-tutorial/" class="popular-title" title="Tutorial: Make a Landing Page Using Generator">Tutorial: Make a Landing Page Using Generator</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/create-app-icon-illustrator/" class="popular-title" title="How to Create an App Icon in Adobe Illustrator">How to Create an App Icon in Adobe Illustrator</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/less-startup-framework/" class="popular-title" title="Transfer CSS to LESS when Building a Website with Startup Framework">Transfer CSS to LESS when Building a Website with Startup Framework</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/use-blocks-startup-framework/" class="popular-title" title="Build a Website using Blocks of Startup Design Framework">Build a Website using Blocks of Startup Design Framework</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/flat-ui-tutorial-jquery-mailbox/" class="popular-title" title="Flat UI Pro Tutorial: How To Use jQuery to Add Functionality to a Custom Mailbox">Flat UI Pro Tutorial: How To Use jQuery to Add Functionality to a Custom Mailbox</a></h3>
+            </li>
+                    <li>
+                <h3><a href="http://designmodo.com/flat-ui-tutorial-less-mailbox/" class="popular-title" title="Flat UI Pro Tutorial: How To Use LESS in the Creation of a Custom Mailbox">Flat UI Pro Tutorial: How To Use LESS in the Creation of a Custom Mailbox</a></h3>
+            </li>
+                    <li>
                 <h3><a href="http://designmodo.com/flat-ui-tutorial-less-sign-in-form/" class="popular-title" title="Flat UI Pro Tutorial: How To Use LESS to Create a Sign-In Form">Flat UI Pro Tutorial: How To Use LESS to Create a Sign-In Form</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-ui-tutorial-less-sidebar-navigation/" class="popular-title" title="Flat UI Pro Tutorial: How To Use LESS in the Creation Sidebar Navigation">Flat UI Pro Tutorial: How To Use LESS in the Creation Sidebar Navigation</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-ui-tutorial-less-menu/" class="popular-title" title="Flat UI Pro Tutorial: How To Use LESS in the Creation of a Horizontal Menu">Flat UI Pro Tutorial: How To Use LESS in the Creation of a Horizontal Menu</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-ui-tutorial-less/" class="popular-title" title="Flat UI Pro Tutorial: Setting and Compiling Using LESS">Flat UI Pro Tutorial: Setting and Compiling Using LESS</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/responsive-website-flat-ui-pro-1/" class="popular-title" title="How to Make a Single Page Responsive Website with Flat UI Pro">How to Make a Single Page Responsive Website with Flat UI Pro</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/gradient-mesh-illustrator/" class="popular-title" title="How to Control Gradient Mesh in Illustrator">How to Control Gradient Mesh in Illustrator</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-combo-box-square-ui-2/" class="popular-title" title="How to Make a Flat Styled jQuery UI Combo Box Widget (Part 2)">How to Make a Flat Styled jQuery UI Combo Box Widget (Part 2)</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-combo-box-square-ui-1/" class="popular-title" title="How to Create Flat Styled Combo Box with Square UI (Part 1)">How to Create Flat Styled Combo Box with Square UI (Part 1)</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/google-maps-jquery-flat-ui/" class="popular-title" title="How to Make Custom Flat Styled Google Maps with jQuery and Flat UI">How to Make Custom Flat Styled Google Maps with jQuery and Flat UI</a></h3>
-            </li>
-                    <li>
-                <h3><a href="http://designmodo.com/flat-web-design-tutorial/" class="popular-title" title="Create a Website Flat Design in Photoshop using Flat UI (Video Tutorial)">Create a Website Flat Design in Photoshop using Flat UI (Video Tutorial)</a></h3>
             </li>
             </ul>
         </div>
@@ -505,35 +555,16 @@ Designmodo Inc.</p>
 <li id="menu-item-89605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89605"><a href="http://designmodo.com/affiliates/">Affiliates</a></li>
 <li id="menu-item-98791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98791"><a href="http://designmodo.com/subscribe/">Newsletter</a></li>
 <li id="menu-item-89207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89207"><a href="http://designmodo.com/about/">About</a></li>
-<li id="menu-item-102718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102718"><a href="http://journal.designmodo.com/">Journal</a></li>
+<li id="menu-item-102718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102718"><a href="http://journal.designmodo.com/" rel="nofollow" title="" target="_blank">Journal</a></li>
 <li id="menu-item-89209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89209"><a href="http://designmodo.com/contact-us/">Contact Us</a></li>
 </ul></div>
     <ul id="footer-container-right">
-        <li class="copyright">Copyright © 2013  <a href="http://designmodo.com/" class="on" title="DesignModo">Designmodo</a>. All Rights Reserved.</li>
-        <li class="copyright"><script type="text/javascript">(function() {
-                var c = document.createElement('link');
-                c.type = 'text/css';
-                c.rel = 'stylesheet';
-                c.href = 'http://images.dmca.com/badges/dmca.css?ID=e4da61dc-6d57-4588-a701-a53419f71fa6';
-                var h = document.getElementsByTagName("head")[0];
-                h.appendChild(c);
-            })();</script><div><a href="http://www.dmca.com/Protection/Status.aspx?ID=e4da61dc-6d57-4588-a701-a53419f71fa6" title="DMCA">DMCA Protected</a> • <a href="http://www.mediatemple.net/" target="_blank" title="MediaTemple">Hosted by MediaTemple</a></div></li>
+        <li class="copyright">Copyright © 2014  <a href="http://designmodo.com/" class="on" title="DesignModo">Designmodo</a>. All Rights Reserved.</li>
+        <li class="copyright">Designmodo is a popular web design blog and shop.</li>
     </ul>
 </div>
 
 
-        <!-- BuySellAds.com Ad Code -->
-        <script type="text/javascript">
-        (function(){
-          var bsa = document.createElement('script');
-              bsa.type= 'text/javascript';
-              bsa.async = true;
-              bsa.src='//s3.buysellads.com/ac/bsa.js';
-          (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
-        })();
-        </script>
-        <!-- END BuySellAds.com Ad Code --> 
-      
 	<script type="text/javascript">jQuery(document).ready(function(){
             
             if((jQuery.browser.msie && parseInt(jQuery.browser.version, 10) == 7) || (jQuery.browser.msie && parseInt(jQuery.browser.version, 10) == 8)) {
@@ -547,7 +578,7 @@ Designmodo Inc.</p>
             jQuery("#sffotck-sub-form").submit(function() {
                 var requestUrl = "http://designmodo.com/wp-content/plugins/subscribe_to_unlock/inc/submit.php";
                 /*if(jQuery("input[name=sffotck_session]").val() == 'true') {
-                    requestUrl += '?'+PHPSESSID+'='+78gk07j1dc183n3imdu2j94l23;
+                    requestUrl += '?'+PHPSESSID+'='+dno6897bhooutnaha6mdcr4qr7;
                 }*/
                 var a=jQuery(this),e=a.serialize(),d=a.children(".replaceArea-error");
                 d.html("");
@@ -666,56 +697,40 @@ Designmodo Inc.</p>
 	
 <script type="text/javascript">
 
-			var _gaq = _gaq || [];
-			_gaq.push(
-				['_setAccount', 'UA-19972760-2'], 
-				['_setCustomVar', 1, 'logged-in', 'no', 1],
-				['_trackPageview']
-			);
+				var _gaq = _gaq || [];
+				_gaq.push(
+					['_setAccount', 'UA-19972760-2'], 
+					['_setCustomVar', 1, 'logged-in', 'no', 1],
+					['_trackPageview']
+				);
 
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
 
-		</script>	<div id="use_my_rewards_container" style="display:none;"></div>
-	<script type="text/javascript">
-		var use_my_rewards_location = "before";
-		jQuery(function($){
-			switch(use_my_rewards_location){
-				case 'before':
-				default:
-					if($("#order_review_heading").length > 0){
-						$("#order_review_heading").before($(".swr_use_rewards"));
-					}else if($("#customer_details").length > 0){
-						$("#customer_details").after($(".swr_use_rewards"));
-					}else{
-						$("form.checkout").prepend($(".swr_use_rewards"));
-					}
-					break;
-				case 'top':
-					$("form.checkout").prepend($(".swr_use_rewards"));
-					break;
-			}
-			$("#use_my_rewards_container").remove();
-		});
-	</script>
-	<link rel="stylesheet" id="woocommercebulkdiscount-style-css" href="http://designmodo.com/wp-content/plugins/woocommerce-bulk-discount/css/style.css?ver=3.8" type="text/css" media="all">
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/comment-rating/ck-karma.js?ver=3.8"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.20"></script>
+			</script><link rel="stylesheet" id="woocommercebulkdiscount-style-css" href="http://designmodo.com/wp-content/plugins/woocommerce-bulk-discount/css/style.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="wc_free_gift_style-css" href="http://designmodo.com/wp-content/plugins/woocommerce-free-gift/assets/css/style.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/comment-rating-pro/ck-karma.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://designmodo.com/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/designmodo.com\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/designmodo.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"4fd51a195b","apply_coupon_nonce":"95a296d12e","option_guest_checkout":"no","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"90ca803da7","cart_url":"http:\/\/designmodo.com\/cart\/","cart_redirect_after_add":"yes"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/designmodo.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.20"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
-<script type="text/javascript" src="http://designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.0.20"></script>
-<!-- WooCommerce JavaScript-->
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.1.11"></script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
 <script type="text/javascript">
-jQuery(document).ready(function($) {
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//designmodo.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.1.11"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) {
 
 			$('.add_to_cart_button:not(.product_type_variable, .product_type_grouped)').click(function() {
 				_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
@@ -723,6 +738,7 @@ jQuery(document).ready(function($) {
 		
 });
 </script>
+
 
 <script type="text/javascript">
     adroll_adv_id = "4YFTPKQFYVEINIJ33MGDQK";
@@ -743,8 +759,14 @@ jQuery(document).ready(function($) {
             }
         };
     }());
+
+    (function() {
+        var cachebust = (Math.random() + "").substr(2);
+        var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';
+        new Image().src = protocol + "//20552817p.rfihub.com/ca.gif?rb=8723&ca=20552817&ra=" + cachebust;
+    })();
 </script>
 
 
-
-</body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"adfc5d7048","applicationID":"2873894","transactionName":"b1RbY0cEDBZQVxAMDFYeeFRBDA0LHkQFAgY=","queueTime":0,"applicationTime":296,"ttGuid":"","agentToken":"","atts":"QxNYFQ8eHxg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
