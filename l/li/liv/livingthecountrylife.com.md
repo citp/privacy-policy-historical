@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229221501id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030936id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
