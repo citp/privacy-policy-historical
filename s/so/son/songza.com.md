@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the songza.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022155id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songza.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013255id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Songza
 
-For information not covered below, please see the [Terms of Service](https://web.archive.org/page/tos/). 
+For information not covered below, please see the [Terms of Service](https://web.archive.org/page/terms/). 
 
 ## Information We Collect
 
