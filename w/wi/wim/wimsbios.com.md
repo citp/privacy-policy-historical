@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816112355id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627075606id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
 
-# Wim's BIOS Page Privacy Statement
+# Privacy policy - Wim's BIOS
 
 Wim's BIOS Page, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users.
 
@@ -20,21 +20,19 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the forum at <http://www.wimsbios.com/forum> and going to the 'User Control Panel'
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the forum at <http://www.wimsbios.com/forum/> and going to the 'User Control Panel'
 
 Our forum is in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act) - if you're under 13 years of age we require a written confirmation (via email) from an adult before your account becomes active.
 
-Wim's BIOS Page uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp)
+Wim's BIOS Page uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/)
 
-**Wim's BIOS Page works with the following 3rd party advertisers that serve ads to this site.  **
+#### 3rd party advertisers
 
-  * Infolinks is an In Text advertising service which creates links within the Wim's BIOS content. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. [Click here to opt-out from Infolinks Double Underline Link Ads](http://www.infolinks.com/opt-out.html?pid=34141&wsid=0)
-  * To find out more about how InfoLinks manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.infolinks.com/privacy.html>
-  * To find out more about how ValueClick Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://valueclickmedia.com/member_privacy.shtml>. 
-  * To find out more about how Advertising.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.advertising.com/abt_privacy.php>
+Wim's BIOS Page works with the following 3rd party advertisers that serve ads to this site. 
+
+  * Infolinks is an In Text advertising service which creates links within the Wim's BIOS content. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. [Click here to opt-out from Infolinks Double Underline Link Ads](http://www.infolinks.com/learn-more-about-infolinks?pid=34141&wsid=0)
+  * To find out more about how InfoLinks manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.infolinks.com/privacy-policy>
   * To find out more about how Google.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.google.com/adsense>
-  * To find out more about how Mamma Media Solutions manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.mammainc.com/corporate/privacy.html>
-  * To find out more about how Burst manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.burstmedia.com](http://www.burstmedia.com/)
 
 
 
@@ -55,10 +53,10 @@ By using our site, you consent to our privacy policy. If we decide to change our
 If there are any questions regarding this privacy policy you may contact us at:
 
   * Email: [wb@wimsbios.com](mailto:wb@wimsbios.com)
-  * Address: Wim Bervoets - Blijde Inkomststraat 113 - 3000 Leuven - Belgium
+  * Address: Wim Bervoets - Kaulillerweg 10 - 3990 Grote Brogel - Belgium
 
 
 
-##  Still need help? Enter your keywords here! 
+## Need help? Ask your question here!
 
-( **Examples:** how to update your BIOS, how to identify your motherboard) 
+( **Examples:** how to update your BIOS, how to identify your motherboard)
