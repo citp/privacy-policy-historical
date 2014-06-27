@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005035id_/http%3A//www.surveymonkey.com/mp/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132450id_/http%3A//www.surveymonkey.com/mp/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SurveyMonkey
 
@@ -15,7 +15,7 @@ This privacy policy applies to all the products, services and websites offered b
 
 **European Safe Harbors.** SurveyMonkey Inc. complies with the [US-EU and US-Swiss Safe Harbor Frameworks](http://www.export.gov/safeharbor/) developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland. We have certified, and TRUSTe has verified, that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. View our certification on the U.S. Department of Commerce's [Safe Harbor website](https://safeharbor.export.gov/list.aspx).
 
-**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301, USA, or [electronically through this form](https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/). You may [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) if feel your question has not been satisfactorily addressed.
+**Questions?** For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at 101 Lytton Avenue, Palo Alto, CA 94301, USA, or [electronically through this form](https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/). You may [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) if feel your question has not been satisfactorily addressed.
 
 ## Key Privacy Points: The Stuff You Really Care About
 
