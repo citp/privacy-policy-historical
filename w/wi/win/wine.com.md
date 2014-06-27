@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205065438id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627151831id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
@@ -118,7 +118,7 @@ If you have any questions about the security at our website, you can send an ema
 
 ## Sale of Our Company
 
-As a natural consequence of the development of our company, we could be sold to another company. In the event that another company acquires us or a significant portion of our assets is sold to another company, all customer data including financial records and consumer information collected on Wine.com may be transferred to the new company. You will be notified via of any such change in ownership or control of your personally identifiable .
+As a natural consequence of the development of our company, we could be sold to another company. In the event that another company acquires us or a significant portion of our assets is sold to another company, all customer data including financial records and consumer information collected on Wine.com may be transferred to the new company. You will be notified via of any such change in ownership or control of your personally identifiable information.
 
 ## Changes in this Privacy Statement
 
