@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mydeals.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103133128id_/http%3A//www.mydeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeals.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627144003id_/http%3A//www.mydeals.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyDeals
+
+This Privacy Policy governs the manner in which MyDeals collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.mydeals.com](https://www.mydeals.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by MyDeals. 
 
 ### Personal identification information
 
@@ -18,10 +20,10 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 MyDeals may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently. 
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * _\- To improve our Site_ We may use feedback you provide to improve our products and services. 
-  * _\- To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+  * _To improve customer service_ Information you provide helps us respond to your customer service requests and support needs more efficiently. 
+  * _To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _To improve our Site_ We may use feedback you provide to improve our products and services. 
+  * _To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 
 
@@ -49,13 +51,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-> MyDeals  
->  Mindwork Labs  
->  Floor 2, The Clove Building  
->  Butlers Wharf  
->  London  
->  SE1 2NQ 
+MyDeals  
+Floor 2, The Clove Building  
+Butlers Wharf  
+London  
+SE1 2NQ 
 
-or email us at hello@mindworklabs.com
+or email us at hello@mydeals.com
 
 #### This document was last updated on August 05, 2013
