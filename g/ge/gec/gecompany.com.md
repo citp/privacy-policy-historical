@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gecompany.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609101742id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gecompany.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030641id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GE.com
+# GE Privacy Policy | Privacy Statement | GE
 
-Last Updated May 25, 2012
+Last Updated April 4, 2014
 
 ##  Web Privacy Policy 
 
@@ -18,7 +18,7 @@ This website is not directed to children under the age of thirteen and we do not
 
 #### Use of Cookies and Similar Technologies
 
-ike most companies we use cookies on our websites. We collect certain aggregate and non-personal information through a variety of technologies when you visit this website. Aggregate and non-personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors. Unless you disable such technologies, by using our website and online services, you agree that we can place these types of cookies and related technologies on your device. We explain below how you can manage your choices and opt-out of the collection of such aggregate information.
+Like most companies we use cookies on our websites. We collect certain aggregate and non-personal information through a variety of technologies when you visit this website. Aggregate and non-personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors. Unless you disable such technologies, by using our website and online services, you agree that we can place these types of cookies and related technologies on your device. We explain below how you can manage your choices and opt-out of the collection of such aggregate information.
 
   * Essential Cookies  
 Some cookies serve an essential function and the websites cannot work properly without them. Where such essential cookies are used, they cannot be disabled.
@@ -56,7 +56,7 @@ We do not sell or otherwise disclose personal information about our website visi
 
 #### Transmission
 
-We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. 
+We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. GE has entered into Binding Corporate Rules governing our treatment of personal information of European Union residents. For further information about GE’s Binding Corporate Rules, please click [here](https://web.archive.org/bcr).
 
 ### How We Protect Your Information
 
@@ -80,7 +80,7 @@ We provide links to other web sites for your convenience and information. These 
 
 ### California Privacy Rights
 
-Annually California residents may request and obtain information that GE shared with other businesses for their own direct marketing use within the prior calendar year (as defined by California’s “Shine the Light Law”). If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which GE shared this information in the immediately preceding calendar year. To obtain this information, please send an email message to [ CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line as well as in the body of your message. We will then respond to that email address with the requested information.
+Annually California residents may request and obtain information that GE shared with other businesses for their own direct marketing use within the prior calendar year (as defined by California’s “Shine the Light Law”). If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which GE shared this information in the immediately preceding calendar year. To obtain this information, please send an email message to [CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line as well as in the body of your message. We will then respond to that email address with the requested information.
 
 ##  Mobile Privacy Policy 
 
