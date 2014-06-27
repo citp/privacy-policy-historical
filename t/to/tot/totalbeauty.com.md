@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015115609id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbeauty.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015114id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for TotalBeauty.com
+# Privacy Policy
 
 **TOTAL BEAUTY MEDIA, INC. PRIVACY POLICY**
 
@@ -59,11 +59,11 @@ We may share personal or other information we have collected about you or your a
 
      **Personal information**
 
-We do not share your personal information with others except as indicated below or when we inform you and give you the opportunity to opt out of having your personal information shared (see below “Controlling Your Personal Information”). 
+We do not share your personal information with others except as indicated below or when we inform you and give you the opportunity to opt out of having your personal information shared (see below �Controlling Your Personal Information�). 
 
 We may share your personal information in connection with sharing, selling or licensing your product reviews to third parties. Your first name and last initial, profile photo, and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their web sites in connection with such third parties' publication of your reviews. 
 
-We may share your information with our beauty brand partners (“Brand Partners”) in the course of your purchase of their Vouchers to help them process your redemption of their Vouchers. Any such redemption subjects the information provided to the participating Brand Partner to its privacy policy, and NOT this Privacy Policy. This may result in certain of our Brand Partners marketing to you directly. We do not have any responsibility for the actions of our Brand Partners nor do we have any liability to you for their actions.
+We may share your information with our beauty brand partners (�Brand Partners�) in the course of your purchase of their Vouchers to help them process your redemption of their Vouchers. Any such redemption subjects the information provided to the participating Brand Partner to its privacy policy, and NOT this Privacy Policy. This may result in certain of our Brand Partners marketing to you directly. We do not have any responsibility for the actions of our Brand Partners nor do we have any liability to you for their actions.
 
 Total Beauty may share your information with third party businesses for their online marketing purposes; but we do not disclose your personal information to any such third parties that may want to offer you their own products and services unless you have requested or authorized us to do so.
 
@@ -146,7 +146,7 @@ We may provide this information in a standardized format that is not specific to
 
 Last updated on March 15, 2012. 
 
-© 2008 - 2013 Total Beauty Media, Inc. All rights reserved.
+© 2008 - {$smarty.now|date_format:"%Y"} Total Beauty Media, Inc. All rights reserved.
 
 Interest Based Advertising Information and Opt-out 
 
