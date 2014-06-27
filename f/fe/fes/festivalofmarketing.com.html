@@ -1,25 +1,17 @@
-<!--The following is the downloaded HTML source of the festivalofmarketing.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231090313id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the festivalofmarketing.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628013319id_/https%3A//econsultancy.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-GB" style="" class=" js no-touch placeholder"><head><script src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RWW23"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-    <meta charset="utf-8">
+<!DOCTYPE html><html lang="en-GB" style="" class=" js no-touch hashchange history rgba backgroundsize boxshadow opacity cssanimations csstransforms csstransitions fontface localstorage placeholder"><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RWW23"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<meta charset="utf-8">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="zOce7bj7UeHCegYZaOnzXa89+jA2Wc/BeOTXU4bP6MI=" name="csrf-token">
+<meta content="tv2uz39zy/lnh2Ju/DtkO2oaqhyaSd+bLv2qDQxnkf8=" name="csrf-token">
 <title>Privacy Policy | Econsultancy</title>
-
-
-
-<link href="http://cdn.econsultancy.com/assets/favicon-1c07a07d204520c8155febba5027d81a.png" rel="icon" type="image/png">
-<link href="http://cdn.econsultancy.com/assets/v3/screen-023a198f6ccbbe4ca499d8cb08f80c6a.css" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="http://cdn.econsultancy.com/assets/v3/print-19814ce045f0f6ac98b741544b97ce53.css" media="print" rel="stylesheet" type="text/css">
-
+<link href="/assets/favicon-1c07a07d204520c8155febba5027d81a.png" rel="icon" type="image/png">
+<link href="/assets/legacy/v3/screen-96cf3c41434e8e9f65e169125eef5fa9.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/assets/legacy/v3/print-f93d2fed4deb8924da95ace00bf370b7.css" media="print" rel="stylesheet" type="text/css">
 <!--[if lt IE 8]>
-  <link href="http://cdn.econsultancy.com/assets/v3/ie7-62e8254caf88d0941df9d1a88f9fd0ff.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/assets/legacy/v3/ie7-205598780dab9da6b29a153db92bd0b6.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-
-
-
-
 <script type="text/javascript">
 //<![CDATA[
 
@@ -29,15 +21,46 @@
 
 //]]>
 </script>
-  <script>
-  var _rollbarParams = {"server.environment": "production"};
-  _rollbarParams["notifier.snippet_version"] = "2"; var _rollbar=["ece3c3f7b56a461087e9f4085fe8fbd0", _rollbarParams]; var _ratchet=_rollbar;
-  (function(w,d){w.onerror=function(e,u,l){_rollbar.push({_t:'uncaught',e:e,u:u,l:l});};var i=function(){var s=d.createElement("script");var
-  f=d.getElementsByTagName("script")[0];s.src="//d37gvrvc0wt4s1.cloudfront.net/js/1/rollbar.min.js";s.async=!0;
-  f.parentNode.insertBefore(s,f);};if(w.addEventListener){w.addEventListener("load",i,!1);}else{w.attachEvent("onload",i);}})(window,document);
-  </script>
+ 
+<script type="text/javascript">
+    var _trackJs = {
+      customer: 'ca9bd3180f5840148dea99f61154531a',
+      sessionId: 'production',
+      userId: '',
+      ignore: [
+        // Our front-end ad
+        /Have an opinion on our code/g,
 
-  <script type="text/javascript">
+        // Bug in chromium
+        // http://stackoverflow.com/questions/17876656/youtube-blocked-a-frame-with-origin-http-www-youtube-com-from-accessing-a-f
+        /Blocked a frame with origin \"https:\/\/www\.youtube\.com\"/g,
+
+        // This is a bookmarklet app and it's own internal error
+        /Spritzlet: unexpected origin: ,https:\/\/accounts.google.com/g,
+
+        // Error obscured by browser for security
+        // http://stackoverflow.com/questions/5913978/cryptic-script-error-reported-in-javascript-in-chrome-and-firefox
+        // These errors come from social widgets and tags served with Google Tag Manager, so scripts that we don't serve.
+        //
+        // If we ever serve scripts, they need to have correct CORS headers and the script tag needs a crossorigin="anonymous" attr, see here:
+        // http://blog.errorception.com/2012/12/catching-cross-domain-js-errors.html
+        /Script error/g,
+
+        // This seems to have to do with a specfic user and bombards trackJS with 100's of errors
+        // by the minute. We don't really have anything that would cause this, so this is probably
+        // a browser bug (happens in Firefox 30, current at the time of this comment).
+        /uncaught exception: out of memory/g,
+
+        // This error happens when an external script could not be loaded or did not finish loading correctly.
+        // It happens for example when a user navigates away from a page before the script is loaded.
+        // As such it happens a lot and we can do little about it, relying more on observing the state
+        // of the functionality they are supposed to provide.
+        /Error loading script/g
+      ]
+    };
+  </script>
+<script src="/assets/trackjs/tracker-21f3b5b747d090f2837c5e98139f6508.js" type="text/javascript"></script>
+<script type="text/javascript">
 //<![CDATA[
 
     var googletag = googletag || {};
@@ -55,37 +78,28 @@
 
 //]]>
 </script>
-
 <script type="text/javascript">
 //<![CDATA[
 
-;window.Modernizr=function(a,b,c){function x(a){j.cssText=a}function y(a,b){return x(n.join(a+";")+(b||""))}function z(a,b){return typeof a===b}function A(a,b){return!!~(""+a).indexOf(b)}function B(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:z(f,"function")?f.bind(d||b):f}return!1}function C(){e.input=function(c){for(var d=0,e=c.length;d<e;d++)q[c[d]]=c[d]in k;return q.list&&(q.list=!!b.createElement("datalist")&&!!a.HTMLDataListElement),q}("autocomplete autofocus list placeholder max min multiple pattern required step".split(" ")),e.inputtypes=function(a){for(var d=0,e,f,h,i=a.length;d<i;d++)k.setAttribute("type",f=a[d]),e=k.type!=="text",e&&(k.value=l,k.style.cssText="position:absolute;visibility:hidden;",/^range$/.test(f)&&k.style.WebkitAppearance!==c?(g.appendChild(k),h=b.defaultView,e=h.getComputedStyle&&h.getComputedStyle(k,null).WebkitAppearance!=="textfield"&&k.offsetHeight!==0,g.removeChild(k)):/^(search|tel)$/.test(f)||(/^(url|email)$/.test(f)?e=k.checkValidity&&k.checkValidity()===!1:e=k.value!=l)),p[a[d]]=!!e;return p}("search tel url email datetime date month week time datetime-local number range color".split(" "))}var d="2.6.2",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k=b.createElement("input"),l=":)",m={}.toString,n=" -webkit- -moz- -o- -ms- ".split(" "),o={},p={},q={},r=[],s=r.slice,t,u=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},v={}.hasOwnProperty,w;!z(v,"undefined")&&!z(v.call,"undefined")?w=function(a,b){return v.call(a,b)}:w=function(a,b){return b in a&&z(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=s.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(s.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(s.call(arguments)))};return e}),o.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:u(["@media (",n.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c};for(var D in o)w(o,D)&&(t=D.toLowerCase(),e[t]=o[D](),r.push((e[t]?"":"no-")+t));return e.input||C(),e.addTest=function(a,b){if(typeof a=="object")for(var d in a)w(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},x(""),i=k=null,e._version=d,e._prefixes=n,e.testStyles=u,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+r.join(" "):""),e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))},Modernizr.addTest("placeholder",function(){return"placeholder"in(Modernizr.input||document.createElement("input"))&&"placeholder"in(Modernizr.textarea||document.createElement("textarea"))});
+;window.Modernizr=function(a,b,c){function B(a){j.cssText=a}function C(a,b){return B(n.join(a+";")+(b||""))}function D(a,b){return typeof a===b}function E(a,b){return!!~(""+a).indexOf(b)}function F(a,b){for(var d in a){var e=a[d];if(!E(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function G(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:D(f,"function")?f.bind(d||b):f}return!1}function H(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+p.join(d+" ")+d).split(" ");return D(b,"string")||D(b,"undefined")?F(e,b):(e=(a+" "+q.join(d+" ")+d).split(" "),G(e,b,c))}function I(){e.input=function(c){for(var d=0,e=c.length;d<e;d++)t[c[d]]=c[d]in k;return t.list&&(t.list=!!b.createElement("datalist")&&!!a.HTMLDataListElement),t}("autocomplete autofocus list placeholder max min multiple pattern required step".split(" ")),e.inputtypes=function(a){for(var d=0,e,f,h,i=a.length;d<i;d++)k.setAttribute("type",f=a[d]),e=k.type!=="text",e&&(k.value=l,k.style.cssText="position:absolute;visibility:hidden;",/^range$/.test(f)&&k.style.WebkitAppearance!==c?(g.appendChild(k),h=b.defaultView,e=h.getComputedStyle&&h.getComputedStyle(k,null).WebkitAppearance!=="textfield"&&k.offsetHeight!==0,g.removeChild(k)):/^(search|tel)$/.test(f)||(/^(url|email)$/.test(f)?e=k.checkValidity&&k.checkValidity()===!1:e=k.value!=l)),s[a[d]]=!!e;return s}("search tel url email datetime date month week time datetime-local number range color".split(" "))}var d="2.7.1",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k=b.createElement("input"),l=":)",m={}.toString,n=" -webkit- -moz- -o- -ms- ".split(" "),o="Webkit Moz O ms",p=o.split(" "),q=o.toLowerCase().split(" "),r={},s={},t={},u=[],v=u.slice,w,x=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},y=function(){function d(d,e){e=e||b.createElement(a[d]||"div"),d="on"+d;var f=d in e;return f||(e.setAttribute||(e=b.createElement("div")),e.setAttribute&&e.removeAttribute&&(e.setAttribute(d,""),f=D(e[d],"function"),D(e[d],"undefined")||(e[d]=c),e.removeAttribute(d))),e=null,f}var a={select:"input",change:"input",submit:"form",reset:"form",error:"img",load:"img",abort:"img"};return d}(),z={}.hasOwnProperty,A;!D(z,"undefined")&&!D(z.call,"undefined")?A=function(a,b){return z.call(a,b)}:A=function(a,b){return b in a&&D(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=v.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(v.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(v.call(arguments)))};return e}),r.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:x(["@media (",n.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},r.hashchange=function(){return y("hashchange",a)&&(b.documentMode===c||b.documentMode>7)},r.history=function(){return!!a.history&&!!history.pushState},r.rgba=function(){return B("background-color:rgba(150,255,150,.5)"),E(j.backgroundColor,"rgba")},r.backgroundsize=function(){return H("backgroundSize")},r.boxshadow=function(){return H("boxShadow")},r.opacity=function(){return C("opacity:.55"),/^0.55$/.test(j.opacity)},r.cssanimations=function(){return H("animationName")},r.csstransforms=function(){return!!H("transform")},r.csstransitions=function(){return H("transition")},r.fontface=function(){var a;return x('@font-face {font-family:"font";src:url("https://")}',function(c,d){var e=b.getElementById("smodernizr"),f=e.sheet||e.styleSheet,g=f?f.cssRules&&f.cssRules[0]?f.cssRules[0].cssText:f.cssText||"":"";a=/src/i.test(g)&&g.indexOf(d.split(" ")[0])===0}),a},r.localstorage=function(){try{return localStorage.setItem(h,h),localStorage.removeItem(h),!0}catch(a){return!1}};for(var J in r)A(r,J)&&(w=J.toLowerCase(),e[w]=r[J](),u.push((e[w]?"":"no-")+w));return e.input||I(),e.addTest=function(a,b){if(typeof a=="object")for(var d in a)A(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},B(""),i=k=null,e._version=d,e._prefixes=n,e._domPrefixes=q,e._cssomPrefixes=p,e.hasEvent=y,e.testProp=function(a){return F([a])},e.testAllProps=H,e.testStyles=x,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+u.join(" "):""),e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))},Modernizr.addTest("placeholder",function(){return"placeholder"in(Modernizr.input||document.createElement("input"))&&"placeholder"in(Modernizr.textarea||document.createElement("textarea"))});
 
 //]]>
 </script>
-
-<script src="http://cdn.econsultancy.com/assets/application-0ba91d570790b452d80260637a2f2300.js" type="text/javascript"></script>
-
+<script src="/assets/application-6fd5da4888748866c7a7ffb384491d53.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
-  <script src="http://cdn.econsultancy.com/assets/ie/ie-dfb74ed7cfcfba6f7274bfdc21cbafa7.js" type="text/javascript"></script>
+  <script src="/assets/browser_specific/ie-2aec379437bb9d252b504b1590549d3a.js" type="text/javascript"></script>
 <![endif]-->
-
 <!--[if IE 7]>
-  <script src="http://cdn.econsultancy.com/assets/ie/ie7-a7f1a304f5ce878a23330e5128c71924.js" type="text/javascript"></script>
+  <script src="/assets/browser_specific/ie7-37463e0cc5cbbb4a80d22aa99f9f3bfb.js" type="text/javascript"></script>
 <![endif]-->
-
-
-
-<link href="http://cdn.econsultancy.com/assets/v1/screen-caaad3b8bcca877096da095b4726d855.css" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="http://cdn.econsultancy.com/assets/v1/print-ff807649410d3063f9a9f9c92244db9d.css" media="print" rel="stylesheet" type="text/css">
+<link href="/assets/legacy/v1/screen-cf7a3796d67852a1e6050babdb480ebf.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="/assets/legacy/v1/print-e6a08078da74826c027c239f77f04e37.css" media="print" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-  <link href="http://cdn.econsultancy.com/assets/v1/ie7-8add99e198c9e14f2ea7ae4deb0abe5c.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/assets/legacy/v1/ie7-8add99e198c9e14f2ea7ae4deb0abe5c.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-
-
-  </head>
-  <body>
-      <script type="text/javascript">
+</head>
+<body>
+<script type="text/javascript">
 //<![CDATA[
 
 
@@ -121,18 +135,27 @@
 
 //]]>
 </script>
-
-  <!-- Google Tag Manager -->
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RWW23"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RWW23" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-RWW23');</script>
-  <!-- End Google Tag Manager -->
-
-    <!--[if (gte IE 7) & (lte IE 8)]>
+ 
+ 
+<script type="text/javascript">
+    var ec = ec || {};
+    ec.vivocha = {};
+    ec.vivocha.agentsImg = "/assets/agents-37cda54ca9f25c9f3bf772070e241ebb.gif";
+    ec.vivocha.noAgentsImg = "/assets/noagents-22fd4ce30365929e57d7cdd407c52d36.gif";
+    ec.vivocha.servid = "f9eb552b33ebc7219f5dc6ed12ec0e56"
+  </script>
+<script src="/assets/modules/livechat_helper-d0d0c1f159c06216a36e52b27d764e31.js" type="text/javascript"></script>
+<div id="chat-wrapper" style="right:0px; bottom:0px; position: fixed; height: 104px; z-index: 99">
+<a href="/contact" id="livechat"><img alt="Live chat" src="/assets/noagents-22fd4ce30365929e57d7cdd407c52d36.gif"></a>
+</div>
+<!--[if (gte IE 7) & (lte IE 8)]>
   <noscript>
     <section class="warning-message">
       <div>
@@ -142,334 +165,257 @@
     </section>
   </noscript>
 <![endif]-->
-
-
-    <header class="short main">
-  <div id="main-navigation-container">
-    <a href="#content" class="noprint" id="skip-link">Skip to content</a>
-    <a href="/" id="logo">
-      <img alt="Econsultancy logo" height="150" src="http://cdn.econsultancy.com/assets/v3/logo-ecd68450e64131d3b73e2599ed4cf262.png" width="150">
-</a>    <nav>
-      <div id="cookie-policy-div">
-        <a href="/about/privacy#information_we_collect" id="cookie-policy-link">Privacy and cookie policy</a>
-      </div>
-      <ul id="login-logout">
-    <li id="account"><a href="/login">Log In</a></li>
-    <li><a href="/subscribe">Subscribe</a></li>
+<header class="short main">
+<div id="main-navigation-container">
+<a href="#content" class="noprint" id="skip-link">Skip to content</a>
+<a href="/" id="logo">
+<img alt="Econsultancy logo" height="150" src="/assets/v3/logo-ecd68450e64131d3b73e2599ed4cf262.png" width="150">
+</a> <nav>
+<div id="cookie-policy-div">
+<a href="/about/privacy#information_we_collect" id="cookie-policy-link">Privacy and cookie policy</a>
+</div>
+<ul id="login-logout">
+<li id="account"><a href="/login">Log In</a></li>
+<li><a href="/subscribe">Subscribe</a></li>
 </ul>
 <ul id="basket-contact">
-  <li id="basket"><a href="/basket">Basket</a></li>
-  <li id="contact"><a href="/contact">Contact Us</a></li>
-  <li id="icons">
-    <a href="/feeds"><img alt="Feeds" src="http://cdn.econsultancy.com/assets/v3/feeds-9ed83a08698c5a05927bfff329c62668.png"></a>
-    <a href="http://twitter.com/Econsultancy"><img alt="Twitter" src="http://cdn.econsultancy.com/assets/v3/twitter-667f8a4f731766bfcf4be19e66914d9b.png"></a>
-    <a href="http://www.facebook.com/Econsultancy"><img alt="Facebook" src="http://cdn.econsultancy.com/assets/v3/facebook-b6a2b581fb3b2c1a64e31bb7d81ed657.png"></a>
-    <a href="https://plus.google.com/104079255913915128656" rel="publisher"><img alt="Google+" src="http://cdn.econsultancy.com/assets/v3/google-plus-437c903df38585a67142d3a8a5c6e6d3.png"></a>
-  </li>
-  <li>
-    <form accept-charset="UTF-8" action="/search" id="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>      <input name="query" placeholder="i am looking for..." type="text">
-      <input alt="Search button" height="18" src="http://cdn.econsultancy.com/assets/v3/search-29b652142c0c335e0df9a32a5d8690b6.png" type="image" width="21">
-</form>  </li>
+<li id="basket"><a href="/basket">Basket</a></li>
+<li id="contact"><a href="/contact">Contact Us</a></li>
+<li id="icons">
+<a href="/feeds"><img alt="Feeds" src="/assets/v3/feeds-9ed83a08698c5a05927bfff329c62668.png"></a>
+<a href="http://twitter.com/Econsultancy"><img alt="Twitter" src="/assets/v3/twitter-667f8a4f731766bfcf4be19e66914d9b.png"></a>
+<a href="http://www.facebook.com/Econsultancy"><img alt="Facebook" src="/assets/v3/facebook-b6a2b581fb3b2c1a64e31bb7d81ed657.png"></a>
+<a href="https://plus.google.com/104079255913915128656" rel="publisher"><img alt="Google+" src="/assets/v3/google-plus-437c903df38585a67142d3a8a5c6e6d3.png"></a>
+</li>
+<li>
+<form accept-charset="UTF-8" action="/search" id="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div> <input name="query" placeholder="i am looking for..." type="text">
+<input alt="Search button" height="18" src="/assets/v3/search-29b652142c0c335e0df9a32a5d8690b6.png" type="image" width="21">
+</form> </li>
 </ul>
-
-        <ul class="navigation" id="menu"><li class="navigation__item "><a href="/subscribe">Subscribe</a></li><li class="navigation__item ">Browse by topic<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/topics/advertising">Advertising</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/content">Content</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/customer-experience">Customer Experience</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/data-analytics">Data &amp; Analytics</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/email-ecrm">Email &amp; eCRM</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/mobile">Mobile</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/search-marketing">Search Marketing</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/strategy-operations">Strategy &amp; Operations</a></li></ul></li><li class="navigation__item "><a href="/reports">Research</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/market-data">Market Data</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/statistics">Internet Statistics</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/surveys">Survey Reports</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/infographics">Infographics</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/templates">Template Files</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/digital-marketing-templates">Digital Marketing Templates</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/web-project-templates">Web Project Templates</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/rfps">Request For Proposals (RFPs)</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/business-cases">Business Cases</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/best-practice">Best Practice</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/best-practice-guides">Best Practice Guides</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/beginners-guides">Beginner's Guides</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/jump-magazine">JUMP Magazine</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/trends-innovation">Trends &amp; Innovation</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/innovation">Innovation Report</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/briefings">Trend Briefings</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/supplier-selection">Supplier Selection</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/buyers-guides">Buyer's Guides</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/presentations">Event Presentations</a></li></ul></li><li class="navigation__item "><a href="/training">Training</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/training/courses">Courses</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/masterclasses">Masterclasses</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/custom">Custom Training</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/digital-transformation">Digital Transformation</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/elearning">Elearning</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/team">Our Training Team</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/advice">Training Advice</a></li></ul></li><li class="navigation__item "><a href="/events">Events</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="http://festivalofmarketing.com/">Festival of Marketing</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/funnel">FUNNEL</a></li><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/jump">JUMP</a></li><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/punch">PUNCH</a></li><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/crunch">CRUNCH</a></li><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/digital-cream-fx">Digital Cream FX</a></li><li class="navigation__item navigation__item--level2 "><a href="http://festivalofmarketing.com/fringe">Fringe &amp; Social</a></li></ul></li><li class="navigation__item navigation__item--level1 ">Digital Cream<ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-london">Digital Cream London</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-melbourne">Digital Cream Melbourne</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-singapore">Digital Cream Singapore</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-hong-kong">Digital Cream Hong Kong</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-kuala-lumpur">Digital Cream Kuala Lumpur</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-sydney">Digital Cream Sydney</a></li></ul></li><li class="navigation__item navigation__item--level1 ">Future of Digital Marketing</li><li class="navigation__item navigation__item--level1 "><a href="http://imweek.org">IMW</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/conferences">Conferences</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/conferences/past">Past Conferences</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/events/social">Social Events</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/social/past">Past Social Events</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/events/roundtables">Roundtables</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/briefings">Briefings</a></li><li class="navigation__item navigation__item--level1 "><a href="http://thedigitalsawards.com">The Digitals</a></li></ul></li><li class="navigation__item "><a href="http://jobs.econsultancy.com">Jobs</a></li><li class="navigation__item "><a href="/blog">Blog</a></li><li class="navigation__item pop-left">More<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/about">About Econsultancy</a></li><li class="navigation__item navigation__item--level1 "><a href="/press-releases">Press Releases</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/directories/suppliers">Supplier Directory</a></li><li class="navigation__item navigation__item--level1 "><a href="/labs">Econsultancy Labs</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/labs/arachnid">Project Arachnid</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/nma-archive">NMA Archive</a></li></ul></li></ul>
-    </nav>
-  </div>
-
-  <nav id="breadcrumbs">
-    
-    <ul><li><a href="/">Home</a></li><li><a href="/about">About us</a></li><li><a href="/about/privacy">Privacy Policy</a></li></ul>
-  </nav>
-
+<ul class="navigation" id="menu"><li class="navigation__item "><a href="/subscribe">Subscribe</a></li><li class="navigation__item ">Channels<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/topics/advertising">Advertising</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/content">Content</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/customer-experience">Customer Experience</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/data-analytics">Data &amp; Analytics</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/email-ecrm">Email &amp; eCRM</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/mobile">Mobile</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/search-marketing">Search Marketing</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/topics/strategy-operations">Strategy &amp; Operations</a></li></ul></li><li class="navigation__item "><a href="/reports">Research</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/market-data">Data</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/statistics">Internet Statistics</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/surveys">Survey Reports</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/infographics">Infographics</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/templates">Template Files</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/digital-marketing-templates">Digital Marketing Templates</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/web-project-templates">Web Project Templates</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/rfps">Request For Proposals (RFPs)</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/business-cases">Business Cases</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/best-practice">Best Practice</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/best-practice-guides">Best Practice Guides</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/beginners-guides">Beginner's Guides</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/jump-magazine">JUMP Magazine</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/trends-innovation">Trends &amp; Innovation</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/innovation">Innovation Report</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/briefings">Trend Briefings</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/digital-shift">Digital Shift</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/supplier-selection">Supplier Selection</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/reports/buyers-guides">Buyer's Guides</a></li><li class="navigation__item navigation__item--level2 "><a href="/reports/top-100-digital-agencies">Top 100 Digital Agencies</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/reports/presentations">Event Presentations</a></li></ul></li><li class="navigation__item "><a href="/case-studies">Case Studies</a></li><li class="navigation__item "><a href="/blog">Blog</a></li><li class="navigation__item "><a href="/training">Training</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/training/courses">Courses</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/masterclasses">Masterclasses</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/custom">Custom Training</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/digital-transformation">Digital Transformation</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/elearning">Elearning</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/digital-skills-index-lite">Digital Skills Index</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/team">Our Training Team</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/advice">Training Advice</a></li></ul></li><li class="navigation__item "><a href="/events">Events</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="http://festivalofmarketing.com/">Festival of Marketing</a></li><li class="navigation__item navigation__item--level1 ">Digital Cream<ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-melbourne">Digital Cream Melbourne</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-sydney">Digital Cream Sydney</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-cream-singapore-2">Digital Cream Singapore</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/events/conferences">Conferences</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/digital-transformation-driven-by-the-customer">Digital Transformation: Driven by the customer (London)</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/digital-transformation-driven-by-the-customer-nyc">Digital Transformation: Driven by the customer (NYC)</a></li><li class="navigation__item navigation__item--level2 "><a href="/events/conferences/past">Past Conferences</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/events/social">Social Events</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/events/social/past">Past Social Events</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/events/roundtables">Roundtables</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/briefings">Briefings</a></li><li class="navigation__item navigation__item--level1 "><a href="http://thedigitalsawards.com">The Digitals</a></li></ul></li><li class="navigation__item "><a href="http://jobs.econsultancy.com">Jobs</a></li><li class="navigation__item pop-left">More<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/about">About Econsultancy</a></li><li class="navigation__item navigation__item--level1 "><a href="/press-releases">Press Releases</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/directories/suppliers">Supplier Directory</a></li><li class="navigation__item navigation__item--level1 "><a href="/labs">Econsultancy Labs</a><ul class="navigation__level2"><li class="navigation__item navigation__item--level2 "><a href="/labs/arachnid">Project Arachnid</a></li></ul></li><li class="navigation__item navigation__item--level1 "><a href="/nma-archive">NMA Archive</a></li></ul></li></ul>
+</nav></div>
+<nav id="breadcrumbs">
+<ul class=""><li><a href="/">Home</a></li><li><a href="/about">About us</a></li><li><a href="/about/privacy">Privacy Policy</a></li></ul>
+</nav>
 </header>
-
-    <div id="fb-root"></div>
-
-    <div class="standard-with-sidebar container pages_about_privacy" id="content">
-        
-  
-
-
-      <div class="content-section v1-section">
-        
-        <div id="titlearea">
-          
-          <h1>Privacy Policy</h1>
-</div>        <div id="bodyarea">
-          <div class="article-body">
-            
+<div id="fb-root"></div>
+<div class="standard-with-sidebar container pages_about_privacy" id="content">
+<div class="content-section v1-section">
+<div id="titlearea">
+<h1>Privacy Policy</h1>
+</div> <div id="bodyarea">
+<div class="article-body">
 <h2>Overview</h2>
-
-<p><strong>Effective: 28th May 2012</strong></p>
-
+<p><strong>Effective: 16 May 2014</strong></p>
 <p>
-  <a href="//privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014" class="truste" target="_blank" title="TRUSTe online privacy certification">
-  <img alt="TRUSTe online privacy certification" src="http://cdn.econsultancy.com/assets/truste-seal-fdbb699534b383aacd84a704176e5a13.jpg">
-</a>
-  Econsultancy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="//www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, econsultancy.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +44 (0)20 7269 1450.  If you are not satisfied with our response you can contact <a href="//watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.
+This privacy policy applies to http://econsultancy.com owned and operated by E-consultancy.com Limited (“Econsultancy”). This privacy policy describes how Econsultancy collects and uses the personal information you provide on our web site: <a href="//econsultancy.com">https://econsultancy.com</a>. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 </p>
-
-<p>This document discloses the data protection and privacy practices for Econsultancy including:</p>
-
-<ul>
-  <li>What personally identifiable information of yours is collected</li>
-  <li>What organization is collecting the information</li>
-  <li>How the information is used</li>
-  <li>With whom the information may be shared</li>
-  <li>What choices are available to you regarding collection, use and distribution of the information</li>
-  <li>What kind of security procedures are in place to protect the loss, misuse or alteration of information under Econsultancy's control</li>
-  <li>How you can correct any inaccuracies in the information.</li>
-</ul>
-
-<p>Questions regarding this privacy policy should be directed to Econsultancy via our <a href="/contact">contact form</a>.</p>
-
-<h2>Table of Contents</h2>
-
-<ol>
-  <li><a href="#under_18s">Under 18s</a></li>
-  <li><a href="#information_we_collect">Information We Collect</a></li>
-  <li><a href="#our_use_of_your_information">Our Use of Your Information</a></li>
-  <li><a href="#email_communications">Email Communications</a></li>
-  <li><a href="#our_disclosure_of_your_information">Our Disclosure of Your Information</a></li>
-  <li><a href="#control_of_your_password">Control of Your Password</a></li>
-  <li><a href="#reviewing_and_changing_your_personally_identifiable_information">Reviewing and Changing Your Personally Identifiable Information</a></li>
-  <li><a href="#other_information_collectors">Other Information Collectors</a></li>
-  <li><a href="#security">Security</a></li>
-  <li><a href="#changes_to_privacy_policy">Changes to Privacy Policy</a></li>
-  <li><a href="#downloadable_software_disclaimer">Downloadable Software Disclaimer</a></li>
-  <li><a href="#mailing_address">Mailing Address</a></li>
-</ol>
-
-<h2 id="under_18s">1. Under 18s</h2>
-
-<p>Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.</p>
-
-<h2 id="information_we_collect">2. Information We Collect</h2>
-
-<p>Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.</p>
-
-<p>To fully use our services, you will need to join as a Member, where you will be required to provide us with your contact information and some other information relating to your professional employment. We automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve our users.</p>
-
-<p>We use a web analytics tool to analyse site usage, how our users arrive at our site, what they do on the site, what browser they are using and on what operating system etc. However, this analytics data, collected via a JavaScript tag in the pages of our site, is not tied to personally identifiable information.</p>
-
-<p><strong>Cookies.</strong> We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit <a href="http://www.aboutcookies.org">http://www.aboutcookies.org</a> for detailed guidance.</p>
-
-<p>The following tables describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Econsultancy cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
-  </p><table class="cookie-info-breakdown">
-    <colgroup>
-      <col class="column-1">
-      <col class="column-2">
-    </colgroup>
-    <thead>
-      <tr>
-        <th colspan="2">"Session" Cookies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>We use a <strong>session cookie</strong> to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.</td>
-        <td>More information on session cookies and what they are used for at <a href="http://www.allaboutcookies.org/cookies/session-cookies-used-for.html">http://www.allaboutcookies.org/cookies/session-cookies-used-for.html</a></td>
-      </tr>
-    </tbody>
-  </table>
-  <table class="cookie-info-breakdown">
-    <colgroup>
-      <col class="column-1">
-      <col class="column-2">
-    </colgroup>
-    <thead>
-      <tr>
-        <th colspan="2">Persistent Cookies for Site Analytics and Performance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>We use some <strong>persistent cookies</strong> to enhance the relevancy of information displayed on the site. User data is anonymous.</td>
-        <td>More information about persistent cookies and what they are used for at <a href="http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html">http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html</a></td>
-      </tr>
-      <tr>
-        <td><strong>Google AdSense</strong> – this cookie is used by Google to report to us how the adverts shown on Econsultancy.com are performing. User data is all anonymous.</td>
-        <td>You can find out more generally about Google and its policies and principles as regards advertising at <a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a></td>
-      </tr>
-      <tr class="even">
-        <td><strong>DoubleClick (Google)</strong> – this is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on Econsultancy’s site. User data is anonymous.</td>
-        <td>As above, you can find out more generally about Google and its policies and principles as regards advertising at <a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a></td>
-      </tr>
-      <tr>
-        <td><strong>Google Analytics</strong> – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous.</td>
-        <td>You can find out more about Google’s position on privacy as regards its analytics service at  <a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html">http://www.google.co.uk/intl/en/analytics/privacyoverview.html</a></td>
-      </tr>
-      <tr class="even">
-        <td><strong>Kampyle</strong> – this is tool for us to capture user feedback. You should be able to see the red triangle in the bottom right hand corner of the website. User data is all anonymous unless you give your name in any feedback.</td>
-        <td>You can find out more about Kampyle on their site at <a href="http://www.kampyle.com/">http://www.kampyle.com/</a></td>
-      </tr>
-      <tr class="even">
-        <td><strong>New Relic</strong> – this service helps us understand the speed and technical performance of our site so we can monitor and improve it. User data is all anonymous.</td>
-        <td>You can find out more about what New Relic do on their site at <a href="http://newrelic.com/">http://newrelic.com/</a></td>
-      </tr>
-      <tr>
-        <td><strong>LifecycleMAGIQ</strong> – this tool allows us to provide more relevant and timely communications to site users by capturing information about how they use Econsultancy's site.</td>
-        <td>You can find out more information about LifecycleMAGIQ, information the tool collects and data protection and security details on their site at <a href="http://www.magiq.com/resources/magiqprivacy.aspx">http://www.magiq.com/resources/magiqprivacy.aspx</a></td>
-      </tr>
-      <tr class="even">
-        <td><strong>Adobe SiteCatalyst</strong> – collects anonymous data regarding website visits, usage, content interactions and user journey. It is being used by <a href="http://www.centaur.co.uk/">Centaur Media Plc</a> to understand our audience and develop our products accordingly.</td>
-        <td>You can find out more about Adobe's position on privacy as regards its analytics service at  <a href="http://www.adobe.com/uk/privacy/analytics.html">http://www.adobe.com/uk/privacy/analytics.html</a></td>
-      </tr>
-    </tbody>
-  </table>
-<p></p>
-
-<p><strong>Web beacons.</strong> Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</p>
-
-<p><strong>Social buttons.</strong> On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, and LinkedIn ‘Share’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.</p>
-
-<p><strong>External web services.</strong> We use a number of external web services on the Econsultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.</p>
-
-<p><strong>Email tracking.</strong> Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of Econsultancy’s emails which you can do via Your Account.</p>
-
-<p><strong>Surveys &amp; Contests.</strong> From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on the Econsultancy web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name and organization. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.</p>
-
-<p><strong>Payment Processing.</strong> In order to process payments online we require the billing address for the credit card used and our external payment provider, <a href="http://www.datacash.com/">DataCash</a>, requires your credit card details. For details of how this information is used, please see <a href="#our_use_of_your_information">Section 3</a> below.</p>
-
-<p><strong>Supplier Profile.</strong> We have a <a href="/directories/suppliers">Supplier Directory</a> which contains profiles of suppliers, agencies, vendors, consultancies and freelancers offering service or products related to digital marketing and ecommerce. If you represent such a Supplier you can set up a basic profile for free when you join Econsultancy. The information we collect for the Supplier Profile comes from two sources. Firstly, it is the information that you give when you join as a Member, or the information you subsequently update via the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>". We require a minimum amount of information for each supplier profile so that it is useful for users of the directory. We also offer a "Full Profile" which allows you to add further information but this is a paid-for service. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user has chosen to contribute anonymously.</p>
-
-<p><strong>Blog Comments.</strong> In order to leave a comment in our <a href="/blog">Blog</a> you either have to be a logged in Member or you have to give us at least your Name and Email address. You can choose whether to post as yourself, or anonymously. We require name and email address even for anonymous posts for quality control purposes.</p>
-
-<h2 id="our_use_of_your_information">3. Our Use of Your Information</h2>
-
-<p>We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.</p>
-
-<p>We use your email address to send you newsletters or other communications (for example, content notifications) that you have requested from the Site. Out of respect for our users we offer an opt-out (see <a href="#email_communications">Section 4</a> below).</p>
-
-<p>We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our <a href="/about/terms">Terms &amp; Conditions</a>. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.</p>
-
-<p><strong>Payment Processing.</strong> We take online payments for our services (compulsory for payments below £395 excluding VAT). We use <a href="http://www.datacash.com/">DataCash</a> as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process renewals or so you can pay again with the same card more easily. We also use the billing details in case we need to contact you regarding payments e.g. for an outstanding invoice or failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on a secure DataCash server and data passing between Econsultancy servers and DataCash are encrypted using SSL (Secure Sockets Layer). We only store reference details of the most recent card that you have used to purchase on our site, not multiple card details.</p>
-
-<p>Your Personal Information is stored in our databases. Please note that the information you enter will be transferred outside the European Economic Area to the United States of America where it will be stored for the purposes of processing by Econsultancy or any of its affiliates including subcontractors. By submitting your information, you consent to this transfer.</p>
-
-<p>Econsultancy complies with the UK Data Protection Act 1998 and is registered with the Data Protection Registrar number Z4942204.</p>
-
-<p><strong>Supplier Directory.</strong> Our <a href="/directories/suppliers">Supplier Directory</a> is to help users find a suitable digital marketing or ecommerce agency, vendor, consultancy, supplier or freelancer. We use your supplier profile details, and the contributions to the site of the individuals on any subscription which has a supplier profile, to build a supplier profile which we publish in our Supplier Directory as described in more detail in <a href="#our_disclosure_of_your_information">Section 5</a> below.</p>
-
-<h2 id="email_communications">4. Email Communications</h2>
-
-<p>As part of the registration process for joining as an Econsultancy user you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "<a href="/account/contact">Contact Settings</a>" section under "<a href="/account">Your Account</a>". You can define what emails you receive from the site (if any) and save your settings.</p>
-
-<h2 id="our_disclosure_of_your_information">5. Our Disclosure of Your Information</h2>
-
-<p>We do not sell or rent any personally identifiable information about you to any third party.</p>
-
-<p>Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.</p>
-
-<p>By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorise us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, Intellectual Property Rights infringements, or other activity that is illegal or may expose us to legal liability.</p>
-
-<p><strong>Advertisers.</strong> We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. There are some cases where we do pass on your personal details, however we only do this if you explicitly agree to this, typically by checking an opt-in checkbox where the default position will be that you do not agree to your details being passed on. For example, where we have events such as Supplier Showcases you may choose to opt-in, at the time of registering for the event, to allow your details to be passed on to those presenting.</p>
-
-<p><strong>Visibility of your information on the Site.</strong> Following are details of how your information is visible across the site depending on the site section and what you are doing:</p>
-
-<ul>
-  <li><strong>Blog Comments.</strong> If you post a comment to our <a href="/blog">Blog</a> then, by default, your name (first name, last name) will be published against your post as well as your job position and company name, based on your profile information. Your name will also then be a link to your full Member Profile. If you have chosen not to publish your profile in our User Directory then there will be no such link. At the point of posting you can choose to "Post as Anonymous" in which case your contribution will appear as "Anonymous" and there will be no link to your profile.</li>
-  <li><strong>Press Releases, Event and Training bookings.</strong> The details published to the site are those included in the press release itself. We record and keep the details of who has posted what and show these against the individual's profile (see Member and Supplier Directory sections below for details) and for administration purposes. We do not publish personal details of users who have booked particular events or training. However, as non-personally identifiable information, we do occasionally publish job titles and company names of those booked to attend a particular event.</li>
-  <li><strong>Supplier Directory Profile.</strong> The information that is shown on your supplier profile comes from two sources. Firstly, it is the information that you give when you join and, via the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>", you can edit and update these details. We require a minimum amount of information for each supplier profile so that it is useful for users of the <a href="/directories/suppliers">Supplier Directory</a>. We also offer a "Full Profile" which allows you to add further information but this is a paid for service. Unlike the user profile, which can be disabled, a supplier profile is automatically enabled if you give the required information. You cannot then disable your supplier profile completely except by contacting Econsultancy. You should be aware that any information you publish on your supplier profile is visible to everyone and anyone, not just other Econsultancy Members, and may appear in search engines and elsewhere on the internet. For example, we cannot prevent others trying to contact you if you publish contact information. Furthermore, you should be aware that, once published, just because you subsequently update your supplier profile information it does not mean that it will be updated everywhere across the internet, as it may already exist elsewhere, for example in the cache of search engines. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user chose to contribute anonymously. These links are generated automatically and cannot be edited or removed by you. If you do not want them to show then you should not create a supplier profile.</li>
-</ul>
-
-<p><strong>Payment and Credit Card Details.</strong> As explained above, we store a unique reference against your card details which allows us to process renewals automatically (unless you have turned renewals off, or your card fails) and also allows you to easily pay further sums due with the card you last paid with. We only store such reference details for the last card you paid with. Your card number is displayed to you on screen, and to Econsultancy admin staff, with only the last four digits visible. The first twelve digits are hidden so that other users, including Econsultancy staff, cannot see your full card details. None of your card details, or billing details, are published on the site in any way, nor are they visible to other users on your subscription.</p>
-
-<p><strong>Your Account.</strong> Registered Users and Small Business level subscriptions only have one user per subscription. Small Business Multi-user, or higher level subscriptions permit multiple users per subscriptiopn. Any user on the same subscription can add or remove any other user to that subscription, and use up the benefits of the subscriptions, so care should be taken in only adding trusted users to a subscription. Within a subscription all users can see who else is part of their subscription; we also show a history of who has invited whom, or removed whom, from the subscription so there is transparency and an audit trail with details of users added or removed from the subscription. Name, job title and company name are shown to the other registered users who can also see any details you have published in your user profile by clicking on your name. All users on the same subscription can see what research has been purchased on behalf of the subscription (as all users on that subscription can then download them), as well as what press releases have been posted by users on the subscription. Blog comments from users on the same subscription will also be shown, except where the individual user posted them anonymously. Bookings for events (including training) are also shared across a subscription so that users on a particular subscription can see who of their colleagues are attending what events. However, credit card details and invoices exist, and are visible, only at the individual user level: you cannot see the card details (even partially hidden as explained earlier) of another user, or his or her transaction history, even if he or she is on the same subscription as you.</p>
-
-<p><strong>Legal Requests.</strong> Econsultancy cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.</p>
-
-<p><strong>Suppliers and Other Service Providers.</strong> From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.</p>
-
-<h2 id="control_of_your_password">6. Control of Your Password</h2>
-
-<p>Except as specifically permitted by this section, you may not disclose your Econsultancy password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>".</p>
-
-<p>You may, however, disclose your password to certain third parties with whom Econsultancy has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to the Econsultancy services.</p>
-
-<p>If you wish to change your password you can do so at any time through the "<a href="/account/profile/edit">Your Profile</a>" section within the "<a href="/account">Your Account</a>" section of the site.</p>
-
-<h2 id="reviewing_and_changing_your_personally_identifiable_information">7. Reviewing and Changing Your Personally Identifiable Information</h2>
-
-<p>You can at any time review, delete or change the information you submitted during registration by visiting the "<a href="/account/profile/edit">Your Profile</a>" section within the "<a href="/account">Your Account</a>" section of the site.</p>
-
-<p>You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our message areas or the feedback area.</p>
-
-<p>You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Econsultancy if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our <a href="/about/terms">Terms &amp; Conditions</a>. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.</p>
-
-<h2 id="other_information_collectors">8. Other Information Collectors</h2>
-
-<p>Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other registered users of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.</p>
-
-<h2 id="security">9. Security</h2>
-
-<p>In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to communicate with <a href="http://www.datacash.com/">DataCash</a>, our payment provider.</p>
-
-<p>On the Econsultancy site we use best endeavour to safeguard the confidentiality of your personally identifiable information but we do not use encryption (such as SSL) or firewalls to further protect the information as it travels across the Internet. This is because we do not believe that, apart from the credit card information processed by DataCash, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.</p>
-
-<h2 id="changes_to_privacy_policy">10. Changes to Privacy Policy</h2>
-
-<p>If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site. It is up to you whether you then continue to use the site and Econsultancy's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using Econsultancy's site and services and contact us, as per <a href="#reviewing_and_changing_your_personally_identifiable_information">Section 7</a> above, should you wish to have any of your details removed.</p>
-
-<h2 id="downloadable_software_disclaimer">11. Downloadable Software Disclaimer</h2>
-
-<p>The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
-
-<h3 id="mailing_address">12. Mailing Address</h3>
-
-<table>
-  <tbody><tr>
-    <td>Telephone</td>
-    <td>+1 212 971-0630</td>
-  </tr>
-  <tr>
-    <td>Office address</td>
-    <td>350 7th Avenue<br>Ste. 307<br>New York<br>NY 10001<br>United States</td>
-  </tr>
-</tbody></table>
-
-          </div>
-          <div class="sidebar">
-                <div class="pod "><h2 class="podheading clearfix "><span>In this section</span></h2><div class="pod-body">
-      <ul class="subnav" id="subsubsections"><li class="first" id="about"><a href="/about">About us</a></li><li><a href="/contact">Contact</a></li><li><a href="http://press.econsultancy.com/">Press Center</a></li><li><a href="/about/advertising">Advertising &amp; Sponsorship</a></li><li class="active current"><a href="/about/privacy">Privacy Policy</a></li><li><a href="/about/terms">Terms &amp; Conditions</a></li><li><a href="/sitemap">Site map</a></li></ul>
-</div></div>
-            
-          </div>
-        </div>
-      </div><!-- #container -->
-</div>    <footer class="main">
-    <nav>
-      <ul class="navigation"><li class="navigation__item ">Most Popular Research<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/templates">Template Files for Digital Marketing and Web Projects</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/internet-statistics-compendium">Internet Statistics Compendium</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/checkout-optimization-guide">Checkout Optimization Guide: 70 ways to increase conversion rates</a></li></ul></li><li class="navigation__item ">Popular Report Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/seo">Organic/Natural Search (SEO)</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/web-analytics">Web Analytics</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/user-experience-and-usability">User Experience and Usability</a></li></ul></li><li class="navigation__item ">Popular Training Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/user-experience-and-usability">User Experience and Usability</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/email-marketing">Email Marketing</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/affiliate-marketing">Affiliate Marketing</a></li></ul></li><li class="navigation__item ">Popular Event Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/events/topics/seo">Organic/Natural Search (SEO)</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/multichannel-marketing">Multichannel Marketing</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/user-experience-and-usability">User Experience and Usability</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/ecommerce">Ecommerce</a></li></ul></li><li class="navigation__item pop-left">More<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/blog">Blog</a></li><li class="navigation__item navigation__item--level1 "><a href="/press-releases">Press Releases</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/directories/suppliers">Supplier Directory</a></li><li class="navigation__item navigation__item--level1 "><a href="/labs">Econsultancy Labs</a></li><li class="navigation__item navigation__item--level1 "><a href="/nma-archive">NMA Archive</a></li></ul></li><li class="navigation__item "><a href="/about">About us</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/contact">Contact</a></li><li class="navigation__item navigation__item--level1 "><a href="http://press.econsultancy.com/">Press Center</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/advertising">Advertising &amp; Sponsorship</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/privacy">Privacy Policy</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/terms">Terms &amp; Conditions</a></li><li class="navigation__item navigation__item--level1 "><a href="/sitemap">Site map</a></li></ul></li></ul>
-    </nav>
-
-  <p id="copyright" class="container">
-    Copyright © 2013 E-consultancy.com Limited. All rights reserved. This material is for personal use only. Use of this website constitutes acceptance of the Econsultancy <a href="/about/terms">User Agreement</a> and <a href="/about/privacy">Privacy Policy</a>.
-  </p>
-</footer>
-
-    <!-- Kampyle -->
-<div id="k_close_button" class="k_float kc_bottom kc_right"></div>
-<div id="kampyle-wrapper">
-  <a href="https://www.kampyle.com/" target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" style="display: none;"><img alt="Feedback Form" border="0" src="http://cdn.econsultancy.com/assets/kampyle/econ_feedback-821e5431828756a861e6dd5cd2ba45d5.gif"></a>
+<p>
+</p><div id="db098ade-0b9b-4e88-8397-087fd0f5a554">
+<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/E-consultancy-com-Limited/asc?rid=db098ade-0b9b-4e88-8397-087fd0f5a554"></script>
+<a href="//privacy.truste.com/privacy-seal/E-consultancy-com-Limited/validation?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014" title="TRUSTe online privacy certification" target="_blank"><img style="border: none; padding: 10px" src="//privacy-policy.truste.com/privacy-seal/E-consultancy-com-Limited/seal?rid=94f370c5-0fd4-48fa-8cce-5d3a466c5014" alt="TRUSTe online privacy certification" align="left"></a>
 </div>
-<!-- End Kampyle -->
-
-
-  <!-- scriptstats.info javascript tracking code -->
-  <script language="Javascript">
+Econsultancy has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="//www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, econsultancy.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us on +44 (0)20 7269 1450. If you are not satisfied with our response you can contact <a href="//feedback-form.truste.com/watchdog/request">TRUSTe here</a>.
+<p></p>
+<p>This document discloses the data protection and privacy practices for Econsultancy including:</p>
+<ul>
+<li>What personally identifiable information of yours is collected</li>
+<li>What organization is collecting the information</li>
+<li>How the information is used</li>
+<li>With whom the information may be shared</li>
+<li>What choices are available to you regarding collection, use and distribution of the information</li>
+<li>What kind of security procedures are in place to protect the loss, misuse or alteration of information under Econsultancy's control</li>
+<li>How you can correct any inaccuracies in the information.</li>
+</ul>
+<p>Questions regarding this privacy policy should be directed to Econsultancy via our <a href="/contact">contact form</a>.</p>
+<h2>Table of Contents</h2>
+<ol>
+<li><a href="#under_18s">Under 18s</a></li>
+<li><a href="#information_we_collect">Information We Collect</a></li>
+<li><a href="#our_use_of_your_information">Our Use of Your Information</a></li>
+<li><a href="#email_communications">Email Communications</a></li>
+<li><a href="#our_disclosure_of_your_information">Our Disclosure of Your Information</a></li>
+<li><a href="#control_of_your_password">Control of Your Password</a></li>
+<li><a href="#reviewing_and_changing_your_personally_identifiable_information">Reviewing and Changing Your Personally Identifiable Information</a></li>
+<li><a href="#other_information_collectors">Other Information Collectors</a></li>
+<li><a href="#security">Security</a></li>
+<li><a href="#changes_to_privacy_policy">Changes to Privacy Policy</a></li>
+<li><a href="#downloadable_software_disclaimer">Downloadable Software Disclaimer</a></li>
+<li><a href="#mailing_address">Mailing Address</a></li>
+</ol>
+<h2 id="under_18s">1. Under 18s</h2>
+<p>Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.</p>
+<h2 id="information_we_collect">2. Information We Collect</h2>
+<p>Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.</p>
+<p>To fully use our services, you will need to join as a Member, where you will be required to provide us with your contact information such as name, email address, phone number and postal address and some other information relating to your professional employment. We automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve our users.</p>
+<p>We use a web analytics tool to analyse site usage, how our users arrive at our site, what they do on the site, what browser they are using and on what operating system etc. However, this analytics data, collected via a JavaScript tag in the pages of our site, is not tied to personally identifiable information.</p>
+<p><strong>Cookies.</strong> We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit <a href="http://www.aboutcookies.org">http://www.aboutcookies.org</a> for detailed guidance.</p>
+<p>The following tables describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Econsultancy cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+</p><table class="cookie-info-breakdown">
+<colgroup>
+<col class="column-1">
+<col class="column-2">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">"Session" Cookies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>We use a <strong>session cookie</strong> to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.</td>
+<td>More information on session cookies and what they are used for at <a href="http://www.allaboutcookies.org/cookies/session-cookies-used-for.html">http://www.allaboutcookies.org/cookies/session-cookies-used-for.html</a></td>
+</tr>
+</tbody>
+</table>
+<table class="cookie-info-breakdown">
+<colgroup>
+<col class="column-1">
+<col class="column-2">
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">Persistent Cookies for Site Analytics and Performance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>We use some <strong>persistent cookies</strong> to enhance the relevancy of information displayed on the site. User data is anonymous.</td>
+<td>More information about persistent cookies and what they are used for at <a href="http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html">http://www.allaboutcookies.org/cookies/persistent-cookies-used-for.html</a></td>
+</tr>
+<tr>
+<td><strong>Google AdSense</strong> – this cookie is used by Google to report to us how the adverts shown on Econsultancy.com are performing. User data is all anonymous.</td>
+<td>You can find out more generally about Google and its policies and principles as regards advertising at <a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a></td>
+</tr>
+<tr class="even">
+<td><strong>DoubleClick (Google)</strong> – this is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on Econsultancy’s site. User data is anonymous.</td>
+<td>As above, you can find out more generally about Google and its policies and principles as regards advertising at <a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a></td>
+</tr>
+<tr>
+<td><strong>Google Analytics</strong> – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous.</td>
+<td>You can find out more about Google’s position on privacy as regards its analytics service at <a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html">http://www.google.co.uk/intl/en/analytics/privacyoverview.html</a></td>
+</tr>
+<tr class="even">
+<td><strong>New Relic</strong> – this service helps us understand the speed and technical performance of our site so we can monitor and improve it. User data is all anonymous.</td>
+<td>You can find out more about what New Relic do on their site at <a href="http://newrelic.com/">http://newrelic.com/</a></td>
+</tr>
+<tr>
+<td><strong>LifecycleMAGIQ</strong> – this tool allows us to provide more relevant and timely communications to site users by capturing information about how they use Econsultancy's site.</td>
+<td>You can find out more information about LifecycleMAGIQ, information the tool collects and data protection and security details on their site at <a href="http://www.magiq.com/resources/magiqprivacy.aspx">http://www.magiq.com/resources/magiqprivacy.aspx</a></td>
+</tr>
+<tr class="even">
+<td><strong>Adobe SiteCatalyst</strong> – collects anonymous data regarding website visits, usage, content interactions and user journey. It is being used by <a href="http://www.centaur.co.uk/">Centaur Media Plc</a> to understand our audience and develop our products accordingly.</td>
+<td>You can find out more about Adobe's position on privacy as regards its analytics service at <a href="http://www.adobe.com/uk/privacy/analytics.html">http://www.adobe.com/uk/privacy/analytics.html</a></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Web beacons.</strong> Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.</p>
+<p>
+<strong>Flash LSOs.</strong> We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>.
+</p>
+<p>
+<strong>Behavioral Targeting / Re-Targeting.</strong> We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may <a href="http://preferences-mgr.truste.com/">opt-out by clicking here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+</p>
+<p><strong>Social buttons.</strong> On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’, and LinkedIn ‘Share’. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of Econsultancy. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Econsultancy’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Econsultancy, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.</p>
+<p><strong>External web services.</strong> We use a number of external web services on the Econsultancy site, mostly to display content within our web pages. For example, to display images we often use Flickr; to display slideshows we sometimes use SlideShare; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.</p>
+<p><strong>Email tracking.</strong> Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of Econsultancy’s emails which you can do via Your Account.</p>
+<p><strong>Surveys &amp; Contests.</strong> From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences (e.g. choice of software, working practices, opinions on industry issues, feedback on the Econsultancy web site). We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name and organization. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.</p>
+<p><strong>Payment Processing.</strong> In order to process payments online we require the billing address for the credit card used and our external payment provider, <a href="http://www.datacash.com/">DataCash</a>, requires your credit card details. For details of how this information is used, please see <a href="#our_use_of_your_information">Section 3</a> below.</p>
+<p><strong>Supplier Profile.</strong> We have a <a href="/directories/suppliers">Supplier Directory</a> which contains profiles of suppliers, agencies, vendors, consultancies and freelancers offering service or products related to digital marketing and ecommerce. If you represent such a Supplier you can set up a basic profile for free when you join Econsultancy. The information we collect for the Supplier Profile comes from two sources. Firstly, it is the information that you give when you join as a Member, or the information you subsequently update via the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>". We require a minimum amount of information for each supplier profile so that it is useful for users of the directory. We also offer a "Full Profile" which allows you to add further information but this is a paid-for service. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user has chosen to contribute anonymously.</p>
+<p><strong>Blog Comments.</strong> In order to leave a comment in our <a href="/blog">Blog</a> you either have to be a logged in Member or you have to give us at least your Name and Email address. You can choose whether to post as yourself, or anonymously. We require name and email address even for anonymous posts for quality control purposes.</p>
+<p>
+<strong>Testimonials.</strong>
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name.
+</p>
+<p>
+<strong>Links to 3rd Party Sites.</strong>
+Our Site includes links to other Web sites whose privacy practices may differ from those of Econsultancy. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+</p>
+<h2 id="our_use_of_your_information">3. Our Use of Your Information</h2>
+<p>We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.</p>
+<p>We use your email address to send you newsletters or other communications (for example, content notifications) that you have requested from the Site. Out of respect for our users we offer an opt-out (see <a href="#email_communications">Section 4</a> below).</p>
+<p>We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our <a href="/about/terms">Terms &amp; Conditions</a>. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.</p>
+<p><strong>Payment Processing.</strong> We take online payments for our services (compulsory for payments below £395 excluding VAT). We use <a href="http://www.datacash.com/">DataCash</a> as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process renewals or so you can pay again with the same card more easily. We also use the billing details in case we need to contact you regarding payments e.g. for an outstanding invoice or failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on a secure DataCash server and data passing between Econsultancy servers and DataCash are encrypted using SSL (Secure Sockets Layer). We only store reference details of the most recent card that you have used to purchase on our site, not multiple card details.</p>
+<p>Your Personal Information is stored in our databases. Please note that the information you enter will be transferred outside the European Economic Area to the United States of America where it will be stored for the purposes of processing by Econsultancy or any of its affiliates including subcontractors. By submitting your information, you consent to this transfer.</p>
+<p>Econsultancy complies with the UK Data Protection Act 1998 and is registered with the Data Protection Registrar number Z4942204.</p>
+<p><strong>Supplier Directory.</strong> Our <a href="/directories/suppliers">Supplier Directory</a> is to help users find a suitable digital marketing or ecommerce agency, vendor, consultancy, supplier or freelancer. We use your supplier profile details, and the contributions to the site of the individuals on any subscription which has a supplier profile, to build a supplier profile which we publish in our Supplier Directory as described in more detail in <a href="#our_disclosure_of_your_information">Section 5</a> below.</p>
+<h2 id="email_communications">4. Email Communications</h2>
+<p>As part of the registration process for joining as an Econsultancy user you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "<a href="/account/contact">Contact Settings</a>" section under "<a href="/account">Your Account</a>". You can define what emails you receive from the site (if any) and save your settings.</p>
+<h2 id="our_disclosure_of_your_information">5. Our Disclosure of Your Information</h2>
+<p>We do not sell or rent any personally identifiable information about you to any third party.</p>
+<p>Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.</p>
+<p>By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorise us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, Intellectual Property Rights infringements, or other activity that is illegal or may expose us to legal liability. If Econsultancy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
+<p><strong>Advertisers.</strong> We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. There are some cases where we do pass on your personal details, however we only do this if you explicitly agree to this, typically by checking an opt-in checkbox where the default position will be that you do not agree to your details being passed on. For example, where we have events such as Supplier Showcases you may choose to opt-in, at the time of registering for the event, to allow your details to be passed on to those presenting.</p>
+<p><strong>Visibility of your information on the Site.</strong> Following are details of how your information is visible across the site depending on the site section and what you are doing:</p>
+<ul>
+<li><strong>Blog Comments.</strong> If you post a comment to our <a href="/blog">Blog</a> then, by default, your name (first name, last name) will be published against your post as well as your job position and company name, based on your profile information. Your name will also then be a link to your full Member Profile. If you have chosen not to publish your profile in our User Directory then there will be no such link. At the point of posting you can choose to "Post as Anonymous" in which case your contribution will appear as "Anonymous" and there will be no link to your profile.</li>
+<li><strong>Press Releases, Event and Training bookings.</strong> The details published to the site are those included in the press release itself. We record and keep the details of who has posted what and show these against the individual's profile (see Member and Supplier Directory sections below for details) and for administration purposes. We do not publish personal details of users who have booked particular events or training. However, as non-personally identifiable information, we do occasionally publish job titles and company names of those booked to attend a particular event.</li>
+<li><strong>Supplier Directory Profile.</strong> The information that is shown on your supplier profile comes from two sources. Firstly, it is the information that you give when you join and, via the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>", you can edit and update these details. We require a minimum amount of information for each supplier profile so that it is useful for users of the <a href="/directories/suppliers">Supplier Directory</a>. We also offer a "Full Profile" which allows you to add further information but this is a paid for service. Unlike the user profile, which can be disabled, a supplier profile is automatically enabled if you give the required information. You cannot then disable your supplier profile completely except by contacting Econsultancy. You should be aware that any information you publish on your supplier profile is visible to everyone and anyone, not just other Econsultancy Members, and may appear in search engines and elsewhere on the internet. For example, we cannot prevent others trying to contact you if you publish contact information. Furthermore, you should be aware that, once published, just because you subsequently update your supplier profile information it does not mean that it will be updated everywhere across the internet, as it may already exist elsewhere, for example in the cache of search engines. Secondly, we store details of contributions to the site made by individual registered users belonging to a subscription that has a supplier profile. For example, blog comments, press releases posted, presentations at events, and we link to these, where relevant, from the supplier profile, except where the individual user chose to contribute anonymously. These links are generated automatically and cannot be edited or removed by you. If you do not want them to show then you should not create a supplier profile.</li>
+</ul>
+<p><strong>Payment and Credit Card Details.</strong> As explained above, we store a unique reference against your card details which allows us to process renewals automatically (unless you have turned renewals off, or your card fails) and also allows you to easily pay further sums due with the card you last paid with. We only store such reference details for the last card you paid with. Your card number is displayed to you on screen, and to Econsultancy admin staff, with only the last four digits visible. The first twelve digits are hidden so that other users, including Econsultancy staff, cannot see your full card details. None of your card details, or billing details, are published on the site in any way, nor are they visible to other users on your subscription.</p>
+<p><strong>Your Account.</strong> Registered Users and Small Business level subscriptions only have one user per subscription. Small Business Multi-user, or higher level subscriptions permit multiple users per subscription. Any user on the same subscription can add or remove any other user to that subscription, and use up the benefits of the subscriptions, so care should be taken in only adding trusted users to a subscription. Within a subscription all users can see who else is part of their subscription; we also show a history of who has invited whom, or removed whom, from the subscription so there is transparency and an audit trail with details of users added or removed from the subscription. Name, job title and company name are shown to the other registered users who can also see any details you have published in your user profile by clicking on your name. All users on the same subscription can see what research has been purchased on behalf of the subscription (as all users on that subscription can then download them), as well as what press releases have been posted by users on the subscription. Blog comments from users on the same subscription will also be shown, except where the individual user posted them anonymously. Bookings for events (including training) are also shared across a subscription so that users on a particular subscription can see who of their colleagues are attending what events. However, credit card details and invoices exist, and are visible, only at the individual user level: you cannot see the card details (even partially hidden as explained earlier) of another user, or his or her transaction history, even if he or she is on the same subscription as you.</p>
+<p><strong>Legal Requests.</strong> Econsultancy cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.</p>
+<p><strong>Suppliers and Other Service Providers.</strong> From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.</p>
+<h2 id="control_of_your_password">6. Control of Your Password</h2>
+<p>Except as specifically permitted by this section, you may not disclose your Econsultancy password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "<a href="/account/profile/edit">Your Profile</a>" section in "<a href="/account">Your Account</a>".</p>
+<p>You may, however, disclose your password to certain third parties with whom Econsultancy has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to the Econsultancy services.</p>
+<p>If you wish to change your password you can do so at any time through the "<a href="/account/profile/edit">Your Profile</a>" section within the "<a href="/account">Your Account</a>" section of the site.</p>
+<h2 id="reviewing_and_changing_your_personally_identifiable_information">7. Reviewing and Changing Your Personally Identifiable Information</h2>
+<p>You can at any time review, delete or change the information you submitted during registration by visiting the "<a href="/account/profile/edit">Your Profile</a>" section within the "<a href="/account">Your Account</a>" section of the site.</p>
+<p>You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our message areas or the feedback area.</p>
+<p>You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact Econsultancy if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our <a href="/about/terms">Terms &amp; Conditions</a>. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<h2 id="other_information_collectors">8. Other Information Collectors</h2>
+<p>Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other registered users of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.</p>
+<h2 id="security">9. Security</h2>
+<p>In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to communicate with <a href="http://www.datacash.com/">DataCash</a>, our payment provider.</p>
+<p>On the Econsultancy site we use best endeavour to safeguard the confidentiality of your personally identifiable information and we do use encryption (such as SSL) and firewalls to further protect the information as it travels across the Internet. This is because we believe that, apart from the credit card information processed by DataCash, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.</p>
+<h2 id="changes_to_privacy_policy">10. Changes to Privacy Policy</h2>
+<p>If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site prior to the change becoming effective. It is up to you whether you then continue to use the site and Econsultancy's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using Econsultancy's site and services and contact us, as per <a href="#reviewing_and_changing_your_personally_identifiable_information">Section 7</a> above, should you wish to have any of your details removed.</p>
+<h2 id="downloadable_software_disclaimer">11. Downloadable Software Disclaimer</h2>
+<p>The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
+<h3 id="mailing_address">12. Mailing Address</h3>
+<table>
+<tbody><tr>
+<td>Telephone</td>
+<td>+1 212 971-0630</td>
+</tr>
+<tr>
+<td>Office address</td>
+<td>350 7th Avenue<br>Ste. 307<br>New York<br>NY 10001<br>United States</td>
+</tr>
+</tbody></table>
+</div>
+<div class="sidebar">
+<div class="pod "><h2 class="podheading clearfix "><span>In this section</span></h2><div class="pod-body">
+<ul class="subnav" id="subsubsections"><li class="first" id="about"><a href="/about">About us</a></li><li><a href="/contact">Contact</a></li><li><a href="http://press.econsultancy.com/">Press Center</a></li><li><a href="/about/advertising">Advertising &amp; Sponsorship</a></li><li class="active current"><a href="/about/privacy">Privacy Policy</a></li><li><a href="/about/terms">Terms &amp; Conditions</a></li><li><a href="/sitemap">Site map</a></li></ul>
+</div></div>
+</div>
+</div>
+</div> 
+</div> <footer class="main">
+<nav>
+<ul class="navigation"><li class="navigation__item ">Most Popular Research<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/templates">Template Files for Digital Marketing and Web Projects</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/internet-statistics-compendium">Internet Statistics Compendium</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/checkout-optimization-guide">Checkout Optimization Guide: 70 ways to increase conversion rates</a></li></ul></li><li class="navigation__item ">Popular Report Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/seo">SEO</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/reports/topics/user-experience-and-usability">User Experience and Usability</a></li></ul></li><li class="navigation__item ">Popular Training Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/user-experience-and-usability">User Experience and Usability</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/ecommerce">Ecommerce</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/email-marketing">Email</a></li><li class="navigation__item navigation__item--level1 "><a href="/training/courses/topics/affiliate-marketing">Affiliate Marketing</a></li></ul></li><li class="navigation__item ">Popular Event Topics<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/events/topics/seo">SEO</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/social">Social</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/multichannel-marketing">Multichannel Marketing</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/user-experience-and-usability">User Experience and Usability</a></li><li class="navigation__item navigation__item--level1 "><a href="/events/topics/ecommerce">Ecommerce</a></li></ul></li><li class="navigation__item pop-left">More<ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/blog">Blog</a></li><li class="navigation__item navigation__item--level1 "><a href="/press-releases">Press Releases</a></li><li class="navigation__item navigation__item--level1 "><a href="/consulting">Consulting Services</a></li><li class="navigation__item navigation__item--level1 "><a href="/directories/suppliers">Supplier Directory</a></li><li class="navigation__item navigation__item--level1 "><a href="/labs">Econsultancy Labs</a></li><li class="navigation__item navigation__item--level1 "><a href="/nma-archive">NMA Archive</a></li></ul></li><li class="navigation__item "><a href="/about">About us</a><ul class="navigation__level1"><li class="navigation__item navigation__item--level1 "><a href="/contact">Contact</a></li><li class="navigation__item navigation__item--level1 "><a href="http://press.econsultancy.com/">Press Center</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/advertising">Advertising &amp; Sponsorship</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/privacy">Privacy Policy</a></li><li class="navigation__item navigation__item--level1 "><a href="/about/terms">Terms &amp; Conditions</a></li><li class="navigation__item navigation__item--level1 "><a href="/sitemap">Site map</a></li></ul></li></ul>
+</nav>
+<p id="copyright" class="container">
+Copyright © 2014 E-consultancy.com Limited. All rights reserved. This material is for personal use only. Use of this website constitutes acceptance of the Econsultancy <a href="/about/terms">User Agreement</a> and <a href="/about/privacy">Privacy Policy</a>.
+</p>
+</footer>
+ 
+<script language="Javascript">
     (function() {
       var jsTracking = new Image();
       jsTracking.src = 'https://scriptstats' + '.herokuapp' + '.com' + '/track/js/econsultancy.com';
     })();
   </script>
-  <noscript>
-    <!-- obfuscated URL to help prevent dodgy crawlers hitting this URL -->
-    <img src="https://scriptstats.herokuapp.com/&#116&#114&#97&#99&#107&#47&#110&#111&#45&#106&#115/econsultancy.com" width="1" height="1" style="opacity:0.01; filter:alpha(opacity=1);">
-  </noscript>
-  <!-- /end scriptstats.info javascript tracking code -->
-
-    
-  <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
+<noscript>
+ 
+<img src="https://scriptstats.herokuapp.com/&#116&#114&#97&#99&#107&#47&#110&#111&#45&#106&#115/econsultancy.com" width="1" height="1" style="opacity:0.01; filter:alpha(opacity=1);">
+</noscript>
+ 
+<script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
@@ -480,6 +426,6 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","9acc4adfd6","3261","dV8MF0JYDVVWQh1EUFFVEUwYWBVRVkIb",4,205,new Date().getTime(),"","","","",""]);}</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","0a14ed89c0","323663","dQsIEUVbWFUER05IVlEBFUofW0BRBEdI",5,253,new Date().getTime(),"","","","",""]);}</script>
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
