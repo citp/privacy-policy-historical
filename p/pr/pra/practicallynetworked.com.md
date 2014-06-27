@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicallynetworked.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817110240id_/http%3A//www.practicallynetworked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicallynetworked.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627212019id_/http%3A//www.practicallynetworked.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
