@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021181841id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DAZ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013740id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DGA) for the most accurate reproduction.*
 
 # GreatSchools.org Privacy Statement
 
-This privacy statement discloses the privacy practices for www.greatschools.org, a website owned and operated by GreatSchools Inc. If you have questions or concerns about this privacy policy, you should contact our management team by emailing [info@greatschools.org](mailto:info@greatschools.org). If you do not receive acknowledgment of your inquiry or feel that your inquiry has not been satisfactorily addressed, you can call us at (415) 977-0700. 
+This privacy statement discloses the privacy practices for www.greatschools.org, a website owned and operated by GreatSchools Inc. If you have questions or concerns about this privacy policy, you should contact our management team by emailing [info@greatschools.org](mailto:info@greatschools.org). If you do not receive acknowledgment of your inquiry or feel that your inquiry has not been satisfactorily addressed, you can call us at (510) 740-2800. 
 
 ##### Information Collection and Use
 
@@ -84,9 +84,11 @@ GreatSchools allows advertising by third parties. GreatSchools does not control 
 
 GreatSchools may offer contests, sweepstakes, and promotions that are sponsored by third-party advertisers or sponsors. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. GreatSchools does not control the third parties' use of information.
 
-GreatSchools may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). We do not have access to these cookies or any information that they contain. The GreatSchools privacy policy does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please [click here](http://www.aimatch.com/privacy/). 
+GreatSchools may use an advertising server developed by a third party to display ads on our site. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors). In addition, we may allow third parties to place cookies or related tools on our site to collect data that may be used to serve advertisements elsewhere (i.e. on other websites). We do not have access to these cookies or other tools or any information that they contain. The GreatSchools privacy policy does not cover any use of information that a third-party may have collected from you. For more information on ad serving, please [click here](http://www.sas.com/software/customer-intelligence/ad-server.html). 
 
-We use third-party advertising companies to serve ads. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
+You have choices about what information is gathered and used for serving third-party ads based on your interests. You can opt out of seeing interest-based ads by [click here](http://www.aboutads.info/choices/). (the AboutAds site). The choices you make on these sites are browser-specific. So, if you use a different browser, you will need to opt out again. 
+
+We present some interest-based ads to you directly and sometimes we work with partners to present the ads. These interest-based ads may be for the products and services of our advertising clients or for our own products or services. The Ad Choices Icon  appears on ads that use interest based advertising. You can click on it to find out more about why it appeared and if you want to opt out, as described above.
 
 ##### Information from Other Sources
 
@@ -118,4 +120,4 @@ Protecting the privacy of young children is especially important. For that reaso
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or website users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website page, www.greatschools.org, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or website users.
 
-Updated May 1, 2013
+Updated January, 12 2014
