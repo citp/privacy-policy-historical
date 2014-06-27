@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028032607id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizlet.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627172343id_/http%3A//quizlet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizlet
-
-[‹ Inside Quizlet](https://web.archive.org/inside-quizlet)
-
-  * [Behind the Scenes](https://web.archive.org/inside-quizlet)
-  * Behind the Scenes
-
-
-
-### Learn More
-
-  * [How It Works](https://web.archive.org/how-it-works)
-  * [Mobile](https://web.archive.org/mobile)
-  * [Teachers](https://web.archive.org/teachers)
-  * [Help Center](https://web.archive.org/help)
-  * [Feedback](https://web.archive.org/feedback)
-
-
-
-### About Quizlet
-
-  * [Mission](https://web.archive.org/mission)
-  * [Team](https://web.archive.org/team)
-  * [Stories](https://web.archive.org/stories)
-  * [Jobs](https://web.archive.org/jobs)
-  * [Press](https://web.archive.org/press)
-  * [Legal](https://web.archive.org/tos)
-
-
 
   * [Terms of Service](https://web.archive.org/tos)
   * [Privacy Policy](https://web.archive.org/privacy)
@@ -36,7 +8,7 @@
 
 
 
-## Updated: September 30, 2013
+## Updated: April 25, 2014
 
 Your privacy is critically important to us. At Quizlet we have a few fundamental principles:
 
@@ -87,7 +59,8 @@ comScore (Scorecard Research) | Anonymous usage data (e.g., what pages on our si
 Quantcast Corporation | Anonymous usage data (e.g., what pages on our site people visit.) | Data provider, aggregator | [Quantcast Privacy Policy](http://www.quantcast.com/docs/display/legal/Privacy+Policy)  
 New Relic | Anonymous page-speed metrics (e.g., how fast Quizlet loads on a user’s screen.) | Help websites load faster for better use. | [New Relic Privacy Policy](http://newrelic.com/privacy)  
 Google Inc. (Analytics) | Anonymous usage data (e.g., what pages on our site people visit.) | Analytics | [Google Analytics Privacy Policy](http://www.google.com/intl/en/analytics/privacyoverview.html)  
-Amazon (Cloudfront) | IP address | Web service for content delivery (e.g., images) | [Amazon AWS Privacy Policy](http://aws.amazon.com/privacy/)  
+Cloudflare | Traffic data | Provider of network infrastructure for basic service delivery | [Cloudflare Privacy Policy](https://www.cloudflare.com/security-policy)  
+Joyent | Traffic data | Provider of servers and network infrastructure for basic service delivery | [Joyent Privacy Policy](http://www.joyent.com/company/policies/privacy-policy)  
 TRUSTe | IP address | Privacy verification | [TRUSTe Privacy Policy](http://www.truste.com/privacy-policy)  
 Google Inc. (DFP) | Anonymous demographic and site-usage information | Serving ads on Quizlet | [Google DFP Privacy Policy](https://www.google.com/intl/en/policies/privacy/)  
   
@@ -123,9 +96,9 @@ Our Web pages contain third-party web beacons (electronic images sometimes calle
 
 If your personally identifiable information changes, or if you no longer desire our service, you may review, edit, or delete it on our Settings page. Parents may remove, delete or update an account or any information posted on Quizlet by contacting us at [quizlet.com/feedback](http://quizlet.com/feedback).
 
-### Facebook Connect
+### Facebook Connect and Google Login
 
-You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Facebook Connect and Google Login. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ### Security
 
