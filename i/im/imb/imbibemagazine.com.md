@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221084526id_/http%3A//imbibemagazine.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imbibemagazine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627194650id_/https%3A//www.imbibemagazine.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-[HOME](http://www.imbibemagazine.com/) | PRIVACY  
-
+[HOME](http://imbibemagazine.com/) | PRIVACY
 
 * * *
 
@@ -20,8 +19,8 @@ We sometimes use the non-personally identifiable information that we collect via
 We will disclose information in our database when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
 **Copyright Information**  
-Copyright © 2005 - 2013 Imbibe Media Inc.  
+Copyright © 2005 - 2014 Imbibe Media Inc.  
 All rights reserved  
 Imbibe Media Inc.  
-1028 SE Water Ave., Suite 285  
+1001 SE Water Ave., Suite 285  
 Portland, OR 97214
