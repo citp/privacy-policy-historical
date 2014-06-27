@@ -1,124 +1,96 @@
-> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829042207id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomato.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627231852id_/http%3A//www.zomato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zomato
 
-## Privacy Policy
+This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our websites, emails, and mobile applications ( **"Service"** ). The terms **"we"** , **"us"** , **"our"** , and **"Zomato"** refer to Zomato Media Private Limited, incorporated in India. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
-**Last updated on December 30th, 2011.**
+We may change this Privacy Policy at any time by posting a revised Privacy Policy on this page; such changes will be effective upon posting.
 
-This privacy policy applies to your use of the Zomato website located at www.zomato.com (hereafter known as Zomato), Zomato's mobile website located at m.zomato.com and zomato.mobi and Zomato applications on mobile platforms (Android, Blackberry, Windows Phone, Nokia), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the businesses listed on Zomato.
+The Service may provide links to third party websites. This Privacy Policy does not apply to any information you may provide while on such third party websites. We encourage you to carefully read the privacy policies on those third party websites before providing any of your information on such sites.
 
-The terms \" **we** \", \" **us** \", and \" **Zomato** \" refer to zomato.com and the terms \" **you** \" and \" **your** \" refer to you, as a user of zomato.com. The term \" **personal information** \" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.
+In every respect, by using Zomato, you agree to be bound by terms of this Privacy Policy.
 
-**By using Zomato, you agree to be bound by terms of this privacy policy. If you do not agree with these terms, do not use Zomato.**
+### Information we collect and how we use it
 
+When you visit or use our Service, we collect and store information about you, your computer or mobile device and your activities. This information may include, but is not limited to:
+
+  * Your computer’s IP address; technical information about your computer or mobile device (such as type of device, web browser or operating system).
   
 
-
-## I. Information we collect and how we use it
-
-We use commercially reasonable efforts to ensure that the collection of personal information is limited to that which is necessary to fulfill the purposes identified below. If we use your information in a manner different than the purpose for which it is collected, then we will ask you for your consent prior to such use.
-
-_Account information._ If you create an account to take advantage of the full range of services offered on Zomato, we ask for and record personal information such as your name and email address. We use your email address to send you updates, news, and newletters (if you willingly subscribe to the newsletter during signup, or anytime after sign up) and contact you on behalf of other users (such as other users who send you compliments, personal messages, or favorite reviews).
-
-_Telephone numbers._ Zomato also provides you with the facility of sms discount coupons. Zomato reserves the right to share the phone number on which the coupon was sent to with the business whose coupon was downloaded. This is done to ensure that only legitimate discount coupon downloads are used at the business. Otherwise, any telephone number entered as part of the account information and which has not downloaded an sms discount coupon will not be shared with any third party. Some restaurants also use Zomato IVR systems to help customers connect to their businesses. In order to increase Zomato's value to its customers, Zomato may use these phone numbers of customers obtained through the IVR for marketing relevant restaurant and food information. However, Zomato assures that this information will not be made public or sold to any third party. Only the restaurant business that a particular customer connects to will have access to specific information about that customer. Zomato is not liable for misuse of this information by these specific restaurant businesses or persons related to these restaurant businesses.
-
-_Submissions._ We store and may publicly display your submissions in order to provide the services that we offer. When we display your submissions, we do so together with your account name (first name and last initial). The term \" **submissions** \" refers to the information that you submit or post to Zomato for public display, such as business ratings, reviews, photos, compliments, and the information that you display as part of your account profile.
-
-_Feedback._ If you contact us to provide feedback, register a complaint, or ask a question, we will record any personal information and other content that you provide in your communication so that we can effectively respond to your communication.
-
-_Activity._ We record information relating to your use of Zomato, such as the searches you undertake, the pages you view, your browser type, IP address, location, requested URL, referring URL, and timestamp information. We use this type of information to administer Zomato and provide the highest possible level of service to you. We also use this information in the aggregate to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of Zomato. You cannot be identified from this aggregate information.
-
-_Cookies._ We send cookies to your computer in order to uniquely indentify your browser and improve the quality of our service. The term \" **cookies** \" refers to small pieces of information that a website sends to your computer's hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). Persistent cookies can be removed by following your browser help file directions. If you choose to disable cookies, some areas of Zomato may not work properly or at all. Zomato uses third party tools, who may collect anonymous information about your visits to Zomato using cookies, and interaction with Zomato products and services. Such third parties may also use information about your visits to Zomato products and services and other web sites to target advertisements for Zomato's products and services. No PII is collected or used in this process. These third parties do not know or have access to the name, phone number, address, email address, or any personally identifying information about Zomato's users. Zomato users can opt-out of sharing this information with third parties by deactivating cookies, the process of which varies by browser to browser. Please refer to the help file of your browser to understand the process of deactivating Cookies on your browser.
-
-_Enforcement._ We may use the information we collect in connection with your use of Zomato (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
-
+  * Your mobile device’s unique ID number (when available); your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).
   
 
-
-## II. Transfer of information
-
-We may distribute your submissions to third parties, as permitted pursuant to our Terms of Service. The third parties may in turn publicly display or publish your submissions in connection with their own websites and media platforms. When we distribute your submissions to third parties, we typically include your account name (but not your personal information unless you include your personal information in your submissions).
-
-We may share your personal information with third parties to provide you with services that we offer through Zomato, conduct quality assurance testing, facilitate creation of accounts, provide technical and customer support, or provide specific services, such as synchronization of your contacts with other software applications, in accordance with your instructions. These third parties are required not to use your personal information other than to provide the services requested by you.
-
-We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, \" **Affiliates** \") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
-
-We may disclose your personal information to third parties in a good faith belief that such disclosure is reasonably necessary to (a) take action regarding suspected illegal activities; (b) enforce or apply our Terms of Service and Privacy Policy; (c) comply with legal process, such as a search warrant, subpoena, statute, or court order; or (d) protect our rights, reputation, and property, or that of our users, affiliates, or the public. Please note that we are not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that we receive.
-
-We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
-
+  * Your account information: your provided full name, email address, zip code and other information you may provide with your account, such as your gender and birth date. Your profile picture that will be publicly displayed as part of your account profile. You may optionally provide us with this information through third party sign-in services such as Facebook Connect and Google Plus. In such cases, we fetch and store whatever information is made available to us by you through these sign-in services.
   
 
-
-## III. Others' information
-
-You may choose to provide us with another person's e-mail address so that person may be invited to create an account on this website and become your friend. We use this information to contact and, if necessary, remind that person about the invitation. By providing us with another person's e-mail address, you represent to us that you have obtained the consent of the person concerned as regards such disclosure to us of their personal information. All invitees are provided with the option not to receive further invitations. We may disclose such information if required to do so in order to comply with legal process, as described above.
-
+  * We also store your preferences and settings (time zone, language, etc.), on our servers and locally on your device (mobile/computer) to provide you a consistent experience over repeat visits to the Service.
   
 
-
-## IV. Links
-
-Zomato may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
-
+  * Your content: The information that you post to the Service, including your reviews, photos, comments, likes, lists, followers, the users you follow, and your account profile.
   
 
-
-## V. Controlling your personal data
-
-To the extent you include personal information in your submissions (such as a photo of yourself), third parties may be able to identify you, associate you with your user account, and contact you. Third parties can also associate you with your user account using the member lookup feature on Zomato, but only if the third party already knows your full name and you include information in your submission that allows the third party to distinguish you from other users who might share the same full name. Please do not include information in your submissions that you expect to keep private. In addition, you can reduce the risk of being personally identified by choosing a fictitious account name, though doing so could detract from the credibility of your submissions.
-
-As a registered Zomato user, you can modify some of your personal information and your privacy preferences by accessing the \"Account\" section of this website. For example, you may choose not to receive e-mail solicitations from Zomato by accessing the \"Account\" tab on Zomato (after signing in) and updating your newsletter/notification settings.
-
-## VI. Security
-
-Your account is password protected. We use industry standard measures to protect the personal information that is stored in our database. We limit the access to your personal information to those employees and contractors who need access to perform their job function, such as our customer service personnel. If you have any questions about the security on Zomato, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that your personal information will never be disclosed in a manner that is inconsistent with this Privacy Policy.
-
-_You hereby acknowledge that Zomato is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner._
-
+  * The URL of the last web page you visited before visiting our Service
   
 
-
-## VII. E-mails and opt-out
-
-You may opt-out of receiving any messages or newsletters from us by changing your notification settings under the \"Account\" tab after you log on to Zomato. Unregistered users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
-
+  * The search terms you have looked up and results you selected; how long you visited our Service and which features you used
   
 
-
-## VIII. Reason for permissions needed on Zomato mobile applications
-
-Reading your address book is required if you need to share the app with your friends (explicit permission will be sought before this)  
-SMS permissions are required if you need to share the app with your friends (again, explicit permission will be sought before this)  
-Your contact information is sought to enable one click sign-up (with explicit permissions) while inside the app and to write reviews for restaurants. We have a no spam policy.
-
+  * Communications between you and other users or merchants through our Service; the ads you clicked on.
   
 
-
-## IX. Terms and modifications to this Privacy Policy
-
-We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of Zomato. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of Zomato following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-  
+  * Your transactional Information: If you make reservations or purchases through the Service, we may collect and store some information about you to process your requests and automatically complete forms for future transactions. These may include data including (but not limited to) your phone number, address, email, and credit card information. This information may be shared with third parties who help process and fulfil your requests. When you submit credit card numbers, we encrypt the information using industry standard technologies . If you write reviews about businesses with which you transact through the Service, we may publicly display the fact that you transacted with those businesses.
 
 
-## X. Dispute resolution
 
-If you believe that Zomato has not adhered to this Privacy Policy you may write to Zomato at the following address:
+We use the information to improve the Service's functionality, quality and also personalize your experience. We also use this information to display relevant advertising, provide support, message you, and comply with legal obligations.
 
-e-mail:[privacy@zomato.com](mailto:privacy@zomato.com)
+Please note that some of this information is automatically collected without you voluntarily choosing to provide this information to us.
 
-In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
+### Cookies & Mobile Device IDs
 
-  
+**Cookies:** When you visit our Service, we may place “cookies” on your computer to recognize you. We do this to store your preferences, collect statistical data and track your use of our Service. Ad companies (including but not limited to Google and Facebook) may also place cookies on your computer to track your activities across various sites so that they can display targeted ads.
 
+Cookies are widely used, and most web browsers are configured initially to accept cookies automatically. If you prefer not to accept cookies, you may adjust and configure your browser settings accordingly. However, if you turn off cookies, or refuse to accept a request to place a cookie, some features and services on the Service may not function properly.
 
-## XI. Contacting the website and access to your personal information
+**Mobile Device IDs:** If you’re using our Service on mobile, we may use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We may do this to store your preferences and track your use of the Applications. Unlike cookies, device IDs cannot be deleted. Ad companies may use device IDs to track your use of the Applications, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies may use device IDs to track information about usage of the Applications.
 
-Upon written request, subject to certain exceptions, Zomato will inform you of the existence, use, and disclosure of your personal information and will give you access to that information. Access requests should be sent to our Privacy Officer, using the contact information above. When requesting access to your personal information, we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide the personal information that we hold about you. We may charge you a fee to access your personal information to cover our costs; however, we will advise you of any fee in advance, which will be no more than any maximum fee prescribed by law.
+### Third Parties
 
-If you have any questions about this Privacy Policy, you can contact us using the contact information listed above.
+We may also share your information with other companies for various reasons. What information we make available to other companies depends on the nature of our relationships with them. We generally require these other companies to keep our users' information confidential.
+
+### Legal Matters
+
+We may use or disclose user information: in response to a legal request, such as a subpoena, court order, or government demand; to comply with the law; in connection with a threat of litigation; to investigate or report illegal activity; to protect our legal rights, our customers, our Service or users of our Service; or to enforce our rights or defend claims. We may also transfer your information to another company in connection with a corporate restructuring, such as a sale or merger.
+
+Zomato may need to contact you to comply or cooperate with a legal request. For this purpose, we will use the email address provided to us by you. All communications sent by Zomato at such email address shall be deemed to have been communicated to you. 
+
+### Children
+
+Our Service is not intended for use by children under the age of thirteen (13). We do not knowingly allow children under the age of thirteen (13) to register for any service, and we do not knowingly collect any personally identifiable information from children under the age of thirteen (13). If you become aware that a child has provided us with personal information without parental consent, please contact us at [privacy@zomato.com](mailto:privacy@zomato.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+
+### Job Applicants
+
+If your information is submitted to us through our Service when applying for a position with our company, the information will be used to consider your application. We may retain your information for any period of time. This information may be shared with other companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+
+### Security
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Data Retention and Account Termination
+
+You can close your account by visiting your profile settings page on our website. We will remove your public posts from view and/or dissociate them from your account profile, but we may retain information about you for the purposes authorized under this Privacy Policy unless prohibited by law. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Service or to comply with legal obligations.
+
+### Dispute Resolution
+
+If you believe that Zomato has not adhered to this Privacy Policy you may contact us online by emailing [privacy@zomato.com](mailto:privacy@zomato.com) or write to us at the following address:
+
+Zomato Media Private Limited  
+GF12A, 94 Meghdoot, Nehru Place,  
+New Delhi, India 110056
+
+### Jurisdiction
+
+The information we obtain from or about you may be processed and stored in India and our other various servers located across the globe. Each location may provide for different data protection rules than the country in which you reside. If you have any questions relating to your personal data, please write to us on [privacy@zomato.com](mailto:privacy@zomato.com)
 
   
 
