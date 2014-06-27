@@ -1,1664 +1,288 @@
-<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2012-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121213090113id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627151134id_/http%3A//www.clickability.com/Privacy-Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-				
-			
-    <title>Clickability | www.clickability.com | Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="description" content="">
-	<meta name="keywords" content="">
-<meta name="google-site-verification" content="5jv_khu4RQ8Onlgo9LuHV6nFeWt3-8gsPSftTAheLIs">
-	<link rel="shortcut icon" href="http://media.cmssuccess.com/designimages/favicon.ico">
-     
+    <link rel="shortcut icon" href="http://media-cms.clickability.com/designimages/click-blue.ico">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <title></title>
 
-	//Objects to interact with server
-	var CMSUtil = {
-		interactWithServer: function(form, isAjax, buildObjectFunction, 
-									returnFunction, action, servlet, 
-									extraFields){
-			if(isAjax == true && returnFunction != null){
-            	var queryString = this.serializeForm(form);
-				if(queryString != null){
-					if(action != null){
-						queryString += "&action=" + action + "&isAjax=Y";	
-					}else{
-            			queryString += "&isAjax=Y";
-            		}
-            		if(extraFields){
-            			queryString += extraFields;
-            		}
-            		
-            		var req = this.getXmlRequestObject();
-					if(req != null) {
-            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
-						req.onreadystatechange = handlerFunction;
-						req.open("POST", servlet, true);
-            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-            			req.send(queryString);
-            			return false;
-					}
-				}
-            }else{
- 				this.submitUserFormNoAJAX(form, action, servlet); 
-			}
-		},
-		
-		getXmlRequestObject: function() {
-			var req;
-			if(window.XMLHttpRequest){
-				req = new XMLHttpRequest();
-			}else if(window.ActiveXObject){
-				try{
-					req = new ActiveXObject("Msxml2.XMLHTTP");
-				}catch(e){
-					try{
-						req = new ActiveXObject("Microsoft.XMLHTTP");
-					}catch(e){
-               			return null;
-               		}
-				}
-			}
-    		return req;
-		},
-		
-		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
-
-			return function () {
-
-		    	// If the request's status is "complete"
-    			if (req.readyState == 4) {
-      
-      				// Check that a successful server response was received
-   		   			if (req.status == 200) {
-
-        				// Pass the XML payload of the response to the 
-        				// handler function
-        				var response = "(" + req.responseText + ")";
-            			response = eval(response);
-						buildObjectFunction(response);	
-            			returnFunction(response); 
-					} else {
-						// An HTTP problem has occurred
-        				alert("HTTP error: "+req.status);
-      				}
-    			}
-  			}
-		},
-		
-		serializeForm: function(form){
-			var paramString = "";
-			var ampRegex = new RegExp("&", "g");
-	  		var replaceAmpStr = escape("&#38;");
-	  		var percentRegex = new RegExp("%", "g"); 
-	   		var replacePerStr = escape("&#37;");
-
-       		for(var i = 0;i < form.elements.length;i++){
-       			var field = form.elements[i];
-       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
-       				if(field.type === "checkbox" && !field.checked){
-       					 continue;
-       				}
-					var fieldValue = field.value;
-					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
-	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
-       				paramString += field.name + "=" + fieldValue + "&";
-           		}
-       		}
-
-			return paramString;
-		},
-		submitUserFormNoAJAX: function(form, action, servlet){
-			if(servlet == null) return null;
-    	    form.action = servlet;
-
-    	    if(action != null) {
-    	    	var actionField = document.createElement('input');
-    	    	actionField.setAttribute('name', 'action');
-  					actionField.setAttribute('type', 'hidden');
-  					actionField.value = action;
-    	    	form.appendChild(actionField);
-    	    	
-    	    }
-    		form.submit();
-    	}
-    	
-	}
-	
-	var Action = {
-		attachAction: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "attachActionAJAX";
-			} else {
-				action = "attachAction";
-			}
-			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
-		},
-		
-		deleteAction: function(form, isAjax, returnFunction){
-        	var action = "";
-        	if(isAjax){
-        		action = "deleteActionAJAX";
-        	} else {
-        		action = "deleteAction";
-        	}
-        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
-        },
-		
-		
-		buildAction: function(response){
-			if(response.success == true){
-				Action.actionID = response.actionID;
-				Action.contentID = response.contentID;
-				Action.commentID = response.commentID;
-				Action.contentTypeID = response.contentTypeID;
-				Action.actionDate = response.actionDate;
-				Action.userID = response.userID;
-				Action.actionType = response.actionType;
-				Action.slugLine = response.slugLine;
-			} else {
-			 	Action.error = response.error;
-			}
-		},
-		
-		deletedAction: function(response){
-			if(response.success == true){
-				Action.actionID = response.actionID;
-			} else {
-				Action.error = response.error;
-			}
-		}
-	}
-	
-	var Ranking = {
-		insertRanking: function(form, isAjax, returnFunction){
-			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
-		},
-		
-		buildRanking: function(response){
-			if(response.success == true){
-				Ranking.success = true;
-				Ranking.objectId = response.objectId;
-				Ranking.type = response.type;
-				Ranking.ipAddress = response.ipAddress;
-				Ranking.rankDate = response.rankDate;
-				Ranking.upRanking = response.upRanking;
-				Ranking.downRanking = response.downRanking;
-			} else {
-				Ranking.error = response.error;
-			}
-		}
-			
-	}
-			
-	var Rating = {
-		addRating: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "addRatingAJAX";
-			} else {
-				action = "addRating";
-			}
-            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
-        },
-        
-        insertRating: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
-		},
-        
-		buildRating: function(response){
-			if(response.success == true){
-				Rating.id = response.id;
-				Rating.rating = response.rating;
-				Rating.upvote = response.upvote;
-				Rating.downvote = response.downvote;
-				Rating.type = response.type;
-				Rating.date = response.date;
-				Rating.ipAddress = response.ipAddress;
-			}else{
-				Rating.error = response.error;
-			}
-		}
-		
-	}
-	
-	var User = {
-		createUser: function(form, isAjax, returnFunction){	
-		    var action = "";
-			if(isAjax){
-				action = "createProfileAJAX";
-			} else {
-				action = "createProfile";
-			}
-            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		loginUser: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "doLoginProfileAJAX";
-			} else {
-				action = "doLoginProfile";
-			}
-        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateUser: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateProfileAJAX";
-			} else {
-				action = "updateProfile";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateRegistration: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateRegistrationAJAX";
-			} else {
-				action = "updateReg";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		updateProfilePassword: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				action = "updateProfilePasswordAJAX";
-			} else {
-				action = "updateProfilePassword";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		insertProfilePic: function(form, isAjax, returnFunction){
-			var action = "";
-			if(isAjax){
-				//not implemented as of yet
-				return;
-				//action = "updateImageAJAX";
-			} else {
-				action = "updateImage";
-			}
-			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
-		},
-		
-		buildUser: function(response){
-			if(response.success == true){
-				User.ID = response.ID;
-				User.username = response.username;
-				User.email = response.email;
-				User.firstName = response.firstName;
-				User.lastName = response.lastName;
-				User.birthDate = response.birthDate;
-				User.createDate = response.createDate;
-				User.title = response.title;
-				User.company = response.company;
-				User.address1 = response.address1;
-				User.address2 = response.address2;
-				User.city = response.city;
-				User.state = response.state;
-				User.zipcode = response.zipcode;
-				User.country = response.country;
-				User.custom1 = response.custom1;
-				User.custom2 = response.custom2;
-				User.custom3 = response.custom3;
-				User.custom4 = response.custom4;
-				User.custom5 = response.custom5;
-				User.custom6 = response.custom6;
-				User.custom7 = response.custom7;
-				User.custom8 = response.custom8;
-				User.custom9 = response.custom9;
-			}else{
-				User.error = response.error;
-				User.errorMsg = response.errorMsg;
-				User.errorCode = response.errorCode;
-			}
-		}
-	}
-	
-	var UserContent = {
-		insertContent: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			UserContent.messages = null;
-			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
-		},
-		
-		editContent: function(form, isAjax, returnFunction){
-			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
-		},
-		
-		buildContent: function(response){
-			if(response.success == true){
-				for (var i=0; i< response.fields.length; i++){
-					var field = response.fields[i];
-					UserContent[field] = response[field];
-				}
-				UserContent.contentID = response.contentID;
-				UserContent.contentType = response.contentType;
-				UserContent.title = response.title;
-				UserContent.status = response.status;
-			} else {
-				UserContent.error = response.error;
-				UserContent.messages = response.messages;
-			}
-		}
-	}
-	
-	var Comment = {
-	
-		insertComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
-		},
-	
-		deleteComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			}else{
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
-		},
-		
-		updateComment: function(form, isAjax, returnFunction){
-			var extraQueryStr = null;
-			if(isAjax){
-				extraQueryStr = getFieldsForForm();
-			} else {
-				addFieldsToForm(form);
-			}
-			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
-		},
-		
-		buildComment: function(response){
-						Comment.name = null;
-			Comment.website = null;
-			Comment.title = null;
-			Comment.comment = null;
-			Comment.email = null;
-			Comment.rating = null;
-			Comment.ratingType = null;
-			Comment.commentType = null;
-			Comment.flagged = false;
-			Comment.isAuthor = false;
-			Comment.error = null;
-			Comment.status = null;
-			Comment.level = 0;
-			Comment.parentID = 0;
-			Comment.threadID = 0;
-			Comment.id = 0;
-			Comment.extID = null;		
-		
-			if(response.success == true){
-				Comment.id = response.id;
-				Comment.name = response.name;
-				Comment.comment = response.comment;
-				Comment.email = response.email;
-				Comment.website = response.website;
-				Comment.title = response.title;
-				Comment.isAuthor = response.isAuthor;
-				Comment.flagged = response.flagged;
-				Comment.status = response.status;
-				Comment.rating = response.rating;
-				Comment.ratingType = response.ratingType;
-				Comment.commentType = response.commentType;
-				if(Comment.status == "AUTHOR"){
-					Comment.isAuthor = true;
-				} else if(Comment.status != "APPROVED") {
-					Comment.flagged = true;
-				}
-			    Comment.id = response.id;
-			    Comment.threadID = response.threadID;
-			    Comment.parentID = response.parentID;
-			    Comment.level = response.level;
-			    Comment.extID = response.extID;
-			} else {
-				Comment.error = response.error;
-			}
-		},
-		
-		nullifyComment: function(response){
-			if(response.success == true){
-				Comment.comment = null;
-				Comment.email = null;
-				Comment.website = null;
-				Comment.title = null;
-				Comment.isAuthor = null;
-				Comment.flagged = null;
-				Comment.status = null;
-				Comment.id = 0;
-			    Comment.threadID = 0;
-			    Comment.parentID = 0;
-			    Comment.level = 0;
-			    Comment.extID = null;
-			} else {
-				Comment.error = response.error;
-			}
-		}
-	}	
-	
-	var Clickability = Clickability || {};
-	Clickability.SMTK = {
-		kP : 0,
-		aT : 0,
-		myInterval : null,
-		xPos : -1,
-		yPos : -1,
-		firstX : -1,
-		firstY : -1,
-		intervals : 0,
-		cid :  15376981 ,
-		did :  426684 ,
-		d : 0,
-		mT : 0
-	}
-	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
-	document.onkeypress = lK;
-	window.onload = rAT;
-
-		Clickability.Comment = Comment;
-		
-		var p;
-	var kP = 0;
-	var	aT = 0;
-	var myInterval = Clickability.SMTK.myInterval;
-	var xPos = -1;
-	var yPos = -1;
-	var firstX = -1;
-	var firstY = -1;
-	var intervals = 0;
-	var d = 0;
-	var mT = 0;
-	var cid =  15376981 ;
-	var did =  426684 ;	
-	
-	function getMousePos(p) {
-		if(!p)var p = window.event;
-		if (p.pageX || p.pageY) {
-			Clickability.SMTK.xPos = p.pageX;
-			Clickability.SMTK.yPos = p.pageY;
-		} else if (p.clientX || p.clientY) {
-			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
-		}
-	}
-
-	
-	function lK() {	
-		Clickability.SMTK.kP++;
-	}
-
-	function rAT() {
-		Clickability.SMTK.aT = new Date();
-	}
-		
-	function timedMousePos() {
-		document.onmousemove = getMousePos;
-		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
-			var newX = Clickability.SMTK.xPos;
-			var newY = Clickability.SMTK.yPos;
-			Clickability.SMTK.intervals++;
-		}
-		if (Clickability.SMTK.intervals == 1) {
-			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
-			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
-		} else if (Clickability.SMTK.intervals == 2) {
-			clearInterval(Clickability.SMTK.myInterval);
-			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
-		}
-	}
+   <link rel="stylesheet" href="http://www.clickability.com/includes/feec59ad899ca00e89a5b869bc1645b9/screen.css">
 
 
-	function calcDistance(aX,aY,bX,bY){
-		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
-	}
-	
-	function getFieldsForForm(){
-		var sT = new Date();
-		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
-		var queryString = "&";
-		queryString += "mT=" + Clickability.SMTK.mT;
-     	queryString += "&d=" + Clickability.SMTK.d;
-     	queryString += "&kP=" + Clickability.SMTK.kP;
-     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
-     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
-     	queryString += "&socialMedia=Y";
-	    return queryString;
-	}
-		
-	function addFieldsToForm(formObj, redirect) {
-		var sT = new Date();
-		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
-		var mTField = document.createElement('input');
-		var dField = document.createElement('input');
-		var kPField = document.createElement('input');
-  		var cidField = document.createElement('input');
-  		var didField = document.createElement('input');
-  		var socialMedia = document.createElement('input');
-  	
-  	
-  		socialMedia.setAttribute('name','socialMedia');
-		socialMedia.setAttribute('type', 'hidden');
-		
-  		mTField.setAttribute('name','mT');
-		mTField.setAttribute('type', 'hidden');
-  	  
-		dField.setAttribute('name', 'd');
-		dField.setAttribute('type', 'hidden');
-  	  
-		kPField.setAttribute('name', 'kP');
-		kPField.setAttribute('type', 'hidden');
-  	
-		cidField.setAttribute('name', 'cid');
-		cidField.setAttribute('type', 'hidden');
-  	
-  		didField.setAttribute('name', 'did');
-  		didField.setAttribute('type', 'hidden');	
-  	
-  		if(redirect != null) {
-  			var pathField = document.createElement('input');
-  			pathField.setAttribute('name', 'path');
-  			pathField.setAttribute('type', 'hidden');
-  			pathField.value = redirect;
-  			formObj.appendChild(pathField);
-  		}
-  		mTField.value = Clickability.SMTK.mT;
-		dField.value = Clickability.SMTK.d;
-		kPField.value = Clickability.SMTK.kP;
-		cidField.value = Clickability.SMTK.cid;
-		didField.value = Clickability.SMTK.did;
-		socialMedia.value = "Y";
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="http://www.clickability.com/includes/cdc9715cc873c811c6b7c082d67769bf/ie.css" />
+    <![endif]-->
 
-		formObj.appendChild(dField);
-		formObj.appendChild(kPField);
-		formObj.appendChild(mTField);
-		formObj.appendChild(cidField);
-		formObj.appendChild(didField);
-		formObj.appendChild(socialMedia);
-	}		
-	
-	//helper functions
-	
-	function insertComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function updateComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function deleteComment(form, isAjax, returnFunction, showError){
-		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
-	}
-	
-	function createUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
-	}
-	
-	function updateUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
-	}
-	
-	function loginUser(form, isAjax, returnFunction, showError){
-		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertUserContent(form, isAjax, returnFunction, showError){
-		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
-	}
-	
-	function editUserContent(form, isAjax, returnFunction, showError){
-		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertProfilePic(form, isAjax, returnFunction, showError){
-		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
-	}
-	
-	function addRating(form, isAjax, returnFunction, showError){
-		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertRating(form, isAjax, returnFunction, showError){
-		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
-	}
-	
-	function attachAction(form, isAjax, returnFunction, showError){
-		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
-	}
-	
-	function deleteAction(form, isAjax, returnFunction, showError){
-		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
-	}
-	
-	function insertRanking(form, isAjax, returnFunction, showError){
-		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
-	}
-	
-	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
-		method(form, isAjax, returnFunction);
-	
-		if(isAjax){
-			return false;
-		} else {
-			return true;
-		}
-	}
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	 	  		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NCT9FN"></script><script type="text/javascript" src="http://www.clickability.com/includes/044b754904f8a320987e385d6ecc1e38/modernizr-2.6.2.min.js"></script>
+	  
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-</script>
+  <body>
+    <div class="navbar-wrapper clearfix">
 
-
-			
-		
-		
-						<link rel="stylesheet" href="http://www.clickability.com/templates/llnw.css" type="text/css" media="all">
-			
-    					<script type="text/javascript" src="http://www.clickability.com/templates/popovers.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/templates/swfobject.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/templates/Corp_Scripts_Template.js"></script>
-			
-						<script type="text/javascript" src="http://www.clickability.com/includes/CLICK_CS.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/json.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/prototype.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/effects.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/accordion.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/scriptaculous.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/domrequest.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/functions.js"></script>
-					<script type="text/javascript" src="http://www.clickability.com/includes/navigation.js"></script>
-			
-	 		<script type="text/javascript" language="javascript">
-	<!--
-		/*Show Hint script- copyright Dynamic Drive (www.dynamicdrive.com)*/
-		var horizontal_offset="15px"
-		var vertical_offset="0"
-		var ie=document.all
-		var ns6=document.getElementById&&!document.all
-		
-		function getposOffset(what, offsettype){
-			var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-			var parentEl=what.offsetParent;
-			while (parentEl!=null){
-				totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-				parentEl=parentEl.offsetParent;
-			}
-			return totaloffset;
-		}
-		
-		function iecompattest(){
-			return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-		}
-		
-		function clearbrowseredge(obj, whichedge){
-			var edgeoffset=(whichedge=="rightedge")? parseInt(horizontal_offset)*-1 : parseInt(vertical_offset)*-1
-			if (whichedge=="rightedge"){
-				var windowedge=ie && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-30 : window.pageXOffset+window.innerWidth-40
-				dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-				if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-				edgeoffset=dropmenuobj.contentmeasure+obj.offsetWidth+parseInt(horizontal_offset)
-			}else{
-				var windowedge=ie && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-				dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-				if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure)
-				edgeoffset=dropmenuobj.contentmeasure-obj.offsetHeight
-			}
-			return edgeoffset
-		}
-		
-		function showhint(menucontents, obj, tipwidth){
-			if ((ie||ns6) && document.getElementById("cmPubHelpTextPopup")){
-				dropmenuobj=document.getElementById("cmPubHelpTextPopup")
-				dropmenuobj.innerHTML=menucontents
-				dropmenuobj.style.left=dropmenuobj.style.top=-500
-				if (tipwidth!=""){
-					dropmenuobj.widthobj=dropmenuobj.style
-					dropmenuobj.widthobj.width=tipwidth
-				}
-				dropmenuobj.x=getposOffset(obj, "left")
-				dropmenuobj.y=getposOffset(obj, "top")
-				dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+obj.offsetWidth+"px"
-				dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+"px"
-				dropmenuobj.style.visibility="visible"
-				obj.onmouseout=hidetip
-			}
-		}
-		function hidetip(e){
-			dropmenuobj.style.visibility="hidden"
-			dropmenuobj.style.left="-500px"
-		}
-		function createhintbox(){
-			var divblock=document.createElement("div")
-			divblock.setAttribute("id", "cmPubHelpTextPopup")
-			document.body.appendChild(divblock)
-		}
-		if (window.addEventListener)
-			window.addEventListener("load", createhintbox, false)
-		else if (window.attachEvent)
-			window.attachEvent("onload", createhintbox)
-		else if (document.getElementById)
-			window.onload=createhintbox
-	//-->
-</script>
-
-                 <script language="javascript">AC_FL_RunContent = 0;</script>
-		<script src="http://www.clickability.com/includes/AC_RunActiveContent.js" language="javascript"></script>
-					 	   					<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=47227738"></script></head>
-<body onload="initPopOvers(); return false;">
-
-
-
-<div id="cover"></div>
-<div id="slide">
-	<div id="toggleBox">
-		<img src="http://media3.clickability.com/designimages/close.gif" alt="" width="52" height="16" border="0" onclick="hideMediaPlayer()"> 
-	</div>
-	<div id="mediaWrapper">
-		<div id="mediaPlayer">
-
-		</div>
-	</div>	
-</div>
-
- 	   		
-     	  		
-		
-<script language="javascript1.2">var trkcid=15376981;var partnerID=426689; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/g/g/button/button_1.js"></script>
-  <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=15376981";_q+="&7=426689";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=15376981";_qc+="&7=426689";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=15376981&7=426689&25=0&18=0.1549743248553047">
-</noscript>
-
-
-
-   <a name="top"></a>
-    
-
-<div id="main-wrapper">    
-    <div id="headerBg">
-       <div id="headWrapper">
-            <div id="headLeft">
-
-                <a href="/"><img src="http://media3.clickability.com/designimages/logo4.png" alt="Limelight Networks | Clickability is now Dynamic Site Platform" border="0"></a>
-
-            <!--    <div id="tagLine">
-                    Dynamic Websites. Delivered. 
-
-                </div> -->
+        <div class="navbar" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button class="glyphicon glyphicon-align-justify navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"></button>
+                <a class="navbar-brand" href="http://www.clickability.com"><img src="http://media3.clickability.com/images/clickability-logo.png" alt="clickability-logo" class="brand"></a>
             </div>
-            <div id="headRight">
-                <div id="headRightTop">
-                    <div id="headRightTopWrapper">
-                        <div id="headRightTopForm">
-                            <form class="clk_search" action="/search" method="get">
-                                <table border="0" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                        <td>
-                                            <input name="keywords" type="text" class="searchClk" value="Search" onfocus="clearDefault(this)">
-                                        </td>
-                                        <td>
-                                            <input name="submit2" type="image" class="submitClk" value="submit" src="http://media3.clickability.com/designimages/submitClk2.gif">
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            </form>
-                        </div>
+            <div class="navbar-collapse collapse">
 
-                        <div id="headRightTopLinks">
-                            <span class="smallLinksWrapper">
-							
-								<a class="headRightTopNav" href="http://community.clickability.com/support" target="_blank">SUPPORT</a>
-								/
-								<a class="headRightTopNav" href="https://cms.clickability.com/index.html" target="_blank">CUSTOMER LOGIN</a>
-								
-							</span>
-                        </div>
-                    </div>
-                </div>
-                <div id="headRightBot">
-                    <!-- [BEGIN navigation ] -->
-												<!-- start nav template -->
-					<!-- [BEGIN New Navigation] -->
-					<ul id="navigation">
-					
-						<li class="nav-products">
+              <div id="sb-search" class="sb-search">
+                <form action="/search" method="get">
+                  <input class="sb-search-input" type="text" value="" name="q" id="q">
+                  <input class="sb-search-submit" type="submit" value="">
+                  <span class="sb-icon-search glyphicon glyphicon-searh"></span>
+                </form>
+              </div>
+              
+                              <ul class="top-nav nav navbar-nav navbar-right">
+			<li><a href="https://support.clickability.com/" target="support">Support</a></li>
+			<li><a href="https://cms.clickability.com/cms" target="Clickability">Login</a></li>
+			<li><a href="http://status.clickability.com" target="_blank">Platform Status</a></li>
+		</ul>
+<ul class="main-nav nav navbar-nav navbar-right">
+		<li class="active"><a href="/solution/Benefits-for-Enterprise-Marketers.html" class="dropdown-toggle" data-hover="dropdown">Solutions</a>
+			<ul class="dropdown-menu">
+			<li><a href="/solution/Benefits-for-Enterprise-Marketers.html">For Digital Marketers</a></li>	
+			<li><a href="/solution/Benefits-for-Online-Publishers.html">For Online Publishers</a></li>	
+			<li><a href="/solution/Features.html">Features Overview</a></li>	
+			</ul>
+		</li>
 
-						
-							<a>Products</a>
-							
-							<div class="nav-arrow"><!-- --></div>
-							
-							<div class="nav-box">
-							
-								<div class="nav-box-top">
-								
-									<div class="nav-box-left">
-									
-										<a href="/products/products_overview.html" class="products-overview active" style="padding-top:5px;padding-bottom:5px;">Products Overview</a>
-										<a href="/products/web_content_management.html" class="web-content-management">Dynamic Site Platform</a>
+		<li class="active"><a href="/technology/Tech-Overview.html" class="dropdown-toggle" data-hover="dropdown">Technology</a>
+		
+		<ul class="dropdown-menu">
+			<li><a href="/technology/Tech-Overview.html">Platform Overview</a></li>									
+			</ul>
+			</li>
+		<li class="active"><a href="/services/Professional-Services.html" class="dropdown-toggle" data-hover="dropdown">Services</a>
+		<ul class="dropdown-menu">
+			<li><a href="/services/Professional-Services.html">Professional Services</a></li>									
+			<li><a href="/services/Support.html">Support</a></li>									
+			<li><a href="/services/Partners-List.html">Partners</a></li>									
+			</ul>
+		</li>
+		<li class="active"><a href="/customers/" class="dropdown-toggle" data-hover="dropdown">Customers</a>
+			<ul class="dropdown-menu">
+			<li><a href="/customers/">Case Studies</a></li>									
+			</ul>
+		</li>
+		<li class="active"><a href="/about/Clickability.html" class="dropdown-toggle" data-hover="dropdown">About</a>
+			<ul class="dropdown-menu">
+			<li><a href="/about/Clickability.html">Clickability</a></li>									
+			<li><a href="/about/contact-us/">Contact Us</a></li>									
+			<li><a href="/about/news/">News</a></li>	
+			<li><a href="/blog/">Blog</a></li>																	
+			<li><a href="/resources/">Resources</a></li>									
+			</ul>
+		</li>
+		</ul>
 
-										<a href="/products/website_marketing_acceleration.html" class="website-marketing-acceleration">Website Marketing Acceleration</a>
-										<a href="/products/clickability_express_solution.html" class="clickability-express-solution">Dynamic Site Platform Express</a>
-										<a href="/products/Dynamic_Site_Platform_for_Mobile.html" class="clickability-express-solution">Dynamic Site Platform for Mobile</a>
-										
-									</div>
-									
-									<div class="nav-box-center">
-									
-										<a href="/products/resources/" class="header-link product-resources">Product Resources</a>
-									
-										<a href="/products/resources/Product-Overview-Clickability-WCM-Concepts-and-Capabilities.html">White Paper: WCM Product Concepts Overview</a>
-
-										<a href="/products/resources/Solution-Overview-Clickability-Website-Marketing-Accleration.html">Solution Overview:  Web Marketing Acceleration</a>
-										<a href="/products/resources/Clickability-Website-Express-Solution.html">Data Sheet: Dynamic Site Platform Express</a>
-										<a href="/products/resources/SaaS-vs-on-premise.html">White Paper: SaaS WCM vs. On-Premise Solutions </a>
-										<a href="/products/resources/Comparison-Clickability-WMA-and-Marketing-Automation-Systems.html">Comparison: WMA™ and Marketing Automation</a>
-										<a href="/products/resources"><strong>» More Resources</strong></a>
-									</div>
-									
-									<div class="nav-box-right">
-
-									
-										<a class="header-link product-features nolink">WCM Features</a>
-										<a href="/products/What_is_Software-as-a-Service.html">What is Software as a Service?</a>
-										<a href="/products/Multilingual_Publishing.html">Multilingual Publishing</a>
-										<a href="/products/Multi-Site_Management.html">Multi-Site Management</a>
-										<a href="/products/Social_Media.html">Social Media</a>
-										<a href="/products/Search.html">Search</a>
-
-										<a href="/products/Mobile_Publishing_on_the_Clickability_Platform.html">Mobile</a>
-										<a href="/products/Pricing_Overview.html">Pricing Overview</a>
-																				
-									</div>
-									
-									<div class="clear"><!-- --></div>
-									
-								</div>
-								
-							</div>
-							
-						</li>
-						
-						<li class="nav-technology">
-
-						
-							<a>Technology</a>
-							
-							<div class="nav-arrow"><!-- --></div>
-							
-							<div class="nav-box">
-							
-								<div class="nav-box-top">
-								
-									<div class="nav-box-left">
-									
-										<a href="/technology" class="technology-overview active">Technology Overview</a>
-										<a href="/technology/platform_architecture.html" class="Platform-Architecture" style="padding-top:5px;padding-bottom:5px;">Platform Architecture</a>
-
-										<a href="/technology/developer_tools.html" class="Developer-Tools" style="padding-top:5px;padding-bottom:5px;">Developer Tools</a>
-										<a href="/technology/integration.html" class="Integration" style="padding-top:5px;padding-bottom:5px;">Integration</a>
-										<a href="/technology/operations.html" class="Operations-and-Infrastructure">Operations and Infrastructure</a>
-										<a href="/technology/clickability-security.html" class="Security" style="padding-top:5px;padding-bottom:5px;">Security</a>
-									</div>
-									
-									<div class="nav-box-center">
-									
-										<a class="nolink header-link technology-resources">Technology Resources</a>
-
-										<a href="/products/resources/White-Paper-Clickability-Infrastructure-and-Operations.html">White Paper: Clickability Infrastructure and Operations</a>
-										<a href="/products/resources/White-Paper-Clickability-Security-Overview.html">White Paper: Security Overview</a>
-										<a href="/products/resources/White-Paper-Clickability-Developer-Tools-Overview.html">White Paper: Developer Tools Overview </a>
-										<a href="/products/resources"><strong>» More Resources</strong></a>
-										<br><br>
-										
-										
-									</div>
-									
-									<div class="nav-box-right">
-
-									
-										<a class="nolink header-link technology-features">Featured<br>White Paper</a>
-										<a href="/products/resources/SaaS-vs-on-premise.html">White Paper: SaaS WCM vs. On-Premise Solutions </a>
-										
-									</div>
-									
-									<div class="clear"><!-- --></div>
-									
-								</div>
-								
-							</div>
-							
-						</li>
-
-						
-						<li class="nav-services">
-						
-							<a>Services</a>
-							
-							<div class="nav-arrow"><!-- --></div>
-							
-							<div class="nav-box">
-							
-								<div class="nav-box-top">
-								
-									<div class="nav-box-left">
-									
-										<a href="/services" class="services-overview active" style="padding-top:5px;padding-bottom:5px;">Services Overview</a>
-										<a href="/services/professional_services.html" class="Professional-Services">Professional Services</a>
-
-										<a href="/services/Technical-Support.html" class="Customer-Support" style="padding-top:5px;padding-bottom:5px;">Customer Support</a>
-									</div>
-									
-									<div class="nav-box-center">
-									
-										<a class="nolink header-link Additional-Support-Resources">Support Resources</a>
-										<a href="/services/Training_and_Learning.html">Training and Learning</a>
-										<a href="/services/Clickability_Community.html">Customer Community</a>
-										<br>
-									</div>
-
-									
-									<div class="nav-box-right">
-									
-										<a href="/services/partners.html" class="header-link Parters">Parters</a>
-										<a href="/services/partners.html">View our Partners</a>
-										<a href="/company/contact_us">Interested in partnering? Contact us</a>
-									
-										
-									</div>
-									
-									<div class="clear"><!-- --></div>
-									
-								</div>
-
-								
-							</div>
-							
-						</li>
-						
-						<li class="nav-customers">
-						
-							<a>Customers</a>
-							
-							<div class="nav-arrow"><!-- --></div>
-							
-							<div class="nav-box">
-							
-								<div class="nav-box-top">
-								
-									<div class="nav-box-left">
-
-										 
-										<a href="/customers/" class="customers-overview active">Customers Overview</a>
-										<a href="/customers/success" class="Case-Studies" style="padding-top:5px;padding-bottom:5px;">Case Studies</a>
-										<a href="/customers/list/enterprise" class="Customer-List">Enterprise Customers</a>
-										<a href="/customers/list/media" class="Customer-List" style="padding-top:5px;padding-bottom:5px;">Media Customers</a>
-										
-										
-									</div>
-									
-									<div class="nav-box-center">
-									
-										<a class="nolink header-link Featured-Case-Study">Featured<br>Case Study</a>
-
-										<a href="/customers/success/118625779.html">Video interview: PR Newswire</a>
-										<br>
-										<br>
-										<br>
-									</div>
-									
-									<div class="nav-box-right">
-									
-										<a class="nolink header-link Customer-News">Customer<br>News</a>
-										<a href="http://www.foliomag.com/2010/publishing-cloud-0" target="_blank">e.Republic Reaps Benefits Working in the Cloud</a>
-																	
-									</div>
-									
-									<div class="clear"><!-- --></div>
-
-									
-								</div>
-								
-							</div>
-							
-						</li>
-						
-						<li class="nav-about">
-						
-							<a>About</a>
-							<div class="nav-arrow"><!-- --></div>
-							
-							<div class="nav-box">
-							
-								<div class="nav-box-top">
-
-								
-									<div class="nav-box-left">
-									
-										<a href="/company" class="company-overview active" style="padding-top:5px;padding-bottom:5px;">Company Overview</a>
-										<a href="/company/Leadership.html" class="Leadership" style="padding-top:5px;padding-bottom:5px;">Leadership</a>
-
-						
-									</div>
-									
-									<div class="nav-box-center">
-									
-										<span class="nolink header-link company-resources">Company Resources</span>
-
-										<a href="/company/jobs.html">Jobs</a>
-										<a href="/company/contact_us/">Contact Us</a>
-										<br>
-									</div>
-									
-									<div class="nav-box-right">
-									
-										<a href="/news" class="header-link Latest-News">Latest News</a>
-										<a href="/news/clickability_in_the_news">Clickability In the News</a>
-										<a href="/news/press-releases">Press Releases</a>
-
-										<a href="/news/blog">Clickability Blog</a>
-									</div>
-									
-									<div class="clear"><!-- --></div>
-									
-								</div>
-								
-							</div>
-							
-						</li>
-						
-					</ul>
-					<!-- [END New Navigation] -->
-
-                    <!-- [END navigation ] -->
-                </div>
+              
+              
+              
+              	
+					  
             </div>
+          </div>
         </div>
-</div>
-<div id="mainsectionWrapper">
 
 
-	<div id="contentsectionInner">
-		<div id="content">
-							<div id="contentThree"><div id="nextWrapper">
-	<div id="nextHeader">
-		<span class="nextsteps">NEXT STEPS</span>
-	</div>
-	<div id="nextBody">
-								<div id="home-box-top">
-				<p><a onclick="showMediaPlayerVid1(123148343);" href="#"><img src="http://media3.clickability.com/designimages/video-overview2.gif" height="17" width="134" alt="Video Overview" border="0"></a></p>
-				<p><a href="/company/contact_us"><img src="http://media3.clickability.com/designimages/request-a-demo2.gif" height="17" width="134" alt="Request a Demo" border="0"></a></p>
-				<p><!-- BEGIN LivePerson Button Code -->
-				</p><div id="lpButDivID-1295917182789"></div>
-				<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/47227738/?cmd=mTagRepstate&amp;site=47227738&amp;buttonID=13&amp;divID=lpButDivID-1295917182789&amp;bt=1&amp;c=1"></script>
-				<!-- END LivePerson Button code -->
-				<p></p>
-				<p style="padding-top:6px;"><a href="/products/resources"><img src="http://media3.clickability.com/designimages/view-resources2.gif" height="17" width="134" alt="Request a Demo" border="0"></a></p>
-												<p><a href="/company/contact_us">Call 888.352.9682</a></p>
-				<p>Connect Online:<br>
-				<a href="http://twitter.com/Clickability" target="_blank"><img src="http://media3.clickability.com/designimages/social-twitter.gif" width="24" height="24" alt="Follow Us on Twitter" border="0"></a>
-				<a href="http://www.linkedin.com/companies/clickability" target="_blank"><img src="http://media3.clickability.com/designimages/social-linkedin.gif" width="24" height="24" alt="View Our LinkedIn Profile" border="0"></a>
-				<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.clickability.com%2F&amp;t=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-facebook.gif" width="24" height="24" alt="Share on Facebook" border="0"></a>
-				<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.clickability.com%2F&amp;title=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-digg.gif" width="24" height="24" alt="Digg This" border="0"></a>
-				<a href="http://delicious.com/post?v=4&amp;partner=clickability&amp;noui&amp;jump=close&amp;url=http%3A%2F%2Fwww.clickability.com%2F&amp;title=SaaS+Web+Content+Management+System+%28WCM%29+for+Enterprises" target="_blank"><img src="http://media3.clickability.com/designimages/social-delicious.gif" width="24" height="24" alt="Add to Delicious" border="0"></a></p>
-			</div>
-			<div id="home-box-bottom"><!-- --></div>
-			</div>	<div class="thinBottom"></div>
-</div>
+    </div>
 
+    <div class="blue-container page-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 col-sm-6">
+            <h1>Privacy Policy</h1>
+          </div>
 
-				
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-	
+          <div class="action-links col-md-5 col-sm-6">
+           <!-- <ul>
+              <li><a href="">Add to my saved content</a><span class="divider">|</span></li>
+              <li><a href="">Email</a></li>
+            </ul>
+            -->
+          </div>
+        </div>
+      </div>
+        
+    </div>
 
+    <div class="container large-text">
+   
+      
+      <div class="row">
+               </div>
+    </div>
 
-									
-
-
-
-
-
-	
-
-
-
-<!--startclickprintexclude-->
-
-<!--endclickprintexclude-->
-
-
-
-
-</div>
-			
-		<div id="contentTwo">
-			<div class="wideHeaderShort"></div>
-			<div class="wideBody">
-			<!--startclickprintinclude-->
-									
-								
-									<h1>
-																					Privacy Policy
-																		</h1>
-							
-				<div id="newsarticle">
-											<!--startclickprintexclude-->
-<div id="textNav">
-			<a href="/s?action=addToPortfolio&amp;t=C&amp;i=15376981&amp;d=426684&amp;rurl=http://www.clickability.com/Privacy_Policy.html">ADD TO MY SAVED CONTENT</a>
-		 |
-	<a href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());">EMAIL</a>
-	 | 
-	<a href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());">PRINT</a>
-</div>
-<!--endclickprintexclude-->
-
-					
-	
-<script src="http://www.clickability.com/includes/jquery-1.7.1.min.js" type="text/javascript"></script>
-<script>jQuery.noConflict();</script>
-<script src="http://www.clickability.com/includes/jquery-ui-1.8.17.custom.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="http://www.clickability.com/includes/jquery-ui.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.clickability.com/includes/ui.theme.css" type="text/css" media="all">
-
-<script type="text/javascript">// <![CDATA[
-
-	function displayEmsg(emsg){
-		jQuery( "#addMessages" ).html(emsg);
-		jQuery( "#msg-container" ).dialog({
-			modal: true,
-			buttons: {
-				Ok: function() {
-					jQuery( this ).dialog( "close" );
-				}
-			}
-		});
-	}
-
-	var structRequiredFields = {
-		"firstname" : "Please enter your first name.",
-		"lastname" : "Please enter your last name.",
-		"company" : "Please enter your company.",
-		"Title" : "Please enter your Job Title.",
-		"phonenumber" : "Please enter your phone number.",
-		"email" : "Please enter an Email Address."
-	}
-	
-	var txtEmailNotValid = "Email address is not valid. Please enter a valid email address.";
-
-	var isEmailValid = function(email) {
-		var emailRegExp = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
-		return email.match(emailRegExp);
-	}
-	
-	function validateForm(form) {
-	
-		messageStack = [];
-		
-		for (key in structRequiredFields) {
-			if (form[key] && !form[key].value) {
-				messageStack[messageStack.length] = structRequiredFields[key];
-			}
-		}
-		
-		if (form.email && form.email.value && !isEmailValid(form.email.value) ) {
-			messageStack[messageStack.length] = txtEmailNotValid;
-		}
-		
-		if (messageStack.length) {
-			if (messageStack.length == 1) {
-				document.getElementById("msg-container").title = "There is one error:";
-				// jQuery persists this stuff in another span tag.
-				jQuery("#ui-dialog-title-msg-container").html(document.getElementById("msg-container").title);
-			} else {
-				document.getElementById("msg-container").title = "There are " + messageStack.length + " errors:";
-				jQuery("#ui-dialog-title-msg-container").html(document.getElementById("msg-container").title);
-			}
-			var htmlError = "";
-			for (var i=0; i<messageStack.length; i++){
-				htmlError += messageStack[i] + "<br />";
-			}
-			displayEmsg(htmlError);
-			messageStack.length = 0;
-			return false;
-		}
-
-	} // validateForm()
-
-// ]]></script>
-
-<div id="msg-container" title="Please correct the following:" style="display: none;"><p id="addMessages">&nbsp;</p></div>
-
-						
-										
-	
-			
-									
-										
-	
-			
-									
-										
-	
-			
-			
-
-
-
-
-
-<div class="calloutText">
-	
-</div>    
-<div class="leadline">
-	
-</div>  
-<div class="bodyCopy">
-	<p>
-	
-
-
-	</p><p>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
-<p>&nbsp;</p>
+    <div class="feature-list">
+      <div class="container">
+      <div id="newsarticle" style="margin-bottom: 20px; font-family: Arial, sans-serif; font-size: medium;">
+<div class="bodyCopy" style="font-size: 14px; color: #333333; line-height: 17.5px; margin-top: 10px; margin-right: 0px; margin-left: 9px; width: 716px;">
+<p>This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).&nbsp; Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.&nbsp; Please read the following to learn more about our privacy policy.&nbsp; By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.</p>
 <h3>What Does This Privacy Policy Cover?</h3>
 <p>This Privacy Policy covers Clickability’s treatment of personal information that Clickability gathers when you are on the Clickability websites and when you use Clickability products or services.&nbsp; Also, this Privacy Policy covers Clickability’s treatment of any personal information that Clickability’s business partners share with Clickability.&nbsp; This policy does not apply to the practices of third parties that Clickability does not own or control, or to individuals that Clickability does not employ or manage.</p>
 <h3>What Personal Information About Users Does Clickability Collect?</h3>
-<p>Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:<br>
-<br>
-A)&nbsp; Information You Provide to Us: <br>
-<br>
-&nbsp;&nbsp;&nbsp; º We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.&nbsp; The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.&nbsp; We use links throughout our websites to provide you with the opportunit&nbsp;&nbsp;&nbsp; y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.&nbsp; We also collect and use personal information in the context of the services we provide to our customers.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º Registration: Users of certain Clickability services must complete a registration form.&nbsp; As part of this registration form, we require your first and last name, your e-mail address and other information as required by the specific registration form.<br>
-<br>
-B)&nbsp;&nbsp; Automatic Information:<br>
-<br>
-&nbsp;&nbsp;&nbsp; º We may receive and store certain types of information whenever you interact with us online.&nbsp; Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.&nbsp; Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.&nbsp;&nbsp; <br>
-<br>
-&nbsp;&nbsp;&nbsp; º We may capture information when you visit our websites for aggregate statistical analysis and website customization.&nbsp; Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.).<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; Many companies offer programs that help you to visit websites anonymously.&nbsp; While Clickability will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.<br>
-<br>
-(C)&nbsp;&nbsp; E-mail Communications:<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; We may receive a confirmation when you open an e-mail from Clickability if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.&nbsp; We may also send out e-mails with news or promotions.&nbsp; If you do not want to receive e-mail or other mail from us, please follow the instructions contained in that e-mail.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:<br><br>A)&nbsp; Information You Provide to Us:&nbsp;<br><br>&nbsp;&nbsp;&nbsp; º We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.&nbsp; The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.&nbsp; We use links throughout our websites to provide you with the opportunit&nbsp;&nbsp;&nbsp; y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.&nbsp; We also collect and use personal information in the context of the services we provide to our customers.<br><br>&nbsp;&nbsp;&nbsp; º Registration: Users of certain Clickability services must complete a registration form.&nbsp; As part of this registration form, we require your first and last name, your e-mail address and other information as required by the specific registration form.<br><br>B)&nbsp;&nbsp; Automatic Information:<br><br>&nbsp;&nbsp;&nbsp; º We may receive and store certain types of information whenever you interact with us online.&nbsp; Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.&nbsp; Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.&nbsp;&nbsp;&nbsp;<br><br>&nbsp;&nbsp;&nbsp; º We may capture information when you visit our websites for aggregate statistical analysis and website customization.&nbsp; Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.).<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; Many companies offer programs that help you to visit websites anonymously.&nbsp; While Clickability will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.<br><br>(C)&nbsp;&nbsp; E-mail Communications:<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; We may receive a confirmation when you open an e-mail from Clickability if your computer supports this type of program, in order to help us make e-mails more interesting and helpful.&nbsp; We may also send out e-mails with news or promotions.&nbsp; If you do not want to receive e-mail or other mail from us, please follow the instructions contained in that e-mail.</p>
 <h3>What about Cookies?</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; º&nbsp; Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.&nbsp; Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is.&nbsp; <br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.&nbsp; We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; º&nbsp; Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.&nbsp; Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is.&nbsp;&nbsp;<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.&nbsp; We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.</p>
 <h3>Will Clickability Share Any of the Information it Receives?</h3>
-<p>We neither rent nor sell your personal information to anyone.&nbsp; We share your personal information only with your consent or as described below:<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; Affiliated Business We Do Not Control:<br>
-<br>
-We are affiliated with a variety of businesses and work closely with them.&nbsp; You can easily recognize when an affiliated business is associated with your transaction.&nbsp; We will only share personal information that is necessary for the affiliate to complete the transaction.&nbsp; We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º Personnel:<br>
-<br>
-Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; Agents:<br>
-<br>
-We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.&nbsp; You hereby consent to our sharing of your personal information for the above purposes. <br>
-<br>
-&nbsp;&nbsp;&nbsp; º Business Transfers:<br>
-<br>
-In some cases, we may choose to buy or sell assets.&nbsp; In these types of transactions, user information is typically one of the business assets that is transferred.&nbsp; Moreover, if Clickability, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.<br>
-<br>
-&nbsp;&nbsp; º Protection of Clickability and Others:<br>
-<br>
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Clickability, our employees, our users or others.&nbsp; This includes exchanging personal information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<p>We neither rent nor sell your personal information to anyone.&nbsp; We share your personal information only with your consent or as described below:<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; Affiliated Business We Do Not Control:<br><br>We are affiliated with a variety of businesses and work closely with them.&nbsp; You can easily recognize when an affiliated business is associated with your transaction.&nbsp; We will only share personal information that is necessary for the affiliate to complete the transaction.&nbsp; We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use personal information for any purpose other than for an authorized transaction.<br><br>&nbsp;&nbsp;&nbsp; º Personnel:<br><br>Our personnel (including, for the avoidance of doubt, consultants and/or contractors) may have access to user information while carrying out their duties in the normal course of our company business.<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; Agents:<br><br>We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.&nbsp; You hereby consent to our sharing of your personal information for the above purposes.&nbsp;<br><br>&nbsp;&nbsp;&nbsp; º Business Transfers:<br><br>In some cases, we may choose to buy or sell assets.&nbsp; In these types of transactions, user information is typically one of the business assets that is transferred.&nbsp; Moreover, if Clickability, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.<br><br>&nbsp;&nbsp; º Protection of Clickability and Others:<br><br>We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Clickability, our employees, our users or others.&nbsp; This includes exchanging personal information with other companies and organizations for fraud protection and credit risk reduction.</p>
 <h3>Is Information About Me Secure?</h3>
-<p>For users of certain Clickability services, your Clickability account information is protected by a password for your privacy and security.&nbsp; You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the personal information you input.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; Only Clickability employees who need personal information to perform a specific job are granted access to it.&nbsp; All of our employees are kept up to date on our privacy and security practices.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>For users of certain Clickability services, your Clickability account information is protected by a password for your privacy and security.&nbsp; You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; We use industry-standard Secure Socket Layer (SSL) software to protect the security of your personal information during transmission, which encrypts all of the personal information you input.<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; Only Clickability employees who need personal information to perform a specific job are granted access to it.&nbsp; All of our employees are kept up to date on our privacy and security practices.</p>
 <h3>What Information Can I Access?</h3>
-<p>For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate. </p>
-<h3>&nbsp;</h3>
-<p>&nbsp;</p>
+<p>For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate.</p>
 <h3>What Choices Do I Have?</h3>
-<p>&nbsp;&nbsp;&nbsp; º&nbsp; As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; For users of certain Clickability services, you may be able to add or update certain personal information.&nbsp; When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.&nbsp; Please note that some personal information may remain in our records after deletion of your account.&nbsp; <br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.&nbsp; Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.<br>
-<br>
-&nbsp;&nbsp;&nbsp; º&nbsp; As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp; º&nbsp; As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; For users of certain Clickability services, you may be able to add or update certain personal information.&nbsp; When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.&nbsp; Please note that some personal information may remain in our records after deletion of your account.&nbsp;&nbsp;<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.&nbsp; Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.<br><br>&nbsp;&nbsp;&nbsp; º&nbsp; As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.&nbsp;</p>
 <h3>Does Clickability Collect Personal Information from Children?</h3>
 <p>Clickability does not specifically collect personal information from children under 13 years of age.</p>
-<h3>&nbsp;</h3>
-<p>&nbsp;</p>
 <h3>Conditions of Use</h3>
-<p>If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law. </p>
+<p>If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law.</p>
 <h3>Third Party Websites</h3>
 <p>The Clickability websites and services may permit you to link to other websites on the Internet, and other websites may contain links to the Clickability websites.&nbsp; These other websites are not under Clickability control.&nbsp; The privacy and security practices of websites linked to or from the Clickability websites and services are not covered by this Privacy Policy, and Clickability is not responsible for the privacy or security practices or the content of such websites.</p>
-<h3>&nbsp;</h3>
-<p>&nbsp;</p>
 <h3>Changes to this Privacy Policy</h3>
 <p>Clickability may amend this Privacy Policy from time to time, at its sole discretion.&nbsp; Use of personal information we collect now is subject to the Privacy Policy in effect at the time such personal information is used.&nbsp; If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Clickability websites so you are always aware of what personal information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
-<h3>&nbsp;</h3>
-<h3>&nbsp;</h3>
+<h3><span style="font-size: 1.17em;">Questions or Concerns</span></h3>
+<p>If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@uplandsoftware.com.&nbsp; Your privacy is important to us and we will make every effort to resolve your concerns.&nbsp;<br><br>Effective Date of This Privacy Policy<br>This Privacy Policy is effective as of July 12, 2007.</p>
 <p>&nbsp;</p>
-<h3>Questions or Concerns</h3>
-<p>If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@clickability.com.&nbsp; Your privacy is important to us and we will make every effort to resolve your concerns. <br>
-<br>
-Effective Date of This Privacy Policy<br>
-This Privacy Policy is effective as of July 12, 2007.</p><p></p>
-	
 </div>
-									</div> <!-- close newsarticle -->
-						<!--endclickprintinclude-->
-						<div class="wideBottom"></div> <!-- close wideBottom -->
-					</div> <!-- Close wideBody -->
-					
-				</div> <!-- Close contentTwo -->
-											
-				</div> <!-- close content -->
-				</div> <!-- close content section inner -->
-				<br>
-						<div id="imageTrolly">
-   <a href="/customers/list/"><img src="http://media3.clickability.com/designimages/logos.gif" alt="" width="969" height="73" border="0"></a>
 </div>
-
-			
-		<div class="footerRow">
-			<div class="footerRow">
-															
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/products">Products</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/products/products_overview.html">Products Overview</a>
-																																										<br>
-																	
-									<a href="/products/web_content_management.html">Web Content Management</a>
-																																										<br>
-																	
-									<a href="/products/website_marketing_acceleration.html">Website Marketing Acceleration</a>
-																																										<br>
-																	
-									<a href="/products/clickability_express_solution.html">Clickability Express Solution</a>
-																																										<br>
-																	
-									<a href="/products/resources">Product Resources</a>
-																					</p>
-					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/technology">Technology</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/technology">Technology Overview</a>
-																																										<br>
-																	
-									<a href="/technology/platform_architecture.html">Platform Architecture</a>
-																																										<br>
-																	
-									<a href="/technology/developer_tools.html">Developer Tools</a>
-																																										<br>
-																	
-									<a href="/technology/integration.html">Integration</a>
-																																										<br>
-																	
-									<a href="/technology/operations.html">Operations and Infrastructure</a>
-																																										<br>
-																	
-									<a href="/technology/clickability-security.html">Security</a>
-																					</p>
-					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/services">Services</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/services">Services Overview</a>
-																																										<br>
-																	
-									<a href="/services/professional_services.html">Professional Services</a>
-																																										<br>
-																	
-									<a href="/services/Technical-Support.html">Customer Support</a>
-																																										<br>
-																	
-									<a href="/services/Training_and_Learning.html">Training and Learning</a>
-																																										<br>
-																	
-									<a href="/services/Clickability_Community.html">Clickability Community</a>
-																																										<br>
-																	
-									<a href="/services/partners.html">Partners</a>
-																					</p>
-					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/customers">Customers</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/customers/">Customers Overview</a>
-																																										<br>
-																	
-									<a href="/customers/success/">Case Studies</a>
-																																										<br>
-																	
-									<a href="/customers/list">Customer List</a>
-																					</p>
-					</div>
-																
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="/company">About</a>
-													</p>
-						<p class="footerText">
-																																																
-									<a href="/company">Company</a>
-																																										<br>
-																	
-									<a href="/news">News and Events</a>
-																																										<br>
-																	
-									<a href="/company/Leadership.html">Leadership</a>
-																																										<br>
-																	
-									<a href="/company/Board.html">Board of Directors</a>
-																																										<br>
-																	
-									<a href="/company/jobs.html">Jobs</a>
-																																										<br>
-																	
-									<a href="/company/contact_us/">Contact Us</a>
-																					</p>
-					</div>
-																																					
-											</div>
-						<div style="clear:all;">&nbsp;</div>
-						<div class="footerRow">
-										
-					<div class="footerCell">
-						<p class="footerHead">
-															<a href="http://cms.clickability.com">Customer Login</a>
-													</p>
-						<p class="footerText">
-																				</p>
-					</div>
-									</div>
-		
-    <div class="footerCell">
-        <p class="footerHead">&nbsp;                         
-        </p>
-        <p class="footerText">&nbsp;                         
-        </p>
+      </div>
     </div>
-</div>
 
 
-				
-		<div class="clear"></div>
-		<div id="legal">
-			<p>
-				© 2012  Limelight Networks Inc. <a href="/Privacy_Policy.html">Privacy Policy</a>
-				| <a href="/Terms_of_Use.html">Terms of Use</a>
-				| <a href="/Copyright_Policy.html">Copyright Policy</a>
-								| <a href="/company/contact_us/">Contact Us</a>
-			</p>
-		</div> <!-- close legal -->
-	</div> <!-- close mainSectionWrapper -->
-<!-- close Main Wrapper -->
-</div>
-	<script>RegActions.init();</script>
+    <div class="dark-container">
 
-	
+      <div class="container">
+         <!-- FOOTER -->
+      <footer>
+        <div class="row footer-links">
+									<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">Solutions</li>
+																															<li><a href="/solution/Benefits-for-Enterprise-Marketers.html">Enteprise Marketers</a></li>
+																															<li><a href="/solution/Benefits-for-Online-Publishers.html">Online Publishers</a></li>
+																															<li><a href="/solution/Features.html">Features</a></li>
+																</ul>
+				</div>
+							<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">Technology</li>
+																															<li><a href="/technology/Tech-Overview.html">Platform Overview</a></li>
+																																						<li><a href="http://status.clickability.com" target="_blank">Status Page</a></li>
+																															<li><a href=""></a></li>
+																</ul>
+				</div>
+							<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">Services</li>
+																															<li><a href="/services/Professional-Services.html">Professional Services</a></li>
+																															<li><a href="/services/Support.html">Support</a></li>
+																															<li><a href="/services/Partners-List.html">Partners</a></li>
+																</ul>
+				</div>
+							<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">Customers</li>
+																															<li><a href="/customers/">Success Stories</a></li>
+																</ul>
+				</div>
+							<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">About</li>
+																															<li><a href="/about/Clickability.html">Clickability</a></li>
+																															<li><a href="/about/news/">News</a></li>
+																															<li><a href="/blog/">Blog</a></li>
+																															<li><a href="/about/contact-us/">Contact Us</a></li>
+																															<li><a href="/resources/">Resources</a></li>
+																</ul>
+				</div>
+							<div class="link-wrap col-md-2 col-sm-4 col-xs-12">
+					<ul>
+																		 <li class="yellow">Legal</li>
+																															<li><a href="/Privacy-Policy.html">Privacy Policy</a></li>
+																															<li><a href="/Terms-of-Use.html">Terms of Use</a></li>
+																															<li><a href="/Copyright-Policy.html">Copyright Policy</a></li>
+																															<li><a href=""></a></li>
+																</ul>
+				</div>
+					        </div>
+        <div class="pull-right"><small>© 2014 Upland Software, Inc. All rights reserved.</small></div>
+      </footer>
+      </div>
+
+    </div><!-- /.dark-container -->
 
 
-		<script type="text/javascript" language="JavaScript" src="http://www.clickability.com/includes/elqCfg.js"></script>
-	
-		<script type="text/javascript" language="JavaScript"><!--//
-		var elqPPS = '50';
-		var elqDLKey = escape('85fd6b156eb74a2380881b5a29655e2c');
-		var elqDLLookup = '';
-	//--></script>
-	
-	<script type="text/javascript" language="JavaScript" src="http://www.clickability.com/includes/elqCPers.js"></script>
-	
-		<script type="text/javascript" language="JavaScript" src="http://www.clickability.com/includes/elqImg.js"></script>
-	
-	<!-- Begin: 4q.iperceptions.com -->
-<script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=65463fcf-37115-1e57677d-3482-472e-8cb4-4858ee605734&amp;lID=1&amp;loc=4Q-WEB2" type="text/javascript" defer="defer">
-</script>
-<!-- End: 4q.iperceptions.com -->
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.clickability.com/includes/ef03643cf4331cd5d88dae36d880e4b5/custom.js"></script>	
+	<script type="text/javascript" src="http://www.clickability.com/includes/6edf4f0f570d1ec78297fc6b628c8cb0/bootstrap.min.js"></script>	
+    
+  <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=256234171";_q+="&7=1982511";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=256234171";_qc+="&7=1982511";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+</script><noscript>
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=256234171&7=1982511&25=0&18=0.522937322529345">
+</noscript>
 
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NCT9FN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCT9FN');</script>
+<!-- End Google Tag Manager -->
+ 
 
-<!-- Begin Salesforce Tracking Code -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, -->
-
-<!-- Retargeter.com Tag -->
-<img src="http://ad.retargeter.com/seg?add=24394&amp;t=2" width="1" height="1">
-<!-- End of Retargeter.com Tag -->
 
 <script type="text/javascript">
-adroll_adv_id = "24H2I4YFKNA3JHF7DBOLEQ";
-adroll_pix_id = "J2XVQLHIHRDGBKODSAL526";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
+document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>Munchkin.init('951-EJA-050');</script>
+
+<script src="http://info.powersteeringsoftware.com/rs/powersteeringsoftware/images/UTMParams.js"></script>
+
+
+<script type="text/javascript">
+    adroll_adv_id = "Q5VDNENJ3FFEZGR6BKRBYZ";
+    adroll_pix_id = "WTKEOX6TARGADM5TMDYSM2";
+ (function () {
+  var _onload = function(){
+   if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+   if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
    var scr = document.createElement("script");
    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-
-
    scr.setAttribute('async', 'true');
    scr.type = "text/javascript";
    scr.src = host + "/j/roundtrip.js";
-   document.documentElement.firstChild.appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-<!-- BEGIN LivePerson Monitor. -->
-<script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "47227738",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
-<!-- END LivePerson Monitor. -->
-
-
-	<!-- Google Code for Clickability Visitors Remarketing List -->
-	<script type="text/javascript">
-		<!--
-		var google_conversion_id = 1071631310;
-		var google_conversion_language = "en";
-		var google_conversion_format = "3";
-		var google_conversion_color = "666666";
-		var google_conversion_label = "0BcdCInHzAEQzpf__gM";
-		var google_conversion_value = 0;
-		//-->
-	</script>
-	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-	</script>
-	<noscript>
-		<div style="display:inline;">
-		<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071631310/?label=0BcdCInHzAEQzpf__gM&amp;guid=ON&amp;script=0"/>
-		</div>
-	</noscript>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3649967-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);};
+  if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+  else {window.attachEvent('onload', _onload)}}());
 </script>
 
 
 
 
+  
 
 
-
-
-<div id="cmPubHelpTextPopup"></div></body></html>
+</body></html>
