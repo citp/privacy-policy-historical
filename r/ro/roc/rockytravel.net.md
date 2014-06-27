@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227050811id_/http%3A//www.rockytravel.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627085546id_/http%3A//www.rockytravel.net/privacy-policy) for the most accurate reproduction.*
 
-# RockyTravel Privacy Policy
+# RockyTravel Privacy Policy : Rocky Travel
 
 ## Privacy Policy and Disclaimer of RockyTravel.net
 
