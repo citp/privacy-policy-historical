@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastecard.co.uk privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818141949id_/http%3A//www.tastecard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastecard.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627053155id_/http%3A//www.tastecard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Tastecard - The UK's largest diners club - 2 for 1 or 50% off at thousands of restaurants nationwide
 
@@ -28,6 +28,8 @@ We may collect information about your computer, including where available your I
 We may use cookies to help personalise your online experience. A cookie is a text file that is placed on your hard drive by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalise the pages on our site, or register on our site for any services we provide, a cookie helps us to recall your specific information on subsequent visits. When you return to our site the information you previously provided can be retrieved, so you can easily use the features that you customised.
+
+We may also use cookies to deliver relevant adverts on other reputable websites you visit that show advertising. They will appear in banner format and will be based on your activity whilst browsing our site.
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of our site.
 
