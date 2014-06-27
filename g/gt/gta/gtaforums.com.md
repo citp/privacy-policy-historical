@@ -1,14 +1,60 @@
-> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228135220id_/http%3A//www.gtanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaforums.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060418id_/http%3A//gtaforums.com/privacypolicy) for the most accurate reproduction.*
 
-# GTANet.com - Now With Added Vitamins! : Privacy Policy
+# Privacy Policy - GTA Forums
 
-  |    
+At GTANet, we recognize that the privacy of your personal information is important. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
+"The GTA Network", "GTA Network" and "GTANet" are terms used in this policy to refer to all of our web sites and applications. When you continue to visit our web sites, you are consenting to the practices described in this policy.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+**Log Files**
 
-The GTA Network keeps all of our user information gathered through our sites strictly confidential. This means that we will not exchange or sell your email address to anyone outside the web site unless stated and agreed to by yourself. As with most sites, we collect general information on visits to our pages. This information is used only for statistical purposes. None of this information is linked back to you as an individual, unless stated. We will, however, try to promote other web sites on the GTA3.com network by publishing site logos and URLs from time to time. This will not include any personal damaging information unless based upon backing fact, in some required cases with permission. We may also use other material as a guide to our visitors. We do not guarantee this is fact whatsoever, and because of this can not be held responsible for any inaccurate material found on the GTA3 Network. If you feel any material found on the GTA Network should not be present, please contact us so it can be opted out.
+Like most websites, our web sites collect and use data stored in log files.
 
-To comply with the law of the Internet, you must agree to this or leave the GTA Network immediately and never return. You are required to review any legal agreements on web sites before using them in any way, if you do not comply, the GTA Network can use this against you in a court of law if any problems arise.
+The information we collect and store includes Internet Protocol addresses (IP addresses), browser type and versions, Internet Service Provider (ISP), referring/exit pages, platform type, date/time stamp, and the number of clicks to analyze trends, administer the site, track user movement in the aggregate, and to gather broad demographic information for aggregate use. IP addresses, etc., contained within anonymous statistical log files for are not linked to personally identifiable information.
 
-|  |  
+**Cookies and Web Beacons**
+
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used directly by this website are used either solely on a per session basis, or to maintain user preferences, or for anonymous statistical purposes.
+
+We use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features,  
+such as forums.
+
+We also use third party advertisements on our web sites to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+**Google AdSense and DoubleClick DART Cookies and Privacy**
+
+Google, as a third party vendor, uses cookies to serve ads on this website. The DoubleClick DART cookie is used by Google in the ads served on publisher web sites displaying AdSense for content ads.  
+When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google's use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet.  
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We also may use DART cookies for ad serving through Googles DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (interest based targeting).
+
+The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses non personally identifiable information. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+
+You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.google.com/policies/privacy/>
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other web sites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**Sovrn / Lijit Cookies and Privacy**  
+One of the ad networks and companies The GTA Network utilizes is Lijit Networks Inc. Lijit's privacy policy can be viewed at <http://www.lijit.com/company/privacy-policy>. Lijit collects only anonymous information unless a reader chooses to submit personal information to Lijit. Lijit permits readers to opt out of the collection of this anonymous site visit data through the Lijit opt-out tool at <http://www.lijit.com/choices>.
+
+**Links and External Resources**
+
+This Web site contains links to other web sites and resources. Please be aware that The GTA Network is not responsible for the privacy practices of other web sites and resources. The GTA Network encourages you, when you leave our web sites, to read the privacy policy (or privacy statement) of each and every web site you visit, as this particular privacy policy applies solely to our web sites and  
+applications.
+
+**Our Commitment to Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Contacting The GTA Network Regarding This Policy**
+
+If you have any questions about this policy please send a private message to an administrator or moderator via the private messaging facility at [GTAForums.com](http://gtaforums.com/), or post a public message in our GTA  
+Network Support forum at <http://gtaforums.com/forum/2-gta-network-support/>
+
+**Changes to This Policy**
+
+We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on The GTA Network will become effective immediately upon posting on the site.
+
+This policy was last updated on the 23rd of June, 2014. 
