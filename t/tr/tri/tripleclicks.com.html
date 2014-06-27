@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2013-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214060415id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627221730id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -16,11 +16,12 @@
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/common/audiojs/audio.min.js"></script>
 
-<script type="text/javascript" src="//static.tripleclicks.com/common/compile/tc-js-2013-11-15-121744.js"></script>
+<script type="text/javascript" src="//static.tripleclicks.com/common/compile/tc-js-2014-06-26-153253.js"></script>
 
 
-<link href="//static.tripleclicks.com/common/compile/tc-css-2013-10-28-135622.css" rel="stylesheet" type="text/css" media="all">
+<link href="//static.tripleclicks.com/common/compile/tc-css-2014-03-13-103945.css" rel="stylesheet" type="text/css" media="all">
 
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"><!-- ICON FONT -->
 
@@ -225,766 +226,6 @@ $(document).ready(function()
 -->
 
 <script type="text/javascript">
-		
-		// remote scripting library
-		// (c) copyright 2005 modernmethod, inc
-		var sajax_debug_mode = false;
-		var sajax_request_type = "POST";
-		var sajax_target_id = "";
-		var sajax_failure_redirect = "";
-		
-		function sajax_debug(text) {
-			if (sajax_debug_mode)
-				alert(text);
-		}
-		
- 		function sajax_init_object() {
- 			sajax_debug("sajax_init_object() called..")
- 			
- 			var A;
- 			
- 			var msxmlhttp = new Array(
-				'Msxml2.XMLHTTP.6.0',
-				'Msxml2.XMLHTTP.5.0',
-				'Msxml2.XMLHTTP.4.0',
-				'Msxml2.XMLHTTP.3.0',
-				'Msxml2.XMLHTTP',
-				'Microsoft.XMLHTTP');
-			for (var i = 0; i < msxmlhttp.length; i++) {
-				try {
-					A = new ActiveXObject(msxmlhttp[i]);
-				} catch (e) {
-					A = null;
-				}
-			}
- 			
-			if(!A && typeof XMLHttpRequest != "undefined")
-				A = new XMLHttpRequest();
-			if (!A)
-				sajax_debug("Could not create connection object.");
-			return A;
-		}
-		
-		var sajax_requests = new Array();
-		
-		function sajax_cancel() {
-			for (var i = 0; i < sajax_requests.length; i++) 
-				sajax_requests[i].abort();
-		}
-		
-		function sajax_do_call(func_name, args) {
-			var i, x, n;
-			var uri;
-			var post_data;
-			var target_id;
-			
-			sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
-			target_id = sajax_target_id;
-			if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "") 
-				sajax_request_type = "GET";
-			
-			uri = "/privacy_policy.php";
-			if (sajax_request_type == "GET") {
-			
-				if (uri.indexOf("?") == -1) 
-					uri += "?rs=" + escape(func_name);
-				else
-					uri += "&rs=" + escape(func_name);
-				uri += "&rst=" + escape(sajax_target_id);
-				uri += "&rsrnd=" + new Date().getTime();
-				
-				for (i = 0; i < args.length-1; i++) 
-					uri += "&rsargs[]=" + escape(args[i]);
-
-				post_data = null;
-			} 
-			else if (sajax_request_type == "POST") {
-				post_data = "rs=" + escape(func_name);
-				post_data += "&rst=" + escape(sajax_target_id);
-				post_data += "&rsrnd=" + new Date().getTime();
-				
-				for (i = 0; i < args.length-1; i++) 
-					post_data = post_data + "&rsargs[]=" + escape(args[i]);
-			}
-			else {
-				alert("Illegal request type: " + sajax_request_type);
-			}
-			
-			x = sajax_init_object();
-			if (x == null) {
-				if (sajax_failure_redirect != "") {
-					location.href = sajax_failure_redirect;
-					return false;
-				} else {
-					sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
-					return false;
-				}
-			} else {
-				x.open(sajax_request_type, uri, true);
-				// window.open(uri);
-				
-				sajax_requests[sajax_requests.length] = x;
-				
-				if (sajax_request_type == "POST") {
-					x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
-					x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-				}
-			
-				x.onreadystatechange = function() {
-					if (x.readyState != 4) 
-						return;
-
-					sajax_debug("received " + x.responseText);
-				
-					var status;
-					var data;
-					var txt = x.responseText.replace(/^\s*|\s*$/g,"");
-					status = txt.charAt(0);
-					data = txt.substring(2);
-
-					if (status == "") {
-						// let's just assume this is a pre-response bailout and let it slide for now
-					} else if (status == "-") 
-						alert("Error: " + data);
-					else {
-						if (target_id != "") 
-							document.getElementById(target_id).innerHTML = eval(data);
-						else {
-							try {
-								var callback;
-								var extra_data = false;
-								if (typeof args[args.length-1] == "object") {
-									callback = args[args.length-1].callback;
-									extra_data = args[args.length-1].extra_data;
-								} else {
-									callback = args[args.length-1];
-								}
-								callback(eval(data), extra_data);
-							} catch (e) {
-								sajax_debug("Caught error " + e + ": Could not eval " + data );
-							}
-						}
-					}
-				}
-			}
-			
-			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
-			x.send(post_data);
-			sajax_debug(func_name + " waiting..");
-			delete x;
-			return true;
-		}
-		
-				
-		// wrapper for searchItemByText		
-		function x_searchItemByText() {
-			sajax_do_call("searchItemByText",
-				x_searchItemByText.arguments);
-		}
-		
-				
-		// wrapper for addToCart		
-		function x_addToCart() {
-			sajax_do_call("addToCart",
-				x_addToCart.arguments);
-		}
-		
-				
-		// wrapper for addToWishlist		
-		function x_addToWishlist() {
-			sajax_do_call("addToWishlist",
-				x_addToWishlist.arguments);
-		}
-		
-				
-		// wrapper for addTrackingInfo		
-		function x_addTrackingInfo() {
-			sajax_do_call("addTrackingInfo",
-				x_addTrackingInfo.arguments);
-		}
-		
-				
-		// wrapper for auctionSFIUpdate		
-		function x_auctionSFIUpdate() {
-			sajax_do_call("auctionSFIUpdate",
-				x_auctionSFIUpdate.arguments);
-		}
-		
-				
-		// wrapper for auctionUpdate		
-		function x_auctionUpdate() {
-			sajax_do_call("auctionUpdate",
-				x_auctionUpdate.arguments);
-		}
-		
-				
-		// wrapper for auctionXtraUpdate		
-		function x_auctionXtraUpdate() {
-			sajax_do_call("auctionXtraUpdate",
-				x_auctionXtraUpdate.arguments);
-		}
-		
-				
-		// wrapper for cancel_SO		
-		function x_cancel_SO() {
-			sajax_do_call("cancel_SO",
-				x_cancel_SO.arguments);
-		}
-		
-				
-		// wrapper for cancelAutobid		
-		function x_cancelAutobid() {
-			sajax_do_call("cancelAutobid",
-				x_cancelAutobid.arguments);
-		}
-		
-				
-		// wrapper for copyToAll		
-		function x_copyToAll() {
-			sajax_do_call("copyToAll",
-				x_copyToAll.arguments);
-		}
-		
-				
-		// wrapper for deleteAllPreviewItems		
-		function x_deleteAllPreviewItems() {
-			sajax_do_call("deleteAllPreviewItems",
-				x_deleteAllPreviewItems.arguments);
-		}
-		
-				
-		// wrapper for deleteDealOfDay		
-		function x_deleteDealOfDay() {
-			sajax_do_call("deleteDealOfDay",
-				x_deleteDealOfDay.arguments);
-		}
-		
-				
-		// wrapper for deleteECAComment		
-		function x_deleteECAComment() {
-			sajax_do_call("deleteECAComment",
-				x_deleteECAComment.arguments);
-		}
-		
-				
-		// wrapper for deleteECANews		
-		function x_deleteECANews() {
-			sajax_do_call("deleteECANews",
-				x_deleteECANews.arguments);
-		}
-		
-				
-		// wrapper for deleteImage		
-		function x_deleteImage() {
-			sajax_do_call("deleteImage",
-				x_deleteImage.arguments);
-		}
-		
-				
-		// wrapper for deleteItem		
-		function x_deleteItem() {
-			sajax_do_call("deleteItem",
-				x_deleteItem.arguments);
-		}
-		
-				
-		// wrapper for deleteMultiListerPreviewItem		
-		function x_deleteMultiListerPreviewItem() {
-			sajax_do_call("deleteMultiListerPreviewItem",
-				x_deleteMultiListerPreviewItem.arguments);
-		}
-		
-				
-		// wrapper for doShipping		
-		function x_doShipping() {
-			sajax_do_call("doShipping",
-				x_doShipping.arguments);
-		}
-		
-				
-		// wrapper for getActiveAuction		
-		function x_getActiveAuction() {
-			sajax_do_call("getActiveAuction",
-				x_getActiveAuction.arguments);
-		}
-		
-				
-		// wrapper for getAddressById		
-		function x_getAddressById() {
-			sajax_do_call("getAddressById",
-				x_getAddressById.arguments);
-		}
-		
-				
-		// wrapper for getAutobid		
-		function x_getAutobid() {
-			sajax_do_call("getAutobid",
-				x_getAutobid.arguments);
-		}
-		
-				
-		// wrapper for getCart		
-		function x_getCart() {
-			sajax_do_call("getCart",
-				x_getCart.arguments);
-		}
-		
-				
-		// wrapper for getCartMethod		
-		function x_getCartMethod() {
-			sajax_do_call("getCartMethod",
-				x_getCartMethod.arguments);
-		}
-		
-				
-		// wrapper for getChoiceMenuById		
-		function x_getChoiceMenuById() {
-			sajax_do_call("getChoiceMenuById",
-				x_getChoiceMenuById.arguments);
-		}
-		
-				
-		// wrapper for getDepartmentsByParentId		
-		function x_getDepartmentsByParentId() {
-			sajax_do_call("getDepartmentsByParentId",
-				x_getDepartmentsByParentId.arguments);
-		}
-		
-				
-		// wrapper for getItemMrpAjax		
-		function x_getItemMrpAjax() {
-			sajax_do_call("getItemMrpAjax",
-				x_getItemMrpAjax.arguments);
-		}
-		
-				
-		// wrapper for getItemPriceByQty		
-		function x_getItemPriceByQty() {
-			sajax_do_call("getItemPriceByQty",
-				x_getItemPriceByQty.arguments);
-		}
-		
-				
-		// wrapper for getItemTcreditsAjax		
-		function x_getItemTcreditsAjax() {
-			sajax_do_call("getItemTcreditsAjax",
-				x_getItemTcreditsAjax.arguments);
-		}
-		
-				
-		// wrapper for getMrpAjax		
-		function x_getMrpAjax() {
-			sajax_do_call("getMrpAjax",
-				x_getMrpAjax.arguments);
-		}
-		
-				
-		// wrapper for getSfiid		
-		function x_getSfiid() {
-			sajax_do_call("getSfiid",
-				x_getSfiid.arguments);
-		}
-		
-				
-		// wrapper for getSongs		
-		function x_getSongs() {
-			sajax_do_call("getSongs",
-				x_getSongs.arguments);
-		}
-		
-				
-		// wrapper for getTcreditsAjax		
-		function x_getTcreditsAjax() {
-			sajax_do_call("getTcreditsAjax",
-				x_getTcreditsAjax.arguments);
-		}
-		
-				
-		// wrapper for insertAutobid		
-		function x_insertAutobid() {
-			sajax_do_call("insertAutobid",
-				x_insertAutobid.arguments);
-		}
-		
-				
-		// wrapper for jsSetChoice		
-		function x_jsSetChoice() {
-			sajax_do_call("jsSetChoice",
-				x_jsSetChoice.arguments);
-		}
-		
-				
-		// wrapper for jsSetChoiceWl		
-		function x_jsSetChoiceWl() {
-			sajax_do_call("jsSetChoiceWl",
-				x_jsSetChoiceWl.arguments);
-		}
-		
-				
-		// wrapper for manageAddressBook		
-		function x_manageAddressBook() {
-			sajax_do_call("manageAddressBook",
-				x_manageAddressBook.arguments);
-		}
-		
-				
-		// wrapper for manageCC		
-		function x_manageCC() {
-			sajax_do_call("manageCC",
-				x_manageCC.arguments);
-		}
-		
-				
-		// wrapper for memberListingWasPickedUp		
-		function x_memberListingWasPickedUp() {
-			sajax_do_call("memberListingWasPickedUp",
-				x_memberListingWasPickedUp.arguments);
-		}
-		
-				
-		// wrapper for placeBid		
-		function x_placeBid() {
-			sajax_do_call("placeBid",
-				x_placeBid.arguments);
-		}
-		
-				
-		// wrapper for reactivateMemberListing		
-		function x_reactivateMemberListing() {
-			sajax_do_call("reactivateMemberListing",
-				x_reactivateMemberListing.arguments);
-		}
-		
-				
-		// wrapper for removeItemFromBanner		
-		function x_removeItemFromBanner() {
-			sajax_do_call("removeItemFromBanner",
-				x_removeItemFromBanner.arguments);
-		}
-		
-				
-		// wrapper for removeSOItem		
-		function x_removeSOItem() {
-			sajax_do_call("removeSOItem",
-				x_removeSOItem.arguments);
-		}
-		
-				
-		// wrapper for saveECAShippingFeesForContinent		
-		function x_saveECAShippingFeesForContinent() {
-			sajax_do_call("saveECAShippingFeesForContinent",
-				x_saveECAShippingFeesForContinent.arguments);
-		}
-		
-				
-		// wrapper for saveMultiListerPreviewItem		
-		function x_saveMultiListerPreviewItem() {
-			sajax_do_call("saveMultiListerPreviewItem",
-				x_saveMultiListerPreviewItem.arguments);
-		}
-		
-				
-		// wrapper for setBannerCurrency		
-		function x_setBannerCurrency() {
-			sajax_do_call("setBannerCurrency",
-				x_setBannerCurrency.arguments);
-		}
-		
-				
-		// wrapper for setBannerShowImages		
-		function x_setBannerShowImages() {
-			sajax_do_call("setBannerShowImages",
-				x_setBannerShowImages.arguments);
-		}
-		
-				
-		// wrapper for setBannerShowPrices		
-		function x_setBannerShowPrices() {
-			sajax_do_call("setBannerShowPrices",
-				x_setBannerShowPrices.arguments);
-		}
-		
-				
-		// wrapper for setBillAddress		
-		function x_setBillAddress() {
-			sajax_do_call("setBillAddress",
-				x_setBillAddress.arguments);
-		}
-		
-				
-		// wrapper for setCartAttributes		
-		function x_setCartAttributes() {
-			sajax_do_call("setCartAttributes",
-				x_setCartAttributes.arguments);
-		}
-		
-				
-		// wrapper for setCartLPBasic		
-		function x_setCartLPBasic() {
-			sajax_do_call("setCartLPBasic",
-				x_setCartLPBasic.arguments);
-		}
-		
-				
-		// wrapper for setECACurrency		
-		function x_setECACurrency() {
-			sajax_do_call("setECACurrency",
-				x_setECACurrency.arguments);
-		}
-		
-				
-		// wrapper for setItemActive		
-		function x_setItemActive() {
-			sajax_do_call("setItemActive",
-				x_setItemActive.arguments);
-		}
-		
-				
-		// wrapper for setItemFeatured		
-		function x_setItemFeatured() {
-			sajax_do_call("setItemFeatured",
-				x_setItemFeatured.arguments);
-		}
-		
-				
-		// wrapper for setPaymentType		
-		function x_setPaymentType() {
-			sajax_do_call("setPaymentType",
-				x_setPaymentType.arguments);
-		}
-		
-				
-		// wrapper for setShipAddress		
-		function x_setShipAddress() {
-			sajax_do_call("setShipAddress",
-				x_setShipAddress.arguments);
-		}
-		
-				
-		// wrapper for setShipType		
-		function x_setShipType() {
-			sajax_do_call("setShipType",
-				x_setShipType.arguments);
-		}
-		
-				
-		// wrapper for setSOAddress		
-		function x_setSOAddress() {
-			sajax_do_call("setSOAddress",
-				x_setSOAddress.arguments);
-		}
-		
-				
-		// wrapper for setSpecialFunding		
-		function x_setSpecialFunding() {
-			sajax_do_call("setSpecialFunding",
-				x_setSpecialFunding.arguments);
-		}
-		
-				
-		// wrapper for setWillCall		
-		function x_setWillCall() {
-			sajax_do_call("setWillCall",
-				x_setWillCall.arguments);
-		}
-		
-				
-		// wrapper for suggestDepartment		
-		function x_suggestDepartment() {
-			sajax_do_call("suggestDepartment",
-				x_suggestDepartment.arguments);
-		}
-		
-				
-		// wrapper for supportNPOItem		
-		function x_supportNPOItem() {
-			sajax_do_call("supportNPOItem",
-				x_supportNPOItem.arguments);
-		}
-		
-				
-		// wrapper for switchToFreeShipping		
-		function x_switchToFreeShipping() {
-			sajax_do_call("switchToFreeShipping",
-				x_switchToFreeShipping.arguments);
-		}
-		
-				
-		// wrapper for updateAccountInfo		
-		function x_updateAccountInfo() {
-			sajax_do_call("updateAccountInfo",
-				x_updateAccountInfo.arguments);
-		}
-		
-				
-		// wrapper for updateCart		
-		function x_updateCart() {
-			sajax_do_call("updateCart",
-				x_updateCart.arguments);
-		}
-		
-				
-		// wrapper for updateCurrency		
-		function x_updateCurrency() {
-			sajax_do_call("updateCurrency",
-				x_updateCurrency.arguments);
-		}
-		
-				
-		// wrapper for updateDealOfDay		
-		function x_updateDealOfDay() {
-			sajax_do_call("updateDealOfDay",
-				x_updateDealOfDay.arguments);
-		}
-		
-				
-		// wrapper for updateECAAboutUs		
-		function x_updateECAAboutUs() {
-			sajax_do_call("updateECAAboutUs",
-				x_updateECAAboutUs.arguments);
-		}
-		
-				
-		// wrapper for updateECACategory		
-		function x_updateECACategory() {
-			sajax_do_call("updateECACategory",
-				x_updateECACategory.arguments);
-		}
-		
-				
-		// wrapper for updateECACommentStatus		
-		function x_updateECACommentStatus() {
-			sajax_do_call("updateECACommentStatus",
-				x_updateECACommentStatus.arguments);
-		}
-		
-				
-		// wrapper for updateECAContactInfo		
-		function x_updateECAContactInfo() {
-			sajax_do_call("updateECAContactInfo",
-				x_updateECAContactInfo.arguments);
-		}
-		
-				
-		// wrapper for updateECANotifyInfo		
-		function x_updateECANotifyInfo() {
-			sajax_do_call("updateECANotifyInfo",
-				x_updateECANotifyInfo.arguments);
-		}
-		
-				
-		// wrapper for updateECAOptionalNotices		
-		function x_updateECAOptionalNotices() {
-			sajax_do_call("updateECAOptionalNotices",
-				x_updateECAOptionalNotices.arguments);
-		}
-		
-				
-		// wrapper for updateECAOrderDetail		
-		function x_updateECAOrderDetail() {
-			sajax_do_call("updateECAOrderDetail",
-				x_updateECAOrderDetail.arguments);
-		}
-		
-				
-		// wrapper for updateECAPasswordInfo		
-		function x_updateECAPasswordInfo() {
-			sajax_do_call("updateECAPasswordInfo",
-				x_updateECAPasswordInfo.arguments);
-		}
-		
-				
-		// wrapper for updateECAPaymentMethod		
-		function x_updateECAPaymentMethod() {
-			sajax_do_call("updateECAPaymentMethod",
-				x_updateECAPaymentMethod.arguments);
-		}
-		
-				
-		// wrapper for updateECAPublicInfo		
-		function x_updateECAPublicInfo() {
-			sajax_do_call("updateECAPublicInfo",
-				x_updateECAPublicInfo.arguments);
-		}
-		
-				
-		// wrapper for updateECAReturnsPolicy		
-		function x_updateECAReturnsPolicy() {
-			sajax_do_call("updateECAReturnsPolicy",
-				x_updateECAReturnsPolicy.arguments);
-		}
-		
-				
-		// wrapper for updateItemListerCurrency		
-		function x_updateItemListerCurrency() {
-			sajax_do_call("updateItemListerCurrency",
-				x_updateItemListerCurrency.arguments);
-		}
-		
-				
-		// wrapper for updateItemPrice		
-		function x_updateItemPrice() {
-			sajax_do_call("updateItemPrice",
-				x_updateItemPrice.arguments);
-		}
-		
-				
-		// wrapper for updateLocalPickup		
-		function x_updateLocalPickup() {
-			sajax_do_call("updateLocalPickup",
-				x_updateLocalPickup.arguments);
-		}
-		
-				
-		// wrapper for updateNPOFeaturedItem		
-		function x_updateNPOFeaturedItem() {
-			sajax_do_call("updateNPOFeaturedItem",
-				x_updateNPOFeaturedItem.arguments);
-		}
-		
-				
-		// wrapper for updateObo		
-		function x_updateObo() {
-			sajax_do_call("updateObo",
-				x_updateObo.arguments);
-		}
-		
-				
-		// wrapper for updatePassword		
-		function x_updatePassword() {
-			sajax_do_call("updatePassword",
-				x_updatePassword.arguments);
-		}
-		
-				
-		// wrapper for updateProfileText		
-		function x_updateProfileText() {
-			sajax_do_call("updateProfileText",
-				x_updateProfileText.arguments);
-		}
-		
-				
-		// wrapper for updateSOQty		
-		function x_updateSOQty() {
-			sajax_do_call("updateSOQty",
-				x_updateSOQty.arguments);
-		}
-		
-				
-		// wrapper for updateViewInactive		
-		function x_updateViewInactive() {
-			sajax_do_call("updateViewInactive",
-				x_updateViewInactive.arguments);
-		}
-		
-				
-		// wrapper for updateWishlist		
-		function x_updateWishlist() {
-			sajax_do_call("updateWishlist",
-				x_updateWishlist.arguments);
-		}
-		
-		
 /***********************************************
 * AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
 * This notice MUST stay intact for legal use
@@ -1206,6 +447,24 @@ document.onclick=hidemenu
 	margin-bottom:10px;
 }
 
+#songContainer .scrubber, #songContainer .time, #songContainer .error-message
+{
+	display: none;
+}
+
+#songContainer .play-pause
+{
+	border: none;
+	padding: 1px 6px;
+}
+
+#songContainer .audiojs
+{
+	width: auto;
+	background-image: none;
+	height: 30px;
+}
+
 #musicBarPlayer
 {
 	margin:0 auto;
@@ -1243,7 +502,7 @@ document.onclick=hidemenu
 #songContainer
 {
 	float: left;
-	width: 55px;
+	/*width: 55px;*/
 }
 #songInfo
 {
@@ -1276,7 +535,7 @@ document.onclick=hidemenu
 	<div style="float:right; width:440px; text-align:right; height:30px; line-height:30px;">
 		<span class="songLinks">
 		</span>
-		<a href="#" onclick="openVoteWindow(); return false" target="_blank" class="vote" id="voteButton">VOTE</a>
+		<a href="#" onclick="openVoteWindow(); return false" target="_blank" class="vote" id="voteButton">VOTE + DOWNLOAD</a>
 		<span class="songLinks">rate</span>
 		<span class="stars">
 			<a href="#" onclick="rateSong(1)" style="border:0;">
@@ -1298,6 +557,7 @@ document.onclick=hidemenu
 		<a href="#" onclick="openConnectWindow(); return false" target="_blank" class="reviewshare connect" id="connectButton">CONNECT</a>
 		<a href="#" onclick="hideMusicBar();" class="close">X</a>
 	</div>
+
 
 	<div id="musicBarPlayer">
 		<div id="songContainer">
@@ -1329,7 +589,7 @@ document.onclick=hidemenu
                         E-mail or ID #
                 <input name="username" type="text" id="username" size="15" class="forms" value="">
                 Password
-                <input name="password" type="password" id="password" size="10" class="forms">
+                <input name="password" type="password" id="password" size="10" class="forms" autocomplete="off">
                 <input type="image" src="//static.tripleclicks.com/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
                 <br>
                 Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
@@ -1351,11 +611,11 @@ document.onclick=hidemenu
 		<li><a href="/indexProducts.php">PRODUCTS</a></li>
 		<!--<li><a href="#">SERVICES</a></li>-->
 		<li><a href="/indexAuctions.php">AUCTIONS</a></li>
+		<li><a href="/indexContests.php">GAMES</a></li>
 		<li><a href="/indexECAs.php">ECAs</a></li>
         <li><a href="/music/index.php">MUSIC</a></li>
 		<li><a href="/indexDigital.php">DIGITALS</a></li>
 		<!--<li><a href="#">WANTS</a></li>-->
-		<li><a href="/indexContests.php">GAMES</a></li>
 		<li><a href="/member_rewards.php">REWARDS</a></li>
 	</ul>
 
@@ -1365,52 +625,71 @@ document.onclick=hidemenu
 
 	<div class="clearboth0"></div>
 
-	<div class="headerSearchBox" style="border-top-left-radius: 5px; ">
-		<span style="float:right; line-height:20px;"><a href="/adv_search.php" style="color:#FFFFFF; position:relative; top:2px;">Advanced Search</a></span>
+    <script src="/common/tcsearch.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/common/styles/tcsearch.css">
 
-			<form method="post" action="/search/resultsv2.php" id="searchForm">
-            <input type="hidden" name="search" value="t">
-            <input type="text" name="text_search" class="searchBox" value="What are you looking for?" id="text_search" onclick="clearSearchBox(this);" autocomplete="off">
-			<label for="searchDropdown" style="position:relative; top:2px; float:left; ">in</label>
+<form class="headerTCSearch" action="/tcsearch/index.php">
+	<div class="TCSearchBackground">
+		<div class="TCSearchTarget">
+			<i class="icon-angle-down icon-large"></i>
+			Search
+			<span class="TCSearchTargetName"> ALL </span>
 
-            
-            <select name="dept" id="dept" class="dropdown" style="width:150px;">
-                <option value="-1">All Departments</option>
-                                    <option value="228">Antiques &amp; Collectibles</option>
-                                    <option value="1">Apparel</option>
-                                    <option value="229">Arts &amp; Crafts</option>
-                                    <option value="2">Books</option>
-                                    <option value="3">Business</option>
-                                    <option value="4">Computers</option>
-                                    <option value="363">Digital Downloads</option>
-                                    <option value="237">Education</option>
-                                    <option value="5">Electronics</option>
-                                    <option value="6">Food &amp; Beverage</option>
-                                    <option value="7">Gifts &amp; Flowers</option>
-                                    <option value="8">Health &amp; Wellness</option>
-                                    <option value="9">Home &amp; Garden</option>
-                                    <option value="233">Jewelry</option>
-                                    <option value="387">Magazine Subscriptions</option>
-                                    <option value="11">Miscellaneous</option>
-                                    <option value="12">Movies, Music &amp; Games</option>
-                                    <option value="13">Personal Care &amp; Beauty</option>
-                                    <option value="14">Pet Care</option>
-                                    <option value="242">Phones &amp; Accessories</option>
-                                    <option value="240">Real Estate</option>
-                                    <option value="241">Romance</option>
-                                    <option value="15">Sports &amp; Outdoors</option>
-                                    <option value="436">TCredits</option>
-                                    <option value="16">Tools &amp; Automotive</option>
-                                    <option value="17">Toys, Kids &amp; Baby</option>
-                                    <option value="243">Travel</option>
-                            </select>
-		<input type="image" src="//static.tripleclicks.com/images/site/bg_searchButton.png" alt="Go" id="searchButton">
-            </form>
+			<input type="hidden" id="search_target_replacement">
+			<select>
+				<option value="">ALL</option>
+				<option value="type:item">Items</option>
+				<option value="type:auction">Auctions</option>
 
-		<div class="clearboth0"></div>
+				<optgroup label="Departments">
+										    <option value="category:228">Antiques &amp; Collectibles</option>
+										    <option value="category:1">Apparel</option>
+										    <option value="category:229">Arts &amp; Crafts</option>
+										    <option value="category:2">Books</option>
+										    <option value="category:3">Business</option>
+										    <option value="category:4">Computers</option>
+										    <option value="category:363">Digital Downloads</option>
+										    <option value="category:237">Education</option>
+										    <option value="category:5">Electronics</option>
+										    <option value="category:6">Food &amp; Beverage</option>
+										    <option value="category:7">Gifts &amp; Flowers</option>
+										    <option value="category:8">Health &amp; Wellness</option>
+										    <option value="category:9">Home &amp; Garden</option>
+										    <option value="category:233">Jewelry</option>
+										    <option value="category:387">Magazine Subscriptions</option>
+										    <option value="category:11">Miscellaneous</option>
+										    <option value="category:12">Movies, Music &amp; Games</option>
+										    <option value="category:13">Personal Care &amp; Beauty</option>
+										    <option value="category:14">Pet Care</option>
+										    <option value="category:242">Phones &amp; Accessories</option>
+										    <option value="category:240">Real Estate</option>
+										    <option value="category:241">Romance</option>
+										    <option value="category:15">Sports &amp; Outdoors</option>
+										    <option value="category:436">TCredits</option>
+										    <option value="category:16">Tools &amp; Automotive</option>
+										    <option value="category:17">Toys, Kids &amp; Baby</option>
+										    <option value="category:243">Travel</option>
+									</optgroup>
+			</select>
 
+		</div>
+
+		<img src="//static.tripleclicks.com/images/loading.gif" class="loadingImage" height="20">
+
+		<input type="text" name="search" id="TCSearchBar" placeholder="Search for items, auctions, and more" autocomplete="off">
+
+		<a href="#" onclick=" $('.headerTCSearch').submit(); return false" class="searchButton">
+			<div> GO! </div>
+		</a>
+
+		<div class="TCSearchResultsContainer">
+		</div>
 	</div>
 
+	<div class="headerLinks">
+		<a href="/tcsearch/ships:1/advanced/" class="advancedSearchButton"><i class="icon-search"></i> Advanced Search</a>
+	</div>
+</form>
 </div>
 
 <!------------------------------------------------------------------------------ End TripleClicks header -->
@@ -1489,6 +768,9 @@ a.mainSidebarLink3:hover {
 	border:1px solid #eee;
 	border-bottom: 1px solid #999;
 }
+
+.slot { height:1px; background:#cccccc; border-bottom:1px solid #999; margin:10px 0  }
+
 </style>
 
 
@@ -1515,30 +797,34 @@ a.mainSidebarLink3:hover {
 			
 			
 			
-									<p align="center"></p>
-					<p align="center" style="font-size:11px; font-weight:bold;">Canon PowerShot A2300 16.0 MP Digital Camera (silver or black)</p>
-					<p align="center"><img src="/images/sku/183156.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $<span class="liveAuction" data-auction_id="27201" data-auction_data_type="current_price">4.44</span>*</p>
+				
+				<div class="sidebox">
+					<p align="center"></p>
+					<p align="center" style="font-size:11px; font-weight:bold;">Apple iPad Air (silver)</p>
+					<p align="center"><img src="/images/sku/280028.jpg" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $<span class="liveAuction" data-auction_id="40051" data-auction_data_type="current_price">23.65</span>*</p>
 					<p align="center"><a href="/pb.php?atype=F" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
-					<p>&nbsp;</p>
-
-									<p align="center"></p>
+				</div>
+				<div class="slot"></div>
+				
+				<div class="sidebox">
+					<p align="center"></p>
+					<p align="center" style="font-size:11px; font-weight:bold;">Silver76Pack--Silver Bar (1 Ounce) + 75 TCredits</p>
+					<p align="center"><img src="/images/sku/180773.jpg" width="160" style="margin:5px; "></p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $<span class="liveAuction" data-auction_id="40056" data-auction_data_type="current_price">5.00</span>*</p>
+					<p align="center"><a href="/pb.php?atype=M" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
+				</div>
+				<div class="slot"></div>
+				
+				<div class="sidebox">
+					<p align="center"></p>
 					<p align="center" style="font-size:11px; font-weight:bold;">TCredits - 300 pack</p>
 					<p align="center"><img src="/images/sku/63873.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $<span class="liveAuction" data-auction_id="27207" data-auction_data_type="current_price">0.03</span>*</p>
+					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Current Price: $<span class="liveAuction" data-auction_id="40058" data-auction_data_type="current_price">0.39</span>*</p>
 					<p align="center"><a href="/pb.php?atype=X" target="_blank" class="HPbutton" style="border-radius:4px;">BID NOW!</a></p>
-					<p>&nbsp;</p>
-
+				</div>
+				<div class="slot"></div>
 								
-					
-					
-
-					<p align="center"></p>
-					<p align="center" style="font-size:11px; font-weight:bold;">Wireless 5-in-1 Headphones &amp; 50 TCredits</p>
-					<p align="center"><img src="/images/sku/91847.jpg" width="160" style="margin:5px; "></p>
-					<p align="center" style="font-size:14px; font-weight:bold; color:#CC0000;">Starting In: 25m*</p>
-					<p>&nbsp;</p>
-				
 				<p align="center">Bid on these items<br>
 				before they're gone!</p>
 				<p align="center" style="font-size:11px; font-style:italic;">*Refresh browser for updated information</p>
@@ -1547,8 +833,25 @@ a.mainSidebarLink3:hover {
 
 	</div>
 
-<div class="dividerDotted"></div>
-			<a href="/ECA/ECAGW.php"><img src="//static.tripleclicks.com/images/site/ban_ECA.gif" alt="Sell Products Online?  Click Here!" width="190" height="361" border="0" style="_width:190px;"></a>
+<div>&nbsp;</div>
+
+			<div style="font-size:11px; margin-top:10px;">
+
+			<div>
+				<div align="center"><img src="//static.tripleclicks.com/images/logos/logo-wave3_ban.gif" alt="TC logo" width="120" height="93"><br>
+				</div>
+				<p><br>
+					• FREE Monthly TCredits!<br>
+					• FREE Monthly Member Rewards Points! (MRP)<br>
+					• Win $100's in our weekly drawing!<br>
+					• Earn unlimited add'l TCredits/MRP!<br>
+					• Exclusive member-only specials!<br>
+					• Free song of the month download!</p>
+				<p>&nbsp;</p>
+				<p><a href="/Wave3/Wave3.php">Join the wave</a> and get all this &amp; more!</p>
+			</div>
+
+		</div>
 	<div class="dividerDotted"></div>
 
 <a href="http://www.facebook.com/pages/TripleClickscom/172874702800289" target="_blank"><img src="//static.tripleclicks.com/images/buttons/logo-Facebook.gif" border="0" style="margin-left:11px;" width="80" height="23"></a>
@@ -1695,34 +998,34 @@ function googleTranslateElementInit()
 	<select name="currency" class="forms currencyDropdown chosen-select" style="margin-top:2px; padding-bottom:5px; width: 160px;" onchange="TC.currency.setCurrency(this.value)">
 					<option value="USD" multiplier="1.00" sign="$">United States Dollars</option>
 					<option value="EUR" multiplier="0.73" sign="€">Euros</option>
-					<option value="GBP" multiplier="0.61" sign="£">United Kingdom Pounds</option>
-					<option value="JPY" multiplier="103.43" sign="¥">Japanese Yen</option>
-					<option value="CAD" multiplier="1.06" sign="$">Canadian Dollars</option>
-					<option value="AUD" multiplier="1.12" sign="$">Australian Dollars</option>
-					<option value="RUB" multiplier="32.83" sign="¤">Russian Rubles</option>
-					<option value="MXN" multiplier="12.98" sign="$">Mexican Pesos</option>
-					<option value="NZD" multiplier="1.21" sign="$">New Zealand Dollars</option>
-					<option value="SGD" multiplier="1.26" sign="S$">Singapore Dollars</option>
+					<option value="GBP" multiplier="0.59" sign="£">United Kingdom Pounds</option>
+					<option value="JPY" multiplier="101.42" sign="¥">Japanese Yen</option>
+					<option value="CAD" multiplier="1.07" sign="$">Canadian Dollars</option>
+					<option value="AUD" multiplier="1.06" sign="$">Australian Dollars</option>
+					<option value="RUB" multiplier="33.64" sign="¤">Russian Rubles</option>
+					<option value="MXN" multiplier="13.01" sign="$">Mexican Pesos</option>
+					<option value="NZD" multiplier="1.14" sign="$">New Zealand Dollars</option>
+					<option value="SGD" multiplier="1.25" sign="S$">Singapore Dollars</option>
 					<option value="HKD" multiplier="7.75" sign="HK$">Hong Kong Dollars</option>
-					<option value="SEK" multiplier="6.60" sign="kr">Swedish Kronor</option>
-					<option value="NOK" multiplier="6.19" sign="kr">Norwegian Kroner</option>
-					<option value="MYR" multiplier="3.24" sign="rm">Malaysian Ringgit</option>
-					<option value="ZAR" multiplier="10.39" sign="R">South African Rand</option>
+					<option value="SEK" multiplier="6.76" sign="kr">Swedish Kronor</option>
+					<option value="NOK" multiplier="6.13" sign="kr">Norwegian Kroner</option>
+					<option value="MYR" multiplier="3.21" sign="rm">Malaysian Ringgit</option>
+					<option value="ZAR" multiplier="10.62" sign="R">South African Rand</option>
 					<option value="CHF" multiplier="0.89" sign="¤">Swiss Francs</option>
-					<option value="INR" multiplier="62.10" sign="₹">Indian Rupees</option>
-					<option value="PHP" multiplier="44.15" sign="₱">Philippine Peso</option>
+					<option value="INR" multiplier="60.10" sign="₹">Indian Rupees</option>
+					<option value="PHP" multiplier="43.75" sign="₱">Philippine Peso</option>
 					<option value="IDR" multiplier="9615.00" sign="Rp">Indonesian Rupiah</option>
-					<option value="NGN" multiplier="158.65" sign="₦">Nigerian Naira</option>
-					<option value="PKR" multiplier="107.16" sign="₨">Pakistani Rupee</option>
-					<option value="BDT" multiplier="79.21" sign="Tk">Bangladeshi Taka</option>
-					<option value="KES" multiplier="86.55" sign="KSh">Kenyan Shilling</option>
+					<option value="NGN" multiplier="162.98" sign="₦">Nigerian Naira</option>
+					<option value="PKR" multiplier="98.65" sign="₨">Pakistani Rupee</option>
+					<option value="BDT" multiplier="77.55" sign="Tk">Bangladeshi Taka</option>
+					<option value="KES" multiplier="87.75" sign="KSh">Kenyan Shilling</option>
 					<option value="AED" multiplier="3.67" sign="د.إ">UAE Dirham</option>
-					<option value="HUF" multiplier="220.58" sign="Ft">Hungarian Forint</option>
+					<option value="HUF" multiplier="226.59" sign="Ft">Hungarian Forint</option>
 					<option value="UGX" multiplier="2592.50" sign="USh">Ugandan Shilling</option>
-					<option value="BRL" multiplier="2.33" sign="R$">Brazilian Real</option>
-					<option value="LKR" multiplier="130.93" sign="Rs">Sri Lankan Rupee</option>
-					<option value="EGP" multiplier="6.89" sign="E£">Egyptian Pound</option>
-					<option value="RON" multiplier="3.24" sign="lei">Romanian Leu</option>
+					<option value="BRL" multiplier="2.21" sign="R$">Brazilian Real</option>
+					<option value="LKR" multiplier="130.30" sign="Rs">Sri Lankan Rupee</option>
+					<option value="EGP" multiplier="7.15" sign="E£">Egyptian Pound</option>
+					<option value="RON" multiplier="3.22" sign="lei">Romanian Leu</option>
 					<option value="UZS" multiplier="1952.60" sign="¤">Uzbekistani Som</option>
 					<option value="SAR" multiplier="3.75" sign="ر.س">Saudi Riyal</option>
 					<option value="KRW" multiplier="1054.70" sign="₩">South Korean Won</option>
@@ -1736,7 +1039,7 @@ function googleTranslateElementInit()
 		<br>
 			
 			Your Affiliate is:<br>
-			<strong>Ashley Walstrum</strong>
+			<strong>Jerry Selvaseelan</strong>
    			</div>	
 	
 	<div style="clear:both; height:0px;"></div>		
@@ -1747,8 +1050,8 @@ function googleTranslateElementInit()
 
 
 <div align="center" style="text-align:center; padding-top:10px; font-size:11px;">
-	Copyright © 2013, Carson Services, Inc.
-     <div id="xyzzy_res" align="center" style="display:none;">rendered by node04 in -0.77851390838623</div>
+	Copyright © 2014, Carson Services, Inc.
+     <div id="xyzzy_res" align="center" style="display:none;">rendered by node03 in -0.38481903076172</div>
         <script>
         $(function() {
         $('div#xyzzy').hover(function() {
