@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219180117id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designmodo.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030321id_/http%3A//designmodo.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Designmodo
 
@@ -47,6 +47,8 @@ Designmodo Inc. uses such information for:
   * fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.
 
 
+
+We reserve the right to use your company name and logo for marketing purposes if you post to the Designmodo website or use Designmodo products. If you see your name or logo on our website, you can opt out by writing to the team at Designmodo.
 
 Designmodo Inc. may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. Designmodo Inc. retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
 
