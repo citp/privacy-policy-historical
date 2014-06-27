@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823163700id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fircroft.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627193426id_/http%3A//www.fircroft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fircroft
 
-This site, www.fircroft.com, is owned and operated by Fircroft Engineering Services Ltd. Fircroft Engineering Services Ltd is the data controller for the purpose of the Data Protection Act 1998. This policy together with our [terms and conditions](http://www.fircroft.com/terms-and-conditions) and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to our processing of your data in the manner set out below, please do not submit any personal data to us. 
+_For residents of Australia, please refer to Fircroft's specific Australian Privacy Policy which can be found[here.](http://www.fircroft.com/au/privacy-policy)_
+
+This site, www.fircroft.com, is owned and operated by 
+
+Fircroft Engineering Services Ltd. Fircroft Engineering Services Ltd is the data controller for the purpose of the Data Protection Act 1998. This policy together with our [terms and conditions](http://www.fircroft.com/terms-and-conditions) and any other documents referred to in it sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to our processing of your data in the manner set out below, please do not submit any personal data to us. 
 
 **Information we may collect from you** ****
 
