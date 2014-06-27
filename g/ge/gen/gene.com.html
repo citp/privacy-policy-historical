@@ -1,22 +1,7 @@
-<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219021544id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gene.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627104636id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-	<meta charset="utf-8">
-
-	<title>Genentech: Privacy Policy</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<link rel="stylesheet" href="//fast.fonts.com/cssapi/27f61167-9264-457b-9f5d-e102c0da5b27.css">
-	<link rel="stylesheet" href="/assets/frontend/css/style.css">
-		
-	<link rel="icon" href="/assets/frontend/img/favicon.ico">
-	<link rel="apple-touch-icon-precomposed" href="/assets/frontend/img/apple-icon-touch.png">
-
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" charset="UTF-8" src="//rum-static.pingdom.net/prum.min.js"></script><script>
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta charset="utf-8"><title>Genentech: Privacy Policy</title><meta name="description" content=""><meta name="author" content=""><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="//fast.fonts.com/cssapi/27f61167-9264-457b-9f5d-e102c0da5b27.css"><link rel="stylesheet" href="http://cdn.gene.com/assets/frontend/css/style.css"><link rel="icon" href="http://cdn.gene.com/assets/frontend/img/favicon.ico"><link rel="apple-touch-icon-precomposed" href="http://cdn.gene.com/assets/frontend/img/apple-icon-touch.png"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script>
 	var jQ = {
 		queue: [],
 		ready: function (f) {
@@ -29,106 +14,34 @@
 		}
 	};
 	if (typeof window.jQuery == 'undefined') { window.jQuery = window.$ = jQ.ready; }
-
 	var Gene = { universal: {}, configs: {}, main: {}, features: {}, custom: {} };
 	Gene.configs.paths = {
 		prepend : '/'
 	}
-	</script>
-		<script src="/assets/frontend/js/vendor/modernizr-2.7.0.min.js"></script>
-	<!--[if GT IE 8]><!-->
-	<script>
-	Modernizr.load([
-	{
-		load: '/assets/frontend/js/vendor/jquery-1.7.2.min.js'
-	},{	// Polyfill media queries
+	</script><script src="http://cdn.gene.com/assets/frontend/js/vendor/modernizr-2.7.0.min.js"></script><script>
+	Modernizr.load(
+	{	// Polyfill media queries
 		test: Modernizr.mq('only all'),
 		nope: '/assets/frontend/js/vendor/respond.min.js'
-	},{
-		load: '/assets/frontend/js/genecorp.js',
-		callback: function() {
-			// Pull in optional in-template Omniture vars
-			if( typeof(omnitureVars) === 'object' ) {
-				for( prop in omnitureVars ) {
-					s[prop] = omnitureVars[prop];
-				}
-			}
-
-			// Fill in any of the primary variables that weren't explicitly set in-template
-			if ( !s.pageName ) { s.pageName='privacy-policy'; }
-			if ( !s.channel ) {s.channel='privacy-policy'; }
-			if ( !s.prop3 ) { s.prop3='home'; }
-			if ( !s.prop4 ) { s.prop4='home'; }
-			if ( !s.hier1 ) { s.hier1='privacy-policy/home/home/privacy-policy'; }
-
-			// Set permanent, non-editable vars
-			s.prop9 = "D=g";
-			s.eVar13 = "D=g";
-			s.prop11=(s.getQueryParam('cid')=='')?s.pageName:s.getQueryParam('cid') + " -- " + s.pageName;
-
-			// Write out final Omniture code
-			var s_code = s.t(); if( s_code ) document.write( s_code );
-		}
-	},{
-		load: ['/assets/frontend/js/plugins.js', '/assets/frontend/js/analytics.js']
-	},{
-		load: '/assets/frontend/js/main.js',
-		callback: function() {
-			jQ.unq();
-			$(function() {
-				// Initialize custom classes
-				for (var classname in Gene.custom) {
-					if( classname != 'configs' ) {
-						Gene.custom[classname].init();
-					}
-				}
-			});
-		}
-	},{	// Polyfill placeholder
-		test: Modernizr.input.placeholder,
-		nope: [ '/assets/frontend/js/vendor/placeholder_polyfill.min.css',
-			'/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js' ]
-	},{	 // Date placeholder
-		test: Modernizr.inputtypes.date,
-		load: [ '/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
-			'/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js' ],
-		callback: function(url, result, key) {
-			// Only run once
-			if( key != 1 ) return;
-
-			$(function() {
-				// Polyfill
-				if( result == false ) {
-					// If date input type detection fails, polyfill (after js has loaded)
-					$('input[type="date"]').datepicker({
-						dateFormat: 'yy-mm-dd'
-					});
-				}
-				// Temporary webkit workaround
-				var tomorrow = new Date();
-				tomorrow.setDate( tomorrow.getDate() + 1 );
-
-				$('.datepicker-future-only').datepicker({
-					dateFormat: 'yy-mm-dd',
-					minDate: tomorrow
-				});
-			});
-		}
-	}	]);
-	</script>
-	<!----><!--[endif]---->
-
-	<script type="application/javascript">var _prum={id:"5166ef76e6e53dde1d000002"};var PRUM_EPISODES=PRUM_EPISODES||{};PRUM_EPISODES.q=[];PRUM_EPISODES.mark=function(b,a){PRUM_EPISODES.q.push(["mark",b,a||new Date().getTime()])};PRUM_EPISODES.measure=function(b,a,b){PRUM_EPISODES.q.push(["measure",b,a,b||new Date().getTime()])};PRUM_EPISODES.done=function(a){PRUM_EPISODES.q.push(["done",a])};PRUM_EPISODES.mark("firstbyte");(function(){var b=document.getElementsByTagName("script")[0];var a=document.createElement("script");a.type="text/javascript";a.async=true;a.charset="UTF-8";a.src="//rum-static.pingdom.net/prum.min.js";b.parentNode.insertBefore(a,b)})();</script>
-
-</head>
-
-<body>
-<header class="primary-header clearfix">
-	<div class="clearfix constrained">
-		<a id="logo-container" href="/"><h1 class="logo"><img src="/assets/frontend/img/logo.png" alt="Genentech - A Member of the Roche Group" class="has-high-res"></h1></a>
-		<div class="utility-nav">
-		<ul class="hlist">
-				<li class="has-show-nav-link"><a href="#" class="show-nav-link"><i class="icon-reorder icon-large"></i></a></li>
+	});
+</script><script>
+var _prum = [['id', '539f3870abe53df913e7f16a'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script></head><!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]--><!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]--><!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]--><!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]--><!--[if lt IE 9]><script type="text/javascript" src="/assets/frontend/js/vendor/getComputedStyle_polyfill.js"></script><![endif]--><!----><!--[endif]----><body>
+<header class="primary-header clearfix"><div class="clearfix constrained">
+				<a id="logo-container" href="/">
+			<h1 class="logo">
+				<img src="http://cdn.gene.com/assets/frontend/img/logo.png" alt="Genentech - A Member of the Roche Group" width="150" height="39" class="gene-logo has-high-res"></h1>
+		</a>
+				<div class="utility-nav">
+		<ul class="hlist"><li class="has-show-nav-link"><a href="#" class="show-nav-link"><i class="icon-reorder icon-large"></i></a></li>
 				<li><a href="/about-us"><i class="icon-info-sign icon-large"></i> About Us</a></li>
 				<li><a href="/contact-us"><i class="icon-envelope-alt icon-large"></i> Contact Us</a></li>
 				<li class="search-link"><a href="/meta/search"><i class="icon-search icon-large"></i> Search</a></li>
@@ -137,14 +50,11 @@
 						<input id="search-input" class="search-input" type="search" name="q" placeholder="Search gene.com"></form></li>
 					
 				
-			</ul>
-		</div>
+			</ul></div>
 	</div>
 
-	<nav class="primary-nav">
-		<div class="constrained">
-			<ul class="hlist">
-							<li class="primary-nav-scientists">
+	<nav class="primary-nav"><div class="constrained">
+			<ul class="hlist"><li class="primary-nav-scientists">
 					<a href="/scientists"><span>For</span> Scientists</a>
 				</li>
 							<li class="primary-nav-medical-professionals">
@@ -162,44 +72,30 @@
 							<li class="primary-nav-careers">
 					<a href="/careers"><span>Now</span> Hiring</a>
 				</li>
-						</ul>
-		</div>
-	</nav>
-</header>
-<div class="main wo-hero">
+						</ul></div>
+	</nav></header><div class="main wo-hero">
 	
 	<div class="hero"></div>
 
 	<div class="constrained has-grid clearfix">
 
 		<div class="primary-rail">
-		<nav class="secondary-nav"><ul><li><a href="/meta/terms-conditions">Terms &amp; Conditions</a></li><li><a href="/meta/privacy-policy">Privacy Policy</a></li></ul></nav>	
-	    
-        
-	
-    	<aside class="share-this">
-		Share this<br>
-		
-		<div class="modal email-share-modal modal-form" data-modal-set="email-share" data-current-url="http://www.gene.com/privacy-policy">
+		<nav class="secondary-nav"><ul><li><a href="/meta/terms-conditions">Terms &amp; Conditions</a></li><li><a href="/meta/privacy-policy">Privacy Policy</a></li></ul></nav><aside class="share-this">
+		Share this<br><div class="modal email-share-modal modal-form" data-modal-set="email-share" data-current-url="http://www.gene.com/privacy-policy">
 		</div>
 		
 	
 		
-		<a href="#" role="button" class="modal-link email-share-button" data-modal-set="email-share"><img alt="Email" class="share-icon email" src="/assets/frontend/img/icon-share-email.png"></a>
+		<a href="#" role="button" class="modal-link email-share-button" data-modal-set="email-share"><img alt="Email" class="share-icon email" src="http://cdn.gene.com/assets/frontend/img/icon-share-email.png"></a>
 		
-		<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy&amp;t=Privacy+Policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'facebook', 'share']);"><img alt="Facebook" class="share-icon facebook" src="/assets/frontend/img/icon-share-facebook.png"></a>
-		<a href="http://twitter.com/share?text=Privacy+Policy&amp;url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'twitter', 'share']);"><img alt="Twitter" class="share-icon twitter" src="/assets/frontend/img/icon-share-twitter.png"></a>
-		<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy&amp;title=Privacy+Policy&amp;source=Genentech" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'linkedin', 'share']);"><img alt="LinkedIn" class="share-icon linkedin" src="/assets/frontend/img/icon-share-linkedin.png"></a>
-		<a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'googleplus', 'share']);"><img alt="Google+" class="share-icon googleplus" src="/assets/frontend/img/icon-share-googleplus.png"></a>
+		<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy&amp;t=Privacy+Policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'facebook', 'share']);"><img alt="Facebook" class="share-icon facebook" src="http://cdn.gene.com/assets/frontend/img/icon-share-facebook.png"></a>
+		<a href="http://twitter.com/share?text=Privacy+Policy&amp;url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'twitter', 'share']);"><img alt="Twitter" class="share-icon twitter" src="http://cdn.gene.com/assets/frontend/img/icon-share-twitter.png"></a>
+		<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy&amp;title=Privacy+Policy&amp;source=Genentech" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'linkedin', 'share']);"><img alt="LinkedIn" class="share-icon linkedin" src="http://cdn.gene.com/assets/frontend/img/icon-share-linkedin.png"></a>
+		<a href="http://plus.google.com/share?url=http%3A%2F%2Fwww.gene.com%2Fprivacy-policy" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackSocial', 'googleplus', 'share']);"><img alt="Google+" class="share-icon googleplus" src="http://cdn.gene.com/assets/frontend/img/icon-share-googleplus.png"></a>
 	
-			</aside>
-	
-	<aside class="print-this">
-		Print<br>
-		<a style="float: right;" class="print-icon ir" href="#" onclick="window.print();return false;">Print</a>
-	</aside>
-
-</div>
+			</aside><aside class="print-this">
+		Print<br><a style="float: right;" class="print-icon ir" href="#" onclick="window.print();return false;">Print</a>
+	</aside></div>
 		<div class="body clearfix">
 
 			<div class="content">
@@ -210,17 +106,14 @@
 
 					<p>Genentech, Inc. ("Genentech") respects the privacy of visitors to its websites, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, including but not limited to, name, address, e-mail address, and telephone number). We have established this Online Privacy Policy so that you are informed about how we treat any personally identifiable information that you provide to us in the course of using this website. This Online Privacy Policy will inform you of: </p>
 					
-					<ol>
-						<li>How you will be informed of updates to this Privacy Policy</li>
+					<ol><li>How you will be informed of updates to this Privacy Policy</li>
 						<li>What personally identifiable information of yours we may collect from you through our website</li>
 						<li>How we may use your personally identifiable information</li>
 						<li>Limits on how we would share and disclose your personally identifiable information</li>
 						<li>Our policy regarding links to third party websites</li>
 						<li>Security of our website</li>
 						<li>How you can correct and update your personally identifiable information</li>
-					</ol>
-
-					<p>Please note that the Genentech websites are directed towards users who reside in the United States of America.  It is not our intent to gather personally identifiable information from individuals residing outside the U.S.</p>
+					</ol><p>Please note that the Genentech websites are directed towards users who reside in the United States of America.  It is not our intent to gather personally identifiable information from individuals residing outside the U.S.</p>
 
 					<h2>Online Privacy Policy Updates</h2>
 					<p>From time to time, Genentech may revise this Online Privacy Policy. Any such changes to this Online Privacy Policy will be promptly reflected on this page. Genentech encourages you to review this Online Privacy Policy regularly for any changes.  Your continued use of this website will be subject to the then-current Online Privacy Policy.  The effective date of this Online Privacy Policy is November 20, 2012.</p>					
@@ -228,14 +121,11 @@
 					<h2>Information Collection and Use</h2>
 					<p>You can generally visit our website without revealing any personally identifiable information about yourself. However, to access certain options and services we may ask you to provide certain personally identifiable information and without providing such personally identifiable information, you may be unable to access certain options and services. We (along with our third party partners engaged to provide marketing and advertising on our behalf) collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. The following is personally identifiable information that you may voluntarily provide to us and how we use it: </p>				
 					
-					<ul>
-						<li><b>Surveys.</b> Information obtained from you on web surveys, such as contact information (name and shipping address), demographic information (zip code, age level) and medical condition.  We may use this personally identifiable information to provide you with information and services for which you have expressed an interest or that you may find useful based on your answers in a survey.  Additionally, we may refer to your personally identifiable information to better understand your needs and how we can improve our website.</li>
+					<ul><li><b>Surveys.</b> Information obtained from you on web surveys, such as contact information (name and shipping address), demographic information (zip code, age level) and medical condition.  We may use this personally identifiable information to provide you with information and services for which you have expressed an interest or that you may find useful based on your answers in a survey.  Additionally, we may refer to your personally identifiable information to better understand your needs and how we can improve our website.</li>
 						<li><b>Newsletters.</b> Information obtained from you from your request to subscribe to a newsletter, such as contact information (name and e-mail address).  We may use this personally identifiable information to deliver the newsletters that you have elected to receive.</li>
 						<li><b>Registration.</b> Information obtained from you on registration forms used to process your requests for services and information, such as contact information (name, address, e-mail address), password, username or code, age, date of birth, gender, ethnicity and medical condition.  This registration information may also be gathered if you register for certain services via fax or mail.  We may use this information to send you a welcoming e-mail to verify your username and password, website updates, special offers, notices regarding relevant medical conditions and treatment, or other information responsive to the data that you provide to us.  Additionally, we may refer to your personally identifiable information to better understand your needs and how we can improve our website.</li>
 						<li><b>E-mail Content to a Friend.</b> Information obtained from you regarding friend or family name and e-mail address, if you elect to use our referral service for sending some of our website content to friends and family.  We may use this personally identifiable information to automatically send the friend or family member a one-time e-mail inviting them to visit the website.  We may store this information for the sole purpose of sending this one-time e-mail.</li>
-					</ul>
-					
-					<p>Genentech is the owner of all information collected on this website. In addition to the purposes described above, any information we collect may also be used for analytics purposes (e.g., evaluating site usage patterns, assessing throughput) so that we can gauge the effectiveness of our programs and improve the usefulness of information presented to users.</p>
+					</ul><p>Genentech is the owner of all information collected on this website. In addition to the purposes described above, any information we collect may also be used for analytics purposes (e.g., evaluating site usage patterns, assessing throughput) so that we can gauge the effectiveness of our programs and improve the usefulness of information presented to users.</p>
 					
 					<h2>Minors</h2>
 					<p>Our websites are not intended for or designed to attract children under the age of 13. Moreover, we do not knowingly collect any personally identifiable information from anyone under the age of 18 without the consent of a parent or guardian, and you must be 18 years of age or older to submit registration or survey information. Should you believe that a minor of whom you are a parent or guardian has registered, please contact us at <a href="mailto:privacy.office@gene.com">privacy.office@gene.com</a> and we will make reasonable efforts to remove all personally identifiable information related to the minor.</p>					
@@ -273,22 +163,11 @@
 					<p>Genentech, Inc.<br>
 					   Attn: Privacy Office<br>
 					   1 DNA Way<br>
-					   South San Francisco, CA 94080<br>
-					   
-					   <b>Privacy Policy last updated: November 20, 2012</b><br>
-						</p><ul>
-						<li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'
+					   South San Francisco, CA 94080<br><b>Privacy Policy last updated: November 20, 2012</b><br></p><ul><li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'
 						</li><li>Added section 'Contacting Genentech'
-						</li></ul>
-					   
-					   <b>Privacy Policy last updated: February 4, 2011</b><br>
-					   <ul>
-					   <li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'</li>
+						</li></ul><b>Privacy Policy last updated: February 4, 2011</b><br><ul><li>Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information'</li>
 					   <li>Added section 'Contacting Genentech'</li>
-					   </ul>
-					   <p></p>
-
-				</div>
+					   </ul></div>
 
 			</div>
 
@@ -303,7 +182,7 @@
 
 </div><div class="primary-footer clearfix">
 	<div class="constrained">
-	
+
 		<div class="non-sitemap footer-quote">
 
 			<div class="footer-feedback-link-container">
@@ -311,311 +190,264 @@
 				<p class="description">Tell us what you think about our company, products, or website.</p>
 			</div>
 
-			<figure class="quote">
-				<span class="curlyquote-open">“</span>
+			<figure class="quote"><span class="curlyquote-open">“</span>
 								<blockquote>
-					The true sign of intelligence is not knowledge but imagination.				</blockquote>
+					The way to do research is to attack the facts at the point of greatest astonishment.				</blockquote>
 				<span class="curlyquote-close">”</span>
-				<cite>– Albert Einstein</cite>
-			</figure>
-		</div>
+				<cite>– Celia Green</cite>
+			</figure></div>
 		<div class="footer-logo-narrow" data-set="footer-logo">
-			<img src="/assets/frontend/img/logo-white-shadow.png" alt="Genentech - A Member of the Roche Group" class="has-high-res" style="width: 189px; height; 50px;" id="footer-logo">
-		</div>
-		<nav class="footer-sitemap">
-					<ul>
-				<li class="first-level">
-					<a href="/scientists"><span>For</span> Scientists</a>
-				</li>
-																					<li>
-							<a href="/scientists/our-scientists">Our Scientists</a>
-						</li>
-																	<li>
-							<a href="/scientists/publications">Publications</a>
-						</li>
-																	<li>
-							<a href="/scientists/oncology">Oncology</a>
-						</li>
-																	<li>
-							<a href="/scientists/immunology">Immunology</a>
-						</li>
-																	<li>
-							<a href="/scientists/neuroscience">Neuroscience</a>
-						</li>
-																	<li>
-							<a href="/scientists/metabolism">Metabolism</a>
-						</li>
-																	<li>
-							<a href="/scientists/infectious-disease">Infectious Disease</a>
-						</li>
-												</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/medical-professionals"><span>For</span> Medical Professionals</a>
-				</li>
-																					<li>
-							<a href="/medical-professionals/medicines">Our Medicines</a>
-						</li>
-																	<li>
-							<a href="/medical-professionals/pipeline">Our Pipeline</a>
-						</li>
-																							<li>
-							<a href="/medical-professionals/medinfo">Medical Resources</a>
-						</li>
-																							<li>
-							<a href="/medical-professionals/sunshine-act-compliance">Sunshine Act Compliance</a>
-						</li>
-																	<li>
-							<a href="/medical-professionals/anti-counterfeiting">Anti-Counterfeiting</a>
-						</li>
-												</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/patients"><span>For</span> Patients</a>
-				</li>
-																					<li>
-							<a href="/patients/medicines">Our Medicines</a>
-						</li>
-																	<li>
-							<a href="/patients/investigational-medicines">Investigational Medicines</a>
-						</li>
-																	<li>
-							<a href="/patients/patient-access">Patient Access</a>
-						</li>
-																	<li>
-							<a href="/patients/disease-education">Disease Education</a>
-						</li>
-																	<li>
-							<a href="/patients/sharps-disposal">Sharps Disposal</a>
-						</li>
-												</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/media"><span>For</span> Media</a>
-				</li>
-																					<li>
-							<a href="/media/news-features">News Features</a>
-						</li>
-																	<li>
-							<a href="/media/press-releases">Press Releases</a>
-						</li>
-																	<li>
-							<a href="/media/statements">Statements</a>
-						</li>
-																	<li>
-							<a href="/media/company-information">Company Information</a>
-						</li>
-																	<li>
-							<a href="/media/product-information">Product Information</a>
-						</li>
-																	<li>
-							<a href="/media/news-alerts">Sign Up For News Alerts</a>
-						</li>
-												</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/good"><span>For</span> Good</a>
-				</li>
-																					<li>
-							<a href="/good/grants-giving">Grants &amp; Giving</a>
-						</li>
-																	<li>
-							<a href="/good/diversity-inclusion">Diversity &amp; Inclusion</a>
-						</li>
-																	<li>
-							<a href="/good/sustainability">Environmental Sustainability</a>
-						</li>
-																	<li>
-							<a href="/good/community">Community</a>
-						</li>
-												</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/careers"><span>Now</span> Hiring</a>
-				</li>
-																					<li>
-							<a href="/careers/find-a-job">Find A Job</a>
-						</li>
-																	<li>
-							<a href="/careers/academic-programs">Academic Programs</a>
-						</li>
-																	<li>
-							<a href="/careers/events">Events</a>
-						</li>
-																	<li>
-							<a href="/careers/benefits">Benefits</a>
-						</li>
-																	<li>
-							<a href="/careers/professional-areas">Professional Areas</a>
-						</li>
-																	<li>
-							<a href="/careers/get-to-know-us">Get To Know Us</a>
-						</li>
-																		</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/about-us"><span></span> About Us</a>
-				</li>
-																					<li>
-							<a href="/about-us/leadership">Leadership</a>
-						</li>
-																	<li>
-							<a href="/about-us/awards-recognition">Awards &amp; Recognition</a>
-						</li>
-																	<li>
-							<a href="/about-us/partnering">Partnering</a>
-						</li>
-																	<li>
-							<a href="/about-us/investors">Investors</a>
-						</li>
-																	<li>
-							<a href="/about-us/suppliers">Suppliers</a>
-						</li>
-																	<li>
-							<a href="/about-us/compliance">Compliance</a>
-						</li>
-																		</ul>
-					<ul>
-				<li class="first-level">
-					<a href="/contact-us"><span></span> Contact Us</a>
-				</li>
-																					<li>
-							<a href="/contact-us/call-us">Call Us</a>
-						</li>
-																	<li>
-							<a href="/contact-us/email-us">Email Us</a>
-						</li>
-																							<li>
-							<a href="/contact-us/connect-with-us">Connect with us</a>
-						</li>
-																	<li>
-							<a href="/contact-us/visit-us">Visit us</a>
-						</li>
-																	<li>
-							<a href="/contact-us/submit-medical-inquiry">Submit a Medical Inquiry</a>
-						</li>
-																		</ul>
-				</nav>
-		<div class="non-sitemap footer-credits">
+			<img src="http://cdn.gene.com/assets/frontend/img/logo-white-shadow.png" alt="Genentech - A Member of the Roche Group" width="189" height="50" class="has-high-res" id="footer-logo"></div>
+		<nav class="footer-sitemap"><ul><li class="first-level">
+						<a href="/scientists"><span>For</span> Scientists</a>
+					</li>
+																								<li>
+								<a href="/scientists/our-scientists">Our Scientists</a>
+							</li>
+																			<li>
+								<a href="/scientists/publications">Publications</a>
+							</li>
+																			<li>
+								<a href="/scientists/oncology">Oncology</a>
+							</li>
+																			<li>
+								<a href="/scientists/immunology">Immunology</a>
+							</li>
+																			<li>
+								<a href="/scientists/neuroscience">Neuroscience</a>
+							</li>
+																			<li>
+								<a href="/scientists/metabolism">Metabolism</a>
+							</li>
+																			<li>
+								<a href="/scientists/infectious-disease">Infectious Disease</a>
+							</li>
+															</ul><ul><li class="first-level">
+						<a href="/medical-professionals"><span>For</span> Medical Professionals</a>
+					</li>
+																								<li>
+								<a href="/medical-professionals/medicines">Our Medicines</a>
+							</li>
+																			<li>
+								<a href="/medical-professionals/pipeline">Our Pipeline</a>
+							</li>
+																									<li>
+								<a href="/medical-professionals/medinfo">Medical Resources</a>
+							</li>
+																									<li>
+								<a href="/medical-professionals/sunshine-act-compliance">Sunshine Act Compliance</a>
+							</li>
+																			<li>
+								<a href="/medical-professionals/anti-counterfeiting">Anti-Counterfeiting</a>
+							</li>
+																					</ul><ul><li class="first-level">
+						<a href="/patients"><span>For</span> Patients</a>
+					</li>
+																								<li>
+								<a href="/patients/medicines">Our Medicines</a>
+							</li>
+																			<li>
+								<a href="/patients/investigational-medicines">Investigational Medicines</a>
+							</li>
+																			<li>
+								<a href="/patients/patient-access">Patient Access</a>
+							</li>
+																			<li>
+								<a href="/patients/disease-education">Disease Education</a>
+							</li>
+																			<li>
+								<a href="/patients/sharps-disposal">Sharps Disposal</a>
+							</li>
+															</ul><ul><li class="first-level">
+						<a href="/media"><span>For</span> Media</a>
+					</li>
+																								<li>
+								<a href="/media/news-features">News Features</a>
+							</li>
+																			<li>
+								<a href="/media/press-releases">Press Releases</a>
+							</li>
+																			<li>
+								<a href="/media/statements">Statements</a>
+							</li>
+																			<li>
+								<a href="/media/company-information">Company Information</a>
+							</li>
+																			<li>
+								<a href="/media/product-information">Product Information</a>
+							</li>
+																			<li>
+								<a href="/media/news-alerts">Sign Up For News Alerts</a>
+							</li>
+															</ul><ul><li class="first-level">
+						<a href="/good"><span>For</span> Good</a>
+					</li>
+																								<li>
+								<a href="/good/grants-giving">Grants &amp; Giving</a>
+							</li>
+																			<li>
+								<a href="/good/diversity-inclusion">Diversity &amp; Inclusion</a>
+							</li>
+																			<li>
+								<a href="/good/sustainability">Environmental Sustainability</a>
+							</li>
+																			<li>
+								<a href="/good/community">Community</a>
+							</li>
+															</ul><ul><li class="first-level">
+						<a href="/careers"><span>Now</span> Hiring</a>
+					</li>
+																								<li>
+								<a href="/careers/find-a-job">Find A Job</a>
+							</li>
+																			<li>
+								<a href="/careers/academic-programs">Academic Programs</a>
+							</li>
+																			<li>
+								<a href="/careers/events">Events</a>
+							</li>
+																			<li>
+								<a href="/careers/benefits">Benefits</a>
+							</li>
+																			<li>
+								<a href="/careers/professional-areas">Professional Areas</a>
+							</li>
+																			<li>
+								<a href="/careers/get-to-know-us">Get To Know Us</a>
+							</li>
+																					</ul><ul><li class="first-level">
+						<a href="/about-us"><span></span> About Us</a>
+					</li>
+																								<li>
+								<a href="/about-us/leadership">Leadership</a>
+							</li>
+																			<li>
+								<a href="/about-us/awards-recognition">Awards &amp; Recognition</a>
+							</li>
+																			<li>
+								<a href="/about-us/partnering">Partnering</a>
+							</li>
+																			<li>
+								<a href="/about-us/investors">Investors</a>
+							</li>
+																			<li>
+								<a href="/about-us/suppliers">Suppliers</a>
+							</li>
+																			<li>
+								<a href="/about-us/compliance">Compliance</a>
+							</li>
+																					</ul><ul><li class="first-level">
+						<a href="/contact-us"><span></span> Contact Us</a>
+					</li>
+																								<li>
+								<a href="/contact-us/call-us">Call Us</a>
+							</li>
+																			<li>
+								<a href="/contact-us/email-us">Email Us</a>
+							</li>
+																									<li>
+								<a href="/contact-us/connect-with-us">Connect with us</a>
+							</li>
+																			<li>
+								<a href="/contact-us/visit-us">Visit us</a>
+							</li>
+																			<li>
+								<a href="/contact-us/submit-medical-inquiry">Submit a Medical Inquiry</a>
+							</li>
+																					</ul></nav><div class="non-sitemap footer-credits">
 			<div class="footer-logo-wide" data-set="footer-logo">
 				<!-- Blank container for appendAround -->
 			</div>
-			<hr>
-			<span class="section-title">Connect with us</span>
-			<ul class="social-links clearfix">
-				<li><a target="_blank" href="http://facebook.com/genentech"><img src="/assets/frontend/img/icon-share-facebook.png" class="share-icon rounded facebook" alt="Facebook">Facebook</a></li>
-				<li><a target="_blank" href="http://twitter.com/genentech"><img src="/assets/frontend/img/icon-share-twitter.png" class="share-icon rounded twitter" alt="Twitter">Twitter</a></li>
-				<li><a target="_blank" href="http://us.linkedin.com/company/genentech"><img src="/assets/frontend/img/icon-share-linkedin.png" class="share-icon rounded linkedin" alt="LinkedIn">LinkedIn</a></li>
-				<li><a target="_blank" href="http://www.youtube.com/genentech"><img src="/assets/frontend/img/icon-share-youtube.png" class="share-icon rounded youtube" alt="YouTube">YouTube</a></li>
-				<li><a target="_blank" href="http://pinterest.com/genentech/"><img src="/assets/frontend/img/icon-share-pinterest.png" class="share-icon rounded pinterest" alt="YouTube">Pinterest</a></li>
-				<li><a target="_blank" href="https://plus.google.com/115094425853474860428/"><img src="/assets/frontend/img/icon-share-googleplus.png" class="share-icon rounded googleplus" alt="YouTube">Google+</a></li>
-			</ul>
-			<hr>
-			<footer>
-				<a href="/privacy-policy">Privacy Policy</a>&nbsp; | &nbsp;<a href="/terms-conditions">Terms &amp; Conditions</a><br>
-				Genentech, Inc. ©2013			</footer>
-		</div>
+			<hr><span class="section-title">Connect with us</span>
+			<ul class="social-links clearfix"><a target="_blank" href="http://facebook.com/genentech"><i class="icon-facebook"></i></a>
+				<a target="_blank" href="http://twitter.com/genentech"><i class="icon-twitter"></i></a>
+				<a target="_blank" href="http://us.linkedin.com/company/genentech"><i class="icon-linkedin"></i></a>
+				<a target="_blank" href="http://youtube.com/genentech"><i class="icon-youtube-play"></i></a>
+				<a target="_blank" href="http://pinterest.com/genentech"><i class="icon-pinterest"></i></a>
+				<a target="_blank" href="https://plus.google.com/+genentech/"><i class="icon-google-plus"></i></a>
+				<a target="_blank" href="http://instagram.com/genentech"><i class="icon-instagram"></i></a>
+							</ul><hr><footer><a href="/privacy-policy">Privacy Policy</a>&nbsp; | &nbsp;<a href="/terms-conditions">Terms &amp; Conditions</a><br>
+				Genentech, Inc. ©2014			</footer></div>
 	</div>
 </div>
 
 <div id="feedback-tool-container"></div>
 
+	<script type="text/javascript" src="http://cdn.gene.com/assets/frontend/js/js-dist/genecorp.min.js"></script><script>
+		// Pull in optional in-template Omniture vars
+		if( typeof(omnitureVars) === 'object' ) {
+			for( prop in omnitureVars ) {
+				s[prop] = omnitureVars[prop];
+			}
+		}
+		// Fill in any of the primary variables that weren't explicitly set in-template
+		if ( !s.pageName ) { s.pageName='privacy-policy'; }
+		if ( !s.channel ) {s.channel='privacy-policy'; }
+		if ( !s.prop3 ) { s.prop3='home'; }
+		if ( !s.prop4 ) { s.prop4='home'; }
+		if ( !s.hier1 ) { s.hier1='privacy-policy/home/home/privacy-policy'; }
 
-<!--[if LT IE 9]>
-<link rel="stylesheet" href="/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css">
-<link rel="stylesheet" href="/assets/frontend/js/vendor/placeholder_polyfill.min.css">
-<script type="text/javascript" src="/assets/frontend/js/vendor/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="/assets/frontend/js/vendor/respond.min.js"></script>
+		// Set permanent, non-editable vars
+		s.prop9 = "D=g";
+		s.eVar13 = "D=g";
+		s.prop11=(s.getQueryParam('cid')=='')?s.pageName:s.getQueryParam('cid') + " -- " + s.pageName;
 
-<script type="text/javascript" src="/assets/frontend/js/genecorp.js"></script>
-<script>
-// Pull in optional in-template Omniture vars
-if( typeof(omnitureVars) === 'object' ) {
-	for( prop in omnitureVars ) {
-		s[prop] = omnitureVars[prop];
+		// Write out final Omniture code
+		var s_code = s.t(); if( s_code ) document.write( s_code );
+	</script><script src="http://cdn.gene.com/assets/frontend/js/vendor/jquery-1.7.2.min.js"></script><script>
+	Modernizr.load([
+	{	// Polyfill placeholder
+		test: Modernizr.input.placeholder,
+		nope: [ '/assets/frontend/js/vendor/placeholder_polyfill.min.css',
+			'/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js' ]
+	},{	 // Date placeholder
+		test: Modernizr.inputtypes.date,
+		load: [ '/assets/frontend/js/vendor/jquery-ui/overcast/jquery-ui-1.9.1.custom.min.css',
+			'/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js' ],
+		callback: function(url, result, key) {
+			// Only run once
+			if (key != 1) return;
+
+			$(function() {
+				// Polyfill
+				if (result == false) {
+					// If date input type detection fails, polyfill (after js has loaded)
+					$('input[type="date"]').datepicker({
+						dateFormat: 'yy-mm-dd'
+					});
+				}
+				// Temporary webkit workaround
+				var tomorrow = new Date();
+				tomorrow.setDate( tomorrow.getDate() + 1 );
+
+				$('.datepicker-future-only').datepicker({
+					dateFormat: 'yy-mm-dd',
+					minDate: tomorrow
+				});
+			});
+		}
 	}
-}
-
-// Fill in any of the primary variables that weren't explicitly set in-template
-if ( !s.pageName ) { s.pageName='privacy-policy'; }
-if ( !s.channel ) {s.channel='privacy-policy'; }
-if ( !s.prop3 ) { s.prop3='home'; }
-if ( !s.prop4 ) { s.prop4='home'; }
-if ( !s.hier1 ) { s.hier1='privacy-policy/home/home/privacy-policy'; }
-
-// Set permanent, non-editable vars
-s.prop9 = "D=g";
-s.eVar13 = "D=g";
-s.prop11=(s.getQueryParam('cid')=='')?s.pageName:s.getQueryParam('cid') + " -- " + s.pageName;
-
-// Write out final Omniture code
-var s_code = s.t(); if( s_code ) document.write( s_code );
-</script>
-<script type="text/javascript" src="/assets/frontend/js/plugins.js"></script>
-<script type="text/javascript" src="/assets/frontend/js/analytics.js"></script>
-<script type="text/javascript" src="/assets/frontend/js/vendor/getComputedStyle_polyfill.js"></script>
-<script type="text/javascript" src="/assets/frontend/js/main.js"></script>
-<script type="text/javascript">
+	]);
+</script><script src="http://cdn.gene.com/assets/frontend/js/js-dist/bundle.min.js"></script><script>
 	jQ.unq();
 	$(function() {
 		// Initialize custom classes
 		for (var classname in Gene.custom) {
-			if( classname != 'configs' ) {
+			if (classname != 'configs') {
 				Gene.custom[classname].init();
 			}
 		}
 	});
-</script>
-
-<script type="text/javascript" src="/assets/frontend/js/vendor/placeholder_polyfill.jquery.min.combo.js"></script>
-<script type="text/javascript" src="/assets/frontend/js/vendor/jquery-ui/jquery-ui-1.9.1.custom.min.js"></script>
-<script>
-$('input[type="date"]').datepicker({
-	dateFormat: 'yy-mm-dd'
-});
-
-// Temporary webkit workaround
-var tomorrow = new Date();
-tomorrow.setDate( tomorrow.getDate() + 1 );
-
-$('.datepicker-future-only').datepicker({
-	dateFormat: 'yy-mm-dd',
-	minDate: tomorrow
-});
-</script>
-<![endif]-->
-
-<script type="text/javascript">
+</script><script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-22947831-2']);
 	_gaq.push(['_setDomainName', 'gene.com']);
 	_gaq.push(['_setAllowLinker', true]);
 		_gaq.push(['_trackPageview']);
-		
-
+	
 	(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-</script>
-
-<script type="text/javascript">
-  // var GoSquared = {};
-  // GoSquared.acct = "GSN-869521-Y";
-  // (function(w){
-  //   function gs(){
-  //     w._gstc_lt = +new Date;
-  //     var d = document, g = d.createElement("script");
-  //     g.type = "text/javascript";
-  //     g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
-  //     var s = d.getElementsByTagName("script")[0];
-  //     s.parentNode.insertBefore(g, s);
-  //   }
-  //   w.addEventListener ?
-  //     w.addEventListener("load", gs, false) :
-  //     w.attachEvent("onload", gs);
-  // })(window);
-</script>
-
-</body></html>
+</script></body></html>
