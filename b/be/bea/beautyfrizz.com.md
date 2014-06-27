@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyfrizz.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017030626id_/http%3A//www.beautyfrizz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyfrizz.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627105627id_/http%3A//www.beautyfrizz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nail Art, Hairstyles & Beauty Tips
 
