@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2013-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104031718id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628014245id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" style="" class=" js no-touch rgba csstransitions generatedcontent no-overflowscrolling"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-us"><!--<![endif]--><head>
 		
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -20,43 +20,72 @@
 	<link rel="alternate" hreflang="es" href="http://es.citypass.com/privacy">				
 	<link rel="alternate" hreflang="fr" href="http://fr.citypass.com/privacy">				
 	<link rel="alternate" hreflang="it" href="http://it.citypass.com/privacy">				
-	<link rel="alternate" hreflang="pt" href="http://pt.citypass.com/privacy">	
+	<link rel="alternate" hreflang="pt" href="http://pt.citypass.com/privacy">				
+	<link rel="alternate" hreflang="zh" href="http://zh.citypass.com/privacy">	
 
-	<link rel="stylesheet" href="/cssnew/cp-default.css">
+	<link rel="stylesheet" href="http://s2.citypass.net/css-3720884/cp-default.css">
 	
-	<link rel="stylesheet" href="/cssnew/cp-general.css">
+	<link rel="stylesheet" href="http://s3.citypass.net/css-3720884/cp-general.css">
 	
-	<!--[if (lt IE 8) & (!IEMobile)]>
-	<link rel="stylesheet" href="/cssnew/cp-old-ie.css">
-	<![endif]-->
-		
 	<!--[if (lt IE 9) & (!IEMobile)]>
-	<script src="/jsnew/lib/css3-mediaqueries.js"></script>
+	<link rel="stylesheet" href="http://s2.citypass.net/css-3720884/cp-old-ie.css">
 	<![endif]-->
 		
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 		var _gaq = _gaq || [];
+		var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 		_gaq.push(['_setAccount', 'UA-531856-1']);
 		_gaq.push(['_setDomainName','citypass.com']);
 		
 		(function() {
 			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="/jsnew/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="/jsnew/lib/jquery-1.7.2.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js-3720884/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="/js-3720884/lib/jquery-1.7.2.min.js"></script>
 	
 	<script>
+		var cookieDomain = '.citypass.com';
 		var pageLocale = "en";
 		var pageType = "general";
 		var productKey = false;
+		
 		window.optimizely = window.optimizely || [];
 	</script>
 	
-	<script src="/jsnew/lib/modernizr.js"></script>
+	<script src="/js-3720884/lib/modernizr.js"></script>
+	
+	<script>
+			//phone/tablet/desktop
+			var isTouch = false;
+			smScr = false;
+			medScr = false;
+			var deviceType = "desktop";
+
+			if (Modernizr.touch) {
+				isTouch = true;
+			}
+			
+			if ($(window).width() < 600) {
+				smScr = true;
+				if (isTouch) {
+					deviceType = "phone";
+					$('html').addClass('res');
+				}
+			} else if ($(window).width() <= 1024) { 
+				medScr = true;
+				if (isTouch) {
+					deviceType = "tablet";
+					$('html').addClass('res');
+				}
+			}
+			
+			$('html').addClass(deviceType);
+	</script>
 
 	
 	<script src="//cdn.optimizely.com/js/155521286.js"></script>
@@ -78,51 +107,54 @@
 			
 </head>
 <body id="privacy" class="lang-en translations-available general general-privacy general-info">
+	
+	<div id="body_wrap" class="b-wrap">
 		
-	<header class="s s-g">
+	<header class="s s-b">
 		<div class="h-content page-w">
-	<a class="h-logo s s-t s-g" href="http://www.citypass.com" track="homelogo">CityPASS Home</a>
+	<a class="h-menu open-nav" href="javascript:;">≡</a>
+	<a class="h-logo s s-t s-b open-nav" href="http://www.citypass.com" track="homelogo">CityPASS Home</a>
+	
 	<div class="h-sel h-selcity">
 		<select id="sel_city" class="sel-replace sel-jump">
-			<option value="">Select a city</option>				
-			<option value="http://www.citypass.com/atlanta">Atlanta</option>				
-			<option value="http://www.citypass.com/boston">Boston</option>				
-			<option value="http://www.citypass.com/chicago">Chicago</option>				
-			<option value="http://www.citypass.com/hollywood">Hollywood</option>				
-			<option value="http://www.citypass.com/houston">Houston</option>				
-			<option value="http://www.citypass.com/new-york">New York</option>				
-			<option value="http://www.citypass.com/philadelphia">Philadelphia</option>				
-			<option value="http://www.citypass.com/san-francisco">San Francisco</option>				
-			<option value="http://www.citypass.com/seattle">Seattle</option>				
-			<option value="http://www.citypass.com/southern-california">Southern California</option>				
-			<option value="http://www.citypass.com/toronto">Toronto</option>			
-		</select><div class="sel-custom sel-selcity b-sm"><ul><li rel="" class="closed" track="selectcity">Select a city</li></ul></div>
+			<option value="">Select a city</option>
+			<option value="http://www.citypass.com/atlanta">Atlanta </option>
+			<option value="http://www.citypass.com/boston">Boston </option>
+			<option value="http://www.citypass.com/chicago">Chicago </option>
+			<option value="http://www.citypass.com/houston">Houston </option>
+			<option value="http://www.citypass.com/new-york">New York </option>
+			<option value="http://www.citypass.com/philadelphia">Philadelphia </option>
+			<option value="http://www.citypass.com/san-francisco">San Francisco </option>
+			<option value="http://www.citypass.com/seattle">Seattle </option>
+			<option value="http://www.citypass.com/southern-california">Southern California </option>
+			<option value="http://www.citypass.com/tampa">Tampa Bay  - NEW!</option>
+			<option value="http://www.citypass.com/toronto">Toronto </option>
+		</select>
 	</div>
 	
 		<div class="h-cart">
-		<a class="h-cart-link h-cart-icon s s-t s-g" href="https://www.citypass.com/checkout" track="headercart">Cart</a>
+		<a class="h-cart-link h-cart-icon s s-t s-b" href="https://www.citypass.com/checkout" track="headercart">Cart</a>
 		<a id="cart_num" class="h-cart-link h-cart-num" href="https://www.citypass.com/checkout" track="headercart">0</a>
 	</div>
 	<div id="cart_return" class="cart-return box b-sm">
 		<a class="tclose cr-close"></a>
 		<p>
 			<b class="upsize">Welcome Back!</b><br>
-			You have items in your cart.
-		</p>
+			You have items in your cart.		</p>
 		<p>
-			<a href="https://www.citypass.com/checkout" class="arw-link upsize" track="cartreturn">Return to cart&nbsp;»</a>
+			<a href="https://www.citypass.com/checkout" class="arw-link upsize return-to-checkout" track="cartreturn">Return to checkout</a>
 		</p>
 	</div>
-	
+
 		
 		<a class="h-custsupport" href="http://support.citypass.com" track="support headersupport">Support Center</a>
-	
+
 		
 	
-	<div class="h-sel h-sellang" track="selectlanguage">
-		<select id="sel_lang" class="sel-replace sel-jump">
-			
-					
+		<div class="h-sel h-sellang" track="selectlanguage">
+			<select id="sel_lang" class="sel-replace sel-jump">
+
+						
 			<option value="">English</option>
 		
 							
@@ -130,12 +162,13 @@
 				<option value="http://es.citypass.com/privacy" lang-opt="es">Español</option>					
 				<option value="http://fr.citypass.com/privacy" lang-opt="fr">Français</option>					
 				<option value="http://it.citypass.com/privacy" lang-opt="it">Italiano</option>					
-				<option value="http://pt.citypass.com/privacy" lang-opt="pt">Português</option>			
-		</select><div class="sel-custom sel-sellang b-sm"><ul><li rel="" class="closed" track="selectlanguage">English</li></ul></div>
+				<option value="http://pt.citypass.com/privacy" lang-opt="pt">Português</option>					
+				<option value="http://zh.citypass.com/privacy" lang-opt="zh">中文</option>
+			</select>
+			<div class="h-flag"></div>
+		</div>
+
 	</div>
-	
-	
-</div>
 	</header>
 	
 	<noscript>
@@ -144,24 +177,23 @@
 </div>
 </noscript>	
 	<div class="page">
-		
+				
+
 	<div class="page-content page-w">
 		
 				
-		<p class="bread"><a href="/">Home</a>&nbsp;&nbsp;»&nbsp;&nbsp;Privacy &amp; Security</p>
+					<div class="col-side">
+				
+				
+<h2 class="nav-head f2">More Information</h2>
 
-					<div class="col-nav">
-				
-				
-<ul class="nav-list f">
-	<li class="nav-list-head">More Information</li>
-	
+<ul class="nav-list f2">
 		
 	<li><a href="/about">About Us</a></li>
 		
 	<li><a href="/contact">Contact Us</a></li>
 		
-	<li><a class="n-active" href="/privacy">Privacy &amp; Security</a></li>
+	<li class="n-active"><a href="/privacy">Privacy &amp; Security</a></li>
 		
 	<li><a href="/shipping">Shipping Details</a></li>
 		
@@ -183,7 +215,7 @@
 			
 		
 				
-		<div class="col-main-content">
+		<div class="col-main">
 					
 			<h1>Privacy &amp; Security</h1>
 			
@@ -306,14 +338,14 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	CityPASS uses Web beacons to gather aggregate information. CityPASS does not use Web beacons that link to personally identifiable information.
 </p>
 <p>
-	For its Web beacons, CityPASS uses Omniture to analyze use of CityPASS's Web site. For further information on how Omniture collects and uses information, you should refer to the Omniture Products and Services Privacy Statement at <a href="http://www.omniture.com/privacy/product" target="_blank" track="http://www.omniture.com/privacy/product">http://www.omniture.com/privacy/product</a>.
+	For its Web beacons, CityPASS uses Omniture to analyze use of CityPASS's Web site. For further information on how Omniture collects and uses information, you should refer to the Omniture Products and Services Privacy Statement at <a href="http://www.omniture.com/privacy/product" target="_blank">http://www.omniture.com/privacy/product</a>.
 </p>
 <hr>
 <h3>
 	7. Our Use of Banner Ads
 </h3>
 <p>
-	We may use third-party advertising companies to place advertisements about CityPASS products on other Web sites. These advertising companies may use cookies, Web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other Web sites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do NOT link to or collect any personally identifying information. The use of such cookies, Web beacons, and other technologies is subject to the advertising companies' privacy policies, not the Policy of CityPASS. If you would like more information about the advertising companies we use and their privacy practices, or would like to prevent them from sending and reading cookies on your computer, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" track="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.
+	We may use third-party advertising companies to place advertisements about CityPASS products on other Web sites. These advertising companies may use cookies, Web beacons, or other technologies to measure the effectiveness of our ads. The advertising companies may use anonymous information about your visits to our and other Web sites in order to measure advertising effectiveness and offer selective ad content. But they use an anonymous identifier, such as a number, to identify you. They do NOT link to or collect any personally identifying information. The use of such cookies, Web beacons, and other technologies is subject to the advertising companies' privacy policies, not the Policy of CityPASS. If you would like more information about the advertising companies we use and their privacy practices, or would like to prevent them from sending and reading cookies on your computer, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.
 </p>
 <hr>
 <h3>
@@ -360,39 +392,43 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	
 		
 	<footer>
-		<div class="h-bar s-g"></div>
+		<div class="h-bar s-b"></div>
 
 <div class="foot-w page-w">
 	
 	<div class="foot-content">
 		<h4>Enjoy CityPASS in these select cities</h4>
-		<nav class="foot-cities-nav">				
+		<nav id="footer_cities_nav" class="foot-cities-nav">				
 			|&nbsp;&nbsp;&nbsp;<a href="/atlanta" track="footer footernav">Atlanta</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/boston" track="footer footernav">Boston</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/chicago" track="footer footernav">Chicago</a>&nbsp;&nbsp; 				
-			|&nbsp;&nbsp;&nbsp;<a href="/hollywood" track="footer footernav">Hollywood</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/houston" track="footer footernav">Houston</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/new-york" track="footer footernav">New York</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/philadelphia" track="footer footernav">Philadelphia</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/san-francisco" track="footer footernav">San Francisco</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/seattle" track="footer footernav">Seattle</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/southern-california" track="footer footernav">Southern California</a>&nbsp;&nbsp; 				
+			|&nbsp;&nbsp;&nbsp;<a href="/tampa" track="footer footernav">Tampa Bay</a>&nbsp;&nbsp; 				
 			|&nbsp;&nbsp;&nbsp;<a href="/toronto" track="footer footernav">Toronto</a>&nbsp;&nbsp; 			
 		</nav>
 		
 		<div class="foot-links">
 			<div class="foot-link-col">
-				<h4>Customer Service</h4>
+				<h4>Customer Care</h4>
 				<a href="http://support.citypass.com" track="footer support footersupport">Support Center</a><br>
-				<b>US &amp; Canada:</b><br>
-				(888) 330-5008 (toll free)<br>
-				<b>UK:</b>&nbsp; +44 (0)203 287 8369<br>
-				<b>Direct:</b>&nbsp; +1 (208) 787-4300<br>
-				<br>
-				7 Days a Week<br>
-				8am-5pm MDT<br>
-				Translation Available			</div>
-			<div class="foot-link-col foot-info-br">
+					
+	<b>US &amp; Canada:</b><br>
+	(888) 330-5008 (toll free)<br>
+	<b>Direct:</b>&nbsp; +1 (208) 787-4300<br>
+	<b>UK:</b>&nbsp; (0)20 3287 8369<br>
+	<b>Mexico:</b>&nbsp; 55 4169 2589<br>
+	<b>Australia:</b>&nbsp; (0)2 8005 5729<br>
+	<br>
+	7 Days a Week, 8am-5pm MST<br>
+	Translations Available					
+				
+			</div>
+			<div class="foot-link-col foot-nav-col foot-info-br">
 				<h4>More Information</h4>
 				<a class="foot-h" href="/about" track="footer aboutus">About Us</a>
 				<a class="foot-h" href="/contact" track="footer contactus">Contact Us</a>
@@ -405,7 +441,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 								<a class="foot-h" href="http://support.citypass.com" track="footer faq">FAQ</a>
 				
 			</div>
-			<div class="foot-link-col foot-h">
+			<div class="foot-link-col foot-nav-col foot-h">
 				<h4>City Pass Partners</h4>
 				<a href="/partners/affiliates" track="footer affiliateprogram">Affiliate Program</a>
 				<a href="/partners/travel-trade" track="footer traveltrade">Travel Trade</a>
@@ -416,40 +452,35 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	</div>
 	
 	<div class="foot-col">
+		<h4>Visit Our Travel <a href="/blog" target="_blank" track="footer toblog">Blog</a></h4>
+
+		<p class="foot-sect">
+			<a class="foot-ct s s-t s-b" href="/blog" target="_blank" track="footer tocommunity">City Traveler Blog</a>
+		</p>
 		
-		<div class="foot-test-hide">
-			
-			<h4>Visit Our Travel <a href="/blog" target="_blank" track="footer toblog">Blog</a></h4>
-	
-			<p class="foot-sect">
-				<a class="foot-ct s s-t s-g" href="/blog" target="_blank" track="footer tocommunity">City Traveler Blog</a>
-			</p>
-			
-			<h4>Stay Connected</h4>
-			<div class="foot-sect">
-				<div class="foot-social s s-g" href="javascript:;">
-					<a class="fs-link s s-t" href="http://www.facebook.com/citypass" target="_blank" track="footer socialicon iconfacebook">CityPASS Facebook</a>
-					<a class="fs-link s s-t" href="http://www.twitter.com/citypass" target="_blank" track="footer socialicon icontwitter">CityPASS Twitter</a>
-					<a class="fs-link s s-t" href="http://www.youtube.com/citypass" target="_blank" track="footer socialicon iconyoutube">CityPASS YouTube</a>
-					<a class="fs-link s s-t" href="https://plus.google.com/114197467531284798719" target="_blank" track="footer socialicon icongoogleplus">CityPASS Google Plus</a>
-					<a class="fs-link s s-t" href="http://www.pinterest.com/citypass" target="_blank" track="footer socialicon iconpinterest">CityPASS Pinterest</a>
-				</div>
+		<h4>Stay Connected</h4>
+		<div class="foot-sect">
+			<div class="foot-social s s-b" href="javascript:;">
+				<a class="fs-link s s-t" href="http://www.facebook.com/citypass" target="_blank" track="footer socialicon iconfacebook">CityPASS Facebook</a>
+				<a class="fs-link s s-t" href="http://www.pinterest.com/citypass" target="_blank" track="footer socialicon iconpinterest">CityPASS Pinterest</a>
+				<a class="fs-link s s-t" href="http://www.twitter.com/citypass" target="_blank" track="footer socialicon icontwitter">CityPASS Twitter</a>
+				<a class="fs-link s s-t" href="https://plus.google.com/114197467531284798719" target="_blank" track="footer socialicon icongoogleplus">CityPASS Google Plus</a>
+				<a class="fs-link s s-t" href="http://instagram.com/citypass" target="_blank" track="footer socialicon iconinstagram">CityPASS Instagram</a>
+				<a class="fs-link s s-t" href="http://www.youtube.com/citypass" target="_blank" track="footer socialicon iconyoutube">CityPASS YouTube</a>
 			</div>
-				
-				
-					
-			<h4>CityPASS News/Updates</h4>
-			<div class="foot-sect foot-enews s">
-				<input id="enews_email" name="EMAIL" class="foot-email" type="email" value="email"><a id="enews_btn" class="btn-signup btn" href="javascript:;" track="enewssignup">signup</a>
-			</div>
-			<div id="enews_confirm" class="box b-sm foot-sect foot-confirm">Thank you for subscribing</div>
-				
-		
 		</div>
-		
+			
+			
+				
+		<h4>CityPASS News/Updates</h4>
+		<div class="foot-sect foot-enews s">
+			<input id="enews_email" name="EMAIL" class="foot-email" type="email" value="email"><a id="enews_btn" class="btn-signup btn" href="javascript:;" track="enewssignup">signup</a>
+		</div>
+		<div id="enews_confirm" class="box b-sm foot-sect foot-confirm">Thank you for subscribing</div>
+				
 		<div class="foot-sect">
 			<h4 class="usa-lbl">Proud Partner</h4>
-			<a class="foot-usa s s-t s-g" href="http://www.discoveramerica.com" target="_blank" track="footer brandusa">discoveramerica.com</a>
+			<a class="foot-usa s s-t s-b" href="http://www.discoveramerica.com" target="_blank" track="footer brandusa">discoveramerica.com</a>
 		</div>
 	</div>
 	
@@ -459,29 +490,47 @@ Once you enter the checkout page, your computer will begin communicating with ou
 				<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.citypass.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 			</div>
 		</div>
-		<div class="foot-cc s s-t s-g">Visa, Mastercard, Amex, Discover, PayPal</div>
-		<a class="foot-googlet s s-t s-g" track="footer">Google Translate</a>
+		<div class="foot-cc s s-t s-b">Visa, Mastercard, Amex, Discover, PayPal</div>
+		<a class="foot-googlet s s-t s-b" track="footer">Google Translate</a>
 		<div id="google_translate" class="b-sm"></div>
 	</div>
-	<small class="foot-copyright">© 2013 City Pass, Inc. All rights reserved</small>
+	<small class="foot-copyright">© 2014 City Pass, Inc. All rights reserved</small>
 	<div class="referral"></div>
 </div>
 		
 	</footer>
+		
+	</div>
+	<div id="phone_nav" class="p-nav f2"></div>	
 	
+	<div id="p_viewer" class="p-viewer">
+	<div class="pv-head">
+		<!--<div class="pv-back"><div class="fl-arw fl-arw-left s s-w"></div>-->
+		<a class="pv-brand pv-close" href="javascript:;"><div class="pv-logo s s-p"></div></a>
+		<a class="pv-x pv-close" href="javascript:;">X</a>
+		<span id="pv_title" class="pv-title f"></span>
+	</div>
+	
+	<div id="viewer_content" class="pv-content loading"></div>
+	
+</div>
+
+
 	<!--[if (lt IE 8) & (!IEMobile)]>
-	<script src="/jsnew/lib/json2.min.js"></script>
+	<script src="/js-3720884/lib/json2.min.js"></script>
 	<![endif]-->
 
-	<script src="/jsnew/cp-plugins.js"></script>
-	<script src="/jsnew/cp-load.js"></script>
+	<script src="/js-3720884/cp-plugins.js"></script>
+	<script src="/js-3720884/cp-load.js"></script>
 	<script>
 		
 	 	var cartUrl = "https://www.citypass.com/checkout";
 		
-		var jsDir = "/jsnew";
-		var cssDir = "/cssnew";
-		var loadDir = "/loadnew";
+		var cssDir = "/css-3720884";
+		var feedDir = "/feed-3720884";
+		var jsDir = "/js-3720884";
+		var loadDir = "/load-3720884";
+		var loadnocacheDir = "/loadnocache-3720884";
 				
 		var testing = true;
 		
@@ -490,18 +539,28 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		var cookiesDisabledMsg = "Cookies must be enabled on your browser in order to purchase from citypass.com.  To enable cookies, update the setting on your browser to accept cookies and refresh the page.";
 		var emailRequiredMsg = "Email address is required.";
 		var emailInvalidMsg = "Please enter a valid email address.";
-
 		
-		initHeader();
-		
-			
+				
+		initPage();
+				
 	</script>
 	
 		
 	<!-- TRACKING -->
+	
+	<script type="text/javascript">
+	var axel = Math.random() + "";
+	var a = axel * 10000000000000;
+	document.write('<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=587392157946.8578?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	<noscript>
+	<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</noscript>
+	
 		
-		
-			
+	
+	<!-- 2014-06-27 19:42:46 MDT -->
+	
 
 
 </body></html>
