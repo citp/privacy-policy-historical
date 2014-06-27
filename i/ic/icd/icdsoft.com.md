@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224002052id_/http%3A//www.icdsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627072321id_/http%3A//www.icdsoft.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - ICDSoft
+# Privacy statement - ICDSoft
 
-## Privacy Statement
-
-ICDSOFT RESPECTS THE RIGHT TO PRIVACY OF CUSTOMERS AND VISITORS OF THIS SITE AND IS COMMITTED TO PROTECTING IT. THIS PRIVACY POLICY EXPLAINS HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. YOUR PERSONAL INFORMATION WILL ONLY BE USED IN WAYS DESCRIBED IN THIS PRIVACY POLICY.
+**ICDSOFT RESPECTS THE RIGHT TO PRIVACY OF CUSTOMERS AND VISITORS OF THIS SITE AND IS COMMITTED TO PROTECTING IT. THIS PRIVACY POLICY EXPLAINS HOW YOUR PERSONAL INFORMATION IS PROCESSED AND USED. YOUR PERSONAL INFORMATION WILL ONLY BE USED IN WAYS DESCRIBED IN THIS PRIVACY POLICY.**
 
 #### Privacy information
 
 Every computer connected to the Internet is assigned a set of numbers that serve as that computer's IP (Internet Protocol) address. When a visitor requests a page from any website within the ICDSoft.com Network, our web servers automatically recognize that visitor's IP address. The IP address does not reveal any personal information. We use the IP logs to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of visitors.
 
+* * *
+
 #### What are cookies?
 
 A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We may send session ID cookies as well as persistent cookies. Session ID cookies terminate and are erased once you close your browser or log out, while persistent cookies are stored on your hard drive for longer periods. Cookies cannot damage your system. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other websites may be diminished, and some features may not work as intended.
+
+* * *
 
 #### What other information do you request?
 
@@ -32,6 +34,8 @@ ICDSoft.com does not request or collect credit card information. We use third pa
 
 ICDSoft.com will always make an effort to include a link to this Privacy Policy on every page that includes a web form for collecting personal information from you.
 
+* * *
+
 #### Domain name registration and WHOIS
 
 The Internet Corporation for Assigned Names and Numbers ("ICANN", the organization that assumes responsibility for domain name allocation) requires us to collect the following personal information during the domain name registration process:
@@ -45,6 +49,8 @@ The Internet Corporation for Assigned Names and Numbers ("ICANN", the organizati
 
 ICANN then requires all registrars to make the above mentioned information, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, available to the public via an interactive web page and a "port 43" WHOIS service. This information can be referred to as your "WHOIS Information". Please note we may not be able to control how members of the public may use the WHOIS Information.
 
+* * *
+
 #### Will you disclose the information you collect to third parties?
 
 ICDSoft will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
@@ -56,11 +62,15 @@ ICDSoft will disclose personal information when required by law or in the good-f
 
 
 
+* * *
+
 #### What else should I know about my privacy when online?
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
 Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+
+* * *
 
 #### Your consent to this agreement
 
