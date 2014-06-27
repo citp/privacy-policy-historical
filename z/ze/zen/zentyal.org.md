@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216070713id_/http%3A//www.zentyal.com/legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentyal.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627214208id_/http%3A//www.zentyal.com/legal-notice) for the most accurate reproduction.*
 
-# Legal notice and Privacy Policy | Zentyal, the Linux small business server | Zentyal - Easy IT for small business
+# Legal notice and Privacy Policy | Zentyal, the Linux small business server | Zentyal - Active Exchange
 
 ### Legal notice and Privacy Policy
 
