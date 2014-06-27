@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226094952id_/http%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627101206id_/http%3A//www.mbna.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | MBNA
 
@@ -16,7 +16,7 @@
 
 ## Privacy statement
 
-This is the privacy statement of MBNA Limited ("MBNA"). Whilst exploring the services offered through this and websites owned by other members of the MBNA group, please be alert for and review any specialised privacy statements and terms of use applicable to particular products or websites, or portions thereof, as they may differ depending on group, company, product or service.
+This is the privacy statement of MBNA Limited ("MBNA"). Whilst exploring the services offered through this and other websites owned by members of the MBNA group, please be alert for and review any specialised privacy statements and terms of use applicable to particular products or websites, or portions thereof, as they may differ depending on group, company, product or service.
 
 ## Further protection of your privacy – policies of other service providers
 
@@ -55,7 +55,7 @@ We never store personal information unless it’s encrypted for your security.
 
 ## Flash Objects
 
-MBNA use files called Flash Objects in connection with Online Card Services. They support our SiteKey™ log in system which serves to give you reassurance that you’re at our genuine website and can enter your password with confidence.
+MBNA uses files called Flash Objects in connection with Online Card Services. They support our SiteKey™ log in system which serves to give you reassurance that you’re at our genuine website and can enter your password with confidence.
 
 ## Other technologies
 
@@ -69,4 +69,4 @@ MBNA may change this privacy policy from time to time. When such a change is mad
 
 This privacy policy was last reviewed in January 2013.
 
-This privacy policy is published by MBNA Limited registered in England under number 2783251. The Registered Office address is Stansfield House, Chester Business Park, Chester CH4 9QQ. If you need assistance, please [contact us](https://web.archive.org/contact-us).
+This privacy policy is published by MBNA Limited. Registered Office: Stansfield House, Chester Business Park, Chester CH4 9QQ. Registered in England and Wales under company number 02783251. If you need assistance, please [contact us](https://web.archive.org/contact-us).
