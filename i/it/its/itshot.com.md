@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624053113id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627194452id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ItsHot.com Privacy Policy
 
-## Privacy Policy  
-  
----  
   | 
 
 ItsHot is dedicated to provide their customers with exceptional customer service and outstanding value in fine jewelry. We are committed to maintain our customers' privacy to better serve you. We may collect and maintain certain information regarding, for example, your product and service preferences, dates of special occasions related to people you buy gifts for (e.g., birthdays), as  well as billing and shipping information. Nevertheless, under no circumstances do we sell or rent this information to other businesses. We strictly protect and enforce the confidentiality of this information. We do not participate in or contribute to cooperative or shared databases that give other companies access to information. In addition to the personal information that you may provide us with, this Site may use technology that lets us collect certain technical information such as, your Internet protocol address, your computer's operating system, your browser type, traffic patterns and the address of any referring Web Sites.
@@ -33,3 +30,9 @@ We may change this Privacy Policy, modify or withdraw access to this Site or the
 ## Your Consent to our Privacy Policy
 
 By using ItsHot.com, you agree to our privacy terms and conditions. We may occasionally update the current privacy policy, and therefore strongly encourage you to periodically review our policies to prevent any misinterpretations, as well as to stay informed about how we are protecting your information.
+
+This site uses data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
+
+The Google Analytics features this site's implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Using the [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en-GB&sig=ACi0TCg56kW4pF3t60Ll-wJMxUIj-WjTCW_UHtqb9kUH49UY-ig5Tt3BarVsiqRVidxxA7oP-AKDet4y753jZuKxtnO7bhfTKjolyQLYZ6NZv64hNBAl0EqcIl4Px_fAQwWdx-67DOv6C27fIZCL-IH0P0u82_L9wvyH5YKpng6M7BIN7W2SS2l59cABrHL--Rx2wkcRMEl6DyBH9BFxOZjDeNHTjfKH0jW66w-NVIRuXc3A5ctz6I1rmws5u6GrVitGReLLh12E), you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
