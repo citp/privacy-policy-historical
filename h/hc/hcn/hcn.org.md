@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164132id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627054224id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — High Country News
 
