@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127071634id_/http%3A//propellerads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propellerads.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627223900id_/http%3A//propellerads.com/privacy) for the most accurate reproduction.*
 
 # Propeller Ads Media
 
-Advertising Technologies, LTD. (d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. 
+Advertising Technologies, LTD. (d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. 
 
 This Privacy Statement presents our privacy policy, including our privacy practices. Below is information regarding commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website. 
 
@@ -18,15 +18,15 @@ We do not collect the online user’s personally identifiable information ("PII"
 
 We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online. 
 
-We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites. Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. 
+We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites. Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. 
 
 We collect Non-PII through the use of cookies and pixels. No personally identifiable information is collected or used in this process. A cookie is a file on your browser that uniquely identifies your browser. A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity. The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel. 
 
-The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
+The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site. 
 
 **Disclosure of Information to Third Parties**
 
-We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
+We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties. 
 
 We may disclose Non-PII collected through our Services, and information derived from it, to our customers. This Non-PII may be used by our customers to deliver tailored ads to users on participating websites. This information cannot be used to contact or identify any person individually. Further, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations. 
 
@@ -48,11 +48,11 @@ We follow generally accepted industry standards to protect against the unauthori
 
 **Your Use and Correspondence on this Site**
 
-We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent. 
+We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent. 
 
 PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer. 
 
-If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at [support@propellerads.com](mailto:support@propellerads.com). Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
+If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at [support@propellerads.com](mailto:support@propellerads.com). Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
 
 If we make any material or substantive changes in the way that we use the PII collected through our corporate Website, we will post a clear and conspicuous notice of those changes on the Website and in this Privacy Policy. We also invite you to contact us at support@propellerads.com with any questions or concerns. 
 
