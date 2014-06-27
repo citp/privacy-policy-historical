@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allvoices.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120022501id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvoices.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627182107id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: allvoices - events, people, places that matter - tell us your news
 
