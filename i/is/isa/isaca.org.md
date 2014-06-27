@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isaca.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214080147id_/http%3A//www.isaca.org/pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isaca.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627190048id_/http%3A//www.isaca.org/pages/Privacy.aspx) for the most accurate reproduction.*
 
 # ISACA Privacy Policy – Your Privacy Rights
 
