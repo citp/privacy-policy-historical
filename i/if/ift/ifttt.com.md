@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906235704id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifttt.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627210441id_/https%3A//ifttt.com/privacy) for the most accurate reproduction.*
 
-# IFTTT / Privacy Policy
+# Privacy Policy - IFTTT
 
 IFTTT Inc. ("IFTTT") takes the private nature of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit and use the IFTTT website located at ifttt.com (the "Site") and the services offered by IFTTT (the Site, Mobile Apps, and services referred to as the "Service"). Please read this Privacy Policy to learn more about the ways in which IFTTT uses and protects your personal information. By using the Service you acknowledge and agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree to the terms, please do not use the Service or access our Site. 
 
