@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrentbar.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226171601id_/http%3A//torrentbar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentbar.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627025951id_/http%3A//www.torrentbar.com/privacy.html) for the most accurate reproduction.*
 
 # privacy policy at TorrentBar - www.torrentbar.com
 
