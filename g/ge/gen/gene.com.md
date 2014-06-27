@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219021544id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627104636id_/http%3A//www.gene.com/privacy-policy) for the most accurate reproduction.*
 
 # Genentech: Privacy Policy
 
@@ -71,7 +71,7 @@ Genentech, Inc.
 Attn: Privacy Office  
 1 DNA Way  
 South San Francisco, CA 94080  
-**Privacy Policy last updated: November 20, 2012**  
+ **Privacy Policy last updated: November 20, 2012**  
 
 
   * Revised sections 'Online Privacy Policy Updates,' 'Information Collection and Use,' 'Minors,' 'Cookies and GIF Files,' 'Sharing and Disclosure,' and 'Correcting/Updating Personally Identifiable Information' 
