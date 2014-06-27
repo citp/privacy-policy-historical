@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807184306id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628001736id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
 
 # Graphics Factory.com's Privacy Policy
 
@@ -9,7 +9,7 @@ Your credit card is safe with GraphicsFactory.com - [**we guarantee it!**](http:
 Your browser and GraphicsFactory.com's secure server encrypts confidential information during transmission, ensuring that transactions stay private and protected. GraphicsFactory.com guarantees the safety of your credit card information in the following manner: if any unauthorized use of your credit card occurs as a result of your credit card purchase at GraphicsFactory.com, simply contact us and we will credit your card, no questions asked.
 
 **We Protect Your Right to Privacy**   
-GraphicsFactory.com respects your privacy. We support the [TRUSTe](http://www.truste.org/) orginization and comply with their privacy standards. We also support [AOL’s privacy policy](http://legal.web.aol.com/policy/aolpol/privpol.html) and [eTrust Pro's](http://www.etrust.pro/) Best Practices in protecting your privacy. 
+GraphicsFactory.com respects your privacy. We support the [TRUSTe](http://www.truste.org/) orginization and comply with their privacy standards. We also support [eTrust Pro's](http://www.etrust.pro/) Best Practices in protecting your privacy. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. To demonstrate our commitment to your privacy, we have asked TRUSTe to review and audit our privacy practices. 
 
@@ -63,5 +63,3 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.graphicsfactory.com/g-contact.html).   
 
-
-* * *
