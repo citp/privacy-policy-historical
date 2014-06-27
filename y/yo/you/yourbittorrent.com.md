@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219232006id_/http%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbittorrent.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627200451id_/http%3A//yourbittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # YourBittorrent - Privacy Policy
 
@@ -9,9 +9,9 @@
 
 #### Torrent News
 
- **H33T Back Online After Several Months Downtime**
+ **Comcast Must Share Six-Strikes Warnings with Copyright Troll, Court Rules**
 
-H33T, one of the Internet's most popular torrent sites, disappeared offline in September following a complaint from Universal Music over the unauthorized distribution of Robin Thicke’s album Blurred Lines. After a brief return the site suffered a total blackout and until now has been presumed dead. Today, however, H33T is back online with its owner telling TorrentFreak that just two links caused the site's worldwide takedown.  
+The U.S. Copyright Alert System is hailed as an educational program that respects the privacy of Internet subscribers, but unwittingly it's now at the center of a copyright lawsuit. A federal court in Indiana has ordered Comcast to hand over all DMCA notices and six-strikes alerts received by an alleged BitTorrent pirate.   
 [More torrent news...](http://yourbittorrent.com/news.html)
 
 #### Friends
@@ -23,9 +23,6 @@ BitTorrent is a P2P network which allows users to share large files such as movi
 In order to download torrent files, you need to install a torrent [client](http://yourbittorrent.com/clients.html).
 
 | 
-
-Nov 22 \- Over the last few weeks we have been slowly revamping our website. Today, we started updating the details page for most torrent. Some torrents will now finally show some extra information (covers, ratings, descriptions, etc).  
-To read more about our website revamp, check our [Blog](http://yourbittorrent.com/blog.html).
 
 ## How we deal with your private data
 
