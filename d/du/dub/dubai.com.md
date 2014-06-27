@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226022705id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627183647id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
 
 # Dubai Holidays, Dubai Hotels - Dubai Travel and City Information
 
