@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memegenerator.net privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921080828id_/http%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memegenerator.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627052946id_/http%3A//memegenerator.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Meme Generator
 
@@ -14,7 +14,7 @@ Some information about you is being collected by us when you take the following 
 
 Visiting the site can be anonymously. However, some actions, as previously mentioned, may require you to provide us with specific details such as: full name, phone number, mobile phone number, mailing address, e-mail address, ID number and credit card information or social security number.
 
-We may also collect the following information: information about your use of this website, information about transactions carried out over this website and/or any other information that you send and/or upload and/or publish on the website. 
+We may also collect the following information: information about your use of this website, information about transactions carried out over this website and/or any other information that you send and/or upload and/or publish on the website.
 
 ## Online Information Only
 
@@ -65,7 +65,7 @@ We may contact and enter into agreement with third party service providers to he
 
 Those companies are unauthorized to make any use of the personal information collected by our company for other purposes except improving our business.
 
-Cookies can be blocked through your browser settings. This option will cause some services the web site offers to malfunction. A user can still use some services on the website if cookies are blocked, however the services will not run in their optimal state. 
+Cookies can be blocked through your browser settings. This option will cause some services the web site offers to malfunction. A user can still use some services on the website if cookies are blocked, however the services will not run in their optimal state.
 
 ## Advertisments
 
@@ -109,4 +109,7 @@ You are encouraged to check this page occasionally to ensure you are familiar wi
 
 With any further questions and/or requests, regarding privacy issues and this privacy policy, please do not hesitate to contact us using the information below.
 
-http://memegenerator.net info@memegenerator.net 
+http://memegenerator.net info@memegenerator.net
+
+  
+
