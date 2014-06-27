@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224040521id_/http%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseo.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627052750id_/http%3A//www.webceo.com/privacy.htm) for the most accurate reproduction.*
 
 # Web CEO Online Privacy Policy
 
-Last Revision: May 7, 2012
+Last Revision: June 11, 2014
 
 Web CEO Limited (hereinafter "WebCEO") is firmly committed to the privacy of its customers. WebCEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
 
@@ -22,15 +22,15 @@ We may use your Personal Information to respond to an email or other inquiry or 
 
 ### Anonymous Information
 
-Every time you visit the Websites, WebCEO saves your IP address, the name and IP address of a remote host computer, time, status and amount of transferred data, the website from which you entered the Service Websites and the product and release data of your web browser in a log file. WebCEO uses the data from this log file in anonymous form without reference to your Personal Information for aggregated demographic and/or geographic statistics. Using the log file, WebCEO can also identify defects in the Service and thus continually improve the quality of the Service.
+Every time you visit the Websites, WebCEO collects certain technical information from your Web browser. It includes the pages that were visited and returned to, the time spent on the Websites by a visitor, the operating system, the Web browser version, the referring site and any keywords used to find the Websites on search engines. This information does not contain any reference to the personal information. This information can only be accessed by WebCEO and can be used with the sole purpose of tracking visits to the Websites and improve the experience, content and layout of the Websites. Using the anonymous information, WebCEO can also identify defects in the Service and thus continually improve the quality of the Service.
 
 ### Cookies
 
-WebCEO may automatically collect some information through the use of cookies. A cookie is a small data file that is stored on a user's computer to enable the Service to recognize a user that previously used the Service. Cookies are also the cornerstone for any Web analytics solution that tracks interaction between a browser and a website.
+WebCEO may automatically collect some information through the use of cookies. A cookie is a small data file that is stored on a user's computer to enable the Service to recognize a user that previously used the Service. Cookies are also the cornerstone for any Web analytics solution that tracks interaction between a browser and a website. WebCEO uses information collected from cookies to track the pages of the Websites that our users view, the browsers they use and other information about user activity when visiting the Websites.
 
-WebCEO uses information collected from cookies to track the pages of the Websites that our users view, the browsers they use and other information about user activity when visiting the Websites.
+WebCEO implemented the Remarketing with Google Analytics for Display Advertising online. WebCEO and the third-party vendors, including Google Inc., use the first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on a person's past visits to the Websites. As a result, WebCEO's ads shall be displayed on the sites across the Web. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.
 
-You can change the settings of your web browser to refuse cookies and to remove them from your computer. However, some features of the Service may not function properly without cookies.
+Any visitor can browse the Websites with cookies turned off, but if you are subscribed to the Service and you wish to log in to your Service account, your Web browser must accept cookies. A cookie/session variable is assigned to you when you log in, and is placed on your computer for programming purposes only. It ensures that you have properly logged in and that your personal information is only accessible to you. The Web browser's settings can be customized to refuse cookies and to remove them from your computer.
 
 ## How We Share Your Information
 
