@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927123510id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nochex.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627235549id_/http%3A//www.nochex.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ Any information you provide us with will only be disclosed in accordance with th
 
 ## Required Information
 
-To open an account you must tell us certain personal information such as your name, email address, date of birth and postal address. Depending on the type of account you may also be asked to supply more data such as the nature of your business, web address and postal address.  Having a [bad credit](https://web.archive.org/web/20130927123510id_/http://www.nochex.com/merchant-account-bad-credit/) history need not be a barrier to obtaining a merchant account. For security, you must also submit a password and answer security questions. 
+To open an account you must tell us certain personal information such as your name, email address, date of birth and postal address. Depending on the type of account you may also be asked to supply more data such as the nature of your business, web address and postal address.  Having a [bad credit](https://web.archive.org/web/20140627235549id_/http://www.nochex.com/merchant-account-bad-credit/) history need not be a barrier to obtaining a merchant account. For security, you must also submit a password and answer security questions. 
 
 For some transactions you need to provide financial data such as your debit card details. We only collect data required by regulation and law for us to process your transactions securely and protect you from fraud.
 
