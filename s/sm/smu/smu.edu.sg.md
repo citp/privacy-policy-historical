@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216222858id_/http%3A//smu.edu.sg/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smu.edu.sg privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627072921id_/http%3A//smu.edu.sg/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Singapore Management University (SMU)
 
@@ -12,3 +12,5 @@
   * This site may contain links to other independently-managed websites within the SMU network and to some sites outside the "smu.edu.sg" domain whose data protection and privacy practices may be different from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to examine the privacy notices of those sites.
 
 
+
+If you have queries relating to how SMU deals with personal data under the Personal Data Protection Act, please contact our Data Protection Officer at [dpo@smu.edu.sg](mailto:dpo@smu.edu.sg).
