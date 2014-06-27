@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129182643id_/http%3A//www.trinidadexpress.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trinidadexpress.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627152406id_/http%3A//www.trinidadexpress.com/home/privacy) for the most accurate reproduction.*
 
 # Trinidad Express Newspaper | Privacy Policy
 
