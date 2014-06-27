@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visuallightbox.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209102633id_/http%3A//visuallightbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visuallightbox.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627155517id_/http%3A//visuallightbox.com/privacy.html) for the most accurate reproduction.*
 
 # Download Visual Lightbox JS: Free Visual Generator for Lightbox 2 Script for jQuery or Prototype. jQuery Lightbox.
 
