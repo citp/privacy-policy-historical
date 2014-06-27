@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219132406id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikini.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627191343id_/http%3A//www.bikini.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bikini.com
+# Privacy Policy | BIKINI.COM
 
-This Privacy Policy describes Bikini.com’s policies on the collection and use of your information.  Please review it carefully as it applies to those websites owned or controlled by Bikini.com, LLC, its affiliates and subsidiaries ("Bikini.com," "us," or "we") on which it is posted (the "Sites").  This Privacy Policy does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own privacy policy or to information we may collect from you or about you in other ways, including through emails you may send to us.
+This Privacy Policy describes Bikini.com, LLC.'s policies on the collection and use of your information.  Please review it carefully as it applies to those websites owned or controlled by Bikini.com, LLC, its affiliates and subsidiaries ("Bikini.com, LLC," "us," or "we") on which it is posted (the "Sites").  This Privacy Policy does not apply to those of our websites that do not display or link to this Privacy Policy or that have their own privacy policy or to information we may collect from you or about you in other ways, including through emails you may send to us.
 
 Your use of the Sites is your acknowledgement that you have reviewed and consent to the terms of this Privacy Policy.
 
@@ -32,9 +32,11 @@ Non-personally identifiable information can be technical information, such as yo
 
 We collect the above non-personally identifiable information from all visitors to the Sites. If you do not wish for us to have access to this information, please do not visit the Sites.
 
- **2.  Use of Information Collected Through the Sites **
+We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>. 
 
-**Personally Identifiable Information**
+We publish Google Adsense interest-based advertisements on this website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behavior across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: <http://www.google.com/ads/preferences>.  You can opt-out of the Adsense partner network cookie at: <http://www.google.com/privacy_ads.html>.  However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: <http://www.google.com/ads/preferences/plugin>.
+
+ **2.  Use of Information Collected Through the Sites Personally Identifiable Information**
 
 If you provide us with Personally Identifiable Information, we will only use it for the purposes described in this Privacy Policy or where it is collected. Primarily, we use it on the Sites to:
 
@@ -62,9 +64,7 @@ If you provide us with Personally Identifiable Information, we will only use it 
 
 We may use non-personally identifiable information for the purposes described in this Privacy Policy or where it is collected, or any other legal purpose, including, when and where applicable, combining non-personally identifiable information with personally identifiable information.
 
- **3.  Sharing & Disclosure of Information**
-
- **Personally Identifiable Information**
+ **3.  Sharing and Disclosure of Information Personally Identifiable Information**
 
 We may share or disclose your personally identifiable information in the following instances:
 
@@ -82,7 +82,9 @@ We may share or disclose your personally identifiable information in the followi
 
 (vii) To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-(viii) To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
+(viii) To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services.
+
+In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
 
  **Non-Personally Identifiable Information**
 
@@ -110,7 +112,11 @@ We do not endorse these parties, their content, or any products and services the
 
 Since no data transmission over the Internet can be guaranteed to be secure, we cannot ensure or warrant the security of any information you transmit to us, and you understand that any information you transmit to us is at your own risk.  There is no guarantee that any information cannot be accessed, viewed, copied, disclosed, modified or destroyed by any breach of our firewall, security or technology systems. 
 
- **8.  Opt-Out**
+ **8\. Transaction Security Policy**  
+
+This site uses Secure Sockets Layer (SSL) to ensure secure transmission of your personal data.  You should be able to see the padlock symbol in the status bar on the bottom right hand corner of the browser window. The url address will also start with https:// depicting a secure webpage. SSL applies encryption between two points such as your PC and the connecting server. Any data transmitted during the session will be encrypted or scrambled and then decrypted or unscrambled at the receiving end. This will ascertain that data cannot be read during transmission.
+
+ **9.  Opt-Out**
 
 We regularly communicate with users who register with our Sites via email. For example, we may use your email address to confirm your request, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional.
 
@@ -118,24 +124,18 @@ However, we do provide you with the opportunity to opt-out of receiving other ty
 
 You may opt-out by ticking or un-ticking the appropriate box, if available, at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email.
 
- **9.  Privacy Policy Updates**
+ **10.  Privacy Policy Updates**
 
 We may update this Privacy Policy from time to time by posting the updated Privacy Policy on our websites to which it applies.  Your continued use of the Sites is your acknowledgement of and consent to the terms of the updated Privacy Policy.
 
- **10.  Assignment**
+ **11.  Assignment**
 
 If all or part of our assets or sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites.
 
- **11.  California Residents' Privacy Rights**
+ **12.  California Residents' Privacy Rights**
 
-(As provided by California Civil Code Section 1798.83)
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses.
 
-A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
+California customers may request further information about our compliance with this law by e-mailing [privacy@remarkmedia.com](mailto:privacy@remarkmedia.com) or contacting us as otherwise specified in our Terms. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy statement) a policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
-
-As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting-in to receive information from a third party. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on our website. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third-party's privacy policies and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policies and practices of any party that collects your information to determine how that entity will handle your information.
-
-California customers may request further information about our compliance with this law by e-mailing [privacy@bikini.com](mailto:privacy@bikini.com) or contacting us as otherwise specified in our Terms. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
-
-Last Updated as of November 12, 2013
+Last Updated as of May 21, 2014
