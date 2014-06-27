@@ -1,46 +1,86 @@
-> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084131id_/http%3A//www.mcgraw-hill.com/site/tools/privacy/privacy_english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhpractice.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627224030id_/http%3A//catalogs.mhhe.com/mhhe/privacyPolicy.do) for the most accurate reproduction.*
 
-# The McGraw-Hill Companies Customer Privacy Policy - The McGraw-Hill Companies
+# MHHE - Privacy Policy
 
-#### Date revised and posted: February 2011
+|  |  |   
+---|---|---  
+**_This Privacy and Cookie Notice applies only to McGraw-Hill Higher Education (U.S.)_**  
+  
+| 
 
-The McGraw-Hill Companies' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our Customers. The Policy guides how we collect, store and use information about Customers and Prospects, and it will be periodically assessed against new technologies, business practices and our Customers' changing needs.
+**WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES McGRAW-HILL HIGHER EDUCATION (U.S.) COLLECT ABOUT YOU?**
 
-The McGraw-Hill Companies may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
-
-Please note that Privacy Notices advising Customers and Prospects as to the specific uses that are being made of their Personally-Identifiable Information by specific Business Units within The McGraw-Hill Companies may also be modified from time to time to reflect changes in business practices. In this event, those changes will appear in the relevant Privacy Notices.
-
-The McGraw-Hill Companies will also comply with applicable non-U.S. laws that impose additional responsibilities on The McGraw-Hill Companies beyond those stated in this Policy in connection with the treatment of Personally-Identifiable Information about its Customers and Prospects.
-
-Our Policy recognizes two kinds of personal data that deserve varying levels of protection. **Personally-Identifiable Information** includes, for example, e-mail addresses, billing information, employment status and "Click Stream" data that tracks user activity on a Web site or online service. A subset of that category, **Sensitive Data** , deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions.
-
-The McGraw-Hill Companies is committed to using all reasonable efforts to abide by the following Policy:
-
-  1.  **Collection.** Personally-Identifiable Information will only be collected to the extent that The McGraw-Hill Companies deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of The McGraw-Hill Companies.
-  2.  **Notification.** Customers and Prospects will be notified (usually at the point where Personally-Identifiable Information is collected) as to the uses the Business Unit may make of the Personally-Identifiable Information collected from them.
-  3.  **Choice: Opt Out for External Distribution of Personally-Identifiable Information.** Customers and Prospects will be given the opportunity to refuse permission for External Distribution of their name, address or other Personally-Identifiable Information through an Opt Out mechanism. (External Distribution does not include certain limited distributions such as sharing Personally-Identifiable Information with an entity working on behalf of The McGraw-Hill Companies to serve our customers; transfer of Personally-Identifiable Information in conjunction with the sale or similar transfer of a Business Unit; or the disclosure of Personally-Identifiable Information in connection with legal proceedings, investigations of crimes or other wrongdoing. However, sharing Personally-Identifiable Information with an entity working on behalf of The McGraw-Hill Companies or transferring Personally-Identifiable Information in conjunction with the sale or similar transfer of a Business Unit is considered an Onward Transfer and will be handled as described below.)
-  4.  **Security.** Appropriate safeguards will be implemented in an effort to ensure the security, integrity and privacy of Personally-Identifiable Information about our Customers and Prospects.
-  5.  **Access: Review and Correction.** Procedures have been developed through which Customers and Prospects can, upon request, review and correct the Personally-Identifiable Information that has been collected from them by The McGraw-Hill Companies. These procedures may not, however, compromise the security, integrity and privacy of either The McGraw-Hill Companies’ own proprietary databases or databases licensed from third party companies.
-  6.  **Sensitive Data.** The collection and use of Sensitive Data carries with it special obligations and responsibilities in order to maintain the data's security, integrity and privacy. Sensitive Data will not be rented or otherwise made available for External Distribution outside The McGraw-Hill Companies (although it may be made available through Onward Transfer as described below). Customers and Prospects will be given the opportunity to refuse permission for their Sensitive Data to be distributed outside of the Business Unit that collected the Sensitive Data through use of an Opt Out mechanism for Internal Distribution within The McGraw-Hill Companies.
-  7.  **Onward Transfer.** Whenever The McGraw-Hill Companies permits a third party outside of The McGraw-Hill Companies to access Personally-Identifiable Information through either External Distribution or Onward Transfer, commercially appropriate procedures will be followed to help ensure that the Information is used only for authorized purposes and by authorized persons in a manner consistent with the choices Customers and Prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained. Please note that our Web sites may contain links to other Web Sites that have their own privacy policies and practices. While The McGraw-Hill Companies will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, The McGraw-Hill Companies cannot make any guarantees with respect to the actions or policies of such third parties.
+  * Contact information that you provide to us, such as your name, title and organization, address, telephone number, fax number, or e-mail address.
+  * Contact information obtained via other companies' marketing lists.
+  * Credit card or other payment information for your transactions may be collected.
 
 
+
+**WHY DOES McGRAW-HILL HIGHER EDUCATION (U.S.) COLLECT PII?**
+
+  * To process your transactions, maintain your account and respond to your inquiries.
+  * To provide you with information about services and products that we believe may be of interest to you offered by McGraw-Hill Higher Education.
+  * To provide you with access to online products and services, as described in our Terms of Use
+
+
+
+**HOW DOES McGRAW-HILL HIGHER EDUCATION (U.S.) SHARE YOUR PII?**
+
+  * With our vendors to perform services on our behalf.
+  * With our business partners, which may include authors, who may jointly develop and offer Higher Education products with McGraw-Hill Higher Education (U.S.).
+  * Potentially in conjunction with a sale or similar transfer of a business.
+  * If you use our online products or services, we may share your PII, and other information collected in the course of providing you with our online products and services, with instructors and administrators of your educational institution
+  * When legally compelled or for other legal purposes.
+
+
+
+**SECURITY AND ACCURACY**
+
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
+
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [megan.gates@mheducation.com](mailto:megan.gates@mheducation.com) or Privacy Official, McGraw-Hill Higher Education, 1333 Burr Ridge Parkway, Burr Ridge, IL 60527.
+
+**COOKIE USAGE**
+
+**Please note that by using this site, you consent to the use of the cookies described below.**
+
+McGraw-Hill Higher Education (U.S.) or our third-party service providers may use cookies (or other tracking technologies that identify your computer or device (like its IP address) and track your use of the Web site) when you visit our Web site. We do not collect personally identifying information in this way, but if you've provided us with personally identifying information we may associate that information with the information that is collected automatically.
+
+A "cookie" is a small text file placed on your computer or device, which helps our Web site function better. We may use the following types of cookies on this Web site:
+
+"Strictly necessary" cookies, which have to be set to allow us to deliver the site to you and to provide specific services that you request from us. The services offered by this site that require cookies to function include: 
+
+  * account log-in
+  * shopping basket/online store
+  * billing
+  * comments/blog features
+
+
+
+"Performance" or "Analytics" cookies, which help us to collect information about how visitors use our site, and helps us with site analysis and improvements. Performance or analytics cookies will remain on your computer after you close your browser, but cannot be used to identify you personally.
+
+"Functionality" cookies, which allow our site to remember your choices or preferences, such as information on online forms or previous orders. These cookies allow us to offer you a personalized experience while using the site. They are not used to track your browsing activity on other Web sites.
+
+You can change your Web browser's Internet preferences to disable or delete cookies, although that may affect certain functions on this site. To learn how to manage your cookies, please follow the instructions from your specific browser, or follow the links below:
+
+[Internet Explorer](http://support.microsoft.com/kb/196955)  
+[Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)  
+[Chrome](https://support.google.com/chrome/answer/95647?hl=en)  
+[Safari](http://support.apple.com/kb/PH5042)  
+[Opera](http://www.opera.com/help/tutorials/security/privacy/)
+
+If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer's instructions on how to manage cookies.
+
+**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:**
+
+Write to us at: [megan.gates@mheducation.com](mailto:megan.gates@mheducation.com) or Privacy Official, McGraw-Hill Higher Education, 1333 Burr Ridge Parkway, Burr Ridge, IL 60527 and let us know if you no longer wish to be contacted for marketing purposes by e-mail, mail, telephone or fax - or by any method.
+
+**CHILDREN**
+
+We do not knowingly collect PII from children under the age of 13. If you are under 13, please do not give us any PII. 
+
+[Click here](https://web.archive.org/mhhe/viewExternalLink.do?link=http://www.mheducation.com/customer-privacy-policy) for more information about the McGraw-Hill Education's Customer Privacy Policy. 
 
   
- **Children:** Collection and use of information from children in the U.S. under the age of thirteen will be made in compliance with the Children's Online Privacy Protection Act of 1998. Specifically, The McGraw-Hill Companies will:
-
-  1. Provide parents or guardians with Notice of our information practices;
-  2. Obtain prior verifiable parental or guardian consent for the collection, use, and/or disclosure of Personally-Identifiable Information from children;
-  3. Provide a parent or guardian, upon request, with the means to review the Personally-Identifiable Information collected from his or her child;
-  4. Provide a parent or guardian with the opportunity to prevent the further use of Personally-Identifiable Information that has already been collected, or the future collection of Personally-Identifiable Information, from that child;
-  5. Limit collection of Personally-Identifiable Information for a child's online participation in a game, prize offer or other activities to Personally-Identifiable Information that is reasonably necessary to participate in the activity; and
-  6. Establish procedures to protect the confidentiality, security and integrity of the Personally-Identifiable Information collected from children.
-
-
-
- **Questions and comments?**   
-The McGraw-Hill Companies Customer Privacy Policy has been developed out of respect for the privacy preferences and choices of our Customers and Prospects. We have established procedures to ensure that every reasonable effort is made to address your concerns. Each Business Unit within The McGraw-Hill Companies has designated a Privacy Official to implement our Customer Privacy Policy for its respective Customers and Prospects. You should find contact information on each of our Business Unit's Web sites that collect data from you.
-
-The Corporation also has established a standing Privacy Steering Committee consisting of senior corporate executives and managers from our major business segments. This Committee will continue to oversee implementation of and compliance with our Policy and will adapt the Policy to reflect changes in technology and Customer expectations.
-
-The Co-Chairs of the Committee are also charged with handling unresolved Customer concerns. You can reach them by sending an e-mail message to either Cynthia Braddon or Katherine Roome at [privacy@mcgraw-hill.com](mailto:privacy@mcgraw-hill.com) or write to Privacy, The McGraw-Hill Companies, 1200 G Street, NW, Suite 200, Washington, D.C. 20005. To ensure that we follow our stated Policy, we conduct periodic and random reviews of our Web sites and other products and services. The results of our reviews are shared with senior management. In addition, a [Report to Customers](http://www.mcgraw-hill.com/site/tools/privacy/privacy_report) is made available annually.
+Last updated: _January 2014_.Future revisions to this Privacy Notice will be posted at this location.  |   
+|  |  
