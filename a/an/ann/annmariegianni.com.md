@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807042052id_/http%3A//www.annmariegianni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034025id_/http%3A//www.annmariegianni.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy « Annmarie Gianni Skin CareAnnmarie Gianni Skin Care
+# Privacy Policy « Organic Skin Care Products | Annmarie Gianni Skin CareOrganic Skin Care Products | Annmarie Gianni Skin Care
 
 **What information do we collect?**
 
