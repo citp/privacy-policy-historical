@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213102301id_/http%3A//www.picturepeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627202659id_/http%3A//www.picturepeople.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture People - Professional Studio Portrait Photography
 
