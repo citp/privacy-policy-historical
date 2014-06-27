@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionara.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625044325id_/http%3A//www.fashionara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionara.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627073432id_/http%3A//www.fashionara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,6 +58,10 @@ When you perform a transaction on the Site, we log the user’s login name and o
 Your use of all services on the Site and your provision of information in connection with these services is purely voluntary. You will always have the option of whether to perform the transaction and provide this information. However, in order to open an online service account or perform a service transaction, you will be required to provide some personal information. Whether to perform the transaction is up to you.
 
 If you choose to provide us with personal information, we will use that information to respond to your message and to help us get you the product or information you have requested. You may choose to subscribe to our online newsletter describing new services and updates on the site. You may unsubscribe at any time.
+
+You acknowledge that apart from your personal information, if you upload any content on the Site, such content may contain information including personal information and the same may be available to the other users of the Site, including the Vendors.
+
+By using this Site and the products, content and services provided on the Site, you agree and acknowledge that your personal information collected through the Site may be transferred across national boundaries and stored and processed in any the country around the world. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted third party vendors or agents of Fashionara such as credit card processors, web hosting providers, communication services, and web analytic providers, to help facilitate Fashionara in providing certain functions.
 
 Registered users can edit or delete their account information by e-mailing, phoning, us at contact numbers provided here [Contact Us](http://www.fashionara.com/contact-us/). Please understand that, although we can delete your account online, we are required to maintain information about your account for commercial and legal reasons.
 
