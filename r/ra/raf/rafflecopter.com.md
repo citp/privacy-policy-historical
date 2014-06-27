@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216043753id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220255id_/http%3A//www.rafflecopter.com/rafl/privacy) for the most accurate reproduction.*
 
-# Rafflecopter - Privacy Policy :)
+# Privacy Policy | Rafflecopter :)
 
 Privacy comes first and foremost at Rafflecopter. Your privacy is critically important to us. This privacy policy is effective 10/15/2012; it summarizes what information we might collect from a registered user or other visitor, and what we will and will not do with it. 
 
@@ -131,55 +131,3 @@ Although most changes are likely to be minor, Rafflecopter may change its Privac
 We love our users and take their privacy very seriously. If you have any questions or comments about Rafflecopter‘s privacy policy, please send a message to privacy@rafflecopter.com. 
 
 Effective October 15th 2012 
-
-## Blogger
-
-$7.99/month
-
-| 
-
-## Business
-
-$59.99/month  
-  
----|---  
-  
-  * Add prize photos!
-  * Change start/end times!
-  * Unlimited CSV downloads
-  * E-Z Terms/Conditions
-  * Email reminders
-  * More entry options 
-    * +PINTEREST AND SURVEYS
-  * Mobile-friendly FB app
-  * Rafflecopter branding
-  * Real-time analytics
-  * Email list integration 
-    * +MAILCHIMP, AWEBER, CONSTANT CONTACT
-  * Viral refer-a-friend entries
-
-| 
-
-  * Add prize photos!
-  * Change start/end times!
-  * Unlimited CSV downloads
-  * E-Z Terms/Conditions
-  * Email reminders
-  * More entry options 
-    * +PINTEREST AND SURVEYS
-  * Mobile-friendly FB app
-  * No Rafflecopter branding
-  * Real-time analytics
-  * Email list integration 
-    * +MAILCHIMP, AWEBER, CONSTANT CONTACT
-  * Viral refer-a-friend entries
-
-  
-  
-Upgrade to blogger
-
-_easy to cancel at any time_ | 
-
-Upgrade to business
-
-_easy to cancel at any time_
