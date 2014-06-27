@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213020354id_/http%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627124932id_/http%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lehigh Valley Health Network
 
@@ -27,6 +27,8 @@ It is policy that personal information, such as your name, postal and e-mail add
 ### FUTURE CONTACT
 
 If you also indicate that you would like to be on our mailing list or receive future information, we may contact you with information such as promotional items, product alerts and special announcements. You can be removed from the list any time you wish.
+
+You may opt out of Lehigh Valley Health Network’s SMS correspondence or Premium SMS Services by texting "STOP" to the shortcode 20222. Text "HELP" to 20222 for help or visit [www.hmgf.org/t](http://www.hmgf.org/t). Message and data rates may apply.
 
 ### NO RELEASE OF INFORMATION TO THIRD PARTIES
 
