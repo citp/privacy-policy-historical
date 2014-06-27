@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2013-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130705224948id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627222640id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | YepMe.com
 
 We value the trust you place in yepme.com. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme.com, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy Yepme.com is referred to as " **we** ," " **us** ," or " **our** " and you the end user are referred to as " **you** ", " **your** " or “ **user** ”.
 
@@ -23,7 +23,7 @@ We may collect information that personally identifies you when you register, whe
   
 **How Information Is Used and Shared**
 
-**Communications:** We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by sending an email to [**customer.care@yepme.com**](mailto:customer.care@yepme.com)
+**Communications:** We may send you communications about updates, and new services from time to time. If you do not want to receive these communications you can opt out by calling us at 0124-4750200
 
 **Processing Payments:** For credit card purchasers, we redirect to the relevant financial institution for online transaction and billing information. 
 
@@ -108,9 +108,6 @@ We do not store in cookies any passwords or credit card information, any informa
 
 6\. Your information is secure with us as we have robust security practices and standards at par with industry standards.
 
-For redressal of your grievances, please find particulars of the Grievance Officer at [**customer.care@yepme.com**](mailto:customer.care@yepme.com) .
-
-  
 **Steps You Can Take to Protect Your Privacy**
 
 **Links to Other Websites:** You should be aware that when you are on any Yepme.com website, you could be directed to other websites hosted by third parties. We do not endorse those websites. For example, if you "click" a link to a third party site we have listed on one of the pages on the Yepme.com, the "click" takes you off the applicable Yepme.com. Yepme.com is not responsible for the content or information collection practices of these websites. Please note that these websites may have privacy policies that differ from this Privacy Policy. We encourage you to review and understand their privacy practices before providing them with information. 
@@ -126,11 +123,6 @@ No Guarantee of Security. No data transmission over the Internet is guaranteed t
 **Children:** Minors under the age of 18 may not use the website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the website is designed to attract anyone under the age of 18. Yepme.com does not sell products for purchase by children. In certain instances, we sell children's products for purchase by adults. If you are under 18, you may use Yepme.com only with the involvement of a parent or guardian. 
 
 **Public Areas:** We may provide areas on our website where you can publicly post information about yourself, can communicate with others, or can review products and submit media content. This information may be accessible by other consumers or companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a product review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. 
-
-  
-**Contact Information**
-
-If you have questions or concerns regarding this Privacy Policy; please contact our support at [**customer.care@yepme.com**](mailto:customer.care@yepme.com)
 
   
 
