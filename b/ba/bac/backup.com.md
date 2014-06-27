@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203044236id_/https%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044123id_/https%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Complete Privacy Policy | Symantec
 
@@ -336,7 +336,7 @@ Sales.liveperson.net | LivePersonID
 
 
 
-###  3.2.3. Cookies on SMB Micro-sites including, but not limited to, the following:
+### 3.2.3. Cookies on SMB Micro-sites including, but not limited to, the following:
 
 ### Strictly Necessary Cookies
 
