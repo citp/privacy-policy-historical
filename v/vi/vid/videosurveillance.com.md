@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225042227id_/http%3A//www.videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204525id_/http%3A//videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
 
 # Video Surveillance – Our Story - Security Camera and IP Video Experts
 
