@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basethings.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104042542id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html%3FosCsid%3D7d74f127dd281a5162e905ab57d8e446) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basethings.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627132013id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html%3FosCsid%3De9740b7cff2d22847d5374f798dbb9da) for the most accurate reproduction.*
 
 # Ultimate source for All Kind of Gadgets - Privacy Policy - Privacy Policy
 
