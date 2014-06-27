@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229175934id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627201536id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
 
 # TAAZ Privacy Policy
 
 [](http://privacy.truste.com/privacy-seal/Photometria/validation?rid=0e47bbae-b34f-4f20-a193-f6383bcd9496 "TRUSTe European Safe Harbor certification")
 
-Taaz, Inc. (the “Company”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Taaz, Inc. (the “Company”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site www.taaz.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions 
 
-If you have questions or concerns regarding this statement, you should first contact tou@taaz.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact [ tou@taaz.com](mailto:tou@taaz.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-Taaz, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Taaz, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taaz, Inc. certification, please visit http://www.export.gov/safeharbor/ 
+Taaz, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Taaz, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taaz, Inc. certification, please visit <http://www.export.gov/safeharbor/>
 
 You post any Content (as that term is defined in the Company's [Terms of Use](http://www.taaz.com/terms-of-use.html)) on the Website at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other users have copied or stored your Content. 
 
-Any improper collection or misuse of Content or other information accessible on the Website is a violation of the Company's Terms of Use and should be reported to tou@taaz.com. 
+Any improper collection or misuse of Content or other information accessible on the Website is a violation of the Company's Terms of Use and should be reported to [tou@taaz.com](http://www.taaz.com/tou@taaz.com). 
 
 ### What Other Personal Information Does Company Display or Collect?
 
@@ -48,7 +48,11 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Website's most attractive features without cookies enabled. 
 
-Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers. 
+### Notice Regarding Online Behavioral Advertising
+
+Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies or web beacons. These cookies or web beacons allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies or web beacons by any advertisers. If you do not wish to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). 
+
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
@@ -58,7 +62,7 @@ Our third party advertising partner employs a software technology called clear g
 
 Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. 
 
-Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, and providing user services. Unless we tell you differently, Company's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 User Profiles: User profile information including, without limitation, users' name, email address, photographs, physical descriptions and personal interests, may be used to facilitate and provide your requested services within the Website and/or your request for Company's services or applications through third party websites. Any Personal Information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your display name may be displayed to other users when you upload images or videos or send messages through the Website and other users can contact you through messages and comments. Any images, captions, physical descriptions, personal interests or other content that you submit to the Websites may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
 
@@ -66,7 +70,7 @@ Communication About the Website or in Response to User Requests: As part of the 
 
 Promotional Offers: We may send offers to certain users on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send us an email to tou@taaz.com 
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy. 
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy. We will notify you via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 Protection of Company and Others: We may release Personal Information when we believe in good faith that release is required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection. 
 
@@ -107,20 +111,28 @@ You are able to add, update or delete certain information on pages, such as thos
 
 You may request deletion of your Company account by sending an email to our webmaster at tou@taaz.com. Please note that some information may remain in our records after deletion of your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
 
-### Notice Regarding Online Behavioral Advertising
+### Facebook Connect
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
+You can log in to our site using sign-in services such as Facebook Connect. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network 
+
+### Social Media Widgets
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the Twitter button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+### Testimonial
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at tou@taaz.com. 
 
 ### Changes to this Privacy Policy
 
-Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
+Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via email or by posting an announcement on the Website prior to the change becoming effective. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at TAAZ.com, please send us a detailed message to tou@taaz.com or 
+If you have any questions or concerns regarding privacy at TAAZ.com, please send us a detailed message to [tou@taaz.com](mailto:tou@taaz.com) or 
 
 Taaz, Inc.  
-9171 Towne Centre Drive, Suite 350  
+4330 La Jolla Village Drive, Suite 340  
 San Diego, CA 92122
 
 We will make every effort to resolve your concerns.
