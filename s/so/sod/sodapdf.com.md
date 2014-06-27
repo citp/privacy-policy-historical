@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209143901id_/http%3A//sodapdf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627153824id_/http%3A//sodapdf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Soda PDF
 
-Last updated: September 2012
+Last updated January 2014
 
-**LULU software™**  has been awarded  **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by  **TRUSTe**  for compliance with [ **TRUSTe** 's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, [www.sodapdf.com](http://www.sodapdf.com/).
+**LULU software** has been awarded **TRUSTe** 's Privacy Seal signifying that this privacy policy and practices have been reviewed by **TRUSTe** for compliance with [**TRUSTe** 's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The **TRUSTe** program does not cover information that may be collected through downloadable software. The **TRUSTe** program covers only information that is collected through this Web site, [www.sodapdf.com](https://web.archive.org/ "en") .
 
-**TRUSTe** 's mission, as an independent third party, is to accelerate online trust among   
-consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.
+**TRUSTe** 's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at:
-
-**LULU software™**  
-4700 de la Savane, Suite 210  
+**LULU software**  
+4700 de la Savane, suite 210  
 Montreal, QC, H4P 1T7  
 Canada
 
-If you are not satisfied with our response you can [contact  **TRUSTe**  here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you are not satisfied with our response you can contact [**TRUSTe** here](https://feedback-form.truste.com/watchdog/request) .
 
-**Privacy Policy**
-
-We, at  **LULU software™** , respect your right to privacy and we are committed to protecting it. This statement discloses the information that we gather and track, how we use the information, and with whom we share this same information. This privacy policy covers [www.sodapdf.com](http://www.sodapdf.com/).
+We, at **LULU software™** , respect your right to privacy and we are committed to protecting it. This statement discloses the information that we gather and track, how we use the information, and with whom we share this same information. This privacy policy covers [www.sodapdf.com](https://web.archive.org/ "en")
 
 **Changes to the Policy**
 
@@ -34,20 +29,22 @@ You can visit the Site without indicating who you are, and without revealing any
 
 Transaction information such as credit card details, billing addresses, phone numbers, and email addresses are required to purchase and activate your membership or obtain a software license to our software; we will share that necessary personal information with third parties to process any payment that you may make to us. We use service providers such as credit card processing providers, and an email service provider. These third parties are prohibited from using your personal information for promotional purposes.
 
-If you provide us with personal information or credit information about somebody else, such as a family member, friend or associate, we will assume that you have their permission to do so. If you do provide us with such third party personal information, we will only use it in the manner you have requested us to for. 
+If you provide us with personal information or credit information about somebody else, such as a family member, friend or associate, we will assume that you have their permission to do so. If you do provide us with such third party personal information, we will only use it in the manner you have requested us to for.
 
 **Access**
 
 If you would like access to your personal information to correct, update or delete it, please contact us as described below:
 
-**LULU software™**  
-4700 de la Savane, Suite 210  
+**LULU software**  
+4700 de la Savane, suite 210  
 Montreal, QC, H4P 1T7  
 Canada
 
-All users may also email: [info@lulusoftware.com](mailto:info@lulusoftware.com)
+All users may also email: [info@lulusoftware.com](mailto:info@lulusoftware.com)
 
-We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Minors**
 
@@ -63,17 +60,17 @@ To fulfill your transaction requests you must allow us to use your personal info
 
 **Information Security**
 
-The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+**Legal Disclosure We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.**
 
-**Legal Disclosure**
+**Business Transitions**
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+If **LULU software** is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 **Cookies and Other Web Technologies**
 
-To help us provide better customer service, we sometimes collect non-­identifiable information from visits to our web sites. For example, we may keep track of the domains from which people visit, and we may also measure visitor activity. We may use this data to analyze trends and statistics and to help us provide better customer service. We collect the aforementioned information through the use of various technologies, including so­ called "cookies". A cookie is a piece of data that a web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer without disclosing your personal information. Some of our pages use cookies, and other technologies to better serve you when you return to the Site. You can set your browser to notify you before you receive a cookie, allowing you the chance to decide whether or not to accept it. You can also set your browser to turn off cookies. If you do so, however, the Site may not work properly.
+To help us provide better customer service, we sometimes collect non identifiable information from visits to our web sites. For example, we may keep track of the domains from which people visit, and we may also measure visitor activity. We may use this data to analyze trends and statistics and to help us provide better customer service. We collect the aforementioned information through the use of various technologies, including so called "cookies". A cookie is a piece of data that a web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer without disclosing your personal information. Some of our pages use cookies, and other technologies to better serve you when you return to the Site. You can set your browser to notify you before you receive a cookie, allowing you the chance to decide whether or not to accept it. You can also set your browser to turn off cookies. If you do so, however, the Site may not work properly.
 
 Our tracking utility company and service providers also use cookies which are not covered by our privacy policy. We do not have access or control over these cookies. Our tracking utility company and service providers use session ID and persistent cookies to make it easier for you to navigate our site and in order for you to use the shopping cart.
 
@@ -83,16 +80,24 @@ For web site security purposes, and to ensure that our Site remains available to
 
 **Aggregated tracking information**
 
-We analyze visitors’ use of our sites by tracking information such as page views, traffic flow, search terms, and click through. We use this information to improve our sites. We do not share any information with third part companies that can identify an individual user. We use a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers’ online needs. The tracking system does not reveal any personal information, such as names or email address.
+We analyze visitors’ use of our sites by tracking information such as page views, traffic flow, search terms, and click through. We use this information to improve our sites. We do not share any information with third part companies that can identify an individual user. We use a third party web analytics service to improve our web site performance and user experience. We use this information to improve usability on our sites and to help support our customers’ online needs. The tracking system does not reveal any personally identifiable information, such as names or email address.
 
-**Links to 3 rd Party Sites**
+**Links to 3rd Party Sites**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of **LULU software™**. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Our Site includes links to other Web sites whose privacy practices may differ from those of **LULU software** ™. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
 **Testimonials**
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [info@lulusoftware.com](mailto:info@lulusoftware.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@lulusoftware.com](mailto:info@lulusoftware.com).
+
+**Blog**
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_ [ info@lulusoftware.com](mailto:info@lulusoftware.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Contact Information**
 
-**LULU software™**  welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please visit [www.sodapdf.com](http://www.sodapdf.com/) and choose your preferred method of contact (e-mail or phone).
+**LULU software** welcomes your comments regarding this Privacy Policy. If you have any questions regarding our Privacy Policy, or this Web site, please visit [www.sodapdf.com](https://web.archive.org/ "en") and choose your preferred method of contact (e-mail or phone)
