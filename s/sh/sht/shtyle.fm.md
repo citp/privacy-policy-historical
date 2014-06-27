@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624022742id_/http%3A//shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shtyle.fm privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204245id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.*
 
 # Shtyle.fm : Privacy Policy
 
