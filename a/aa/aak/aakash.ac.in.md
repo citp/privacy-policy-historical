@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aakash.ac.in privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030182514id_/http%3A//www.aakash.ac.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aakash.ac.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627141521id_/http%3A//www.aakash.ac.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AESL
+# Privacy Policy - AESPL
 
 [**aakash.ac.in**](http://aakashinstitute.com/) has created this privacy policy in order to demonstrate own organization commitment to privacy. Throughout the cyberspace we want to contribute towards providing a safe and secure environment, safe information gathering and dissemination practices for all our sites. This policy applies only to [**aakash.ac.in**](http://aakashinstitute.com/) which carry the **Aakash Institute, Aakash IIT-JEE and Aakash Foundations** brand and not to other companies or organizations' websites to which we link.
 
