@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229201218id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecasinodirect.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014250id_/http%3A//www.livecasinodirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy at Live Casino Direct - online casino gambling portal
 
@@ -16,3 +16,5 @@ We respect the privacy of the owners / administrators of the gambling websites.
 Their contact names and e-mail addresses are kept strictly confidential.
 
 Gambling websites’ information (including site name, URL, description and other information) is published in Live Casino Direct database and is made widely available for the benefit of respective sites.
+
+This page is rated 5 out of 5.0 based on 1 votes by our visitors.
