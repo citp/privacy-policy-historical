@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227092100id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfido.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627183601id_/http%3A//www.artfido.com/privacy-policy.php) for the most accurate reproduction.*
 
 # artFido | fetching art | Privacy Policy
 
@@ -26,12 +26,12 @@
     * [Time-Based Art (Film, Video, Digital)](http://www.artfido.com/listing-search.php?medium=Time-Based+Art+%28Film%2C+Video%2C+Digital%29 "Time-Based Art \(Film, Video, Digital\)")
     * [Water Colour](http://www.artfido.com/listing-search.php?medium=Water+Colour "Water Colour")
   * Size 
-    * [Under 60cm (Under 2 feet)](http://www.artfido.com/listing-search.php?size=Under+60cm+%28Under+2+feet%29 "Under 60cm \(Under 2 feet\)")
-    * [60cm to 90cm (2 to 3 feet)](http://www.artfido.com/listing-search.php?size=60cm+to+90cm+%282+to+3+feet%29 "60cm to 90cm \(2 to 3 feet\)")
-    * [90cm to 120cm (3 to 4 feet)](http://www.artfido.com/listing-search.php?size=90cm+to+120cm+%283+to+4+feet%29 "90cm to 120cm \(3 to 4 feet\)")
-    * [120cm to 150cm (4 to 5 feet)](http://www.artfido.com/listing-search.php?size=120cm+to+150cm+%284+to+5+feet%29 "120cm to 150cm \(4 to 5 feet\)")
-    * [Over 150cm (over 5 feet)](http://www.artfido.com/listing-search.php?size=Over+150cm+%28over+5+feet%29 "Over 150cm \(over 5 feet\)")
-  * Colour 
+    * [Under 2 feet (Under 60cm)](http://www.artfido.com/listing-search.php?size=Under+60cm+%28Under+2+feet%29 "Under 60cm \(Under 2 feet\)")
+    * [2 to 3 feet (60cm to 90cm)](http://www.artfido.com/listing-search.php?size=60cm+to+90cm+%282+to+3+feet%29 "60cm to 90cm \(2 to 3 feet\)")
+    * [3 to 4 feet (90cm to 120cm)](http://www.artfido.com/listing-search.php?size=90cm+to+120cm+%283+to+4+feet%29 "90cm to 120cm \(3 to 4 feet\)")
+    * [4 to 5 feet (120cm to 150cm)](http://www.artfido.com/listing-search.php?size=120cm+to+150cm+%284+to+5+feet%29 "120cm to 150cm \(4 to 5 feet\)")
+    * [Over 5 feet (over 150cm)](http://www.artfido.com/listing-search.php?size=Over+150cm+%28over+5+feet%29 "Over 150cm \(over 5 feet\)")
+  * Color 
   * Price 
     * [ Art under $250 ](http://www.artfido.com/listing-search.php?price_low=0&price_high=250 "priceDetails")
     * [ $250 to $500 ](http://www.artfido.com/listing-search.php?price_low=251&price_high=500 "priceDetails")
@@ -113,7 +113,7 @@ B |
     * the National Privacy Principles.
   * However, given artFido's size and business, the National Privacy Principles didn't cover us.
   * But that wasn't good enough for Us. To show how committed We are to protecting Your privacy rights, We successfully applied to 'opt-in' to the National Privacy Principles scheme. We didn't have to, but We wanted to, because Your privacy is just as important to Us as it is to You. 
-    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20131227092100id_/http%3A//www.artfido.com/privacy%20letter.jpg).
+    * You can access the Assistant Privacy Commissioner's acceptance letter addressed to artFido [here](https://web.archive.org/web/20140627183601id_/http%3A//www.artfido.com/privacy%20letter.jpg).
   * The 'opt-in' register includes a list of all the businesses like Us who have willingly chosen to be covered by the National Privacy Principles. 
     * You can access the register here [www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a](http://www.oaic.gov.au/privacy-portal/resources_privacy/optin-register.html#a).
 
