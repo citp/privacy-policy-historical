@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219193305id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveauctioneers.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627024155id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>LiveAuctioneers Privacy Policy - Live Auctioneers</title>
 	<meta name="description" content="Get in on the auction -- bid LIVE online on art, antiques, jewelry and collectibles. Find online auctions from around the world at Live Auctioneers.">
-    
+    <meta name="google-site-verification" content="cV8cXXQi_UWIpJ6vc9a0DhF4AJD4HElapx9KBROkGCk">
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
         
-        <link type="text/css" rel="stylesheet" href="http://d1zcdlqocabcs9.cloudfront.net/live_styles/v1907512743/live_styles.css">        <link rel="shortcut icon" href="http://www.liveauctioneers.com/live_design/images/favicon.png">
+        <link type="text/css" rel="stylesheet" href="http://d1zcdlqocabcs9.cloudfront.net/live_styles/v1929012015/live_styles.css">        <link rel="shortcut icon" href="http://www.liveauctioneers.com/live_design/images/favicon.png">
                 
-                            <script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/333752fd-6349-4e52-91e0-0d6d55fb71a9.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d1zcdlqocabcs9.cloudfront.net/scripts/v1907512743/m_bundle.js"></script>
+                    <script type="text/javascript" async="" src="//commondatastorage.googleapis.com/code.snapengage.com/js/333752fd-6349-4e52-91e0-0d6d55fb71a9.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/scripts/v1929012015/m_bundle.js"></script>
         <script type="text/javascript" src="http://snapabug.appspot.com/snapabug.js" async=""></script>
         
         <script type="text/javascript">
@@ -22,8 +22,7 @@
         
         
         
-                
-                <meta property="fb:app_id" content="143214215739939">
+                                <meta property="fb:app_id" content="143214215739939">
         
     <script type="text/javascript">
         
@@ -82,6 +81,19 @@
     
     
     </script>
+<!-- Quantcast Tag Part I -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+        (function() {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+    </script>
+<!-- End Quantcast tag Part I-->
             <script type="text/javascript">
 // <![CDATA[
   var _gaq = _gaq || [];
@@ -116,23 +128,58 @@
           <img src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/trans.png" alt="Live Auctioneers online auctions" class="live_logo">
       </a>
   </div>
+
+  <img class="how-it-works-video jq-overlay-on-click" src="http://d1zcdlqocabcs9.cloudfront.net/live_design/images/how-it-works-video.png" style="position:absolute;top:14px;left:256px;cursor:pointer;z-index:100;" onclick="(function(){
+           var shade = $('<div/>', {}).css({
+                position: 'absolute',
+                top: 67,
+                left: 0,
+                width: '100%',
+                height: $('#body-content').length ? $('#body-content').height() + 635 : '3100px',
+                background: 'rgba(25,25,25,0.8)',
+                zIndex: 200,
+           });
+           var frame = $('<div/>', {
+                'class' : 'overlay-frame'
+           }).css({margin: 'auto', position: 'absolute', left: 0, top: 0, right: 0, bottom: 0, height: 550, width: 640})
+           .html($('<iframe/>', {
+               width: 640, height: 360, src: '//www.youtube.com/embed/1rluFm_bc7w?rel=0',
+               frameborder: '0', allowfullscreen: true
+               }).css({
+                   bottom: 0, margin: 'auto', maxWidth: '100%', maxHeight: '100%', zIndex: 'inherit'
+           })).prepend($('<div/>', {'class': 'close'}).html('close').css({
+                'float' : 'right',
+                color: 'rgb(206, 206, 206)',
+                marginBottom: 60,
+                fontSize: 12
+           }).append($('<span/>', {}).css({backgroundImage : 'url(http://d1zcdlqocabcs9.cloudfront.net/live_design/images/icon-close.png)', padding: '3px 11px', marginLeft: 10})));
+           var overlay = $('<div/>', {
+               html : '',
+               'class' : 'overlay'
+           }).css({position: 'fixed', top:0, left:0, width: '100%', height: '100%',
+                   zIndex: 200, background: 'transparent'
+           }).click(function() {
+               overlay.remove();
+               frame.remove();
+               shade.remove();
+           });
+           $('body').append(overlay.append(frame));
+           $('#body-content').prepend(shade);
+           _gaq.push(['_trackEvent', 'Social media', 'How it works YT video', 'Header']);
+       })()">
   <div class="header-menu">
     <ul class="nav" id="header-menu-nav">
-      <li>
-          <a href="http://www.liveauctioneers.com/">Home</a>
-      </li>
       <li class="about menu">
         <div id="about-dropd" class="nav-dropdown">
           <ul>
             <li><a href="http://www.liveauctioneers.com/about.html">About Us</a></li>
-            <li><a href="http://www.liveauctioneers.com/team.html">Team</a></li>
             <li class="last"><a href="http://www.liveauctioneers.com/careers.html">Careers</a></li>
           </ul>
         </div>
           <a href="javascript:void(0);" id="_about">About</a>
       </li>
       <li>
-          <a href="javascript:void(0);" data-location="12-2013" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Calendar</a>
+          <a href="javascript:void(0);" data-location="06-2014" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Calendar</a>
       </li>
       <li class="news menu">
           <a href="javascript:void(0);">News</a>
@@ -153,10 +200,123 @@
               </ul>
             </div>
       </li>
+      <li class="follow last menu">
+          <a href="javascript:void(0);" style="padding-top: 1px;">
+            <div class="followus"></div>
+          </a>
+            <div id="follow-dropd" class="nav-dropdown" style="width:130px;">
+              <ul>
+                <li>
+                    <span class="clblue">Follow us</span>
+                </li>
+                <li>
+                    <a class="fl" href="https://www.facebook.com/LiveAuctioneers" target="_blank" title="Facebook">
+                        <span class="fl mr4 fb_follow pointer at300b"></span>
+                        <div class="pt5">Facebook</div>
+                    </a>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <a class="fl" href="https://twitter.com/liveauctioneers" target="_blank" title="Twitter">
+                        <span class="fl twit_follow mr4 pointer at300b"></span>
+                        <div class="pt5">Twitter</div>
+                    </a>
+                    <div class="clear"></div>
+                </li>
+                <li>
+                    <a class="fl" href="http://www.linkedin.com/company/liveauctioneers" target="_blank" title="LinkedIn">
+                        <span class="fl mr4 linkedin pointer at300b"></span>
+                        <div class="pt5">LinkedIn</div>
+                    </a>
+                    <div class="clear"></div>
+                </li>
+                <li class="last">
+                    <a class="fl" href="http://www.pinterest.com/liveauctioneers/" target="_blank" title="Pinterest">
+                        <span class="fl mr4 pinterest pointer at300b"></span>
+                        <div class="pt5">Pinterest</div>
+                    </a>
+                    <div class="clear"></div>
+                </li>
+              </ul>
+            </div>
+      </li>
     </ul>
   </div>
   
   <div class="fr cedemi cblue fs13">
+    
+    
+    <script type="text/javascript">
+        var fbLogInOrOut = function(){
+            
+                        
+            FB.api('/me', function(response) {
+                console.log(response);
+                if(response.id){
+                    $.ajax({
+                        url:"/fblogin.php?userID=" + response.id,
+                        success:function(data){
+                            if(data == "true"){
+                                location.reload();
+                            }
+                        }
+                    });
+                    console.log(response.id);
+                }
+            });
+            
+                        
+        };
+    </script>
+    
+    
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '143214215739939', // App ID
+      channelUrl : 'http://local.liveauctioneers.com/fblogin.php', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+FB.Event.subscribe('auth.authResponseChange', function(response) {
+    // Here we specify what we do with the response anytime this event occurs. 
+    if (response.status === 'connected') { 
+    	
+	     fbLogInOrOut();	     
+      // The response object is returned with a status field that lets the app know the current
+      // login status of the person. In this case, we're handling the situation where they 
+      // have logged in to the app.
+    } else if (response.status === 'not_authorized') {
+      // In this case, the person is logged into Facebook, but not into the app, so we call
+      // FB.login() to prompt them to do so. 
+      // In real-life usage, you wouldn't want to immediately prompt someone to login 
+      // like this, for two reasons:
+      // (1) JavaScript created popup windows are blocked by most browsers unless they 
+      // result from direct interaction from people using the app (such as a mouse click)
+      // (2) it is a bad experience to be continually prompted to login upon page load.
+    } else {
+      // In this case, the person is not logged into Facebook, so we call the login() 
+      // function to prompt them to do so. Note that at this stage there is no indication
+      // of whether they are logged into the app. If they aren't then they'll see the Login
+      // dialog right after they log in to Facebook. 
+      // The same caveats as above apply to the FB.login() call here.
+    }
+  });
+  
+    
+    // Additional init code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
     
         <a class="btn_click" rel="facebox" href="http://www.liveauctioneers.com/nlogin/login/?from=hp" onclick="_gaq.push(['_trackEvent', 'Navigation', 'button', 'Sign in - bidders']);"><div class="fl sprites header-nav-btn tc pointer opac-1">Sign In</div></a>
                 <a class="btn_click no_pull" href="http://www.liveauctioneers.com/sign-up"><div class="fl sprites header-nav-btn tc pointer opac-1 ml3">Create Account</div></a>
@@ -176,7 +336,7 @@
   <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor">
     <div id="auctioneer_tab" class="fl sprites action-btn cwhite pointer prelative z9 ml-1">
         <div class="headertab">
-            SELLERS
+            AUCTIONEERS
         </div><div class="sprites action-btn-selected"></div>
     </div></a>
     <div class="fl sprites search-bg prelative z9 ml-1 tl">
@@ -272,7 +432,7 @@
 </script>
                     
                                         
-    <div id="mask_22740824">
+    <div id="mask_26897860">
         <div align="center" style="display:none;">
             <a href="/dashboard/messages">
                 <button class="red-btn">
@@ -280,43 +440,43 @@
             </a>
         </div>
     </div>
-<div class="hotlive_auction_box online" style="margin-bottom: 25px;" rel="22740824">
+<div class="hotlive_auction_box online" style="margin-bottom: 25px;" rel="26897860">
         <div class="box_image_holder">
-                <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier">
-                        <img src="http://p1.la-img.com/1243/48944/22740824_1_m.jpg" class="box_image" title="Oil Painting on Board Attr. to Auto Greblier" alt="Lot ">
+                <a href="http://www.liveauctioneers.com/item/26897860_11-x-11-marked-volkstedt-german-figural-porcelain">
+                        <img src="http://p2.la-img.com/654/55218/26897860_1_m.jpg" class="box_image" title="11&quot; X 11&quot; MARKED VOLKSTEDT GERMAN FIGURAL PORCELAIN" alt="Lot ">
                     </a>
-            </div>
+                    </div>
     <div class="box_title">
         <div class="box_truncate">
-            <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier" class="dark_text text_link" title="Oil Painting on Board Attr. to Auto Greblier">
-                157: Oil Painting on Board Attr. to Auto Greblier
+            <a href="http://www.liveauctioneers.com/item/26897860_11-x-11-marked-volkstedt-german-figural-porcelain" class="dark_text text_link" title="11&quot; X 11&quot; MARKED VOLKSTEDT GERMAN FIGURAL PORCELAIN">
+                417: 11" X 11" MARKED VOLKSTEDT GERMAN FIGURAL PORCELAIN
             </a>
         </div>
                                 <!--  -->
         
         
-                                <div class="item_box_descr" title="Attributed to Auto Greblier, 19th century  oil on bo…">
-            Attributed to Auto Greblier, 19th century  oil on bo…
+                                <div class="item_box_descr" title="11" x="" 11"="" marked="" volkstedt="" german="" figural="" porcelain="" &hellip;"="">
+            11" X 11" MARKED VOLKSTEDT GERMAN FIGURAL PORCELAIN …
         </div>
     </div>  <!-- //box_title -->
         <div class="house_name">
-            <a href="http://www.liveauctioneers.com/mg-neely-auction" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="MG Neely Auction">                MG Neely Auction
+            <a href="http://www.liveauctioneers.com/woody-auction-llc" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="Woody Auction LLC">                Woody Auction LLC
             </a>        </div>
     <div class="box_detail">
         <div class="box_detail_status">
-                                            <div class="dark_text">Start Price</div>
-                <div class="startprice_online">$ 200</div>
+                            <div class="dark_text">Start Price</div>
+                <div class="startprice_online">$ 350</div>
                                                          <!-- //remaining -->
                    
         </div>  <!-- //light_text_box box_detail -->
-                <div class="box_flag us-flag" title="United States">
+                <div class="box_flag us-flag" title="">
                     </div>
         <div class="box_save_icon">
-                                <a href="http://www.liveauctioneers.com/nlogin/login/22740824?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                                <a href="http://www.liveauctioneers.com/nlogin/login/26897860?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
                 </div> <!-- //box_save_icon -->
              </div>  <!-- //box_detail -->
         <div class="itemFooterSold">
-                    <a href="http://www.liveauctioneers.com/item/22740824_oil-painting-on-board-attr-to-auto-greblier" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
+                    <a href="http://www.liveauctioneers.com/item/26897860_11-x-11-marked-volkstedt-german-figural-porcelain" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
                          </div>  <!-- //itemFooterSold -->
          <div class="bid-box-shadow clear"></div> 
                                     
@@ -338,7 +498,7 @@
 </script>
                     
                                         
-    <div id="mask_22823481">
+    <div id="mask_27867379">
         <div align="center" style="display:none;">
             <a href="/dashboard/messages">
                 <button class="red-btn">
@@ -346,43 +506,43 @@
             </a>
         </div>
     </div>
-<div class="hotlive_auction_box online" rel="22823481">
+<div class="hotlive_auction_box online" rel="27867379">
         <div class="box_image_holder">
-                <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and">
-                        <img src="http://p2.la-img.com/1417/49098/22823481_1_m.jpg" class="box_image" title="LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;" alt="Lot ">
+                <a href="http://www.liveauctioneers.com/item/27867379_2-wwii-soviet-russia-armor-m43-telogreika-uniform">
+                        <img src="http://p2.la-img.com/368/56889/27867379_1_m.jpg" class="box_image" title="2 WWII SOVIET RUSSIA  ARMOR M43 TELOGREIKA UNIFORM" alt="Lot ">
                     </a>
-            </div>
+                    </div>
     <div class="box_title">
         <div class="box_truncate">
-            <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and" class="dark_text text_link" title="LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;">
-                217: LOT OF (80)+ MID 1960's TOPPS HALL OF FAMERS &amp;
+            <a href="http://www.liveauctioneers.com/item/27867379_2-wwii-soviet-russia-armor-m43-telogreika-uniform" class="dark_text text_link" title="2 WWII SOVIET RUSSIA  ARMOR M43 TELOGREIKA UNIFORM">
+                9123: 2 WWII SOVIET RUSSIA  ARMOR M43 TELOGREIKA UNIFORM
             </a>
         </div>
                                 <!--  -->
         
         
-                                <div class="item_box_descr" title="ALL STARS INCLUDING FRANK ROBINSON, KILIBREW,  MARIS…">
-            ALL STARS INCLUDING FRANK ROBINSON, KILIBREW,  MARIS…
+                                <div class="item_box_descr" title="Each with trousers, one with Sam Browne and red Army…">
+            Each with trousers, one with Sam Browne and red Army…
         </div>
     </div>  <!-- //box_title -->
         <div class="house_name">
-            <a href="http://www.liveauctioneers.com/echoes-antiques-and-auction-gallery-inc" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="Echoes Antiques &amp; Auction Gallery, Inc.">                Echoes Antiques &amp; Auction Gallery, Inc.
+            <a href="http://www.liveauctioneers.com/affiliated-auctions" onclick="_gaq.push(['_trackEvent', 'Navigation', 'Auctioneer title', 'Hot lots']);" class="dark_text text_link" title="Affiliated Auctions">                Affiliated Auctions
             </a>        </div>
     <div class="box_detail">
         <div class="box_detail_status">
-                                            <div class="dark_text">Start Price</div>
-                <div class="startprice_online">$ 50</div>
+                            <div class="dark_text">Start Price</div>
+                <div class="startprice_online">$ 30</div>
                                                          <!-- //remaining -->
                    
         </div>  <!-- //light_text_box box_detail -->
-                <div class="box_flag us-flag" title="">
+                <div class="box_flag us-flag" title="United States">
                     </div>
         <div class="box_save_icon">
-                                <a href="http://www.liveauctioneers.com/nlogin/login/22823481?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
+                                <a href="http://www.liveauctioneers.com/nlogin/login/27867379?lot_status=online&amp;lot_type=" title="Click to save" rel="facebox, nofollow"><span class=""></span></a>
                 </div> <!-- //box_save_icon -->
              </div>  <!-- //box_detail -->
         <div class="itemFooterSold">
-                    <a href="http://www.liveauctioneers.com/item/22823481_lot-of-80-mid-1960s-topps-hall-of-famers-and" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
+                    <a href="http://www.liveauctioneers.com/item/27867379_2-wwii-soviet-russia-armor-m43-telogreika-uniform" onclick="_gaq.push(['_trackEvent', 'Bidding', 'Bid now', 'Hot lots']);" class="btn_a">BID NOW</a>
                          </div>  <!-- //itemFooterSold -->
          <div class="bid-box-shadow clear"></div> 
                                     
@@ -427,7 +587,7 @@
             </div></a>
       <a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/" class="a_decor">
           <div class="fl sprites action-btn cwhite pointer prelative z9 ml-1" id="auctioneer_tab"><div class="headertab fs16">
-              SELLERS
+              AUCTIONEERS
               </div>
               
                 <div class="sprites search-action-btn-selected"></div>
@@ -473,7 +633,7 @@
       <div class="fl clgrayftr ml20 gothicbook w220 lh17">
       	<h6 class="cedemi fs15">For Bidders</h6>
         <ul class="bottom-links fs12">
-                        <li><a href="javascript:void(0);" data-location="12-2013" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Auction Calendar</a></li>
+                        <li><a href="javascript:void(0);" data-location="06-2014" onclick="window.location = window.location.protocol+'//'+window.location.host+'/auctioncalendar/'+$(this).data('location')">Auction Calendar</a></li>
             <li><a href="http://www.liveauctioneers.com/search_auctioneers.html">Search Auctioneers</a></li>
             <li><a href="http://www.liveauctioneers.com/all-auctions">All Auctions</a></li>
             <li><a href="http://www.liveauctioneers.com/browse/archive/page1">Past Auctions</a></li>
@@ -487,20 +647,19 @@
       </div>
       <!--//FOR BIDDERS LINKS-->
       
-      <!--FOR ACUTIONEERS LINKS-->
+      <!--FOR AUCTIONEERS LINKS-->
       <div class="fl clgrayftr ml20 gothicbook w220 lh17">
-      	<h6 class="cedemi fs15">For Sellers</h6>
+      	<h6 class="cedemi fs15">For Auctioneers</h6>
         <ul class="bottom-links fs12">
             <li><a href="http://www.liveauctioneers.com/features.html">Services &amp; Features</a></li>
             <li><a href="http://www.liveauctioneers.com/prservices.html">PR Services</a></li>
-            <li><a href="http://www.liveauctioneers.com/testimonials.html">Seller Testimonials</a></li>
+            <li><a href="http://www.liveauctioneers.com/testimonials.html">Auctioneer Testimonials</a></li>
             <li><a href="http://www.liveauctioneers.com/video">Auctions with Video</a></li>
             <li><a href="http://www.liveauctioneers.com/charity/index.html">Charity Auctions</a></li>
             <!-- li><a href="http://www.liveauctioneers.com/how_it_works_auctioneer.php">How It Works</a></li -->
-            <li><a rel="nofollow" class="pull_link" href="http://www.liveauctioneers.com/LIVE2012">2012 In Review</a></li>
-            <li><a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/">Seller Sign-In</a></li>
+            <li><a rel="nofollow" href="http://www.liveauctioneers.com/auctioneers/">Auctioneer Sign-In</a></li>
         </ul>
-        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/becomealiveauctioneer" class="bigboldlink">Become a Live Seller</a></h5>
+        <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/becomealiveauctioneer" class="bigboldlink">Become a Live Auctioneer</a></h5>
       </div>
       <!--//FOR ACUTIONEERS LINKS-->
       
@@ -512,7 +671,15 @@
           <li><a href="http://www.liveauctioneers.com/top20-sold-today-at-auction">Top 20 Highest Price Items Sold</a></li>
         </ul>
         <h5 class="clink pt10"><a href="http://www.liveauctioneers.com/consignments/" class="bigboldlink">Become a Consignor</a></h5>
-      </div>
+        
+        <h6 class="cedemi fs15 mt30">Follow Us</h6>
+        <div class="clear pt10"></div>
+        <a class="fl twit_follow pointer at300b" href="https://twitter.com/liveauctioneers" title="Twitter" target="_blank"></a>
+        <a class="fl fb_follow ml5 pointer at300b" href="https://www.facebook.com/LiveAuctioneers" title="Facebook" target="_blank"></a>
+        <div class="clear pt5"></div>
+        <a class="fl pinterest pointer at300b" href="http://www.pinterest.com/liveauctioneers/" title="Pinterest" target="_blank"></a>
+        <a class="fl linkedin ml5 pointer at300b" href="http://www.linkedin.com/company/liveauctioneers" title="LinkedIn" target="_blank"></a>
+              </div>
       <!--//FOR CONSIGNER LINKS--> 
     </div>
     <!--Footer links-->
@@ -550,7 +717,7 @@ $(document).ready(function(){
 	<!--WRAPPER-->
 	<div class="wrapper">
   	<div class="logo-footer"></div>
-    <div class="footer_copyright">Copyright © 2002–2013 LiveAuctioneers. All Rights Reserved.</div>
+    <div class="footer_copyright">Copyright © 2002–2014 LiveAuctioneers. All Rights Reserved.</div>
     <div class="fr footer cedemi fs15">
     	<ul class="mt25">
       	<li><a href="http://www.liveauctioneers.com/mobile">Mobile</a></li>
@@ -569,7 +736,7 @@ $(document).ready(function(){
         </ul>
     </div>
   </div>
-			<img src="http://www.liveauctioneers.com/stv2/gen_img_px.gif?referer=&amp;path=%2Fprivacy.html&amp;qs=" alt="">
+			<img src="http://www.liveauctioneers.com/stv2/gen_img_px.gif?referer=http%3A%2F%2Fwww.liveauctioneers.com%2F&amp;path=%2Fprivacy.html&amp;qs=" alt="">
 	  <!--//WRAPPER-->
 </div>
 <!--//SITEMAP-->
@@ -582,7 +749,20 @@ $(document).ready(function(){
     })();
 </script>
 <!-- end SnapEngage code -->
-
+<!-- Quantcast Tag Part II-->
+<script type="text/javascript">
+    if (typeof(_qevents) != "undefined") {
+        _qevents.push({
+            qacct:"p-2aAcK94SqGuKs"
+        }); 
+    }
+</script>
+<noscript>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-2aAcK94SqGuKs.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+</noscript>
+<!-- End Quantcast tag Part II-->
 
 
 
