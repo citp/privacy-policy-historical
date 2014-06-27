@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecdir.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827010429id_/http%3A//www.elecdir.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecdir.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060752id_/http%3A//www.elecdir.com/privacy) for the most accurate reproduction.*
 
 # ElecDir - Electronics and Electrical Web Directory - Privacy Policy
 
