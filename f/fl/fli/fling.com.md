@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230092338id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fling.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627055311id_/http%3A//www.fling.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Fling.com - World's Best Personals
 
@@ -12,7 +12,7 @@ FLING.COM PRIVACY POLICY
   
 ---  
   
-Fling Incorporated ("we" or " Fling ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Fling.com website, transactions for purchasing Fling subscription services, and activities or communications that occur using the Fling service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between Fling.com, Fling, or any other company, and consumers. This policy was implemented on January 1, 2003 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
+Fling, LLC ("we" or " Fling ") have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Fling.com website, transactions for purchasing Fling subscription services, and activities or communications that occur using the Fling service (collectively known as the "Service") and does not apply to any other Website or offline point of contact between Fling.com, Fling, or any other company, and consumers. This policy was implemented on January 1, 2003 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
   
 **Your IP Address**
 
@@ -58,7 +58,7 @@ If at any point we decide to use particular personally identifiable information 
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your Fling.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from Fling.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Fling.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com) or by calling +1-305-712-6612. You can also send us mail to: Privacy Officer, Fling Incorporated, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com) or by calling +1-305-712-6612. You can also send us mail to: Privacy Officer, Fling, LLC, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
   
    
   |  
