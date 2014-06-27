@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkgames.net privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221220803id_/http%3A//www.pkgames.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkgames.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627231508id_/http%3A//www.pkgames.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# pkgames.net: Privacy Policy
+# Free Download Full Version: Privacy Policy
 
 ##  Privacy Policy 
 
