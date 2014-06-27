@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110034519id_/http%3A//www.vantagemedia.com/vm/%3Fpage_id%3D394) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vantagemedia.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627120105id_/http%3A//www.vantagemedia.com/%3Fpage_id%3D394) for the most accurate reproduction.*
 
 # Privacy Policy | Vantage Media
+
+Updates as of January 30, 2014
 
 ## Our Practices Regarding Privacy
 
@@ -25,6 +27,8 @@ This information lets us see how users find our sites, and it tells us which pag
 ## Cookies
 
 Our websites use cookies (small files containing program code that reside on your computer), to provide usage statistics about our web site, and to understand where visitors learn about our web site. We also may use cookies to simplify the re-entering of your data. You can adjust your browser settings to opt out of the use of cookies by having your browser disable cookies. Look for the cookie options in your browser in the Options or Preferences menu.
+
+Additionally, we and our third party partners (e.g., third party ad networks or website analytics service providers) use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which may include the pages you visit on our or our partners’ sites, which web address you came from, the type of browser/device/hardware you are using, or an IP-based geographic location, helps us recognize you, customize your website experience and make marketing messages more relevant. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, hardware/software information) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. At this time, we do not respond to browser “do not track” signals, and we do not control third parties' collection or use of your information or whether they respond to these signals. However, we, and these third parties, may provide you with ways to choose not to have your information collected or used in this way. To learn more about targeted ads or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) or [Digital Advertising Alliance website](http://www.aboutads.info/).
 
 ## Contact Information
 
@@ -72,7 +76,8 @@ The definitions for certain terms used in this Privacy Policy are listed below.
 
 Data created by a Web server that is stored on a user’s computer. It provides a way for the Web site to keep track of a user’s patterns and preferences and, with the cooperation of the Web browser, to store them on the user’s own hard disk. The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user’s ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
 
-**IP (Internet Protocol) Address**  
+### IP (Internet Protocol) Address
+
 This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 211.472.58.9.
 
 ### Browser Session
