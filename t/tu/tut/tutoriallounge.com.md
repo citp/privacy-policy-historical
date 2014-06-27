@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tutoriallounge.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210120id_/http%3A//www.tutoriallounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutoriallounge.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627021409id_/http%3A//www.tutoriallounge.com/privacy-policy) for the most accurate reproduction.*
 
-# Tutorial Lounge | Privacy Policy - Tutorial Lounge
-
-### Privacy Policy
+# Privacy Policy - Tutorial Lounge | Tutorial Lounge
 
 When you reached TutorialLounge.com, the privacy of our respected visitors is of great importance to us. This privacy policy document outlines the types of personal information is received and collected by TutorialLounge.com and how it is used.
 
