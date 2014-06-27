@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018002708id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companycheck.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221320id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
 
 # Company Check - Cookie Compliance
 
-[Terms and Conditions](https://web.archive.org/termsandconditions "Terms and Conditions") | [Privacy Statement](https://web.archive.org/privacy "Privacy Statement") | [Refund Policy](https://web.archive.org/refundpolicy "Refunds and Cancellation Policy") | [Cookie Policy](https://web.archive.org/cookies "Cookie Policy")
+[Terms and Conditions](https://web.archive.org/termsandconditions "Terms and Conditions") | [Privacy Statement](https://web.archive.org/privacy "Privacy Statement") | [Refund Policy](https://web.archive.org/refundpolicy "Refund and Cancellation Policy") | [Cookie Policy](https://web.archive.org/cookies "Cookie Policy")
 
 * * *
 
