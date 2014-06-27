@@ -1,141 +1,186 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525132918id_/http%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627023726id_/http%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AustralianSuper - Privacy Policy
 
-### AustralianSuper respects your privacy
+## AustralianSuper respects your privacy
+
+### 1\. Introduction
 
 The following is information about AustralianSuper’s Privacy Policy and the way in which AustralianSuper has implemented the requirements of the Privacy Act 1988.
 
-Protecting your personal information is important to AustralianSuper, and is required by law. The Commonwealth Privacy Act determines that AustralianSuper must handle your personal information in accordance with a set of National Privacy Principles.
+Protecting your personal information is important to us, and is required by law. The Commonwealth Privacy Act determines that we must handle your personal information in accordance with a set of Australian Privacy Principles.
 
-AustralianSuper collects information that is necessary to administer your account and to keep you informed of opportunities available to you as a Fund member.
+You can read AustralianSuper's [Privacy Collection Statement](https://web.archive.org/privacy-collection-statement.aspx) here.
 
-### Authorised use of information by others
+### 2. What personal information is collected and held by AustralianSuper?
 
-AustralianSuper has appointed a Fund administrator, a life insurer and other organisations to provide services to you on our behalf. They are authorised to use your personal information only to administer your Fund account, under the strictest confidence.
+We collect the following kinds of personal information: your name, address, email address, phone number, date of birth, your Tax File Number (TFN), the names of your beneficiaries and employment details including salary information.
 
-From time to time, AustralianSuper may also commission certain external organisations to assist in the provision of services to members (eg. mail-houses, auditors, lawyers and independent consultants who conduct research on member satisfaction).
+In some situations we may collect information about your health, including medical information.
 
-AustralianSuper provides members’ names and contact details to such organisations, but only for the purpose of providing, administering or improving member benefits or services.
+### 3. How does AustralianSuper collect and hold personal information?
 
-Your personal information will not be used or disclosed for any other purpose without your consent, except where required by superannuation, taxation or other relevant law. For example, AustralianSuper’s fund administrator is required to report certain information to the Australian Taxation Office for tax related purposes.
+Personal information is generally collected directly from you or through your employer, adviser, previous superannuation fund, or other representative authorised by you.
 
-### Your personal details
+Health information is collected from you or your employer, adviser, other insurer, or other representative authorised by you and is provided to us or to our insurers.  If required, we obtain independent medical reports directly from your medical practitioner(s).
 
-The personal information collected by AustralianSuper from you, or through your employer, includes your contact details, date of birth and Tax File Number (TFN), and, where relevant, may include certain details about your health, which you have provided.
+For employment candidates, AustralianSuper collects your personal information including employment history and other information during the recruitment process either directly from you or from recruiters. 
 
-Over time, this will be supplemented with financial and other information necessary to administer your account. Additional information may be collected from medical practitioners or from your employer for the purpose of assessing your eligibility for higher levels of insurance cover or for the assessment of a claim. We would only seek such information with your consent.
+Personal information including health information is held and stored by us and/or our administrator.  Our insurers will also hold and store personal and health information in accordance with their own privacy policy.
 
-AustralianSuper has strict security measures in place, and staff who handle your personal information have the knowledge, skills and commitment to protect it from unauthorised access or misuse.
+Once your details have been recorded by our administrator, your original application is securely stored based on the following application method:
 
-### Use and storage of information
-
-When you fill out an application to join AustralianSuper, you are asked to provide information to assist us administer and keep you informed about your account. 
-
-Where you do not complete a joining application, your name, date of birth, address and TFN, will be provided to AustralianSuper by your employer to enable us to accept and process your superannuation contributions. 
-
-The information we collect and store about you includes: name, address, date of birth, TFN, and where you have requested insurance cover for Death, Total & Permanent Disablement (TPD) or Income Protection, certain information about your health.
-
-If AustralianSuper is unable to collect certain personal information from you, such as contact details, date of birth and TFN, it may not be able to administer your benefits. Also, if you don’t provide your TFN, AustralianSuper will be unable to accept personal after-tax contributions from you and additional tax will be deducted from any employer or salary sacrifice contributions made by you or your employer.
-
-### Secure storage of information
-
-Once your details have been recorded by the Fund administrator, your original application is securely stored based on the following application method:
-
-  * paper applications are held at the Fund’s document storage facility 
-  * online applications are stored within our electronic secure network. 
+  * Paper applications are held at our administrator’s document storage facility on our behalf
+  * Online applications are stored within our secure electronic network.
 
 
 
-Access to your information is restricted to staff who require the information to administer your account and provide information and services to you. A system of passwords and different levels of access is used to protect the information held on the system.
+Within AustralianSuper and our administrator, access to your information is restricted to staff who require the information to administer your account and provide information and services to you. A system of passwords and different levels of access is used to protect the information held on the system.
 
-Your TFN is recorded in an encrypted form. It is provided to AustralianSuper to be used only for approved purposes as required by legislation.
+### 4. What are the purposes for which AustralianSuper collects, holds, uses and discloses personal information?
 
-### Information relating to your work
+The personal information we collect will be used by AustralianSuper and its staff to:
 
-Information that we collect about your job title and occupation is used for statistical purposes only, and will not identify you personally. These details enable us to develop a profile of the Fund’s members, and assist in the future development of investment products and other Fund services. Providing this information is optional, as it is not essential information for the administration of your account.
+  * Open and administer your super account, and keep you informed about your super and insurance and opportunities available to you as a Fund member
+  * Ensure you’re eligible for products and services (including insurance)
+  * Help you combine your super accounts and check if you have lost super (when you ask us to); and
+  * Undertake market research, member data analysis and direct marketing activities.
 
-### Nominating your dependants for death benefits
 
-You are asked to advise AustralianSuper of the names of the persons who you would like to receive your superannuation in the event of your death. This information assists the Trustee to distribute your death benefit fairly to your dependants or to your estate.
 
-The Trustee will take your wishes into account, but will also look at all your dependants at the date of your death. Advising AustralianSuper about your relationship with the persons you nominate is not required if you consider this to be an unreasonably intrusive request.
+For employment candidates, AustralianSuper collects your personal information for recruitment purposes, to manage your employment application and, if you are successfully placed in a position at AustralianSuper, your ongoing employment. 
 
-### Keeping your details up to date
+If AustralianSuper can’t collect your personal information from you it will be difficult to perform the activities listed above.
 
-In order to keep your information as current as possible, we ask that you let us know of any changes to your personal details.
+If you submit incomplete or inaccurate information to our insurers, they may not be able to provide you with the insurance cover you are seeking, or complete their assessment of your insurance-related matters.
 
-### You decide on additional information
+### 5. Why does AustralianSuper ask you to nominate your dependants for death benefits?
 
-If you decide at any time that you do not wish AustralianSuper to advise you of opportunities and additional services open to you as a member of AustralianSuper, you can request to not receive this additional information by writing to us.
+You are asked to advise AustralianSuper of the names of the persons who you would like to receive your superannuation in the event of your death. This information assists us to distribute your death benefit fairly to your dependants or to your estate.
 
-### Information provided to our insurer regarding insurance cover in AustralianSuper
+We will take your wishes into account, but will also look at all your dependants at the date of your death. Advising us about your relationship with the persons you nominate is not required if you consider this to be an unreasonably intrusive request.
 
-Our Insurer provides insurance cover for AustralianSuper members for Death, Death and TPD and Income Protection.
+We recommend that you provide any beneficiaries you nominate to us with a copy of AustralianSuper’s Privacy Collection Statement and Privacy Policy and tell them that you have provided AustralianSuper with their name and address details. These details will only be used to manage payment of your super in the event of your death.
 
-AustralianSuper will advise our Insurer of the personal details about you that the Insurer requires to administer and assess insurance-related matters. This information includes your name, date of birth, contact details and information about your health that you have provided to AustralianSuper.
+### 6. To whom does AustralianSuper disclose personal information?
 
-### Information about your health
+We will share your personal information with these service providers:
 
-Our Insurer may contact you to seek your consent to collect additional information about your health if you apply for higher levels of insurance cover. Your consent will always be obtained before any details are requested from your treating doctor or other health service providers.
+  * Our Fund administrator, Superpartners Pty Ltd, to open and administer your super and insurance account and report required information to the Australian Taxation Office for tax related purposes.  Superpartners Pty Ltd may also collect personal information on our behalf directly from you, for example, if you call our contact centre or send us queries, or if further information is required from you to open and administer your account
+  * Our insurers so they can assess your eligibility for insurance and look after any insurance claims (see further information below about insurance claims)
+  * Mail houses to send you information about your account via mail, SMS and email
+  * Independent consultants and market research companies to conduct member data analysis and run member research via phone, mail, SMS or email
+  * Auditors and lawyers for accounting, auditing and legal requirements
+  * Our Online Identification Verification Services provider - where you provide your personal details for the purpose of online data verification, our third party service provider will use your details for this purpose.  Your information will be subject to an information match request in relation to relevant official record holder information and a corresponding information match result will be provided via the use of third party systems.
 
-### Incomplete or inaccurate information
 
-If you submit incomplete or inaccurate information to our Insurer, they may not be able to provide you with the Insurance cover you are seeking, or complete their assessment of your insurance-related matters.
 
-### Information required when making a claim
+These service providers and third parties may be given access to your personal information:
 
-In the event that you claim for either TPD or Income Protection, the relevant Insurer may provide your personal information to AustralianSuper and our fund administrator, to assist with the assessment and administration of the insurance claim. The Insurer may also pass information to claims investigators, medical practitioners, reinsurers, insurance reference bureaus and certain organisations to whom they outsource some functions.
+  * Our web hosting companies to host and manage our websites
+  * Our web and application developers to develop applications, enhance our websites and to test that our applications and websites are working properly
+  * Our Member Direct partner to host and manage our Member Direct platform if you invest in the Member Direct investment option
+  * Our online calculator providers if you provide personal information when using our online calculators
+  * Mail houses to send you direct marketing material
+  * Third parties that have requested information under the Family Law Act about a member’s account
+  * Government bodies, regulatory authorities and law enforcement bodies as required under applicable laws and regulations
+  * Other superannuation, pension and investment fund trustees or administrators if you transfer your investment to another fund
+  * If you die while you are an AustralianSuper member, AustralianSuper may share details about your super and insurance with your dependants, legal personal representative or power of attorney as appropriate. The information we share may include the names of your nominated beneficiaries, your account balance and any insurance amount payable.
 
-If your claim is declined and you take legal action or complain to the Superannuation Complaints Tribunal (SCT), AustralianSuper and our service providers must provide your personal details and information about your health to legal representatives of AustralianSuper and the Insurer, officers of the SCT and court officials.
 
-In all cases where contractors and agents may become aware of your personal information, strict confidentiality arrangements apply. Personal information may only be used for the purpose of administering and assessing your insurance-related matters.
 
-### Your privacy and the internet
+In the event that you claim an insurance benefit for either Total and Permanent Disablement or Income Protection (Temporary Disablement):
 
-What information do we collect?
+  * The relevant insurer may collect personal information from or about you and may provide your personal information to AustralianSuper and our fund administrator, to assist with the assessment and administration of the insurance claim
+  * The insurers may also pass information to claims investigators, medical practitioners, reinsurers, insurance reference bureaus and certain organisations to whom they outsource some functions.  This will be set out in the relevant insurer’s privacy statement.
+
+
+
+If your insurance claim is declined and you take legal action or complain to an external dispute resolution body:
+
+  * AustralianSuper and our service providers must, on request, provide your personal details and information about your health to legal representatives of AustralianSuper and the insurer, officers of the Superannuation Complaints Tribunal, the Financial Ombudsman Service and Court officials.
+
+
+
+For employment candidates, AustralianSuper may disclose your personal information to referees, recruiters and employment screening service providers for the purposes of considering your application for employment.
+
+### 7. Is AustralianSuper likely to disclose personal information to overseas recipients?
+
+Superpartners Pty Ltd may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in Superpartners’ privacy policy at [www.superpartners.com.au](http://www.superpartners.com.au/)).  Your personal information may be accessed by those service providers.
+
+Other instances where your personal information may be accessed by an overseas service provider are:
+
+  * To deliver some emails – only required details will be shared with service providers. These services are provided by Sitecore Australia Pty Ltd out of the USA and also an AustralianSuper contractor out of Sweden
+  * To administer the Member Direct investment option. These services are provided on behalf of UBS Securities Australia Limited (UBS) out of New Zealand
+  * Where you request financial planning advice from Mercer Financial Advice (Australia) Pty Ltd –data entry in financial planning software, reports and first draft Statements of Advice are provided by Mercer’s related entity on behalf of Mercer out of India.
+
+
+
+### 8. How can you manage your communications with AustralianSuper?
+
+Unless you have asked us not to, we may use your email address to send you regular communications about products or services that are related to your AustralianSuper membership.
+
+If you do not wish to receive such information, or previously indicated that you would like to and have now changed your mind, you can log-in to your account at [www.australiansuper.com](http://www.australiansuper.com/) and head to the 'Manage my Communications' section to update your profile, or click the unsubscribe link within the email you receive.
+
+### 9. What information does AustralianSuper collect when you browse our website?
 
 The information we collect about you depends on how you use the AustralianSuper website.
 
-If you visit an unsecured area of the website (an area where you aren’t required to log-in) to read or download information, the only information recorded by us will be the date and time of your visit to the site, the pages viewed, the operating system in use and any information downloaded. We won’t record information that allows us to identify you.
+If you visit an unsecured area of the website (an area where you aren’t required to log-in) to read or download information, the only information recorded by us will be the date and time of your visit to the site, the pages viewed, the operating system in use, your geo-location and any information downloaded. We won’t record information that allows us to identify you, unless you provide your personal information via a web form.
 
-Interactive tools on the website, such as calculators, often require you to enter personal information. We only retain this information where a calculator, or similar tool, provides you with a Statement of Advice, or allows you to save your information and retrieve it at a later time. The information stored will not ordinarily be viewed by AustralianSuper.
+The secure pages (where you log-in) of the AustralianSuper website uses cookies to provide secure, personalised services. A cookie is a small text file sent to the user’s browser that allows the web page server to retrieve information from the computer. Cookies can either be temporary session cookies, or stored permanently on a computer. They are used for a range of purposes, including security and personalising services.
 
-### Cookies
+AustralianSuper also uses cookies on the unsecured pages (where log-ins are not required) of the website site to obtain information regarding the use of the website and to deliver relevant information to you. By using the website you agree to AustralianSuper’s use of technology of this type. You can configure your preferences and options in your browser to reject all cookies, however this means you may be unable to view secure pages of the website.
 
-A cookie is a small text file sent to the user’s browser that allows the web page server to retrieve information from the computer. Cookies can either be temporary session cookies, or stored permanently on a computer. They are used for a range of purposes, including security and personalising services.
+AustralianSuper uses “session” cookies for analytical purposes. These cookies gather visitor behaviour information for analytical purposes. This information is not used to track a visitor, but is instead reported in aggregate to ensure the information delivered to a person via our website is relevant to the person accessing it. If the visitor is registered as a member on our website, they are allocated a unique tracking identification code, however, a third party cannot identify that visitor from the tracking identification code.
 
-The secure pages (where you log-in) of the AustralianSuper website uses cookies to provide secure, personalised services. 
+Third party cookies are also used on our website including the following:
 
-AustralianSuper also uses cookies on the unsecured site to obtain information regarding the use of the website. By using the website you agree to AustralianSuper’s use of technology of this type. You can configure your preferences and options in your browser to reject all cookies, however this means you will be unable to view secure pages.
+  * Flash cookies are used by Adobe Flash to track settings and information on how visitors use the Flash application
+  * Double Click Advertising cookie is used to track delivery of banner advertisements and which advertisements have been displayed to a particular user
+  * Media-Server.com is a Flash cookie to track video views and player settings for the Media-Server Flash video player
+  * YouTube.com tracks information on the video and browser settings of visitors.
 
-### How we handle email
 
-We will preserve the content of any email that you send us, if we believe we have a legal requirement to do so. Your email message content may be monitored for security issues, including where email abuse is suspected. Our response to you may be monitored for quality assurance purposes.
 
-If you provide us with your email address, we may use it to send regular communications such as updates on new and existing products and services. If you do not wish to receive such information, or previously indicated that you would like to and have now changed your mind, you can [log-in](http://www.australiansuper.com/youraccount) to your account and update your email profile, or click the unsubscribe link within the email you received.
+AustralianSuper’s website has links to other internet sites. Once you leave our website, the guidelines of this privacy policy no longer apply. Please read carefully the relevant privacy policies or terms and conditions governing these linked sites to ensure your privacy is protected.
 
-### Security
+Our website may also contain links to the websites of our third party providers of online advice tools. These third party websites may collect information about you, to which AustralianSuper may have access. For more details you need to check the relevant privacy policy of the third party service provider.
 
-AustralianSuper takes many steps to preserve the security of personal information in accordance with this privacy policy. All member information is protected from unauthorised access through the use of secure passwords, usernames and other security procedures. Developments in security and encryption technology are reviewed regularly.
+### 10. How will AustralianSuper communicate changes to its Privacy Policy or Privacy Collection Statement?
 
-### Links
+AustralianSuper may change its privacy policy and privacy collection statement from time to time. We will post any changes on this page and, if the changes are significant, we will provide a more prominent notice on our home page.
 
-AustralianSuper’s website has links to other internet sites. Once you leave AustralianSuper’s website, the guidelines of this privacy policy no longer apply. Please read carefully relevant privacy policies or terms and conditions governing these linked sites to ensure your privacy is protected.
+### 11. How can you access and seek correction of your personal information and lodge privacy complaints?
 
-The AustralianSuper website also contains links to the websites of our third party providers of goods and services. These third party websites may collect information about you, to which AustralianSuper has access. For more details you need to check the relevant privacy policy.
+In order to keep your personal information as current as possible, we ask that you let us know of any changes to your personal details.
 
-### Your rights
+You may ask to see the personal information we hold about you and to have it corrected if necessary. We will need to verify your identity before giving you access. 
 
-As a member of AustralianSuper, you may ask to see the information we hold about you and to have it corrected if necessary.
+We will respond to your request within a reasonable period after the request is made, by either providing you with access or by notifying you of our refusal to give access.
 
-To find out more about the personal information we hold about you, please call AustralianSuper on 1300 300 273.
+In some circumstances, we may not be able to allow you access to your personal information, for example, where:
 
-If you would like more information about the Privacy Act, you can contact the Federal Privacy Commissioner Service on 1300 363 992, or visit the website at [www.privacy.gov.au](http://www.privacy.gov.au/)
+  * Giving access would have an unreasonable impact on the privacy of other individuals
+  * The information relates to existing or anticipated legal proceedings
+  * Giving access would be against the law; or
+  * The information would reveal our commercially sensitive decision making process.
 
-  If you believe your privacy has been breached, you should write to:
 
-> AustralianSuper Privacy Officer  
->  Level 33  
->  50 Lonsdale Street  
->  Melbourne Vic 3000
+
+If we are unable to provide you with access to your personal information, we will notify you of the reasons for the refusal and the complaint mechanism available to you.
+
+If we incur a cost in giving you access to your personal information, we may need to charge you for the associated cost(s).
+
+If you would like to see the personal information we hold about you and have it corrected if necessary, please call AustralianSuper on **1300 300 273**.
+
+If you believe your privacy has been breached or you have a privacy complaint, you should write to:
+
+AustralianSuper Privacy Officer  
+Level 33, 50 Lonsdale Street  
+Melbourne Vic 3000
+
+or email us at: [www.australiansuper.com/email](http://www.australiansuper.com/email)
+
+We will review your complaint and respond within a reasonable period of time after we receive your complaint.  
+ 
