@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountedporn.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021052208id_/http%3A//www.discountedporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountedporn.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627081115id_/http%3A//www.discountedporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Discounted Porn
 
