@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009203711id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemm.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627214707id_/http%3A//www.gemm.com/c/info.cgi%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# GEMM's Privacy Policy
 
 We recognize that ensuring the privacy of our buyers and sellers online is crucial to the GEMM experience and we want to assure our users that we are committed to protecting your privacy online.
 
