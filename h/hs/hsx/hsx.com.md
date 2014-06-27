@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224212844id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627054818id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HSX.com – Privacy Policy
 
 ### Our Privacy Policy
 
-Hollywood Stock Exchange, LLC ("HSX") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This statement reflects the privacy policy of Hollywood Stock Exchange, LLC ("HSX"), the owner and operator of the Hollywood Stock Exchange, with respect to the web site located at www.hsx.com and www.hollywoodstockexchange.com (the "Site").
-
-[](https://privacy.truste.com/privacy-seal/Hollywood-Stock-Exchange,-LLC/validation?rid=d75a73ec-dfe6-4937-a1c4-b41ec2c9feab "TRUSTe online privacy certification")
-
-If you have questions or concerns regarding this statement, you should first contact Customer Support by e-mail at support@hsx.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-This statement is intended to inform casual visitors of the Site, and visitors who participate in the Hollywood Stock Exchange, of the data collection and use practices of the Site. Amendments to this statement will be posted on this Site and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof, except if your personally identifiable information will be used in a materially different manner. See our Notification of Changes section below.
+Please read the following to learn more about the privacy policy of Hollywood Stock Exchange, LLC ("HSX"), the owner and operator of the Hollywood Stock Exchange, with respect to the web site located at www.hsx.com and www.hollywoodstockexchange.com (the "Site"). This statement is intended to inform casual visitors of the Site, and visitors who participate in the Hollywood Stock Exchange, of the data collection and use practices of the Site. Amendments to this statement will be posted on this Site and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof, except if your personally identifiable information will be used in a materially different manner. See our Notification of Changes section below.
 
 ### Personally Identifiable Information
 
@@ -118,4 +112,4 @@ All inquiries concerning this statement and the Site in general may be sent to C
 
 Thank you for visiting Hollywood Stock Exchange. 
 
-This page was last updated on August 20, 2013. 
+This page was last updated on February 4, 2014. 
