@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224114156id_/http%3A//www.flir.com/corporate/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flir.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627203058id_/http%3A//www.flir.com/corporate/en/privacy) for the most accurate reproduction.*
 
 # FLIR Systems, Inc. Privacy Policy
 
@@ -65,7 +65,7 @@ Webmaster
 FLIR Systems, Inc.  
 27700 SW Parkway Avenue  
 Wilsonville, OR 97070  
-[webmaster@flir.com](mailto:webmaster@flir.com)
+Email: webmaster at flir.com
 
 ### Notification of Changes
 
