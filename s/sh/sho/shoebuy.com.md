@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229103910id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627053445id_/http%3A//www.shoebuy.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Shoebuy.com - Free Shipping & Return Shipping
+# Privacy Policy - Shoebuy.com - FREE Shipping & Returns
 
 Shoebuy.com, Inc. is part of the IAC family of businesses, which has grown in recent years to include over 60 brands including, in addition to Shoebuy, Ask.com, Match.com, Citysearch, Vimeo, ServiceMagic, Gifts.com, Pronto and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Shoebuy has revised its [Privacy Policy](https://web.archive.org/info/privacy-more), effective August 22, 2008, consistent with the IAC privacy commitment and standard privacy policy format. Refer to our [FAQs](https://web.archive.org/info/privacy-faq) for details about the changes. Please review both the Consumer Privacy statement and this site's complete Privacy Policy. 
 
