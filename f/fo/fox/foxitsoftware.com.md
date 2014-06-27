@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111231721id_/http%3A//www.foxitsoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627042835id_/http%3A//www.foxitsoftware.com/privacy.php) for the most accurate reproduction.*
 
 # Foxit Corporation Privacy
 
