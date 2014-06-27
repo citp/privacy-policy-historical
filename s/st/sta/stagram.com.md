@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102004529id_/http%3A//web.stagram.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133840id_/http%3A//web.stagram.com/pp) for the most accurate reproduction.*
 
-# WEBSTAGRAM PRIVACY POLICY | Webstagram - the best Instagram viewer
+# PRIVACY POLICY | Websta
 
 _Last modified: November 14, 2012_
 
-This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Webstagram website at [web.stagram.com](http://web.stagram.com/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This Privacy Policy describes how A-FIS PTE. LTD., a Singapore corporation (“We”, “Us”, “Our”) handles your personal information for our services on Websta website at [web.stagram.com](http://web.stagram.com/) (“Site”). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 ## 1\. Information collection and use
 
