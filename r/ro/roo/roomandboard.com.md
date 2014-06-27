@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515095159id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627184558id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.*
 
 # Privacy Policy - Our Website - Room & Board
 
-Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at [www.roomandboard.com/privacy/](http://www.roomandboard.com/rnb/our_website/privacy.ftl). You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.
+Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at [www.roomandboard.com/privacy/](http://www.roomandboard.com/our_website/privacy.ftl). You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.
 
 ### Basic Privacy Principles
 
@@ -32,7 +32,7 @@ We will comply with our credit card merchant banks' requirements for the use and
 
 ### Web Site
 
-In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web site ([roomandboard.com](http://www.roomandboard.com/rnb/)).
+In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web site ([roomandboard.com](http://www.roomandboard.com/)).
 
 Our Web site allows you to shop our catalog and place orders by use of an e-commerce system that may be provided, in whole or in part, by one or more third party e-commerce providers. The portions of our Web site that allow you to place an order by giving your personal information use industry standard encryption methods such as secure-socket layer ('HTTPS') technology to protect your information while in transit between your computer, our computers, and our third party e-commerce providers' systems. Also, all of your sensitive personal information (for example your credit card data and your order information) is encrypted while it is being processed and stored by us and our third party e-commerce providers. Once your order has been received by us, we then process and fulfill your order using our normal catalog ordering system subject to the privacy policies described above. Our third party e-commerce providers are under contract with us to maintain the confidentiality and security of your sensitive personal information, and not to use it for any purpose other than assisting with the transactions in your own orders.
 
@@ -56,7 +56,7 @@ If you request to receive information from us, we will naturally presume that yo
 
 Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you.
 
-If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: [http://www.roomandboard.com/rnb/#unsubscribe](http://www.roomandboard.com/#unsubscribe)
+If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: <http://www.roomandboard.com/#unsubscribe>
 
 We love to send you our annual catalog but only if you want it. Because of that, we've joined Catalog Choice, an organization that lets consumers indicate which catalogs they no longer wish to receive. If you would prefer to not receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, please visit catalogchoice.org.
 
@@ -64,7 +64,7 @@ You can also call our Customer Service telephone line at 800.301.9720 to be remo
 
 ### Correcting or updating your information
 
-Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/](https://www.roomandboard.com/rnb/shop/account/detail.do).
+Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/](https://www.roomandboard.com/shop/account/detail.do).
 
 ### Privacy Officer
 
