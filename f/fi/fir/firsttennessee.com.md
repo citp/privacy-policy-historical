@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816082240id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627195208id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
@@ -33,7 +33,7 @@ Can you limit this sharing?
 **For our affiliates' everyday business purposes-** information about your transactions and experiences | Yes | No  
 **For our affiliates' everyday business purposes-** information about your creditworthiness | Yes | Yes  
 **For our affiliates to market to you** | Yes | Yes  
-**For nonaffiliates to market to you** | No | We don't share  
+**For non-affiliates to market to you** | Yes | Yes  
   
 ### To limit our sharing
 
@@ -43,6 +43,12 @@ Call 877-242-9880 - our menu will prompt you through your choice(s)
 If you are a _new customer_ , we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.
 
 However, you can contact us at any time to limit our sharing. 
+
+### Once I limit sharing, what if I change my mind?
+
+If you have Opted Out of sharing, but you have changed your mind and would like to authorize us to share your information for permissible purposes (including to non-affiliates for marketing purposes), you may Opt-In by submitting a written request. [Click here](https://web.archive.org/global/Privacy/2014-Opt-In-Form/) to download an easy form to complete and give us permission to begin sharing your information for marketing and other permissible purposes.
+
+Once you download the form, please complete it and mail your Opt-In Authorization request to: Account Services/Account Records Dept. - FOPW, 3451 Prescott, Memphis, TN 38118 for processing. Due to state privacy laws, the Opt-In form is Not for use with Residents of California, Illinois, North Dakota or Vermont.
 
 ### Questions?
 
@@ -72,9 +78,10 @@ We also collect your personal information from others, such as credit bureaus, a
 **Why can't I limit all sharing?**  
 Federal law gives you the right to limit only 
 
-  * sharing for affiliates' everyday business purposes - information about your creditworthiness 
+  * sharing for affiliates' everyday business purposes
+  * information about your creditworthiness 
   * affiliates from using your information to market to you 
-  * sharing for nonaffiliates to market to you 
+  * sharing for non-affiliates to market to you 
 
 
 
@@ -86,18 +93,14 @@ Your choices will apply to everyone on your account.
 ### Definitions
 
 **Affiliates**  
-Companies related by common ownership or control. They can be financial and nonfinancial companies 
+Companies related by common ownership or control. They can be financial and non-financial companies 
 
   * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as FTB Advisors Insurance Services, Inc._
 
 
 
-**Nonaffiliates**  
+**Non-affiliates**  
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
-
-  * _The First Horizon and First Tennessee family of companies does not share with nonaffiliates so they can market to you._
-
-
 
 **Joint marketing**  
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
@@ -108,13 +111,13 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 ### Other Important Information
 
-**For California Residents:** You will receive information concerning additional choices provided to you under state law.
+**For California Residents:** We will not share personal information with affiliates or non-affiliates except as necessary for us to follow the law or as permitted by law.
 
-**For Vermont Residents:** You will receive information concerning additional choices provided to you under state law.
+**For Vermont Residents:** We will not share your personal information with our affiliates or with non-affiliates to market their products and services to you. We will not use your personal information to market our affiliates' or non-affiliates' products or services to you. We may provide your name, contact information, and transaction information to companies that perform marketing services for us or to financial institutions with which we have joint marketing agreements.
 
-**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial institutions.
+**For Illinois and North Dakota Residents** We do not share your personal information for joint marketing with other financial institutions. We do not share your personal information with non-affiliates to market their products or services to you.
 
-**For Insurance (Including Annuity) Customers:** Residents of certain states may receive additional information concerning use and sharing of your personal information.
+**For Insurance (Including Annuity) Customers:** We do not share information we collect related to any insurance transaction with us with non-affiliates to market to you. Residents of certain states may receive additional information concerning use and sharing of information we collect related to an insurance transaction with us.
 
 ### The First Horizon and First Tennessee Family of Companies:
 
@@ -123,13 +126,10 @@ First Horizon Bank¹
 First Horizon Equity Lending¹  
 First Horizon Home Loans¹  
 First Horizon Insurance Services, Inc.  
-First Tennessee Advisory Services, Inc.  
 First Tennessee Bank National Association  
-First Tennessee Brokerage, Inc.  
 FTB Advisors, Inc.  
 FTB Advisors Insurance Services, Inc  
 First Tennessee Home Loans¹  
-First Tennessee Insurance Services, Inc.  
 FTN Financial Capital Markets¹  
 FTN Financial Main Street Advisors, LLC  
 FTN Financial Securities Corp.  
@@ -137,6 +137,4 @@ FTN Financial Securities Corp.
 
 ¹A division of First Tennessee Bank National Association
 
-[Click here](https://web.archive.org/global/Privacy/CaliforniaNotice/ "Click here") for important privacy choices for California consumers.
-
-Rev 4/2013
+Rev 4/2014
