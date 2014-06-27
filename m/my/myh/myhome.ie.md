@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103122035id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627070227id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
 
 # MyHome.ie Help - Privacy Statement - MyHome.ie
 
@@ -29,15 +29,15 @@ Like most websites, we gather statistical and other analytical information colle
 
 ## 3\. How we use your information
 
-We may use the personal data< for the following purposes;
+We may use the personal data for the following purposes;
 
   * for statistical analysis
   * to contact you in relation to [property sales and rentals](https://web.archive.org/)
   * to provide you with information regarding property sales and rentals
   * to respond to any queries you submit to us
   * to seek your views on our site and our services
-  * to provide you with information on ancillary services offered by us or our business partners e.g. [mortgage](https://web.archive.org/mortgages) or legal services, [shopping & services](https://web.archive.org/services), moving home or selling our house advice etc
-  * to send you [newsletters](https://web.archive.org/newsletter) or other forms of communication in relation to the latest changes to the site, products, services or promotional offers that you might find interesting
+  * to provide you with information on ancillary services offered by us or our business partners e.g. [mortgage](https://web.archive.org/mortgages) or legal services, [shopping & services](https://web.archive.org/services)shopping & services, moving home or selling our house advice etc
+  * to send you [newsletters](https://web.archive.org/newsletter)newsletters or other forms of communication in relation to the latest changes to the site, products, services or promotional offers that you might find interesting
   * to send you messages or data to your mobile phone where you have provided us with mobile phone details and requested such information
   * where you have consented to the sharing of your information with third parties
 
