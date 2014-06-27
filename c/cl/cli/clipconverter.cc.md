@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224072957id_/http%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipconverter.cc privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013405id_/http%3A//www.clipconverter.cc/terms/%23privacy) for the most accurate reproduction.*
 
-# Terms of Use - ClipConverter.cc
+# Podmínky použití - ClipConverter.cc
 
-## Terms of Use
+## Podmínky použití
 
-This ClipConverter Service Agreement describes the terms and conditions on which www.clipconverter.cc offer services to you. ClipConverter is operated by Lunaweb Ltd, Postfach 11 47, 85739 Garching / Germany. By using ClipConverter services, you agree to be bound by the following terms and conditions: 
+This ClipConverter Service Agreement describes the terms and conditions on which www.clipconverter.cc ("ClipConverter") offer services to you. ClipConverter is operated by Lunaweb Ltd, Postfach 11 47, 85739 Garching / Germany. By using ClipConverter services, you agree to be bound by the following terms and conditions: 
 
   1. The use of ClipConverter is governed by German law with the following modifications and explanations to be considered. 
-  2. You are the only responsible for the data which it sends to ClipConverter servers. One is reminded that the illicit exchanges of recordings and protected works as well as the hacking harm artistic creation. One is reminded that also non the respect of the laws in force, in particular those concerning the respect of the intellectual and artistic property, can give place to continuations and judgments. 
-  3. You agree to not use ClipConverter services to upload any content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party. 
-  4. It is the only purpose of ClipConverter to create a copy of downloadable online-content for the private use ("fair use"). Any further use of the content transmitted by ClipConverter, particularly but not exclusively making the content publicly accessible or using it commercially, must be agreed upon with the holder of the rights of the respective downloaded content. The user bears full responsibility for all actions related to the data transmitted by ClipConverter. ClipConverter does not grant any rights to the contents, as it only acts as a technical service provider. 
-  5. The user carries full responsibility for checking the legitimacy of his use of ClipConverter. ClipConverter only provides the technical service. Hence, ClipConverter does not take liability towards the user or any third party for the permissibility of downloading content through ClipConverter. 
-  6. ClipConverter is a free service, which does not offer any guarantee of any kind as for its use. 
-  7. ClipConverter reserves the right to change or discontinue any of the Services at any time. 
-  8. The legal venue shall, if admissible, be Munich, Germany. 
+  2. You are the only responsible for the data (e.g. URLs) which it sends to the ClipConverter service. One is reminded that the illicit exchanges of recordings and protected works as well as the hacking harm artistic creation. One is reminded that also non the respect of the laws in force, in particular those concerning the respect of the intellectual and artistic property, can give place to continuations and judgments. 
+  3. ClipConverter is meant for creating a recording / copy of downloadable online videos for the personal use ("fair use"). Any further use of the content downloaded / recorded by ClipConverter, particularly but not exclusively making the content publicly accessible or using it commercially, must be agreed upon with the holder of the rights of the respective downloaded content. The user bears full responsibility for all actions related to the data transmitted by ClipConverter. ClipConverter does not grant any rights to the contents, as it only acts as a technical service provider. 
+  4. The user carries the responsibility for checking the legitimacy of his use of ClipConverter. The legitimacy of using this service may differ in the users country through local laws. ClipConverter only provides the technical platform. Hence, ClipConverter does not take liability towards the user or any third party for the permissibility of downloading content through ClipConverter. 
+  5. ClipConverter is a free service, which does not offer any guarantee of any kind as for its use. 
+  6. ClipConverter reserves the right to change or discontinue any of the Services at any time. 
+  7. The legal venue shall, if admissible, be Munich, Germany. 
 
   
 
