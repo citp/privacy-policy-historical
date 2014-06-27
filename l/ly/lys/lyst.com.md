@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207230407id_/http%3A//www.lyst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627052545id_/http%3A//www.lyst.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookies
+# Privacy & Cookies | Lyst
 
 TO OUR COMMUNITY  
 If this sort of thing interests you, we would like your feedback on this Privacy Policy and our Terms of Service. My hope is that we will make changes as your use of the new version of Lyst evolves over the coming months. Feel free to [email me](mailto:cm@ly.st) directly with any questions, comments and suggestions.  
@@ -100,11 +100,7 @@ When you register for an account at our Website, you consent to receive email or
 
 Lyst may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-## 9\. TRADEMARKS
-
-Lyst's policy on trademarks is available [here](https://web.archive.org/trademark/)
-
-## 10\. QUESTIONS OR CONCERNS
+## 9\. QUESTIONS OR CONCERNS
 
 If you have any questions or concerns regarding privacy on our Website, please send us a detailed message [here.](mailto:privacy@lyst.com) We will make every effort to resolve your concerns.
 
