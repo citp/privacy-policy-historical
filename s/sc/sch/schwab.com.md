@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075048id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221256id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Charles Schwab
 
@@ -78,10 +78,10 @@ _
 If you are a Vermont resident, we will automatically limit sharing of your information. Nevada law requires us to disclose that you may request to be placed on Schwab's internal "do not call" list at any time by calling **800-435-4000** , and that we are providing this notice to you pursuant to state law, and that you may obtain further information by contacting the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; phone **702-486-3132** ; email [BCPINFO@ag.state.nv.us](mailto:%20BCPINFO@ag.state.nv.us).
 
 Charles Schwab, U.K., Limited   
-Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the United Kingdom or Switzerland to Charles Schwab & Co., Inc. and processes personal information in accordance with the privacy policy of Schwab and various privacy laws of the United Kingdom. Clients introduced by Schwab U.K. may obtain further information at [www.schwab.co.uk](http://www.schwab.com/redirect/?url=http://www.schwab.co.uk).
+Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the United Kingdom or Switzerland to Charles Schwab & Co., Inc. and processes personal information in accordance with the privacy policy of Schwab and various privacy laws of the United Kingdom. Clients introduced by Schwab U.K. may obtain further information at [www.schwab.co.uk](http://www.schwab.co.uk/).
 
 Charles Schwab, Hong Kong, Limited   
-Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com/redirect/?url=http://www.schwab.com.hk).
+Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com.hk/).
 
 © 2013 Charles Schwab & Co., Inc. All rights reserved. Member SIPC. Charles Schwab & Co., Inc. and optionsXpress, Inc. (Member SIPC) are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation. CS19160-01 REG60835-02 (05/13) 00097408  
   
