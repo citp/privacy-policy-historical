@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlschase.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809123005id_/http%3A//www.girlschase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlschase.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627145027id_/http%3A//girlschase.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Girls Chase
 
