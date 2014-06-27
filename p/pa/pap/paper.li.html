@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2013-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131214093502id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627133145id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xmlns:paperli="http://paper.li/ns#"><head>
+    
     <title>Privacy</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -26,92 +27,71 @@
   <link href="http://d197nsfq0bri0.cloudfront.net/images/fb-post-logo-new.png" rel="image_src">
 
 
-    <meta name="viewport" content="width=device-width, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.paper.li/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.paper.li/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="http://static.paper.li/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://d2k854fi3lpqb8.cloudfront.net/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://d2k854fi3lpqb8.cloudfront.net/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="http://d2k854fi3lpqb8.cloudfront.net/apple-touch-icon-precomposed.png">
     
-    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WHR7NJ"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript">
       paperli = window.paperli || {};
       paperli.locale = 'en';
       paperli.logged_in = false;
       paperli.host = 'paper.li';
-      paperli.imageproxy_token = {"tokenValidity":"1387014302550","token":"5dc73ee1e3467c446f4ef54ff0a6fe6bad03787c"};
+      paperli.imageproxy_token = {"tokenValidity":"1403876506476","token":"5b79b93512eac830eada2d31819da27d40e78c51"};
     </script>
 
-    <link href="http://static.paper.li/assets/application-6e691643589590e5a8ed678b78a416d3.css" media="all" rel="stylesheet" type="text/css">
-    <link href="http://static.paper.li/assets/icons-fe22bc0960a1745b546c728f17d1b084.css" media="all" rel="stylesheet" type="text/css">
+    <link href="http://d2k854fi3lpqb8.cloudfront.net/assets/application-92d0f1db8b2469e218b8edc9cfa5365f.css" media="all" rel="stylesheet" type="text/css">
+    <link href="http://d2k854fi3lpqb8.cloudfront.net/assets/icons-ee187c81fc256ac9e53d2d17c39510a9.css" media="all" rel="stylesheet" type="text/css">
     
-      <script type="text/javascript">
+      <script>
     "seo ignore"; // seo hint;
-    
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-15250297-1']);
-    _gaq.push(['_setDomainName', 'paper.li']);
-    _gaq.push(['_setAllowLinker', true]);
-      _gaq.push(['_trackPageview']);
-    
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    
-    /* social tracking */
     
     var _ga = _ga || {};
     
-    _ga.getSocialActionTrackers_ = function(
-        network, socialAction, opt_target, opt_pagePath) {
+    _ga.getSocialActionTrackers_ = function(socialNetwork, socialAction, socialTarget) {
       return function() {
-        var trackers = _gat._getTrackers();
+        var trackers = ga.getAll();
         for (var i = 0, tracker; tracker = trackers[i]; i++) {
-          tracker._trackSocial(network, socialAction, opt_target, opt_pagePath);
+          tracker.send('social', socialNetwork, socialAction, socialTarget);
         }
       };
     };
     
-    _ga.trackFacebook = function(opt_pagePath) {
+    _ga.trackFacebook = function() {
       try {
         if (FB && FB.Event && FB.Event.subscribe) {
-          FB.Event.subscribe('edge.create', function(opt_target) {
-            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'like',
-                opt_target, opt_pagePath));
+          FB.Event.subscribe('edge.create', function(targetUrl) {
+            ga(_ga.getSocialActionTrackers_('facebook', 'like', targetUrl));
           });
-          FB.Event.subscribe('edge.remove', function(opt_target) {
-            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'unlike',
-                opt_target, opt_pagePath));
+          FB.Event.subscribe('edge.remove', function(targetUrl) {
+            ga(_ga.getSocialActionTrackers_('facebook', 'unlike', targetUrl));
           });
-          FB.Event.subscribe('message.send', function(opt_target) {
-            _gaq.push(_ga.getSocialActionTrackers_('facebook', 'send',
-                opt_target, opt_pagePath));
+          FB.Event.subscribe('message.send', function(targetUrl) {
+            ga(_ga.getSocialActionTrackers_('facebook', 'send', targetUrl));
           });
         }
       } catch (e) {}
     };
     
     
-    _ga.trackTwitterHandler_ = function(intent_event, opt_pagePath) {
-      var opt_target; //Default value is undefined
-      if (intent_event && intent_event.type == 'tweet' ||
-              intent_event.type == 'click') {
+    _ga.trackTwitterHandler_ = function(intent_event) {
+      var targetUrl = ''; // must be present
+      if (intent_event && intent_event.type == 'tweet' || intent_event.type == 'click') {
         if (intent_event.target.nodeName == 'IFRAME') {
-          opt_target = _ga.extractParamFromUri_(intent_event.target.src, 'url');
+          targetUrl = _ga.extractParamFromUri_(intent_event.target.src, 'url');
         }
-        var socialAction = intent_event.type + ((intent_event.type == 'click') ?
-            '-' + intent_event.region : ''); //append the type of click to action
-        _gaq.push(_ga.getSocialActionTrackers_('twitter', socialAction, opt_target,
-            opt_pagePath));
+        var socialAction = intent_event.type + ((intent_event.type == 'click') ? '-' + intent_event.region : ''); //append the type of click to action
+        ga(_ga.getSocialActionTrackers_('twitter', socialAction, targetUrl));
       }
     };
     
-    _ga.trackTwitter = function(opt_pagePath) {
+    _ga.trackTwitter = function() {
       intent_handler = function(intent_event) {
-        _ga.trackTwitterHandler_(intent_event, opt_pagePath);
+        _ga.trackTwitterHandler_(intent_event);
       };
     
       //bind twitter Click and Tweet events to Twitter tracking handler
@@ -150,28 +130,28 @@
 </script>
 
     <!-- vendor plugins -->
-    <script src="http://static.paper.li/assets/vendor-e58aace66323fcda7960e69c5f4c3fbf.js" type="text/javascript"></script>
+    <script src="http://d2k854fi3lpqb8.cloudfront.net/assets/vendor-b933223fe6feff8b906aa36263791baf.js" type="text/javascript"></script>
 
     <!-- language -->
-    <script src="http://static.paper.li/assets/i18n/en-caf2e36f41fd21c744d4586cc19c54f4.js" type="text/javascript"></script>
-    <script src="http://static.paper.li/assets/i18n/i18n-dee887c118135b977dffba901e89b51d.js" type="text/javascript"></script>
-
-    <!-- configuration -->
-    <script src="http://static.paper.li/assets/conf/app/default-1e57fb855d7e85b0e147653758c7315a.js" type="text/javascript"></script>
-    <script src="http://static.paper.li/assets/conf/featured_sources/main/en-ef0c7e7df803b16df754b6bcfb66a705.js" type="text/javascript"></script>
-    <script src="http://static.paper.li/assets/conf/search_sources_providers/default-1cb3497311501850826366159ccd4439.js" type="text/javascript"></script>
-
-    <!-- main inclusion -->
-    <script src="http://static.paper.li/assets/app-aaa080d74500884d3e2061fbd293cab8.js" type="text/javascript"></script>
-    
-    
-
-      <link href="http://static.paper.li/assets/static-cfd4783405a909685617fa6ba62ea3fd.css" media="all" rel="stylesheet" type="text/css">
-
+    <script src="http://d2k854fi3lpqb8.cloudfront.net/assets/i18n/en-56ed62d6aa5ccf07378d43b91ae5c06b.js" type="text/javascript"></script>
+    <script src="http://d2k854fi3lpqb8.cloudfront.net/assets/i18n/left-sidebar/en-75176694b2cc7183956f632afdb22c88.js" type="text/javascript"></script>
+    <script src="http://d2k854fi3lpqb8.cloudfront.net/assets/i18n/i18n-4fd2f19c98cd62aecd3b8325ddc757e3.js" type="text/javascript"></script>
 
     <!-- plugin language initialization -->
     
     
+
+    
+    <!-- main inclusion -->
+    <script src="http://d2k854fi3lpqb8.cloudfront.net/assets/app-c8216a770af6456a6407dfe3c5b8fb71.js" type="text/javascript"></script>
+
+      <link href="http://d2k854fi3lpqb8.cloudfront.net/assets/static-0191b3342c0545318b93ba15ca3055d4.css" media="all" rel="stylesheet" type="text/css">
+
+    
+    <!-- admin inclusions -->
+    
+    
+
 
     <meta name="google-site-verification" content="wFFH4bLMmgYz1xXS9FCutijYdbwmOhKCr9z9uWMdslc">
     <script>
@@ -183,19 +163,29 @@
     identifier: 'paper.li:main',
     kiosk: false,
     paper_on_domain_alias: false,
-    assets_host: 'static.paper.li'
+    assets_host: 'd2k854fi3lpqb8.cloudfront.net'
   };
   
 </script>
   </head>
-  <body class="static-show  ">
+  <body class=" ">
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNLXQC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHR7NJ');</script>
+<!-- End Google Tag Manager -->
+
     <div id="fb-root"></div>
 <script>
   "seo ignore"; // seo hint;
 
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : paperli.conf.facebook_app_id, // App ID
+      appId      : 362293833600, // App ID
       channelUrl : '//paper.li/channel.html', // Channel File
       status     : true, // check login status
       cookie     : true, // enable cookies to allow the server to access the session
@@ -217,83 +207,59 @@
      ref.parentNode.insertBefore(js, ref);
    }(document));
 </script>
-
-    <!-- WEBSITE MAIN WRAPPER -->
-    <div id="wrapper" class="page-frame">
-      <!-- Main header -->
-      <div id="header" class="page-row">
-        <div class="navbar navbar-fixed-top center">
-  <div class="navbar-inner">
-    <div class="container">
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </a>
- 
-      <a href="http://paper.li/" class="brand brand-logo">
-        <img style="margin-bottom: -4px; margin-top: -7px;" alt="Paper.li" src="http://static.paper.li/assets/logos/logo_paperli_dark-feec93402c48b3db7e5ca71e112cadfb.png">
-</a> 
-        <div class="nav-collapse collapse">
-          <ul class="nav pull-right">
-            <li class="dropdown">
-              <a id="drop1" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-lightbulb"></i> Learn more <b class="caret"></b></a>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                <li><a href="/learn-more.html" tabindex="-1">How it works</a></li>
-                <li><a href="/pro.html" tabindex="-1">Paper.li Pro</a></li>
-                <li class="divider"></li>
-                <li><a href="http://community.paper.li" tabindex="-1">Community blog</a></li>
-                <li><a href="http://blog.paper.li" tabindex="-1">Product blog</a></li>
-              </ul>
-            </li>
-            <li>
-              <a href="/newsstand">
-                <i class="icon-th-list"></i><span class="nav-text"> Newsstand</span>
-</a>            </li>
-            <li>
-              <a href="#" class="signin">
-                <i class="icon-user"></i><span class="nav-text"> sign up / log in</span>
-</a>            </li>
-          </ul>               
-        </div>
-    </div>
+    <div class="page-wrapper">
+      <!-- WEBSITE MAIN WRAPPER -->
+      <div id="wrapper" class="page-frame">
+          <!-- Main header with sidebar controls -->
+          <div class="nav-controls">
+  <div class="controls-left">
+    <a id="ls_control" href="#" class="cnt-sidebar"><i class="icon-reorder icon-large"></i>
+      <span class="rollover hidden-phone" "="">
+        <img class="paperli-logo" alt="Paper.li" src="http://d2k854fi3lpqb8.cloudfront.net/assets/logos/logo_paperli_dark-feec93402c48b3db7e5ca71e112cadfb.png">
+        <span class="menu">Menu</span>
+      </span>
+    </a>
+  </div>
+  
+  <div class="controls-right">
   </div>
 </div>
 
-      </div>
-
-      <!-- ALERTS AND NOTIFICATIONS AREA -->
-      <div id="alerts">
-        
+          
+          <!-- Custom header -->
+  
+        <!-- ALERTS AND NOTIFICATIONS AREA -->
+        <div id="alerts">
+          
 <div id="ie_banner" class="m-banner m-warning">
+  <a class="close hide-me pull-right" href="#"><i class="icon-remove"></i></a>
   <div class="message"></div>
-  <a class="close hide-me" href="javascript:;"><i class="icon-remove"></i></a>
 </div>
 
-        <noscript>
-   <div id="alertbar" class="m-banner m-warning" style="display:block">
-     <div class="message">
-       <span style="font-size: 16px;">Please enable Javascript to correctly display the contents on Paper.li</span>
-     </div>
-   </div>
+          <noscript>
+  <div id="alertbar" class="m-banner m-warning" style="display:block">
+    <div class="message">
+      <span style="font-size: 16px;">Please enable Javascript to correctly display the contents on Paper.li</span>
+    </div>
+  </div>
 </noscript>
-      </div>
-
-      <!-- Sticky container for flash messages -->
-      <div id="sticky-container" data-spy="affix" data-offset-top="1">
-        
-        <div id="flash-message-js"></div>
-      </div>
+        </div>
   
-      <!-- Main content -->
-      
+        <!-- Sticky container for flash messages -->
+        <div id="sticky-container">
+          
+          <div id="flash-message-js"></div>
+        </div>
+    
+        <!-- Main content -->
+        
 
 <div class="container">
   <div class="row">
     <div id="page-sidebar" class="span3">
       <h1 class="ph-title">Privacy Policy</h1>
       <h2 class="ph-subtitle">LAST REVISED October 1, 2013</h2>
-      <p>Welcome to <a href="http://www.paper.li">www.paper.li,</a> a service operated by SmallRivers SA ("<a href="http://www.smallrivers.com">SmallRivers</a>"). We’ve made a change to our email policy. Paper.li publishers now have access to the email addresses of their subscribers.</p>
+      <p>Welcome to <a href="http://www.paper.li">www.paper.li,</a> a service operated by SmallRivers SA ("<a href="http://www.smallrivers.com">SmallRivers</a>"). We've made a change to our email policy. Paper.li publishers now have access to the email addresses of their subscribers.</p>
     </div>
     <div id="page-window" class="span9">
       <div id="page-body" class="text-style">
@@ -308,7 +274,7 @@
           <li><p>Traffic data (data processed for the purpose of the conveyance of Paper.li or the billing thereof, including, but not limited to, the number of views, location of viewers, user interactions with the Twitter service if performed directly on Paper.li pages, etc.).</p></li>
         </ul>
                 <span class="anchor" id="cookies"></span>
-		<p><b>Cookies</b>: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. </p>
+    <p><b>Cookies</b>: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer's hard disk. Paper.li may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. </p>
         <h2>How do we use this information and for what purpose?</h2>
         <p>Our primary purpose in collecting information is to provide you with a safe, smooth, efficient, and customized experience. Paper.li and SmallRivers collect and process, or have third party service providers acting on SmallRivers' behalf collecting and processing, personal data relating to you, as permitted or necessary to:</p>
         <ul class="list-bullet">
@@ -324,7 +290,7 @@
 <p>Email addresses</p>
         <p><strong>Paper.li Members (registered with Paper.li):</strong> SmallRivers uses your email address to contact you with Paper.li service updates, marketing and promotional material and newsletter alerts to the newspapers to which you are subscribed.
 </p>
-       <p>If you no longer wish to receive company communication from us, you can unsubscribe to these notifications anytime via the footer of the email or by updating your “preferences” information under your account settings.
+       <p>If you no longer wish to receive company communication from us, you can unsubscribe to these notifications anytime via the footer of the email or by updating your 'preferences' information under your account settings.
 </p>
       <p>If you no longer wish to receive newsletter alerts for a specific paper to which you are subscribed, you can unsubscribe at any time via the footer of the email alert.
 </p>
@@ -334,7 +300,7 @@
      </p><p><strong>Transmission of email address to Paper.li Pro publishers:</strong></p>
      <p>The email address of both Paper.li Members and non Paper.li Members are transmitted to the publishers of PRO newspapers at the time a publisher upgrades his/her account to the Paper.li Pro service.
 </p>
-     <p>If you decide you no longer wish to receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher’s email list for that paper.</p>
+     <p>If you decide you no longer wish to receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher's email list for that paper.</p>
         <h2>How do we protect your personal information?</h2>
         <p>SmallRivers and its authorized partners shall take appropriate organizational and technical measures to protect your Paper.li information and traffic data provided to us/them or collected by us/them, and shall not retain it any longer than permitted in order to perform its services or as required under relevant legislation. Your personal data can only be accessed by authorized employees of SmallRivers, SmallRivers authorized partners' employees needing to access this data to fulfill their given duties, or by Paper.li Pro Publishers in the case where you have a subscription to their online newspaper. </p>
         <h2>Can this privacy statement be modified?</h2>
@@ -352,20 +318,18 @@
     </div>
   </div>
 </div>
-
-
-      <div id="push"></div>
-    </div>      
-    <!-- Main footer -->
-    <div id="footer" class="page-row">
-      <div class="footer">
+  
+        <div id="push"></div>
+      </div>
+      <!-- Main footer -->
+      <div id="footer" class="page-row">
+        <div class="footer">
   <div class="container">
     <div class="row footer-row">
       <div class="span12">
         <div class="row">
           <ul class="footer-menu">
-            <li><a href="/introduction.html">About Us</a></li>
-            <li><a href="/jobs.html"><span class="translation_missing" title="translation missing: en.link.jobs">Jobs</span></a></li>
+            <li><a href="/introduction.html">About Paper.li</a></li>
             <li><a href="http://community.paper.li" target="_blank">Community</a></li>
             <li><a href="http://blog.paper.li" target="_blank">Blog</a></li>
             <li><a href="http://support.paper.li" target="_blank">Help</a></li>
@@ -391,12 +355,13 @@
         </div>
        
         <div class="row copyright">
-          <p>© SmallRivers 2013</p>
+          <p>© SmallRivers 2014</p>
         </div>
       </div>
     </div>            
   </div>
  </div>
+      </div>
     </div>
 
     <!-- Specific page javascripts -->
@@ -404,10 +369,11 @@
     $(document).ready(function(){
       if ($.browser.msie && parseInt($.browser.version) <= 7){
         $('#ie_banner')
-          .find('.message').html('You are using an old version of <strong>Internet Explorer</strong>. To view Paper.li correctly please <a href="http://www.microsoft.com/internetexplorer" target="_blank">upgrade</a> or switch to a another browser.').end()
-          .slideDown();
+          .find('.message').html(paperli.util.translate('message.ie_not_supported')).end()
+          .show();
         
-        $('#ie_banner .close').click(function(){
+        $('#ie_banner .close').click(function(e){
+          e && e.preventDefault();
           $('#ie_banner').slideUp();
         });
       };        
