@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216080036id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627235403id_/http%3A//www.mediapost.com/privacy) for the most accurate reproduction.*
 
 # MediaPost – News and Conferences for Media, Marketing and Online Advertising Professionals
 
