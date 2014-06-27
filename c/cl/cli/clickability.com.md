@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213090113id_/http%3A//www.clickability.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627151134id_/http%3A//www.clickability.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Clickability | www.clickability.com | Privacy Policy
+# 
 
 This privacy statement (“Privacy Policy”) covers all websites owned and operated by Clickability, Inc. (“Clickability”, “we”, “us”, “our”).  Clickability knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the Clickability websites, submitting personal information or using any of our products or services, you are accepting the practices outlined in this Privacy Policy.
 
@@ -12,7 +12,7 @@ This Privacy Policy covers Clickability’s treatment of personal information th
 
 Our primary goal in collecting personal information is to personalize and improve our websites and services. We collect the following types of personal information from users:
 
-A)  Information You Provide to Us: 
+A)  Information You Provide to Us: 
 
     º We may receive and store any personal information you enter on our websites or provide to us in any other way. You can choose not to provide us with certain personal information, but then you may not be able to take advantage of certain site functionality and services.  The personal information you provide may be used for such purposes as responding to your requests for certain products and services, customizing the content you see, and communicating with you about specials, sales offers and new products.  We use links throughout our websites to provide you with the opportunit    y to contact us via e-mail for a variety of purposes (including without limitation business development, general inquiries and human resource inquires). Your human resource information will not be shared with a third party without your express consent.  We also collect and use personal information in the context of the services we provide to our customers.
 
@@ -20,7 +20,7 @@ A)  Information You Provide to Us:
 
 B)   Automatic Information:
 
-    º We may receive and store certain types of information whenever you interact with us online.  Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.  Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.  
+    º We may receive and store certain types of information whenever you interact with us online.  Clickability may automatically receive and record certain “traffic data” on our server logs from your browser including your IP address, Clickability cookie information, and the page you requested.  Clickability uses this traffic data to help diagnose problems with its server, analyze trends and administer the websites.   
 
     º We may capture information when you visit our websites for aggregate statistical analysis and website customization.  Aggregate statistical analysis means that we review trends based on information as a whole, but does not do so in an effort to identify the individual identity of the visitor. We collect your domain name (e.g. whether you are logged on from generic.com), referral data (e.g. we record the last URL you visited prior to clicking to a Clickability website), as well as browser and platform type (e.g., a Microsoft browser on a Macintosh platform). We also count, track and aggregate your activity into our analysis of general traffic flows at our websites (e.g., tracking where traffic comes from, how traffic flows within our websites etc.).
 
@@ -32,7 +32,7 @@ B)   Automatic Information:
 
 ### What about Cookies?
 
-     º  Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.  Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is. 
+     º  Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our websites are visited and by how many people.  Clickability cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your e-mail address is.  
 
     º  The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to use some of Clickability’s products and services.
 
@@ -50,7 +50,7 @@ Our personnel (including, for the avoidance of doubt, consultants and/or contrac
 
     º  Agents:
 
-We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.  You hereby consent to our sharing of your personal information for the above purposes. 
+We employ other companies and people to perform tasks on our behalf and need to share your personal information with them to provide products or services to you.  You hereby consent to our sharing of your personal information for the above purposes. 
 
     º Business Transfers:
 
@@ -70,17 +70,17 @@ For users of certain Clickability services, your Clickability account informatio
 
 ### What Information Can I Access?
 
-For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate. 
+For users of certain Clickability services, you can access your personal information on our websites and correct, amend, or delete personal information that is inaccurate.
 
 ### What Choices Do I Have?
 
     º  As stated previously, you can always opt not to disclose personal information, but then you may be unable to use certain features on our websites or certain Clickability services.
 
-    º  For users of certain Clickability services, you may be able to add or update certain personal information.  When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.  Please note that some personal information may remain in our records after deletion of your account. 
+    º  For users of certain Clickability services, you may be able to add or update certain personal information.  When you update personal information, however, we often maintain a copy of the unrevised personal information in our records.  Please note that some personal information may remain in our records after deletion of your account.  
 
     º  If you do not wish to receive e-mail from us, please follow the instructions contained in that e-mail.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Clickability websites and applicable services, and you are responsible for reviewing such legal notices for changes.
 
-    º  As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+    º  As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
 
 ### Does Clickability Collect Personal Information from Children?
 
@@ -88,7 +88,7 @@ Clickability does not specifically collect personal information from children un
 
 ### Conditions of Use
 
-If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law. 
+If you decide to visit the Clickability websites, your visit and any possible dispute over privacy are subject to this Privacy Policy and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of California state law.
 
 ### Third Party Websites
 
@@ -100,7 +100,7 @@ Clickability may amend this Privacy Policy from time to time, at its sole discre
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@clickability.com.  Your privacy is important to us and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at the Clickability websites, please send a detailed message to privacy@uplandsoftware.com.  Your privacy is important to us and we will make every effort to resolve your concerns. 
 
 Effective Date of This Privacy Policy  
 This Privacy Policy is effective as of July 12, 2007.
