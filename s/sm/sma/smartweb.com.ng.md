@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartweb.com.ng privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818064721id_/http%3A//www.smartweb.com.ng/privatepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartweb.com.ng privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627212603id_/http%3A//smartweb.com.ng/privatepolicy.html) for the most accurate reproduction.*
 
 # Our Private Policy
 
