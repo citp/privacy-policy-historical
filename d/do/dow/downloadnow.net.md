@@ -1,31 +1,15 @@
-> *The following text is extracted and transformed from the downloadnow.net privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927134625id_/http%3A//downloadnow.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadnow.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627191841id_/http%3A//www.downloadnow.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DownloadNow
+# Privacy Policy
 
-DownloadNOW is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. Please take a few minutes to review this policy and feel free to contact us with any questions. Your continued use of the DownloadNOW.net site will constitute your acceptance of, and consent to, the terms of this policy.
+__+ Hello Downloadnow users! We are proudly announcing our integration with ClickAndGet.it Download Manager. For more details visit [www.clickandget.it](http://www.clickandget.it/)
 
-## Providing Visitors with Anonymous Access
+http://download **now**.net is committed to user privacy and/or our policy below and describes our principles in maintaining user trust and confidence and protecting your private data.
 
-You can access our Web site home page and browse our site without disclosing your personal data.  
-We do not collect any personal data from our visitors when they use our services.  
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
+### Information Collection and Use.
 
-## Log Files
+http://download **now**.net does not collect or use any personal information when you visit our website. http://download **now**.net may, however, from time-to-time, collect non-personal information available from your browser when you make a request from our website. This information may include your IP address, your browser type, the URL requested by your browser and the date and time of your query. We use this information to monitor the use of our website and to improve the quality of our services. 
 
-When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. These information are not linked to any information that is personally identifiable.
+On occasion and in the future, non-personal information we that we gather may be shared with the third-parties to provide more relevant services and advertisements to our visitors. For instance, we may share the number of users that have searched for specific files or clicked on a specific advertisement on our site. 
 
-## Use of Cookies and Other Technologies
-
-DownloadNOW does not uses „cookies”. However our ad service providers use cookies on our sites. We use the services of Google Adsense for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Google Adsense collects anonymous data typically through the use of cookies. To learn more about Google Adsense, including your ability to opt out of setting and/or reading cookies on your computer, go to http://www.google.com/privacy.html We have no access to or control over these cookies. And they cannot use these cookies to personally identify you in any way. However you have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.
-
-## Links to External Sites
-
-We link to websites, including software authors websites. They have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use.
-
-## Changes to This Privacy Policy
-
-We reserve the right to change the terms of this privacy policy at any time. We will notify you by prominently posting a notice of such changes here or on our home pagel. We encourage you to review this policy whenever you visit one of our sites.
-
-## Contact Information
-
-For additional information, please contact us using contact link at site footer.
+We adhere to valid legal processes and may provide information if required by law to protect the rights of our company, and in certain instances, to protect the personal safety of our users and the public on the whole.
