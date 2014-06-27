@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecomagination.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210105346id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomagination.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030641id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
 # GE Privacy Policy | Privacy Statement | GE
 
-Last Updated May 25, 2012
+Last Updated April 4, 2014
 
 ##  Web Privacy Policy 
 
@@ -56,7 +56,7 @@ We do not sell or otherwise disclose personal information about our website visi
 
 #### Transmission
 
-We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. 
+We may transmit the personal information we collect on this site or other GE sites to other countries where we do business, including for websites accessed in the European Union, to the US, but we will do so only for the purposes described herein. GE has entered into Binding Corporate Rules governing our treatment of personal information of European Union residents. For further information about GE’s Binding Corporate Rules, please click [here](https://web.archive.org/bcr).
 
 ### How We Protect Your Information
 
