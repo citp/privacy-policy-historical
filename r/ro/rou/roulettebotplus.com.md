@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030095357id_/http%3A//www.roulettebotplus.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220229id_/http%3A//roulettebotplus.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy details how roulettebotplus.com compiles, uses, and protects any information that you provide us with while using our website.
+This privacy policy details how RouletteBotPlus.com compiles, uses, and protects any information that you provide us with while using our website.
 
 By using our site, you consent to our privacy policy. Any data we request that is not required will be specified as voluntary or optional.
 
@@ -14,7 +14,7 @@ To circumvent any unauthorized access we implement a variety of security measure
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
-Your visit on roulettebotplus.com includes information pertaining to accessibility (date, time, viewed page) which can be saved on our server. This data is not part of the person-related data but is made anonymously. Examples include user’s Internet provider, type of Internet browser, etc.
+Your visit on RouletteBotPlus.com includes information pertaining to accessibility (date, time, viewed page) which can be saved on our server. This data is not part of the person-related data but is made anonymously. Examples include user’s Internet provider, type of Internet browser, etc.
 
 We gather this information to better understand user needs, and to provide users with the best possible service. This data is used exclusively for statistical purposes so we can determine the best course of action needed to further improve on our offer to users, and to improve the overall user experience and satisfaction with our site.
 
@@ -34,7 +34,7 @@ You may choose to restrict the collection or use of your personal information. I
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-This policy is effective as of May 1, 2011. roulettebotplus.com may decide to change this policy from time to time by updating this page. As such, you should monitor this page occasionally to ensure that you are satisfied with any and all changes.
+This policy is effective as of May 1, 2011. RouletteBotPlus.com may decide to change this policy from time to time by updating this page. As such, you should monitor this page occasionally to ensure that you are satisfied with any and all changes.
 
   
 
