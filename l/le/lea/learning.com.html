@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learning.com privacy policy that was archived on 2013-08-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130823122539id_/http%3A//www.learning.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learning.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627065436id_/http%3A//www.learning.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -12,7 +12,7 @@
     
     <!-- Javascripts -->
     <!-- Using version 1.4.2 of jQuery for superbgimage plugin compatibility -->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/jquery.js"></script>
     <script type="text/javascript" src="/javascripts/jquery-ui.js"></script>
   	<script type="text/javascript" src="/javascripts/jquery.superbgimage.js"></script>
   	<script type="text/javascript" src="/javascripts/jquery.fancybox-1.3.4.pack.js"></script>
@@ -49,7 +49,11 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-15763626-1']);
-  _gaq.push(['_trackPageview', location.pathname + location.search + location.hash]);
+  var pluginUrl = 
+	 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackEvent' ]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -59,196 +63,159 @@
 
 </script>
 
-
   </head>
 
   <!-- Note the classes and ID that are set on the body tag if integrating into backend/CMS -->
   <body class="inner-page product-or-assessment-page" id="product-page">
   	
-        <!-- Feedback Panel -->
-		<div id="toppanel">
-			<div id="panel">
-				<div class="content clearfix">
-					<iframe id="ifrm" name="ifrm" src="/inc/frm-feedback-form.htm" scrolling="no" width="970" height="170" frameborder="0" style="background: #414141 !important;"></iframe>
-					<!-- <div class="cancel"><a href="#" class="close-pnl">[ no thanks ]</a></div> -->			
-        </div>
-			</div>
-
-			<div class="tab">
-				<ul class="feedback">
-					<li id="toggle">
-						<a id="open" class="open" href="" onclick="return false;">Feedback</a>
-						<a id="close" style="display: none;" class="close" href="" onclick="return false;">Close</a>	
-					</li>
-				</ul>
-			</div>
-		</div>
     
     <!-- Page wrapper -->
   	<div id="page-wrapper">
-	    <!-- Header -->
-        <div id="header">
-  <div class="content-area">
+	<!-- HEADER -->
+   	 	<!-- Google Anayltics -->
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15763626-1']);
+  var pluginUrl = 
+	 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackEvent' ]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- /Google Anayltics -->
+<link href="/stylesheets/nav.css" type="text/css" rel="stylesheet">
+
+<div id="header">
+  <div class="header-holder">
     <a id="logo" href="/"><img src="/images/logo.png" alt="Learning.com"></a>
-  	
-    <ul class="nav" id="header-navigation-sub">
-      <li><a href="/about/index.htm">About</a></li>
-      <li><a href="http://platform.learning.com/LoginNew.htm" id="platform-login">Log-in</a></li>
-      <li><a href="/our-promise/">Our Promise</a></li>
-      <li><a href="/services/support/">Support</a></li>
-    </ul>
-
-    <ul id="header-navigation-main" class="nav pages">
-      <li class="solutions">
-  <a href="/solutions">Solutions</a>
-  
-  <div class="sub-menu-container solutions">
-    <ul class="sub-menu">
-      <li class="digital-literacy">
-        <h4><a href="/digital-literacy" onclick="_gaq.push(['_trackPageview', '/header/digital-literacy/']);">Digital Literacy</a></h4>
-        <p>Take the guesswork out of integrating technology and 21st century skills.</p>
-      </li>
-      
-      <li class="stem">
-        <h4><a href="/stem" onclick="_gaq.push(['_trackPageview', '/header/stem/']);">STEM</a></h4>
-        <p>Integrate science, technology, engineering and math in true project-based learning.</p>
-      </li>
-      
-      <li class="state-initiatives">
-        <h4>State Initiatives</h4>
-        <p>Statewide solutions for improving student achievement and the efficient application of digital resources.</p>
-        <ul class="links inline">
-          <li class="first"><a href="/coloradodream" onclick="_gaq.push(['_trackPageview', '/header/coloradodream/']);">Colorado</a></li>
-          <li><a href="/floridavcm" onclick="_gaq.push(['_trackPageview', '/header/floridavcm/']);">Florida</a></li>
-          <li><a href="/indianacurriculumconnection/" onclick="_gaq.push(['_trackPageview', '/header/incc/']);">Indiana</a></li>
-		  <li><a href="http://newyork.learning.com" onclick="_gaq.push(['_trackPageview', '/header/newyork/']);">New York</a></li>
-		    <li><a href="/etechohio" onclick="_gaq.push(['_trackPageview', '/header/ohio/']);">Ohio</a></li>
-          <li><a href="/texas" onclick="_gaq.push(['_trackPageview', '/header/texas/']);">Texas</a></li>
-        </ul>
-      </li>
-      
-      <li class="international">
-        <h4><a href="/international" onclick="_gaq.push(['_trackPageview', '/header/international/']);">International Solutions</a></h4>
-        <p>Standards-aligned, flexible solutions for student success across the globe.</p>
-      </li>
-      <li class="request-info"><a href="/more-info" onclick="_gaq.push(['_trackPageview', '/header/solutions/more-info']);">Request more information about our solutions &gt;</a></li>
-    </ul>
-  </div>
-</li>
-
-<li class="curriculum-assessments">
-  <a href="/curriculum-assessments">Curriculum + Assessments</a>
-  
-  <div class="sub-menu-container curriculums-and-assessments">
-    <ul class="sub-menu">
-      <li class="curriculum">
-        <h4>Curriculum</h4>
-        <ul class="links">
-        	 <li><a href="/ahamath" onclick="_gaq.push(['_trackPageview', '/header/ahamath/']);">Aha!Math</a></li>
-     		 <li><a href="/inquiry" onclick="_gaq.push(['_trackPageview', '/header/inquiry/']);">Inquiry</a></li>
-        	 <li><a href="/ahascience" onclick="_gaq.push(['_trackPageview', '/header/ahascience/']);">Aha!Science</a></li>
-        	 <li><a href="/msstem" onclick="_gaq.push(['_trackPageview', '/header/msstem/']);">Middle School STEM</a></li>
-        	 <li><a href="/easytech" onclick="_gaq.push(['_trackPageview', '/header/easytech/']);">EasyTech</a></li>
-        	 <li><a href="/wayfind-teacher-assessment" onclick="_gaq.push(['_trackPageview', '/header/wayfind-teacher-assessment/']);">WayFind</a></li>
-        	 <li><a href="/easytech/onlinesafety" onclick="_gaq.push(['_trackPageview', '/header/easytech/onlinesafety/']);">EasyTech Online Safety</a></li>
-        	 <li><a href="/adaptive-curriculum/" onclick="_gaq.push(['_trackPageview', '/header/adaptivecurr/']);">Adaptive Curriculum</a></li>
-        	 <li><a href="/easytech/keyboarding" onclick="_gaq.push(['_trackPageview', '/header/easytech/keyboarding/']);">EasyTech Keyboarding and<br> Word Processing</a></li>
-        	 <li><a href="/studydog" onclick="_gaq.push(['_trackPageview', '/header/studydog/']);">StudyDog</a></li>
-        	 <li><a href="/casestudies" onclick="_gaq.push(['_trackPageview', '/header/casestudies/']);">Case Studies</a></li>
-        </ul>
-      </li>
-      
-      <li class="assessments">
-        <h4>Assessments</h4>
-        <ul class="links">
-          <li><a href="/techliteracy-assessment" onclick="_gaq.push(['_trackPageview', '/header/techliteracy-assessment/']);">TechLiteracy Assessment</a></li>
-          <li><a href="/wayfind-teacher-assessment" onclick="_gaq.push(['_trackPageview', '/header/wayfind-teacher-assessment/']);">WayFind</a></li>
-          <li><a href="/21st-century-skills-assessment" onclick="_gaq.push(['_trackPageview', '/header/21st-century-skills-assessment/']);">21st Century Skills Assessment</a></li>
-        </ul>
-      </li>
-      
-      <li class="purchase-options">
-        <h4>Purchase Options</h4>
-        <ul class="links">
-        	<li><a onclick="_gaq.push(['_trackPageview', '/header/more-info/']);" href="/more-info">School and District Purchases</a></li>
-        	<li><br></li>
-            <li class="multiple-links"><a onclick="_gaq.push(['_trackPageview', '/header/marketplace/']);" href="/marketplace">Teacher and Classroom Purchases</a></li>
-
-        </ul>
-
-      </li>
-     
-      <li class="request-info"><a href="/more-info" onclick="_gaq.push(['_trackPageview', '/header/curriculum-assessments/more-info']);">Request more information about our curriculum and assessments &gt;</a></li>
-    </ul>
-  </div>
-</li>
-
-<li class="tools">
-  <a href="/tools">Tools</a>
-
-  <div class="sub-menu-container tools">
-    <ul class="sub-menu">
-      <li class="sky-digital-learning-environment">
-        <h4><a href="/sky" onclick="_gaq.push(['_trackPageview', '/header/sky/']);">Sky Digital Learning Environment</a></h4>
-        <p><strong>Free with every account.</strong> The smart, easy way to use digital content with your students. Streamline classroom and student management. Differentiate instruction. Integrate Web-delivered digital content with your teaching. Make the most of your existing digital resources and find new content in marketplace. Collaborate with the Learning.com community. Access everything with a single password and username.</p>
-      </li>
-      
-      <li class="district-curriculum-publishing">
-        <h4>Custom Curriculum Publishing</h4>
-        <p>Build and publish custom units for your entire district to ensure coverage and consistency in every classroom.</p>
-      </li>
-      
-     
-      <li class="request-info"><a href="/more-info" onclick="_gaq.push(['_trackPageview', '/header/tools/more-info']);">Request more information about our tools &gt;</a></li>
-    </ul>
-  </div>
-</li> 
-            
-<li class="services">
-  <a href="/services">Services</a>
-  
-  <div class="sub-menu-container services">
-    <ul class="sub-menu">
-      
-      <li class="implementation">
-        <h4><a href="/services/" onclick="_gaq.push(['_trackPageview', '/header/services/pd/#implementation-sub-tab']);">Professional Development &amp; Implementation</a></h4>
-        <p>Professional development workshops, custom implementation services, and support from the experts in online learning.</p>
-      </li>
-
-      <li class="support">
-        <h4><a href="/services/support" onclick="_gaq.push(['_trackPageview', '/header/services/support/']);">Support</a></h4>
-        <p>We stand by our customers. We'll stand by you.</p>
-      </li>
-
-      <li class="request-info"><a href="/more-info" onclick="_gaq.push(['_trackPageview', '/header/services/more-info']);">Request more information about our services &gt;</a></li>
-    </ul>
-  </div>
-</li>
-
-<li class="marketplace last">
-  <a href="/marketplace" onclick="_gaq.push(['_trackPageview', '/header/marketplace/']);">Marketplace</a>
-</li>
-    </ul>
-  </div><!-- /content-area -->
+  	<div class="header-main-nav">
+	   <div class="secondary-nav-holder">
+		    <ul class="secondary-nav">
+		      <li><a href="/services/support/" onclick="_gaq.push(['_trackPageview', '/header/productpage/submenu/support/']);">Support</a></li>
+		      <li><a href="/international" onclick="_gaq.push(['_trackPageview', '/header/productpage/submenu/international/']);">International</a></li>
+		      <li><a href="/about/contact.htm" onclick="_gaq.push(['_trackPageview', '/header/productpage/submenu/contact/']);">Contact</a></li>
+		      <li><a href="http://platform.learning.com/Login.aspx?ReturnUrl=%2f" id="platform-login" onclick="_gaq.push(['_trackPageview', '/header/productpage/submenu/login/']);">Log-in</a></li>
+		    </ul>
+		 </div>
+		 <div class="main-nav-holder">
+		   <ul class="main-nav ">
+				<li class="curriculum-assessments">
+				  <a href="/curriculum-assessments" onclick="_gaq.push(['_trackPageview', '/header/productpage/curriculum-assessments/']);">Curriculum + Assessments</a>
+				  <div class="dropdown-menu-container curriculums-and-assessments">
+				    <ul class="drop-menu">
+				      <li class="curriculum-assessment">
+				        <h4>21st Century Skills Curriculum &amp; Assessments</h4>
+				        <ul class="links column one">
+				        	 <li><a href="/easytech" onclick="_gaq.push(['_trackPageview', '/header/productpage/easytech/']);">EasyTech »</a></li>
+				     		 <li><a href="/easytech/keyboarding" onclick="_gaq.push(['_trackPageview', '/header/productpage/etkwp/']);">EasyTech Keyboarding and <br>Word Processing »</a></li>
+				     		 <li><a href="/easytech/onlinesafety" onclick="_gaq.push(['_trackPageview', '/header/productpage/etols/']);">EasyTech Online Safety »</a></li>
+				     		 <li><a href="/inquiry" onclick="_gaq.push(['_trackPageview', '/header/productpage/inquiry/']);">Inquiry »</a></li>
+				     	</ul>
+				     	<ul class="links column two">
+				     		 <li><a href="/digital-citizenship/" onclick="_gaq.push(['_trackPageview', '/header/productpage/digit-citi-app/']);">Digital Citizenship App »</a></li>
+				     		 <li><a href="/21st-century-skills-assessment" onclick="_gaq.push(['_trackPageview', '/header/productpage/21csa/']);">21st Century Skills Assessment »</a></li>
+				     		 <li><a href="/techliteracy-assessment" onclick="_gaq.push(['_trackPageview', '/header/productpage/techlit/']);">TechLiteracy Assessment »</a></li>
+				     		 <li><a href="/wayfind-teacher-assessment" onclick="_gaq.push(['_trackPageview', '/header/productpage/wfta/']);">WayFind Teacher Assessment »</a></li>
+				        </ul>
+				      </li>
+				      <li class="digital-content">
+				        <h4>Additional Digital Content</h4>
+				        <ul class="links column one">
+				        	 <li><a href="/ahamath" onclick="_gaq.push(['_trackPageview', '/header/productpage/ahamath/']);">Aha!Math »</a></li>
+				     		 
+		 				</ul>
+				     	<ul class="links column two">
+		 					<li><a href="/ahascience" onclick="_gaq.push(['_trackPageview', '/header/productpage/ahascience']);">Aha!Science »</a></li>
+				        </ul>
+				      </li>
+				   	 </ul>
+				  </div>
+				</li>
+				
+				<li class="tools">
+				  <a href="/tools" onclick="_gaq.push(['_trackPageview', '/header/productpage/tools/']);">Tools</a>
+				
+				  <div class="dropdown-menu-container">
+				    <ul class="drop-menu">
+				      <li class="content-management">
+				        <h4><a href="/tools" onclick="_gaq.push(['_trackPageview', '/header/productpage/content-management-tools-districts/']);">Content Management Tools for Districts</a></h4>
+				        <p>Easily find, create, organize, and assign digital content from one place. </p>
+				      </li>
+				      <li class="teachers-market">
+				        <h4><a href="/marketplace/" onclick="_gaq.push(['_trackPageview', '/header/productpage/marketplace-for-teachers/']);">Marketplace for Teachers</a></h4>
+				        <p>Free and fee-based digital content. Create a free account.</p>
+				      </li>
+				     </ul>
+				  </div>
+				</li>
+			    
+			    <li class="services">
+					<a href="/services" onclick="_gaq.push(['_trackPageview', '/header/productpage/services/']);">Services</a> 
+					  <div class="dropdown-menu-container">
+					    <ul class="drop-menu">
+					      <li class="professional-dev">
+					        <h4><a href="/services/pd" onclick="_gaq.push(['_trackPageview', '/header/productpage/pd/']);">Professional Development</a></h4>
+					        <p>On-site and web-delivered PD workshops from experienced educators.</p>
+					      </li>
+					      <li class="implementation">
+					        <h4><a href="/services/pd/index.htm?#implementation-tab" onclick="_gaq.push(['_trackPageview', '/header/productpage/implementation/']);">Implementation</a></h4>
+					        <p>We'll work directly with your district to develop a customized implementation plan.</p>
+					      </li>
+					      <li class="support">
+					        <h4><a href="/services/support" onclick="_gaq.push(['_trackPageview', '/header/productpage/support/']);">Support</a></h4>
+					        <p>Get the most out of your Learning.com solution with our ongoing support services. </p>
+					      </li>
+					    </ul>
+					  </div>
+					</li>
+					
+				 <li class="about">
+					<a href="/about" onclick="_gaq.push(['_trackPageview', '/header/productpage/about/']);">About</a> 
+					  <div class="dropdown-menu-container">
+					    <ul class="drop-menu">
+					      <li class="our-story">
+					        <h4><a href="/about" onclick="_gaq.push(['_trackPageview', '/header/productpage/our-story/']);">Our Story</a></h4>
+					        <p>We're passionate about integrating technology into <br>everyday instruction. </p>
+					      </li>
+					      <li class="management-team">
+					        <h4><a href="/about/?subtab=1#about-tab" onclick="_gaq.push(['_trackPageview', '/header/productpage/management-team/']);">Management Team</a></h4>
+					        <p>Meet our experienced team of education technology leaders. </p>
+					      </li>
+					      <li class="skills">
+					        <h4><a href="/21cs" onclick="_gaq.push(['_trackPageview', '/header/productpage/21centuryskills/']);">21st Century Skills</a></h4>
+					        <p>Find out how we help educators equip their students with 21st <br>century skills.</p>
+					      </li>
+					      <li class="state-intiatives">
+					        <h4><a href="/state-initiatives" onclick="_gaq.push(['_trackPageview', '/header/productpage/state-initatives/']);">State Initiatives</a></h4>
+					        <p>Custom statewide initiatives to help districts meet the needs of their students. </p>
+					      </li>
+					       <li class="case-studies">
+					        <h4><a href="/our-work/" onclick="_gaq.push(['_trackPageview', '/header/productpage/our-work/']);">Case Studies, Webinars &amp; Additional Resources </a></h4>
+					        <p>Discover how districts around the country are using digital content to reach their instructional goals.</p>
+					      </li>
+					    </ul>
+					  </div>
+					</li>
+				
+		    </ul>
+	 	</div>
+   	</div>
+  </div><!-- /headerholder -->
 </div>
-      <!-- /header -->
+
+	<!--HEADER -->
 
 		 <!-- Content -->
     	<div class="content-area with-bg" id="main-content">
-      	<div class="section top">
-                        <!-- AddThis Button BEGIN -->
-              <div class="addthis_toolbox addthis_default_style">
-                <span class="share-title">Share this page:</span>
-                <a class="addthis_button_facebook"></a>
-                <a class="addthis_button_twitter"></a>
-                <a class="addthis_button_email"></a>
-                <a class="addthis_button_print"></a>
-                <a class="addthis_button_expanded" href="http://addthis.com/bookmark.php?v=250&amp;username=learningdotcom"></a><!-- addthis_button_compact -->
-              </div>
-              <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-              <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=learningdotcom"></script>
-              <!-- AddThis Button END -->
-      	</div>
+      	
         
         <div class="section" id="splash">
           <div class="generic">
@@ -316,27 +283,30 @@ The safety of children is Learning.com's highest priority. We comply strictly wi
 	    <!-- Footer -->
     	<div id="footer">
       	<div class="content-area">
-      	              <p>© 2013 Learning.com</p>
-             
-            <ul class="nav" id="footer-navigation">
-              <li><a href="/about/contact.htm">Contact</a></li>
-              <li><a href="/about/">About</a></li>
-              <li><a href="/news/">News</a></li>
-              <li><a href="/events/">Events</a></li>
-              <li><a href="/about/?subtab=3#careers-sub-tab">Careers</a></li>
-              <li><a href="/services/support/">Support</a></li>
-              <li><a href="/privacypolicy.htm">Privacy Policy</a></li>
-              <li><a href="/sitemap.htm">Site Map</a></li>
-              <li><a href="http://platform.learning.com/Content/LicenseAgreements/LCOM/UserAgreement2011-10-03.htm" target="_blank">User Agreement</a></li>
-            </ul>
-            
-            <ul class="nav" id="follow-us">
-              <li><a href="http://www.facebook.com/Learningdotcom/" target="_blank" class="social-facebook"></a></li>
-              <li><a href="http://twitter.com/learningdotcom/" target="_blank" class="social-twitter"></a></li>
-              <li><a href="http://www.youtube.com/learningdotcom/" target="_blank" class="social-youtube"></a></li>
-              <li><a href="http://www.schooltube.com/channel/learning/" target="_blank" class="social-schooltube"></a></li>
-            </ul>
-            
+      	  <link href="/stylesheets/nav.css" type="text/css" rel="stylesheet">
+<div id="footer">
+	<div class="footer-holder">
+	    <p class="copyright">© 2014 Learning.com</p>
+	     
+	    <ul class="footer-navigation">
+	      <li><a href="/about/contact.htm" onclick="_gaq.push(['_trackPageview', '/footer/contact-us/']);">Contact</a></li>
+	      <li><a href="/about/" onclick="_gaq.push(['_trackPageview', '/footer/about/']);">About</a></li>
+	      <li><a href="/news/" onclick="_gaq.push(['_trackPageview', '/footer/news/']);">News</a></li>
+	      <li><a href="/events/" onclick="_gaq.push(['_trackPageview', '/footer/events/']);">Events</a></li>
+	      <li><a href="/about/?subtab=3#careers-sub-tab" onclick="_gaq.push(['_trackPageview', '/footer/careers/']);">Careers</a></li>
+	      <li><a href="/casestudies/" onclick="_gaq.push(['_trackPageview', '/footer/casestudies/']);">Case Studies</a></li>
+	      <li><a href="/services/support/" onclick="_gaq.push(['_trackPageview', '/footer/support/']);">Support</a></li>
+	      <li><a href="/privacypolicy.htm" onclick="_gaq.push(['_trackPageview', '/footer/privacypolicy/']);">Privacy Policy</a></li>
+	      <li><a href="/sitemap.htm" onclick="_gaq.push(['_trackPageview', '/footer/sitmap/']);">Site Map</a></li>
+	      <li><a href="http://platform.learning.com/Content/LicenseAgreements/LCOM/UserAgreement2011-10-03.htm" target="_blank" onclick="_gaq.push(['_trackPageview', '/footer/user-agreement/']);">User Agreement</a></li>
+	    </ul>
+	    
+	    <ul class="follow-us">
+		  <li><a href="http://www.facebook.com/Learningdotcom/" target="_blank" class="social-facebook" onclick="_gaq.push(['_trackEvent', 'Link Out', 'Social Link Out', 'Facebook - Footer']);"></a></li>
+		  <li><a href="http://twitter.com/learningdotcom/" target="_blank" class="social-twitter" onclick="_gaq.push(['_trackEvent', 'Link Out', 'Social Link Out', 'Twitter - Footer']);"></a></li>
+		  <li><a href="http://www.linkedin.com/company/learning.com" target="_blank" class="social-linkedin" onclick="_gaq.push(['_trackEvent', 'Link Out', 'Social Link Out', 'LinkedIn - Footer']);"></a></li>
+		</ul>
+    </div>        
      <script type="text/javascript">
 	   /* <![CDATA[ */
 	   document.write (
@@ -345,8 +315,8 @@ The safety of children is Learning.com's highest priority. We comply strictly wi
 	      '&ref='+escape(document.referrer) + '">'
 	      );
 	   /* ]]> */
-	</script><img src="http://www.actonsoftware.com/acton/bn/1499/visitor.gif?ts=1580364612367&amp;ref=">			
-
+	</script><img src="http://www.actonsoftware.com/acton/bn/1499/visitor.gif?ts=1580364611909&amp;ref=">			
+</div>
 
 
         </div><!-- /content-area -->
