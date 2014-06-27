@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lx.im privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502235030id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lx.im privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221158id_/http%3A//mylikes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyLikes
 
@@ -61,4 +61,4 @@ MyLikes is not intended for use by children. Anyone under the age of 13 is not p
 
 MyLikes may update this policy to be consistent with industry best practices and to better serve our users and customers. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. We will post any privacy policy changes on this page and maintain a "last updated" date. 
 
-Last modified: April 25 2013. 
+Last modified: June 13 2014. 
