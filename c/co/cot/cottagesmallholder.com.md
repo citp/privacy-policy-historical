@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129153502id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottagesmallholder.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627114632id_/http%3A//www.cottagesmallholder.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cottage Smallholder
 
@@ -48,7 +48,7 @@ All personal data is stored and processed within the European Economic Area. Our
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-**Third[Party](http://www.cottagesmallholder.com/party-8147/) Links**
+**Third Party Links**
 
 There are links on our website to third party websites. These websites should have their own privacy policies which you may check. We do not accept any responsibility or liability whatsoever for their policies as we have no control over them.
 
