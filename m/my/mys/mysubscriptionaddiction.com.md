@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysubscriptionaddiction.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006003749id_/http%3A//www.mysubscriptionaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubscriptionaddiction.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627180152id_/http%3A//www.mysubscriptionaddiction.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Subscription Addicition
+# Privacy Policy | My Subscription Addiction
 
 This Privacy Policy governs the manner in which My Subscription Addiction collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.mysubscriptionaddiction.com website (“Site”). This privacy policy applies to the Site and all products and services offered by My Subscription Addiction.
 
