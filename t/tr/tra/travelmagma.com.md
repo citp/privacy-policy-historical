@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011714id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmagma.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628004222id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy, Explore the Scenic Beauty during a trip to Privacy Policy a great Travel Guide
-
-  
-
+# Privacy Policy
 
 PRIVACY POLICY
 
@@ -64,5 +61,3 @@ Changes to this Policy
 TravelMagma.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 **You can choose to opt out from any service of TravelMagma at any time and stop completely the delivery of emails by logging into your account, going to[your profile](http://travelmagma.com/profile/) and pressing the link "Delete this account". **
-
-## Subscribe to Get The Latest Travel Articles![Subscribe]()
