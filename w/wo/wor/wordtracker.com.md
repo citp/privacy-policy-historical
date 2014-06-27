@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930090038id_/http%3A//www.wordtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627173542id_/http%3A//www.wordtracker.com/privacy) for the most accurate reproduction.*
 
 # Wordtracker's privacy policy
+
+reveal high-performing keywords in minutes reveal high-performing keywords in minutes reveal high-performing keywords in minutes reveal high-performing keywords in minutes reveal high-performing keywords in minutes  best keywords best keywords best keywords best keywords best keywords  keywords competition keywords competition keywords competition keywords competition keywords competition  keywords keywords keywords keywords keywords  top keywords by competition top keywords by competition top keywords by competition top keywords by competition top keywords by competition 
 
 We respect your privacy and do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email.
 
