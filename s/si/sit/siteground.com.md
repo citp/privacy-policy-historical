@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteground.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921172019id_/http%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteground.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220549id_/https%3A//www.siteground.com/privacy.htm) for the most accurate reproduction.*
 
 # SiteGround Web Hosting - Privacy Policy
 
@@ -14,7 +14,7 @@ SiteGround also collects different types of non-personally identifiable informat
 
 #### How does SiteGround use the information it collects?
 
-SiteGround uses all collected information primarily for provisioning the services you have ordered and providing you with ongoing User support. We may also use your information for sending periodic emails announcing important service changes, new features, technical issues updates and news, promotional activities, etc. You can decide NOT to receive such emails by replying to any of them with "Unsubscribe" in the subject. User information is also used for improving SiteGround's business processes to make your overall user experience more rewarding. Your information can also be used for resolving ownership and other disputes and enforcing agreements between you and SiteGround.
+SiteGround uses all collected information primarily for provisioning the services you have ordered and providing you with ongoing User support. We may also use your information for sending periodic emails announcing important service changes, new features, technical issues updates and news, promotional activities, etc. You can decide NOT to receive such emails by replying to any of them with "Unsubscribe" in the subject. We may also use your information to send you SMS notifications in case of issues which may lead to service interruption of your account(s). User information is also used for improving SiteGround's business processes to make your overall user experience more rewarding. Your information can also be used for resolving ownership and other disputes and enforcing agreements between you and SiteGround.
 
 #### Does SiteGround disclose Users' information to third parties?
 
