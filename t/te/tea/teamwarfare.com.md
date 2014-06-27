@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamwarfare.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035914id_/http%3A//www.teamwarfare.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamwarfare.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627105455id_/http%3A//www.teamwarfare.com/privacy.asp) for the most accurate reproduction.*
 
 # TWL: Privacy Policy
 
