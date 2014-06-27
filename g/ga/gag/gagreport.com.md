@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagreport.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130091920id_/http%3A//www.gagreport.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagreport.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627095237id_/http%3A//www.gagreport.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Gag Report Privacy Policy
 
