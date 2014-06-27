@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111103406id_/http%3A//www.thecredits.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecredits.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628010452id_/http%3A//www.thecredits.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Credits
+# Privacy Policy | The Credits.
 
 **Global Privacy Policy**
 
@@ -88,7 +88,7 @@ While we have taken steps to protect the Personal Information we collect from yo
 **DATA TRANSFERS**  
 We may transfer the Personal Information we collect about you to countries other than the country in which the information was originally collected. The laws in those countries may not provide the same level of data protection as the country in which you initially provided the information.
 
-If you are located in the EEA or Switzerland we will comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA or Switzerland. The MPAA is certified under the Safe Harbor privacy framework created by the U.S. Department of Commerce, the European Commission and Switzerland for transfers of Personal Information from the EEA or Switzerland to the U.S. Click here to view our Safe Harbor Privacy Policy [www.mpaa.org/SafeHarbor](http://www.mpaa.org/SafeHarbor).
+If you are located in the EEA or Switzerland we will comply with applicable legal requirements providing adequate protection for the transfer of Personal Information to countries outside of the EEA or Switzerland. The MPAA is certified under the Safe Harbor privacy framework created by the U.S. Department of Commerce, the European Commission and Switzerland for transfers of Personal Information from the EEA or Switzerland to the U.S. Click here to view our Safe Harbor Privacy Policy [www.mpaa.org/safe-harbor](http://www.mpaa.org/safe-harbor).
 
   
 **CHANGES TO THE PRIVACY POLICY**  
