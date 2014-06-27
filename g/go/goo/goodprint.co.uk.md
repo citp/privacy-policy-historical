@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124001518id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627200419id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-By using the Goodprint site you consent to our [cookie policy](https://web.archive.org/privacy/#cookie)
 
 ### 1\. ACCEPTABLE USE POLICY
 
