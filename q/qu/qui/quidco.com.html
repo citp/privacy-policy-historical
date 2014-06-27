@@ -1,46 +1,40 @@
-<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2013-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229170846id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627080814id_/http%3A//www.quidco.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
-	<title>Quidco - the secret to smart shopping</title>
+    <title>Quidco -  The UK's #1 Cashback Site</title>
 
-	<meta charset="UTF-8">
-			<meta name="description" content="">
-		
-	 					<link rel="canonical" href="http://www.quidco.com/privacy-policy/">
-			
-			<meta name="robots" content="INDEX, FOLLOW">
-	
-	<meta name="google-site-verification" content="ILFWjlG5qiUBIhXpM6LyYcr6gPpEUVHVUWv6YSHKikQ">
+    <meta charset="UTF-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-D34R"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4EUVVaGwEBVlBRAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+            <meta name="description" content="">
+        
+                         <link rel="canonical" href="http://www.quidco.com/privacy-policy/">
+            
+            <meta name="robots" content="INDEX, FOLLOW">
+    
+    <meta name="google-site-verification" content="ILFWjlG5qiUBIhXpM6LyYcr6gPpEUVHVUWv6YSHKikQ">
 
-	
-			<link rel="image_src" href="http://static.quidco.com/img/quidco_fb_logo.png">
-	
-	<link rel="shortcut icon" href="http://static.quidco.com/img/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="http://static.quidco.com/img/apple-touch-icon.png">
+    
+            <link rel="image_src" href="//static.quidco.com/img/quidco_fb_logo.png">
+    
+    <link rel="shortcut icon" href="//static.quidco.com/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="//static.quidco.com/img/apple-touch-icon.png">
 
-			<style type="text/css">
-				.widget.category-slides.widget-promotion-10 .box .body .nav-pills > li:not(.active) > a { color:#bd1a06; }
-		.widget.category-slides.widget-promotion-10 .box .body .nav-pills > li:not(.active) > a:hover { background-color:#bd1a06; }
-				.widget.category-slides.widget-promotion-11 .box .body .nav-pills > li:not(.active) > a { color:#ffffff; }
-		.widget.category-slides.widget-promotion-11 .box .body .nav-pills > li:not(.active) > a:hover { background-color:#ffffff; }
-			</style>
-				<link href="/static/v2/assets/quidco.css?v=2fa98bf1998163a551ca40dc894b8da19457cff4&amp;amp;p=11" type="text/css" rel="stylesheet">
-		<link href="/static/v2/assets/quidco2.css?v=2fa98bf1998163a551ca40dc894b8da19457cff4&amp;amp;p=11" type="text/css" rel="stylesheet">
-		<link href="/static/v2/assets/quidco3.css?v=2fa98bf1998163a551ca40dc894b8da19457cff4&amp;amp;p=11" type="text/css" rel="stylesheet">
-	
+                        <link href="/static/v2/assets/quidco.css?v=f2240005931febe91faefb38c1999c4a3dce8b5a" type="text/css" rel="stylesheet">
+            <link href="/static/v2/assets/quidco2.css?v=f2240005931febe91faefb38c1999c4a3dce8b5a" type="text/css" rel="stylesheet">
+            <link href="/static/v2/assets/quidco3.css?v=f2240005931febe91faefb38c1999c4a3dce8b5a" type="text/css" rel="stylesheet">
+            
+<link href="/static/v2/css/bootstrap-tour.min.css" type="text/css" rel="stylesheet">
+
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="http://static.quidco.com/v2/css/ie8-and-below.css"/>
+<link rel="stylesheet" type="text/css" href="//static.quidco.com/v2/css/ie8-and-below.css"/>
 <![endif]-->
 
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://static.quidco.com/v2/css/ie7.css"/>
+<link rel="stylesheet" type="text/css" href="//static.quidco.com/v2/css/ie7.css"/>
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.min.css">
-
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;status=0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-D34R"></script><script src="//cdn.optimizely.com/js/346681551.js"></script>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
@@ -48,61 +42,75 @@
 
 
 
-	<script type="text/javascript" src="/static/v2/assets/all.js?v=2fa98bf1998163a551ca40dc894b8da19457cff4&amp;amp;p=11"></script>
 
-<script src="/static/v2/js/advertisement.js?v=2fa98bf1998163a551ca40dc894b8da19457cff4&amp;amp;p=11" type="text/javascript"></script>
+    <script type="text/javascript" src="/static/v2/assets/all.js?v=f2240005931febe91faefb38c1999c4a3dce8b5a"></script>
+
+<script src="/static/v2/js/advertisement.js?v=f2240005931febe91faefb38c1999c4a3dce8b5a" type="text/javascript"></script>
+
 <script type="text/javascript">
-	//<![CDATA[
-	//Globals used for Google Analytics
-		var google_id = 'UA-5946757-2';
-	
-	var js_filename = 'privacy-policy',
-			js_url = 'http://www.quidco.com/privacy-policy/?',
-			js_path = "privacy-policy",
-			js_user_id = '',
-			js_merchant_id = '',
-			js_social_media_keys = {"app":"the Quidco mobile app","toolbar":"the Quidco toolbar","toolbar\/browser\/firefox":"the Quidco toolbar","toolbar\/browser\/chrome":"the Quidco toolbar","toolbar\/browser\/safari":"the Quidco toolbar","toolbar\/browser\/ie":"the Quidco toolbar","in-store-cashback":"In-store cashback from Quidco","hot-offers":"hot offers","top-cashback":"top cashback offers","top-voucher-codes":"top voucher codes","printable-vouchers":"printable vouchers","restaurant-vouchers":"restaurant vouchers","no-brainers":"no brainers","hidden-gems":"hidden gems","sales":"sales","mobile-in-store-offers":"mobile and in-store offers","competitions":"the Quidco competition","quidco-compare":"Quidco Compare","insurance-comparison":"Quidco Compare","quidco-opinions":"Quidco Opinions"},
-			protocol = (window.location.protocol == 'https:' ? 'https' : 'http'),
-			js_p_impression = '52c0571d6aa161.19619063',
-			js_feature_switch_completed = true,
-			js_user_type = '',
-			
-			js_user_prefs = {
-				cb: false,
-				hide_gambling: false,
-				hide_adult: false
+    //<![CDATA[
+    //Globals used for Google Analytics
+            var google_id = 'UA-5946757-2';
+    
+    var js_filename = 'privacy-policy',
+            js_url = 'http://www.quidco.com/privacy-policy/',
+            js_path = "privacy-policy",
+            js_user_id = '',
+            js_merchant_id = '',
+            js_social_media_keys = {"app":"the Quidco mobile app","toolbar":"the Quidco toolbar","toolbar\/browser\/firefox":"the Quidco toolbar","toolbar\/browser\/chrome":"the Quidco toolbar","toolbar\/browser\/safari":"the Quidco toolbar","toolbar\/browser\/ie":"the Quidco toolbar","in-store-cashback":"In-store cashback from Quidco","hot-offers":"hot offers","top-cashback":"top cashback offers","top-voucher-codes":"top voucher codes","printable-vouchers":"printable vouchers","restaurant-vouchers":"restaurant vouchers","no-brainers":"no brainers","hidden-gems":"hidden gems","sales":"sales","mobile-in-store-offers":"mobile and in-store offers","competitions":"the Quidco competition","quidco-compare":"Quidco Compare","insurance-comparison":"Quidco Compare","quidco-opinions":"Quidco Opinions"},
+            protocol = (window.location.protocol == 'https:' ? 'https' : 'http'),
+            js_p_impression = '53ad266f640464.93586785',
+            js_feature_switch_completed = true,
+            js_user_type = '',
+            js_email_verified = true,
+            
+            js_user_prefs = {
+                cb: false,
+                hide_gambling: false,
+                hide_adult: false
 			};
+
+            var mixpanel_logged_in = 'No';
+    
 	//]]>
 </script>
 
-<!-- Google Tag Manager -->
-	<script> dataLayer = []; </script>
-	<noscript>
-		<iframe src="//www.googletagmanager.com/ns.html?id=GTM-D34R" height="0" width="0"
-				class="hidden invisible"></iframe>
-	</noscript>
-	<script>
-		(function (w, d, s, l, i) {
-			w[l] = w[l] || [];
-			w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
-			var f = d.getElementsByTagName(s)[0],
-					j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-			j.async = true;
-			j.src =
-					'//www.googletagmanager.com/gtm.js?id=' + i + dl;
-			f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-D34R');
-	</script>
-<!-- End Google Tag Manager -->
-
-	<script type="text/javascript"> dataLayer.push({'event': 'common__ga-setup'}); </script>
-
-													
-
-
+    <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+			typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+		b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+	mixpanel.init("089b1fd859c7190cea54b0e5ed1027e9 ", {cross_subdomain_cookie: false});</script><!-- end Mixpanel -->
 </head>
 <body>
-	<script>(function (d, s, id) {
+
+<!-- Google Tag Manager -->
+    <script> dataLayer = []; </script>
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-D34R" height="0" width="0"
+                class="hidden invisible"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-D34R');
+    </script>
+<!-- End Google Tag Manager -->
+
+    <script type="text/javascript"> dataLayer.push({'event': 'qualaroo-event'}); </script>
+
+
+
+
+<!--bind tag-->
+<!--media mind pixel-->
+
+		<script>(function (d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0];
 			if (d.getElementById(id)) return;
 			js = d.createElement(s);
@@ -110,18 +118,17 @@
 			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&status=0";
 			fjs.parentNode.insertBefore(js, fjs);
 		}(document, "script", "facebook-jssdk"));</script>
-<ul id="accessibility-menu">
+	<ul id="accessibility-menu">
 	<li><a href="#contentPrimary" tabindex="1" class="accessibility">Jump to content</a></li><li><a href="#footer" tabindex="2" class="accessibility">Jump to navigation</a></li><li><a href="#store-qsearch" tabindex="3" class="accessibility">Jump to search</a></li><li><a tabindex="4" href="/sign-in/">Sign in</a></li></ul>
 <div class="wrapper">
 
 
-						
-			<div id="main-nav" class=" basic  logged-out">
+    	<div id="main-nav" class=" basic logged-out ">
 	<div class="main-nav-container">
 		<div class="nav-group-left">
-			<div class="nav-item browse has-promotion"><a href="/browse/"><span><i></i><div>Browse</div></span></a><div class="dropdown"><div class="level1 features"><div class="level1-header"><h3>Features</h3></div><div class="level1-inner"><div class="level2-special-content in-store-cashback"><a href="/in-store-cashback/"><span class="feature-icon inst-cashback"></span><span class="feature-header">In-store cashback</span><p class="feature-text">Earn cashback on the High Street</p></a></div><div class="level2-special-content clicksnap"><a href="/clicksnap/"><span class="feature-icon clicksnap"></span><span class="feature-header">ClickSnap grocery</span><p class="feature-text">Earn cashback on your grocery shopping</p></a></div><div class="level2-special-content app"><a href="/app/"><span class="feature-icon mobile-app"></span><span class="feature-header">Quidco mobile app</span><p class="feature-text">The UK's first app that pays you to check in</p></a></div><div class="level2-special-content opinions"><a href="/quidco-opinions/"><span class="feature-icon opinions"></span><span class="feature-header">Quidco Opinions</span><p class="feature-text">Earn cashback for completing surveys</p></a></div></div></div><div class="level1 hot-offers"><div class="level1-header"><h3>Hot offers</h3></div><div class="level1-inner"><ul><li><a href="http://www.quidco.com/hot-offers/" rev="Hottest">Hottest</a></li><li><a href="http://www.quidco.com/top-cashback/" rev="Top cashback">Cashback</a></li><li><a href="http://www.quidco.com/mobile-in-store-offers/" rev="Mobile offers">Mobile &amp; In-store</a></li><li><a href="http://www.quidco.com/top-voucher-codes/" rev="Top voucher codes">Voucher codes</a></li><li><a href="http://www.quidco.com/no-brainers/" rev="No brainers">No brainers</a></li><li><a href="http://www.quidco.com/sales/" rev="Sales">Sales</a></li><li><a href="http://www.quidco.com/hidden-gems/" rev="Hidden gems">Hidden gems</a></li></ul><div class="level2-special-content promotions"><a href="/premium-promotion/"><span class="feature-icon promotions"></span><span class="feature-header">Christmas 2013</span><p class="feature-text">Earn bonus cashback every time you shop</p></a></div></div></div><div class="level1 categories"><div class="level1-header"><h3>Categories</h3></div><div class="level1-inner"><ul><li><a href="http://www.quidco.com/all/">All</a></li><li class="sub"><a href="http://www.quidco.com/high-street/"><i class="icon-chevron-right-large pull-right"></i>High Street</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/in-store-cashback/">In-store cashback</a></li><li class="sub"><a href="http://www.quidco.com/high-street-fashion/"><i class="icon-chevron-right-large pull-right"></i>Fashion</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/clothing/">Clothing</a></li><li><a href="http://www.quidco.com/footwear/">Footwear</a></li><li><a href="http://www.quidco.com/watches-jewellery/">Watches &amp; Jewellery</a></li><li><a href="http://www.quidco.com/lingerie/">Lingerie</a></li><li><a href="http://www.quidco.com/high-street-fashion-accessories/">Accessories</a></li><li><a href="http://www.quidco.com/fashion-sunglasses/">Sunglasses</a></li><li><a href="http://www.quidco.com/fashion-kids-clothing/">Kids Clothing</a></li><li><a href="http://www.quidco.com/fashion-womens-clothing/">Womens Clothing</a></li><li><a href="http://www.quidco.com/fashion-mens-clothing/">Mens Clothing</a></li><li><a href="http://www.quidco.com/fashion-sport-leisure/">Sport &amp; Leisure</a></li><li><a href="http://www.quidco.com/fashion-bags/">Bags</a></li><li><a href="http://www.quidco.com/fashion-tailoring/">Tailoring</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/supermarkets/">Supermarkets</a></li><li class=""><a href="http://www.quidco.com/department-stores/">Department Stores</a></li><li class="sub"><a href="http://www.quidco.com/home-diy/"><i class="icon-chevron-right-large pull-right"></i>Home &amp; DIY</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/homewares/">Homewares</a></li><li><a href="http://www.quidco.com/diy/">DIY</a></li><li><a href="http://www.quidco.com/garden/">Garden</a></li><li><a href="http://www.quidco.com/beds-bedding/">Beds &amp; Bedding</a></li><li><a href="http://www.quidco.com/bathroom-accessories/">Bathroom &amp; Accessories</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/toys-gifts/"><i class="icon-chevron-right-large pull-right"></i>Toys &amp; Gifts</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/toys/">Toys</a></li><li><a href="http://www.quidco.com/flowers/">Flowers</a></li><li><a href="http://www.quidco.com/food-chocolate/">Food &amp; Chocolate</a></li><li><a href="http://www.quidco.com/drink/">Drink</a></li><li><a href="http://www.quidco.com/gadgets/">Gadgets</a></li><li><a href="http://www.quidco.com/gifts/">Gifts</a></li><li><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/health-beauty/"><i class="icon-chevron-right-large pull-right"></i>Health &amp; Beauty</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/health/">Health</a></li><li><a href="http://www.quidco.com/beauty/">Beauty</a></li><li><a href="http://www.quidco.com/fragrances/">Fragrances</a></li><li><a href="http://www.quidco.com/glasses-and-lenses/">Glasses &amp; Lenses</a></li><li><a href="http://www.quidco.com/vitamins-supplements/">Vitamins &amp; Supplements</a></li><li><a href="http://www.quidco.com/mens-grooming/">Men's Grooming</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/parent-kids/"><i class="icon-chevron-right-large pull-right"></i>Parent &amp; Kids</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/maternity-wear/">Maternity Wear</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/sports-fitness/">Sports &amp; Fitness</a></li><li class=""><a href="http://www.quidco.com/auction-selling/">Auction &amp; Selling</a></li><li class=""><a href="http://www.quidco.com/pets/">Pets</a></li><li class=""><a href="http://www.quidco.com/charity/">Charity</a></li><li class=""><a href="http://www.quidco.com/luxury/">Luxury</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/entertainment/"><i class="icon-chevron-right-large pull-right"></i>Entertainment</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/attractions-experiences/">Attractions &amp; Experiences</a></li><li class=""><a href="http://www.quidco.com/books-mags/">Books &amp; Mags</a></li><li class=""><a href="http://www.quidco.com/dating/">Dating</a></li><li class="sub"><a href="http://www.quidco.com/gambling/"><i class="icon-chevron-right-large pull-right"></i>Gambling</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/bingo/">Bingo</a></li><li><a href="http://www.quidco.com/casino/">Casino</a></li><li><a href="http://www.quidco.com/poker/">Poker</a></li><li><a href="http://www.quidco.com/sportsbook/">Sportsbook</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/games/">Games</a></li><li class=""><a href="http://www.quidco.com/movies/">Movies</a></li><li class=""><a href="http://www.quidco.com/music/">Music</a></li><li class=""><a href="http://www.quidco.com/tickets/">Tickets</a></li><li class=""><a href="http://www.quidco.com/adult/">Adult</a></li><li class=""><a href="http://www.quidco.com/fancy-dress/">Fancy Dress</a></li><li class=""><a href="http://www.quidco.com/ancestry/">Ancestry</a></li><li class=""><a href="http://www.quidco.com/surveys-competitions/">Surveys &amp; Competitions</a></li><li class=""><a href="http://www.quidco.com/daily-deals/">Daily Deals</a></li><li class=""><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/fashion/"><i class="icon-chevron-right-large pull-right"></i>Fashion</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/fashion-clothing/"><i class="icon-chevron-right-large pull-right"></i>Clothing</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/kids-clothing/">Kids Clothing</a></li><li><a href="http://www.quidco.com/womens-fashion/">Womens Clothing</a></li><li><a href="http://www.quidco.com/mens-clothing-fashion/">Mens Clothing</a></li><li><a href="http://www.quidco.com/sport-leisure-fashion/">Sport &amp; Leisure</a></li><li><a href="http://www.quidco.com/tailoring/">Tailoring</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/fashion-footwear/">Footwear</a></li><li class=""><a href="http://www.quidco.com/fashion-lingerie/">Lingerie</a></li><li class="sub"><a href="http://www.quidco.com/fashion-accessories/"><i class="icon-chevron-right-large pull-right"></i>Accessories</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/accessories-bags/">Bags</a></li><li><a href="http://www.quidco.com/accessories-sunglasses/">Sunglasses</a></li><li><a href="http://www.quidco.com/acccessories-watches-jewellery/">Watches &amp; Jewellery</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/bags/">Bags</a></li><li class=""><a href="http://www.quidco.com/sunglasses/">Sunglasses</a></li><li class=""><a href="http://www.quidco.com/fashion-watches-jewellery/">Watches &amp; Jewellery</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/mobiles/"><i class="icon-chevron-right-large pull-right"></i>Mobiles</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/pay-monthly/">Pay Monthly</a></li><li class=""><a href="http://www.quidco.com/sim-only/">SIM Only</a></li><li class=""><a href="http://www.quidco.com/pay-as-you-go/">Pay As You Go</a></li><li class=""><a href="http://www.quidco.com/mobile-phone-recycling/">Mobile Phone Recycling</a></li><li class=""><a href="http://www.quidco.com/mobile-broadband/">Mobile Broadband</a></li><li class=""><a href="http://www.quidco.com/accessories-ringtones/">Accessories &amp; Ringtones</a></li><li class=""><a href="http://www.quidco.com/free-sim/">Free Sim</a></li><li class=""><a href="http://www.quidco.com/international-calling/">International Calling</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/electricals/"><i class="icon-chevron-right-large pull-right"></i>Electricals</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/audio-visual/">Audio Visual</a></li><li class="sub"><a href="http://www.quidco.com/cameras-photography/"><i class="icon-chevron-right-large pull-right"></i>Cameras &amp; Photography</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/photo-digital-printing/">Photo &amp; Digital Printing</a></li><li><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/computing/"><i class="icon-chevron-right-large pull-right"></i>Computing</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/computers/">Computers</a></li><li><a href="http://www.quidco.com/domains-hosting/">Domains &amp; Hosting</a></li><li><a href="http://www.quidco.com/software/">Software</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/appliances/">Appliances</a></li><li class=""><a href="http://www.quidco.com/electrical-gadgets/">Gadgets</a></li><li class=""><a href="http://www.quidco.com/gaming/">Gaming</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/insurance-finance/"><i class="icon-chevron-right-large pull-right"></i>Insurance &amp; Finance</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/insurance/"><i class="icon-chevron-right-large pull-right"></i>Insurance</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/breakdown-cover/">Breakdown Cover</a></li><li><a href="http://www.quidco.com/car-insurance/">Car Insurance</a></li><li><a href="http://www.quidco.com/home-insurance/">Home Insurance</a></li><li><a href="http://www.quidco.com/insurance-travel/">Travel Insurance</a></li><li><a href="http://www.quidco.com/health-insurance/">Health Insurance</a></li><li><a href="http://www.quidco.com/life-insurance/">Life Insurance</a></li><li><a href="http://www.quidco.com/pet-insurance/">Pet Insurance</a></li><li><a href="http://www.quidco.com/wedding-insurance/">Wedding Insurance</a></li><li><a href="http://www.quidco.com/car-rental-insurance/">Car Rental Insurance</a></li><li><a href="http://www.quidco.com/caravan-insurance/">Caravan Insurance</a></li><li><a href="http://www.quidco.com/boiler-insurance/">Boiler Insurance</a></li><li><a href="http://www.quidco.com/bike-insurance/">Bike Insurance</a></li><li><a href="http://www.quidco.com/business-insurance/">Business Insurance</a></li><li><a href="http://www.quidco.com/landlord-insurance/">Landlord Insurance</a></li><li><a href="http://www.quidco.com/van-insurance/">Van Insurance</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/finance/"><i class="icon-chevron-right-large pull-right"></i>Finance</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/bank-accounts/">Bank Accounts</a></li><li><a href="http://www.quidco.com/credit-cards/">Credit Cards</a></li><li><a href="http://www.quidco.com/loans/">Loans</a></li><li><a href="http://www.quidco.com/savings/">Savings</a></li><li><a href="http://www.quidco.com/credit-rating/">Credit Rating</a></li></ul></div></div></li></ul><div class="level2-special-content"><p>Also...</p><a href="http://www.quidco.com/quidco-compare/"><span class="compare"></span></a><p class="small">Save time and money - <br> Cashback and comparison in one place</p><ul><li><a href="http://www.quidco.com/car-insurance-comparison/"><i class="car"></i>Car insurance</a></li><li><a href="http://www.quidco.com/travel-insurance-comparison/"><i class="travel"></i>Travel insurance</a></li><li><a href="http://www.quidco.com/home-insurance-comparison/"><i class="home"></i>Home insurance</a></li></ul></div></div></div></li><li class="sub"><a href="http://www.quidco.com/utilities/"><i class="icon-chevron-right-large pull-right"></i>Utilities</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/broadband-digital-tv/">Broadband &amp; Digital TV</a></li><li class=""><a href="http://www.quidco.com/gas-electricity/">Gas &amp; Electricity</a></li><li class=""><a href="http://www.quidco.com/landline-phone/">Landline Phone</a></li></ul><div class="level2-special-content"><p>Also...</p><a href="/quidco-compare/broadband/"><span class="compare"></span></a><p class="small">Save time and money - <br> Cashback and comparison in one place</p><ul><li><a href="/quidco-compare/broadband/"><i class="broadband"></i>Broadband</a></li></ul></div></div></div></li><li class="sub"><a href="http://www.quidco.com/travel/"><i class="icon-chevron-right-large pull-right"></i>Travel</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/accommodation/">Accommodation</a></li><li class="sub"><a href="http://www.quidco.com/car-rental/"><i class="icon-chevron-right-large pull-right"></i>Car Rental</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/car-hire/">Car Hire</a></li><li><a href="http://www.quidco.com/car-hire-insurance/">Insurance</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/ferries/">Ferries</a></li><li class=""><a href="http://www.quidco.com/flights/">Flights</a></li><li class=""><a href="http://www.quidco.com/holidays/">Holidays</a></li><li class=""><a href="http://www.quidco.com/parking-transfers/">Parking &amp; Transfers</a></li><li class=""><a href="http://www.quidco.com/rail-coach/">Rail &amp; Coach</a></li><li class=""><a href="http://www.quidco.com/foreign-exchange/">Foreign Exchange</a></li><li class=""><a href="http://www.quidco.com/travel-insurance/">Travel Insurance</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/office-business/"><i class="icon-chevron-right-large pull-right"></i>Office &amp; Business</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/office/">Office</a></li><li class=""><a href="http://www.quidco.com/delivery-services/">Delivery Services</a></li><li class=""><a href="http://www.quidco.com/office-business-insurance/">Business Insurance</a></li><li class=""><a href="http://www.quidco.com/advertising-research/">Advertising &amp; Research</a></li><li class=""><a href="http://www.quidco.com/business-services/">Business Services</a></li><li class=""><a href="http://www.quidco.com/training-recruitment/">Training &amp; Recruitment</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/cars/"><i class="icon-chevron-right-large pull-right"></i>Cars</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/car-rental/"><i class="icon-chevron-right-large pull-right"></i>Car Rental</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/car-hire/">Car Hire</a></li><li><a href="http://www.quidco.com/car-hire-insurance/">Insurance</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/car-sales-services/">Car Sales &amp; Services</a></li><li class=""><a href="http://www.quidco.com/car-accessories/">Car Accessories</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/food-drink/"><i class="icon-chevron-right-large pull-right"></i>Food &amp; Drink</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/pubs-bars/">Pubs &amp; Bars</a></li><li class=""><a href="http://www.quidco.com/takeaway-delivery/">Takeaway &amp; Delivery</a></li><li class=""><a href="http://www.quidco.com/restaurants/">Restaurants</a></li><li class=""><a href="http://www.quidco.com/food-drink-chocolate/">Food &amp; Chocolate</a></li><li class=""><a href="http://www.quidco.com/food-drink-drink/">Drink</a></li><li class=""><a href="http://www.quidco.com/food-drink-supermarkets/">Supermarkets</a></li></ul><div class="level2-special-content"><p>Also...</p><a href="http://www.quidco.com/clicksnap/"><span class="clicksnap"></span></a><p class="small">Get paid on your everyday supermarket shopping</p><ul><li><a href="http://www.quidco.com/clicksnap/"><i class="cart"></i>Browse offers</a></li></ul></div></div></div></li></ul></div></div></div></div>			<div class="nav-item search">
+			<div class="nav-item browse"><a href="/browse/"><span><i></i><div>Browse</div></span></a><div class="dropdown"><div class="level1 features"><div class="level1-header"><h3>Features</h3></div><div class="level1-inner"><div class="level2-special-content in-store-cashback"><a href="/in-store-cashback/"><span class="feature-icon inst-cashback"></span><span class="feature-header">In-store cashback</span><p class="feature-text">Earn cashback on the High Street</p></a></div><div class="level2-special-content clicksnap"><a href="/clicksnap/"><span class="feature-icon clicksnap"></span><span class="feature-header">ClickSnap grocery</span><p class="feature-text">Earn cashback on your grocery shopping</p></a></div><div class="level2-special-content app"><a href="/app/"><span class="feature-icon mobile-app"></span><span class="feature-header">Quidco mobile app</span><p class="feature-text">Activate exclusive cashback offers in-store</p></a></div><div class="level2-special-content opinions"><a href="/quidco-opinions/"><span class="feature-icon opinions"></span><span class="feature-header">Quidco Opinions</span><p class="feature-text">Earn cashback for completing surveys</p></a></div></div></div><div class="level1 hot-offers"><div class="level1-header"><h3>Hot offers</h3></div><div class="level1-inner"><ul><li><a href="http://www.quidco.com/hot-offers/" rev="Hottest">Hottest</a></li><li><a href="http://www.quidco.com/top-cashback/" rev="Top cashback">Cashback</a></li><li><a href="http://www.quidco.com/mobile-in-store-offers/" rev="Mobile offers">Mobile &amp; In-store</a></li><li><a href="http://www.quidco.com/top-voucher-codes/" rev="Top voucher codes">Voucher codes</a></li><li><a href="http://www.quidco.com/no-brainers/" rev="No brainers">No brainers</a></li><li><a href="http://www.quidco.com/sales/" rev="Sales">Sales</a></li><li><a href="http://www.quidco.com/hidden-gems/" rev="Hidden gems">Hidden gems</a></li></ul></div></div><div class="level1 categories"><div class="level1-header"><h3>Categories</h3></div><div class="level1-inner"><ul><li><a href="http://www.quidco.com/all/">All</a></li><li class="sub"><a href="http://www.quidco.com/high-street/"><i class="icon-chevron-right-large pull-right"></i>High Street</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/in-store-cashback/">In-store cashback</a></li><li class="sub"><a href="http://www.quidco.com/high-street-fashion/"><i class="icon-chevron-right-large pull-right"></i>Fashion</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/clothing/">Clothing</a></li><li><a href="http://www.quidco.com/footwear/">Footwear</a></li><li><a href="http://www.quidco.com/watches-jewellery/">Watches &amp; Jewellery</a></li><li><a href="http://www.quidco.com/lingerie/">Lingerie</a></li><li><a href="http://www.quidco.com/high-street-fashion-accessories/">Accessories</a></li><li><a href="http://www.quidco.com/fashion-sunglasses/">Sunglasses</a></li><li><a href="http://www.quidco.com/fashion-kids-clothing/">Kids Clothing</a></li><li><a href="http://www.quidco.com/fashion-womens-clothing/">Womens Clothing</a></li><li><a href="http://www.quidco.com/fashion-mens-clothing/">Mens Clothing</a></li><li><a href="http://www.quidco.com/fashion-sport-leisure/">Sport &amp; Leisure</a></li><li><a href="http://www.quidco.com/fashion-bags/">Bags</a></li><li><a href="http://www.quidco.com/fashion-tailoring/">Tailoring</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/supermarkets/">Supermarkets</a></li><li class=""><a href="http://www.quidco.com/department-stores/">Department Stores</a></li><li class="sub"><a href="http://www.quidco.com/home-diy/"><i class="icon-chevron-right-large pull-right"></i>Home &amp; DIY</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/homewares/">Homewares</a></li><li><a href="http://www.quidco.com/diy/">DIY</a></li><li><a href="http://www.quidco.com/garden/">Garden</a></li><li><a href="http://www.quidco.com/beds-bedding/">Beds &amp; Bedding</a></li><li><a href="http://www.quidco.com/bathroom-accessories/">Bathroom &amp; Accessories</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/toys-gifts/"><i class="icon-chevron-right-large pull-right"></i>Toys &amp; Gifts</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/toys/">Toys</a></li><li><a href="http://www.quidco.com/flowers/">Flowers</a></li><li><a href="http://www.quidco.com/food-chocolate/">Food &amp; Chocolate</a></li><li><a href="http://www.quidco.com/drink/">Drink</a></li><li><a href="http://www.quidco.com/gadgets/">Gadgets</a></li><li><a href="http://www.quidco.com/gifts/">Gifts</a></li><li><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/health-beauty/"><i class="icon-chevron-right-large pull-right"></i>Health &amp; Beauty</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/health/">Health</a></li><li><a href="http://www.quidco.com/beauty/">Beauty</a></li><li><a href="http://www.quidco.com/fragrances/">Fragrances</a></li><li><a href="http://www.quidco.com/glasses-and-lenses/">Glasses &amp; Lenses</a></li><li><a href="http://www.quidco.com/vitamins-supplements/">Vitamins &amp; Supplements</a></li><li><a href="http://www.quidco.com/mens-grooming/">Men's Grooming</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/parent-kids/"><i class="icon-chevron-right-large pull-right"></i>Parent &amp; Kids</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/maternity-wear/">Maternity Wear</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/sports-fitness/">Sports &amp; Fitness</a></li><li class=""><a href="http://www.quidco.com/auction-selling/">Auction &amp; Selling</a></li><li class=""><a href="http://www.quidco.com/pets/">Pets</a></li><li class=""><a href="http://www.quidco.com/charity/">Charity</a></li><li class=""><a href="http://www.quidco.com/luxury/">Luxury</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/entertainment/"><i class="icon-chevron-right-large pull-right"></i>Entertainment</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/attractions-experiences/">Attractions &amp; Experiences</a></li><li class=""><a href="http://www.quidco.com/books-mags/">Books &amp; Mags</a></li><li class=""><a href="http://www.quidco.com/dating/">Dating</a></li><li class="sub"><a href="http://www.quidco.com/gambling/"><i class="icon-chevron-right-large pull-right"></i>Gambling</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/bingo/">Bingo</a></li><li><a href="http://www.quidco.com/casino/">Casino</a></li><li><a href="http://www.quidco.com/poker/">Poker</a></li><li><a href="http://www.quidco.com/sportsbook/">Sportsbook</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/games/">Games</a></li><li class=""><a href="http://www.quidco.com/movies/">Movies</a></li><li class=""><a href="http://www.quidco.com/music/">Music</a></li><li class=""><a href="http://www.quidco.com/tickets/">Tickets</a></li><li class=""><a href="http://www.quidco.com/adult/">Adult</a></li><li class=""><a href="http://www.quidco.com/fancy-dress/">Fancy Dress</a></li><li class=""><a href="http://www.quidco.com/ancestry/">Ancestry</a></li><li class=""><a href="http://www.quidco.com/surveys-competitions/">Surveys &amp; Competitions</a></li><li class=""><a href="http://www.quidco.com/daily-deals/">Daily Deals</a></li><li class=""><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/fashion/"><i class="icon-chevron-right-large pull-right"></i>Fashion</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/fashion-clothing/"><i class="icon-chevron-right-large pull-right"></i>Clothing</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/kids-clothing/">Kids Clothing</a></li><li><a href="http://www.quidco.com/womens-fashion/">Womens Clothing</a></li><li><a href="http://www.quidco.com/mens-clothing-fashion/">Mens Clothing</a></li><li><a href="http://www.quidco.com/sport-leisure-fashion/">Sport &amp; Leisure</a></li><li><a href="http://www.quidco.com/tailoring/">Tailoring</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/fashion-footwear/">Footwear</a></li><li class=""><a href="http://www.quidco.com/fashion-lingerie/">Lingerie</a></li><li class="sub"><a href="http://www.quidco.com/fashion-accessories/"><i class="icon-chevron-right-large pull-right"></i>Accessories</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/accessories-bags/">Bags</a></li><li><a href="http://www.quidco.com/accessories-sunglasses/">Sunglasses</a></li><li><a href="http://www.quidco.com/acccessories-watches-jewellery/">Watches &amp; Jewellery</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/bags/">Bags</a></li><li class=""><a href="http://www.quidco.com/sunglasses/">Sunglasses</a></li><li class=""><a href="http://www.quidco.com/fashion-watches-jewellery/">Watches &amp; Jewellery</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/mobiles/"><i class="icon-chevron-right-large pull-right"></i>Mobiles</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/pay-monthly/">Pay Monthly</a></li><li class=""><a href="http://www.quidco.com/sim-only/">SIM Only</a></li><li class=""><a href="http://www.quidco.com/pay-as-you-go/">Pay As You Go</a></li><li class=""><a href="http://www.quidco.com/mobile-phone-recycling/">Mobile Phone Recycling</a></li><li class=""><a href="http://www.quidco.com/mobile-broadband/">Mobile Broadband</a></li><li class=""><a href="http://www.quidco.com/accessories-ringtones/">Accessories &amp; Ringtones</a></li><li class=""><a href="http://www.quidco.com/free-sim/">Free Sim</a></li><li class=""><a href="http://www.quidco.com/international-calling/">International Calling</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/electricals/"><i class="icon-chevron-right-large pull-right"></i>Electricals</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/audio-visual/">Audio Visual</a></li><li class="sub"><a href="http://www.quidco.com/cameras-photography/"><i class="icon-chevron-right-large pull-right"></i>Cameras &amp; Photography</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/photo-digital-printing/">Photo &amp; Digital Printing</a></li><li><a href="http://www.quidco.com/personalised-cards/">Personalised Cards</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/computing/"><i class="icon-chevron-right-large pull-right"></i>Computing</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/computers/">Computers</a></li><li><a href="http://www.quidco.com/domains-hosting/">Domains &amp; Hosting</a></li><li><a href="http://www.quidco.com/software/">Software</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/appliances/">Appliances</a></li><li class=""><a href="http://www.quidco.com/electrical-gadgets/">Gadgets</a></li><li class=""><a href="http://www.quidco.com/gaming/">Gaming</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/insurance-finance/"><i class="icon-chevron-right-large pull-right"></i>Insurance &amp; Finance</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/insurance/"><i class="icon-chevron-right-large pull-right"></i>Insurance</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/breakdown-cover/">Breakdown Cover</a></li><li><a href="http://www.quidco.com/car-insurance/">Car Insurance</a></li><li><a href="http://www.quidco.com/home-insurance/">Home Insurance</a></li><li><a href="http://www.quidco.com/insurance-travel/">Travel Insurance</a></li><li><a href="http://www.quidco.com/health-insurance/">Health Insurance</a></li><li><a href="http://www.quidco.com/life-insurance/">Life Insurance</a></li><li><a href="http://www.quidco.com/pet-insurance/">Pet Insurance</a></li><li><a href="http://www.quidco.com/wedding-insurance/">Wedding Insurance</a></li><li><a href="http://www.quidco.com/car-rental-insurance/">Car Rental Insurance</a></li><li><a href="http://www.quidco.com/caravan-insurance/">Caravan Insurance</a></li><li><a href="http://www.quidco.com/boiler-insurance/">Boiler Insurance</a></li><li><a href="http://www.quidco.com/bike-insurance/">Bike Insurance</a></li><li><a href="http://www.quidco.com/business-insurance/">Business Insurance</a></li><li><a href="http://www.quidco.com/landlord-insurance/">Landlord Insurance</a></li><li><a href="http://www.quidco.com/van-insurance/">Van Insurance</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/finance/"><i class="icon-chevron-right-large pull-right"></i>Finance</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/bank-accounts/">Bank Accounts</a></li><li><a href="http://www.quidco.com/credit-cards/">Credit Cards</a></li><li><a href="http://www.quidco.com/loans/">Loans</a></li><li><a href="http://www.quidco.com/savings/">Savings</a></li><li><a href="http://www.quidco.com/credit-rating/">Credit Rating</a></li></ul></div></div></li></ul><div class="level2-special-content"><p>Also...</p><a href="http://www.quidco.com/quidco-compare/"><span class="compare"></span></a><p class="small">Save time and money - <br> Cashback and comparison in one place</p><ul><li><a href="http://www.quidco.com/car-insurance-comparison/"><i class="car"></i>Car insurance</a></li><li><a href="http://www.quidco.com/travel-insurance-comparison/"><i class="travel"></i>Travel insurance</a></li><li><a href="http://www.quidco.com/home-insurance-comparison/"><i class="home"></i>Home insurance</a></li></ul></div></div></div></li><li class="sub"><a href="http://www.quidco.com/utilities/"><i class="icon-chevron-right-large pull-right"></i>Utilities</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/broadband-digital-tv/">Broadband &amp; Digital TV</a></li><li class=""><a href="http://www.quidco.com/gas-electricity/">Gas &amp; Electricity</a></li><li class=""><a href="http://www.quidco.com/landline-phone/">Landline Phone</a></li></ul><div class="level2-special-content"><p>Also...</p><a href="/quidco-compare/broadband/"><span class="compare"></span></a><p class="small">Save time and money - <br> Cashback and comparison in one place</p><ul><li><a href="/quidco-compare/broadband/"><i class="broadband"></i>Broadband</a></li></ul></div></div></div></li><li class="sub"><a href="http://www.quidco.com/travel/"><i class="icon-chevron-right-large pull-right"></i>Travel</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/accommodation/">Accommodation</a></li><li class="sub"><a href="http://www.quidco.com/car-rental/"><i class="icon-chevron-right-large pull-right"></i>Car Rental</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/car-hire/">Car Hire</a></li><li><a href="http://www.quidco.com/car-hire-insurance/">Insurance</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/ferries/">Ferries</a></li><li class=""><a href="http://www.quidco.com/flights/">Flights</a></li><li class=""><a href="http://www.quidco.com/holidays/">Holidays</a></li><li class=""><a href="http://www.quidco.com/parking-transfers/">Parking &amp; Transfers</a></li><li class=""><a href="http://www.quidco.com/rail-coach/">Rail &amp; Coach</a></li><li class=""><a href="http://www.quidco.com/foreign-exchange/">Foreign Exchange</a></li><li class=""><a href="http://www.quidco.com/travel-insurance/">Travel Insurance</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/office-business/"><i class="icon-chevron-right-large pull-right"></i>Office &amp; Business</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/office/">Office</a></li><li class=""><a href="http://www.quidco.com/delivery-services/">Delivery Services</a></li><li class=""><a href="http://www.quidco.com/office-business-insurance/">Business Insurance</a></li><li class=""><a href="http://www.quidco.com/advertising-research/">Advertising &amp; Research</a></li><li class=""><a href="http://www.quidco.com/business-services/">Business Services</a></li><li class=""><a href="http://www.quidco.com/training-recruitment/">Training &amp; Recruitment</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/cars/"><i class="icon-chevron-right-large pull-right"></i>Cars</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class="sub"><a href="http://www.quidco.com/car-rental/"><i class="icon-chevron-right-large pull-right"></i>Car Rental</a><div class="level3"><div class="level3-header"></div><div class="level3-inner"><ul><li><a href="http://www.quidco.com/car-hire/">Car Hire</a></li><li><a href="http://www.quidco.com/car-hire-insurance/">Insurance</a></li></ul></div></div></li><li class=""><a href="http://www.quidco.com/car-sales-services/">Car Sales &amp; Services</a></li><li class=""><a href="http://www.quidco.com/car-accessories/">Car Accessories</a></li></ul></div></div></li><li class="sub"><a href="http://www.quidco.com/food-drink/"><i class="icon-chevron-right-large pull-right"></i>Food &amp; Drink</a><div class="level2"><div class="level2-header"></div><div class="level2-inner"><ul><li class=""><a href="http://www.quidco.com/pubs-bars/">Pubs &amp; Bars</a></li><li class=""><a href="http://www.quidco.com/takeaway-delivery/">Takeaway &amp; Delivery</a></li><li class=""><a href="http://www.quidco.com/restaurants/">Restaurants</a></li><li class=""><a href="http://www.quidco.com/food-drink-chocolate/">Food &amp; Chocolate</a></li><li class=""><a href="http://www.quidco.com/food-drink-drink/">Drink</a></li><li class=""><a href="http://www.quidco.com/food-drink-supermarkets/">Supermarkets</a></li></ul><div class="level2-special-content"><p>Also...</p><a href="http://www.quidco.com/clicksnap/"><span class="clicksnap"></span></a><p class="small">Get paid on your everyday supermarket shopping</p><ul><li><a href="http://www.quidco.com/clicksnap/"><i class="cart"></i>Browse offers</a></li></ul></div></div></div></li></ul></div></div></div></div>			<div class="nav-item search">
 									
-	<div class="search-container promotions ">
+	<div class="search-container ">
 
 																<form id="cas-header-search" action="http://www.quidco.com/search/" method="get">
 							<fieldset>
@@ -147,7 +154,17 @@
 <form class="nice-message-form" action="https://www.quidco.com/sign-in/" method="post">
 		<fieldset>
 		<legend>Sign in</legend><div class="control-group facebook-control-group">
-				<div class="controls"><a href="/facebook-auth/?sign_in_redirect_path=%2Fprivacy-policy%2F%3F" class="btn btn-facebook"> Sign in with <span>Facebook</span></a></div>
+				<div class="controls">
+					<a href="#" signin="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?client_id=AeqNMRDL4g41wLIs6S09rQVRvLgfsHJjCPDvsFDKx1hxJQfxoxesv0aflDUB&amp;response_type=code&amp;scope=openid+profile+email+https%3A%2F%2Furi.paypal.com%2Fservices%2Fpaypalattributes&amp;redirect_uri=https%3A%2F%2Fwww.quidco.com%2Fpaypal-auth%2F%3Freturn%3D1%26redirect%3DL3BheXBhbC1hdXRoLz9zaWduX2luX3JlZGlyZWN0X3BhdGg9cHJpdmFjeS1wb2xpY3k%3D" class="btn btn-block btn-paypal
+					paypal-signin"><i class="icon-paypal-join"></i>Sign in with PayPal</a>
+				</div>
+				<p>
+					<span>OR</span>
+				</p>
+			</div><div class="control-group facebook-control-group">
+				<div class="controls">
+					<a href="/facebook-auth/?sign_in_redirect_path=%2Fprivacy-policy%2F" class="btn btn-block btn-facebook"><i class="icon-facebook-join-sml"></i> Sign in with Facebook</a>
+				</div>
 				<p>OR</p>
 			</div><div class="control-group">
 			<div class="controls">
@@ -156,7 +173,7 @@
 			</div>
 		</div>
 		<input type="hidden" name="action" value="login">
-		<input type="hidden" name="login_token" value="0bf1beef70a4ecab2b2295b95b88845f">
+		<input type="hidden" name="login_token" value="0ac13d4594def0676e54fc69b7545c4b">
 		<div class="control-group clearfix">
 			<div class="controls">
 				<input type="password" id="dd-password" maxlength="32" name="password" placeholder="Quidco password">
@@ -169,18 +186,18 @@
 				<label for="dd-remember-me" class="checkbox span3"><input type="checkbox" id="dd-remember-me" name="remember_me" checked="checked">Keep me signed in</label>
 				<div class="controls pull-right">
 					<input type="submit" name="login" class="btn btn-secondary" value="Sign in"><input type="hidden" name="inbound_filename" value="privacy-policy">
-					<input type="hidden" name="back" value="http://www.quidco.com/privacy-policy/?">
-					<input type="hidden" name="login_back" value="http://www.quidco.com/privacy-policy/?">
+					<input type="hidden" name="back" value="http://www.quidco.com/privacy-policy/">
+					<input type="hidden" name="login_back" value="http://www.quidco.com/privacy-policy/">
 										<input type="hidden" name="code_link_to_reveal" value="">
-					<input type="hidden" name="url" value="http://www.quidco.com/privacy-policy/?">
-					<input type="hidden" name="cobrand_prefix" value=""><input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/?">
+					<input type="hidden" name="url" value="http://www.quidco.com/privacy-policy/">
+					<input type="hidden" name="cobrand_prefix" value=""><input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/">
 						<input type="hidden" name="inbound_filename" value="privacy-policy"></div>
 			</div>
 		</div>
 	</fieldset>
 </form>	</div>
 </div>				<div class="nav-item button join">
-					<a href="/join-quidco/">Join free</a>
+					<a href="/join-quidco/" class="mixpanel-join-button-nav">Join free</a>
 				</div>
 				<div class="nav-item support">
 			<a href="/help/">Support</a>
@@ -192,7 +209,7 @@
 
 <div class="container main-nav-spacer">
 	<div class="row">
-		<div class="span24 basic "></div>
+		<div class="span24 basic  "></div>
 	</div>
 </div>
 
@@ -201,7 +218,8 @@
 
 
 
-		<div class="container platinum-header">
+    <div class="hidden-xs">
+        	<div class="container platinum-header">
 		<div class="row">
 			<div class="span24">
 									
@@ -209,15 +227,14 @@
 					<div id="header-banner">
 						<div class="di-placement" id="placement-platinum-header" data-placement_id="placement-platinum-header" data-placement_name="Platinum Header (Carousel)" data-placement_group="marketing" data-fields="title, description, is_external, link, image_small" data-required_fields="title, description, link">
 
-			<div class="title di-placement-item" data-message-type="marketing" data-message-id="4307" data-message-source="booking" data-fallback="false" data-message-merchant-id="" data-message-bonus-offer="0" data-message-bonus-commission="">
+			<div class="title di-placement-item" data-message-type="marketing" data-message-id="4307" data-message-source="booking" data-fallback="false" data-message-merchant-id="" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571d72a138.28679024</span>
+	<span class="unique_id hidden">053ad266f6dd092.09536906</span>
 
 	<p>Top offers this week</p>
 
 		<a href="/hot-offers/" data-encrypted_href="7c48ac207b142f2a7722478c7c20fabe">See all the latest offers<i class="chevron-standard-small-right"></i></a>
-
-	</div>
+</div>
 <div class="title-image">
 </div>
 
@@ -229,65 +246,75 @@
 		<div class="scroll-button left"><a href=""></a></div>
 		<div class="caro-container">
 			<ul>
-							<li class=" di-placement-item" data-message-type="offer" data-message-id="12152" data-message-source="booking" data-fallback="false" data-message-merchant-id="5050" data-message-bonus-offer="0" data-message-bonus-commission="">
+							<li class=" di-placement-item" data-message-type="offer" data-message-id="18744" data-message-source="booking" data-fallback="false" data-message-merchant-id="391" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571da0a7a2.30730163</span>
-	<a class="banner-item" href="/gap/" rel="GAP" data-encrypted_href="8f3eaa0760ddc0355631b8620c8d612e">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/gap.gif" width="100" height="20" alt="GAP">
-</a>
-<a class="item-description" href="/gap/" rel="GAP" data-encrypted_href="8f3eaa0760ddc0355631b8620c8d612e">Earn 12% cashback</a>
+	<span class="unique_id hidden">053ad266f88c6a6.57797316</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/sky-digital-tv-and-broadband/" rel="Sky Digital TV and Broadband" data-encrypted_href="ac39f4367b6d639021d68801e20e26f601666fa65579ee1e85bb0020875e73aa" data-mixpanel-merchant-id="391" data-mixpanel-merchant-name="Sky Digital TV and Broadband">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/sky-digital-tv-and-broadband.gif" width="100" height="20" alt="Sky Digital TV and Broadband">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/sky-digital-tv-and-broadband/" rel="Sky Digital TV and Broadband" data-encrypted_href="ac39f4367b6d639021d68801e20e26f601666fa65579ee1e85bb0020875e73aa" data-mixpanel-merchant-id="391" data-mixpanel-merchant-name="Sky Digital TV and Broadband">Up to £120 cashback</a>
 
-			</li>
+</li>
 
-<li class=" di-placement-item" data-message-type="offer" data-message-id="12208" data-message-source="booking" data-fallback="false" data-message-merchant-id="3336" data-message-bonus-offer="0" data-message-bonus-commission="">
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18499" data-message-source="booking" data-fallback="false" data-message-merchant-id="6423" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571da595d5.29061086</span>
-	<a class="banner-item" href="/adidas-shop/" rel="adidas shop" data-encrypted_href="2b273b8d8198ccbd35dfea6bca5f6b9a">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/adidas-shop.gif" width="100" height="20" alt="adidas shop">
-</a>
-<a class="item-description" href="/adidas-shop/" rel="adidas shop" data-encrypted_href="2b273b8d8198ccbd35dfea6bca5f6b9a">10% cashback</a>
+	<span class="unique_id hidden">053ad266f8b7211.18636615</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/booking-com/" rel="Booking.com" data-encrypted_href="dda9406d34b67d27c8673570dd7e3cf3" data-mixpanel-merchant-id="6423" data-mixpanel-merchant-name="Booking.com">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/booking-com.gif" width="100" height="20" alt="Booking.com">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/booking-com/" rel="Booking.com" data-encrypted_href="dda9406d34b67d27c8673570dd7e3cf3" data-mixpanel-merchant-id="6423" data-mixpanel-merchant-name="Booking.com">4% cashback</a>
 
-			</li>
+</li>
 
-<li class=" di-placement-item" data-message-type="offer" data-message-id="12098" data-message-source="booking" data-fallback="false" data-message-merchant-id="4321" data-message-bonus-offer="0" data-message-bonus-commission="">
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18462" data-message-source="booking" data-fallback="false" data-message-merchant-id="238" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571da96598.68804472</span>
-	<a class="banner-item" href="/bensons-for-beds/" rel="Bensons for Beds" data-encrypted_href="fc1f85ef0eb3ab343a8e6d0f5cc5a1f933bfd83aa5944daef65bb0d4fd14dcdd">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/bensons-for-beds.gif" width="100" height="20" alt="Bensons for Beds">
-</a>
-<a class="item-description" href="/bensons-for-beds/" rel="Bensons for Beds" data-encrypted_href="fc1f85ef0eb3ab343a8e6d0f5cc5a1f933bfd83aa5944daef65bb0d4fd14dcdd">10% cashback</a>
+	<span class="unique_id hidden">053ad266f8daeb2.39570547</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/expedia/" rel="Expedia" data-encrypted_href="49990b31ed66b2747bafb81d7710fa5e" data-mixpanel-merchant-id="238" data-mixpanel-merchant-name="Expedia">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/expedia.gif" width="100" height="20" alt="Expedia">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/expedia/" rel="Expedia" data-encrypted_href="49990b31ed66b2747bafb81d7710fa5e" data-mixpanel-merchant-id="238" data-mixpanel-merchant-name="Expedia">Up to 10% cashback</a>
 
-			</li>
+</li>
 
-<li class=" di-placement-item" data-message-type="offer" data-message-id="11975" data-message-source="booking" data-fallback="false" data-message-merchant-id="1730" data-message-bonus-offer="0" data-message-bonus-commission="">
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18574" data-message-source="booking" data-fallback="false" data-message-merchant-id="1282" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571dac8944.40980002</span>
-	<a class="banner-item" href="/green-flag-rapid-breakdown-cover/" rel="Green Flag Rapid Breakdown Cover" data-encrypted_href="fedbc6a9d013293371770fd73e490ab99409655a9e1b1025c6896d3eb5cf17dec2f501b8fcde848766eab1f4a0b63c86">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/green-flag-rapid-breakdown-cover.gif" width="100" height="20" alt="Green Flag Rapid Breakdown Cover">
-</a>
-<a class="item-description" href="/green-flag-rapid-breakdown-cover/" rel="Green Flag Rapid Breakdown Cover" data-encrypted_href="fedbc6a9d013293371770fd73e490ab99409655a9e1b1025c6896d3eb5cf17dec2f501b8fcde848766eab1f4a0b63c86">Up to £50 cashback</a>
+	<span class="unique_id hidden">053ad266f901946.78934437</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/lastminute-com/" rel="lastminute.com" data-encrypted_href="d4a02a2fbd0fd8e0e34df2ca06358142" data-mixpanel-merchant-id="1282" data-mixpanel-merchant-name="lastminute.com">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/lastminute-com.gif" width="100" height="20" alt="lastminute.com">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/lastminute-com/" rel="lastminute.com" data-encrypted_href="d4a02a2fbd0fd8e0e34df2ca06358142" data-mixpanel-merchant-id="1282" data-mixpanel-merchant-name="lastminute.com">12% on hotels</a>
 
-			</li>
+</li>
 
-<li class=" di-placement-item" data-message-type="offer" data-message-id="12022" data-message-source="booking" data-fallback="false" data-message-merchant-id="9463" data-message-bonus-offer="0" data-message-bonus-commission="">
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18683" data-message-source="booking" data-fallback="false" data-message-merchant-id="1269" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571db11525.22734842</span>
-	<a class="banner-item" href="/american-express-credit-cards/" rel="American Express Credit Cards" data-encrypted_href="09a82d489933cd459bdb3d7790121397e4f73933b76af8a29d62abe1ac50825b">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/american-express-credit-cards.gif" width="100" height="20" alt="American Express Credit Cards">
-</a>
-<a class="item-description" href="/american-express-credit-cards/" rel="American Express Credit Cards" data-encrypted_href="09a82d489933cd459bdb3d7790121397e4f73933b76af8a29d62abe1ac50825b">Earn £25 cashback</a>
+	<span class="unique_id hidden">053ad266f9af431.61055912</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/betfair-sportsbook/" rel="Betfair Sportsbook" data-encrypted_href="1b08df3df6112ab55c04eae2cc41a7852fa2ae2583c6e372c9742374871519f0" data-mixpanel-merchant-id="1269" data-mixpanel-merchant-name="Betfair Sportsbook">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/betfair-sportsbook.gif" width="100" height="20" alt="Betfair Sportsbook">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/betfair-sportsbook/" rel="Betfair Sportsbook" data-encrypted_href="1b08df3df6112ab55c04eae2cc41a7852fa2ae2583c6e372c9742374871519f0" data-mixpanel-merchant-id="1269" data-mixpanel-merchant-name="Betfair Sportsbook">£26 on Sportsbook</a>
 
-			</li>
+</li>
 
-<li class=" di-placement-item" data-message-type="offer" data-message-id="11966" data-message-source="booking" data-fallback="false" data-message-merchant-id="45" data-message-bonus-offer="0" data-message-bonus-commission="">
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18615" data-message-source="booking" data-fallback="false" data-message-merchant-id="1587" data-message-bonus-offer="0">
 
-	<span class="unique_id hidden">052c0571db56975.89814022</span>
-	<a class="banner-item" href="/lovefilm/" rel="LOVEFiLM" data-encrypted_href="697a66accf3a1759aabd9219387bce26">
-	<img src="//static.quidco.com/uploads/a/img/merchant-tn/lovefilm.gif" width="100" height="20" alt="LOVEFiLM">
-</a>
-<a class="item-description" href="/lovefilm/" rel="LOVEFiLM" data-encrypted_href="697a66accf3a1759aabd9219387bce26">£15 cashback</a>
+	<span class="unique_id hidden">053ad266f9d3566.53323961</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/accorhotels/" rel="Accorhotels" data-encrypted_href="9ed13a25eb00711ce3dcc426cc325b0c" data-mixpanel-merchant-id="1587" data-mixpanel-merchant-name="Accorhotels">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/accorhotels.gif" width="100" height="20" alt="Accorhotels">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/accorhotels/" rel="Accorhotels" data-encrypted_href="9ed13a25eb00711ce3dcc426cc325b0c" data-mixpanel-merchant-id="1587" data-mixpanel-merchant-name="Accorhotels">Up to 15% cashback</a>
 
-			</li>
+</li>
+
+<li class=" di-placement-item" data-message-type="offer" data-message-id="18485" data-message-source="booking" data-fallback="false" data-message-merchant-id="158" data-message-bonus-offer="0">
+
+	<span class="unique_id hidden">053ad266f9f65b8.90293032</span>
+		<a class="banner-item mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-logo" href="/very/" rel="Very" data-encrypted_href="603601f71632d248497564ccf6314e79" data-mixpanel-merchant-id="158" data-mixpanel-merchant-name="Very">
+	<img src="//static.quidco.com/uploads/a/img/merchant-tn/very.gif" width="100" height="20" alt="Very">
+	</a>
+	<a class="item-description mixpanel-merchant-link mixpanel-merchant-link-platinum-header mixpanel-merchant-link-cta" href="/very/" rel="Very" data-encrypted_href="603601f71632d248497564ccf6314e79" data-mixpanel-merchant-id="158" data-mixpanel-merchant-name="Very">9% cashback</a>
+
+</li>
 
 
 						</ul>
@@ -299,12 +326,12 @@
 												</div>
 		</div>
 	</div>
+    </div>
+            <div id="messages_area">
+            </div>
 
-			<div id="messages_area">
-			</div>
-
-		
-		<div class="container page-content-nav" id="privacy-policy">
+        
+    	<div class="container page-content-nav" id="privacy-policy">
 		<div class="row page-title">
 			<div class="span24 border">
 				<h1 class="alternative">Privacy Policy</h1>
@@ -412,17 +439,17 @@
 		</div>
 	</div>
 
-	<div class="container" id="footer">
+    <div class="container" id="footer">
 
-	<div class="row"><div class="span4"><div class="h3">Categories</div><ul class="unstyled"><li><a href="http://www.quidco.com/high-street/">High Street</a></li><li><a href="http://www.quidco.com/entertainment/">Entertainment</a></li><li><a href="http://www.quidco.com/fashion/">Fashion</a></li><li><a href="http://www.quidco.com/mobiles/">Mobiles</a></li><li><a href="http://www.quidco.com/electricals/">Electricals</a></li><li><a href="http://www.quidco.com/insurance-finance/">Insurance &amp; Finance</a></li><li><a href="http://www.quidco.com/utilities/">Utilities</a></li><li><a href="http://www.quidco.com/travel/">Travel</a></li><li><a href="http://www.quidco.com/office-business/">Office &amp; Business</a></li><li><a href="http://www.quidco.com/cars/">Cars</a></li><li><a href="http://www.quidco.com/food-drink/">Food &amp; Drink</a></li></ul></div><div class="span5"><div class="h3">Browse Quidco</div><ul class="unstyled"><li><a href="http://www.quidco.com/browse/">Browse all</a></li><li><a href="http://www.quidco.com/a-z/">Browse A-Z</a></li><li><a href="http://www.quidco.com/newest/">Browse newest</a></li><li><a href="http://www.quidco.com/faster-paying-retailers/">Browse Faster paying</a></li></ul><div class="h3 sub-footer-nav">Hot offers</div><ul class="unstyled"><li><a href="http://www.quidco.com/hot-offers/">Hottest</a></li><li><a href="http://www.quidco.com/top-cashback/">Top cashback</a></li><li><a href="http://www.quidco.com/top-voucher-codes/">Top voucher codes</a></li><li><a href="http://www.quidco.com/mobile-in-store-offers/">Mobile &amp; In-store</a></li><li><a href="http://www.quidco.com/no-brainers/">No brainers</a></li><li><a href="http://www.quidco.com/sales/">Sales</a></li><li><a href="http://www.quidco.com/hidden-gems/">Hidden gems</a></li></ul></div><div class="span5"><div class="h3">Support</div><ul class="unstyled"><li><a href="http://www.quidco.com/help/">Contact Customer support</a></li><li><a href="http://www.quidco.com/help/all/">All help</a></li><li><a href="http://www.quidco.com/accessibility/">Accessibility</a></li></ul><div class="h3 sub-footer-nav">Useful features</div><ul class="unstyled"><li><a href="http://www.quidco.com/in-store-cashback/">In-store cashback</a></li><li><a href="http://www.quidco.com/clicksnap/">ClickSnap</a></li><li><a href="http://www.quidco.com/quidco-compare/">Quidco Compare</a></li><li><a href="http://www.quidco.com/app/">Quidco mobile app</a></li><li><a href="http://www.quidco.com/quidco-opinions/">Quidco Opinions</a></li><li><a href="http://www.quidco.com/toolbar/">Quidco toolbar</a></li><li><a href="http://www.facebook.com/quidco">Quidco on Facebook</a></li><li><a href="http://www.twitter.com/quidco">Quidco on Twitter</a></li><li><a href="http://www.quidco.com/referrals/">Refer a friend</a></li></ul></div><div class="span4"><div class="h3">Company</div><ul class="unstyled"><li><a href="http://www.quidco.com/about/">About</a></li><li><a href="http://www.quidco.com/contact/">Contact</a></li><li><a href="http://www.quidco.com/press/">Press</a></li><li><a href="http://www.quidco.com/in-the-news/">In the news</a></li><li><a href="http://www.quidco.com/about/careers/">Careers</a></li><li><a href="http://www.quidco.com/sitemap/">Site map</a></li></ul><div class="h3 sub-footer-nav">Policies</div><ul class="unstyled"><li><a href="http://www.quidco.com/quidco-account-holder-agreement/">Quidco
-					Account<br>Holder Agreement</a></li><li><a href="http://www.quidco.com/privacy-policy/">Privacy Policy</a></li></ul></div><div class="span6"><div class="h3">Latest from the Quidblog</div><ul class="unstyled"><li class="highlight"><a href="http://www.quidco.com/blog/">Quidblog home</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/ElA8zJumLXE/">Quidco how-to series: Pinning offers</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/nSMSKP0TAEY/">Win 1 of 3 Festive Hampers from Waitrose Wine &amp; Gifts</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/ZLd_GLGZKMY/">Don’t miss a thing this Christmas with Sky Go Extra</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/dr-518s-AAo/">Win The Snowman™ &amp; The Snowdog Christmas Hampers with Thorntons</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/wjOA7z1xxZY/">Win big with Quidco’s Advent Calendar giveaway</a></li></ul></div></div>
+	<div class="row"><div class="span4"><div class="h3">Categories</div><ul class="unstyled"><li><a href="http://www.quidco.com/high-street/">High Street</a></li><li><a href="http://www.quidco.com/entertainment/">Entertainment</a></li><li><a href="http://www.quidco.com/fashion/">Fashion</a></li><li><a href="http://www.quidco.com/mobiles/">Mobiles</a></li><li><a href="http://www.quidco.com/electricals/">Electricals</a></li><li><a href="http://www.quidco.com/insurance-finance/">Insurance &amp; Finance</a></li><li><a href="http://www.quidco.com/utilities/">Utilities</a></li><li><a href="http://www.quidco.com/travel/">Travel</a></li><li><a href="http://www.quidco.com/office-business/">Office &amp; Business</a></li><li><a href="http://www.quidco.com/cars/">Cars</a></li><li><a href="http://www.quidco.com/food-drink/">Food &amp; Drink</a></li></ul></div><div class="span5"><div class="h3">Browse Quidco</div><ul class="unstyled"><li><a href="http://www.quidco.com/browse/">Browse all</a></li><li><a href="http://www.quidco.com/a-z/">Browse A-Z</a></li><li><a href="http://www.quidco.com/newest/">Browse newest</a></li><li><a href="http://www.quidco.com/faster-paying-retailers/">Browse Faster Paying Retailers</a></li></ul><div class="h3 sub-footer-nav">Hot offers</div><ul class="unstyled"><li><a href="http://www.quidco.com/hot-offers/">Hottest</a></li><li><a href="http://www.quidco.com/top-cashback/">Top cashback</a></li><li><a href="http://www.quidco.com/top-voucher-codes/">Top voucher codes</a></li><li><a href="http://www.quidco.com/mobile-in-store-offers/">Mobile &amp; In-store</a></li><li><a href="http://www.quidco.com/no-brainers/">No brainers</a></li><li><a href="http://www.quidco.com/sales/">Sales</a></li><li><a href="http://www.quidco.com/hidden-gems/">Hidden gems</a></li></ul></div><div class="span5"><div class="h3">Support</div><ul class="unstyled"><li><a href="http://www.quidco.com/help/">Contact Quidco Support</a></li><li><a href="http://www.quidco.com/help/all/">All help</a></li><li><a href="http://www.quidco.com/accessibility/">Accessibility</a></li></ul><div class="h3 sub-footer-nav">Useful features</div><ul class="unstyled"><li><a href="http://www.quidco.com/in-store-cashback/">In-store cashback</a></li><li><a href="http://www.quidco.com/clicksnap/">ClickSnap</a></li><li><a href="http://www.quidco.com/quidco-compare/">Quidco Compare</a></li><li><a href="http://www.quidco.com/app/">Quidco mobile app</a></li><li><a href="http://www.quidco.com/quidco-opinions/">Quidco Opinions</a></li><li><a href="http://www.quidco.com/cashback-reminder/">Quidco Cashback Reminder</a></li><li><a href="http://www.facebook.com/quidco">Quidco on Facebook</a></li><li><a href="http://www.twitter.com/quidco">Quidco on Twitter</a></li><li><a href="http://www.quidco.com/referrals/">Refer Quidco</a></li></ul></div><div class="span4"><div class="h3">Company</div><ul class="unstyled"><li><a href="http://www.quidco.com/business/about/">About</a></li><li><a href="http://www.quidco.com/contact/">Contact</a></li><li><a href="http://www.quidco.com/business/press/">Press</a></li><li><a href="http://www.quidco.com/business/in-the-news/">In the news</a></li><li><a href="http://www.quidco.com/about/careers/">Careers</a></li><li><a href="http://www.quidco.com/sitemap/">Site map</a></li></ul><div class="h3 sub-footer-nav">Policies</div><ul class="unstyled"><li><a href="http://www.quidco.com/quidco-account-holder-agreement/">Quidco
+					Account<br>Holder Agreement</a></li><li><a href="http://www.quidco.com/privacy-policy/">Privacy Policy</a></li></ul></div><div class="span6"><div class="h3">Latest from the Quidblog</div><ul class="unstyled"><li class="highlight"><a href="http://www.quidco.com/blog/">Quidblog home</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/ysF6Zdo5xeA/">WIN a Kindle Fire HD for your next holiday</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/5GPRgcJ7e9o/">WIN £100 worth of wine from Waitrose Cellar</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/SSnM5NEBpC8/">Win your Dad a pair of shoes from the UGG spring/summer new arrivals</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/S_Q9byXGGAI/">Win £100 “One 4 All’ Gift Card from the Post Office</a></li><li><a href="http://feedproxy.google.com/~r/quidcoblog/~3/68yceMDHaJo/">WIN one of six cases of wine worth £100</a></li></ul></div></div>
 		<div class="row footer-group">
 		<div class="span6">
-							<a href="http://www.quidco.com/"><img src="http://static.quidco.com/v2/img/cobrand/quidco/logo-footer.png" width="211" height="51" alt="Quidco"></a>
+							<a href="http://www.quidco.com/"><img src="//static.quidco.com/v2/img/cobrand/quidco/logo-footer.png" width="211" height="51" alt="Quidco"></a>
 					</div>
 		<div class="span18">
 									<p>
-				© Copyright 2013, Maple Syrup Media Ltd. Registered in England and Wales,
+				© Copyright 2014, Maple Syrup Media Ltd. Registered in England and Wales,
 				No. 05498276. All rights reserved.<br>
 				Registered Address: 4th Floor, 76-80 Great Eastern Street, London,
 				EC2A&nbsp;3JL<br>
@@ -436,18 +463,47 @@
 </div>
 
 
-		<div id="modal-sign-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modalSignIn" aria-hidden="true">
+<div id="modal-non-verified-visit" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modalVisit" aria-hidden="true">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>			<h3>Authenticate your account</h3>
+	</div>
+	<div class="modal-body">	<p>
+		<i></i>
+		Before you start earning we need you to authenticate your account.<br>
+		Just check your email for the message we sent you and click<br>
+		The "<b>Authenticate account</b>" link.
+	</p>
+	<h4>Haven't received an email?</h4>
+	<p>Please check your junk or spam folders for the message we sent you.<br>
+	If you don't have it, we can <a href="/resend/?email=">resend the email</a></p>
+
+</div>
+		<div class="modal-footer">
+		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	</div>
+</div>
+    <div id="modal-sign-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modalSignIn" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>		<h3>Sign in to Quidco</h3>	</div>
 	<div class="modal-body"><div>
 		<i class="icon-alert-info pull-left"></i>
-		<p>Not yet a member? <a id="join-link" href="/join-quidco/?join_rerouter=&amp;join_redirect_path=">Join free</a></p><p class="transit_merchant">Or just <a href="/visit///no-cashback/" target="_blank" id="transit_merchant_no_cashback_link">go to the retailer</a></p></div>
+		<p>Not yet a member? <a id="join-link" href="/join-quidco/?join_rerouter=&amp;join_redirect_path=" class="mixpanel-join-button-sign-in-modal">Join free</a></p><p class="transit_merchant">Or just <a href="/visit///no-cashback/" target="_blank" id="transit_merchant_no_cashback_link">go to the retailer</a></p></div>
 
 		
 <form class="nice-message-form" action="https://www.quidco.com/sign-in/" method="post">
 		<fieldset>
 		<legend>Sign in</legend><div class="control-group facebook-control-group">
-				<div class="controls"><a href="/facebook-auth/?sign_in_redirect_path=%2Fprivacy-policy%2F%3F" class="btn btn-facebook"> Sign in with <span>Facebook</span></a></div>
+				<div class="controls">
+					<a href="#" signin="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?client_id=AeqNMRDL4g41wLIs6S09rQVRvLgfsHJjCPDvsFDKx1hxJQfxoxesv0aflDUB&amp;response_type=code&amp;scope=openid+profile+email+https%3A%2F%2Furi.paypal.com%2Fservices%2Fpaypalattributes&amp;redirect_uri=https%3A%2F%2Fwww.quidco.com%2Fpaypal-auth%2F%3Freturn%3D1%26redirect%3DL3BheXBhbC1hdXRoLz9zaWduX2luX3JlZGlyZWN0X3BhdGg9cHJpdmFjeS1wb2xpY3k%3D" class="btn btn-block btn-paypal
+					paypal-signin"><i class="icon-paypal-join"></i>Sign in with PayPal</a>
+				</div>
+				<p>
+					<span>OR</span>
+				</p>
+			</div><div class="control-group facebook-control-group">
+				<div class="controls">
+					<a href="/facebook-auth/?sign_in_redirect_path=%2Fprivacy-policy%2F" class="btn btn-block btn-facebook"><i class="icon-facebook-join-sml"></i> Sign in with Facebook</a>
+				</div>
 				<p>OR</p>
 			</div><div class="control-group">
 			<div class="controls">
@@ -456,7 +512,7 @@
 			</div>
 		</div>
 		<input type="hidden" name="action" value="login">
-		<input type="hidden" name="login_token" value="0bf1beef70a4ecab2b2295b95b88845f">
+		<input type="hidden" name="login_token" value="0ac13d4594def0676e54fc69b7545c4b">
 		<div class="control-group clearfix">
 			<div class="controls">
 				<input type="password" id="password-modal" maxlength="32" name="password" placeholder="Quidco password">
@@ -469,19 +525,19 @@
 				<label for="remember-me-modal" class="checkbox span3"><input type="checkbox" id="remember-me-modal" name="remember_me" checked="checked">Keep me signed in</label>
 				<div class="controls pull-right">
 					<input type="submit" name="login" class="btn btn-secondary" value="Sign in"><input type="hidden" name="inbound_filename" value="privacy-policy">
-					<input type="hidden" name="back" value="http://www.quidco.com/privacy-policy/?">
-					<input type="hidden" name="login_back" value="http://www.quidco.com/privacy-policy/?">
+					<input type="hidden" name="back" value="http://www.quidco.com/privacy-policy/">
+					<input type="hidden" name="login_back" value="http://www.quidco.com/privacy-policy/">
 											<input type="hidden" name="from_modal_login" value="true">
 										<input type="hidden" name="code_link_to_reveal" value="">
-					<input type="hidden" name="url" value="http://www.quidco.com/privacy-policy/?">
-					<input type="hidden" name="cobrand_prefix" value=""><input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/?">
+					<input type="hidden" name="url" value="http://www.quidco.com/privacy-policy/">
+					<input type="hidden" name="cobrand_prefix" value=""><input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/">
 						<input type="hidden" name="inbound_filename" value="privacy-policy"></div>
 			</div>
 		</div>
 	</fieldset>
 </form></div>
 	</div>
-	<div id="modal-broken-link" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modalBrokenLink" aria-hidden="true">
+    <div id="modal-broken-link" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modalBrokenLink" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>		<h3 class="step1">Are you sure that the link is broken?</h3>
 	<h3 class="step2">Thank you</h3>	</div>
@@ -491,7 +547,7 @@
 		<button class="btn btn-primary">Confirm</button>
 		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
 	</div></div>
-	<div id="modal-opt-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opt-in" aria-hidden="true">
+    <div id="modal-opt-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opt-in" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>		<h3>Before you get started...</h3>	</div>
 	<div class="modal-body">	<p class="copy-xlarge" id="modal-opt-in-click-through-long-copy">
@@ -507,7 +563,7 @@
 		<button class="btn" id="modal-opt-in-skip" aria-hidden="true" data-dismiss="modal">I'd rather not take part</button>
 	</div>
 </div>
-	<div id="modal-opted-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opted-in" aria-hidden="true">
+    <div id="modal-opted-in" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opted-in" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>		<h3>Nice work, you've opted in</h3>	</div>
 	<div class="modal-body">	<p class="copy-xlarge">
@@ -520,7 +576,7 @@
 		<a href="/christmas/bonuses/"><button class="btn btn-christmas" aria-hidden="true">Start Shopping</button></a>
 	</div>
 </div>
-	<div id="modal-opt-in-click-through" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opt-in-click-through" aria-hidden="true">
+    <div id="modal-opt-in-click-through" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-opt-in-click-through" aria-hidden="true">
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>		<h3>Hold on, you haven't signed up for our Christmas bonus event...</h3>	</div>
 	<div class="modal-body">	<p class="copy-xlarge" id="modal-opt-in-click-through-long-copy">
@@ -543,106 +599,475 @@
 </div>
 
 <div id="chat-need-help">
-	</div>
+    </div>
 
 <div id="di-base-url" class="hide">http://www.quidco.com/</div>
 
 <input type="hidden" id="opt_in_modal_display" value="false">
-<input type="hidden" id="opt_in_modal_promotion_id" value="11">
+<input type="hidden" id="opt_in_modal_promotion_id" value="">
 
-	<a href="/christmas/bonuses/" class="christmas-2013-bonus-box bonus-overlay bonus-5 hide" id="christmas-2013-bonus-box-overlay">
-		<div>
-			<strong>Bonus</strong> gift<br>from Quidco<br><span>Learn more</span>
-		</div>
-	</a>
-	<a href="/christmas/bonuses/" class="christmas-2013-bonus-box new bonus-overlay bonus-5 hide" id="new-christmas-2013-bonus-box-overlay">
-	<div>
-			<p class="copy-medium">Earn a <strong>cashback bonus</strong> each time you shop with our selection of top Christmas retailers.</p>
-			<span>Learn more</span>
-		</div>
-	</a>
+    <a href="/christmas/bonuses/" class="christmas-2013-bonus-box bonus-overlay bonus-5 hide" id="christmas-2013-bonus-box-overlay">
+        <div>
+            <strong>Bonus</strong> gift<br>from Quidco<br><span>Learn more</span>
+        </div>
+    </a>
+    <a href="/christmas/bonuses/" class="christmas-2013-bonus-box new bonus-overlay bonus-5 hide" id="new-christmas-2013-bonus-box-overlay">
+        <div>
+            <p class="copy-medium">Earn a <strong>cashback bonus</strong> each time you shop with our selection of top
+                Christmas retailers.</p>
+            <span>Learn more</span>
+        </div>
+    </a>
+
+    <script type="text/javascript">
+                
+mixpanel_filename = "privacy-policy";
+
+switch (mixpanel_filename) {
+	case "hot-offers":
+		mixpanel_page = $(".mixpanel-page-title").html();
+		break;
+	case "home":
+		mixpanel_page = "My Quidco";
+		break;
+	case "merchant":
+		mixpanel_page = "Retailer page";
+		break;
+	case "merchants":
+		mixpanel_page = "Category page";
+		break;
+	case "search":
+		mixpanel_page = "Search results";
+		break;
+    case "product":
+        mixpanel_page = "Product page";
+        break;
+    case "activity":
+        mixpanel_page = "Activity page";
+		break;
+	default:
+		mixpanel_page = mixpanel_filename;
+}
+
+mixpanel.track_links(".mixpanel-join-button-nav", "Click join button", {
+	"Button location": "Header nav"
+});
+
+mixpanel.track_links(".mixpanel-join-button-sign-in-modal", "Click join button", {
+	"Button location": "Sign-in modal"
+});
+
+$(".container").on("click", ".mixpanel-merchant-link", function(){
+
+	mixpanel_link_clicked = "";
+	mixpanel_element_type_clicked = "Text";
+	mixpanel_clicked_from = mixpanel_page;
+	mixpanel_widget_type = "";
+	mixpanel_promotion_widget_name = "";
+	mixpanel_merchant_id = "";
+	mixpanel_merchant_name = "";
+	mixpanel_URT = "Unknown";
+	mixpanel_only_on_quidco = "Unknown";
+	mixpanel_faster_paying = "Unknown";
+	mixpanel_just_added = "Unknown";
+
+	if($(this).hasClass("mixpanel-merchant-link-name")) {
+		mixpanel_link_clicked = "Merchant name";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-logo")) {
+		mixpanel_link_clicked = "Logo";
+		mixpanel_element_type_clicked = "Image";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-image")) {
+		mixpanel_link_clicked = "Image";
+		mixpanel_element_type_clicked = "Image";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-view-rates")) {
+		mixpanel_link_clicked = "View cashback rates";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-view-offers")) {
+		mixpanel_link_clicked = "View all offers";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-terms")) {
+		mixpanel_link_clicked = "Terms and conditions";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-cta")) {
+		mixpanel_link_clicked = "Go to offer";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-sponsored")) {
+		mixpanel_link_clicked = "Sponsored offers";
+	}
+	if($(this).hasClass("mixpanel-merchant-link-review")) {
+		mixpanel_link_clicked = "Retailer rating";
+	}
+    if($(this).hasClass("mixpanel-merchant-link-bookmark")) {
+        mixpanel_link_clicked = "Bookmark";
+    }
+
+	//Logic for widgets
+	row_obj = $(this).closest(".row");
+	if(row_obj.hasClass("widget")) {
+		if(row_obj.hasClass("trending-merchants")) {
+			mixpanel_widget_type = "Trending";
+		}
+		else if(row_obj.hasClass("pinned-offers")) {
+			mixpanel_widget_type = "Pinned";
+		}
+		else if(row_obj.hasClass("promo")) {
+			mixpanel_widget_type = "Promotion";
+			mixpanel_promotion_widget_name = $(".mixpanel-widget-promo-name").html();
+		}
+		else if(row_obj.hasClass("category-slides")) {
+			mixpanel_widget_type = "Category slides";
+			mixpanel_promotion_widget_name = $(".mixpanel-widget-promo-name").html();
+		}
+		else {
+			mixpanel_widget_type = "Hot offer";
+			if(row_obj.find(".head .exclusive").length) {
+				mixpanel_only_on_quidco = "True";
+			} else {
+				mixpanel_only_on_quidco = "False";
+			}
+			if(row_obj.hasClass("override")) {
+				mixpanel_URT = "True";
+			} else {
+				mixpanel_URT = "False";
+			}
+			if(row_obj.hasClass("new")) {
+				mixpanel_just_added = "True";
+			} else {
+				mixpanel_just_added = "False";
+			}
+			if(row_obj.find(".head .faster-paying").length) {
+				mixpanel_faster_paying = "True";
+			} else {
+				mixpanel_faster_paying = "False";
+			}
+		}
+	}
+
+	//Logic for non-homepage Hot Offers
+	row_obj = $(this).closest(".deal-element");
+	if(row_obj.hasClass("hot-offer-box")) {
+		if(row_obj.find(".exclusive-label").length) {
+			mixpanel_only_on_quidco = "True";
+		} else {
+			mixpanel_only_on_quidco = "False";
+		}
+		if((row_obj.find(".label-faster-paying").length) || (row_obj.find(".label-faster-paying-disabled").length)) {
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+	//Logic for category/search page merchants
+	row_obj = $(this).closest(".merchant-list-item");
+	if(row_obj.parent().hasClass("merchant-list")){
+		if((row_obj.find(".label-faster-paying").length) || (row_obj.find(".label-faster-paying-disabled").length)) {
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+	//Sales placements
+	//----------------
+	//Logic for Platinum header
+	if($(this).hasClass("mixpanel-merchant-link-platinum-header")) {
+		mixpanel_widget_type = "Platinum header";
+	}
+	//Logic for Deal of the week
+	if($(this).hasClass("mixpanel-merchant-link-deal-of-the-week")) {
+		mixpanel_widget_type = "Deal of the week";
+	}
+	//Logic for Free text deal
+	if($(this).hasClass("mixpanel-merchant-link-free-text-deal")) {
+		mixpanel_widget_type = "Free text deal";
+	}
+	//Logic for Today's top tip
+	if($(this).hasClass("mixpanel-merchant-link-todays-top-tip")) {
+		mixpanel_widget_type = "Todays top tip";
+	}
+	//Logic for Mobile & in-store top offer
+	if($(this).hasClass("mixpanel-merchant-link-mobile-instore-top-offer")) {
+		mixpanel_widget_type = "Mobile & in-store top offer";
+	}
+	//Logic for Hot offers list
+	if($(this).hasClass("mixpanel-merchant-link-hot-offers-list")) {
+		mixpanel_widget_type = "Hot offers list";
+	}
+	//Logic for Hotbox
+	if($(this).hasClass("mixpanel-merchant-link-hotbox")) {
+		mixpanel_widget_type = "Hotbox";
+	}
+    //Logic for Related retailer
+    if($(this).hasClass("mixpanel-merchant-link-related")) {
+        mixpanel_widget_type = "Related retailer";
+    }
+    //Logic for Similar retailer
+    if($(this).hasClass("mixpanel-merchant-link-similar")) {
+        mixpanel_widget_type = "Similar retailer";
+    }
+	//Logic for Category hero banner
+	if($(this).hasClass("mixpanel-merchant-link-category-hero-banner")) {
+		mixpanel_widget_type = "Category hero banner";
+	}
+	//Logic for Category staff pick
+	if($(this).hasClass("mixpanel-merchant-link-category-staff-pick")) {
+		mixpanel_widget_type = "Category staff pick";
+	}
+	if($(this).closest(".merchant-list-item").hasClass("category-leader")){
+		mixpanel_widget_type = "Category leader";
+	}
+
+	//Logic for Product offers
+	row_obj = $(this).closest(".offer-item");
+	if(row_obj.hasClass("mixpanel-product-offer")) {
+		if((row_obj.find(".label-faster-paying").length) || (row_obj.find(".label-faster-paying-disabled").length)) {
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+	mixpanel_merchant_id = $(this).attr("data-mixpanel-merchant-id");
+	mixpanel_merchant_name = $(this).attr("data-mixpanel-merchant-name");
+
+	mixpanel.register({
+		"Email authenticated": "No",
+		"Account type": "Basic"
+	});
+	mixpanel.track(
+		"Visit retailer page",
+		{
+			"Link clicked": mixpanel_link_clicked,
+			"Element type clicked": mixpanel_element_type_clicked,
+			"Clicked from": mixpanel_clicked_from,
+			"Widget type": mixpanel_widget_type,
+			"Promotion widget name": mixpanel_promotion_widget_name,
+			"Merchant ID": mixpanel_merchant_id,
+			"Merchant name": mixpanel_merchant_name,
+			"URT": mixpanel_URT,
+			"Only on Quidco": mixpanel_only_on_quidco,
+			"Faster paying": mixpanel_faster_paying,
+			"Just added": mixpanel_just_added,
+			"Logged in": mixpanel_logged_in
+		}
+	);
+});
+
+$(".container").on("click", ".mixpanel-visit-link a, .mixpanel-visit-link-link", function(){
+
+	mixpanel_clicked_from = mixpanel_page;
+	mixpanel_widget_type = "";
+	mixpanel_button_position = "";
+	mixpanel_merchant_id = "";
+	mixpanel_merchant_name = "";
+	mixpanel_URT = "Unknown";
+	mixpanel_only_on_quidco = "Unknown";
+	mixpanel_faster_paying = "Unknown";
+	mixpanel_just_added = "Unknown";
+
+	mixpanel_merchant_id = $(this).parent().attr("data-mixpanel-merchant-id");
+	mixpanel_merchant_name = $(this).parent().attr("data-mixpanel-merchant-name");
+
+	//Logic for widgets
+	row_obj = $(this).closest(".row");
+	if(row_obj.hasClass("widget")) {
+		if(row_obj.hasClass("pinned-offers")) {
+			mixpanel_widget_type = "Pinned";
+		} else {
+			mixpanel_widget_type = "Hot offer";
+			if(row_obj.find(".head .exclusive").length) {
+				mixpanel_only_on_quidco = "True";
+			} else {
+				mixpanel_only_on_quidco = "False";
+			}
+			if(row_obj.hasClass("override")) {
+				mixpanel_URT = "True";
+			} else {
+				mixpanel_URT = "False";
+			}
+			if(row_obj.hasClass("new")) {
+				mixpanel_just_added = "True";
+			} else {
+				mixpanel_just_added = "False";
+			}
+			if(row_obj.find(".head .faster-paying").length) {
+				mixpanel_faster_paying = "True";
+			} else {
+				mixpanel_faster_paying = "False";
+			}
+		}
+	}
+
+	//Logic for merchant page
+	if(mixpanel_page == "Retailer page"){
+		if($(this).parent().hasClass("mixpanel-visit-link-merchant-description")){
+			mixpanel_button_position = "Retailer description";
+		}
+		if($(this).parent().hasClass("mixpanel-visit-link-merchant-logo")){
+			mixpanel_button_position = "Retailer logo";
+		}
+        if($(this).parent().hasClass("mixpanel-visit-link-merchant-main-rate")){
+            mixpanel_button_position = "Retailer rate";
+        }
+		if($(this).hasClass("mixpanel-visit-link-merchant-rate")){
+			mixpanel_button_position = "Sidebar rate";
+			mixpanel_merchant_id = $(this).attr("data-mixpanel-merchant-id");
+			mixpanel_merchant_name = $(this).attr("data-mixpanel-merchant-name");
+		}
+		if($(this).parent().hasClass("mixpanel-visit-link-merchant-button")){
+			mixpanel_button_position = "Sidebar button";
+		}
+		if($(this).parent().hasClass("mixpanel-visit-link-merchant-offer-title")){
+			mixpanel_button_position = "Offer title";
+		}
+		if($(this).parent().hasClass("mixpanel-visit-link-merchant-offer-button")){
+			mixpanel_button_position = "Offer button";
+		}
+		if($(".mixpanel-merchant").hasClass("mixpanel-merchant-has-urt")){
+			mixpanel_URT = "True";
+		} else {
+			mixpanel_URT = "False";
+		}
+		$("#show-deals").each(function(){
+			if($(this).find(".deal-element .exclusive-label").length){
+				mixpanel_only_on_quidco = "True";
+			} else {
+				mixpanel_only_on_quidco = "False";
+			}
+		});
+		if(($(".reviews-icons").find(".label-faster-paying").length) || ($(".reviews-icons").find(".label-faster-paying-disabled").length)){
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+	//Logic for Hot offers pages
+	if(mixpanel_filename == "hot-offers"){
+		if($(this).hasClass("mixpanel-visit-link-merchant-offer-title")){
+			mixpanel_button_position = "Offer title";
+		}
+		if($(this).hasClass("mixpanel-visit-link-merchant-offer-button")){
+			mixpanel_button_position = "Offer button";
+		}
+		mixpanel_merchant_id = $(this).attr("data-mixpanel-merchant-id");
+		mixpanel_merchant_name = $(this).attr("data-mixpanel-merchant-name");
+		if($(this).closest(".hot-offer-box").find(".exclusive-label").length){
+			mixpanel_only_on_quidco = "True";
+		} else {
+			mixpanel_only_on_quidco = "False";
+		}
+		if(($(this).closest(".hot-offer-box").find(".label-faster-paying").length) || ($(this).closest(".hot-offer-box").find(".label-faster-paying-disabled").length)){
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+	//Logic for Product offers
+	row_obj = $(this).closest(".offer-item");
+	if(row_obj.hasClass("mixpanel-product-offer")) {
+		if((row_obj.find(".label-faster-paying").length) || (row_obj.find(".label-faster-paying-disabled").length)) {
+			mixpanel_faster_paying = "True";
+		} else {
+			mixpanel_faster_paying = "False";
+		}
+	}
+
+     mixpanel.register(
+        {
+         "Email authenticated": "No",
+         "Account type": "Basic"
+        }
+     );
+     mixpanel.track(
+         "Visit to retailer site",
+         {
+             "Clicked from": mixpanel_clicked_from,
+             "Widget type": mixpanel_widget_type,
+             "Visit retailer button position": mixpanel_button_position,
+             "Merchant ID": mixpanel_merchant_id,
+             "Merchant name": mixpanel_merchant_name,
+             "URT": mixpanel_URT,
+             "Only on Quidco": mixpanel_only_on_quidco,
+             "Faster paying": mixpanel_faster_paying,
+             "Just added": mixpanel_just_added,
+             "Logged in": mixpanel_logged_in
+         }
+     );
+});
+
+            </script>
 
 <script language="javascript" type="text/javascript">
-	$(document).ready(function () {
-		$('.dropdown-menu').click(function (e) {
-			e.stopPropagation();
-		});
+    $(document).ready(function () {
+        $('.dropdown-menu').click(function (e) {
+            e.stopPropagation();
+        });
 
-		$("body").diLoad();$("body").attachTransitMerchant();$("#store-qsearch")
-				.qsearch({
-					autoSuggest: "true",
-					url: '/get-merchants-by-name.php'
-				});
+        $("body").diLoad();$("body").attachTransitMerchant();$("#store-qsearch")
+                .qsearch({
+                    autoSuggest: "true",
+                    url: '/get-merchants-by-name.php'
+                });
 
-		$('.faster-paying-popover, .label.faster-paying').loadFasterPayingPopover();
-		$('.free-delivery-popover').popover();
-		$("#main-nav").supportLinks();
+        $('.faster-paying-popover, .label.faster-paying').loadFasterPayingPopover();
+        $('.free-delivery-popover').popover();
+        $("#main-nav").supportLinks();
 
-		$("body").notificationsSeen();
-		$('pre.debug').hide();
-		$('a.toggledebug').click(function () {
-			$('pre.debug').toggle()
-		});
+        $("body").notificationsSeen();
+        $('pre.debug').hide();
+        $('a.toggledebug').click(function () {
+            $('pre.debug').toggle()
+        });
 
-		
-		$("#privacy-policy").hashedNavWithScroll({scroll_to:"pp"});
+        
+        $("#privacy-policy").hashedNavWithScroll({scroll_to:"pp"});
 
-						$("body").loginSignUp({onSuccess: function () {}});
-		$("body").headerBanner();
+        //load payapl sign-up plugin
+        $("body").paypalLogin();
 
-		
-		$(".close[data-dismiss]")
-				.on('click', function () {
-					if ($(this).hasAttr('data-remote') && $(this).attr('data-remote').length > 0) {
-						var url = $(this).attr("data-remote").replace('./?close_activity_alert=true&', '/ajax/activity_alert/close_activity_alert/?v2=true&');
-						$.ajax({
-							type: "GET",
-							url: url,
-							success: function () {
-							}
-						});
-					}
-				});
+                        $("body").loginSignUp({});
+        $("body").headerBanner();
 
-				
-		$("body").GoogleAnalyticsEvents();
-		$('#accessibility-menu').accessibility();
-				$('.modal').resizableModal();
-		
-		
-		$("body").placeholderReplace();
-	});
+                    $("body").quidcoAutoRefresh();
+        
+                
+        $('#accessibility-menu').accessibility();
+        $('.modal').resizableModal();
+
+        
+        $("body").placeholderReplace();
+
+            });
 </script>
+
 <script src="/static/v2/js/new-enquiry.js" type="text/javascript"></script>
 
-	
 
-
-<!--media mind tag-->
-
-<!--media mind tag-->
-	<script type="text/javascript">
-		var ebRand = Math.random() + '';
-		ebRand = ebRand * 1000000;
-		//<![CDATA[
-		document.write('<scr' + 'ipt src="//bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=278525&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
-		//]]>
-	</script><script src="//bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=278525&amp;rnd=224949.84057625555"></script>
-	<noscript>
-		<img width="1" height="1" style="border:0"
-			 src="//bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=278525&amp;ns=1"/>
-	</noscript>
-
-<!-- bing tag-->
-
-		<script> dataLayer.push({'event': 'google-events-footer'}); </script>
-
-
+    <script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1032645171;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032645171/?value=0&guid=ON&script=0"/>
+	</div>
+</noscript>
 <div id="flash-fingerprint"></div>
-<!-- 2fa98bf1998163a551ca40dc894b8da19457cff4 , 2fa98bf1998163a551ca40dc894b8da19457cff4 -->
+<!-- f2240005931febe91faefb38c1999c4a3dce8b5a , f2240005931febe91faefb38c1999c4a3dce8b5a -->
 
 
 </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"c66c45f7cc","applicationID":"2121347","transactionName":"ZFZTYRNUC0RQAUYIWl0cckASQQpaHhJACENSUEgYEVoJXlIbHQ==","queueTime":0,"applicationTime":361,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
