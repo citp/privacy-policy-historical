@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tineye.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209030536id_/http%3A//www.tineye.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tineye.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628013913id_/http%3A//tineye.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy - TinEye</title>
@@ -13,11 +13,14 @@
     
     <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet" type="text/css">
 
-    <link href="/css/960_12_col.css?90" media="screen, projection" rel="stylesheet" type="text/css">
-    <link href="/css/reset.css?90" media="screen, projection" rel="stylesheet" type="text/css">
-    <link href="/css/styles.css?90" media="screen, projection" rel="stylesheet" type="text/css">
-    <link href="/css/screen.css?90" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/960_12_col.css?101" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/jquery-ui-1.10.3.custom.min.css?101" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/reset.css?101" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/styles.css?101" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/screen.css?101" media="screen, projection" rel="stylesheet" type="text/css">
+    <link href="/css/nav.css?101" media="screen, projection" rel="stylesheet" type="text/css">
 
     <style type="text/css">p { line-height: 24px; }</style>
 
@@ -38,13 +41,31 @@
 </script>
 
     <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
-    <script src="/js/jquery-1.7.1.min.js?90" type="text/javascript"></script>
-<script src="/js/hint.jquery.js?90" type="text/javascript"></script>
-
     <!--[if lt IE 9]>
 	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
+    <script src="/js/jquery-1.11.0.min.js?101" type="text/javascript"></script>
+    <script src="/js/jquery-ui-1.10.3.custom.min.js?101" type="text/javascript"></script>
+
+    <script src="/js/json2.js?101" type="text/javascript"></script>
+    <script src="/js/nav.js?101" type="text/javascript"></script>
+
+    <script type="text/javascript">
+    $(function () {
+        if ($("#account-nav")) {
+            $("#account-menu").menu();
+            $("header a#welcome").on('mouseover', function() { $("#account-menu").show(); });
+            $("#notice").on('mouseover', function() { $("#account-menu").hide(); });
+            $("#support").on('mouseover', function() { $("#account-menu").hide(); });
+            $("#account-menu").on('mouseleave', function() { $("#account-menu").hide(); });
+        }
+
+        if ($("#notice")) {
+            $("#notice span").on("click", tineye.hide_notice);
+        }
+    });
+    </script>
 
     </head>
     <body>
@@ -60,27 +81,36 @@
     
     
     
-    <header class="with-notice">
-		<div class="container_12">
-            <h1 class="title"><a href="http://tineye.com/">TinEye Reverse Image Search</a></h1>
-			<nav>
-				<ul>
-					<li><a href="http://tineye.com/">Search</a></li>
-					<li><span class="new">new</span> <a href="http://services.tineye.com" onclick="javascript:pageTracker._trackEvent('TinEye Services click through', 'TinEye Services Callout');">TinEye Products</a></li>
-					<li><a href="http://tineye.com/about">About</a></li>
-					<li><a href="https://tineye.com/register">Register</a></li>
-					<li><a href="https://tineye.com/login">Login</a></li>
-				</ul>
-			</nav>
-		</div>
-	</header>
+  <header>
+    <div class="container_12">
+      <h1><a href="/">TinEye</a></h1>
+
+
+      <a id="about" href="http://tineye.com/about"><span>About</span></a>
+
+      <a id="products" href="http://services.tineye.com" onclick="javascript:pageTracker._trackEvent('TinEye Services click through', 'TinEye Services Callout');"><span>Products</span></a>
+      <a id="solutions" href="http://services.tineye.com/solutions"><span>Solutions</span></a>
+      <a id="labs" href="http://labs.tineye.com"><span>Labs</span></a>
+
+      <div id="account-nav">
+        <ul>
+          <li class="small">
+            <a href="https://tineye.com/register">Register</a> |
+            <a href="http://tineye.com/getintouch">Contact Us</a> |
+            <a href="https://tineye.com/login">Log in</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </header>
 
     
-    <div id="notice">
-        <div class="container_12">
-            <p id="donation-header">Has TinEye been useful to you? If so, please <a href="https://tineye.com/contribution">donate</a>!</p>
-        </div>
+  <div id="notice">
+    <div class="container_12">
+      <p id="donation-header">Has TinEye been useful to you? If so, please <a href="https://tineye.com/contribution">donate!</a> <span>x</span></p>
     </div>
+  </div>
 
 
     <div id="article-content">
@@ -257,7 +287,6 @@
 
 
 
-<script type="text/javascript">$('input:text').hint();</script>
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
