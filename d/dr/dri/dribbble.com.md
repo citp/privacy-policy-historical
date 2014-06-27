@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219222951id_/http%3A//dribbble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dribbble.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133345id_/http%3A//dribbble.com/privacy) for the most accurate reproduction.*
 
 # Dribbble - Show and tell for designers
 
@@ -24,7 +24,7 @@ Dribbble also collects potentially personally-identifying information like Inter
 
 ## Gathering of Personally-Identifying Information
 
-Certain visitors to Dribbbles websites choose to interact with Dribbble in ways that require Dribbble to gather personally-identifying information. The amount and type of information that Dribbble gathers depends on the nature of the interaction. For example, we ask visitors who sign up account at [dribbble.com](http://dribbble.com/) to provide a username and email address. Dribbble collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with Dribbble. Dribbble does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Dribbbles websites choose to interact with Dribbble in ways that require Dribbble to gather personally-identifying information. The amount and type of information that Dribbble gathers depends on the nature of the interaction. For example, we ask visitors who sign up account at [dribbble.com](https://dribbble.com/) to provide a username and email address. Dribbble collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitors interaction with Dribbble. Dribbble does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ## Aggregated Statistics
 
