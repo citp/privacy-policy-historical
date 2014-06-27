@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019204217id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal-hawaiian.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628010943id_/http%3A//www.starwoodhotels.com/preferredguest/legal/privacy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -184,9 +184,9 @@ by telephone:
 
 by writing to us at:  
 Starwood Preferred Guest Program  
-P.O. Box 6020  
-Lancaster, California 93539-6020  
-USA
+P.O. Box 20190  
+St. Thomas, ON Canada N5P 4H4  
+
 
 ### Customer Service
 
@@ -200,9 +200,9 @@ by telephone:
 
 by writing to us at:  
 Starwood Preferred Guest Program  
-P.O. Box 6020  
-Lancaster, California 93539-6020  
-USA
+P.O. Box 20190  
+St. Thomas, ON Canada N5P 4H4  
+
 
 Attention: Customer Service
 
