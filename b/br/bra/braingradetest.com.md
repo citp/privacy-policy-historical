@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braingradetest.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209195602id_/http%3A//www.lumosity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingradetest.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627150149id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Lumosity - Privacy Policy - Lumosity
 
@@ -20,8 +20,8 @@ Third parties whose products or services are accessible in Lumosity, including s
 
 The third-party advertising and analytics companies with whom we or our advertisers partner, including Google and New Relic, may place a unique cookie or utilize similar technologies on your browser in order to collect non-personal information about your visits to Lumosity. If you would like more information about this practice and how to control how this information is used by these companies, please visit the following links:
 
-  * <http://www.networkadvertising.org/choice>
-  * [http://www.aboutads.info](http://www.aboutads.info/)
+  * <http://www.networkadvertising.org/choices>
+  * [http://www.aboutads.info/choices](http://www.aboutads.info/choices/)
 
 
 
@@ -65,5 +65,5 @@ We welcome inquiries or comments about our Privacy Policy via our help center [h
 
 Director of Privacy  
 Lumos Labs  
-153 Kearny Street, 6th Floor  
-San Francisco, CA 94108 
+140 New Montgomery Street, Floor 19  
+San Francisco, CA 94105 
