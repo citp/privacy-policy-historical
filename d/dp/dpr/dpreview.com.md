@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the dpreview.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102080140id_/http%3A//www.dpreview.com/misc/privacypolicy%3Futm_campaign%3Dinternal-link%26utm_source%3Dfooter%26utm_medium%3Dtext%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpreview.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627154118id_/http%3A//www.dpreview.com/misc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Digital Photography Review
 
 Last updated: 16 November 2010
 
 Digital Photography Review (“dpreview.com”) knows that you care how information about you is used and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of dpreview.com. By visiting dpreview.com, you are accepting and consenting to the practices described in this Privacy Notice.
+
+Please also see our [Site FAQ](http://www.dpreview.com/misc/sitefaq), specifically as it relates to the privacy of private user-to-user messages.
 
 ## Controllers of Personal Information
 
