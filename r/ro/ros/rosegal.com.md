@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216205915id_/http%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627090414id_/http%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RoseGal.com
 
-rosegal.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below.
-
- **1.The information we collect**  
+rosegal.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below. **1.The information we collect**  
 We believe it’s important for you to know what types of information we collect when you use our site. The information includes your Email, Name, Company Name, Street Address, Post Code, City, Country, Telephone Number, Password and so on. We collect this information in several different ways; to begin with, we use cookies that are needed to compile and aggregate non-personally identifiable information about the visitors to our web site. Personally identifiable information consists of information that is unique to you, such as credit card number and bank account numbers. The information is unique to you. **2.The use of information**  
 Help us make this site easier for you to use by not having to enter information more than once.  
 Helps you quickly locate information, products, and services.  
@@ -18,17 +16,10 @@ We will not sell (or trade or rent) personally identifiable information to other
 
 **What kind of email do you send to the customer?**  
 We send email content to our customers that may include following:  
-Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
+Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 
- **Address and Email**  
-417 Mace Blvd, Ste. J, #338 Davis, CA 95616 USA.
-
-(This address does not accept returns.)  
-+1 909-581-9508
-
-[support@rosegal.com](mailto:)
-
-  
 **How do I unsubscribe?**  
-You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.  
+You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
+
+Email: support@rosegal.com   
 
