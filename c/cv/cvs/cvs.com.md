@@ -1,142 +1,157 @@
-> *The following text is extracted and transformed from the cvs.com privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508180041id_/http%3A//www.cvs.com/investors/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvs.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627224100id_/http%3A//www.cvs.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
-# CVS/pharmacy : Investors & Business : Privacy Statement
+# CVS pharmacy
 
-  
+Effective Date: November 30, 2012.
 
+At CVS Caremark, we are committed to ensuring your privacy. This commitment guides our decisions about how, where, and when to collect and share your personally identifiable information. Our goal is to provide you with clear, easy-to-read explanations about our information practices in one place. This explanatory information applies throughout our businesses and across our websites, mobile apps and social media presences for cvs.com, caremark.com, cvscaremark.com and minuteclinic.com ("Our Sites"). We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to [Contact Us](https://www.cvs.com/help/help_contact_us.jsp). 
 
-| 
+As part of our privacy commitment to you, we want to share with you the basic components of our Privacy Policy:
 
-  
-
-
-| 
-
-  
-  
-[](https://web.archive.org/web/19981205072225id_/http%3A//www.cvs.com/store/index.html)[](https://web.archive.org/web/19981205072225id_/http%3A//www.cvs.com/healthcare/index.html)[](https://web.archive.org/web/19981205072225id_/http%3A//index.html)[](https://web.archive.org/web/19981205072225id_/http%3A//www.cvs.com/employment/index.html)[](https://web.archive.org/web/19981205072225id_/http%3A//www.cvs.com/talktous/index.html)  
-  
-  
----|---|---  
-  
-[](https://web.archive.org/web/19981205072225id_/http%3A//index.html)  
-  
+  * **Transparency.** We will make our privacy commitments easy to find and easy to read.
+  * **Notice.** We will notify you of changes to our Privacy Policy before they take effect.
+  * **Choice.** You have choices about what information you provide to CVS and how CVS Caremark will use your information for marketing purposes.
+  * **Security.** We will use state of the art security safeguards to protect your privacy and the data entrusted to us.
+  * **Control.** We will not sell your personal information to anyone, for any purpose. And when we share information with our subsidiaries or trusted service providers, they too must comply with our privacy commitments.
+  * **Accessibility.** We will listen to your feedback and answer your questions about our Privacy Policy, commitments, and practices.
 
 
-| 
 
-|   
-|  |   
-  
->   **Privacy Statement**
-> 
-> * * *
-> 
->   
-> 
-> 
->   1. **General**
-> 
-> CVS/pharmacy respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information CVS/pharmacy will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit CVS/pharmacy websites or respond to our advertisements.
-> 
->   2. **Personally-Identifiable Information**
-> 
-> CVS/pharmacy will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily.
-> 
-> If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address or phone number listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
-> 
-> When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; and we may provide that information to third parties.
-> 
->   3. **Children**
-> 
-> CVS/pharmacy has no intention of collecting any personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under thirteen years of age. Where appropriate, CVS/pharmacy will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Statement if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.
-> 
->   4. **Non-Personally-Identifiable Information Collected Automatically**
-> 
-> In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement.
-> 
->   5. **Information We May Place Automatically On Your Computer's Hard Drive**
-> 
-> When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, Cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-> 
->   6. **Links to Other Websites**
-> 
-> The CVS/pharmacy site allows links to various other websites. CVS/pharmacy assumes no responsibility for the information practices of sites a user is able to access through the CVS site. These links to other sites do not imply affiliation or endorsement of a linked site.
-> 
->   7. **Who to Contact**
-> 
-> If you have submitted personally-identifiable information through a CVS/pharmacy website or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, 
-> 
-> [webmaster@cvs.com](mailto:webmaster@cvs.com). We will use reasonable efforts to delete this information from our existing files.  
-> 
-> 
+We recognize the trust you place in us to safeguard your privacy. Our privacy commitments are and will remain a fundamental part of our business, and will apply to everyone who has a relationship with CVS Caremark, including patients, customers, and visitors to Our Sites. These commitments may well grow as our business grows and we develop new ways to interact with you, but rest assured that we will keep you informed about these changes through our updated policies.
 
-  
+## The CVS Caremark Privacy Policy
+
+_The Scope of this Privacy Policy_
+
+CVS Caremark Sites and Mobile Apps are owned and operated by the CVS Caremark Corporation.
+
+This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Caremark collects about you.
+
+**_For information about the privacy of your personal health information, please review the CVS Caremark[Notice of Privacy Practices](http://www.cvs.com/patientprivacy)._**
+
+_Your Consent to Use Our Sites_
+
+By using Our Sites, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not use Our Sites.
+
+_The Information We Collect About Customers and Users_
+
+CVS Caremark may collect different types of personal or other information when you visit Our Sites, when you place orders with us, and in other circumstances described in this Privacy Policy. Some examples of the information we collect include:
+
+  * Contact Information, which we use for contacting you regarding your orders or for services which may be of interest to you;
+  * Billing Information necessary for your financial relationship with us, including payment method data you store with us for the completion of orders;
+  * Personal Health Information necessary for filling prescription orders from CVS Caremark. We may also collect Personal Health Information while providing you services at CVS MinuteClinic. This information is also protected under our [Notice of Privacy Practices](http://www.cvs.com/patientprivacy);
+  * Technical Information relating to your use of our Sites or mobile apps.
 
 
-| 
 
-  
+_How We Collect Information About Customers and Users_
 
+CVS Caremark collects information in four primary ways:
 
-| 
-
-  
-  
-[](https://web.archive.org/web/19990508180041id_/http%3A//www.cvs.com/store/index.html)[](https://web.archive.org/web/19990508180041id_/http%3A//www.cvs.com/healthcare/index.html)[](https://web.archive.org/web/19990508180041id_/http%3A//index.html)[](https://web.archive.org/web/19990508180041id_/http%3A//www.cvs.com/employment/index.html)[](https://web.archive.org/web/19990508180041id_/http%3A//www.cvs.com/talktous/index.html)  
-  
-  
----|---|---  
-  
-[](https://web.archive.org/web/19990508180041id_/http%3A//index.html)  
-  
+  * When you provide us with information when you purchase or interact with us about products or services offered by CVS Caremark;
+  * When you register as a user of a CVS Caremark Site;
+  * When we collect technical information automatically when you visit Our Sites; and
+  * When we obtain information about you from your employer or health care plan in connection with your prescription orders.
 
 
-| 
 
-|   
-|  |   
-  
->   **Privacy Statement**
-> 
-> * * *
-> 
->   
-> 
-> 
->   1. **General**
-> 
-> CVS/pharmacy respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information CVS/pharmacy will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit CVS/pharmacy websites or respond to our advertisements.
-> 
->   2. **Personally-Identifiable Information**
-> 
-> CVS/pharmacy will not collect any personally-identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily.
-> 
-> If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address or phone number listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
-> 
-> When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; we may use that information to contact you; and we may provide that information to third parties.
-> 
->   3. **Children**
-> 
-> CVS/pharmacy has no intention of collecting any personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under thirteen years of age. Where appropriate, CVS/pharmacy will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Statement if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.
-> 
->   4. **Non-Personally-Identifiable Information Collected Automatically**
-> 
-> In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement.
-> 
->   5. **Information We May Place Automatically On Your Computer's Hard Drive**
-> 
-> When you view one of our websites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, Cookies allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-> 
->   6. **Links to Other Websites**
-> 
-> The CVS/pharmacy site allows links to various other websites. CVS/pharmacy assumes no responsibility for the information practices of sites a user is able to access through the CVS site. These links to other sites do not imply affiliation or endorsement of a linked site.
-> 
->   7. **Who to Contact**
-> 
-> If you have submitted personally-identifiable information through a CVS/pharmacy website or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, 
-> 
-> [webmaster@cvs.com](mailto:webmaster@cvs.com). We will use reasonable efforts to delete this information from our existing files.  
-> 
-> 
+_How We Use Information About Customers and Users_
 
+CVS Caremark may use the information we collect in a variety of ways to enhance our customers' experiences, including to: 
+
+  * Process your orders for products or services;
+  * Improve customer services;
+  * Respond to your questions;
+  * Deliver you customized content, advertising and savings that may be of interest to you;
+  * Communicate with you regarding updates, offers, and promotions;
+  * Monitor and ensure Site integrity and security;
+  * Investigate, prevent, or take action relating to illegal activities, violations of our Terms of Service or Privacy Policy; and
+  * Aggregate non-identifiable information for business analysis.
+
+
+
+_Online Activity Tracking and Advertising_
+
+  * We collect information about your activity on Our Sites and through our advertisements using technologies such as cookies, including third-party cookies, web beacons and server log files. 
+  * We and our third party business partners use this automatically generated information, as well as other information that we or they have, to provide you with an optimal website experience. This includes measuring the effectiveness of our ads and your interactions them, and tailoring offers and advertisements to you for products or services you may find helpful on Our Sites and third-party sites.
+  * Our Sites may also contain third-party cookies from advertising partners who help serve ads for CVS Caremark and other third parties on Our Sites and elsewhere on the web. To opt-out of these type of cookies, visit the Network Advertising Initiative (NAI) website by clicking [here](http://www.networkadvertising.org/choices/).
+  * Remember that even if you opt-out through the NAI website, you can still receive tailored offers through your CVS ExtraCare savings and rewards program, which can be accessed through mycvs.com. 
+
+
+
+_How We Share Personal Information_
+
+CVS Caremark will only share your personal information in manners described within this Privacy Policy.
+
+  * We do not sell your personal information to anyone for marketing purposes.
+  * With CVS Caremark Companies: CVS Caremark and its subsidiaries may share your personally identifiable information with one another to ensure that your experiences as a customer or user of CVS Caremark Sites is as seamless and enjoyable as possible.
+  * With Third Party Companies: In limited circumstances, CVS Caremark may share your personally identifiable information with third party companies to provide you with technologies, services, or content that may be of interest to you, or to assist us in fulfilling your orders. In all instances in which CVS Caremark shares your personally identifiable information, we require that the recipient agrees to protect it in a manner consistent with this privacy policy.
+  * In Other Circumstances: CVS Caremark may share your information in other limited circumstances, including:
+    * Responding to requests from law enforcement officials or judicial authorities or to otherwise cooperate with authorities pursuant to a legal matter;
+    * Responding to matters of personal or public safety;
+    * In litigation, investigations, and other legal matters where the data is pertinent;
+    * To investigate security incidents;
+    * In the event of the sale or transfer of CVS Caremark or of some of our assets, or in the context of similar business negotiations.
+
+
+
+_Anonymous and Aggregate Information_
+
+  * We also collect technical, non-personal information about Site users.
+  * CVS Caremark may also remove personally identifiable information to create anonymous data.
+  * This data cannot be used to identify any individual, and we will not attempt to re-identify later or allow others to do. 
+  * CVS Caremark uses and shares this data for historical, statistical, or business planning purposes.
+
+
+
+_Our Online Privacy Policy for Children_
+
+  * CVS Caremark Sites are not intended or designed to attract users under the age of 13.
+  * We do not collect personally identifiable information from any person we know to be under the age of 13.
+  * We instruct users under the age of 13 not to send any information to CVS Caremark through our Sites.
+
+
+
+_Our Data Protection and Security Policy_
+
+  * We maintain industry standard security measures, including SSL encryption, to protect sensitive data such as when it is stored by CVS Caremark and when you send it to us. 
+  * We ask all third parties acting on our behalf to protect your information in accordance with this Privacy Policy and to implement comparable data protection and security policies.
+  * We maintain personal information for registered Site users in accordance with our Records Retention Policy and Procedure, and you have the right to change your membership information or status at any time.
+
+
+
+_CVS Caremark Customer Privacy Choice and Control_
+
+  * You have the ability to review, modify, or request the removal of personal information we collect about you. Certain information may be retained, however, to satisfy legal obligations. 
+  * You may choose to limit the types and frequency of communications you receive from CVS Caremark.
+  * You may choose to end your relationship with CVS Caremark at any point.
+
+
+
+_Our Privacy Commitments to Employment Applicants_
+
+  * We collect information, including personal contact information, education and work history, as well as Social Security numbers in order to process and consider your application.
+  * Your application information will not be sold to unaffiliated third-parties for marketing purposes.
+  * The information on your application may be shared with background services and our affiliates and used for certain regulatory, compliance and legal purposes. 
+
+
+
+_Changes to this Privacy Policy_
+
+  * Any changes in our Privacy Policy will be prominently posted on the CVS Caremark Privacy Site so that you are aware of any changes in the data we collect and how we use it.
+  * If you register and provide us with a valid email address, we will notify you by email of any significant changes to this Privacy Policy. You will be given the opportunity to opt in to any significant new uses of personal information if that information was collected prior to the change in this policy. If you do not opt in to any significant new uses of your personal information, that information will continue to be governed by the policy in effect at the time your information was collected.
+  * If you do not register, we will not have your email address and cannot provide you with any notifications of Privacy Policy changes.
+
+
+
+_Your Personal Health Information_
+
+In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act (frequently referred to as 'HIPAA'). For example, when you are submitting personal health information for prescription refills, or you provide information to during a visit to the MinuteClinic or through the Patient Center My Records at MinuteClinic.com, we are subject to the requirements of HIPAA.
+
+In these circumstances, the terms of CVS Caremark's [HIPAA Notice of Privacy Practices](http://info.cvscaremark.com/patient-privacy) will apply.
+
+If you have questions about which policy applies to information you have provided us, please do not hesitate to [Contact Us](https://www.cvs.com/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287.
+
+_Your California Privacy Rights_
+
+Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed personal information to any third parties for the third parties' direct marketing purposes. As explained elsewhere in this Privacy Policy, CVS Caremark will not sell or transfer your personal information with third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments to our customers and Site users should not hesitate to [Contact Us](https://www.cvs.com/help/help_contact_us.jsp), or call us toll-free at (888) 607-4287.
