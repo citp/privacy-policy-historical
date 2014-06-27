@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110550id_/http%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627130258id_/http%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
 
 # Legal & Privacy
 
@@ -32,11 +32,12 @@ The GM information contained herein is designed to be true and accurate. GM rese
 
 **Caution Notice**
 
-Please be informed to all concerned that GM shall not be responsible for any misrepresentation / internet scam / email scam for promising/advertising to provide job/vacancy in the Chevrolet Sales India Private Limited or General Motors India Private Limited. GMI/CSIPL hire the persons directly through their HR Department. For any information or clarification, please contact at krunal.patel@gm.com.
+Please be informed to all concerned that GM shall not be responsible for any misrepresentation / internet scam / email scam for promising/advertising to provide job/vacancy in the Chevrolet Sales India Private Limited or General Motors India Private Limited. GMI/CSIPL hire the persons directly through their HR Department.  
+
 
 **Indemnity**
 
-You agree to indemnify and hold harmless GM, its parent companies, subsidiaries, affiliates, officers, directors, agents, employees, dealers and suppliers, from any claim, loss, demand, action, or damage, including Attorney's fees, made by any third party due to, arising out of or related to your use of this website, your violation of the terms & conditions, any right of another, your connection to the website.
+****You agree to indemnify and hold harmless GM, its parent companies, subsidiaries, affiliates, officers, directors, agents, employees, dealers and suppliers, from any claim, loss, demand, action, or damage, including Attorney's fees, made by any third party due to, arising out of or related to your use of this website, your violation of the terms & conditions, any right of another, your connection to the website.
 
 **Laws And Jurisdiction**
 
