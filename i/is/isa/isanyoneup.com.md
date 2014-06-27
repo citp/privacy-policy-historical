@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isanyoneup.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205044242id_/http%3A//www.bullyville.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isanyoneup.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627151338id_/http%3A//www.bullyville.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # BullyVille :: Take the bull by the horns.
 
