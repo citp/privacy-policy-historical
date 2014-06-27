@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219015743id_/http%3A//www.mysecuritycenter.com/eshop/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysecuritycenter.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627223154id_/http%3A//www.mysecuritycenter.com/privacy-policy) for the most accurate reproduction.*
 
-# MYSecurityCenter - Antivirus, Antispyware, Firewall, SpamFilter and Online Backup
+# Free Antivirus, Firewall, Spyware Probably the best security for PC.
 
 ## Privacy policy
 
