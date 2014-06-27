@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rtings.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071409id_/http%3A//www.rtings.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtings.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627190235id_/http%3A//www.rtings.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Last updated: July 25, 2012
 
 Rtings.com cares about the privacy of your information that you provided us.
 
