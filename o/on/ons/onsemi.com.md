@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224043144id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627170549id_/https%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
 
 # Privacy Policy
 
