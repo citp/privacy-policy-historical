@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116204310id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627021652id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Pharmapacks-LLC/validation?rid=a9f16de6-7085-4a5c-be14-cee570eaf370 "TRUSTe online privacy certification")
 
-_Effective Date: 09/07/2013_
+_Effective Date: 04/14/2014_
 
-Pharmapacks LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program and this privacy policy covers only information that is collected through www.pharmapacks.com.
+Pharmapacks LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program and this privacy policy covers only information that is collected through www.pharmapacks.com.
 
-We are committed to protecting your privacy. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell, share or rent your personal information to third parties.
+We are committed to protecting your privacy. We will share your personally identifiable information with third parties only in the ways that are described in this privacy policy. We do not sell, share or rent your personally identifiable information to third parties.
 
 **Personally Identifiable Information We Collect**
 
-We collect personal information in different ways, for different reasons. General info (e.g. name, address, e-mail, phone number) is collected for the purpose of order fulfillment and if need be, follow up to ensure a satisfactory customer experience. Information associated with a state or federally issued ID is collected and stored to monitor the sale (and amount) of Ephederine, Pseudoephederine and Phenylpropanolamine to an individual customer in a specific time frame. Personal health conditions and/or allergies of a specific customer are gathered to ensure a proper drug therapy utilization review.
+We collect personally identifiable information in different ways, for different reasons. General info (e.g. name, address, e-mail, phone number) is collected for the purpose of order fulfillment and if need be, follow up to ensure a satisfactory customer experience. Information associated with a state or federally issued ID is collected and stored to monitor the sale (and amount) of Ephederine, Pseudoephederine and Phenylpropanolamine to an individual customer in a specific time frame. Personal health conditions and/or allergies of a specific customer are gathered to ensure a proper drug therapy utilization review.
 
 **How We Use Your Personally Identifiable Information**
 
@@ -42,7 +42,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Business Transitions**
 
-In the event Pharmapacks, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days prior to any such change in ownership or control of your personal information.
+In the event Pharmapacks, LLC goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days prior to any such change in ownership or control of your personally identifiable information, as well as choices you have regarding your personally identifiable information.
 
 **Access to Personally Identifiable Information**
 
@@ -52,7 +52,7 @@ We will retain your information for as long as your account is active or as need
 
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+The security of your personally identifiable information is important to us. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 **Cookies**
 
@@ -62,9 +62,9 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Most notably, if you reject all cookies, you will not be able to sign in or make a purchase through our shopping cart.
 
-The use of cookies by our partners, affiliates and service providers is not covered by our privacy statement. We do not have access or control over these cookies.
+The use of cookies by our partners, affiliates and service providers is not covered by our privacy policy. We do not have access or control over these cookies.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+We and our third party partners employ a software technology clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information. To learn more about our advertising company's use of clear gifs, please go to [www.linkshare.com](http://www.linkshare.com/).
 
 **Log Files**
 
@@ -83,9 +83,9 @@ We partner with a third party ad network to either display advertising on our We
 
 This Web site contains links to other sites that are not owned or controlled by Pharmapacks, LLC. Please be aware that we, Pharmapacks, LLC, are not responsible for the privacy practices of such other sites.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+We encourage you to be aware when you leave our site and to read the privacy policy of each and every Web site that collects personally identifiable information.
 
-This privacy statement applies only to information collected by this Web site.
+This privacy policy applies only to information collected by this Web site.
 
 **Social Media Widgets**
 
@@ -97,11 +97,11 @@ We post customer reviews on our web site which may contain personally identifiab
 
 **Public Forums**
 
-Our Web site offers publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our public forum, contact us at [forums@pharmapacks.com](mailto:forums@pharmapacks.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our public forum, contact us at [forums@pharmapacks.com](mailto:forums@pharmapacks.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
-**Changes in this Privacy Statement**
+**Changes in this Privacy Policy**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Contact Us**
 
