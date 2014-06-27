@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155858id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627121715id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [640wgst.com Login](https://web.archive.org/640wgst.com-login)
-  * [alpha-innotec.at Login](https://web.archive.org/alpha-innotec.at-login)
-  * [americancurves.com Login](https://web.archive.org/americancurves.com-login)
-  * [ablufttoilette.de Login](https://web.archive.org/ablufttoilette.de-login)
-  * [applestan.com Login](https://web.archive.org/applestan.com-login)
-  * [lmu.edu Login](https://web.archive.org/lmu.edu-login)
-  * [firstnationalcc.com Login](https://web.archive.org/firstnationalcc.com-login)
-  * [reelzhot.com Login](https://web.archive.org/reelzhot.com-login)
-  * [javblog.biz Login](https://web.archive.org/javblog.biz-login)
-  * [myclique.me Login](https://web.archive.org/myclique.me-login)
+  * [agencyspy.com Login](https://web.archive.org/agencyspy.com-login)
+  * [adthe.fm Login](https://web.archive.org/adthe.fm-login)
+  * [aha-plakate.de Login](https://web.archive.org/aha-plakate.de-login)
+  * [5950.com Login](https://web.archive.org/5950.com-login)
+  * [adsa.co.uk Login](https://web.archive.org/adsa.co.uk-login)
+  * [diariodopoder.com.br Login](https://web.archive.org/diariodopoder.com.br-login)
+  * [ari.ru Login](https://web.archive.org/ari.ru-login)
+  * [simplypsychology.org Login](https://web.archive.org/simplypsychology.org-login)
+  * [odloty.pl Login](https://web.archive.org/odloty.pl-login)
+  * [allshop.es Login](https://web.archive.org/allshop.es-login)
 
 
