@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211085547id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musthavemenus.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015210id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # MustHaveMenus Privacy Policy
 
@@ -6,7 +6,19 @@ MustHaveMenus.com values your privacy. You may contact us any time to learn more
 
 **Collection and Use of Personal Information by MustHaveMenus.com**
 
-With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). **
+With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to [Contact@MustHaveMenus.com](mailto:Contact@MustHaveMenus.com). 
+
+**Google Analytics Demographics**
+
+MustHaveMenus uses data collected from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to better understand our customer needs and improve our service and products. To opt-out of Google Analytics for Display Advertising and customize Google Display Network ads, go to 
+
+[_Ad Settings_](https://www.google.com/settings/ads)
+
+or use 
+
+[_other opt-out settings_](https://tools.google.com/dlpage/gaoptout/)
+
+. **
 
 Cookies
 
