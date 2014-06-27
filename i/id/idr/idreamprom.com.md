@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idreamprom.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816164038id_/http%3A//www.idreamprom.com/faq.php%3Ffaqs_id%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idreamprom.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627065512id_/http%3A//www.idreamprom.com/faq.php%3Ffaqs_id%3D42) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to Dreamprom.com Customer Support department at [Service@Dreamprom.com](mailto:Service@Dreamprom.com) Please do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to Dreamprom.com Customer Support department at [customer@idreamprom.com](mailto:customer@idreamprom.com) Please do not email your credit card number or other sensitive information.
 
 OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
@@ -55,4 +55,4 @@ As you might expect from Dreamprom.com, the majority of information that we coll
 
 UPDATES TO THIS POLICY
 
-If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us [Service@Dreamprom.com](mailto:Service@Dreamprom.com).
+If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us [customer@idreamprom.com](mailto:customer@idreamprom.com).
