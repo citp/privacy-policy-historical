@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208025758id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627035439id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
+
+## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
