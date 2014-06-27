@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406025233id_/http%3A//tabelog.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabelog.us privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627090107id_/http%3A//www.tabelog.us/privacy_policy/20120915) for the most accurate reproduction.*
 
 # Tabélog New York
 
@@ -8,7 +8,7 @@ Last modified: Sep 15, 2012
 
 Tabélog, Inc. (" **Company** " or " **We** ") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website tabelog.us (our " **Website** ") and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website http://www.tabelog.us/ (our " **Website** ") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -27,7 +27,7 @@ It does not apply to information collected by:
 
 The Website may collect information regarding restaurants or Users representing restaurants through such Users’ offline correspondence.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. (see Changes to our [Privacy Policy](http://tabelog.us/privacy_policy/index)) Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. (see Changes to our [Privacy Policy](http://www.tabelog.us/privacy_policy/index)) Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 ### Children Under the Age of 13
 
@@ -35,8 +35,8 @@ Our Website is not intended for children under 13 years of age. No one under age
 
 Tabélog, Inc.  
 Attn: Privacy Officer  
-411 Lafayette Street 6th Floor  
-New York NY 10003, USA  
+54 West 40th Street #424  
+New York, NY 10018, USA  
 
 
 ### Information We Collect About You and How We Collect It
@@ -127,7 +127,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [Terms of Use](http://tabelog.us/terms_of_use) and other agreements, including for billing and collection purposes, as appropriate.
+  * To enforce or apply our [Terms of Use](http://www.tabelog.us/terms_of_use) and other agreements, including for billing and collection purposes, as appropriate.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -147,7 +147,7 @@ You can review and change your personal information by logging into the Website 
 
 You may also send us an e-mail at  to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If we delete your User Contributions from the Website at our sole discretion in accordance with our terms of use, copies of your User Contributions may still remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](http://tabelog.us/terms_of_use).
+If we delete your User Contributions from the Website at our sole discretion in accordance with our terms of use, copies of your User Contributions may still remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our [Terms of Use](http://www.tabelog.us/terms_of_use).
 
 ### Your California Privacy Rights
 
@@ -155,8 +155,8 @@ California Civil Code Section § 1798.83 permits users of our Website that are C
 
 Tabélog, Inc.  
 Attn: Privacy Officer  
-411 Lafayette Street 6th Floor  
-New York NY 10003, USA  
+54 West 40th Street #424  
+New York, NY 10018, USA  
 
 
 ### Data Security
@@ -179,6 +179,6 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 Tabélog, Inc.  
 Attn: Privacy Officer  
-411 Lafayette Street 6th Floor  
-New York NY 10003, USA  
+54 West 40th Street #424  
+New York, NY 10018, USA  
 
