@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229134647id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6pm.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627160323id_/http%3A//www.6pm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 6pm.com
 
