@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220112710id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortunebuilders.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627105246id_/http%3A//www.fortunebuilders.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FortuneBuilders
+# Privacy Policy - FortuneBuilders
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-### Personal Information Our Company Collects and How It Is Used
+### Personal Information Our Company Collects and How it is Used
 
 Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties.
 
@@ -50,7 +50,7 @@ If you are a Visitor or Member we may use a cookie to save your settings and to 
 
 Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. \
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
 
 Our Company Commitment to Children’s Privacy. Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
 
