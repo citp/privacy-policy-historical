@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamefuse.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212010316id_/http%3A//www.gamefuse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefuse.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013034id_/http%3A//gamefuse.com/privacy) for the most accurate reproduction.*
 
 # GameFuse | Play Free Games | Privacy Policy
 
-This Privacy Policy applies to the website [www.GameFuse.com](http://www.gamefuse.com/) and other websites associated with such URL (collectively the “Website”) operated by Changyou.com (US), Inc. (“CHANGYOU”). By using the Website, you consent to the practices described herein. We may update this Privacy Policy from time to time to reflect company and customer feedback. You should periodically review this Privacy Policy to stay informed of our practices. Your continued use of the Website following any changes to this Privacy Policy constitutes your acceptance of those changes.
+This Privacy Policy applies to the website [www.GameFuse.com](http://www.gamefuse.com/) and other websites associated with such URL (collectively the “Website”) operated by Changyou.com (US), LLC. (“CHANGYOU”). By using the Website, you consent to the practices described herein. We may update this Privacy Policy from time to time to reflect company and customer feedback. You should periodically review this Privacy Policy to stay informed of our practices. Your continued use of the Website following any changes to this Privacy Policy constitutes your acceptance of those changes.
 
 ### 1\. Collection of your Personal Information
 
@@ -47,7 +47,7 @@ We use commercially reasonable efforts to secure your Personal Information from 
 You may review, correct, update, or delete your Personal Information maintained by us. Please provide us with sufficient proof of your identity and appropriate documentation of corrections to be made. You can contact us at:
 
 Please send such notice to:  
-ChangYou.com (US), Inc.  
+ChangYou.com (US), LLC.  
 2700 Augustine Dr. Suite 165  
 Santa Clara, CA 95054  
 [Email: [service@us.changyou.com](mailto:service@us.changyou.com)]
