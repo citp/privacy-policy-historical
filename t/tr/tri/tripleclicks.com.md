@@ -1,31 +1,44 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214060415id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221730id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
 TripleClicks members are saving up to 99% on these items, which are being bid on right now!
 
-Canon PowerShot A2300 16.0 MP Digital Camera (silver or black)
+Apple iPad Air (silver)
 
-Current Price: $4.44*
+Current Price: $23.65*
 
 [BID NOW!](https://web.archive.org/pb.php?atype=F)
 
+Silver76Pack--Silver Bar (1 Ounce) + 75 TCredits
+
+Current Price: $5.00*
+
+[BID NOW!](https://web.archive.org/pb.php?atype=M)
+
 TCredits - 300 pack
 
-Current Price: $0.03*
+Current Price: $0.39*
 
 [BID NOW!](https://web.archive.org/pb.php?atype=X)
-
-Wireless 5-in-1 Headphones & 50 TCredits
-
-Starting In: 25m*
 
 Bid on these items  
 before they're gone!
 
 *Refresh browser for updated information
 
-[](https://web.archive.org/ECA/ECAGW.php)
+  
+
+
+  
+• FREE Monthly TCredits!  
+• FREE Monthly Member Rewards Points! (MRP)  
+• Win $100's in our weekly drawing!  
+• Earn unlimited add'l TCredits/MRP!  
+• Exclusive member-only specials!  
+• Free song of the month download!
+
+[Join the wave](https://web.archive.org/Wave3/Wave3.php) and get all this & more!
 
 [](http://www.facebook.com/pages/TripleClickscom/172874702800289) [](http://twitter.com/#!/GoTripleClicks)
 
