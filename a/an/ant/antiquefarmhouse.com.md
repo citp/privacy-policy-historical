@@ -1,92 +1,65 @@
-> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225003108id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628010031id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Antique Farm House
 
 This privacy policy sets out how Antique Farm House uses and protects any information that you give Antique Farm House when you use this website. Antique Farm House is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Antique Farm House may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-## What we collect
+## **Collection of Your Information**
 
-We may collect the following information:
+We collect information as part of operating our website and providing services.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+• We may ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, and treatments of interest.
 
+• We collect additional information about your interaction with our sites and services without identifying you as an individual. For example, we receive certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also use Web site analytics tools on our sites to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser’s width and height.
 
+• We use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on our sites and services.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+• We also deliver advertisements and provide website analytics tools on third-party sites and services, and we collect information about page views on these third party sites as well.
 
-## What we do with the information we gather
+• When you receive newsletters or updates from us by email, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+• In order to offer you a more consistent and personalized experience in your interactions with our site, we may supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+**Use of Your Personal Information**
 
+We collect and use your personal information to operate and improve our site and services. These uses include providing you with more effective customer service; making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our services and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
+We also use your personal information to communicate with you. We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements.  Additionally, with your permission, we may also occasionally send you surveys or promotional mailings to inform you of other products or services available from us or our affiliates, and/or share your personal information with our business partners so they may send you information about their products and services. You can opt-out from receiving newsletters or promotional e-mail anytime by using this web form or by following the steps as described in the respective newsletter or promotional e-mail.
 
-## Security
+Personal information collected on our sites and services may be stored and processed in the United States or any other country in which we maintain facilities.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**Sharing of Your Personal Information**
 
-## How we use cookies
+Except as described in this statement, we will not disclose your personal information outside of our company and its controlled subsidiaries and affiliates without your consent.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose than for delivering the service to us in accordance with our instructions and policies.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+**Security of Your Personal Information**
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information we collect on computer systems with limited access, which are located in controlled facilities. When we transmit highly confidential information (such as a password) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-## Links to other websites
+If a password is used to help protect your personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Display of Advertising**
 
-## Controlling your personal information
+We may display advertising to you. When we display online advertisements to you, we will place one or more persistent cookies on your computer in order to recognize your computer each time we display an ad to you. Because we serve advertisements on our own websites as well as those of our advertising partners, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed. This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Re-Marketing**
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at yourbestfriends@antiquefarmhouse.com 
+We engage in remarketing efforts with third-parties such as Google.  To engage in remarketing, we may add a small piece of code to specific pages of our site that reads a user’s cookie and adds that cookie to a remarketing list.  For example, we may add this code to our homepage so that when people visit our homepage, their cookie ID is added to the remarketing list.  Using that list, we may create ad campaigns with a specific message for people who have visited our homepage while they browse other sites.
 
+**Use of Cookies**
 
+Our website uses “cookies,” which are small text files placed on your hard disk by a Web server. Cookies contain information that can later be read by a Web server in the domain that issued the cookie to you.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content and targeted advertising on your later visits to these sites. We may also use cookies as described in the Display of Advertising sections of this privacy statement.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies, and some advertising preferences that are dependent on cookies may not be able to be respected.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**Use of Web Beacons**
 
-## List of cookies we collect
+Our website pages may contain electronic images known as Web beacons – sometimes called single-pixel gifs – that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
 
-The table below lists the cookies we collect and what information they store.
+We may also employ Web beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our sites. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information.
 
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+Finally, we may work with other companies that advertise on our sites to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on our site results in action on the advertiser’s site.
