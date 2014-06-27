@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628004353id_/http%3A//www.crownpeak.com/privacy/index.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | CrownPeak
+# Privacy
 
-  * [Company](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/company.html)
-  * [Management](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/management.html)
-  * [Investors](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/investors.html)
-  * [Board of Directors](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/board.html)
-  * [Careers](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/careers.html)
-  * [Privacy](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/privacy.html)
-  * [Testimonials](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/testimonials.html)
-  * [Contact Us](https://web.archive.org/web/20131113123603id_/http%3A//www.crownpeak.com/contact.html)
+  * [ About Us](https://web.archive.org/About-Us.aspx)
+  * [ Management](https://web.archive.org/Management.aspx)
+  * [ Investors](https://web.archive.org/Investors.aspx)
+  * [ Board of Directors](https://web.archive.org/Board.aspx)
+  * [ Careers](https://web.archive.org/Careers.aspx)
+  * [ Privacy](https://web.archive.org/privacy/index.aspx)
+  * [ Testimonials](https://web.archive.org/Testimonials.aspx)
+  * [ Awards](https://web.archive.org/Awards.aspx)
+  * [ Contact Us](https://web.archive.org/Contact.aspx)
 
 
 
 ### Introduction
-
-[](http://privacy.truste.com/privacy-seal/CrownPeak-Technology/validation?rid=801179f9-bc32-4941-9eec-b93ac84c6627)
 
 CrownPeak Technology (“CrownPeak”) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following outlines our information gathering and dissemination practices; our collection, use and disclosure of information we collect through this website www.crownpeak.com and other websites owned by CrownPeak accessible by our customers’ end users or by the general public. These websites are collectively referred to in this privacy statement as “our website”, “this website” or their respective plurals. Our use of information collected through our website shall be limited to the purposes outlined in the CrownPeak Services Agreement executed between CrownPeak and your company or, in the case of general public access, by the principles outlined in this privacy statement. Please take a moment to familiarize yourself with our privacy statement and let us know if you have any questions.
 
@@ -27,7 +26,7 @@ To show our commitment to privacy, we have entered into three voluntary data pri
 
 #### Safe Harbor
 
-We follow privacy principles with respect to transfers of personal information from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States.
+We follow privacy principles with respect to transfers of personal information from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) and from Switzerland to the United States.
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor"). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47).
 
@@ -103,7 +102,7 @@ Our websites contains links to third party sites. We are not responsible for the
 
 ### Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 CrownPeak uses secure sockets layer (SSL) for securing communications and transactions across the Internet. The SSL protocol uses digital certificates to create and secure confidential communications between the browser and our web server. Data transmitted over an SSL connection cannot be tampered with or forged without the two parties (you and CrownPeak) becoming immediately aware of the tampering. A key or padlock icon in the browser window identifies the security mode of most popular browsers. When the browser is running in “normal” mode, the key is broken or the padlock is open. Once an SSL connection has been established, the key becomes whole, or the padlock becomes closed, indicating that the browser is now in “secure” mode. SSL is supported in the vast majority of browsers, which means that almost anyone with a browser can benefit from SSL encryption. CrownPeak uses certificates from well known providers of digital trust services that enable businesses and consumers to engage in commerce and communications with confidence.
 
@@ -125,7 +124,7 @@ We set a persistent cookie to store preference information and enable “Remembe
 
 If you reject cookies, you may still use our website, but your ability to use some areas of our website, will be limited. In some cases, parts of our website will not work.
 
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies. 
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
 
 #### Clear Gifs (Web Beacons/Web Bugs)
 
@@ -157,7 +156,7 @@ United States of America
 
 We will respond to your questions or complaints within 30 days of our receipt. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Effective September 19, 2013
+Effective December 17, 2013
 
 * * *
 
