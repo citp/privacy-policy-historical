@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014094734id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204604id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # U-Haul: Privacy policy
 
@@ -16,7 +16,34 @@ We use your IP address to help diagnose problems with our server and to administ
 
 This site may contain links to other sites. **Web Team Associates, Inc. is not responsible for the privacy practices or the content of such web sites.**
 
-Our site uses forms for customers to request pricing, products, services, and any other available information. We collect customer contact information (such as name, phone number, email address and mailing address) and financial information (such as account or credit card numbers). Contact information is used to contact customers regarding their quotes, reservations and/or purchases. Financial information is used, only by Web Team Associates, Inc., to charge the customer for products and services. 
+The personal information that We collect from you may include but not be limited to at least some of the following about you: your name, home address, home telephone number, mobile telephone number, date of birth, e-mail address and driver’s license information, and personal payment information (such as your check, credit or debit card information), collectively the “Personal Information”. 
+
+Our site needs to collect, use and disclose certain of your Personal Information in order you/your: 
+
+  1. To make a reservation for and/or complete the rental of equipment and/or storage space;
+  2. To receive services related to your rental of equipment and/or storage space including but not limited to breakdown/roadside assistance;
+  3. To purchase and/or use certain products or services;
+  4. Online access to services and products at or through uhaul.com.
+  5. Compliance with any contract for the rental of equipment and/or storage space and/or the purchase of products and services.
+
+
+
+We may use your Personal Information with, and disclose your Personal Information to, other parties including but not limited to the following:
+
+  1. U-Haul International, Inc. its parent, affiliates, related corporations and specifically its wholly owned subsidiaries, the “U-Haul Co” Rental Companies.
+  2. U-Haul Co. Rental Companies dealers.
+  3. U-Haul Co. Rental Companies related corporations and their affiliates/business partners.
+  4. Vendors including but not limited to vehicle repair and/or tow truck companies that may provide breakdown/road side assistance.
+  5. Credit card/debit card issuers.
+  6. Banks.
+  7. Credit reporting and fraud checking agencies.
+  8. Debt collection agencies, if monies are owed.
+  9. Government or private organizations responsible for the processing or handling of transportation, tolls, traffic/moving or parking related violations.
+  10. Transportation or driver licensing authorities, directly or through intermediary organizations.
+  11. Government, judicial, regulatory and law enforcement agencies where the disclosure is required or authorized by law. 
+  12. Insurance companies.
+
+
 
 ### Cookies
 
@@ -49,7 +76,7 @@ Web Team Associates, Inc.
 Phoenix, AZ 85004  
 [Email](https://web.archive.org/Contact/Email.aspx)
 
-**Effective date:** April 12, 2005
+**Effective date:** June 4, 2014
 
 ## Privacy policy (Canada)
 
