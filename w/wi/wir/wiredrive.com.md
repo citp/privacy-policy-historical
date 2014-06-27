@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiredrive.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207030854id_/http%3A//www.wiredrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredrive.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627071834id_/http%3A//www.wiredrive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Wiredrive
 
-_Document updated March 2009_
+_Document updated October 2013_
 
 We created this privacy statement to demonstrate our firm commitment to the protection of your privacy. We recognize that personal and company information that may be entered in this site or disclosed to our staff may be of a confidential or sensitive nature. The information we collect is used to improve the content of our website and the quality of our services. It is not shared with or sold to any other organizations for commercial purposes, except to provide products or services you have requested, but only when we have your permission.
 
