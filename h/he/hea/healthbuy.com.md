@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050936id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628005421id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Health & Beauty
 
@@ -33,19 +33,20 @@ Once an order has been submitted your credit card will be charged. Our ordering 
 **7\. 90 Day Return Policy:**   
 
 
-We take great pride in the superior quality of our products and want you to be pleased with your purchase. We believe in offering the very best value, quality and selection to our customers. You may return any unused and unopened item purchased from us for any reason within Ninety (90) days of your purchase date. If you purchased your merchandise through a "Buy Three, Get Three Free" or similar offer, ALL items must be returned in order to receive a refund. If you return a partial amount of merchandise, you will forfeit the free product and receive a refund on the discount price per item based on the total purchase.
+We take great pride in the superior quality of our products and want you to be pleased with your purchase. We believe in offering the very best value, quality and selection to our customers. You may return any unused and unopened item purchased from us for any reason within Ninety (90) days of your purchase. If you purchased your merchandise through a "Buy Three, Get Three Free" or similar offer, all items must be returned in order to receive a refund. If you return a partial amount of merchandise, you will forfeit the free product and receive a refund on the discount price per item based on the total purchase.
 
 Your complete satisfaction is our ultimate goal. You may return any item shipped by Company, keeping the following in mind:
 
   * You should return the item to us within 90 days of your purchase date.
   * We do not accept items back that have been opened or used. Opened Items are Non Refundable.
   * Shipping and Handling Fees are Non Refundable.
+  * **There is a $10.00 restocking fee for returns.**
 
 
 
 To request a refund you must obtain an RMA (Return Authorization). Requests must be made online and submitted with your order information and explanation of the why you wish to return the product. Please do not call for an RMA. If you return your product without a RMA number you will not be refunded. Shipping and handling charges are non-refundable. For returns via mail, you must carefully package the product, you are responsible for the cost of return shipping, and we must physically receive the return within the 90 day period. Company reserves the right, at its sole discretion, to reject any return that does not comply with these requirements. Once your return has been received, a credit to your card or refund check will be issued and an e-mail confirmation will be sent within 30 days.
 
-*Refund Processing and Restocking Fee: $6 Per item e.g. 1 bottle return = $6 Fee. 2 bottle return - $12 Fee. 
+*Refund Processing and Restocking Fee: $10 Per item e.g. 1 bottle return = $10 Fee. 2 bottle return - $20 Fee. 
 
 **[_Click Here for RMA Request_](http://www.websupportcenter.com/)**
 
@@ -61,6 +62,10 @@ This offer will allow you to order the product every 30 days and pay only $16.97
 
 
 Try product for 30 days. If you are not completely satisfied for any reason, you can return it for a refund. Starting 30 days from your order date, you can request a new 30-day supply for FREE every month and only pay $14.97 s/p. For coupon eligibility, simply collect four refills & complete coupon form at [http://www.websupportcenter.com](http://www.websupportcenter.com/downloads/coupon-form.pdf)
+
+**11\. Collection Efforts:**
+
+You understand that Discount Rewards is a monthly-billed continuity program, and a monthly payment obligation for you. Should Discount Rewards be unable to successfully process your payment for a given month of program benefit eligibility, you understand and acknowledge that, if your payment has not been processed for more than fifteen (15) days, Discount Rewards shall be entitled to seek collection of the unpaid funds using either internal or third party collection efforts. You understand and agree that, should Discount Rewards seek collection of unpaid funds as prescribed herein, that Discount Rewards shall be entitled to assess a twenty dollar ($20.00) penalty to re-coup the cost of collection efforts on your account. You further understand and agree that non-payment of a validated payment obligation may entitle Discount Rewards to report the matter to credit agencies, which may negatively impact your credit score.
 
 **Legal Disclaimer  
 **Statements made by Company have not been evaluated by the food and drug administration. The FDA Dose not evaluate or test herbs. These products are not intended to diagnose, treat, cure or prevent any illness or disease. Consult with your physician for diagnosis or treatment. Use herbs as per instructions and always watch for any allergic reactions. 
