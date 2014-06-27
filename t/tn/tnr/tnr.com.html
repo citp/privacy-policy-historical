@@ -1,846 +1,616 @@
-<!--The following is the downloaded HTML source of the tnr.com privacy policy that was archived on 2012-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121019172645id_/http%3A//www.tnr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tnr.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628014832id_/http%3A//www.newrepublic.com/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html><head>
+    <!-- Standard Meta -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JDjkQwAo"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQAVVVQGwEHV1RTBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
-<title>Privacy Policy | The New Republic</title>
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=370382316327339"></script><script src="//cdn.optimizely.com/js/113744585.js"></script>
+  <!-- Site Properities -->
+  <title>Privacy Policy | New Republic</title>
 
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@tnr">
-<meta name="twitter:creator" content="@tnr">
-<meta name="twitter:url" content="">
+  
+  <!-- Mobile Properities -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/tnr/assets/images/apple/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/tnr/assets/images/apple/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/tnr/assets/images/apple/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/tnr/assets/images/apple/apple-icon-144x144.png">
 
+  <meta name="apple-mobile-web-app-title" content="New Republic">
+  <meta name="google-site-verification" content="yjAiUZ-nXs91TSe9Er7xAnQBp2C8V2gg-mpTF7aZh20">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="revisit-after" content="1 day">
+  <!-- Social Properities -->
+  <meta property="twitter:account_id" content="82689705">
+  <meta property="fb:app_id" content="219642118178156">
+  <meta property="fb:admins" content="100001770781440">
+  <meta property="fb:admins" content="19000185">
+  <meta property="fb:admins" content="2400669">
+  <meta property="fb:admins" content="600931">
+  <meta property="fb:admins" content="5">
+  <link href="https://plus.google.com/+thenewrepublic/" rel="publisher">
 
-
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="parsely-page" content="{&quot;title&quot;:&quot;Privacy Policy&quot;,&quot;link&quot;:&quot;http:\/\/www.newrepublic.com\/page\/privacy-policy&quot;,&quot;pub_date&quot;:&quot;2013-01-26T14:40:31-05:00&quot;,&quot;post_id&quot;:&quot;112244&quot;,&quot;author&quot;:&quot;&quot;,&quot;type&quot;:&quot;sectionpage&quot;,&quot;tags&quot;:[]}">
+  <link rel="canonical" href="http://www.newrepublic.com/page/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="This Privacy Policy was last updated effective November 4, 2009.
-To help you understand how information submitted will be treated when you log on to and use our web site, The New Republic Online (&amp;ldq">
-<meta property="og:image" content="http://www.tnr.com/sites/default/themes/tnr/images/RedShip_512.jpeg">
-<meta property="og:url" content="http://www.tnr.com/privacy-policy">
-<meta property="og:site_name" content="The New Republic">
-<link rel="shortcut icon" href="/sites/default/themes/tnr/favicon.ico" type="image/x-icon">
-<link rel="canonical" href="http://www.tnr.com/privacy-policy">
-<meta name="copyright" content="Copyright(c) 2012, The New Republic">
-<meta name="description" content="Bi-weekly magazine and website covering politics, arts, culture, and society since 1914.">
-<meta name="keywords" content="politics, domestic and foreign policy, book reviews, washington, congress, capitol hill, white house, literature, arts">
-<link type="text/css" rel="stylesheet" media="all" href="http://www.tnr.com/sites/default/files/css/css_d65f66d7360e256b2f8668b357fcd266.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://www.tnr.com/sites/default/files/css/css_ad615db59efb8cab96c8b7cf3506a978.css">
-
-
-<script type="text/javascript" src="http://www.tnr.com/sites/default/files/js/js_89a448a853dbc7a09c8cae8139668251.js"></script>
-<script type="text/javascript" src="/sites/default/modules/content_overlay/theme/content_overlay.js?1350667094"></script>
+<meta property="og:url" content="http://www.newrepublic.com/page/privacy-policy">
+<meta property="og:site_name" content="New Republic">
+<meta property="og:type" content="article">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="dcterms.type" content="Text">
+<meta name="dcterms.format" content="text/html">
+<link rel="shortcut icon" href="http://www.newrepublic.com/sites/default/files/newrepublic-icon.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" type="application/rss+xml" title="The New Republic" href="http://www.newrepublic.com/rss.xml">
+<meta property="og:description" content="This Privacy Policy was last updated effective November 4, 2009.">
+<meta name="dcterms.title" content="Privacy Policy">
+<meta about="/page/privacy-policy" property="sioc:num_replies" content="0" datatype="xsd:integer">
+<meta name="dcterms.date" content="2013-01-26T14:40-05:00">
+<meta name="dcterms.identifier" content="http://www.newrepublic.com/page/privacy-policy">
+<meta content="Privacy Policy" about="/page/privacy-policy" property="dc:title">
+<meta name="dcterms.language" content="und">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+  <link type="text/css" rel="stylesheet" href="http://www.newrepublic.com/sites/default/files/css/css_4hPmAO_Nvj6jiRjsl7yjW6iGzgIXcDYAzsF_zjCZPRU.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.newrepublic.com/sites/default/files/css/css_6li9wJZwZg9u3dcnf2wvCor8xru2TH4teiiNOSQ-8hI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.newrepublic.com/sites/default/files/css/css__1Le6QfCWBllapFBVjzJV6TGzgpHHWcCjRmUAJfJOho.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.newrepublic.com/sites/default/files/css/css_klSWYgfHhSM8VVr3ezW5Bvo64wtZpuS_929Db1NxWqM.css" media="all">
+<link rel="stylesheet" type="text/css" href="/sites/all/themes/tnr/build/devices/print.css" media="print">
+  <!-- Reset JS before Page Load !-->
+<script src="/sites/all/themes/tnr/javascript/reset.js"></script>
+  <!-- Google Analytics -->
 <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip"},"tabs":{"slide":false,"fade":true,"speed":"slow","auto_height":false,"next_text":"next","previous_text":"previous"},"content_overlay":{"display_method":"time","frequency_start":1,"frequency":5,"cookie_duration":172800000},"jcarousel":{"#viewscarousel-feature-header-block-2":{"scroll":3,"animation":"slow","wrap":"last","skin":"custom"},"#viewscarousel-feature-header-block-3":{"scroll":3,"animation":"slow","wrap":"last","skin":"custom"}}});
-//--><!]]>
-</script>
-<!--[if lte IE 8]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/tnr/style_ie8.css" /><![endif]-->
-<!--If Less Than or Equal (lte) to IE 8-->
-<!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/tnr/style_ie.css" /><![endif]-->
-<!--If Less Than or Equal (lte) to IE 7-->
-<!--[if lte IE 6]><link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/tnr/style_css6.css" /><![endif]-->
-<!--If Less Than or Equal (lte) to IE 6-->
-
-
-
-<script type="text/javascript">  
- <!--
-	(function() {
-	var useSSL = 'https:' == document.location.protocol;
-	var src = (useSSL ? 'https:' : 'http:') +
-	'//www.googletagservices.com/tag/js/gpt.js';
-	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	})();
-
-	$(document).ready(function() {
-	  $('.author-info-link').cluetip({
-	   activation: 'click', sticky: true, closePosition: 'bottom', showTitle: false, arrows: true, local:false, width: 225
-	  });
-	  $('.ui-tabs-nav').tabs();
-	});
-	//-->
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-
-
-<script type="text/javascript">
-googletag.pubads().set("page_url", window.location);
-googletag.defineSlot('/25738720/Bottom', [728, 90], 'div-gpt-ad-1331851126986-0').addService(googletag.pubads());
-googletag.defineSlot('/25738720/Right1', [300, 250], 'div-gpt-ad-1331851126986-1').addService(googletag.pubads());
-googletag.defineSlot('/25738720/Right2', [300, 250], 'div-gpt-ad-1331851126986-2').addService(googletag.pubads());
-googletag.defineSlot('/25738720/Right3', [160, 600], 'div-gpt-ad-1331851126986-3').addService(googletag.pubads());
-googletag.defineSlot('/25738720/Top', [728, 90], 'div-gpt-ad-1331851126986-4').addService(googletag.pubads());
-googletag.pubads().enableSyncRendering();
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-     </script>
-		
-
-
-<script type="text/javascript">
-		<!-- 
-			function D_AD(pos)
-			{
-				var id = '';
-		
-				if(pos == 'Right1')
-				{
-					id = '';
-		
-				   if(id == '')
-				   {
-					  id = '1331851126986-1';
-				   }
-				}
-			 
-				if(pos == 'Right2')
-				{
-					id = '';
-					
-				   if(id == '')
-				   {
-						id = '1331851126986-2';
-				   }	
-				}
-		
-				if(pos == 'Right3')
-				{
-					id = '';
-				
-					if(id == '')
-					{
-						id = '1331851126986-3';
-					}
-				}
-		
-				if(pos == 'Top')
-				{
-					id = '';
-		
-					if(id == '')
-					{
-						id = '1331851126986-4';
-					}
-				}
-		
-				if(pos == 'Bottom')
-				{
-					id = '';
-					
-					if(id == '')
-					{
-						id = '1331851126986-0';
-					}
-				}
-		
-				var div = 'div-gpt-ad-' + id;
-			
-				document.write('<div id = "div-gpt-ad-' + id + '"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("' + div);
-				document.write('");});<\/script></div>');
-			}
-		//-->
-		</script>
-
-</head>
-<body>
-
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=370382316327339";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-
-<script type="text/javascript">
-D_AD('Middle');
-</script><div id="div-gpt-ad-"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-");});</script></div>
-
-	<script type="text/javascript">
- function jswap(){
-	while(document.body.firstChild.tagName != 'SCRIPT'){
-		var el = document.body.firstChild;
-		document.body.removeChild(el);
-		document.body.insertBefore(el, document.getElementById('wrapper'));
-	}
- }
- // window.onload = function(){jswap();}; 
-</script>
-
- <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-  jQuery.extend(Drupal.settings, {"fb":{"base_url":"http:\/\/www.tnr.com","ajax_event_url":"http:\/\/www.tnr.com\/fb\/ajax","is_anonymous":true,"fb_init_settings":{"xfbml":false,"status":false,"oauth":true,"cookie":true,"channelUrl":"http:\/\/www.tnr.com\/fb\/channel"},"test_login_status":false,"get_login_status":true,"controls":"","js_sdk_url":"http:\/\/connect.facebook.net\/en_US\/all.js"}});
-
-if (typeof(FB) == 'undefined') {
-  var e = document.createElement('script');
-  e.async = true;
-  e.src = Drupal.settings.fb.js_sdk_url;
-  document.getElementById('fb-root').appendChild(e);
-}
-
-
-//--><!]]>
-
-</script>
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={ qacct:"p-abwxcJNao5fsc" };
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-abwxcJNao5fsc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-<script type="text/javascript" src="http://www.tnr.com/sites/default/files/js/js_e5774abd82f35626cb7004caa1a65236.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//--><!]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-try{var pageTracker = _gat._getTracker("UA-10465183-1");pageTracker._setDomainName('tnr.com');pageTracker._setAllowHash(false);pageTracker._setAllowLinker(true);pageTracker._trackPageview();} catch(err) {}
-//--><!]]>
-</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1010358778;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "X2JbCM6G2wEQ-rPj4QM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1010358778/?label=X2JbCM6G2wEQ-rPj4QM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript> 	<div id="wrapper" class="clearfix" style="position: relative;">
-					<div id="tnr_logo_inside">
-			<a href="/"><img src="/sites/default/themes/tnr/images/tnr_sm.gif"> </a>
-		</div>
-		<div id="top_ad_banner" class="block block-tnr_ads" style="width: 728; height: 110px;"></div>
-		<div class="clear"></div>
-		<div id="nav_wrapper">
-		<div id="nav" class="clearfix"><ul><li><a href="/articles/politics">Politics</a></li><li><a href="/articles/books-and-arts">Books &amp; Arts</a></li><li><a href="/book" class="thebook">The Book</a></li><li><a href="http://reader.tnr.com" class="readerlink">Reader</a></li></ul></div><div id="login_search"><ul><li class="search"><form action="/search/node" method="post" id="search-theme-form"><input type="hidden" name="form_build_id" id="cf1c805dd1f9b2ec5a151ee28fdf8604" value="cf1c805dd1f9b2ec5a151ee28fdf8604"><input type="hidden" name="form_token" id="edit-search-theme-form-form-token" value="4170c91e1f59b89ab57c6f74f94e3537"><input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"><div class="float-left"><input type="text" class="text_field" value="Search TNR" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" onfocus="this.value=''"></div><div class="float-left"><input type="image" id="form-submit" src="/sites/default/themes/tnr/images/btn_search_sm.gif"></div></form></li><li class="login"><a href="/user/login" style="border-left:1px solid #E4E4E4">Login</a></li><li class="subscribe"><a href="http://subscribe.tnr.com/society/">Subscribe</a></li></ul></div>		</div>
-		<div id="header" class="clear clearfix">
-			<div class="header_feature">
-			<div id="block-views-feature_header-block_2" class="block block-views">
-
-  
-  <div class="content">
-    <div class="view view-feature-header view-id-feature_header view-display-id-block_2 view-dom-id-6">
-    
-  
-  
-      <div class="view-content">
-      <ul id="viewscarousel-feature-header-block-2" class="jcarousel-skin-custom"><li><a href="/article/politics/magazine/108815/tagg-romney-myth-self-reliance"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/scottolsongettyimages.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/article/politics/magazine/108815/tagg-romney-myth-self-reliance" title="Mitt, Tagg, and the Romney Family&amp;amp;#039;s Myth of Self-Reliance" alt="Mitt, Tagg, and the Romney Family&amp;amp;#039;s Myth of Self-Reliance">Mitt, Tagg, and the Romney Family's Myth of Self-Reliance</a></div></li><li><a href="/blog/plank/108849/obama-hasnt-laid-out-governing-vision-agenda-debate-hofstra"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/154247322.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/blog/plank/108849/obama-hasnt-laid-out-governing-vision-agenda-debate-hofstra" title="Stupid Talking Point of the Day: Obama Hasn&amp;#039;t Offered a Governing Vision" alt="Stupid Talking Point of the Day: Obama Hasn&amp;#039;t Offered a Governing Vision">Stupid Talking Point of the Day: Obama Hasn't Offered a Governing Vision</a></div></li><li><a href="/article/108821/buzz-changed-tina-brown-didnt"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/tina.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/108821/buzz-changed-tina-brown-didnt" title="Buzz Changed. Tina Brown Didn&amp;amp;#039;t." alt="Buzz Changed. Tina Brown Didn&amp;amp;#039;t.">Buzz Changed. Tina Brown Didn't.</a></div></li><li><a href="/article/politics/108820/boring-candidates-viral-videos-the-tough-life-snls-political-comedy-guru"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/Photo_1.JPG" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/politics/108820/boring-candidates-viral-videos-the-tough-life-snls-political-comedy-guru" title="Boring Candidates, Viral Videos: The Tough Life of SNL&amp;amp;#039;s Political Comedy Guru" alt="Boring Candidates, Viral Videos: The Tough Life of SNL&amp;amp;#039;s Political Comedy Guru">Boring Candidates, Viral Videos: The Tough Life of SNL's Political Comedy Guru</a></div></li><li><a href="/blog/electionate/108816/whats-going-the-gallup-poll"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/79531302.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/electionate/108816/whats-going-the-gallup-poll" title="What&amp;amp;#039;s Going On With The Gallup Poll? " alt="What&amp;amp;#039;s Going On With The Gallup Poll? ">What's Going On With The Gallup Poll? </a></div></li><li><a href="http://www.tnr.com/book/review/spy-v-spy-how-double-agent-won-d-day-the-allies"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/bookimage1018.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="http://www.tnr.com/book/review/spy-v-spy-how-double-agent-won-d-day-the-allies">Spy v. Spy: How a Double Agent Won D-Day for the Allies</a></div></li><li><a href="/article/books-and-arts/magazine/108149/between-freedom-and-sectarianism-shia-and-sunni-and-the-syrian-revolt"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/150549337 (1).jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/books-and-arts/magazine/108149/between-freedom-and-sectarianism-shia-and-sunni-and-the-syrian-revolt" title="How Sectarianism Blinds the Shia to the Horrors of Syria" alt="How Sectarianism Blinds the Shia to the Horrors of Syria">How Sectarianism Blinds the Shia to the Horrors of Syria</a></div></li><li><a href="/blog/plank/108817/anatomy-the-47-percent"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/5822889721_7c387fc67d_o.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/plank/108817/anatomy-the-47-percent" title="An Anatomy of The 47 Percent" alt="An Anatomy of The 47 Percent">An Anatomy of The 47 Percent</a></div></li><li><a href="/blog/plank/108752/why-turkey-unlikely-get-its-war"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/mil.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/blog/plank/108752/why-turkey-unlikely-get-its-war" title="Turkey&amp;amp;#039;s Prime Minister Wants War in Syria. Turks Don&amp;amp;#039;t." alt="Turkey&amp;amp;#039;s Prime Minister Wants War in Syria. Turks Don&amp;amp;#039;t.">Turkey's Prime Minister Wants War in Syria. Turks Don't.</a></div></li><li><a href="/article/politics/magazine/108185/blue-states-are-scandinavia-red-states-are-guatemala"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/NR1.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/politics/magazine/108185/blue-states-are-scandinavia-red-states-are-guatemala" title="Blue States are from Scandinavia, Red States are from Guatemala" alt="Blue States are from Scandinavia, Red States are from Guatemala">Blue States are from Scandinavia, Red States are from Guatemala</a></div></li><li><a href="/blog/plank/108694/the-right-wing-rivalry-behind-dinesh-dsouzas-sex-scandal"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/6859827729_264fd94ddd_o.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/plank/108694/the-right-wing-rivalry-behind-dinesh-dsouzas-sex-scandal" title="The Right-wing Rivalry Behind Dinesh D’Souza&amp;amp;#039;s &amp;amp;#039;Sex&amp;amp;#039; Scandal" alt="The Right-wing Rivalry Behind Dinesh D’Souza&amp;amp;#039;s &amp;amp;#039;Sex&amp;amp;#039; Scandal">The Right-wing Rivalry Behind Dinesh D’Souza's 'Sex' Scandal</a></div></li></ul>    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-</div>
-			</div>
-			<div class="clear"></div>
-		</div>
-		
-		<div id="page_wrapper2" class="clearfix">
-		<div id="detail_page" class="clearfix">					<br>
-						<div id="tabs-wrapper" class="clear-block">			<ul class="tabs primary">
-</ul></div>												<div class="article_detail clearfix">
-  
-  <h2 class="no-section-header">Privacy Policy</h2>
- 
-  <div class="article_detail_body"><span class="print-link"></span><p>T<em>his Privacy Policy was last updated effective November 4, 2009.</em></p>
-<p>To help you understand how information submitted will be treated when you log on to and use our web site, The New Republic Online (“tnr.com”) offers this Privacy Policy.  Use of the tnr.com web site, and disclosure to us of your personal information, is optional and voluntary.  By visiting tnr.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information tnr.com collects, the reasons why such information is collected, how such information is used and who has access to it.</p>
-<p><b>General Principles</b></p>
-<p>Tnr.com’s Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personally identifiable information so that you understand how the information you are submitting will be used.</p>
-<p>Any changes made to the Privacy Policy will be prospective, not retroactive.</p>
-<p>Tnr.com is not responsible for the information practices of third parties, although we take care to engage third party fulfillment processors, ad servers, survey companies and other support services that respect your privacy, preferences and data security needs.</p>
-<p><b>Collection of Information</b></p>
-<p>Tnr.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online.</p>
-<p>Wherever possible and practical, tnr.com gives users options about submitting information. Such choices include:</p>
-<p>Opting not to receive our electronic newsletters.</p>
-<p>Opting not to participate in certain interactive areas, which completely alleviate the need for collecting information from our users.</p>
-<p><b>Subscriptions</b></p>
-<p>You may use the web site to subscribe to the print or digital version of The New Republic by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine’s fulfillment house, Palm Coast Data.</p>
-<p><b>Electronic Newsletters</b></p>
-<p>Tnr.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. Tnr.com uses MailChimp, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails.</p>
-<p>MailChimp collects and stores all the information users submit to tnr.com in connection with the electronic newsletters. If you would like to know more about the information-gathering practices and “opt-out” procedures of MailChimp, please see <a href="http://www.mailchimp.com/page/privacy/" title="http://www.mailchimp.com/page/privacy/">http://www.mailchimp.com/page/privacy/</a>.</p>
-<p>You may remove yourself from any or all of the electronic newsletters’ mailing lists at any time by following instructions for unsubscribing found at the end of every newsletter or by emailing <a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>.</p>
-<p><b>Surveys</b></p>
-<p>From time to time tnr.com conducts voluntary user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers for various purposes including promotions, contests and offers. We never share any of this information about specific individuals with any third party, unless so indicated in this Privacy Policy.</p>
-<p><b>Cookies and IP Addresses</b></p>
-<p>In order to offer and provide personalized custom services, tnr.com uses cookies to limit the number of times a particular advertisement is shown to a user as the user navigates through the site. A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file may contain information such as a user ID that the site uses to track the pages you have visited and to allow easy access to restricted areas of the web site. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk, read cookie files created by other sites, or damage your files.</p>
-<p>If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You also may refuse cookies by disabling them on your browser. You do need to have cookies turned on to use premium areas of Tnr.com.</p>
-<p>As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.  Tnr.com may use data contained in log files to analyze trends, administer the site, track users’ movement and gather broad demographic information for aggregate use.</p>
-<p>We also use third party advertisements on tnr.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
-<p><b>Use of the Information Collected</b></p>
-<p>Tnr.com uses information you voluntarily submit to send out electronic newsletters and to enable users to move seamlessly through our web site and to communicate with users with legal notices, notices of material changes to terms and conditions, privacy policy, rules, etc., and account status. We send out newsletters to subscribers on a regular schedule (weekly) and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and tnr.com, through MailChimp, will place the advertisement in the body of the email newsletter of those individuals fitting the advertiser’s criteria. Pop-up advertisements may be displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information.</p>
-<p>We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.</p>
-<p>Tnr.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because tnr.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad.</p>
-<p><b>Credit Card Information</b></p>
-<p>We comply with generally accepted industry standards in collecting and processing credit card information.  However, tnr.com does not guarantee the safety of credit card information over the Internet.</p>
-<p><b>Information Sharing</b></p>
-<p>When you visit tnr.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with tnr.com. Tnr.com will not disclose the information you submit, except with our third party fulfillment vendors and except as otherwise described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of tnr.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services.</p>
-<p>If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service.</p>
-<p><b>Tnr.com Security Measures</b></p>
-<p>Tnr.com web site has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information, tnr.com cannot warrant the security of information you transmit to us, and you do so at your own risk.</p>
-<p><b>Children’s Privacy</b></p>
-<p>Tnr.com site is intended for use by individuals over the age of 18.  We will comply with the Children’s Online Privacy Protection Act, and not knowingly provide children under the age of 13 with access to tnr.com.  If you are under 13, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.</p>
-<p><b>Other Information About Your Privacy</b></p>
-<p>Whenever you voluntarily disclose any information online in any forum, that information can be collected and used by others. In other words, if you post personal information online that may be accessed by the public, you may receive unsolicited messages from other parties. It is important to be responsible and careful whenever you are online.</p>
-<p><b>Updating, Correcting and Deleting Personal Information </b></p>
-<p>Users who subscribe to our print or digital publication, The New Republic, may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at <a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>.</p>
-<p>If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.</p>
-<p>Currently, tnr.com does not offer users a means by which to completely delete personal information submitted while on this site.</p>
-<p><b>Additional Information </b></p>
-<p>If, for any reason, you believe that tnr.com has not adhered to its Privacy Policy, please notify us by sending an email message to <a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>. Tnr.com will try to respond to your concerns and, where appropriate, attempt to correct the problem.</p>
-<p>By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with Tnr.com, you may contact us via mail, email, or the telephone number listed below.</p>
-<p>The New Republic</p>
-<p>Customer Service</p>
-<p>Privacy Policy</p>
-<p>1400 K Street, NW</p>
-<p>Suite 1200</p>
-<p>Washington, DC  20005</p>
-<p>Phone: 1-800-827-1289</p>
-<p>Email: <a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a></p>
-</div>  
-</div>
-			</div>						<div id="main-right">
-			<div id="block-custom_blocks-newsletter_signup" class="block block-custom_blocks">
-
-  
-  <div class="content">
-    	<div id="get-our-newsletter">
-		<ul>
-			<li class="signup-newsltr">
-				<form action="https://www.pubservice.com/tnr/newslettersignup.aspx" method="post" name="newsletter-signup" class="newsletter-signup" onsubmit="javascript:pageTracker._linkByPost(this)">
-				<input type="text" class="signup-field-newsltr" name="EmailAddr" value="Enter Email Address" onfocus="this.value=''">
-				<input type="image" class="signup-field-newsltr-btn" src="/sites/default/themes/tnr/images/btn_subscribe_newsltr_sm.gif">
-				</form>
-			</li>
-		</ul>
-	</div>  </div>
-
-</div>
-<div id="block-tnr_ads-right_square_ad" class="block block-tnr_ads">
-
-  
-  <div class="content">
-    <script language="JavaScript">
-<!--
-D_AD('Right1');
-//-->
-</script><div id="div-gpt-ad-1331851126986-1"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-1331851126986-1");});</script></div>
-
-  </div>
-
-</div>
-<div id="block-tnr_content_gating-tnr_content_gating_key" class="block block-tnr_content_gating">
-
-  
-  <div class="content">
-    <div id="content-gating-key">
-   <div class="icon-premium-classic-small"><img src="/sites/default/themes/tnr/images/icon-premium-content-small.jpg" alt="Premium Content" title="Premium Content" width="15" height="16" 0="class" 1="icon"></div> = MAGAZINE CONTENT  &nbsp; <div class="icon-premium-classic"><img src="/sites/default/themes/tnr/images/icon-tnr-classic.jpg" alt="TNR Classic" title="TNR Classic" width="13" height="14" 0="class" 1="icon"></div> = TNR ARCHIVES
-</div>
-  </div>
-
-</div>
-<div id="block-custom_blocks-blogs_list" class="block block-custom_blocks">
-
-  
-  <div class="content">
-    <div id="blogs_callout" class="margin_10">
-<div id="plank" class="blog">
-<a href="/blogs/plank"><div align="center"><img src="/sites/default/themes/tnr/images/title-plank.gif" align="center" border="0"></div></a><div class="entry">
-<div class="title"><a href="/blog/plank/108872/how-do-you-mine-jokes-hospital-ward-dont-ask-emily-owens-md">How Do You Mine Jokes From a Hospital Ward? Don't Ask "Emily Owens, M.D." </a></div><div class="date_post">October 19, 2012 | 12:46 pm - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Laura Bennett">Laura Bennett</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/plank/108856/growing-christian-movement-pushes-back-against-islamophobia">The Growing Christian Movement Pushing Back Against Islamophobia</a></div><div class="date_post">October 19, 2012 | 11:12 am - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Amy Sullivan">Amy Sullivan</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/plank/108849/obama-hasnt-laid-out-governing-vision-agenda-debate-hofstra">Stupid Talking Point of the Day: Obama Hasn't Offered a Governing Vision</a></div><div class="date_post">October 19, 2012 | 10:13 am - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Jonathan Cohn">Jonathan Cohn</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/plank/108822/some-suggested-middle-east-questions-mondays-foreign-policy-debate">A Middle East Cheat Sheet For Monday's Foreign Policy Debate</a></div><div class="date_post">October 19, 2012 | 10:00 am - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Robert Satloff">Robert Satloff</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/plank/108817/anatomy-the-47-percent">Anatomy Of The 47 Percent</a></div><div class="date_post">October 18, 2012 | 5:52 pm - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Timothy Noah">Timothy Noah</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/plank/108801/the-boss-men-and-the-ballot-box">The Boss Men And The Ballot Box: What Mitt Romney’s Been Telling Employers</a></div><div class="date_post">October 18, 2012 | 2:41 pm - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Alec MacGillis">Alec MacGillis</a></span></div></div>
-</div>
-<div id="electionate" class="blog">
-<a href="/blogs/electionate"><div align="center"><img src="/sites/default/themes/tnr/images/title-electionate.gif" align="center" border="0"></div></a><div class="entry">
-<div class="title"><a href="/blog/electionate/108835/daily-breakdown-polls-show-obama-performing-well-in-wisconsin-and-iowa">Daily Breakdown: Polls Show Obama Performing Well In Wisconsin and Iowa</a></div><div class="date_post">October 19, 2012 | 7:00 am - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Nate Cohn">Nate Cohn</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/electionate/108816/whats-going-the-gallup-poll">What's Going On With The Gallup Poll? </a></div><div class="date_post">October 18, 2012 | 5:41 pm - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Nate Cohn">Nate Cohn</a></span></div></div>
-<div class="entry">
-<div class="title"><a href="/blog/electionate/108793/why-green-bay-the-most-saturated-market-in-the-country">Why Green Bay Is The Most Saturated Market In The Country</a></div><div class="date_post">October 18, 2012 | 12:47 pm - <span class="author"><a href="#" class="author-info-link" rel="/authorinfo/view/Nate Cohn">Nate Cohn</a></span></div></div>
-</div>
-<div id="columnists_header" class="secondary"><div class="blog-name"><img src="/sites/tnr.com/modules/custom_blocks/images/columnists.gif" alt="Columnists" width="290" height="88"></div></div><div id="jonathan-cohn" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/jonathan-cohn"><div align="center"><img src="/sites/default/themes/tnr/images/title-jonathan-cohn.jpg" align="center" border="0"></div></a></div></div>
-<div id="the-read" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/the-read"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-read.jpg" align="center" border="0"></div></a></div></div>
-<div id="the-vital-center" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/the-vital-center"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-vital-center.jpg" align="center" border="0"></div></a></div></div>
-<div id="the-place" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/the-place"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-place.jpg" align="center" border="0"></div></a></div></div>
-<div id="out-of-time" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/out-of-time"><div align="center"><img src="/sites/default/themes/tnr/images/title-out-of-time.jpg" align="center" border="0"></div></a></div></div>
-<div id="john-judis" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/john-judis"><div align="center"><img src="/sites/default/themes/tnr/images/title-john-judis.jpg" align="center" border="0"></div></a></div></div>
-<div id="geoffrey-kabaservice" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/geoffrey-kabaservice"><div align="center"><img src="/sites/default/themes/tnr/images/title-geoffrey-kabaservice.jpg" align="center" border="0"></div></a></div></div>
-<div id="not-even-past" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/not-even-past"><div align="center"><img src="/sites/default/themes/tnr/images/title-not-even-past.jpg" align="center" border="0"></div></a></div></div>
-<div id="the-permanent-campaign" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/the-permanent-campaign"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-permanent-campaign.jpg" align="center" border="0"></div></a></div></div>
-<div id="adam-kirsch" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/adam-kirsch"><div align="center"><img src="/sites/default/themes/tnr/images/title-adam-kirsch.jpg" align="center" border="0"></div></a></div></div>
-<div id="alec-macgillis" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/alec-macgillis"><div align="center"><img src="/sites/default/themes/tnr/images/title-alec-macgillis.jpg" align="center" border="0"></div></a></div></div>
-<div id="put-differently" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/put-differently"><div align="center"><img src="/sites/default/themes/tnr/images/title-put-differently.jpg" align="center" border="0"></div></a></div></div>
-<div id="timothy-noah" class="secondary">
-<div class="blog-name" align="center"><a href="/blogs/timothy-noah"><div align="center"><img src="/sites/default/themes/tnr/images/title-timothy-noah.jpg" align="center" border="0"></div></a></div></div>
-<div id="the-picture" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/the-picture"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-picture.jpg" align="center" border="0"></div></a></div></div>
-<div id="tel-aviv-journal" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/tel-aviv-journal"><div align="center"><img src="/sites/default/themes/tnr/images/title-tel-aviv-journal.jpg" align="center" border="0"></div></a></div></div>
-<div id="jeffrey-rosen" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/jeffrey-rosen"><div align="center"><img src="/sites/default/themes/tnr/images/title-jeffrey-rosen.jpg" align="center" border="0"></div></a></div></div>
-<div id="noam-scheiber" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/noam-scheiber"><div align="center"><img src="/sites/default/themes/tnr/images/title-noam-scheiber.jpg" align="center" border="0"></div></a></div></div>
-<div id="walter-shapiro" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/walter-shapiro"><div align="center"><img src="/sites/default/themes/tnr/images/title-walter-shapiro.jpg" align="center" border="0"></div></a></div></div>
-<div id="mark-schmitt" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/mark-schmitt"><div align="center"><img src="/sites/default/themes/tnr/images/title-mark-schmitt.jpg" align="center" border="0"></div></a></div></div>
-<div id="ruy-teixeira" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/ruy-teixeira"><div align="center"><img src="/sites/default/themes/tnr/images/title-ruy-teixeira.jpg" align="center" border="0"></div></a></div></div>
-<div id="washington-diarist" class="secondary">
-<div class="blog-name" align="center"><a href="/articles/washington-diarist"><div align="center"><img src="/sites/default/themes/tnr/images/title-washington-diarist.jpg" align="center" border="0"></div></a></div></div>
-<div id="film" class="secondary">
-<a href="/articles/film"><div align="center"><img src="/sites/default/themes/tnr/images/title-film.gif" align="center" border="0"></div></a></div>
-<div id="the-famous-door" class="blog">
-<a href="/blogs/the-famous-door"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-famous-door.gif" align="center" border="0"></div></a></div>
-<div id="the-avenue" class="blog">
-<a href="/blogs/the-avenue"><div align="center"><img src="/sites/default/themes/tnr/images/title-the-avenue.gif" align="center" border="0"></div></a></div>
-</div>
-  </div>
-
-</div>
-<div id="block-views-multimedia-block_2" class="block block-views">
-
-  
-  <div class="content">
-    <div class="view view-multimedia view-id-multimedia view-display-id-block_2 view-dom-id-1">
-    
-  
-  
-      <div class="view-content">
-      <div id="multimedia_block" class="clearfix">
-
-<div class="header">Multimedia</div>
-<div class="more"><a href="/videos">More&nbsp;Videos&nbsp;»</a></div>
-<div class="clear"></div>
-
-<div class="multimedia_block_embed">        <div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="223" width="271" data="http://www.youtube.com/v/Rt-WgwFEUNQ&amp;rel=0&amp;fs=1" id="emvideo-youtube-flash-1" allowfullscreen="true">
-          <param name="movie" value="http://www.youtube.com/v/Rt-WgwFEUNQ&amp;rel=0&amp;fs=1">
-          <param name="allowScriptAcess" value="sameDomain">
-          <param name="quality" value="best">
-          <param name="allowFullScreen" value="true">
-          <param name="bgcolor" value="#FFFFFF">
-          <param name="scale" value="noScale">
-          <param name="salign" value="TL">
-          <param name="FlashVars" value="playerMode=embedded">
-          <param name="wmode" value="transparent">
-        </object></div></div><div class="title"><a href="/video/books/105713/james-baldwin-malcolm-x" title="James Baldwin on Malcolm X" alt="James Baldwin on Malcolm X">James Baldwin on Malcolm X</a></div>
-<div class="clear"></div>
-<div id="multimedia_select_bar">
-  <div class="video-on float-left"><a href="/videos">Videos</a></div>
-  <div class="slideshow float-left"><a href="/slideshows">Slideshows</a></div>
-  <div class="podcast float-left"><a href="/podcasts">Podcasts</a></div>
-</div>
-<div class="clear"></div>
-
-</div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-</div>
-<div id="block-tnr_ads-right_square_ad2" class="block block-tnr_ads">
-
-  
-  <div class="content">
-    <script language="JavaScript">
-<!--
-D_AD('Right2');
-//-->
-</script><div id="div-gpt-ad-1331851126986-2"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-1331851126986-2");});</script></div>
-
-  </div>
-
-</div>
-<div id="block-views-tnr_feed_blocks-block_2" class="block block-views">
-
-  
-  <div class="content">
-    <div class="view view-tnr-feed-blocks view-id-tnr_feed_blocks view-display-id-block_2 view-dom-id-3">
-    
-    <div class="attachment attachment-before">
-    <div class="view view-tnr-feed-blocks view-id-tnr_feed_blocks view-display-id-attachment_1 view-dom-id-2">
-    
-  
-    <div class="view-content">
-      <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-field-feed-block-logo-fid">
-                <span class="field-content"><img class="imagefield imagefield-field_feed_block_logo" width="299" height="59" alt="" src="http://www.tnr.com/sites/default/files/feed_logos/partnernews_politcal_wire.jpg?1305170842"></span>
-  </div>
-  </div>
-  </div>
-        
-  
-  
-  
-  
-  
-</div>   </div>
-  
-    <div class="view-content">
-      <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://politicalwire.com/archives/2012/10/19/romnesia.html" target="_blank">Romnesia</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://politicalwire.com/archives/2012/10/19/political_donor_thrives_with_no_limits.html" target="_blank">Political Donor Thrives With No Limits</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://politicalwire.com/archives/2012/10/19/voter_intimidation_fears_renewed.html" target="_blank">Voter Intimidation Fears Renewed</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://politicalwire.com/archives/2012/10/19/nightmare_election_scenarios.html" target="_blank">Nightmare Election Scenarios</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-5 views-row-odd views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://politicalwire.com/archives/2012/10/19/obama_has_many_more_field_offices.html" target="_blank">Obama Has Many More Field Offices</a></span>
-  </div>
-  </div>
-    </div>
-        
-  
-  
-  
-  
-  
-</div>   </div>
-
-</div>
-<div id="block-views-tnr_feed_blocks-block_6" class="block block-views">
-
-  
-  <div class="content">
-    <div class="view view-tnr-feed-blocks view-id-tnr_feed_blocks view-display-id-block_6 view-dom-id-5">
-    
-    <div class="attachment attachment-before">
-    <div class="view view-tnr-feed-blocks view-id-tnr_feed_blocks view-display-id-attachment_1 view-dom-id-4">
-    
-  
-    <div class="view-content">
-      <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <div class="views-field-field-feed-block-logo-fid">
-                <span class="field-content"><img class="imagefield imagefield-field_feed_block_logo" width="299" height="59" alt="" src="http://www.tnr.com/sites/default/files/feed_logos/partnernews_rollcall.jpg?1305171156"></span>
-  </div>
-  </div>
-  </div>
-        
-  
-  
-  
-  
-  
-</div>   </div>
-  
-    <div class="view-content">
-      <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rollcall.com/news/illinois_joe_walshs_todd_akin_moment-218324-1.html" target="_blank">Illinois: Joe Walsh's Todd Akin Moment?</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rollcall.com/news/ohio_sherrod_brown_josh_mandel_get_testy_and_personal_in_debate-218323-1.html" target="_blank">Ohio: Sherrod Brown, Josh Mandel Get Testy and Personal in Debate</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rollcall.com/news/romney_camp_cites_2006_jct_study_to_tout_tax_plan-218322-1.html" target="_blank">Romney Camp Cites 2006 JCT Study to Tout Tax Plan</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rollcall.com/news/missouri_todd_akin_claire_mccaskill_reprise_familiar_themes-218321-1.html" target="_blank">Missouri: Todd Akin, Claire McCaskill Reprise Familiar Themes</a></span>
-  </div>
-  </div>
-  <div class="views-separator"></div>  <div class="views-row views-row-5 views-row-odd views-row-last">
-      
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://www.rollcall.com/news/wisconsin_tammy_baldwin_tommy_thompson_stick_to_the_script_in_debate-218320-1.html" target="_blank">Wisconsin: Tammy Baldwin, Tommy Thompson Stick to the Script in Debate</a></span>
-  </div>
-  </div>
-    </div>
-        
-  
-  
-  
-  
-  
-</div>   </div>
-
-</div>
-<div id="block-tnr_ads-right_skyscraper_ad" class="block block-tnr_ads">
-
-  
-  <div class="content">
-    <div class="text-center margin_10"><script language="JavaScript">
-<!--
-D_AD('Right3');
-//-->
-</script><div id="div-gpt-ad-1331851126986-3"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-1331851126986-3");});</script></div>
-</div>
-  </div>
-
-</div>
-			</div>
-						<div class="clear"></div>
-		</div>
-						<div class="feature_footer">
-		<div id="block-views-feature_header-block_3" class="block block-views">
-
-  
-  <div class="content">
-    <div class="view view-feature-header view-id-feature_header view-display-id-block_3 view-dom-id-9">
-    
-  
-  
-      <div class="view-content">
-      <ul id="viewscarousel-feature-header-block-3" class="jcarousel-skin-custom"><li><a href="/blog/plank/108694/the-right-wing-rivalry-behind-dinesh-dsouzas-sex-scandal" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/6859827729_264fd94ddd_o.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/plank/108694/the-right-wing-rivalry-behind-dinesh-dsouzas-sex-scandal" title="The Right-wing Rivalry Behind Dinesh D’Souza&amp;amp;#039;s &amp;amp;#039;Sex&amp;amp;#039; Scandal" alt="The Right-wing Rivalry Behind Dinesh D’Souza&amp;amp;#039;s &amp;amp;#039;Sex&amp;amp;#039; Scandal">The Right-wing Rivalry Behind Dinesh D’Souza's 'Sex' Scandal</a></div></li><li><a href="/article/politics/magazine/108185/blue-states-are-scandinavia-red-states-are-guatemala" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/NR1.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/politics/magazine/108185/blue-states-are-scandinavia-red-states-are-guatemala" title="Blue States are from Scandinavia, Red States are from Guatemala" alt="Blue States are from Scandinavia, Red States are from Guatemala">Blue States are from Scandinavia, Red States are from Guatemala</a></div></li><li><a href="/blog/plank/108752/why-turkey-unlikely-get-its-war" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/mil.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/blog/plank/108752/why-turkey-unlikely-get-its-war" title="Turkey&amp;amp;#039;s Prime Minister Wants War in Syria. Turks Don&amp;amp;#039;t." alt="Turkey&amp;amp;#039;s Prime Minister Wants War in Syria. Turks Don&amp;amp;#039;t.">Turkey's Prime Minister Wants War in Syria. Turks Don't.</a></div></li><li><a href="/blog/plank/108817/anatomy-the-47-percent" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/5822889721_7c387fc67d_o.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/plank/108817/anatomy-the-47-percent" title="An Anatomy of The 47 Percent" alt="An Anatomy of The 47 Percent">An Anatomy of The 47 Percent</a></div></li><li><a href="/article/books-and-arts/magazine/108149/between-freedom-and-sectarianism-shia-and-sunni-and-the-syrian-revolt" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/150549337 (1).jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/books-and-arts/magazine/108149/between-freedom-and-sectarianism-shia-and-sunni-and-the-syrian-revolt" title="How Sectarianism Blinds the Shia to the Horrors of Syria" alt="How Sectarianism Blinds the Shia to the Horrors of Syria">How Sectarianism Blinds the Shia to the Horrors of Syria</a></div></li><li><a href="http://www.tnr.com/book/review/spy-v-spy-how-double-agent-won-d-day-the-allies"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/bookimage1018.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="http://www.tnr.com/book/review/spy-v-spy-how-double-agent-won-d-day-the-allies">Spy v. Spy: How a Double Agent Won D-Day for the Allies</a></div></li><li><a href="/blog/electionate/108816/whats-going-the-gallup-poll" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/79531302.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/blog/electionate/108816/whats-going-the-gallup-poll" title="What&amp;amp;#039;s Going On With The Gallup Poll? " alt="What&amp;amp;#039;s Going On With The Gallup Poll? ">What's Going On With The Gallup Poll? </a></div></li><li><a href="/article/politics/108820/boring-candidates-viral-videos-the-tough-life-snls-political-comedy-guru" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/Photo_1.JPG" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/politics/108820/boring-candidates-viral-videos-the-tough-life-snls-political-comedy-guru" title="Boring Candidates, Viral Videos: The Tough Life of SNL&amp;amp;#039;s Political Comedy Guru" alt="Boring Candidates, Viral Videos: The Tough Life of SNL&amp;amp;#039;s Political Comedy Guru">Boring Candidates, Viral Videos: The Tough Life of SNL's Political Comedy Guru</a></div></li><li><a href="/article/108821/buzz-changed-tina-brown-didnt" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/tina.jpg" alt="" title="" class="imagecache imagecache-thumbnail90" width="90" height="90"></a><div class="title"><a href="/article/108821/buzz-changed-tina-brown-didnt" title="Buzz Changed. Tina Brown Didn&amp;amp;#039;t." alt="Buzz Changed. Tina Brown Didn&amp;amp;#039;t.">Buzz Changed. Tina Brown Didn't.</a></div></li><li><a href="/blog/plank/108849/obama-hasnt-laid-out-governing-vision-agenda-debate-hofstra" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/154247322.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/blog/plank/108849/obama-hasnt-laid-out-governing-vision-agenda-debate-hofstra" title="Stupid Talking Point of the Day: Obama Hasn&amp;#039;t Offered a Governing Vision" alt="Stupid Talking Point of the Day: Obama Hasn&amp;#039;t Offered a Governing Vision">Stupid Talking Point of the Day: Obama Hasn't Offered a Governing Vision</a></div></li><li><a href="/article/politics/magazine/108815/tagg-romney-myth-self-reliance" class="imagecache imagecache-thumbnail90 imagecache-linked imagecache-thumbnail90_linked"><img src="http://www.tnr.com/sites/default/files/imagecache/thumbnail90/scottolsongettyimages.jpg" alt="" title="" class="imagecache imagecache-thumbnail90"></a><div class="title"><a href="/article/politics/magazine/108815/tagg-romney-myth-self-reliance" title="Mitt, Tagg, and the Romney Family&amp;amp;#039;s Myth of Self-Reliance" alt="Mitt, Tagg, and the Romney Family&amp;amp;#039;s Myth of Self-Reliance">Mitt, Tagg, and the Romney Family's Myth of Self-Reliance</a></div></li></ul>    </div>
-  
-  
-  
-  
-  
-  
-</div>   </div>
-
-</div>
-		</div>
-		<div id="footer" class="clearfix">
-			<div id="stripes"></div>
-			<div id="block-custom_blocks-footer_links" class="block block-custom_blocks">
-
-  
-  <div class="content">
-    
-<div id="footer_links_wrapper" class="clearfix">
-  <div id="topics">
-  <ul>
-	<li><a href="/articles/politics">Politics</a></li><li><a href="/articles/books-and-arts">Books and Arts</a></li><li><a href="/articles/economy">Economy</a></li><li><a href="/articles/environment-and-energy">Environment and Energy</a></li><li><a href="/articles/metro-policy">Metro Policy</a></li><li><a href="/articles/world">World</a></li><li><a href="/articles/film">Film</a></li><li><a href="/articles/columnists">Columnists</a></li>  </ul>
-  </div>
-  <div id="blogs" class="other_group"><div class="footer_header">blogs</div>
-    <ul>
-	  <li><a href="/blogs/plank">Plank</a></li><li><a href="/blogs/the-famous-door">The Famous Door</a></li><li><a href="/blogs/the-avenue">The Avenue</a></li>    </ul>
-  </div>
-  <div id="multimedia" class="other_group"><div class="footer_header">multimedia</div>
-    <ul>
-      <li><a href="/videos">Videos</a></li>
-      <li><a href="/slideshows">Slideshows</a></li>
-      <li><a href="/podcasts">Podcasts</a></li>
-    </ul>
-  </div>
-  <div id="the_magazine" class="other_group last"><div class="footer_header">the magazine</div>
-    <ul>
-	<li><a href="/magazine-issue/october-25-2012">Current Issue</a></li><li><a href="/subscriber-services">Subscriber Services</a></li><li><a href="/about-tnr">About TNR</a></li><li><a href="/archive">The TNR Archive</a></li><li><a href="/advertise">Advertise</a></li><li><a href="/contact-us">FAQs</a></li><li><a href="/jobs-and-internships">Jobs and Internships</a></li><li><a href="/masthead">Masthead</a></li><li><a href="/privacy-policy">Privacy Policy</a></li>    </ul>
-  </div>
-  <div class="clear"></div>
-</div>
-  </div>
-
-</div>
-		</div>
-		<div id="bottom_ad_banner">
-		<div id="block-tnr_ads-bottom_banner_ad" class="block block-tnr_ads">
-
-  
-  <div class="content">
-    <script language="JavaScript">
-<!--
-D_AD('Bottom');
-//-->
-</script><div id="div-gpt-ad-1331851126986-0"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-1331851126986-0");});</script></div>
-
-  </div>
-
-</div>
-		</div>
-		    <div style="position: absolute; top: 10px; right: 0;">
-      <div id="block-tnr_ads-top_banner_ad" class="block block-tnr_ads">
-
-  
-  <div class="content">
-    <script language="JavaScript">
-<!--
-D_AD('Top');
-//-->
-</script><div id="div-gpt-ad-1331851126986-4"><script type="text/javascript">googletag.cmd.push(function(){googletag.display("div-gpt-ad-1331851126986-4");});</script></div>
-
-  </div>
-
-</div>
-    </div>
-	</div>
-	<div id="fb-root"></div>
-
-	<div id="meebo_1"></div>
-
-	
-	<!-- Google Code for All Traffic - 7 days Remarketing List -->
-
-
-	<script type="text/javascript">
-	/* <![CDATA[ */
-	var google_conversion_id = 1003629831;
-	var google_conversion_language = "en";
-	var google_conversion_format = "3";
-	var google_conversion_color = "ffffff";
-	var google_conversion_label = "7WLICMHNqwMQh9rI3gM";
-	var google_conversion_value = 0;
-	/* ]]> */
-	</script>
-
-	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-	</script>
-
-
-	<!-- Google Code for All Traffic - 30 Days Remarketing List -->
-	<script type="text/javascript">
-	/* <![CDATA[ */
-	var google_conversion_id = 1003629831;
-	var google_conversion_language = "en";
-	var google_conversion_format = "3";
-	var google_conversion_color = "ffffff";
-	var google_conversion_label = "iWXNCLnOqwMQh9rI3gM";
-	var google_conversion_value = 0;
-	/* ]]> */
-	</script>
-
-	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-	</script>
-
-	
-	<!-- START Nielsen Online SiteCensus V6.0 -->
-	<!-- COPYRIGHT 2012 Nielsen Online -->
-	<script type="text/javascript">
-	  (function () {
-	    var d = new Image(1, 1);
-	    d.onerror = d.onload = function () {
-	      d.onerror = d.onload = null;
-	    };
-	    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-106312h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
-	  })();
-	</script>
-	<noscript>
-	  <div>
-	    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-106312h&amp;cg=0&amp;cc=1&amp;ts=noscript"
-	    width="1" height="1" alt="" />
-	  </div>
-	</noscript>
-	<!-- END Nielsen Online SiteCensus V6.0 -->
-
-  <!-- Begin comScore Tag -->
-  <script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "15230262" });
+  var _gaq = _gaq || [];
+  var pluginUrl =
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-10465183-1']);
+  _gaq.push(['_setDomainName', 'newrepublic.com']);
+  _gaq.push(['_trackPageview']);
   (function() {
-  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-  s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-  el.parentNode.insertBefore(s, el);
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- comScore -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "15230262" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>  
+<!-- Google Ads -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+// pusher
+window.googletag     = window.googletag || {}
+window.googletag.cmd = window.googletag.cmd || [];
+
+// loader
+(function() {
+  var
+    gads = document.createElement('script'),
+    useSSL = 'https:' == document.location.protocol,
+    node
+  ;
+  gads.async = true;
+  gads.type  = 'text/javascript';
+  gads.src   = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  node       = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+//--><!]]>
+</script>
+
+<!-- Google Ad Leaderboards -->
+<script type="text/javascript">
+// push ads available on all pages onready without jquery (not available till end of page)
+document.onreadystatechange = function () {
+  var
+    state = document.readyState
+  ;
+  if (state === 'interactive' && window.site !== undefined) {
+    site.utilities.load.ads([
+      {
+        name  : '/25738720/Web-LB0',
+        id    : 'leaderboard-ad',
+        sizes : [
+          [970, 90],
+          [728, 90]
+        ]
+      },
+      {
+        name  : '/25738720/Mobile-LB1',
+        id    : 'mobile-leaderboard-ad',
+        sizes : [
+          [320, 50]
+        ]
+      }
+    ]);
+  }
+};
+</script>
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body id="page">
+    <!-- Header !-->
+
+
+  <div class="ui page navigation container">
+    <div class="leaderboard advertisement" id="leaderboard-ad"></div>
+<div class="mobile advertisement" id="mobile-leaderboard-ad"></div>    <div class="ui relaxed fitted grid">
+      <div class="left column">
+                <h1>New Republic</h1>
+                <span itemscope="" itemtype="http://schema.org/Organization">
+          <a class="logo ui image" itemprop="url" href="/">
+            <img itemprop="logo" src="/sites/all/themes/tnr/assets/images/logo.png">
+          </a>
+        </span>
+        <div class="ui compact basic large mobile button">
+          <i class="list layout icon"></i> Menu
+        </div>
+        <nav class="ui divided horizontal category list">
+          <a href="/tags/politics" class="item">Politics</a>
+          <a href="/tags/culture" class="item">Culture</a>
+          <a href="/current-issue" class="item">Magazine</a>
+        </nav>
+        <nav class="ui horizontal sub category list">
+          <a href="/latest" class="item">The Latest</a>
+          <a href="/project/world-cup-2014" class="item">World Cup</a>
+          <a href="/qed" class="item">Q.E.D.</a>
+          <a href="/tags/books" class="item">Books</a>
+          <a href="/tags/ukraine" class="item">Ukraine</a>
+          <a href="/tags/future-work" class="sponsored item">
+            Next Republic
+            <i class="triangle down icon"></i>
+          </a>
+        </nav>
+        <div class="ui sponsored wide popup">
+          <div class="ui four column fitted grid">
+            <div class="column">
+              <a href="/tags/future-work">
+                <img class="ui image" src="/sites/all/themes/tnr/assets/images/suisse/nav-callout.jpg" alt="The Future of Work">
+              </a>
+            </div>
+              <div class="column">
+    <div class="ui headline">
+      <h3 class="ui rubric header">
+        <a href="/tags/work" class="title">Work</a>      </h3>
+      <a class="ui image" href="/article/118285/workaholism-america-hurting-economy">
+                <img src="http://www.newrepublic.com/sites/default/files/styles/latest/public/shutterstock_work.jpg?itok=P8_FUfmj">
+              </a>
+      <h3 class="ui header">
+        <a href="/article/118285/workaholism-america-hurting-economy">
+          Taking a Vacation May Actually Save Your Career        </a>
+        <div class="sub header">
+                  </div>
+      </h3>
+      <div class="author">
+        <a href="/authors/bryce-covert" itemprop="author" rel="author">Bryce Covert</a>      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui headline">
+      <h3 class="ui rubric header">
+        <a href="/tags/future-work" class="title">Future of Work</a>      </h3>
+      <a class="ui image" href="/article/118288/welcome-future-work">
+                <img src="http://www.newrepublic.com/sites/default/files/styles/latest/public/shutterstock_186754508.jpg?itok=ApHHBQrE">
+              </a>
+      <h3 class="ui header">
+        <a href="/article/118288/welcome-future-work">
+          Welcome to the Future of Work        </a>
+        <div class="sub header">
+                  </div>
+      </h3>
+      <div class="author">
+        <a href="/authors/new-republic-editors" itemprop="author" rel="author">The New Republic Editors</a>      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui headline">
+      <h3 class="ui rubric header">
+        <a href="/tags/families" class="title">Families</a>      </h3>
+      <a class="ui image" href="/article/118287/why-we-still-dont-see-working-men-fathers">
+                <img src="http://www.newrepublic.com/sites/default/files/styles/latest/public/working_dad_2.jpg?itok=s7hn3a8e">
+              </a>
+      <h3 class="ui header">
+        <a href="/article/118287/why-we-still-dont-see-working-men-fathers">
+          Why We Still Don't See Working Men as Fathers        </a>
+        <div class="sub header">
+                  </div>
+      </h3>
+      <div class="author">
+        <a href="/authors/bryce-covert" itemprop="author" rel="author">Bryce Covert</a>      </div>
+    </div>
+  </div>
+          </div>
+        </div>
+      </div>
+      <div class="right column">
+                <div class="ui right floated red subscribe buttons">
+          <a class="ui button" href="/subscription/self/header">Subscribe Now</a>
+          <div class="ui floating dropdown icon button">
+            <i class="dropdown icon"></i>
+            <div class="menu">
+              <a class="item" href="/subscription/self/dropdown">Order a Subscription</a>
+              <a class="item" href="/subscription/gift/header">Give a Gift</a>
+              <a class="item" href="/subscription/international/header">International Orders</a>
+              <a class="item" href="/subscription/canada/header">Canadian Orders</a>
+              <a class="item" href="/subscription/digital/header">Digital Subscription</a>
+            </div>
+          </div>
+        </div>
+        <div class="ui small secondary user menu">
+          <a class="login item">Log-in</a><div class="ui login popup"><form class="ui form" action="/page/privacy-policy?destination=node/112244" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="field"><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name--2">E-mail / Username </label>
+ <span class="field-prefix"><a href="/subscription/self/header" data-content="User accounts are for The New Republic subscribers only. Click here to gain full access to the site." data-title="Get Complete Access" tabindex="5" class="create">Subscribe for Access</a><div class="ui left icon input"><i class="mail icon"></i> <input tabindex="1" autocomplete="email" data-validate="username" type="text" id="edit-name--2" name="name" value="" maxlength="60" class="form-text"> <span class="field-suffix"></span></div></span>
+</div>
+</div><div class="field"><div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass--2">Password </label>
+ <span class="field-prefix"><a class="forgot" tabindex="6" href="/user/password">Forgot Your Password?</a><div class="ui left icon input"><i class="lock icon"></i> <input tabindex="2" data-validate="password" type="password" id="edit-pass--2" name="pass" maxlength="128" class="form-text"> <span class="field-suffix"></span></div></span>
+</div>
+</div><div class="ui inline field"><div class="ui checkbox"><div class="form-item form-type-checkbox form-item-remember-me">
+ <input tabindex="3" type="checkbox" id="edit-remember-me--2" name="remember_me" value="1" checked="checked" class="form-checkbox">  <label class="option" for="edit-remember-me--2">Remember me on this computer </label>
+
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-DaRFWJbdYwpEorSx08dsv1bRKU0QpWrT5y70OBxvg20">
+<input type="hidden" name="form_id" value="user_login_block">
+<div class="form-actions form-wrapper" id="edit-actions--2"><input tabindex="4" class="ui submit button form-submit" type="submit" id="edit-submit--2" name="op" value="Log-in"></div></div></form></div>        </div>
+                <div class="ui search">
+          <div class="ui small icon input">
+            <input class="prompt" type="text" name="q" autocomplete="off" placeholder="Search...">
+            <i class="search icon"></i>
+          </div>
+          <div class="results"></div>
+        </div>
+      </div>
+    </div>
+    <div class="ui fluid inverted vertical logged-out mobile menu">
+            <a class="item" href="/user/login">Log in</a>
+      <a class="item" href="/subscription/self/header">Subscribe</a>
+            <div class="header item">Sections</div>
+      <a href="/latest" class="item">The Latest</a>
+      <a href="/project/world-cup-2014" class="item">World Cup</a>
+      <a href="/qed" class="item">QED</a>
+      <a href="/tags/future-work" class="item">Next Republic</a>
+      <a href="/tags/politics" class="item">Politics</a>
+      <a href="/tags/culture" class="item">Culture</a>
+      <a href="/current-issue" class="item">The Magazine</a>
+    </div>
+  </div>
+
+<div class="page body">
+    <div class="ui raised page segment">
+  <h2 class="ui dividing header">
+    Privacy Policy  </h2>
+  <div class="content">
+    <p class="no-section-header"><span>T</span><em>his Privacy Policy was last updated effective November 4, 2009.</em></p><div class="article_detail_body"><p>To help you understand how information submitted will be treated when you log on to and use our web site, The New Republic Online (“NewRepublic.com”) offers this Privacy Policy. Use of the NewRepublic.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting NewRepublic.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information NewRepublic.com collects, the reasons why such information is collected, how such information is used and who has access to it.</p><p>&nbsp;</p><p><strong>General Principles</strong></p><p>&nbsp;</p><p>NewRepublic.com’s Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personally identifiable information so that you understand how the information you are submitting will be used.</p><p>&nbsp;</p><p>Any changes made to the Privacy Policy will be prospective, not retroactive.</p><p>&nbsp;</p><p>NewRepublic.com is not responsible for the information practices of third parties, although we take care to engage third party fulfillment processors, ad servers, survey companies and other support services that respect your privacy, preferences and data security needs.</p><p>&nbsp;</p><p><strong>Collection of Information</strong></p><p>&nbsp;</p><p>NewRepublic.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online.</p><p>&nbsp;</p><p>Wherever possible and practical, NewRepublic.com gives users options about submitting information. Such choices include:</p><p>&nbsp;</p><p>Opting not to receive our electronic newsletters.</p><p>&nbsp;</p><p>Opting not to participate in certain interactive areas, which completely alleviate the need for collecting information from our users.</p><p>&nbsp;</p><p><strong>Subscriptions</strong></p><p>&nbsp;</p><p>You may use the web site to subscribe to the print or digital version of The New Republic by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine’s fulfillment house, Palm Coast Data.</p><p>&nbsp;</p><p><strong>Electronic Newsletters</strong></p><p>&nbsp;</p><p>NewRepublic.com offers several electronic newsletters to which you may voluntarily subscribe and unsubscribe at any time. NewRepublic.com uses MailChimp, a reputable third party, to deliver the email newsletters you will receive from our site and serve all of the advertisements that are placed within those emails.</p><p>&nbsp;</p><p>MailChimp collects and stores all the information users submit to NewRepublic.com in connection with the electronic newsletters. If you would like to know more about the information-gathering practices and “opt-out” procedures of MailChimp, please see<a title="http://www.mailchimp.com/page/privacy/" href="http://www.mailchimp.com/page/privacy/">http://www.mailchimp.com/page/privacy/</a>.</p><p>&nbsp;</p><p>You may remove yourself from any or all of the electronic newsletters’ mailing lists at any time by following instructions for unsubscribing found at the end of every newsletter or by emailing&nbsp;<a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>.</p><p>&nbsp;</p><p><strong>Surveys</strong></p><p>&nbsp;</p><p>From time to time&nbsp;NewRepublic&nbsp;com conducts voluntary user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers for various purposes including promotions, contests and offers. We never share any of this information about specific individuals with any third party, unless so indicated in this Privacy Policy.</p><p>&nbsp;</p><p><strong>Cookies and IP Addresses</strong></p><p>&nbsp;</p><p>In order to offer and provide personalized custom services,&nbsp;NewRepublic&nbsp;com uses cookies to limit the number of times a particular advertisement is shown to a user as the user navigates through the site. A cookie is a small data file that certain web sites write to your hard drive when you visit them. A cookie file may contain information such as a user ID that the site uses to track the pages you have visited and to allow easy access to restricted areas of the web site. The only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk, read cookie files created by other sites, or damage your files.</p><p>&nbsp;</p><p>If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You also may refuse cookies by disabling them on your browser. You do need to have cookies turned on to use premium areas of&nbsp;NewRepublic.com.</p><p>&nbsp;</p><p>As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.&nbsp;NewRepublic&nbsp;com may use data contained in log files to analyze trends, administer the site, track users’ movement and gather broad demographic information for aggregate use.</p><p>&nbsp;</p><p>We also use third party advertisements on&nbsp;NewRepublic&nbsp;com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p><p>&nbsp;</p><p><strong>Use of the Information Collected</strong></p><p>&nbsp;</p><p>NewRepublic.com uses information you voluntarily submit to send out electronic newsletters and to enable users to move seamlessly through our web site and to communicate with users with legal notices, notices of material changes to terms and conditions, privacy policy, rules, etc., and account status. We send out newsletters to subscribers on a regular schedule (weekly) and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. With respect to advertisements, an advertiser will inform us which type of audience it seeks to reach, and tnr.com, through MailChimp, will place the advertisement in the body of the email newsletter of those individuals fitting the advertiser’s criteria. Pop-up advertisements may be displayed to a targeted audience based on the same criteria. The advertisers are not able to access your account or any of your personally identifiable information.</p><p>&nbsp;</p><p>We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.</p><p>&nbsp;</p><p>NewRepublic.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because&nbsp;NewRepublic.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad.</p><p>&nbsp;</p><p><strong>Credit Card Information</strong></p><p>&nbsp;</p><p>We comply with generally accepted industry standards in collecting and processing credit card information. However,&nbsp;NewRepublic.com does not guarantee the safety of credit card information over the Internet.</p><p>&nbsp;</p><p><strong>Information Sharing</strong></p><p>&nbsp;</p><p>When you visit&nbsp;NewRepublic&nbsp;com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with&nbsp;NewRepublic&nbsp;com.&nbsp;NewRepublic&nbsp;com will not disclose the information you submit, except with our third party fulfillment vendors and except as otherwise described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of&nbsp;NewRepublic&nbsp;com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services.</p><p>&nbsp;</p><p>If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service.</p><p>&nbsp;</p><p><strong>NewRepublic.com Security Measures</strong></p><p>&nbsp;</p><p>The NewRepublic.com web site has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information,&nbsp;NewRepublic&nbsp;com cannot warrant the security of information you transmit to us, and you do so at your own risk.</p><p>&nbsp;</p><p><strong>Children’s Privacy</strong></p><p>&nbsp;</p><p>NewRepublic.com site is intended for use by individuals over the age of 18. We will comply with the Children’s Online Privacy Protection Act, and not knowingly provide children under the age of 13 with access to&nbsp;NewRepublic&nbsp;com. If you are under 13, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.</p><p>&nbsp;</p><p><strong>Other Information About Your Privacy</strong></p><p>&nbsp;</p><p>Whenever you voluntarily disclose any information online in any forum, that information can be collected and used by others. In other words, if you post personal information online that may be accessed by the public, you may receive unsolicited messages from other parties. It is important to be responsible and careful whenever you are online.</p><p>&nbsp;</p><p><strong>Updating, Correcting and Deleting Personal Information</strong></p><p>&nbsp;</p><p>Users who subscribe to our print or digital publication, The New Republic, may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at&nbsp;<a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>.</p><p>&nbsp;</p><p>If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.</p><p>&nbsp;</p><p>Currently,&nbsp;NewRepublic.com does not offer users a means by which to completely delete personal information submitted while on this site.</p><p>&nbsp;</p><p><strong>Additional Information</strong></p><p>&nbsp;</p><p>If, for any reason, you believe that&nbsp;NewRepublic.com has not adhered to its Privacy Policy, please notify us by sending an email message to&nbsp;<a href="mailto:tnrdigital@tnr.com">tnrdigital@tnr.com</a>.&nbsp;NewRepublic&nbsp;com will try to respond to your concerns and, where appropriate, attempt to correct the problem.</p><p>&nbsp;</p><p>By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with&nbsp;NewRepublic.com, you may contact us via mail, email, or the telephone number listed below.</p><p>&nbsp;</p><p>The New Republic<br>Customer Service<br>Privacy Policy<br>1400 K Street, NW<br>Suite 1200<br>Washington, DC 20005<br>Phone: 1-800-827-1289</p></div>  </div>
+</div></div>
+<!-- Without the following, metatags are not rendered properly -->
+
+<div class="ui page footer container">
+  <div class="ui relaxed stackable fitted grid">
+    <div class="sixteen wide mobile only center aligned column">
+      <div class="ui horizontal inverted icon divider">
+        <i class="circular inverted sitemap icon"></i>
+      </div>
+      <h5 class="ui inverted header">Sections</h5>
+      <div class="ui relaxed inverted fitted selection list">
+        <a href="/latest" class="item">The Latest</a>
+        <a href="/tags/politics" class="item">Politics</a>
+        <a href="/tags/culture" class="item">Culture</a>
+        <a href="/current-issue" class="item">The Magazine</a>
+      </div>
+      <select name="section" class="sections">
+        <option value="">More</option>
+        <optgroup label="Categories">
+          <option value="/tags/books/">Books</option>
+          <option value="/tags/economy/">Economy</option>
+          <option value="/tags/film/">Film</option>
+          <option value="/tags/plank/">The Plank</option>
+          <option value="/tags/politics/">Politics</option>
+          <option value="/tags/technology/">Technology</option>
+          <option value="/tags/world/">World</option>
+        </optgroup>
+        <optgroup label="New Republic">
+          <option value="/current-issue">Current Issue</option>
+          <option value="/page/about-new-republic">About</option>
+          <option value="/page/advertise-new-republic">Advertise</option>
+          <option value="/page/contact-us">Contact Us</option>
+          <option value="/page/jobs-and-internships">Jobs &amp; Internships</option>
+          <option value="/page/privacy-policy" rel="nofollow">Privacy Policy</option>
+          <option value="/tags/home-news">Home News</option>
+          <option value="/tags/events">Events</option>
+          <option value="/ebsco">Archives</option>
+          <option value="/page/rss-feeds">RSS</option>
+        </optgroup>
+      </select>
+    </div>
+    <div class="ten wide sitemap column">
+      <div class="ui horizontal inverted icon divider">
+        <i class="circular inverted sitemap icon"></i>
+      </div>
+      <div class="ui three column grid">
+        <div class="column">
+          <h5 class="ui inverted header">Sections</h5>
+          <div class="ui small relaxed inverted fitted selection list">
+            <a class="item" href="/tags/books/">Books</a>
+            <a class="item" href="/tags/economy/">Economy</a>
+            <a class="item" href="/tags/film/">Film</a>
+            <a class="item" href="/tags/plank/">The Plank</a>
+            <a class="item" href="/tags/politics/">Politics</a>
+            <a class="item" href="/tags/technology/">Technology</a>
+            <a class="item" href="/tags/world/">World</a>
+            <a class="item" href="/tags/events/">Events</a>
+          </div>
+        </div>
+        <div class="column">
+          <h5 class="ui inverted header">The Magazine</h5>
+          <div class="ui small relaxed inverted fitted selection list">
+            <a class="item" href="/latest">Our Latest</a>
+            <a class="item" href="/current-issue">Current Issue</a>
+          </div>
+          <h5 class="ui inverted header">Subscriptions</h5>
+          <div class="ui small relaxed inverted fitted selection list">
+            <a class="item" href="/subscription/self/footer/textlink">Order a Subscription</a>
+            <a class="item" href="/subscription/gift/footer/textlink">Give a Gift</a>
+            <a class="item" href="/page/subscriber-services">Subscriber Services</a>
+            <a class="item" href="/ebsco">Archives</a>
+            <a class="item" href="/page/frequently-asked-questions">FAQ</a>
+          </div>
+        </div>
+        <div class="column">
+          <h5 class="ui inverted header">The New Republic</h5>
+          <div class="ui small relaxed inverted fitted selection list">
+            <a class="item" href="/page/about-new-republic">About</a>
+            <a class="item" href="/page/advertise-new-republic">Advertise</a>
+            <a class="item" href="/page/contact-us">Contact Us</a>
+            <a class="item" href="/page/jobs-and-internships">Jobs &amp; Internships</a>
+            <a class="item" href="/page/privacy-policy" rel="nofollow">Privacy Policy</a>
+            <a class="item" href="/tags/home-news">Home News</a>
+            <a class="item" href="/page/rss-feeds">RSS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="six wide signup column">
+      <div class="ui horizontal inverted icon divider">
+        <i class="circular inverted bullhorn icon"></i>
+      </div>
+      <h4 class="ui red header">Sign Up For The New Republic Daily</h4>
+      <p>Sign up now to get your dose of politics, culture, and big ideas with our free daily newsletter.</p>
+      <form class="ui fluid form" action="/page/privacy-policy" method="post" id="tnr-article-sailthru-form" accept-charset="UTF-8"><div><div class="field"><div class="form-item form-type-textfield form-item-email">
+ <input autocomplete="email" type="text" name="email" placeholder="Enter e-mail" id="edit-email" value="" size="60" maxlength="128" class="form-text required">
+</div>
+</div><input class="ui blue submit button form-submit" type="submit" id="edit-submit--3" name="op" value="Sign-up"><input type="hidden" name="form_build_id" value="form-ZKqYlrsqcaA5igRefQ3Y4ob5oeqcjo5cedAquN1G8rM">
+<input type="hidden" name="form_id" value="tnr_article_sailthru_form">
+</div></form>    </div>
+    <div class="six wide promo column">
+      <div class="ui horizontal inverted icon divider">
+        <i class="circular inverted bullhorn icon"></i>
+      </div>
+      <h4 class="ui header">
+        <a href="/subscription/self/footer/callout">Subscribe Now</a>
+      </h4>
+      <h5 class="ui inverted header">
+        Get The New Republic for <b>$34.97/year</b>
+      </h5>
+      <a class="ui left floated image" href="/subscription/self/footer/callout">
+        <img typeof="foaf:Image" src="http://www.newrepublic.com/sites/default/files/styles/curr_issue_cover_footer/public/u184683/063014_cover.online.jpg?itok=DxlR9oUv" alt="">      </a>
+      <div class="ui small inverted fitted selection list">
+        <a class="item" href="/subscription/self/footer/callout">
+          <i class="book icon"></i>
+          Subscribe Now
+        </a>
+        <a class="item" href="/subscription/gift/footer">
+          <i class="gift icon"></i>
+          Give a Gift
+        </a>
+        <a class="item" href="/subscription/international/footer">
+          <i class="globe icon"></i>
+          International Orders
+        </a>
+        <a class="item" href="/subscription/digital/footer">
+          <i class="tablet icon"></i>
+          Digital Subscription
+        </a>
+      </div>
+    </div>
+  </div>
+  <a class="ui centered small logo image" href="/">
+    <img src="/sites/all/themes/tnr/assets/images/logo-white.png">
+  </a>
+  <div class="social">
+    <div class="slim twitter sharrre" data-user="tnr" data-url="http://www.newrepublic.com" data-title="Follow"></div>
+    <div class="slim facebook sharrre" data-url="http://www.facebook.com/thenewrepublic" data-title="Like">
+    </div>
+    <div class="slim google sharrre" data-url="http://www.newrepublic.com" data-title="Plus">
+    </div>
+  </div>
+  <div class="ui mini centered divided inverted horizontal copyright link list">
+    <a class="item" href="/page/masthead">Masthead</a>
+    <div class="item">
+      Copyright 2014 © The New Republic.
+      All Rights Reserved.
+    </div>
+  </div>
+</div>    <div class="ui modal" id="overlay"></div>  <div class="script">
+  <!--[if lt IE 9]>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <![endif]-->
+  <!--[if (gte IE 9) | (!IE)]><!-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <!--<![endif]-->
+<script type="text/javascript" src="http://www.newrepublic.com/sites/default/files/js/js_e8uVIaTa4AnPZbMN9ZJG64W0_zKyVZ5cK91SeZW3KB8.js"></script>
+
+  <!-- Site Config !-->
+  <script src="/sites/all/themes/tnr/build/ui/definitions/globals/site.js"></script>
+
+  <!-- Site Overlay !-->
+    <script type="text/javascript">
+  site.config.overlay = $.parseJSON('{"force_display_nodes":[],"targeted_overlay_nodes":[],"tnr_overlay_nodes":[],"tnr_paywall_nodes":[],"visit_times_targeted":["1"],"visit_times_general":["2"],"visit_times_paywall":false}');
+  </script>
+
+  <script type="text/javascript">
+  $.extend(true, site.config, {
+    loggedIn : false  });
+  $.site('disable debug');
+    $.site('disable console');
+    </script>
+
+  <script type="text/javascript" src="http://www.newrepublic.com/sites/default/files/js/js_7AUDZdzWLyKUFhb-FjsNPHgxKZMrWjrPkF3Q50A46H0.js"></script>
+
+  
+</div>  <div class="tracking">
+
+  <!-- Krux -->
+  <script class="kxct" data-id="JDjkQwAo" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+      var k=document.createElement('script');k.type='text/javascript';k.async=true;
+      var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+      k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+        (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDjkQwAo"
+    ;
+      var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    }());
+
+  </script>
+
+  <!-- Google Remarketing -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var
+    google_conversion_id = 993343767,
+    google_conversion_label = 'gzoeCIDN0QMQkLP42wM',
+    google_custom_params = window.google_tag_params,
+    google_remarketing_only = true
+  ;
+  /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+  <!-- Quantcast Script -->
+  <script type="text/javascript">
+  _qoptions={
+    qacct : 'p-abwxcJNao5fsc'
+  };
+  </script>
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+
+  <!-- Parse.ly -->
+  <div id="parsely-root" style="display: none">
+    <div id="parsely-cfg" data-parsely-site="tnr.com"></div>
+  <script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+  <script>
+  (function(s, p, d) {
+    var h=d.location.protocol, i=p+"-"+s,
+        e=d.getElementById(i), r=d.getElementById(p+"-root"),
+        u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+        :"static."+p+".com";
+    if (e) return;
+    e = d.createElement(s); e.id = i; e.async = true;
+    e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+  })("script", "parsely", document);
+  </script>
+ 
+    <!-- START horizon sailthru -->
+  <script type="text/javascript">
+    (function() {
+      function loadHorizon() {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(s, x);
+      }
+      loadHorizon();
+      var oldOnLoad = window.onload;
+      window.onload = function() {
+        if (typeof oldOnLoad === 'function') {
+          oldOnLoad();
+        }
+        Sailthru.setup({
+          domain: 'horizon.newrepublic.com'
+        });
+      };
+    })();
+  </script>
+  
+  <!-- Nielsen Online SiteCensus V6.0 -->
+  <script type="text/javascript">
+    (function () {
+      var image = new Image(1, 1);
+      image.onerror = image.onload = function () {
+        image.onerror = image.onload = null;
+      };
+      image.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-106312h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+  </script>
+
+  <!-- AdRoll -->
+  <script type="text/javascript">
+  adroll_adv_id = "SIJVU24MGJE47PAYLLPPOJ";
+  adroll_pix_id = "6WNJ733UAJGY3LIFHE43PT";
+  (function () {
+  var oldonload = window.onload;
+  window.onload = function(){
+     __adroll_loaded=true;
+     var scr = document.createElement("script");
+     var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+     scr.setAttribute('async', 'true');
+     scr.type = "text/javascript";
+     scr.src = host + "/j/roundtrip.js";
+     ((document.getElementsByTagName('head') || [null])[0] ||
+      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+     if(oldonload){oldonload()}};
+  }());
+  </script>
+
+  <!-- ChartBeat -->
+  <script type="text/javascript">
+  var _sf_async_config={uid:34517,domain:"tnr.com"};
+  _sf_async_config.useCanonical = true;
+  (function(){
+    function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
   })();
   </script>
-  <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=15230262&cv=2.0&cj=1" />
-  </noscript>
-  <!-- End comScore Tag -->
 
+  <!-- Optimizely -->
+  <!--script src="//cdn.optimizely.com/js/113744585.js"></script!-->
 
+  <div class="pixels">
+    <!-- Collective Media pixel -->
+    <img src="http://b.collective-media.net/seg/cm/l1dd" width="1" height="1">
+    <noscript>
+      <!-- Quantcast Pixel -->
+      <img src="http://pixel.quantserve.com/pixel/p-abwxcJNao5fsc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+      <!-- Google Re-marketing Pixel -->
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993343767/?value=0&amp;label=gzoeCIDN0QMQkLP42wM&amp;guid=ON&amp;script=0"/>
+      <!-- Neilsen Census Pixel -->
+      <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-106312h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+      width="1" height="1" alt="" />
+      <!-- ComScore -->
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=15230262&cv=2.0&cj=1" />
+    </noscript>
+  </div>
+</div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"71240f55fe","applicationID":"2735134","transactionName":"YFRUZkcECEcHV0ZaXFkeY0BcSkldCFBXSx1HWUY=","queueTime":0,"applicationTime":6,"ttGuid":"","agentToken":"","atts":"TBNXEA8eG0k=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-	<script type="text/javascript">
-	var _sf_async_config={uid:34517,domain:"tnr.com"};
-	_sf_async_config.useCanonical = true;
-	
-		(function(){
-	  function loadChartbeat() {
-		window._sf_endpt=(new Date()).getTime();
-		var e = document.createElement('script');
-		e.setAttribute('language', 'javascript');
-		e.setAttribute('type', 'text/javascript');
-		e.setAttribute('src',
-		   (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-		   "js/chartbeat.js");
-		document.body.appendChild(e);
-	  }
-	  var oldonload = window.onload;
-	  window.onload = (typeof window.onload != 'function') ?
-		 loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	})();
-	
-	</script>
-
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cluetip/cluetip/jquery.cluetip.css">
-  <script type="text/javascript" src="/sites/all/modules/cluetip/cluetip/jquery.cluetip.js"></script>
-  <script type="text/javascript" src="/sites/all/modules/cluetip/cluetip/jquery.hoverIntent.js"></script>
-  <script type="text/javascript" src="/sites/all/modules/cluetip/cluetip/jquery.dimensions-1.2.js"></script>
-
-
-
-
-	
-
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
