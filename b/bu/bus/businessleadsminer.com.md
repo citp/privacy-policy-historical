@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessleadsminer.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118213527id_/http%3A//www.businessleadsminer.com/legal/privacy.html%3Flightbox%5Bwidth%5D%3D700%26lightbox%5Bheight%5D%3D600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessleadsminer.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627110420id_/http%3A//www.businessleadsminer.com/legal/privacy.html%3Flightbox%5Bwidth%5D%3D700%26lightbox%5Bheight%5D%3D600) for the most accurate reproduction.*
 
 # Privacy Policy
 
