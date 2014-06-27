@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mylloyd.com privacy policy that was archived on 2013-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131025230016id_/http%3A//www.mylloyd.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylloyd.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627024445id_/http%3A//www.mylloyd.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -35,97 +35,115 @@ anylinkcssmenu.init("anchorclass")
         <td><script type="text/javascript" src="autoscript/bsn.Ajax.js"></script>
 <script type="text/javascript" src="autoscript/bsn.DOM.js"></script>
 <script type="text/javascript" src="autoscript/bsn.AutoSuggest.js"></script>
-<style type="text/css">
-/* 
-	================================================
-	styling for autosuggest begins here
-	================================================
-	*/
-	ul.autosuggest {
-	position: absolute;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	overflow-y: auto;
-}
-ul.autosuggest li {
-	font-size:10px;
-	text-align: left;
-	border-bottom: 1px solid #ccc;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-}
-ul.autosuggest li a:link,  ul.autosuggest li a:visited {
-	font-size:10px;
-	display: block;
-	padding: 4px;
-	text-decoration: none;
-	background-color: #eee;
-}
-ul.autosuggest li a:hover,  ul.autosuggest li a:active {
-	font-size:10px;
-	color: #fff;
-	background-color: #f30;
-}
-ul.autosuggest li.highlight a:link,  ul.autosuggest li.highlight a:visited {
-	color: #fff;
-	background-color: #f30;
-}
-</style>
+
+<script type="text/javascript" src="js/cartFunctions.js"></script>
+<script type="text/javascript">
+jQuery(document).ready( function(){
+	jQuery("#header-account-link").click(function(){
+		window.location = "customer-account.php";
+	});
+	jQuery("#header-logout-link").click(function(){
+		jQuery("#header-logout-form").submit();
+	});
+	jQuery("#header-login-link").click(function(){
+		window.location = "customer-login.php";
+	});
+	jQuery("#header-signup-link").click(function(){
+		window.location = "customer-login.php";
+	});
+	jQuery("#shopping-bag-title").live('click', function(){
+		jQuery(".children").slideToggle("slow");
+	});
+	jQuery("#close-dropdown").live('click', function(){
+		jQuery(".children").slideUp("slow");
+	}); 						
+});
+</script>
+
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="385" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td height="5"><a name="01" id="01"></a></td>
-          <td height="5"></td>
-        </tr>
-        <tr>
-          <td width="55">&nbsp;</td>
-          <td width="330"><img src="images/customer-care.png" width="257" height="83"></td>
-        </tr>
-      </tbody></table></td>
-    <td width="231" height="88" align="center" valign="bottom" style="padding-left:3px;"><a href="index.php"><img src="images/logo-01.png" width="109" height="81" border="0"></a></td>
-    <td width="386"><div>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="56%" height="49">&nbsp;</td>
-    <td width="44%"><a href="bosska-challenge.php"><img src="images/boss.png" style="margin:0px;" border="0"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><div style="float:left; width:202px; height:28px; background-image:url(images/form-bg.png); background-position:left top; background-repeat:no-repeat; padding-top:2px;">
-          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td width="100%" height="26"><form method="post" name="searchheader" id="searchheader">
-                  <input type="hidden" name="search_header" id="search_header" value="Search">
-                  <table width="70%" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td width="385" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td height="5"><a name="01" id="01"></a></td>
+                <td height="5"></td>
+              </tr>
+              <tr>
+                <td width="55">&nbsp;</td>
+                <td width="330"><img src="images/customer-care.png" width="245" height="83"></td>
+              </tr>
+            </tbody></table></td>
+            <td width="231" height="88" align="center" valign="bottom" style="padding-left:3px;"><a href="index.php"><img src="images/logo-01.png" width="109" height="81" border="0"></a></td>
+            <td width="386">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  	<tbody><tr><td align="right" colspan="2">
+								<span id="header-login-link" class="yellow-heading">Login</span> | <span id="header-signup-link" class="yellow-heading">Sign Up</span> | 
+								<!-- Start -- Shopping Cart Section -->
+				<div class="shopping-button yellow-heading">
+				<ul id="dropdown">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="yellow-heading">Cart is Empty</span>				</ul>
+				</div>
+				<!-- End -- Shopping Cart Section -->
+				<form id="header-logout-form" method="post" action="customer-login.php">
+					<input type="hidden" name="mode" value="logout">
+				</form>
+				</td></tr>
+                <tr>
+                  <td width="148" align="right">&nbsp;</td>
+                  <td width="201" height="26" align="left" id="txt-field-bg" style="padding-left:2px;">
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                      <td width="142" align="right"><input name="search" type="text" class="txt-field" id="search" onblur="if(this.value==''){this.value='Search';}" onclick="if(this.value=='Search'){this.value='';}" value="Search"></td>
-                      <td width="2">&nbsp;</td>
-                      <td width="30"><input type="image" src="search-button.jpg" name="search_header" id="search_header"></td>
+                      <td width="86%" height="26">
+					 
+<form name="searchheader" method="post">
+<input type="hidden" name="search_header" id="search_header" value="Search">
+		<table cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td align="right">
+		<input name="search" type="text" class="txt-field" id="search" onblur="if(this.value==''){this.value='Search';}" onclick="if(this.value=='Search'){this.value='';}" value="Search">
+		</td>
+<td width="2px;">&nbsp;</td>
+          <td><input type="image" src="search-button.jpg" name="search_header" id="search_header">	</td>
+		  </tr></tbody></table>
+		  </form>
+
+			</td>
+                      <td width="15%"></td>
                     </tr>
-                  </tbody></table>
-                </form></td>
-            </tr>
-          </tbody></table>
-        </div><div style="float:left; width:179px; height:30px; margin-left:3px;"><a href="http://lloydsvc.com/RegCertificate.aspx" target="_blank"><img src="images/product-registration.png" width="179" height="30" border="0"></a></div></td>
-    </tr>
-</tbody></table>
-        
-        
-      </div></td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td height="43" colspan="3"><div id="nav">
-        <div id="nav-left"><img src="images/nav-left.png" width="18" height="43"></div>
-        <div class="nav-divider"></div>
-        <div class="home"><a href="index.php" class="syrup">Home</a></div>
-        <div class="nav-divider"></div>
-        <div class="about"><a href="#" data-flexmenu="flexmenu1" class="syrup">About Us</a></div>
-        <div class="nav-divider"></div>
-        <div class="product"><a href="#" class="anchorclass myownclass" data-flexmenu="flexmenu10" rel="submenu2" style="
+                  </tbody></table></td>
+                  <td width="17" align="left">&nbsp;</td>
+                </tr>
+              </tbody></table>
+         </td>
+          </tr>
+          <tr>
+            <td height="43" colspan="3"><div id="nav">
+              <div id="nav-left"><img src="images/nav-left.png" width="18" height="43"></div>
+              <div class="nav-divider"></div>
+              <div class="home"><a href="index.php" class="syrup">Home</a></div>
+              <div class="nav-divider"></div>
+              <div class="about"><a href="#" data-flexmenu="flexmenu1" class="syrup">About Us</a></div>
+              <div class="nav-divider"></div>
+              <div class="product"><a href="#" class="anchorclass myownclass" data-flexmenu="flexmenu10" rel="submenu2" style="
 			  color:#FFFFFF;">Products</a>
-          <!--<div id="submenu2" class="anylinkcsscols">
+			  
+                <!--<div id="submenu2" class="anylinkcsscols">
                   <div class="column">
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                       <tr>
@@ -232,40 +250,81 @@ ul.autosuggest li.highlight a:link,  ul.autosuggest li.highlight a:visited {
 </div>
                   </div>
                 </div>-->
-        </div>
-        <div class="nav-divider"></div>
-        <div class="service"><a href="#" data-flexmenu="flexmenu2" class="syrup">Services</a></div>
-        <div class="nav-divider"></div>
-        <div id="logo-02"><img src="images/logo-02.png"></div>
-        <div class="nav-divider"></div>
-        <div class="dealer"><a href="find-a-dealer.php" data-flexmenu="flexmenu3" class="syrup">Dealer locator </a></div>
-        <div class="nav-divider"></div>
-        <div class="support"><a href="customer-feedback.php" data-flexmenu="flexmenu4" class="syrup">Support</a></div>
-        <div class="nav-divider"></div>
-        <div class="media"><a href="#" data-flexmenu="flexmenu5" class="syrup">Media</a></div>
-        <div class="nav-divider"></div>
-        <div class="career"><a href="career.php" class="syrup">Career</a></div>
-        <div class="nav-divider"></div>
-        <div id="nav-right"><img src="images/nav-right.png"></div>
-      </div></td>
-  </tr>
-  
-  
-  <tr>
-    <td>&nbsp;</td>
-    <td align="center"><img src="images/curve.png" width="231" height="25"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-
-
+              </div>
+              <div class="nav-divider"></div>
+              <div class="service"><a href="#" data-flexmenu="flexmenu2" class="syrup">Services</a></div>
+              <div class="nav-divider"></div>
+              <div id="logo-02"><img src="images/logo-02.png"></div>
+              <div class="nav-divider"></div>
+              <div class="dealer"><a href="find-a-dealer.php" data-flexmenu="flexmenu3" class="syrup">Dealer locator </a></div>
+              <div class="nav-divider"></div>
+              <div class="support"><a href="customer-feedback.php" data-flexmenu="flexmenu4" class="syrup">Support</a></div>
+              <div class="nav-divider"></div>
+              <div class="media"><a href="#" data-flexmenu="flexmenu5" class="syrup">Media</a></div>
+              <div class="nav-divider"></div>
+              <div class="career"><a href="career.php" class="syrup">Career</a></div>
+              <div class="nav-divider"></div>
+              <div id="nav-right"><img src="images/nav-right.png"></div>
+            </div></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td align="center"><img src="images/curve.png" width="231" height="25"></td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table>
+		
 <!--product-->
 
 <!--product-->
-<ul style="visibility: visible; z-index: 1001; left: 555.5px; top: 78.5px; display: none;" id="flexmenu40" class="flexdropdownmenu jqflexmenu">
-  <li class="" style="z-index: 1000;"><a href="view-produuct-faq.php">FAQ's<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="customer-feedback.php">Customer Feedback<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
+
+
+
+  
+<!--product-->
+
+  <ul style="visibility: visible; z-index: 1001; left: 555.5px; top: 78.5px; display: none;" id="flexmenu10" class="flexdropdownmenu jqflexmenu">
+
+<li class="" style="z-index: 1000;"><a href="#">LCD 2<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+	<ul style="visibility: visible; left: 170px; top: 0px; display: none;">
+		<li><a href="#">LCD TV</a></li>
+		<li><a href="#">LCD TV</a></li>
+		<li><a href="#">LCD TV</a></li>
+    </ul>
+
+</li>
+
+<li class="" style="z-index: 1000;"><a href="#">LCD TV<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+	<ul style="visibility: visible; left: 170px; top: 0px; display: none;">
+		<li><a href="#">LCD TV</a></li>
+		<li><a href="#">LCD TV</a></li>
+		<li><a href="#">LCD TV</a></li>
+    </ul>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="#">LCD TV<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+	<ul style="visibility: visible; left: 170px; top: 0px; display: none;">
+		<li><a href="#">LCD TV</a></li>
+    </ul>
+</li>
 </ul>
+
+  <ul style="visibility: visible; z-index: 1001; left: 555.5px; top: 78.5px; display: none;" id="flexmenu40" class="flexdropdownmenu jqflexmenu">
+
+<li class="" style="z-index: 1000;"><a href="view-produuct-faq.php">FAQ's<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+
+</li>
+
+<li class="" style="z-index: 1000;"><a href="customer-feedback.php">Customer Feedback<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+
+</ul>
+
 </td>
       </tr>
       <tr>
@@ -354,42 +413,68 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 <ul style="visibility: visible; z-index: 1000; left: 555.5px; top: 78.5px; display: none;" id="flexmenu1" class="flexdropdownmenu jqflexmenu">
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=1">
-    History    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=2">
-    Core Values and Philosophy    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=3">
-    Corporate Profile    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=6">
-    Why Lloyd    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=8">
-    Employee/ Dealer Login    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="aboutus.php?id=9">
-    Investors Relations    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-    <li class="" style="z-index: 1000;"><a href="lloyd-management.php">Management<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="customer-care.php">Customer Care<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=1">History<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=2">Core Values and Philosophy<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=3">Corporate Profile<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=6">Why Lloyd<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=8">Employee/ Dealer Login<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+
+<li class="" style="z-index: 1000;"><a href="aboutus.php?id=9">Investors Relations<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="lloyd-management.php">Management<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+<li class="" style="z-index: 1000;"><a href="customer-care.php">Customer Care<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
 </ul><ul style="visibility: visible; z-index: 1000; left: 555.5px; top: 78.5px; display: none;" id="flexmenu10" class="flexdropdownmenu jqflexmenu">
-    <li class="" style="z-index: 1000;"><a href="product-lcd.php?subcategory_id=10&amp;subcategory_name=LED&amp;category_name=1">
+    <li class="" style="z-index: 1000;">
+  
+      <a href="product-lcd.php?subcategory_id=10&amp;subcategory_name=LED&amp;category_name=1">
     LED TVs    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+        
+    
           </li>
-    <li class="" style="z-index: 1000;"><a href="common-product.php?subcategory_id=50&amp;category_name=ABC">
-    Air Conditioners    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"><img src="arrow.png" class="rightarrowclass" style="border:0;"></a>
+    <li class="" style="z-index: 1000;">
+  
+        <a> Air Conditioners<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"><img src="arrow.png" class="rightarrowclass" style="border:0;"></a>
+        
+    
         <ul style="display: none; visibility: visible;">
       <li class="" style="z-index: 1000;"><a href="product-window-ac.php?subcategory_id=11&amp;category_name=Window Air Conditioner">Window AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
       <li class="" style="z-index: 1000;"><a href="split-category.php">Split AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
       <li class="" style="z-index: 1000;"><a href="product-tower-cassette-ac.php?subcategory_id=13&amp;category_name=Tower and Cassette Air Conditioner">Tower and Cassette AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
       <li class="" style="z-index: 1000;"><a href="product-portable-ac.php?subcategory_id=26&amp;category_name=Portable Air Conditioner">Portable AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
-      <li class="" style="z-index: 1000;"><a href="product-portable-ac.php?subcategory_id=26&amp;category_name=Portable Air Conditioner">Hot &amp; Cold AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
+    <!--  <li class="" style="z-index: 1000;"><a href="product-portable-ac.php?subcategory_id=26&category_name=Portable Air Conditioner">Hot & Cold AC<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>-->
     </ul>
           </li>
-    <li class="" style="z-index: 1000;"><a href="chest-freezer.php">
+    <li class="" style="z-index: 1000;">
+  
+      <a href="chest-freezer.php">
     Commercial Type Electrical Chest Freezer    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+        
+    
           </li>
-    <li class="" style="z-index: 1000;"><a href="product-air-cooler.php?subcategory_id=32&amp;category_name=Air Cooler">
-    Air Coolers    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
-          </li>
-    <li class="" style="z-index: 1001;"><a href="#">
+    <li class="" style="z-index: 1001;">
+  
+      <a href="#">
     Washing Machines    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"><img src="arrow.png" class="rightarrowclass" style="border:0;"></a>
+        
+    
             <ul style="display: none; visibility: visible;">
             <li class="" style="z-index: 1000;"><a href="common-product.php?subcategory_id=46&amp;category_name=Fully Automatic">
         Fully Automatic        <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
@@ -397,32 +482,76 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
         Semi-Automatic        <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a></li>
           </ul>
       </li>
-    <li class="" style="z-index: 1000;"><a href="product-clothes-dryer.php?subcategory_id=3">
-    Clothes Dryer    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+    <li class="" style="z-index: 1000;">
+  
+      <a href="common-product.php?subcategory_id=49&amp;category_name=Water Dispenser">
+    Water Dispensers    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+        
+    
           </li>
-    <li class="" style="z-index: 1000;"><a href="product-split.php?subcategory_id=41&amp;subcategory_name=Stabilizer&amp;category_name=">
-    Stabilizer    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+    <li class="" style="z-index: 1000;">
+  
+      <a href="common-product.php?subcategory_id=43&amp;category_name=Room Heater">
+    Room Heaters    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+        
+    
           </li>
-    <li class="" style="z-index: 1000;"><a href="product-bread-maker.php?subcategory_id=2&amp;subcategory_name=Bread maker&amp;category_name=5">
-    Bread Maker    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
-          </li>
-    <li class="" style="z-index: 1000;"><a href="product-garment-steamer.php?subcategory_id=4&amp;subcategory_name=Garment Steamer&amp;category_name=Lifestyle product">
-    Garment Steamer    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+    <li class="" style="z-index: 1000;">
+  
+      <a href="common-product.php?subcategory_id=50&amp;category_name=LIC16PB">
+    Induction Cooker    <img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+        
+    
           </li>
   </ul><ul style="visibility: visible; z-index: 1000; left: 555.5px; top: 78.5px; display: none;" id="flexmenu2" class="flexdropdownmenu jqflexmenu">
-  <li class="" style="z-index: 1000;"><a href="register-your-complaints.php">Register your Complaint<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="track-complaints.php">Track Complaint<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="amc-policy.php">AMC Policy<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="service-charge.php">Service Charge<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="escalation-matrix.php">Escalation Matrix<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="service-centre-locator.php">Service Centre Locator<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="http://lloydsvc.com/RegCertificate.aspx" target="_blank">Product Registration<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="#">Track  Product Activation<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="#">Track  Extended Warranty<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="view-product-faq.php">FAQ<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
+
+<li class="" style="z-index: 1000;"><a href="register-your-complaints.php">Register your Complaint<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+
+</li>
+
+<li class="" style="z-index: 1000;"><a href="track-complaints.php">Track Complaint<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+
+</li>
+<li class="" style="z-index: 1000;"><a href="amc-policy.php">AMC Policy<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="service-charge.php">Service Charge<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+<li class="" style="z-index: 1000;"><a href="escalation-matrix.php">Escalation Matrix<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="service-centre-locator.php">Service Centre Locator<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="http://lloydsvc.com/RegCertificate.aspx" target="_blank">Product Registration<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+
+<li class="" style="z-index: 1000;"><a href="#">Track  Product Activation<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+<li class="" style="z-index: 1000;"><a href="#">Track  Extended Warranty<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+
+<li class="" style="z-index: 1000;"><a href="view-product-faq.php">FAQ<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+</li>
+
+
+
+
 </ul><ul style="visibility: visible; z-index: 1000; left: 555.5px; top: 78.5px; display: none;" id="flexmenu5" class="flexdropdownmenu jqflexmenu">
-  <li class="" style="z-index: 1000;"><a href="news.php">News<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="radio-commercials.php">Radio commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="tv-commercials.php">TV commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
-  <li class="" style="z-index: 1000;"><a href="print-commercials.php">Print Commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a> </li>
+<li class="" style="z-index: 1000;"><a href="news.php">News<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+
+<li class="" style="z-index: 1000;"><a href="radio-commercials.php">Radio commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+</li>
+<li class="" style="z-index: 1000;"><a href="tv-commercials.php">TV commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+  </li>
+  <li class="" style="z-index: 1000;"><a href="print-commercials.php">Print Commercials<img src="arrow.png" class="rightarrowclass" style="border: 0pt none ;"></a>
+
+  </li>
 </ul></body></html>
