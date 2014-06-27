@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216025633id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627073725id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.lyrster.com&sealid=101 "TRUSTe online privacy certification")
-
 This privacy statement describes how Enough Media collects and uses the personal information you provide on our Web site: Lyrster.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Enough Media has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, Lyrster.com and does not cover information that may be collected though our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 
+If you have questions or complaints regarding our privacy policy or practices, please contact us at 
 
 Attn: Lyrster  
 727 Harrisburg  
 DesMoines, Iowa  
 USA, 50309 
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## Collection and Use of Personal Information
 
