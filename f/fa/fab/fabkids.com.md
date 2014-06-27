@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabkids.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212080323id_/http%3A//www.fabkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabkids.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627164658id_/http%3A//www.fabkids.com/privacy.htm) for the most accurate reproduction.*
 
-# FabKids
+# Privacy Policy | FabKids
 
 This Privacy Policy was last updated on August 20, 2012.
 
@@ -74,7 +74,7 @@ FabKids takes reasonable steps to protect the Personal Data provided via the Sit
 
 ### Other Terms and Conditions:
 
-Your access to and use of this Site is subject to the Terms of Service located at: [http://www.fabkids.com/terms.htm](https://web.archive.org/web/20131212080323id_/http%3A//www.fabkids.com/terms.htm).
+Your access to and use of this Site is subject to the Terms of Service located at: [http://www.fabkids.com/terms.htm](https://web.archive.org/web/20140627164658id_/http%3A//www.fabkids.com/terms.htm).
 
 ### Changes to FabKids's Privacy Policy:
 
@@ -86,4 +86,4 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us if you have any questions about FabKids's Privacy Policy or the information practices of this Site.
 
-You may contact us as follows: [privacy@fabkids.com](mailto:privacy@fabkids.com) or by mail: FabKids / Personal Retailing, Inc., 118 Second Street, 2nd Floor, San Francisco, CA 94105.
+You may contact us as follows: [privacy@fabkids.com](mailto:privacy@fabkids.com) or by mail: FabKids / Personal Retailing, Inc., 609 Mission Street, 2nd Floor, San Francisco, CA 94105.
