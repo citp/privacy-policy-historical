@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907091537id_/http%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627160326id_/http%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# User Experience Design - Product Design | Digital Telepathy
 
 The following statement explains our policy regarding the personal information we collect about you.
 
