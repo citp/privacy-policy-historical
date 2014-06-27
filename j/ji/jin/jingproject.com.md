@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207025912id_/http%3A//www.techsmith.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingproject.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627110536id_/http%3A//www.techsmith.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,9 +40,7 @@ We may use a variety of methods, including "cookies" to collect information.
 
 #### What is a cookie? 
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [http://www.youronlinechoices.com/uk/.](http://www.youronlinechoices.com/uk/)
-
-For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/).[](http://www.youronlinechoices.com/uk/)
 
 Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests. 
 
@@ -78,9 +76,9 @@ The third party analytics companies who collect information on our Sites and/or 
 
 In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of TechSmith Sites and/or Services and to otherwise collect and use data about your use of TechSmith Sites and/or Services. For more information about this practice, please see the "Third Party Advertising Technologies" section below. 
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). 
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). 
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), [Policies](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=143465), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
+Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and [Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=178363).
 
 ## 2\. How We Use Information
 
