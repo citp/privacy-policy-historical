@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the codewit.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017064344id_/http%3A//www.codewit.com/policies/3425-codewit-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codewit.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627211431id_/http%3A//www.codewit.com/policies/3425-codewit-privacy-policy) for the most accurate reproduction.*
 
-# Codewit Privacy Policy - Policies - Codewit World News
+# Privacy Policy - CodeWit World News
 
 At the same time that Codewit Networks are committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of your personally identifiable information.  
-In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. This policy covers how Codewit.com treats personal information that Codewit.com collects and receives, including information related to your past use of Codewit.com products and services.  
+In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. This policy covers how Codewit.com treats personal information that Codewit.com collects and receives, including information related to your past use of Codewit.com products and services.
+
 There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a Codewit Account, we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
 **Our Privacy Policy explains:**
