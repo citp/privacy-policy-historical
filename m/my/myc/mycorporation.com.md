@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024204642id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627063200id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | MyCorporation®
 
@@ -74,6 +74,3 @@ We may use sources outside of MyCorporation to supplement the information you gi
 MyCorporation Business Services Inc. may exchange information about your transactions to fulfill your requests. We may also provide you information about products or services we believe you may be interested in unless you have asked us not to contact you. We offer you the opportunity to review privacy practices at our subsidiaries' Web sites. Please visit Intuit for additional information on our subsidiaries.
 
 Back To Top
-
-  
-
