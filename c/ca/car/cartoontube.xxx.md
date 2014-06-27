@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoontube.xxx privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819055302id_/http%3A//www.cartoontube.xxx/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoontube.xxx privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220212id_/http%3A//www.cartoontube.xxx/privacy) for the most accurate reproduction.*
 
 # CARTOONTUBE.XXX - Privacy Policy
 
