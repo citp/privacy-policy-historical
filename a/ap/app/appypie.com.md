@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appypie.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215011208id_/http%3A//www.appypie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appypie.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627073942id_/http%3A//www.appypie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Appy Pie
+# Privacy Policy | Appy Pie's App Builder
 
 Your privacy is critically important to us. At Appy Pie, Inc.  we have a few fundamental principles:
 
