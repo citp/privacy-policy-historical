@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628083320id_/http%3A//dkc1.digikey.com/ca/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627211725id_/http%3A//dkc1.digikey.com/ca/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
-We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at our site.
+We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at Digi-Key.
 
 ## Web Site Visits
 
@@ -52,7 +52,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 
 > Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. SSL protocol was developed by Netscape Communications Corporation to enable encrypted, authenticated communications across the Internet. SSL uses public key encryption mechanisms, one of the strongest encryption methods available to protect data sent over the Internet. SSL provides 3 important services, all using public key techniques: Privacy, Authentication, and Message Integrity. Customer information sent is not discernible to anyone except the recipient.
 > 
-> Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Most Netscape Navigator (version 1.2 and later) and Microsoft Internet Explorer browsers (version 3.0 and later) are secure. Your browser will automatically enter the secure mode when you make purchases.
+> Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases.
 > 
 > If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](http://dkc1.digikey.com/ca/en/mkt/Order.html) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
 > 
@@ -94,5 +94,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 >  Phone: 800-344-4539 or 218-681-6674  
 >  Fax: 218-681-3380  
 >  Email: [sales@digikey.com](mailto:sales@digikey.com)
+
+"Calls to Digi-Key may be monitored and recorded for quality assurance purposes."
 
 _Note: We reserve the right to make changes to our privacy policy at any time without prior notification_.
