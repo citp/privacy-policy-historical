@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124114518id_/http%3A//www.inmotionhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionhosting.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220455id_/http%3A//www.inmotionhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InMotion Hosting
 
@@ -45,6 +45,10 @@ It is the Company's policy not to use or share the personal information about Vi
 * "Cookies" and How the Company Uses Them 
 
 A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. The Company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. If you are a Member and have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit non-the Company Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+* ClickTale Analytics 
+
+This site uses the ClickTale customer experience analytics service. The ClickTale service helps us analyze how visitors use our Website. We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information. We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website. ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at <http://www.clicktale.com/privacy_service.aspx>). You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>.
 
 * Statistics 
 
