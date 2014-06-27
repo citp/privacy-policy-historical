@@ -1,250 +1,122 @@
-> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015212929id_/http%3A//www.footballaustralia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627214335id_/http%3A//www.footballaustralia.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Federation of Australia
 
-This Privacy Policy covers Football Federation Australia Limited and each of its related companies and subsidiaries (FFA). FFA recognises that privacy is important and that an individual has the right to control his or her Personal Information. FFA is committed to protecting the privacy of individuals on whom it collects Personal Information.
+**1\. FFA**
 
-This Privacy Policy is based on the National Privacy Principles (NPPs) in the Privacy Act 1988 (Cth) and sets out the way FFA handles the Personal Information it collects, uses, discloses and stores on:
+Football Federation Australia Limited (ACN 106 478 068) of Level 22, 1 Oxford Street, Darlinghurst NSW 2010, Australia (FFA) is the governing body of the sport of football in Australia. This Policy applies to FFA and each of its related companies and subsidiaries including Local Organising Committee AFC Asian Cup Australia 2015 Ltd (ACN 157 771 330) (referred to in this Policy as FFA, we or us). This Policy sets out the way in which FFA collects, uses and discloses personal information and also explains your rights and how to contact FFA. FFA is committed to protecting your personal information in accordance with Privacy Act 1988 (Cth). Please read the text carefully.
 
-(a) football participants, including Players, Officials and Agents (Participants);  
-(b) persons who register for any FFA sanctioned accreditation or licensing program;  
-(c) persons who receive information about or purchase tickets to Matches, including National Championship, National League and National Team Matches;  
-(d) persons who register to any football membership program, participation program, newsletter or promotional offer or request more information about FFA, Competitions or Matches;
+ **2\. Your Personal Information**
 
-(collectively referred to as Constituents).
+2.1 In the course of its operations, FFA may collect, use and disclose the personal information of players, ticketholders, administrators, participants and other individuals for the purpose of governing and administering of the sport of football in Australia, as further described in the remainder of this Policy. In each case, the precise nature of the collection, use and disclosure of personal information by FFA depends on the services you request and receive from, and your interaction with, FFA.
 
-This policy relates to Personal Information on Constituents.
+2.2 The types of personal information held by FFA may include your name, address, phone numbers, email address, date of birth, gender, occupation and social media details. Depending on the services you receive from FFA, FFA may also collect and hold details of about your participation history, your favourite Club and membership history as well as your emergency contact information, credit card information, driver’s license details, reference check information and details of the items ordered or purchased from FFA.
 
-1\. COLLECTION  
-1.1 FFA will not collect Personal Information from a Constituent unless the information is necessary for one or more of FFA’s functions or activities.
+2.3 In certain circumstances, FFA may collect information about your health or other sensitive information about you (for example, information about your racial or ethnic origin or information about your physical health). FFA may use health information about you to ensure that football programs in which you participate are run safely and in accordance with any special health needs you may have and for insurance purposes. FFA may also use health information as required by the FFA Statutes, including medical and anti-doping testing and investigations.
 
-1.2 FFA collects Personal Information about a Constituent for the following primary purposes:
+2.4 In addition, FFA may use de-identified health information and other sensitive information to carry out research, to prepare submissions to government or a government body or to plan events and activities. De-identified information is information which has been aggregated or otherwise de-identified so that it cannot be used to identify you or any other individual.
 
-(a) compliance with FFA Statutes, including the administration and development of football (if the Constituent is a Participant);  
-(b) organisation, conduct and promotion of Competitions and Matches (including for the purpose of providing information and making ticket offers);  
-(c) direct communication by Football Administrators to a Constituent;  
-(d) disclosure to Football Partners (unless a Constituent has indicated that he or she does not want to receive any communication from Football Partners); and  
-(e) any use that is obvious at the time the information is collected.
+2.5 When you provide FFA with personal information, this Policy will apply to the manner in which the information is collected, used, disclosed and stored by FFA. If you chose not to provide certain personal information, FFA may not be able to communicate with you. It may also affect FFA’s ability to provide you with the products and services you require. For example, you may not be able to register to play football or participate in some of the activities on the FFA network of websites (including footballaustralia.com.au, a-league.com.au, myfootballclub.com.au, footballfamily.com.au and any related websites, mobile websites or applications which link directly to this Policy (collectively, the FFA Sites)) if you do not provide certain personal information.
 
-Members of the FFA corporate group may also share information with each other.
+ **3\. Collecting Your Personal Information**
 
-1.3 Where it is reasonable and practicable to do so, FFA will collect Personal Information about Constituents only from the Constituent. If that Constituent is a Minor, FFA may collect Personal Information from that Minor’s parent or legal guardian.
+3.1 Personal information about you may be collected by FFA from you or from a third party. FFA uses forms, online portals and other electronic or paper correspondence to collect this information.
 
-1.4 FFA will collect Personal Information from a Constituent only through relevant forms approved by FFA from time to time.
+3.2 For example, FFA may collect personal information from you:  
+(a) via the FFA Sites;  
+(b) when you provide it to FFA by filling in forms approved by FFA from time to time (including when you register to play football or register for a coaching or refereeing course);  
+(c) when you contact FFA;  
+(d) when you engage with FFA via social media;  
+(e) when you subscribe to receive football related newsletters or other information; or  
+(f) when you enter a competition that is being conducted by, or on behalf of, FFA.
 
-1.5 If FFA collects Personal Information about a Constituent from someone other than the Constituent (or the Constituent’s parent or legal guardian), FFA will take reasonable steps to ensure the Constituent is made aware of the matters listed in clause 1.6, except to the extent that making the individual aware of those matters would pose a serious threat to the life or health of any individual.
+3.3 FFA may also collect personal information about you from third parties, including:  
+(a) a Member Federation, association, club and/or a competition administrator registered with FFA from time to time (Football Administrators);  
+(b) your representatives;  
+(c) FFA corporate partners, licensees, sponsors, suppliers and broadcasters (FFA Partners);  
+(d) from ticketing agents and event organisers, when you purchase tickets to a football related event;  
+(e) from vendors, when you purchase football related merchandise; and  
+(f) the organisations identified under section 5 (Disclosing Your Personal Information) below.
 
-1.6 Before or at the time of collection of Personal Information (or if that is not practicable, as soon as practicable after), FFA will take reasonable steps to ensure that the individual is aware of:
+ **4\. Using Your Personal Information**
 
-(a) how to contact FFA in relation to this Privacy Policy;  
-(b) the fact that the Constituent can gain access to the information held on him or her;  
-(c) the purposes for which the information is collected;  
-(d) the organisations (or types of organisations) to which FFA usually discloses information of that kind;  
-(e) any law that requires the information to be collected; and  
-(f) the main consequences (if any) for the Constituent if all or part of the information is not provided.
+4.1 FFA may use the personal information collected about you in a variety of ways, including:  
+(a) to verify your identity;  
+(b) to ensure compliance with FFA Statutes, including the administration and development of football;  
+(c) to organise, conduct and promote football competitions, matches, programs and other events (including for the purpose of distributing newsletters, providing information and making ticket offers);  
+(d) to develop programs, activities, events, products, services and merchandise relating to football;  
+(e) to provide you with information about our products and services , including information about tickets, merchandise and special offers, or which we reasonably believe may be of interest you;  
+(f) to investigate and take action in the event that applicable laws or regulations are breached, including terms of admission and codes of conduct;  
+(g) to carry out market research and surveys;  
+(h) to contact you if you win a prize in a competition you have entered and to send the prize to you; and  
+(i) any use that is reasonably apparent at the time the information is collected.
 
-For the purposes of assisting compliance with this requirement, FFA keeps a register of standard forms containing the required notice for the particular purpose for which the information is collected. Where directed by FFA, Member Federations, Competition Administrators and Clubs will use these forms.
+4.2 FFA may also use the personal information collected about you:  
+(a) to administer, manage and improve the FFA Sites and to provide you with access to those FFA Sites;  
+(b) to ensure that content from the FFA Sites is presented in the most effective manner for you and for your computer;  
+(c) to allow you to participate in interactive features of an FFA Site, when you choose to do so;  
+(d) for direct marketing communications from FFA in relation to products, services, tickets, merchandise and special offers made available by FFA or our respective FFA Partners. You will be able to opt-out of direct marketing at any time if you so choose, by utilising the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials by contacting the FFA Privacy Officer in accordance with section 10 below;  
+(e) where permitted by FFA, to enable FFA Partners who have a relationship with FFA to market and promote their products and services to you. You will be able to opt-out of direct marketing at any time if you so choose, by utilizing the unsubscribe feature on electronic marketing communications, or in the case of other direct marketing materials by contacting the FFA Privacy Officer in accordance with section 10 below; and  
+(f) any use that is reasonably apparent at the time the information is collected.
 
-2\. USE AND DISCLOSURE  
-2.1 FFA will not use or disclose Personal Information about a Constituent for a purpose other than the primary purpose of collection (the secondary purpose) unless:
+ **5\. Disclosing Your Personal Information**
 
-(a) the Constituent has consented to the use or disclosure;  
-(b) both of the following apply:  
-(i) the secondary purpose is related to the primary purpose of collection and, if the Personal Information is Sensitive Information, directly related to the primary purpose of collection; and  
-(ii) the Constituent would reasonably expect FFA to use or disclose the information for the secondary purpose;  
-(c) FFA reasonably believes that the use or disclosure is necessary to lessen or prevent:  
-(i) a serious and imminent threat to an individual’s life, health or safety; or  
-(ii) a serious threat to public health or public safety;  
-(d) FFA has reason to suspect that unlawful activity has been, is being or may be engaged in, and uses or discloses the Personal Information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities;  
-(e) the use or disclosure is required or authorised by or under law; or  
-(f) FFA reasonably believes that the use or disclosure is reasonably necessary for one or more of the purposes specified in NPP 2.1(h) by or on behalf of a law enforcement body. If FFA uses or discloses Personal Information on this basis, it will make a written note of the use or disclosure.
+(a) FFA may share your personal information with a Football Administrator that you have registered with or expressed an interest in, which may then use your personal information to administer the game of football and keep you updated with information about them.  
+(b) FFA may also share your personal information with third parties in relation to the operation of FFA's business including:  
+(i) FFA’s related bodies corporate;  
+(ii) Fédération Internationale de Football Association and its members, including the Asian Football Confederation;  
+(iii) the Australian Sports Anti-Doping Authority, Australian Institute of Sport and/or Australian Olympic Committee;  
+(iv) FFA’s insurers;  
+(v) FFA’s professional advisors, including our accountants, auditors and lawyers; and  
+(vi) third party service providers suppliers and partners, such as ticketing agents;  
+(vii) as required or authorised by law or where we have a public duty to do so, including for purposes of safety and security; and  
+(viii) where you have consented to your personal information being disclosed to others.  
+(c) If you receive a product or service from, or your information is otherwise collected by, an FFA Partner or Football Administrator, the relevant FFA Partner or Football Administrator may have a separate privacy policy which applies to their collection, use and disclosure of your personal information. You should refer to that privacy policy for further details about how the relevant FFA Partner or Football Administrator may collect, process, use, store and disclose your information and how you can contact the relevant FFA Partner or Football Administrator if you have any queries, or wish to make a complaint, about their handling of your personal information.
 
-2.2 FFA may use the Personal Information of Constituents for the secondary purpose of direct communication by a football administrator with which the Constituent has an indirect relationship, if FFA has the consent of the Constituent for such use. In other cases, if the information is not Sensitive Information, FFA may use the information for the secondary purpose of direct communication only if the following are satisfied:
+ **6\. FFA Sites, Cookies and Other Technologies**
 
-(a) it is impracticable to seek the Constituent’s consent before that use;  
-(b) FFA will not charge the Constituent for giving effect to a request by that Constituent not to receive direct communications;  
-(c) the Constituent has not made a request to FFA not to receive direct communication;  
-(d) FFA always prominently displays a notice that the Constituent may express a wish not to receive any further direct communication; and  
-(e) each written direct communication by FFA with the Constituent sets out FFA’s contact details including business address, telephone and fax numbers, and email address.
+6.1 If you visit an FFA Site, FFA may record information such as your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, the FFA Site pages accessed and any information downloaded. This information is used for statistical, reporting and website administration and maintenance purposes, including identifying usage trends, to track users’ movements around the FFA Sites and to gather demographic information about FFA users collectively.
 
-2.3 FFA may disclose Personal Information to ticketing agents, mailhouses or other similar organisations for the purpose of implementing the primary purposes, including implementing ticket requests and communicating football-related offers. FFA requires these organisations to keep contact details confidential and only use them for the designated purpose.
+6.2 Like many other websites, the FFA Sites may use ‘cookies’ from time to time. A cookie is a piece of information that allows us to identify and interact more effectively with your device. The cookie helps FFA to maintain the continuity of your browsing session and remember your details and preferences when you return. You can configure your web browser software to reject cookies however some parts of our website may not have full functionality in that case.
 
-2.4 Despite clause 2.1, FFA may disclose Health Information about a Participant to a person who is responsible for that Participant if:
+6.3 In some cases FFA and its third party service providers may use cookies and other technologies such as web beacons and JavaScript on an FFA Site in connection with online services like banner advertising, website analytics and surveys to collect information about your use of an FFA Site. The use of these technologies allows FFA and its third party service providers to evaluate a user’s use of an FFA Site, deliver customised advertising content, measure the effectiveness of the advertising and provide other services relating to website activity and internet usage. The services we may use from time to time include Google Analytics, Nielsen, AdTech, Omniture and Facebook. You can find more details in the privacy policies for those services, including information on how to opt-out of certain conduct.
 
-(a) the Participant:  
-(i) is physically or legally incapable of giving consent to the disclosure; or  
-(ii) physically cannot communicate consent to the disclosure;  
-(b) a natural person (the carer) providing a health service for FFA is satisfied that either:  
-(i) the disclosure is necessary to provide appropriate care or treatment of a Participant; or  
-(ii) the disclosure is made for compassionate reasons;  
-(c) the disclosure is not contrary to any wish:  
-(i) expressed by a Participant before a Participant became unable to give or communicate consent; and  
-(ii) of which the carer is aware, or of which the carer could reasonably be expected to be aware; and  
-(d) the disclosure is limited to the extent reasonable and necessary for a purpose mentioned in paragraph (b).
+6.4 When we send you emails or other electronic messages, FFA may record where you open the message and click on particular links. This helps us to better understand what information is of interest to you.
 
-2.5 For the purposes of clause 2.4, a person is responsible for a Participant if the person is in relation to that Participant:
+ **7\. Protecting Your Personal Information**
 
-(a) a parent or guardian;  
-(b) a child or sibling and at least 18 years old;  
-(c) a spouse or de facto spouse;  
-(d) a relative, at least 18 years old and a member of the Participant’s household;  
-(e) exercising an enduring power of attorney granted by the Participant that is exercisable in relation to decisions about the Participant’s health;  
-(f) a person who has an intimate personal relationship with the Participant; or  
-(g) a person nominated by the Participant to be contacted in case of emergency.
+7.1 FFA takes the security of personal information seriously. FFA has appointed a Privacy Officer to oversee FFA's management of personal information in accordance with this Policy and the Privacy Act 1988 (Cth).
 
-2.6 In clause 2.5:
+7.2 FFA takes reasonable steps to protect the security and privacy of your personal information. For example, all electronic data that is held on password protected systems. Personal information is only accessible by persons that require access to that information. FFA has directed its staff that personal information must be dealt with in accordance with this Policy and kept secure from unauthorised access or disclosure.
 
-child includes an adopted child, a step child and a foster child.  
-parent includes a step parent, adoptive parent and a foster parent.  
-relative means a grandparent, grandchild, uncle, aunt, nephew or niece.  
-sibling includes a half brother, half sister, adoptive brother, adoptive sister, step brother, step sister, foster brother and foster sister.
+7.3 If you are considering sending us any other personal information through an FFA Site or other electronic means, please be aware that the information may be insecure in transit, particularly where no encryption is used (e.g. email, standard HTTP). Any transmission is therefore at your own risk. Once FFA has received your personal information, FFA will take reasonable steps to protect all personal information within its direct control from unauthorised access.
 
-3\. DATA QUALITY  
-FFA will take reasonable steps to make sure that the Personal Information it collects, stores, uses or discloses is accurate, complete and up to date.
+7.4 Where FFA has given you (or where you have chosen) a password which enables you to access certain parts of an FFA Site, you are responsible for keeping this password confidential. FFA suggests that you do not share the password with anyone and to change it regularly.
 
-4\. DATA SECURITY  
-4.1 FFA will take reasonable steps to protect the Personal Information it holds from misuse and loss and from unauthorised access, modification or disclosure.
+ **8\. Disclosing Your Personal Information Abroad**
 
-4.2 Where FFA enters into a contract with any person and FFA’s Personal Information about Constituents could be disclosed to or otherwise accessed by that contractor, FFA will include provisions protecting privacy of that information in the contract. The FFA Privacy Officer will be consulted for more specific contractual provisions contemplating the disclosure of FFA’s Personal Information on Constituents to contractors.
+8.1 FFA will store personal information on data servers that are controlled by FFA and are located within the geographical borders of Australia where reasonable possible. However, in some circumstances the personal information that FFA collects may be disclosed to certain recipients, and stored at certain destinations, located outside Australia from time to time. For example, your personal information may be transferred outside of Australia if any of FFA’s servers from time to time are located outside Australia or if one of FFA’s service providers or suppliers is located in a country outside Australia. As at the date of this Policy, FFA utilises service providers and suppliers in the USA and Canada. FFA may also disclose your personal information outside of Australia in accordance with section 5 (Disclosing Your Personal Information), including to facilitate the registration of a player by an international football association.
 
-4.3 FFA will take reasonable steps to destroy or permanently de identify Personal Information if it is no longer needed for any purpose for which the information may be used or disclosed under clause 2.
+8.2 In all cases, by providing your personal information to us or using our services, you consent to the disclosure of your personal information outside Australia as set out in this Policy, and acknowledge that FFA is not required to ensure that overseas recipients handle your personal information in compliance with Australian privacy law. However, where practicable in the circumstances, FFA will take reasonable steps to ensure that overseas recipients use and disclose such personal information in a manner consistent with this Policy. You may have rights to enforce such parties' compliance with applicable data protection laws, but you may not have recourse against those parties under the Privacy Act 1988 (Cth) in relation to how those parties treat your personal information.
 
-5\. OPENNESS  
-5.1 On a Constituent’s request, FFA will take reasonable steps to let that Constituent know, generally, what sort of Personal Information it holds, for what purposes, and how it collects, holds, uses and discloses that information. Generally, all such requests by Constituents should be directed to the FFA Privacy Officer.
+ **9\. Access to and Correction of Your Personal Information**
 
-5.2 FFA will set out in a document clearly expressed policies on its management of Personal Information.
+9.1 FFA takes all reasonable precautions to ensure the personal information that FFA collects, uses and discloses is accurate, complete and up-to-date. However, the accuracy of that information depends on the information you provide. FFA recommends that you let us know if there are any errors in your personal information and keep us up-to-date with changes to your personal information such as your contact details.
 
-6\. ACCESS AND CORRECTION  
-6.1 FFA will provide a Constituent with access to the Personal Information it holds on that Constituent on request by that Constituent, except to the extent that FFA is not required to do so under NPP 6: Access and Correction.
+9.2 You have the right to access the personal information we hold about you, and can request the correction of your personal data if it is inaccurate, incomplete or out of date. If you would like to do so, please contact the FFA Privacy Officer to submit an enquiry to access the personal information FFA holds about you.
 
-6.2 All requests for access to and/or correction of Personal Information by a Constituent will be immediately directed to the FFA Privacy Officer. In assessing the request for access and/or correction, the FFA Privacy Officer must observe and comply with the procedures in clause 6 of this policy.
+9.3 If you provided your personal information via an FFA Site, you can also update your personal information at any time by logging onto the relevant FFA Site and submitting the updated information.
 
-6.3 Before supplying any Personal Information to a Constituent FFA must be reasonably satisfied as to the identity of the Constituent (for example, by asking to see the Constituent’s passport or driver’s licence).
+ **10\. Opting Out of Direct Marketing Communications**
 
-7\. IDENTIFIERS  
-7.1 FFA will not adopt as its own identifier an identifier of a Constituent that has been assigned by a Commonwealth government agency or any person on behalf of a Commonwealth agency.
+You can opt out of receiving further messages or communications from FFA at any time by following the unsubscribe instructions in the message sent to you. If you wish to unsubscribe from communications FFA send you, you can also send an email to privacy@footballaustralia.com.au.
 
-identifier includes a number assigned by an organisation to uniquely identify a Constituent for the purposes of the organisation’s operations. However, a Constituent’s name is not an identifier.
+ **11\. Changes To This Policy**
 
-8\. ANONYMITY  
-Wherever it is lawful and practicable, a Constituent (other than a Participant for registration purposes) will have the option of not identifying himself or herself when entering transactions with FFA.
+We may modify, alter or otherwise update this Policy at any time by publishing the new version of the Policy on the FFA Sites. We will indicate any changes by updating the date of this Policy. If you have any questions about this Policy, please contact the FFA Privacy Officer using the details below.
 
-9\. TRANSBORDER DATA FLOWS  
-9.1 FFA may transfer Personal Information about a Constituent to someone who is in a foreign country only if:
+ **12\. Contacting the FFA Privacy Officer and Making Complaints**
 
-(a) that Constituent consents to the transfer;  
-(b) the transfer is necessary for the performance of a contract between that Constituent and FFA, or for the implementation of pre contractual measures taken in response to a Constituent’s request;  
-(c) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of that Constituent between FFA and a third party;  
-(d) all of the following apply:  
-(i) the transfer is for the benefit of a Constituent;  
-(ii) it is impracticable to obtain the consent of a Constituent to that transfer; and  
-(iii) if it were practicable to obtain such consent, a Constituent would be likely to give it; or  
-(e) FFA has taken reasonable steps to ensure that the information that it has transferred will not be held, used or disclosed by the recipient of the information inconsistently with the NPPs (for example, by adopting appropriate contractual clauses).
+12.1 You may contact the FFA Privacy Officer by writing to privacy@footballaustralia.com.au or The Privacy Officer, Football Federation Australia Limited, Level 22, 1 Oxford Street, Darlinghurst, NSW 2010.
 
-9.2 Clause 9.1 does not apply to the transfer of Personal Information in accordance with FFA Statutes, including to facilitate the registration of a Player by an international football association.
-
-10\. SENSITIVE INFORMATION  
-10.1 FFA will not collect Sensitive Information about a Constituent who is not also a Participant.
-
-10.2 FFA will not collect Sensitive Information about a Participant (except as permitted in NPP 10 of the Privacy Act), unless:
-
-(a) specifically permitted to do so under FFA Statutes, including for health, medical and anti-doping testing purposes and investigation of Grievances;  
-(b) that Participant has consented;  
-(c) the collection is required by law;  
-(d) the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where that Participant:  
-(i) is physically or legally incapable of giving consent to the collection; or  
-(ii) physically cannot communicate consent to the collection; or  
-(e) the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
-
-11\. INQUIRIES PROCEDURE  
-11.1 All complaints and inquiries concerning Personal Information of a Constituent will be directed to the FFA Privacy Officer or to privacy@footballaustralia.com.au. This will ensure that all such matters will be dealt with:
-
-(a) consistently across FFA (rather than having a series of different approaches across FFA); and  
-(b) in accordance with applicable law, including the Privacy Act.
-
-12\. DEFINITIONS AND INTERPRETATION  
-12.1 In this Policy:
-
-Agent means a Player Agent and a Match Agent.
-
-Club means any club registered with FFA in accordance with the National Registration Regulations from time to time. A reference to Club includes a club admitted by:
-
-(a) a Competition Administrator to field a team in a Competition; or  
-(b) FFA to field a team in a National League or a National Championships.
-
-Club Official means any person involved with the administration, management or organisation of a Club (whether paid or unpaid), including employees, contractors, consultants, officers and directors and representatives.
-
-Competition means any competition, tournament or league registered with FFA in accordance with the National Registration Regulations including the pre-season, season proper, finals series and any post season tournament or knockout cup competition and any other football competition or tournament organised or hosted by FFA (including any FIFA or AFC sanctioned events).
-
-Competition Administrator means the entity responsible for the conduct and staging of a Competition.
-
-FFA Statutes means FFA’s statutes as promulgated by FFA from time to time, including its constitution and by-laws and rules and regulations and policies and procedures.
-
-Football Administrators mean FFA, a Member Federation, a Competition Administrator or a Club (as the case requires) with which the Constituent has a direct relationship, including registration as a Participant.
-
-Football Partners mean any entity that has a partnership agreement with the FFA, Member Federation, Competition Administrator or Club (as the case requires) with which the Constituent has a direct relationship, including participation in a Competition.
-
-Health Information means:
-
-(a) information or an opinion about:  
-(i) a Constituent’s health or a disability (at any time);  
-(ii) a Constituent’s expressed wishes about the future provision of health services to a Constituent; or  
-(iii) a health service provided, or to be provided, to a Constituent,  
-that is also Personal Information;  
-(b) other Personal Information collected to provide, or in providing, a health service; or  
-(c) other Personal Information about a Constituent collected in connection with the donation, or intended donation, by that Constituent of his or her body parts, organs or body substances.
-
-Match means any match staged, participated in, sanctioned by, or played under the auspices of FFA, a Member Federation or a Competition Administrator (including any match held as part of a Competition).
-
-Match Agent means a person licensed to act as a match agent by FIFA or FFA from time to time. A current list of FFA licensed match agents is available on FFA’s website, www.footballaustralia.com.au, or on request.
-
-Match Official means a referee, assistant referee, fourth official, match commissioner, referee inspector, selector, any person in charge of safety or any other person appointed by FFA, a Member Federation or a Competition Administrator to assume responsibility in connection with a Match.
-
-Member Federation means a State, Territory or regional federation or association that is a member of FFA from time to time.
-
-National Championships means any male and female national championships staged or sanctioned by FFA from time to time, including the national youth championships.
-
-National League means any men’s and women’s national club competitions conducted under the auspices of FFA from time to time, including the A-League.
-
-National Team means any national squad selected or nominated by FFA, including the men’s and women’s senior, under age, Olympics and futsal teams or any other national representative team determined by FFA from time to time.
-
-Official means:
-
-(a) a Club Official, Match Official or Team Official;  
-(b) an employee, consultant, officer or director of FFA, a Member Federation or a Competition Administrator; or  
-(c) a member of a council, committee, panel or body constituted by FFA, a Member Federation or a Competition Administrator.
-
-Personal Information means information or an opinion (including forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
-
-Player means any person who is, from time to time, registered to a Club or is selected as a member of a National Team, whether that person is male or female, junior or senior or an amateur or professional.
-
-Player Agent means a:
-
-(a) person licensed to act as a player agent by a national football association recognised by FIFA. A current list of FFA licensed player agents is available on FFA’s website, www.footballaustralia.com.au, or on request;  
-(b) parent, sibling or spouse of the Player; or  
-(c) person legally authorised to practise as a lawyer in compliance with the rules in force in Australia.
-
-Sensitive Information means:
-
-(a) information or an opinion about a Constituent’s:  
-(i) racial or ethnic origin;  
-(ii) political opinions;  
-(iii) membership of a political association;  
-(iv) religious beliefs or affiliations;  
-(v) philosophical beliefs;  
-(vi) membership of a professional or trade association;  
-(vii) membership of a trade union;  
-(viii) sexual preferences or practices; or  
-(ix) criminal record,  
-that is also Personal Information; or  
-(b) Health Information.
-
-Team Official means any personnel involved with the management, preparation or participation of a Club’s team (whether paid or unpaid), including the coaches, managers, medical staff (including team or match day doctor), physiotherapists, gear persons and other support staff.
-
-12.2 Any terms or definitions used but not defined in this Policy have the meaning given to them in the FFA Statutes or the Privacy Act 1988 (Cth).
-
-12.3 Except for a matter determined in accordance with the Grievance Resolution Regulations, FFA will interpret all terms of the FFA Statutes (including this Privacy Policy) and any such interpretation will be final and binding on every person.
-
-12.4 Any reference to FFA in this Privacy Policy is a reference to all those entities individually and collectively unless the context requires otherwise.
-
-12.5 This Privacy Policy is designed to safeguard Personal Information and to comply with the law and so may need to be varied or changed by FFA from time to time.
+12.2 You may complain about our collection, use or disclosure of your personal information by contacting the FFA Privacy Officer using the contact details above with your full name and contact details, together with a detailed description of the complaint. We will respond to your complaint within a reasonable period of time and inform you of the next steps we will take in dealing with your complaint. If we are unable to resolve your complaint, we will inform you of the steps available to you in those circumstances.
