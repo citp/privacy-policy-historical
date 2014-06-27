@@ -1,14 +1,19 @@
-> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043434id_/http%3A//www.photographysites.com/content.php%3Fr%3D37-SPONSOR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographysites.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627234707id_/http%3A//www.photographysites.com/privacypolicy) for the most accurate reproduction.*
 
-# PhotographySites Forums - Photography Sites Home
+# Privacy Policy - PhotographySites.com
 
-Published on 02-03-2011 10:53 AM  Number of Views: 2256605  
+We, the operators of the PhotographySites.com website, provide it as a public service to our users.
 
-Photographysites.com does not collect any user specific identifiable information other than that given by a user when subscribing for the forums or when a web site owner enters details for a submission to the directory. We do not use this information for any purpose other than to allow us to send the information about competitions, news or administrative information to a web site owner. We don't resell names or any individual data.
+Any use or access by anyone under the age of 18 is prohibited.
 
-Photographysites.com collects some non user specific information such as the type of browser and operating system used. This information is used to assist us internally to provide the best site design and format for our users. The information is not shared with anyone outside of Photographysites.com. If you have any questions about our privacy policy, please send us a note.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-Some advertisers on the site may use cookies for the purpose of identifying unique individuals to track banner exposures or when someone clicks on their banners. As far as Photographysites.com is aware this information is only collected to allow the banner owners to ensure they only count unique clicks.
+We do not sell, trade, or otherwise transfer to your personally identifiable information to third parties, unless required by law.
 
-  
+From time to time we may email you electronic newsletters, notifications or other information. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the email, or by logging into your account on the website and adjusting your notification options.
 
+**Cookies**  
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
+
+**Log files**  
+Log files are maintained and analysed on this website's server. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers. 
