@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stor-age.co.za privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215033702id_/http%3A//stor-age.co.za/Content/33/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stor-age.co.za privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627113504id_/http%3A//stor-age.co.za/Content/33/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We at Stor-Age want to make your experience with us as convenient as possible we are firmly committed to protecting the privacy of our customers and those who make use of Stor-Age services. Stor-Age is the sole owner of the information collected on this site. We will not share, sell, or otherwise distribute the financial or personal information of our customers or those who otherwise provide personal information to sample our products and services, to any other persons or organisations in any way other than what is disclosed in this document.
+We at Stor-Age want to make your experience with us as convenient as possible. We are firmly committed to protecting the privacy of our customers and those who make use of Stor-Age services. Stor-Age is the sole owner of the information collected on this site. We will not share, sell, or otherwise distribute the financial or personal information of our customers or those who otherwise provide personal information to sample our products and services, to any other persons or organisations in any way other than what is disclosed in this document.
 
 This privacy statement discloses the privacy practices for [http://www.stor-age.co.za/](https://web.archive.org/Home). If you any have questions or concerns regarding this statement, you should first [contact us by email](mailto:info@stor-age.co.za). In accordance with COPPA, Stor-Age does not, at any time, knowingly collect information from, or market our products or services to, children under the age of 13.
 
