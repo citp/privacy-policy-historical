@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelforumglobe.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231011714id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelforumglobe.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628004222id_/http%3A//www.travelmagma.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy, Explore the Scenic Beauty during a trip to Privacy Policy a great Travel Guide
+# Privacy Policy
 
 PRIVACY POLICY
 
