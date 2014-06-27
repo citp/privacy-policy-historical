@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104235609id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627123923id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -67,3 +67,19 @@ If you choose to not have your browser accept cookies from the GroceryAlerts.ca 
 **Changes to this Statement**
 
 GroceryAlerts.ca will occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this statement, GroceryAlerts.ca will notify you by placing prominent notice on the Web site.
+
+**Author:[Lina Zussino](https://plus.google.com/100963511350484277872?rel=author)** on May 28th, 2011. Steven Zussino is the co-founder of Grocery Alerts Canada. He loves to help Canadians save money on groceries. He also runs the blog, CanadianPersonalFinance.com. 
+
+**Want a travel Card that knows no boundaries?**
+
+  * Earn a Welcome Bonus of 25,000 Membership Rewards points (worth $250) just by making $500 in purchases in your first 3 months of membership. That's enough for a round-trip flight almost anywhere in North America!
+  * No annual fee for the first year. A value of $150!
+  * Earn 2 points for every $1 in Card purchases at eligible gas stations, grocery stores and drugstores in Canada
+  * Earn 2 points for every $1 in Card purchases for eligible travel purchases, including flights, hotels, car rentals, cruises, and more.
+  * Earn one point for every $1 in Card purchases everywhere else.
+  * Transfer your points to frequent flyer programs, or one-to-one to Aeroplan and Avios.
+  * Charge any travel including gas to your Card and pay with points, with no blackout periods.
+
+
+
+[Apply for card](http://www.canadiantravelhacking.com/go/amex-gold "American Express Gold Card")
