@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228002745id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webloggerz.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627194917id_/http%3A//webloggerz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webloggerz
 
@@ -6,9 +6,9 @@ You are here: [Home](http://webloggerz.com/) » Privacy Policy
 
 ### Privacy Policy Document for Web Loggerz
 
- **Hi there! Welcome to Web Loggerz.**
+**Hi there! Welcome to Web Loggerz.**
 
-webloggerz.com respects your privacy and at web loggerz, the privacy of our visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by webloggerz.com and how it is used.
+**webloggerz.com** respects your privacy and **at Web Loggerz, the privacy of our visitors is of extreme importance**. This privacy policy document outlines the types of personal information is received and collected by webloggerz.com and how it is used.
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of webloggerz.com.
 
@@ -33,7 +33,7 @@ When you visit this website, we can record certain information in relation to yo
 
 
 
-This is done by making use of analytical softwares such as Google Analytics, Bing Webmasters primarily for the data analysis and web development process and we do not share this with any third party.
+This is done by making use of analytical softwares such as Google Analytics, Bing Webmasters primarily for the data analysis and web development process and we do not share this with any third-party.
 
 ### Cookies:
 
@@ -57,10 +57,10 @@ This Site contains links to other sites. Underlined words and phrases are click-
 
 This document applies only to this website. Webloggerz is not responsible for the privacy practices of linked sites.
 
-All pages and graphics on this web site are the property of the company Webloggerz.
+All pages and graphics on this website are the property of the company Webloggerz.
 
 Reproduction or redistribution of the content in the form of text or graphics will be a violation of copyright laws.
 
- **For any other information please[Contact Us](http://webloggerz.com/contact-us/ "Contact Us")**
+**For any other information please[Contact Us](http://webloggerz.com/contact-us/ "Contact Us")**
 
- _(This document was last updated on: 10 October 2013.)_
+_(This document was last updated on: 12 March 2014.)_
