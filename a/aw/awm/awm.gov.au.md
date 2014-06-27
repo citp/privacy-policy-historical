@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204752id_/https%3A//www.awm.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627091327id_/http%3A//www.awm.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Australian War Memorial
 
 In accordance with the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) issued by the Australian Privacy Commissioner, the Australian War Memorial provides the following privacy statements.
+
+You may also like to read our [Privacy policy](https://web.archive.org/about/privacy-policy/).
 
 ### Site visit data
 
@@ -24,7 +26,7 @@ No attempt will be made to identify users or their browsing activities except, i
 
 'Cookies' are small amounts of information that are created and stored on the user's system, and used by the Web host server for a variety of possible purposes.
 
-The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to [set your browser to accept 'cookies'](https://web.archive.org/database/cookies.asp) in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes.
+The Australian War Memorial's Collection Databases use 'cookies' in order to retain search parameters and results during an enquiry session. You will need to set your browser to accept 'cookies' in order to undertake searches and display results within the Memorial's Databases. If your browser supports such an option, you may also use the setting to 'warn before accepting cookies' or 'prompt'. Our Databases will function normally in either 'accept' or 'prompt' modes.
 
 Information passed between the client and server via these cookies is not retained by the host software in any fashion once the search session is terminated. The only information gathered from the client is that amount necessary to identify that particular session and keep it distinct from the other search sessions that may be happening at any one time.
 
@@ -44,4 +46,4 @@ We will not use your personal details for any other purpose, and will not disclo
 
 ### Security
 
-The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to [NAB Credit Card Security](http://www.nab.com.au/Personal_Finance/0,,29254,00.html).
+The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to[ ](http://www.nab.com.au/personal/credit-cards/manage-your-credit-card/credit-card-security)[NAB Credit Card Security](http://www.nab.com.au/Personal_Finance/0,,29254,00.html).
