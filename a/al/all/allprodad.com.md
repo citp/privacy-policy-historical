@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529025950id_/http%3A//www.allprodad.com/termsofuse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allprodad.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627112305id_/http%3A//www.allprodad.com/page/privacy-policy) for the most accurate reproduction.*
 
-# All Pro Dad | About Us
+# Privacy Policy | All Pro Dad
 
-Terms of Use 
+Family First places a high priority on protecting the privacy of our donors, email subscribers, event attendees and website users across all of our programs and sites. This Family First Privacy Policy applies to each of our programs and sites: [**Family First**](http://www.familyfirst.net/ "Family First"), [**All Pro Dad**](http://www.allprodad.com/), [**iMOM**](http://www.imom.com/ "iMOM") and [**Family Minute**](http://www.familyminute.com/ "Family Minute with Mark Merrill").
 
-You agree, through your interactive use of this website, that you will not post any material which is false, defamatory, inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually oriented, threatening, invasive of another’s privacy, or otherwise in violation of any international or United States federal law. You also agree not to post any copyrighted material unless you own the copyright or you have written consent from the owner of the copyrighted material. Spam, flooding, advertisements, promotion of products, chain letters, pyramid schemes, and solicitations are also forbidden. In addition, you agree not to post your email address, telephone number, physical or mailing address or any other personal information.
+## What Personally Identifiable Information is Collected
 
-Be advised that it is impossible for the staff or the owners of this interactive resource to confirm the validity of posts, and as such, are not responsible for the content contained within. We do not warrant the accuracy, completeness, or usefulness of any information presented. The posted comments express the views of the author, and not necessarily the views of this website, its staff, its subsidiaries, or the organization. Anyone who feels that a posted comment is objectionable is encouraged to notify an administrator or directly email the organization immediately. The staff and the owner of this interactive resource reserve the right to remove objectionable or forbidden content as outlined above, within a reasonable time frame, if they deem that removal is necessary. Because this is a manual process, realize that immediate removal or appropriate editing may not be possible. This policy applies to member profile information as well as posted content
+Family First donors, subscribers and event attendees voluntarily provide us with contact information (such as name, e-mail address, zip code, etc.). We may use this information for specific, limited purposes. You may always opt out, either now or at any time in the future, if you do not wish to continue receiving our communications.
 
-Users of this interactive resource remain solely responsible for the content of their posted messages. By registering and using this interactive resource, you agree to indemnify and hold harmless the owners of this resource, any related websites to it, its staff, and its subsidiaries. The organization also reserves the right to reveal your identity (or any other related information collected on this service) in the event of a formal complaint or legal action arising from any situation caused by your use of this interactive resource.
+## Online Information
 
-You have the ability, as you register, to choose your username. You may not create a user name using your email address. We further advise that you keep the name appropriate. With this user account you are about to register, you agree to never give your password out to another person except an administrator, for your protection and for validation purposes. You also agree to NEVER use another person's account for any reason.  We also HIGHLY recommend you use a complex and unique password for your account, to prevent account theft.
+We may collect information about the online services that you use and how you use them, including when you visit different parts of our site or selections you make regarding our services or resources. We may also automatically collect certain technical information including: Device-Specific information, such as hardware model, operating system version, unique device identifiers, and mobile information (if you use a mobile device to access the site); and Access and Server Log information, such as your navigation paths and search queries, internet protocol (IP) address, device event information such as crashes and system activity, hardware settings, browser type, browser language, date and time of your request, referral URL, and cookies that may uniquely identify your browser type, mobile device, account, operating system, and other technical information.
 
-Appropriate sanctions may be applicable. Please note that with each comment posted, your IP address is recorded and will be available to administrators in the event that comment removal, account removal or banning is required. This will only happen in the event of a major violation of this agreement.
+## How Your Information May Be Used
 
-Also note that a cookie (a text file containing bits of information such as your username and password) will be created in your browser's cache. Cookies are created solely for the purpose of “remembering” your user name and password, and keeping you logged in or out. Cookies DO NOT collect or send any other form of information to your computer.
+Family First uses your personal information to provide you with personalized service, to send e-mails to you regarding our services or important updates, to answer your requests, etc. You may choose to opt out at any time, from some or all communications from us. We may also use your information to track visitors to our websites. This allows us to evaluate the popularity of certain pages and tools so that we can better serve our followers. It also allows us to provide aggregate data about our followers (not identifying individuals, but showing how many users visited which pages, for example) to outside parties. Your personally identifiable information is never disclosed to third parties without your consent. Please keep in mind that comments sections, discussion forums, and other similar areas of our services are public. Any information posted in those areas is viewable and usable by anyone that has access to the site.
+
+## Email Privacy
+
+Family First does not provide, sell, or rent email addresses or other personal information to anyone outside our organization.
+
+## External Links
+
+Family First emails, communications and websites may include links to external websites. These links do not fall under Family First’s control, and Family First is not responsible for the content or privacy practices of external websites or organizations. Your use of any links is solely at your own risk.
+
+## Other Important Privacy Considerations
+
+Our site is not intended for the independent use of children, and we will not knowingly collect information for any child under the age of thirteen. If you are the parent of a child and have a concern regarding your child’s information on our site, please contact us at info@familyfirst.net.
+
+Our website and associated services are hosted in the United States. Even if you are outside the United States, your information will be processed and stored in the United States, and you are consenting to such processing and storage.
+
+## Modifications
+
+Family First retains the right to modify this Privacy Policy at any time by posting an updated policy on our website(s). Your continued use of our websites and tools after the date of any such update will be deemed to be your agreement to the current policy terms.
