@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226151740id_/http%3A//www.citi-habitats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citi-habitats.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627040516id_/http%3A//www.citi-habitats.com/privacy) for the most accurate reproduction.*
 
 # Citi Habitats Privacy Policy is designed to keep your information confidential
 
