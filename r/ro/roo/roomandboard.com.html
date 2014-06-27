@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515095159id_/http%3A//www.roomandboard.com/rnb/our_website/privacy.ftl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627184558id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title> Privacy Policy - Our Website - Room &amp; Board </title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="copyright" content="Copyright 2009 Room &amp; Board, Inc. All Rights Reserved.">
+<meta name="copyright" content="Copyright 2014 Room &amp; Board, Inc. All Rights Reserved.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://16534.sa.siteapps.com/16534.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 
 	// These global vars can be used in any js file
-	var sitePath = "http://www.roomandboard.com/rnb";
-	var mobileSitePath = "http://www.roomandboard.com/rnb/m";
-	var secureMobileSitePath = "https://www.roomandboard.com/rnb/m";
-	var secureSitePath = "https://www.roomandboard.com/rnb";
-	var protocolRelativeSitePath = "//www.roomandboard.com/rnb";
+	var sitePath = "http://www.roomandboard.com";
+	var mobileSitePath = "http://www.roomandboard.com/m";
+	var secureMobileSitePath = "https://www.roomandboard.com/m";
+	var secureSitePath = "https://www.roomandboard.com";
+	var protocolRelativeSitePath = "//www.roomandboard.com";
+	var protocolRelativeMobileSitePath = "//www.roomandboard.com/m";
 	var imagePath = "//www.roomandboard.com/images";
 	var pdfPath = "//www.roomandboard.com/images/pdf";
 	var reviewsPath = "http://www.roomandboard.com/";
@@ -25,6 +26,11 @@
 	var isOnShop = false; // this will be overridden on shop pages.
 	var internal = false;
 	var searchAutoCompleteURL = "//content.atomz.com/autocomplete/sp10/04/dd/fb/";
+    // completely turn off igd. Both in observing and recommending.
+	var igdEnable = true;
+    // toggle the displaying of recommendations globally.
+    var igdEnableRecommendations = true;
+	var igdObserverPath = "//roomandboard.collect.igodigital.com/igdrta.js";
 	
 	// devicePixelRatio for mobile.  But not for long!
 	var dpr = 1; 
@@ -37,8 +43,8 @@
 	var pr_zip_location= "http://www.roomandboard.com/";
 </script>
 
-<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/rnb/gzip_999832248/bundles/layout.css">
-<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/rnb/gzip_1999884961/bundles/our_website.css">
+<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_N815832244/bundles/layout.css">
+<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_1999884961/bundles/our_website.css">
 
 
 
@@ -48,41 +54,39 @@
 
 <link href="//fast.fonts.com/cssapi/a9faceea-3ac0-4085-8c6d-3065dd276cb1.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="//www.roomandboard.com/rnb/js/gzip_N679301574/bundles/jquery.js"></script>
+<!-- Windows 8 tile -->
+<meta name="application-name" content="Room &amp; Board">
+<meta name="msapplication-TileColor" content="#616265">
+<meta name="msapplication-TileImage" content="//www.roomandboard.com/images/site/RB_win8-144x144.png">
+
+<script type="text/javascript" src="//www.roomandboard.com/js/gzip_N1699073824/bundles/jquery.js"></script>
 
 
 <script type="text/javascript">
-  //<![CDATA[[
-  $SA={s:16534,asynch:1};
-  (function(){
-      var sa = document.createElement("script"); sa.type = "text/javascript"; sa.async = true;
-      sa.src = ("https:" == document.location.protocol ? "https://" + $SA.s + ".sa" : "http://" + $SA.s + ".a") + ".siteapps.com/" + $SA.s + ".js";
-      var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(sa, t);
-  })();
-  //]]>
-</script>
+   //<![CDATA[[
+   $SA={s:16534};
+   document.write(unescape("%3Cscript src='" + ("https:" == document.location.protocol ? "https://" + $SA.s + ".sa" : "http://" + $SA.s + ".a") + ".siteapps.com/" + $SA.s + ".js' type='text/javascript'%3E%3C/script%3E"));
+   //]]>
+</script><script src="https://16534.sa.siteapps.com/16534.js" type="text/javascript"></script>
 <script type="text/javascript">
- 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-9776619-2']);
-  _gaq.push(['_trackPageLoadTime']); // site speed page load timing
-  _gaq.push(['_setAllowAnchor', true]); // allows parsing campaign params from hashs
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-9776619-2', 'roomandboard.com');
+
+  ga('require', 'displayfeatures');
   
   
   
    
    
-     
   
-  _gaq.push(['_trackPageview']);
+  ga('send', 'pageview');
 	
   
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
 </script>
 
 
@@ -93,278 +97,329 @@
 
 
 <div id="header">
-		<a href="http://www.roomandboard.com/rnb/" id="logoLink">
-			<img src="//www.roomandboard.com/images/site/roomandboard_logo.png" height="48" width="534" alt="Room &amp; Board - Classic Contemporary Home Furnishings">
-		</a>
-	<div id="hlinks">
-		<a id="h_phone" href="http://www.roomandboard.com/rnb/contactus/detail.do" class="hereToHelpTrigger">800.301.9720</a>
-		<a id="findStore" href="http://www.roomandboard.com/rnb/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a>
-		<div id="account">
-			<a id="accountLink" href="https://www.roomandboard.com/rnb/shop/account/sign_in.ftl">Sign In/Create Account</a>
-		</div>
+	<a href="http://www.roomandboard.com/" id="logoLink">
+		<img src="//www.roomandboard.com/images/site/roomandboard_logo_2013.png" alt="Room &amp; Board - Classic Contemporary Home Furnishings">
+	</a>
+	<div id="wishlist">
+		<a href="https://www.roomandboard.com/shop/wishlistcart/cartDetails.do">Wish List (<span class="qty">0</span>)</a>
+	</div>
+	<div id="cart">
+		<a href="https://www.roomandboard.com/shop/shoppingcart/cartDetails.do">Cart (<span class="qty">0</span>)</a>
+	</div>
+	<div id="account">
+		<a id="accountLink" href="https://www.roomandboard.com/shop/account/sign_in.ftl">Sign In/Create Account</a>
 	</div>
 	<div id="h_search">
 		<form action="http://sitesearch.roomandboard.com/" method="get">
 			<input type="hidden" name="tp" value="full">			
 			<label for="h_searchInput">Search</label>
 			<input name="search" type="text" id="h_searchInput">
-			<input type="image" alt="Search" src="//www.roomandboard.com/images/site/search_btn.gif" id="h_searchButton">
+			<a class="button2" href="#" id="h_searchButton">Search</a>
 		</form>
-	</div>		<div id="cart">
-			<div id="miniCartInfo"><div class="cartText">Cart (<span class="qty">0</span>)</div></div>
-		</div>
-		<div id="wishlist"><a href="https://www.roomandboard.com/rnb/shop/wishlistcart/cartDetails.do">Wish List</a></div>
+	</div>	<div id="hlinks">
+		<a id="h_phone" href="http://www.roomandboard.com/contactus/detail.do" class="hereToHelpTrigger">800.301.9720</a>
+		<a id="findStore" href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a>
+	</div>
 </div>
 <div id="topMenuOverflow">
-	<div id="topMenu">
+	<div class="clearfix" id="topMenu">
 		<ul>
 	<li class="first">
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_living_spaces&amp;nav=topmenu" style="width: 75px;" title="Living">Living</a>
+		<a href="http://www.roomandboard.com/catalog/living" style="width: 55px;" title="Living">
+			<span>Living</span>
+		</a>
 <div class="subMenu coll_4 clearfix">
 		<div class="menuColl">
 			<h2>Seating</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_sofa&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=198&amp;nav=topmenu">Sofas</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_sectionals&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=195&amp;nav=topmenu">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_sleeper&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=196&amp;nav=topmenu">Sleepers</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_chairs&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=206&amp;nav=topmenu">Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_RECLINER_LOUNGE&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=187&amp;nav=topmenu">Recliners &amp; Lounge Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_living_spaces&amp;subcategory=slipcover&amp;nav=topmenu">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_OTTOBENCH&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=175&amp;nav=topmenu">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_liv_bench_stool&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=582&amp;nav=topmenu">Benches &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_living_spaces&amp;subcategory=studsofa_chaise&amp;nav=topmenu">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_living_spaces&amp;subcategory=HMILLER_LIVING&amp;nav=topmenu">Herman Miller Collection</a> </li><li style="margin-top: 14px; "> <a href="http://www.roomandboard.com/rnb/swatchlist/list.do?nav=topmenu">See All Fabrics &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/living/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/recliners-and-lounge-chairs">Recliners &amp; Lounge Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/benches-and-stools">Benches &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/herman-miller-collection">Herman Miller Collection</a> </li><li style="margin-top: 14px; "> <a href="http://www.roomandboard.com/swatchlist/list.do">See All Fabrics &gt;</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Custom Seating</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sofas&amp;nav=topmenu">Custom Sofas</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sectionals&amp;nav=topmenu">Custom Sectionals</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sleepers&amp;nav=topmenu">Custom Sleepers</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs&amp;nav=topmenu">Custom Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs_recliners&amp;nav=topmenu">Custom Recliners</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_SLIPCOVERED&amp;nav=topmenu">Custom Slipcovers</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_ottomans&amp;nav=topmenu">Custom Ottomans</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_custom_chaises&amp;nav=topmenu">Custom Chaises &amp; Studio Sofas</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/sofas">Custom Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sectionals">Custom Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sleeper-sofas">Custom Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chairs">Custom Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/recliners">Custom Recliners</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/slipcover-collections">Custom Slipcovers</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/ottomans">Custom Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chaises-and-studio-sofas">Custom Chaises &amp; Studio Sofas</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Cabinets &amp; Bookcases</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_living_spaces&amp;subcategory=media_cabinet&amp;nav=topmenu">Media Storage</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_living_spaces&amp;subcategory=cabinet_armoire&amp;nav=topmenu">Cabinets &amp; Armoires</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_BOOK_SHELF&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=141&amp;nav=topmenu">Bookcases &amp; Shelves</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets2&amp;nav=topmenu">Custom Cabinets</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/living/media-storage">Media Storage</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/cabinets-and-armoires">Cabinets &amp; Armoires</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/bookcases-and-shelves">Bookcases &amp; Shelves</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/cabinets-and-bookcases">Custom Cabinets</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Accent Tables</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_COCKTAIL&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=143&amp;nav=topmenu">Cocktail Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_ENDTABLE&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=154&amp;nav=topmenu">End Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_CONSOLE_TABLE&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=144&amp;nav=topmenu">Console Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_cocktail&amp;subcategory=fl_cocktail_upholst&amp;menuCatalog=room&amp;menuCategory=201&amp;menuSubcategory=143&amp;nav=topmenu">Upholstered Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_ACC&amp;nav=topmenu">Custom Tables</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/living/cocktail-tables">Cocktail Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/end-tables">End Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/console-tables">Console Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/cocktail-tables?filter=Upholstered%20Tables">Upholstered Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/accent-tables-by-the-inch">Custom Tables</a> </li>		</ul>
 		</div>
 		<div class="bottomMenu">
 			<h2>Ideas &amp; Advice</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_living_spaces&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/home_tours/home_tours.ftl?nav=topmenu">Home Tours Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/sleeper_guide.ftl?nav=topmenu">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/sectional_guides.ftl?nav=topmenu">Sectional Guide</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/rnb/swatchlist/list.do?tab=fabric&amp;nav=topmenu">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/color_collections.ftl?nav=topmenu">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/custom_upholstery.ftl?nav=topmenu">Custom Upholstery Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/living">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/home_tours/home_tours.ftl">Home Tours Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/color_collections.ftl">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/upholstered_furniture_guide/getting_started.ftl">Upholstered Furniture Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/sleeper_guide.ftl">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
 		</div>
 </div>
 	</li>
 	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_dining_spaces&amp;nav=topmenu" style="width: 78px;" title="Dining">Dining</a>
+		<a href="http://www.roomandboard.com/catalog/dining" style="width: 72px;" title="Dining">
+			<span>Dining</span>
+		</a>
 <div class="subMenu coll_3 clearfix">
 		<div class="menuColl">
 			<h2>Tables</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_dining_tables&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=197&amp;menuSubcategory=152&amp;nav=topmenu">Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_dining_spaces&amp;subcategory=counter&amp;nav=topmenu">Counters</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_DIN&amp;nav=topmenu">Custom Tables &amp; Counters</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/dining/tables">Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/counter-and-bar-tables">Counter &amp; Bar Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/kitchen-islands">Kitchen Islands</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-tables-by-the-inch">Custom Tables</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Seating</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_dining_chairs&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=197&amp;menuSubcategory=149&amp;nav=topmenu">Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_dining_spaces&amp;subcategory=din_bench&amp;nav=topmenu">Benches</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_dining_spaces&amp;subcategory=din_stool&amp;nav=topmenu">Stools</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs_din&amp;nav=topmenu">Custom Upholstered Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_BENCH&amp;nav=topmenu">Custom Benches</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_dining_spaces&amp;subcategory=HMILLER_DINING&amp;nav=topmenu">Herman Miller Collection</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/dining/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/benches">Benches</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/counter-and-bar-stools">Counter &amp; Bar Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-chairs-and-stools">Custom Upholstered Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/custom-benches">Custom Benches</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/herman-miller-collection">Herman Miller Collection</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Storage</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_dining_spaces&amp;subcategory=din_cabinet_stor&amp;nav=topmenu">Cabinets &amp; Storage</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets_dining&amp;nav=topmenu">Custom Cabinets</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/dining/cabinets-and-armoires">Cabinets &amp; Armoires</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/bookcases-and-shelves">Bookcases &amp; Shelves</a> </li><li> <a href="http://www.roomandboard.com/catalog/dining/bar-cabinets-and-carts">Bar Cabinets &amp; Carts</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-storage">Custom Cabinets</a> </li>		</ul>
 		</div>
 		<div class="bottomMenu">
 			<h2>Ideas &amp; Advice</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_dining_spaces&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/materials_care/materials_care.ftl?nav=topmenu">Material Guides</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/artisans_designers.ftl?nav=topmenu">Artisans &amp; Designers</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/product_stories/linear/linear.ftl?nav=topmenu">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/tables_by_the_inch.ftl?nav=topmenu">Tables by the Inch Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/better_dining_space.ftl?nav=topmenu">Build a better dining space</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/dining">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/better_dining_space.ftl">Build a better dining space</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/materials_care.ftl">Material Guides</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
 		</div>
 </div>
 	</li>
 	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_bedrooms&amp;nav=topmenu" style="width: 98px;" title="Bedroom">Bedroom</a>
+		<a href="http://www.roomandboard.com/catalog/bedroom" style="width: 92px;" title="Bedroom">
+			<span>Bedroom</span>
+		</a>
 <div class="subMenu coll_3 clearfix">
 		<div class="menuColl">
 			<h2>Beds</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_beds&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=191&amp;menuSubcategory=135&amp;nav=topmenu">Beds</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_bedrooms&amp;subcategory=mattress&amp;nav=topmenu">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_beds&amp;nav=topmenu">Custom Upholstered Beds</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/bedroom/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/room-and-board-mattresses">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/beds">Custom Upholstered Beds</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Storage</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_bedrooms&amp;subcategory=dresser&amp;nav=topmenu">Dressers</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_nightstand&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=191&amp;menuSubcategory=179&amp;nav=topmenu">Nightstands</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_bedrooms&amp;subcategory=armoire&amp;nav=topmenu">Armoires</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_bedrooms&amp;subcategory=benches&amp;nav=topmenu">Benches</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets2&amp;nav=topmenu">Custom Cabinets</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/bedroom/dressers">Dressers</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/nightstands">Nightstands</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/armoires">Armoires</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/benches">Benches</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/cabinets-and-bookcases">Custom Cabinets</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Accessories</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_bedding&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=191&amp;menuSubcategory=139&amp;nav=topmenu">Bedding</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_bedbasics&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=191&amp;menuSubcategory=138&amp;nav=topmenu">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category= FLT_PILLOW_THROW&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=186&amp;nav=topmenu">Accent Pillows</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=mirror&amp;nav=topmenu">Mirrors</a> </li><li style="margin-top: 22px; "> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_accessories&amp;nav=topmenu">See all Accessories &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/bedroom/all-bedding">Bedding</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/bedding-basics">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/pillows">Accent Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/mirrors">Mirrors</a> </li><li style="margin-top: 22px; "> <a href="http://www.roomandboard.com/catalog/accessories">See all Accessories &gt;</a> </li>		</ul>
 		</div>
 		<div class="bottomMenu">
 			<h2>Ideas &amp; Advice</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_bedrooms&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/mattress_guide.ftl?nav=topmenu">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/artisans_designers.ftl?nav=topmenu">Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/bedroom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/build-the-perfect-bed">Bedding Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
 		</div>
 </div>
 	</li>
 	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_kids&amp;nav=topmenu" style="width: 64px;" title="Kids">Kids</a>
+		<a href="http://www.roomandboard.com/catalog/entryway" style="width: 94px;" title="Entryway">
+			<span>Entryway</span>
+		</a>
 <div class="subMenu coll_2 clearfix">
 		<div class="menuColl">
 			<h2>Furniture</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_kids_beds&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=198&amp;menuSubcategory=645&amp;nav=topmenu">Beds</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_kid_bunk_loft&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=198&amp;menuSubcategory=646&amp;nav=topmenu">Bunks &amp; Lofts</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=KIDS_MATTRESS&amp;nav=topmenu">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_kid_dress_bdr&amp;nav=topmenu">Dressers</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_kid_night_bdr&amp;nav=topmenu">Nightstands</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_bookcase_shelves&amp;nav=topmenu">Bookcases &amp; Storage</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_KID_DESK_BDR&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=198&amp;menuSubcategory=162&amp;nav=topmenu">Desks</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=benches_kids&amp;nav=topmenu">Benches</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=KID_SIZED_FURN&amp;nav=topmenu">Kid-sized Furniture</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_nursery&amp;nav=topmenu">Nursery</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_rocker_glider&amp;nav=topmenu">Rockers &amp; Gliders</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/entryway/stools-and-benches">Benches &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/cabinets">Cabinets</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/bookcases-and-cubbies">Bookcases &amp; Cubbies</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/armoires">Armoires</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/tables">Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/cabinets-and-bookcases">Custom Cabinets</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/accent-tables-by-the-inch">Custom Tables</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Accessories</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_bedd_coll&amp;nav=topmenu">Bedding</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_bedding_basic&amp;nav=topmenu">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_kid_acc_lighting&amp;nav=topmenu">Lighting</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_rugs_kids&amp;nav=topmenu">Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_kid_acces_wall&amp;nav=topmenu">Wall Art</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=fl_kids_acc_wall&amp;nav=topmenu">Frames</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_kids&amp;subcategory=kid_decorative&amp;nav=topmenu">Decorative &amp; Accents</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/entryway/coat-racks-and-wall-hooks">Coat Racks &amp; Wall Hooks</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/mirrors">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/rugs">Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/organization">Organization</a> </li><li> <a href="http://www.roomandboard.com/catalog/entryway/planters">Planters</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/rugs-by-the-inch">Rugs by the Inch</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mirrors-by-the-inch">Mirrors by the Inch</a> </li><li style="margin-top: 22px; "> <a href="http://www.roomandboard.com/catalog/accessories">See all Accessories &gt;</a> </li>		</ul>
 		</div>
 		<div class="bottomMenu">
 			<h2>Ideas &amp; Advice</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_kids&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/mattress_guide.ftl?nav=topmenu">Mattress Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/entryway">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
 		</div>
 </div>
 	</li>
 	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_office&amp;nav=topmenu" style="width: 76px;" title="Office">Office</a>
+		<a href="http://www.roomandboard.com/catalog/kids" style="width: 58px;" title="Kids">
+			<span>Kids</span>
+		</a>
+<div class="subMenu coll_2 clearfix">
+		<div class="menuColl">
+			<h2>Furniture</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/bunks-and-lofts">Bunks &amp; Lofts</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/room-and-board-kids-mattresses">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/dressers">Dressers</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/nightstands">Nightstands</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/bookcases-and-storage">Bookcases &amp; Storage</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/desks-and-chairs">Desks &amp; Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/benches">Benches</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/kid-sized-furniture">Kid-sized Furniture</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/nursery">Nursery</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/rockers-and-gliders">Rockers &amp; Gliders</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Accessories</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids/bedding">Bedding</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/bedding-basics">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/kids-lighting">Lighting</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/kids-rugs">Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/kids-wall-art">Wall Art</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/frames">Frames</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/kids-decorative-and-accents">Decorative &amp; Accents</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/office" style="width: 70px;" title="Office">
+			<span>Office</span>
+		</a>
 <div class="subMenu coll_3 clearfix">
 		<div class="menuColl">
 			<h2>Desks &amp; Chairs</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_desks&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=213&amp;menuSubcategory=146&amp;nav=topmenu">Desks</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=wks_armoire&amp;nav=topmenu">Office Armoires</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=WKS_CHAIR&amp;nav=topmenu">Office Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_DESK&amp;nav=topmenu">Custom Desks</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=HMILLER_OFFICE&amp;nav=topmenu">Herman Miller Collection</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Storage &amp; Files</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=wks_cab_file_stor&amp;nav=topmenu">Storage &amp; Files</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_BOOK_SHELF&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=213&amp;menuSubcategory=141&amp;nav=topmenu">Bookcases &amp; Shelves</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets2&amp;nav=topmenu">Custom Cabinets</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Accessories</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=fl_light_task&amp;nav=topmenu">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_office&amp;subcategory=wks_basic&amp;nav=topmenu">Office Organization</a> </li><li style="margin-top: 22px; "> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_accessories&amp;nav=topmenu">See all Accessories &gt;</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_office&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/more_ways_to_shop/business_interiors/business_interiors.ftl?nav=topmenu">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/desk_chair_guide.ftl?nav=topmenu">Office Chair Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/office_furniture_guides.ftl?nav=topmenu">Office Furniture Guides</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/office_anywhere.ftl?nav=topmenu">Create an office anywhere</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_outdoor&amp;nav=topmenu" style="width: 99px;" title="Outdoor">Outdoor</a>
-<div class="subMenu coll_3 clearfix">
-		<div class="menuColl">
-			<h2>Furniture</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=SOFA_SECTIONAL_OUT&amp;nav=topmenu">Sofas &amp; Sectionals</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=CHAISE_SUNBED_OUT&amp;nav=topmenu">Chairs &amp; Chaises</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_out_dining&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=205&amp;menuSubcategory=798&amp;nav=topmenu">Dining</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=CHAIR_OTT_BENCH_OUT&amp;nav=topmenu">Ottomans &amp; Benches</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=out_accent_table&amp;nav=topmenu">Accent Tables</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Accessories</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=out_umbrella&amp;nav=topmenu">Umbrellas</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=out_cushions&amp;nav=topmenu">Cushions</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=pillow_cushion_out&amp;nav=topmenu">Pillows</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=out_planters&amp;nav=topmenu">Planters</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=ECOSMART_FIREPL&amp;nav=topmenu">EcoSmart Fireplaces</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=accessories_out&amp;nav=topmenu">Accessories</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=KID_SIZED_FURN_OUT&amp;nav=topmenu">Kid-sized Furniture</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=outdoor_covers&amp;nav=topmenu">Furniture Covers</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Collections</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=MONTEGO_OUT&amp;nav=topmenu">Montego</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=PALM_OUT&amp;nav=topmenu">Palm</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=OASIS_OUT&amp;nav=topmenu">Oasis</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=CRUZ_OUT&amp;nav=topmenu">Cruz</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=LAGUNA_OUT&amp;nav=topmenu">Laguna</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=H_BRYANT&amp;nav=topmenu">Bryant</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=TOP_BASE_TAB_OUT&amp;nav=topmenu">Top + Base Outdoor Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=LOLL_RECYC_OUT&amp;nav=topmenu">100% Recycled by Loll</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_outdoor&amp;subcategory=ITALIAN_SILVER_OUT&amp;nav=topmenu">Steel by EMU</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_outdoor&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/product_stories/outdoor_upholstery_video.ftl?nav=topmenu">Outdoor Upholstery Video</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=sielaff&amp;nav=topmenu">Sielaff story</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/materials_care/weather_resistant_fabrics.ftl?nav=topmenu">Outdoor Fabric Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/materials_care/weather_resistant_materials.ftl?nav=topmenu">Outdoor Material Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=loll_designs&amp;nav=topmenu">Loll story</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=RM_CST_WINDOW&amp;nav=topmenu" style="width: 99px;" title="Windows">Windows</a>
-<div class="subMenu coll_1 clearfix">
-		<div class="menuColl">
-			<h2>Custom Window Treatments</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=RM_CST_WINDOW&amp;subcategory=cst_windows&amp;nav=topmenu">All Window Treatments</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=RM_CST_WINDOW&amp;subcategory=CST_WINDOWS_DRAPERY&amp;nav=topmenu">Drapery</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=RM_CST_WINDOW&amp;subcategory=CST_WINDOWS_ROMAN&amp;nav=topmenu">Roman Shades</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=RM_CST_WINDOW&amp;subcategory=CST_WINDOWS_ROLLER_SOLAR&amp;nav=topmenu">Roller &amp; Solar Shades</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=RM_CST_WINDOW&amp;subcategory=CST_WINDOWS_WOOD_BLINDS&amp;nav=topmenu">Wood Blinds</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=RM_CST_WINDOW&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/window_treatment/window_treatments_overview.ftl?nav=topmenu">Window Treatment Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/window_treatment/installer/installer_search.ftl?nav=topmenu">Professional Installation</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=RM_LIGHTING&amp;nav=topmenu" style="width: 94px;" title="Lighting">Lighting</a>
-<div class="subMenu coll_1 clearfix">
-		<div class="menuColl">
-			<h2>Lighting</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_LIGHTING&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=324&amp;menuSubcategory=906&amp;nav=topmenu">All Lighting</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_table&amp;nav=topmenu">Table Lamps</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_floor&amp;nav=topmenu">Floor Lamps</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_pendant&amp;nav=topmenu">Pendants</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_task&amp;nav=topmenu">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_wallscn&amp;nav=topmenu">Wall Sconces</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_lighting&amp;subcategory=fl_light_ceiling&amp;nav=topmenu">Ceiling Fans</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_MC_LIGHTING&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=324&amp;menuSubcategory=2021&amp;nav=topmenu">Modern Classics</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/illuminate_your_space.ftl?nav=topmenu">Illuminate your space</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=galbraith_paul&amp;nav=topmenu">Galbraith &amp; Paul story</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=pablo_pardo_lighting&amp;nav=topmenu">Pablo Pardo story</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=RM_RUGS&amp;nav=topmenu" style="width: 62px;" title="Rugs">Rugs</a>
-<div class="subMenu coll_1 clearfix">
-		<div class="menuColl">
-			<h2>Rugs</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_RUGS&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=325&amp;menuSubcategory=922&amp;nav=topmenu">All Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog= room&amp;category=rm_rugs&amp;subcategory=fl_rugs_wool&amp;nav=topmenu">Wool Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_rugs&amp;subcategory=fl_rugs_hides&amp;nav=topmenu">Natural Hide Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_rugs&amp;subcategory=fl_rugs_solid&amp;nav=topmenu">Solid Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_rugs&amp;subcategory=fl_rugs_pattern&amp;nav=topmenu">Patterned Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_rugs&amp;subcategory=fl_rugs_pads&amp;nav=topmenu">Rug Pads</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_RUGS&amp;nav=topmenu">Rugs by the Inch</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/perfect_rug.ftl?nav=topmenu">Rug Buying Guide</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=delos&amp;nav=topmenu">Delos story</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/artisans_designers/designer.ftl?x=obeetee_rugs&amp;nav=topmenu">Obeetee story</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li>
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_accessories&amp;nav=topmenu" style="width: 113px;" title="Accessories">Accessories</a>
-<div class="subMenu coll_3 clearfix" style="left: -347px; ">
-		<div class="menuColl">
-			<h2>Wall</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=acc_frame_ledge&amp;nav=topmenu">Frames</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_WALLART&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=923&amp;nav=topmenu">Wall Art</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_limited_ed_wall&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=1734&amp;nav=topmenu">Limited Edition Wall Art</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=shelves_ledges_acc&amp;nav=topmenu">Shelves &amp; Ledges</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=mirror&amp;nav=topmenu">Mirrors</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Accent</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_PILLOW_THROW&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=186&amp;nav=topmenu">Pillows</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_pillows&amp;nav=topmenu">Custom Pillows</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_decorative&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=131&amp;nav=topmenu">Decorative</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=TABLETOP_ACC&amp;nav=topmenu">Table Top</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=fl_decorative_plant&amp;nav=topmenu">Planters</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=tivoli_audio_decor&amp;nav=topmenu">Tivoli Audio</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=ECOSMART_FIREPL&amp;nav=topmenu">EcoSmart Fireplaces</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=acc_org&amp;nav=topmenu">Organization</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=acc_knob_pull&amp;nav=topmenu">Knobs &amp; Pulls</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Bedding</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_bedding&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=139&amp;nav=topmenu">All Bedding</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=fl_bedding_sheet&amp;nav=topmenu">Sheets &amp; Pillowcases</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=rm_accessories&amp;subcategory=fl_bedding_duvet&amp;nav=topmenu">Duvets &amp; Coverlets</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=FLT_BLANKETS_BEDD&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=531&amp;nav=topmenu">Blankets &amp; Throws</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=filter&amp;category=flt_bedbasics&amp;subcategory=view_all&amp;menuCatalog=room&amp;menuCategory=189&amp;menuSubcategory=138&amp;nav=topmenu">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=h_bedding_insp&amp;nav=topmenu">Bedding Inspiration</a> </li>		</ul>
-		</div>
-		<div class="bottomMenu">
-			<h2>Ideas &amp; Advice</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=rm_accessories&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/pillow_collections.ftl?nav=topmenu">Pillow Color Collections</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/gallery_wall.ftl?nav=topmenu">Design a frame wall</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/mirrors_by_the_inch.ftl?nav=topmenu">Mirrors by the Inch Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
-		</div>
-</div>
-	</li>
-	<li class="last">
-		<a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=cst_custom_programs&amp;nav=topmenu" style="width: 82px;" title="Custom">Custom</a>
-<div class="subMenu coll_4 clearfix" style="left: -517px; ">
-		<div class="menuColl">
-			<h2>Fabric &amp; Leather Upholstery</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sofas&amp;nav=topmenu">Sofas</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sectionals&amp;nav=topmenu">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_sleepers&amp;nav=topmenu">Sleepers</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs&amp;nav=topmenu">Chairs</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs_recliners&amp;nav=topmenu">Recliners</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_SLIPCOVERED&amp;nav=topmenu">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_custom_chaises&amp;nav=topmenu">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_ottomans&amp;nav=topmenu">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_chairs_din&amp;nav=topmenu">Dining Chairs &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_beds&amp;nav=topmenu">Beds</a> </li>		</ul>
-		</div>
-		<div class="menuColl">
-			<h2>Tables &amp; Benches</h2>
-		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_DIN&amp;nav=topmenu">Dining Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_ACC&amp;nav=topmenu">Accent Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_DESK&amp;nav=topmenu">Desks</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_TAB_DIN_OUT&amp;nav=topmenu">Outdoor Tables</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_BENCH&amp;nav=topmenu">Benches</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/office/desks">Desks</a> </li><li> <a href="http://www.roomandboard.com/catalog/office/office-armoires">Office Armoires</a> </li><li> <a href="http://www.roomandboard.com/catalog/office/office-chairs">Office Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/desks-by-the-inch">Custom Desks</a> </li><li> <a href="http://www.roomandboard.com/catalog/office/herman-miller-collection">Herman Miller Collection</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Storage</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets2&amp;nav=topmenu">Cabinets &amp; Bookcases</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_media&amp;nav=topmenu">Media Storage</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_cabinets_dining&amp;nav=topmenu">Dining Storage</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/office/file-storage">File Storage</a> </li><li> <a href="http://www.roomandboard.com/catalog/office/bookcases-and-shelves">Bookcases &amp; Shelves</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/cabinets-and-bookcases">Custom Cabinets</a> </li>		</ul>
 		</div>
 		<div class="menuColl">
 			<h2>Accessories</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_RUGS&amp;nav=topmenu">Rugs</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=CST_BTI_MIRRORS&amp;nav=topmenu">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_pillows&amp;nav=topmenu">Pillows</a> </li><li> <a href="http://www.roomandboard.com/rnb/customsubcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_mattresses&amp;nav=topmenu">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/rnb/subcategory/list.do?catalog=room&amp;category=cst_custom_programs&amp;subcategory=cst_windows&amp;nav=topmenu">Window Treatments</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/office/task-lamps">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/office/office-organization">Office Organization</a> </li><li style="margin-top: 22px; "> <a href="http://www.roomandboard.com/catalog/accessories">See all Accessories &gt;</a> </li>		</ul>
 		</div>
 		<div class="bottomMenu">
 			<h2>Ideas &amp; Advice</h2>
 		<ul>
-<li> <a href="http://www.roomandboard.com/rnb/category/category.do?catalog=room&amp;category=cst_custom_programs&amp;nav=topmenu">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/rnb/swatchlist/list.do?tab=fabric&amp;nav=topmenu">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/design_ideas/color_collections.ftl?nav=topmenu">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/product_stories/linear/linear.ftl?nav=topmenu">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/rnb/ideas_advice/buying_guides/window_treatment/window_treatments_overview.ftl?nav=topmenu">Window Treatment Buying Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl?nav=topmenu">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+<li> <a href="http://www.roomandboard.com/catalog/office">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/desk_chair_guide.ftl">Office Chair Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/outdoor" style="width: 93px;" title="Outdoor">
+			<span>Outdoor</span>
+		</a>
+<div class="subMenu coll_3 clearfix">
+		<div class="menuColl">
+			<h2>Furniture</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor/sofas-and-sectionals">Sofas &amp; Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/chairs-and-chaises">Chairs &amp; Chaises</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/dining">Dining</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/benches-and-ottomans">Benches &amp; Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/accent-tables">Accent Tables</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Accessories</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor/umbrellas">Umbrellas</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/cushions">Cushions</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/pillows-and-rugs">Pillows &amp; Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/planters">Planters</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/ecosmart-fireplaces">EcoSmart Fireplaces</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/accessories">Accessories</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/kid-sized-furniture">Kid-sized Furniture</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/furniture-covers">Furniture Covers</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Collections</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor/montego-collection">Montego</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/palm-collection">Palm</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/oasis-collection">Oasis</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/cruz-collection">Cruz</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/laguna-collection">Laguna</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/bryant-collection">Bryant</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/top-and-base-outdoor-tables">Top + Base Outdoor Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/100percent-recycled-by-loll-collection">100% Recycled by Loll</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/steel-collection-by-emu">Steel by EMU</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/outdoor_upholstery_video.ftl">Outdoor Upholstery Video</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/weather_resistant_fabrics.ftl">Outdoor Fabric Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/weather_resistant_materials.ftl">Outdoor Material Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/window-treatments" style="width: 90px;" title="Windows">
+			<span>Windows</span>
+		</a>
+<div class="subMenu coll_1 clearfix">
+		<div class="menuColl">
+			<h2>Custom Window Treatments</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/window-treatments/custom-window-treatments">All Window Treatments</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/drapery">Drapery</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/roman-shades">Roman Shades</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/roller-and-solar-shades">Roller &amp; Solar Shades</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/wood-blinds">Wood Blinds</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/window-treatments">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/window_treatments_overview.ftl">Window Treatment Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/measuring_instructions.ftl">DIY Measurement</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installation_instructions.ftl">DIY Installation</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installer/installer_search.ftl">Measurement Services</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installer/installer_search.ftl">Installation Services</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/lighting" style="width: 88px;" title="Lighting">
+			<span>Lighting</span>
+		</a>
+<div class="subMenu coll_1 clearfix">
+		<div class="menuColl">
+			<h2>Lighting</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/lighting/all-lighting">All Lighting</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/table-lamps">Table Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/floor-lamps">Floor Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/pendants">Pendants</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/task-lamps">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/wall-sconces">Wall Sconces</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/ceiling-fans">Ceiling Fans</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/modern-classics">Modern Classics</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/lighting">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/illuminate_your_space.ftl">Illuminate your space</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/rugs" style="width: 56px;" title="Rugs">
+			<span>Rugs</span>
+		</a>
+<div class="subMenu coll_1 clearfix">
+		<div class="menuColl">
+			<h2>Rugs</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/rugs/all-rugs">All Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/rugs/wool-rugs">Wool Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/rugs/natural-hide-rugs">Natural Hide Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/rugs/solid-rugs">Solid Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/rugs/patterned-rugs">Patterned Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/rugs/rug-pads">Rug Pads</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/rugs-by-the-inch">Rugs by the Inch</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/rugs">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li>
+		<a href="http://www.roomandboard.com/catalog/accessories" style="width: 107px;" title="Accessories">
+			<span>Accessories</span>
+		</a>
+<div class="subMenu coll_4 clearfix" style="left: -547px; ">
+		<div class="menuColl">
+			<h2>Pillows &amp; Throws</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/accessories/pillows">All Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/solid-pillows">Solid Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/patterned-pillows">Patterned Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/pillow-ensembles">Pillow Ensembles</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/pillows">Custom Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/throws">Throws</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Wall</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/accessories/frames">Frames</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/wall-art">Wall Art</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/limited-edition">Limited Edition Wall Art</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/vintage-wall-art">Vintage Wall Art</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/shelves-and-ledges">Shelves &amp; Ledges</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/mirrors">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mirrors-by-the-inch">Custom Sized Mirrors</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Accent</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/accessories/vases-and-decorative">Vases &amp; Decorative</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/table-top">Table Top</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/planters">Planters</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/coat-racks-and-wall-hooks">Coat Racks &amp; Wall Hooks</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/audio">Audio</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/ecosmart-fireplaces">EcoSmart Fireplaces</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/organization">Organization</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/knobs-and-pulls">Knobs &amp; Pulls</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Bedding</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/accessories/all-bedding">All Bedding</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/sheets-and-pillowcases">Sheets &amp; Pillowcases</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/duvets-and-coverlets">Duvets &amp; Coverlets</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/blankets-and-throws">Blankets &amp; Throws</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories/bedding-basics">Bedding Basics</a> </li><li> <a href="http://www.roomandboard.com/catalog/build-the-perfect-bed">Bedding Inspiration</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/accessories">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/gallery_wall.ftl">Design a frame wall</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
+		</div>
+</div>
+	</li>
+	<li class="last">
+		<a href="http://www.roomandboard.com/catalog/custom" style="width: 63px;" title="Custom">
+			<span>Custom</span>
+		</a>
+<div class="subMenu coll_4 clearfix" style="left: -596px; ">
+		<div class="menuColl">
+			<h2>Fabric &amp; Leather Upholstery</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/recliners">Recliners</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-chairs-and-stools">Dining Chairs &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/beds">Beds</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Tables &amp; Benches</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/dining-tables-by-the-inch">Dining Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/accent-tables-by-the-inch">Accent Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/desks-by-the-inch">Desks</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/outdoor-tables-by-the-inch">Outdoor Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/custom-benches">Benches</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Storage</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/cabinets-and-bookcases">Cabinets &amp; Bookcases</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/media-storage">Media Storage</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-storage">Dining Storage</a> </li>		</ul>
+		</div>
+		<div class="menuColl">
+			<h2>Accessories</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/rugs-by-the-inch">Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mirrors-by-the-inch">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/pillows">Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mattresses">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/custom-window-treatments">Window Treatments</a> </li>		</ul>
+		</div>
+		<div class="bottomMenu">
+			<h2>Ideas &amp; Advice</h2>
+		<ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/color_collections.ftl">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/artisans_designers/artisans_designers.ftl">Learn about the Artisans &amp; Designers</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>		</ul>
 		</div>
 </div>
 	</li>
@@ -377,21 +432,25 @@
 		
 		<div id="subHeader" class="our_website">
 			
+			
+			
 				<h2>Our Website</h2>
+			
 			<div id="subHeaderMenu">
 				<ul>
 			<li>
-			<a href="http://www.roomandboard.com/rnb/our_website/privacy.ftl" class="active" title="Privacy Policy">Privacy Policy</a>
+			<a href="http://www.roomandboard.com/our_website/privacy.ftl" class="active" title="Privacy Policy">Privacy Policy</a>
 			</li>
 			<li>
-			<a href="http://www.roomandboard.com/rnb/our_website/terms_of_use.ftl" title="Terms of Use">Terms of Use</a>
+			<a href="http://www.roomandboard.com/our_website/terms_of_use.ftl" title="Terms of Use">Terms of Use</a>
 			</li>
 			<li>
-			<a href="http://www.roomandboard.com/rnb/our_website/dmca.ftl" title="DMCA">DMCA</a>
+			<a href="http://www.roomandboard.com/our_website/dmca.ftl" title="DMCA">DMCA</a>
 			</li>
 				</ul>
 			</div>
 		</div>
+		
 
 	
 
@@ -410,7 +469,7 @@
 	<div id="ourWebsiteContent">
 		<h1 class="primaryTitle terms">Room &amp; Board, Inc. Corporate Consumer <br>Privacy Policy</h1>
 
-		<p>Room &amp; Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at <a href="http://www.roomandboard.com/rnb/our_website/privacy.ftl">www.roomandboard.com/privacy/</a>.  You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.</p>
+		<p>Room &amp; Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at <a href="http://www.roomandboard.com/our_website/privacy.ftl">www.roomandboard.com/privacy/</a>.  You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.</p>
 
 		<h3>Basic Privacy Principles</h3>
 		<p>The following "Basic Privacy Principles" apply throughout our entire enterprise, whether we gather information through our stores, our catalog operations, or our Web site.</p>
@@ -436,7 +495,7 @@
 		<p>We will comply with our credit card merchant banks' requirements for the use and storage of your credit card information, such as obligations concerning the security of your credit card numbers, as well as any laws that apply to that information's use and storage.</p>
 
 		<h3>Web Site</h3>
-		<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web site (<a href="http://www.roomandboard.com/rnb/">roomandboard.com</a>).</p>
+		<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web site (<a href="http://www.roomandboard.com/">roomandboard.com</a>).</p>
 
 		<p>Our Web site allows you to shop our catalog and place orders by use of an e-commerce system that may be provided, in whole or in part, by one or more third party e-commerce providers. The portions of our Web site that allow you to place an order by giving your personal information use industry standard encryption methods such as secure-socket layer ('HTTPS') technology to protect your information while in transit between your computer, our computers, and our third party e-commerce providers' systems. Also, all of your sensitive personal information (for example your credit card data and your order information) is encrypted while it is being processed and stored by us and our third party e-commerce providers. Once your order has been received by us, we then process and fulfill your order using our normal catalog ordering system subject to the privacy policies described above. Our third party e-commerce providers are under contract with us to maintain the confidentiality and security of your sensitive personal information, and not to use it for any purpose other than assisting with the transactions in your own orders.</p> 
 
@@ -459,14 +518,14 @@
 
 		<p>Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you.</p>
 	
-		<p>If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: <a class="unsubscribeLink left" href="http://www.roomandboard.com/#unsubscribe">http://www.roomandboard.com/rnb/#unsubscribe</a></p>
+		<p>If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: <a class="unsubscribeLink left" href="http://www.roomandboard.com/#unsubscribe">http://www.roomandboard.com/#unsubscribe</a></p>
 	
 		<p>We love to send you our annual catalog but only if you want it. Because of that, we've joined Catalog Choice, an organization that lets consumers indicate which catalogs they no longer wish to receive. If you would prefer to not receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, please visit catalogchoice.org.</p>
 
 		<p>You can also call our Customer Service telephone line at 800.301.9720 to be removed from either our e-mail or postal mail lists.</p>
 
 		<h3>Correcting or updating your information</h3>
-		<p>Click the following link to correct, change or update your personally identifiable information for the Web site account: <a href="https://www.roomandboard.com/rnb/shop/account/detail.do">www.roomandboard.com/account/</a>.</p>
+		<p>Click the following link to correct, change or update your personally identifiable information for the Web site account: <a href="https://www.roomandboard.com/shop/account/detail.do">www.roomandboard.com/account/</a>.</p>
 		
 		<h3>Privacy Officer</h3>
 		<p>Please direct any questions or comments regarding our Privacy Policy to the office of our Privacy Officer:</p>
@@ -512,7 +571,7 @@
 		    <div id="contactUs">
 		      <a href="#" class="send_us_an_email_btn btn contactUsTrigger">Send us an email</a>
 			</div>
-			<a href="http://www.roomandboard.com/rnb/more_ways_to_shop/stores/store_locations.ftl" class="find_a_store_btn btn">Find a Store</a>
+			<a href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl" class="find_a_store_btn btn">Find a Store</a>
 		</div>
 	</div>
 </div>
@@ -522,105 +581,128 @@
 		</div>
 
 	<!-- End Body -->
-	<!-- begin footer -->
-<div id="emailSignupFooter">
-	<h3 class="newsletter"><img src="//www.roomandboard.com/images/header/sign_up_for_emails.gif" alt="SIGN UP FOR E-MAILS"></h3>
-	<p id="subscribeNote">
-			Join our e-mail list and learn about new products, design tips and special events. 
-	</p>
-	<form action="http://www.roomandboard.com/rnb/emailSubscription/subscribe.do" id="newsletterSubscribe">
-		<label for="newsletterInput">Newsletter</label>
-		<input type="hidden" name="source" value="Footer">
-		<div id="footerEmailSignup">
-		     <input name="email" type="text" id="newsletterInput" placeholder="Type your e-mail">
-		     <a href="http://www.roomandboard.com/rnb/emailOptIn/detail.do" class="sign_up_btn btn" id="newsletterButton">Sign Up</a>
-		</div>
-	</form>
-	<div id="unsubscribe" class="clearfix">
-		<a href="#unsubscribe" class="unsubscribeLink left">Unsubscribe</a>
-		<a href="http://www.roomandboard.com/rnb/our_website/privacy.ftl" class="right">Privacy Policy</a>
+<!-- begin footer -->
+<div class="socialBarSecondary">
+	<div class="socialBar clearfix">
+	<div class="emailSignupFooter">
+		<h3 class="newsletter"><img src="//www.roomandboard.com/img/header/email_signup.png" alt="SIGN UP FOR E-MAILS"></h3>
+		<p class="subscribeNote">We will not share, sell or trade your e-mail</p>
+		<form action="//www.roomandboard.com/emailSubscription/subscribe.do" class="newsletterSubscribe">
+			<label for="newsletterInput">Newsletter</label>
+			<input type="hidden" name="source" value="Footer">
+			<div class="footerEmailSignup">
+				<input name="email" type="text" class="newsletterInput" placeholder="Type your e-mail">
+				<a href="http://www.roomandboard.com/emailOptIn/detail.do" class="sign_up_btn btn newsletterButton">Sign Up</a>
+			</div>
+		</form>
 	</div>
-</div>
+	<div class="stayConnectedFooter">
+		<h3 class="newsletter"><img src="//www.roomandboard.com/img/header/stay_connected.png" alt="STAY CONNECTED"></h3>
+		<ul class="footerSocialLinks">
+			<li><a href="http://pinterest.com/roomandboard" class="footerPinterest" target="_blank" title="Pinterest">Pinterest</a></li>
+			<li><a href="http://facebook.com/roomandboard" class="footerFacebook" target="_blank" title="Facebook">Facebook</a></li>
+			<li><a href="http://twitter.com/roomandboard" class="footerTwitter" target="_blank" title="Twitter">Twitter</a></li>
+			<li><a href="http://instagram.com/roomandboard" class="footerInstagram" target="_blank" title="Instagram">Instagram</a></li>
+			<li><a href="http://houzz.com/pro/roomboard/room-board" class="footerHouzz" target="_blank" title="Houzz">Houzz</a></li>
+			<li><a href="https://plus.google.com/u/0/+roomandboard/posts" class="footerGooglePlus" target="_blank" title="Google Plus">Goole Plus</a></li>
+			<li><a href="http://youtube.com/roomandboard" class="footerYouTube" target="_blank" title="YouTube">YouTube</a></li>
+			<li class="last"><a href="http://roomandboard.com/blog" class="footerBlog" target="_blank" title="Blog">Blog</a></li>
+		</ul>
+	</div>
+</div></div>
 <div id="footer">
-	<div class="footerMenu">
-		<h3 class="roomboard">Room &amp; Board</h3>
-		<ul>
-<li>	<a href="http://www.roomandboard.com/rnb/room_board/about_us/about_us.ftl" title="About us">About us</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/stay_connected/customer_service/our_guarantee.ftl" title="Our guarantee">Our guarantee</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/room_board/about_us/american_craftsmanship.ftl" title="American made">American made</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/room_board/careers/careers.ftl" title="Careers">Careers</a>
-			</li>
-		</ul>
-	</div>
-	<div class="footerMenu">
-		<h3 class="morewaystoshop">More Ways to Shop</h3>
-		<ul>
-<li>	<a href="http://www.roomandboard.com/rnb/more_ways_to_shop/stores/store_locations.ftl" title="Find a store">Find a store</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/more_ways_to_shop/business_interiors/business_interiors.ftl" title="Business Interiors">Business Interiors</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/more_ways_to_shop/designer_resources/designer_resources.ftl" title="Designer resources">Designer resources</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/catalog/sitemap.ftl" title="Site map">Site map</a>
-			</li>
-<li class="clearanceLink">	<a href="http://www.roomandboard.com/rnb/catalog/list.do?catalog=clearance" title="Clearance">Clearance</a>
-			</li>
-		</ul>
-	</div>
-	<div class="footerMenu">
-		<h3 class="shopwithconfidence">Shop With Confidence</h3>
-		<ul>
-<li>	<a href="http://www.roomandboard.com/rnb/stay_connected/customer_service/customer_service.ftl" title="Customer service">Customer service</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/stay_connected/customer_service/our_guarantee.ftl" title="Our price guarantee">Our price guarantee</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/stay_connected/customer_service/delivery.ftl" title="Delivery pricing">Delivery pricing</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/ideas_advice/ideas_advice.ftl" title="Ideas &amp; Advice">Ideas &amp; Advice</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/ideas_advice/product_instructions/product_instructions.ftl" title="Product care">Product care</a>
-			</li>
-		</ul>
-	</div>
-	<div class="footerMenu">
-		<h3 class="stayconnected">Stay Connected</h3>
-		<ul>
-<li>	<a href="http://www.roomandboard.com/rnb/contactus/detail.do" title="Contact us">Contact us</a>
-			</li>
-<li>	<a href="http://www.roomandboard.com/rnb/stay_connected/request_catalog.ftl" title="Request a catalog">Request a catalog</a>
-			</li>
-<li class="fb icon">	<a href="http://www.facebook.com/roomandboard" title="Find us on Facebook">Find us on Facebook</a>
-			</li>
-<li class="pinterest icon">	<a href="http://www.pinterest.com/roomandboard" title="Follow us on Pinterest">Follow us on Pinterest</a>
-			</li>
-<li class="twitter icon">	<a href="http://twitter.com/roomandboard" title="Follow us on Twitter">Follow us on Twitter</a>
-			</li>
-		</ul>
-	</div>
+		<div class="footerMenu">
+			<h3 class="quicklinks">Quick Links</h3>
+			<ul>
+<li>		<a href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl" title="Store locations">Store locations</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/contactus/detail.do" title="Contact us">Contact us</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/stay_connected/request_catalog.ftl" title="Order or download a catalog">Order or download a catalog</a>
+				</li>
+<li>			<a href="http://www.roomandboard.com/blog" title="Blog" target="blank">Blog</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/m" title="Mobile site">Mobile site</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/catalog/sitemap.ftl" title="Site map">Site map</a>
+				</li>
+<li class="clearanceLink">		<a href="http://www.roomandboard.com/clearance" title="Clearance">Clearance</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footerMenu">
+			<h3 class="shopwithconfidence">Shop With Confidence</h3>
+			<ul>
+<li>		<a href="http://www.roomandboard.com/stay_connected/customer_service/customer_service.ftl" title="Customer service">Customer service</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/stay_connected/customer_service/faq.ftl" title="FAQ">FAQ</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/stay_connected/customer_service/our_guarantee.ftl" title="Our guarantee">Our guarantee</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/stay_connected/customer_service/returns.ftl" title="Returns &amp; exchanges">Returns &amp; exchanges</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/stay_connected/customer_service/delivery.ftl" title="Delivery">Delivery</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/customer_service/contactus/detail.do" title="International shipping">International shipping</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl" title="Business Interiors">Business Interiors</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/more_ways_to_shop/designer_resources/designer_resources.ftl" title="Designer resources">Designer resources</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footerMenu">
+			<h3 class="aboutroomboard">About Room &amp; Board</h3>
+			<ul>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/about_us.ftl" title="Our story">Our story</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/american_craftsmanship.ftl" title="American made">American made</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/room_board/careers/working_at_rnb/sustainability.ftl" title="Sustainability">Sustainability</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/in_the_news.ftl" title="In the news">In the news</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/room_board/careers/careers.ftl" title="Careers">Careers</a>
+				</li>
+			</ul>
+		</div>
+		<div class="footerMenu">
+			<h3 class="ideasadvice">Ideas &amp; Advice</h3>
+			<ul>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/design_ideas/design_ideas.ftl" title="Design ideas">Design ideas</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/catalog/custom" title="Customizable products">Customizable products</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/buying_guides/buying_guides.ftl" title="Buying guides">Buying guides</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/buying_guides/measuring_for_furniture_delivery/measuring_for_furniture_delivery.ftl" title="Measuring for furniture delivery">Measuring for furniture delivery</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/product_care/product_care.ftl" title="Product instructions &amp; care">Product instructions &amp; care</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl" title="All Ideas &amp; Advice">All Ideas &amp; Advice</a>
+				</li>
+			</ul>
+		</div>
+	<h3 class="footerPromoText">We Offer Our Best Value Every Day. Our Prices Are Guaranteed Until December 26.</h3>
 </div>
 <!-- end footer -->
 
 
 </div>
 
-<div id="copyright">
-	<a id="mobileLink" href="http://www.roomandboard.com/rnb/m">Room &amp; Board Mobile Site</a><br>
-	
-	© 2007-2013 Room &amp; Board.  All Rights Reserved. <a href="http://www.roomandboard.com/rnb/">Modern Furniture</a>
-	
-	<br>
-	<a href="http://www.roomandboard.com/rnb/our_website/privacy.ftl">Privacy Policy</a> | 
-	<a href="http://www.roomandboard.com/rnb/our_website/terms_of_use.ftl">Terms of Use</a> | 
-	<a href="http://www.roomandboard.com/rnb/our_website/dmca.ftl">DMCA</a>
+<div id="copyright">	
+	© 2007-2014 Room &amp; Board.  All Rights Reserved. <a href="http://www.roomandboard.com/">Modern Furniture</a>
+	<div id="copyrightLinks">
+		<a href="http://www.roomandboard.com/our_website/privacy.ftl">Privacy Policy</a> | 
+		<a href="http://www.roomandboard.com/our_website/terms_of_use.ftl">Terms of Use</a> | 
+		<a href="http://www.roomandboard.com/our_website/dmca.ftl">DMCA</a>
+	</div>
 	
 
 </div>
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" media="screen" href="//www.roomandboard.com/rnb/gzip_N1668875593/bundles/ie6.css" />
-<![endif]--><script type="text/javascript" src="//www.roomandboard.com/rnb/js/gzip_N704424125/bundles/lib.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.roomandboard.com/gzip_N1005299722/bundles/ie6.css" />
+<![endif]--><script type="text/javascript" src="//www.roomandboard.com/js/gzip_N980515353/bundles/lib.js"></script>
 
 
 				<script type="text/javascript">
@@ -650,6 +732,7 @@
     s.prop4="Our Website:Privacy Policy:Our Website Privacy Policy"
     s.prop5=""
     s.prop7=""
+	s.prop22=""
     /* Conversion Variables */
     s.campaign=""
     s.state=""
