@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222121639id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellads.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220657id_/http%3A//buysellads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BuySellAds
 
-This privacy policy (the “Privacy Policy”) covers BuySellAds.com Inc.'s ("BSA's") treatment of personally identifiable information collected from your use of [BuySellAds](http://buysellads.com/) (the "Site") and is part of the terms and conditions which are set forth in our Terms (<http://buysellads.com/about/terms>). Use of the terms “we” and “us” in this Privacy Policy means BSA. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+BuySellAds.com Inc. (BSA's) provides advertising technology solutions (“Technology”) that enables media companies, online advertisers, and web publishers to buy, sell, and measure the the effectiveness of their advertising campaigns. This privacy policy (“Privacy Policy”) explains how personal information is collected, used, and disclosed by BA with respect to your use of the websites located at [https://buysellads.com]() (the “Site”) and how personal information is collected, used, and processed through the Technology on behalf of the online advertisers, publishers, business partners, and other businesses that use BSA’s services (“Clients”).
+
+Use of the terms “we” and “us” in this Privacy Policy means BSA. Capitalized words not defined in this Privacy Policy have the meaning as defined in the Terms. By using the Site, you are accepting the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
+
+### Information about the Site
 
 Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information (as explained further below). This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Site.
 
@@ -38,10 +42,18 @@ If you do not consent to the collection, use or disclosure of your personal info
 
 BSA uses industry-standard data collection and encryption methodologies to ensure the secure collection and transmission of your personal information. We do not store any of your sensitive credit card information on our servers – it stays at the merchant processor (Authorize.net) who is PCI compliant. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
+### Information about the Technology
+
+BSA Technology may employ cookies to collect non-personally identifying information in the course of providing clients with ad-serving services and for the purpose of helping clients determine which advertisement is suitable to be delivered to a user. A cookie is a small text file that can be stored on a user's computer when that computer's browser views an advertisement or website of one of BSA’s clients. The cookie is associated with and unique to the specific computer. The cookie does not contain the user's name, address, phone number, email address, or anything that personally identifies it. BSA collects into the cookie only non-personally identifying information such as the type of the computer's operating system, type of internet browser software, what web pages were viewed and at what time, and geographic location of user's internet service provider.
+
+**Removing our 3rd party ad-serving cookie from your browser**
+
+In your browser’s settings, there should be an option to remove cookies. The domain that we set cookies during your use of BSA Technology is buysellads.com.
+
 **Questions or Comments:**
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to PO BOX 67, South Boston, MA 02127.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@buysellads.com](mailto:support@buysellads.com) or by U.S. mail to 186 South Street, Boston, MA 02111.
 
-Date last updated: March 21, 2012
+Date last updated: January 10, 2014
 
 – End –
