@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111085907id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044619id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
 
 # Radaris Privacy Policy
 
 * * *
 
-Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris's application. Our site also uses data from publicly accessible sources like telephone directories and from third party public data suppliers. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information.
+Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris' application. Our site also uses data from publicly accessible sources like telephone directories and from third party public data suppliers. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information.
 
 This privacy policy explains the source of site information and how specific information is protected, collected and used by Radaris. This policy may be occasionally updated by Radaris. Radaris will, however, provide notice of significant changes to this privacy policy by posting a notice on the Radaris.com web site.
 
-In Radaris's account settings, you can remove certain information on Radaris completely from the public eye. However, information is updated daily. Control of information obtained from publicly accessible external sources is beyond our control as billions of records are updated monthly. Please contact these sources directly to remove certain information.Please see our FAQ section for a list of sources of information.
+In Radaris' account settings, you can remove certain information on Radaris completely from the public eye. However, information is updated daily. Control of information obtained from publicly accessible external sources is beyond our control as billions of records are updated monthly. Please contact these sources directly to remove certain information.Please see our FAQ section for a list of sources of information.
 
 By submitting personal information to the Radaris web site, you agree to the terms of this Privacy Policy and expressly consent to the processing of your personal information according to this Privacy Policy. 
 
@@ -23,7 +23,7 @@ It is important for you to understand that we acquire much of the information pu
 Radaris collects personal information such as name, email address, credit card information, billing address and other information that is submitted by you through our web-site. We collect information during following instances-  
 a) During your registration at the Radaris web site, we will collect information that you provide us.  
 b) Whenever you save the personal information in your profile or in the profiles of the people you know, we will collect the information you enter.  
-c) Whenever you enter personal information throughout the Radaris web site using one of the Radaris's tools and features, we will collect the information you enter.  
+c) Whenever you enter personal information throughout the Radaris web site using one of the Radaris' tools and features, we will collect the information you enter.  
 d) Whenever information is recorded, in any form or field on the Radaris web site, we collect information about the time and date of submission, as well as the person submitting such information.  
 e) Whenever you buy reports or subscribe to Radaris's services we collect payment information, credit card information, billing information, we will collect the information you enter.  
 f) Whenever you contact us by sending us an e-mail, we will collect your e-mail addresses and any information contained in the e-mail you send us.
