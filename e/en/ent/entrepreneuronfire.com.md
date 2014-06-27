@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the entrepreneuronfire.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206172532id_/http%3A//www.entrepreneuronfire.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneuronfire.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627082430id_/http%3A//www.entrepreneuronfire.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - Entrepreneur On Fire Business Podcasts
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email [here](mailto:John@EntrepreneurOnFire.com).
+
+EntrepreneurOnFire LLC is a Maine LLC, and has no affiliation with Entrepreneur Magazine, Entrepreneur Media, or any of their entities.
 
 At http://www.EntrepreneurOnFire.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.EntrepreneurOnFire.com and how we use it.
 
