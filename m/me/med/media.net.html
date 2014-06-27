@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the media.net privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222133206id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the media.net privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627232342id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Media.net</title>
@@ -120,7 +120,7 @@ $(document).ready(function(){
 			<div class="footlogo">
 				<img src="/Content/images/footlogo.png?v=39a55a7c" alt="Yahoo! bing network | contextual ads powered by Media.net">
 				<p><a href="/adchoices">AdChoices</a> | Media.net <a href="/privacy-policy">Privacy Policy</a>, <a href="/legal/programguidelines">Program Guidelines</a> &amp; <a href="/legal/tos">Terms of Service</a></p>
-				<p>Copyright © 2013 Media.net All Rights Reserved</p>
+				<p>Copyright © 2014 Media.net All Rights Reserved</p>
 			</div>
 			<div class="footlink clearfix">
 				<div class="links">
@@ -150,7 +150,8 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 
-if (document.cookie.indexOf("mnet_optout") == "-1") {
+    if (document.cookie.indexOf("mnet_optout") == "-1") {
+        
     //woopra start
    function woopraReady(tracker) {
         //tracker.setDomain('beta.media.net');
@@ -214,6 +215,9 @@ if (document.cookie.indexOf("mnet_optout") == "-1") {
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
+
+    //call for affiliate tracking
+    MNET.callAffiliateLandingPixel();
 }
 </script>
 
