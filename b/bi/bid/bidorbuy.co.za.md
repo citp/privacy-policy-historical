@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228152820id_/http%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627230000id_/http%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,7 +42,7 @@ We will also collect financial information about you if you choose to bid for ce
 
 In order to use our site, you must first complete the registration form. When you register we collect personal information such as your name, address, email address, telephone and fax numbers. This information is used to contact you about the services on our site for which you have expressed interest. We also collect additional information (such as “How did you hear about us?”, your interests), and unique identifiers (such as your company name and VAT number, if applicable). All information that is mandatory is made known on the registration form and is necessary to complete the registration process. You are encouraged to provide the additional, optional information specified on the registration form so we can provide you with a more personalized experience on our site. 
 
-We may, at our sole discretion, request additional personal information from you. You may be required to confirm such details as your identity, address and contact information for security and verification reasons. This information may include copies of ID documents, passports, utility bills, licenses, rights to sell or distribute a particular item or product, legal or financial documentation, or any other documentation related to your use of this website (but not limited to this). 
+We may, at our sole discretion, request additional personal information from you. You may be required to confirm and certify such details as your identity, address and contact information for security and verification reasons. This information may include copies of ID documents, passports, utility bills, licenses, rights to sell or distribute a particular item or product, legal or financial documentation, or any other documentation related to your use of this website (but not limited to this). 
 
 **Cookies**
 
@@ -59,7 +59,7 @@ We collect statistical information about you from page hits. Every page, image o
 If you successfully sell a product or successfully win an Auction, or are the runner up in an Auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that Auction in accordance with the _[Terms and Conditions of Use of this Site](https://web.archive.org/help/441/Terms_Conditions_of_This_Site)_. For example, if you bid on an Auction and win the Auction, your details will be passed onto the Seller of that item for auction. Similarly, if you are selling an item on Auction, your details will be passed onto the winning bidder of your Auction.  
 
 
-We will share aggregated demographic information with our business partners and advertisers. When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. 
+We will share aggregated demographic information with our business partners and advertisers. When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. Insofar as you are making an application for a loan or any other application for services that requires a valuation of your credit profile, your purchase history on bidorbuy will be disclosed to our business partners in order  for our business partners to evaluate the risk in providing any such services, including but not  limited to, the PayLater Service.
 
 We will release information about you when required by law to do so. Otherwise, we may release information about you, at our sole discretion, when we believe, that such release of information is reasonably necessary or appropriate to:
 
