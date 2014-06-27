@@ -1,341 +1,143 @@
-<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231112207id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphacoders.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628013213id_/http%3A//alphacoders.com/site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <title>
-            Alpha Coders - Privacy Policy        </title>
-        <meta name="keywords" content="art,wallpaper,wallpapers,backgrounds,quote,quotes,entertainment">
+    <title>Alpha Coders - Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="msvalidate.01" content="CDC5D0806A30A9E50935102A556A992F">
+    <!-- Bootstrap -->
+    <link href="http://alphacoders.com/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">    <link href="http://static.alphacoders.com/bootstrap-3.1.1/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
-        <meta name="description" content="Enjoy art, wallpapers, and quotes!">
-        <meta charset="utf-8">
-        <link href="http://alphacoders.com/css/site_new.css" rel="stylesheet" type="text/css"><link href="http://static.alphacoders.com/site.css" rel="stylesheet" type="text/css"><link href="http://static.alphacoders.com/bootstrap_test/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="http://alphacoders.com/favicon.ico" rel="shortcut icon" type="image/ico">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="http://static.alphacoders.com/bootstrap-3.1.1/assets/js/html5shiv.js"></script>
+    <script src="http://static.alphacoders.com/bootstrap-3.1.1/assets/js/respond.min.js"></script>
+    <![endif]-->
 
-        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.alphacoders.com/jquery.js"></script>
-        <script type="text/javascript" src="http://static.alphacoders.com/ckeditor/ckeditor.js"></script>
-        <script type="text/Javascript" src="http://static.alphacoders.com/jquery.masonry.min.js"></script>
+    <style>
+        .blue {
+            color:#279AEB;
+        }
 
- <script type="text/javascript">
+        .border_blue {
+            background-color: #242424;
+            border-radius: 5px;
+            border-width: 5px;
+            padding: 5px;
+            margin-bottom: 30px;
+            -webkit-box-shadow: 5px 5px 0px rgba(66, 101, 255, 0.63);
+            -moz-box-shadow: 5px 5px 0px rgba(66, 101, 255, 0.63);
+            box-shadow: 5px 5px 0px rgba(66, 101, 255, 0.63);
+        }
 
-    function addArtTagForm(art_id)
-    {
-        $.post("http://alphacoders.com/arts/tag_form",
-            {  art_id: art_id },
-             function(data){
-                    $("#" + art_id + "_tag").html(data);
-         });
-    }
+        .dark {
+            color:#373A3C;
+        }
 
-    function addTagForm(wallpaper_id)
-    {
-        $.post("http://alphacoders.com/wallpapers/tag_form",
-            {  wallpaper_id: wallpaper_id },
-             function(data){
-                    $("#" + wallpaper_id + "_tag").html(data);
-         });
-    }
+        .sidebar-left   { padding-left: 320px; }
 
-    function fan_user(id)
-    {
-        $.post("http://alphacoders.com/users/add_fan",
-            { id: id },
-             function(data){
-                    $("#fan_user").html(data);
-         });
-    }
+        .white {
+            color:#D9D9D9;
+        }
 
-    function favoriteWallpaper(id, display, item_id) {
-        $.post("http://alphacoders.com/wallpapers/favorite", { id: id},
-            function(data) {
-                $("#favorite_" + item_id).html(data);
-            });
-    }
+        a.light-blue {
+            background-color:#C5D7EB;
+        }
 
-    function favoriteArt(id, item_id) {
-        $.post("http://alphacoders.com/arts/favorite", { id: id},
-        function(data) {
-            $("#favorite_art_" + item_id).html(data);
-        });
-    }
+        a.light-blue:hover {
+            background-color:white;
+        }
 
-    function favoritePic(id, item_id) {
-        $.post("http://alphacoders.com/pictures/favorite", { id: id},
-            function(data) {
-                $("#favorite_pic_" + item_id).html(data);
-            });
-    }
+        body.main {
+            margin:0px;
+            background: #ACCDED url("http://wall.alphacoders.com/tile.jpg") repeat 0 0;
+        }
 
-    function rateArt(rating, art_id, mode, item_id)
-    {
-            $.post("http://alphacoders.com/arts/rate", { rating: rating, id: art_id, mode: mode },
-             function(data){
-                    $("#rate_" + item_id).html(data);
-         });
-    }
+        div.below-nav-tabs {
+            width:100%; height:25px; border-top-width:3px; border-top-color:white; border-style:solid; border-bottom-width:0px; border-left-width:0px; border-right-width:0px; background-image: linear-gradient(to bottom, rgba(255,255,255,.25), rgba(255,255,255,0));
+        }
+        
+        div.center {
+            text-align: center;
+        }
 
-    function rateAvatar(rating, avatar_id, mode, item_id)
-    {
-            $.post("http://alphacoders.com/avatar/rate", { rating: rating, id: avatar_id, mode: mode },
-             function(data){
-                    $("#rate_" + item_id).html(data);
-         });
-    }
+        ol.breadcrumb {
+            margin-left: 15px;
+            margin-right: 15px;
+            border-radius: 0px 0px 5px 5px;
+            background-color: #f8f8f8;
+            box-shadow: 0 8px 6px -6px #777;
+        }
 
-    function favoriteAvatar(avatar_id, item_id) {
-        $.post("http://alphacoders.com/avatars/favorite", { id: avatar_id},
-            function(data) {
-                $("#favorite_" + item_id).html(data);
-            });
-    }
+    </style>
+    <meta charset="utf-8">
 
-    function ratePhoto(rating, photo_id, mode, item_id)
-    {
-            $.post("http://alphacoders.com/photos/rate", { rating: rating, id: photo_id, mode: mode },
-             function(data){
-                    $("#rate_" + item_id).html(data);
-         });
-    }
-
-    function rateWallpaper(rating, wallpaper_id, mode, item_id) {
-        $.post("http://alphacoders.com/wallpapers/rate", { rating: rating, id: wallpaper_id, mode: mode},
-            function(data) {
-                $("#rate_" + item_id).html(data);
-        });
-    }
-
-    function rateComment(rating, comment_id) {
-        $.post("http://alphacoders.com/comments/rate", { rating: rating, id: comment_id},
-            function(data) {
-                $("#rate_" + comment_id).html(data);
-            });
-    }
-
-    function unfan_user(id)
-    {
-        $.post("http://alphacoders.com/users/delete_fan",
-        { id: id},
-        function(data) {
-            $("#fan_user").html(data);
-        });
-    }
-
-    function submitArtTags(art_id)
-    {
-            var tags = $("input#new_tag").val();
-            $.post("http://alphacoders.com/arts/submit_tags",
-            { tag: tags, id: art_id },
-             function(data){
-                    $("#" + art_id + "_tag").html(data);
-         });
-    }
-
-    function submitTags(wallpaper_id)
-    {
-            var tags = $("input#new_tag").val();
-            $.post("http://alphacoders.com/wallpapers/submit_tags",
-            { tag: tags, id: wallpaper_id },
-             function(data){
-                    $("#" + wallpaper_id + "_tag").html(data);
-         });
-    }
-
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        function rateComment(rating, comment_id) {
+            $.post("http://alphacoders.com/comments/rate", { rating: rating, id: comment_id},
+                function(data) {
+                    $("#rate_" + comment_id).html(data);
+                });
+        }
     </script>
 
+    <script type="text/javascript">
 
-<script type="text/javascript">
-    function reDoJavascript() {
-//To switch directions up/down and left/right just place a "-" in front of the top/left attribute
-            //Vertical Sliding
-            $('.boxgrid.slidedown').hover(function(){
-                    $(".cover", this).stop().animate({top:'-260px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px'},{queue:false,duration:300});
-            });
-            //Horizontal Sliding
-            $('.boxgrid.slideright').hover(function(){
-                    $(".cover", this).stop().animate({left:'325px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({left:'0px'},{queue:false,duration:300});
-            });
-            //Diagnal Sliding
-            $('.boxgrid.thecombo').hover(function(){
-                    $(".cover", this).stop().animate({top:'260px', left:'325px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px', left:'0px'},{queue:false,duration:300});
-            });
-            //Partial Sliding (Only show some of background)
-            $('.boxgrid.peek').hover(function(){
-                    $(".cover", this).stop().animate({top:'90px'},{queue:false,duration:160});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
-            });
-            //Full Caption Sliding (Hidden to Visible)
-            $('.boxgrid.captionfull').hover(function(){
-                    $(".cover", this).stop().animate({top:'160px'},{queue:false,duration:160});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'260px'},{queue:false,duration:160});
-            });
-            //Caption Sliding (Partially Hidden to Visible)
-             $('.boxgrid.caption').hover(function(){
-            var the_top = parseInt($(this).attr('id')) - 63;
-            var the_top_hidden = the_top + 43;
-            var the_top_string = String(the_top + "px");
-            var the_top_hidden_string = String(the_top_hidden + "px");
-            $(".cover", this).stop().animate({top: the_top_string },{queue:false,duration:160});
-    }, function() {
-            var the_top = parseInt($(this).attr('id')) - 63;
-            var the_top_hidden = the_top + 63;
-            var the_top_string = String(the_top + "px");
-            var the_top_hidden_string = String(the_top_hidden + "px");
-            $(".cover", this).stop().animate({top: the_top_hidden_string },{queue:false,duration:160});
-    });
-    }
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-281956-21']);
+        _gaq.push(['_trackPageview']);
 
-    $(document).ready(function(){
-            //To switch directions up/down and left/right just place a "-" in front of the top/left attribute
-            //Vertical Sliding
-            $('.boxgrid.slidedown').hover(function(){
-                    $(".cover", this).stop().animate({top:'-260px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px'},{queue:false,duration:300});
-            });
-            //Horizontal Sliding
-            $('.boxgrid.slideright').hover(function(){
-                    $(".cover", this).stop().animate({left:'325px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({left:'0px'},{queue:false,duration:300});
-            });
-            //Diagnal Sliding
-            $('.boxgrid.thecombo').hover(function(){
-                    $(".cover", this).stop().animate({top:'260px', left:'325px'},{queue:false,duration:300});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px', left:'0px'},{queue:false,duration:300});
-            });
-            //Partial Sliding (Only show some of background)
-            $('.boxgrid.peek').hover(function(){
-                    $(".cover", this).stop().animate({top:'90px'},{queue:false,duration:160});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
-            });
-            //Full Caption Sliding (Hidden to Visible)
-            $('.boxgrid.captionfull').hover(function(){
-                    $(".cover", this).stop().animate({top:'160px'},{queue:false,duration:160});
-            }, function() {
-                    $(".cover", this).stop().animate({top:'260px'},{queue:false,duration:160});
-            });
-            //Caption Sliding (Partially Hidden to Visible)
-             $('.boxgrid.caption').hover(function(){
-            var the_top = parseInt($(this).attr('id')) - 63;
-            var the_top_hidden = the_top + 43;
-            var the_top_string = String(the_top + "px");
-            var the_top_hidden_string = String(the_top_hidden + "px");
-            $(".cover", this).stop().animate({top: the_top_string },{queue:false,duration:160});
-    }, function() {
-            var the_top = parseInt($(this).attr('id')) - 63;
-            var the_top_hidden = the_top + 63;
-            var the_top_string = String(the_top + "px");
-            var the_top_hidden_string = String(the_top_hidden + "px");
-            $(".cover", this).stop().animate({top: the_top_hidden_string },{queue:false,duration:160});
-    });
-			});
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
- function add_ads() {
-
-  $.post("http://alphacoders.com/site/ads_side",
-        { },
-        function(data) {
-            $(".needs_ads").html(data);
-            $(".needs_ads").removeClass("needs_ads");
-        });
-
- }
-		</script>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-281956-21']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-    </head>
+    </script>
+</head>
 <body class="main">
-
-
-<style type="text/css">
-// Fluid layouts (left aligned, with sidebar, min- & max-width content)
-.fluid-container {
-  position: relative;
-  min-width: 940px;
-  padding-left: 0px;
-  padding-right: 0px;
-  .clearfix();
-}
-
-// Sidebars (left and right options)
-.fluid-sidebar {
-  width: 300px;
-  margin: 0 0px 0px;
-}
-.sidebar-left   { padding-left: 320px; }
-.sidebar-right  { padding-right: 260px; }
-
-// Float the sidebars accordingly
-.sidebar-left .fluid-sidebar   { float: left; margin-left: -240px; }
-.sidebar-right .fluid-sidebar  { float: right; margin-right: -240px; }
-
-// The main content area
-.fluid-content {
-  float: left;
-  width: 100%;
-}
-
-
-.collapse {
-overflow: hidden !important;
-}
-
-</style>
-
-
-
-
-  <div class="navbar navbar-inverse" style="margin-bottom:0px;">
-  <div class="navbar-inner">
-    <div class="container-fluid">
-
-        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+<nav class="navbar navbar-inverse" role="navigation" style="border-radius:0px; margin-bottom:0px;">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-        </a>
+        </button>
+        <a data-toggle="collapse" data-target="#alpha_coders_content" class="navbar-brand" href="#"><span class="blue">Alpha Coders</span> <i class="icon-caret-down"></i></a>
+    </div>
 
-        <ul class="nav">
-            <li class="dropdown" data-toggle="collapse" data-target="#alpha_coders_content"><a class="dropdown-toggle brand" href="#"><i class="icon-home white"></i> Alpha Coders <span class="caret"></span></a></li>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+
+
+        <ul class="nav navbar-nav">
+            <li data-toggle="collapse" data-target="#submit_content"><a href="#"><i class="icon-circle-arrow-up white"></i> Submit</a></li>
+
+                <li data-toggle="collapse" data-target="#cool_stuff"><a href="#"><i class="icon-gift white"></i> Cool Stuff</a></li>
+
+
         </ul>
 
-        <!-- Everything you want hidden at 940px or less, place within here -->
-        <div class="nav-collapse">
-            <ul class="nav">
-                <li class="dropdown" data-toggle="collapse" data-target="#submit_content"><a class="dropdown-toggle" href="#"><i class="icon-circle-arrow-up white"></i> Submit <span class="caret"></span></a></li>
-                <li class="dropdown" data-toggle="collapse" data-target="#cool_stuff"><a class="dropdown-toggle" href="#"><i class="icon-gift white"></i> Cool Stuff <span class="caret"></span></a></li>
-            </ul>
 
-        </div> <!--/.nav-collapse -->
+        <form class="navbar-form navbar-left" role="search" action="http://alphacoders.com/site/search" method="POST">
+            <div class="form-group">
+                <input type="text" name="search" class="form-control" placeholder="Search" style="width:85px;">
+            </div>
+            <button type="submit" class="btn btn-default"><i class="icon-search"></i></button>
+        </form>
 
-                    <p class="navbar-text pull-right"><a href="http://alphacoders.com/users/login">Login</a> or <a href="http://alphacoders.com/users/register">Register</a>
-                </p></div>
-  </div>
-</div>
+        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="http://alphacoders.com/users/login">Login</a></li>
+                <li><a href="http://alphacoders.com/users/register">Register</a></li>
+                
+        </ul>
+    </div><!-- /.navbar-collapse -->
+</nav>
 
-
-
-<div id="alpha_coders_content" class="collapse" style="width:90%;  padding-left:5%; padding-right:5%; background-color:#171717;">
+<div id="alpha_coders_content" class="collapse" style="background-color:#171717;">
+    <br>
     <h3 class="white">Alpha Coders Content:</h3>
     <ul class="nav nav-pills">
         <li class="active"><a href="http://alphacoders.com">Alpha Coders Home</a></li>
@@ -357,24 +159,28 @@ overflow: hidden !important;
     </ul>
 </div>
 
-<div id="submit_content" class="collapse" style="width:100%; padding-left:10px; background-color:#171717;">
+
+<div id="submit_content" class="collapse" style="background-color:#171717;">
+    <br>
     <h4 class="white">Submit Things, Earn Points, Have Fun.</h4>
     <ul class="nav nav-pills">
-        <li><a href="http://alphacoders.com/site/submit">Wallpapers and Backgrounds</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Art</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Photography</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Animated Gifs</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Memes</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Forum Avatars</a></li>
+        <li><a href="http://alphacoders.com/site/submit/wallpaper">Wallpapers and Backgrounds</a></li>
+
+        <li><a href="http://alphacoders.com/site/submit/art">Art</a></li>
+        <li><a href="http://alphacoders.com/site/submit/photo">Photography</a></li>
+        <li><a href="http://alphacoders.com/site/submit/gif">Animated Gifs</a></li>
+        <li><a href="http://alphacoders.com/site/submit/meme">Memes</a></li>
+        <li><a href="http://alphacoders.com/site/submit/avatar">Forum Avatars</a></li>
         <li><a href="http://quote.alphacoders.com/quotes/submit">Quotes and Sayings</a></li>
-        <li><a href="http://alphacoders.com/site/submit">Pictures and Images</a></li>
+        <li><a href="http://alphacoders.com/site/submit/pic">Pictures and Images</a></li>
     </ul>
 </div>
 
-<div id="cool_stuff" class="collapse" style="width:100%; padding-left:10px; background-color:#171717;">
+<div id="cool_stuff" class="collapse" style="background-color:#171717;">
+    <br>
     <h3 class="white">We Have Monthly Contests and Prizes</h3>
-    <ul class="nav nav-pills nav-stacked"><li class="active"><a href="http://alphacoders.com/contests"><img src="http://static.alphacoders.com/raffle-50-Dragon-Ball.png">            It's a Raffle! For this lovely:
-            Dragon Ball            </a></li>
+    <ul class="nav nav-pills nav-stacked"><li class="active"><a href="http://alphacoders.com/contests"><img src="http://static.alphacoders.com/raffle-50-Big-Red-Button-USB-Powered-Rage-Relief-Device.png">            It's a Raffle! For this lovely:
+            Big Red Button - USB Powered Rage Relief Device            </a></li>
         </ul>    <ul class="nav nav-pills">
         <li><a href="http://alphacoders.com/contests/current_raffle">Anyone with points can enter!</a></li>
         <li><a href="http://alphacoders.com/contests/current_raffle"><i class="icon-arrow-up white"></i> Earn Points By Participating!</a></li>
@@ -394,269 +200,11 @@ overflow: hidden !important;
 </div>
 
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
 
-
-
-
-
-
-
-
-
-
-<ul class="nav nav-tabs">
-    <li><a href="http://alphacoders.com/">Featured Collections</a></li>
-    <li><a href="http://alphacoders.com/site/popular">Popular Submissions This Week</a></li>
-</ul>
-
-
-<div class="fluid-container sidebar-left clearfix">
-
-    <div class="fluid-sidebar" style="width:300px; margin-left:-310px; float:left;">
-
-    <!-- SIDE CONTENT -->
-        <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-    </script>
-
-    <script type="text/javascript">
-        googletag.cmd.push(function() {
-            googletag.defineSlot('/4594367/alpha_coders_top_left', [300, 250], 'div-gpt-ad-1367767170029-0').addService(googletag.pubads());
-            googletag.enableServices();
-        });
-    </script>
-
-    <!-- alpha_coders_top_left -->
-    <div id="div-gpt-ad-1367767170029-0" style="width:300px; height:250px;">
-        <script type="text/javascript">
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367767170029-0'); });
-        </script>
-    </div>
-    <br>
-
-    
-
-
-<div class="well well-small sidebar-nav">
-
-    <ul class="nav nav-list">
-        <li class="nav-header">Sorting User Activity</li>
-    </ul>
-
-    <form action="http://alphacoders.com/site/privacy" method="post" accept-charset="utf-8">    <table style="width:98%; margin-left:auto; margin-right:auto;">
-
-        <tbody><tr>
-            <td>
-               View
-            </td>
-            <td>
-                <select name="view" id="view" class="input-small">
-                    <option value="default">Default</option>
-                    <option value="rows" <div="" style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
-
-A PHP Error was encountered
-
-Severity: Notice
-Message:  Undefined variable: view
-Filename: site/side.php
-Line Number: 54
-
-&gt;Rows</option>
-                </select>
-
-            </td>
-        </tr>
-    </tbody></table>
-    <center>
-        <button type="submit" class="btn btn-success">Refresh</button>
-    </center>
-    </form></div>
-
-<div class="well well-small sidebar-nav">
-    <ul class="nav nav-tabs">
-      <li class="active"><a href="#home" data-toggle="tab">Our Content</a></li>
-      <li><a href="#profile" data-toggle="tab">Popular</a></li>
-    </ul>
-
-    <div class="tab-content">
-      <div class="tab-pane active" id="home">
-             <ul class="nav nav-list">
-                <li class="nav-header">Our Content</li>
-                <li><a href="http://wall.alphacoders.com">Wallpapers</a></li>
-                <li><a href="http://art.alphacoders.com">Art</a></li>
-                <li><a href="http://photos.alphacoders.com">Photography</a></li>
-                <li><a href="http://movies.alphacoders.com">Movies</a></li>
-                <li><a href="http://tvshows.alphacoders.com">TV Shows</a></li>
-                <li><a href="http://gifs.alphacoders.com">Animated Gifs</a></li>
-                <li><a href="http://memes.alphacoders.com">Memes</a></li>
-                <li><a href="http://avatars.alphacoders.com">Forum Avatars</a></li>
-                <li><a href="http://quote.alphacoders.com">Quotes</a></li>
-                <li><a href="http://games.alphacoders.com">Games</a></li>
-                <li><a href="http://fbcovers.alphacoders.com">Facebook Covers</a></li>
-                <li><a href="http://img.alphacoders.com">Image Hosting</a></li>
-                <li><a href="http://neo.alphacoders.com">Neo Colony (Custom Communities)</a></li>
-                <li><a href="http://ping.alphacoders.com">UpPing (Website Monitoring)</a></li>
-            </ul>
-      </div>
-        <div class="tab-pane" id="profile">
-            <ul class="nav nav-list">
-
-                <li><center><a href="http://alphacoders.com/collections">View All Collections</a></center></li>                    <li>
-                    <a href="http://alphacoders.com/franchises/view/384">Cats</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/386">Flowers</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/275">Bleach</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/365">Birds</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/368">Dogs</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/296">Cities</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/21">Ford</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/301">Buildings</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/47">Star Wars</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/542">Military Aircrafts</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/39">Batman</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/81">Pokémon</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/72">Star Trek</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/276">Ferrari</a>                    </li>
-                                        <li>
-                    <a href="http://alphacoders.com/franchises/view/285">Mercedes-Benz</a>                    </li>
-                    <li><center><a href="http://alphacoders.com/collections">View All Collections</a></center></li>
-            </ul>
-        </div>
-    </div>
-
-    <script>
-      $(function () {
-            $('#myTab a:last').tab('show');
-      })
-    </script>
-
-
-</div>
-<!-- SIDE CONTENT -->
-    <script type="text/javascript">
-        var googletag = googletag || {};
-        googletag.cmd = googletag.cmd || [];
-        (function() {
-            var gads = document.createElement('script');
-            gads.async = true;
-            gads.type = 'text/javascript';
-            var useSSL = 'https:' == document.location.protocol;
-            gads.src = (useSSL ? 'https:' : 'http:') +
-                '//www.googletagservices.com/tag/js/gpt.js';
-            var node = document.getElementsByTagName('script')[0];
-            node.parentNode.insertBefore(gads, node);
-        })();
-    </script>
-
-    <script type="text/javascript">
-        googletag.cmd.push(function() {
-            googletag.defineSlot('/4594367/alpha_coders_middle_left', [300, 250], 'div-gpt-ad-1367771035571-0').addService(googletag.pubads());
-            googletag.enableServices();
-        });
-    </script>
-
-    <!-- alpha_coders_middle_left -->
-    <div id="div-gpt-ad-1367771035571-0" style="width:300px; height:250px;">
-        <script type="text/javascript">
-            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1367771035571-0'); });
-        </script>
-    </div>
-    <br>
-    
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Our Cool Stuff</li>
-    </ul>
-    <i class="icon-leaf"></i> <a href="http://alphacoders.com/site/helping_others">Your submissions help the environment!</a>    <br>
-    <img src="http://alphacoders.com/images/present.png" alt="">    Every month we have a raffles for cool stuff!
-    <span class="title_big"></span><br> <a href="http://alphacoders.com/contests/current_raffle">Dragon Ball</a></div>
-
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Our Community</li>
-        <li><a href="http://alphacoders.com/users/top">Top Users</a></li>
-        <li><a href="http://alphacoders.com/site/moderators">Our Moderators</a></li>
-        <li><a href="http://alphacoders.com/users/index">User Index</a></li>
-    </ul>
-</div>
-
-
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Follow Us!</li>
-    </ul>
-<a href="https://twitter.com/alphacoders" class="twitter-follow-button" data-show-count="true" data-width="280px">Follow @alphacoders</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-                <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Alpha-Coders/124560844236151" scrolling="no" frameborder="0" style="border:none; width:300px; height:65px"></iframe>
-               
-</div>
-
-
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Earn Points</li>
-    </ul>
-      Once you register you will earn Alpha Coders Points (ACP). You can then use these points in our
-      monthly raffle for cool stuff!
-      <br>
-      Earning points is as simple as commenting on a piece you enjoy!
-
-    
-</div>
-
-
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Accepting Moderators</li>
-    </ul>
-              <span class="content_text">
-              Moderators are an essential part of Alpha Coders, and get extra points for helping out. If you would like to be a moderator send an email with why you would be a good moderator to admin@alphacoders.com
-              <br>
-             
-            </span>
-                        
- </div>
-
-
-<div class="well well-small">
-    <ul class="nav nav-list">
-        <li class="nav-header">Feature Requests</li>
-    </ul>
-        <a href="http://alphacoders.com/site/feature_requests">Current Feature Requests</a></div>
-
-
-
-    </div>
-   
- <div class="fluid-content" style="float:left; width:100%;">
-  <div class="row-fluid">
-      <div class="span12">
-
-<table class="content_white"><tbody><tr><td>
+            <div class="well well-sm">
             <center><h2>
                     Alpha Coders Privacy Policy
                 </h2> </center>
@@ -683,61 +231,74 @@ If you require any more information or have any questions about our privacy poli
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.networkadvertising.org">here</a>.
 
 </p>
-        </span></td></tr></tbody></table>
 
-      </div>
+      </span></div>
       </div>
   </div>
 </div><div class="footer" style="margin:0 auto; background-color:black; padding: 20px;">
-<h3 class="white">Our Websites</h3>
+    <h3 class="white">Our Websites</h3>
 
-<ul class="nav nav-pills">
-    <li class="active">
-        <a href="http://alphacoders.com">Alpha Coders Home</a>    </li>
-  <li>
-    <a href="http://wall.alphacoders.com">Wallpaper Abyss</a>  </li>
-  <li><a href="http://art.alphacoders.com">Art Abyss</a></li>
-  <li><a href="http://photos.alphacoders.com">Photography Abyss</a></li>
-  <li><a href="http://gifs.alphacoders.com">Gif Abyss</a></li>
-  <li><a href="http://memes.alphacoders.com">Meme Abyss</a></li>
-  <li><a href="http://avatars.alphacoders.com">Avatar Abyss</a></li>
-  <li><a href="http://quote.alphacoders.com">Quote Abyss</a></li>
-  <li><a href="http://games.alphacoders.com">Game Abyss</a></li>
-  <li><a href="http://blogs.alphacoders.com">Blog Abyss</a></li>
-  <li><a href="http://img.alphacoders.com">Img Abyss</a></li>
-  <li><a href="http://forum.alphacoders.com">Our Forums</a></li>
-  <li><a href="http://neo.alphacoders.com">Neo Colony</a></li>
-  <li><a href="http://ping.alphacoders.com">UpPing</a></li>
-  <li><a href="http://alphacoders.com/incubators">Beta Websites</a></li>
-</ul>
-
-<h3 class="white">Alpha Coders Network Links</h3>
-<ul class="nav nav-pills">
-    <li>
-        <a href="http://alphacoders.com/site/faq">FAQ</a>    </li>
+    <ul class="nav nav-pills">
+        <li class="active">
+            <a href="http://alphacoders.com">Alpha Coders Home</a>        </li>
         <li>
-        <a href="http://alphacoders.com/site/privacy">Privacy Policy</a>    </li>
+            <a href="http://wall.alphacoders.com">Wallpaper Abyss</a>        </li>
+        <li><a href="http://art.alphacoders.com">Art Abyss</a></li>
+        <li><a href="http://photos.alphacoders.com">Photography Abyss</a></li>
+        <li><a href="http://gifs.alphacoders.com">Gif Abyss</a></li>
+        <li><a href="http://memes.alphacoders.com">Meme Abyss</a></li>
+        <li><a href="http://avatars.alphacoders.com">Avatar Abyss</a></li>
+        <li><a href="http://quote.alphacoders.com">Quote Abyss</a></li>
+        <li><a href="http://games.alphacoders.com">Game Abyss</a></li>
+        <li><a href="http://blogs.alphacoders.com">Blog Abyss</a></li>
+        <li><a href="http://img.alphacoders.com">Img Abyss</a></li>
+        <li><a href="http://forum.alphacoders.com">Our Forums</a></li>
+        <li><a href="http://neo.alphacoders.com">Neo Colony</a></li>
+        <li><a href="http://ping.alphacoders.com">UpPing</a></li>
+        <li><a href="http://alphacoders.com/incubators">Beta Websites</a></li>
+    </ul>
+
+    <h3 class="white">Alpha Coders Network Links</h3>
+    <ul class="nav nav-pills">
         <li>
-        <a href="http://alphacoders.com/site/tos">Terms Of Service</a>    </li>
+            <a href="http://alphacoders.com/site/faq">FAQ</a>        </li>
         <li>
-        <a href="http://alphacoders.com/site/acceptable_use">Acceptable Use</a>    </li>
-    <li>
-        <a href="http://alphacoders.com/site/etiquette">Etiquette</a>    </li>
-    <li>
-        <a href="http://alphacoders.com/site/advertising">Advertise With Us</a>    </li>
-</ul>
+            <a href="http://alphacoders.com/site/privacy">Privacy Policy</a>        </li>
+        <li>
+            <a href="http://alphacoders.com/site/tos">Terms Of Service</a>        </li>
+        <li>
+            <a href="http://alphacoders.com/site/acceptable_use">Acceptable Use</a>        </li>
+        <li>
+            <a href="http://alphacoders.com/site/etiquette">Etiquette</a>        </li>
+        <li>
+            <a href="http://alphacoders.com/site/advertising">Advertise With Us</a>        </li>
+    </ul>
 
-      <center><h5 class="white">Website text and design is copyright 2012 Alpha Coders.<br>
-          All submitted content remains copyright its original copyright holder | <a href="http://alphacoders.com/site/copyright">DMCA Copyright Violation</a><br>Images are for personal, non commercial use.</h5></center>
+    <center><h5 class="white">Website text and design is copyright 2014 Alpha Coders.<br>
+            All submitted content remains copyright its original copyright holder | <a href="http://alphacoders.com/site/copyright">DMCA Copyright Violation</a><br>Images are for personal, non commercial use.</h5></center>
 
-<center><span class="white">Page Rendered In: 0.0151 Seconds&nbsp;|&nbsp;This page is using: 1.42MB of memory.</span></center></div>
-
-      <br>      
-    
-  
+    <center><span class="white">Page Rendered In: 0.0117 Seconds&nbsp;|&nbsp;This page is using: 1.39MB of memory.</span></center></div>
 
 
-<script src="http://alphacoders.com/bootstrap/js/bootstrap.min.js"></script>
 
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="http://static.alphacoders.com/jquery-1.11.0.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://static.alphacoders.com/bootstrap-3.1.1/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript">
+
+    $('[data-toggle="popover"]').popover();
+
+    function rateLink(rating, link_id) {
+        $.post("http://alphacoders.com/links/rate", { rating: rating, id: link_id},
+            function(data) {
+                $("#link_" + link_id).html(data);
+            });
+    }
+</script>
 
 </body></html>
