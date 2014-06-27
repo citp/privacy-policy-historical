@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228133246id_/http%3A//www.slated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slated.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015819id_/http%3A//www.slated.com/privacy) for the most accurate reproduction.*
 
 # Slated › Privacy Policy
 
@@ -62,7 +62,4 @@ By accessing and using the Services and/or Site through which you may provide in
 _Contacting Us_. If you have any questions about our practices or this Privacy Policy, please contact us at:
 
 privacy@slated.com  
-Slated, Inc.  
-36 East 20th Street,  
-Third Floor  
-New York, NY 10003 
+
