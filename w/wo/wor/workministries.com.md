@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workministries.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021703id_/http%3A//workministry.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workministries.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014620id_/http%3A//workministry.com/privacy.shtml) for the most accurate reproduction.*
 
 # Work Ministry - Privacy Statement
 
