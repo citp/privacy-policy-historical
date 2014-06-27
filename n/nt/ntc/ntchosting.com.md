@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221004130id_/http%3A//www.ntchosting.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627192850id_/http%3A//www.ntchosting.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # NTC Hosting Privacy Policy
 
