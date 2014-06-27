@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829030249id_/http%3A//www.courts.com.sg/Our-Policies/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627090759id_/http%3A//www.courts.com.sg/Our-Policies/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy-Policy
 
@@ -40,7 +40,7 @@ We shall take reasonable measures to ensure the confidentiality and security of 
 
 ##  7   Your choice
 
-You may choose to stop receiving or change the frequency of email, direct mail, phone and mobile marketing communications. You can update and correct your personal information anytime using My Account.
+You may choose to stop receiving or change the frequency of email, direct mail, phone and mobile marketing communications. You can update and correct your personal information anytime using My Account. Whenever we send you any information via enewletters, we will include instructions on how to unsubscribe and a one click link to do so.
 
 ##  8   Important information
 
@@ -52,6 +52,4 @@ As Courts continues to improve the services, products and the features we provid
 
 ##  10   How to contact us
 
-To give us your comments or withdraw your consent on the use and disclosure of such submitted information in accordance with this Privacy Policy, please write to us at [ecourts@Courts.com.sg](mailto:privacy@courts.com.sg).
-
-©2013 Courts (Singapore) Pte Ltd. All rights reserved.
+To give us your comments or withdraw your consent on the use and disclosure of such submitted information in accordance with this Privacy Policy. Please write to us at [ecourts@Courts.com.sg](mailto:privacy@courts.com.sg), or 50 Tampines North Drive 2, (S) 528766, or call us at 1800 222 6868 for any assistance you require.
