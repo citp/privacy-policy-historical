@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2013-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126202446id_/http%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627100142id_/http%3A//olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy</title>
@@ -107,9 +107,10 @@
 	            <li><a href="/oai_newsevents.asp">News &amp; Events</a>
 		            <ul>
 			            <li><a href="/corporate/corp_presscenter.asp">Press Center</a></li>
+			            <li><a href="/corporate/corp_qrius.asp">Olympus Sponsorship</a></li>
 		            </ul>
 	            </li>
-	            <li><a href="/corporate/social_responsibility/">Social Responsiblity</a>
+	            <li><a href="/corporate/social_responsibility/">Social Responsibility</a>
 		            <ul>
 						<li><a href="/corporate/social_responsibility/">Overview</a></li>
 			            <li><a href="/corporate/social_responsibility/community_involvement.asp">Community Involvement</a></li>
@@ -146,7 +147,7 @@
 					<ul>
 			            <li><a href="/corporate/corp_headquarters.asp">Corporate Headquarters</a></li>
 						<li><a href="/corporate/corp_contactus.asp">Contact Us</a></li>
-			            <li><a href="/corporate/image_request.asp">Request Images</a></li>
+			            <li><a href="/corporate/image_request.asp">Request Image/Video</a></li>
 		            </ul>					
 	            </li>
 			</ul>
@@ -289,7 +290,7 @@
 	<div id="footer-content">
 	
 		<div id="sponsorship" class="rounded">
-			<a href="http://www.getolympus.com" target="_blank"><img src="/cpg_section/images/product/template/olympus_store_chip.gif" alt="Olympus Store"></a>
+			<a href="http://www.getolympus.com" target="_blank"><img src="/cpg_section/images/product/template/olympus_store_chip_6_14.jpg" alt="Olympus Store"></a>
 		</div>
 
 		<div id="links">
@@ -304,6 +305,7 @@
 
 				<li class="sectionHead"><a href="/oai_newsevents.asp">News &amp; Events</a></li>
 			        <li><a href="/corporate/corp_presscenter.asp">Press Center</a></li>
+			        <li><a href="/corporate/corp_qrius.asp">Olympus Sponsorship</a></li>
 			</ul>
 			<ul>
 				<li class="sectionHead"><a href="/corporate/social_responsibility/">Social Responsiblity</a></li>
@@ -353,9 +355,9 @@
 
 	</div>
 	<ul id="copyright">
-		<li>© 2013 Olympus America Inc.</li>
+		<li>© 2014 Olympus America Inc.</li>
 		<li>|</li>
-		<li>November 26, 2013</li>
+		<li>June 27, 2014</li>
 		<li>|</li>
 		<li><a href="/oai_privacypolicy.asp">Privacy Statement</a></li>
 		<li>|</li>
@@ -369,22 +371,37 @@
 </div>
 
 
-<script type="text/javascript"> 
+<script type="text/javascript">
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-21426118-1']);
 _gaq.push(['_trackPageview']);
 
-(function() { 
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 
 
 
 (function(d){function e(a){try{var b=!1,a=a.match(g),a=a[1],b=h.test(a);b===!0&&_gaq.push(["_trackPageview",a])}catch(c){}}function j(a){return e(a.target.href)}function f(a){var b;if(!a)a=window.event;if(a.target)b=a.target;else if(a.srcElement)b=a.srcElement;if(b.nodeType==3)b=b.parentNode;return e(b.href)}var c=!1,h=/\.(exe|dmg|pkg|tar|gz|zip|doc|docx|xls|xlsx|pdf|mp3){1}(\?|$)/i,g=/\.com(\/.+$)/i;if(typeof jQuery!=="undefined")jQuery(function(){jQuery("a").live("click",j)});else{d=document.addEventListener!==
 d;c=document.getElementsByTagName("a");for(i=0;i<c.length;i++)d==!0?c[i].addEventListener("click",f,!1):c[i].attachEvent("onclick",f)}})();var omnitureShim=function(){this.linkTrackVars=this.pageName="";this.t=function(){_gaq.push(["_trackEvent","Omniture Call",this.pageName])}},s_gi=function(){return new omnitureShim},s=s_gi(),s_account="";
+
+/* trackVideo Click */
+
+    function trackVideoAction(str){
+		_gaq.push(['_trackEvent', 'Video', 'Play Clip', str]);
+	}
+
+	$("a.trackVideoAction").click(function(e) {
+		e.preventDefault();
+		var videoID = $(this).attr('id');
+		var videoArray = videoID.split('_');
+		trackVideoAction(videoArray[0]);
+	});
+
+/* END trackVideo Click */
 
 
 
