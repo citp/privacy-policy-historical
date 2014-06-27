@@ -1,24 +1,21 @@
-> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429141312id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060041id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy | The Time Now
 
-[](https://web.archive.org/ "World clock, world time zones | The Time Now")
-
   * [World Clock](https://web.archive.org/worldclock.php)
+  * Time Zones ▼
+
+
   * [Weather & Forecast](https://web.archive.org/weather/)
+  * Tools ▼
+
+
   * [Astronomy](https://web.archive.org/astronomy/)
 
 
-  * [Time Zone Converter](https://web.archive.org/time-zone-converter.php)
-  * [Meeting Planner](https://web.archive.org/meeting-planner.php)
-  * [Dialing Codes](https://web.archive.org/dialing-codes.php)
-  * [Distance Calculator](https://web.archive.org/distance-calculator.php)
-  * [Currency Converter](https://web.archive.org/currency-converter.php)
   * [Opening Times](https://web.archive.org/local-businesses.php)
 
 
-
-Search for city or country
 
 ## Privacy Policy
 
