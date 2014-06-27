@@ -1,19 +1,37 @@
-> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012165427id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricschedule.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627100751id_/http%3A//www.cricschedule.com/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CricSchedule.com
 
-1.) For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+Show navigation Hide navigation
 
-2.) We collect information volunteered by the consumer, such as survey information and/or site registrations.
+  * [HOME](https://web.archive.org/ "Home")
+  * [LIVE SCORE](https://web.archive.org/livescore.php "Live Score")
+  * [SERIES](https://web.archive.org/series.php "Series Schedule")
+    * [Cricket World Cup 2015 Schedule](https://web.archive.org/tournament/6/cricket-world-cup.html "Cricket World Cup 2015 Schedule")
+    * [India vs England Schedule](https://web.archive.org/series/198-india-tour-of-england-2014-schedule-fixtures.html "India tour of England 2014 Schedule")
+  * [CRICKET 2014](https://web.archive.org/year/2014.php "Cricket Schedule 2014")
+  * [TEAMS](https://web.archive.org/teams.php "Team Schedule")
+    * [Australia Fixtures](https://web.archive.org/team/australia.php "Australia Team Schedule")
+    * [Bangladesh Fixtures](https://web.archive.org/team/bangladesh.php "Bangladesh Team Schedule")
+    * [England Fixtures](https://web.archive.org/team/england.php "England Team Schedule")
+    * [India Fixtures](https://web.archive.org/team/india.php "India Team Schedule")
+    * [Pakistan Fixtures](https://web.archive.org/team/pakistan.php "Pakistan Team Schedule")
+    * [Sri Lanka Fixtures](https://web.archive.org/team/sri-lanka.php "Sri Lanka Team Schedule")
+  * [VENUES](https://web.archive.org/venues.php "Team Schedule")
+  * [MONTHLY](https://web.archive.org/month.php "Venue Schedule")
+  * [FORMAT](https://web.archive.org/format.php "Cricket Format")
+  * [NEWS](https://web.archive.org/news.php "Tour News")
+  * [FTP](https://web.archive.org/ftp.php "Future Tour Programs")
+  * [WIDGET](https://web.archive.org/p/subscribe.php "Email Subscription")
 
-3.) The information we collect is used for internal review and is then discarded, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, .
 
-4.) With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-5.) If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+  1. We don’t recognize any information about the domain or the mail ID of the people who visit our website.
+  2. We try to gather only that information which the visitors themselves want us to gather. For example- if they have to register to the site, they fill in the required blanks and it’s only that information that we keep with us.
+  3. We don’t misuse any of the information collected from our visitors. We use that only for the purpose of internal reviewing.
+  4. Whenever we make some changes in the layout of the website, we send the notification to our users about that. If they don’t want to receive those notifications, they can stop that by sending an email to the given address.
+  5. We have contracts with other companies whose ads we show on our website.  Now, when the visitors come on our website, the servers of those ad companies might collect information about their IP address.
+  6. If we are requested, we can provide the users whatever little information that we have about them in our database.
+  7. If you have a feeling that we are not acting in accordance to any of the policies mentioned above, feel free to contact us.
 
-6.) With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-7.) Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
-
-8.) If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
