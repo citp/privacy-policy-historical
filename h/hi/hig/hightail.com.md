@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105081122id_/https%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hightail.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013611id_/http%3A//www.hightail.com/aboutus/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Hightail
 
@@ -8,9 +8,9 @@ Thanks for being part of Hightail. Your privacy is very important to us and we t
 
 The right column features short explanations of parts of this Privacy Policy, which should help with your review of this Privacy Policy.
 
-You should also read our [Hightail Terms of Service](https://web.archive.org/aboutus/legal/terms-of-service "Terms of Service").
+You should also read our [Terms of Service](https://web.archive.org/aboutus/legal/terms-of-service "Terms of Service").
 
-###  [](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=a19618e0-d960-487d-b7f4-41c9c2d245f2 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Hightail,-Inc-/validation?rid=f2b78e0c-0d8e-48f9-8b77-846044bb0202 "TRUSTe European Safe Harbor certification")
 
 ### We know that legalese is hard, even for a lawyer. So, to make things a bit more human, we'll be giving you the quick notes version of each section.
 
@@ -26,9 +26,9 @@ You should also read our [Hightail Terms of Service](https://web.archive.org/abo
 
 **Personal Information:** Information about Hightail's users that can be used to contact or identify them.
 
-**Services:** All services, software and information provided to you by Hightail, including all Hightail online services and the Hightail website (www.hightail.com), as well as our mobile and client apps.
+**Services:** All services, software and information provided by Hightail, including all Hightail online services and the Hightail website (www.hightail.com), as well as our mobile and client apps.
 
-**User Files:** The digital files that you and others may upload, download, store, or send using our Services.
+**User Files:** The digital files that you and others may create, upload, download, store, or send using our Services.
 
 **We/Our/Us/Hightail:** Refers to Hightail, Inc. (formerly YouSendIt, Inc.)
 
@@ -36,7 +36,7 @@ You should also read our [Hightail Terms of Service](https://web.archive.org/abo
 
 Back to Top
 
-### Explanations of some words that we'll use a lot.
+### Explanation of some terms that we'll use a lot.
 
 ## 2\. Certification
 
