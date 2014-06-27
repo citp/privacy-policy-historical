@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204225750id_/http%3A//briteverify.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627043214id_/http%3A//www.briteverify.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -141,7 +141,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.briteverify.com/terms](http://www.briteverify.com/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.briteverify.com/terms.html](http://www.briteverify.com/terms.html)
 
 **Your Consent**
 
