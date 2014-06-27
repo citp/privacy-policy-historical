@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautifullybellafaith.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215175044id_/http%3A//beautifullybellafaith.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifullybellafaith.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627052504id_/http%3A//beautifullybellafaith.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy
+# Disclosure and Privacy Policy - Beautifully BellaFaith
 
 **DISCLOSURE POLICY**
 
