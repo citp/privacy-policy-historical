@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224044325id_/http%3A//www.businessdailyafrica.com/meta/-/539554/1130060/-/j6u5wjz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdailyafrica.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140714id_/http%3A//www.businessdailyafrica.com/meta/-/539554/1130060/-/j6u5wjz/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - Footer - businessdailyafrica.com
 
