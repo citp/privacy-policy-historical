@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-php-scripts.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810093712id_/http%3A//best-php-scripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-php-scripts.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627180012id_/http%3A//best-php-scripts.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
