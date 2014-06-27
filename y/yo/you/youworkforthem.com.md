@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youworkforthem.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101194054id_/http%3A//www.youworkforthem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youworkforthem.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627071035id_/https%3A//www.youworkforthem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YouWorkForThem
 
@@ -30,6 +30,6 @@ While YouWorkForThem uses cookies to ensure proper functioning of our shopping s
 
 You have the right to access and correct your personal information and privacy preferences at any time. To edit your registration information, simply log into your Account Settings. 
 
-If you have any questions about this privacy policy, please [contact us](https://web.archive.org/contact.php). 
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/contact.php "Contact us"). 
 
 Last updated on June 10, 2012 
