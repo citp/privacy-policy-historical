@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adnooka.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805145027id_/http%3A//www.adnooka.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnooka.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627170343id_/http%3A//adnooka.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -80,7 +80,7 @@ Adverts | various | Our advertisers may use cookies to serve you with adverts ba
 Site Cookie Acceptance | cookietab-last-shown-time  
 cookietab-consent | These cookies are used to record if a user has accepted the use of cookies on this website | No | n/a  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20130805145027id_/http%3A//www.adnooka.com/www.allaboutcookies.org).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20140627170343id_/http%3A//adnooka.com/www.allaboutcookies.org).
 
 Prestige Revenue LLC does not use Cookies to store information such as credit card numbers, telephone numbers, or other information you provide. 
 
