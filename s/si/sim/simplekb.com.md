@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplekb.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230013210id_/http%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplekb.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627134115id_/https%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Namecheap.com - Privacy Policy
 
@@ -44,7 +44,7 @@ If Namecheap.com is involved in a merger, acquisition, or sale of all or a porti
 
 If we change our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 7 days prior to their implementation. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. Please review our privacy policies from time to time to know about the changes. We may also try to notify you through e-mail of the privacy changes if necessary.
 
-### Service Providers
+### Service Providers 
 
 We use a credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any secondary purposes. If you would like to know more about privacy policies of our credit card processing company, you may e-mail us at [support@namecheap.com](mailto:support@namecheap.com).
 
