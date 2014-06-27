@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104100940id_/http%3A//www.vivint.com/en/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivint.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627130436id_/http%3A//www.vivint.com/en/company/policies/privacy) for the most accurate reproduction.*
 
 # Home Automation, Home Security and Solar Energy Systems l Vivint
 
