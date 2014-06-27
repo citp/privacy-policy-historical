@@ -1,82 +1,126 @@
-> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akc.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627171446id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.*
 
-# American Kennel Club - AKC Web Site Privacy Statement
+# American Kennel Club - AKC Website Privacy Statement
 
-At The American Kennel Club, we are committed to protecting your privacy. We use the information we collect about you on our Web site to process your orders, respond to information requests, provide a more personalized experience while you are browsing or shopping in our Online Store, and create a better experience for our Web site users. Please read on for more details about our Web site privacy policy.
+**I. Scope of this Privacy Statement**
 
-**What information do we collect? How do we use it?**
+This Privacy Statement describes the types of personal information American Kennel Club ("AKC," "us," "we" or "our") collects through our web sites that link to this Privacy Statement, including without limitation www.akc.org, [www.WOOFipedia.com](http://www.woofipedia.com/), and any related sub domain names (the "Site"). This Privacy Statement does not govern our collection of personal information through any website or other means, other than through the Site.
 
-An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC Reunite Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable.
+By using the Site, you explicitly accept, without limitation or qualification, our practices surrounding the collection, use, and sharing of personal information provided by you in the manner described in this Privacy Statement. If you do not agree with the terms of this Privacy Statement, please do not access, browse, or use the Site.
 
-In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you register a dog or litter through our online system. We use this information to process your application. We also may ask you for personally identifiable information when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.
+**II. Personal Information We Collect**
 
-We will ask you for personally identifiable information when you take out a subscription to our magazines. AKC uses a reputable third party service provider to collect your personally identifiable information to process and fulfill your subscription request. This third party service provider collects and stores this information in a secure, password-protected database. Your personally identifiable information will only be used by the third party service provider to process and fulfill your subscription request and other uses only as directed by AKC.
+**A. Actively Collected Information**
 
-If you send us email, we may collect and store such information. We use the information to reply to your email communication. If you register a litter or dog using our online system, we may ask you for your email address, collect and store this information. We use this information to process your application. AKC rules and procedures do not allow a minor to sign an AKC registration application. If a dog or litter is to be registered in the name of a minor, the procedures outlined by AKC should be followed. You should not supply email addresses for minors.
+You may be asked to provide personal information if you wish to register as a user of the Site, to submit information or request information from us, or to use the services offered through the Site, such as, making purchases in our Online Store, using your My AKC account, creating a WOOFidpedia profile, donating to AKC Reunite Canine Support and Relief Fund, and registering a dog or litter through our online system. This personal information includes information that identifies you (whether directly or indirectly) such as your name, postal address, e-mail address, telephone number, or other demographic information, and any other information you voluntarily provide.
 
-We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new AKC services, and special offers we think you'll find valuable. If you would rather not receive this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/). If you do not have a My AKC account, but wish to opt-out from AKC emails, you may [click here](https://web.archive.org/support/unsubscribe.cfm).
+If you decide to make any purchases through the Site, we will collect your payment card information and shipment information, including without limitation your credit/debit card number, credit/debit card expiration date, credit/debit card type (Visa, MasterCard, Discover, or American Express), and name and address in order to bill you for and ship such purchase.
 
-AKC uses a reputable third party to serve some of the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedure of our third party ad server, please [click here](http://247realmedia.com/privacy.html).
+**B. Passively Collected Information**
 
-**How does AKC protect customer information?**
+We may collect certain information about your use of the Site through the use of tracking technologies or by other passive means. We may use analytics applications such as Google Analytics to help us collect and analyze this information. This "passively collected" information includes, but is not limited to, the domain name of the website that allowed you to navigate to the Site, search engines used, the internet protocol ("IP") address used, the length of time spent on the Site, the pages you looked at on the Site, other websites you visited before and after visiting the Site, your browser type, the frequency of your visits to the Site, and other relevant statistics, including the following:
 
-When you place orders or access account information, we use a secure server. We use secure socket layer (SSL) software to encrypt all information you input before it is sent to us. Further, all of the customer data we collect and store is protected against unauthorized access.
+  * _Log Information_. When you access the Site, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, IP address (or the proxy server you use to access the internet), browser type, browser language, your computer operating system, your mobile device and mobile operating system, the name of your internet service provider or your mobile carrier, the date and time of your request, and one or more cookies (small text files containing a string of characters) that may uniquely identify your browser.
+  * _Navigation Information._ When you visit or access the Site we automatically receive the URL of the site from which you came (known as a "referring URL") and the site to which you are going when you leave the Site. Additionally, advertisers receive the URL of the page you were on when you click on an ad on the Site. The Site may include links in a format that enables us to keep track of whether you have clicked on a link or opened an email from us. We use this information to improve the quality of our products and design.
+  * _Location Data_. We may also receive location data passed to us from location-enabled devices that you have enabled or from third-party services.
+  * _Cookies_. When you visit or access the Site, we send one or more cookies (small text files containing a string of characters) to your computer that uniquely identifies your browser. We use cookies to improve the quality of the Site by storing user preferences and tracking user trends. Most web browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may not be able to use some customized features available through the Site.
+  * _Web Beacons_. Web beacons (also known as "pixel tags" or "clear GIFs") are 1x1 single-pixel graphics that allow us to count the number of users who have visited or accessed the Site and to recognize users by accessing our cookies. We may employ web beacons to facilitate Site administration and navigation, to track the actions of users of the Site, to compile aggregate statistics about Site usage and response rates, and to provide an enhanced online experience for visitors to the Site. We may also include web beacons in HTML-formatted e-mail messages that we send to determine which e-mail messages were opened.
 
-**What about "cookies?"**
 
-A "cookie" is a small data file stored by your browser on your computer's hard drive. Cookies contain a unique identifier which allows us to match your computer with the information we store for you in our database. Our cookies do not contain any personally identifying information, but they do enable us to personalize and enhance your experience with us. Some examples of ways we use cookies are: to save your account preferences so that you will not have to re-enter them the next time you visit our Web site; to store account names and passwords you create; to store items added to your shopping cart; to store previous inquiries you make on our Web site; to offer personalized services such as Your AKC. We also use cookies to alert you of new areas that we think might be of interest to you when you return to our Web site, record past activity at our Web site, analyze usage of our Web site, target advertisements, or customize Web page content, layout and services.
 
-Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. By accepting cookies from our Web site, you allow us to maintain the preferences stored in your AKC accounts and to utilize our online information services. If you choose not to accept cookies from our Web site, personalization and purchasing of online information are not possible from our Web site. However, if you choose not to accept cookies, you may be able to use other features of our Web site which do not involve personalization and making purchases.
+**III. How We Use Personal Information**
 
-**Will AKC disclose the information it collects on its Web site to outside parties?**
+Personal information collected through the Site may be used by AKC and its affiliates **** for purposes of: 
 
-We may share your personally identifiable information collected on our Web site to reputable third parties for use by third parties and by us. If you prefer that AKC not release this information, you may indicate your preference by [updating your AKC account](https://web.archive.org/account/).
+  * Administering and processing your account or applications;
+  * In connection with registering a litter or dog; 
+  * For determining compliance with AKC Rules, Regulations and policies and contacting individuals to whom you have transferred a dog or puppy;
+  * Responding to your questions;
+  * Providing the products and services you select;
+  * Contacting you, whether by email or postal mail, with information about the Site or our products, services, and promotions;
+  * Sending you email newsletters you request; 
+  * Auditing, research, and analysis to maintain, protect, and improve our product and service offerings;
+  * Tailoring advertisements to you;
+  * Providing you with credit card offers, including in certain instances pre-approved credit card offers from financial institutions with whom we may partner from time to time;
+  * Creating a profile based on the information you have provided;
+  * Ensuring the technical functions of our network; 
+  * Developing new products and services;
+  * Processing your orders, donations and inquiries;
+  * Responding to your requests and improve the Site;
+  * Compiling personal information and other information collected through the Site on an aggregate basis; and
+  * For such purposes as you may authorize at the time you submit the information.
 
-If you register a dog or litter using the AKC's online systems, you must contact AKC customer service at [info@akc.org](mailto:info@akc.org) or 919-233-9767 to request that your name and address not be released to third parties.
 
-In addition, some of your personally identifiable information is disclosed to third party service providers, vendors or manufacturers when you order certain products or merchandise from our Online Store or subscribe to our magazines. Your personally identifiable information is disclosed so that these third parties can process and fulfill your orders. Therefore, by ordering certain products or merchandise from our Online Store, you are indicating your consent to the release of your personally identifiable information to third parties.
 
-You may indicate your preference that AKC not release to third parties your personally identifiable information collected when you subscribe to our magazines by checking the appropriate box on the subscription invoice form or subscription renewal form that we mail to you.
+**IV. Personal Information We Share**
 
-AKC also will disclose personally identifiable information if legally required to do so through, for example, subpoena, search warrant or other legal process. In this instance, disclosure may take place without your consent.
+We do not sell, rent, trade, or otherwise share personal information collected through the Site, except as described below:
 
-**How can you access, edit or delete your information?**
+  * _Subsidiaries and Affiliates_. We may share personal information collected through the Site with our subsidiaries and affiliates for the purposes for which you provided the information or as reasonably necessary for our internal administrative and business purposes.
+  * _Service Providers_. We work with third parties that provide services on our behalf. Such services may include, without limitation, product fulfillment, website and email hosting, marketing, website analytics, advertising, and payment card processing services. We may share personal information and non-personal information collected through the Site with these third parties so that these third parties can provide services on our behalf. We do not bear any responsibility for any actions or policies of such third parties.
+  * _Marketing_. We enter into certain select marketing relationships with advertisers and other companies that provide products or services that we believe may be of interest to users of the Site. We will share personal information or any information collected through the Site with those marketing partners in order to help them send you information that we believe will be of interest to you.
+  * _Third Party Payment Processors_. If you make purchases through the Site, we may share personal information with third parties who process payments on our behalf. AKC is not responsible for the conduct of any third parties who process payments on our behalf, and we expressly disclaim all liability for damages of any kind arising out of the action or inaction of such third parties.
+  * _Non-Private or Non-Personal Information_. We may share with third parties certain pieces of aggregated, non-personal information, such as the number of people who visited or accessed the Site or the number of profiles created by users of the Site.
+  * _Third-Party Advertising Entities_. You may see third party advertisements posted through the Site. Some advertisements are chosen by companies that place advertisements on behalf of other third party advertisers. The information they collect from the Site does not identify you personally.
 
-You may access, edit or delete your personally identifiable information by [updating your AKC account](https://web.archive.org/account/). For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://www.kable.com/pub/agzt/coa.asp).
 
-**What about privacy policies of Web sites linked to the AKC Web site?**
 
-Our Web site contains links to other, third party Web sites. Please note that once you access another Web site, you are subject to the privacy policy of that Web site. We do not represent or guarantee that those Web site policies conform to our own.
+If you choose to interact with specific advertisers who advertise through the Site, the information you provide to them is subject to the conditions of their specific privacy policies.
 
-**Your consent**  
-By using our Web site, you consent to the collection and use of this information by AKC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+  * _Online Record Keeping Service, Registration, Breeding or Club Information_. Any information entered into our Site in relation to registered co-owned dogs and litters will be accessible by all registered co-owners and each registered co-owner will have the authority to enter and change the information about the co-owned dog or litter. In addition, information made available through the Site about any AKC club may be changed by any individual who has administrative privileges for such club.
+  * _Consent_. We may share personal information in accordance with any consent you provide.
+  * _Required by Law_. We may disclose personal information or any information collected through the Site if we are required to do so by law or pursuant to legal process, in response to a request from government officials or law enforcement authorities, or as necessary or appropriate in connection with an investigation of illegal activity.
+  * _Certain Transactions_. We may disclose or transfer personal information or any information collected through the Site to third parties who acquire all or a portion of our business, whether such acquisition is by way of merger, consolidation, or purchase of all or a portion of our stock or assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+  * _Public Information_. Note that any information which you upload, post, e-mail, submit or otherwise transmit to, through, or in connection with the Site to a public message board, chat area or other public area of the Site becomes public information. You are solely responsible for any such information you choose to post on or through the Site, and you may always choose not to divulge any personal information to the public when posting to a message board, chat area or other public area of the Site. All information that is posted to a message board, chat area, or other public area of the Site may be shared by us with others.
 
-**Kids Privacy Policy**
 
-The AKC Web site is a general audience Web site. This policy applies only to information collected at AKC's Web site and not to information collected by the AKC through other means. The only instances in which the AKC knowingly collects information from children under thirteen are email to "Dear Bailey" and a request to receive the AKC Junior e-newsletter.
 
-**Junior e-newsletter**
+**V. Aggregate Information**
 
-The AKC collects email addresses from children under thirteen in order to send them a Junior e-newsletter. In order to send the Junior e-newsletter the child's email address will be sent to a third party to process the request and send the newsletter. This third party is restricted by contract from using the email address for any other purpose other than sending the e-newsletter. Prior to sending the Junior e-newsletter to a child under thirteen, the AKC will contact the parent or legal guardian at the email address given to the AKC by the person requesting to receive the Junior e-newsletter. Parents or legal guardians may request to review the information that has been collected, find out how the information collected has been used, and, if you choose, prohibit us from making further use of your child's information and that your child's information be deleted. Additionally, if you request the deletion of the collected information it will also be deleted by the third party.
+We may compile personal information and other information collected through the Site on an aggregate basis. This information may include, without limitation, the number of users who have registered for the Site and demographic information about users of the Site. Such aggregate information does not identify you individually. We may use aggregate information and share aggregate information with third parties for any of the purposes specified in this Privacy Statement, or for any other lawful purpose.
 
-**Dear Bailey**
+**VI. Your Choices**
 
-"Dear Bailey" email connects your child with the American Kennel Club. If your child sends us an email with a question or comment or enters one of our contests, the American Kennel Club will respond using his or her email address. The AKC will not store that email for future communications and will not share it with any third parties. The American Kennel Club reserves the right to post an email submitted by a child on our Kids' Corner newsletter site. We will identify your child by first name, age and state only. If your child submits artwork, stories, comments or anything else to us which is posted at our site, he or she will be identified by first name, age and state.
+**A. Information You Provide**
 
-You and your child's use of this site are conditioned on your having accepted these terms. You should check back at this policy frequently, since it is subject to change from time to time, and your continued use of the site is conditioned upon your acceptance of any modification hereto.
+You can always choose whether or not to provide information on the Site. However, if you choose not to disclose certain information, you will not be able to create an account on the Site, which may limit your access to certain portions of the Site or your ability to conduct certain transactions on the Site.
 
-In order to review the information collected and to request deletion, a parent or child may email [master@akc.org](mailto:master@akc.org) write privacy policy in the message space or contact us at the address or phone number listed below.
+**B. Communications From Us**
 
-Mailing Address:
+If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by clicking on the unsubscribe links appearing in one of our emails, by [updating your AKC account](https://web.archive.org/account/), or you may [click here](https://web.archive.org/support/unsubscribe.cfm).
 
-Robert Burns  
-Privacy Policy  
-American Kennel Club  
-8051 Arco Corporate Drive, Suite 100  
-Raleigh, NC 27617-3390
+**C. Updating Information**
 
-Our Customer Service Department is open from 8:30 am to 5:00 PM Eastern Time  
-Phone number: 919-233-9767
+We encourage registered users of the Site to keep their personal information current. You may access, edit or delete personal information you have provided about you by [updating your My AKC account](https://web.archive.org/account/) or by updating your WOOFipedia account. For magazine subscribers, you may edit your postal mailing address at the [Change My Address page](https://ssl.palmcoastd.com/10803/apps/-173534).
 
-**Tell us what you think**  
-AKC welcomes your questions and comments about privacy and our Web site. Please send email to [info@akc.org](mailto:info@akc.org).
+If you register a dog or litter using the Site and wish that your name and address not be shared with third parties, you must contact AKC customer service at [info@akc.org](mailto:info@akc.org) or 919-233-9767 to request that your name and address not be shared with third parties **,** provided, however, that if you co-own a dog or a litter, your name and address may be shared with other co-owners of the same dog or litter.
+
+You may indicate your preference that AKC not release to third parties personal information collected when you subscribe to our magazines by checking the appropriate box on the subscription invoice form or subscription renewal form that we mail to you.
+
+If you prefer that AKC not share certain other personal information that you voluntarily submit to us, you may indicate your preference that we not share such personal information you have provided through the Site to third parties by [updating your AKC account](https://web.archive.org/account/).
+
+**VII. Information Storage and Security**
+
+We employ reasonable security precautions to protect personal information about you. The Site is operated from a secure environment with integrated security measures to help protect against the loss, misuse, and alteration of personal information provided on or through the Site. We use secure socket layer (SSL) software to encrypt certain types of information, such as payment card information, when transmitting information between your browser and the Site. No method of transmitting or storing data is completely secure. As a result, although we strive to protect personal information about you, we cannot guarantee the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that personal information is no longer secure, please notify us immediately by contacting us in accordance with the last section below.
+
+**VIII. A Special Note about Children**
+
+Children are not eligible to use the Site, and we ask that minors (children under the age of 13) not submit any personal information to us. If you are a minor, you can use the Site only in conjunction with your parents or guardians.
+
+**IX. External Links**
+
+The Site contains links to various websites that AKC does not control. When you click on one of these links, you will no longer be transacting business through the Site. Third party websites maintain their own privacy policies, and we do not exercise any control over any of the third party websites that may be linked to the Site. If you visit a website that is linked to the Site, you should consult that website’s privacy policy before providing any personal information. Please be aware that we are not responsible for the privacy practices of such other websites, and we are not liable for their misuse of personal information about you.
+
+**X. Special Admonitions for International Use**
+
+The Site is intended for use by residents of the United States of America only. All matters relating to the Site are governed exclusively by the laws of the State of New York in the United States of America and not the jurisdiction in which you are located. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer.
+
+**XI. Updates to this Privacy Policy**
+
+We may change or update the Site or any of our policies and procedures without prior notice. We will post a notice on this Site to advise you of any significant changes to this Privacy Statement and indicate at the bottom of this Privacy Statement when it was most recently updated. Your continued use of the Site signifies your continued assent to the terms of this Privacy Statement, as updated or amended at that time.
+
+**XII. Questions Regarding this Privacy Policy**
+
+If you have any questions or comments regarding this Privacy Policy, please send us an email to [info@akc.org](mailto:info@akc.org). 
+
+Last Updated: November 14, 2013
