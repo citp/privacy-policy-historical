@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104005841id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627233735id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Casual Dating at WildCupid.com
 
 ### Privacy Policy
 
-(' **We** ') Alcuda Ltd (as subsidiary of Bulova Invest Ltd, company number 1585862 (British Virgin Islands)) are committed to protecting and respecting your privacy. Alcuda Ltd is the data controller (for the purposes of the Data Protection Act 1998).
+(' **We** ') CISCA SERVICES Ltd(Company Number HE 323838 (Cyprus)) as subsidiary of Bulova Invest Ltd(Company Number 1585862(Cyprus)) are committed to protecting and respecting your privacy. 
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -43,7 +43,7 @@ We use the information we hold about you in the following ways:
 
   * If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site.
   * We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
-  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@alcuda.com](mailto:datarequest@alcuda.com).
+  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@ciscaltd.com](mailto:datarequest@ciscaltd.com).
   * We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
 
 **Disclosure of your information**
