@@ -1,118 +1,389 @@
-> *The following text is extracted and transformed from the polo.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030300id_/http%3A//www.polo.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polo.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627234928id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
-# Ralph Lauren Polo.com Customer Assistance
+# RalphLauren.com Customer Assistance
 
+  * [ Shipping ](https://web.archive.org/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
+  * [ Returning ](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=returns)
+  * [ Shopping and Payment ](https://web.archive.org/helpdesk/index.jsp?display=payment&subdisplay=checkout)
+  * [ Gift Services ](https://web.archive.org/helpdesk/index.jsp?display=gift&subdisplay=ogc)
+  * [ Account Information ](https://web.archive.org/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
+  * [ About Our Products ](https://web.archive.org/helpdesk/index.jsp?display=shopping&subdisplay=product)
+  * [ Privacy Notice ](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
+  * [ Canadian Privacy Policy ](https://web.archive.org/helpdesk/index.jsp?display=tft&subdisplay=policies)
+  * [ Terms of Use ](https://web.archive.org/helpdesk/index.jsp?display=corp&subdisplay=terms)
+  * [ Frequently Asked Questions (FAQs) ](https://web.archive.org/helpdesk/index.jsp?display=faq&subdisplay=buyer)
+  * [Contact Us](https://www.ralphlauren.com/helpdesk/index.jsp?display=store&subdisplay=contact)
+  * [Site Map](https://web.archive.org/helpdesk/sitemap.jsp)
+
+|  |  |  |  |   >> Privacy & Security  
+---|---  
+   Choose a link to select a section.  
+_**Ralph Lauren Corporation**_  
+   Website and Store Privacy Notice  
+   Last modified: January 4, 2014  
   
-Last modified: April 7, 2006 
+Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website. 
 
-**Privacy Policy**
+The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices. 
 
-Polo Ralph Lauren Corporation respects your privacy. Consistent with our commitment to providing you a satisfying and helpful shopping experience, we have found that collecting Personal Information (defined below) through [www.polo.com](http://www.polo.com/) (the "Site") and our stores, including but not limited to Ralph Lauren stores, Polo Ralph Lauren Factory Stores and Polo Jeans Co. Factory Outlets (referred to in this Privacy Policy as the "Stores"), helps us better understand the products and services most helpful to you. Our Privacy Policy describes the types of information we gather online and in our Stores and how we use this information. Please read this information carefully. 
+Click on one of the links below to jump to the listed section: 
 
-By accessing the Site and shopping in our Stores, you agree to be bound by the Privacy Policy. This Privacy Policy may be updated from time to time. Accordingly, you should check the date of this Policy (which appears at the top of this page) and review any changes since the last version. If at any time you do not agree to the terms of this Privacy Policy, please do not use this Site and refrain from purchasing from us. 
+  * Information We Collect and How We Use It
+    * Our Website
+      * Shopping
+      * My Account
+      * Surveys, Sweepstakes and Promotions
+      * Electronic Newsletters
+      * Mobile Marketing
+      * Blogs
+      * Email to a Friend
+      * Contact Us
+      * Other Site Features
+      * Information We Collect by Automated Means
+    * Our Stores
+      * Shopping
+      * Customer Registry
+      * Customer Satisfaction Surveys
+      * Ralph Lauren Credit Card
+    * Other Ways We Collect Personal Information
+      * QR Codes
+      * Customer Assistance
+      * Other Ways We Obtain and Use Information
+      * Department Stores
+  * Information We Share
+  * Links to Other Sites
+  * How We Protect Personal Information
+  * Transfer of Personal Information to Other Countries
+  * Access and Correction
+  * Your Choices
+  * Children's Privacy
+  * Updates to Our Privacy Notice
+  * How to Contact Us
 
-Our products are also available for sale in Polo shops within many department stores. Data collected in these stores is the property of the department stores and is not provided to Polo Ralph Lauren Corporation. If you have questions about department store privacy policies, please contact the applicable department store. 
+   
 
-Our policies relating to the transfer of Personal Information from the European Union ("EU") to the United States are contained in our European Safe Harbor Policy. 
+Information We Collect and How We Use It 
 
-**Use of Information Collected by Us**
+Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through the other channels described below. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
 
-Polo may collect two types of information about users: "Personal Information" (such as name, email address, mailing address, phone number, credit card number and the items you purchase) and "Aggregate Information" (such as information about how many users log on to our Site on a daily basis or frequency of customer visits to Polo Ralph Lauren Stores). 
+Our Website 
 
-We use customer information in an effort to improve your shopping experience and to communicate with you about our products, services, promotions and contests. We may also use this information to make offers to you, to help us target specific products and services to you, and to help us develop and improve our Site and Stores and tailor our Site and Stores to your interests. 
+_Shopping_
 
-**Personal Information Collected Online by Polo.com and at Our Stores**
+You may be able to purchase Ralph Lauren products and gift cards on this website. To process your purchase, we ask for information such as your name, billing and shipping address, telephone number, email address and payment card information. We use this information to process your purchase, confirm your order and deliver the items to you. If you give us permission, we also may use your contact information to communicate with you about our products, services and promotions. 
 
-Personal Information is collected online by us or our service providers (e.g., such as Epsilon Interactive) on our behalf when users voluntarily register with Polo.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on Polo.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with including, for example, Epsilon Interactive ([www.epsiloninteractive](http://www.epsiloninteractive.com/)). For information regarding Epsilon Interactives' privacy policy, click here <http://www.epsiloninteractive.com/eisite/privacy/privacy.htm>. 
+If you purchase an item or gift card on this site or ask us to deliver your purchase to someone else, we ask for the recipient's name, postal address and email address. We use this information to send the gift card or item to the recipient. If you ask us to do so, we also may use this information to notify the recipient of your gift before it arrives. 
 
-In our Stores, Personal Information is collected from you in a number of ways, including the following: 
+_My Account_
 
-  * When you purchase products from our Stores, we may collect your name, address, email address, telephone number(s) and credit card information (with the expiration date). In addition, we collect transaction information related to your purchase (such as what you bought, the price you paid, the payment method you used and if the product was on sale).
-  * When you apply for a credit card account through our Stores, we may also collect income, employment information and credit information, such as credit cards owned by you, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status. 
-  * When you fill out a tailoring order or instruct us to mail product to another location, we may collect your name, address, email address, telephone number and credit card information. 
-  * When you fill out any in-store promotional surveys, we may gather certain Personal Information, such as your opinions on specific products and/or services, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status. 
+You may be able to register to create an account on this website. To do so, we ask for information such as your name and email address. You also may provide your age and gender. 
 
-**Aggregate Information Collected Online by Polo.com and at Our Stores**
+Through the "my account" feature, you can store billing and shipping information so you won't have to enter it again when you make another purchase on this site. You also can store payment card information and details of your past purchases. In addition, you can save your credit card information on your account for faster checkout. To use this feature, we ask you to provide your credit card information and the corresponding billing address. 
 
-Aggregate Information is non-personally identifiable/anonymous information about you, such as age, gender, types of products purchased, frequency of Store visits, Site pages you access most frequently or search terms you enter. Aggregate Information is used in a collective manner, and no single person can be identified by that compiled information. For example, the number of people who shopped at Polo.com during a specific time period or the number of people who shopped at our Stores who are 25 years of age is Aggregate Information that does not personally identify a specific user. Both Polo.com and our Stores collect Aggregate Information. 
+You can also use the "my account" feature to create a wish list of products you want and share your list by email with friends and family. If you choose to share your list, we ask for your name and email address and the recipient's email address. This information is used only to email your list to your desired recipients. 
 
-**Order-related and Promotional email**
+You can create and save an address book on your account. You can delete entries in the address book at any time. We will not use or disclose the information you delete from your address book. 
 
-You agree that Polo.com is authorized to transmit email to you for the purpose of informing you about your particular transaction. 
+_Surveys, Sweepstakes and Promotions_
 
-In addition, Polo.com and its affiliates may offer electronic newsletters and promotional emails to those who have agreed to receive emails during registration or directly from our email sign-up form. Unsubscribe instructions are included in each promotional email. 
+On this website, you may be able to participate in surveys, sweepstakes and other promotions. If you choose to participate in these promotions, we may ask you for information such as your name, email address, postal address and telephone number. We use the information you provide to administer our contests, sweepstakes and other promotions. We also may use the information to communicate with you about our products, services and promotions, but only if you have given us your consent to do so. 
 
-**Sharing Information with Third Parties**
+_Electronic Newsletters_
 
-Polo.com does not share, sell or trade with third parties your Personal Information gathered online, such as email addresses, Personal Information collected as part of an online survey or other specific details about you, except with your consent or as described in this Privacy Policy. Polo.com does not contribute to or participate in cooperative databases, which give other companies access to such Personal Information. 
+You may be able to sign up on this site to receive electronic newsletters and promotional emails from Ralph Lauren, including new ideas, special offers and event information. To sign up, we may ask you for information such as your name, email address, postal address, telephone number, age, gender, shopping preferences and email preferences. We use this information to send you communications about our products and services, invitations to specials sales and events at Stores located near you, and notices of new arrivals. We also use this information to tailor our newsletters to reflect your preferences. You can choose at any time not to receive marketing emails from us by clicking on the unsubscribe link within our marketing emails or by clicking [here](http://app.ralphlauren.com/unsub/unsub.cfm). You also may use the email preferences section of the "my account" feature to opt out of receiving marketing emails or to specify which, if any, communications you would like to receive from us. There is no charge to you to unsubscribe. 
 
-The Personal Information and Aggregate Information collected at our Stores may be shared with Polo.com as well as reputable third-party organizations to contact consumers for marketing and promotional purposes. Third party contacts to our customers may be initiated only by postal mail. Except as described in this Privacy Policy, our Stores will not share your telephone number or e-mail address. In addition, in the event that you apply for a credit card account, our Stores may share the Personal Information we have collected with credit card companies and credit agencies. 
+_Mobile Marketing_
 
-Polo.com and our Stores may divulge Personal Information if such action is required for Polo or any of our service providers or consultants to comply with any valid legal process, such as a subpoena, search warrant, statute or court order, or any valid administrative request from a law enforcement agency. In addition, we may divulge Personal Information if we or any of our service providers or consultants believes that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customer or of the general public. 
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number on this website. If you use this feature, we will send you communications about our products, services and promotions by text message and voice message. In the U.S., you may, at any time, opt out of receiving these communications by sending a text message with the word "STOP" to short code 23000. Outside the U.S., you may, at any time, opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. 
 
-**Service Providers, Consultants and Affiliates**
+_Blogs_
 
-We may share Personal Information and Aggregate Information with our service providers, consultants and affiliates for our internal business purposes. 
+You may be able to submit comments to blogs we host on this website. You may include personal information in your comment, and you also may submit your name with your comment. We use your name to identify you as a commenter. 
 
-For example, we use the services of Omniture, Inc ([www.omniture.com](http://www.omniture.com/)) to help us measure the effectiveness of our advertising and how visitors use our Site. Omniture's privacy policy is located at <http://www.omniture.com/web_analytics-privacy.html>. To utilize Omniture's services, Polo.com uses web beacons (also called pixel tags or clear GIFs) and cookies, which are defined below and provided by Omniture on our Site. The type of information we collect includes products viewed and/or purchased, your location (state/zip code if you placed an order) and the Internet Protocol (IP) address of your computer. An IP address is a number that is automatically assigned to your computer whenever you surf the Web. The computers, which deliver the Web pages to you, automatically identify your computer by its IP address. When you request a page from our Site, our servers log your IP address. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although Omniture logs the information coming from the Site on our behalf, Polo.com controls how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers, and marketing strategy by utilizing Omniture's tool, you can "opt-out" of this Web site analysis tool by clicking here <http://www.omniture.com/web_analytics-privacy.html#optout>. 
+_Email to a Friend_
 
-We also share with DoubleClick Site usage information about visitors to our Site who have received a targeted promotional campaign with DoubleClick for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, Polo.com and DoubleClick note some of the pages you visit on our Site through the use of web beacons, which are defined below. 
+You may be able to share certain content from this website with your friends. To send information to your friends, we ask for your friends' and your email addresses. We use this information only to fulfill your request. We do not retain the information you provide in connection with this feature, except to send the requested content. We will not include any other advertisements within the messages sent to your friends. 
 
-Finally, both Polo.com and our Stores, use Acxiom ([www.acxiom.com](http://www.acxiom.com/)) for data processing services relating to the maintenance of our customer marketing database. Acxiom has agreed to maintain our customer information in confidence and to not disclose customer information to any third parties unless required to do so by law or authorized to do so by Polo Ralph Lauren for purposes consistent with this Privacy Policy. 
+_Contact Us_
 
-**Use of Cookies**
+If you communicate with us through the "Contact Us" link on this site, we may ask you for information such as your name, email address, zip code and telephone number. We use this information to respond to and communicate with you about your questions and comments. 
 
-A cookie is a small data file that Web sites, when you visit them, often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you've visited. Polo.com uses cookies to, preserve the contents of your shopping bag between your visits. Polo.com also uses cookies to measure activity on our Site, which allows us to determine which areas and features of our Site are most popular. This information allows us to make improvements and updates to enhance your Polo.com experience. Parts of the Site, such as the members-only areas (for example, shopping) will not function if you do not have cookies enabled. You can set your browser to refuse cookies, or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the Site, nor will we be able to recognize you as a registered user to allow you access to your account information. 
+_Other Site Features_
 
-To enable or disable cookies on your browser, please consult your browser documentation or contact your software provider. 
+We offer visitors to this website various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features and send you communications about our products, services and promotions. 
 
-**Use of Pixel Tags/Clear GIFs/Web Beacons**
+_Information We Collect by Automated Means_
 
-A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our Site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit. 
+We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. We collect this information through various means, such as "cookies" and "web beacons." Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
 
-**Notice to P3P Users**
+_Cookies_
 
-The Platform for Privacy Preferences Project ("P3P") is a standard developed by the World Wide Web Consortium ("W3C") that provides an automated, machine-readable mechanism for understanding the use of your Personal Information by the Web sites you visit. P3P uses a standardized set of multiple choice questions covering the major elements of a Web site's privacy policy to provide a cross-section of how the particular Web site handles the personally identifiable information of its users. P3P-enabled browsers can automatically read this set of preferences made available by P3P-enabled Web sites and compare this information to the user's own set of privacy preferences. For example, Internet Explorer 6.0 requires third parties to set cookies to deliver P3P "compact" cookie policies with their cookies, and other browsers may use this mechanism soon. To enhance your online experience further, the Site is now P3P enabled. For more information on the W3C and P3P, please visit <http://www.w3.org/P3P/>. Given certain limitations in the parameters chosen by W3C, however, the P3P mechanisms may not describe Polo.com's privacy practices as accurately as this Privacy Policy. Accordingly, where discrepancies exist between this Privacy Policy and the P3P "compact" policies, this Privacy Policy shall control. 
+Like many companies, we use "cookies" on this website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, to preserve the contents of your virtual shopping bag between visits. We also use cookies to measure activity on the site and determine which areas and features of the site are the most popular. 
 
-**Security and SSL**
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our site features. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the site. 
 
-Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information. To check the security of your connection, look at the lower right-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active and the server is secure. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the Site address will change from "http" to "https." Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you won't be able to connect to the server and therefore won't be able to place an order through a secure connection. If you cannot access the secure server for any reason, please print our shopping page and place your order by phone at 888-475-7674. 
+Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking [here](http://www.google.com/ads/preferences).
 
-**Information Removal/Opt-Out**
+_Web Beacons_
 
-If you prefer not to receive marketing emails from Polo.com, please let us know by clicking on the unsubscribe link within any marketing email you receive from us. If you prefer not to receive marketing mail via the mail carrier, please let us know by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 8th Floor, New York, NY 10022. Please be sure to include in any email or postal mail your full name, email address, postal address and any message. 
+Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed. 
 
-Please note that such requests may take up to ten (10) days to become effective. 
+We may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). 
 
-If you do not wish to have Personal Information collected in our Stores shared with third-party organizations, you can have your name placed on a "do-not-share" list (in which case, such Personal Information will not be shared with third parties) by sending a request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. In addition, you may call us to become part of the "do-not-share" list at 888-475-7674. 
+Our Stores 
 
-**Children and Privacy**
+Here are some of the ways we collect personal information in our Stores and a description of how we use the information: 
 
-Polo.com is concerned about the safety of children when they use the internet, and understands that children may not understand all the provisions of our Privacy Policy or make informed decisions about the choices that are made available to adult users of the Site. We encourage parents and guardians to spend time with their children online and to be familiar with the sites their children visit. 
+_Shopping_
 
-Our Site is not directed to children under the age of 13, and we will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. 
+When you buy products or obtain services in our Stores, we ask you for information we need to process your purchase or provide you with the services you requested. Depending on the payment method you use, and as permitted by applicable law, we may ask for information such as your name, mailing address, telephone number, driver's license or ID number, passport number, checking account information or payment card information. We also collect information about your purchase, such as the items you bought, the price of the items, the payment method you used and if the product was on sale. We use this information to process your transaction. 
 
-**Links to Other Sites**
+_Customer Registry_
 
-Polo.com may contain links to sites other than our own. Those sites may have their own privacy policy, or no privacy policy at all. Neither we nor any of our service providers have any responsibility for those sites, and we provide these links solely for the convenience of our visitors. Such links may be to advertisers, content providers or other companies who may use our logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect information and use it in a way inconsistent with this Privacy Policy. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your Personal Information. Neither Polo nor any of our service providers control the content that appears on these sites or take any responsibility for their content, nor should it be implied that Polo.com endorses or otherwise recommends such sites or their products or services offered. 
+You may join our Customer Registry at our Stores. To join, we ask for your name, postal address, email address and mobile and home telephone numbers. You also may choose to provide us with your birth date and gender. We use this information to communicate with you about our products, services and promotions and for other marketing and customer service purposes. 
 
-**Personal Information Collected By Polo and Correction Requests**
+_Customer Satisfaction Surveys_
 
-You can ask us by mail for a summary of any Personal Information that Polo.com or the Polo Ralph Lauren Stores have retained about you. Please address your request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. We will send such information for review only to the email address or mail address that we have on file for the visitor name that is associated in our database for such information. 
+When you buy products or obtain services in our Stores, we may ask you to complete a customer satisfaction survey. If you choose to do so, you may provide information such as your name, email address, telephone number, age, gender and other demographic information, in addition to your comments. Providing any of this information is optional. We use the information you provide to improve our products and services, and enhance your shopping experience. 
 
-If at any time you wish to change, correct or update your Personal Information, please send your request to Jeffrey Steinberg, Chief Privacy Officer, Polo Ralph Lauren Corporation, 625 Madison Avenue, 11th Floor, New York, NY 10022. Please be sure to include your email address, full name and postal address. 
+_Ralph Lauren Credit Card_
 
-**Additional Information**
+At some of our Stores, you may obtain and complete an application for a Ralph Lauren credit card. Ralph Lauren credit cards are offered by a third party credit card issuer. If you choose to complete an application at one of our Stores, at your request, we will forward your application to the issuer or you may submit the application directly to the issuer by postal mail. Ralph Lauren does not maintain any information associated with your credit card application. The information you provide in connection with your credit card application is managed solely pursuant to the issuer's terms of use and privacy notice. We strongly recommend that you review these documents if you apply for a Ralph Lauren credit card. This Privacy Notice does not govern the collection or use of the information you provide in connection with your credit card application. 
 
-No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Polo.com to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Information, neither Polo.com nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk. 
+Other Ways We Collect Personal Information 
 
-**Limitation on Liability**
+_QR Codes_
 
-IN NO EVENT SHALL POLO.COM, THE POLO RALPH LAUREN STORES OR ANY OF THEIR AFFILIATED ENTITIES OR SUPPLIERS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, EVEN IF THESE ENTITIES HAVE BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER IN AN ACTION, UNDER CONTRACT, NEGLIGENCE OR ANY OTHER THEORY, ARISING OUT OF OR IN CONNECTION WITH THE USE, INABILITY TO USE OR PERFORMANCE OF THE INFORMATION, SERVICES, PRODUCTS AND MATERIALS AVAILABLE FROM THE SITE. These limitations shall apply notwithstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you. 
+We use QR codes in connection with certain promotions, contests and special events. If you scan our QR code, you will get an invitation on your mobile device to join our mailing list. To sign up, we ask you for information such as your name, mailing address, email address, telephone numbers, and age. We use the information to communicate with you about our products, services and promotions. 
 
-**Applicable Law**
+_Customer Assistance_
 
-The laws of the State of New York will govern these disclaimers, terms and conditions without giving effect to any principles of conflict of law. 
+You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction. 
+
+_Other Ways We Obtain and Use Information_
+
+In addition to the ways we collect information about you described above, we also may obtain information about you from third parties. We may use your personal information to provide you with products or services you request (such as tailoring services or merchandise returns), enhance your shopping experience and communicate with you about our products, services and promotions. In addition, we may use your personal information for internal purposes, such as fraud and theft prevention, accident reporting, development and administration of our sites and Stores, data analytics, and compliance with our legal obligations, policies and procedures. 
+
+_Department Stores_
+
+Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to Ralph Lauren. This Privacy Notice does not address the information practices of department stores in which our products are sold. Department stores may have their own privacy notices or policies, which we strongly suggest you review when you provide them with your personal information. We are not responsible for the department stores' personal information practices. 
+
+   
+
+Information We Share 
+
+We do not sell or otherwise disclose personal information about our customers, except as described here. We may share the personal information you provide to us with our affiliates worldwide, licensees and joint venture partners for the purposes described in this Privacy Notice. We also may share the information with our service providers who perform services on our behalf based on our instructions. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
+
+As described above, if you apply for a Ralph Lauren credit card at one of our Stores, we may provide the information on your application to the credit card issuer to fulfill your request. 
+
+We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information. 
+
+   
+
+Links to Other Sites 
+
+This website may contain links to other sites for your convenience and information. These sites may be operated by companies not affiliated with Ralph Lauren. Linked sites may have their own privacy policies, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with Ralph Lauren, any use of those sites, or the privacy practices of those sites. 
+
+   
+
+How We Protect Personal Information 
+
+We maintain appropriate administrative, technical and physical safeguards to protect the personal information you provide on this website or in our Stores against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. We use Secure Sockets Layer ("SSL") technology to protect the transmission over the Internet of your payment card data. You can check the security of your connection by looking at the URL line of your browser. When accessing a secure site, the first characters of the site address change from "http" to "https." If you are using a web browser or firewall that does not permit communications through secure sites, you will not be able to make purchases on our site. 
+
+We strive to protect the confidentiality and security of Social Security numbers ("SSNs") in our possession, custody or control by employing reasonable safeguards seeking to (i) restrict employee access to and use of SSNs; (ii) prevent unauthorized third party access to SSNs, and (iii) prohibit unlawful disclosure of SSNs. 
+
+   
+
+Transfer of Personal Information to Other Countries 
+
+We may transfer the personal information we collect about you to countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice. 
+
+Ralph Lauren Corporation is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area ("EEA") or Switzerland to the United States. [Click here](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions#europe) to view our Safe Harbor Privacy Policy. 
+
+   
+
+Access and Correction 
+
+Subject to applicable law, we provide you with access to personal information we have retained about you and the ability to review, correct, update, block or delete the information where it is inaccurate. Subject to applicable law, we may limit or deny access to personal information where providing such access is unreasonably burdensome or expensive under the circumstances. Please submit your request to the address specified in the "How to Contact Us" section below. Please include your name, email address and postal address in your request. 
+
+   
+
+Your Choices 
+
+We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward. 
+
+You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). Our website is not designed to respond to "do not track" signals received from browsers. 
+
+If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes. 
+
+   
+
+Children's Privacy 
+
+This website is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on this site, we will delete the information from our records. 
+
+   
+
+Updates to Our Privacy Notice 
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post a prominent notice on the site to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was updated. 
+
+   
+
+How to Contact Us 
+
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us as indicated below:  
+
+
+Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+c/o Legal Department  
+625 Madison Avenue  
+12th Floor  
+New York, New York 10022
+
+If you are located in the EEA or Switzerland, please 
+
+Write to:
+
+Ralph Lauren Europe Sàrl  
+Attention: General Counsel EMEA  
+24, Route de la Galaise  
+1228 Plan-Les-Ouates  
+Switzerland
+
+Email: eu.privacy@ralphlauren.com 
+
+Back to Top  
+  
+    Safe Harbor Privacy Policy  
+---  
+   Last modified: June 7, 2014  
+  
+We at Ralph Lauren Corporation ("Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. 
+
+For purposes of this Policy: 
+
+"Contractor" means any European former, current or prospective (i) individual worker who is an independent contractor or consultant of Ralph Lauren or any of its European affiliates or (ii) employee of a vendor who is provided access to the network, telephone or IT systems, or badging systems of Ralph Lauren or any of its European affiliates. 
+
+"Customer" means any individual who is a potential or actual consumer of Ralph Lauren or any of its European affiliates. 
+
+"EEA" means the European Economic Area. 
+
+"Personal Information" means information that (i) is transferred to the United States from the EEA or Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual. 
+
+"Sensitive Information" means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings. 
+
+"Sites" means RalphLauren.com and the websites and mobile applications listed here. 
+
+"Stores" means the stores operated by Ralph Lauren or any of its affiliates, which stores are located in the EEA or Switzerland. 
+
+"Worker" means any European current, former or prospective employee or intern of Ralph Lauren or any of its European affiliates, or any Contractor. 
+
+**Safe Harbor Privacy Principles**
+
+Ralph Lauren's practices regarding the collection, storage, transfer, use and other processing of Personal Information comply with the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement and oversight. 
+
+**Notice**
+
+We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
+
+Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20140627234928id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+
+**Purpose of Collection and Use of Personal Information**
+
+Ralph Lauren and its European affiliates collect Personal Information through their Sites and in their Stores. In addition, Workers submit Personal Information to Ralph Lauren and its European affiliates in connection with the employment relationship or services performed for Ralph Lauren. 
+
+We obtain, use, disclose and otherwise process Personal Information about our Customers to (i) process transactions they request, including e-commerce and mobile transactions, (ii) improve our Stores, Sites, quality of service, and Customers' shopping experience, (iii) send communications about our products, services and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at our Stores, (vi) enable our service providers to perform certain activities on our behalf, and (vii) comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
+
+We obtain, use, disclose and otherwise process Personal Information about our current, former and prospective Workers to (i) carry out and support our human resources functions and activities, (ii) carry out our obligations under employments contracts and employment and benefits laws, (iii) administer employee participation in benefits, compensation, human resources and training plans and programs, (iv) manage employee purchases from Ralph Lauren locations, (v) manage employee performance, (vi) implement compliance and discipline procedures, and investigate and report on employee compliance and discipline, (vii) comply with our legal obligations, carry out investigations (including in connection with our whistleblowing hotline) and for internal administrative and analytics purposes, and (viii) manage and conduct Ralph Lauren's business activities. Ralph Lauren obtains, uses, discloses and otherwise processes Personal Information about its Contractors to (i) carry out and support Ralph Lauren's procurement functions and activities, (ii) carry out Ralph Lauren's contractual and legal obligations, (iii) manage Contractors' performance, (iv) implement compliance procedures, and investigate and report on Contractor compliance, (v) comply with Ralph Lauren's legal obligations, carry out investigations and perform internal administrative and analytics activities, and (vi) manage and conduct Ralph Lauren's business activities. 
+
+We obtain, use, disclose and otherwise process Personal Information about Workers' emergency contacts and other individuals (such as dependents and beneficiaries) to the extent our Workers provide the information to us. We process this information to comply with our legal obligations and for internal administrative purposes. To the extent necessary or appropriate for compliance with relevant legal or contractual obligations, we process Sensitive Information about our Workers, including for purposes of managing attendance and Worker records, and organizing elections of employees' union representatives, and to protect the health and safety of our Workers. 
+
+**Choice**
+
+Customers located in the EEA and Switzerland may direct us not to disclose their Personal Information to third parties (other than our service providers). We do not use Personal Information for purposes incompatible with the purposes for which we originally collected the information without notifying the relevant individuals of such uses and offering an opportunity to opt out. 
+
+We may disclose Personal Information without offering individuals an opportunity to opt out (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer Personal Information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Notice. 
+
+**Onward Transfer of Personal Information**
+
+We may share Personal Information with service providers we have retained to perform services on our behalf. We require service providers to whom we disclose Personal Information and who are not subject to laws based on the European Union Data Protection Directive to contractually agree to provide at least the same level of protection for Personal Information as is required by the relevant Safe Harbor principles. 
+
+**Access to Personal Information**
+
+Ralph Lauren provides Customers and Workers with reasonable access to the Personal Information maintained about them. We also provide a reasonable opportunity, as required by applicable law, to correct, amend or delete that information where it is inaccurate. We may limit or deny access to Personal Information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the Safe Harbor principles. To obtain access to Personal Information, Customers may contact Ralph Lauren as specified in the "How to Contact Us" section of this Policy. Workers should submit requests for access to their Personal Information to the local Human Resources representative. 
+
+**Security**
+
+Ralph Lauren maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+
+**Data Integrity**
+
+Ralph Lauren takes reasonable steps to ensure that Personal Information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. We depend on our Customers and Workers to update and correct their Personal Information, or ask us to do so, whenever necessary or appropriate. 
+
+**Enforcement and Oversight**
+
+Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented. 
+
+Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <http://www.jamsadr.com/safeharbor/>; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices 
+
+**How to Contact Us**
+
+Please address any questions or concerns regarding our Safe Harbor Privacy Policy or our practices concerning Personal Information by: 
+
+Writing to: Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+625 Madison Avenue  
+11th Floor  
+New York, New York 10022 
+
+or 
+
+Ralph Lauren Europe Sàrl  
+Attention: General Counsel EMEA  
+24, Route de la Galaise,  
+1228 Plan-Les-Ouates  
+Switzerland 
+
+To learn more about the Safe Harbor Program, and to view Ralph Lauren's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 Back to Top   
+  
+  
+    Mobile Application Privacy Notice  
+  
+This Mobile Application Privacy Notice applies to each of the Ralph Lauren mobile applications ("Apps"). We are not responsible for the content, use or privacy practices of any third-party sites linked from or otherwise accessible from the Apps which are not operated by Ralph Lauren. 
 
+**Personal Information You Provide and How We Use It**
+
+Through our Apps, you can find the location of the nearest Ralph Lauren store by entering your zip code or by allowing the Apps to use your current location to locate the nearest store. You also may access Ralph Lauren's website from the Apps. When you visit our website, we may collect certain personal information about you as described above in the Privacy Notice applicable to our website. 
+
+We may share personal information we collect through the Apps with service providers that perform services on our behalf and our affiliates. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. 
+
+The Apps are not directed to or marketed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen through the App. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen through the Apps, we will delete the information from our records. 
+
+**Access**
+
+We provide you with reasonable access to personal information we have retained about you and the ability to review, correct or update this information. To request access, please write to the address specified in the "Contact Us" section below. 
+
+**Security**
+
+We maintain administrative, technical and physical safeguards to help protect the personal information you provide through the Apps. 
+
+**Changes to the Mobile App Privacy Notice**
+
+We may update this Mobile App Privacy Notice periodically and without prior notice. We will post a notice on the Ralph Lauren.com website and on the Mobile App Privacy Notice appearing on the App itself to notify you of any significant changes and indicate at the bottom of this page when the Notice was most recently updated. 
+
+**Contact Us**
+
+If you have any questions or comments about this Mobile App Privacy Notice, please contact us by writing to: 
+
+Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+625 Madison Avenue  
+11th Floor  
+New York, New York 10022 
+
+**Effective Date of Mobile Application Privacy Notice:** February 25, 2013  
+Back to Top
