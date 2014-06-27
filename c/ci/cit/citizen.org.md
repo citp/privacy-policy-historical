@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227021012id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627153202id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
@@ -17,6 +17,8 @@ Except as noted below, we do not enable cookies or use other software or hardwar
 **When you contribute money online:** If you choose to become a member of Public Citizen or otherwise make a charitable contribution, which we deeply appreciate, we use the information collected from you to process payments. Personal information may be shared with third party service providers (e.g. merchant banks) during this process. If you become a member of Public Citizen, your contact information will be added to our membership list, which is occasionally exchanged with other organizations. Members may opt out of such membership list disclosures by contacting [member@citizen.org](mailto:member@citizen.org).
 
 **When you take action using our Legislative Action Center:** If you choose to take action on one or more of our many issues (i.e. send a fax or email to a member of Congress using our legislative action center), we use the information collected from you to personalize the letter and may contact you in the future on similar issues. We do not disclose it as part of a list to third parties. 
+
+**If you sign one of our online petitions,** your name and state may be included on a list given to legislators or other policy makers in connection with that petition. 
 
 _If our information practices change at some time in the future we will post the policy changes to our Web site to notify everyone of these changes and provide you with the ability to opt out of any new uses. While we do not anticipate any changes to this privacy policy, you should check back at our Web site periodically._
 
