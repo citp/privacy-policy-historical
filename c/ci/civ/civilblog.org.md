@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111033839id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilblog.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140335id_/http%3A//civilblog.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Civil Engineering Blog
+# Privacy Policy
 
 At CivilBlog.Org the  **privacy**  of our visitors is extremely important. This  _Privacy_  Policy outlines the types of personal information that is received and collected and how it is used.
 
