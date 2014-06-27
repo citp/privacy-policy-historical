@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027045748id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627155852id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
 # Project Payday - Realistic Extra Income for the Average Joe
 
@@ -48,8 +48,9 @@ Project Payday does not rent or sell any of the information collected by this we
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   * We believe it is necessary to share information in order to investigate, prevent, or take action in conjunction with illegal activities, suspected fraud, situations involving threats to the physical safety of any person, violations of Project Payday's Terms of Use, or as otherwise required by law;
-  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote Project Payday and earn over $600 in commissions in a calendar year.
-  * To confirm your membership and/or offer additional products and services by phone via a third party.
+  * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates who promote Project Payday and earn over $600 in commissions in a calendar year;
+  * To confirm your membership and/or offer additional products and services by phone via a third party;
+  * We may share your user information with carefully selected and well-respected service providers or other companies that provide marketing services on our behalf or to other providers with whom we have joint marketing agreements.
 
 In addition, you agree that registering at our web site constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR section 310 et seq. (the "ATSR"). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Project Payday and affiliated entities retain the right to contact you via telemarketing in accordance with the terms of the ATSR.
 
@@ -103,4 +104,4 @@ By using this website, you consent to the collection and use of the information 
 
 If you have any questions about this Privacy Policy statement, the privacy-related practices of this website, or your dealings with this website, please contact us via one of the methods above for immediate assistance.
 
-This Privacy Policy was last updated March 3rd, 2010.
+This Privacy Policy was last updated January 20th, 2014.
