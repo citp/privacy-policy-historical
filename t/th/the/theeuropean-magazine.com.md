@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019114703id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627222005id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -62,47 +62,55 @@ Berlin, Berlin 10178
 Germany  
 info@theeuropean.de
 
-Most Read  / Most Commented
+Most Read 
 
-  * Comment
+  * Conversation
 
-## [Why Transparency will save Privacy](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
+## [Michael Bloomberg on cities and innovation](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
 
-[](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
+[](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation#disqus_thread) [](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
 
-Surveillance can’t be stopped. But instead of isolating ourselves and trying to seal off our secrets we should expose them, and the snoopers surrounding us. For the illusory fa... [read more](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
-
-  * Comment
-
-## [Secrecy and the Social Self](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
-
-[](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
-
-To analyze the true value of secrecy, we should not look to the state or companies but to kids and their diaries. For secrets are an essential part of our human development. [read more](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
-
-  * Comment
-
-## [The History of Secrecy ](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
-
-[](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
-
-The trouble with secrecy and transparency goes back a long way. To understand why we need secrets we must take a look at history and the British postal service of the nineteent... [read more](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
+As a former mayor of New York City, Michael Bloomberg knows what challenges cities have to face today and how to respond to them. He told Max Tholl what states should learn fro... [read more](https://web.archive.org/michael-bloomberg--2/8669-michael-bloomberg-on-cities-and-innovation)
 
   * Column
 
-## [The Advantages and Power of Bitcoin](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
+## [What European leaders can learn from Italy](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
 
-[](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
+[](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy#disqus_thread) [](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
 
-Bitcoin is more than just an alternative digital currency: it is the emancipation from a financial system that whitewashes the money of drug cartels, manipulates its own rates,... [read more](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
+The European elections have shown how big a problem populism really is. But Cameron, Hollande and other leaders can keep the populists at bay if they start to look south. [read more](https://web.archive.org/mark-briggs/8633-what-european-leaders-can-learn-from-italy)
+
+  * Conversation
+
+## [Robert Reich on Inequality and Austerity](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
+
+[](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity#disqus_thread) [](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
+
+Former U.S. Secretary of Labor Robert Reich urges us to save capitalism from its own excesses. He sat down with Martin Eiermann to discuss austerity, inequality and our return ... [read more](https://web.archive.org/robert-reich--2/8636-robert-reich-on-inequality-and-austerity)
 
   * Comment
 
-## [Protecting State Secrecy](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
+## [Brazil’s harsh response to the World Cup protests](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
 
-[](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
+[](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests#disqus_thread) [](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
 
-Without secrecy, the state cannot protect its citizens. The public should therefore not have a universal right to transparency. [read more](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
+Brazil has scored an own-goal. If it wanted to show the world how modern and progressive it is, it should have allowed its citizens take to the streets and protest without fear... [read more](https://web.archive.org/naomi-westland/8708-brazils-harsh-response-to-the-world-cup-protests)
+
+  * Comment
+
+## [Love and Modern Society](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+
+[](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society#disqus_thread) [](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+
+Love is like a disease. No wonder we have fought it off for such a long time. [read more](https://web.archive.org/barbara-kuchler--2/8648-love-and-the-modern-society)
+
+  * Voices
+
+## [Why lobbying hinders European development](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
+
+[](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development#disqus_thread) [](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
+
+The German export lobby, the British finance lobby and the French energy lobby hinder problem solving in the EU. The continent has only one chance: the subordination of these i... [read more](https://web.archive.org/nikolaus-kowall--3/8641-why-lobbying-hinders-european-development)
 
 
 
