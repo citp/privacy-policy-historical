@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweredcomms.com.au privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022025144id_/http%3A//www.empoweredcomms.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweredcomms.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627175422id_/http%3A//empoweredcomms.com.au/privacy.php) for the most accurate reproduction.*
 
 # Empowered Communications
 
