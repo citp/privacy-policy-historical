@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scandalist.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528153441id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandalist.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627034334id_/http%3A//www.vh1.com/interact/terms/privacy.jhtml) for the most accurate reproduction.*
 
 # VH1.com : Terms - Privacy Policy and Your Rights, Personal Information, Member Registration
 
-Last Modified: December 2, 2011
+Last Modified: December 26, 2013
 
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
@@ -10,18 +10,6 @@ Last Modified: December 2, 2011
 This is the privacy policy ("Privacy Policy") for VH1.com ("Site," "we," "us," or "our") an Internet website offered in cooperation with the VH1 television channel or programming service ("VH1 Channel"). The VH1 Channel and the Site (together, "VH1") are provided by Viacom Media Networks ("VMN"), a division of Viacom International Inc. (together, VMN and Viacom International Inc., the "Parent Companies"). 
 
 **This Privacy Policy is intended to explain our privacy practices and covers the following areas:**
-
-  1. When This Privacy Policy Applies.
-  2. U.S. Governing Law; Safe Harbor 
-  3. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). 
-  4. Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). 
-  5. Wireless Marketing Services and Associated Promotional Opportunities. 
-  6. Sharing and Disclosure of Personal Information and Other Information.
-  7. Reviewing, Updating or Deleting Certain Information.
-  8. Protection of Information.
-  9. Your California Privacy Rights 
-  10. Changes to this Privacy Policy and Notice.
-  11. Miscellaneous. 
 
   
 **1\. When This Privacy Policy Applies.**
@@ -56,7 +44,7 @@ We use Tracking Technologies to help tailor our content, allow users to move bet
 
 This Site may additionally use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, "Third Party Advertising Service Providers") to, for example, serve advertisements on the Site, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Site ("Targeting Services"). These Third Party Advertising Service Providers may enable us to display advertisements based on your visits to the Site and other websites you have visited. Targeting Services enable us to, among other things, help deliver advertisements or other content to you for products and services that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. 
 
-These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise have access to Other Information about you.
+These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site. The Third Party Advertising Service Providers, as well as Advertisers and other third parties, may themselves set and access their own Tracking Technologies on your Device if you choose to have Tracking Technologies enabled in your browser (or, for Flash cookies, if you have not removed them) and/or they may otherwise collect or have access to Information about you and your online activities over time and across different websites when you use the Site. 
 
 **c. Use of Information.**
 
@@ -110,7 +98,7 @@ See "Termination of Wireless Services by Users" under the "Wireless Marketing Se
 **i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
 
   * Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests. 
-  * You can opt-out of the use of Other Information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe AudienceManager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Advertising Service Providers' opt-out tools. You can access Adobe Audience Manager/Demdex's tool at http://www.donottarget.com/ and DoubleClick's tool at http://www.google.com/intl/en/privacy/ads/ or as described in the next bullet point.
+  * You can opt-out of the use of Other Information for these advertising purposes by two such Third Party Advertising Service Providers, Adobe AudienceManager (formerly known as Demdex) and DoubleClick/Google, by using those Third Party Advertising Service Providers' opt-out tools. You can access Adobe Audience Manager/Demdex's tool at <http://www.donottarget.com/> and DoubleClick's tool at [http://www.google.com/intl/en/privacy/ads/ ](http://www.google.com/intl/en/privacy/ads) or as described in the next bullet point.
   * We also may from time to time permit other Third Party Advertising Service Providers and Advertisers to collect Other Information on the Site. Some of these Third Party Advertising Service Providers and Advertisers may participate in the Network Advertising Initiative's [Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp) and/or the Self-Regulatory Program for [Online Behavioral Advertising](http://www.aboutads.info/choices/). Please click on the links to these tools to learn more about your choices. 
   * Please note the following with respect to opting out: 
     * **The opt-out tools discussed above are "cookie based."** This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices. If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.
@@ -135,6 +123,10 @@ This Site is committed to complying with the Self-Regulatory Principles for Onli
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly. 
 
 **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html>. 
+
+**iv.** Do-Not-Track Signals and Similar Mechanisms. Some web browsers may transmit “do-not-track” signals to the websites with which the browser communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
+
+We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals. Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(b)(i), (ii) and (iii). 
 
 **5\. Wireless Marketing Services and Associated Promotional Opportunities.**
 
@@ -231,4 +223,4 @@ Further, if you use any of the Communities features and functions made available
 **d. Other:** Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2013 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
