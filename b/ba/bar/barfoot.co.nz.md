@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216094242id_/http%3A//www.barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barfoot.co.nz privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627111914id_/http%3A//www.barfoot.co.nz/Global/Legal%2520Documents/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Barfoot & Thompson
+
+ 
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our website and/or application and our products and services.
 
