@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krdo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501121118id_/http%3A//www.krdo.com/news/Privacy-Policy/-/417220/1656226/-/b3fpxe/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krdo.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140329id_/http%3A//www.krdo.com/news/Privacy-Policy/1656226) for the most accurate reproduction.*
 
 # Privacy Policy | News - Home
 
