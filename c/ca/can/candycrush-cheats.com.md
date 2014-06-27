@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223101040id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627192724id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Candy Crush Saga Cheats
 
@@ -50,6 +50,8 @@ Answers Network may automatically receive and log certain types of information w
 
 • Referring Site, Application, or Service
 
+• Age, Gender, and Interests
+
 Answers Network Use of This Information
 
 Answers Network uses the Information we obtain from or concerning you or your computer or device to manage our business, improve our offerings, and understand how users are engaging with Answers Network.
@@ -79,6 +81,8 @@ Specifically:
 • Google’s use of DoubleClick location data allows it and its partners to collect information derived from an end user’s GPS, wifi or cell tower data.
 
 • You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager.
+
+• We use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
 
 Answers Network also works with other third party vendors that use cookies to serve more targeted advertisements on Answers Network. You may opt out of their use of cookies for interest-based advertising by visiting those vendors’ websites. These vendors include:
 
