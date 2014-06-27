@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4electronicwarehouse.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208173550id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4electronicwarehouse.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627183634id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 			<title>Privacy Statement: Customer Service: Your Electronic Warehouse</title>
@@ -8,7 +8,7 @@
 			<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 			<meta http-equiv="imagetoolbar" content="no">
 			<link rel="shortcut icon" href="http://www.4electronicwarehouse.com/favicon.ico" type="image/x-icon">
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+			<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 				var conf={};
 				conf.phoneNumber="1-866-224-6171";
 				conf.minOrder="99";
@@ -41,30 +41,62 @@
 				</script>
 			<![endif]-->
 			<link rel="canonical" href="http://www.4electronicwarehouse.com/service/privacy-statement.html">
-			<script type="text/javascript">
-				  var _gaq = _gaq || [];
-				  _gaq.push(['_setAccount', 'UA-31352-1']);
-				  _gaq.push(['_trackPageview']);
-			_gaq.push(['_trackPageLoadTime']);
-				  (function() {
-				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				  })();
-			</script>
-		
-			<link href="/shared/stylesheets/layout.css.php" rel="stylesheet" type="text/css">
+        <!-- Google Analytics -->
+            <script type="text/javascript">
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-31352-1', '4electronicwarehouse.com');
+            ga('send', 'pageview');
+
+            ga('require', 'ecommerce', 'ecommerce.js');
+            </script>
+        <!-- End Google Analytics -->
+
+			<link href="/shared/stylesheets/layout_builder.css.php?id=1" rel="stylesheet" type="text/css">
 			<!--[if IE 6]>
 				<link href="/shared/new/include/stylesheets/layout-ie6.css" rel="stylesheet" type="text/css" />
 			<![endif]-->
 			<!--[if IE 7]>
 				<style type="text/css">
 				</style>
-			<![endif]--> 
-				<script type="text/javascript" src="/shared/javascript/jQuery.js"></script>
-				<script type="text/javascript" src="/shared/javascript/sliding-boxes.js"></script>
-				<script type="text/javascript" src="/shared/javascript/ticker.js"></script>
-				<script type="text/javascript" src="/shared/javascript/tooltip.js"></script>
+			<![endif]-->
+                    <script type="text/javascript" src="/shared/3ps/jquery/jquery-1.11.1.min.js"></script>
+                    <script type="text/javascript" src="/shared/3ps/jquery/jquery-ui-1.10.4.min.js"></script>
+                    <link href="/shared/stylesheets/jquery-ui.min.css" rel="stylesheet" typt="text/css">
+                    <script type="text/javascript" src="/shared/javascript/jquery.nivo.slider.js"></script>
+                    <link href="/shared/stylesheets/nivo-slider.css" rel="stylesheet" typt="text/css">
+                    <script type="text/javascript" src="/shared/javascript/ticker.js"></script>
+                    <script type="text/javascript" src="/shared/javascript/tooltip.js"></script>
+                    
+                <script>
+                    $(window).load(function() {
+                            $('#slider').nivoSlider();
+                     });
+                </script>
+
+                    
+                    <script src="/shared/javascript/jquery.plugin.js" type="text/javascript"></script>
+        <script src="/shared/javascript/jquery.countdown.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(function() {
+                var christmasDay = new Date();
+                christmasDay = new Date();
+                $('#christmasCountdown').countdown({
+                until:  christmasDay,
+                padZeroes: true,
+                layout: '<span class="countdown-section days"><span class="countdown-amount">{d<}{dnn}{d>}</span></span>'+
+                    '<span class="countdown-section hours"><span class="countdown-amount">{hnn}</span></span>'+
+                    '<span class="countdown-section minutes"><span class="countdown-amount">{mnn}</span></span>'+
+                    '<span class="countdown-section seconds"><span class="countdown-amount">{snn}</span></span>',
+                    expiryText: '<div class="over">Merry Christmas!</div>'
+                });
+            });
+        </script>
+            <link href="/shared/stylesheets/countdown.css" rel="stylesheet" type="text/css">
+                    
 			
 			<!-- START TICKERTEXT JAVASCRIPT -->
 			<script type="text/javascript">
@@ -77,32 +109,12 @@
 			</script>
 			<!-- END TICKERTEXT JAVASCRIPT -->
 			
-			<!--START GOOGLE AUTOCOMPLETIONS -->
-						<script src="https://www.google.com/jsapi" type="text/javascript"></script>
-			<script type="text/javascript">
-				//<![CDATA[
-		
-				// For Search-As-You-Type Autocomplete
-				google.load("search", "1");
-				function onLoad() {
-				  google.search.CustomSearchControl.attachAutoCompletion("007283384336588247177:ihyw23p7dhm",
-				                                                         document.getElementById("searchText"),
-				                                                         "mainSearch");
-				}
-				
-				
-				google.setOnLoadCallback(onLoad);
-				//]]>
-				</script>
-			<!--END GOOGLE AUTOCOMPLETIONS-->
 		<!--START GSA AUTOCOMPLETIONS / SAYT-->
-            <link rel="stylesheet" href="shared/search/commerce_sayt.css" type="text/css" media="screen">
-            <script src="//www.google.com/jsapi" type="text/javascript"></script>
-            <script src="//www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
+                <script src="http://192.237.131.202:14993/sayt/js/sayt.js"></script>
+                <link rel="stylesheet" href="/shared/stylesheets/sayt.css">
         <!-- END GSA AUTOCOMPLETIONS / SAYT-->
                                  	
-			
-		<link rel="stylesheet" type="text/css" href="/shared/ajax/jsLogErrors.php?error=msg%3DUncaught%20ReferenceError%3A%20setupSayt%20is%20not%20defined%20%0A%20line%3D700%20%0A%20file%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html%20%0A%20requested%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html"><link rel="stylesheet" type="text/css" href="/shared/ajax/jsLogErrors.php?error=msg%3DUncaught%20TypeError%3A%20%24%28...%29.countdown%20is%20not%20a%20function%20%0A%20line%3D812%20%0A%20file%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html%20%0A%20requested%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html"><link rel="stylesheet" type="text/css" href="/shared/ajax/jsLogErrors.php?error=msg%3DUncaught%20ReferenceError%3A%20google%20is%20not%20defined%20%0A%20line%3D85%20%0A%20file%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html%20%0A%20requested%3Dhttps%3A//web.archive.org/web/20131208173550id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html"></head>
+            		<link rel="stylesheet" type="text/css" href="/shared/ajax/jsLogErrors.php?error=msg%3DUncaught%20TypeError%3A%20%24%28...%29.sayt%20is%20not%20a%20function%20%0A%20line%3D611%20%0A%20file%3Dhttps%3A//web.archive.org/web/20140627183634id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html%20%0A%20requested%3Dhttps%3A//web.archive.org/web/20140627183634id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html"><link rel="stylesheet" type="text/css" href="/shared/ajax/jsLogErrors.php?error=msg%3DUncaught%20TypeError%3A%20%24%28...%29.countdown%20is%20not%20a%20function%20%0A%20line%3D86%20%0A%20file%3Dhttps%3A//web.archive.org/web/20140627183634id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html%20%0A%20requested%3Dhttps%3A//web.archive.org/web/20140627183634id_/http%253A//www.4electronicwarehouse.com/service/privacy-statement.html"></head>
 		<body id="RedBorder">
 			<!-- Convert -->
 			<script type="text/javascript">
@@ -251,30 +263,16 @@ This site has security measures in place to protect the loss, misuse and alterat
 					<img src="/pics/ebaypowerseller.gif" alt="eBay Power Seller - View Feedback" title="eBay Power Seller - View Feedback" width="150" height="70">
 				</a>
 				<!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
-				<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html" target="_blank">
-					<img src="//images.bizrate.com/medals/dynamic/30826_medal.gif" alt="BizRate Customer Certified (GOLD) Site" title="BizRate Customer Certified (GOLD) Site" width="125" height="73">
-				</a>
-				<!-- Nextag -->
-				<a href="http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm" target="_blank">
-					<img src="http://www.nextag.com/seller/NextagLogo.jsp?seller=153170" alt="NexTag Seller" title="NexTag Seller">
-				</a>
+				<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html" target="bizrate.com" rel="nofollow">
+                    <img src="https://medals.bizrate.com/medals/dynamic/30826_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="115" height="67" border="0" align="middle"></a>
 				<!-- Pricegrabber -->
 				<a href="http://www.pricegrabber.com/rating_getreview.php/retid=469" target="_blank">
 					<img border="0" src="http://ah.pricegrabber.com/merchant_rating_image.php?retid=469" alt="PriceGrabber User Ratings for 4ElectronicWarehouse" title="PriceGrabber User Ratings for 4ElectronicWarehouse">
 				</a>
-				<!-- Shopping.com -->
-				<a href="http://www.shopping.com/xMR-Your Electronic Warehouse~MRD-302142~S-1" target="_blank">
-					<img src="//www.shopping.com/merchant_logo?ID=302142" alt="Read Your Store Reviews" title="Read Your Store Reviews" width="180" height="75">
-				</a>
-				<!-- Reseller Ratings -->
-				<a href="http://www.resellerratings.com/seller4092.html" target="_blank">
-					<img src="//www.resellerratings.com/images/rr-graphics/graphic3.gif" alt="Reseller Ratings: Your Electronic Warehouse Reviews" title="Reseller Ratings: Your Electronic Warehouse Reviews" width="124" height="88">
-				</a>
-				<!--ShopcartUSA Certified Merchant Seal - DO NOT MODIFY-->
-				<a href="http://www.shopcartusa.com/yourelectronic" target="_blank">
-					<img src="/pics/shopcartusareview2.gif" alt="ShopCartUSA.com" title="ShopCartUSA.com" width="120" height="63">
-				</a>
-				<!--End ShopcartUSA Rating Popup Script-->
+                <!-- BEGIN STELLASERVICE SEAL CODE -->            
+                <a class="stella-seal"></a>
+                <script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script>
+                <!-- END STELLASERVICE SEAL CODE -->
 					</div>
 					</div> <!--END ID="CONTENTWRAPPER" -->
 			</div> <!--END ID="CONTENTTOP" -->
@@ -292,9 +290,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 						<img src="/content/logos/monster-small.gif" alt="Monster Internet Authorized Dealer" title="Monster Internet Authorized Dealer" width="71" height="10"></a>
 						&nbsp;
 					</span>
-					<span onclick="window.location='/brands/pioneer';">
-						<a href="http://www.4electronicwarehouse.com/brands/pioneer">
-						<img src="/content/logos/pioneer-small.gif" alt="Pioneer Internet Authorized Dealer" title="Pioneer Internet Authorized Dealer" width="65" height="15"></a>
+					<span onclick="window.location='/brands/beats';">
+						<a href="http://www.4electronicwarehouse.com/brands/beats">
+						<img src="/content/logos/beats-small.gif" alt="Beats Internet Authorized Dealer" title="Beats Internet Authorized Dealer" width="43" height="24"></a>
 						&nbsp;
 					</span>
 					<span onclick="window.location='/brands/niles';">
@@ -358,13 +356,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 									<div>
 			 
 				<script type="text/javascript">
-					var footer_tab_active = 'recently_viewed';
+					var footer_tab_active = 'pop_5';
 				</script>
 				<ul id="fTabs" class="pTabs">	
-						<li id="recently_viewed" class="tab_active">
-				<a name="recently_viewed" href="http://www.4electronicwarehouse.com" onclick="return false;">Recently Viewed</a>
-			</li>
-						<li id="pop_5" class="tab_notactive">
+						<li id="pop_5" class="tab_active">
 				<a name="pop_5" href="http://www.4electronicwarehouse.com" onclick="return false;">Popular Products</a>
 			</li>
 						<li id="pop_1" class="tab_notactive">
@@ -375,25 +370,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 			</li>
 					</ul>
 		<div class="tab_info">
-						<div id="recently_viewed_info" class="info_active clearAfter">
-						<div class="">
-			 			<div class="infoBoxInfo clearAfter">
-			 				 		<div class="vsProducts" style="float: left; width: 189.5px;">
-			 			<a class="imgLink gridImgs" href="http://www.4electronicwarehouse.com/sennheiser-pc333d-stereo-gamer-headset-p23194"><img src="/resized/s75/content/sennheiser/pc333d-stereo-gamer-headset.jpg" alt="Sennheiser PC333D Stereo Gamer Headset" title="Sennheiser PC333D Stereo Gamer Headset" width="58" height="75" id="mainimg_23194">&nbsp;</a>
-			 			<a href="http://www.4electronicwarehouse.com/sennheiser-pc333d-stereo-gamer-headset-p23194">Sennheiser PC333D Stereo Gamer Headset</a>
-			 		</div>
-			 				 		<div class="vsProducts" style="float: left; width: 189.5px;">
-			 			<a class="imgLink gridImgs" href="http://www.4electronicwarehouse.com/monster-ci-pro-14-4-speaker-wire-cable-p1806"><img src="/resized/s75/content/monster/cp14-4.jpg" alt="Monster® CI Pro 14-4 Speaker Wire Cable" title="Monster® CI Pro 14-4 Speaker Wire Cable" width="73" height="75" id="mainimg_1806">&nbsp;</a>
-			 			<a href="http://www.4electronicwarehouse.com/monster-ci-pro-14-4-speaker-wire-cable-p1806">Monster<sup>®</sup> CI Pro 14-4 Speaker Wire Cable</a>
-			 		</div>
-			 				 		<div class="vsProducts" style="float: left; width: 189.5px;">
-			 			<a class="imgLink gridImgs" href="http://www.4electronicwarehouse.com/lg-60pz550-60-1080p-plasma-3d-hdtv-p22804"><img src="/resized/s75/content/lg/60pz550-plasma-3d-hdtv.jpg" alt="LG 60PZ550 60&quot; 1080p Plasma 3D HDTV" title="LG 60PZ550 60&quot; 1080p Plasma 3D HDTV" width="75" height="53" id="mainimg_22804">&nbsp;</a>
-			 			<a href="http://www.4electronicwarehouse.com/lg-60pz550-60-1080p-plasma-3d-hdtv-p22804">LG 60PZ550 60" 1080p Plasma 3D HDTV</a>
-			 		</div>
-			 			 	</div>
-		</div>
-				</div>
-					<div id="pop_5_info" class="info_notactive clearAfter">
+						<div id="pop_5_info" class="info_active clearAfter">
 				<div class="popsContainer clearAfter">
 											<a href="/yamaha-pdx-30-portable-ipod-iphone-speaker-dock-p15726">Yamaha PDX-30</a>
 											<a href="/bose-mie2-in-ear-mobile-headset-headphones-p21355">Bose In Ear Headset 2</a>
@@ -474,22 +451,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 					<td>
 					<a href="http://www.4electronicwarehouse.com/service/payment-options.html" rel="nofollow">
 		
-					<img src="/shared/pics/payment-logos.gif" width="92" height="88" alt="Mastercard, Visa, Discover, American Express, Google Checkout, PayPal"></a>
+					<img src="/shared/pics/payment-logos.gif" width="92" height="88" alt="Mastercard, Visa, Discover, American Express, PayPal"></a>
 		
 					</td>
 					
-					<td>
-					<!-- BIZRATE CIRCLE OF EXCELLENCE -->
-					<a href="http://www.4electronicwarehouse.com/blog/your-electronic-warehouse-wins-bizrate-circle-of-excellence-award.html" target="bizrate.com" rel="nofollow">
-					<img src="/content/circle-of-excellence.gif" alt="BizRate Circle of Excellence 2009" width="64" height="90" border="0" align="middle"></a>
-					</td>
-							
-					<td>
-					<!-- PRICE GRABBER -->
-					<a href="http://www.pricegrabber.com/rating_getreview.php/retid=469" target="_blank" rel="nofollow">
-					<img border="0" src="https://a248.e.akamai.net/f/248/10025/1d/www.pricegrabber.com/merchant_rating_image_secure.php?retid=469" alt="PriceGrabber User Ratings for 4ElectronicWarehouse"></a>
-					</td>
-						
 					<td>
 		
 					<!-- MCAFEE -->
@@ -501,12 +466,12 @@ This site has security measures in place to protect the loss, misuse and alterat
 					<!-- CYBERTRUST -->
 								
 					<td>
-						<a target="_blank" href="http://stellaservice.com/profile/462/">
-							<img src="/shared/pics/stella-service-excellent.gif" alt="STELLA Service Excellent">
-						</a>
+                    <!-- BEGIN STELLASERVICE SEAL CODE -->            
+                    <a class="stella-seal"></a>
+                    <script defer="" src="//seal.stellaservice.com/public/js/seal.js"></script>
+                    <!-- END STELLASERVICE SEAL CODE --> 
 					</td>
 					
-					<td></td>
 					<td>
 					<!-- BIZRATE -->
 		
@@ -521,12 +486,12 @@ This site has security measures in place to protect the loss, misuse and alterat
 					<div class="bottomFootLeft">
 								<div class="copyrightRight">
 			<div class="copyright">
-								<div>Copyright© 1997-2013 Your Electronic Warehouse</div> Designated trademarks and brands are the property of their respective owners.
+								<div>Copyright© 1997-2014 Your Electronic Warehouse</div> Designated trademarks and brands are the property of their respective owners.
 				<div class="footerLinks">
 					<a href="http://www.4electronicwarehouse.com/service/about-us.html" rel="nofollow">About Us</a> ·
 					<a href="http://www.4electronicwarehouse.com/blog/">Blog</a> ·
 					<a href="http://www.4electronicwarehouse.com/service/" rel="nofollow">Customer Service</a> ·
-					<a href="https://1stinvideo.affiliatetechnology.com/">Affiliates</a> ·
+					<a href="http://www.4electronicwarehouse.com/service/affiliates.html">Affiliates</a> ·
 					<a href="http://www.4electronicwarehouse.com/service/privacy-statement.html" rel="nofollow">Privacy Statement</a> ·
 					<a href="http://m.4yew.com" rel="nofollow">Mobile Site</a> ·
 					<a href="http://www.4electronicwarehouse.com/sitemap.php">Site Map</a>
@@ -576,64 +541,22 @@ This site has security measures in place to protect the loss, misuse and alterat
 			
 								
 					<li>
-						<a href="/specials/companion-save10">
-							Winter Promotion: Save 10% on Bose® Companion® - Details »
+						<a href="/specials/soundtouch-portable-50off">
+							$50 OFF Bose® SoundTouch™ Portable - Details »
 						</a>
 					</li> 
 					
 								
 					<li style="display:none;">
-						<a href="/specials/bose-lifestyle-upto500off">
-							Winter Promotion: Save Up To $500 Bose® Lifestyle® Series II - Details »
+						<a href="/specials/new-solo2">
+							PRE-ORDER NOW : Beats by Dr. Dre Solo 2 Headphones - Details »
 						</a>
 					</li> 
 					
 								
 					<li style="display:none;">
-						<a href="/specials/cinemate-60off">
-							Winter Promotion: Save $60 on CineMate® GS Series II - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/bose-audio-headphones">
-							Save On Bose® Audio Headphones - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/bose-ie2-headphones">
-							10% Off Bose® Headphones - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/bose-digital-music-system">
-							Winter Promotion : Bose® Digital Music System - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/bose-solotv-40off">
-							Winter Promotion: Save $40 on Bose® Solo TV Sound System - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/beats-solo">
-							NEW COLORS : Beats Solo HD Headphones - Details »
-						</a>
-					</li> 
-					
-								
-					<li style="display:none;">
-						<a href="/specials/onkyo-50off">
-							$50 Off Onkyo AV Receivers - Details »
+						<a href="/specials/solo-hd-30off">
+							Now $169.95 : Drenched Solo HD Headphones - Details »
 						</a>
 					</li> 
 					
@@ -672,36 +595,131 @@ This site has security measures in place to protect the loss, misuse and alterat
 							<span class="searchTab">SEARCH</span>
 							<span class="phone">1-866-224-6171</span>
 						</div>
-                                                                        <form action="/search.php" method="get" id="mainSearch" name="mainSearch">
+                                                <form action="/search.php" method="get" id="mainSearch" name="mainSearch">
                             <input type="text" onkeydown="$('#refinements').val('')" name="q" value="" size="12" id="q" class="textInput" autocomplete="off">
                             <input type="submit" value="Search" id="qsButton">
                             <input type="hidden" name="refinements" id="refinements" value="">
                         </form>
-                        <script type="text/javascript">
-                        var cx = '013357202174079907832:eqoreixyv1b'; //YEW 
-                            var key = 'AIzaSyCNcvOq3RqiSLFEKk1r1JeplRhx0BbvjYQ';
-                            var saytParams = {
-                                    country: 'US',
-                                    language: 'en',
-                                    sayt_use_max_thumb_style: 'TRUE',
-                                    extra_params: {
-                                        safe: false
-                                    }
-                                };
+                        <script>
+    var lastAcId;
+    $('#q').keydown(function(event) {
+        if (lastAcId != undefined) {
+            $('#ac_'+lastAcId).removeClass('ui-state-focus');
+            $('#nav_'+lastAcId).removeClass('ui-state-focus');
+        }
+    });
 
-                            var autoCompletionOptions = {'maxCompletions' : 5};
-                            var setSaytCallback = function(sayt) {
-                                    if (sayt != null) {
-                                        window['__gcs_sayt'] = sayt;
-                                        completionObject = sayt['completionController'];
-                                    } else {
-                                        // SAYT is disabled, initialize your current autocompletions code.
-                                    }
-                                };
-                                setupSayt(cx, key, 'q', 'mainSearch',
-                                    setSaytCallback, autoCompletionOptions, saytParams);
-                        </script>
-                        					</div>
+    $('#q').sayt({
+        source: function(request, response) {
+           $.getJSON('http://192.237.131.202:14993/sayt/autocomplete?callback=?',
+                { // request block, see parameters above
+                    q:request.term,
+                    c:'vmw',
+                    s:'YEW'
+                }, response);
+        },
+        focus: function(event, ui) {
+            // overrides default jquery focus behaviour
+            event.preventDefault();
+            if (ui.item.type == 'searchTerm') {
+                //searchProduct(ui.item.value);
+                focusChange('ac',event,ui.item);
+            } else if (ui.item.type == 'navigation') {
+                //searchProduct('','~'+ ui.item.category + '=' + ui.item.value);
+                focusChange('nav',event,ui.item);
+            } else if (ui.item.type == 'product') {
+                // handle products here
+                searchProduct(ui.item.value);
+            }
+        },
+        select: function(event, ui) {
+            // overrides default jquery select behaviour
+            event.preventDefault();
+            if (ui.item.type == 'searchTerm') {
+                $('#q').val(ui.item.value);
+                $('#mainSearch').submit();
+            } else if (ui.item.type == 'navigation') {
+                // handle navigation autocompletes here
+                // navigation name is ui.item.category (using default template)
+                // navigation value is ui.item.value (using default template)
+                $('#q').val('');
+                $('#refinements').val($('#refinements').val() + '~' + ui.item.category + '=' + ui.item.value);
+                $('#mainSearch').submit();
+            } else if (ui.item.type == 'product') {
+                // handle product search here
+                $('#q').val('pid:'+ ui.item.pid);
+                $('#mainSearch').submit();
+            }
+        }
+    });
+function searchProduct(searchTerm, refinements) {
+        $.getJSON('http://192.237.131.202:14993/sayt/productSearch?callback=?',
+            { // request block, see parameters above
+                q:searchTerm,
+                r:refinements,
+                s:'YEW',
+                pi:'5'
+            }, function(data) {
+                formatPrice(data[0].products);
+                dust.render('productTemplate.dust', { items:data }, function(err, out) {
+                    // handle rendering product results here
+                    $('.sayt-product-content').remove();
+                    $('#sayt-menu').append(out);
+                });
+            });
+    }
+function focusChange(id, event, item) {
+    if (event.keyCode != undefined) {
+            // using keyboard
+            if (lastAcId != undefined) {
+                $('#'+id+'_'+lastAcId).removeClass('ui-state-focus');
+            }
+
+            // add highlighted class
+        $('#'+id+'_'+item.id).addClass('ui-state-focus');
+
+        lastAcId = item.id;
+
+        // replace the search term
+        $('#keyword').val(item.value);
+
+        // replace products with new search term
+        searchProduct(item.value, '', 'override');
+        } else {
+            // using mouse, remove the keyboard focus class
+            $('#'+id+'_'+lastAcId).removeClass('ui-state-focus');
+        }
+    }
+    /**
+    * formatPrice
+    * takes an object of items, reformats the price key for each to include the right amount of commas and 0's
+    **/
+    function formatPrice(items) {
+        // loop through each item
+        for (var key in items) {
+            var newPrice,
+                splitPrice;
+
+            newPrice = items[key].allMeta.price;
+            // split price to get the length of the trailing digits
+            splitPrice = newPrice.split('.');
+
+            // if the length of trailing digits is not 2, add an extra 0 on the end
+            if (splitPrice[1].length != 2) {
+                newPrice = newPrice+'0';
+            }
+
+            // add the $ sign
+        //    newPrice = '$'+newPrice;
+
+            // overwrite the old price with the newly formatted price
+        items[key].allMeta.price = newPrice;
+          }//END for-in
+    }//END formatPrice
+
+</script>
+    
+					</div>
 					
 					<!--<script type="text/javascript">
 						setTimeout(function(){init_search('qs');},300);
@@ -709,120 +727,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 		
 				</span>
 				<span id="headerRight">
-							
-		<script src="/shared/javascript/countdownV3.js" type="text/javascript"></script>
-		<style type="text/css">
-			span.slogan{
-				margin-top: 5px;
-			}
-			div.countdownCont{
-				width: 470px;
-								height: 65px;
-				margin-top: 5px;
-			}
-				div.countdownCont h5{
-					font-weight: normal;
-					font-size: 10px;
-					color: #009900;
-					font-style: italic;
-				}
-				div.countdownCont h5 a{
-					font-size: 10px;
-				}
-			div.countdownTitle{
-				float: left;
-				width: 260px;
-			}
-				div.countdownTitle h4{
-					font-weight: bold;
-					font-size: 22px;
-					color: #CC0000;
-				}
-				div.countdownTitle h5{
-					font-weight: bold;
-					font-size: 12px;
-					color: #009900;
-					font-style: italic;
-				}
-			div.christmasCountdownCont{
-				float: right;
-			}
-			div.hasCountdown{
-				height: 40px;
-			}	
-				div.hasCountdown span.countdown_section{
-					float: left;
-				}
-				div.hasCountdown span.days{
-					background: url(/shared/holiday/images/2011/christmas/count-down-bg-days.jpg) no-repeat;
-				}
-				div.hasCountdown span.hours{
-					background: url(/shared/holiday/images/2011/christmas/count-down-bg-hours.jpg) no-repeat;
-				}
-				div.hasCountdown span.minutes{
-					background: url(/shared/holiday/images/2011/christmas/count-down-bg-minutes.jpg) no-repeat;
-				}
-				div.hasCountdown span.seconds{
-					background: url(/shared/holiday/images/2011/christmas/count-down-bg-seconds.jpg) no-repeat;
-				}
-					span.countdown_section span.countdown_amount{
-						font: bold 20pt Verdana;
-						text-align: right;
-						padding: 0px 3px 0px 0px;
-						width: 47px;
-						height: 40px; 
-						letter-spacing: 2px;
-						color: #FFF;
-					}
-				div.xmasShippingSchedule{
-					text-align: right;	
-				}
-					div.xmasShippingSchedule a{
-						text-decoration: none;
-						color: #FFF;
-						font-weight: bold;
-					}
-					div.xmasShippingSchedule a:hover{
-						text-decoration: underline;
-					}
-		</style>
-		<!--<span class="slogan">
-			<img src="/pics/slogan-short.gif" alt="Home Electronics and Custom Installation Experts!" title="Home Electronics and Custom Installation Experts!" width="500"  />
-		</span>-->
-		<!--Y-m-d H-->
-				
-		<div class="countdownCont">
-			<div class="clearAfter">
-				<div class="countdownTitle">
-					<h4>SHIPPING COUNTDOWN</h4>
-					<h5>for Guaranteed Christmas Delivery</h5>
-				</div>
-				<div class="christmasCountdownCont">
-					<div id="christmasCountdown"></div>
-				</div>
-			</div>
-			<h5>on in-stock items shipped via <strong>FedEx Home Delivery®</strong></h5>
-			<h5> to arrive by <strong>Tuesday, December 24, 2013</strong>
-			  - <a href="http://www.4electronicwarehouse.com/service/shipping-options.html">Shipping Schedule »</a></h5>
-		</div>
-		
-		<script type="text/javascript">
-			$(function () {
-				var christmasDay = new Date();
-				christmasDay = new Date(2013,12-1,18,15);
-				$('#christmasCountdown').countdown({
-					until: 	christmasDay,
-					format: 'DHMS',
-					layout:	'<span class="countdown_section days"><span class="countdown_amount">{d<}{dnn}{d>}</span></span>'+
-							'<span class="countdown_section hours"><span class="countdown_amount">{hnn}</span></span>'+
-							'<span class="countdown_section minutes"><span class="countdown_amount">{mnn}</span></span>'+
-							'<span class="countdown_section seconds"><span class="countdown_amount">{snn}</span></span>',
-					expiryText: '<div class="over">Merry Christmas!</div>'
-				});
-			});
-		</script>
-		
-					</span>
+													<span class="slogan">
+									<img src="/pics/slogan.gif" alt="Home Electronics and Custom Installation Experts!" title="Home Electronics and Custom Installation Experts!">
+								</span>
+											</span>
 			</div>
 					
 		<div id="navigationWrapper">
@@ -862,12 +770,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 							Home, Travel &amp; Leisure						</a>
 					</li>
 					
-											<li class="buttons lines">|</li>
-										<li class="buttons">
-						<a id="a_other-categories" class="mainNav " href="http://www.4electronicwarehouse.com/other-c1407">
-							Other						</a>
-					</li>
-					
 								</ul>
 		</div>
 		
@@ -878,13 +780,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/blu-ray-dvd-players-c1645">Blu-Ray &amp; DVD Players</a>
-							<span class="count">(12)</span></li>
-											<li><a href="http://www.4electronicwarehouse.com/projection-c1644">Projection</a>
-							<span class="count">(11)</span></li>
+							<span class="count">(4)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/tv-video-accessories-c1649">TV &amp; Video Accessories</a>
-							<span class="count">(106)</span></li>
-											<li><a href="http://www.4electronicwarehouse.com/televisions-c1">Televisions</a>
-							<span class="count">(7)</span></li>
+							<span class="count">(32)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/tv-video-c1640">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -896,28 +794,24 @@ This site has security measures in place to protect the loss, misuse and alterat
 					<li class="title">Shop by Brand</li>
 											<li><a href="/bose-tv-video-c1640m9">Bose®</a>
 							<span class="count">(6)</span></li>
-											<li><a href="/diamond-tv-video-c1640m512">Diamond</a>
-							<span class="count">(10)</span></li>
+											<li><a href="/denon-tv-video-c1640m4">Denon</a>
+							<span class="count">(2)</span></li>
 											<li><a href="/eagle-creek-tv-video-c1640m458">Eagle Creek</a>
-							<span class="count">(4)</span></li>
-											<li><a href="/pioneer-elite-tv-video-c1640m1">Pioneer Elite</a>
-							<span class="count">(4)</span></li>
-											<li><a href="/elite-screens-tv-video-c1640m511">Elite Screens</a>
-							<span class="count">(7)</span></li>
+							<span class="count">(1)</span></li>
 											<li><a href="/professional-installation-tv-video-c1640m125">Professional Installation</a>
 							<span class="count">(5)</span></li>
+											<li><a href="/marantz-tv-video-c1640m23">Marantz</a>
+							<span class="count">(2)</span></li>
 											<li><a href="/monster-tv-video-c1640m30">Monster<sup>®</sup></a>
-							<span class="count">(51)</span></li>
-											<li><a href="/niles-audio-tv-video-c1640m11">Niles Audio</a>
-							<span class="count">(5)</span></li>
-											<li><a href="/optoma-tv-video-c1640m93">Optoma</a>
-							<span class="count">(4)</span></li>
-											<li><a href="/pioneer-tv-video-c1640m15">Pioneer</a>
-							<span class="count">(4)</span></li>
-											<li><a href="/sanus-tv-video-c1640m48">Sanus</a>
 							<span class="count">(12)</span></li>
-											<li><a href="/winegard-tv-video-c1640m147">Winegard</a>
-							<span class="count">(4)</span></li>
+											<li><a href="/niles-audio-tv-video-c1640m11">Niles Audio</a>
+							<span class="count">(3)</span></li>
+											<li><a href="/panamax-tv-video-c1640m279">Panamax</a>
+							<span class="count">(2)</span></li>
+											<li><a href="/sanus-tv-video-c1640m48">Sanus</a>
+							<span class="count">(2)</span></li>
+											<li><a href="/trulink-tv-video-c1640m549">TruLink</a>
+							<span class="count">(1)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/tv-video-c1640">See More Brands</a> »</div>
@@ -931,19 +825,19 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/audio-c1404">Audio</a>
-							<span class="count">(66)</span></li>
+							<span class="count">(36)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/audio-players-c1636">Audio Players</a>
-							<span class="count">(34)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/home-theater-c1651">Home Theater</a>
-							<span class="count">(28)</span></li>
+							<span class="count">(15)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/home-theater-audio-accessori-c1637">Home Theater &amp; Audio Accessori</a>
-							<span class="count">(58)</span></li>
+							<span class="count">(29)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/professional-audio-c274">Professional Audio</a>
-							<span class="count">(65)</span></li>
+							<span class="count">(1)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/receivers-c3">Receivers</a>
-							<span class="count">(83)</span></li>
+							<span class="count">(23)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/speakers-c7">Speakers</a>
-							<span class="count">(116)</span></li>
+							<span class="count">(84)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/home-theater-audio-c1405">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -953,30 +847,30 @@ This site has security measures in place to protect the loss, misuse and alterat
 			<div class="clearAfter">
 				<ul>
 					<li class="title">Shop by Brand</li>
+											<li><a href="/beats-by-dr.-dre-home-theater-audio-c1405m541">Beats by Dr. Dre</a>
+							<span class="count">(5)</span></li>
 											<li><a href="/bose-home-theater-audio-c1405m9">Bose®</a>
-							<span class="count">(48)</span></li>
+							<span class="count">(49)</span></li>
 											<li><a href="/boston-acoustics-home-theater-audio-c1405m120">Boston Acoustics</a>
-							<span class="count">(30)</span></li>
+							<span class="count">(16)</span></li>
 											<li><a href="/denon-home-theater-audio-c1405m4">Denon</a>
-							<span class="count">(19)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="/energy-home-theater-audio-c1405m3">Energy</a>
 							<span class="count">(10)</span></li>
+											<li><a href="/professional-installation-home-theater-audio-c1405m125">Professional Installation</a>
+							<span class="count">(4)</span></li>
 											<li><a href="/marantz-home-theater-audio-c1405m23">Marantz</a>
-							<span class="count">(29)</span></li>
+							<span class="count">(9)</span></li>
 											<li><a href="/monster-home-theater-audio-c1405m30">Monster<sup>®</sup></a>
-							<span class="count">(68)</span></li>
+							<span class="count">(25)</span></li>
 											<li><a href="/niles-audio-home-theater-audio-c1405m11">Niles Audio</a>
-							<span class="count">(39)</span></li>
+							<span class="count">(38)</span></li>
 											<li><a href="/onkyo-home-theater-audio-c1405m26">Onkyo</a>
-							<span class="count">(21)</span></li>
-											<li><a href="/pioneer-home-theater-audio-c1405m15">Pioneer</a>
-							<span class="count">(14)</span></li>
+							<span class="count">(3)</span></li>
 											<li><a href="/sennheiser-home-theater-audio-c1405m381">Sennheiser</a>
-							<span class="count">(62)</span></li>
-											<li><a href="/sherwood-home-theater-audio-c1405m472">Sherwood</a>
-							<span class="count">(12)</span></li>
+							<span class="count">(1)</span></li>
 											<li><a href="/yamaha-home-theater-audio-c1405m2">Yamaha</a>
-							<span class="count">(40)</span></li>
+							<span class="count">(18)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/home-theater-audio-c1405">See More Brands</a> »</div>
@@ -996,21 +890,21 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/headphone-accessories-c363">Headphone Accessories</a>
-							<span class="count">(5)</span></li>
+							<span class="count">(3)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/headsets-c347">Headsets</a>
-							<span class="count">(42)</span></li>
+							<span class="count">(14)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/in-ear-headphones-c361">In Ear Headphones</a>
-							<span class="count">(63)</span></li>
+							<span class="count">(15)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/noise-canceling-c987">Noise Canceling</a>
-							<span class="count">(4)</span></li>
+							<span class="count">(2)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/on-ear-headphones-c365">On Ear Headphones</a>
-							<span class="count">(40)</span></li>
+							<span class="count">(16)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/over-ear-headphones-c359">Over Ear Headphones</a>
-							<span class="count">(38)</span></li>
+							<span class="count">(15)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/sound-isolating-c989">Sound Isolating</a>
-							<span class="count">(28)</span></li>
+							<span class="count">(5)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/wireless-headphones-c645">Wireless Headphones</a>
-							<span class="count">(13)</span></li>
+							<span class="count">(5)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/headphones-c48">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -1021,21 +915,17 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Brand</li>
 											<li><a href="/beats-by-dr.-dre-headphones-c48m541">Beats by Dr. Dre</a>
-							<span class="count">(11)</span></li>
+							<span class="count">(16)</span></li>
 											<li><a href="/bose-headphones-c48m9">Bose®</a>
-							<span class="count">(17)</span></li>
+							<span class="count">(16)</span></li>
 											<li><a href="/denon-headphones-c48m4">Denon</a>
-							<span class="count">(22)</span></li>
+							<span class="count">(2)</span></li>
 											<li><a href="/monster-headphones-c48m30">Monster<sup>®</sup></a>
-							<span class="count">(36)</span></li>
+							<span class="count">(3)</span></li>
 											<li><a href="/puma-headphones-c48m492">Puma</a>
 							<span class="count">(2)</span></li>
 											<li><a href="/sennheiser-headphones-c48m381">Sennheiser</a>
-							<span class="count">(94)</span></li>
-											<li><a href="/sol-republic-headphones-c48m544">Sol Republic</a>
-							<span class="count">(2)</span></li>
-											<li><a href="/yamaha-headphones-c48m2">Yamaha</a>
-							<span class="count">(1)</span></li>
+							<span class="count">(19)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/headphones-c48">See More Brands</a> »</div>
@@ -1055,21 +945,19 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/cases-covers-c290">Cases &amp; Covers</a>
-							<span class="count">(11)</span></li>
+							<span class="count">(10)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/chargers-batteries-c1660">Chargers &amp; Batteries</a>
-							<span class="count">(4)</span></li>
+							<span class="count">(2)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/docks-cables-c287">Docks &amp; Cables</a>
-							<span class="count">(20)</span></li>
-											<li><a href="http://www.4electronicwarehouse.com/fm-transmitters-modulators-c289">FM Transmitters / Modulators</a>
-							<span class="count">(3)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/headphones-c">Headphones</a>
-							<span class="count">(162)</span></li>
+							<span class="count">(53)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/remotes-c1670">Remotes</a>
 							<span class="count">(1)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/speakers-c286">Speakers</a>
-							<span class="count">(34)</span></li>
+							<span class="count">(18)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/iport-c1672">iPort</a>
-							<span class="count">(12)</span></li>
+							<span class="count">(2)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/ipod-iphone-ipad-accessories-c163">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -1080,38 +968,26 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Brand</li>
 											<li><a href="/beats-by-dr.-dre-ipod-iphone-ipad-accessories-c163m541">Beats by Dr. Dre</a>
-							<span class="count">(3)</span></li>
-											<li><a href="/bose-ipod-iphone-ipad-accessories-c163m9">Bose®</a>
-							<span class="count">(20)</span></li>
-											<li><a href="/boston-acoustics-ipod-iphone-ipad-accessories-c163m120">Boston Acoustics</a>
-							<span class="count">(2)</span></li>
-											<li><a href="/denon-ipod-iphone-ipad-accessories-c163m4">Denon</a>
 							<span class="count">(7)</span></li>
+											<li><a href="/bose-ipod-iphone-ipad-accessories-c163m9">Bose®</a>
+							<span class="count">(19)</span></li>
+											<li><a href="/boston-acoustics-ipod-iphone-ipad-accessories-c163m120">Boston Acoustics</a>
+							<span class="count">(1)</span></li>
+											<li><a href="/denon-ipod-iphone-ipad-accessories-c163m4">Denon</a>
+							<span class="count">(1)</span></li>
 											<li><a href="/iport-ipod-iphone-ipad-accessories-c163m518">iPort</a>
-							<span class="count">(10)</span></li>
-											<li><a href="/launchport-ipod-iphone-ipad-accessories-c163m530">LaunchPort</a>
 							<span class="count">(2)</span></li>
-											<li><a href="/monster-ipod-iphone-ipad-accessories-c163m30">Monster<sup>®</sup></a>
-							<span class="count">(8)</span></li>
+											<li><a href="/niles-audio-ipod-iphone-ipad-accessories-c163m11">Niles Audio</a>
+							<span class="count">(1)</span></li>
 											<li><a href="/onkyo-ipod-iphone-ipad-accessories-c163m26">Onkyo</a>
-							<span class="count">(4)</span></li>
-											<li><a href="/pioneer-ipod-iphone-ipad-accessories-c163m15">Pioneer</a>
-							<span class="count">(8)</span></li>
-											<li><a href="/sherwood-ipod-iphone-ipad-accessories-c163m472">Sherwood</a>
 							<span class="count">(3)</span></li>
-											<li><a href="/tivoli-ipod-iphone-ipad-accessories-c163m121">Tivoli</a>
+											<li><a href="/sherwood-ipod-iphone-ipad-accessories-c163m472">Sherwood</a>
 							<span class="count">(1)</span></li>
 											<li><a href="/yamaha-ipod-iphone-ipad-accessories-c163m2">Yamaha</a>
-							<span class="count">(2)</span></li>
+							<span class="count">(1)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/ipod-iphone-ipad-accessories-c163">See More Brands</a> »</div>
-		</div>
-			<div class="sectionCont sectionWidth229">
-			<ul>
-				<li class="title">Category Specials</li>
-				<li><a href="http://www.4electronicwarehouse.com/specials-ipod-iphone-ipad-accessories">iPod, iPhone, iPad Accessories Specials</a> »</li>
-			</ul>
 		</div>
 					</div>
 			</div>
@@ -1122,17 +998,17 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/audio-installation-c1653">Audio Installation</a>
-							<span class="count">(151)</span></li>
+							<span class="count">(122)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/bose-link-c100">Bose Link</a>
-							<span class="count">(20)</span></li>
+							<span class="count">(17)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/bulk-cabling-wire-c169">Bulk Cabling/Wire</a>
-							<span class="count">(15)</span></li>
+							<span class="count">(12)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/cable-installation-c1654">Cable Installation</a>
-							<span class="count">(54)</span></li>
+							<span class="count">(45)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/custom-installation-accessorie-c1694">Custom Installation Accessorie</a>
-							<span class="count">(42)</span></li>
+							<span class="count">(26)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/switching-systems-c107">Switching Systems</a>
-							<span class="count">(14)</span></li>
+							<span class="count">(12)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/custom-installation-c166">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -1143,27 +1019,19 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Brand</li>
 											<li><a href="/aton-custom-installation-c166m515">ATON</a>
-							<span class="count">(5)</span></li>
+							<span class="count">(4)</span></li>
 											<li><a href="/bose-custom-installation-c166m9">Bose®</a>
-							<span class="count">(26)</span></li>
+							<span class="count">(23)</span></li>
 											<li><a href="/boston-acoustics-custom-installation-c166m120">Boston Acoustics</a>
-							<span class="count">(19)</span></li>
+							<span class="count">(16)</span></li>
 											<li><a href="/iport-custom-installation-c166m518">iPort</a>
 							<span class="count">(1)</span></li>
-											<li><a href="/jobsite-custom-installation-c166m261">Jobsite</a>
-							<span class="count">(1)</span></li>
 											<li><a href="/monster-custom-installation-c166m30">Monster<sup>®</sup></a>
-							<span class="count">(52)</span></li>
+							<span class="count">(38)</span></li>
 											<li><a href="/niles-audio-custom-installation-c166m11">Niles Audio</a>
-							<span class="count">(161)</span></li>
-											<li><a href="/pioneer-custom-installation-c166m15">Pioneer</a>
-							<span class="count">(3)</span></li>
-											<li><a href="/vutec-custom-installation-c166m411">Vutec</a>
-							<span class="count">(1)</span></li>
+							<span class="count">(149)</span></li>
 											<li><a href="/xantech-custom-installation-c166m355">Xantech</a>
-							<span class="count">(19)</span></li>
-											<li><a href="/yamaha-custom-installation-c166m2">Yamaha</a>
-							<span class="count">(3)</span></li>
+							<span class="count">(1)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/custom-installation-c166">See More Brands</a> »</div>
@@ -1177,13 +1045,13 @@ This site has security measures in place to protect the loss, misuse and alterat
 				<ul>
 					<li class="title">Shop by Category</li>
 											<li><a href="http://www.4electronicwarehouse.com/golf-electronics-c1616">Golf Electronics</a>
-							<span class="count">(15)</span></li>
+							<span class="count">(11)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/home-office-c69">Home &amp; Office</a>
-							<span class="count">(10)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/outdoor-living-c71">Outdoor Living</a>
-							<span class="count">(27)</span></li>
+							<span class="count">(17)</span></li>
 											<li><a href="http://www.4electronicwarehouse.com/travel-accessories-c797">Travel Accessories</a>
-							<span class="count">(150)</span></li>
+							<span class="count">(112)</span></li>
 										<li><a href="http://www.4electronicwarehouse.com/home-travel-leisure-c1615">See More Categories</a> »</li>
 									</ul>
 			</div>
@@ -1196,27 +1064,27 @@ This site has security measures in place to protect the loss, misuse and alterat
 											<li><a href="/adidas-home-travel-leisure-c1615m157">Adidas</a>
 							<span class="count">(4)</span></li>
 											<li><a href="/bag-boy-home-travel-leisure-c1615m73">Bag Boy</a>
-							<span class="count">(4)</span></li>
+							<span class="count">(3)</span></li>
 											<li><a href="/briggs-riley-home-travel-leisure-c1615m464">Briggs &amp; Riley</a>
-							<span class="count">(16)</span></li>
+							<span class="count">(6)</span></li>
 											<li><a href="/callaway-home-travel-leisure-c1615m58">Callaway</a>
-							<span class="count">(6)</span></li>
+							<span class="count">(4)</span></li>
 											<li><a href="/club-glove-home-travel-leisure-c1615m165">Club Glove</a>
-							<span class="count">(8)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="/eagle-creek-home-travel-leisure-c1615m458">Eagle Creek</a>
-							<span class="count">(82)</span></li>
+							<span class="count">(58)</span></li>
 											<li><a href="/garmin-home-travel-leisure-c1615m155">Garmin</a>
-							<span class="count">(6)</span></li>
+							<span class="count">(5)</span></li>
 											<li><a href="/hartmann-home-travel-leisure-c1615m509">Hartmann</a>
 							<span class="count">(7)</span></li>
-											<li><a href="/leupold-home-travel-leisure-c1615m519">Leupold</a>
-							<span class="count">(3)</span></li>
 											<li><a href="/nike-home-travel-leisure-c1615m61">Nike</a>
-							<span class="count">(8)</span></li>
+							<span class="count">(7)</span></li>
 											<li><a href="/oakley-home-travel-leisure-c1615m92">Oakley</a>
-							<span class="count">(4)</span></li>
+							<span class="count">(3)</span></li>
+											<li><a href="/taylor-made-home-travel-leisure-c1615m81">Taylor Made</a>
+							<span class="count">(3)</span></li>
 											<li><a href="/victorinox-swiss-army-home-travel-leisure-c1615m505">Victorinox Swiss Army</a>
-							<span class="count">(23)</span></li>
+							<span class="count">(16)</span></li>
 									</ul>
 			</div>
 			<div class="seeMoreLink"><a href="/home-travel-leisure-c1615">See More Brands</a> »</div>
@@ -1229,35 +1097,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 		</div>
 					</div>
 			</div>
-					<div id="hidden_other-categories" class="dropDownMenuWrapper">
-				<div class="dropDownMargin clearAfter">
-							<div class="sectionCont sectionOne sectionWidth229">
-			<div class="clearAfter">
-				<ul>
-					<li class="title">Shop by Category</li>
-											<li><a href="http://www.4electronicwarehouse.com/mobile-entertainment-c68">Mobile Entertainment</a>
-							<span class="count">(1)</span></li>
-										<li><a href="http://www.4electronicwarehouse.com/other-c1407">See More Categories</a> »</li>
-									</ul>
-			</div>
-<!--			<div class="seeMoreLink"><a href="http://www.4electronicwarehouse.com/c/other-categories">See More Categories</a> &raquo;</div>-->
-		</div>
-			<div class="sectionCont sectionWidth229 sectionOne">
-			<div class="clearAfter">
-				<ul>
-					<li class="title">Shop by Brand</li>
-											<li><a href="/bose-other-c1407m9">Bose®</a>
-							<span class="count">(1)</span></li>
-									</ul>
-			</div>
-			<div class="seeMoreLink"><a href="/other-c1407">See More Brands</a> »</div>
-		</div>
-					</div>
-			</div>
 				
 				
 		<script type="text/javascript">
-			var nav = new Navigation('nav',["tv-video","home-theater-audio","headphones","ipod-iphone-ipad-accessories","ci","home-travel-leisure","other-categories"],'');
+			var nav = new Navigation('nav',["tv-video","home-theater-audio","headphones","ipod-iphone-ipad-accessories","ci","home-travel-leisure"],'');
 		</script>
 			</div>
 				</div><!--END ID="MAIN_CONTAINER" -->
@@ -1309,7 +1152,6 @@ This site has security measures in place to protect the loss, misuse and alterat
 				</span>
 			</div>
 		</div>
-						
-		
+					<script type="text/javascript" src="http://cdn.channeliq.com/p/badging/4electronicwarehouse.com.js"></script>		
 		
 	</body></html>
