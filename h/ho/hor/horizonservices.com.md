@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2013-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130915033246id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonservices.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627213205id_/http%3A//www.horizonservicesinc.com/contact-us/privacy-statement) for the most accurate reproduction.*
 
 # Horizon Services Online Privacy Statement | Horizon Services Inc.
 
-[Horizon Services Inc.](http://www.horizonservicesinc.com/ "Go to Horizon Services Inc..") > [Contact Us](http://www.horizonservicesinc.com/contact-us "Go to Contact Us.") > Privacy Statement 
+
 
 
 **HORIZON SERVICES, INC.** provides this Privacy Statement to inform you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used. We respect and are committed to protecting the privacy of our customers and others who visit our website. This Privacy Statement covers the Web pages belonging to HORIZON SERVICES, INC.
@@ -41,7 +41,7 @@ Any information we collect about you or your computer is used exclusively by HOR
 
 ### How Can I Decide What Promotional Communications I Will Receive?
 
-HORIZON SERVICES, INC. may send you promotional email about products, services, discounts, educational information or contests that we hope will be of interest. You can choose to discontinue receiving such promotional email. Each promotional email we send contains a link allowing you to discontinue future email from us. You may also send your request to unsubscribe at any time to [horizoninsider@horizonservicesinc.com](mailto:horizoninsider@horizonservicesinc.com "horizoninsider@horizonservicesinc.com"), indicating the email address you wish to unsubscribe. Or, you may call or write us as provided in this Privacy Policy in the section below entitled “Who Should I Contact for More Information?” Please allow a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+HORIZON SERVICES, INC. may send you promotional email about products, services, discounts, educational information or contests that we hope will be of interest. You can choose to discontinue receiving such promotional email. Each promotional email we send contains a link allowing you to discontinue future email from us. You may also send your request to unsubscribe at any time to [Insider@HorizonServicesInc.com](mailto:Insider@HorizonServicesInc.com "Insider@HorizonServicesInc.com"), indicating the email address you wish to unsubscribe. Or, you may call or write us as provided in this Privacy Policy in the section below entitled “Who Should I Contact for More Information?” Please allow a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
 
 **Opting-Out (Un-subscribing):**
 
@@ -49,7 +49,7 @@ To opt-out of receiving communications you have requested (such as email newslet
 
   * Select the email “opt-out” or “unsubscribe” link, or follow the opt-out instructions included in each subscription communication.
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions.
-  * Email Horizon Services at [horizoninsider@horizonservicesinc.com](mailto:horizoninsider@horizonservicesinc.com "horizoninsider@horizonservicesinc.com"). Put the word “UNSUBSCRIBE” in the subject line. Include your name, address, email and phone number. 
+  * Email Horizon Services at [Insider@HorizonServicesInc.com](mailto:Insider@HorizonServicesInc.com "Insider@HorizonServicesInc.com"). Put the word “UNSUBSCRIBE” in the subject line. Include your name, address, email and phone number. 
   * Write to Horizon Services, Inc. – be sure to provide your name, email and postal address, and relevant information about your subscription.
 
 
