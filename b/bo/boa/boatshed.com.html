@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the boatshed.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209060608id_/http%3A//www.boatshed.com/aboutus/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boatshed.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627232555id_/http%3A//www.boatshed.com/aboutus/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>	
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://api.webreep.com/Feedback/Get/b2981efa-c2da-403e-bf0c-56789dd0bb61"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4PUVZWGwEFVFNXAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 		
-		<script type="text/javascript" async="" src="https://api.webreep.com/Feedback/Get/b2981efa-c2da-403e-bf0c-56789dd0bb61"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy - Boat sales &amp; used boats for sale at Boatshed</title>
+		<title>Privacy Policy | Boatshed.com</title>
 		<meta name="description" content="What we collect and how we use it	Boatshed.com take the protection of privacy very seriously, and we do our upmost to protect it...">
 		<meta name="keywords" content="boat sales, used boats for sale, online boat trader, yacht broker uk, used sailboats for sale, used boat classifieds, sailboats, yachts, powerboats, fishing boats, boatshed">
 		<meta name="robots" content="index,follow">
 				<link rel="canonical" href="http://www.boatshed.com/aboutus/privacy-policy">
-				<link href="http://cdn.boatshed.com/minifiedcss-010.css" rel="stylesheet" type="text/css">
+				<link href="http://cdn.boatshed.com/minifiedcss-018.css" rel="stylesheet" type="text/css">
         		<link href="http://cdn.boatshed.com/lib/css/print.css" rel="stylesheet" type="text/css" media="print">
-		<script src="http://cdn.boatshed.com/lib/js/plugins/modernizr-2.6.2.min.js"></script>
+		<script src="http://www.boatshed.com/lib/js/plugins/modernizr-2.6.2.min.js"></script>
 		
 		<script type="text/javascript">
 		  var _gaq = _gaq || [];		 
@@ -62,12 +62,27 @@
 															</ul>
 						</li>
 
-											<li><a href="/register.php">Register</a></li>
+											<li id="currency_link">
+						<a id="currency_toggle" class="dropdown-toggle" href="#" data-toggle="dropdown">
+								£								<b class="caret"></b>
+							</a>
+							
+							<ul class="dropdown-menu">
+																	<li><a rel="nofollow" href="/docurrency.php?c=1">£</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=2">€</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=3">US$</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=4">C$</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=5">฿</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=6">A$</a></li>
+																		<li><a rel="nofollow" href="/docurrency.php?c=7">AED</a></li>
+																</ul>
+					</li>
+										<li><a href="/register.php">Register</a></li>
 					<li id="login_link">						
 						<a href="/login.php">Login</a>						
 						<form id="login_dropdown" action="/dologin.php" method="post" name="loginform">
-												<p class="cookie-warning" id="cookies-enabled">
-								** WARNING - Cookies are not enabled. **\nYou will not be able to register and login to the site until you enable cookies.\nPlease check your browser documentation to see how to do this.						</p>
+												<p class="cookie-warning">
+								WARNING - Cookies are not enabled. You will not be able to register or login to the site until you enable cookies in your browser						</p>
 																			
 							<div class="span6">
 								<div class="control-group">
@@ -110,22 +125,22 @@
 					</a>
 					<div class="nav-collapse navbar-responsive-collapse collapse">
 						<ul class="nav">
-            	<li><a href="/" title="Return to home page">Home</a></li><li><a href="/forsale.php" title="Browse all used boats on the Boatshed network">Used Boats</a></li><li><a href="/listmyboat.php" title="Information on how you can sell your boat with us">Sell my Boat</a></li><li><a href="/myboatshed.php" title="Your Personalised Boatshed Homepage">My Boatshed</a></li>							<li class="dropdown">
+            	<li><a href="/" title="Return to home page">Home</a></li><li><a href="/used-boats-for-sale/" title="Browse all used boats on the Boatshed network">Used Boats</a></li><li><a href="/charter-boats/" title="Charter Boats">Charter Boats</a></li><li><a href="/listmyboat.php" title="Information on how you can sell your boat with us">Sell my Boat</a></li><li><a href="/myboatshed.php" title="Your Personalised Boatshed Homepage">My Boatshed</a></li>							<li class="dropdown">
 			                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Information <b class="caret"></b></a>
 			                <ul class="dropdown-menu">
 			                <li><a href="/news.php" title="Other related sites you may find interesting">Blogs</a></li><li><a href="/news.php?articles=true" title="Other related sites you may find interesting">Articles</a></li><li><a href="/links.php" title="Other related sites you may find interesting">Links</a></li><li><a href="/insurance" title="Get a competitive insurance quote">Insurance</a></li><li><a href="/weather" title="The latest weather warnings from around the world">Weather</a></li><li><a href="/boatfinder.php" title="Can't find a boat to suit your needs? Use BoatFinder and we'll send you boats to view as they are added">My BoatFinder</a></li>			                  	<li class="divider"></li>
 			                    <li class="nav-header">Top Articles</li>
-			                  				                  	<li><a href="make-money-selling-boats-blog-14712.html">Make Money Selling Boats!</a></li>
-			                  				                  	<li><a href="boat-buyers-legal-service-blog-14057.html">Boat Buyers Legal Service</a></li>
-			                  				                  	<li><a href="get-started-with-your-own-boatshed-business-blog-13372.html">Get started with your own Boatshed business</a></li>
-			                  				                  	<li><a href="how-to-buy-a-boat-the-process-blog-10463.html">How to buy a boat? The process</a></li>
+			                  				                  	<li><a href="/new--owners-portal-for-boat-sellers-blog-16656.html">NEW - "Owners Portal" for boat sellers</a></li>
+			                  				                  	<li><a href="/make-money-selling-boats-blog-14712.html">Make Money Selling Boats!</a></li>
+			                  				                  	<li><a href="/boat-buyers-legal-service-blog-14057.html">Boat Buyers Legal Service</a></li>
+			                  				                  	<li><a href="/get-started-with-your-own-boatshed-business-blog-13372.html">Get started with your own Boatshed business</a></li>
 			                  	            
 			                </ul>
 			              </li>
 			              							<li class="dropdown">
 			                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <b class="caret"></b></a>
 			                <ul class="dropdown-menu">
-			                <li><a href="/aboutus">About Us</a></li><li><a href="/aboutus/history">Company History &amp; Structure</a></li><li><a href="/aboutus/meet-us">Meet the Team</a></li><li><a href="/aboutus/how-to-buy-a-boat">Buying a boat</a></li><li><a href="/aboutus/how-to-sell-a-boat">Selling your boat</a></li><li><a href="/aboutus/help">Customer Help Line</a></li><li><a href="/aboutus/comments">Customer Comments</a></li><li><a href="/aboutus/join-us">Join the team</a></li><li><a href="/aboutus/code-of-practice">Code of Practice</a></li><li><a href="/aboutus/terms-and-conditions">Terms and Conditions</a></li><li><a href="/aboutus/privacy-policy">Privacy Policy</a></li>			                </ul>
+			                <li><a href="/aboutus">About Us</a></li><li><a href="/aboutus/history">Company History &amp; Structure</a></li><li><a href="/aboutus/meet-us">Meet the Team</a></li><li><a href="/aboutus/how-to-buy-a-boat">Buying a boat</a></li><li><a href="/aboutus/how-to-sell-a-boat">Selling your boat</a></li><li><a href="/aboutus/help">Customer Help Line</a></li><li><a href="/aboutus/comments">Customer Comments</a></li><li><a href="/aboutus/join-us">Join the team</a></li><li><a href="/aboutus/code-of-practice">Code of Practice</a></li><li><a href="/aboutus/terms-and-conditions">Terms and Conditions</a></li><li><a href="/aboutus/privacy-policy">Privacy Policy</a></li><li><a href="/aboutus/cookie-policy">Cookie Policy</a></li>			                </ul>
 			              </li>  
 						<li><a href="/contact.php" title="How to get in touch">Contact Us</a></li>              
             		</ul>           
@@ -134,899 +149,20 @@
 		</div>
 	</div>	
 </div>
-        
+
 <div id="body" class="container">
-		<form action="/dosearch.php" method="get" name="searchform" id="SearchForm" enctype="text/plain">
-		
-		<h3 class="hidden-desktop">
-			<a href="#" id="search_toggle">
-				Boat Search				<i class="icon-chevron-down icon-white"></i>
-			</a>
-		</h3>
-		
-		<div id="SearchMain" class="visible-desktop">						
-			<div id="control_brand">
-				<label>Brand</label>
-				<input type="text" name="form_boattype_textbox" placeholder="Brand" value="">
-			</div>
 			
-			<div id="control_price" class="control">
-				<label>Approx Price</label>
-				<div class="input-prepend" id="input_price">
-					<div class="btn-group">
-												<a class="btn dropdown-toggle" data-toggle="dropdown">
-							<span>£</span>
-							<i class="caret"></i>
-						</a>
-						<ul class="dropdown-menu">
-															<li><a href="#" data-value="1">£</a></li>
-																<li><a href="#" data-value="2">€</a></li>
-																<li><a href="#" data-value="3">US$</a></li>
-																<li><a href="#" data-value="4">C$</a></li>
-																<li><a href="#" data-value="5">฿</a></li>
-																<li><a href="#" data-value="6">A$</a></li>
-																<li><a href="#" data-value="7">AED</a></li>
-														</ul>
-					</div>
-					<input type="hidden" id="price_currency" name="form_currency" value="">
-					<input id="price_min" name="form_min_price" type="text" placeholder="Min" value="">
-					<input id="price_max" name="form_max_price" type="text" placeholder="Max" value="">
-				</div>
-				
-			</div>
-				
-			<div id="control_length" class="control">
-				<label>LOA</label>
-				<div class="input-append" id="input_loa">
-									<input type="hidden" id="length_unit" name="form_length_unit" value="m">
-					<input id="appendedDropdownButton" type="text" name="form_length" placeholder="LOA +/- 20%" value="">
-					<div class="btn-group">
-						<a class="btn dropdown-toggle" data-toggle="dropdown">
-							
-							<span>Metres</span>
-							<i class="caret"></i>
-						</a>
-						<ul class="dropdown-menu">
-							<li><a href="#" data-value="m">Metres</a></li>
-							<li><a href="#" data-value="f">Feet</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			
-			<div id="control_power" class="control">
-				<label>Propulsion</label>
-				<select name="form_motor" class="span2">
-					<option value="">Any</option>
-					<option value="motor">Power</option>
-					<option value="sail">Sail</option>
-				</select>
-			</div>
-						
-		</div>
-		
-		<div id="advanced_search">
-			
-			<div class="row-fluid">
-				<div class="controls controls-row">
-				<select name="form_catid" class="span4">				
-				<option value="">Any Boat category</option>						<optgroup label="Power Boats">
-														<option value="96">Bowrider</option>
-																<option value="107">Catamaran</option>
-																<option value="94">Center Console</option>
-																<option value="110">Classic/Traditional</option>
-																<option value="127">Commercial</option>
-																<option value="95">Cuddy Cabin </option>
-																<option value="101">Dinghy/Tender</option>
-																<option value="97">Dive Boat</option>
-																<option value="130">Dutch Steel Cruiser</option>
-																<option value="121">Ex-charter</option>
-																<option value="98">Fishing Boat</option>
-																<option value="111">Houseboat</option>
-																<option value="99">Launch</option>
-																<option value="129">Motor Cruiser</option>
-																<option value="92">Motor Yacht</option>
-																<option value="100">Pontoon</option>
-																<option value="109">Project</option>
-																<option value="102">PWC</option>
-																<option value="103">RIB</option>
-																<option value="106">Ship</option>
-																<option value="105">Ski Boat</option>
-																<option value="132">Speedboat</option>
-																<option value="89">Sports/Express Cruiser</option>
-																<option value="93">Sports/Fast Fisher</option>
-																<option value="104">Super Yacht</option>
-																<option value="91">Trawler</option>
-																<option value="108">Workboats</option>
-										   				</optgroup>
-		   										<optgroup label="Sail Boats">
-														<option value="83">Catamaran</option>
-																<option value="87">Classic/Traditional</option>
-																<option value="77">Coastal Cruiser</option>
-																<option value="126">Commercial</option>
-																<option value="79">Cruiser/Racer</option>
-																<option value="81">Day Sailer</option>
-																<option value="120">Ex-charter</option>
-																<option value="78">Motorsailer</option>
-																<option value="76">Offshore/Blue Water Cruiser</option>
-																<option value="80">Performance Sail</option>
-																<option value="86">Project</option>
-																<option value="85">Sailing Dinghy</option>
-																<option value="82">Trailer Sailer</option>
-																<option value="84">Trimaran</option>
-										   				</optgroup>
-		   										<optgroup label="River and Inland Boats">
-														<option value="115">Barge</option>
-																<option value="124">Broads Cruiser</option>
-																<option value="118">Classic/Traditional</option>
-																<option value="128">Commercial</option>
-																<option value="114">Dutch Barge type</option>
-																<option value="131">Dutch Steel Cruiser</option>
-																<option value="122">Ex-hire</option>
-																<option value="119">Houseboat</option>
-																<option value="112">Narrowboat</option>
-																<option value="117">Project</option>
-																<option value="116">River Cruiser</option>
-																<option value="113">Wide-beam</option>
-																<option value="123">Workboat</option>
-										   				</optgroup>
-		   									</select>
-										<select id="form_boattype" name="form_boattype" class="span4">
-						<option value="">Any Brand</option>
-														<option value="3172"> Alessandro Marchi (1)</option>
-															<option value="2860">12 Metre (1)</option>
-															<option value="914">A.G.A Marine (1)</option>
-															<option value="1268">Achilles (3)</option>
-															<option value="2755">Akerboom (1)</option>
-															<option value="3106">Alajuela (1)</option>
-															<option value="9">Alan Buchanan (1)</option>
-															<option value="3027">Alan Pape (1)</option>
-															<option value="3005">Alaska Packers (1)</option>
-															<option value="13">Albin (3)</option>
-															<option value="1536">Alex Simonis (1)</option>
-															<option value="725">Alfamarine  (2)</option>
-															<option value="18">Alpa (1)</option>
-															<option value="19">Alpha (3)</option>
-															<option value="2839">Aluminium (2)</option>
-															<option value="1710">Amarre/Berth  (1)</option>
-															<option value="1172">Amathunta (1)</option>
-															<option value="20">Amel (4)</option>
-															<option value="2511">Ancora  (1)</option>
-															<option value="1767">Apreamare (1)</option>
-															<option value="732">Aquabell (1)</option>
-															<option value="808">Aquador (1)</option>
-															<option value="1398">Aquaflyte (1)</option>
-															<option value="264">Aquamar (1)</option>
-															<option value="30">Aquarius (1)</option>
-															<option value="31">Aquastar (7)</option>
-															<option value="32">Arcoa (2)</option>
-															<option value="2503">Arctic Blue (2)</option>
-															<option value="2865">Argus (1)</option>
-															<option value="2280">Ariba Rib (1)</option>
-															<option value="92">Arkos (3)</option>
-															<option value="162">Arminel (1)</option>
-															<option value="37">Arvor (2)</option>
-															<option value="2679">Ascom (1)</option>
-															<option value="42">Astinor (2)</option>
-															<option value="43">Astondoa (7)</option>
-															<option value="44">Astromar (2)</option>
-															<option value="690">Atlanta (1)</option>
-															<option value="1632">Atlantic (3)</option>
-															<option value="1342">Atlantis (5)</option>
-															<option value="46">Avon (2)</option>
-															<option value="47">Azimut (4)</option>
-															<option value="961">Azure (1)</option>
-															<option value="50">Baglietto (1)</option>
-															<option value="51">Baja (3)</option>
-															<option value="1074">Baltic Trader (1)</option>
-															<option value="2580">Barbary (1)</option>
-															<option value="57">Barcoeste (2)</option>
-															<option value="2809">Barge (2)</option>
-															<option value="828">Barramundi (1)</option>
-															<option value="59">Bavaria (26)</option>
-															<option value="62">Bayliner (36)</option>
-															<option value="3028">Bella (1)</option>
-															<option value="68">Belliure (1)</option>
-															<option value="69">Beneteau (64)</option>
-															<option value="816">Bernico (1)</option>
-															<option value="1572">Berth (11)</option>
-															<option value="1993">Berthon (1)</option>
-															<option value="793">Bertram (2)</option>
-															<option value="76">Birchwood (9)</option>
-															<option value="1046">Blyth Workcat (1)</option>
-															<option value="82">Bombard (5)</option>
-															<option value="1899">Bombay (1)</option>
-															<option value="740">Boston Whaler (3)</option>
-															<option value="2776">Bosun Queen (1)</option>
-															<option value="2698">Bounty (2)</option>
-															<option value="87">Bourne (3)</option>
-															<option value="2291">Bourne Craft (1)</option>
-															<option value="2353">Bowman (2)</option>
-															<option value="2026">Boyer (1)</option>
-															<option value="2008">Bracewell (3)</option>
-															<option value="1376">Branson Boats (1)</option>
-															<option value="1715">Brig (2)</option>
-															<option value="1529">Bristol (1)</option>
-															<option value="193">Bristol Channel (1)</option>
-															<option value="865">British Waterways Workboat (1)</option>
-															<option value="2933">Broads (2)</option>
-															<option value="2510">Brookes (1)</option>
-															<option value="96">Broom (17)</option>
-															<option value="99">Bruce Roberts (12)</option>
-															<option value="102">Buchanan (5)</option>
-															<option value="807">Buckingham (2)</option>
-															<option value="1637">Burgundy  (1)</option>
-															<option value="1107">BWA (1)</option>
-															<option value="777">C&amp;C (1)</option>
-															<option value="1301">C-Kip (2)</option>
-															<option value="155">C.E Allen (1)</option>
-															<option value="1428">Cal (1)</option>
-															<option value="2960">Californian (1)</option>
-															<option value="1782">Camano (6)</option>
-															<option value="112">Camper &amp; Nicholson (2)</option>
-															<option value="114">Campion (1)</option>
-															<option value="2352">Canns of Harwich (1)</option>
-															<option value="48">Cantieri di Sarnico (1)</option>
-															<option value="117">Capelli (2)</option>
-															<option value="3130">Carabelli (1)</option>
-															<option value="118">Caravelle (1)</option>
-															<option value="1296">Carin (1)</option>
-															<option value="2198">Carolina Classic (1)</option>
-															<option value="120">Carter (5)</option>
-															<option value="121">Carver (3)</option>
-															<option value="2881">Cascade (1)</option>
-															<option value="768">Catalac (2)</option>
-															<option value="122">Catalina (5)</option>
-															<option value="2974">Ceasar (1)</option>
-															<option value="941">Centurion (1)</option>
-															<option value="1393">Channel Island (2)</option>
-															<option value="125">Chaparral (4)</option>
-															<option value="1361">Charter boat (1)</option>
-															<option value="67">Charter Yacht (1)</option>
-															<option value="1965">CHB (1)</option>
-															<option value="2163">Check Marine (1)</option>
-															<option value="1768">Cheoy Lee (1)</option>
-															<option value="1245">Chris-Craft (11)</option>
-															<option value="100">Cigarette Copy (1)</option>
-															<option value="2525">Clamboat (1)</option>
-															<option value="1145">Class (6)</option>
-															<option value="1659">Classic (5)</option>
-															<option value="2504">Classic Laurent Giles Design (1)</option>
-															<option value="137">Cleopatra (6)</option>
-															<option value="2956">Clinker (1)</option>
-															<option value="3034">Clyde Rib (1)</option>
-															<option value="234">Coastal Craft (1)</option>
-															<option value="147">Coaster (1)</option>
-															<option value="1721">Coastline (3)</option>
-															<option value="2413">Coastworker  (1)</option>
-															<option value="140">Cobalt (3)</option>
-															<option value="142">Cobra (5)</option>
-															<option value="2652">Cockwells Motor Launch (1)</option>
-															<option value="1754">Colin Archer (1)</option>
-															<option value="145">Colvic (24)</option>
-															<option value="3054">Colvic Atlanta (1)</option>
-															<option value="2465">Comar (1)</option>
-															<option value="848">Comfort  (1)</option>
-															<option value="3171">Commander (1)</option>
-															<option value="1541">Commando (1)</option>
-															<option value="148">Commercial Conversion (1)</option>
-															<option value="1079">Compass  (1)</option>
-															<option value="150">Contessa (8)</option>
-															<option value="1806">Contest (1)</option>
-															<option value="3175">Converted Fishing Smack (1)</option>
-															<option value="3144">Converted Trawler (1)</option>
-															<option value="2931">Converted Tug (1)</option>
-															<option value="1626">Copino (1)</option>
-															<option value="695">Copland (1)</option>
-															<option value="2245">Corbin (1)</option>
-															<option value="2830">Corby (1)</option>
-															<option value="1570">Cornish Lugger (1)</option>
-															<option value="153">Coronet (1)</option>
-															<option value="1407">Corribee (1)</option>
-															<option value="139">Corten (1)</option>
-															<option value="801">Corvette (2)</option>
-															<option value="1779">Cougar (1)</option>
-															<option value="156">Cox (2)</option>
-															<option value="3156">Crab (1)</option>
-															<option value="157">Cranchi (25)</option>
-															<option value="3141">Creala (1)</option>
-															<option value="2274">Crompton Rib (1)</option>
-															<option value="158">Crownline (8)</option>
-															<option value="730">Cruisers (1)</option>
-															<option value="788">Cruisers Yachts (1)</option>
-															<option value="75">Cruising Houseboat (1)</option>
-															<option value="1219">Crusader Yachts (1)</option>
-															<option value="12">Cumulant (1)</option>
-															<option value="1456">Curtis and Pape (1)</option>
-															<option value="709">Custom (10)</option>
-															<option value="1330">Cutlass  (1)</option>
-															<option value="2548">Cygnus (4)</option>
-															<option value="689">Dawncraft (2)</option>
-															<option value="952">Day Boat (2)</option>
-															<option value="838">De Groot (1)</option>
-															<option value="3014">Deben  (1)</option>
-															<option value="1510">Debutante (1)</option>
-															<option value="1415">Dee (1)</option>
-															<option value="1418">Deep Sea Salvage Tug (1)</option>
-															<option value="2089">DeFever (1)</option>
-															<option value="172">Dehler (2)</option>
-															<option value="3013">Del Rey (1)</option>
-															<option value="980">Dell Quay (2)</option>
-															<option value="175">Delta (1)</option>
-															<option value="176">Dipol (1)</option>
-															<option value="2433">Dixon (1)</option>
-															<option value="1430">Dockrell (3)</option>
-															<option value="1604">Doqueve (1)</option>
-															<option value="178">Doral (3)</option>
-															<option value="1283">Draco (2)</option>
-															<option value="3114">Drettmann (1)</option>
-															<option value="1259">Duarry (1)</option>
-															<option value="185">Dufour (15)</option>
-															<option value="187">Dutch (37)</option>
-															<option value="1000">Dutch Barge (9)</option>
-															<option value="1232">Dutch Shipyard (1)</option>
-															<option value="2364">Dutch Trawler (1)</option>
-															<option value="191">Eastwood (2)</option>
-															<option value="909">Ebbtide (2)</option>
-															<option value="195">Elan (10)</option>
-															<option value="2275">Elegance (1)</option>
-															<option value="196">Elizabethan (4)</option>
-															<option value="1027">Elvstrom (1)</option>
-															<option value="2574">Elysian  (1)</option>
-															<option value="2314">En Jachtwerf (1)</option>
-															<option value="199">Endurance (2)</option>
-															<option value="2907">Enterprise (1)</option>
-															<option value="2099">Etap (5)</option>
-															<option value="204">Europa (1)</option>
-															<option value="2786">Everett Boat House (1)</option>
-															<option value="2738">Ex Customs (1)</option>
-															<option value="1367">Ex Lifeboat (2)</option>
-															<option value="1176">Ex MOD (1)</option>
-															<option value="3168">Extreme  (1)</option>
-															<option value="212">Faeton (2)</option>
-															<option value="2706">Fairbanks (1)</option>
-															<option value="214">Fairey (3)</option>
-															<option value="215">Fairline (53)</option>
-															<option value="222">Falcon (8)</option>
-															<option value="1399">Falmouth Working Boat (1)</option>
-															<option value="978">Farr (3)</option>
-															<option value="228">Fast (2)</option>
-															<option value="1159">Feeling (5)</option>
-															<option value="229">Felco (1)</option>
-															<option value="990">Ferretti (2)</option>
-															<option value="2941">Finngulf (1)</option>
-															<option value="1562">Finnsailer (1)</option>
-															<option value="1734">Fisher (8)</option>
-															<option value="2212">Fishing Boat (2)</option>
-															<option value="2457">Fiskars (1)</option>
-															<option value="1298">Fjord (4)</option>
-															<option value="240">Fletcher (9)</option>
-															<option value="242">Fleur de Lys (1)</option>
-															<option value="1901">Flipper (2)</option>
-															<option value="2765">Flying 35 (1)</option>
-															<option value="244">Folkboat (2)</option>
-															<option value="246">Formosa (1)</option>
-															<option value="247">Formula (8)</option>
-															<option value="250">Fountain (1)</option>
-															<option value="251">Fountaine Pajot (5)</option>
-															<option value="2825">Four (1)</option>
-															<option value="252">Four Winns (18)</option>
-															<option value="1053">Foxcub (1)</option>
-															<option value="2979">Foxhound (1)</option>
-															<option value="720">Fraser (1)</option>
-															<option value="2438">Fred Parker (1)</option>
-															<option value="1743">Freeman (7)</option>
-															<option value="931">Friendship (2)</option>
-															<option value="2656">Fu Hwa (1)</option>
-															<option value="255">Furia (2)</option>
-															<option value="1571">G L Watson (1)</option>
-															<option value="2452">Gaff Rigged (4)</option>
-															<option value="2558">Galatea (1)</option>
-															<option value="2128">Galeon (5)</option>
-															<option value="257">Gallart (1)</option>
-															<option value="261">Gemini (1)</option>
-															<option value="2925">Gentlemans (2)</option>
-															<option value="1103">GibSea (9)</option>
-															<option value="1148">Gilles Vaton (1)</option>
-															<option value="266">Glastron (2)</option>
-															<option value="269">Gobbi (2)</option>
-															<option value="1024">Golden Hind (5)</option>
-															<option value="1455">Golden Shamrock (2)</option>
-															<option value="2001">Goodvaer (1)</option>
-															<option value="270">Grady White (2)</option>
-															<option value="1584">Grainger (1)</option>
-															<option value="272">Grand Banks (3)</option>
-															<option value="1622">Grand Soleil (5)</option>
-															<option value="273">Great Dane (1)</option>
-															<option value="2562">Grew (1)</option>
-															<option value="1548">GRP (13)</option>
-															<option value="898">Gulf Craft (1)</option>
-															<option value="277">Guy Couach (3)</option>
-															<option value="2179">Halcyon (1)</option>
-															<option value="750">Hallberg Rassy (7)</option>
-															<option value="279">Halmatic (2)</option>
-															<option value="2131">Hampton (1)</option>
-															<option value="161">Hank Hinckley (1)</option>
-															<option value="2330">Hans Christian (2)</option>
-															<option value="864">Hanse (4)</option>
-															<option value="310">Harbercraft (1)</option>
-															<option value="280">Hardy (14)</option>
-															<option value="283">Harley (1)</option>
-															<option value="1028">Harrier (1)</option>
-															<option value="2093">Harrison Butler (1)</option>
-															<option value="1817">Hartley  (1)</option>
-															<option value="982">Hatteras (4)</option>
-															<option value="3018">Heard (1)</option>
-															<option value="285">Heavenly Twins (1)</option>
-															<option value="104">Helmsman Trawlers (3)</option>
-															<option value="286">Herbert Woods (1)</option>
-															<option value="1744">Herreshoff (1)</option>
-															<option value="292">Hillyard (3)</option>
-															<option value="3081">Hollandia (1)</option>
-															<option value="2254">Holman (1)</option>
-															<option value="3169">Honey Bee (1)</option>
-															<option value="2313">Horizon (1)</option>
-															<option value="296">Horizon Craft Ltd (1)</option>
-															<option value="854">Houseboat (6)</option>
-															<option value="2184">Huffler (1)</option>
-															<option value="744">Humber (4)</option>
-															<option value="2348">Humphreys (1)</option>
-															<option value="2684">Hunter (21)</option>
-															<option value="1467">Hunton (1)</option>
-															<option value="2224">Huntward Boats Int. (1)</option>
-															<option value="303">Hurley (6)</option>
-															<option value="305">Hustler (2)</option>
-															<option value="1866">IMOCA (1)</option>
-															<option value="2991">Invicta (1)</option>
-															<option value="2118">IP  (3)</option>
-															<option value="781">Island Packet (4)</option>
-															<option value="311">Island Plastics (1)</option>
-															<option value="1737">Islander (1)</option>
-															<option value="2522">Itchen Ferry (1)</option>
-															<option value="1422">J/ (3)</option>
-															<option value="316">Jaguar (7)</option>
-															<option value="2157">Javelin (1)</option>
-															<option value="322">Jeanneau (70)</option>
-															<option value="2551">Jensen (1)</option>
-															<option value="2007">JK (1)</option>
-															<option value="719">Jouet (1)</option>
-															<option value="2900">Kanter (1)</option>
-															<option value="339">Karnic (19)</option>
-															<option value="1938">Kawasaki (1)</option>
-															<option value="1242">Kelt (2)</option>
-															<option value="937">Kemrock (2)</option>
-															<option value="2117">Kent (2)</option>
-															<option value="2362">Kerry (1)</option>
-															<option value="3096">Kestrel  (1)</option>
-															<option value="1886">Kha Shing (1)</option>
-															<option value="2327">Kimple (1)</option>
-															<option value="2311">Kings (1)</option>
-															<option value="1378">Kings Cruiser (2)</option>
-															<option value="762">Kings Legend (1)</option>
-															<option value="344">Kong &amp; Halvorsen (1)</option>
-															<option value="1858">Krogen Express (1)</option>
-															<option value="1808">Kruger (1)</option>
-															<option value="1326">Lady Hawke (1)</option>
-															<option value="713">Lagoon (1)</option>
-															<option value="1217">Lamberti (1)</option>
-															<option value="1049">Larson (3)</option>
-															<option value="2740">Launch (1)</option>
-															<option value="352">Laurent Giles (2)</option>
-															<option value="2796">Le Flot (1)</option>
-															<option value="1427">Leeway (1)</option>
-															<option value="354">Leisure (7)</option>
-															<option value="356">Lema (4)</option>
-															<option value="1010">Levant  (1)</option>
-															<option value="2249">Limbo (1)</option>
-															<option value="2534">Linssen (1)</option>
-															<option value="2946">Liquid Air (1)</option>
-															<option value="1728">Listerfyote, Flekkefjord - Norway (1)</option>
-															<option value="3176">Little Gull Design (1)</option>
-															<option value="359">LM (6)</option>
-															<option value="1450">Lochin (2)</option>
-															<option value="2518">Lodestar (1)</option>
-															<option value="3084">Lone Gull (1)</option>
-															<option value="880">Luxemotor (4)</option>
-															<option value="1174">Lyme Boats Limited (1)</option>
-															<option value="2263">Lynx (1)</option>
-															<option value="2601">Lysander (1)</option>
-															<option value="365">MacGregor (3)</option>
-															<option value="366">Mackays of Arbroath (1)</option>
-															<option value="1372">Maclan (1)</option>
-															<option value="367">Macwester (9)</option>
-															<option value="369">Mainship (1)</option>
-															<option value="2025">Malo (2)</option>
-															<option value="1913">Mano Marine (1)</option>
-															<option value="3151">Manta-Blu (1)</option>
-															<option value="3102">Marcon (2)</option>
-															<option value="373">Marex (1)</option>
-															<option value="374">Mariah (3)</option>
-															<option value="1959">Marine Trader (1)</option>
-															<option value="3131">Marten (1)</option>
-															<option value="1490">Mashford Brothers (1)</option>
-															<option value="1695">Mason  (1)</option>
-															<option value="384">Mastercraft (4)</option>
-															<option value="2037">Matilda (1)</option>
-															<option value="2337">Matthews (1)</option>
-															<option value="385">Maurice Griffiths (2)</option>
-															<option value="386">Maxi (6)</option>
-															<option value="3117">Maxi Dolphin (1)</option>
-															<option value="388">Maxum (16)</option>
-															<option value="1238">McGruer (1)</option>
-															<option value="832">Memory  (1)</option>
-															<option value="1739">Menorquin (1)</option>
-															<option value="712">Meridian (1)</option>
-															<option value="1780">MFV (4)</option>
-															<option value="398">Mirage (8)</option>
-															<option value="399">Mistral (1)</option>
-															<option value="400">Mitchell (4)</option>
-															<option value="2799">MMGI (1)</option>
-															<option value="2962">MND Custom (1)</option>
-															<option value="1667">Monte Fino (1)</option>
-															<option value="403">Monterey (5)</option>
-															<option value="406">Moody (29)</option>
-															<option value="408">Moonraker (2)</option>
-															<option value="409">Moores Wroxham (1)</option>
-															<option value="410">Mooring (6)</option>
-															<option value="1454">Morebas (1)</option>
-															<option value="2840">Morecambe Bay Prawner (1)</option>
-															<option value="411">Morgan (2)</option>
-															<option value="412">Morgan Giles (1)</option>
-															<option value="3000">Motor Cruiser (3)</option>
-															<option value="3025">Motor Yacht (1)</option>
-															<option value="1654">Mould (1)</option>
-															<option value="2219">Mustang (2)</option>
-															<option value="3136">Myabca (2)</option>
-															<option value="1344">Mystere (2)</option>
-															<option value="1706">Naja (2)</option>
-															<option value="1705">Najad (1)</option>
-															<option value="995">Nantucket (3)</option>
-															<option value="1636">Narrowboat (32)</option>
-															<option value="420">Narwhal (1)</option>
-															<option value="422">Nauticat (8)</option>
-															<option value="423">Nelson (8)</option>
-															<option value="425">Neptune (3)</option>
-															<option value="1845">Neptunian (1)</option>
-															<option value="958">Nesis (1)</option>
-															<option value="426">Newbridge (5)</option>
-															<option value="767">Nicholson (11)</option>
-															<option value="430">Nimbus (6)</option>
-															<option value="431">Noray (1)</option>
-															<option value="814">Norcat (1)</option>
-															<option value="2230">Nordhavn (1)</option>
-															<option value="3031">Nordlund (2)</option>
-															<option value="2573">Norfolk (1)</option>
-															<option value="785">Norman (2)</option>
-															<option value="2402">Norseman (2)</option>
-															<option value="1651">North Quay (1)</option>
-															<option value="436">North Wind (2)</option>
-															<option value="1474">Northcraft (1)</option>
-															<option value="2444">Northshore (Australia) (1)</option>
-															<option value="2759">Northstar (1)</option>
-															<option value="2375">Nova (1)</option>
-															<option value="440">Novurania (2)</option>
-															<option value="1309">Ocqueteau (4)</option>
-															<option value="2063">Olympic (1)</option>
-															<option value="1550">Open (6)</option>
-															<option value="1125">Orkney (1)</option>
-															<option value="449">Osborne (1)</option>
-															<option value="1463">Oyster  (5)</option>
-															<option value="956">Oyster Motor Launch (1)</option>
-															<option value="1167">Pacemaker (1)</option>
-															<option value="1891">Pacific Trawlers (1)</option>
-															<option value="983">Pantera (1)</option>
-															<option value="2529">Parkstone Bay (1)</option>
-															<option value="3129">Passenger Vessel (5)</option>
-															<option value="747">Patrol Vessel (1)</option>
-															<option value="2654">Pearlsea (1)</option>
-															<option value="1396">Pearson (1)</option>
-															<option value="1179">Pedro (2)</option>
-															<option value="457">Pegasus (4)</option>
-															<option value="2270">Peniche (4)</option>
-															<option value="787">Pershing (3)</option>
-															<option value="2863">Peter Duck (2)</option>
-															<option value="419">Phoenician (1)</option>
-															<option value="1397">Picton (6)</option>
-															<option value="1730">Pilot Boat (1)</option>
-															<option value="2724">Piper Wide Beam (1)</option>
-															<option value="2528">Piscator (1)</option>
-															<option value="1546">Plymouth (1)</option>
-															<option value="467">Polaris (3)</option>
-															<option value="1035">Pollcat (1)</option>
-															<option value="3037">Ponderosa (1)</option>
-															<option value="896">Port Aiguadolç, Sitges (1)</option>
-															<option value="470">Porter &amp; Haylett (1)</option>
-															<option value="1544">Powles (2)</option>
-															<option value="1304">President (1)</option>
-															<option value="472">Princess (31)</option>
-															<option value="1363">Prinz (1)</option>
-															<option value="95">Prior (1)</option>
-															<option value="2069">Privilege (1)</option>
-															<option value="474">Procharter (1)</option>
-															<option value="2217">Project (2)</option>
-															<option value="476">Prout (5)</option>
-															<option value="2605">Puget Trawler (1)</option>
-															<option value="477">Puma (3)</option>
-															<option value="2119">Quarter Tonner (3)</option>
-															<option value="1152">Quer (1)</option>
-															<option value="774">Quicksilver (10)</option>
-															<option value="826">R &amp; W Clark Ltd (1)</option>
-															<option value="1741">R.S. Burt (1)</option>
-															<option value="483">Raider (1)</option>
-															<option value="2090">Randall &amp; McGregor (1)</option>
-															<option value="1850">Ranger (2)</option>
-															<option value="3155">RECLA (1)</option>
-															<option value="2857">Redbay (1)</option>
-															<option value="487">Regal (10)</option>
-															<option value="2958">Regatta (1)</option>
-															<option value="2406">Relcraft (1)</option>
-															<option value="1475">Renegade  (1)</option>
-															<option value="916">Replica Dutch Barge (1)</option>
-															<option value="775">Revenger (2)</option>
-															<option value="492">Riamar (1)</option>
-															<option value="2027">RIB (1)</option>
-															<option value="494">Ribcraft (2)</option>
-															<option value="495">Ribeye (10)</option>
-															<option value="496">Ribtec (1)</option>
-															<option value="769">Ribworker (1)</option>
-															<option value="2211">Richardsons of Stalham (1)</option>
-															<option value="1903">Rigid Raider (2)</option>
-															<option value="498">Ring (5)</option>
-															<option value="499">Rinker (9)</option>
-															<option value="502">Rio Iberica (2)</option>
-															<option value="839">Riva (4)</option>
-															<option value="503">Rival (5)</option>
-															<option value="1173">River (2)</option>
-															<option value="792">Riviera (4)</option>
-															<option value="1606">Robert Tucker (1)</option>
-															<option value="722">Robertson and Caine (1)</option>
-															<option value="506">Rodman (10)</option>
-															<option value="2237">Rodrigues (1)</option>
-															<option value="1526">Rogers (1)</option>
-															<option value="2945">Rolf Jakobsson (1)</option>
-															<option value="3003">Romilly (1)</option>
-															<option value="508">Ronautica (1)</option>
-															<option value="1112">Rossiter Yachts (1)</option>
-															<option value="2757">Royal Cape Catamarans (1)</option>
-															<option value="2628">S2 (1)</option>
-															<option value="1530">Sabre (2)</option>
-															<option value="1285">Sacs (1)</option>
-															<option value="518">Sadler (14)</option>
-															<option value="800">Saga (2)</option>
-															<option value="521">Sailfish (1)</option>
-															<option value="2697">Salcombe Flyer (1)</option>
-															<option value="2660">Salcombe Launch (1)</option>
-															<option value="1835">Salona (2)</option>
-															<option value="1501">Salpa (1)</option>
-															<option value="1156">Samphire (1)</option>
-															<option value="2038">Sampson Marine (1)</option>
-															<option value="364">Samson (1)</option>
-															<option value="1404">San Boat (1)</option>
-															<option value="1128">San Lorenzo (2)</option>
-															<option value="1332">Sandhaven (1)</option>
-															<option value="2164">Sandpiper (1)</option>
-															<option value="796">Saro (Anglesey) Ltd (1)</option>
-															<option value="2800">SAS Vektor (1)</option>
-															<option value="525">Saver (3)</option>
-															<option value="526">Scanner (4)</option>
-															<option value="2870">Schionning (1)</option>
-															<option value="2122">Schucker (1)</option>
-															<option value="1147">Scottish Fifer (1)</option>
-															<option value="1295">Sea Pro (1)</option>
-															<option value="533">Sea Ray (31)</option>
-															<option value="1731">Sea RIBs (1)</option>
-															<option value="1302">Sea Saga (1)</option>
-															<option value="1600">Sea Sport (1)</option>
-															<option value="1291">Sea-Doo (6)</option>
-															<option value="2975">Seacoral  (1)</option>
-															<option value="1663">Seadog (2)</option>
-															<option value="537">Seadoo (1)</option>
-															<option value="2387">Seadrift (1)</option>
-															<option value="1862">Seafox (1)</option>
-															<option value="231">Seahorse Marine (1)</option>
-															<option value="2674">Sealine (46)</option>
-															<option value="1434">Sealord (1)</option>
-															<option value="2435">Seamark (3)</option>
-															<option value="546">Seamaster (11)</option>
-															<option value="551">Seaswirl (1)</option>
-															<option value="2762">Seaview (2)</option>
-															<option value="1062">Seaway (1)</option>
-															<option value="2919">Selway Fisher (1)</option>
-															<option value="2161">Senior (3)</option>
-															<option value="555">Sessa (8)</option>
-															<option value="1038">Shadow  (2)</option>
-															<option value="1419">Shakespeare (4)</option>
-															<option value="558">She (3)</option>
-															<option value="2798">Shear Barge (1)</option>
-															<option value="1822">Sheerline (3)</option>
-															<option value="559">Shetland (4)</option>
-															<option value="561">Shipman (1)</option>
-															<option value="160">Shiren (1)</option>
-															<option value="562">Sigma (4)</option>
-															<option value="565">Silverton (2)</option>
-															<option value="2994">Skagerak (1)</option>
-															<option value="2826">Skanner (1)</option>
-															<option value="1740">Skibsplast  (1)</option>
-															<option value="2552">Skookum (1)</option>
-															<option value="570">Snapdragon (4)</option>
-															<option value="1534">Solaris (2)</option>
-															<option value="577">Southerly (3)</option>
-															<option value="1164">Southern Ocean Shipyards (1)</option>
-															<option value="872">Sovereign (1)</option>
-															<option value="1146">Sparkman &amp; Stephens (1)</option>
-															<option value="3148">Spencer (1)</option>
-															<option value="2630">Spinto (1)</option>
-															<option value="580">Sportina (1)</option>
-															<option value="2603">SR Marine (1)</option>
-															<option value="2984">Stag (2)</option>
-															<option value="143">Standfast (1)</option>
-															<option value="2154">Starfish (1)</option>
-															<option value="586">Starfisher (5)</option>
-															<option value="2289">Starlight (1)</option>
-															<option value="111">Starmarine Hightec (1)</option>
-															<option value="1869">Steel (17)</option>
-															<option value="2993">Stella (2)</option>
-															<option value="1113">Sterling (2)</option>
-															<option value="2802">Stevens (2)</option>
-															<option value="589">Storebro (5)</option>
-															<option value="591">Suffolk (1)</option>
-															<option value="28">Summer Twins (1)</option>
-															<option value="673">Sunbeam (3)</option>
-															<option value="2350">Sunnav (1)</option>
-															<option value="1775">Sunreef (1)</option>
-															<option value="595">Sunseeker (35)</option>
-															<option value="2032">Sunspeed (1)</option>
-															<option value="2500">Super Falcon (1)</option>
-															<option value="2766">Swallow Boats (2)</option>
-															<option value="2109">Sweden (1)</option>
-															<option value="2144">Sweden Yachts (3)</option>
-															<option value="330">Swedish (1)</option>
-															<option value="949">Swin (1)</option>
-															<option value="1673">Swordsman Marine (1)</option>
-															<option value="2334">Taiwan Star Yacht (1)</option>
-															<option value="434">Tamarisk (1)</option>
-															<option value="1272">Taos (1)</option>
-															<option value="1122">Tayana (2)</option>
-															<option value="606">Teal (2)</option>
-															<option value="2859">Tes (1)</option>
-															<option value="3165">TEST New Boat (1)</option>
-															<option value="1194">Thames (2)</option>
-															<option value="1747">The Floating Villa (1)</option>
-															<option value="1916">Thompson (1)</option>
-															<option value="867">Thornycroft (2)</option>
-															<option value="1878">Thunder Cat (1)</option>
-															<option value="617">Tiara (2)</option>
-															<option value="1084">Tiger Marine (1)</option>
-															<option value="861">Tohatsu (3)</option>
-															<option value="2730">Toledo (1)</option>
-															<option value="1366">Tollycraft (1)</option>
-															<option value="372">Tomahawk (2)</option>
-															<option value="2599">Toro (1)</option>
-															<option value="3071">Tosher (1)</option>
-															<option value="622">Trader (6)</option>
-															<option value="625">Trapper (6)</option>
-															<option value="981">Trident (5)</option>
-															<option value="1781">Trintella  (2)</option>
-															<option value="1586">Trip Boat (1)</option>
-															<option value="2416">Trireme (2)</option>
-															<option value="629">Trojan (1)</option>
-															<option value="631">Trophy (3)</option>
-															<option value="1685">Tuccoli  (1)</option>
-															<option value="2855">Tug (1)</option>
-															<option value="1621">Turkish Gulet (2)</option>
-															<option value="632">Tyler (1)</option>
-															<option value="1565">UFO (2)</option>
-															<option value="2305">Ultra Marine  (1)</option>
-															<option value="2002">Universal (1)</option>
-															<option value="2726">Urban Houseboats (1)</option>
-															<option value="1568">Vagabond (1)</option>
-															<option value="639">Valiant (9)</option>
-															<option value="1130">Valkkruiser (1)</option>
-															<option value="71">Valkvlet (1)</option>
-															<option value="786">Van de Stadt (7)</option>
-															<option value="1411">Vancouver (4)</option>
-															<option value="1646">Varne (1)</option>
-															<option value="794">Vector (1)</option>
-															<option value="1729">Versilcraft  (1)</option>
-															<option value="3119">Victoria (2)</option>
-															<option value="950">Viking (7)</option>
-															<option value="2058">Viksund (1)</option>
-															<option value="1788">Virgo (2)</option>
-															<option value="2951">Vision (1)</option>
-															<option value="1414">Vitech  (2)</option>
-															<option value="2635">Viudes (1)</option>
-															<option value="1513">Viva (1)</option>
-															<option value="2569">Walker Wingsail (1)</option>
-															<option value="2029">Wallasey Bay (1)</option>
-															<option value="897">Warrior (2)</option>
-															<option value="1395">Waterline (1)</option>
-															<option value="652">Wauquiez (2)</option>
-															<option value="655">Wellcraft (4)</option>
-															<option value="656">Westerly (56)</option>
-															<option value="2351">Weymouth (2)</option>
-															<option value="2869">Wharram (2)</option>
-															<option value="2920">Whitby  (1)</option>
-															<option value="663">White Shark (1)</option>
-															<option value="2763">Wide Beam (7)</option>
-															<option value="3101">Wildcat Ribs (2)</option>
-															<option value="2773">Willard (4)</option>
-															<option value="2930">William Atkins (1)</option>
-															<option value="853">Wilson (3)</option>
-															<option value="25">Windship (1)</option>
-															<option value="669">Windy (7)</option>
-															<option value="2470">Winga (1)</option>
-															<option value="2736">Winner (1)</option>
-															<option value="2564">Wooden  (19)</option>
-															<option value="2222">X-Yachts (1)</option>
-															<option value="1166">Yachting World (1)</option>
-															<option value="679">Yamaha (1)</option>
-															<option value="1032">Yamarin (3)</option>
-															<option value="2978">Yeoman (1)</option>
-															<option value="2536">Z Craft (1)</option>
-															<option value="683">Zodiac (5)</option>
-												</select>
-										<select id="form_boatmodel" name="form_boatmodel" class="span4" disabled="disabled">
-						<option value="">Any Model</option>
-					</select>
-					
-				</div>
-			</div>
-						
-			<div class="row-fluid">
-				<div class="controls controls-row">
-						<select name="form_hullcon" class="span3">
-							<option value="">Any Hull Type</option>
-							<option value="bilge">Bilge keels</option><option value="canting fin bulb">Canting Fin &amp; Bulb</option><option value="fin">Fin</option><option value="fin bulb">Fin and Bulb</option><option value="fulldis">Full-displacement</option><option value="lifting keel">Lifting keel</option><option value="keels">Long keel</option><option value="multihull">Multihull</option><option value="planing">Planing</option><option value="semidis">Semi-displacement</option><option value="wing keel">Wing keel</option>						</select>
-						<select name="form_fuel" class="span3">
-							<option value="">Any Fuel</option>
-							<option value="petrol">Petrol</option>
-							<option value="diesel">Diesel</option>
-						</select>
-						<select name="form_drive" class="span3">
-							<option value="">Any Drive</option>
-							<option value="shaft">Shaft</option>
-							<option value="sail">Saildrive</option>
-							<option value="z">Z</option>
-							<option value="outboard">Outboard</option>
-						</select>
-						<select name="form_totalberths" class="span3">
-							<option value=""># Berths</option>
-							<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option><option value="30">30</option><option value="40">40</option><option value="50">50</option>						</select>
-				</div>	
-			</div>
-			<div class="row-fluid">
-				<div class="controls controls-row">
-											<select id="form_brand" name="form_brand" class="span3">
-							<option value="">Any Boatshed Brand</option>
-							<option value="447">Boatshed Abu Dhabi</option><option value="26">Boatshed Algarve</option><option value="450">Boatshed Anacortes</option><option value="56">Boatshed Antigua</option><option value="448">Boatshed Arabia</option><option value="16">Boatshed Barcelona</option><option value="318">Boatshed Boatshed</option><option value="416">Boatshed Bourgogne</option><option value="388">Boatshed Brighton</option><option value="359">Boatshed Bristol</option><option value="336">Boatshed British Columbia</option><option value="23">Boatshed Brixham</option><option value="356">Boatshed BVI</option><option value="21">Boatshed Chichester</option><option value="312">Boatshed Classic</option><option value="32">Boatshed Commercial</option><option value="371">Boatshed Costa Brava</option><option value="110">Boatshed Cowes</option><option value="112">Boatshed Croatia</option><option value="439">Boatshed Cumbria</option><option value="114">Boatshed Cyprus</option><option value="375">Boatshed Dartmouth</option><option value="123">Boatshed Dubai</option><option value="11">Boatshed Essex</option><option value="18">Boatshed Falmouth</option><option value="365">Boatshed Gibraltar</option><option value="373">Boatshed Grand Union</option><option value="338">Boatshed Guernsey</option><option value="10">Boatshed Hamble</option><option value="316">Boatshed Hayling Island</option><option value="379">Boatshed Inland</option><option value="31">Boatshed International</option><option value="4">Boatshed Ireland</option><option value="34">Boatshed Kent</option><option value="43">Boatshed Lake Michigan</option><option value="437">Boatshed Lancashire</option><option value="402">Boatshed Lincolnshire</option><option value="423">Boatshed Liveaboard</option><option value="444">Boatshed Liverpool</option><option value="389">Boatshed London</option><option value="20">Boatshed Lymington</option><option value="317">Boatshed Medway</option><option value="415">Boatshed Midi Canals</option><option value="9">Boatshed Norfolk</option><option value="319">Boatshed North Wales</option><option value="419">Boatshed Palma</option><option value="22">Boatshed Performance</option><option value="230">Boatshed Phuket</option><option value="24">Boatshed Plymouth</option><option value="19">Boatshed Poole</option><option value="358">Boatshed Port Solent</option><option value="15">Boatshed Portsmouth</option><option value="409">Boatshed Racing Yachts</option><option value="374">Boatshed Scotland</option><option value="370">Boatshed Seattle</option><option value="315">Boatshed Southsea</option><option value="391">Boatshed St Malo</option><option value="44">Boatshed Suffolk</option><option value="320">Boatshed Thames</option><option value="314">Boatshed Torquay</option><option value="424">Boatshed Vigo</option><option value="2">Boatshed Wales</option><option value="328">Boatshed Yorkshire</option>						</select>
-										<input type="text" placeholder="Boat REF#" name="form_boatref" id="form_boatref" class="span3">
-					<select id="form_country" name="form_country" class="span3">
-						<option value="">Any Country</option>
-						<option value="AE">United Arab Emirates</option><option value="CA">Canada</option><option value="CT">Scotland</option><option value="CY">Cyprus</option><option value="ES">Spain</option><option value="FR">France</option><option value="GI">Gibraltar</option><option value="HR">Croatia</option><option value="IE">Ireland</option><option value="IT">Italy</option><option value="MA">Morocco</option><option value="MY">Malaysia</option><option value="NZ">New Zealand</option><option value="PT">Portugal</option><option value="TH">Thailand</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="VG">Virgin Islands (British)</option><option value="ZA">South Africa</option>					</select>
-					<select id="form_state" name="form_state" class="span3" disabled="disabled">
-						<option value="">Any State/Province</option>
-					<optgroup label="USA" disabled="disabled">
-						<option value="AK">Alaska</option><option value="AL">Alabama</option><option value="AR">Arkansas</option><option value="AZ">Arizona</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="IA">Iowa</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="MA">Massachusetts</option><option value="MD">Maryland</option><option value="ME">Maine</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MO">Missouri</option><option value="MS">Mississippi</option><option value="MT">Montana</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="NE">Nebraska</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NV">Nevada</option><option value="NY">New York</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VA">Virginia</option><option value="VT">Vermont</option><option value="WA">Washington</option><option value="WI">Wisconsin</option><option value="WV">West Virginia</option><option value="WY">Wyoming</option>					</optgroup>
-					<optgroup label="Canada" disabled="disabled">
-						<option value="AB">Alberta</option><option value="BC">British Columbia</option><option value="MB">Manitoba</option><option value="NB">New Brunswick</option><option value="NL">Newfoundland and Labrador</option><option value="NS">Nova Scotia</option><option value="NT">Northwest Territories</option><option value="NU">Nunavut</option><option value="ON">Ontario</option><option value="PE">Prince Edward Island</option><option value="QC">Quebec</option><option value="SK">Saskatchewan</option><option value="YT">Yukon</option>					</optgroup>
-					</select>
-				</div>
-			</div>
-		</div>
-		
-		<div class="button-box visible-desktop">
-			<input type="hidden" name="newboats" value="">
-			<button type="submit" class="btn btn-primary">search</button>
-			<a href="#" id="search_options_toggle" class="btn btn-link">More Options</a>
-		</div>
-		
-								
-	</form>	
 			<!--[if lt IE 9]>
-			<div class="alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+			<div class="alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 			<![endif]-->
+			
+			
+
+
+			
 			<div class="row">
-				<div class="span9" id="maincontent">			
+				<div class="span9" id="maincontent">
+					<div id="minisearch-container-main"></div>			
 							<ul class="breadcrumb">
 			<li><a href="/">Home</a> <span class="divider">/</span></li>
 			<li class="active">Privacy Policy</li>
@@ -1039,41 +175,82 @@
 <p>
 	Boatshed.com take the protection of privacy very seriously, and we do our upmost to protect it. Boatshed.com asks that customers supply certain personal data when registering to use our services, this data is used only for the purpose of communicating with our customers.</p>
 <h2>
-	<br>
 	Cookies</h2>
 <p>
 	We may use small text files called cookies to improve user experience. Boatshed.com's cookies are simple text files used only to identify the customer; they do not capture any personal information from your computer or store any sensitive data.</p>
 <h2>
-	<br>
 	Sharing Personal Information</h2>
 <p>
 	Boatshed.com may share your personal information with partners or suppliers for the purposes of fulfilling an order or subscription. This may include third party suppliers, companies used to process credit card or other payment types, provide customer service, or otherwise provide services that enable us to serve you. These organizations will have access only to the information required to permit them to perform their obligations to us.</p>
 <p>
 	Beyond the aforementioned personal information disclosures, Boatshed.com will only disclose additional information if required by law, regulation, or other government authority, to prevent harm to our company, affiliate companies, clients, or anyone else to protect against fraud. We may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Boatshed.com participates or to a purchaser of all or substantially all of Boatshed.com's assets. Such successor entity shall be bound by the terms and conditions of this privacy policy.</p>
 <h2>
-	<br>
 	Links to Third Party Sites</h2>
 <p>
 	The Boatshed.com websites may be linked to other websites on the Internet which are not under the control of or maintained by Boatshed.com. Such links do not constitute an endorsement by Boatshed.com of those other web sites, the content displayed therein, or the persons or entities associated therewith. You acknowledge that Boatshed.com is providing these links to you only as a convenience, and you agree that Boatshed.com is not responsible for the content of such sites. Your use of these other linked web sites is subject to the respective terms of use and privacy policies located on the linked sites.</p>
 <h2>
-	<br>
 	Security</h2>
 <p>
 	Boatshed.com employs procedural and technological measures, consistent with the demands of customer service. Such measures are reasonably designed to protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. Where reasonably practical, Boatshed.com uses encryption, password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your personally identifiable information.</p>
 <h2>
-	<br>
 	Updating Your Information</h2>
 <p>
 	Your information may be updated at any time, please see our contact page for details of how to contact us.</p>
 <h2>
-	<br>
 	Policy Changes</h2>
 <p>
 	Boatshed.com reserves the right to change this privacy policy at any time without public announcement. Clients and affiliates of Boatshed.com are encouraged to review this Privacy Policy on a regular basis.</p>
 				</div>
 				<div class="span3" id="sidebar">
-					<div class="ad-box hidden-phone">
-<a href="/aboutus/how-to-sell-a-boat" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/./images/advert/item_9/510793d33dbbeselling-your-boat.jpg" alt="Selling your boat"></a><a href="/aboutus/how-to-buy-a-boat" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/./images/advert/item_8/519659e38138ebuying-a-boat1.jpg" alt="How to buy a boat"></a><a href="/foreign-exchange-and-money-transfer" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/./images/advert/item_128/5208f1bd1e800moneycorp.jpg" alt=""></a><a href="http://www.britishmarine.co.uk/" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/./images/advert/item_11/51247677a9b07BMF-Logos.jpg" alt=""></a><a href="http://www.boatshed.com/boat-donation-programme-launched-by-sail-4-cancer-blog-12204.html" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/./images/advert/item_36/518ccedc69566sail-4-cancer.jpg" alt=""></a></div>
+									<div id="minisearch-container-side"><form class="SearchForm" id="mini-search">
+
+            <h3>Boat Search</h3>
+            <select class="input-block-level" id="mini-cat">
+           		<option value="">Boat category</option>
+           		<option value="73">Sail Boats</option>
+            	<option value="74">Power Boats</option>           	
+            	<option value="75">River and Inland Boats</option>
+            </select>
+
+            <select class="input-block-level" id="mini-price_range">
+              <option value="">Price</option>
+                            	<option value="..10000">Up to £10,000</option>
+              	              	<option value="10000..20000">£10,000 - £20,000</option>
+              	              	<option value="20000..30000">£20,000 - £30,000</option>
+              	              	<option value="30000..50000">£30,000 - £50,000</option>
+              	              	<option value="50000..100000">£50,000 - £100,000</option>
+              	              	<option value="100000..200000">£100,000 - £200,000</option>
+              	              	<option value="200000..">Over £200,000</option>
+              	            </select>
+            
+            
+            <select id="mini-brand" class="input-block-level">
+				<option value="">Brand</option>				
+			</select>
+					
+					
+					
+            <div class="controls">
+                <button id="mini-submitbtn" type="submit" class="btn btn-primary">Search</button>
+            </div>
+</form>
+
+<form action="/dosearch.php" method="get" class="SearchForm" id="mini-freetext-search">
+
+            <h3>Keyword Search</h3>
+            
+            <div class="input">
+            	<input name="q" id="appendedInputButton" type="text" class="input-block-level" placeholder="Know exactly what you're looking for?...">
+            </div>
+            	
+            <div class="controls">
+                <button id="mini-submitbtn" type="submit" class="btn btn-primary">Search</button>
+            </div>
+</form>
+
+               </div>	
+				<div class="ad-box hidden-phone">
+<a href="/aboutus/how-to-sell-a-boat" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/contentimage/item_159/52ece5ab7c762sell-y-our-boat.jpg" alt=""></a><a href="/valuemyboat" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/contentimage/item_160/52ece5ee5cdf6boat-valuation.jpg" alt=""></a><a href="https://www.youtube.com/watch?v=ZAuBSF2o-Ko" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/contentimage/item_161/52ece66038e37boat-search-video.jpg" alt=""></a><a href="http://www.boatshed.com/foreign-exchange-and-money-transfer" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/contentimage/item_158/52ece4aaa210cmoneycorp.jpg" alt=""></a><a href="http://www.britishmarine.co.uk/" target="_blank"><img class="advert-image" width="100%" border="0" src="http://cdn.boatshed.com/contentimage/item_163/53439a78a7658BMF-Logos.gif" alt=""></a></div>
 				</div>
 			</div>
 		</div>
@@ -1084,7 +261,8 @@
 						<h4>Information<i class="icon-chevron-down"></i></h4>
 						<ul>
 													<li><a href="/" title="Return to home page">Home</a></li>
-													<li><a href="/forsale.php" title="Browse all used boats on the Boatshed network">Used Boats</a></li>
+													<li><a href="/used-boats-for-sale/" title="Browse all used boats on the Boatshed network">Used Boats</a></li>
+													<li><a href="/charter-boats/" title="Charter Boats">Charter Boats</a></li>
 													<li><a href="/listmyboat.php" title="Information on how you can sell your boat with us">Sell my Boat</a></li>
 													<li><a href="/myboatshed.php" title="Your Personalised Boatshed Homepage">My Boatshed</a></li>
 													<li><a href="/contact.php" title="How to get in touch">Contact Us</a></li>
@@ -1100,38 +278,38 @@
 					</div>
 					
 					<div class="span3">
-						<h4>Top Brands<i class="icon-chevron-down"></i></h4>
+											<h4>Top Brands<i class="icon-chevron-down"></i></h4>
 						<ul>
-										           		<li><a href="/jeanneau-manufacturer-322.html" title="Jeanneau Boats for Sale">Jeanneau (70)</a></li>
-				           						           		<li><a href="/beneteau-manufacturer-69.html" title="Beneteau Boats for Sale">Beneteau (64)</a></li>
-				           						           		<li><a href="/westerly-manufacturer-656.html" title="Westerly Boats for Sale">Westerly (56)</a></li>
-				           						           		<li><a href="/fairline-manufacturer-215.html" title="Fairline Boats for Sale">Fairline (53)</a></li>
-				           						           		<li><a href="/sealine-manufacturer-2674.html" title="Sealine Boats for Sale">Sealine (46)</a></li>
-				           						           		<li><a href="/dutch-manufacturer-187.html" title="Dutch Boats for Sale">Dutch (37)</a></li>
-				           						           		<li><a href="/bayliner-manufacturer-62.html" title="Bayliner Boats for Sale">Bayliner (36)</a></li>
-				           						           		<li><a href="/sunseeker-manufacturer-595.html" title="Sunseeker Boats for Sale">Sunseeker (35)</a></li>
-				           						           		<li><a href="/narrowboat-manufacturer-1636.html" title="Narrowboat Boats for Sale">Narrowboat (32)</a></li>
-				           						           		<li><a href="/princess-manufacturer-472.html" title="Princess Boats for Sale">Princess (31)</a></li>
+										           		<li><a href="/beneteau-manufacturer-69.html" title="Beneteau Boats for Sale">Beneteau (79)</a></li>
+				           						           		<li><a href="/jeanneau-manufacturer-322.html" title="Jeanneau Boats for Sale">Jeanneau (66)</a></li>
+				           						           		<li><a href="/westerly-manufacturer-656.html" title="Westerly Boats for Sale">Westerly (60)</a></li>
+				           						           		<li><a href="/fairline-manufacturer-215.html" title="Fairline Boats for Sale">Fairline (54)</a></li>
+				           						           		<li><a href="/sealine-manufacturer-2674.html" title="Sealine Boats for Sale">Sealine (44)</a></li>
+				           						           		<li><a href="/narrowboat-manufacturer-1636.html" title="Narrowboat Boats for Sale">Narrowboat (41)</a></li>
+				           						           		<li><a href="/bayliner-manufacturer-62.html" title="Bayliner Boats for Sale">Bayliner (39)</a></li>
+				           						           		<li><a href="/princess-manufacturer-472.html" title="Princess Boats for Sale">Princess (39)</a></li>
 				           						           		<li><a href="/sea-ray-manufacturer-533.html" title="Sea Ray Boats for Sale">Sea Ray (31)</a></li>
-				           						           		<li><a href="/moody-manufacturer-406.html" title="Moody Boats for Sale">Moody (29)</a></li>
-				           						           		<li><a href="/bavaria-manufacturer-59.html" title="Bavaria Boats for Sale">Bavaria (26)</a></li>
-				           						           		<li><a href="/cranchi-manufacturer-157.html" title="Cranchi Boats for Sale">Cranchi (25)</a></li>
-				           						           		<li><a href="/colvic-manufacturer-145.html" title="Colvic Boats for Sale">Colvic (24)</a></li>
-				           						           		<li><a href="/hunter-manufacturer-2684.html" title="Hunter Boats for Sale">Hunter (21)</a></li>
-				           						           		<li><a href="/karnic-manufacturer-339.html" title="Karnic Boats for Sale">Karnic (19)</a></li>
-				           						           		<li><a href="/wooden--manufacturer-2564.html" title="Wooden  Boats for Sale">Wooden  (19)</a></li>
-				           						           		<li><a href="/four-winns-manufacturer-252.html" title="Four Winns Boats for Sale">Four Winns (18)</a></li>
+				           						           		<li><a href="/moody-manufacturer-406.html" title="Moody Boats for Sale">Moody (31)</a></li>
+				           						           		<li><a href="/sunseeker-manufacturer-595.html" title="Sunseeker Boats for Sale">Sunseeker (31)</a></li>
+				           						           		<li><a href="/bavaria-manufacturer-59.html" title="Bavaria Boats for Sale">Bavaria (29)</a></li>
+				           						           		<li><a href="/cranchi-manufacturer-157.html" title="Cranchi Boats for Sale">Cranchi (27)</a></li>
+				           						           		<li><a href="/dutch-manufacturer-187.html" title="Dutch Boats for Sale">Dutch (27)</a></li>
+				           						           		<li><a href="/colvic-manufacturer-145.html" title="Colvic Boats for Sale">Colvic (23)</a></li>
+				           						           		<li><a href="/seamaster-manufacturer-546.html" title="Seamaster Boats for Sale">Seamaster (21)</a></li>
+				           						           		<li><a href="/wooden--manufacturer-2564.html" title="Wooden  Boats for Sale">Wooden  (20)</a></li>
+				           						           		<li><a href="/sadler-manufacturer-518.html" title="Sadler Boats for Sale">Sadler (19)</a></li>
+				           						           		<li><a href="/steel-manufacturer-1869.html" title="Steel Boats for Sale">Steel (19)</a></li>
+				           						           		<li><a href="/hunter-manufacturer-2684.html" title="Hunter Boats for Sale">Hunter (18)</a></li>
 				           						           		<li><a href="/broom-manufacturer-96.html" title="Broom Boats for Sale">Broom (17)</a></li>
-				           						           		<li><a href="/steel-manufacturer-1869.html" title="Steel Boats for Sale">Steel (17)</a></li>
 				           						           		<li><a href="/maxum-manufacturer-388.html" title="Maxum Boats for Sale">Maxum (16)</a></li>
-				           						           		<li><a href="/dufour-manufacturer-185.html" title="Dufour Boats for Sale">Dufour (15)</a></li>
-				           						           		<li><a href="/sadler-manufacturer-518.html" title="Sadler Boats for Sale">Sadler (14)</a></li>
-				           						           		<li><a href="/hardy-manufacturer-280.html" title="Hardy Boats for Sale">Hardy (14)</a></li>
+				           						           		<li><a href="/bruce-roberts-manufacturer-99.html" title="Bruce Roberts Boats for Sale">Bruce Roberts (13)</a></li>
+				           						           		<li><a href="/rinker-manufacturer-499.html" title="Rinker Boats for Sale">Rinker (13)</a></li>
+				           						           		<li><a href="/nelson-manufacturer-423.html" title="Nelson Boats for Sale">Nelson (13)</a></li>
 				           								</ul>
-					</div>
+										</div>
 					
 					<div class="span3">
-						<h4>Boats for Sale<i class="icon-chevron-down"></i></h4>
+											<h4>Boats for Sale<i class="icon-chevron-down"></i></h4>
 						<ul>          
 		           			<h5><a href="/cat/sail-boats/">Sail Boats</a></h5>			           	   			
 		           	   				           					<li>
@@ -1217,11 +395,12 @@
 		           					<a href="/cat/river-and-inland-boats/workboat/">Workboat</a>
 		           					</li>
 		           					       	
-			           </ul>			
+			           </ul>
+			        		
 					</div>
 					
 					<div class="span3">
-						<h4>Boats for Sale<i class="icon-chevron-down"></i></h4>
+											<h4>Boats for Sale<i class="icon-chevron-down"></i></h4>
 						<ul>          
 			           		<h5><a href="/cat/power-boats/">Power Boats</a></h5>			           	   			
 		           	   				           					<li>
@@ -1255,6 +434,9 @@
 		           					<a href="/cat/power-boats/ex-charter/">Ex-charter</a>
 		           					</li>
 		           							           					<li>
+		           					<a href="/cat/power-boats/fast-fisher/">Fast Fisher</a>
+		           					</li>
+		           							           					<li>
 		           					<a href="/cat/power-boats/fishing-boat/">Fishing Boat</a>
 		           					</li>
 		           							           					<li>
@@ -1264,7 +446,7 @@
 		           					<a href="/cat/power-boats/launch/">Launch</a>
 		           					</li>
 		           							           					<li>
-		           					<a href="/cat/power-boats/cabin-cruiser/">Motor Cruiser</a>
+		           					<a href="/cat/power-boats/motor-cruiser/">Motor Cruiser</a>
 		           					</li>
 		           							           					<li>
 		           					<a href="/cat/power-boats/motor-yacht/">Motor Yacht</a>
@@ -1291,10 +473,10 @@
 		           					<a href="/cat/power-boats/speedboat/">Speedboat</a>
 		           					</li>
 		           							           					<li>
-		           					<a href="/cat/power-boats/sports-express-cruiser/">Sports/Express Cruiser</a>
+		           					<a href="/cat/power-boats/sport-fisher/">Sport Fisher</a>
 		           					</li>
 		           							           					<li>
-		           					<a href="/cat/power-boats/sports-fast-fisher/">Sports/Fast Fisher</a>
+		           					<a href="/cat/power-boats/sports-express-cruiser/">Sports/Express Cruiser</a>
 		           					</li>
 		           							           					<li>
 		           					<a href="/cat/power-boats/super-yacht/">Super Yacht</a>
@@ -1306,7 +488,8 @@
 		           					<a href="/cat/power-boats/workboats/">Workboats</a>
 		           					</li>
 		           					      	
-			           </ul>			
+			           </ul>
+			        			
 					</div>
 				</div>
 			</div>
@@ -1331,8 +514,10 @@ Gibraltar</strong></span>
 						
 					</div>
 					<br><p>Each Boatshed Office is independently owned and operated and is not an agent of Boatshed.com
-					 (see <a href="/aboutus/terms-and-conditions" title="Terms and Conditions">Terms and Conditions</a>) | <a title="View our privacy policy" href="/aboutus/privacy-policy">View our privacy policy</a> </p>
-					<h6><a href="/disclaimer">Copyright BOATSHED™ 1998 ~ 2013</a> | Version 30.6</h6>
+					 (see <a href="/aboutus/terms-and-conditions" title="TERMS AND CONDITIONS
+">TERMS AND CONDITIONS
+</a>) | <a title="Privacy Policy" href="/aboutus/privacy-policy">Privacy Policy</a> | <a title="Cookie Policy" href="/aboutus/cookie-policy">Cookie Policy</a> </p>
+					<h6><a href="/disclaimer">Copyright BOATSHED™ 1998 ~ 2014</a> | Version 31.3</h6>
 				</div>
 	        </div>
        		<div id="foot_bottom">
@@ -1348,16 +533,16 @@ UN: super
 App: ap2.boatshedcloud.com
 Master DB: 9b6d5a340871507227feb06c36a42d4c09bfa93e.rackspaceclouddb.com
 Slave DB: unused
-DB Queries: 26
-Mem Peak: 1984240
-Execution Time: 0.0846
-SQL Execution Time: 0.0278
+DB Queries: 51
+Mem Peak: 1974008
+Execution Time: 0.0953
+SQL Execution Time: 0.0392
 -->
-	<div id="cookie-compliance" class="alert"><strong>Cookies</strong> We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on our website. Please click <a target="_blank" href="http://www.aboutcookies.org/Default.aspx?page=1">here for information on how to change your cookie settings.</a> <br><br> <strong><a href="#" id="close-cookie-compliance">I accept, please close this box.</a></strong></div>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<noscript><div id="javascript-warning" class="alert alert-error">Warning: you have Javascript disabled. For a better browsing experience, please enable JavaScript in your browser settings and then refresh this page.</div></noscript>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/plugins/jquery-1.8.2.min.js"><\/script>')</script><script src="/js/plugins/jquery-1.8.2.min.js"></script>
 
   	
-	<script src="http://cdn.boatshed.com/minifiedjs-011.js" type="text/javascript"></script>
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","ea42fc42df","2502564","NFBQZUBVWEoEU0RdXw0aZ0NbG2lNAF1AWFEXUBxBWkQ=",0,97,new Date().getTime(),"","","","",""]);</script>
-</div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+	<script src="http://cdn.boatshed.com/minifiedjs-023.js" type="text/javascript"></script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"ea42fc42df","applicationID":"2502564","transactionName":"NFBQZUBVWEoEU0RdXw0aZ0NbG2lNAF1AWFEXUBxBWkQ=","queueTime":0,"applicationTime":102,"ttGuid":"","agentToken":"","atts":"GBdTEwhPS0Q=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+</div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
