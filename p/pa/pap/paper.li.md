@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214093502id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper.li privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133145id_/http%3A//paper.li/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -48,7 +48,7 @@ Email addresses
 
 **Paper.li Members (registered with Paper.li):** SmallRivers uses your email address to contact you with Paper.li service updates, marketing and promotional material and newsletter alerts to the newspapers to which you are subscribed. 
 
-If you no longer wish to receive company communication from us, you can unsubscribe to these notifications anytime via the footer of the email or by updating your “preferences” information under your account settings. 
+If you no longer wish to receive company communication from us, you can unsubscribe to these notifications anytime via the footer of the email or by updating your 'preferences' information under your account settings. 
 
 If you no longer wish to receive newsletter alerts for a specific paper to which you are subscribed, you can unsubscribe at any time via the footer of the email alert. 
 
@@ -60,7 +60,7 @@ If you no longer wish to receive these email notifications, you can unsubscribe 
 
 The email address of both Paper.li Members and non Paper.li Members are transmitted to the publishers of PRO newspapers at the time a publisher upgrades his/her account to the Paper.li Pro service. 
 
-If you decide you no longer wish to receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher’s email list for that paper.
+If you decide you no longer wish to receive email notifications to a paper you have subscribed to, you can unsubscribe at anytime via the footer of the email and your email address will be removed from the publisher's email list for that paper.
 
 ## How do we protect your personal information?
 
