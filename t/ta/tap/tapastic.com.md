@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapastic.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130155825id_/http%3A//tapastic.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapastic.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627233004id_/http%3A//tapastic.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tapastic
 
@@ -42,7 +42,7 @@ Many of our services let you share information with others. Remember that when y
 
   * Accessing and updating your personal information 
     * With your consent. We will share personal information with companies, organizations or individuals outside of Tapas when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info).
-    * With domain administrators. For external processing (like accounting for Primetime Publishers)
+    * With domain administrators. For external processing
     * We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
     * For legal reasons. We will share personal information with companies, organizations or individuals outside of Tapas if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
       * meet any applicable law, regulation, legal process or enforceable governmental request.
