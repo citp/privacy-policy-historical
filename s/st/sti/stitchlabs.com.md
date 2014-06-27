@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stitchlabs.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511041728id_/http%3A//www.stitchlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchlabs.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627042210id_/http%3A//www.stitchlabs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Stitch Labs
+# Privacy Policy | Stitch Labs
 
 Privacy Policy
 
@@ -45,4 +45,4 @@ You can access all your private information that we collect online via the tool,
 
 How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please call us at +1 415.323.0630 and/or [info@stitchlabs.com](mailto:info@stitchlabs.com).
+Should you have other questions or concerns about these privacy policies, please email us at [support@stitchlabs.com](mailto:support@stitchlabs.com).
