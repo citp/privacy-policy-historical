@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musthavemenus.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211085547id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musthavemenus.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628015210id_/http%3A//www.musthavemenus.com/menu/privacyPolicy/view.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <!-- start - automaticaly moved code -->
@@ -37,21 +37,21 @@
         
         <!-- HTML5 shim, for IE6-8 support of HTML elements -->
         <!--[if lt IE 9]>
-        <script src="/js/html5shim/html5.js?8401=7903&4729=3117&8195=4775&6955=8397"></script>
+        <script src="/js/html5shim/html5.js?4860=3331"></script>
         <![endif]-->
 
         <!-- Bootstrap 2.1.1 -->
-        <link href="/css/bootstrap/css/bootstrap.min.css?8401=7903&amp;4729=3117&amp;8195=4775&amp;6955=8397" rel="stylesheet">
+        <link href="/css/bootstrap/css/bootstrap.min.css?4860=3331" rel="stylesheet">
 
-        <link href="/css/global.css?8401=7903&amp;4729=3117&amp;8195=4775&amp;6955=8397" type="text/css" rel="stylesheet">
+        <link href="/css/global.css?4860=3331" type="text/css" rel="stylesheet">
 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery/jquery-1.7.2.min.js?8401=7903&amp;4729=3117&amp;8195=4775&amp;6955=8397" type="text/javascript"></script>
-        <script src="/js/jquery/jquery-ui-1.8.11.min.js?8401=7903&amp;4729=3117&amp;8195=4775&amp;6955=8397" type="text/javascript"></script>
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery/jquery-1.7.2.min.js?4860=3331" type="text/javascript"></script>
+        <script src="/js/jquery/jquery-ui-1.9.2.custom.js?4860=3331" type="text/javascript"></script>
 
 		
 		
 		
-		<script src="/css/bootstrap/js/bootstrap.min.js?8401=7903&amp;4729=3117&amp;8195=4775&amp;6955=8397" type="text/javascript"></script>
+		<script src="/css/bootstrap/js/bootstrap.min.js?4860=3331" type="text/javascript"></script>
 		
 
         <script type="text/javascript">
@@ -82,6 +82,11 @@
 	                }catch(err){};
 					jQuery.get(cartContentsUrl, function(data) {
 	                    var cartInfo = JSON.parse(data);
+	                    
+	                    LANDA.Constant.shoppingCart = cartInfo;
+	                    LANDA.Constant.memberLoginKey = memberKey;
+	                    LANDA.Constant.osCommerceUrl = 'http://www.musthavemenus.com/print/catalog';
+	                    
 	                    if (cartInfo.is_empty != "true") {
 	                        //$('#shoppingCartLink a').text("Shopping cart (" + cartInfo.total + ")");
 							jQuery('#shoppingCartLink').addClass('active');
@@ -108,23 +113,22 @@ window.google_analytics_uacct = "UA-28728676-1";
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28728676-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-28728676-1', 'musthavemenus.com');
+ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 
 </script>
 
-<!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" href="/css/ie7.css?8401=7903&4729=3117&8195=4775&6955=8397">
+
+<link href="https://plus.google.com/+MustHaveMenus/" rel="publisher">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" href="/css/ie7.css?4860=3331">
 <![endif]-->
     </head>
     <body>
@@ -138,22 +142,20 @@ window.google_analytics_uacct = "UA-28728676-1";
                 <div class="container">
                     <div class="row">
                         <div class="span12">
-                            <div class="pull-left">
+                            <!-- <div class="pull-left">
                                 <div class="needHelp">
 For questions, call (800) 452-2234
+</div>
 
- </div>
-                            </div>
+
+                            </div> -->
                             
                             <ul class="nav nav-pills pull-right">
-                                <li>
-                                    <a href="/menu/learnmore.do">learn more</a>
-                                </li>
                                 <li>
                                     <a href="/menu/contact.do">contact</a>
                                 </li>
                                 <li>
-                                    <a href="/feature/help-center.html">help</a>
+                                    <a href="http://support.musthavemenus.com/" target="_blank">help</a>
                                 </li>
                                 <li>
                                     <a href="https://www.musthavemenus.com/menu/login.do" class="visitorOptionLogin" rel="nofollow">login</a>
@@ -168,13 +170,38 @@ For questions, call (800) 452-2234
     </div><!--/container-fluid -->
     <div class="container spacer">
         <div class="row">
-            <div class="span2">
+            <div class="span5">
                 <h1 class="mhmlogo">
                         <a class="logo" href="http://www.musthavemenus.com" alt="MustHaveMenus.com">MustHaveMenus.com</a>
                 </h1>
+                <style>
+.needHelp {
+font-size: 28px;
+color: #cc0000;
+position: relative;
+top: -75px;
+left: 180px;
+}
+@media (max-width: 767px) {
+    .container-fluid {
+    padding: 0 20px;
+    margin: 0 -20px;
+    }
+    .needHelp {
+    float: right;
+    left: 0;
+    }
+}
+</style>
+
+<div class="needHelp">
+1-800-452-2234 <br>
+<font size="3">menu design, printing &amp; online updates</font>
+</div>
+
             </div>
-            <div class="span10 topnavMain">
-            	<form method="post" action="/menu/validateSearch.do" class="input-append pull-right">
+            <div class="span7 topnavMain">
+            	<form method="post" action="/menu/validateSearch.do" class="input-append pull-right pad-left">
 	                <input class="span2" type="text" name="query" autocomplete="off" value="" placeholder="Find a menu...">
 	                <button class="btn" type="submit"><i class="icon-search"></i></button>
             	</form>
@@ -187,98 +214,30 @@ For questions, call (800) 452-2234
 </div>
                 
                <!-- nav -->
-                <ul class="nav nav-pills pull-right">
+                <ul class="nav nav-pills pull-right bigger">
     <li class="dropdown">
         <a href="/menu/browse.do" class="dropdown-toggle" data-toggle="dropdown" onclick="document.location.href='/menu/browse.do'">Menus</a>
         <ul class="dropdown-menu">
-<li><a href="/menu/browse.do">Browse All</a></li>
-<li><a href="/feature/menu-design-sets.html">Menu Design Sets</a></li>
-<li><a href="/category/restaurant-menu.html">Restaurant Menus</a></li>
-<li><a href="/category/holiday-menus.html">Holiday Menus</a></li>
-<li><a href="/category/restaurant-flyer.html">Restaurant Event Flyers</a></li>
-<li><a href="/category/spa-menus.html">NEW - Spa Menus</a></li>
-<li><a href="/feature/staff-picks.html">Staff Picks</a></li>
-<li class="divider"></li>
-<li><a href="/menu/contact.do">Personal Menu Help</a></li>
-<!--
-<li><a href="/category/restaurant-menu.html">Restaurant Menus</a></li>
-<li><a href="/category/cafe-menus.html">Cafe Menus</a></li>
-<li><a href="/category/simple-menus.html">Simple Menus</a></li>
-<li><a href="/category/bar-menus.html">Bar & Drinks Menus</a></li>
-<li><a href="/category/daily-special-menus.html">Daily Special Menus</a></li>
-<li><a href="/category/kids%27-menus.html">Kid's Menus</a></li>
-<li><a href="/category/catering-menus.html">Catering Menus</a></li>
-<li><a href="/menu/browse.do">- Browse All Menus -</a></li>
--->
-        </ul>
-    </li>
-<li class="dropdown"><a href="/feature/online-restaurant-menus.html">Mobile</a></li>
-<li class="dropdown"><a href="/feature/Print-Services.html">Printing</a></li>
-<!--
-<li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Flyers</a>
-        <ul class="dropdown-menu">
-<li><a href="/category/restaurant-flyer.html">Restaurant Event Flyers</a></li>
-<li><a href="/category/sports-flyer.html">Sports Flyers</a></li>
-<li><a href="/category/summer-flyers.html">Summer Event Flyers</a></li>
-<li><a href="/category/fathers-day-flyers.html">Fathers Day Flyers</a></li>
-<li><a href="/category/memorial-day-menus.html">Memorial Day Flyers</a></li>
-<li><a href="/menu/browse.do#flyers">- Browse All Flyers -</a></li>
-        </ul>
-</li>
+            <li><a href="/feature/staff-picks.html">Popular Designs</a></li>
+            <li><a href="/feature/menu-design-sets.html">Menu Design Sets</a></li>
+            <li><a href="/category/restaurant-menu.html">Restaurant Menus</a></li>
+            <li><a href="/category/holiday-menus.html">Holiday Menus</a></li>
+            <li><a href="/category/restaurant-flyer.html">Event Flyers</a></li>
+            <li><a href="/category/spa-menus.html">Spa Menus</a></li>
+            <li><a href="/menu/browse.do">Browse All</a></li>
 
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Beverages</a>
-        <ul class="dropdown-menu">
-<li><a href="/category/bar-menus.html">Bar Menus</a></li>
-<li><a href="/category/sports-bar-menus.html">Sports Bar Menus</a></li>
-<li><a href="/category/wine-bar-menus.html">Wine Bar Menus</a></li>
-<li><a href="/category/winery-menus.html">Winery Menus</a></li>
-<li><a href="/category/happy-hour-menu.html">Happy Hour Menu</a></li>
-<li><a href="/category/cocktail-menu.html">Cocktail Menu</a></li>
-<li><a href="/category/pub-food-menus.html">Pub Food Menus</a></li>
-<li><a href="/category/wine-list.html">Wine List</a></li>
-<li><a href="/category/coffee-house-menus.html">Coffee House Menus</a></li>
-       </ul>
-    </li>
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Holidays</a>
-        <ul class="dropdown-menu">
-<li><a href="/category/memorial-day-menus.html">Memorial Day</a></li>
-<li><a href="/category/father's-day-menus.html">Father's Day</a></li>
-<li><a href="/category/4th-of-july-menus.html">4th of July</a></li>
-<li><a href="/menu/browse.do#holidays">- Browse All Holidays -</a></li>
+            <li class="divider"></li>
+<li><a href="/feature/Print-Services.html">Print Center</a></li>
+            <li><a href="/menu/contact.do">Personal Menu Help</a></li>
         </ul>
     </li>
-
-<li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sets</a>
-        <ul class="dropdown-menu">
-<li><a href="/feature/menu-design-sets.html">Menu Design Sets</a></li>
-<li><a href="/feature/staff-picks.html">Staff Picks</a></li>
-        </ul>
-    </li>
-
-<li><a href="/feature/Print-Services.html">Printing</a></li>
-
-    <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">More</a>
-        <ul class="dropdown-menu">
-<li><a href="/category/table-tent.html">Table Tents</a></li>
-<li><a href="/category/restaurant-coupons.html">Coupons</a></li>
-<li><a href="/category/online-coupons.html">Online Coupons</a></li>
-<li><a href="/category/restaurant-gift-certificate.html">Gift Certificates</a></li>
-<li><a href="/category/restaurant-business-cards.html">Business Cards</a></li>
-<li><a href="/category/restaurant-comment-cards.html">Comment Cards</a></li>
-<li><a href="/menu/browse.do#flyers">- Browse All Promos -</a></li>
-        </ul>
-    </li>
--->
+<li>
+                            <a href="/feature/Print-Services.html">
+                                Print Center
+                            </a>
+                        </li>
+                        <li>&nbsp;</li>
 </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="span12 spacer">
             </div>
         </div>
     </div>
@@ -299,6 +258,12 @@ MustHaveMenus.com values your privacy. You may contact us any time to learn more
 <br><br>
 <b>Collection and Use of Personal Information by MustHaveMenus.com
 </b><br><br>With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site.  MustHaveMenus.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by sending e-mail to <a href="mailto:Contact@MustHaveMenus.com">Contact@MustHaveMenus.com</a>.
+
+
+<br><br>
+<strong>Google Analytics Demographics</strong>
+<br><br>
+MustHaveMenus uses data collected from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to better understand our customer needs and improve our service and products. To opt-out of Google Analytics for Display Advertising and customize Google Display Network ads, go to  <a href="https://www.google.com/settings/ads" target="_blank"><u>Ad Settings</u></a> or use <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank"><u>other opt-out settings</u></a>.
 
 <b><br><br>Cookies
 </b><br><br> You must have Cookies turned ON to be a member at MustHaveMenus.com. Cookies are very small text files placed on your hard drive by a computer server. It serves as your identification card and is uniquely yours. A cookie can only be read by the server that gave it to you. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences. Cookies enable you to login, and helps us personalize your experience at the Site by permitting our computer server to "remember" who you are. Some of the advertisers on the Site use cookies to collect similar information, but we do not control the use of cookies by other web site operators or advertisers.
@@ -389,6 +354,7 @@ Monday-Friday,<br>
                   <ul class="nav nav-pills">
                     <li>
                       <a href="/menu/about/view.do">about us</a>
+                      <a href="/menu/contact.do" title="800-452-2234" data-placement="right">contact</a>
                       <a href="/feature/musthavemenus-press.html">press</a>
                       <a href="/menu/privacyPolicy/view.do">privacy</a>
                       <a href="/menu/usagePolicy/view.do">terms</a>
@@ -399,11 +365,11 @@ Monday-Friday,<br>
                   
                   <ul class="nav nav-pills">
                     <li>
-                      <a href="/feature/help-center.html" title="FAQs, videos &amp; help" data-placement="right">help center</a>
-                      <a href="/menu/contact.do" title="800-452-2234" data-placement="right">contact</a>
+                      <a href="http://support.musthavemenus.com/" target="_blank" title="FAQs, videos &amp; help" data-placement="right">help center</a>
                       <a href="/menu/guide.do" title="Restaurant Marketing Information" data-placement="right">guide</a>
                       <a href="/places/united-states-of-america" title="Places Restaurant Directory" data-placement="right">places</a>
                       <a href="/menu/learnmore.do" title="Learn more about MustHaveMenus" data-placement="right">learn more</a>
+                      <a href="/feature/affiliate.html" title="Become a MustHaveMenus Affiliate" data-placement="right">affiliate</a>
                     </li>
                   </ul>
                 </div>
@@ -478,7 +444,13 @@ display: block;
 position: absolute;
 top: 15%;
 right: 0;
+z-index: 2;
 }
+@media only screen and (max-width: 600px) {
+	    #lhnChatButton {
+display: none;
+}
+	}
 </style>
     
     
