@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015124202id_/http%3A//www.thestage.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestage.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044506id_/http%3A//www.thestage.co.uk/terms/privacy) for the most accurate reproduction.*
 
-# Privacy policy - The Stage
+# Privacy policy : The Stage
 
 BY USING OUR WEBSITE YOU ACCEPT AND CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR DATA IN ACCORDANCE WITH THIS PRIVACY POLICY.
 
