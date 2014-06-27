@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofosexcams.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229015637id_/http%3A//www.mofosexcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofosexcams.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015441id_/http%3A//www.mofosexcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MofoSexCams - Privacy Policy
 
