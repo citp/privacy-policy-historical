@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222175158id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627125821id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandrill
 
@@ -123,7 +123,7 @@ MailChimp accounts require a username and password to log in. You must keep your
 
 ## 12\. Safe Harbor Certification
 
-MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. A data processing agreement is available upon request, please contact [privacy@mailchimp.com](mailto:privacy@mailchimp.com).
 
 ## 13\. Accuracy of Data, Transparency, and Choice
 
