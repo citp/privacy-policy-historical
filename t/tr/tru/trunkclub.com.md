@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210171827id_/http%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trunkclub.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627023840id_/http%3A//www.trunkclub.com/privacy) for the most accurate reproduction.*
 
 # Trunk Club - Privacy
 
@@ -62,7 +62,7 @@ Trunkclub.com gives you access to information about your account and your intera
 
 ### What choices do I have?
 
-You can always choose not to provide information, even though it might be needed to make a purchase. If you do not want to receive e-mail or other mail from us, please contact us at service@trunkclub.com or call us at (312) 266-8700 between 9 and 6 PM Central time to be promptly removed from our lists. 
+You can always choose not to provide information, even though it might be needed to make a purchase. If you do not want to receive e-mail or other mail from us, please contact us at service@trunkclub.com or call us at (312) 801-7200 between 9 and 6 PM Central time to be promptly removed from our lists. 
 
 ### What are Cookies?
 
