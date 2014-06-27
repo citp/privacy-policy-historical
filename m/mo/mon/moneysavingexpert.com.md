@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205073926id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627232231id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # MoneySavingExpert Privacy Policy...
 
@@ -10,7 +10,7 @@ This site is owned and operated by MoneySavingExpert.com Limited ('MoneySavingEx
 
 _Please read this Privacy Policy carefully. If you use our website, you will be regarded as having read and accepted this Privacy Policy._ _If you don't wish to be bound by what you read below, you shouldn't use MoneySavingExpert.com_
 
-MoneySavingExpert.com is a registered data controller under the Data Protection Act 1998 in relation to the processing of any personal data in connection with our services. If you have any queries relating to our use of your personal data or any other related data protection questions, please contact our Data Protection Officer at [dpo@moneysavingexpert.com](mailto:dpo@moneysavingexpert.com). 
+MoneySavingExpert.com Limited is a registered data controller under the Data Protection Act 1998 in relation to the processing of any personal data in connection with our services. If you have any queries relating to our use of your personal data or any other related data protection questions, please contact our Data Protection Officer at [dpo@moneysavingexpert.com](mailto:dpo@moneysavingexpert.com). 
 
 **1. How to contact us **
 
@@ -78,7 +78,26 @@ We may disclose this information to a third party in the following circumstances
 
 
 
-**3. Cookies**
+**3\. Disclosure of the information we collect**
+
+The information you enter when registering on our site or collected when you use our site is confidential and except in the limited circumstances mentioned below, we will not disclose it to any third party. 
+
+We may disclose the information described at Section 2 to a third party in the following circumstances:
+
+  1. if required or permitted to do so by law; and/or
+
+  2. if required to do so by any court, the Financial Conduct Authority, the Office of Fair Trading or any other applicable regulatory, compliance, Governmental or law enforcement agency; and/or
+
+  3. if necessary in connection with legal proceedings or potential legal proceedings; and/or
+
+  4. if ownership of all or part of our website is transferred, in which case any purchaser would only be entitled to use that information in a way consistent with this Privacy Policy ; and/or
+
+  5. in line with our own Terms and Conditions of Use (in particular Clause 9.9.1 regarding reporting offending forum members to their ISP, and Clause 9.9.4 regarding reporting offending forum members to the authorities if their actions appear to amount to a crime).
+
+
+
+
+**4. Cookies**
 
 We use cookies (files which are sent by us to your computer or other access device) both in our forums and as part of the main site. Many of these improve the functionality of the website and the forums.
 
@@ -86,11 +105,11 @@ The information derived from use of cookies will be aggregated to provide statis
 
 For details on what cookies we do use, and information on how to stop them being stored or deleting ones already stored, read our [Cookies Q&A](http://www.moneysavingexpert.com/site/cookies-qa).
 
-**4. Links**
+**5. Links**
 
 Our site contains links to third party websites that are not subject to this Privacy Policy. Read our [Terms and Conditions](http://www.moneysavingexpert.com/site/terms-conditions) for further information on these links. We strongly recommend that you read the privacy policy of any such websites that you visit.
 
-**5. Security Policy**
+**6. Security Policy**
 
 Keeping information about you secure is very important to us. We use reasonable precautions to keep the information disclosed to us secure. However, we cannot guarantee the security of the information that you disclose to us. 
 
@@ -98,12 +117,12 @@ You may complete a registration process when you sign up to use parts of our web
 
 You accept the inherent risks of providing information and dealing on-line and will not hold us responsible for any breach of security unless it is due to our negligence or wilful default. 
 
-**6. Changes**
+**7. Changes**
 
-This policy is effective from 31 January 2013 and replaces with immediate effect the Privacy Policy previously published on 12 November 2012. Section 2.4 (Cheap Energy Club) has changed. We may, from time to time make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
+This policy is effective from 5 December 2013 and replaces with immediate effect the Privacy Policy previously published on 31 January 2013. We may, from time to time make changes to this Privacy Policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
 
-**7. General**
+**8. General**
 
 If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com Limited, 19-22 Rathbone Place, London, W1T 1HY.
 
-Effective as of: 31 January 2013
+Effective as of: 5 December 2013
