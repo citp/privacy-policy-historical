@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226002256id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcheckmate.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013313id_/http%3A//www.instantcheckmate.com/privacy_policy) for the most accurate reproduction.*
 
 # Instant Checkmate Privacy Policy - The internet's #1 source for Background Checks
 
@@ -45,7 +45,9 @@ We may use some of your Personal Information to send you information about our c
 
 We share certain categories of information we collect from you in the ways described in this Privacy Policy. We may share certain types of Personal Information with advertisers and other third parties. The other parties with whom we share the information may want to send you information about products or services. We do not share your Financial Data with these third parties. We may share Financial Data with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, or data storage and security) related to our operation of the Site. Those business partners have all agreed to uphold the same standards of security and confidentiality that we have promised to you in this Privacy Policy, and they will only use your data to carry out their specific business obligations to Instant Checkmate. If you do not want us to share your Personal Information with any third parties, please email us at privacy@instantcheckmate.com or select the "opt out" box on our online forms. In addition, we maintain a procedure for you to review and request changes to your Personal Information; this procedure is described below.
 
-We may also share Traffic Data with advertisers and other third parties who may use it for advertising purposes, including to serve targeted advertising.
+##### Interest-Based Ads
+
+We may also share Traffic Data with advertisers and other third parties who may use it for advertising purposes, including to serve targeted advertising on our behalf on non-affiliated third party sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information we or the online advertising network serving the ad collect about your online activities here and elsewhere over time. For example, anonymous information collected across multiple sites that you visit over time may enable the ad network to predict your preferences and show you ads that are most likely to be of interest to you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
 If we or some or all of our assets are acquired by another company, including through a sale in connection with bankruptcy, that company will possess the information collected by us, and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
 
@@ -89,4 +91,4 @@ Las Vegas, NV 89103-4052
 
 #### Get Started Now: Search for Someone You Know...
 
-1388017376
+1403919193
