@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the ea-coder.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140525id_/http%3A//www.ea-coder.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Rimantas Petrauskas Forex Blog
+
+## Personal data
+
+Unless volunteered by visitors, we don’t collect or store any personal data about our visitors. Upon request we collect the e-mail addresses of those who post comments to my blog, the e-mail addresses of those who communicate with us via e-mail, other information volunteered by the visitor, such as survey information and/or site registrations.
+
+## Confidentiality
+
+All personal data we may collect will be treated with the strictest confidentiality. Our servers in which the data is stored comply to all necessary industry security standards to prevent any unlawful access to the personal data.
+
+## Rights of access
+
+Visitors can inquire about personal data being collected about them. To do so, a written request should be submitted using our contact page.  
+The information can be disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website.
+
+## Cookies
+
+This website does not use cookies to gather any personal information.  
+Exception applies only when a visitor volunteers to register in our member area. The cookies will be used to save the identity of a user in order to allow automatic login to the private home page of the registered user, but only if this is desired.
+
+## Ad Services
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+## Policy updates
+
+We reserve the right to amend this policy in order to adapt it to new legal requirements. An appropriate announcement will be made to inform about the changes.
