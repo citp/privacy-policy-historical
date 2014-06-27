@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallytop10.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212041353id_/http%3A//www.totallytop10.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallytop10.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627065334id_/http%3A//www.totallytop10.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TotallyTop10.com
 
