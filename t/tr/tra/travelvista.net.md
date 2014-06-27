@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144104id_/http%3A//travelvista.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627160813id_/http%3A//travelvista.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » World Travel Guide | TravelVista.net
 
