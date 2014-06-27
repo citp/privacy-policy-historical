@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222060050id_/http%3A//www.bigpoint.com/privacy/print_version) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220701id_/http%3A//www.bigpoint.com/privacy/print_version) for the most accurate reproduction.*
 
 # Data Privacy
 
@@ -61,7 +61,7 @@ We reserve the right to change this privacy policy from time to time. When we do
 
 Back to top
 
-If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.: Bigpoint Inc. Attention Privacy 795 Folsom St. First Floor San Francisco CA 94107 USA Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s). You can also reach us under: +1(415) 821-8112 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net 
+If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.: Bigpoint Inc. Attention Privacy 580 California Street 12th Floor San Francisco CA 94104 USA Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s). You can also reach us under: +1(415) 821-8112 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net 
 
 Back to top
 
