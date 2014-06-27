@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231114039id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accruent.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627162849id_/http%3A//www.accruent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Accruent
 
-###  Effective Date: January 23, 2013
+###  Effective Date: June 26, 2014
 
-This privacy statement describes how Accruent, LLC (“Accruent”) collects and uses the personal information you provide on our Web site: [www.accruent.com](http://www.accruent.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We will share your personal information with third parties only in the ways that are described in this Privacy Policy.
+This privacy statement describes how Accruent, LLC (“Accruent”) collects and uses the personal information you provide on our Web site: [www.accruent.com](http://www.accruent.com/) and through our services: 360Facility and Siterra by Accruent, LLC ("Accruent"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Accruent. We will share your personal information with third parties only in the ways that are described in this Privacy Policy.
 
-Accruent has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the web site: www.accruent.com and the services: 360Facility and Sitera does not cover information that may be collected through our mobile web sites.
+Accruent has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the web site: www.accruent.com and the services: 360Facility and Sitera does not cover information that may be collected through our mobile web sites.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 512.861.0726. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 512.861.0726. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Accruent complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Accruent has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Accruent’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -19,6 +19,7 @@ We collect the following personal information from you if you choose to submit i
   * Contact Information, such as name, email address, and phone number
   * Demographic Information, such as Industry
   * Product Interest Preferences
+  * Credit card and payment information to process transactions with you
 
 
 
@@ -30,8 +31,14 @@ We use this information to
   * Send you product or industry information via marketing communications
   * Respond to your questions and concerns
   * Improve our Web site and marketing efforts
+  * Engage in certain transactions with you
+  * Process certain transactions with you
 
 
+
+###  Service Provider Collection and Use
+
+Accruent collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes.
 
 ###  Marketing Communications
 
@@ -39,14 +46,14 @@ If you wish to subscribe to our newsletter(s) or additional marketing communicat
 
 ###  Service Providers
 
-We use other third parties such as an email service provider to send out emails on our behalf and an employment management provider. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
+We use other third parties such as an email service provider to send out emails on our behalf and an employment management provider and a credit card processing provider to process payments for certain transactions. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service.
 
 ###  Legal Disclosure
 
   * as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
   * to any other third party with your prior consent to do so.
-  * if Accruent is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+  * if Accruent is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -56,21 +63,35 @@ If your personally identifiable information changes, or if you no longer desire 
 
 Accruent will retain personal data we process on behalf of our client for as long as needed provide services to our client. Accruent will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+###  Choice
+
+We collect information for our Clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.  If you are a Client and would like to update your account please contact us at vang@accruent.com. We will respond to your request within 30 business days.
+
+###  Access to Data Controlled by our Clients
+
+Accruent has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Accruent’s Client (the data controller). If the Client requests Accruent to remove the data, we will respond to their request within 30 business days.
+
 ###  Tracking Technologies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 We use both session ID cookies and persistent cookies through tracking codes employed by Marketo and Google Analytics. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-Cookies are used to track a visitor’s activity on our site, from the pages they enter from to the multiple pages on the site they visit to the forms they complete. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+Cookies are used to track a visitor’s activity on our site, from the pages they enter from to the multiple pages on the site they visit to the forms they complete. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-The use of cookies by our partners and service providers is covered by our privacy statement. We do/do not have access or control over these cookies. Our partners and service providers use session ID cookies to to communicate the results to Accruent as their client. 
+The use of cookies by our partners and service providers is covered by our privacy statement. We do/do not have access or control over these cookies. Our partners and service providers use session ID cookies to to communicate the results to Accruent as their client.
+
+###  Google Analytics
+
+We have implemented the features of Google Analytics for Display Advertising (Demographic and Interest Reporting). These features allow us to review anonymous (non-personally-identifiable) data regarding the age, gender and interests of our website users. This data allows us to adapt our website content to better meet the needs of our users and to improve our marketing efforts.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Network Display Network ads  using the Google Ads settings or via <https://tools.google.com/dlpage/gaoptout/>.
 
 ###  Clear Gifs
 
 We employ or Marketo employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.     
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
 ###  Social Media Features and Widgets
 
@@ -82,7 +103,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ###  Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at vang@accruent.com. 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at vang@accruent.com.
 
 ###  Public Forums
 
@@ -90,7 +111,9 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ###  Security
 
-The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at vang@accruent.com.
+The security of your personal information is important to us. When you enter sensitive information (such as login credentials) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at vang@accruent.com.
 
 ###  Changes to This Privacy Policy
 
@@ -98,4 +121,4 @@ We may update this privacy policy to reflect changes to our information practice
 
 ###  Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at vang@accruent.com or via postal mail at 10801-2 N. Mo-Pac Expressway Suite 400, Ausitn, TX 78759.
+If you have any questions or suggestions regarding our privacy policy, please contact us at vang@accruent.com or via postal mail at 10801-2 N. Mo-Pac Expressway Suite 400, Austin, TX 78759.
