@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thk.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207233131id_/http%3A//www.thk.com/%3Fq%3Deng/node/294) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thk.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627053648id_/http%3A//www.thk.com/%3Fq%3Deng/node/294) for the most accurate reproduction.*
 
 # Privacy | [ THK ]
 
