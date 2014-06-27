@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129144628id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220634id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | The Gym Group
 
-This privacy policy sets out how The Gym Limited uses and protects any information that you give The Gym Limited when you use this Website. By browsing and using this Website you are agreeing to comply with and be bound by the following privacy policy, which together with our [terms and conditions](http://www.thegymgroup.com/terms-conditions/) of use govern The Gym Limited’s relationship with you in relation to this Website. Please read the following carefully so you may understand how your personal data will be treated. 
+This privacy policy sets out how The Gym Limited uses and protects any information that you give The Gym Limited when you use this Website. By browsing and using this Website you are agreeing to comply with and be bound by the following privacy policy, which together with our [terms and conditions](http://www.thegymgroup.com/terms-conditions/) of use govern The Gym Limited’s relationship with you in relation to this Website. Please read the following carefully so you may understand how your personal data will be treated. 
 
-For the purposes of the Data Protection Act 1998 (“the Act”), the data controller is The Gym Limited of Woodbridge Meadows, Guildford, Surrey, GU1 1BA. The term ‘The Gym Limited’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Woodbridge Meadows, Guildford, Surrey, GU1 1BA. Our company registration number is 05659669 (United Kingdom). The term ‘you’ refers to the user or viewer of this Website. 
+For the purposes of the Data Protection Act 1998 (“the Act”), the data controller is The Gym Limited of Woodbridge Meadows, Guildford, Surrey, GU1 1BA. The term ‘The Gym Limited’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Woodbridge Meadows, Guildford, Surrey, GU1 1BA. Our company registration number is 05659669 (United Kingdom). The term ‘you’ refers to the user or viewer of this Website. 
 
 We may change this Privacy Policy from time-to-time. To ensure that you are always aware of our most current Privacy Policy, please take the time to check this page regularly. 
 
@@ -32,7 +32,7 @@ We may collect information about your computer, including, where available, your
 
 ### What do we do with the information we collect?
 
-We use collected information:
+We use collected information: 
 
   * for internal record keeping;
   * for product development;
@@ -40,15 +40,19 @@ We use collected information:
   * to notify you about changes to our products and services;
   * answering your queries; and/or
   * contacting you for market research and marketing
-  * The Gym Group may contact you in relation to the nature of your attempted transaction, even if you don't confirm the transaction. This will be an operational email to enquire as to why the transaction was not completed. The data will not be used for any other purpose, won't be stored for longer than necessary and certainly not shared with any other company. Our aim is simply to provide you with the highest level of service that we can 
+  * The Gym Group may contact you in relation to the nature of your attempted transaction, even if you don't confirm the transaction. This will be an operational email to enquire as to why the transaction was not completed. The data will not be used for any other purpose, won't be stored for longer than necessary and certainly not shared with any other company. Our aim is simply to provide you with the highest level of service that we can.
 
 
 
-Please note that the data that we collect may be transferred to and stored at a destination outside the European Economic Area. By submitting your data you consent to this transfer and storage. 
+Please note that the data that we collect may be transferred to and stored at a destination outside the European Economic Area. By submitting your data you consent to this transfer and storage. 
+
+### CCTV policy
+
+Please note that all of our gyms are monitored by CCTV 24 hours a day. The Gym Limited reserves the right for its employees and contractors to review footage as required and by entering onto our sites you consent to your image being recorded and reviewed and waive any and all claims in relation to same. Recorded CCTV footage will be stored securely and retained in compliance with the Data Protection Act 1998. The Gym Limited is registered as a Data Controller with the ICO, Registration Number: Z2810154. 
 
 ### Who do we share this information with?
 
-We may share your personal information with certain companies performing services on behalf of The Gym Limited (such as direct marketing agents) who will only use the information to provide a service that The Gym Group has asked them to provide. 
+We may share your personal information with certain companies performing services on behalf of The Gym Limited (such as direct marketing agents) who will only use the information to provide a service that The Gym Limited has asked them to provide. 
 
 Those selected companies will perform a function for us, such as agencies and suppliers whom have been instructed to assist us to more effectively deliver services, manage and conduct promotion and offers, provide technical assistance and support and perform other functions to support marketing activities. 
 
@@ -64,13 +68,13 @@ Save for this, we do not sell, transfer or disclose personal information we have
 
 ### How to get copies of or amend the information we have collected
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you, please contact us by email to or in writing to The Gym Group, Blenheim Centre, Prince Regent Road, Hounslow, TW3 1NL.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you, please contact us by email to or in writing to The Gym Group, Woodbridge Meadows, Guildford, Surrey, GU1 1BA.
 
 If you think any information we have about you is incorrect or incomplete, please e-mail or write to us and we will correct or update any information as soon as possible. 
 
 ### Security
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and corporate policies to safeguard and secure the information we collect online. Please be assured that we will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy. Any transactions will be encrypted. We cannot, however, guarantee the security of your transmitted data and you submit such data at your own risk. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and corporate policies to safeguard and secure the information we collect online. Please be assured that we will take all steps reasonably necessary to ensure your data is treated securely and in accordance with this Privacy Policy. Any transactions will be encrypted. We cannot, however, guarantee the security of your transmitted data and you submit such data at your own risk. 
 
 Where we have given you a password to access certain areas of the Website you are responsible for keeping this confidential and we ask that you do not share this password. 
 
@@ -82,13 +86,15 @@ Our Website may, from time to time, contain links to other websites which are no
 
 Cookies are files that store information on your hard drive or browser that allow The Gym to recognise that you have visited our Website before. They make it easier for you to maintain your preferences on the Website, and permit us to tailor it to your preferences and improve your browsing experience. 
 
-**How can I prevent Cookies being used?  
-** You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+### How can I prevent Cookies being used?
 
-However, please be aware that should you choose to disable cookies from your browser it may prevent you from taking full advantage of The Gym’s website and some parts of the website may fail to work. You will see from the section below headed "Use of Cookies by The Gym Limited" that all of the cookies used by us are recognised as being _**essential**_ cookies, which are required in order to make our website work. 
+You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. You can find out how to do this for your particular browser by clicking "help" on your browser's menu or by visiting [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-**Use of Cookies by The Gym  
-** We use cookies on this Website. When someone visits the website we collect standard internet log information. We collect this information in a way which does not identify individuals. 
+However, please be aware that should you choose to disable cookies from your browser it may prevent you from taking full advantage of The Gym’s website and some parts of the website may fail to work. You will see from the section below headed "Use of Cookies by The Gym Limited" that all of the cookies used by us are recognised as being essential cookies, which are required in order to make our website work. 
+
+### Use of Cookies by The Gym Limited
+
+We use cookies on this Website. When someone visits the website we collect standard internet log information. We collect this information in a way which does not identify individuals. 
 
 If we do want to collect personally identifiable information through the website we will be clear that we are doing so. 
 
@@ -101,7 +107,7 @@ Cookie name| Cookie Type| Purpose
 session  
 fe_typo_user  
 in| Session| We use session cookies to record an individual users preferences that the user has specified, so that each time the user returns their preferences remain. Commonly this would be language settings, shopping carts, anything where you have indicated a preference. Where forms are used on the site, we hold the information in a session cookie so that we can improve the user experience on the site. Should a user, for example, forget to fill in parts of a form when submitting a form, we can auto-fill the values for those fields that have been filled in, thereby reducing the amount of fields a user needs to amend. This information is stored only in your browser and is destroyed once your browser is closed.  
-__utmz  
+  
 __utmc  
 __utmb  
 __utma| Google Analytics| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site for you. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
@@ -111,12 +117,12 @@ NID
 PREF  
 SAPISID  
 SID  
-SSID, | Google+| These cookies allow you to connect with our Google + account and use our social networking services  
+SSID, | Google+| These cookies allow you to connect with our Google + account and use our social networking services.  
 datr  
 lsd  
 reg_ext_ref  
 reg_fb_gate  
-reg_fb_ref| Facebook| These cookies allow you to connect with our Facebook account and use our social networking services  
+reg_fb_ref| Facebook| These cookies allow you to connect with our Facebook account and use our social networking services.  
 guest_id  
 k  
 pid  
@@ -134,7 +140,10 @@ VISITOR_INFO1_LIVE
 demographics  
 gBLOz.resume  
 recently_watched_video_id_list  
-use_hitbox| YouTube| These cookies allow you to connect with our YouTube account and use our social networking services  
+use_hitbox| YouTube| These cookies allow you to connect with our YouTube account and use our social networking services.  
+Struq  
+Struq Beacon  
+| Re-messaging| User recognition for advertising designed to provide you with a selection of products based on what you're viewing on The Gym Group, which are presented to you by re-messaging display agency(s) when you visit other selected websites. The adverts may highlight alternative styles and colours as well as products from other categories deemed relevant to your browsing history. The technology behind these adverts is based on cookies. These cookies don't store sensitive personal information such as your name, address or payment details.  
   
 ### **Changes to our Privacy Policy**
 
