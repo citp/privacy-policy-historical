@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the coolhunting.com privacy policy that was archived on 2013-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131219094742id_/http%3A//www.coolhunting.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolhunting.com privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627174937id_/http%3A//www.coolhunting.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
+	
+		<meta name="viewport" content="width=device-width">
+	
 	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
-	<link href="/assets/frontend-cae3368810ff0207e620c1e7b89f3f92.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="/assets/frontend-4f6439d60f298ef3faec3b7645d92440.css" media="screen" rel="stylesheet" type="text/css">
 
 	<!--[if IE]>
 	  <link rel="stylesheet" href="/cmn/css/blueprint/ie.css" type="text/css" media="screen, projection">
@@ -53,9 +55,11 @@
     var sidebarAds=new Array(); //sidebarAds is used in infiniteScroller to refresh those sections
 	var speedbumps=new Array();
 	var giftGuideAds=new Array();
+	var mobileAd1=new Array();
+	var mobileAd2=new Array();
 	
 	googletag.cmd.push(function() {
-	  speedbumps[0] = googletag.defineSlot('/1006677/coolhunting-v5-readbump', [620, 120], 'div-gpt-ad-620-120-readbump').addService(googletag.pubads());
+	  speedbumps[0] = googletag.defineSlot('/1006677/coolhunting-v5-readbump-legal', [620, 120], 'div-gpt-ad-620-120-readbump').addService(googletag.pubads());
       googletag.defineSlot('/1006677/coolhunting-v5-300x250-head-legal', [300, 250], 'div-gpt-ad-300-250-head').addService(googletag.pubads());
 	  giftGuideAds[0]= googletag.defineSlot('/1006677/coolhunting-v5-299x250-footer-legal', [299, 250], 'div-gpt-ad-299-250-footer').addService(googletag.pubads());
 	  sidebarAds[0] = googletag.defineSlot('/1006677/coolhunting-v5-299x250-promo-legal', [299, 250], 'div-gpt-ad-299-250-promo').addService(googletag.pubads());
@@ -64,8 +68,11 @@
       googletag.defineSlot('/1006677/coolhunting-v5-showcase-legal', [650, 250], 'div-gpt-ad-650-250-showcase').addService(googletag.pubads());
 	  googletag.defineSlot('/1006677/coolhunting-v5-728x90-legal', [728, 90], 'div-gpt-ad-728-90').addService(googletag.pubads());
       googletag.defineSlot('/1006677/coolhunting-v5-widget-legal', [1, 1], 'div-gpt-ad-1-1-widget').addService(googletag.pubads());
-
+	  mobileAd1[0] = googletag.defineSlot('/1006677/coolhunting-v5-299x250-mobile', [299, 250], 'div-gpt-ad-299-250-mobile').addService(googletag.pubads());
+	  mobileAd2[0] = googletag.defineSlot('/1006677/coolhunting-v5-299x250-mobile2', [299, 250], 'div-gpt-ad-299-250-mobile2').addService(googletag.pubads());
+	  
       //googletag.pubads().enableSyncRendering();
+	  googletag.pubads().collapseEmptyDivs(true);
       googletag.pubads().enableSingleRequest();
       googletag.enableServices();
   
@@ -114,13 +121,17 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="/assets/jquery-1.9.1.min.js">\x3C/script>')</script><script src="/assets/jquery-1.9.1.min.js"></script>
   
-  <link href="/assets/frontend/tn3/skins/tn3/tn3-26ed61e9c3015ccd80975cc8b71d6e94.css" media="screen" rel="stylesheet" type="text/css">
-  <script src="/assets/frontend/js/jquery.tn3.min-eec27a5a780b898715eebcaf058e7070.js" type="text/javascript"></script>
+  <link href="/assets/frontend/tn3/skins/tn3/tn3-004fa20d522218fc3b2235a6ba26efef.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="/assets/frontend/js/jquery.tn3.min-62839a25c476933d77f564ad5c1201c4.js" type="text/javascript"></script>
+  <script src="/assets/frontend/js/waypoints.min-e29954c251b81226dce12ff2e4bbc3ef.js" type="text/javascript"></script>
 </head>
+
 <body class="entry c_frontend a_content">
 
 <div class="container">
 
+
+<div id="legacy-view-toggle" class="mobile-view resp-toggle">View Mobile Site</div>
 
 <div id="header" class="container">
 	<div id="header-ad-label" class="span-24">
@@ -130,7 +141,7 @@
   	<!-- JAVASCRIPT BASED SHOWCASE AD CODE -->
   	<div id="showcase">
     	  
-      <div id="div-gpt-ad-650-250-showcase" style="width:650px; height:250px;">
+      <div id="div-gpt-ad-650-250-showcase" style="width:650px; min-height:250px;">
         
       <script type="text/javascript">
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-650-250-showcase'); });
@@ -142,7 +153,7 @@
 
   	<div id="showcase-right">
 		  
-      <div id="div-gpt-ad-300-250-head" style="width:300px; height:250px;">
+      <div id="div-gpt-ad-300-250-head" style="width:300px; min-height:250px;">
         
       <script type="text/javascript">
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-300-250-head'); });
@@ -156,7 +167,7 @@
 <!-- Control Bar -->
 <div id="control-bar" class="no-scroll">
   <div id="navigation" class="container">
-	
+
 		<h1 class="logo"><a href="/">COOL HUNTING</a></h1>
 		
 		<div class="nav-bar box" id="section-nav">
@@ -209,35 +220,41 @@
 			
 			
 			<ul class="nav" id="features-nav">
-				<li class="box">
+				<li class="box" style="width: 87px; overflow: hidden;">
+					<a id="Charged" href="http://ad.doubleclick.net/clk;280036882;107000881;x">CHARGED+</a>
+					<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/N8334.132743.LARGETAILLLC2/B8012742.24;sz=1x1;ord=1403891376?">
+					</script>
+					<img src="//amch.questionmarket.com/adsc/d1130888/3/1150846/adscout.php?ord=1403891376" height="1" width="1" border="0">
+					<img src="http://amch.questionmarket.com/adsc/d1113271/17/1160763/ad_radar.php?ord=1403891376" height="1" width="1" border="0">
+					<noscript>
+					<A HREF="http://ad.doubleclick.net/jump/N8334.132743.LARGETAILLLC2/B8012742.24;sz=1x1;ord=1403891376?">
+					<IMG SRC="http://ad.doubleclick.net/ad/N8334.132743.LARGETAILLLC2/B8012742.24;sz=1x1;ord=1403891376?" BORDER=0 WIDTH=1 HEIGHT=1 ALT="Advertisement"></A>
+					</noscript>
+				</li>
+				<li class="box ">
 					<a id="Video" href="/video/">Video</a>
 				</li>
 				<li class="box">
 					<a id="Gifts" href="/giftguide">Gift Guide</a>
 				</li>
-				<li class="box">
+				<li class="box ">
 					<a id="Interviews" href="/tag/Interviews">Interviews</a>
 				</li>
-				<li class="box">
+				<li class="box ">
 					<a id="Word-of-Mouth" href="/tag/Word%20of%20Mouth">Word of Mouth</a>
 				</li>
-				<li class="box">
+				<li class="box ">
 					<a id="Listen-Up" href="/listen_up/">ListenUp</a>
 				</li>
-				<li class="box">
+				<li class="box ">
 					<a id="Link-About-It" href="/link-about-it/">Link<br>About It</a>
 				</li>
+        <!-- <li class="box">
+					<a id="Instagram" href="/instagram">Instagram</a>
+				</li> -->
 				<li class="box last">
 					<a id="City-Guides" href="/cityguides">City<br>Guides</a>
 				</li>
-				<!--
-        <li class="box">
-					<a id="Instagram" href="/instagram">Instagram</a>
-				</li>
-				<li class="box last">
-					<a id="Local" href="/local/">Local</a>
-				</li>
-        -->
 			</ul>
 			
 			<ul class="box" id="popular-nav">
@@ -330,6 +347,23 @@
   <span class="view-nav">show nav</span>
 </div>
 
+<div id="mobile-view-toggle">
+	<div class="toggle-wrapper">
+		<div class="legacy-view resp-toggle">View Desktop Site</div>
+	</div>
+</div>
+
+<div id="control-bar-mobile">
+	<h1 class="control-bar-mobile-logo"><a href="/?show_collapsed=true">COOL HUNTING</a></h1>
+	<div class="control-bar-mobile-nav">
+		<div class="control-bar-mobile-prev">
+			<a href="/style/craig-green.php"></a>
+		</div>
+			<div class="control-bar-mobile-next">
+				<a href="/design/littlebits-at-moma-design-store.php"></a>
+			</div>
+	</div>
+</div>	
 
 
 
@@ -345,6 +379,7 @@
       
       		<!-- start entries -->		
       		
+
   <div class="article">
   <p>Updated 11 November 2013</p>
 <h3>Privacy Promise</h3>
@@ -386,10 +421,11 @@
 
 		
       		<!-- end entries -->
-      		
+					
       	</div>
     
-    
+			
+			
       	<div id="right-column" class="span-8 last">
       
               		<h2 class="sidebar-header">Follow Us</h2>
@@ -458,7 +494,7 @@
         <div class="footer-ad">
           advertisement
             
-      <div id="div-gpt-ad-728-90" style="width:728px; height:90px;">
+      <div id="div-gpt-ad-728-90" style="width:728px; min-height:90px;">
         
       <script type="text/javascript">
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-728-90'); });
@@ -468,18 +504,32 @@
     
         </div>
     <div class="footer container">
+	<div class="mobile-ad">
+		advertisement			
+	<!-- coolhunting-v5-299x250-home -->
+	    
+      <div id="div-gpt-ad-299-250-mobile" style="width:299px; min-height:250px;">
+        
+      <script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-299-250-mobile'); });
+      </script>
+    
+      </div>
+    
+	</div>
+	
 	<div class="span-6 first">
 		<h2>Recent Stories</h2>
-      <li><a href="/culture/chv-rachel-levit.php" title="Cool Hunting Video: Rachel Levit"><img src="http://assets.coolhunting.com/coolhunting/2013/12/18/thumb_RAHCEL_LEVIT_THUMB.jpg" width="100" height="100" alt="Cool Hunting Video: Rachel Levit" title="Cool Hunting Video: Rachel Levit"></a></li>
-      <li><a href="/design/ch-gift-guide-stocking-stuffers.php" title="CH Gift Guide: Stocking Stuffers"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_chgg-stocking-stuffers-thumb.jpg" width="100" height="100" alt="CH Gift Guide: Stocking Stuffers" title="CH Gift Guide: Stocking Stuffers"></a></li>
-      <li><a href="/tech/cambridge-audios-minx-xi-streaming-digital-music-system.php" title="Minx Xi Streaming Digital Music System"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_minxXI-thumb.jpg" width="100" height="100" alt="Minx Xi Streaming Digital Music System" title="Minx Xi Streaming Digital Music System"></a></li>
-      <li><a href="/culture/interview-ruben-nusz-severed-hues.php" title="Interview: Ruben Nusz"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_ruden-nasz-thumb.jpg" width="100" height="100" alt="Interview: Ruben Nusz" title="Interview: Ruben Nusz"></a></li>
-      <li><a href="/design/nw-alpine.php" title="NW Alpine"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_nw-alpine-thumb.jpg" width="100" height="100" alt="NW Alpine" title="NW Alpine"></a></li>
-      <li><a href="/style/art-of-craft-tshirts.php" title="Art of Craft"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_art-of-craft-thumb.jpg" width="100" height="100" alt="Art of Craft" title="Art of Craft"></a></li>
-      <li><a href="/culture/diesel-playlist-1.php" title="Diesel Playlists"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_Diesel-FFL-thumb-new-02.jpg" width="100" height="100" alt="Diesel Playlists" title="Diesel Playlists"></a></li>
-      <li><a href="/food-drink/joseph-wesley-black-tea.php" title="Joseph Wesley Black Tea"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_joseph-wesley-black-tea-thumb-2.jpg" width="100" height="100" alt="Joseph Wesley Black Tea" title="Joseph Wesley Black Tea"></a></li>
-      <li><a href="/design/ch-gift-guide-perfect-snap.php" title="CH Gift Guide: Perfect Snap"><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_chgg-perfect-snap-thumb.jpg" width="100" height="100" alt="CH Gift Guide: Perfect Snap" title="CH Gift Guide: Perfect Snap"></a></li>
-      <li><a href="/design/2014-snowboard-setup.php" title="2014 Snowboard Setup "><img src="http://assets.coolhunting.com/coolhunting/2013/12/thumb_2014-snowboard-gear-thumb.jpg" width="100" height="100" alt="2014 Snowboard Setup " title="2014 Snowboard Setup "></a></li>
+      <li><a href="/design/londons-new-designers-2014-part-1.php" title="London's New Designers 2014: Part 1"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_NewDesigners-Thumb.jpg" width="100" height="100" alt="London's New Designers 2014: Part 1" title="London's New Designers 2014: Part 1"></a></li>
+      <li><a href="/culture/chv-aerosyn-lex-mestrovic.php" title="Charged Video: Aerosyn-Lex Meštrović"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_LEX_LIVING_PAINTING-1.jpg" width="100" height="100" alt="Charged Video: Aerosyn-Lex Meštrović" title="Charged Video: Aerosyn-Lex Meštrović"></a></li>
+      <li><a href="/travel/word-of-mouth-london-coffee-shops.php" title="Word of Mouth: London Coffee Shops"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_london-coffee-shops-2014-thumb.jpg" width="100" height="100" alt="Word of Mouth: London Coffee Shops" title="Word of Mouth: London Coffee Shops"></a></li>
+      <li><a href="/design/hiroko-takedas-3d-textiles.php" title="Hiroko Takeda's 3D Textiles"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_HirokoTakeda-Thumb.jpg" width="100" height="100" alt="Hiroko Takeda's 3D Textiles" title="Hiroko Takeda's 3D Textiles"></a></li>
+      <li><a href="/travel/filson-black-collection.php" title="Filson Introduces The Black Collection"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_Filson-All-Black-Collection-thumb.jpg" width="100" height="100" alt="Filson Introduces The Black Collection" title="Filson Introduces The Black Collection"></a></li>
+      <li><a href="/design/bandbox-bike-helmets.php" title="Commute in Style with Bandbox Bike Helmets"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_bandbox-bike-helmet-thumb-a.jpg" width="100" height="100" alt="Commute in Style with Bandbox Bike Helmets" title="Commute in Style with Bandbox Bike Helmets"></a></li>
+      <li><a href="/culture/interview-other-oceans-idarb.php" title="Game Developer Other Ocean's #IDARB"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_IDARB-Thumb.jpg" width="100" height="100" alt="Game Developer Other Ocean's #IDARB" title="Game Developer Other Ocean's #IDARB"></a></li>
+      <li><a href="/travel/hotel-el-ganzo-los-cabos.php" title="Hotel El Ganzo, Los Cabos"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_Hotel-ElGanzo-thumb1.jpg" width="100" height="100" alt="Hotel El Ganzo, Los Cabos" title="Hotel El Ganzo, Los Cabos"></a></li>
+      <li><a href="/style/vans-vault-peanuts-snoopy-collection-reissue.php" title="Rare '80s Vans + Peanuts Collection Reissued "><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_Vans-Vault-Snoopy-Collection-thumb.jpg" width="100" height="100" alt="Rare '80s Vans + Peanuts Collection Reissued " title="Rare '80s Vans + Peanuts Collection Reissued "></a></li>
+      <li><a href="/style/birchbox-man-summer-2014.php" title="Maximize Summer Fun with Birchbox Man"><img src="http://assets.coolhunting.com/coolhunting/2014/06/thumb_Birchbox2014Summer-thumb-1.jpg" width="100" height="100" alt="Maximize Summer Fun with Birchbox Man" title="Maximize Summer Fun with Birchbox Man"></a></li>
 	</div>
 	<div class="span-8">
 		<h2>Masthead</h2>
@@ -515,7 +565,7 @@
 		<div class="footer-299-ad">
 			advertisement
 			  
-      <div id="div-gpt-ad-299-250-footer" style="width:299px; height:250px;">
+      <div id="div-gpt-ad-299-250-footer" style="width:299px; min-height:250px;">
         
       <script type="text/javascript">
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-299-250-footer'); });
@@ -531,7 +581,7 @@
 		<!-- FPO. Note: this does not hit infinite scroll pages -->
 	</div>
 	<div class="legal-footer">
-		<p class="padded">© 2003 - 2013 <a href="http://captainlucas.com" target="_blank">Captain Lucas, Inc.</a> | <a href="/legal/privacy-policy.php">Privacy Policy</a> | <a href="/legal/terms-of-use.php">Terms of Use</a>
+		<p class="padded">© 2003 - 2014 <a href="http://captainlucas.com" target="_blank">Captain Lucas, Inc.</a> | <a href="/legal/privacy-policy.php">Privacy Policy</a> | <a href="/legal/terms-of-use.php">Terms of Use</a>
 		 | <a href="/about-us.php">About</a> | <a href="/subscribe.php">Subscribe</a> | <a href="/contact.php">Contact</a>  | <a href="/advertise.php">Advertise</a>  | <a href="http://nytm.org/made" target="_blank">Made in NYC</a></p>
 	</div>	
 </div>
@@ -544,7 +594,7 @@
 
 <!-- coolhunting-v5-widget -->
   
-      <div id="div-gpt-ad-1-1-widget" style="width:1px; height:1px;">
+      <div id="div-gpt-ad-1-1-widget" style="width:1px; min-height:1px;">
         
       <script type="text/javascript">
         googletag.cmd.push(function() { googletag.display('div-gpt-ad-1-1-widget'); });
@@ -566,7 +616,7 @@
   window.ad_section = 'legal';
 </script>
 
-<script src="/assets/frontend-92f6d060429acc16baaae0e64ec3e37b.js" type="text/javascript"></script>
+<script src="/assets/frontend-da2cf8cf0aa17d551766588959958e35.js" type="text/javascript"></script>
 
 
 <!-- CHARTBEAT -->
@@ -640,9 +690,11 @@ qacct:"p-e2TbO07-5R-JE"
   /**
   * Infinite scroll init
   **/
-  $(document).ready(function(){ 
-    InfiniteScroller.init('legal', 2);
-  });
+  if (mobile == false) {
+	$(document).ready(function(){ 
+	InfiniteScroller.init('legal', 2);
+	});
+  }
 </script>
 
 
@@ -658,5 +710,5 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-5.newrelic.com","4ec8355b97","1724038","IV1XRhdaClUERx5fRw1cTVcLUUlaDltFXFsW",27,13,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-5.newrelic.com","4ec8355b97","1724038","IV1XRhdaClUERx5fRw1cTVcLUUlaDltFXFsW",7,180,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
