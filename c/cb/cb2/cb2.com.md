@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025835id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627191330id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
 ## getting to know you
 
-### Personal Information: 
+### personal Information: 
 
 When you make a purchase in one of our stores or on our Websites or otherwise, create an account, join our Gift Registry, participate in a sweepstakes or contest or any other promotion, post a product review, answer one of our surveys, apply for our credit card, or interact with us in any way, you may choose to give us personal information, such as: your name, email address, mailing address, ZIP code, phone number and credit card numbers. This allows us to provide you with our services, to process your transactions more efficiently and, ultimately, to give you a higher caliber of customer service. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of our Websites or our services. Likewise, other companies also may forward to us additional personal information (such as, for example, names, mailing addresses and email addresses, as well as demographic and other usage information), when we have news or product offerings that may be of special interest to those individuals. We also may receive personal information through the use of social media websites and services or from other sources.
 
@@ -16,7 +16,7 @@ We also gather customer information by taking note of the purchases you make. Th
 
 ## cookies are served
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here.
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them and other tracking technologies to provide enhanced online marketing based on your interests and preferences. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Websites enable you to opt out of this type of advertising. To opt out of these ads, please click here. Please also see the “Third Party Service Providers” section of this Privacy Policy for additional information about and options for opting out of this type of advertising. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. Please see the “Your Information Sharing Choices” section and the “Remove Your Name From Our Lists at Any Time” section of this Privacy Policy for more information.
 
 ## information at your service
 
@@ -90,6 +90,10 @@ We take our customers’ personal information seriously and take steps to protec
 
 When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact CB2 at 800.967.6696 to complete your purchase.
 
+## your responsibilities
+
+You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all activities that occur under your account or password. As a result, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a computer that others may have access to.
+
 ## a privacy promise
 
 We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
@@ -123,4 +127,4 @@ Customer Service Department
 Naperville, IL 60540-3918  
 
 
-_Last Updated, September 4th 2013_
+_Last Updated, December 13th 2013_
