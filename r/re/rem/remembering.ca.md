@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201622id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remembering.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627022111id_/http%3A//www.legacy.com/ns/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Obituaries | Death Notices | Newspaper Obituaries | Online Obituaries | Newspaper Death Notices | Online Death Notices
 
 |    | 
 
-| Privacy Policy Updated: March 2013  
+|  Privacy Policy  Updated: March 2014  
 ---  
-Legacy.com, Inc. provides various features tools that allow users to access obituaries, express condolences and share remembrances of friends and loved ones. Legacy.com, Inc. offers these features and tools at www.legacy.com and other websites and applications (“App”) powered by Legacy.com (collectively, the “Services”). Please read the following privacy policy ("Privacy Policy") carefully before using the Services.  
+Legacy.com, Inc. provides various features tools that allow users to access obituaries, express condolences and share remembrances of friends and loved ones. Legacy.com, Inc. offers these features and tools at www.legacy.com and other websites and applications (“App”) powered by Legacy.com (collectively, the “Services”). Please read the following privacy policy ("Privacy Policy") carefully before using the Services.   
   
 1\. WHAT THIS PRIVACY POLICY COVERS
 
@@ -16,7 +16,7 @@ Legacy.com, Inc. provides various features tools that allow users to access obit
 
 4\. HOW WE USE YOUR INFORMATION
 
-5\. 5. PRIVACY ALERT: YOUR POSTINGS GENERALLY ARE ACCESSIBLE TO THE PUBLIC
+5\. PRIVACY ALERT: YOUR POSTINGS GENERALLY ARE ACCESSIBLE TO THE PUBLIC
 
 6\. CHILDREN’S PRIVACY
 
@@ -58,9 +58,10 @@ Top
   * Personally Identifiable Information. 
     * Examples of Personally Identifiable Information we may collect include name, postal address, email address, credit card number and related information, and phone number. We may also collect your date of birth, geo-location, social networking profile picture and the date of birth and date of death for the deceased person in connection with certain features of the Services. We also maintain a record of all information that you submit to us, including email and other correspondence. We may collect Personally Identifiable Information when you register to receive alerts or offerings, sponsor, access or submit information in connection with certain Services, post other content through the Services, purchase products or other services, opt-in to receive special offers and discounts from us and our selected partners or participate in other activities offered or administered by Legacy.com.
     * We may also collect Personally Identifiable Information about your transactions with us and with some of our business partners. This information might include information necessary to process payments due to us from you, such as your credit card number.
+    * Legacy.com allows certain social media platforms to host plug-ins or widgets on the Sites which may collect certain information about those users who choose to use those plug-ins or widgets.
     * We do not intentionally collect Personally Identifiable Information about children under the age of 13. Please see the section on "Children’s Privacy" below.
   * Other Anonymous Information. 
-    * Like most websites, Legacy.com also receives and records information on our server logs from your browser automatically and through the use of electronic tools such as cookies. Our server logs automatically receive and record information from your browser (including, for example, your IP address, and the page(s) you visit). The information gathered through these methods is not "personally identifiable;" i.e., it cannot be used to uniquely identify, contact, or locate a single person.
+    * Like most websites, Legacy.com also receives and records information on our server logs from your browser automatically and through the use of electronic tools such as cookies, web beacons and locally shared objects (LSOs). Our server logs automatically receive and record information from your browser (including, for example, your IP address, and the page(s) you visit). The information gathered through these methods is not "personally identifiable;" i.e., it cannot be used to uniquely identify, contact, or locate a single person. Some browsers allow you to indicate that you would not like your online activities tracked, using “Do Not Track” indicators (“DNT Indicators”), however we are not obligated to respond to these indicators. Presently we are not set up to respond to DNT Indicators. This means that we may use latent information about your online activities to improve your use of our Services, but such usage is consistent with the provisions of this Privacy Policy.
 
   
   
@@ -154,11 +155,12 @@ You may opt out of receiving future mailings or other information from Legacy.co
 Top
 
   * This Service contains links to other sites that may be of interest to our visitors. This Privacy Policy applies only to Legacy.com and not to other companies’ or organizations’ Web sites to which we link. We are not responsible for the content or the privacy practices employed by other sites.
-  * Legacy.com works with third parties, including, but not limited to Adtech US, Inc. and Turn Inc. (collectively, the "Ad Delivery Parties:"), for the purpose of advertisement delivery on the Services including online behavioral advertising (“OBA”) and multi-site advertising. The non-personally identifiable information collected about a consumer’s visits to the Services, including, but not limited to, certain information from your Web browser and your IP address, may be used by third parties, including the Ad Delivery Parties, in order to provide advertisements about goods and services of interest to you. These Ad Delivery Parties retain data collected and used for these activities only as long as necessary to fulfill a legitimate Legacy.com business need, or as required by law. 
+  * Legacy.com works with third parties, including, but not limited to Adtech US, Inc. and Turn Inc. (collectively, the "Ad Delivery Parties:"), for the purpose of advertisement delivery on the Services including online behavioral advertising (“OBA”) and multi-site advertising. Information collected about a consumer’s visits to the Services, including, but not limited to, certain information from your Web browser, your IP address and your email, may be used by third parties, including the Ad Delivery Parties, in order to provide advertisements about goods and services of interest to you. These Ad Delivery Parties retain data collected and used for these activities only as long as necessary to fulfill a legitimate Legacy.com business need, or as required by law. 
     * The Ad Delivery Parties may also set cookies to assist with advertisement delivery services. For more information about Adtech US, Inc. cookies, please visit http://www.adtechus.com/privacy/. 
     * If you would like to obtain more information about the practices of some of these Ad Delivery Parties, or if you would like to make choices about their use of your information, please click here: http://www.networkadvertising.org/choices/ 
-    * The Ad Delivery Parties adhere to the Network Advertising Initiative’s Self-Regulatory Code of conduct. For more information please visit http://www.networkadvertising.org/about-nai 
+    * The Ad Delivery Parties adhere to the Network Advertising Initiative’s Self-Regulatory Code of conduct. For more information please visit http://www.networkadvertising.org/about-nai
   * Legacy.com shall obtain your prior express consent (opt-in) before using any of your “sensitive consumer information” as that term is defined in the NAI Principles.
+  * Legacy.com may also share your social media identification and account information with the corresponding social media service to allow the service to provide you with advertisements about goods and services of interest to you.
   * Please keep in mind that if you click on an advertisement on the Services and link to a third party’s website, then Legacy.com’s Privacy Policy will not apply to any Personally Identifiable Information collected on that third party’s website and you must read the privacy policy posted on that site to see how your Personally Identifiable Information will be handled.
 
   
@@ -177,9 +179,9 @@ Questions regarding the Legacy.com Privacy Policy should be directed to [Contact
 
 Legacy.com, Inc., 820 Davis Street Suite 210, Evanston, IL 60201 Attention: Operations   
   
-Your California Privacy Rights
+Your California Privacy Rights 
 
-(As provided by California Civil Code Section 1798.83)
+(As provided by California Civil Code Section 1798.83) 
 
 Top
 
