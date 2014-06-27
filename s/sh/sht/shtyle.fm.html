@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624022742id_/http%3A//shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shtyle.fm privacy policy that was archived on 2014-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627204245id_/http%3A//www.shtyle.fm/Privacy.jsp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">
     strong {
@@ -25,16 +25,14 @@
 
 
 
+
+
+
     
 	<title>Shtyle.fm : Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?143">
+    <link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/fundoo-light.css?162">
     
-	
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/css/jqModal.css?7">
-	
-	<link rel="stylesheet" title="dark shtyle" type="text/css" href="/js/farbtastic/farbtastic.css?2">
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css?2">
 
 	
 
@@ -56,14 +54,16 @@
 		var _jq_ok_ = true, _sh_ok_ = true, _sha_ok_ = true;
     </script>
 
-	<script type="text/javascript" language="JavaScript" src="/js/jquery.js?64"></script>
-    
-	<script type="text/javascript" language="JavaScript" src="/js/shtyle.js?114"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/jquery.js?65"></script>
+	<script type="text/javascript" language="JavaScript" src="/js/shtyle.js?132"></script>
+    <script type="text/javascript" language="JavaScript" src="/js/miniroom.js?_y=41"></script>
+    <script type="text/javascript" language="JavaScript" src="/js/plupload/js/plupload.full.js"></script>
 
     
 
 	<meta http-equiv="imagetoolbar" content="false">
 	<meta name="MSSmartTagsPreventParsing" content="true">
+    
     
 </head>
 
@@ -75,9 +75,6 @@
 
 <div id="header" class="adorn">
 	<div id="links">
-        <div id="logo">
-            <a href="/index.do" title="Home">&nbsp;</a>
-        </div>
 		<ul>
         
             <li style="width:150px;position:relative;float:right">
@@ -96,9 +93,8 @@
 <div id="body">
 
 
-<div id="peopleAdsContainer">
-    
-</div>
+
+
 <h1><strong>Privacy Policy</strong> for Shtyle.fm</h1>
 <br>
 <br>
@@ -241,7 +237,6 @@
 <div id="hidden"></div>
 <div id="floater"></div>
 <div id="qdel"></div>
-
 <div class="jqmLogin" id="jqmInput">
 	<div class="jqmLoginWindow">
 		<div class="jqmLoginTitle clearfix">
@@ -257,7 +252,7 @@
 		<div class="jqmAlertTitle clearfix">
 			<h1></h1><a href="javascript:;" class="jqmClose"><em>Close</em></a>
 		</div>
-		<div class="jqmAlertContent" style="background-color:#E4D4A4;color:#000;"></div>
+		<div class="jqmAlertContent"></div>
 	</div>
 </div>
 <div class="jqmConfirm" id="languageConfirm">
@@ -265,7 +260,7 @@
 		<div class="jqmConfirmTitle clearfix">
 			<h1>English</h1><a href="javascript:;" class="jqmClose"><em></em></a>
 		</div>
-		<div class="jqmConfirmContent" style="background-color:#E4D4A4;">
+		<div class="jqmConfirmContent">
 			<ul id="locales">
 				<li><a href="/locale.do?lang=de">Deutsch</a></li>
 				<li><a href="/locale.do?lang=en">English</a></li>
@@ -283,19 +278,6 @@
 		</div>
 	</div>
 </div>
-<div class="jqmConfirm" id="prettyModal">
-	<div class="jqmConfirmWindow">
-		<div class="jqmConfirmTitle clearfix">
-			<h1>Congratulations!</h1><a href="javascript:;" class="jqmClose"><em></em></a>
-		</div>
-		<div id="prettyModalContent" class="jqmConfirmContent" style="background-color:#E4D4A4;height:250px;">
-
-		</div>
-		<div style="text-align:center;">
-			<a href="#" style="color:#fff;font-size:18px;text-weight:bold;" onclick="$('#prettyModal').jqmHide();return false;">Close</a>
-		</div>
-	</div>
-</div>
 <div id="debug" style="font-family:monospace;">
 </div>
 <div id="footer">
@@ -307,12 +289,6 @@
 </div>
 
 <div id="modals">
-	<div id="rewardsModal">
-		<div id="rewardsClose"><a href="#" onclick="$('#rewardsModal').hide();return false;">Close</a></div>
-		<div id="rewardsContent" style="height:280px;width:300px;margin:0 13px;">
-
-		</div>
-	</div>
 	<div id="shareModal" style="width:630px;height:auto;">
 		<div id="shareModalClose" style="text-align:right;height:30px;"><a style="color:#fff;background:url('/images/close.gif') -5px right no-repeat; padding-right:22px;display:block;height:20px;" href="#" onclick="$('#shareModal').hide();return false;">Close</a></div>
 		<div id="shareModalContent" style="margin:0 13px;">
@@ -342,7 +318,7 @@
 	var gcgold = 0;
     var _sgm = null;
     var _xm = {};
-	$(document).ready(function () {
+    loadMultiSuggestions();
 
         reward();
         poll(-1)
@@ -378,6 +354,9 @@
                 $("#debug").html(img).show().hide();
             });
         }
+    $(document).ready(function () {
+        miniroomrepos();
+        mr.display();
 	});
     
 </script>
