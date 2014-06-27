@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227002639id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portableapps.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627051354id_/http%3A//portableapps.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PortableApps.com - Portable software for USB, portable and cloud drives
 
@@ -41,9 +41,3 @@ We have appropriate security measures in place in our physical facilities to pro
 ## Corrections
 
 If you feel that this site is not following its stated information policy, you may contact us by email or by telephone on our [contact page](http://portableapps.com/about/contact).
-
-» 
-
-  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fportableapps.com%2Fabout%2Fprivacy&linkname=Privacy%20Policy)
-
-
