@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iphonedownloadblog.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114135902id_/http%3A//www.idownloadblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonedownloadblog.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627054636id_/http%3A//www.idownloadblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At iDownloadBlog.com, we recognize that privacy of your personal information is important.
 
-**iDownload Blog Privacy Statement**
+**iDownloadBlog Privacy Statement**
 
 What follows is the Privacy Statement for iDownloadBlog.com. Please read this statement regarding our blog. If you have questions please ask us via our [contact form](http://www.idownloadblog.com/contact/).
 
 **Email Addresses**
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share your email with any third party.
+You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share your email with any third party. As a matter of fact, we do not collect these email addresses to begin with.
 
 **Ownership of Information**
 
@@ -18,7 +18,15 @@ iDownloadBlog.com is the sole owner of any information collected on our website.
 
 **Comments/Message Boards**
 
-iDownloadBlog.com contains comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+iDownloadBlog.com contains comment sections (a.k.a. message boards). We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party and not used for any other purpose. In short, we will not send you unwanted emails.
+
+**Push notifications**
+
+iDownloadBlog readers can opt in to receive push notifications every time a new article is published. We do not collect any information from you and anyone can unsubscribe at any time by following [these steps](http://www.idownloadblog.com/push/).
+
+**Email newsletters**
+
+iDownloadBlog readers can opt in to [receive email newsletters](http://feedburner.google.com/fb/a/mailverify?uri=iphonedlb&loc=en_US). The email addresses collected for this are handled by Feedburner, a service by Google. We do not use your email address for anything else but sending you this newsletter. If you wish to unsubscribe, please see the unsubscribe link at the bottom of the newsletter you receive.
 
 **Cookies, Web Beacons, and Similar Technologies**
 
@@ -50,4 +58,4 @@ When iDownloadBlog.com makes changes to this privacy policy we will post those c
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.idownloadblog.com/contact/).
 
-_Last Updated: 12/18/2012_
+_Last Updated: 02/06/2014_
