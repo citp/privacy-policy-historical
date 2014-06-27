@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209080116id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627155811id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Crowdfunding, UK fundraising platform for community, business and creative projects | Crowdfunder
 
@@ -165,7 +165,9 @@ Information on deleting or controlling cookies is available at [www.allaboutcook
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
-**8.3** By using Crowdfunder.co.uk, you are agreeing to the use of the cookies listed above.
+**8.3** We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics for marketing purposes.
+
+**8.4** By using Crowdfunder.co.uk, you are agreeing to the use of the cookies listed above.
 
 ### 9 Links
 
@@ -226,4 +228,4 @@ KEO PF.it Ltd's registered company number is 07831511.
 
 If you have any queries about this Privacy Policy, please contact us at [support@Crowdfunder.co.uk](mailto:support@Crowdfunder.co.uk).
 
-Posted: [18 - April - 2013]
+Posted: [26 - June - 2014]
