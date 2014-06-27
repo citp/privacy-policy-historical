@@ -1,66 +1,92 @@
-> *The following text is extracted and transformed from the fireflyfestival.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607084052id_/http%3A//fireflyfestival.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyfestival.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628005309id_/http%3A//fireflyfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Our Privacy Policy | Firefly Music Festival | A Premier Music Experience
 
-This site is owned and operated by Red Frog Events, LLC ("RFE").  Your privacy on the Internet is of the utmost importance to us.  We want to make your experience online satisfying and safe.
+Welcome to a website owned by Red Frog Events (“RFE”) that features RFE or one of our events (collectively, the “Websites”).  RFE makes the Websites available for your use subject to all terms and conditions (“Terms”) set forth on the Websites, as may be amended from time to time.    
+Please read the Terms and this Privacy Policy carefully.  By accessing the Websites, including, but not limited to, browsing, evaluating, downloading, purchasing or using any of the Website materials, products or services, you expressly acknowledge that you have read and agree to be bound by the Terms, this Privacy Policy and any applicable local laws.  You waive any and all defenses you may have based on the electronic form of the Terms and the lack of signature by the parties. If you do not agree to the Terms, do not use the Websites.  
+This Privacy Policy will help you understand what information we collect, how we use the information, how we share the information, and the choices you may have with respect to the information we collect.  Please contact us at info@redfrogevents.com if you have any questions regarding this policy.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information.  This privacy statement discloses what information we gather and how we use it.
+**INFORMATION WE COLLECT**
 
-## INFORMATION RFE GATHERS AND TRACKS
+We collect information from you in several different ways on the Websites, including:
 
-RFE gathers two types of information about users:
+**1.          Information you provide to us or give us permission to obtain**
 
-  * Information that users provide through optional, voluntary submissions.  These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
-  * Information RFE gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Under no circumstances does RFE sell any information about an individual user to a third party.
+We collect information you provide directly to us.  For example, we collect information when you provide it to us voluntarily by creating an online account, commenting on a message board, registering for an event, signing up to receive our emails, contacting our customer service team, participating in a sweepstakes, contest or survey, donating to one of our charity partners, applying for a job or otherwise communicating with us. 
+
+You also may give us permission to access your information on third party social media sites. For example, you may link your Facebook or Twitter account to our websites, which allows us to obtain information from those accounts (e.g., your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to keep those updated with your preferred settings.
+
+The types of information we may collect include your name, email address, phone number, zip code, billing address, and any other information you choose to provide. 
+
+**2.         Information we collect automatically**
+
+We automatically collect certain information when you access the Websites or transact business with us, including:
+
+  * **Transaction Information:** When you register for one of our events, we collect information about the transaction, such as registration details and the date and time of the registration.
+  * **Log Data:  **When you access the Websites, our servers automatically record certain data (“Log Data”).  Log Data we collect includes, but may not be limited to, Internet Protocol (“IP”) addresses, browser type, characteristics of your device and software, domain names of your Internet Service Provider, your approximate geographic location, a record of your usage of the Websites, the time of your usage, the referring link through which you accessed the Websites and aggregated personal data that cannot be used to specifically identify you.
+  * **Device Data:** In addition to Log Data, we may also collect information about the device you use to access our sites (“Device Data”), including what type of device it is, what operating system you are using, device settings, unique device identifiers and crash data.  Whether we collect some or all of this information often depends on what type of device you are using and its settings.  For example, different types of information are available depending on whether you are using a Mac or a PC, or an iPhone or an Android phone.  To learn more about what information your device makes available to us, please consult the policies of your device manufacturer or software provider. 
 
 
-
-RFE Gathers User Information In The Following Processes:
-
-Optional Voluntary Information
-
-We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-  1. Electronic newsletters policy  
-We will offer a free electronic newsletter to users.  RFE gathers the email addresses of users who voluntarily subscribe.  Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.  Users can also subscribe to the newsletters at the time of registration.
-  2. Message boards/forums policy  
-Users of any of the site’s forums must register separately for these services (both are free of charge) in order to post messages, although they need not register to visit the site.  During registration the user is required to supply a username, password and email address.
-  3. Tell A Friend Policy  
-Our site users can choose to electronically forward a link, page or documents to someone else by clicking “Tell A Friend.”  The user must provide their email address, as well as that of the recipient.  This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email.  The information is not used for any other purpose.
-  4. Polling  
-RFE may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues.  Opinions or other responses to polls are aggregated and are not identifiable to any particular user.
-  5. Surveys  
-RFE may occasionally conduct user surveys to better target our content to our audience.  We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners.  We never share any of this information about specific individuals with any third party.
-  6. Children  
-Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-  7. Usage tracking  
-RFE tracks user traffic patterns throughout our site.  However, we do not correlate this information with data about individual users.  RFE does break down overall usage statistics according to a user’s domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user’s browser).  
-RFE uses tracking information to determine which areas of our sites users like and don't like based on traffic to those areas.  We do not track what individual users read, but rather how well each page performs overall.  This helps us continue to build a better service for you.
-  8. Cookies  
-We may place a text file called a “cookie” in the browser files of your computer.  The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided.  The only personal information a cookie can contain is information you supply yourself.  A cookie cannot read data off your hard disk or read cookie files created by other sites.  RFE uses cookies to track user traffic patterns (as described above).  
-You can refuse cookies by turning them off in your browser.  If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.  You do not need to have cookies turned on to use this site.  However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+  * **Information Collected by Cookies, Pixels and Other Tracking Technologies:**  
+  * Cookies are small pieces of data that are stored as text files by your Internet browser on your computer, mobile phone or other device.  Most Internet browsers are initially set to accept cookies. We use cookies to track user traffic patterns.  You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but, if you do, you will not be able to access or use portions of our websites such as message boards, forums, contests and surveys.
+  * Web beacons or tracking pixels are small blocks of code on webpages that do things like allow another server to measure viewing of a webpage; they are often used in connection with cookies. 
+  * We may use cookies, web beacons, tracking pixels and other tracking technologies to collect information about you when you interact with our websites or emails, including information about your browsing or registration behavior. 
+  * We may combine this information with other information we collect about you and use it for various purposes, such as improving our websites and your online experience, understanding which areas and features of our sites are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an email has been opened and links within the email have been clicked and for other internal business purposes. 
 
 
 
-_Privacy Policy Use_
+**3.         Information we collect from sponsors, partners and other sources**
 
-How the information you gather is used if relevant.
+We may also obtain information from other sources and combine that with information we collect about you.  For example, our event sponsors may track visitors to their websites who clicked on a link in an email sent by us and they may share the aggregated data with us. 
 
-## USE OF INFORMATION
+**INFORMATION USE**
 
-RFE uses any information voluntarily given by our users to enhance their experience on our website, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing.  RFE never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-## OPT-OUT POLICY
-
-RFE gives users options wherever necessary and practical. Such choices include:
-
-  * Opting not to register to receive our electronic newsletters.
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
+  * **Internal Use** : 
 
 
 
-## YOUR CONSENT
+We use your personal information to process your registration and provide you with the above-and-beyond customer service for which we are known.  We use your personal information to organize and administer events and to provide results of events.  In addition, in our constant effort to seek bottlenecks, we may use your personal information to improve the Websites’ content and layout, to improve our marketing efforts directed at new and existing customers and to determine general information about visitors to our websites.
 
-By using this site, you consent to the collection and use of this information by RFE.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+  * **Communications with You:**
+
+
+
+We use your personal information to communicate with you about your event registration, such as to send you a confirmation email when you register for an event and updates relating to that specific event.  Also, you may submit your email address to us for a variety of reasons, including, but not limited to: registering for a sweepstakes, contest or survey; requesting that we notify you of new brands, events or products; signing up for newsletters and special offers.  If you submit your email address to us, we use it to deliver information to you. 
+
+By registering for one of our events and providing us with your email address, you expressly agree that we may communicate with you in the following ways:  (i) provide updates and information relating to the event for which you are registered; (ii) promote events that differ from the one for which you originally registered, whether produced by RFE or one of its affiliates, sponsors or partners; (iii) promote products that differ from those which you have purchased; (iv) provide RFE updates and information about RFE’s events or brands; and (v) provide information about the Websites.  We always permit you to opt out or unsubscribe from emails.  However, if you opt out of receiving emails related to current event registrations, you may miss important information or changes relating to the event, for which RFE assumes no responsibility. 
+
+**INFORMATION SHARING**
+
+We strive to be your ideal teammate and, therefore, we do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to Red Frog Events LLC’s affiliates, except in limited circumstances, such as:
+
+  * When vendors, consultants and other service providers need access to information to carry out work on our behalf or help them perform their service; ****
+  * When we must provide your credit card number to financial services entities such as credit card processors and issuers; ****
+  * In response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation; ****
+  * If we believe your actions are inconsistent with the Terms or other policies, or to protect the rights, property and safety of us or any third party; ****
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our business to another company; ****
+  * To share non-personal information, such as the number of visitors to a website, with third parties such as advertising partners or sponsors; ****
+  * To publicize the name, city and state of contest and sweepstakes winners; and ****
+  * With your consent or at your discretion. ****
+
+
+
+**DATA SECURITY**
+
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security.  100% security does not presently exist anywhere online or offline.
+
+IN NO EVENT SHALL RFE BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH A THIRD PARY’S UNAUTHORIZED ACCES TO YOUR INFORMATION, REGARDLESS OF WHETHER SUCH DAMAGES ARE BASED ON CONTRACT, STRICT LIABILITY, TORT OR OTHER THEORIES OF LIABILITY, AND ALSO REGARDLESS OF WHETHER RFE WAS GIVEN ACTUAL OR CONSTRUCTIVE NOTICE THAT DAMAGES WERE POSSIBLE.  BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+**CHILDREN**
+
+The content of our Websites are not directed to children and, accordingly, we request that all users be persons over the age of thirteen (13).  We do not knowingly collect personal information from children under the age of thirteen (13).  If you learn that your minor child has provided us with personal information without your consent, please contact us at info@redfrogevents.com and we will remove the information from our systems. 
+
+**CONTACT US**
+
+If you have any questions regarding this Privacy Policy, please contact us at:
+
+Red Frog Events LLC  
+Attn: Customer Service  
+320 W. Ohio St. Ste. 1W  
+Chicago, IL 60654  
+P: 773-687-4595  
+[info@redfrogevents.com](mailto:info@redfrogevents.com)
