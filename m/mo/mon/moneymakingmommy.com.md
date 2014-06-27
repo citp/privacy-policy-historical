@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055429id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627143259id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-MoneyMakingMommy.com's Privacy PolicyThis is the web site of MoneyMakingMommy.com, Inc.
+MoneyMakingMommy.com’s Privacy PolicyThis is the web site of MoneyMakingMommy.com, Inc.
 
 Our postal address is:  
 **PO Box 2128**  
 **Weaverville, NC 28787**  
-We can be reached via e-mail at: [Contact Form](http://www.formstack.com/forms/moneymakingmommy-contact_form)  
-or you can reach us by telephone toll free at  (800) 836 5675
+We can be reached via e-mail at: [Contact Form](http://www.formstack.com/forms/moneymakingmommy-contact_form)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -42,18 +41,11 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.moneymakingmommy.com/contact-us/ "contact us") at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-By visiting MoneyMakingMommy.com, it’s understood that your have read both our [disclaimer](http://www.moneymakingmommy.com/disclaimer/ "disclaimer") and our privacy policy. Thank you.
+By visiting MoneyMakingMommy.com, it’s understood that your have read both our disclaimer and our privacy policy. Thank you.
 
 ADDITIONAL INFORMATION
 
-We provide a [full disclaimer](https://web.archive.org/disclaimer/ "DISCLAIMER") as well.  
-Also – [Contest and Giveaway Terms and Conditions](http://www.moneymakingmommy.com/contest-or-giveaway-terms-and-conditions/ "Contest or Giveaway Terms and Conditions")
-
-* |   
----|---  
-  
-[ ](https://plus.google.com/+KellyLand/?rel=author)
-
-Kelly Land is the owner and content author here at MoneyMakingMommy.com. She has been part of an expert work at home panel and spent the last 12 years researching work at home.
+We provide a [full disclaimer](https://web.archive.org/disclaimer/) as well.  
+Also – [Contest and Giveaway Terms and Conditions](http://www.moneymakingmommy.com/contest-or-giveaway-terms-and-conditions/)
