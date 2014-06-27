@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031013954id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627130543id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
-  * [Jobs by email](https://web.archive.org/web/20131031013954id_/http%3A//www.jobs.ie/JobsByEmail.aspx) 
-  * [Upload your CV](https://web.archive.org/web/20131031013954id_/http%3A//www.jobs.ie/JobSeeker/UploadCV.aspx) 
-  * [CV Centre](https://web.archive.org/web/20131031013954id_/http%3A//www.jobs.ie/JobSeeker/CVCentre.aspx) 
+  * [Jobs by email](https://web.archive.org/JobsByEmail.aspx) 
+  * [CV Centre](https://web.archive.org/JobSeeker/CVCentre.aspx) 
+  * [Create a profile ](https://web.archive.org/Register)  
 
 
 
@@ -55,7 +55,7 @@ _**return to top**_USES MADE OF THE INFORMATION
     * to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;
     * to allow you to participate in interactive features of our service, when you choose to do so; and
     * to notify you about changes to our service. 
-  * We may also use your email address to send you updates or news regarding the Website or a Jobs.ie Service, but you may choose not to receive emails of this type by accessing the "Your Account" page of the Website and updating your notification settings. Additionally, we or a registered Customer may use your email address to contact you where you are a registered user or if you have responded to a Job Specification. 
+  * We may also use your email address to send you updates or news regarding the Website or a Jobs.ie Service, but you may choose not to receive emails of this type by accessing the "Your Account" page of the Website and updating your notification settings. You may also unsubscribe directly via an unsubscribe link in our communications with you. Additionally, we or a registered Customer may use your email address to contact you where you are a registered user or if you have responded to a Job Specification. 
   * We do not request (nor encourage you) to submit sensitive data to the Website, (ie data relating to racial or ethnic origin, political or religious opinions, membership of a trade union, physical or mental health or condition or sexual life, the commission of any offence or related documentation). If, however, you choose to do so then you consent to our processing this data in the manner set out in this Privacy Policy.
 
 _**return to top**_DISCLOSURE OF YOUR INFORMATION TO OTHER PEOPLE  
