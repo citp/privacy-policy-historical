@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastfacebooklikes.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212075254id_/http%3A//fastfacebooklikes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfacebooklikes.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627102728id_/https%3A//fastfacebooklikes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -15,3 +15,5 @@ This document applies to the use of the fastfacebooklikes.com website and was la
   6. **Changing your information:** If your information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by contacting us. Please note that certain services may no longer be available to you if you request the deletion of your information.
 
 
+
+Introducing Facebook 5 Star Reviews, increase your business ratings on Facebook. Choose "Facebook Ratings" from the Facebook drop down menu or contact us.
