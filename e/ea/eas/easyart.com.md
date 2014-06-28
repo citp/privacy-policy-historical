@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905081202id_/http%3A//www.easyart.com/help/privacy_policy.ghtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628152600id_/http%3A//www.easyart.com/help/privacy) for the most accurate reproduction.*
 
-# Easyart.com - Privacy Policy
+# Privacy Policy Easyart.com
 
 ## Effective Date: 01 February 2011
 
 ### Privacy Policy
 
-Easyart (“We”) are committed to protecting and respecting your privacy.
+Easyart ("We") are committed to protecting and respecting your privacy.
 
 Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. 
 
@@ -18,17 +18,18 @@ To request a correction or deletion of your private information, or if you have 
 
 ### Address
 
-  * Easyart
-  *     * Unit 12 E Plan Estate
-    * New Road
-    * Newhaven
-    * BN9 0EX
+Easyart
 
+Unit 12 E Plan Estate  
+New Road  
+Newhaven  
+Sussex  
+BN9 0EX  
 
 
 ### Telephone:
 
-  * 0845 1662 732
+  * 01273 511 942
   * +44 (0)1273 511 942 from outside the UK
 
 
@@ -65,10 +66,6 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 If you do not want us to use your data in this way, please opt-out as directed below.
 
-## Cookies
-
-[Read about our cookie policy](http://www.easyart.com/content/help/cookies.ghtml)
-
 ## Personal Information You Choose to Provide
 
 ### Registration Information
@@ -77,7 +74,7 @@ You will provide us information about yourself, your firm or company, and your p
 
 ### Email Information
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our “Email this page” feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient’s email address will not be used for any other purpose.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.
 
 ### Disclosure of your information
 
@@ -87,13 +84,13 @@ We may disclose your personal information to any member of our group, which mean
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Easyart or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and conditions of supply](https://web.archive.org/help/terms_and_conditions.ghtml) and other agreements; or to protect the rights, property, or safety of Easyart, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and conditions of supply](https://web.archive.org/help/terms) and other agreements; or to protect the rights, property, or safety of Easyart, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 ### Choice/Opt-out
 
-If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line “Unsubscribe” to our e-mail address — see above.
+If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line "Unsubscribe" to our e-mail address - see above.
 
 ### Sharing Information with Third Parties
 
@@ -103,7 +100,7 @@ We use third parties to facilitate our business, including, but not limited to, 
 
 ### Secure Information Transmissions
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 0845 1662 732 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 01273 511 942 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -126,3 +123,141 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customercare@easyart.com](mailto:customercare@easyart.com).
+
+Easyart's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. Easyart use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.
+
+Easyart will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.
+
+You can learn more about cookies, how we use them, how to manage them and about our third party partnerships below.
+
+## What is a cookie?
+
+Cookies are small text files that are created by your browser and placed on your computer or browsing device, at the request of websites that you visit. Cookies allow websites to recognise your computer or web browser. They can help to analyse which products or parts of a website you looked at, and how long for.
+
+Websites may also use web beacons or 'tags' to do a similar job. Like cookies, web beacons are used to collect non-personal information about the way you browse websites. An example of this could be remembering what products you placed in your shopping basket last time you visited.
+
+A web beacon is a transparent graphic image that is placed on a website or in an email and is used to see when that web page or email has been displayed.
+
+Third party cookies and web beacons can also be used to help present you with appropriate offers and advertising as you browse other sites on the internet.
+
+Note:
+
+  * Cookies and web beacons are not able to retrieve any information from your computer that you have not already given to a website.
+  * Cookies and web beacons are not able to be used to put malware or viruses on your computer.
+  * Cookies and web beacons are not able to be used to control the functionality or settings of your computer or web browsing device.
+
+
+
+## Why does Easyart use cookies?
+
+Cookies allow us to present you with relevant products and services that are based on the way that you want to use our website, providing you with an enhanced browsing and shopping experience.
+
+For example, cookies allow us to remember what products you placed in your shopping basket, whether you were logged in or not, and what language you were using to read the site last time you visited.
+
+Cookies and web beacons allow us to work alongside our web analytics partner to see how our customers like to use our websites and which pages or special functions they prefer. This helps us to continually improve our service.
+
+Third party cookies and web beacons are also used with our marketing partners to present you with appropriate offers and advertising as you browse other sites on the internet, based on the products you looked at while on our site.
+
+Note:
+
+  * Easyart's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.
+
+
+
+## Turning off and deleting cookies
+
+Most web browsers will provide the option to disallow cookies and web beacons. How you do this depends on the web browser you're using. Instructions for disallowing cookies can usually be found in the browser's 'Help' menu.
+
+Cookies can also be deleted using your internet browser. However, unless they are disallowed they will be re-applied the next time you visit a website.
+
+Note:
+
+  * In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on Easyart's websites. You will also find that the functionality of many other websites and services will be affected.
+
+
+
+Disallowing cookies will prevent web beacons from tracking your specific activity online. However, web beacons may still record anonymous data from your IP address.
+
+For more detailed information about cookies and web beacons please visit [www.allaboutcookies.org](http://allaboutcookies.org/).
+
+## Where exactly do Easyart use cookies?
+
+Cookies are used by all Easyart transactional websites:
+
+  * [www.easyart.com](http://www.easyart.com/)
+  * [www.easyart.de](http://www.easyart.de/)
+  * [www.easyart.fr](http://www.easyart.fr/)
+  * [www.easyart.de](http://www.easyart.se/)
+
+
+
+There are two types of cookie that may be used during your visit to an Easyart website:
+
+## 1\. Session cookies
+
+Session cookies are deleted after each 'session'. For example, when you are browsing an Easyart website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.
+
+Without a session cookie, every time you open a new web page the web server where that page is stored will treat you like a completely new visitor and items placed in your shopping basket will disappear by the time you reach the checkout.
+
+## 2\. Persistent cookies
+
+Persistent cookies remember you for a set period of time (unless you delete them).
+
+On your first visit to an Easyart site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.
+
+Here is a list of the different types of cookies used by Easyart:
+
+Cookie purpose | Cookie type | Summary  
+---|---|---  
+Transaction | Session cookie | Used to maintain your transaction with Easyart and minimise the need to transfer your information across the internet.  
+Navigation | Last viewed product | Used to help you return to the last viewed product, for instance after adding an item to the cart.  
+  
+## Easyart third party marketing partner cookies
+
+Easyart work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.
+
+All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. Easyart will never disclose your personal details to third parties without your permission.
+
+More information on Easyart's third party, network and supplier relationships - and the Easyart' websites to which they apply can be found below.
+
+Partner | Easyart.com | Easyart.fr | Easyart.de | Easyart.se  
+---|---|---|---|---  
+Criteo | × |  |  |   
+Affiliate Window | × |  |  |   
+Triggered Messaging | × |  |  |   
+Kissmetrics | × |  |  |   
+Google | × | × | × | ×  
+Yahoo! | × | × | × | ×  
+MSN/Bing | × | × | × | ×  
+  
+## Criteo
+
+Criteo Technology may place anonymous cookies in your browser. These cookies collect browsing data - like the products you have viewed. This data may then be used by other website(s) in their network to serve advertisements containing products that you may have looked at or similar.
+
+Advertisements will always include a link to Criteo's Privacy Policy page. If you'd like to opt out of ad targeting, or would like to see more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement. Alternatively, if you wish to opt out of receiving Criteo advertisements altogether, please go to [www.criteo.com/privacy-policy/opt-out](http://www.criteo.com/privacy-policy/opt-out).
+
+## Affiliate Window
+
+Affiliate Window's tracking technology uses cookies, flash cookies and ETag requests. Flash cookies are similar to normal cookies but they use flash rather than HTML. ETags are pieces of code that behave similarly to cookies and help speed up browsing.
+
+These cookies and tag requests store information on your computer so that when you click on an Affiliate Window link, information is stored about the click - such as the time of day and the advertisement that referred you to us.
+
+## Triggered Messaging
+
+Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.
+
+## Kissmetrics
+
+Places a cookie on the computers of vistors to help us better understand browsing behaviour and improve the user experience.
+
+## Google
+
+Google uses cookies to serve you relevant advertisements based on your recent searches and browsing behaviour on our website.
+
+## Yahoo!
+
+Yahoo! use cookies across their advertising products and their third party advertising network. Yahoo! may set and access Yahoo! cookies on your computer. Yahoo! use web beacons to access Yahoo! cookies inside and outside of their network of websites and in connection with Yahoo! products and services.
+
+## MSN / Bing
+
+Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, Easyart can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.
