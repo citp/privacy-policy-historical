@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityhollywoodgossip.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212103848id_/http%3A//celebrityhollywoodgossip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityhollywoodgossip.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050930id_/http%3A//celebrityhollywoodgossip.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CelebrityHollywoodGossip.com
 
