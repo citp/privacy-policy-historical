@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223072249id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
 # Help Desk
 
@@ -176,7 +176,7 @@ Please refer to the in-store Privacy Notice in each local store.
 
 ## SAFE HARBOR PRIVACY POLICY
 
-Last Modified: August 2013
+Last Modified: June 2014
 
 We at Ralph Lauren Corporation (“Ralph Lauren”) respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. 
 
@@ -192,7 +192,7 @@ For purposes of this Policy:
 
 “Sensitive Information” means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
 
-“Sites” means RalphLauren.com and the websites and mobile applications listed [here](https://web.archive.org/web/20131223072249id_/http%3A//www.ralphlauren.co.uk/helpdesk/popup.jsp?display=payment&subdisplay=site).
+“Sites” means RalphLauren.com and the websites and mobile applications listed [here](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/popup.jsp?display=payment&subdisplay=site).
 
 “Stores” means the stores operated by Ralph Lauren or any of its affiliates, which stores are located in the EEA or Switzerland.
 
@@ -206,7 +206,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information.
 
-Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20131223072249id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
+Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
 
 ### Purpose of Collection and Use of Personal Information
 
@@ -244,7 +244,7 @@ Ralph Lauren takes reasonable steps to ensure that Personal Information the comp
 
 Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented.
 
-Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with the American Arbitration Association in accordance with its applicable commercial rules; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices.
+Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <http://www.jamsadr.com/safeharbor/>; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant EU data protection authorities. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices.
 
 ### How to Contact Us
 
