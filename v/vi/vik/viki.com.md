@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218015807id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viki.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628205831id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.*
 
 # Viki
 
@@ -77,7 +77,7 @@ Viki takes commercially reasonable steps to help protect your Information agains
 
 ## Dispute Resolution
 
-If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association ([www.adr.org](https://web.archive.org/web/20131218015807id_/http%3A//www.viki.com/www.adr.org)). 
+If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at [compliance@viki.com](mailto:compliance@viki.com "compliance@viki.com"). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association ([www.adr.org](https://web.archive.org/web/20140628205831id_/http%3A//www.viki.com/www.adr.org)). 
 
 ## Information Choices 
 
