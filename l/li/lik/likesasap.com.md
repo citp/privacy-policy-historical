@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likesasap.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921050512id_/http%3A//likesasap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likesasap.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628031409id_/http%3A//likesasap.com/privacy.php) for the most accurate reproduction.*
 
-# LikesASAP.com : Free FaceBook Likes, Get Free FaceBook Photo Likes, Comments Votes and Questions, YouTube Subscraters Views and Comments, Get Free YouTube Likes and Dislikes, Google Plus, Twitter Followers and Websites Traffic, Do Likes Earn Money, Paid to Like, CuteKid Votes, CuteKid.com Contests, FB Photo Likes Exchanger, LikesASAP.com is the best Social Network Exchanger.
+# LikesASAP.com : Increase Your Fans
 
 ## Privacy and Cancellation Policy
 
@@ -78,7 +78,7 @@ In case you feel that the product received is not as shown on the site or as per
 
 7\. Refund Policy
 
-When you buy our products/services, your purchase is covered by our 1-day money-back guarantee. If you are, for any reason, not entirely happy with your purchase and/or haven't used all purchased points, we will cheerfully issue a full refund. To request a refund, simply contact us with your purchase details within one (1) day of your purchase. Please include your order number (sent to you via email after ordering) and optionally tell us why you're requesting a refund â€“ we take customer feedback very seriously and use it to constantly improve our products and quality of service. Refunds are not being provided for services that you aready have used, because our network fill your account balance (adding points) immediately after purchase done. Refunds are being processed within 7 days period.
+When you buy our products/services, your purchase is covered by our 1-day money-back guarantee. If you are, for any reason, not entirely happy with your purchase and/or haven't used all purchased points, we will cheerfully issue a full refund. To request a refund, simply contact us with your purchase details within one (1) day of your purchase. Please include your order number (sent to you via email after ordering) and optionally tell us why you're requesting a refund – we take customer feedback very seriously and use it to constantly improve our products and quality of service. Refunds are not being provided for services that you aready have used, because our network fill your account balance (adding points) immediately after purchase done. Refunds are being processed within 7 days period.
 
 8\. Contact Information
 
