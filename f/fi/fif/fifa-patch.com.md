@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fifa-patch.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214162824id_/http%3A//www.fifa-patch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa-patch.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628225541id_/http%3A//www.fifa-patch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FIFA Patch,FIFA 14 Patch,FIFA 14 Demo,FIFA Soccer 2014
+# Privacy Policy - FIFA Patch,FIFA 14 Patch,FIFA Soccer 2014
 
-This Privacy Policy governs the manner in which FIFA Patch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.fifa-patch.com](https://web.archive.org/web/20131214162824id_/http%3A//www.fifa-patch.com/www.fifa-patch.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by FIFA Patch.  
+This Privacy Policy governs the manner in which FIFA Patch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.fifa-patch.com](https://web.archive.org/web/20140628225541id_/http%3A//www.fifa-patch.com/www.fifa-patch.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by FIFA Patch.  
 ****
 
 **Personal identification information**
@@ -64,12 +64,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[www.fifa-patch.com](https://web.archive.org/web/20131214162824id_/http%3A//www.fifa-patch.com/www.fifa-patch.com)
+[www.fifa-patch.com](https://web.archive.org/web/20140628225541id_/http%3A//www.fifa-patch.com/www.fifa-patch.com)
 
 contact.AT.fifa-patch.DOT.com
 
 This document was last updated on August 09, 2013
-
-#### More Tags : 
-
-fifa 14 security patches not complete with abgx360, unauthorized harddrive fifa 14 
