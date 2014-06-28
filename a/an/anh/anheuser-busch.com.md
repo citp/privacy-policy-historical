@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127163614id_/http%3A//anheuser-busch.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anheuser-busch.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062025id_/http%3A//anheuser-busch.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anheuser-Busch.com
 
@@ -86,5 +86,3 @@ If you disagree with the terms of any Privacy Policy at any time, your sole reme
 If any part of the Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Privacy Policy shall continue in force and effect.
 
 Thank you for visiting our site.
-
-©2013 Anheuser-Busch Companies, LLC. One Busch Place, St. Louis, MO 63118.
