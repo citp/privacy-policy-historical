@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217011201id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfratmove.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628181146id_/http%3A//totalfratmove.com/privacy) for the most accurate reproduction.*
 
-# TotalFratMove.com | Privacy Policy » |
+# Total Frat Move | Privacy Policy
 
 Your privacy on the Internet is important to us. As a part of the operation of totalfratmove.com, we gather your e-mail address only when you submit it to subscribe to our newsletter. We respect your privacy and will not share or sell your e-mail address to a third party. However, we may use it to contact you regarding site updates, news, and information.
 
