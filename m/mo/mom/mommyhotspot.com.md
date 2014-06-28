@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyhotspot.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816225944id_/http%3A//www.mommyhotspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyhotspot.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628204010id_/http%3A//www.mommyhotspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
