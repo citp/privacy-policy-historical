@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216164129id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062231id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -65,4 +65,4 @@ We make no guarantee that the information that you provide us will be secure.
 ### Page Information
 
 Author(s): Mads Soegaard  
-URL: http://interaction-design.org/about/privacy.html 
+URL: http://www.interaction-design.org/about/privacy.html 
