@@ -1,46 +1,118 @@
-> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216100403id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyz.com.my privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174754id_/http%3A//www.fireflyz.com.my/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Home » Help » Privacy Policy
 
+﻿ 
+
 ## Privacy Policy
 
-FlyFirefly Sdn Bhd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web Site:
+  * Introduction
+  * What Personal Data do we collect?
+  * How do we collect your Personal Data?
+  * How do we collect your Personal Data from our website?
+  * What do we use your Personal Data for?
+  * Accessing/Limiting/Correcting/Updating your Personal Data
+  * Withdrawing Consent
+  * To whom do we disclose your Personal Data?
+  * How long may we retain your Personal Data?
+  * Notifications of Change
+  * Contact
 
-http://www.fireflyz.com.my
 
-###  1\. COLLECTION OF INFORMATION
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your membership information and to gather broad demographic information.
+### Introduction
 
-Our Customer Care feedback form requires users to give us contact information (e.g. their name and email address) so that we can respond to their comments. We use customer contact information from the registration form to send the user information about our company. The customer’s contact information is also used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor the visitor’s experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+    FlyFirefly Sdn Bhd (" **FIREFLY** ") is committed to the protection of your Personal Data and takes the matter of protecting your privacy as a high priority matter.
+    This Privacy Statement explains the general terms on how we protect the privacy of your Personal Data under the Personal Data Protection Act 2010 (" **PDPA** ").
 
-Please also refer to paragraph 5 and 6 of our [Legal Notice](https://web.archive.org/help/legal-notice).
+### What Personal Data do we collect?
 
-### 2\. INFORMATION ON COOKIES
+    The types of Personal Data that we collect directly from you or from third parties may include (but not limited to) your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, Frequent Flyer number or other loyalty program membership details, dietary requirements (if any) and health issues relevant to your travel arrangements.
 
-A cookie is an element of data that a web site can send to your browser, which may then store it on your system. We use cookies in some of our pages to store visitors’ preferences and record session information.The information that we collect is then used to ensure a more personalized service level for our users. You can adjust settings on your browser so that you will be notified when you receive a cookie, giving you a choice to either refuse or accept it.
+### How do we collect your Personal Data?
 
-### 3\. LINKS TO OTHER SITES
+This Privacy Statement covers any Personal Data provided to us:
+    
 
-This site contains links to other sites. FlyFirefly Sdn Bhd is not responsible for the privacy practices or the content of such web sites. Please also refer to Paragraph 2 of our [Legal Notice](https://web.archive.org/help/legal-notice).
+  * When making a booking with us, checking-in for a flight or lodging freight;
+  * Via any online sites operated by FIREFLY and its contractors;
+  * Under any other contractual agreement or arrangement; and/or
+  * Via a third party i.e. travel agent.
 
-### 4\. SECURITY ISSUES 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We employ sophisticated technology to ensure that the sensitive information that you submit to us will be secured, safe and is password protected to prevent misuse.
+  * Via telephone,letter,fax,email;
+  * When you visit our website or one of our contractors’ websites;
+  * When you contact us in person;
+  * When we contact you in person; or
+  * When we collect information about you from third parties.
 
-### 5\. CHANGES OF POLICY 
 
-Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors periodically review this page to ensure familiarity with the most current version of our privacy statement.
 
-### 6\. QUESTIONS? / CONTACTING THE WEB SITE 
+### How do we collect your Personal Data from our website?
 
-If you have any questions about our privacy policy, the practices of our site, or your dealings with this Web Site, you can contact:
+IP Address
+    We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your membership information and to gather broad demographic information.
 
-FlyFirefly Sdn Bhd  
-3rd Floor Administrative Building 1,  
-Complex A MAS, Sultan Abdul Aziz Shah Airport,  
-47200, Subang, Selangor  
-Fax: 603 7847 1460  
-Email: [webmaster@fireflyz.com.my](mailto:webmaster@fireflyz.com.my)
+User Feedback Form
+    Our Customer Care Feedback Form requires you to give us contact information (e.g. your name and email address) so that we can respond to your comments. We use your contact information from the registration form to send you information about our company. Your contact information is also used to contact you when necessary. Demographic and profile data are also collected at our site. We use your Personal Data to tailor your experience at our site by showing you contents that we think you may be interested in contents according to your preferences.
+
+Information on Cookies
+    A cookie is an element of data that a website can send to your browser, which may then store it on your system. We use cookies in some of our pages to store your preferences and record session information. The information that we collect is then used to ensure a more personalised service level for our users. You can adjust settings on your browser so that you will be notified when you receive a cookie. Please refer to your browser documentation to check if cookies have been enabled on your computer or to request not to receive cookies.
+
+### What do we use your Personal Data for?
+
+We may use your Personal Data for the following purposes (" **Purpose** "):
+    \- To facilitate your travel and freight arrangements;  
+\- To be able to process any commercial transaction e.g. In-flight sales;  
+\- To facilitate your participation in the loyalty programs of FIREFLY and third parties;  
+\- To send you promotions and information on products and activities;  
+\- To protect the safety and well-being of yourself and/or other customers;  
+\- To investigate and respond to claims from you; or  
+\- To comply with any legal or regulatory requirements.
+
+### Accessing/Limiting/Correcting/Updating your Personal Data
+
+    You may request to obtain information of your Personal Data, limit the processing of your Personal Data and also update or make amendments to your Personal Data as below: 
+
+  * For online registered customers, you may login to your FIREFLY online account and update your Personal Data; or
+  * For every other customer, you may forward your request to [customer_care@fireflyz.com.my](mailto:customer_care@fireflyz.com.my). Please note that depending on the information requested, a nominal fee may be required. We will endeavour to provide the information back to you as soon as practicable; however we also reserve the right to validate all requests for the authenticity of the request.
+
+
+
+### Withdrawing Consent
+
+    Please note that it is obligatory for us to process your Personal Data, without which we will not be able to make travel arrangements for you and keep you updated about our future, new and/or enhanced services and products.  
+Nonetheless, you may stop receiving promotional activities by: 
+
+  * unsubscribing from the mailing list;
+  * editing the relevant account settings to unsubscribe; or
+  * sending a request to [customer_care@fireflyz.com.my](mailto:customer_care@fireflyz.com.my)
+
+
+
+### To whom do we disclose your Personal Data?
+
+    We will not trade or sell your Personal Data to third parties. Your Personal Data shall only be disclosed or transferred to the following third parties who may be located within or outside Malaysia for the fulfilment of the Purpose:  
+\- Other FIREFLY affiliates and subsidiaries where necessary to facilitate your travel;  
+\- Credit card verification providers, data warehouse and other third parties in order to process your commercial transactions;  
+\- Legal bodies as permitted or required by law such as in compliance with a warrant or subpoena issued by a court of competent jurisdiction; and/or  
+\- Customs, immigration or other regulatory authorities applicable to you.
+
+### How long may we retain your Personal Data?
+
+    We will not retain your personal data longer than necessary for the fulfilment of the Purpose. However, relevant Personal Data may be retained subject to the conditions below: 
+
+  * As and when required under legislation; or 
+  * Where legal actions have arisen and are pending.
+
+
+    FIREFLY shall take all reasonable steps to ensure that all Personal Data is destroyed or permanently deleted when no longer required for the Purpose.
+
+### Notifications of Change
+
+    Please note that this Privacy Statement may be amended from time to time in accordance to applicable laws and regulations and such variations may be applicable to you. 
+    The latest version of this Privacy Statement will be made available to all customers. Do revisit our website from time to time for updates on our Privacy Statement.
+
+Click [here](https://web.archive.org/help/dasar-privasi) for Bahasa Malaysia version
