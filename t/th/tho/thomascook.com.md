@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231191504id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628072543id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Thomas Cook understands the importance of site privacy
 
-**_PRIVACY POLICY AND INFORMATION ON COOKIES_**
+_**PRIVACY POLICY AND INFORMATION ON COOKIES**_
 
 Thomas Cook understands and respects the importance of your privacy.  This Privacy Policy sets out the basis on which any personal data we collect from you, or you provide to us, will be processed by us.  Please read the following information carefully.
 
@@ -54,6 +54,7 @@ We use information held about you in the following ways:
   * To allow you to participate in interactive features of our service, when you choose to do so.
   * To notify you about changes to our service.
   * To provide you with information and offers that we or selected third parties feel may interest you.
+  * To carry out customer care enquiries and market research about services you book or enquire about.
 
 
 
