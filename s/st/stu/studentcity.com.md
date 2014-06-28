@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118041645id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628192951id_/http%3A//www.studentcity.com/legal) for the most accurate reproduction.*
 
 # StudentCity Privacy Policy: Legal Disclosure - StudentCity
 
@@ -9,7 +9,7 @@ This Privacy Policy applies to our website located at **Studentcity.com** and an
 
 We collect two basic types of information: personal information and anonymous information. We define “personal information” as information that is unique to an individual. Personal information might include: names, ages, contact information, payment information, school affiliation and travel schedule and preferences. Anonymous information is information that is not unique to you, such as technical information about your computer or statistical information about groups of our users.
 
-We collect both personal information and anonymous information through the Website. We sometimes collect personal information and anonymous information by asking you to enter it into forms on our Website. For example, if you make a request for more information about one of our trips, we request your name, e-mail, phone number, the name of your school and other details. We also collect anonymous information automatically as you use the Websiteâ€”see the section below titled Cookies and Analytics
+We collect both personal information and anonymous information through the Website. We sometimes collect personal information and anonymous information by asking you to enter it into forms on our Website. For example, if you make a request for more information about one of our trips, we request your name, e-mail, phone number, the name of your school and other details. We also collect anonymous information automatically as you use the Website - see the section below titled Cookies and Analytics
 
 ## How We Use Your Information
 
@@ -39,7 +39,7 @@ We appreciate your e-mailed feedback, questions and comments. Please see the “
 
 ## Cookies and Analytics
 
-Our website uses “cookies”â€”small files that permit our Website to identify your computer or mobile device on future visits. You can set your web browser to refuse cookies but certain features on our Website that use cookies may be unavailable.
+Our website uses “cookies” - small files that permit our Website to identify your computer or mobile device on future visits. You can set your web browser to refuse cookies but certain features on our Website that use cookies may be unavailable.
 
 We use cookies to keep track of the pages you visit on the Website and to store information about you or your preferences between visits to the Website. For example, if you click the “remember me” checkbox on our login form, the Website will set a cookie on your browser or mobile device so that you do not need to login on future visits.
 
