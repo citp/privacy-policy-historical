@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asana.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528200609id_/http%3A//asana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asana.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020606id_/https%3A//asana.com/privacy) for the most accurate reproduction.*
 
 # Asana · Privacy Policy
 
@@ -64,11 +64,11 @@ Our Service offers publicly accessible community services including blogs, and f
 
 ### Safe Harbor
 
-Asana complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Asana has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit .
+Asana complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Asana has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://export.gov/safeharbor>.
 
 ### Children’s Privacy
 
-Protecting the privacy of young children is especially important. Our Service is not directed to persons under 13. Asana does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@asana.com.](mailto:privacy@asana.com)
+Protecting the privacy of young children is especially important. Our Service is not directed to persons under 13. Asana does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@asana.com.](http://export.gov/safeharbor)
 
 ### International Data Transfer
 
