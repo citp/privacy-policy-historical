@@ -1,83 +1,186 @@
-> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214045433id_/http%3A//bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bartercard.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174418id_/http%3A//www.bartercard.com.au/About/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Bartercard Australia
 
-###  **Privacy Policy**
+**1.  About this Policy**
 
-1.1    We undertake to comply with the Terms & Conditions of our privacy policy which is described in this section as follows: 
+Bartercard Australia Pty Ltd (ABN 96 050 542 544) ('we', 'us', 'our') understands the importance of, and is committed to, protecting your personal information. We comply with the Privacy Act 1988 (Privacy Act). We are bound by the Australian Privacy Principles (APPs) which regulate how we may collect, use, disclose and store personal information, and how you may access and correct personal information held about you.
 
-1.2    Bartercard understands how important your personal information is to you. We have adopted the National Privacy Principles contained in the Privacy Act (Commonwealth) 1988 as part of our standard operating procedures for the protection of your personal information.
+_**Purpose**_  
+The purpose of this privacy policy is to:
 
-1.3    This policy explains how we collect personal information and how we maintain, use and disclose that information.
+• clearly communicate to you how we deal with personal information  
+• enhance the transparency of Bartercard Australia operations  
+• give you a better and more complete understanding of the sort of personal information that Bartercard Australia holds, and the way we handle that information
 
-1.4    Personal information means information or an opinion about you from which your identity is apparent or can reasonably be ascertained. This is whether the information or opinion is true or not and whether it is recorded in material format or not.
+_**Changes to this privacy policy**_  
+We may change this privacy policy from time-to-time. The updated privacy will be posted on our website, with the date of the update shown.
 
-1.5    We will only collect personal information from you that is necessary for us to be able to provide our services to you. We will seek to ensure that we do not collect information from you in any way that is unlawful or unreasonably intrusive. Whenever it is reasonable and practicable to do so, we will collect that information directly from you. If we have to collect personal information about you from someone else, we will take reasonable steps to ensure that you are aware of that fact.
+_**Who to contact**_  
+If you have any questions, concerns or complaints about this privacy policy, or our use of your personal information, please contact the Privacy Officer using the contact details provided below.  You can also contact the privacy officer if you believe that the privacy of your personal information has been compromised or is not adequately protected.   
+Once a complaint has been lodged, the Privacy Officer will respond to you as soon as possible.  
+You may also lodge a complaint with the Office of the Australian Information Commissioner by telephone: 1300 363 992 or email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)
 
-1.6    We do not collect information about your political, philosophical, or religious beliefs or sexual preferences.
+Bartercard Australia Privacy Officer: Tel +61 7 5561 9000  
+Email:  [privacy.officer@au.bartercard.com](mailto:privacy.officer@au.bartercard.com).
 
-1.7    If you do not provide us with the personal information we request, we may not be able to provide you with our services.
+**2.  Information we collect about you**
 
-1.8    Use of your Personal Information will be used:
+We collect information about you that we reasonably need for our business functions and activities and which is required by law. Our business functions and activities include:
 
-1.8.1    To provide our services;
+• Providing you with Bartercard Australia products and services – these are described generally on our website,  our corporate brochures, advertising, and our letter and emails and communications to customers and members  
+• activities in support of those functions including administration, management, marketing, online and mobile marketing, IT, legal, security, customer support (including the Bartercard Australia Customer Support  Centre), finance (including credit control) and human resources  
+• activities we plan for the future including new ways of communicating, new products and services, new business models and new businesses
 
-1.8.2    To enhance our customer service;
+Generally we collect the following personal information about you:
 
-1.8.3    To answer your queries;
+• your name  
+• your contact details including residential or business address, telephone number and email address  
+• date of birth  
+• financial information such as bank account and credit card details, employment details and information about your credit worthiness and credit history
 
-1.8.4    For internal research;
+  
+We may combine your contact details above with other information about you, for example:
 
-1.8.5    To facilitate trade transactions.
+• we collect details related to your Bartercard transactions including products and services, retailer (or service provider), Bartercard franchisee (if applicable), payment details and other details;  
+• if your business or employer supplies us or Bartercard members with products or services, or if your business or employer distributes, sells or services our products, we collect information about your trading with us (for example the products you buy or sell or the services you provide), your trading history and account history  
+• if you apply for a position with us, we collect information to help us decide your application, including your date of birth, tax-file number, work history and similar details  
+• if you request information from us (for example about a product or service or a franchise) or register a complaint, we collect information about your request or complaint  
+• if you enter a promotion or competition, visit us at an event or enquire about Bartercard, we may collect your contact details so that we can follow up on your enquiry or interest by sending you marketing material.
 
-1.9    We will not use your personal information for purposes unrelated to our goods and services.
+We record this information (personal information) in our database whilst we deal with you. We will remove this information from our database when we have no further need to keep a record of it, except if we are required to keep it by law (for example, for tax or for superannuation purposes).
 
-1.10    We will not sell or trade your personal information.
+**3.  How we collect information about you**
 
-1.11    We may use your personal information for direct marketing purposes to advise you of special offers, items which may be of interest to you and exclusive opportunities relating to our services. If at any time you do not wish to receive our marketing communications, then please tell us. You can do this by selecting the opt-out or Unsubscribe option in the marketing communication or by contacting us at the following address:
+_**How do we collect personal information?**_  
+We collect personal information directly from you. We may record your contact details when you call our Customer Support Centre, when you fill out an application form, when you purchase a product or service using Bartercard, when you participate in a trade transaction, when you provide your contact details via web, mobile or email or when you ask us for information or request something from us.
 
-The Privacy Officer  
-Bartercard Australia  
-PO Box 582  
-SOUTHPORT BC QLD 4215
+Sometimes we collect personal information about you from another person or business, or from a publicly available source. For example:
 
-1.12    Disclosure of your Personal Information  
-1.12.1    We will only disclose information about you if required or permitted by law, if we have your consent, if such disclosure is for a purpose contemplated by these Terms or Conditions or to detect and prevent fraud or other criminal activities. Your personal information may be disclosed to other related companies or to third parties required to assist us in providing services to you, including Bartercard Licensees, franchisees, (Bartercard Brokerages) and other Bartercard Group Companies;
+• A retailer or franchisee may give us your details in relation to a product or service;  
+• if you are an employee of one of our business partners (e.g. a franchisee, supplier, repairer or contractor), we may be given your name and contact details by your employer  
+• if you enter a networking event, promotion or competition organised by us, we may be given your name and contact details by the promoter of the event  
+• our service providers may provide us with your personal information from websites, social media sites, mobile, and other technology based sources  
+•  credit reporting bodies  may provide us with information if we request a credit history
 
-1.12.2    Only so much of your information as is required to enable these organisations to provide their services is disclosed. These organisations are bound by confidentiality and non-disclosure agreements and the information at all times remains the property of Bartercard International;
+We use lawful and fair means to collect your information. We will collect personal information about you from another person or from a publicly available source only if it is unreasonable or impracticable to collect it directly from you, and we will take reasonable steps to inform you that we have collected your personal information. Those reasonable steps may include informing you through this statement.
 
-1.12.3    Your personal information may be disclosed to other Bartercard members to facilitate and encourage trade transactions or to assist the process of collection and/or delivery of goods.
+_**Unsolicited information**_  
+If we receive personal information about you that we have not requested, and if we determine that we could not have lawfully collected that information under privacy law if we had requested it, we will destroy or de-identify the information, if it is lawful and reasonable to do so.
 
-1.13    Accuracy of Personal Information  
-1.13.1    We try to ensure that the personal information held by us about you is accurate, complete and up to date. To assist us, we ask that you notify us promptly if there are any changes to your personal information. You may ask us to correct any inaccurate information we hold about you and we will address your concerns within a reasonable period.
+  
+**4.  Do I have to provide you with my personal information?**
 
-1.14    Tracking of Emails  
-1.14.1    The Members Trading Portal contains tools that can be used to contact other members. For the purposes of Quality Assurance, these communications are tracked and archived. You acknowledge that this information may be used by Bartercard to ensure these Terms and Conditions are followed and adhered to.
+You can deal with us anonymously (without giving us your name and contact details) or by using a pseudonym (a name that does not include your real name, for example an email address or a user name that you use in an online forum (nickname)).
 
-1.15    Data Security  
-1.15.1    We will take reasonable steps to protect your personal information from misuse and loss, and from unauthorised access, modification or disclosure. For example, personal information stored electronically requires login and passwords for access, and is only utilised by staff whose job requires access;
+If you choose to deal with us anonymously or using a nickname, we can give you general information about our products and services, and you may be able to participate in any online forum we provide, but there are some things we cannot do, for example:
 
-1.15.2    Your personal information where not stored electronically, is stored in our secure office premises with restricted access or with an offsite secure storage facility. If we no longer require the use of your personal information, we will take reasonable steps to destroy or permanently de-identify it.
+If you do not give us your personal information we cannot give you information about transactions you may have made using Bartercard, the status and balance of your account, other Bartercard members or deal with a complaint you may have, provide you with a service or deliver a product to you at an address. You cannot attend one of our networking events, or enter into one of our promotions anonymously or using a nickname
 
-1.16    Access to Personal Information  
-1.16.1    We will provide you with access to your personal information upon request. We will endeavour to provide the information to you in a timely manner. You may be charged a fee for servicing your request which we will advise you at the time. There is no fee for lodging a request for access;
+You can deal with us using a nickname together with your real name and contact details. If you choose to deal with us in this way, we may collect your personal information together with your nickname. When you identify yourself to us using your nickname only, we can deal with you only as described above. We may ask you to provide proof of your identity if you use a nickname.
 
-1.16.2    There may be circumstances in which we cannot provide you with access; for example, where this is required or authorised under the law, would have an unreasonable impact upon the privacy of other individuals or the request for access is frivolous or vexatious. We will advise you of the reasons if we deny you access.
+**5.  Why we collect personal information about you (purpose of collection)**
 
-1.17    Cookies  
-1.17.1    In order to provide better customer service and to enhance our relationship with our members, Bartercard collects statistical information on website activity such as the number of Users who visit Bartercard's website, the date and time of visits, the number of pages viewed, time spent on website, navigation patterns and origin of the User.  In common with most websites, we use "cookies". A cookie allows us to identify and more effectively interact with your computer. A cookie does not identify the individual User although they do identify the User's browser type and Internet service provider. You may be able to configure your browser so that it does not receive cookies but in doing so some of the functionality of Bartercard’s website may be lost.
+  We collect and record personal information about you so that we can carry out our functions and activities described above. The primary purposes for which we collect your personal information include:  
+• so that we can provide our services to you and to our franchisees and suppliers  
+• so that we can administer our dealings with you, to provide you with information and to respond to any requests that you may have (for example, so that we can administer your account, provide you with marketing and sales opportunities or introduce you to other members)  
+• so that we can function as a business, for example, we may collect your personal information for research, marketing or so that we can offer new products, reconcile transactions, or if you are a supplier so that we can record your dealings with us  
+• so that we can facilitate trade transactions  
+• so that we can comply with agreements we have entered into with our suppliers, franchisees and licensors
 
-1.18    Consent  
-1.18.1    By continuing to use your Bartercard account you consent to Bartercard, its agents, contractors, authorised employees and any related party collecting, maintaining, using and disclosing your personal information in accordance with Bartercard’s Privacy Policy and the Rules for the purposes contemplated by these Terms and Conditions;
+We also collect your personal information for certain secondary purposes that are related to the primary purposes outlined above. Secondary purposes may include so that we can run our business efficiently, for example, our advisors can provide us with customer research, or so that we can use technology to automate our business and to understand how our business is performing, to allow us to operate efficiently and to lower costs by outsourcing services (such as collecting or paying money). Other secondary purposes may include so that we can sell or transfer our business or merge with another business and the sale and transfer of franchises.
 
-1.18.2    You also hereby authorise Bartercard, its agents, contractors, authorised employees and any related party to send to you commercial and non-commercial electronic messages for the purposes set out in this section and/or as contemplated by these Terms and Conditions.
+**6.  Disclosure**
 
-1.19    Complaints Resolution  
-1.19.1    We will try to answer any question and address any complaint you have about the information we hold about you, or about our information-handling practices. You may contact us at the following address:
+_**Who do we disclose your personal information to?**_  
+We do not use or disclose your personal information for a purpose other than:
 
-The Privacy Officer  
-Bartercard Australia  
-PO Box 582  
-SOUTHPORT QLD BC 4215
+• a purpose set out in this privacy policy (primary or secondary purpose above)  
+• a purpose you would reasonably expect  
+• a purpose required or permitted by law  
+• a purpose otherwise disclosed to you to which you have consented
 
-1.19.2    If we are unable to resolve your request, you may refer the complaint to your relevant Privacy Commissioner in your country.
+Depending on the circumstances, we may disclose your personal information to other people including one or more of the following:
+
+• service providers, including management, repairers, contractors, IT, security, legal, accounting, research, credit, credit reporting bodies, marketing, insurers, financial institutions and others  
+• our franchisees, affiliate companies  and related companies, Bartercard  international licensees and companies that we may merge with or who may acquire ownership of us  
+• government, regulatory and law enforcement authorities, where we are required to or permitted to by law  
+• your employer, if you are an employee of a supplier or franchisee  
+• to prevent or investigate any fraud or crime (or a suspected fraud or crime)
+
+We may give personal information about you to a credit reporting agency to obtain a credit report about you, to allow the credit reporting agency to create or maintain a credit information files containing information about you and/or to report credit infringements by you.
+
+You can find out more about the credit reporting agencies we work with at [www.veda.com.au](http://www.veda.com.au/) and [www.dnb.com.au](http://www.dnb.com.au/). Their websites provide their contact details and their policies about the management of your personal information.
+
+We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations with respect to the protection of your personal information.
+
+_**Disclosure overseas**_  
+We may disclose your personal information to an overseas service provider, for example a cloud data centre or a customer information call centre. Our overseas service providers may be located in:
+
+• Europe: United Kingdom  
+• North America:  United States  
+• Asia:  Singapore, Thailand, Philippines, Hong Kong  
+• Other: New Zealand
+
+If it is not practicable or reasonable for us to gain your consent to disclose your personal information to an overseas service provider, we will take reasonable steps to notify you of the specific countries where we disclose your personal information. We will take reasonable steps to ensure that the overseas services provider is bound by privacy and confidentiality obligations.
+
+**7.  Access to your personal information**
+
+You may request access to the personal information that we hold about you by using the contact details provided above.
+
+We will deal with your request for such access within a reasonable time. If we refuse access, we will provide you with a written notice which sets out the reasons for the refusal and the relevant provisions of the Privacy Act that we rely on to refuse access.
+
+We may recover reasonable costs in relation to a request for access to personal information.
+
+_**Accuracy and correction**_  
+We take reasonable steps to make sure that the personal information we collect is accurate, up-to-date and complete. We take reasonable steps to make sure that the personal information we use or disclose is accurate, up-to-date, complete and relevant. Where we believe that the personal information we hold is inaccurate, out-of-date, incomplete, irrelevant or misleading, we will take reasonable steps to correct that information.
+
+You may request that we correct your personal information that we hold by contacting us by using the contact details provided above. We will take reasonable steps to correct the information to ensure that it is accurate, up-to-date, complete, relevant and not misleading.
+
+We will deal with your request to correct your personal information within a reasonable time. If we do not agree with the corrections you have requested, we are not obliged to alter you personal information accordingly. However, where we refuse to correct any personal information as requested by you, we will give you a written notice which sets out the reasons for our refusal.
+
+**8.  Security**
+
+We hold your personal information in paper-based and electronic files. We will take reasonable steps to ensure that your personal information which is kept in our files is protected from:
+
+• misuse, interference and loss  
+• unauthorised access, modification or disclosure
+
+This means that, in respect of our paper-based files, we maintain various security systems on our premises, and in respect of electronic files, we (or our service providers) maintain secure electronic network systems.
+
+When we no longer require your personal information (including when we are no longer required by law to keep records relating to you), we ensure that it is destroyed or de-identified.
+
+_**Website**_
+
+This section explains how we handle personal information collected from our websites (including social media site and mobile site if relevant). If you have any questions or concerns about transmitting your personal information via the internet, you may contact us using the contact details provided above, as there are other ways for you to provide us with your personal information.
+
+_**Visiting our website**_
+
+If you access an unsecured part of our websites, that is, a public page that does not require you to log on, we (or our service providers) will collect information about your visit, such as:
+
+• the time and date of the visit  
+• any information or documentation that you download  
+• your browser type  
+• your IP address
+
+_Cookies_  
+A "cookie" is a small text file which is placed on your internet browser and which we access each time you visit our website. When you visit the secured pages of our website (i.e. pages that you have to provide login details to access) we use cookies for security and personalisation purposes. When you visit the unsecured pages of our website (i.e. public pages that you can access without providing login details) we use cookies to obtain information about how our website is being used.  
+You may change the settings on your browser to reject cookies, however doing so will prevent you from access to the secured pages of our website.
+
+_Email_  
+When we receive emails, we will retain the content of the email and our response to you where we consider it necessary to do so.
+
+Your email address will only be used or disclosed for the purpose for which is was provided. It will not be added to any mailing lists or used for any other purpose without your consent.
+
+_Security_  
+We make reasonable efforts to ensure that the most up-to-date security measures are used on our website to protect your personal information. Any data containing personal information which we transmit via the internet is encrypted. However, we cannot guarantee that any information transmitted via the internet by us, or yourself, is entirely secure. You use our website at your own risk.
+
+_Links on our website_  
+Our website may contain links to third party websites. We advise that the terms of this privacy policy do not apply to external websites. If you wish to find out how any third parties handle your personal information, you will need to obtain a copy of their privacy policy.
+
+**9.  Marketing**
+
+We may use your personal information, including your contact details, to provide you with information about products and services, including those of third parties, which we consider may be of interest to you. We may do this, even if you are on the Do Not Call Register.
+
+We may also provide your details to other organisations for specific marketing purposes.  
+You may opt out at any time if you no longer wish to receive marketing information. In order to do so, you will need to request that we no longer send marketing materials to you or disclose your information to other organisations for marketing purposes. You can make this request by using the contact details provided above, or by "unsubscribing" from email or other marketing messages.
