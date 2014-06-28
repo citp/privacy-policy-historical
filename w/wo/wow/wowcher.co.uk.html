@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2013-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131229123313id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowcher.co.uk privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628044740id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- PROD-53, build 169 (Tue Dec 10 2013 17:48), node , env prod --><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- 1.58.0-SNAPSHOT, build 450 (20140610-1641), node /usr/share/tomcat6, env prod --><head>
         <title>
 				Wowcher | Privacy Policy  </title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="shortcut icon" href="/images/dod/favicon.ico">
 	<link rel="apple-touch-icon" href="/images/dod/apple-touch-icon.png">
+<meta name="format-detection" content="telephone=no">
 
-<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-minified-169.css?">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/dod-minified-450.css?">
 		<!--[if gte IE 9]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie9.css" />
 <![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie8.css" />
@@ -23,31 +24,29 @@
 </script><style type="text/css">.js-hide { display: none; } .js-show { display: block; }</style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>    
-        <script type="text/javascript" src="/js/dod-minified-169.js"></script>
+        <script type="text/javascript" src="/js/dod-minified-450.js"></script>
 		<script type="text/javascript">
-	DOD.site = {
-		name : "National Deal",
-		id : "275849",
-		dod : true,
-		sitePath : "national-deal"
-	};
-	
-	$.cookie('dod-cookie-support-test', 'cookie-supported');
+    DOD.site = {
+        name : "National Deal",
+        id : "275849",
+        dod : true,
+        sitePath : "national-deal"
+    };
+
+    $.cookie('dod-cookie-support-test', 'cookie-supported');
 	var cookieSupport = $.cookie('dod-cookie-support-test') == 'cookie-supported';
 	$.cookie('dod-cookie-support-test', null);
+
 	
-	
-	
+
 		var chosenHome = $.cookie("dod-chosen-home");
 		var stopMobi = $.cookie("stop_mobi");
+
 		var userAgent = encodeURIComponent(navigator.userAgent);
-		
 		if (location.pathname=="/deals" || location.pathname=="/deals/") {
-			
+
 			// need to check if mobile redirect required or if existing dod-chosen-home, or guess dod-chosen-home
-			
 			if(chosenHome == null) {
-				
 				if (stopMobi == 'no') {
 		        	// mobile device, so go to mobile site homepage
 					window.location = "http://m.wowcher.co.uk/mt/www.wowcher.co.uk";
@@ -65,27 +64,30 @@
 								} else {
 									// guessed best home location - difficult to redirect from server side due to CDN
 						        	var newUrl = window.location.protocol + "//" + window.location.host + "/deals/" + jsonResult.data.path;
-									window.location = newUrl;	
+									window.location = newUrl;
 								}
-					        } else if(console) { 
+					        } else if(console) {
 					        	console.error('failed geo request: ' +jsonResult.message);
 					        }
 					    }
-					});					
+					});
 				}
 				
 			} else if (stopMobi == null) {
 				// first time browser - check if mobile or desktop and set this cookie, then redirect to homepage
 				$.ajax({
-				    url: "/locate/is-mobile.json?userAgent="+userAgent,
+				    url: "/locate/is-mobile-or-tablet.json?userAgent="+userAgent,
 				    contentType: 'application/json',
 				    async: false,
 				    success: function(jsonResult) {
 				        if( jsonResult.data.mobile ) {
 							window.location = "http://m.wowcher.co.uk/mt/www.wowcher.co.uk";
-				        } else {
+	                    } else if (jsonResult.data.tablet) {
+	                        //tablet case, reload website with deals number limitation to print
+	                        window.location.href = window.location.protocol + "//" + window.location.host + window.location.pathname + ((window.location.search == '') ? '?' : (window.location.search + '&')) + (Math.floor(Math.random()*10000000000));
+           			 	} else {
 				        	window.location = "/deals/"+chosenHome;
-				        }
+            			}
 				    }
 				});	
 			} else if (stopMobi == 'no') {
@@ -95,33 +97,37 @@
 				window.location = "/deals/"+chosenHome;
 			}
 			
-		} else if(typeof isPPCPage == 'undefined') {
+        } else if(typeof isPPCPage == 'undefined') {
 			
 			var mobileRedirectUrl = "http://m.wowcher.co.uk/mt/www.wowcher.co.uk"+window.location.pathname;
 			
-			if(window.location.search.length > 0) {
-				mobileRedirectUrl = mobileRedirectUrl + window.location.search;
-			}
-			
-			// all other pages except ppc pages
-			if(chosenHome == null) {
-					var parts = location.pathname.split("/");
-					// get the location from urls like /*deals/<location>/....
-					if(parts.length > 2 && parts[1].match(/deals/)) { 
-						chosenHome = parts[2];
-						$.cookie('dod-chosen-home', chosenHome, {domain : DOD.getRootDomain(), path : "/", expires: 365});
-					}
-			} 
+            if(window.location.search.length > 0) {
+                mobileRedirectUrl = mobileRedirectUrl + window.location.search;
+            }
+            // all other pages except ppc pages
+            if(chosenHome == null) {
+                    var parts = location.pathname.split("/");
+                    // get the location from urls like /*deals/<location>/....
+                    if(parts.length > 2 && parts[1].match(/deals/)) {
+                        chosenHome = parts[2];
+                        $.cookie('dod-chosen-home', chosenHome, {domain : DOD.getRootDomain(), path : "/", expires: 365});
+                    }
+            }
+            
 		    
+		    	
 				if (stopMobi == null) {
 		        	// first time browser - check if mobile or desktop and set this cookie, then redirect to homepage
 					$.ajax({
-					    url: "/locate/is-mobile.json?userAgent="+userAgent,
+					    url: "/locate/is-mobile-or-tablet.json?userAgent="+userAgent,
 					    contentType: 'application/json',
 					    async: false,
 					    success: function(jsonResult) {
 					        if( jsonResult.success && jsonResult.data.mobile ) {
 								window.location = mobileRedirectUrl;
+					        } else if (jsonResult.data.tablet) {
+		                        //tablet case, reload website with deals number limitation to print
+		                        window.location.href = window.location.protocol + "//" + window.location.host + window.location.pathname + ((window.location.search == '') ? '?' : (window.location.search + '&')) + (Math.floor(Math.random()*10000000000));
 					        }
 					    }
 					});
@@ -183,8 +189,8 @@
     	dwr.engine.setErrorHandler(function(){});  
 	</script>
 <meta http-equiv="imagetoolbar" content="no">
-	<script src="//cdn.optimizely.com/js/200244436.js"></script>
-	<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie7.css" />
+		<script src="//cdn.optimizely.com/js/200244436.js"></script>
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie7.css" />
 			<body class="ie7 "></body>
 		<![endif]-->
 		<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie8.css" />
@@ -196,7 +202,7 @@
 		<!--[if IE 10]><link rel="stylesheet" type="text/css" media="screen" href="/css/dod/ie10.css" />
 			<body class="ie10 "></body>
 		<![endif]-->
-    <script async="" defer="" src="//j.flxpxl.com/46414.js?r=9055801324118806&amp;m=1176&amp;a=46414"></script></head>
+    <script async="" defer="" src="//j.flxpxl.com/46414.js?r=7861715512481275&amp;m=1176&amp;a=46414"></script></head>
 
     <body id="wbody" class="">
     	<!-- Google Tag Manager -->
@@ -215,20 +221,22 @@
 				 (window,document,'script','dataLayer','GTM-4JPM');
 		</script>
 		<!-- End Google Tag Manager -->
-    	<div id="pageBG" class="full-width-bg xmas">
+    	<div id="pageBG" class="full-width-bg ">
 			
 			
 			<!-- only include this widget if there is an analytics object on the model -->
 
-<script type="text/javascript">
+<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/48c0bc66b4e04528eee832929001012f07745427/satelliteLib-61dc4bc2caeff865440c95fbf32793efba0700b5.js"></script>
+		<script type="text/javascript">
 		
 				var omnitureAccountCode = "andtiswowcherprod";
 			
 		var analyticsWebSiteType = "wowcher";
+		var metaData = {general: {}, omniture: {}};
 		var mainDealIdVar = "";
 	</script>
 	
-	<script type="text/javascript" src="/js/omniture/wowcher/s_code.25.11.js"></script>
+	<script type="text/javascript" src="/js/omniture/wowcher/s_code.25.12.js"></script>
 	<script type="text/javascript">
 		function setIP(data){
 			var ipAddress = {ipaddress:data};
@@ -236,25 +244,8 @@
 		}
 	</script>
 	<script type="text/javascript">
-			s['pageType']="wowcher: privacy policy";
-		
-			s['pageName']="wowcher: wowcher: privacy policy";
-		
-			s['prop2']="wowcher: privacy policy";
-		
-			s['prop1']="wowcher: privacy policy";
-		
-			s['prop15']="anonymous";
-		
-			s['prop3']="wowcher: privacy policy";
-		
-			s['server']="wowcher: privacy policy";
-		
-			s['hier1']="wowcher: privacy policy";
-		
-			s['channel']="wowcher: privacy policy";
-		
-			s['prop21']="wowcher";
+			s['pageName']="deals: privacy policy";
+			metaData.omniture['pageName']="deals: privacy policy";
 		</script><script type="text/javascript">
 		var s_code=s.t();
 		if(s_code) document.write(s_code);
@@ -270,122 +261,156 @@
 		</noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.21. -->	
 
-<div id="header" class="js-header js-header-upgrade header cld xmas ">
-	
-		<div class="ndod-dodsite dodsite">
-			
-			<div class="cld">
-	
-				<div class="seasonal-theme-helper"></div>
+<div id="header" class="js-header js-header-upgrade header cld  ">
+
+	<div class="l-site-width cld">
 		
-				<h1>
-							<a href="/">
-									<span id="wowcherLogo" class="acc">Wowcher</span>
-							</a>
-						</h1>
-					<div id="account-unit" class="account-unit cld">
+		<h1 class="header-logo"><a href="/" id="wowcherLogo" class="wowcherLogo acc">Wowcher</a></h1>
+			
+		<div id="account-unit" class="account-unit">
 	<ul>
-		<li class="first uname" id="js-first-name"><!--  --></li><span class="last_name"></span>
-		<li class="first"><a href="/register" id="js-register-link" title="Join">Sign up</a></li>
-		<li class="first js-hide"><a href="/myaccount/vouchers" title="View your account">My Details</a></li>
+		<li class="uname" id="js-first-name"></li>
+		<li><a href="/register" id="js-register-link" title="Join">Sign up</a></li>
+		<li class="js-hide"><a href="/myaccount/vouchers" title="View your account">My Details</a></li>
 		<li><a href="/login?redirectPath=/privacypolicy.html" id="js-login-link" title="Login">Login</a></li>
 		<li class="js-hide"><a href="/logout" title="Logout">Logout</a></li>
 	</ul>
 </div>
-<div class="divider account-unit-divider"></div></div>
-			
-			
-			<div class="menu cld" id="top">
+
+<script type="text/javascript">
+	DOD.LoginLinks.init('secure.wowcher.co.uk');
+</script>
+	
+	<div id="search-unit" class="search-unit">
+	<h2>Search for deals</h2>
+	<form id="search" name="search" method="get" action="/search"> 
+		<input id="searchTerm" name="query" type="text" value="" class="searchInput search-icon" placeholder="What are you looking for?" maxlength="255" autocomplete="off">
+		<input type="submit" class="search-button" value="Search" id="searchButton">
+		<input name="location" type="hidden" value="London">
+		</form>
+</div>
+<script type="text/javascript">
+	DOD.has('search');
+</script>
+</div>
+	
+	<div class="menus">
+		<div class="mainMenuWrapper cld">
+			<div class="mainMenu" id="top">
 				<ul>
 					<li class=" static ">
-							<a href="/deals/travel">Local</a>
+							<a href="/deals/london">Local</a>
+							</li>
+						<li class=" static ">
+							<a href="/deals/london/restaurants">Restaurants</a>
+							</li>
+						<li class=" static ">
+							<a href="/deals/london/activity">Activities</a>
 							</li>
 						<li class="nationwide static ">
-							<a href="/nationwide/travel">Nationwide</a>
+							<a href="/nationwide/london">Shopping</a>
 							</li>
 						<li class="wowgo static ">
-							<a href="/deals/travel/wowGo">Wow Go!</a>
+							<a href="/travel-deals/london">Travel</a>
 							</li>
 						<li class=" static ">
-							<a href="/deals/travel/home-garden">Home &amp; Garden</a>
+							<a href="/deals/london/home-garden">Home &amp; Garden</a>
 							</li>
 						<li class=" static ">
-							<a href="/deals/travel/female">Female</a>
+							<a href="/deals/london/fashionDeals">Fashion</a>
 							</li>
 						<li class=" static ">
-							<a href="/deals/travel/electricals">Electronics</a>
+							<a href="/deals/london/beautyDeals">Beauty</a>
+							</li>
+						<li class=" static ">
+							<a href="/deals/london/electricals">Electronics</a>
+							</li>
+						<li class=" static ">
+							<a href="/deals/london/healthandfitness">Health &amp; Fitness</a>
+							</li>
+						<li class=" static ">
+							<a href="/deals/london/learningDeals">Courses</a>
 							</li>
 						<li class="js-cashback-menuitem static ">
 							<a href="/cashback/homepage">Cashback</a>
 							</li>
-						<li id="lastchance" class=""><a href="/lastchance-deals/travel" title="Last chance">Last chance</a>
-							</li>
-					</ul>
+						</ul>
 			</div>
-			<script type="text/javascript">
-				DOD.MenuAdjust.removeCashback();
-			</script>
-			
-			<script type="text/javascript">
-				DOD.LoginLinks.init('secure.wowcher.co.uk');
-				DOD.Locations.setSelectedCategoryName('');
-				DOD.Locations.setCssSelector('');
-				//
-				var chosenHome = $.cookie("dod-chosen-home");
-				if (chosenHome != null) {
-					$("#top, #foot1").find('a').each(function(){
-						var hrefLink = $(this).attr('href');
-						var parts = hrefLink.split("/");
-						if (parts[2] != chosenHome && (parts[1]=="deals" || parts[1]=="recentdeals" || parts[1]=="lastchance-deals" || parts[1]=="nationwide")) {
-							parts[2] = chosenHome;
-							var newLink = '';
-							for (var j=0; j < parts.length; j++) {
-								newLink = newLink + parts[j] + '/';
-							}
-							if ((newLink.substring(newLink.length -1)) == "/") {
-								newLink = newLink.substring(0, (newLink.length -1));
-							}
-							$(this).attr('href',newLink);
-						}
-					});
+		</div>
+	
+		</div>
+	
+	<script type="text/javascript">
+		DOD.MenuAdjust.removeCashback('');
+		DOD.Locations.setSelectedCategoryName('');
+		DOD.Locations.setCssSelector('');
+		//
+		var chosenHome = $.cookie("dod-chosen-home");
+		if (chosenHome != null) {
+			$("#top, #foot1").find('a').each(function(){
+				var hrefLink = $(this).attr('href');
+				var parts = hrefLink.split("/");
+				if (parts[2] != chosenHome && (parts[1]=="deals" || parts[1]=="recentdeals" || parts[1]=="lastchance-deals" || parts[1]=="nationwide")) {
+					parts[2] = chosenHome;
+					var newLink = '';
+					for (var j=0; j < parts.length; j++) {
+						newLink = newLink + parts[j] + '/';
+					}
+					if ((newLink.substring(newLink.length -1)) == "/") {
+						newLink = newLink.substring(0, (newLink.length -1));
+					}
+					$(this).attr('href',newLink);
 				}
-			</script>
-			
-	</div>
+			});
+		}
+	</script>
 
-	</div>
+</div>
 
-
-<div id="dodsite" class="ndod-dodsite dodsite cld ">
+<div id="dodsite" class="l-site-width cld ">
 	    	
 	    	
 				<div class="ndod-aside aside standard-container">
 		
-		<div class="unit cld" id="aside-like">
+		<div class="aside-like cld" id="aside-like">
 		<p>Like us on Facebook!</p>
 		<div class="fb-like" data-href="http://www.facebook.com/pages/Wowcher/153179438076480" data-send="false" data-layout="button_count" data-width="70" data-show-faces="false" style="float:left"></div>
 	</div>
-<div class="m20-b badgeville">
-	<div class="bv_multiTab" bv_options="{'initTab':'widget_builder_activitiesFeed_779381','tabs':[{'api':'playerProfile','label':'widget_builder_playerProfile_518677','data':{'showActivities':false,'showRewards':true}},{'api':'activitiesFeed','label':'widget_builder_activitiesFeed_779381','data':{'feedInterval':2, 'stream':'5142fda4576f34579a000047' }}]}"></div>
 	<script>
-		DOD.has('badgeville', {
-			public_key: 'e2fb3d407d2fc5bc0966bb4844850c0a',
-			site: 'www.wowcher.co.uk',
-			exchange_rates: '',
-			script_src: '//api.v2.badgeville.com/v4/badgeville-current.js'
-		});
+		if(DOD.isMobileDevice){
+			//hide this for mobile device
+			$(".fb-like").remove();
+			$("#aside-like").hide();
+		}
 	</script>
-	<div class="badgeville-multi-bg">&nbsp;</div>
+<div id="bv_temp" class="bv_temp">
+	<h2 class="head">My Club Wowcher Profile</h2>
+	<div class="body">
+		<span class="messageLoggedOut"><a href="/login?src=bvw">Click here</a> to join Club Wowcher and start earning rewards</span>
+		<span class="messageLoggedIn"><a href="/myaccount/rewards">Click here</a> to see how many Club Wowcher points you have!</span>
+		<img height="126px" src="/images/dod/new/badgeville/icons/wallet_image.png" class="wallet-img">
+		<a href="/login?src=bvw" class="btnLoggedOut ndod-button-small btn">JOIN!</a>
+		<a href="/myaccount/rewards" class="btnLoggedIn ndod-button-small btn">My Profile</a>
 	</div>
+	<div class="foot js-howDoIEarn">
+		How do I earn <span class="wowcher">Club Wowcher</span> points?
+	</div>
+	<div class="badgeville-multi-bg">&nbsp;</div>
+</div>
 <div id="bvEarnPopup" style="display:none;">
-<img alt="How Club Wowcher works" width="892px" src="/images/dod/new/badgeville/whatIsBV.png"> 
-<div class="extraWow">It's as easy as saying 1, 2, 3, Wowcher!</div>
-<div class="splashbutton"><a href="/login?src=bvw" alt="join" class="joinBVLink"><span class="joinBVImg">JOIN!</span> </a></div>
-</div><script type="text/javascript">
+	<img alt="How Club Wowcher works" width="892px" src="/images/dod/new/badgeville/whatIsBV.png"> 
+	<div class="extraWow">It's as easy as saying 1, 2, 3, Wowcher!</div>
+	<div class="splashbutton"><a href="/login?src=bvw" alt="join" class="joinBVLink"><span class="joinBVImg">JOIN!</span> </a></div>
+</div>
+<script>
+	DOD.has('badgevilleTemp');
+</script>
+
+<script type="text/javascript">
 	DOD.has("refundVoucher");
 </script>
 
-<div class="refund-voucher grad-unit m16-b">
+<div class="refund-voucher grad-unit m16-b js-clone-claim-form">
 	<div class="grad-unit-content">
 		<span id="refundModule" class="refund-module-stamp"></span>
 		<div id="" class="refund-info">
@@ -461,7 +486,7 @@
 		<div id="claimCreditOverlay" style="display:none;">
 			<div class="content">	
 				<div class="preStep step">
-					<div class="inner">
+					<div class="inner js-attach-form-after-login">
 						<div class="refunderrormsg"></div>
 					</div>
 					<div class="clearing"></div>
@@ -622,7 +647,7 @@
 </div></div>
 
 
-<div id="footer" class="ndod-footer footer cld standard-container">
+<div id="footer" class="ndod-footer footer standard-container cld ">
 
 	<div id="footer-top" class="standard-footer cld">
 				<div class="threecol">
@@ -631,6 +656,12 @@
 	<div id="facebook" class="facebook">
 	<!-- taking out the following http:// will stop the likes in the footer block working!!! -->
 	<fb:like-box href="http://www.facebook.com/pages/Wowcher/153179438076480" width="299" show_faces="true" height="257" stream="false" header="false" layout="button_count"></fb:like-box>
+	<script>
+		if(DOD.isMobileDevice){
+			//hide this for mobile device
+			$("fb\\:like-box").remove();
+		}
+	</script>
 	</div>
 </div>
 </div>
@@ -644,11 +675,10 @@
 				<div class="threecol">
 					<div id="promote-business" class="js-promote-business work-with-us grad-unit">
 	<h2>Work with us</h2>
-	<h3>Interested in promoting your business with Wowcher?</h3>
+	<h3>Interested in running a Wowcher deal?</h3>
 	<div class="workingwithus">
-		<p>If you're itching to place a deal on
-			Wowcher, or just want to create more exposure for your business, get in
-			touch with our Wowcher team now...<a title="Find out more" href="/businessfaq.html">find out more</a> </p>
+		<p>If you're itching to place a deal on Wowcher or just want to know more about how it works, 
+			get in touch with us now …<a title="Find out more" href="/businessfaq.html">find out more</a> </p>
 		<div class="ft-imginside">
 			<span id="footerDoDeal"></span>
 		</div>
@@ -656,6 +686,12 @@
 </div>
 </div>
 			</div>
+			<script>
+				if(DOD.isMobileDevice){
+					//hide this for mobile device
+					$("#footer-top").hide();
+				}
+			</script>
 		<div class="footerContainer">
     <div class="footerMain cld">
         <div class="section dailyDeals cld">
@@ -679,34 +715,36 @@
             </ul>
         </div>
         <div class="section cashback cld">
-            <h3 class="sectionTitle">Wowcher Cashback</h3>
+            <h3 class="sectionTitle">Wowcherching</h3>
             <div class="underline"></div>
             <ul class="colL">
                 <li><a href="http://www.wowcher.co.uk/cashback/faq.html">Cashback FAQs</a></li>                    
-                <li><a href="http://www.wowcher.co.uk/cashback/fashion-and-clothing">Fashion &amp; Clothing</a></li>
                 <li><a href="http://www.wowcher.co.uk/cashback/health-and-beauty">Health &amp; Beauty</a></li>
                 <li><a href="http://www.wowcher.co.uk/cashback/entertainment">Entertainment</a></li>
                 <li><a href="http://www.wowcher.co.uk/cashback/home-and-garden">Home &amp; Garden</a></li>
-                <li><a href="http://www.wowcher.co.uk/cashback/food-and-drink">Food &amp; Drink</a></li>
-                <li><a href="http://www.wowcher.co.uk/cashback/finance-and-insurance">Finance &amp; Insurance</a></li>
-            </ul>  
-            <ul class="colR">
                 <li><a href="http://www.wowcher.co.uk/cashback/electricals">Electricals</a></li>
                 <li><a href="http://www.wowcher.co.uk/cashback/travel">Travel</a></li>
-                <li><a href="http://www.wowcher.co.uk/cashback/toys-and-gifts">Toys &amp; Gifts</a></li>
-                <li><a href="http://www.wowcher.co.uk/cashback/utilities">Utilities</a></li>
                 <li><a href="http://www.wowcher.co.uk/cashback/mobiles">Mobiles</a></li>
-                <li><a href="http://www.wowcher.co.uk/cashback/automotive">Automotive</a></li>
+                <li><a href="http://www.wowcher.co.uk/cashback/utilities">Utilities</a></li>
+            </ul>  
+            <ul class="colR">
+                <li><a href="http://www.wowcher.co.uk/cashback/toys-and-gifts">Toys &amp; Gifts</a></li>
+                <li><a href="http://www.wowcher.co.uk/cashback/finance-and-insurance">Finance &amp; Insurance</a></li>
+                <li><a href="http://www.wowcher.co.uk/cashback/fashion-and-clothing">Fashion &amp; Clothing</a></li>
+                <li><a href="http://www.wowcher.co.uk/cashback/food-and-drink">Food &amp; Drink</a></li>
+        	    <li><a href="/cashback/shop-by-retailer">Shop by Retailer</a></li>
+        	    <li><a href="/cashback/voucher-codes">Voucher codes</a></li>
+        	   <li> <a href="/cashback/retailer-offers">Offers</a></li>
             </ul>
         </div>
         <div class="section social cld">
             <h3 class="sectionTitle">Wowcher Social</h3>
             <div class="underline"></div>
             <ul class="colL">
-	           	<li><a href="http://blog.wowcher.co.uk" class="socialLink blogLink" title="Blog">Blog</a></li>
-	           	<li><a href="https://www.facebook.com/wowcher.co.uk" class="socialLink facebookLink" title="Facebook">Facebook</a></li>
-                <li><a href="https://twitter.com/wowcher" class="socialLink twitterLink" title="Twitter">Twitter</a></li>
-                <li><a href="http://www.pinterest.com/wowcher" class="socialLink pintrestLink" title="Pinterest">Pinterest</a></li>
+	           	<li><a href="http://blog.wowcher.co.uk" title="Blog"><i class="icon-comment"></i> Blog</a></li>
+	           	<li><a href="https://www.facebook.com/wowcher.co.uk" title="Facebook"><i class="icon-facebook"></i> Facebook</a></li>
+                <li><a href="https://twitter.com/wowcher" title="Twitter"><i class="icon-twitter"></i> Twitter</a></li>
+                <li><a href="http://www.pinterest.com/wowcher" title="Pinterest"><i class="icon-pinterest-circled"></i> Pinterest</a></li>
             </ul>
         </div>
     </div>
@@ -720,7 +758,7 @@
                 <li><a href="/privacypolicy.html" title="Privacy &amp; Cookies policy">Privacy &amp; Cookies policy</a></li>
                 <li class="noSep"><a href="/e-commerceterms.html" title="E-commerce terms">E-commerce terms</a></li>
             </ul>
-            <p class="copyright">©&nbsp;2013 Wowcher. All rights reserved</p>
+            <p class="copyright">©&nbsp;2014 Wowcher. All rights reserved</p>
 	    </div>
     </div>
 </div>
@@ -760,7 +798,9 @@
 		<!-- FlxPxl Tag -->
 		<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"h":"")+"j.flxpxl.com/46414.js?r="+Math.random()*1e16+"&m=1176&a=46414"+(iatDev?"&d=1":"")))</script>
 		<!-- End FlxPxl Tag -->
-	  
-    
+	  <!-- only include this widget if there is an analytics object on the model -->
+
+<script type="text/javascript">_satellite.pageBottom();</script>
+
 
 </body></html>
