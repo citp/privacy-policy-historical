@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126220414id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628161949id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
 
 # Tableau Software Privacy Policy | Tableau Software
 
 ## Welcome!
 
-The Privacy Policy posted on this Site was updated on or about February 26, 2013.
+The Privacy Policy posted on this Site was updated on or about April 30, 2014.
 
-Privacy is very important to us. Please read this document carefully. This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Personally identifiable information is information about you that can be traced directly back to and identifies an individual. PII includes your name, address, employer, email address, or phone number. 
+This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Please read this document carefully.
 
 By using this Site, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. Your continued use of the Tableau website will signify your acceptance of these changes.
 
 ## Scope of this Privacy Policy
 
 This Privacy Policy applies only to PII collected by Tableau through software installation or visitation to the website where this Privacy Policy is posted (the “Site”) and does not apply to any other information collected by Tableau and its affiliated entities through any other means. Tableau and its affiliated entities are collectively referred to in this Privacy Policy as “Tableau,” “we,” “us” or the “Site.” It is important for you to understand this because Tableau allows you to navigate away from our Site at times to websites controlled by third parties (some of which we have a relationship with). When you click on one of those links, you leave the Tableau site, at which point our Privacy Policy no longer applies. We provide a notice warning our users when they are leaving our Site. We encourage you to review the Privacy Policies of any site you link to from Tableau.
+
+With respect to personal data relating to residents of the European Economic Area (EEA), Tableau adheres to the Safe Harbor Privacy Principles. Our Safe Harbor Certification with the Department of Commerce covers customer relationship data and human resources data, as further explained in our General EEA Safe Harbor Notice. [http://www.tableausoftware.com/policy/eea-safe-harbor](https://www.tableausoftware.com/policy/eea-safe-harbor)
 
 Here is what we will cover in this Privacy Policy:
 
@@ -33,7 +35,7 @@ Here is what we will cover in this Privacy Policy:
 
 ## The Information We Collect
 
-Tableau collects personal information when you register with Tableau, or when you use Tableau products or services. In registering with Tableau, you must provide us with your real name, e-mail address, phone number, and shipping address. In addition, for certain licensees, Tableau may require additional information, such as date of birth or other student verification information. Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request, and relates it to the PII you provide. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. Once you have registered or have purchased Tableau products, we reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them. 
+Tableau collects personal information when you register with Tableau, or when you use Tableau products or services. In registering with Tableau, you must provide us with your real name, e-mail address, phone number, and shipping address. In addition, for certain licensees, Tableau may require additional information, such as date of birth or other student verification information. Whenever you visit the Tableau website, Tableau also receives and records information on our server logs from your browser, including your IP address, Tableau cookie information, and the pages you request, and relates it to the PII you provide. Tableau uses this information for the following general purposes: to fulfill your requests for products and services, to improve our products and services, to contact you, conduct research, and provide anonymous reporting for internal and external clients. Once you have registered or have purchased Tableau products, we reserve the right to send you certain communications relating to the Tableau service, such as service announcements, administrative messages and the Tableau Newsletter, that are considered part of your Tableau account, without offering you the opportunity to opt-out of receiving them.
 
 ## How We Use Your Personal Information
 
@@ -41,7 +43,7 @@ We use PII for internal and Service-related purposes only. Tableau does not rent
 
 Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a purchase is not used for any other purpose by our financial services providers or us and will not be kept longer than necessary for providing the services offered by us.
 
-We may disclose PII in response to legal process, for example, in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or End User License Agreements (EULA) (<http://www.tableausoftware.com/files/eula.pdf>, <http://www.tableausoftware.com/files/eula-public.pdf>, or <http://www.tableausoftware.com/files/eula-reader.pdf>), to verify or enforce compliance with the policies governing our products and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer PII about you if we or one of our business units are acquired by, sold to, or merged with another company.
+We may disclose PII in response to legal process, for example, in response to a court order or a subpoena. We also may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or End User License Agreements (EULA) (<http://mkt.tableausoftware.com/files/eula.pdf>, <http://mkt.tableausoftware.com/files/eula-public.pdf>, or <http://mkt.tableausoftware.com/files/eula-reader.pdf>), to verify or enforce compliance with the policies governing our products and applicable laws, or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer PII about you if we or one of our business units are acquired by, sold to, or merged with another company.
 
 We reserve the right to transfer all PII in our system in the event that Tableau, is sold, merged or otherwise assigned such that control rests with a different entity.
 
@@ -55,7 +57,7 @@ An Internet protocol (“IP”) address is the unique number assigned to your se
 
 ## Collection of Information by Third-Party Sites and Sponsors
 
-Our Site contains links to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on our Site and visitors are directed away from our Site in order to participate in such contests or sweepstakes. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy Policy and may follow different procedures. 
+Our Site contains links to other Web sites, including those of our partners and sponsors, whose information practices may be different from ours. Sometimes these third party websites might conduct contests or sweepstakes that are promoted on our Site and visitors are directed away from our Site in order to participate in such contests or sweepstakes. Visitors should consult those other third party websites' privacy notices, since those websites are not covered by our Privacy Policy and may follow different procedures.
 
 ## How We Secure Your Information
 
@@ -79,7 +81,7 @@ If you have questions or suggestions, please email Tableau at [customerservice@t
 
 ## What to Do if You Want to correct or Review Your Personal Information
 
-Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given proof of identity). This information can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address. We offer individuals the ability to have inaccuracies corrected within their contact information. This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address. 
+Upon request, we will provide an individual with access to identifying information that we have collected about them (provided that they have given proof of identity). This information can be requested by sending us an e-mail through the e-mail link provided above or writing to us at the above address. We offer individuals the ability to have inaccuracies corrected within their contact information. This information can be corrected by sending us an e-mail through the e-mail link provided above or writing to us at the above address.
 
 ## How We May Update our Privacy Policy
 
