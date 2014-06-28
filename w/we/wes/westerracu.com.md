@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westerracu.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824054542id_/https%3A//www.westerracu.com/forms-and-disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerracu.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628160206id_/https%3A//www.westerracu.com/forms-and-disclosures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Westerra Credit Union
 
-[Fee Schedule](https://web.archive.org/pdf/Fee_Schedule_2_1_13.pdf)
+[Fee Schedule](https://web.archive.org/pdf/Fee_Schedule.pdf)
 
 Safeguarding the privacy and confidentiality of each member’s personal information is of the utmost importance to Westerra Credit  
 Union.
@@ -33,9 +33,9 @@ Westerra Credit Union’s online surveys ask visitors for contact information, u
 
 Westerra Credit Union’s online surveys ask visitors for contact information, unique identifiers, financial information, and demographic information. We use this contact data from our surveys to send you Westerra Credit Union information and promotional materials.
 
-You may send e-mail to [email@westerracu.com](mailto:email@westerracu.com).
+You may send e-mail to [email@westerracu.com](mailto:email@westerracu.com?body=\(Please%20do%20not%20include%20your%20account%20number.%20If%20you%20have%20account%20specific%20questions%2C%20please%20use%20the%20secure%20message%20feature%20within%20Online%20Banking.\)).
 
-You may send mail to the following postal address: E-Business Department, Westerra Credit Union, 98 Spruce St., Denver, CO 80230.
+You may send mail to the following postal address: E-Business Department, Westerra Credit Union, 3700 East Alameda Avenue, Denver, CO 80209.
 
 You may call 303-321-4209 or 1-800-858-7212.  
 
@@ -43,9 +43,9 @@ You may call 303-321-4209 or 1-800-858-7212.  
 
 This web site gives you the following options for changing or modifying your information previously provided to Westerra Credit Union.
 
-You may send e-mail to [email@westerracu.com](mailto:email@westerracu.com).
+You may send e-mail to [email@westerracu.com](mailto:email@westerracu.com?body=\(Please%20do%20not%20include%20your%20account%20number.%20If%20you%20have%20account%20specific%20questions%2C%20please%20use%20the%20secure%20message%20feature%20within%20Online%20Banking.\)).
 
-You may send mail to the following postal address: E-Business Department, Westerra Credit Union, 98 Spruce St., Denver, CO 80230.
+You may send mail to the following postal address: E-Business Department, Westerra Credit Union, 3700 East Alameda Avenue, Denver, CO 80209.
 
 You may call 303-321-4209 or 1-800-858-7212.  
 
@@ -53,8 +53,9 @@ You may call 303-321-4209 or 1-800-858-7212.  
 
 If you have any questions about Westerra Credit Union’s Online Privacy Policy, the practices of this site, or dealing with this web site, you may contact:
 
-By E-mail: [email@westerracu.com](mailto:email@westerracu.com)  
-By Mail: E-Business Department, Westerra Credit Union, 98 Spruce St., Denver, CO 80230  
+By E-mail: [email@westerracu.com](mailto:email@westerracu.com?body=\(Please%20do%20not%20include%20your%20account%20number.%20If%20you%20have%20account%20specific%20questions%2C%20please%20use%20the%20secure%20message%20feature%20within%20Online%20Banking.\))  
+By Mail: E-Business Department, Westerra Credit Union  
+3700 East Alameda Avenue, Denver, CO 80209  
 By Phone: 303-321-4209 or 1-800-858-7212
 
 **Online Security**
