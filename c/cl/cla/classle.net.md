@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2013-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130825201818id_/https%3A//www.classle.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classle.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024649id_/https%3A//www.classle.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Classle
 
