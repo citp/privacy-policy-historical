@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howdini.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823110741id_/http%3A//www.howdini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howdini.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171158id_/http%3A//www.howdini.com/privacy-policy) for the most accurate reproduction.*
 
 # Howdini.com - Privacy Policy
 
