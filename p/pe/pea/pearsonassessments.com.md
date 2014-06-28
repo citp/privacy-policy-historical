@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117154505id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628061908id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,9 +82,9 @@ We use third party web analytical services, which may include Google Analytics a
 
 Back to Top
 
-**10\. Cookies**
+**10\. Cookies and Do-Not-Track Signals**
 
-The use of cookies is a common practice for websites. Cookies are small text files that a website transfers to a computer’s browser. Cookies will provide the website with non-personally identifiable information, but does identify your computer, browser and internet specifications. This Site uses cookies to measure traffic patterns, personalize content, control security and track use and access of information on this Site. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent, but this may result in some part of this Site not functioning properly.
+The use of cookies is a common practice for websites. Cookies are small text files that a website transfers to a computer’s browser. Cookies will provide the website with non-personally identifiable information, but does identify your computer, browser and internet specifications. This Site uses cookies to measure traffic patterns, personalize content, control security and track use and access of information on this Site. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent, but this may result in some part of this Site not functioning properly. This site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
 
 Back to Top
 
