@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102011404id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174213id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reason.com
 
@@ -16,6 +16,8 @@ We use third-party advertising companies to serve advertisements when you visit 
 
 **Cookie/Tracking Technology** **  
 **The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+
+Reason.com uses Google Analytics Demographics and Interest Reporting to track visitor demographics for the purposes of measuring the interest levels of various segments of our readership and engagement with website content. Reason does not link your reading history or other actions on Reason.com with personally identifiable information such as your name or email address. Visitors can opt-out of Google Analytics Demographic and Interest Reporting using [ad settings](https://www.google.com/settings/ads).
 
 **Commitment to Data Security**  
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
