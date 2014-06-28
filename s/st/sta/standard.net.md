@@ -1,99 +1,97 @@
-> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214063303id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105000id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Standard-Examiner
+# Privacy-Policy | Standard-Examiner
 
-## Online privacy statement
+At STANDARD-EXAMINER, we are committed to giving you quality service. As part of that commitment, we gather information about customers, users of our website, STANDARD.NET (the “Site”), social media sites, and other services, as well as visitors so we can better serve you. STANDARD-EXAMINER recognizes that the privacy and security of personal information is important to you. Because it is also important to us, we have implemented this Privacy Policy to tell you (1) what information we collect; (2) how we use that information; (3) with whom we may share it; (4) the choices you can make about how we collect, use, and share your information; and (5) how you can access our information about you. 
 
-This privacy statement discloses the privacy practices for Ogden Publishing Corporation Web sites. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This site has agreed to notify you of: 
+Your use of our Site is acceptance and agreement to the practices that are described in this Privacy Policy, which is incorporated as part of the [Terms of Use](http://www.standard.net/terms-of-service) governing this website.
 
-  1. What personally identifiable information of yours or third party personal identification is collected from you through the Web site. 
-  2. The organization collecting the information. 
-  3. How the information is used. 
-  4. With whom the information may be shared. 
-  5. What choices are available to you regarding collection, use and distribution of the information. 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Ogden Publishing Corporation control. 
-  7. How you can correct any inaccuracies in the information. 
+## **1\. INFORMATION WE COLLECT**
+
+**_Information You Provide_**
+
+STANDARD-EXAMINER collects information in different ways when you interact with us, including when you:
+
+  * Make purchases from us;
+  * Create an account on our website;
+  * Visit our social media sites;
+  * Send us communications through email; and
+  * Request to receive newsletters, notifications, or other communications from us.
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact StandardNET by e-mail, administrator@standard.net; by phone, (801) 625-4251, or mail, P.O. Box 12790 Ogden, UT, 84412-2790 
+Information you submit may include your name, email address, address, user name and password, payment information, and [any other data elements] (this list is not intended to be exhaustive). Entering one of our contests or sweepstakes, submitting an employment application, or using one of our community functions may involve our collection of further information from you. 
 
-## Information collection and use
+**_Automatically Collected Information_**
 
-Ogden Publishing Corporation is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ogden Publishing Corporation collects information from our users at several different points on our Web sites. 
+We obtain and retain certain information automatically when you interact with our Site, emails, and online advertising. We use this information to enhance our services, create a more personalized experience, evaluate the operation and use of our Site, and to support our marketing campaigns. When you access and interact with the Site, we may collect certain information about those visits. For example, in order to permit your connection to the Site, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Site from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device. We may collect this information using “cookies” and other website technologies (i.e., browser pixels, beacons, and Adobe flash technology). 
 
-## Registration
+“Cookies” and other website technologies are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps, and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Site, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
 
-In order to use certain portions of the Web site or receive certain services offered by the Web site, a user must first complete a registration form. During registration a user is required to give his or her contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which he or she has expressed interest. It is optional for the user to provide demographic information, but encouraged so we can provide a more personalized experience on our sites. 
+Most browsers offer instructions on how to manage, control, and delete cookies in the Help section of the toolbar. You can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. You can also manually delete cookies from your computers. Please note that by blocking any or all cookies you may not have access to certain features, content, or personalization available through the Site.
 
-## Transactions
+Third parties that support the Site by providing services, such as tracking aggregate Site usage statistics, may also use these technologies to collect similar information. STANDARD-EXAMINER does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.
 
-In areas of our Web sites that provide online transactions with Ogden Publishing Corporation (for example, classified advertising orders or subscriptions to the Standard-Examiner), we request information from the user on our order forms. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+**_Information from other Sources_**
 
-## Cookies
+We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our business partners.
 
-A cookie is a piece of data stored on the users personal computer hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes his or her computer Web browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site during repeat visits. If a user rejects the cookie by setting the browser to reject cookies, the user still may use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies also can enable us to track and target the interests of our users to enhance the experience on our sites. 
+## **2\. USE AND DISCLOSURE**
 
-Some of our business partners use cookies on our sites (for example, advertisers and technology service vendors). However, we have no access to or control over these cookies. 
+**_Business Use and Disclosure_**
 
-## Log files
+We use your information to offer and provide our products and services and to perform our business operations, including order or service fulfillment, internal business processes, marketing, authentication, loss and fraud prevention, public safety and legal functions. Examples of these functions include:
 
-We use IP addresses to analyze trends, administer the site, track users' movement on our pages, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+  * To provide the services you request; 
+  * To measure and improve the Site and other features. 
+  * To improve your experience with the Site by providing content you may find relevant and interesting. 
+  * To provide you with support and to respond to inquiries. 
+  * To allow third-party service providers – such as contractors, agents, or sponsors – to assist us in providing and managing the Site and performing the services you request from us. 
+  * To contact you and send materials and notifications related to the Site and STANDARD-EXAMINER. 
 
-## Sharing
 
-We occasionally share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-We partner with other companies to provide specific services; for example, the technical features of the e-ShopUtah.com site are provided by partner companies. When the user signs up for services in these areas, we will share names, or other contact information that is necessary for the third party to provide these services. 
+Sandusky Newspaper, Inc. ("SNI") is the parent company of STANDARD-EXAMINER. Accordingly, if you provide information to any of the businesses or websites owned or operated by SNI, we may merge and share that information with other current or future SNI entities, including affiliates and subsidiaries. We may also share personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+**_Other Use and Disclosure_**
 
-## Links
+There may be instances when STANDARD-EXAMINER may disclose your information where STANDARD-EXAMINER has a good faith belief that such disclosure is necessary in order to:
 
-This Web site contains links to other sites. Ogden Publishing Corporation is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Ogden Publishing Corporation's Web sites. 
+  * Protect, enforce, or defend the legal rights, privacy, safety, or property of STANDARD-EXAMINER, our employees, agents and contractors (including enforcement of our agreements and our terms of use);
+  * Protect the safety, privacy, and security of users of the Site or members of the public;
+  * Protect against fraud or for risk management purposes; and
+  * Comply with the law or legal process.
 
-## E-mail news alerts and other newsletters
 
-If a user wishes to subscribe to our newsletters, we ask for contact information such as name and e-mail address. 
 
-## Surveys and contests
+## **3\. USER ACCESS AND CONTROL**
 
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+If you would like to access, review, correct, update, or otherwise request that we modify use of your personal information you have previously provided directly to us, you may contact using the information below. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable. For California residents, you may request that we not share your personal information on a going forward basis with unaffiliated third parties for their direct marketing purposes by emailing the contact provided above. We will try to comply with your request(s) as soon as reasonably practicable.
 
-## Security
+If you want to stop receiving materials and notification, you can contact us at the information below or by following the unsubscribe instruction that may appear in such communications. There are certain service notification communications that you may not opt-out of, such as notifications of changes to the Site or policies. 
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. When users submit sensitive information via the Web site, the information is protected both online and off-line. 
+## **4\. CHILDREN**
 
-When our registration/order forms ask users to enter sensitive information (such as credit card numbers), that information is encrypted and is protected with encryption software. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just surfing. 
+The Site is for a general audience and is not intended for use by children under 13 years of age without permission from their parent or legal guardian. STANDARD-EXAMINER does not knowingly collect information from children under 13 years of age. If you are a parent or guardian of a child under the age of 13 and believe your child has disclosed personally identifiable information please contact us and we will work to delete that information. 
 
-While we use encryption to protect sensitive information online, we also take precautions to protect user-information off-line. All of our users information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Employees are kept up to date on our security and privacy practices. The computer servers on which we store personally identifiable information are kept in a secure environment, behind a locked door. Internet security measures are taken to guard against hacking or cracking intrusions, damage or theft of information. 
+## **5\. STEPS WE TAKE TO PROTECT PERSONAL INFORMATION**
 
-If you have any questions about the security at our Web site, you can send e-mail to administrator@standard.net. 
+STANDARD-EXAMINER works to use reasonable security measures to protect the confidentiality and integrity of personal information. For example, personal information maintained in hard copy records may be kept in locked locations or cabinets. We restrict the number of employees who have access to certain personal information. Employees who violate our privacy and security policies are subject to disciplinary action up to and including termination. We require the service providers who have access to your information to maintain the security of your information. We also mandate that our service providers only use the information solely for providing the services we request. We also work to use reasonable safeguards to protect your information in electronic format. However, we cannot ensure or guaranty the security of your information, so any information you provide to us is done so at your own risk.
 
-## Supplementation of information
+## **6\. OTHER IMPORTANT INFORMATION**
 
-In order for this Web site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third-party sources. For example, to determine if our customers qualify for one of our credit cards, we may request a credit report. Once we determine a users credit-worthiness, this document is destroyed. 
+**_Location of Data_**
 
-## Special offers
+The Site is hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
 
-Users who sign up for e-mail newsletters or other services will occasionally receive information on news stories, products, services, special deals, etc. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+**_Linked Services_**
 
-## Site and service updates
+The Site may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, newsletters, or applications developed and maintained by unaffiliated companies. STANDARD-EXAMINER is not responsible for the privacy practices of unaffiliated companies, and once you leave the Site or click an advertisement you should check the applicable privacy policy of the other service.
 
-We also send users of some services, site and service announcement updates. We communicate with users to provide requested services and in regard to issues relating to their accounts via e-mail or phone. 
+**_Comment Policy_**
 
-## Correcting/updating personal information
+Under the Digital Millennium Copyright Act, comments are the sole responsibility of the individual commenters. STANDARD-EXAMINER reserves the right to delete any comments that include hate speech, libel, plagiarism, threats, personal attacks or off-topic assertions, and inappropriate language in order to protect the integrity of the site and its users. We do not edit comments for content.
 
-If a users personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that users personal data provided to us. This can be done by sending e-mail to administrator@standard.net or postal mail to StandardNET, P.O. Box 12790 Ogden, UT 84412-2790. 
+## **7\. UPDATES TO PRIVACY POLICY**
 
-## Choice/opt-out
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the e-mail or e-mail us at administrator@standard.net. 
-
-Users of our site are notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
-
-## Notification of changes
-
-If we decide to change our privacy policy, we will post those changes on our home page so our users are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-This Web site uses services provided by NewsRight. NewsRight collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of NewsRight. Please refer to the NewsRight privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+This privacy policy was posted and is effective as of 2014-05-12. It was last updated on 2014-05-12. STANDARD-EXAMINER may modify this Privacy Policy over time, so please check the effective date to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. 
