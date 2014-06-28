@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meshbean.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226143151id_/http%3A//meshbean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meshbean.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628032525id_/http%3A//meshbean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Software Publishers & Advertisers - Advertising Software Solution - Make Money Online
 
