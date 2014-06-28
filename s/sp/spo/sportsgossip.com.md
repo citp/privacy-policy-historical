@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsgossip.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109094155id_/http%3A//www.sportsblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsgossip.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628110602id_/http%3A//www.sportsblog.com/privacy) for the most accurate reproduction.*
 
 # SportsBlog.com - Privacy Policy - The Leading Blog Network for Superstars, Superfans, and Everything In Between
 
