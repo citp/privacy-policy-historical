@@ -1,40 +1,43 @@
-<!--The following is the downloaded HTML source of the catchafire.org privacy policy that was archived on 2013-09-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130930133914id_/https%3A//www.catchafire.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catchafire.org privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628043455id_/https%3A//www.catchafire.org/about/terms/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/7366.js?439587" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/ToRfjYN5p3z6fztonzGXkw.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA4BUlVWGwEHXVhWAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
       <meta charset="utf-8">
       <meta name="keywords" content="volunteering, skill-based volunteering, volunteer, nonprofit, social enterprise">
 
-      <meta property="og:image" content="//www.catchafire.org/media/314/images/90pxSquare.png">
+      <meta property="og:title" content="Catchafire"> 
+      <meta property="og:url" content="https://www.catchafire.org/">
+      <meta property="og:image" content="https://www.catchafire.org/static/15837/images/200pxSquare.png">
+      <meta property="og:description" content="Catchafire matches professionally-skilled volunteers with nonprofits and social enterprises.">
 
-      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.catchafire.org/media/314/images/apple-touch-icon-114×114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.catchafire.org/media/314/images/apple-touch-icon-72x72-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/15837/images/apple-touch-icon-114x114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/15837/images/apple-touch-icon-72x72-precomposed.png">
 
 
       
       
-        <link rel="stylesheet" href="//www.catchafire.org/media/314/gen/screen.css">
+        <link rel="stylesheet" href="/static/15837/gen/screen.css">
       
 
-      <link rel="stylesheet" href="//www.catchafire.org/media/314/stylesheets/blueprint/screen.css">
+      <link rel="stylesheet" href="/static/15837/stylesheets/blueprint/screen.css">
       <!--[if lt IE 8]>
-        <link rel="stylesheet" href="//www.catchafire.org/media/314/stylesheets/blueprint/ie.css" />
+        <link rel="stylesheet" href="/static/15837/stylesheets/blueprint/ie.css" />
       <![endif]-->
-      <link rel="stylesheet" href="//www.catchafire.org/media/314/stylesheets/all.css">
-      <link rel="stylesheet" href="//www.catchafire.org/media/314/stylesheets/jquery.countdown.css">
+      <link rel="stylesheet" href="/static/15837/stylesheets/all.css">
+      <link rel="stylesheet" href="/static/15837/stylesheets/jquery.countdown.css">
 
       
       
       
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/7366.js?439587" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/ToRfjYN5p3z6fztonzGXkw.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//www.catchafire.org/media/314/gen/modernizr.js"></script>
+        <script src="/static/15837/gen/modernizr.js"></script>
       
       <!--[if lt IE 9]>
       
-        <script src="//www.catchafire.org/media/314/gen/IE9.js"></script>
+        <script src="/static/15837/gen/IE9.js"></script>
       
       <![endif]-->
       <!--[if lt IE 8]>
-        <script src="//www.catchafire.org/media/314javascripts/selectivizr.js"></script>
+        <script src="/static/15837/javascripts/selectivizr.js"></script>
       <![endif]-->
       <!--[if IE 8]>
         <script>document.getElementsByTagName('html')[0].className = "ie8"</script>
@@ -42,7 +45,6 @@
       <!--[if IE 7]>
         <script>document.getElementsByTagName('html')[0].className = "ie7"</script>
       <![endif]-->
-
 
     <script>
         if (!('forEach' in Array.prototype)) {
@@ -57,12 +59,12 @@
 
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/jquery.watermark.min.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/jquery.simplemodal-1.3.5.min.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/jquery.tools.min.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/jquery.cookie.min.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/all.js"></script>
-      <script src="//www.catchafire.org/media/314/javascripts/csrf.js"></script>
+      <script src="/static/15837/javascripts/jquery.watermark.min.js"></script>
+      <script src="/static/15837/javascripts/jquery.simplemodal-1.3.5.min.js"></script>
+      <script src="/static/15837/javascripts/jquery.tools.min.js"></script>
+      <script src="/static/15837/javascripts/jquery.cookie.min.js"></script>
+      <script src="/static/15837/javascripts/all.js"></script>
+      <script src="/static/15837/javascripts/csrf.js"></script>
 
     
 
@@ -79,7 +81,7 @@
               document.getElementsByTagName('head')[0].appendChild(s);
               initFacebook();
           }
-      </script>
+      </script><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script>
       <title>Catchafire - Privacy Policy</title>
 
 
@@ -138,292 +140,192 @@
             <nav>
               
               <a href="/how-it-works"><hr>How it works <i>Get the skinny.</i></a>
-              <a href="/projects/"><hr>Professionals <i>Find a project.</i></a>
-              <a href="/project_types"><hr>Organizations <i>Launch a project.</i></a>
-              <div class="fb-like" data-href="http://www.facebook.com/Catchafire.org" data-layout="box_count"></div>
+              <a href="/opportunities/"><hr>Professionals <i>Find a project.</i></a>
+              <a href="/project_menu/"><hr>Organizations <i>Launch a project.</i></a>
               <div class="login anonymous">
-		            
-
-    <p class="logged-out-text">
-        <a href="/user_reg">Join</a>
-        <span class="slash"></span>
-        <a href="/login_page?redirect=/about/privacy/">Login</a>
-    </p>
-
-
+                
+                
+                
+                    <p class="logged-out-text">
+                    <a href="/account/register/?redirect=/about/terms/privacy/">Join</a>
+                        <span class="slash"></span>
+                        <a href="/account/login/?redirect=/about/terms/privacy/">Login</a>
+                    </p>
+                
+                
+                
               </div>
             </nav>
-          </div></header>
-
-          <div id="content" class="flatpage">
-            
-  
-  
-  <nav class="left vertical-menu">
-    
-      <a href="/about/us/" id="section_about-us">About Us</a>
-    
-      <a href="/about/careers/" id="section_careers">Careers</a>
-    
-      <a href="/about/contact/" id="section_contact-us">Contact Us</a>
-    
-      <a href="/about/faq/" id="section_faq">FAQ</a>
-    
-      <a href="/about/story/" id="section_our-story">Our Story</a>
-    
-      <a href="/about/team/" id="section_our-team">Our Team</a>
-    
-      <a href="/about/values/" id="section_our-values">Our Values</a>
-    
-      <a href="/about/privacy/" id="section_privacy-policy">Privacy Policy</a>
-    
-      <a href="/about/terms/" id="section_terms-of-use">Terms of Use</a>
-    
-    <a href="/about/press" id="section_">Press Room</a>
-  </nav>
-  <div class="fix-float _w-overflow">
-    
-      #### Our Commitment to Privacy
-<p>
-	Catchafire is committed to protecting your privacy and will make reasonable efforts to provide 
-	a safe and secure user experience.  This privacy policy (the "<b>Privacy Policy</b>") sets forth the 
-	online data collection and usage policies that apply to www.catchafire.org (the "<b>Site</b>").  The Privacy 
-	Policy does not apply to information we collect in any other manner (e.g., email, phone calls, or written 
-	documents).  Please note that your use of the Site and its services is subject to our Terms of Use which 
-	you may access from our homepage or other Site pages by clicking on Terms of Use.
-</p>
-<p>
-	By accessing and using the Site, you agree, without limitation or qualification, to be bound by the Privacy 
-	Policy and Terms of Use.  If you do not agree with the Privacy Policy or the Terms of Use, you should not 
-	access or use the Site for any purpose.  We reserve the right to terminate or limit your access to the 
-	Site for any violation of the Privacy Policy or Terms of Use, or for any other reason, in our sole discretion.
-</p>
-
-<div><b>Scope of the Privacy Policy</b></div>
-<p>
-	The Privacy Policy applies to all information you provide to Catchafire through the Site.  We are not 
-	responsible for the data collection, privacy practices, or policies of any third-party websites that we may 
-	link to or that may link to the Site and over which we do not have full control.
-</p>
-
-<div><b>What Information We Collect</b></div>
-<p>
-	We generally collect two types of information—personally identifiable information (“<b>PII</b>”) and non-personally 
-	identifiable information (“<b>Non-PII</b>”).  PII is any information that can be used to specifically identify you 
-	as an individual.  For example, you may submit and we may collect your name, email address, address, phone 
-	number, or similar information through the Site.  Non-PII consists of information that does not specifically
-	 identify you.  The following section describes how we collect and use your PII and Non-PII.
-</p>
-
-<div><b>How We Collect and Use Information</b></div>
-<div style="text-decoration:underline">Cookies and Beacons</div>
-<p>
-	Like all websites, we use cookies and other technologies, including web beacons, so that we can enhance your user
-	experience.  Web beacons and cookies collect information such as URLs you came from and go to, your browser and 
-	OS information, your IP address, your mobile provider, your mobile device, and your ISP.  None of the information 
-	collected by our cookies or web beacons is PII.
-</p>
-<p>
-	Cookies are bits of data placed on your hard drive when you visit websites.  A cookie file contains information 
-	that can identify you anonymously and maintain your account's privacy.  We use cookies to maintain your identity 
-	between sessions so that the Site can be personalized based on your preferences or history.  We may also use 
-	cookies to track information about which pages you visit within the Site to help us gauge the effectiveness of the 
-	Site or our content.  We may also store other information such as recent searches in your session.  We use cookies 
-	to tell us, for example, whether you have visited us before or if you are a new visitor, and to help us understand 
-	what areas of the Site are of greatest interest to you.  Cookies also may enhance your online experience by saving 
-	your preferences and password so you do not have to re-enter this information each time you visit the Site.
-</p>
-<p>
-	Most web browsers automatically accept cookies, but you can configure your browser to stop accepting new cookies, to 
-	notify you when you a new cookie is received, and to disable existing cookies.  If you choose to disable cookies in 
-	your browser, however, you may not be able to take full advantage of all the Site’s features.
-</p>
-
-<div style="text-decoration:underline">Log Files</div>
-<p>
-	When you are using the Site, we automatically gather basic information from your browser, such as IP address, browser 
-	type, ISP, OS, and date/time stamps to analyze trends, administer the site, analyze bugs, and gather broad demographic 
-	information.  We do not share log files externally.
-</p>
-
-<div style="text-decoration:underline">Information About You</div>
-<p>
-  When you register to our service, you provide a variety of information to help us match you with the best possible 
-	volunteer or volunteer experience.  We display some of this information on our site publicly (such as name, location, 
-	and profile) and this information is displayed to all registered users of the Site.  We will not publicly display any 
-	of your contact information, professional experience, skills, cause interests, or volunteer biography.  Entities with 
-	whom you have been matched or other parties that you have authorized, however, will be able to view this information.
-</p>
-
-<div style="text-decoration:underline">Information From Other Web Sites</div>
-<p>
-	When associating your Catchafire account with other Internet services, we will collect information about you from your
-	 accounts on those websites.  We collect this information to help us improve our ability to match you with a volunteer 
-	 or volunteer opportunity and to improve your overall user experience on the Site.
-</p>
-
-<div style="text-decoration:underline">Email/Telephone</div>
-<p>
-	When you register for our services we require an email address that may be used for communications.  Email messages 
-  may contain code that helps our systems track your usage of these emails, including what links were clicked.  If you 
-	would rather not receive promotional email from us, please see the Choice section below.  We reserve the right to send 
-	you email regarding service announcements, administrative messages, and Privacy Policy or Terms of Use changes.
-</p>
-<p>
-	We may also contact you by telephone solely in connection with Catchafire services.  If you would rather not receive 
-	phone calls from us, please remove your phone number from your profile.
-</p>
-
-<div><b>Disclosure of Your Information to Others</b></div>
-<div style="text-decoration:underline">Opt-In Requirement</div>
-<p>
-	Without your affirmative consent, we will not sell, rent, or otherwise share your PII with other third parties, unless 
-	required as described under the Required Disclosures section below.  In the case of posting a volunteer opportunity and 
-	accepting a volunteering match, we regard this as affirmative consent and will disclose your PII with the matched party.
-</p>
-<p>
-  Notwithstanding the foregoing, we may use third party suppliers and service providers to facilitate our services, and 
-	they may have access to your PII.  For example, we may outsource one or more aspects of our Site to a supplier or 
-	service provider who performs services according to our requirements.  Although we endeavor to select only reputable 
-	companies who share our commitment to privacy and will restrict how these suppliers or service providers may use or 
-	disclose the PII to which they have access, we are in no way responsible for such third parties or their activities.
-</p>
-<p>
-  Due to factors beyond our control, we cannot fully ensure that your information will not be disclosed to third parties.  
-	For example, third parties may circumvent our security measures to unlawfully intercept or access your information.
-</p>
-
-<div style="text-decoration:underline">Search Engines and Web Crawlers</div>
-<p>
-	Certain PII that you provide through the registration process (such as name, location, and profile image) may be 
-	accessible and made public through syndication programs, search engines, crawlers, and other similar programs.
-</p>
-
-<div style="text-decoration:underline">Required Disclosures</div>
-<p>
-	We make every reasonable effort to preserve your privacy, but may need to disclose your PII when required by law
-	or if we have a belief that such action is necessary to:
-	</p><ol>
-		<li>
-			enforce the Privacy Policy or the Terms of Use;
-		</li>
-    <li>
-      comply with a judicial proceeding, court order, or legal process; or
-    </li>
-    <li>
-      protect the rights, property, or personal safety of Catchafire, its members, or others.
-    </li>
-	</ol>
-<p></p>
-<p>
-	You authorize us to disclose any information about you to law enforcement or government officials as we, in our 
-	sole discretion, believe necessary or appropriate, in connection with any investigation of illegal activity or that 
-	may expose us to liability.
-</p>
-
-<div><b>How to Review and Change Information</b></div>
-<p>
-	You may control the information you provide to us in various ways.
-</p>
-<p>
-  If you would like to change any of your information in our database, you can do so by logging onto your account and 
-	following the directions.
-</p>
-<p>
-	To cancel your account, send an email request to 
-	<a href="mailto:catchus@catchafire.org">catchus@catchafire.org</a> from the email address you provided us 
-	in your registration.
-</p>
-
-<div><b>Age Restrictions</b></div>
-<p>
-	Any person who provides information through the Site represents that they are 13 years of age or older.  
-	We do not knowingly collect PII from anyone under the age of 13.  In compliance with the Children’s Online 
-	Privacy Protection Act, any information we receive from users we believe to be under the age of 13 will be 
-	purged from our database.  If you are a parent or legal guardian of a child under age 13 who you believe 
-	has submitted personal information to the Site, please contact us immediately.
-</p>
-
-<div><b>Choice</b></div>
-<p>
-	You may use the Email Preferences features on the Site to opt-out of notificaions, promotional email and newsletters.  
-	You will also have the ability to opt-in in the event that we share your information with other third-party 
-	organizations for their marketing or promotional uses or various other programs or features.
-</p>
-
-<div><b>Contacting Us</b></div>
-<p>
-	If you have any questions or comments about the Privacy Policy, the practices of the Site, or your experiences
-	 with the Site, please contact us at <a href="mailto:catchus@catchafire.org">catchus@catchafire.org</a>.
-</p>
-
-<div><b>Privacy Policy Changes</b></div>
-<p>
-	We reserve the right to change or update the Privacy Policy at any time, and will notify users of the Site by 
-	posting such changed or updated Privacy Policy on this page.  Under certain circumstances, we may also elect to 
-	notify you of changes or updates to the Privacy Policy by additional means, such as by posting a notice on the 
-	homepage of the Site or by sending you an email.  Any changes or updates will be effective immediately upon posting 
-	to the Site and will be reflected by the Effective Date below.  Continued use of the Site following any changes 
-	shall indicate your acknowledgement of such changes and agreement to the Privacy Policy and any future revisions.
-</p>
-
-<div><b>Security</b></div>
-<p>
-	To protect your privacy and security, we take reasonable steps to verify your identity before granting profile access.  
-	You are responsible for maintaining the secrecy of your unique password and account information at all times. 
-</p>
-<p>
-The Site has reasonable safeguards to protect against the loss, misuse and alteration of the information under our 
-control.  Notwithstanding these efforts, we can make no assurances that the information you submit will be secure, 
-and that unauthorized third parties will not be successful in breaching our security measures and accessing your 
-information.  If we learn of a security systems breach, then we may attempt to notify you electronically so that 
-you can take appropriate protective steps.  By using the Site or providing personal information to us, you agree 
-that we can communicate with you electronically regarding security, privacy, and administrative issues relating to 
-your use of the Site.  If a security breach occurs, we may post a notice on the Site or send an email to you at any 
-email address you may have provided to us.
-</p>
-
-<div><b>International Users</b></div>
-<p>
-	The Site is hosted in the United States.  If you access the Site from any other region with laws or regulations
-  governing personal data collection, use and disclosure, that differ from the laws of the United States, please note 
-  that you are transferring your data to the United States which may not have the same data protection laws as other 
-  regions, and by providing your personal data you consent to:
-  </p><ol>
-  	<li>
-  	  the use of your personal data for the uses identified above in accordance with the Privacy Policy; and	
-  	</li>
-    <li>
-      the transfer of your personal data to the United States as indicated above.  
-    </li>
-  </ol>
-<p></p>
-<p>
-  Your information may be processed by us in the country where it was collected as well as other countries where laws 
-	regarding processing of information may be less stringent than the laws in your country.
-</p>
-
-<div><b>Change of Control</b></div>
-<p>
-	In the event of a change of control of Catchafire from, for example, a sale to, or merger with, another entity, or upon 
-	Catchafire’s filing for a bankruptcy, information Catchafire receives from you is a Catchafire asset and may be transferred.
-</p>
-
-<div><b>Effective Date</b></div>
-<p>
-	September 23rd, 2010
-</p>
-
-    
-  </div>
-  <script>
-    $(function(){
-      $('#section_privacy-policy').addClass('current');
-    })
-  </script>
-
-          </div>
         </div>
+        </header>
+          <div id="content" class="flatpage narrow-layout">
+            
+  <nav class="left vertical-menu">
+
+  
+  
+  <a href="/about/">About us</a>
+  
+  <a href="/case_studies/">Case studies</a>
+  
+  <a href="/about/press/">Press room</a>
+  
+  <a href="/about/careers/">Careers</a>
+  
+  <a href="/about/team/">Our team</a>
+  
+  <a href="/about/faq/">FAQ</a>
+  
+  <a href="/about/contact/">Contact us</a>
+  
+  <a class="current" href="/about/terms/">Terms</a>
+  
+  </nav>
+  <div class="main fix-float _w-overflow">
+    
+    <header class="block-header" style="background-image: url('/static/15837/images/v2/flatpages/terms_header.jpg'); height: 215px;">
+        <h1>Terms</h1>
+    </header>
+    <h2 class="section-title">Privacy Policy</h2>
+    <div class="user-gen-content">
+        <p><strong>Our Commitment to Privacy</strong>
+          <br>Catchafire is committed to protecting your privacy and will make reasonable efforts to provide you a safe and secure user experience. We aim to make our privacy policy easy to read so you that you understand our online data collection practices and usage policies for www.catchafire.org (the "Site" and any "Services"). Please note that your use of the Site and any of our Services is subject to our Terms of Use which you may access at the bottom of our homepage.  Our Privacy Policy and Terms of Service are integral to your use of our Site, therefore you must agree to both agreements before using our Site or any of our Services</p><p>
+
+	</p><p><strong>Scope of the Privacy Policy</strong><br>
+	  The Privacy Policy applies to all information you provide to Catchafire through the Site.  If you have submit information to any third parties through our Site and Service, we cannot be responsible for any information collected by those third parties. 
+	</p>
+
+	<p><strong>What This Means:  This Privacy Policy deals with our information collection practices.</strong></p><strong>
+	<p><strong>What Information We Collect</strong><br>
+	  We generally collect two types of information—personally identifiable information (<strong>"PII"</strong>) and non-personally identifiable information (<strong>"Non-PII"</strong>). PII is any information that can be used to specifically identify you as an individual. For example, you may submit and we may collect your name, email address, address, phone number, or similar information through the Site. Non-PII consists of information that does not specifically identify you. The following section describes how we collect and use your PII and Non-PII. </p>
+
+	<p><strong>What This Means:  We collect both personally identifiable and non-personally identifiable information.</strong></p>
+	<p><strong>How We Collect and Use Information</strong><br></p>
+
+	<p><em>Cookies and Beacons</em><br>
+	  Like all websites, we use cookies and other technologies, including web beacons, so that we can enhance your user experience. Web beacons and cookies collect information such as URLs you came from and go to, your browser and OS information, your IP address, your mobile provider, your mobile device, and your ISP. None of the information collected by our cookies or web beacons is PII. 
+	</p>
+
+	<p>Cookies are bits of data placed on your hard drive when you visit websites. A cookie file contains information that can identify you anonymously and maintain your account's privacy. We use cookies to maintain your identity between sessions so that the Site can be personalized based on your preferences or history. We may also use cookies to track information about which pages you visit within the Site to help us gauge the effectiveness of the Site or our content. We may also store other information such as recent searches in your session. We use cookies to tell us, for example, whether you have visited us before or if you are a new visitor, and to help us understand what areas of the Site are of greatest interest to you. Cookies also may enhance your online experience by saving your preferences and password so you do not have to re-enter this information each time you visit the Site. </p>
+
+	<p>Most web browsers automatically accept cookies, but you can configure your browser to stop accepting new cookies, to notify you when you a new cookie is received, and to disable existing cookies. If you choose to disable cookies in your browser, however, you may be unable to take full advantage of all the Site’s features. </p>
+
+	<p><em>Log Files</em><br>
+	  When you are using the Site, we automatically gather basic information from your browser, such as IP address, browser type, ISP, OS, and date/time stamps to analyze trends, administer the site, analyze bugs, and gather broad demographic information. We will not share log files externally. 
+	</p>
+
+	<p><em>Information About You</em><br>
+	  When you register with Catchafire, you may provide a variety of information to help us match you with the best possible volunteer or volunteer experience. We may display some of this information on our site publicly (such as name, location, and profile) and this information can be viewed by all registered users of the Site. We will not display any of your contact information, professional experience, skills, cause interests, or volunteer biography with the general public. However, this information may be shared either with volunteers or organizations looking for volunteers as this is the most reliable way to ensure that volunteers and organizations will be properly match.
+	</p>
+
+	<p><em>Information From Other Web Sites</em><br>
+	  When associating your Catchafire account with other Internet services, we will collect any information that you make available  from your accounts on those websites. We collect this information to help us improve our ability to match you with a volunteer or volunteer opportunity and to improve your overall user experience on the Site. 
+	</p>
+
+	<p><em>Email/Telephone</em><br>
+	  When you register for our services we require an email address that may be used for communications. Email messages may contain code that helps our systems track your usage of these emails, including what links were clicked. If you would rather not receive promotional email from us, please see the "Choice" section below. We reserve the right to send you email regarding service announcements, administrative messages, and Privacy Policy or Terms of Use changes. 
+	</p>
+
+	<p>We may also contact you by telephone solely in connection with Catchafire services. If you would rather not receive phone calls from us, please remove your phone number from your profile. </p>
+	
+	<p><strong>What This Means:  We collect information through your use of the Site, by email, through cookies, and log files, among other things.
+	</strong></p>
+
+	
+	<p><strong>Disclosure of Your Information to Others</strong></p>
+	<p><em>Opt-In Requirement</em> <br>
+	  Without your affirmative consent, we will not sell, rent, or otherwise share your PII with other third parties, unless required as described under the Required Disclosures section below. In the case of posting a volunteer opportunity and accepting a volunteering match, we regard this as affirmative consent and will disclose your PII with the matched party. </p>
+	
+	<p>However, we may use third party suppliers and service providers to facilitate our services, and they may have access to your PII. For example, we may outsource one or more aspects of our Site to a supplier or service provider who performs services according to our requirements. Although we endeavor to select only reputable companies who share our commitment to privacy and will restrict how these suppliers or service providers may use or disclose the PII to which they have access, we are in no way responsible for such third parties or their activities. Therefore, you agree to allow us to give your information to third party suppliers and service providers in order for us to provide service to you.</p>
+
+	<p>Due to factors beyond our control, we cannot fully ensure that your information will not be disclosed to third parties. For example, third parties may circumvent our security measures to unlawfully intercept or access your information. </p>
+
+	<p><em>Search Engines and Web Crawlers</em><br>
+	  Certain PII that you provide through the registration process (such as name, location, and profile image) may be accessible and made public through syndication programs, search engines, crawlers, and other similar programs.</p>
+	
+	<p><em>Required Disclosures</em><br>
+	      We make every reasonable effort to preserve your privacy, but may need to disclose your PII when required by law or if we have a belief that such action is necessary to: </p>
+	<ol>
+	  <li>enforce the Privacy Policy or the Terms of Use;</li>
+	  <li>comply with a judicial proceeding, court order, or legal process; or </li>
+	  <li>protect the rights, property, or personal safety of Catchafire, its members, or others.</li>
+	</ol>
+
+	<p>You authorize us to disclose any information about you to law enforcement or government officials as we, in our sole discretion, believe is necessary or appropriate, in connection with any investigation of illegal activity or that may expose us to liability. </p>
+	
+	<p><strong>What This Means:  We will never sell your information without your consent.  However, some of your information may be disclosed through search engines, to third party contractors, or where required.</strong></p>
+	<p><strong>How to Review and Change Information</strong></p>
+
+	<p>You may control the information you provide to us in various ways. 
+	</p>
+	<p>If you would like to change any of your information in our database, you can do so by logging onto your account and following the directions. </p>
+	<p>To cancel your account, send an email request to 
+	  <a href="mailto:help@catchafire.org"> help@catchafire.org</a> from the email address you provided us in your registration.</p>
+
+	<p><strong>What This Means:  You may change your information by accessing your online account.</strong></p>
+	<p><em>Age Restrictions</em><br>
+	  Any person who provides information through the Site represents that they are 13 years of age or older. We do not knowingly collect PII from anyone under the age of 13.   Our Site and Service are not designed for users under 13. In compliance with the Children’s Online Privacy Protection Act, we will purge any information we receive that we believe is from a user under the age 13 upon discovery of such information. If you are a parent or legal guardian of a child under age 13 who you believe has submitted personal information to the Site, please contact us immediately. </p>
+
+	<p><strong>What This Means:  In order to use Catchafire, you must be 18, or at a minimum 13 with a parent or guardian’s consent.</strong></p>
+
+	<p><em>Text Messaging</em>
+	  By providing your cell phone number to Catchafire, you expressly consent to receiving informational text messages regarding your Catchafire account.  Please be aware that you may opt out of the text messages by notifying Catchafire at <a href="mailto:help@catchafire.org">help@catchafire.org</a> or through the text message itself.  If you have any questions, do not hesitate to contact us.</p>
+
+	<p><strong>What This Means:  Your cellphone number may be contacted to send you informational text messages from Catchafire.</strong></p>
+	<p><strong>Choice</strong><br>
+	  You may use the Email Preferences features on the Site to opt-out of notifications, promotional emails and newsletters. You will also have the ability to opt-in in the event that we share your information with other third-party organizations for their marketing or promotional uses or various other programs or features.   If you wish to be removed from any communications simply respond to the link provided in the email or email us at <a href="mailto:help@catchafire.org">help@catchafire.org</a>.</p>
+
+	<p><strong>What This Means:  You may opt-in or out of emails from us.</strong></p>
+
+	<p><strong>Contacting Us</strong><br>
+	  If you have any questions or comments about the Privacy Policy, the practices of the Site, or your experiences with the Site, please contact us at <a href="mailto:help@catchafire.org">help@catchafire.org</a>. </p>
+
+	<p><strong>What This Means:  If you have questions contact us.</strong>
+	  </p>
+
+	<p><strong>Privacy Policy Changes</strong><br>
+We reserve the right to change or update the Privacy Policy at any time, and will notify users of the Site by posting such changed or updated Privacy Policy on this page. Under certain circumstances, we may also elect to notify you of changes or updates to the Privacy Policy by additional means, such as by posting a notice on the homepage of the Site or by sending you an email. Any changes or updates will be effective immediately upon posting to the Site and will be reflected by the Effective Date below. Continued use of the Site following any changes shall indicate your acknowledgement of such changes and agreement to the Privacy Policy and any future revisions. </p>
+
+	<p><strong>What This Means:  When we make changes we will change this Privacy Policy or we may contact you.</strong></p>
+
+	<p><strong>Security</strong><br>
+	  To protect your privacy and security, we take reasonable steps to verify your identity before granting profile access. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+	</p>
+
+	<p>The Site has reasonable safeguards to protect against the loss, misuse and alteration of the information under our control.  However, as this is the internet we can make no assurances or guarantees that your information will be 100% safe.  For this reason we recommend you take appropriate measures such as protecting your passwords, using firewalls or downloading anti-virus software. If we learn of a security systems breach, then we may attempt to notify you electronically through our Site or by email so that you can take appropriate protective steps. By using the Site or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. </p>
+
+	<p><strong>What This Means:  We will attempt to protect your information; however, we cannot make a 100% guarantee that it will be secure.</strong></p>
+	
+	<p><strong>International Users</strong><br>
+	  The Site is hosted in the United States.  All information that is submitted by you is stored and processed within the US, which may not have the same data protection and privacy laws as your country.  For your personal information, you agree to:</p>
+
+	<ol>
+	  <li>the use of your personal data for the uses identified above in accordance with the Privacy Policy; and </li>
+	  <li>the transfer of your personal data to the United States as indicated above. </li>
+	</ol>
+
+	<p>Please be aware that your information may also be processed by us in the country where it was collected as well as other countries where laws regarding processing of information may be less stringent than the laws in your country. </p>
+
+	<p><strong>What This Means:  Your information may be stored or processed in the US.</strong></p>
+
+	<p><strong>Change of Control</strong><br>
+In the event of a change of control of Catchafire from, for example, a sale to, or merger with, another entity, or upon Catchafire’s filing for a bankruptcy, information Catchafire receives from you is a Catchafire asset that may be transferred. </p>
+
+	<p><strong>What This Means:  Your information may be transferred upon sale of Catchafire.</strong></p>
+
+	<p><strong>California Privacy Rights</strong>
+	  Catchafire permits residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at <a href="mailto:help@catchafire.org">help@catchafire.org</a> with any questions.</p>
+
+	<p><strong>What This Means:  Californians are entitled to certain disclosures, contact us if you have any questions.</strong></p>
+	
+
+	<p>Last updated: July 24, 2013</p>
+    </strong></div><strong>
+
+  </strong></div><strong>
+
+          </strong></div><strong>
+        </strong></div><strong>
         <div id="footer">
           <section class="quotes">
             <div class="container">
@@ -481,12 +383,12 @@ email address you may have provided to us.
                   <h2>Talent × purpose.</h2>
                 </hgroup>
                 <ol>
-                  <li><a href="/about/us">About</a></li>
+                  <li><a href="/about/">About</a></li>
                   <li><a href="http://blog.catchafire.org/" target="_blank">Blog</a></li>
-                  <li><a href="/about/careers">Careers</a></li>
-                  <li><a href="/about/contact">Contact</a></li>
-                  <li><a href="/about/faq">FAQ</a></li>
-                  <li><a href="/about/press">Press</a></li>
+                  <li><a href="/about/careers/">Careers</a></li>
+                  <li><a href="/about/contact/">Contact</a></li>
+                  <li><a href="/about/faq/">FAQ</a></li>
+                  <li><a href="/about/press/">Press</a></li>
                 </ol>
               </nav>
 
@@ -506,7 +408,9 @@ email address you may have provided to us.
 
                 
                 <form id="newsletter" method="POST" action="/newsletter/signup">
-      <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="1WO15VNDb0UdGPL8R4tqmbFhklQMb6Ku"></div>
+
+      <input type="hidden" name="csrfmiddlewaretoken" value="NMOsPRAKlxS14M2pvaco3CqR1upFscLS">
+
   <div class="right news-submit left-5"><button tabindex="2" class="small" id="newsletter_signup_submit">Sign up</button></div>
   <div class="fix-float full news-email"><input tabindex="1" type="email" name="email" id="id_email" placeholder="Enter email…"></div>
 
@@ -527,25 +431,25 @@ email address you may have provided to us.
                   <h2>and beyond…</h2>
                 </hgroup>
 
-                <a href="/about/team" class="button small">Meet the team</a>
+                <a href="/about/team/" class="button small">Meet the team</a>
 
                 <div class="avatars">
                 
                   
-                    <a href="/about/team/#mary-telesco"><img src="//www.catchafire.org/media/314/images/staff_members/DSC_0162.JPG" width="60" height="60" alt=""></a>
+                  <a href="/about/team/#jason-everitt"><img src="https://catchafire.org/media/15837/images/staff_members/jason.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#ryan-matthews"><img src="//www.catchafire.org/media/314/images/staff_members/ryan.jpg" width="60" height="60" alt=""></a>
+                  <a href="/about/team/#joe-cravo"><img src="https://catchafire.org/media/15837/images/staff_members/joe.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#sarah-platts"><img src="//www.catchafire.org/media/314/images/staff_members/DSC_0094.jpg" width="60" height="60" alt=""></a>
+                  <a href="/about/team/#priyanka-prakash"><img src="https://catchafire.org/media/15837/images/staff_members/priyanka.jpg" width="60" height="60" alt=""></a>
                   
-                    <a href="/about/team/#dana-raviv"><img src="//www.catchafire.org/media/314/images/staff_members/dana.jpg" width="60" height="60" alt=""></a>
+                  <a href="/about/team/#bridget-mcgovern"><img src="https://catchafire.org/media/15837/images/staff_members/bridget.jpg" width="60" height="60" alt=""></a>
                   
 
                 </div>
 
                 <p class="copyright">© 2012 Catchafire, Inc.
-                <a href="/about/privacy">Privacy</a>
-                <a href="/about/terms">Terms</a></p>
+                <a href="/about/terms/privacy/">Privacy</a>
+                <a href="/about/terms/">Terms</a></p>
               </section>
             </div>
           </footer>
@@ -596,6 +500,7 @@ email address you may have provided to us.
 
       
 
+      
       <script>
         var uservoiceOptions = {
           /* required */
@@ -634,6 +539,7 @@ email address you may have provided to us.
       
       
       
+      
 
       <noscript>
         <div class="noscript-banner">
@@ -641,14 +547,16 @@ email address you may have provided to us.
           <p>Please follow these simple instructions to <a href="http://www.activatejavascript.org" target="_blank">enable JavaScript in your web browser</a>.</p>
         </div>
       </noscript>
+        
+
 
       
       
-        <script src="//www.catchafire.org/media/314/gen/site.min.js"></script>
+        <script src="/static/15837/gen/site.min.js"></script>
       
 
       
-        <script src="//www.catchafire.org/media/314/gen/footer.js"></script>
+        <script src="/static/15837/gen/footer.js"></script>
       
 
       
@@ -670,6 +578,7 @@ email address you may have provided to us.
           })();
         </script>
       
+
         <script>
           
           ieVersion = getInternetExplorerVersion();
@@ -686,7 +595,12 @@ email address you may have provided to us.
         a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/7366.js?"+Math.floor(new
         Date().getTime()/3600000);
         a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        if ($.browser.msie && $.browser.version >= 6) {
+          $("html").addClass("ie");
+        }
       </script>
-    
+      
+      
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"161d4b3ad0","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"Yl1WMUdSWBZWVUFZDVsXchBbUEIMWFgaVAhUVlMKalBXAxlfW1YNRVlTAEYdQAxSQUYKNlBKWRZlQV8TVlVMZgtQTw==","applicationID":"2799457","errorBeacon":"bam.nr-data.net","applicationTime":51}</script>
 
-</body></html>
+</strong><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
