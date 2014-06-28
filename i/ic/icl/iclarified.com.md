@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclarified.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213191650id_/http%3A//www.iclarified.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclarified.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080032id_/http%3A//www.iclarified.com/about/privacy.php) for the most accurate reproduction.*
 
 # iClarified - Privacy
 
