@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desi-tashan.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206133213id_/http%3A//www.desi-tashan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desi-tashan.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020441id_/http%3A//www.desi-tashan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Desi Tashan
 
@@ -33,3 +33,7 @@ Children under the age of 13 are not permitted to register with Desi-Tashan. It 
 **8\. YOUR RIGHTS**
 
 You are entitled to access and correct your Data by requesting to do so via the Contact us section, or by sending an email to support@Desi-Tashan.net. 
+
+**9\. Opt-Out**
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
