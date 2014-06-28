@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africabeauties.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231015344id_/http%3A//www.africabeauties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africabeauties.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628103918id_/http%3A//www.africabeauties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,9 +67,13 @@ We may use information to:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by AfricaBeauties.com.
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by [AfricaBeauties.com](https://web.archive.org/web/20140628103918id_/http%3A//www.africabeauties.com/africabeauties.com/) and its affiliates and related entities.
 
 We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
+
+### Company address:
+
+103 Sham Peng Tong plaza, Victoria, Mahe, Seychelles
 
 ### Linking To Other Sites:
 
@@ -122,6 +126,8 @@ AfricaBeauties.com has VeriSign and McAfee secure certificates demonstrating tha
 Please note that whenever you submit any information to us in connection with any AfricaBeauties.com related services, you consent to AfricaBeauties.com processing of this information in the United States/Africa as necessary to provide the services in which you are participating.
 
 If you have any questions, comments or complaints about AfricaBeauties.com privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
+
++1 (800) 511-8604
 
 ### Acceptance of Privacy Statement
 
