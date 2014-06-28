@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the berkeleywellness.com privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821161540id_/http%3A//www.berkeleywellness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkeleywellness.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628054833id_/http%3A//www.berkeleywellness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkeley Wellness
-
-August 21, 2013
 
 BerkeleyWellness.com is part of the Remedy Health Media family The following Privacy Policy applies to all the health sites that Remedy Health Media publishes.
 
