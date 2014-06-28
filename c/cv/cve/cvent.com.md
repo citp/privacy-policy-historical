@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208040208id_/http%3A//www.cvent.com/en/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628203341id_/http%3A//www.cvent.com/en/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
@@ -34,7 +34,7 @@ Aggregate Data. Cvent may share reports with third parties based on aggregated d
 
 Event Registration. Cvent customers may invite guests to register for events created in the Cvent application. If a user/guest chooses to register for an event and provides Personal Information during registration, that information is transferred to the event Planner and event Planner’s organization. Similarly, survey responses submitted will be presented to Planner after submission. Any information collected by Cvent on behalf of a customer is owned in its entirety by the customer. Cvent is not responsible for the privacy practices of its customers.
 
-Special Circumstances. Cvent may disclose Personal Information when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who is violating Cvent’s [Terms of Use](http://www.cvent.com/en/terms-of-use.shtml) or may be causing injury to or interference with other Cvent users or anyone else who could be harmed by such activities.
+Special Circumstances. Cvent may disclose Personal Information when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who is violating Cvent’s [Terms of Use](http://www.cvent.com/en/product-terms-of-use.shtml) or may be causing injury to or interference with other Cvent users or anyone else who could be harmed by such activities.
 
 IP Addresses. Cvent may use user IP addresses to diagnose problems with Cvent servers and to administer the Cvent application.
 
