@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118093155id_/http%3A//foxrentacar.com/about-fox/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxrentacar.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629014053id_/http%3A//www.foxrentacar.com/about-fox/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
