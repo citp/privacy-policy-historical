@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127045051id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628234355id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Action Based MMOTPS, Post-Apocalyptic MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
@@ -140,7 +140,7 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 **DISCLOSURES REQUIRED BY LAW AND DISCLOSURES TO HELP PROTECT THE SECURITY AND SAFETY OF OUR WEBSITES AND OTHERS**
 
-Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our [_Terms of Use_](http://gamersfirst.com/terms_of_use.php) or any contest rules.  We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena. 
+Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our [_Terms of Use_](https://web.archive.org/?q=terms) or any contest rules.  We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena. 
 
 **AGGREGATE INFORMATION**
 
