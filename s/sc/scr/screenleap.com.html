@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the screenleap.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508082538id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the screenleap.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628134413id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Privacy Policy | Screenleap</title>
@@ -7,9 +7,9 @@
 <meta name="description" content="Screenleap's Privacy Policy explains how we gather, use, and manage the data for users of the Screenleap service.">
 <meta property="og:site_name" content="Screenleap">
 <meta property="og:image" content="http://www.screenleap.com/img/facebook_thumbnail.png">
-<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367664366000/style.css" type="text/css" media="screen"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1363252036000/print.css" type="text/css" media="print"><!--[if lt IE 10]>
-    <link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/desktop.css" type="text/css" media="screen"><![endif]-->
-<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/desktop.css" type="text/css" media="only screen and (min-device-width: 769px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/mobile.css" type="text/css" media="only screen and (max-device-width: 356px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1367127674000/tablet.css" type="text/css" media="only screen and (min-device-width: 357px) and (max-device-width: 768px)"><link rel="shortcut icon" type="image/png" href="/favicon.ico">
+<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1402107911/style.css" type="text/css" media="screen"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1382148066/print.css" type="text/css" media="print"><!--[if lt IE 10]>
+    <link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1399695721/desktop.css" type="text/css" media="screen"><![endif]-->
+<link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1399695721/desktop.css" type="text/css" media="only screen and (min-device-width: 769px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1389826246/mobile.css" type="text/css" media="only screen and (max-device-width: 356px)"><link rel="stylesheet" href="http://d2e4kn0wu3avrd.cloudfront.net/css/1389826246/tablet.css" type="text/css" media="only screen and (min-device-width: 357px) and (max-device-width: 768px)"><link rel="shortcut icon" type="image/png" href="/favicon.ico">
 </head>
 <body id="" class="marketing linux ">
 
@@ -24,7 +24,14 @@
             window.onload = func;
         else {
             var oldOnload = window.onload;
-            window.onload = function(){try{oldOnload()}catch(e){logException(e)}func();}
+            window.onload = function(){
+                try{
+                    oldOnload();
+                } catch(e) {
+                    logException(e);
+                }
+                func();
+            }
         }
     }
 </script>
@@ -34,12 +41,10 @@
         <div class="margin">
             <div class="float-right">
                 <ul>
-                    <li class="hide-on-handheld"><form action="/web.application/redirectviewertoappserver" method="post" accept-charset="utf-8" enctype="application/x-www-form-urlencoded" id="viewForm" onsubmit="return viewScreen()"><input type="hidden" name="authenticityToken" value="a79e58a7ef0e443af731b5f495a9cb1a5e7bb5c0">
-<input name="screenShareCode" type="text" id="screenShareCode" value="" placeholder="Have a share code?" autocomplete="off" onkeyup="return shareCodeFieldKeyUp(event, this)" onfocus="return hideScreenCodePlaceholder(this)" onblur="return showScreenCodePlaceholder(this)">
-</form></li>
-                    <li class="hide-on-handheld nav-separator"><a href="#" onclick="$('#viewForm').submit();return false">Join screen share</a></li>
-                                                            <li class="nav-separator"><a href="/signup">Sign up</a></li>
-                    <li><a href="/login">Sign in</a></li>
+                    <li class="hide-on-handheld"><form action="http://www.screenleap.com/viewer" method="post" id="viewForm" onsubmit="return viewScreen()"><input name="screenShareCode" type="text" id="screenShareCode" value="" placeholder="Enter share code" autocomplete="off" onkeyup="return screenleapShareCodeFieldKeyUp(event, this)" onfocus="return hideScreenCodePlaceholder(this)" onblur="return showScreenCodePlaceholder(this)"></form></li>
+                    <li class="hide-on-handheld nav-separator"><a href="#" onclick="$('#viewForm').submit();return false">View screen share</a></li>
+                                        <li class="nav-separator"><a href="/pricing" id="topBarSignupLink">Pricing &amp; Sign up</a></li>
+                    <li><a href="https://www.screenleap.com/login">Sign in</a></li>
                                     </ul>
             </div>
             <div id="logo">
@@ -47,13 +52,13 @@
             </div>
         </div>
     </div>
-    <div id="topBarBannerBottom" class="hide-on-handheld"></div>
 </div>
 <div class="relative">
     <div id="topBarBanner">
         <div class="w960px">
-            <div class="margin"><div id="shareButtonDiv" class="hide-on-handheld"><button id="shareButton" onclick="checkAndStartSharing('')"></button></div><div class="page-title">Privacy Policy</div></div>
+            <div class="margin"><div id="shareButtonDiv" class="hide-on-handheld"><button id="shareButton" onclick="checkAndStartSharing('http://www.screenleap.com', false)"></button></div><div class="page-title">Privacy Policy</div></div>
         </div>
+        <div id="topBarBannerBottom"></div>
     </div>
 </div>
 <div id="content">
@@ -63,7 +68,7 @@
     <br>
     <p class="float-right gray italic">Last updated September 28, 2012</p>
     <p class="gray italic">Effective November 1, 2011</p>
-    <p>We at Screenleap that you care about how your personal information  is used and shared, and we take
+    <p>We at Screenleap know that you care about how your personal information is used and shared, and we take
         your privacy seriously.  Please read the following to learn more about our Privacy Policy.  <strong>By visiting
         or using our various websites (collectively, the "Website"), API ("API"), or services (collectively, the "Services"),
         acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby
@@ -82,7 +87,7 @@
         We collect the following types of information from our customers:</p>
     <p><strong>A. Personal Information You Provide to Us:</strong></p>
     <p>We receive and store any information you provide to us.  The types of Personal Information collected may include
-        your name, phone number, email address, friends names, credit card information, IP address, and browser
+        your name, phone number, email address, credit card information, IP address, and browser
         information.  You can choose not to provide us with certain information, but then you may not be able to take
         advantage of many of our special features.  We use the Personal Information you provide to enhance your Website
         experience.</p>
@@ -184,11 +189,14 @@
 </div>
         </div>
     </div>
+    <div id="topBarBannerBottom"></div>
 </div>
 <div id="footer">
     <div class="w960px">
         <div class="margin"><ul class="clearfix">
-    <li><a href="/how-to-share-your-screen">Products</a></li>
+    <li><a href="/how-to-share-your-screen">Tour</a></li>
+    <li>|</li>
+    <li><a href="/screen-share">Products</a></li>
     <li>|</li>
     <li><a href="/support">Support</a></li>
     <li>|</li>
@@ -196,59 +204,57 @@
     <li>|</li>
     <li><a href="/about">Company</a></li>
     <li>|</li>
-    <li><a href="http://blog.screenleap.com/" class="primary">Blog</a></li>
+    <li><a href="http://blog.screenleap.com/">Blog</a></li>
     <li>|</li>
     <li><a href="/terms">Terms</a></li>
     <li><a href="/privacy">Privacy</a></li>
 </ul>
-<div class="inline-block float-right" id="social"><div class="inline-block relative"><div id="fb-root"></div><fb:like href="http://www.screenleap.com/" layout="button_count" width="100" show_faces="false" font="arial"></fb:like></div> <div class="inline-block relative" style="top:3px"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.screenleap.com/" data-text="Free instant screen sharing: ">Tweet</a></div></div>
-<div id="copyright">Copyright © 2012 Screenleap, Inc. All rights reserved.</div>
+<div id="social" class="inline-block float-right middle"><div class="inline-block" style="line-height:normal"><div id="fb-root"></div><fb:like href="http://www.screenleap.com/" layout="button_count" width="100" show_faces="false" font="arial"></fb:like></div> <div class="inline-block middle"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.screenleap.com/" data-text="Free instant screen sharing: ">Tweet</a></div></div>
+<div id="copyright">Copyright © 2014 Screenleap, Inc. All rights reserved.</div>
 </div>
     </div>
 </div>
-<div id="screenleapExtensionProperties" style="display:none"><!-- used for communication with screenleap extension --></div>
+
+<div id="screenleapDiv" style="position:fixed;right:1px;bottom:1px;visibility:hidden;width:1px;height:1px"></div>
+<div id="screenleapExtensionProperties" style="display:none"></div>
+
 <span id="currentPath">/privacy</span>
-<div id="mBar" class="m-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideUserMessage('mBar');return false" class="button">OK</a></div><div id="mBarMsg"></div></div></div></div>
-<div id="wBar" class="w-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideWarningMessage('wBar');return false" class="button">OK</a></div><div id="wBarMsg"></div></div></div></div>
-<div id="eBar" class="e-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideErrorMessage('eBar');return false" class="button">OK</a></div><div id="eBarMsg"></div></div></div></div>
-<div id="progressBar"><span id="progressBarText"></span>...<img src="/img/indicator.gif" class="indicator" alt=""></div>
-<script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350941804000/jquery-ui.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1354184199000/underscore.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1354086280000/backbone.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1367213718000/tools.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1367664366000/screenleap-api.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1364622087000/dev.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1366437710000/main.min.js" type="text/javascript"></script><script type="text/javascript">
+<script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350932914/jquery.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1354085879/backbone-min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1403938972/tools.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1393977781/dev.min.js" type="text/javascript"></script><script type="text/javascript">
         addOnload(function(){
         window.onerror = reportJavaScriptError;
-        isDebugEnabled = false;
     });
-        var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-7169850-14']);
-    _gaq.push(['_setDomainName', 'screenleap.com']);
-    _gaq.push(['_addIgnoredRef', 'screenleap.com']);
-    _gaq.push(['_trackPageview']);
-    try {
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    }
-    catch (e){}
-    addOnload(function(){
-        (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");
-        b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+
-        '//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';d=c.getElementsByTagName("script")[0];
-        d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){
-        var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(
-        Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=a[f]=[]:
-        f="mixpanel";g.people=g.people||[];h=['disable','track','track_pageview','track_links',
-        'track_forms','register','register_once','unregister','identify','alias','name_tag','set_config',
-        'people.set','people.set_once','people.increment','people.track_charge','people.append'];
-        for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.2;})(document,window.mixpanel||[]);
-        mixpanel.init("5ea941313b8258887dc0c648cca2d328");
-            });
-            </script>
-<script type="text/javascript">
+                var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-7169850-14']);
+        _gaq.push(['_setDomainName', 'screenleap.com']);
+        _gaq.push(['_addIgnoredRef', 'screenleap.com']);
+        _gaq.push(['_trackPageview']);
+        try {
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        } catch (e){}
+                </script>
+<div id="mBar" class="m-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideUserMessage('mBar');return false" class="button" id="mBarOk">OK</a></div><div id="mBarMsg"></div></div></div></div>
+<div id="wBar" class="w-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideWarningMessage('wBar');return false" class="button">OK</a></div><div id="wBarMsg"></div></div></div></div>
+<div id="eBar" class="e-bar"><div class="clearfix"><div class="bar-con"><div class="float-right"><a href="#" onclick="hideErrorMessage('eBar');return false" class="button" id="eBarOk">OK</a></div><div id="eBarMsg"></div></div></div></div>
+<div id="progressBar"><span id="progressBarText"></span>...<img src="http://d2e4kn0wu3avrd.cloudfront.net/img/1350932914/indicator.gif" class="indicator" alt=""></div>
+<script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1350932914/jquery-ui.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1403938972/screenleap.min.js" type="text/javascript"></script><script src="http://d2e4kn0wu3avrd.cloudfront.net/js/1402107911/main.min.js" type="text/javascript"></script><script type="text/javascript">
     addOnload(function(){
         if (isMSIE)
-            $('#screenShareCode').addClass('gray-dark').val(document.getElementById('screenShareCode').getAttribute('placeholder'));
-                        loadSocialButtons();
+            $('#screenShareCode').addClass('gray-dark').val($('#screenShareCode').attr('placeholder'));
+                                loadSocialButtons();
+        
+        if (typeof screenleap != 'undefined') {
+            screenleap.error = function(action, msg, data) {
+                if (action == 'startSharing' && data && data.status == 401) {
+                    showErrorMessage('You need to sign in to share using the Screenleap extension. To do so, please click the Screenleap icon to the right of your browser address bar and then click the \"Sign in\" link. After signing in, please click the share button again.');
+                } else {
+                    log('Encountered error in screenleap.js ' + msg + ' while performing action ' + action);
+                }
+            };
+        }
     });
 </script>
 
