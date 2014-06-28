@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigasoft.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509073114id_/http%3A//www.bigasoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigasoft.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628083325id_/http%3A//www.bigasoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Bigasoft Privacy
 
@@ -66,6 +66,14 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 Contact Information
 
-Bigasoft welcomes your comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20130509073114id_/http%3A//www.bigasoft.com/contact.html "Bigasoft - Contact Bigasoft") by e-mail.
+Bigasoft welcomes your comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20140628083325id_/http%3A//www.bigasoft.com/contact.html "Bigasoft - Contact Bigasoft") by e-mail.
 
  _Last updated June 25, 2009_
+
+## Money-Back Guarantee
+
+60-Day Unconditional   
+Money-Back Guarantee
+
+  
+
