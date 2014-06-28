@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2013-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130714111639id_/http%3A//www.all4cellular.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171026id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - All4Cellular.com we carry Batteries, Cases, Chargers, Headsets and Much More
+# A4C.com: a4c.com: Privacy Policy Shopping for Electronics, Cellphone
 
 ## Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-  * **All4cellular.com does not, and will never, store your credit card number on our servers.** That means your information goes directly to the payment processors, and we cannot access it.
-  * **We do not give away your email address. Period.** All4cellular will never give, sell, rent, exchange or otherwise share your email address, or other personal information, with anyone else without your prior consent.
+  * **A4C.com does not, and will never, store your credit card number on our servers.** That means your information goes directly to the payment processors, and we cannot access it.
+  * **We do not give away your email address. Period.** A4C will never give, sell, rent, exchange or otherwise share your email address, or other personal information, with anyone else without your prior consent.
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
   * We will only retain personal information as long as necessary for the fulfillment of those purposes.
