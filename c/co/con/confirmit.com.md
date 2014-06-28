@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114104127id_/http%3A//www.confirmit.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confirmit.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022135id_/http%3A//www.confirmit.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Confirmit
 
 Your privacy is important to Confirmit. This policy discloses the information practices for Confirmit Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
-This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by Confirmit, Inc. (“CONFIRMIT”). CONFIRMIT complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>.
+## Safe Harbor Standards
+
+This Safe Harbor Privacy Statement (the "Statement") sets forth the privacy principles followed by Confirmit, Inc. (“CONFIRMIT”). CONFIRMIT complies with the U.S.-EU Safe Harbor Framework and with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor/>
+
+## PHISHING Emails That Reference Confirmit
 
 We have been informed that e-mails with the subject “Important Information Regarding Your XXXX Account” are being sent by parties not affiliated with Confirmit.
 
@@ -14,15 +18,26 @@ Confirmit is not responsible for the content of these emails. If you believe tha
 
 Note that Confirmit, as a provider of online survey software, enables its customers to send emails to individuals asking them to participate in market research surveys, or to provide customer and employee feedback. Confirmit does not authorize, approve or in any other way bear responsibility for emails sent out by clients under the terms of their contract to license Confirmit.
 
-CONFIRMIT is a feedback management software platform that enables businesses to gather feedback from customers and employees, and take action to improve business processes. With CONFIRMIT, clients create their own surveys or feedback solutions, and send them to customers, employees, or other third parties. We are a Software as a Service (SaaS) provider. As such, our clients, using our software, collect information from end users via our proprietary software packages. We may also collect information from users of CONFIRMIT’s website at [www.confirmit.com](http://www.confirmit.com/home.aspx) (“CONFIRMIT’s Website”). Our methods for collection and use of information depend on whether the user is using CONFIRMIT’s Website (a “CONFIRMIT User”) or accessing our service on one of our SaaS sites (an “SaaS User”).
+## WHAT is Confirmit?
 
-* For the first category, Confirmit acts as a SaaS provider for companies conducting data collection and reporting activities via the Internet. You may be sent a web survey to fill in, and the template of the survey may state "Powered by Confirmit". Web surveys launched by Confirmit Customers may be hosted on Confirmit's SaaS environment (survey.confirmit.com and author.confirmit.com), or alternatively they may be hosted on our customer's own hosting environment (other www-addresses). In any of these cases, please be aware that it is our customers who are performing the data collection that have the responsibility for who they collect data from, what e-mail invitation they send out, and how they use the collected data. Confirmit is acting solely as a data processor (as defined in the EU Data Protection Directive), whereas our customer is the data controller. In such cases, please refer to the privacy policy of the Confirmit customer who sent you the web survey.
+CONFIRMIT is a feedback management software platform that enables businesses to gather feedback from customers and employees, and take action to improve business processes. With CONFIRMIT, clients create their own surveys or feedback solutions, and send them to customers, employees, or other third parties. We are an Software as a Service (SaaS) provider. As such, our clients, using our software, collect information from end users via our proprietary software packages. We may also collect information from users of CONFIRMIT’s website at <http://www.confirmit.com/home.aspx>  (“CONFIRMIT’s Website”). Our methods for collection and use of information depend on whether the user is using CONFIRMIT’s Website (a “CONFIRMIT User”) or accessing our service on one of our SaaS sites (an “SaaS User”).
 
-NOTE: For information about cookies when you use our SaaS environment, please refer to our [Cookie Policy](https://web.archive.org/home/cookie-policy.aspx). We do not use cookies in surveys you are invited to take via an e-mail invitation with a clickable link, or via pop-ups, but the party delivering the survey to you may.
+## Two main categories of Confirmit sites
 
-* The second category of sites we manage, is related to information offered by Confirmit to customers, prospects and other visitors (the Confirmit website, the Confirmit Extranet, etc).
+Confirmit runs two main categories of Internet sites:
 
-The remaining of this policy is related to this latter type of sites. 
+  1. For the first category, Confirmit acts as a SaaS provider for companies conducting data collection and reporting activities via the Internet. You may be submitted a web surveys to fill in, and the template of the survey may state "Powered by Confirmit". Web surveys launched by Confirmit Customers may be hosted on Confirmit's SaaS environment (survey.confirmit.com and author.confirmit.com), or alternatively they may be hosted on our customer's own hosting environment (other www-addresses). In any of these cases, please be aware that it is our customers who are performing the data collection that have the responsibility for who they collect data from, what e-mail invitation they send out, and how they use the collected data. Confirmit is acting solely as a data processor (as defined in the EU Data Protection Directive), whereas our customer is the data controller. In such cases, please refer to the privacy policy of the Confirmit customer who sent you the web survey.
+
+
+
+**_NOTE: For information about cookies when you use our SaaS environment, please refer to our Cookie Policy http://www.confirmit.com/legals/cookie-policy.aspx._** We do not use cookies in surveys you are invited to take via an e-mail invitation with a clickable link, or via pop-ups, but the party delivering the survey to you may. 
+
+  1. The second category of sites we manage, is related to information offered by Confirmit to customers, prospects and other visitors (the Confirmit website, the Confirmit Extranet, etc).
+
+**_The remaining of this policy is related to this latter type of sites._**
+
+
+
 
 ## Personal information
 
@@ -44,7 +59,7 @@ The information you provide to Confirmit on certain Confirmit Web sites may also
 
 ## Confirmit Career Web Sites (including Recruitment)
 
-In connection with a job application or inquiry, whether advertised on a Confirmit Web site or otherwise, you may provide us with information about yourself, such as a resumé or curriculum vitae. We may use this information throughout Confirmit and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
+In connection with a job application or inquiry, whether advertised on an Confirmit Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Confirmit and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.
 
 ## Surveys
 
@@ -78,17 +93,83 @@ Also, when we collect personal data from you in a transaction, we may extract so
 
 We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Confirmit pages use cookies, sent by Confirmit or its third party vendors, or other technologies to better serve you when you return to the Web site.
 
-NOTE: You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+**NOTE** : You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
 
 Here are the details of the cookies we collect:
 
-Type of cookie | What is it, and what does it do | Privacy Intrusiveness Level  
+**_Type of cookie_**
+
+| 
+
+**_What is it, and what does it do_**
+
+| 
+
+**_Privacy Intrusiveness Level_**  
+  
 ---|---|---  
-Social Media Buttons | Keep track if you've previously liked or promoted a page or website from social networks | Third Party Cookie. Low Privacy Intrusiveness.  
-Youtube Video | Gathers anonymous statistics on video interation | Third Party Cookie. Low Privacy Intrusiveness.  
-Login Cookies | Remembers your login into private sections of the Extranet | Session Cookie. Low Privacy Intrusiveness.  
-Google Analytics | To understand how the site is being used in order to improve the user experience. All user data is anonymous | Third Party Cookie. Low Privacy Intrusiveness.  
-Site Analytics | To understand user behavior within our site and collect user feedback. All data is anonymous until the user has provided his/her own information | Third Party Cookie. Medium Privacy Intrusiveness.  
+  
+Social Media Buttons
+
+| 
+
+Keep track if you've previously liked or promoted a page or website from social networks
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Youtube Video
+
+| 
+
+Gathers anonymous statistics on video interation
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Login Cookies
+
+| 
+
+Remembers your login into private sections of the Extranet
+
+| 
+
+Seesion Cookie. Low Privacy Intrusiveness.  
+  
+Google Analytics
+
+| 
+
+To understand how the site is being used in order to improve the user experience. All user data is anonymous
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+Marketo
+
+| 
+
+To understand user behavior within our site and collect user feedback. All data is anonymous until the user has provided his/her own information
+
+| 
+
+Third Party Cookie. Medium Privacy Intrusiveness.  
+  
+Hubspot
+
+| 
+
+To understand areas of our site that require maintenance and to identify top sources of content. All data is anonymous
+
+| 
+
+Third Party Cookie. Low Privacy Intrusiveness.  
+  
+|  |   
   
 ## Service Quality Monitoring
 
