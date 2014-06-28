@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203194206id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628074937id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy and Security Policy – Nobledrugstore.com
+# Privacy and Security Policy ï¿½ Nobledrugstore.com
 
 It is our top priority to protect your privacy. We do collect personal information about you in order to fill your prescription orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted to us. This notice describes our current privacy policy and practices.
 
