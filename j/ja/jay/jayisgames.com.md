@@ -1,59 +1,71 @@
-> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603064754id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayisgames.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112330id_/http%3A//jayisgames.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for CasualGameplay and Jayisgames.com - Walkthrough Guides, Reviews, Discussion, Hints and Tips at JayIsGames
+# Privacy Policy for Jayisgames.com - Walkthrough Guides, Reviews, Discussion, Hints and Tips at Jayisgames
 
-CasualGameplay and Jayisgames.com ("CasualGameplay") takes matters concerning your privacy very seriously. Please read the following to learn more about our privacy policy.
+§ I. Logging IP Addresses 
 
-## What this Privacy Policy Covers
+  * 1)
 
-  * This Privacy Policy covers CasualGameplay's treatment of personally identifiable information that CasualGameplay collects when you are on a CasualGameplay site, and when you use CasualGameplay games and services. This policy also covers CasualGameplay's treatment of any personally identifiable information that CasualGameplay's business partners share with CasualGameplay or that CasualGameplay may collect on a partner's site.
-  * This policy does not apply to the practices of companies that CasualGameplay does not own or control, or to people that CasualGameplay does not employ or manage.
-  * **Anonymous information** refers to data that cannot be tied back to a specific individual. For example, CasualGameplay collects some information each time a visitor comes to a CasualGameplay site so we can improve the overall quality of the visitor's online experience. CasualGameplay collects the visitor's IP address, referral data, and browser and platform type. CasualGameplay also collects data each time one of our products is used to access the Internet. CasualGameplay collects this user information for purposes of product monitoring, product improvement, and to aid future development decisions. This information may also be shared with advertisers and our business partners on an aggregate non-personal basis. You do not have to register a product with CasualGameplay before we can collect this anonymous information.
-  * **Personally identifiable information** refers to data that tells us specifically who you are, such as your name and postal address, which may be collected in addition to the anonymous data described above. CasualGameplay collects personal information in the following ways from different parts of its Web sites and games: 
-    * Purchasing a CasualGameplay game: CasualGameplay collects personally identifiable information when you purchase CasualGameplay games. The types of information that may be requested include your name, address, telephone number, email address, and credit card information.
-    * When you register for a CasualGameplay account or newsletter: CasualGameplay collects your email address.
-    * Other Registration: CasualGameplay may collect personal information when you register for other CasualGameplay services. CasualGameplay may also receive personally identifiable information from our business partners.
-    * When you use our Tell a Friend feature: The e-mail address information you provide to us when you use the 'Tell a Friend feature' is used only to customize your greeting with your name and your recipient's name, and to deliver email notifications to you and your recipient. CasualGameplay will not share or sell this e-mail address information to any mailing lists.
+Our different processes do not require to know your ip so we do not know and do not collect any IP address.
 
 
 
-## Information Sharing and Disclosure
 
-  * CasualGameplay will not sell or rent your personally identifiable information to anyone.
-  * Unless you have agreed to recieve our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be removed at any time by using the contact form.
-  * CasualGameplay may send personally identifiable information about you to other companies or people when: 
-    * We have your consent to share the information;
-    * We need to share your information to provide the product or service you have requested;
-    * We need to send the information to companies who work on behalf of CasualGameplay to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
-    * We are required to disclose any or all information to the extent necessary or appropriate to comply with applicable laws, subpoenas, court orders, legal process served on CasualGameplay or in legal proceedings where CasualGameplay believes such information is relevant or believes in good faith that its disclosure is required by law.
+§ II. How we use cookies 
+
+  * 1)
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. We also use cookies to keep your login information avoiding to enter it at each connection.
 
 
 
-## Cookies
 
-  * CasualGameplay may set and access CasualGameplay cookies on your computer. CasualGameplay does not allow other companies to access the cookies we set on your computer. Advertisers or other companies do not have access to CasualGameplay's cookies.
-  * CasualGameplay allows third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
+§ III. Security 
 
+  * 1)
 
-
-## Security
-
-  * In certain areas of our web site CasualGameplay uses industry-standard SSL-encryption to protect data transmissions.
-  * All in-game transmission of purchasing information including name, e-mail and credit card number and expiration uses industry-standard SSL-encryption to protect data transmissions. If SSL is not present or cannot be accessed within the game the option to purchase the product within the game is not accessible.
-  * Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, CasualGameplay cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 
 
-## Other Web Sites; Links
 
-  * Our web site contains links to other web sites. CasualGameplay is not responsible for the privacy practices or the content of such web sites.
+§ IV. Controlling your personal information 
 
+  * 1)
 
-
-## Changes to this Privacy Policy
-
-  * CasualGameplay reserves the right to amend this policy from time to time. Any amendments to this policy will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
+You may choose to restrict the collection or use of your personal information in the following ways: whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect. 
 
 
 
-©2010, CasualGameplay
+
+§ V. Advertising 
+
+  * 1)
+
+JayIsGames.com uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+
+
+
+§ VI. Links to other websites 
+
+  * 1)
+
+JayIsGames.com may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+
+
+
+§ VII. Collected Information 
+
+  * 1)
+
+JayIsGames.com receives and stores information that you enter on the website. This includes requested resources, games data etc. This information is stored to improve our processes and track and analyze user activity. All information you enter is voluntary. None of this information is shared with third parties
+
+or if it is grounded on reasons for convenience. 
+  * 2)
+
+The present General terms have been executed on May First 2013.
+
+
+
