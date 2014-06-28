@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209004307id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020449id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Teespring
+# About Teespring / Privacy Policy | Teespring
 
-This privacy policy describes how Teespring collects and uses the personal information you provide on our website www.teespring.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how Teespring collects and uses the personal information you provide on our website teespring.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](http://teespring.com/contact) or contact us directly at [support@teespring.com](mailto:support@teespring.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Teespring has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, teespring.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [visit our support page](https://web.archive.org/contact) or contact us directly at [support@teespring.com](mailto:support@teespring.com). If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Collection and Use of Personal Information
 
@@ -58,7 +58,11 @@ We may also disclose your personal information:
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. We use another company to place cookies on your computer to collect non-personal information to compile aggregated statistics for us about visitors to our site.
 
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>.
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+
+### Behavioral Targeting/Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 ### Links to Other Web Sites
 
@@ -78,7 +82,7 @@ If your personal information changes, or if you no longer desire our service, yo
 
 ### Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also encrypt customer information in our database so that customers name and address is never stored in plain text. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. Please [contact us](http://teespring.com/contact), if you have any questions about security on our Web site.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also encrypt customer information in our database so that customers name and address is never stored in plain text. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. Please [contact us](https://web.archive.org/contact), if you have any questions about security on our Web site.
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL) and is processed by Authorize.net. If you choose to use a third party payment option, such as PayPal, to pay for your order, its privacy policy and security practices will apply to your information. We encourage you to read that privacy policy before providing your information.
 
@@ -103,4 +107,4 @@ Email: [support@teespring.com](mailto:support@teespring.com)
 Telephone: 1-855-TEESPRING (1-855-833-7774)  
 
 
-_Updated December 7th, 2012_
+_Updated March 6th, 2014_
