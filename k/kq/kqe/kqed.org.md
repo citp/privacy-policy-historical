@@ -1,46 +1,57 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016051226id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628143553id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
 
-# KQED's Privacy Policy | KQED Public Media for Northern CA
+# KQED's Commitment to Your Online Privacy | KQED Public Media for Northern CA
 
-## The following Privacy Policy covers KQED, KQEI, KQEH, and KQET
+  * We only collect your personal information when you voluntarily provide it on our website.
+  * We never share your personal information with third parties without your permission.
+  * We will honor your browser's Do Not Track setting. 
+  * We only use cookies on our website to collect aggregated website usage data and to improve our services. 
+  * For more detailed information about our privacy practices, please read our complete privacy policy below. 
 
-Nothing is more important to KQED than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number, and/or other identifying information) and preserving the integrity of the medium. Please read the following carefully. If you have any questions or concerns, please send us an email at [webmaster@kqed.org](mailto:webmaster@kqed.org). 
 
-## Gathering and Use of Information
 
-KQED will never willfully disclose any personally identifiable information about our online audience to any third party without first receiving the user's permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis. Visitors to the KQED website may voluntarily supply certain personally identifiable information in connection with (i) contest or sweepstakes registration, (ii) subscription registration for sites or services which require subscription (such as email newsletters), (iii) requests for membership information, and (iv) e-commerce or give-away transactions. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting. KQED may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to third parties). For more information regarding KQED's policies on the handling and use of KQED's membership list, please see [KQED's Membership List Policy](https://web.archive.org/support/membership/help/membership-list-policy.jsp). The extent of such use is always explained at the time a site visitor provides such information. If the visitor does not want this information collected and used by us for the disclosed internal purposes, the visitor is given an opportunity to "opt-out." Our visitors need to recognize, however, that under certain circumstances, if they select to "opt-out" they may not be eligible for certain activities for which the personally identifiable information is needed. (For example, if a contest participant elects to "opt-out" on permitting us to collect and use their personal information, we cannot contact them if they win without using such information). 
+## THE FOLLOWING PRIVACY POLICY COVERS KQED, KQEI, KQEH, AND KQET WEBSITES
 
-## Acceptance of these KQED Website Privacy Policy Terms and Conditions
+Nothing is more important to KQED than protecting the private information of visitors to our website. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number, and/or other identifying information) and preserving the integrity of the medium. Please read the following carefully. If you have any questions or concerns, please send us an email at [webmaster@kqed.org](mailto:webmaster@kqed.org).
 
-By using this site, you signify your agreement to the terms and conditions of this KQED Website Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the KQED Website following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please email us at [webmaster@kqed.org](mailto:webmaster@kqed.org). 
+## GATHERING AND USE OF INFORMATION
 
-## Browsers
+KQED will never willfully disclose any personally identifiable information about our online audience to any third party without first receiving the user's permission. We do not collect personally identifiable information from our visitors other than what is supplied to us on a voluntary basis. Visitors to the KQED website may voluntarily supply certain personally identifiable information in connection with (i) contest or sweepstakes registration, (ii) subscription registration for sites or services which require subscription (such as email newsletters), (iii) requests for membership information, and (iv) e-commerce or give-away transactions. In addition, personally identifiable information is voluntarily provided in connection with certain content submissions, community postings (i.e., forums or bulletin boards), comments and suggestions, or voting. KQED may use such information only for conducting the activities stated above, for internal marketing and promotional purposes, or, on occasion, when mailing lists are made available to other organizations. (The occasional provision of mailing lists to such organizations is the only case where such information would be provided to third parties). For more information regarding KQED's policies on the handling and use of KQED's membership list, please see [KQED's Membership List Policy](http://www.kqed.org/support/membership/help/membership-list-policy.jsp). The extent of such use is always explained at the time a site visitor provides such information. If the visitor does not want this information collected and used by us for the disclosed internal purposes, the visitor is given an opportunity to "opt-out." Our visitors need to recognize, however, that under certain circumstances, if they select to "opt-out" they may not be eligible for certain activities for which the personally identifiable information is needed. (For example, if a contest participant elects to "opt-out" on permitting us to collect and use their personal information, we cannot contact them if they win without using such information).
 
-The use of website measurement software assists KQED in analyzing the user experience on our websites and improving the structure and ease of use of our websites. It is used to collect such information as the number of unique visitors, how long visitors spend on our websites, and common entry and exit points into and from the websites. Some of the sponsors of our site may also use cookies in order to target information to users' interests. You cannot be identified personally from this information and no personal information is stored about you. If you have any questions or concerns, please email us at [webmaster@kqed.org](mailto:webmaster@kqed.org). 
+## ACCEPTANCE OF THESE KQED WEBSITE PRIVACY POLICY TERMS AND CONDITIONS
 
-## Terms of Use
+By using this site, you signify your agreement to the terms and conditions of this KQED Website Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. We reserve the right, at our sole discretion, to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for any changes. Your continued use of the KQED Website following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please email us at [webmaster@kqed.org](mailto:webmaster@kqed.org).
 
-Please also make sure to read the [KQED Public Media Website's Terms of Service](https://web.archive.org/about/help/terms-service.jsp) to understand the additional terms and conditions which apply to your use of our site. 
+## BROWSERS
+
+The use of website measurement software assists KQED in analyzing the user experience on our websites and improving the structure and ease of use of our websites. It is used to collect such information as the number of unique visitors, how long visitors spend on our websites, and common entry and exit points into and from the websites. Some of the sponsors of our site may also use cookies in order to target information to users' interests. For more information about cookies, click [here](http://en.wikipedia.org/wiki/HTTP_cookie). You cannot be identified personally from this information and no personal information is stored about you. If you have any questions or concerns, please email us at [webmaster@kqed.org](mailto:webmaster@kqed.org).
+
+If you enable the Do Not Track setting in your browser, we won't record your visit to our website and the third party cookies on our pages will be disabled. For more information on Do Not Track, click [here](http://donottrack.us/).
+
+## TERMS OF USE
+
+Please also make sure to read the [KQED Public Media Website's Terms of Service](http://www.kqed.org/about/help/terms-service.jsp) to understand the additional terms and conditions which apply to your use of our site.
+
+_Effective_ : December 11, 2013
 
 ####  Also on KQED.org this week ... 
 
-[](https://web.archive.org/news/health/obamacare/obamacare-guide.jsp)
+[](http://www.kqed.org/community/heritage/lgbt/index.jsp)
 
-##### Obamacare Explained: A Guide for Californians
+##### Lesbian, Gay, Bisexual, Transgender Pride Month
 
-Starting Jan 1, 2014, most Americans will be required to have health insurance or pay a fine. KQED has created a simple guide to explain how the health law affects you, your family or your small business.
+KQED proudly celebrates the diversity of our community by commemorating Lesbian, Gay, Bisexual, Transgender Pride Month in June. View a guide highlighting broadcasts and community events.
 
-  * [View the Guide](https://web.archive.org/news/health/obamacare/obamacare-guide.jsp)
-  * [En Español](https://web.archive.org/news/health/obamacare/obamacare-explicado.jsp)
-
+  * [Lesbian, Gay, Bisexual, Transgender Pride](http://www.kqed.org/community/heritage/lgbt/index.jsp)
 
 
-[](http://blogs.kqed.org/lowdown/2013/10/01/closed-for-business-5-resources-explaining-the-government-shutdown/)
 
-##### 7 Great Resources Explaining the Government Shutdown
+[](http://ww2.kqed.org/arts/series/summer-arts-guide-2014/)
 
-KQED's The Lowdown had gathered media resources explaining the shutdown in detail, including how we got here, where things might go and how it could affect you. 
+##### KQED's Hot Summer Days and Night Guide
 
-  * [The Lowdown](http://blogs.kqed.org/lowdown/2013/10/01/closed-for-business-5-resources-explaining-the-government-shutdown/)
+Our critics pick for the season's best concerts, books, movies, outdoor plays, visual arts and more.
+
+  * [Get the Guide](http://ww2.kqed.org/arts/series/summer-arts-guide-2014/)
 
 
