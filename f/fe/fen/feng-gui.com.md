@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513075923id_/http%3A//www.feng-gui.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022531id_/http%3A//www.feng-gui.com/privacy) for the most accurate reproduction.*
 
 # Feng-GUI - Privacy Policy | Attention Analysis for Websites and Advertisements
 
-### Feng-GUI Privacy Policy
+_Last modified: August 1, 2010_
 
 At Feng-GUI we recognise that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Feng-GUI Inc. or its subsidiaries or affiliated companies; collectively, Feng-GUI's "services". In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information.(referred as "Personal Information" in this document).
 
