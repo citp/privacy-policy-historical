@@ -1,37 +1,23 @@
-<!--The following is the downloaded HTML source of the campusexplorer.com privacy policy that was archived on 2013-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131222041519id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campusexplorer.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629015426id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-    <meta charset="utf-8">
+<!DOCTYPE html><html class="no-js non-responsive" lang="en"><!--<![endif]--><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Campus Explorer Privacy Policy</title>
-    <meta name="robots" content="index,follow">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1000">
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>window.location.hash=="#_=_"&&(window.location=window.location.href.split("#")[0])</script>    <meta name="robots" content="index,follow">
     <meta name="ga-acct" content="UA-1396516-1">
     <meta name="ga-domain-name" content="campusexplorer.com">
     <meta property="fb:page_id" content="212287675463761">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="search" type="application/opensearchdescription+xml" href="/osd.xml" title="Campus Explorer">
     
-<link rel="stylesheet" href="http://w3.campusexplorer.com/css/combine/css/common.ve4ea0e.css,/css/company.v350082.css,/css/library/autocomplete.vaf8d59.css,/css/topnav-footer.va7a2d0.css,/css/panel/visual-whoiam.vb3a2a8.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://w1.campusexplorer.com/css/combine/css/common.v3726ff.css,/css/fonts/avenirnext/avenirnext.v25c7a7.css,/css/fonts/museoslab1000/museoslab1000.v1b89f9.css,/css/company.v5914be.css,/css/library/autocomplete.v61311b.css,/css/library/bootstrap-modal.v1c008c.css,/css/panel/visual-whoiam.v68db62.css" type="text/css" media="all"><link rel="stylesheet" href="http://w3.campusexplorer.com/assets/build/css/styles.vce3145.css" type="text/css" media="all">
     
-    <script>
-    window.onerror = function(message, file, line) {
-        new Image().src = "/jslogger/?message=" + encodeURIComponent(window.location.href + "  " + message + "  " + file + ":" + line);
-    };
-    </script>        <script>window.location.hash=="#_=_"&&(window.location=window.location.href.split("#")[0])</script>
-        <script src="http://w4.campusexplorer.com/js/combine/js/library/modernizr.v1fb6cf.js,/js/common/tracking.v86dac2.js"></script>
-    
-    <!--[if lte IE 8]><script src="http://w1.campusexplorer.com/js/library/jquery-1.10.2.v684cdd.js"></script><![endif]-->
-    <!--[if gt IE 8]><!--><script src="http://w3.campusexplorer.com/js/library/jquery-2.0.3.v9f761c.js"></script><!-- <![endif]-->
-    <script>
-    </script>
-    <script src="http://w3.campusexplorer.com/js/combine/js/config.vab8054.js,/js/core.v93a4b1.js,/js/common.vd522f3.js,/js/library/bootstrap-modal.v87868c.js,/js/panel/visual-whoiam.v44d81d.js"></script>
-<script>
-Script.declareReady("/js/config.js")
-Script.declareReady("/js/core.js")
-Script.declareReady("/js/common.js")
-Script.declareReady("/js/library/bootstrap-modal.js")
-Script.declareReady("/js/panel/visual-whoiam.js")
-</script>
+        <script src="http://w4.campusexplorer.com/js/combine/js/library/json3.vea9f25.js,/js/common/tracking.v5e205d.js,/js/library/modernizr.v1a965c.js,/js/library/jquery-1.11.0.v6349d0.js,/js/library/verge.v011b7b.js,/js/core.vd04555.js,/js/common.vfffc63.js"></script>
+    <!--[if lt IE 9]><script src="http://w4.campusexplorer.com/js/library/es5-shim.v9a2204.js"></script><![endif]-->
+    <script src="http://w1.campusexplorer.com/js/combine/js/topnav.vb70cb7.js,/js/library/bootstrap-modal.v350043.js,/js/panel/visual-whoiam.vf30413.js" async="" onreadystatechange="this.onload=null;window.Script.declareReady(this.src,this.readyState)" onload="window.Script.declareReady(this.src)"></script>
 
         <script>
         ("CE" in window) || (window.CE = {});
@@ -41,192 +27,122 @@ Script.declareReady("/js/panel/visual-whoiam.js")
            ,lightbox: true
            ,testgroups: {}
         }
+
+        /*  =Information Request Link
+        ----------------------------------------------- */
+        $(function() {
+            if (CE.LightboxConfig === undefined) {
+                return;
+            }
+            function onInfoRequestLinkClick(e) {
+                e.preventDefault();
+                var collegeID;
+                var params = {};
+                try {
+                    var href = e.currentTarget.getAttribute("href");
+                    var queryString = href.split("?")[1];
+                    var pairs = queryString.split("&");
+                    for (var index = 0; index < pairs.length; index++) {
+                        var pair = pairs[index].split("=");
+                        if (pair[0] == "college") {
+                            collegeID = decodeURIComponent(pair[1]);
+                        } else {
+                            params[pair[0]] = decodeURIComponent(pair[1]);
+                        }
+                    }
+                } catch (e) {}
+                Script.requireOnce("/js/widget.js", function() {
+                    CampusExplorerQ.push(function() {
+                        if ("lightboxWidget" in window) {} else {
+                            window.lightboxWidget = new CampusExplorerWidget("lightbox-widget", window.CE.LightboxConfig);
+                        }
+                        window.lightboxWidget.show({
+                            college_id: collegeID,
+                            params: params
+                        });
+                    });
+                });
+            }
+            $(document).on("click", ".leadRequestLink", onInfoRequestLinkClick);
+        });
     </script>
 
     
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1396516-9'        , {
+            'cookieName': '_ga'            , 'cookieDomain': 'campusexplorer.com'        }    );
+    ga('require', 'displayfeatures');    ga('send', 'pageview');
+
+    ga(function(tracker) {
+        var clientId = tracker.get('clientId');
+        new Image().src = "/track/google-analytics/?google_analytics_cid=" + clientId;
+    });</script>
 </head>
 <body class="">
+
     
 
 
 <div id="container">
     
+  
+<div class="new-design">
+<div class="page-canvas">
+<header class="masthead" role="banner">
+    <div class="masthead-inner">
 
+        <h3 class="visuallyhidden">Utility Navigation</h3>
+        <div class="utility-nav">
+            <ul>
+                            <li><a class="login" href="http://www.campusexplorer.com/registration/planner/?backref=http%3A%2F%2Fwww.campusexplorer.com%2Fcompany%2Flegal%2Fprivacy%2F">Create Account</a></li>
+                <li><a class="login" href="http://www.campusexplorer.com/panel/signin/?backref=http%3A%2F%2Fwww.campusexplorer.com%2Fcompany%2Flegal%2Fprivacy%2F">Sign In</a> </li>
+                        </ul>
+        </div>
 
+        <div class="menu-bar">
+            <h1 class="campus-explorer-logo">
+                <a href="/">
+                <img src="http://w2.campusexplorer.com/assets/images/campus-explorer-logo.svg" alt="Campus Explorer" style="width:100%;height:auto">
+                </a>
+            </h1>
+            <a href="" class="mobile-menu-button hide-mq4-up ir">Menu</a>
+            <a href="" class="mobile-search-button hide-mq4-up ir">Search</a>
+        </div>
 
-<div id="header">
-<div class="row">
-    <h2 id="branding" class="columns three">
-        <a href="/">
-            <img src="http://w2.campusexplorer.com/img/topnav/logo-horiz-white-213.svg" width="213" height="30" alt="Campus Explorer">
-        </a>
-    </h2>
-    <div class="columns seven">
-        <form id="top-form" class="top-search search-form" action="/panel/meta-search/" method="get" accept-charset="utf-8">
-        <span class="search_type">FIND SCHOOLS BY</span>
-            <span>
-                <span class="user-selection">Name</span>
-            
-<div class="type-wrapper">
-<select name="search_type" id="metasearch-type" class="search-type type">
-<option value="college" id="metasearch-type.0">Name</option>
-<option value="location" id="metasearch-type.1">Location</option>
-<option value="major" id="metasearch-type.2">Major</option></select>
-</div>
-            
-<div class="input-wrapper">
-<input type="text" name="keyword" id="keywordsearch-input" value="" class="keyword-search" placeholder="Example: UCLA">
-</div>
-            
-<input type="hidden" name="major" id="major-mj" value="">
-            
-<input type="hidden" name="college_sid" id="college_sid" value="">
-            
-<button type="submit" name="keywordsearch-button" id="keywordsearch-button">Search</button>
-        </span><!-- end-->
-        </form>
-    </div>
-    <div class="columns two">
-        <p class="login-links">
-            <a class="login" href="http://www.campusexplorer.com/panel/signin/?backref=http%3A%2F%2Fwww.campusexplorer.com%2Fcompany%2Flegal%2Fprivacy%2F">Sign In</a> <span>|</span> <a class="login" href="http://www.campusexplorer.com/registration/planner/?backref=http%3A%2F%2Fwww.campusexplorer.com%2Fcompany%2Flegal%2Fprivacy%2F">Sign Up</a>
-        </p>
-    </div>
-</div>
-
-<div id="topnav" class="topnav">
-    <ul class="row">
-        <li data-menu-id="topnav-menu1"><a class="btn" href="/colleges/search/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: College Search Tab');"><span>College Search</span></a></li>
-        <li data-menu-id="topnav-menu2"><a class="btn" href="/college-planning/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Planning for College Tab');"><span>Planning for College</span></a></li>
-        <li data-menu-id="topnav-menu3"><a class="btn" href="/How-to-Pay-for-College/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Paying for College Tab');"><span>Paying for College</span></a></li>
-        <li data-menu-id="topnav-menu4"><a class="btn" href="/myplanner/" onclick="trackEvent('Main Navigation', 'NAV: Planner', 'NAV: My Planner Tab');"><span>My Planner</span></a></li>
-    </ul>
-</div>
-</div>
-
-<div id="topnav-menus">
-    <div id="topnav-menu1" class="topnav-menu">
-        <div class="menugroup columns four quick-search">
-            <h3>Start Browsing<br>9,000+ Campuses<br>and Online Schools</h3>
-            <a class="button" href="/colleges/search/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Search Schools Button');">SEARCH SCHOOLS</a>
-        </div>
-        <div class="menugroup columns four">
-            <h3><span>Search By Degree</span></h3>
-            <ul>
-                <li><a href="/certificate-programs/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Certificate Programs');">Certificate Programs</a></li>
-                <li><a href="/associate-degree/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Associates Degree');">Associates Degree</a></li>
-                <li><a href="/bachelors-degree/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Bachelors Degree');">Bachelors Degree</a></li>
-                <li><a href="/masters-degree/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Masters Degree');">Masters Degree</a></li>
-                <li><a href="/online-school-degree-programs/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Online Degree');">Online Degree</a></li>
-            </ul>
-            <h3><span>College Search By</span></h3>
-            <ul>
-                <li><a href="/colleges/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Major');">Major</a></li>
-                <li><a href="/colleges/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Location');">Location</a></li>
-                <li><a href="/colleges/alphabet/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Alphabet');">Alphabet</a></li>
-            </ul>
-        </div>
-        <div class="menugroup columns four">
-            <h3><a href="/colleges/">College Search By</a></h3>
-            <ul>
-                <li><a href="/community-college/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Community College');">Community College</a></li>
-                <li><a href="/career-college/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Career Colleges');">Career Colleges</a></li>
-                <li><a href="/4-year-colleges-and-universities/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Four Year Colleges');">4-Yr. Colleges &amp; Universities</a></li>
-                <li><a href="/graduate-school/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Graduate School');">Graduate School</a></li>
-                <li><a href="/online-school-degree-programs/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Online Schools');">Online Schools &amp; Distance Learning</a></li>
-                <li><a href="/career-training/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: Career Training');">Career/Vocational Training</a></li>
-            </ul>
-        </div>
-    </div>
-    <div id="topnav-menu2" class="topnav-menu">
-        <div class="menugroup columns four">
-            <h3 class="tell-us"><span>Your step-by-step college plan. Tell us who you are:</span></h3>
-            <ul>
-                <li><a href="/college-planning/high-school-freshman/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: High School Freshman');">High School Freshman</a></li>
-                <li><a href="/college-planning/high-school-sophomore/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: High School Sophomore');">High School Sophomore</a></li>
-                <li><a href="/college-planning/high-school-junior/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: High School Junior');">High School Junior</a></li>
-                <li><a href="/college-planning/high-school-senior/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: High School Senior');">High School Senior</a></li>
-                <li><a href="/college-planning/adult-student/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Adult Student');">Adult Student</a></li>
-                <li><a href="/college-planning/military-student/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Military Student');">Military Student</a></li>
-                <li><a href="/college-planning/graduate-student/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Graduate Student');">Graduate Student</a></li>
-                <li><a href="/college-planning/parent/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Parent');">Parent</a></li>
-                <li><a href="/college-planning/counselor/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: High School Counselor');">High School Counselor</a></li>
-            </ul>
-        </div>
-        <div class="menugroup columns four">
-            <h3><span>High School Guides</span></h3>
-            <ul>
-                <li><a href="/college-tips/5460C0A8/High-School-Academics-and-Activities/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Academics and Activities');">Academics and Activities</a></li>
-                <li><a href="/college-tips/6A1FF1AB/College-Applications-and-the-Admissions-Process/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Applications and Admissions');">Applications and Admissions</a></li>
-                <li><a href="/college-tips/36394668/Finding-the-Right-College/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Finding the Right College');">Finding the Right College</a></li>
-                <li><a href="/college-tips/152A416A/Getting-Started-with-Your-College-Planning/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Getting Started');">Getting Started</a></li>
-                <li><a href="/college-tips/F848A3FE/Standardized-College-Testing-and-Test-Prep/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Testing and Test Prep');">Testing and Test Prep</a></li>
-                <li><a href="/college-tips/C709F8BD/Parents-Guide-to-College-Planning/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Parents Guides');">Parent's Guides</a></li>
-                <li><a href="/college-tips/CDB502DF/College-Planning-for-International-Students/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: International Students');">International Students</a></li>
-                <li><a href="/College-Life/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: College Life');">College Life</a></li>
-                <li><a href="/Career-Information/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Career Information HS');">Career Information</a></li>
-            </ul>
-        </div>
-        <div class="menugroup columns four">
-            <h3><span>Adult Student Guides</span></h3>
-            <ul>
-                <li><a href="/college-tips/F7D4A008/Back-to-School-Guide-for-Adult-Students/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Back To School Guide');">Back to School Guide</a></li>
-                <li><a href="/college-tips/04A2EF99/College-Programs-for-Adult-Students/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Types of Programs');">Types of Programs</a></li>
-                <li><a href="/college-tips/5207A342/Guide-to-Online-Degrees-and-Online-Education/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Guide to Online Degrees');">Guide to Online Degrees</a></li>
-                <li><a href="/college-tips/EB434359/Education-and-Military-Personnel-From-Service-to-Student/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Military Service to Student');">Military Service to Student</a></li>
-                <li><a href="/college-tips/F9AEA5F3/Graduate-School-The-World-of-Advanced-Degrees/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Graduate School');">Graduate School</a></li>
-                <li><a href="/Career-Information/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Career Information Adults');">Career Information</a></li>
-            </ul>
-        </div>
-    </div>
-    <div id="topnav-menu3" class="topnav-menu">
-        <div class="menugroup columns four scholarship-search">
-            <h3><span>Scholarship Search</span></h3>
-            <p>1.9 million scholarships &amp; grants worth over $7.75 billion</p>
-            <a class="button" href="/scholarships/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarship Search Button');">SEARCH SCHOLARSHIPS</a>
-        </div>
-        <div class="menugroup columns eight">
-            <div class="wrap">
-                <div class="first">
-                    <h3><span>Popular Scholarships</span></h3>
+        <div class="navigation-group">
+            <nav role="navigation" class="global-nav">
+                <div class="primary-navigation">
                     <ul>
-                        <li><a href="/scholarships/music/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Music Scholarships');">Music Scholarships</a></li>
-                        <li><a href="/scholarships/engineering/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Engineering Scholarships');">Engineering Scholarships</a></li>
-                        <li><a href="/scholarships/nursing/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Nursing Scholarships');">Nursing Scholarships</a></li>
-                        <li><a href="/scholarships/florida/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarships in Florida');">Scholarships in Florida</a></li>
-                        <li><a href="/scholarships/georgia/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarships in Georgia');">Scholarships in Georgia</a></li>
-                        <li><a href="/scholarships/michigan/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarships in Michigan');">Scholarships in Michigan</a></li>
-                        <li><a href="/scholarships/alphabet/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarship Search by Alphabet');">Scholarship Search by Alphabet</a></li>
+                        <li><a href="/colleges/search/" onclick="trackEvent('Main Navigation', 'NAV: Search', 'NAV: College Search Tab');">Find Your Match</a></li>
+                        <li><a href="/colleges/" onclick="trackEvent('Main Navigation', 'NAV: Planning', 'NAV: Planning for College Tab');">Colleges &amp; Majors</a></li>
+                        <li><a href="http://steps.campusexplorer.com" onclick="trackEvent('Main Navigation', 'NAV: Planner', 'NAV: Free Counseling Tools');">Free Counseling Tools</a></li>
                     </ul>
                 </div>
-                <div class="last">
-                    <h3><span>Paying for College Guides</span></h3>
-                    <ul>
-                        <li><a href="/college-tips/F851373F/College-Financial-Aid-The-Basics-of-Student-Aid-and-FAFSA/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Financial Aid Basics');">Financial Aid Basics</a></li>
-                        <li><a href="/college-tips/DCCF843B/College-Scholarships-and-Grants-for-Education/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Scholarships and Grants');">Scholarships and Grants</a></li>
-                        <li><a href="/college-tips/8B473C93/Guide-to-Student-Loans-and-Borrowing/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Student Loans and Borrowing');">Student Loans and Borrowing</a></li>
-                        <li><a href="/college-tips/7ACFCC75/Saving-for-College-and-Tuition-Tax-Credits/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Saving and Tuition Tax Credits');">Saving and Tuition Tax Credits</a></li>
-                        <li><a href="/college-tips/64AE136A/Graduate-School-Financial-Aid/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Graduate School Financial Aid');">Graduate School Financial Aid</a></li>
-                        <li><a href="/college-tips/8AC0E1B8/Military-Financial-Aid-The-GI-Bill-and-Beyond/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Military Financial Aid');">Military Financial Aid</a></li>
-                        <li><a href="/college-tips/A720DC72/Paying-Back-Your-Student-Loans-and-Managing-Student-Debt/" onclick="trackEvent('Main Navigation', 'NAV: Paying', 'NAV: Paying It Back and Student Debt');">Paying It Back and Student Debt</a></li>
-                    </ul>
+                <h3 class="visuallyhidden">Search</h3>
+                <div class="site-search">
+                    <form class="top-search search-form ceform" role="search" action="/panel/meta-search/" method="get" accept-charset="utf-8">
+                        <label for="site-search" class="visuallyhidden">Search</label>
+                        <input type="search" id="site-search" class="keyword-search" name="keyword" placeholder="College search...">
+                        <input type="hidden" value="" id="college_sid" name="college_sid">
+                        <input type="hidden" value="college" class="search-type" name="search_type">
+                        <button class="ir" title="Search"></button>
+                    </form>
                 </div>
-            </div>
-            <div class="scholarship-promo">
-                <div class="scholarships-tout">
-                    <img src="http://w1.campusexplorer.com/img/common/scholarships-tout.jpg" alt="Scholarships">
-                    <h2>CASH SCHOLARSHIP: $1,000</h2>
-                    <p class="action"><a href="/campus-explorer-scholarships/" onclick="trackEvent('Exclusive Scholarships', 'ES: Promo: Top Nav', 'ES: Promo: Top Nav');">Enter Now</a></p>
-                </div>
-            </div>
+            </nav>
         </div>
+        
     </div>
-    <div id="topnav-menu4" class="topnav-menu ce-logged-out">
-        <div>
-            <p><em>Sign Up with Campus Explorer and join our 2 million+ members.</em></p>
-            <a class="button" href="/registration/planner/?backref=/myplanner/" onclick="trackEvent('Main Navigation', 'NAV: Planner', 'NAV: Sign Up Button');">Sign Up</a>
-        </div>
-    </div>
-</div>
+</header>
+</div> <!-- end .page-canvas -->
+</div> <!-- end .new-design-->
+
+
+
 
     <div id="content">
               
@@ -304,151 +220,99 @@ Script.declareReady("/js/panel/visual-whoiam.js")
     </div>
     <div id="company-content" class="nine columns">
         
-<!-- Privacy Policy -->
-<h1>Privacy Policy</h1>
-<p>At Campus Explorer, Inc., we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This is the Privacy Policy for all Campus Explorer, Inc. websites, including the website currently located at <a href="http://www.campusexplorer.com/">www.campusexplorer.com</a> (collectively "Site" or "Sites"). We have prepared this Privacy Policy to explain how we collect, use, and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the Site and your choices for managing your information preferences. By using the Site, you signify your assent to this Privacy Policy and the Site's <a href="http://www.campusexplorer.com/company/legal/terms/">Terms of Use</a>.</p>
+<a name="Privacy%20Policy"></a><h1>Privacy Policy</h1>
 
+<p>At Campus Explorer, Inc., we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This is the Privacy Policy for all Campus Explorer, Inc. websites, including the website currently located at <a href="/">www.campusexplorer.com</a> (collectively "Site" or "Sites"). We have prepared this Privacy Policy to explain how we collect, use, and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the Site and your choices for managing your information preferences. By using the Site, you signify your assent to this Privacy Policy and the Site's <a href="/company/legal/terms/">Terms of Use</a>.</p>
 <p>This Privacy Policy is effective on September 10, 2012.</p>
+<a name="Personal%20Information"></a><h3>Personal Information</h3>
 
-<h3>Personal Information</h3>
-<p>Campus Explorer does not collect information that personally identifies you, such as your name, address, email address, social security number and similar identifying information ("Personal Information"), unless you expressly provide it to us through one of our online services. If you choose to register on a Site in order to utilize an online service that requires you to log in, Campus Explorer may collect basic Personal Information. You may verify, correct, update, or change your registration information at any time by e-mailing us at <a href="mailto:privacy@campusexplorer.com?subject=">privacy@campusexplorer.com</a> or  <a href="/panel/signin/?backref=/company/legal/privacy/" title="Sign In">click here</a> to log in to your account.</p>
-
+<p>Campus Explorer does not collect information that personally identifies you, such as your name, address, email address, social security number and similar identifying information ("Personal Information"), unless you expressly provide it to us through one of our online services. If you choose to register on a Site in order to utilize an online service that requires you to log in, Campus Explorer may collect basic Personal Information. You may verify, correct, update, or change your registration information at any time by e-mailing us at <a href="mailto:privacy@campusexplorer.com">privacy@campusexplorer.com</a> or  <a href="/panel/signin/?backref=/company/legal/privacy/">click here</a> to log in to your account.</p>
 <p>The Site enables you to voluntarily provide Personal Information to third parties such as college or university admissions departments. If you choose to submit an online loan application, we may collect information such as your Social Security Number, and that of your endorser or co-borrower, if applicable, date of birth, driver's license number, phone number, and references required for the completion of a student loan application. </p>
+<a name="Non-Personal%20Information"></a><h3>Non-Personal Information</h3>
 
-<h3>Non-Personal Information</h3>
 <p>We automatically collect information that does not reflect or reference an individually identifiable user to help us understand how our users use the Site. Like most websites, we automatically collect and use the data contained in log files. The information in the log files may include your IP (internet protocol) address, your ISP (internet service provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous Site usage data. We call this type of information "Non-Personal Information."</p>
+<a name="Cookies%20and%20Web%20Beacons"></a><h3>Cookies and Web Beacons</h3>
 
-<h3>Cookies and Web Beacons</h3>
 <p>We use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, marketing and advertising campaigns.</p>
+<a name="How%20we%20use%20Personal%20Information%20and%20Non-Personal%20Information"></a><h3>How we use Personal Information and Non-Personal Information</h3>
 
-<h3>How we use Personal Information and Non-Personal Information</h3>
 <p>We use Personal Information and Non-Personal Information for internal purposes, such as to notify you of new or relevant products or services, to send service notifications, to customize the advertising and content you see, to fulfill your requests for products and services, to improve the Site, to conduct research, to solicit your feedback and input about the Site, and to provide more relevant products, services, and advertisements on or through the Site. Personal Information and Non-Personal Information may be combined with data collected from other sources so that we may further improve the relevance of products, services, and advertisements offered to you or on or through the Site.</p>
-
 <p>When you request information regarding colleges, universities or lenders, we may provide your Personal Information to those colleges, universities or lenders or to third parties acting on their behalf. Unless otherwise stated in this Privacy Policy, your Personal Information will not be provided by Campus Explorer to any third party other than the colleges, universities that you select or to prospective lenders, or to third parties acting on their behalf. The selected colleges, universities or lenders or such third parties acting on their behalf may communicate with you, and their use of your data is governed by their privacy policies.
 When you provide us with your telephone number, you acknowledge that we or the selected colleges, universities or lenders or such third parties acting on their behalf may contact you at that number and may do so using an automatic telephone dialing system and/or an artificial or prerecorded voice. If you subsequently request that we not contact you at that number, we will attempt to honor your request as soon as possible.</p>
-
 <p>From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, widget providers, data management services, Web hosting, and Web development. We provide our Service Providers with the information reasonably necessary for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification, or disclosure.</p>
-
 <p>We may use, and disclose to third parties, certain Non-Personal Information regarding the Site (e.g., number of visits, page views, number of registered members who reside in a particular geographic location, etc.). However, such information does not identify you individually.</p>
-
-<p>We may work with third-party marketing and advertising companies including Yahoo! Inc. and Google Inc. which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party websites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. We may use Google Analytics and the Doubleclick cookie to serve ads based on a user’s prior visit to the Site. Users may opt out of the Doubleclick cookie by visiting  <a href="http://www.google.com/privacy/ads/" target="_blank">this page</a>. Users may opt out of Google Analytics by visiting  <a href="http://tools.google.com/dlpage/gaoptout" target="_blank">this page</a>. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
-
+<p>We may work with third-party marketing and advertising companies including Yahoo! Inc. and Google Inc. which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party websites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. We may use Google Analytics and the Doubleclick cookie to serve ads based on a user’s prior visit to the Site. Users may opt out of the Doubleclick cookie by visiting  <a href="http://www.google.com/privacy/ads/">this page</a>. Users may opt out of Google Analytics by visiting  <a href="http://tools.google.com/dlpage/gaoptout">this page</a>. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.</p>
 <p>We may share Personal Information and Non-Personal Information with entities controlling, controlled by, or under common control with Campus Explorer. In the event that Campus Explorer is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Non-Personal Information in connection with such transaction.</p>
-
 <p>In certain instances we may disclose Personal Information and Non-Personal Information when we believe it is necessary to identify, contact, or bring legal action against persons or entities in order to protect Campus Explorer or our users or when we believe that the law or legal process requires such disclosure.</p>
+<a name="Communication%20Tools%3B%20Public%20Areas"></a><h3>Communication Tools; Public Areas</h3>
 
-<h3>Communication Tools; Public Areas</h3>
 <p>If you elect to use our referral service for informing a friend about one of our Sites, Campus Explorer will automatically send your friend a one-time e-mail inviting them to view the article that you are sending them. Campus Explorer does not store this information, and it is for the sole purpose of sending the one-time e-mail.</p>
-
 <p>Please be advised that, whenever you voluntarily post information to any community or interactive areas of the Site, such information can and may be accessed by the public. This means that any person or entity with access to such information can potentially use it for any purpose, including sending unsolicited communications.</p>
+<a name="Confidentiality%20and%20Security"></a><h3>Confidentiality and Security</h3>
 
-<h3>Confidentiality and Security</h3>
 <p>Information collected on or through the Site is stored on servers using encryption technology. For security in-house, security procedures are in place to prevent unauthorized access to any user information. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site, we cannot and do not guarantee or warrant the security of any information you transmit on or through the Site, and you do so at your own risk.</p>
+<a name="Passwords"></a><h3>Passwords</h3>
 
-<h3>Passwords</h3>
 <p>There is a link available on the Campus Explorer log-in page to enable you to change your password at any time. If you forget your password, there is a link on the log-in page that will enable you to enter your Username or e-mail address with which you originally registered. When you submit this information, if your information matches what Campus Explorer has recorded for you, your username and password will be e-mailed to you.</p>
+<a name="Children%27s%20Privacy%20Statement"></a><h3>Children's Privacy Statement</h3>
 
-<h3>Children's Privacy Statement</h3>
 <p>We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.</p>
+<a name="Opting%20Out%20of%20Email"></a><h3>Opting Out of Email</h3>
 
-<h3>Opting Out of Email</h3>
 <p>If you do not want to receive email from Campus Explorer, please follow the steps outlined below to submit an opt-out request:</p>
 <ul>
-    <li>If you are registered with campusexplorer.com you can change your preferences in your Profile. Sign in to view your Profile, click on “edit email preferences,” and then click the “Unsubscribe” button.</li>
-    <li>To unsubscribe from an email, click the link to unsubscribe in the next e-mail you receive from us.</li>
-    <li>To unsubscribe offline, you may contact us by phone at 310-579-2725, or write to:   <br>
-        Campus Explorer<br>
-        2850 Ocean Park Boulevard, Suite 310<br>
-        Santa Monica, CA 90405
-    </li>
+<li>If you are registered with campusexplorer.com you can change your preferences in your Profile. Sign in to view your Profile, click on “edit email preferences,” and then click the “Unsubscribe” button.</li>
+<li>To unsubscribe from an email, click the link to unsubscribe in the next e-mail you receive from us.</li>
+<li>To unsubscribe offline, you may contact us by phone at 310-579-2725, or write to:<br></li>
 </ul>
+<p>Campus Explorer<br>
+2850 Ocean Park Boulevard, Suite 310<br>
+Santa Monica, CA 90405</p>
+<a name="Changes%20to%20this%20Privacy%20Policy"></a><h3>Changes to this Privacy Policy</h3>
 
-<h3>Changes to this Privacy Policy</h3>
 <p>Campus Explorer may, from time to time, amend this Privacy Policy by posting the amended Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.</p>
+<a name="Contact%20information%3F"></a><h3>Contact information?</h3>
 
-<p>Contact information <br>
-If you have any questions about this policy please contact: <br>Customer Privacy<br>Campus Explorer<br><a href="mailto:privacy@campusexplorer.com?subject=">privacy@campusexplorer.com</a></p>
+<p>If you have any questions about this policy please contact:?<br>
+Customer Privacy<br>
+Campus Explorer<br>
+<a href="mailto:privacy@campusexplorer.com">privacy@campusexplorer.com</a></p>
+<a name="Your%20California%20Privacy%20Rights"></a><h3>Your California Privacy Rights</h3>
 
-<h3>Your California Privacy Rights</h3>
-<p>If you are resident of California, you may request and receive a disclosure providing a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of the other businesses with whom such information was shared. You may request such a disclosure by emailing us at <a href="mailto:privacy@campusexplorer.com?subject=">privacy@campusexplorer.com</a></p>
-
+<p>If you are resident of California, you may request and receive a disclosure providing a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of the other businesses with whom such information was shared. You may request such a disclosure by emailing us at <a href="mailto:privacy@campusexplorer.com">privacy@campusexplorer.com</a></p>
 <p>For more information, visit the <a href="http://www.privacy.ca.gov/privacy_laws/index.shtml">California Privacy homepage</a></p>
 
-    </div>
-</div>
-
-
-
 
     </div>
 </div>
 
-<div id="footer">
-    <div class="row">
 
-    <div class=" three columns">
-        <ul>
-            <li><a href="/company/legal/privacy/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Privacy', 'CDPOrganicPhotos-videos');">Privacy Policy</a></li>
-            <li><a href="/company/legal/privacy/#your-california-privacy-rights" rel="nofollow" onclick="trackEvent('Footer', 'Foot: California Privacy Rights', 'CDPOrganicPhotos-videos');">California Privacy Rights</a></li>
-            <li><a href="/company/legal/terms/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Terms of Use', 'CDPOrganicPhotos-videos');">Terms of Use</a></li>
-            <li><a href="/company/jobs/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Jobs', 'CDPOrganicPhotos-videos');">Jobs</a></li>
-            <li><a href="/company/contact/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Contact Us', 'CDPOrganicPhotos-videos');">Contact Us</a></li>
-        </ul>
-
-        <p class="copyright">© 2013 Campus Explorer, Inc.</p>
-    </div>
-
-
-    <div class="three columns">
-        <ul>
-            <li><a href="/company/about/service/" rel="nofollow" onclick="trackEvent('Footer', 'Foot:  About Campus Explorer', 'CDPOrganicPhotos-videos');">What Is Campus Explorer?</a></li>
-            <li><a href="/company/press/news/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Media Coverage', 'CDPOrganicPhotos-videos');">Media Coverage</a></li>
-            <li>
-                        <a class="login" href="/registration/footer/?backref=/myplanner/" onclick="trackEvent('Footer', 'Foot: Sign Up Link', 'CDPOrganicPhotos-videos');">Sign Up</a>
-                        </li>
-            <li>&nbsp;</li>
-            <li>Follow Us:</li>
-        </ul>
-        <div class="social-links">
-            <a class="facebook" href="https://www.facebook.com/campusexplorer" onclick="trackEvent('Footer', 'Foot: Facebook', 'CDPOrganicPhotos-videos');"></a>
-            <a class="twitter" href="http://twitter.com/campusexplorer/" onclick="trackEvent('Footer', 'Foot: Twitter', 'CDPOrganicPhotos-videos');"></a>
-            <a class="googleplus" href="https://plus.google.com/107912839340988749517" rel="publisher" onclick="trackEvent('Footer', 'Foot: Google Plus', 'CDPOrganicPhotos-videos');"></a>
-        </div>
-    </div>
-
-
-    <div class="three columns">
-        <ul>
-            <li><a href="/colleges/search/" onclick="trackEvent('Footer', 'Foot: College Search', 'CDPOrganicPhotos-videos');">College Search</a></li>
-            <li><a href="/scholarships/" onclick="trackEvent('Footer', 'Foot: Scholarship Search', 'CDPOrganicPhotos-videos');">Scholarship Search</a></li>
-            <li><a href="/campus-explorer-scholarships/" onclick="trackEvent('Footer', 'Foot: Exclusive Scholarship', 'CDPOrganicPhotos-videos');">Exclusive Monthly $1k Scholarship</a></li>
-            <li><a href="/college-tips/152A416A/Getting-Started-with-Your-College-Planning/" onclick="trackEvent('Footer', 'Foot: How Find the Right College', 'CDPOrganicPhotos-videos');">How to Find the Right College</a></li>
-            <li><a href="/college-tips/36394668/Finding-the-Right-College/" onclick="trackEvent('Footer', 'Foot: College Planning in High School', 'CDPOrganicPhotos-videos');">College Planning in High School</a></li>
-            <li><a href="/college-tips/F7D4A008/Back-to-School-Guide-for-Adult-Students/" onclick="trackEvent('Footer', 'Foot: College Planning as Adult', 'CDPOrganicPhotos-videos');">College Planning as an Adult Student</a></li>
-            <li><a href="/How-to-Pay-for-College/" onclick="trackEvent('Footer', 'Foot: How to Pay for College', 'CDPOrganicPhotos-videos');">How to Pay for College</a></li>
-            <li><a href="/College-Life/" onclick="trackEvent('Footer', 'Foot: College Life', 'CDPOrganicPhotos-videos');">College Life</a></li>
-            <li><a href="/Career-Information/" onclick="trackEvent('Footer', 'Foot: Career Information', 'CDPOrganicPhotos-videos');">Career Information</a></li>
-        </ul>
-    </div>
-
-    <div class="three columns">
-        <ul>
-            <li><a href="/college-planning/high-school-senior/" onclick="trackEvent('Footer', 'Foot: High School Senior', 'CDPOrganicPhotos-videos');">High School Senior</a></li>
-            <li><a href="/college-planning/high-school-junior/" onclick="trackEvent('Footer', 'Foot: High School Junior', 'CDPOrganicPhotos-videos');">High School Junior</a></li>
-            <li><a href="/college-planning/high-school-sophomore/" onclick="trackEvent('Footer', 'Foot: High School Sophomore', 'CDPOrganicPhotos-videos');">High School Sophomore</a></li>
-            <li><a href="/college-planning/high-school-freshman/" onclick="trackEvent('Footer', 'Foot: High School Freshman', 'CDPOrganicPhotos-videos');">High School Freshman</a></li>
-            <li><a href="/college-planning/adult-student/" onclick="trackEvent('Footer', 'Foot: Adult Student', 'CDPOrganicPhotos-videos');">Adult Student</a></li>
-            <li><a href="/college-planning/military-student/" onclick="trackEvent('Footer', 'Foot: Military Student', 'CDPOrganicPhotos-videos');">Military Student</a></li>
-            <li><a href="/college-planning/graduate-student/" onclick="trackEvent('Footer', 'Foot: Graduate Student', 'CDPOrganicPhotos-videos');">Graduate Student</a></li>
-            <li><a href="/college-planning/parent/" onclick="trackEvent('Footer', 'Foot: Parent', 'CDPOrganicPhotos-videos');">Parent</a> |  <a href="/college-planning/counselor/" onclick="trackEvent('Footer', 'Foot: High School Counselor', 'CDPOrganicPhotos-videos');">High School Counselor</a></li>
-        </ul>
-    </div>
 
 
     </div>
-
 </div>
 
+<div class="new-design">
+    <div class="page-canvas">
+        <div class="page-wrap">
+            <footer class="page-footer" role="contentinfo">
+                <div class="page-footer-inner">
+                    <p class="copyright small">© 2014 Campus Explorer</p>
+                    <ul class="page-footer-nav">
+                        <li><a href="/company/contact/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Contact Us', 'LocationCity');">Contact CE</a></li>
+                        <li><a href="/company/legal/terms/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Terms of Use', 'LocationCity');">Terms &amp; Conditions</a></li>
+                        <li><a href="/company/legal/privacy/" rel="nofollow" onclick="trackEvent('Footer', 'Foot: Privacy', 'LocationCity');">Privacy Policy</a></li>
+                    </ul>
+                    <ul class="page-footer-social">
+                        <li><a class="ir icon-social-twitter-0" href="http://twitter.com/campusexplorer/" onclick="trackEvent('Footer', 'Foot: Twitter', 'LocationCity');">Twitter</a></li>
+                        <li><a class="ir icon-social-facebook-0" href="https://www.facebook.com/campusexplorer" onclick="trackEvent('Footer', 'Foot: Facebook', 'LocationCity');">Facebook</a></li>
+                        <li><a class="ir icon-social-google-0" href="https://plus.google.com/107912839340988749517" rel="publisher" onclick="trackEvent('Footer', 'Foot: Google Plus', 'LocationCity');">Google+</a></li>
+                    </ul>
+                </div><!-- / .page-footer-inner -->
+            </footer>
+        </div><!-- / .page-wrap -->
+    </div> <!-- end .page-canvas -->
+</div> <!-- / .newdesign -->
 
 
 
@@ -458,10 +322,8 @@ If you have any questions about this policy please contact: <br>Customer Priva
 
 
 
-<script>
-Script.includeOnce("http://w3.campusexplorer.com/js/library/jquery.autocomplete.vfa73f1.js");
-  Script.includeOnce("http://w4.campusexplorer.com/js/topnav.vd2078f.js");
-</script>
+
+<script src="http://w4.campusexplorer.com/js/combine/js/library/jquery.autocomplete.ve9181e.js" async="" onreadystatechange="this.onload=null;window.Script.declareReady(this.src,this.readyState)" onload="window.Script.declareReady(this.src)"></script>
 
 
 <script>
@@ -476,7 +338,7 @@ Script.includeOnce("http://w3.campusexplorer.com/js/library/jquery.autocomplete.
     }
     var browser = getCookie("browser");
     if (browser) {
-        new Image().src = "/track/visit/visit.gif?browser=" + browser + "&session=6ab07ef09ff13c7655efa86b1e08ac7e1e4a50f6";
+        new Image().src = "/track/visit/visit.gif?browser=" + browser + "&session=e8358d171b6dad92ab9ee0e6ebbfda8e2eefd344";
     }
 })();
 </script><script>
@@ -486,12 +348,50 @@ Script.includeOnce("http://w3.campusexplorer.com/js/library/jquery.autocomplete.
     }
     if (window.trackGoal) trackPageView();
 </script>
+<script>
+(function() {
+    function loadCPA () {
+        var cpa_cookie = {
+            create: function() {
+                document.cookie = "cpa_pixel_shown=1; path=/";
+            },
+            read: function() {
+                var name = "cpa_pixel_shown=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(name) === 0) return unescape(c.substring(name.length, c.length));
+                }
+                return null;
+            }
+        };
+        if (!cpa_cookie.read()) {
+            var ifrm = document.createElement("IFRAME");
+            ifrm.frameBorder = 0;
+            ifrm.style.width = 1 + "px";
+            ifrm.style.height = 1 + "px";
+            ifrm.style.position = "absolute";
+            ifrm.src = "//www.securepaths.com/pixel.cgi?s=&p=UNKNOWN&a=&cmp=&org=h7ea525b62eabpcsi104&rt=0_clickJS&rf=" + encodeURIComponent(document.referrer) + "&rd=";
+            document.body.appendChild(ifrm);
+            cpa_cookie.create();
+        }
+    }
+
+    if (document.readyState === "complete"){
+        loadCPA();
+    } else {
+        window.addEventListener ? window.addEventListener("load",loadCPA,false) : window.attachEvent && window.attachEvent("onload",loadCPA);
+    }
+})();
+</script>
+
+
+<script src="http://w3.campusexplorer.com/js/combine/assets/build/javascript/main.min.va45286.js" async="" onreadystatechange="this.onload=null;window.Script.declareReady(this.src,this.readyState)" onload="window.Script.declareReady(this.src)"></script>
 
 
 
 
-    
-      
 <div id="visual-whoiam" class="modal fade">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -514,15 +414,15 @@ Script.includeOnce("http://w3.campusexplorer.com/js/library/jquery.autocomplete.
         </div>
     </div>
 </div>
-    
 
 
-<!--[if lt IE 8]><script>$("<div></div>").prependTo("body").load("/ie-alert.html")</script><![endif]-->
+
+<!--[if lt IE 9]><script>$("<div></div>").prependTo("body").load("/ie-alert.html")</script><![endif]-->
 
 <!--
     u:
-    s:6ab07ef09ff13c7655efa86b1e08ac7e1e4a50f6
-    b:204.236.226.210.2290099171089925
+    s:e8358d171b6dad92ab9ee0e6ebbfda8e2eefd344
+    b:204.236.226.210.6466418494287779
     e:
     v:
     sc:
