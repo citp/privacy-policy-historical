@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120024127id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021220id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy| Starbucks Coffee Company | Starbucks Coffee Company
+# Privacy Policy | Starbucks Coffee Company
 
 Last updated August 13, 2013.
 
