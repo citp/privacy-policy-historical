@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007092618id_/http%3A//www.internshala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231034id_/http%3A//internshala.com/privacy) for the most accurate reproduction.*
 
 # Internshala | Privacy Policy
-
-If you face any problems browsing out new portal, please write to us at [support@internshala.com](mailto:support@internshala.com)
 
 ### Privacy Policy
 
