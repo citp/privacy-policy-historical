@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213022234id_/http%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628110842id_/https%3A//www.karmaloop.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Karmaloop.com
 
@@ -134,7 +134,7 @@ Karmaloop complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Saf
 
 Privacy Complaints by European Union Citizens:
 
-In compliance with the Safe Harbor Principles, Karmaloop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Karmaloop at: 617-695-0117
+In compliance with the Safe Harbor Principles, Karmaloop commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Karmaloop at: 617-695-0117617-695-0117
 
 Customer Service  
 Karmaloop  
