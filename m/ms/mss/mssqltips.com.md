@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811153720id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssqltips.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174354id_/http%3A//www.mssqltips.com/privacy.asp) for the most accurate reproduction.*
 
 # MSSQLTips - Privacy
 
@@ -35,6 +35,3 @@ We may update this policy from time to time to describe how new site features af
 If you have questions about our Privacy Statement, please e-mail us at [privacy@mssqltips.com](mailto:privacy@mssqltips.com).
 
 updated: 9/22/2011
-
-  
-
