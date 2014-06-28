@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819130826id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithlife.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628144638id_/https%3A//faithlife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Faithlife
 
 ### Visiting
 
-We record standard information on site visitors, including IP addresses, times and dates, referring/exit pages, operating systems, clickstreams, web browser brands and versions, pages visited, and user interface languages. Our sites set cookies in order to identify repeat visitors. 
+We record standard information on site visitors, including IP addresses, times and dates, referring/exit pages, operating systems, clickstreams, web browser brands and versions, pages visited, demographic data, and user-interface languages. Our sites set cookies in order to identify repeat visitors. This is statistical data about our visitors and does not personally identify any individual.
 
 ### Registration
 
@@ -66,9 +66,9 @@ We operate dozens of web sites and share accounts and information between them. 
 
 We use the information we collect from you to personalize your Faithlife experience, to improve our web site and product offerings, to keep Faithlife safe and secure, to make suggestions to you about groups to join or follow, to recommend products to you, to improve customer service, to process transactions you initiate, to administer contests, promotions, surveys, and other marketing campaigns.
 
-We do not rent or sell personally identifiable information without your permission. If you authorize us to allow third-parties to communicate with you, we will provide basic mailing list information including your name, address, phone number and email address. All of our third-party partners must respect your communication preferences, including your control over permission to email you.
+At times Logos Research Systems may make certain personal information available to strategic partners. We only work with reputable partners who will respect your communication preferences.
 
-We will not subscribe you to any email list without your express permission. All of our email subscriptions include clear instructions for unsubscribing. You may choose to unsubscribe from emails sent for marketing purposes or to tell you about new products.
+All of our email subscriptions include clear instructions for unsubscribing. You may choose to unsubscribe from emails sent for marketing purposes or to tell you about new products.
 
 Even if you unsubscribe, we may send you occasional one-time emails about your account. Emails are sent after you make a purchase (as receipts, and with instructions on downloading, etc.), to provide important technical/support information about our products, etc. 
 
