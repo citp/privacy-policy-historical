@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ireporterstv.co privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223042729id_/http%3A//ireporterstv.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireporterstv.co privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020134id_/http%3A//ireporterstv.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iReportersTV – World Largest Platform for African Video Content
+# Privacy Policy
 
 PRIVACY POLICY AND ACCOUNT SETTINGS 
 
