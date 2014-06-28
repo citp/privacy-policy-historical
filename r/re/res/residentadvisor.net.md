@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012233949id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105044id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
 
-# RA: Privacy policy
+# RA: Privacy
 
-1\. Introduction
+  * 1\. Introduction
 
 This policy covers Resident Advisor Limited's ("RA") use of personal information that is collected when you use [www.residentadvisor.net](http://www.residentadvisor.net/). 
 
@@ -31,3 +31,7 @@ In accordance with our requirements under the Data Protection Act 1998, RA shall
 5\. Users 16 and under
 
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to RA. 
+
+01 /
+
+
