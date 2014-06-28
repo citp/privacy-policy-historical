@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the pricelessarabia.com privacy policy that was archived on 2013-08-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130801071122id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pricelessarabia.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628215204id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
-
 
 
 
@@ -32,6 +31,8 @@
   <link rel="stylesheet" href="/etc/designs/mcoffer/_assets/css/libs/colorbox.css">
   <link rel="stylesheet" href="/etc/designs/mcoffer/_assets/css/libs/jquery.libs.min.css">
   
+  
+  
   <link rel="stylesheet" href="/etc/designs/mcoffer/_assets/css/style.css">
   
   
@@ -48,7 +49,7 @@
   
   
   
-
+  
   <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=189194653918"></script><script type="text/javascript" src="/etc/designs/mcoffer/_assets/js/libs/modernizr-2.0.6.min.js"></script>
   
   
@@ -62,7 +63,6 @@
 
 
 
-
 <body class="contentwithtitlepage page contentpage ">
 
 <div class="parbase clientcontext"><script type="text/javascript">
@@ -73,7 +73,7 @@ CQURLInfo = {
     "selectors": [],
     "extension": 'html',
     "suffix": null,
-    "systemId": '3eb2218b-333b-4f41-b569-29fa3434692a',
+    "systemId": 'b24fe35a-f220-433d-8acb-423efade845d',
     "runModes": 'publish'
 };</script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/librarymanager.js"></script>
@@ -98,7 +98,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
 if( CQ_Analytics && CQ_Analytics.SurferInfoMgr) {
     CQ_Analytics.SurferInfoMgr.loadInitProperties({
-  "IP": "10.85.44.162",
+  "IP": "10.85.44.161",
   "keywords": ""
 }, true);
 }if( CQ_Analytics && CQ_Analytics.TagCloudMgr) {
@@ -117,7 +117,7 @@ if( CQ_Analytics && CQ_Analytics.PageDataMgr) {
   "description": "",
   "sitesection": "arabia",
   "subsection": "en",
-  "random": "0.06"
+  "random": "0.90"
 }, true);
 }
  
@@ -163,17 +163,39 @@ if( CQ_Analytics && CQ_Analytics.PageDataMgr) {
     };
     
     
-
-    function redirectToOut() {
-        if(getCookie('userCountry') == '/content/mc-config/away-splash-sg/column-1/sg') {
-            
-            if(CommonUtil.getParameterByName('u') == '') {
-                window.location = 'https://www.priceless.com/priceless/singapore/Home'; 
+        $(document).ready(function() {
+            var cmpString = CommonUtil.getParameterByName('cmp');
+            var cmpCode = CommonUtil.getParameterByName('cmpcode');
+            var cookieStr = "";
+            var pageLang = "en";
+                
+            if(cmpCode != '') {
+                setCookie('userCmpCode', cmpCode);
+            }                
+           
+            if(cmpString != '') {
+                var cmpStringAry = cmpString.split("-");
+                if (cmpStringAry.length >= 2) {
+                        cookieStr = cmpStringAry[0]+"-"+cmpStringAry[1];
+                        $("#country-select option").each(function()
+                        {
+                            var tempStr = $(this).val();
+                            
+                            if (tempStr.substring(tempStr.lastIndexOf("/")+1) == cookieStr) {
+                                //console.log("------valid country--------");
+                                if (pageLang == cmpStringAry[1]) {
+                                    setCookie('userCountry', $(this).val());
+                                }
+                            }
+                        });
+                }
             }
-        }
-        awaySplash.psgToggleWhatson();
-    }
+        });
+    
+
 </script> 
+
+
 
 
 
@@ -191,7 +213,6 @@ if( CQ_Analytics && CQ_Analytics.PageDataMgr) {
                      
 
 
-
 <li id="logo">    
 
             <a href="/content/priceless/arabia/en/cities/arabia/toolbar.html">MasterCard Logo</a>
@@ -205,45 +226,88 @@ if( CQ_Analytics && CQ_Analytics.PageDataMgr) {
 
 
 
-<li id="priceless" class="first"><a href="/content/priceless/arabia/en/cities/arabia.html" onclick="userClickedTopNav('arabia');">Priceless Arabia <br>(Beta)</a></li>
+<li id="priceless" class="first"><a href="/content/priceless/arabia/en/cities/arabia.html" onclick="userClickedTopNav('arabia');">Priceless Arabia</a></li>
                           <li id="experiences"><a href="/content/priceless/arabia/en/cities/arabia/offers.html" onclick="userClickedTopNav('offers');">Local <br>Experiences <br>&amp; Offers</a>
                           
         <div class="menu-dropdown grid-4">
           <div class="heading"></div>
-<div class="grid-2"><ul class="submenu first"><li><a href="/content/priceless/arabia/en/cities/arabia/offers/dining.html" onclick="userClickedTopNav('offers|dining');">Dining</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/entertainment.html" onclick="userClickedTopNav('offers|entertainment');">Entertainment</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/travel.html" onclick="userClickedTopNav('offers|travel');">Travel &amp; Hotels</a></li></ul></div><div class="grid-2"><ul class="submenu "><li><a href="/content/priceless/arabia/en/cities/arabia/offers/attractions.html" onclick="userClickedTopNav('offers|attractions');">Attractions</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/sports.html" onclick="userClickedTopNav('offers|sports');">Sports</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/shopping.html" onclick="userClickedTopNav('offers|shopping');">Shopping</a></li></ul></div>
+<div class="grid-2"><ul class="submenu first"><li><a href="/content/priceless/arabia/en/cities/arabia/offers/dining.html" onclick="userClickedTopNav('offers|dining');">Dining</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/travel.html" onclick="userClickedTopNav('offers|travel');">Travel &amp; Hotels</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/sports.html" onclick="userClickedTopNav('offers|sports');">Sports</a></li></ul></div><div class="grid-2"><ul class="submenu "><li><a href="/content/priceless/arabia/en/cities/arabia/offers/entertainment.html" onclick="userClickedTopNav('offers|entertainment');">Entertainment</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/attractions.html" onclick="userClickedTopNav('offers|attractions');">Attractions</a></li><li><a href="/content/priceless/arabia/en/cities/arabia/offers/shopping.html" onclick="userClickedTopNav('offers|shopping');">Shopping</a></li></ul></div>
            <div class="clearfix"></div>
         </div>
  </li>
-                          <li id="travel"><a href="/content/priceless/arabia/en/cities/arabia/travel-with-mastercard.html" onclick="userClickedTopNav('travel-with-mastercard');">Regional <br>Experiences <br>&amp; Offers</a>
+                          <li id="travel"><a href="/content/priceless/arabia/en/cities/arabia/travel-with-mastercard.html" onclick="userClickedTopNav('travel-with-mastercard');">International <br>Experiences <br>&amp; Offers</a>
                           </li>
                           <li><a href="/content/priceless/arabia/en/cities/arabia/about.html" onclick="userClickedTopNav('about');">About Program</a>
                           </li>
                           <li id="world"><a href="/content/priceless/arabia/en/cities/arabia/worldcard.html" onclick="userClickedTopNav('worldcard');">World &amp; World Elite<sup>TM</sup><br>MasterCard<sup>®</sup> Benefits</a>
                           </li>
+                          <li id="travel"><a href="/content/priceless/arabia/en/cities/arabia/mobile-app.html" onclick="userClickedTopNav('mobile-app');">Mobile App</a>
+                          </li>
       
-      
-      <!-- 
-      <li id="travel"><a href="#">和万事达卡一起旅行</a></li>
-       -->
-      <!-- 20120229 take out temp 
-      <li id="whatson"><a href="#">精选活动预告  </a></li>
-      -->
-<!-- 
-      <li id="search"><a href="#">搜索</a>
-         <div class="menu-dropdown grid-4">
-             <div class="search-input">  
-             <form>
-             <input type="text" name="search" id="search" placeholder="输入关键词">
-             <a class="cta-button submit" href="#"><span>搜索</span></a>
-             <div class="clearfix"></div>
-             </form>
-           </div>
-         </div>
-      </li>
-    </ul>
-    -->
- 
 <script type="text/javascript">
+$(document).ready(function() {
+    
+    
+    cityNavChange();
+    
+});
+
+function cityNavChange() {
+    var target = "/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy/jcr:content.updatecitynav.html";
+    var userCountry      = "ae"; // set a default country
+    var userLanguage     = "en";
+    var offerSummaryPath = $("#experiences a").attr("href").replace(".html", "");
+    var offerPath = "/content/mc/offer-exchange/priceless";
+    
+    if (getCookie('userCountry') != null) {
+        ///content/mc-config/away-splash-ar/column-1/ae-en
+        userCountry = getCookie('userCountry');
+        userCountry = userCountry.substring(userCountry.lastIndexOf("/")+1,userCountry.lastIndexOf("-")); // to get countrycode
+    }
+    
+    $.ajax({ 
+            type: 'POST', 
+            url: target, // Which url should handle the ajax request. 
+            data: { userCountry : userCountry, offerSummaryPath : offerSummaryPath, offerPath : offerPath, userLanguage : userLanguage }, 
+            success: updateCityNav, 
+            dataType: 'json'
+    });
+
+}
+
+function updateCityNav(data) {
+    var categorylist1 = "";
+    var categorylist2 = "";
+    var counter = 0;
+    var offerbucket = "";
+    
+    offerbucket = data.offerBucket;
+    
+    if (offerbucket == "local") {
+    
+        $.each(data.categories, function(i, item) {
+            counter = counter + 1;
+            
+            if (counter % 2 == 1) {
+                categorylist1 = categorylist1 + "<li><a href=\""+ item.link +"\" onclick=\"userClickedTopNav('offers|"+ item.category +"');\">"+ item.categoryname +"</a>" + "</li>";
+            } else {
+                categorylist2 = categorylist2 + "<li><a href=\""+ item.link +"\" onclick=\"userClickedTopNav('offers|"+ item.category +"');\">"+ item.categoryname +"</a>" + "</li>";
+            }
+        });
+       
+        if (counter > 0) {
+            $("#experiences div div ul").html(categorylist2);
+            $("#experiences div div ul.first").html(categorylist1);
+        } else {
+            $("#experiences div").hide();
+        }
+    } else {
+        $("#experiences").hide();
+        if (offerbucket == "others-others") {
+            $("#others-others-notice").show();
+        }
+    }
+}
 
 function userClickedTopNav(navName) {
      var CQ_data = new Object();   
@@ -323,13 +387,12 @@ function userClickedTopNav(navName) {
 
 
 
-
     <div id="sign-in-block">
 
       <div id="greeting"></div>
       
       <div id="language">
-        <form><div class="selector" id="uniform-country-select"><span>Please select...</span><select id="country-select" name="country-select" size="1" style="opacity: 0;"><option value="">Please select...</option><option value="/content/mc-config/away-splash-ar/column-1/ae-en">United Arab Emirates: English</option><option value="/content/mc-config/away-splash-ar/column-1/sa-en">Saudi Arabia: English</option><option value="/content/mc-config/away-splash-ar/column-1/qa-en">Qatar: English</option><option value="/content/mc-config/away-splash-ar/column-1/kw-en">Kuwait: English</option><option value="/content/mc-config/away-splash-ar/column-1/om-en">Oman: English</option><option value="/content/mc-config/away-splash-ar/column-1/bh-en">Bahrain: English</option><option value="/content/mc-config/away-splash-ar/column-1/jo-en">Jordan: English</option><option value="/content/mc-config/away-splash-ar/column-1/lb-en">Lebanon: English</option><option value="/content/mc-config/away-splash-ar/column-1/eg-en">Egypt: English</option><option value="/content/mc-config/away-splash-ar/column-1/ma-en">Morocco: English</option><option value="/content/mc-config/away-splash-ar/column-2/ae-ar">الإمارات : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/sa-ar">السعوديّة : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/qa-ar">قطر : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/kw-ar">الكويت : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/om-ar">عمان : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/bh-ar">البحرين : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/jo-ar">الأردن : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/lb-ar">لبنان : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/eg-ar">مصر : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/ma-ar">المغرب : العربية</option></select></div></form>
+        <form><div class="selector" id="uniform-country-select"><span>Please select...</span><select id="country-select" name="country-select" size="1" style="opacity: 0;"><option value="">Please select...</option><option value="/content/mc-config/away-splash-ar/column-1/ae-en">United Arab Emirates: English</option><option value="/content/mc-config/away-splash-ar/column-1/sa-en">Saudi Arabia: English</option><option value="/content/mc-config/away-splash-ar/column-1/qa-en">Qatar: English</option><option value="/content/mc-config/away-splash-ar/column-1/kw-en">Kuwait: English</option><option value="/content/mc-config/away-splash-ar/column-1/om-en">Oman: English</option><option value="/content/mc-config/away-splash-ar/column-1/bh-en">Bahrain: English</option><option value="/content/mc-config/away-splash-ar/column-1/jo-en">Jordan: English</option><option value="/content/mc-config/away-splash-ar/column-1/lb-en">Lebanon: English</option><option value="/content/mc-config/away-splash-ar/column-1/eg-en">Egypt: English</option><option value="/content/mc-config/away-splash-ar/column-1/ma-en">Morocco: English</option><option value="/content/mc-config/away-splash-ar/column-3/meaothers-en">Other Countries in Middle East &amp; Africa</option><option value="/content/mc-config/away-splash-ar/column-3/othersothers-en">All Other Countries</option><option value="/content/mc-config/away-splash-ar/column-2/ae-ar">الإمارات : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/sa-ar">السعوديّة : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/qa-ar">قطر : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/kw-ar">الكويت : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/om-ar">عمان : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/bh-ar">البحرين : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/jo-ar">الأردن : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/lb-ar">لبنان : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/eg-ar">مصر : العربية</option><option value="/content/mc-config/away-splash-ar/column-2/ma-ar">المغرب : العربية</option><option value="/content/mc-config/away-splash-ar/column-4/mo-ar">دول أخرى في الشرق الأوسط وأفريقيا</option></select></div></form>
 
       </div>
 
@@ -348,6 +411,9 @@ function userClickedTopNav(navName) {
  
 
 <script type="text/javascript">
+var isloggedin = "";
+
+
 $('#logout1').click(function() {
       var target = "/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy/jcr:content.logout.html";
       $.ajax({
@@ -375,8 +441,12 @@ $(document).ready(function() {
     
     $('#country-select').on('change', function(event) {        
         setCookie('userCountry', $('select#country-select option:selected').val());
+        
+        try {
+            //if offer page
+            updateOfferCTA();
+        } catch(e) {}
 
-            
 
         var target = "/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy/jcr:content.awayredirect.html";
         var cookieVal = getCookie('userCountry');
@@ -440,12 +510,14 @@ function updateGreeting(data){
 
     
     
-    //[DEV] Arabia.  Lock country-selector if user is logged in - 20130507
+    //[DEV] Arabia/AFrica.  Lock country-selector if user is logged in - 20130507
     var region = "arabia".toLowerCase();
     var REGION_ARAB = "arabia".toLowerCase();
-    if (region == REGION_ARAB && data.userRegCountry != null && data.userRegLanguage != null && data.logout == 'show'){
+    var REGION_AFRICA = "africa".toLowerCase();
+    if ((region == REGION_ARAB || region == REGION_AFRICA) && data.userRegCountry != null && data.userRegLanguage != null && data.logout == 'show'){
         //$('div#language select').attr("disabled", true); 
         //$('#country-select').val(cookieUserCountry);
+        
         var userRegCountry = data.userRegCountry.toLowerCase() + "-" + data.userRegLanguage.toLowerCase();
         var isRegSiteCountry = false;
         $("#country-select > option").each(function() {
@@ -459,6 +531,7 @@ function updateGreeting(data){
         });
         
         if (!isRegSiteCountry){
+        //alert(data.userRegCountry);
             $('#country-select').val(getCookie('userCountry'));
             $.uniform.update("#country-select");
         }
@@ -473,21 +546,30 @@ function updateGreeting(data){
         }
     }
     
-    if (data.login == 'show')
-        $("#loginnav").css('display', 'block'); 
-    else
+    if (data.login == 'show') {
+        $("#loginnav").css('display', 'block');
+        
+        logged("n");
+        
+    } else {
         $("#loginnav").css('display', 'none');
-    
-    if (data.logout == 'show')
+        isloggedin = "true";
+        logged("y");
+    }
+    if (data.logout == 'show') {
         $('#logoutnav').css('display', 'block');
-    else
+        
+        isloggedin = "true";
+        logged("y");
+    } else {
         $('#logoutnav').css('display', 'none');
-    
+        logged("n");
+    }
     if (data.register == 'show') {
         
         if(data.regtracking != null && data.regtracking) {
             $('#registernav > a').click(function() {
-            	var link = $('#registernav > a');
+                var link = $('#registernav > a');
                 var initial_loc = link.attr('href');
                 link.attr('href', '');
                 mmConversionTag(data.regtracking, link, null, initial_loc);
@@ -631,24 +713,24 @@ function userClickedSignNav(navName) {
 <br>
 MasterCard respects your privacy.&nbsp; This Privacy Policy describes how we process personal data, the types of personal data we collect, for what purposes we use that personal data, with whom we share it, and the choices you can make about our use of the personal data.&nbsp; We also describe the measures we take to protect the security of the personal data and how you can contact us about our privacy practices.<br>
 <br>
-MasterCard International Incorporated (“<b>MasterCard</b>”) is the entity responsible for the processing of your personal data in the context of the Priceless Arabia Program (“<b>Priceless Arabia</b>”).&nbsp; Your visit to <a adhocenable="false" href="http://www.pricelessarabia.com">www.pricelessarabia.com</a> (the “Site”) and participation in Priceless Arabia is subject to this Privacy Policy and to our <a adhocenable="false" href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/terms-of-use.html" target="_blank">Terms of Use</a>. &nbsp;<br>
+MasterCard International Incorporated (“<b>MasterCard</b>”) is the entity responsible for the processing of your personal data in the context of the Priceless Arabia Program (“<b>Priceless Arabia</b>”).&nbsp; Your visit to <a href="http://www.pricelessarabia.com" adhocenable="false">www.pricelessarabia.com</a> (the “Site”) and participation in Priceless Arabia is subject to this Privacy Policy and to our <a target="_blank" href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/terms-of-use.html" adhocenable="false">Terms of Use</a>. &nbsp;<br>
 <br>
-This Privacy Policy applies to the personal data collected via Priceless Arabia only.&nbsp; It does not cover the collection and use of your personal data on any MasterCard branded websites or by your MasterCard Card issuers (e.g., your bank), or any other information or communications that may reference to MasterCard outside the program (e.g., communications from banks, card issuers).&nbsp; For more information about MasterCard’s privacy practices outside the scope of Priceless Arabia, please visit our Global Privacy Policy at <a adhocenable="false" href="http://www.mastercard.com" target="_blank">www.mastercard.com</a>.<br>
+This Privacy Policy applies to the personal data collected via Priceless Arabia only.&nbsp; It does not cover the collection and use of your personal data on any MasterCard branded websites or by your MasterCard Card issuers (e.g., your bank), or any other information or communications that may reference to MasterCard outside the program (e.g., communications from banks, card issuers).&nbsp; For more information about MasterCard’s privacy practices outside the scope of Priceless Arabia, please visit our Global Privacy Policy at <a target="_blank" href="http://www.mastercard.com" adhocenable="false">www.mastercard.com</a>.<br>
 <br>
 Children and minors (under the age of 18) are not eligible to register in Priceless Arabia. &nbsp;<br>
 <br>
 Click on one of the links below to jump to the listed section:<br>
 &nbsp;&nbsp; &nbsp;<br>
-1.&nbsp; <a adhocenable="false" href="#Personal Data We Collect and How We Use it">Personal Data We Collect and How We Use it</a><br>
-&nbsp;&nbsp; &nbsp;1.1 <a href="#Personal Data You Provide Us Directly" adhocenable="false">Personal Data You Provide Us Directly</a><br>
-&nbsp;&nbsp; &nbsp;1.2 <a href="#Personal Data We Collect Automatically" adhocenable="false">Personal Data We Collect Automatically</a><br>
-2.&nbsp; <a adhocenable="false" href="#Your Rights and Choices">Your Rights and Choices</a><br>
-3.&nbsp; <a adhocenable="false" href="#Information We Share">Information We Share</a><br>
-4.&nbsp; <a adhocenable="false" href="#Data Transfers">Data Transfers</a><br>
-5.&nbsp; <a adhocenable="false" href="#Links to Other Websites">Links to Other Websites</a><br>
-6.&nbsp; <a adhocenable="false" href="#Data Security">Data Security</a><br>
-7.&nbsp; <a adhocenable="false" href="#Update to this Privacy Policy">Update to this Privacy Policy</a><br>
-8.&nbsp; <a adhocenable="false" href="#How to Contact Us">How to Contact Us</a><br>
+1.&nbsp; <a href="#Personal Data We Collect and How We Use it" adhocenable="false">Personal Data We Collect and How We Use it</a><br>
+&nbsp;&nbsp; &nbsp;1.1 <a adhocenable="false" href="#Personal Data You Provide Us Directly">Personal Data You Provide Us Directly</a><br>
+&nbsp;&nbsp; &nbsp;1.2 <a adhocenable="false" href="#Personal Data We Collect Automatically">Personal Data We Collect Automatically</a><br>
+2.&nbsp; <a href="#Your Rights and Choices" adhocenable="false">Your Rights and Choices</a><br>
+3.&nbsp; <a href="#Information We Share" adhocenable="false">Information We Share</a><br>
+4.&nbsp; <a href="#Data Transfers" adhocenable="false">Data Transfers</a><br>
+5.&nbsp; <a href="#Links to Other Websites" adhocenable="false">Links to Other Websites</a><br>
+6.&nbsp; <a href="#Data Security" adhocenable="false">Data Security</a><br>
+7.&nbsp; <a href="#Update to this Privacy Policy" adhocenable="false">Update to this Privacy Policy</a><br>
+8.&nbsp; <a href="#How to Contact Us" adhocenable="false">How to Contact Us</a><br>
 <br>
 <a name="Personal Data We Collect and How We Use it"></a><b><u>1.&nbsp; Personal Data We Collect and How We Use it</u></b><br>
 <br>
@@ -664,9 +746,9 @@ The personal data you provide to us directly are processed and used only for the
 <br>
 <u>Marketing Communications and Offers</u>:&nbsp; During the registration process, you may decide to tell us your preferences so that we can let you know when related offers, opportunities or private events become available. For example, you may establish criteria for the types of marketing communications and offers you wish to receive (i.e., Travel &amp; Hotels, Dining, Shopping, Sports, Attractions, Entertainment). &nbsp;<br>
 <br>
-In order to send you these marketing communications, we use your personal data such as your name, e-mail address, and preferences.&nbsp; You can, at any time and free of charge, choose not to receive any notifications by utilizing the unsubscribe functionality within the e-mail or SMS sent to you, or by e-mailing us using: <a adhocenable="false" href="mailto:pricelessarabia@mastercard.com">pricelessarabia@mastercard.com</a>. You can also use the “My Profile” section to opt-out from receiving marketing communications or to specify which, if any, marketing communications you would like to receive.<br>
+In order to send you these marketing communications, we use your personal data such as your name, e-mail address, and preferences.&nbsp; You can, at any time and free of charge, choose not to receive any notifications by utilizing the unsubscribe functionality within the e-mail or SMS sent to you, or by e-mailing us using: <a href="mailto:pricelessarabia@mastercard.com" adhocenable="false">pricelessarabia@mastercard.com</a>. You can also use the “My Profile” section to opt-out from receiving marketing communications or to specify which, if any, marketing communications you would like to receive.<br>
 <br>
-<u>Your account</u>: At any time after logging in you can access your account by clicking on "My Profile". Once you have successfully entered the My Profile page, you can view or change your personal details (e.g., name, email address, password) and manage your e-mail subscriptions. You may select which type of offers (i.e., Travel &amp; Hotels, Dining, Shopping, Sports, Attractions, Entertainment) about town you are interested in receiving via the monthly newsletter and other e-mail communications. You may also select to deactivate your Priceless Arabia account by contacting us at <a adhocenable="false" href="mailto:pricelessarabia@mastercard.com">pricelessarabia@mastercard.com</a> or, where available, selecting the option in the My Profile section.<br>
+<u>Your account</u>: At any time after logging in you can access your account by clicking on "My Profile". Once you have successfully entered the My Profile page, you can view or change your personal details (e.g., name, email address, password) and manage your e-mail subscriptions. You may select which type of offers (i.e., Travel &amp; Hotels, Dining, Shopping, Sports, Attractions, Entertainment) about town you are interested in receiving via the monthly newsletter and other e-mail communications. You may also select to deactivate your Priceless Arabia account by contacting us at <a href="mailto:pricelessarabia@mastercard.com" adhocenable="false">pricelessarabia@mastercard.com</a> or, where available, selecting the option in the My Profile section.<br>
 <br>
 <u>Social media</u>:&nbsp;&nbsp;&nbsp; You may select to "like" an offer, via your Facebook account or to "tweet" an offer using Twitter.&nbsp; Social media providers such as Facebook or Twitter are independent from MasterCard, and do not necessarily share the same policy as MasterCard with regard to the protection of privacy.&nbsp; Please verify their privacy policies if you decide to use their services.&nbsp; MasterCard cannot be held liable for any of these social websites' content, use or privacy practices.<br>
 <u><br>
@@ -694,9 +776,9 @@ You have the right to receive information about the data stored about you and to
 <br>
 At any time, you can access your account by clicking on "My Profile". Once you have successfully entered the preferences page, you can view or change your personal details and manage your e-mail subscriptions by modifying the type of offers you are interested in receiving via the monthly newsletter and other e-mail communications. You can also choose not to receive marketing e-mails from us by using the opt-out option provided in each electronic marketing communication or by using the contact details provided in the “How to Contact Us” section below.<br>
 <br>
-You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on Priceless Arabia. If you would like to opt-out, click <a target="_blank" href="https://www.mastercard.com/us/personal/en/general/web-analytics-opt-out.html">here</a>. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features.<br>
+You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on Priceless Arabia. If you would like to opt-out, click <a href="https://www.mastercard.com/us/personal/en/general/web-analytics-opt-out.html" target="_blank">here</a>. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features.<br>
 </p>
-<p>If you decide you no longer want MasterCard to process your personal data, at your request we will deactivate your account, and your data will be deleted except where otherwise provided by the applicable law.&nbsp; You may request to deactivate your Priceless Arabia account by contacting us at <a adhocenable="false" href="mailto:pricelessarabia@mastercard.com">pricelessarabia@mastercard.com</a> or, where available, selecting the option in the My Profile section. Please note that if you deactivate your account, you will no longer have access to Priceless Arabia. &nbsp;<br>
+<p>If you decide you no longer want MasterCard to process your personal data, at your request we will deactivate your account, and your data will be deleted except where otherwise provided by the applicable law.&nbsp; You may request to deactivate your Priceless Arabia account by contacting us at <a href="mailto:pricelessarabia@mastercard.com" adhocenable="false">pricelessarabia@mastercard.com</a> or, where available, selecting the option in the My Profile section. Please note that if you deactivate your account, you will no longer have access to Priceless Arabia. &nbsp;<br>
 <br>
 If we fall short of your expectations in processing your personal data, please tell us because it gives us an opportunity to fix the problem. You may contact us by using the contact details provided in the “How to Contact Us” section below.<br>
 <br>
@@ -706,7 +788,7 @@ We do not disclose personal data collected in the context of Priceless Arabia, e
 <br>
 We may share your personal data with our affiliates. We may also share your personal data provided with service providers we have retained to perform services on our behalf and in relation to the purposes described in this Privacy Policy.&nbsp; Examples include our operating platform provider, platform hosting, email service provider, fulfillment service provider and customer service or call centre providers. When we use third party service providers, we take all necessary steps to ensure a high level of data protection.&nbsp; We require them to only process the data in accordance with our instructions and to guarantee the security of the data.&nbsp; These service providers are not authorized by us to use or disclose the information, except as necessary to perform services on our behalf or to comply with legal requirements.<br>
 <br>
-We have engaged The Entertainer FZ LLC to source for offers and experiences. When you select an offer and experience, you may be brought to The Entertainer FZ LLC’s website to redeem the offer and experience. The Entertainer FZ LLC will be processing personal data for its own purposes under the terms of the agreement MasterCard has with The Entertainer FZ LLC in the context of Priceless Arabia, and we invite you to read <a target="_blank" href="http://www.theentertainerme.com/privacy-and-cookies">The Entertainer’s Privacy Notice</a> for more information on its privacy practices. In addition, other merchants may provide offers and experiences to you directly, and any collection or use of personal data by those merchants will be subject to those merchants’ privacy notice.<br>
+We have engaged The Entertainer FZ LLC to source for offers and experiences. When you select an offer and experience, you may be brought to The Entertainer FZ LLC’s website to redeem the offer and experience. The Entertainer FZ LLC will be processing personal data for its own purposes under the terms of the agreement MasterCard has with The Entertainer FZ LLC in the context of Priceless Arabia, and we invite you to read <a href="http://www.theentertainerme.com/privacy-and-cookies" target="_blank">The Entertainer’s Privacy Notice</a> for more information on its privacy practices. In addition, other merchants may provide offers and experiences to you directly, and any collection or use of personal data by those merchants will be subject to those merchants’ privacy notice.<br>
 <br>
 If you have an enquiry or complaint in relation to a particular offer or experience, we may route your enquiry or complaint (and hence personal data contained in the enquiry or complaint e.g., name, email address, phone number, the subject of your complaint) to the relevant merchant or The Entertainer FZ LLC (where The Entertainer FZ LLC had sourced for the offer or experience) in order for them to respond to the enquiry or complaint.<br>
 <br>
@@ -720,7 +802,7 @@ We reserve the right to transfer any data we have about you in the event we sell
 <br>
 The transfer of personal data outside of your country may be subject to restrictions.&nbsp; If we transfer personal data outside of your country, we take all the necessary steps to ensure compliance with applicable data protection law, in particular, the legal requirements on adequate protection for data transfers to countries outside of your country. &nbsp;<br>
 <br>
-In the context of this program, MasterCard may transfer, process and store your personal data in a centralized database located at MasterCard International Inc - MasterCard’s headquarters located in the U. S.&nbsp; MasterCard International Inc is certified under the EU-U.S. Safe Harbor privacy framework as set forth by the U. S.&nbsp; Department of Commerce, and the European Commission to provide adequate protection to your personal data.&nbsp; Please visit <a adhocenable="false" href="http://www.MasterCard.com" target="_blank">www.MasterCard.com</a> or <a href="http://www.mastercard.com/us/personal/en/general/safe-harbor-privacy-policy.html" target="_blank">click here</a> to view our Safe Harbor Privacy Policy.<br>
+In the context of this program, MasterCard may transfer, process and store your personal data in a centralized database located at MasterCard International Inc - MasterCard’s headquarters located in the U. S., and in a database in Singapore.&nbsp; MasterCard International Inc is certified under the EU-U.S. Safe Harbor privacy framework as set forth by the U. S.&nbsp; Department of Commerce, and the European Commission to provide adequate protection to your personal data.&nbsp; Please visit <a target="_blank" href="http://www.MasterCard.com" adhocenable="false">www.MasterCard.com</a> or <a target="_blank" href="http://www.mastercard.com/us/personal/en/general/safe-harbor-privacy-policy.html">click here</a> to view our Safe Harbor Privacy Policy.<br>
 <br>
 <b><a name="Links to Other Websites"></a>5.&nbsp; Links to Other Websites</b><br>
 <br>
@@ -744,7 +826,7 @@ We will never ask you for your password in any unsolicited communication (includ
 <br>
 The entity responsible for the collection and use of your personal data in the context of Priceless Arabia is MasterCard International Incorporated. &nbsp;<br>
 <br>
-If you would like to (i) obtain more information on how we process your personal data or to access your personal data; (ii) rectify or delete any personal data relating to you; (iii) withdraw your consent given for certain types of data processing; (iv) change your preferences or remove your e-mail address from our mailing lists; or (v) if you have any questions, comments or concerns about our privacy practices, please contact us by emailing us at <a adhocenable="false" href="mailto:pricelessarabia@mastercard.com">pricelessarabia@mastercard.com</a> or by addressing your mail to:<br>
+If you would like to (i) obtain more information on how we process your personal data or to access your personal data; (ii) rectify or delete any personal data relating to you; (iii) withdraw your consent given for certain types of data processing; (iv) change your preferences or remove your e-mail address from our mailing lists; or (v) if you have any questions, comments or concerns about our privacy practices, please contact us by emailing us at <a href="mailto:pricelessarabia@mastercard.com" adhocenable="false">pricelessarabia@mastercard.com</a> or by addressing your mail to:<br>
 <br>
 Global Privacy &amp; Data Usage Officer<br>
 MasterCard International Inc<br>
@@ -765,7 +847,6 @@ For all other enquiries about your MasterCard card and your purchase, you must c
 
 
     
-
 
 
    <footer>
@@ -874,7 +955,7 @@ function userClickedFooterSummary(linkClicked) {
 <div class="clearfix"></div></div>
 
             
-                    <a class="cta cta-arrow arrow-right-fff" href="/content/priceless/arabia/en/cities/arabia/toolbar/contact-us.html" onclick="userClickedFooterSummary('Contact Us|CONTACT US NOW');">CONTACT US NOW</a>
+                    <a class="cta cta-arrow arrow-right-fff" href="/content/priceless/arabia/en/cities/arabia/toolbar/profile/contact-us.html" onclick="userClickedFooterSummary('Contact Us|CONTACT US NOW');">CONTACT US NOW</a>
                     
             </div>
         </div>
@@ -905,7 +986,6 @@ function userClickedFooterSummary(linkClicked) {
           
 
 
-
           <ul class="primary inline">
                       <li><a href="http://www.mastercard.com/mel/en/gateway.html" onclick="userClickedFooter('about-mastercard');" target="_blank" class="">About MasterCard</a></li>
               
@@ -934,7 +1014,7 @@ function userClickedFooterSummary(linkClicked) {
               </li>
                                   
                 
-                <li><span>©1994-2013 MasterCard</span></li>
+                <li><span>©1994-2014 MasterCard</span></li>
               </ul>
               
 
@@ -993,6 +1073,47 @@ function userClickedFooter(footerName) {
  <!-- end of container -->
 
 
+
+
+
+
+
+
+<script type="text/javascript">
+
+    <!-- Ready: START -->
+    $(document).ready(function()
+    {   
+        var mobileCurrentPagePath = getCookie('mobileCurrentPagePath');
+        
+        if(mobileCurrentPagePath == undefined || mobileCurrentPagePath == null || mobileCurrentPagePath == '') {
+            
+            mobileCurrentPagePath = $(location).attr('href');
+            setCookie('mobileCurrentPagePath', mobileCurrentPagePath);
+        }
+        
+        
+        if((/Android|webOS|iPhone|iPad|iPod|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
+            var mobileSplashActiveSession = getCookie('mobileSplashActiveSession');
+            var showMobileSplashPage = getCookie('showMobileSplashPage');
+            
+            //alert(mobileSplashActiveSession);
+            //alert(showMobileSplashPage);
+            if(mobileSplashActiveSession == undefined) {
+                if(showMobileSplashPage == undefined || showMobileSplashPage == 'yes') {
+                    window.location.href = '/content/priceless/arabia/en/cities/arabia/toolbar/misc/mobilesplash.html';
+                    }
+            }
+        } else {
+            return;
+        }
+    });
+    <!-- Ready: END -->
+</script>
+
+
+
+    
 <!-- Hidden Inline Call for Splash: START -->
 
 <div class="awaysplash breadcrumb">
@@ -1001,6 +1122,19 @@ function userClickedFooter(footerName) {
 
 
 <script type="text/javascript">
+    
+    function selectorClick(countryPagePath, countryTitle, isHandleRedirect) {    
+        remSplashSelection(countryPagePath);
+        try {
+            //if offer page
+            updateOfferCTA();
+        } catch(e) {}
+        registerSplashClickEvent(countryTitle);
+        if(isHandleRedirect)
+            handleLink();
+    }
+    
+
     
     function handleLink() {
         var target = '/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy/jcr:content.awayredirect.html';
@@ -1060,7 +1194,7 @@ function userClickedFooter(footerName) {
             console.log(e);
         }
         
-        
+
     }
 
     
@@ -1069,6 +1203,29 @@ function userClickedFooter(footerName) {
         CQ_data["homecountry"] = countryname;
         CQ_Analytics.record({event: 'countryclick', values: CQ_data, componentPath: 'mcoffer/components/awaycontent/awaysplash' }); 
     }
+    
+    //Annotate 20140109: To handle auto redirection based on cookies
+    function redirectLandingPage() {
+        var target = '/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy/jcr:content.awayredirect.html';
+        var cookieVal = getCookie('userCountry');
+        $.ajax({ 
+            type: 'POST', 
+            url: target, 
+            data: { userCountry : cookieVal }, 
+            success: function(data) {
+                if(data.redirectLink != null && data.redirectLink.length > 0) {
+                    var currentPath = window.location.pathname;
+                    if (currentPath != data.redirectLink) {
+                        $(location).attr('href', data.redirectLink);
+                 
+                    }
+                } else {
+                    closeSplashColorBox();
+                }
+            }, 
+            dataType: 'json'
+        });
+    }     
 
     <!-- Ready: START -->
     $(document).ready(function()
@@ -1083,7 +1240,22 @@ function userClickedFooter(footerName) {
                 
                 $('#splashPopup').trigger('click'); 
             }
-        } 
+        } else {
+            //Annotate 20140109
+            //This solution is to fix issue when visitor visits the site via the public domain, like www.pricelesshongkong.com
+            //and always got redirected to the default landing page, but not based on the selected country/locale in cookie
+            //The homepage and domain mapping for each locale site is configurable at Page Properties
+            
+
+            var domainName = "www.pricelessarabia.com";
+            var homePagePath = "/content/priceless/arabia/en/cities/arabia.html";
+            
+            //only for home page we redirect!.!
+            if(homePagePath == window.location.pathname || 
+               (domainName == window.location.hostname && window.location.pathname == "/")) {
+                redirectLandingPage();
+            }
+        }
         
         <!-- Show Full Country Listings -->
         /*$(".splashBtn").click(function() 
@@ -1109,11 +1281,15 @@ function userClickedFooter(footerName) {
 <a href="#splash_popup" class="viewInline cboxElement" id="splashPopup"></a>
     
     <div style="display:none;">
+
         <div style="display: none;"></div>
-    </div>   </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
 
 
 <!-- Hidden Inline Call for Splash: END -->
+    
 
 
 
@@ -1127,7 +1303,7 @@ function userClickedFooter(footerName) {
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy.html+%2879ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,79,0,79&chxr=0,0,79&chd=t:4,4,6,12,12,12,13,13,14,14,14,14,15,16,19,19,20,27,29,31,45,46,48,49,49,50,52,53,54,55,57,58,59,60,61,62,71,72|1,6,0,0,5,5,0,1,0,0,0,0,1,1,1,26,7,4,2,14,1,6,0,0,3,2,18,0,8,2,0,1,0,2,0,8,8,0&chly=mobileredirect.jsp|head.jsp|init.jsp|stores.init.js%29|init.js.jsp|clientcontext.jsp|genericstorerenderer_0...|init.js.jsp|tagcloud.init.js%29|init.js.jsp|resolvedsegments.init.js%29|init.js.jsp|sitecatalyst.js.jsp|pagedata.js.jsp|toolbar.jsp|header.jsp|citynav.jsp|search.jsp|mc_searchform.jsp|signnav.jsp|marquee.jsp|content.jsp|parsys.jsp|mc_title.jsp|parsys.jsp|textwhitebg.jsp|footer.jsp|par%29|parsys.jsp|footersummary.jsp|textwhitebg.jsp|footersummary.jsp|textwhitebg.jsp|footersummary.jsp|textwhitebg.jsp|globalfooter.jsp|awaysplash.jsp|loadjs.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy.html+%2883ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,83,0,83&chxr=0,0,83&chd=t:4,5,6,12,12,13,13,13,14,14,14,14,15,16,18,18,19,31,33,35,49,50,51,52,53,54,56,57,57,59,61,61,63,63,65,65,73,75,75|6,1,0,0,5,0,1,4,0,0,0,0,1,1,1,31,12,4,2,14,1,6,0,0,3,2,17,0,8,2,0,2,0,2,0,8,1,1,8&chly=head.jsp|mobileredirect.jsp|init.jsp|stores.init.js%29|clientcontext.jsp|genericstorerenderer_0...|init.js.jsp|init.js.jsp|tagcloud.init.js%29|init.js.jsp|resolvedsegments.init.js%29|init.js.jsp|sitecatalyst.js.jsp|pagedata.js.jsp|toolbar.jsp|header.jsp|citynav.jsp|search.jsp|mc_searchform.jsp|signnav.jsp|marquee.jsp|content.jsp|parsys.jsp|mc_title.jsp|parsys.jsp|textwhitebg.jsp|footer.jsp|par%29|parsys.jsp|footersummary.jsp|textwhitebg.jsp|footersummary.jsp|textwhitebg.jsp|footersummary.jsp|textwhitebg.jsp|globalfooter.jsp|mobilesplashredirectjs...|loadjs.jsp|awaysplash.jsp&chs=600x500
 -->
 
 
@@ -1162,6 +1338,8 @@ CQ_Analytics.Sitecatalyst.updateEvars = function() {
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.redeemclick', 'event70');
         
+        CQ_Analytics.Sitecatalyst.setEvar( 'prop15', 'eventdata.metakeywords');
+        
         CQ_Analytics.Sitecatalyst.setEvar( 'prop12', 'eventdata.brand');
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.prodView', 'event30');
@@ -1182,7 +1360,9 @@ CQ_Analytics.Sitecatalyst.updateEvars = function() {
         
         CQ_Analytics.Sitecatalyst.setEvar( 'products', 'eventdata.products');
         
-        CQ_Analytics.Sitecatalyst.setEvar( 'prop28', 'eventdata.language');
+        CQ_Analytics.Sitecatalyst.setEvar( 'pageName', 'eventdata.pagename');
+        
+        CQ_Analytics.Sitecatalyst.setEvar( 'prop28', 'eventdata.pagelanguage');
         
         CQ_Analytics.Sitecatalyst.setEvar( 'prop1', 'eventdata.searchText');
         
@@ -1192,11 +1372,13 @@ CQ_Analytics.Sitecatalyst.updateEvars = function() {
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.upgradeclick', 'event68');
         
-        CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.showredeem', 'event69');
+        CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.redeemvoucher', 'event69');
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.loginclick', 'event66');
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.showupgrade', 'event67');
+        
+        CQ_Analytics.Sitecatalyst.setEvar( 'prop20', 'eventdata.merchantlink');
         
         CQ_Analytics.Sitecatalyst.setEvar( 'eventdata.events.showlogin', 'event65');
         
@@ -1241,7 +1423,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 //-->
 </script>
 
-<noscript><img src="http://mastercard.122.2o7.net/b/ss/masterc549/1/H.24--NS/1375341080656?cdp=2&amp;gn=cities%3Aarabia%3Atoolbar%3Aglobal-footer%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://mastercard.122.2o7.net/b/ss/masterc549/1/H.24--NS/1403985469026?cdp=2&amp;gn=cities%3Aarabia%3Atoolbar%3Aglobal-footer%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 <!-- End SiteCatalyst code version: H.24. -->
 
 <!-- send page view and other values if need it -->
@@ -1284,164 +1466,67 @@ if (typeof s != 'undefined')
 
 
 
-<div id="cboxOverlay" style="opacity: 0.9; cursor: auto;"></div><div id="colorbox" class="" style="padding-bottom: 32px; padding-right: 0px; top: 165px; left: 335px; position: absolute; width: 696px; height: 406px;"><div id="cboxWrapper" style="height: 438px; width: 696px;"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left; width: 696px;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left; height: 406px;"></div><div id="cboxContent" style="float: left; width: 696px; height: 406px;"><div id="cboxLoadedContent" style="width: 694px; overflow: auto; height: 404px;"><div id="splash_popup" class="splashBgSmall splashBgTwoCol">        
+<div id="cboxOverlay" style="opacity: 0.9; cursor: auto;"></div><div id="colorbox" class="" style="padding-bottom: 32px; padding-right: 0px; top: 144px; left: 335px; position: absolute; width: 696px; height: 449px;"><div id="cboxWrapper" style="height: 481px; width: 696px;"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left; width: 696px;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left; height: 449px;"></div><div id="cboxContent" style="float: left; width: 696px; height: 449px;"><div id="cboxLoadedContent" style="width: 694px; overflow: auto; height: 447px;"><div id="splash_popup" class="splashScr">        
         
             <div class="splashHeader" align="center">
                 <img src="/etc/designs/mcoffer/_assets/images/splash/header_small_arabia.png" style="display:block;">
                 <p class="selectCountry">SELECT YOUR COUNTRY OF RESIDENCE AND PREFERRED LANGUAGE</p>
             </div>
         
-            <!-- Splash Content Area: START -->
-            <div class="splashContent">                
+            
+            <div class="splashGradient ">
+                    
+                            <div class="splashColLeft">
+                            
+                                <div class="splashTitle">
+                                    <span class="splashTxt">
+                                    <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/ae-en', 'United Arab Emirates: English', false);">United Arab Emirates: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/sa-en', 'Saudi Arabia: English', false);">Saudi Arabia: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/qa-en', 'Qatar: English', false);">Qatar: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/kw-en', 'Kuwait: English', false);">Kuwait: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/om-en', 'Oman: English', false);">Oman: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/bh-en', 'Bahrain: English', false);">Bahrain: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/jo-en', 'Jordan: English', false);">Jordan: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/lb-en', 'Lebanon: English', false);">Lebanon: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/eg-en', 'Egypt: English', false);">Egypt: English</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-1/ma-en', 'Morocco: English', false);">Morocco: English</a><br>
+                                    </span>
+                                </div>
+                            </div>
                 
-                    <!-- Column Region: START -->
-                    <div class="splashColLeft splashBtn" id="show_list1">
-                        
-                            <div class="splashTitle">
-                                <span class="splashTxt">
-                                
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/ae-en');registerSplashClickEvent('United Arab Emirates: English');">United Arab Emirates: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/sa-en');registerSplashClickEvent('Saudi Arabia: English');">Saudi Arabia: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/qa-en');registerSplashClickEvent('Qatar: English');">Qatar: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/kw-en');registerSplashClickEvent('Kuwait: English');">Kuwait: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/om-en');registerSplashClickEvent('Oman: English');">Oman: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/bh-en');registerSplashClickEvent('Bahrain: English');">Bahrain: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/jo-en');registerSplashClickEvent('Jordan: English');">Jordan: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/lb-en');registerSplashClickEvent('Lebanon: English');">Lebanon: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/eg-en');registerSplashClickEvent('Egypt: English');">Egypt: English</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-1/ma-en');registerSplashClickEvent('Morocco: English');">Morocco: English</a><br>
-                                         
-                                    
-                                </span>
-                            </div>  
-                        
-                    </div>
-                    <!-- Column Region: END -->
-                    
-                    
-                    <!-- Column Region: START -->
-                    <div class="splashColRight splashBtn" id="show_list2">
-                        
-                            <div class="splashTitle">
-                                <span class="splashTxt">
-                                
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/ae-ar');registerSplashClickEvent('الإمارات : العربية');handleLink();">الإمارات : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/sa-ar');registerSplashClickEvent('السعوديّة : العربية');handleLink();">السعوديّة : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/qa-ar');registerSplashClickEvent('قطر : العربية');handleLink();">قطر : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/kw-ar');registerSplashClickEvent('الكويت : العربية');handleLink();">الكويت : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/om-ar');registerSplashClickEvent('عمان : العربية');handleLink();">عمان : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/bh-ar');registerSplashClickEvent('البحرين : العربية');handleLink();">البحرين : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/jo-ar');registerSplashClickEvent('الأردن : العربية');handleLink();">الأردن : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/lb-ar');registerSplashClickEvent('لبنان : العربية');handleLink();">لبنان : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/eg-ar');registerSplashClickEvent('مصر : العربية');handleLink();">مصر : العربية</a><br>
-                                         
-                                    
-                                    
-                                    
-                                    
-                                               <a href="javascript:void(0)" onclick="remSplashSelection('/content/mc-config/away-splash-ar/column-2/ma-ar');registerSplashClickEvent('المغرب : العربية');handleLink();">المغرب : العربية</a><br>
-                                         
-                                    
-                                </span>
-                            </div>  
-                        
-                    </div>
-                    <!-- Column Region: END -->
-                    
-                    
                 
+                    
+                            <div class="splashColRight">
+                            
+                                <div class="splashTitle">
+                                    <span class="splashTxt">
+                                    <a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/ae-ar', 'الإمارات : العربية', true);">الإمارات : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/sa-ar', 'السعوديّة : العربية', true);">السعوديّة : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/qa-ar', 'قطر : العربية', true);">قطر : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/kw-ar', 'الكويت : العربية', true);">الكويت : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/om-ar', 'عمان : العربية', true);">عمان : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/bh-ar', 'البحرين : العربية', true);">البحرين : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/jo-ar', 'الأردن : العربية', true);">الأردن : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/lb-ar', 'لبنان : العربية', true);">لبنان : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/eg-ar', 'مصر : العربية', true);">مصر : العربية</a><br><a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-2/ma-ar', 'المغرب : العربية', true);">المغرب : العربية</a><br>
+                                    </span>
+                                </div>
+                            </div>
+                
+                
+                
+                <div class="clearfix"></div>
             </div>
-            <!-- Splash Content Area: END -->
-                        
-        </div></div><div id="cboxLoadingOverlay" style="float: left; display: none;"></div><div id="cboxLoadingGraphic" style="float: left; display: none;"></div><div id="cboxTitle" style="float: left; display: block;"></div><div id="cboxCurrent" style="float: left; display: none;"></div><div id="cboxNext" style="float: left; display: none;"></div><div id="cboxPrevious" style="float: left; display: none;"></div><div id="cboxSlideshow" style="float: left; display: none;"></div><div id="cboxClose" style="float: left; display: none;">close</div></div><div id="cboxMiddleRight" style="float: left; height: 406px;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left; width: 696px;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+            <div class="splashGradient ">
+                    
+                            <div class="splashColLeft">
+                            
+                                <div class="splashTitle">
+                                    <span class="splashTxt">
+                                    <a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-3/meaothers-en', 'Other Countries in Middle East &amp; Africa', false);">Other Countries in Middle East &amp; Africa</a><br><a href="/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html" onclick="selectorClick('/content/mc-config/away-splash-ar/column-3/othersothers-en', 'All Other Countries', false);">All Other Countries</a><br>
+                                    </span>
+                                </div>
+                            </div>
+
+                    
+                            <div class="splashColRight">
+                            
+                                <div class="splashTitle">
+                                    <span class="splashTxt">
+                                    <a href="javascript:void(0)" onclick="selectorClick('/content/mc-config/away-splash-ar/column-4/mo-ar', 'دول أخرى في الشرق الأوسط وأفريقيا', true);">دول أخرى في الشرق الأوسط وأفريقيا</a><br>
+                                    </span>
+                                </div>
+                            </div>
+
+                
+                <div class="clearfix"></div>
+            </div>
+            <div class="bottomBg"></div>
+            
+                 
+        
+        
+        </div></div><div id="cboxLoadingOverlay" style="float: left; display: none;"></div><div id="cboxLoadingGraphic" style="float: left; display: none;"></div><div id="cboxTitle" style="float: left; display: block;"></div><div id="cboxCurrent" style="float: left; display: none;"></div><div id="cboxNext" style="float: left; display: none;"></div><div id="cboxPrevious" style="float: left; display: none;"></div><div id="cboxSlideshow" style="float: left; display: none;"></div><div id="cboxClose" style="float: left; display: none;">close</div></div><div id="cboxMiddleRight" style="float: left; height: 449px;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left; width: 696px;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
