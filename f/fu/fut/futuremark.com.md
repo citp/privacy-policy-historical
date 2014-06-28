@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910190853id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628114442id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
 
 # Futuremark Privacy Policy
 
-We are committed to protecting your privacy and personal data when you visit our websites and use our products and services. Our Privacy Policy explains what information we collect, how we use that information and how you can access and update the information we hold about you. This policy was updated on August 1, 2012.
+We are committed to protecting your privacy and personal data when you visit our websites and use our products and services. Our Privacy Policy explains what information we collect, how we use that information and how you can access and update the information we hold about you. This policy was updated on November 20, 2013.
 
 ## Contact
 
@@ -26,23 +26,35 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Our websites use cookies. A cookie is a simple text file that is stored on your computer or mobile device by a website’s server. Each cookie is unique to your web browser and contains some anonymous information such as a unique identifier, the site name and some digits and numbers. Cookies allow a website to remember your preferences and settings to improve your experience when using or returning to the site. Persistent cookies are saved on your computer until they expire. Persistent cookies are used where we need to know who you are for more than one browsing session. Session cookies, on the other hand, expire at the end of your browsing session and are deleted when you close your browser.
 
-**Consent:** You will be asked to consent to our use of cookies when you first visit our website or when you agree to the terms and conditions during registration. You can disable cookies from within your browser's settings, but please be aware that many of our services may not function properly if you set your browser to block all cookies.
+**Consent:** You will be shown a notice informing you of our use of cookies when you first visit our website or when you agree to the terms and conditions during registration. If you continue to use the site without changing your settings we will assume that you are happy to receive cookies during your visit.
 
-**First party cookies** are set by our websites and can only be read by our web servers. We use first party cookies to:
+**You can disable cookies** in your browser's settings, but please be aware that many of our services may not function properly if your browser blocks all cookies.
 
-  * Count return visits to our sites
-  * Reporting anonymous statistical information on Web-site and advertisement usage;
-  * Enabling automatic logins
-  * Personalize the websites and to deliver content specific to your interests
+**Strictly necessary cookies** are required for the correct operation of the website.
+
+  * Enabling automatic logins.
+  * Making purchases from our Store.
+
+
+
+**Functionality cookies** are used to recognize you so that we can show you relevant content.
+
+  * Remember your account preferences and site settings.
+  * Personalize the website and deliver content specific to your interests.
+
+
+
+**Analytical cookies** are set by our website and can only be read by our web servers. We use these cookies to:
+
+  * Report anonymous statistical information on website usage.
 
 
 
 **Third party cookies** are set by other companies. We do not control the use of these cookies and you should check the relevant third party website for more information. Typically, these cookies are used to:
 
-  * Serve and track targeted advertising.
-  * Track the use of embedded content from other sites such as Google Maps and YouTube.
-  * Track the use of buttons to share content, such as with Facebook and Twitter.
-  * Track the use of our support channel, which uses services from GetSatisfaction.
+  * Track the use of embedded content from other sites such as [Google Maps](https://www.google.com/policies/technologies/cookies/) and [YouTube](https://www.google.com/policies/technologies/cookies/).
+  * Track the use of buttons to share content, such as with [Facebook](https://www.facebook.com/help/cookies/) and [Twitter](https://support.twitter.com/articles/20170514-twitters-use-of-cookies-and-similar-technologies).
+  * Track the use of our support channel, which uses services from [GetSatisfaction](https://getsatisfaction.com/corp/cookie-policy/).
 
 
 
@@ -70,7 +82,7 @@ This site has public forums and chat available for its users. Please remember th
 
 We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
 
-Futuremark represents users from around the world who benchmark their computers, send those results to us, and give us their permission to gather their computers' system information.
+When you benchmark your computer you send your results to us, and you give us your permission to gather your computer's system information.
 
 By benchmarking your computer and sending your benchmark results to us, you also give us permission to process your personal data and send your computer system information to our Performance Database. It is from here that you are able to compare your results with those of other users from around the world. To be able to use the Performance Database you need to register. The registration requires your email, and a password. The email is optionally shown with the user's results to the public, and optionally used for emails from Futuremark about Futuremark's product updates, special offers as well as other company products, services, and special offers.
 
