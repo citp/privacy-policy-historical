@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mojomarketplace.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026110438id_/http%3A//www.mojomarketplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojomarketplace.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044629id_/http%3A//www.mojomarketplace.com/privacy-policy) for the most accurate reproduction.*
 
-# The Worlds Easiest One-Click Marketplace for Themes, Logos, Plugins and more!
-
-## Privacy Policy
+# Privacy Policy
 
 **Introduction.** Mojoness respects your privacy and is committed to protecting personal information which you provide to us and which we collect about you in connection with your accessing and use of this website and services associated with it, including uploading and downloading products and accessing chat rooms, message boards and other services (collectively, the “Services”). Mojoness collects information in various ways from visitors and users. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in certain limited circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
 
