@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111044240id_/http%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628113721id_/http%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ Except as stated in this privacy policy, we will not use your personal or sensit
 **How we use your information**
 
   * Your shipping address: This is used to ship your order. You can change it for every order and we will not send anything else to this address except your order itself.
-  * Your phone number: This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. Your phone number may also be used to confirm your orders and send you shipment tracking codes. Our top management may call you on your number to receive your valuable feedback and suggestion to improve our quality of product and services. If you do not wish to be reached on your cell number, or you wish to be reached on any other number, please let us know by emailing us at admin@thatspersonal.com.
+  * Your phone number: This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. Your phone number may also be used to confirm your orders and send you shipment tracking codes. Our top management may call you on your number to receive your valuable feedback and suggestion to improve our quality of product and services. If you do not wish to be reached on your cell number, or you wish to be reached on any other number, please let us know by emailing us at [admin@thatspersonal.com.](mailto:admin@thatspersonal.com)
   * Your credit card information: Your CC/bank account information is used only to process the transaction.
   * Your email address: We will not send you e-mails if you request us not to. As a default, we assume your consent to send you e-mails for purposes of:
 
@@ -47,7 +47,7 @@ E-mailing you information about issues that we believe may be of interest to you
 
 
   1. We keep a record of your personal information but it is covered by our Privacy Policy and is held in strictest confidence. This informaton may be shared by us with our third party business partners and our vendors only to process your orders or to address any complaints that you may have about us or the products.
-  2. You have the right to know what information we have collected about you. You also have the right to change this information. If you would like to contact us about changing some aspect of the information we have for you, please write to us at admin@thatspersonal.com
+  2. You have the right to know what information we have collected about you. You also have the right to change this information. If you would like to contact us about changing some aspect of the information we have for you, please write to us at [admin@thatspersonal.com](mailto:admin@thatspersonal.com)
   3. In order to make changes to your information you will be required to first prove your identity to us. This prevents other individuals from accessing your files.
   4. We will not reveal credit card numbers over the telephone. If there is an issue with your credit card we can handle it through your merchant bank (the process is easier than it sounds).
   5. Any customer feedback we receive is also held in strict confidence. If we do disclose your feedback about our business or products it will be in a completely anonymous manner.
@@ -75,4 +75,4 @@ E-mailing you information about issues that we believe may be of interest to you
 
 If we merge with, or are acquired by another company, the resulting combined company will use the Personal Information and / or any sensitive personal information you have provided as described in this policy. If we cease operation, your Personal Information and / or sensitive personal information may be transferred to and used by another company that offers similar or related products or services.
 
-We are confident that you agree that we have the best privacy policy in the industry. You are welcome to write to us at customercare@thatspersonal.com for any clarifications.
+We are confident that you agree that we have the best privacy policy in the industry. You are welcome to write to us at [customercare@thatspersonal.com](mailto:cutomercare@thatspersonal.com) for any clarifications.
