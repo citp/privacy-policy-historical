@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siterobot.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819133143id_/https%3A//siterobot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterobot.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628160108id_/https%3A//siterobot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Siterobot the Winnovator
+# Privacy policy | Siterobot
 
 Siterobot will not share the personal information that is secured by Siterobot users except the conditions which has been declared in **Terms &conditions and Privacy Policy**.
 
