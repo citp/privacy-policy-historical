@@ -1,48 +1,65 @@
-> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602150334id_/http%3A//wpdaily.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdaily.co privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628162922id_/http%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy - WP Daily
+# Privacy Policy | @thetorquemag
 
-At WP Daily ([www.wpdaily.co](http://www.wpdaily.co/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+## **PRIVACY POLICY**
 
-This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
+Protecting your private information is our priority. This Statement of Privacy applies to [torquemag.io](http://torquemag.io/) and Torque and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Torque include [torquemag.io](http://torquemag.io/) and Torque. The Torque website is a WordPress news site. By using the Torque website, you consent to the data practices described in this statement.
 
-**1\. Log Files**
+## Collection of your Personal Information
 
-We use log files like many other websites. The information in the log files include:
+Torque may collect personally identifiable information, such as your name. We may gather additional personal or non- personal information in the future.
 
-  * Internet Protocol addresses (IP)
-  * Types of browser
-  * Internet Service Provider (ISP)
-  * Date and time stamp
-  * Referring and exit pages
-  * Number of clicks
+Information about your computer hardware and software may be automatically collected by Torque. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Torque website.
 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Torque’s public message boards, this information may be collected and used by others.
 
+Torque encourages you to review the privacy statements of websites you choose to link to from Torque so that you can understand how those websites collect, use and share your information. Torque is not responsible for the privacy statements or other content on websites outside of the Torque website.
 
-All of this information is not linked to anything that is personally identifiable.
+## Use of your Personal Information
 
-**2\. Cookies**
+Torque collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, WP Daily has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Torque may also use your personally identifiable information to inform you of other products or services available from Torque and its affiliates. Torque may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
+Torque does not sell, rent or lease its customer lists to third parties.
 
-_DoubleClick DART Cookie_
+Torque may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Torque, and they are required to maintain the confidentiality of your information.
 
-Google, a third party vendor, uses the DART cookie to serve ads on WP Daily. Users may opt out of the use of the DART cookie by visiting [Google’s Content Network Privacy Policy](http://www.google.com/privacy/ads/).
+Torque may keep track of the websites and pages our users visit within Torque, in order to determine what Torque services are the most popular. This data is used to deliver customized content and advertising within Torque to customers whose behavior indicates that they are interested in a particular subject area.
 
-_Amazon Affiliates Cookie_
+Torque will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Torque or the site; (b) protect and defend the rights or property of Torque; and, (c) act under exigent circumstances to protect the personal safety of users of Torque, or the public.
 
-Amazon Affiliates, a third party system, uses cookies to serve advertisements and links to products on Amazon.com.  You may read more about Amazon Affiliates and their [Operating Agreement here](https://affiliate-program.amazon.com/gp/associates/agreement?ie=UTF8&pf_rd_t=501&ref_=amb_link_84018271_6&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=&pf_rd_s=assoc-right-1&pf_rd_r=&pf_rd_i=assoc_join_menu).
+## Use of Cookies
 
-_BuySellAds Cookie_
+The Torque website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-BuySellAds is an ad-serving platform and network that provide direct advertising opportunities for businesses and organizations. You may read more about this cookie and their [Privacy Policy here](http://buysellads.com/about/privacy).
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Torque pages, or register with Torque site or services, a cookie helps Torque to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Torque website, the information you previously provided can be retrieved, so you can easily use the Torque features that you customized.
 
-**3\. Other**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Torque services or websites you visit.
 
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from WP Daily. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
+## Security of your Personal Information
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@wpdaily.co](mailto:info@wpdaily.co).
+Torque secures your personal information from unauthorized access, use or disclosure.
 
-Last Updated: December 6, 2012
+## Children Under Thirteen
+
+Torque does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+## Opt-Out & Unsubscribe
+
+We respect your privacy and give you an opportunity to opt- out of receiving announcements of certain information. Users may opt- out of receiving any or all communications from Torque by contacting us here:
+
+[editor@torquemag.io](mailto:editor@torquemag.io)
+
+## Changes to this Statement
+
+Torque will occasionally update this Statement of Privacy to reflect company and customer feedback. Torque encourages you to periodically review this Statement to be informed of how Torque is protecting your information.
+
+## Contact Information
+
+Torque welcomes your questions or comments regarding this Statement of Privacy. If you believe that Torque has not adhered to this Statement, please contact Torque at:
+
+[editor@torquemag.io](mailto:editor@torquemag.io)
+
+Effective as of July 24, 2013
