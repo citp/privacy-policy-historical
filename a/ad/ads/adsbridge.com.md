@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110232353id_/http%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628070249id_/http%3A//www.adsbridge.com/index/privacy) for the most accurate reproduction.*
 
 # 
 
 ##  Overview 
 
-Belit Services Limited (HE 287914 (Cyprus)), trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the www.adsbridge.com website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment. 
+Adsbridge Asia Limited (Hong Kong), trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the [www.adsbridge.com](http://adsbridge.com/) website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment. 
 
 ###  1\. Consent and Information Collection and Use 
 
@@ -68,4 +68,4 @@ Please remember that you control what personal information you provide while usi
 
 ###  10\. Contact Us 
 
-If you have any questions or suggestions regarding our Privacy Policy, please contact us [here](https://web.archive.org/index/contactus). 
+If you have any questions or suggestions regarding our Privacy Policy, please [contact us here](https://web.archive.org/index/contactus). 
