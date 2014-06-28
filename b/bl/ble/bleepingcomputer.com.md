@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021090848id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020816id_/http%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # BleepingComputer.com - Privacy Policy
 
-**Updated November, 09, 2012**
+**Updated January 24, 09, 2014**
 
 1\. Overview
 
@@ -12,15 +12,15 @@
 
 2\. Overview of the information we collect.
 
-A. Personally Identifying Information
+A. Personally Identifiable Information
 
-BleepingComputer will collect personally identifying information (e.g., name, e-mail address, postal address), from you when you voluntarily provide such information. For example, you may submit personally identifiable information (i) to register with the Site or use interactive parts of our Site where users can provide content and suggestions or participate in interactive discussions and/or (ii) to participate in optional events, sweepstakes, contests or promotion registrations.
+BleepingComputer will collect personally identifiable information (e.g., name, e-mail address, postal address), from you when you voluntarily provide such information. For example, you may submit personally identifiable information (i) to register with the Site or use interactive parts of our Site where users can provide content and suggestions or participate in interactive discussions and/or (ii) to participate in optional events, sweepstakes, contests or promotion registrations.
 
 B. Aggregate Information
 
-Aggregate information is non-personally identifiable/anonymous information, such as type of web browser used, type of operating system, the domain name of your Internet Service Provider, and IP addresses. Each time a visitor (whether they are registered or not) connects to a page on the Site, we may log that visitor's IP address. This is a common practice used by many sites and is used to track which pages visitors access and how long they spend there.
+Aggregate information is non-personally identifiable/anonymous information, such as type of web browser used, type of operating system, the domain name of your Internet Service Provider (ISP), and Internet Protocol (IP) addresses. Each time a visitor (whether they are registered or not) connects to a page on the Site, we log that visitor's IP address in our web server's log files. This is a common practice used by almost all sites and is used to track which pages visitors access and how much time is spent on a page.
 
-Cookies are small text files that a web site sets on your computer in your hard drive in order to recognize you in the future. Cookies make using our Site easier, as they allow you to register an account, stay logged in as you traverse the Site, and save your password for future visits. Third parties may use cookies as described in Section 4 below.
+BleepingComputer also uses cookies to enhance user experience on the Site. Cookies are small text files that a web site sets on your computer's hard drive in order to recognize you in the future. Cookies make using our Site easier, as they allow you to register an account, stay logged in as you traverse the Site, and save your password for future visits. Third parties may use cookies as described in Section 4 below.
 
 You may disable cookies at any time. But, if you do not allow cookies from BleepingComputer, then you may not be able to use certain features of the Site.
 
@@ -30,14 +30,14 @@ Certain web pages may contain invisible images, sometimes called web beacons tha
 
 A. Personally Identifiable Information
 
-We may use personally identifiable information for the following purposes: (i) validation of a user's registration, (ii) topic and forum subscription notifications, (iii) for the Site administrator to contact the particular user, (iv) to notify a user that he or she won a contest, (iv) performing customer service activities, (v) making available services to you or notifying you about new services or offers you may find valuable. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out. Personally identifiable information will not be disclosed to any third parties, except as follows:
+We may use personally identifiable information for the following purposes: (i) validation of a user's registration, (ii) topic and forum subscription notifications, (iii) for Site administrators to contact a particular user, (iv) to notify a user that he or she won a contest, (v) performing customer service activities, (vi) making available services to you or notifying you about new services or offers you may find valuable, (vii) marketing materials. If you wish to opt-out of receiving marketing materials from us, please follow the instructions at the bottom of each email for opting out. Personally identifiable information will not be disclosed to any third parties, except as follows:
 
   1. We may disclose personally identifiable information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties, we may supply your contact information to third parties such data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you (such as the experience you have or the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third-party.
   2. We may disclose personally identifiable information to companies and individuals we employ to perform functions on our behalf ( third party service providers ). Examples of such third party service providers may include companies who host our Web servers, analyze our data, provide marketing assistance, process credit card payments. These third party service providers will have access to your personally identifiable information only as necessary to perform their functions, but they are not authorized to retain, share, store or use your personally identifiable information for any purpose other than completion of the services for which they were hired.
-  3. We may disclose personally identifiable information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of BleepingComputer or its affiliated companies; (c) investigate or prevent a crime or protect national security or any incident in which we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws; or (d) protect the personal safety of users or the public.
-  4. BleepingComputer may from time to time allow user profiles to be visible to the public. These profiles may contain personally identifying information volunteered by its users. All information that is publicly visible is provided by the member and can be changed by the users when they edit their profile. (Please see Section 5 for directions on how to edit your profile.)
-  5. From time to time Bleeping Computer may offer surveys, sweepstakes, and promotions to visitors. Any information that is collected by these surveys, sweepstakes, or promotions will only be passed on to another company for the purposes of delivery a prize. By completing the submission you acknowledge that Bleeping Computer has notified you and that you expressly agreed to the passing of your submitted information.
-  6. We reserve the right to transfer all personally identifying information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of our assets. Other than to the extent ordered by a court, the use and disclosure of all transferred personally identifying information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it. Personally identifying information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
+  3. We may disclose personally identifiable information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of BleepingComputer or its affiliated companies; (c) investigate or prevent a crime or protect national security or cooperate in investigating any incident in which we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws; or (d) protect the personal safety of users or the public.
+  4. BleepingComputer may from time to time allow public visibility of user profiles. These profiles may contain personally identifiable information volunteered by its users. All information that may be publicly visible is provided entirely by the member and can be changed by the users when or if they edit their personal forum profile. (Please see Section 6 below for directions on how to edit your profile.)
+  5. From time to time Bleeping Computer may offer surveys, optional events, sweepstakes, contents, and promotions to members and/or visitors to the Site. Any personally identifiable information that is collected during these events will only be shared with another company for the purposes of delivery of a prize. By participating in a survey, event, sweepstakes, contest or promotion and by completing the submission you acknowledge that Bleeping Computer has hereby notified you and that you expressly agreed to the sharing of your submitted personally identifiable information.
+  6. We reserve the right to transfer all personally identifiable information in our possession to a successor entity in the event of a merger, acquisition, bankruptcy, creation of a new business entity, or other sale of all or a portion of our assets. Other than to the extent ordered by a court, the use and disclosure of all transferred personally identifiable information will be subject to this Privacy Policy, or to a new privacy policy. In the event of a new privacy policy, you will be notified of such and given the right to affirmatively opt-in to accept the new policy. Personally identifiable information submitted and/or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor entity.
 
 
 
@@ -47,31 +47,32 @@ BleepingComputer uses aggregate information for the purpose of operating and imp
 
 4\. Do any third parties collect information about me on the Site?
 
-BleepingComputer uses Crowd Science to deliver surveys where we ask generic questions to our users. These surveys will be randomly shown to unregistered members as a small prompt at the bottom of the site. If you do not wish to take part in the survey you can either decline it, or ignore the message and it will go away shortly. If you participate in a survey, you will be issued a cookie from Crowd Science so that you do not get prompted to participate in another survey for 3 months. This cookie will not be used for any other reason. These surveys allow us to collect non-personally identifying information about our visitors in order to create interesting and quality content and advertising campaigns. Under no circumstances will any personally identifying information be asked during these surveys.
+BleepingComputer uses Crowd Science to deliver surveys where we may ask generic questions of to our users. These surveys allow us to collect non-personally identifiable information about our visitors in order to create interesting and quality content and advertising campaigns. Under no circumstances will any personally identifiable information be asked of you during these surveys. These surveys will be displayed to randomly-selected registered or unregistered members and appear as a small prompt at the bottom of a page on the Site. If you do not wish to take part in the survey, you can either decline or ignore the message and it will disappear shortly. If you choose to participate in a survey, you will be issued a cookie from Crowd Science so that you are not prompted to participate in another survey for 3 months. This cookie will not be used for any other reason.
 
-We use third party advertising companies, such as Google, Netshelter, Kontera, and Tribal Fusion to serve third party ads. These third party ads will be reasonably identifiable as coming from a third party. Third party advertisers may use cookies (as defined above) or web beacons to collect non-personally identifying information such as IP Address, and pages viewed. If a conversion occurred during your visit to this third party website or third-party advertiser, this information may be used to show third party advertisements that are likely to be more interesting to you. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We use third party advertising companies, such as Google, NetShelter, Kontera, and Vibrant Media as providers of third-party ads. These third party ads will be reasonably identifiable as coming from a third party. Third-party advertisers may use cookies (as defined in the preceding paragraph) or web beacons to collect non-personally identifiable information such as IP address and pages viewed. If a conversion occurred during your visit to this third party website or third-party advertiser, this information may be used to show third party advertisements that are likely to be more interesting to you. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-We do not have access to or control over web beacons or cookies that third parties may use, and the information practices of third parties are not covered by this Privacy Policy but are covered by the third parties privacy policies. Below are links to our third party advertisers privacy policies and information on how to opt-out of receiving their cookies:
+We do not have access to or control over web beacons or cookies that third-party companies may use, and the information practices of third-party companies we use are not covered by this Privacy Policy but are covered by each company's privacy policies. To review how they use cookies and web beacons and to manage your cookies, please see the following privacy policy links that belong to our third-party providers and advertisers:
 
 > Google's privacy policy is located at: <http://www.google.com/privacy_ads.html>.
 > 
-> Crowd Science's privacy policy is located at: <http://www.crowdscience.com/our_crowd/legal>.
+> Crowd Science's privacy policy is located at: <http://www.crowdscience.com/privacy-policy-opt-out>.
 > 
 > Netshelter's privacy policy is located at: <http://www.netshelter.net/privacy-policy>.
 > 
 > Kontera's privacy policy is located at: <http://www.kontera.com/em-privacy-policy>.
 > 
-> Tribal Fusion's privacy policy located at: <http://www.exponential.com/who-we-are/privacy-policy.jsp>.
+> Vibrant Media's privacy policy is located at: <http://www.vibrantmedia.com/privacy.asp>.
 
 Google specific cookie information:
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/) web page.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's Ads Settings](http://www.google.com/ads/preferences/) page .
 
 
 
-If you would like more information about Google's use of cookies and to know your choices about not having this information used by them, click [here](http://www.google.com/privacy/ads/).
+If you would like more information about Google's use of cookies and to understand your choices, click [here](http://www.google.com/privacy/ads/).
 
 5\. How does BleepingComputer protect and secure my information?
 
@@ -79,7 +80,7 @@ BleepingComputer follows generally accepted industry standards to protect your s
 
 6\. How can I update or change my personal information?
 
-You can update almost all information about your account by logging in and clicking on My Control Panel. From the control panel you can Edit your profile. If there is information that you can not change with this method, please send an e-mail to us using this [feedback form](http://www.bleepingcomputer.com/contact/) with all relevant information.
+You can update almost all information about your account by logging in and clicking on My Settings found under your User Name. From the My Settings you can edit your profile and manage other profile settings. If there is information that you can not change with this method, please contact us by using this [feedback form](http://www.bleepingcomputer.com/contact/) with all relevant information.
 
 7\. Policies for individuals under 13 (COPPA) 
 
@@ -87,6 +88,6 @@ We are concerned about the safety of children when they use the Internet, and un
 
 8\. How to Unsubscribe from BleepingComputer
 
-If you are a member of this site, and would like to unsubscribe, you can [contact us](http://www.bleepingcomputer.com/contact/) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it as per your wish.
+If you are a member of BleepingComputer.com, and would like to unsubscribe, you can [contact us](http://www.bleepingcomputer.com/contact/) and provide your login name and E-mail address. We will then verify via e-mail that you are indeed the owner of the account and remove or deactivate it per your instructions.
 
-If at any time you would like to communicate with us about your privacy concerns, please e-mail us using this [feedback form](http://www.bleepingcomputer.com/contact/).
+If at any time you would like to communicate with us about your privacy concerns, please contact us using this [feedback form](http://www.bleepingcomputer.com/contact/).
