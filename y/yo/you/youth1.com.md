@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207161839id_/http%3A//www.youth1.com/index.php/privacy-satement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youth1.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628095931id_/http%3A//youth1.com/index.php/privacy-satement) for the most accurate reproduction.*
 
 # Privacy Satement - Youth 1
 
 ##  Privacy Satement 
 
-### DATE OF LAST REVISION: OCTOBER 19TH, 2011
+### DATE OF LAST REVISION: APRIL 17TH, 2014
 
 ### Information Collection and Use
 
@@ -25,6 +25,8 @@ We collect contact information, such as name, address, telephone number, email a
 Tell-A-Friend  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name, email address or telephone number. We will automatically send your friend a one-time email inviting him or her to visit the site or call them if they do not have an email address. Youth1 LLC stores this information for the sole purpose of sending this one-time email or call and tracking the success of our referral program. Your friend may contact us at [info@youth1.com](mailto:info@youth1.com) to request that we remove this information from our database.
 
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated infromation (not including your name, address, emal address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 ### Accessing, Changing, and Sharing Your Personal Information
 
 If your personally identifiable information changes, or if you no longer desire our service, you can access and update your personal information at any time directly using the appropriate control panel on our website or contact Youth1 Support Services by emailing [info@youth1.com](mailto:info@youth1.com). To protect your privacy and security, we will take precautions to verify your identity before granting access or updating your personal information. We respect your right to privacy. We will not rent or sell your personal information or email address to third party outside of Youth1 Media without your consent.
@@ -39,7 +41,7 @@ The security of your personal information is important to us. Whenever we need t
 
 ### Forums, Community and Groups
 
-If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](http://youth1.com/index.php/terms-of-service) Please review the [Terms of Service](http://youth1.com/index.php/terms-of-service) during registration.
+If you use a community or forum on this site you should be aware that any personally identifiable information you submit there can be read, collected, or used by other community and forum users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Youth1 LLC reserves the right to terminate the accounts of users who use these services in a manner inconsistent with our [Terms of Service.](http://www.youth1.com/index.php/terms-of-service) Please review the [Terms of Service](http://www.youth1.com/index.php/terms-of-service) during registration.
 
 ### Business Transitions
 
