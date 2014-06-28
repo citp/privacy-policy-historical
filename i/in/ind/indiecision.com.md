@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiecision.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231091919id_/http%3A//nh7.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiecision.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231847id_/http%3A//nh7.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy > NH7 | Discover new music from India and around the world
 
