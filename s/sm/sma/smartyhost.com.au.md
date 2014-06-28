@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125201730id_/http%3A//smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629011613id_/https%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Information Collection** **and Use**   
 SmartyHost, a business unit of Uber Australia E1 Pty Ltd, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SmartyHost collects information from our users at several different points on our website.
+
+In submitting your online query to Uber Australia E1 Pty Ltd. ABN 97 095 868 205 trading as SmartyHost , you agree that we may collect and use your personal information to respond to your query at the contact details you provide. We won't use or disclose that personal information for any other purpose or to any other person, unless required or permitted by law, or unless you ask us to do something else which will need us to contact you again or otherwise use or disclose your personal information to respond to your request. We can be contacted at 1300 721 465
 
 **Order**  
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
