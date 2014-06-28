@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061855id_/http%3A//www.macdonaldhotels.co.uk/privacy-policycookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628035525id_/http%3A//www.macdonaldhotels.co.uk/privacy-policycookies) for the most accurate reproduction.*
 
 # Privacy policy - Macdonald Hotels UK
 
@@ -29,7 +29,7 @@ By registering or placing an order on this website, you consent to the collectio
   * Where you have consented when providing us with your details, we may also allow carefully selected third parties, including other companies in our group, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at [customer.services@Macdonald-hotels.co.uk](mailto:customer.services@Macdonald-hotels.co.uk)
   * Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
   * Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
-  * Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+  * Unless required or permitted to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
 
 
 
