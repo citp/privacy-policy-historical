@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227190305id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsumers.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174245id_/http%3A//kidsumers.ca/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Kidsumers — Kidsumers Privacy Policy
 
-**0** Flares **0** Flares ×
-
 Privacy Policy for 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kidsumers@gmail.com.
 
@@ -40,4 +38,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Reddit 0 **0** Flares ×
+  * Bio
+  * Twitter
+  * Facebook
+  * Google+
+  * LinkedIn
+  * Latest Posts
+
+
+
+Sheri McDonald is a Mom to 4 awesome kids who range in age from 6 to 21. She is a Canadian Mom Blogger, a Travel Blogger, a Brand Ambassador, a Social Media Influencer, a Spokesperson and an amateur photographer. You can find her writing about family life, food, travel, Disney and family friendly products at [ Kidsumers ](http://kidsumers.ca/) (a play on the word 'consumers') and sharing her travel experience at [ Big Family Travels](http://bigfamilytravels.com/).
