@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211163528id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231916id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters
 
@@ -9,7 +9,7 @@ Privacy Policy
 
 #### About Us
 
-We are Cash Converters (UK) Limited, a company registered in England and Wales with company number 03096334. Our registered office is at Unit 17, Gentleman’s Field, Westmill Road, Ware, Hertfordshire SG12 0EF.
+We are Cash Converters (UK) Limited, a company registered in England and Wales with company number 03096334. Our registered office is Cash Converters (UK) Ltd, Innovation House, Aston Lane South, Preston Brook, WA7 3FY.
 
 #### About this Policy
 
