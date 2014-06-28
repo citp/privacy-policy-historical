@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108225214id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartpublix.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124720id_/http%3A//www.iheartpublix.com/index.php/2010/05/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Uncategorized « I Heart Publix
+# Privacy Policy : I Heart Publix
 
 May 11, 2010 
 
@@ -50,6 +50,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 We use third-party companies to serve ads and collect non-personally identifiable information ( _e.g.,_  the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by thesecompanies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out)
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, emal address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Online Privacy Policy Only**
 
