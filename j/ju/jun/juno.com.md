@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903033322id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628214317id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.*
 
 # Juno - Privacy and Security
 
@@ -40,7 +40,8 @@ If you join one of our paid Services, we will also collect:
 In addition to information collected from you during registration, we collect information you provide through: 
 >   * online surveys; 
 >   * contest and sweepstakes entries; 
->   * technical and customer service calls; and 
+>   * technical and customer service calls; 
+>   * your voluntary submission of information; and
 >   * email correspondence with us. 
 > 
 Note that surveys may be conducted by an independent third party and completion of surveys is voluntary. If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services. 
@@ -173,3 +174,5 @@ Please click on the links below to identify those companies that have placed an 
 Digital Advertising Alliance: <http://www.aboutads.info/choices>
 
 Network Advertising Initiative: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+JumpTap: <https://opt.jumptap.com/optout/opt>
