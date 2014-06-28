@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220120525id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628071039id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
 
 # FindLaw's Privacy Policy - FindLaw
 
@@ -183,6 +183,6 @@ Back to top
 
 ### Privacy Statement Changes 
 
-If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on November 12, 2013.
+If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on on April 25, 2014.
 
 Back to top
