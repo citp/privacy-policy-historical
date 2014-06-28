@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woundedwarriorproject.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207011135id_/http%3A//woundedwarriorproject.org/media/42796/wwp-website-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woundedwarriorproject.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628154340id_/http%3A//woundedwarriorproject.org/media/42796/wwp-website-privacy-policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
