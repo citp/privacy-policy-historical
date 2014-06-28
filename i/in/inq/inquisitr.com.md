@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624141144id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629005423id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Inquisitr
+# Privacy Policy | The Inquisitr News
 
 Inquisitr, Ltd. (Inquisitr.com) works hard to place a high value on our readerships privacy, we recognize your right to privacy and work hard to protect your private information at all turns. Our goal is to balance your privacy with our legitimate business interests, collecting data and using it only within reasonable expectations of privacy. Please note that this privacy policy may be updated at any time and will be time stamped periodically to show the newest update time.
 
