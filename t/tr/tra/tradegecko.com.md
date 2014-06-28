@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradegecko.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061940id_/http%3A//tradegecko.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradegecko.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628142038id_/http%3A//tradegecko.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TradeGecko Online Inventory Management Software
 
