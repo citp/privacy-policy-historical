@@ -1,12 +1,20 @@
-<!--The following is the downloaded HTML source of the radioplayer.co.uk privacy policy that was archived on 2013-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130807222126id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radioplayer.co.uk privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628134240id_/http%3A//www.radioplayer.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy | Radioplayer</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/style.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/style.css?v3">
+
+<!-- Begin Search V3 CSS -->
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/style/global.css">
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/style/search.css"> 
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/style/overlay-items.css">
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/style/player-controls.css">
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/style/theme.css">
+<!-- End Search V3 CSS -->
+
 <link href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/images/favicon.ico" rel="SHORTCUT ICON">
 <!--[if IE 7]>
 <link rel="stylesheet" href="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/style_ie7.css" type="text/css" media="all" />
@@ -17,17 +25,18 @@
 <link rel="pingback" href="http://www.radioplayer.co.uk/xmlrpc.php">
 <link rel="alternate" type="application/rss+xml" title="Radioplayer » Feed" href="http://www.radioplayer.co.uk/feed/">
 <link rel="alternate" type="application/rss+xml" title="Radioplayer » Comments Feed" href="http://www.radioplayer.co.uk/comments/feed/">
-<link rel="stylesheet" id="commentvalidation-css" href="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/comment-validation.css?ver=3.5.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/jquery.validate.pack.js?ver=3.5.1"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/comment-validation.js?ver=3.5.1"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<link rel="stylesheet" id="commentvalidation-css" href="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/comment-validation.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/jquery.validate.pack.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/plugins/comment-validation/comment-validation.js?ver=3.9.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.radioplayer.co.uk/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.radioplayer.co.uk/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Blog" href="http://www.radioplayer.co.uk/blog/">
 <link rel="next" title="Sign up to Radioplayer" href="http://www.radioplayer.co.uk/sign-up/">
-<meta name="generator" content="WordPress 3.5.1">
+<meta name="generator" content="WordPress 3.9.1">
 <link rel="canonical" href="http://www.radioplayer.co.uk/privacy/">
+<link rel="shortlink" href="http://www.radioplayer.co.uk/?p=26">
 <script src="http://www.radioplayer.co.uk/wp-content/plugins/cms/js/faq-frontend.js" type="text/javascript"></script><script type="text/javascript" src="/redirection-mobile.js"></script>
 
 <script>
@@ -49,8 +58,68 @@
 		});
 
 </script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+<!-- Begin Console V3 init -->
+<script type="text/javascript">
+/**
+ * Console Settings
+ */
+
+var currentStationID = "1";
+var currentStationName = "Radioplayer";
+
+// -- nowPlayingSource can be changed from 'default' to one of: 'default-no-stream', 'stream', 'SI', 'PI'
+var nowPlayingSource = 'default';
+
+// -- xDomainProxyUrl should be the full URL to the xdomainproxy.html file, which by default is found in the preroll-framework directory
+var xDomainProxyUrl = "";
+
+// -- initOptions can be populated with settings for actions when the console starts. See integration guide for details.
+var initOptions = {
+	interstitial : {
+		enabled : false,
+		url : ''
+	},
+	songaction : {
+		enabled : false,
+		type : 'Buy',
+		baseurl : ''
+	},
+	overlay : {
+		enabled : false,
+		url : '',
+		mute : true
+	}
+};
+
+
+/**
+ * Audio Settings (V3 API)
+ */
+
+// -- Set audioLive to true for live streaming, or false for on demand
+var audioLive = true;
+
+// -- Added your primary stream details here
+var audioFlash = [{
+	audioType: 'http',
+	audioUrl: ''
+}];
+
+// -- Add your HTML5 supported stream details here
+var audioHTML = [{
+    audioType: 'http',
+    audioUrl: ''
+}];
+
+// -- bufferTime may need to be adjusted in rare circumstances to facilitate faster loading
+var bufferTime = 5;
+
+</script>
+<!-- End Console V3 init -->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/jquery.tooltip.min.js"></script>
@@ -59,45 +128,10 @@
 <script type="text/javascript">
 
 var basePath = "http://www.radioplayer.co.uk/wp-content/themes/radioplayer";
-/**
- * Console Settings
- */
- 
-var currentStationID = "1";
-var currentStationName = "Radioplayer Web Site";
-var currentStationLogo = "img/station_fallback.png";
-var autoPopulatePlaying = true;
-var autoHandleOD = true;
-
-
-/**
- * Audio Settings
- */
- 
-// -- audioType can be one of: playlist, http, httpmp4m4a, rtmp
-var audioType = "playlist";
-// -- audioUrl does not need to be set for rtmp
-var audioUrl = "";		
-// -- audioServer and audioEndpoint only need to be set for rtmp
-var audioServer = "";
-var audioEndpoint = "";
-// -- bufferTime may need to be adjusted in rare circumstances to facilitate faster loading
-var bufferTime = 5;
-// -- Set audioLive to true for live streaming, or false for on demand
-var audioLive = true;
 
 </script>
 
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/browse.js"></script>
-
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/init.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/services.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/emp.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/controls.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/overlay.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/playing.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/mystations.js"></script>
-<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/search.js"></script>
 
 <script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/js/analytics.js"></script>
 <!--[if IE 6]>
@@ -161,28 +195,32 @@ var audioLive = true;
 <div id="_mcePaste"><strong>Log files</strong></div>
 <div><strong><br>
 </strong></div>
-<div id="_mcePaste">Like many other Web sites,&nbsp;<a href=" www.radioplayer.co.uk">www.radioplayer.co.uk</a> makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks. We use this information to analyze trends, administer the site, track user’s movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</div>
+<div id="_mcePaste">Like many other Web sites, www.radioplayer.co.uk makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks. We use this information to analyse trends, administer the site, track user’s movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</div>
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste"><strong>Cookies</strong></div>
 <div><strong><br>
 </strong></div>
-<div id="_mcePaste"><a href="www.radioplayer.co.uk">www.radioplayer.co.uk</a> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</div>
+<div id="_mcePaste">The Radioplayer website at www.radioplayer.co.uk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. Again, none of this is personally identifiable.</div>
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste"><strong>Blog posts</strong></div>
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste">If you contribute to our blog, we will collect potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. We only disclose logged- in user and commenter IP addresses under the same circumstances that we use and disclose personally-identifying information as described above, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.</div>
+<div></div>
+<div style="margin-top: 2em; margin-bottom: 1em;"><strong>Location services</strong></div>
+<div></div>
+<div>Radioplayer uses your approximate location to provide an enhanced experience, ensuring we offer stations that are geographically relevant to the locality you’re currently in. Our smartphone and tablet apps use your location for this and for providing better, more relevant station and on-demand recommendations. To turn off this functionality, look for an option in the Settings menu or switch off location services on your phone (or block Radioplayer). Radioplayer products continue to work, even if no location data is available.</div>
 <div><strong><br>
 </strong></div>
-<div id="_mcePaste"><strong><span style="text-decoration: underline;">The Radioplayer listening console</span></strong></div>
+<h3 id="_mcePaste"><strong>The Radioplayer web-based listening console</strong></h3>
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste">
 <p><strong>Common console features</strong></p>
 </div>
-<div id="_mcePaste">Radioplayer also uses cookies* and collects search terms and IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors. We do this to:</div>
+<div id="_mcePaste">Radioplayer also uses cookies* and collects search terms and IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors. You can read more about how we use cookies in the Radioplayer web-based console <span style="text-decoration: underline;"><span style="color: #ffffff;"><a title="Cookies on Radioplayer web consoles" href="http://www.radioplayer.co.uk/cookiepolicy/"><span style="color: #ffffff; text-decoration: underline;">here</span></a></span></span>. The reason we use cookies is to:</div>
 <div id="_mcePaste">- Allow users to personalise their Radioplayer experience – for example by setting stations as favourites in the My Stations feature.</div>
 <div id="_mcePaste">- Analyse and improve the service we offer – for example by understanding how often visitors return to a Radioplayer station, or what they search for most.</div>
 <div id="_mcePaste">- Track the growth of Radioplayer and market it as a service. We may disclose information in aggregate (so that no individuals are identified) for marketing purposes.</div>
@@ -197,21 +235,21 @@ var audioLive = true;
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste">Radioplayer uses Google Analytics with the “anonymizeIP()” function, which ensures that your IP address is shortened before it is stored and therefore cannot be linked directly to you.</div>
-<div id="_mcePaste">Google stores the information collected by the cookie* on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your anonymised IP address with any other data held by Google. &nbsp;By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</div>
+<div id="_mcePaste">Google stores the information collected by the cookie* on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your anonymised IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</div>
 <div id="_mcePaste">
-<p>For more information on the cookie* set by Google Analytics, including information on how to opt out please go to: <a href="www.google.com/intl/en/privacypolicy.html">www.google.com/intl/en/privacypolicy.html</a></p>
-<p><a href="www.google.com/intl/en/privacypolicy.html"></a><a href="www.google.com/intl/en/privacypolicy.html"></a><a href="www.google.com/intl/en/privacypolicy.html"></a></p>
+<p>For more information on the cookie* set by Google Analytics, including information on how to opt out please go to: <span style="text-decoration: underline;"><span style="color: #ffffff; text-decoration: underline;"><a href="http://www.google.com/intl/en/privacypolicy.html" target="_blank"><span style="color: #ffffff; text-decoration: underline;">www.google.com/intl/en/privacypolicy.html</span></a></span></span></p>
+<p>&nbsp;</p>
 </div>
 <div id="_mcePaste">
-<p><strong>Third party sites beyond Radioplayer</strong><strong>&nbsp;</strong><strong>&nbsp;</strong><strong>&nbsp;</strong><strong>&nbsp;</strong></p>
+<p><strong>Third party sites beyond Radioplayer</strong><strong> </strong><strong> </strong><strong> </strong><strong> </strong></p>
 </div>
 <div id="_mcePaste">Both the Radioplayer website and the Radioplayer listening console contain hyperlinks to websites owned and operated by third parties (for example radio stations which have chosen to join Radioplayer).</div>
 <div><strong><br>
 </strong></div>
 <div id="_mcePaste">These third party websites have their own privacy policies, including cookies*, and we urge you to review them. They will govern the use of personal information you submit or data which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of third party websites and your use of such websites is at your own risk.</div>
-<div><strong>&nbsp;</strong></div>
+<div></div>
 <p><strong>Radioplayer Social Apps </strong></p>
-<p>By using our Social&nbsp; Apps, you agree that your personal information will be handled as described in this Policy.</p>
+<p>By using our Social Apps, you agree that your personal information will be handled as described in this Policy.</p>
 <p><span><span style="text-decoration: underline;">Technical Information</span><br>
 We typically use the information gathered in anonymous or aggregate form to analyse ways to improve our Social Apps. In some cases, we may convert the user ID that your social networking site provides to us into a unique, anonymous identifier. By using the non-personally identifiable information that is associated with the unique, anonymous identifier, we can personalise your experience, recommend media based on your preferences and use of the Social Apps without personally identifying you.</span></p>
 <p><span style="text-decoration: underline;">Information We Collect Through Social Networking</span><br>
@@ -225,7 +263,7 @@ We may use the information we collect about you for any of the following purpose
 <p><span style="text-decoration: underline;">How and When We Share Information</span><br>
 Information about our users is an important part of our business, and we are not in the business of selling or renting it to others. We may employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, and providing marketing assistance. These third parties have access to the personal information needed to perform their functions on our behalf. We require these companies to agree (1) to provide adequate protections for your personal information that are no less protective than those set out in this Policy and (2) to use your personal information only for the purposes for which the third party has been engaged by us.</p>
 <p><strong>Questions and comments</strong></p>
-<div>If you require any more information or have any questions about our privacy policy, please feel free to get in touch via the ‘Contact’ page at <a href="www.radioplayer.co.uk">www.radioplayer.co.uk</a></div>
+<div>If you require any more information or have any questions about our privacy policy, please feel free to get in touch via the ‘<span style="text-decoration: underline;"><span style="color: #ffffff; text-decoration: underline;"><a title="Contact" href="http://www.radioplayer.co.uk/contact/"><span style="color: #ffffff; text-decoration: underline;">Contact</span></a></span></span>‘ page</div>
 <div><a href="www.radioplayer.co.uk"><strong><br>
 </strong></a></div>
 <div id="_mcePaste"><em>*A cookie is a small amount of data, which often includes a unique identifier, sent to your computer or device from a website and stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you. Users can set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The latter means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website’s features.</em></div>
@@ -256,7 +294,7 @@ Information about our users is an important part of our business, and we are not
 </ul></div>		</div><!-- #footer-access -->
 		
 		<div id="site-info">
-			<p>All contents © copyright 2013</p>
+			<p>All contents © copyright 2014</p>
 			<a href="http://www.radioplayer.co.uk/" title="Radioplayer" class="small-logo" rel="home">
 				<span>Radioplayer</span>
 			</a>
@@ -266,12 +304,23 @@ Information about our users is an important part of our business, and we are not
 
 </div><!-- #wrapper -->
 
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
 
-
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/init.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/utils.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/services.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/emp.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/emp.player.flash.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/emp.player.html.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/controls.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/overlay.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/playing.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/mystations.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/search.js"></script>
+<script type="text/javascript" src="http://www.radioplayer.co.uk/wp-content/themes/radioplayer/search/js/lang-en-gb.js"></script>
+ 
 <script type="text/javascript">
-	$(document).ready(function(){
-		radioplayerInit();
-	});
+radioplayer.init();
 </script>
 
 
