@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022119id_/http%3A//www.yelp.com/tos/privacy_en_us_20130910) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628055355id_/http%3A//www.yelp.com/tos/privacy_en_us_20130910) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
@@ -77,7 +77,7 @@ We may share information about you with third parties as follows:
 
 ## 4\. Controlling Your Personal Data
 
-Other users may be able to identify you, or associate you with your account if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature [here](https://web.archive.org/profile_bio).
+Other users may be able to identify you, or associate you with your account if you include personal information in the content you post publicly. You can reduce the risk of being personally identified by using the Site pseudonymously, though doing so could detract from the credibility of your contributions to the Site. Users can also use the Member Search feature to find one another based on their names or email addresses. You can opt-out of this feature [here](https://web.archive.org/profile_privacy).
 
 Please also note that the messages you send or receive using the Site are only private to the extent that both you and the sender/recipient keep them private. For example, we do not have any control over whether a recipient of one of your messages publicly posts it or its contents. Similarly, Yelp may also access such messages in the course of investigations relating to Site use.
 
