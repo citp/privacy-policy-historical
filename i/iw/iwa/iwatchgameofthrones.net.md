@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwatchgameofthrones.net privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213125301id_/http%3A//iwatchgameofthrones.net/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchgameofthrones.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628075141id_/http%3A//iwatchgameofthrones.net/privay-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iWatchGameOfThrones.net
 
