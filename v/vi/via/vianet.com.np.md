@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505024601id_/http%3A//vianet.com.np/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vianet.com.np privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628031845id_/http%3A//www.vianet.com.np/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
 **We care about your Privacy**  
 Protecting your privacy is important to us. We hope the following statement will demonstrate our firm commitment to privacy and help you understand how Vianet collects, uses and safeguards any personal information you provide to us from this Web site.
