@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228192538id_/http%3A//www.sinobiological.com/Sino-Biological-Inc-Privacy-Policy-a-106.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080728id_/http%3A//www.sinobiological.com/Sino-Biological-Inc-Privacy-Policy-a-106.html) for the most accurate reproduction.*
 
 # Sino Biological Inc. Privacy Policy
 
