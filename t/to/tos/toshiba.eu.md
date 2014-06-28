@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209140203id_/http%3A//www.toshiba.eu/innovation/generic/PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628195356id_/http%3A//www.toshiba.eu/innovation/generic/PRIVACY_POLICY) for the most accurate reproduction.*
 
 # 
 
-| 
+[](https://web.archive.org/)
+
+[ ](http://www.facebook.com/toshibaeurope "Like Us")
+
+Toshiba recommends Windows.
 
 Toshiba places great importance on respecting the personal rights of all visitors to its websites and users of online communication services. 
 
@@ -50,5 +54,3 @@ Hammfelddamm 8
 Germany
 
 Version May 2012
-
-| 
