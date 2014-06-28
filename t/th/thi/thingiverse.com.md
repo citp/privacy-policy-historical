@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131852id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingiverse.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629000345id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thingiverse
 
-## Thingiverse Privacy Policy
+## MakerBot Privacy Policy
 
-Thingiverse LLC (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.thingiverse.com, (" **Site** ") and Services. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located [here](https://web.archive.org/legal/).
+MakerBot Industries, LLC (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at www.makerbot.com and www.thingiverse.com, (together the " **Site** ") and Services. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located [here](https://web.archive.org/legal/).
 
   * **1\. User Consent.** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
   * **2\. A Note About Children.** We do not intentionally gather Personal Data from visitors who are under the age of 13.   
