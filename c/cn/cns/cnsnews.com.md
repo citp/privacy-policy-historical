@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209105412id_/http%3A//cnsnews.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnsnews.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628221402id_/http%3A//cnsnews.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CNS News
 
