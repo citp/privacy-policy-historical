@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205143947id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629012130id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-sports google sharing translation local directions flights football official black reports weather business videos mp3 facebook popular holidays sky tracking traffic maryland phoenix tour microsoft forms security houston www leadership week manhattan magic kansas lyrics federal wheel time beach investors
+news sport business reports sports breaking world international video weather entertainment interactive online independent headlines sun best current government mail abc opinion google financial email india times daily express information channel health train rail national videos phone yahoo home save
