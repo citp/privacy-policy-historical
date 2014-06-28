@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031144358id_/http%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629012641id_/https%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
 
-# Lybrate - Privacy Policy
+# Overview of the terms of service for our clinic management software - Lybrate
 
 **General Statement**
 
@@ -81,7 +81,7 @@ Using the Lybrate services or accessing the Site after a notice of changes has b
   3. **Site and Service Updates**  
 As necessary, Lybrate may send You Site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the Site. Lybrate communicates via e-mail with You to provide requested services and to resolve issues relating to Your accounts. 
   4. **Consent to This Policy**  
-The [Terms of Service](http://www.lybrate.com/terms) Agreement is incorporated herein by reference in its entirety. 
+The [Terms of Service](https://www.lybrate.com/terms) Agreement is incorporated herein by reference in its entirety. 
 
 
 
