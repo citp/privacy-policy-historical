@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolphin.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228011153id_/http%3A//dolphin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolphin.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628224423id_/http%3A//dolphin.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Dolphin's Free Mobile Web Browser
 
