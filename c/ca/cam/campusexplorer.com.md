@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222041519id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629015426id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Campus Explorer Privacy Policy
 
-At Campus Explorer, Inc., we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This is the Privacy Policy for all Campus Explorer, Inc. websites, including the website currently located at [www.campusexplorer.com](http://www.campusexplorer.com/) (collectively "Site" or "Sites"). We have prepared this Privacy Policy to explain how we collect, use, and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the Site and your choices for managing your information preferences. By using the Site, you signify your assent to this Privacy Policy and the Site's [Terms of Use](http://www.campusexplorer.com/company/legal/terms/).
+At Campus Explorer, Inc., we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This is the Privacy Policy for all Campus Explorer, Inc. websites, including the website currently located at [www.campusexplorer.com](https://web.archive.org/) (collectively "Site" or "Sites"). We have prepared this Privacy Policy to explain how we collect, use, and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the Site and your choices for managing your information preferences. By using the Site, you signify your assent to this Privacy Policy and the Site's [Terms of Use](https://web.archive.org/company/legal/terms/).
 
 This Privacy Policy is effective on September 10, 2012.
 
 ### Personal Information
 
-Campus Explorer does not collect information that personally identifies you, such as your name, address, email address, social security number and similar identifying information ("Personal Information"), unless you expressly provide it to us through one of our online services. If you choose to register on a Site in order to utilize an online service that requires you to log in, Campus Explorer may collect basic Personal Information. You may verify, correct, update, or change your registration information at any time by e-mailing us at [privacy@campusexplorer.com](mailto:privacy@campusexplorer.com?subject=) or [click here](https://web.archive.org/panel/signin/?backref=/company/legal/privacy/ "Sign In") to log in to your account.
+Campus Explorer does not collect information that personally identifies you, such as your name, address, email address, social security number and similar identifying information ("Personal Information"), unless you expressly provide it to us through one of our online services. If you choose to register on a Site in order to utilize an online service that requires you to log in, Campus Explorer may collect basic Personal Information. You may verify, correct, update, or change your registration information at any time by e-mailing us at [privacy@campusexplorer.com](mailto:privacy@campusexplorer.com) or [click here](https://web.archive.org/panel/signin/?backref=/company/legal/privacy/) to log in to your account.
 
 The Site enables you to voluntarily provide Personal Information to third parties such as college or university admissions departments. If you choose to submit an online loan application, we may collect information such as your Social Security Number, and that of your endorser or co-borrower, if applicable, date of birth, driver's license number, phone number, and references required for the completion of a student loan application. 
 
@@ -60,25 +60,28 @@ If you do not want to receive email from Campus Explorer, please follow the step
 
   * If you are registered with campusexplorer.com you can change your preferences in your Profile. Sign in to view your Profile, click on “edit email preferences,” and then click the “Unsubscribe” button.
   * To unsubscribe from an email, click the link to unsubscribe in the next e-mail you receive from us.
-  * To unsubscribe offline, you may contact us by phone at 310-579-2725, or write to:   
+  * To unsubscribe offline, you may contact us by phone at 310-579-2725, or write to:  
+
+
+
+
 Campus Explorer  
 2850 Ocean Park Boulevard, Suite 310  
-Santa Monica, CA 90405 
-
-
+Santa Monica, CA 90405
 
 ### Changes to this Privacy Policy
 
 Campus Explorer may, from time to time, amend this Privacy Policy by posting the amended Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
 
-Contact information   
-If you have any questions about this policy please contact:   
+### Contact information?
+
+If you have any questions about this policy please contact:?  
 Customer Privacy  
 Campus Explorer  
-[privacy@campusexplorer.com](mailto:privacy@campusexplorer.com?subject=)
+[privacy@campusexplorer.com](mailto:privacy@campusexplorer.com)
 
 ### Your California Privacy Rights
 
-If you are resident of California, you may request and receive a disclosure providing a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of the other businesses with whom such information was shared. You may request such a disclosure by emailing us at [privacy@campusexplorer.com](mailto:privacy@campusexplorer.com?subject=)
+If you are resident of California, you may request and receive a disclosure providing a list of categories of personal information shared, during the immediately preceding calendar year, with other businesses for their direct marketing purposes, and the names and addresses of the other businesses with whom such information was shared. You may request such a disclosure by emailing us at [privacy@campusexplorer.com](mailto:privacy@campusexplorer.com)
 
 For more information, visit the [California Privacy homepage](http://www.privacy.ca.gov/privacy_laws/index.shtml)
