@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the monginis.net privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227033338id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the monginis.net privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628192322id_/http%3A//www.monginis.net/legal-info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -15,7 +15,7 @@
     
     <script src="//cdn.viralmint.com/js/viralmint-min.js" id="viralmint-js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.monginis.net/scripts/jquery-1.7.1.min.js"></script>
     <script src="http://www.monginis.net/scripts/bootstrap.min.js"></script>
-    <script src="http://www.monginis.net/scripts/bootbox.js"></script>
+ 
     
     <script src="http://www.monginis.net/scripts/jquery.js"></script>
     <script src="http://www.monginis.net/scripts/jquery.ui.js"></script>
@@ -332,6 +332,18 @@ function findcat(val){
 	font-weight:bold;
 	color: #CE047C;
     }
+    .form_button_new_search{
+	background-color: #DF3198;
+	border: 1px solid #DF3198;
+	border-radius: 4px;
+	color: #FFFFFF;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 4px;
+	width: 63px;
+	background-image: url("../image/bg_nav_seperator.png") no-repeat scroll right -1px rgba(0, 0, 0, 0);
+    }
     .newhead{
 	   border-bottom: 1px solid #CBCBCB;
     color: #CE047C;
@@ -494,12 +506,18 @@ box-shadow:inset 0 0px 0px #000;
         
         
         <div class="detailContainer">
-        	
-        	<div class="cart">
+        	<div style="border:0px solid #000;margin-top:20px;color:#000">
+		    <form name="page_items" id="page_items" method="post" style="margin-left:-50px;">
+			<input type="text" placeholder="Enter Keywords" value="" name="product_name" style="width:332px;">&nbsp;
+			<input type="submit" name="search_products" class="form_button_new_search" id="search_products" value="Search" onclick="search_resultsproducts(); return false;">
+		    </form>
+		    
+
+        	<span class="cart">
             
                         	<span class="head">My Shopping Cart</span>
                 <span class="cart_details" id="cart_details_span"> </span>
-            </div>
+            </span></div>
         </div>
         
         
@@ -512,11 +530,11 @@ box-shadow:inset 0 0px 0px #000;
 		<li><a href="http://www.monginis.net/category/flowers/"><font color="#ffffff">Flowers</font></a></li>
 		
                                 
-		<!--<li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/occasions/easter-cakes/"><font color="#ffffff">Easter Gifts</font></a></li>-->
+		<!--<li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/occasions/fathers-day-cakes/"><font color="#ffffff">Fathers Day</font></a></li>
+		-->
 		<li><a href="http://www.monginis.net/store-locator.php"><font color="#ffffff">Store Locator</font></a></li>
-		<li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/christmas-gifts/"><font color="#ffffff">Xmas Gifts</font></a></li>
-		<li style="background-color:#7a6fa6;"><a href="http://www.monginis.net/new-year-gifts/"><font color="#ffffff">New Year Gifts</font></a></li>
 		<li><a href="http://www.monginis.net/corporate-gifting/"><font color="#ffffff">Corporate Gifts</font></a></li>
+		<li><a href="http://www.monginis.net/corporate-info/media-room/"><font color="#ffffff">Media Room</font></a></li>
                 
 			</ul>
         </nav>
@@ -535,6 +553,9 @@ box-shadow:inset 0 0px 0px #000;
 		border: 1px solid #CCCCCC;
 		height: 135px;
 		width: 205px;
+	    }
+	    #content .product_grid{
+		margin:12px;
 	    }
 	</style>
 		<div id="maincol" class="wide"> 
@@ -621,9 +642,6 @@ box-shadow:inset 0 0px 0px #000;
 </div>
 <div class="box links">
 <h2>Send Other Products</h2>
-<ul>
-<li><a href="http://www.monginis.net/candles/">Send Candles to India</a></li>
-</ul>
 <!--
 <li><a href="http://www.monginis.net/send-flowers-to-india/">Send Flowers to India</a></li>
 <li><a href="http://www.monginis.net/send-flowers-to-goa/">Send Flowers to Goa</a></li>
@@ -641,15 +659,13 @@ box-shadow:inset 0 0px 0px #000;
 <li><a href="http://www.monginis.net/send-flowers-to-india-from-uk/">Send Flowers to India from UK</a></li>
 -->
 <ul>
+<li><a href="http://www.monginis.net/candles/">Send Candles to India</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-pune/">Send Chocolates to Pune</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-delhi/">Send Chocolates to Delhi</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-mumbai/">Send Chocolates to Mumbai</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-bangalore/">Send Chocolates to Bangalore</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-india-from-usa/">Send Chocolates to India from USA</a></li>
 <li><a href="http://www.monginis.net/send-chocolates-to-india-from-uk/">Send Chocolates to India from UK</a></li>
-<li><a title="Christmas" href="http://www.monginis.net/christmas-chocolates/">Christmas Chocolates</a></li>
-<li><a href="http://www.monginis.net/christmas-candles/">Christmas Candles</a></li>
-<li><a href="http://www.monginis.net/christmas-brownies/">Christmas Brownies</a></li>
 </ul>
 </div>
 <div class="box links">
@@ -665,10 +681,8 @@ box-shadow:inset 0 0px 0px #000;
 <li><a href="http://www.monginis.net/online-gift-hampers/">Online Gift Hampers</a></li>
 <li><a href="http://www.monginis.net/wedding-gifts-to-india/">Wedding Gifts to India</a></li>
 <li><a href="http://www.monginis.net/anniversary-gifts-to-india/">Anniversary Gifts to India</a></li>
-<li><a href="http://www.monginis.net/christmas-gifts-to-india/">Christmas Gifts to India</a></li>
 <li><a title="Indian" href="http://www.monginis.net/indian-gifts-portal/">Gifts Portal</a></li>
-<li><a title="Diwali" href="http://www.monginis.net/christmas-gifts-for-children/">Christmas Gifts for Children</a></li>
-<li><a href="http://www.monginis.net/new-year-gifts/">New Year Gifts</a></li>
+<li><a title="Indian" href="http://www.monginis.net/occasions/fathers-day-cakes/">Fathers Day Cakes</a></li>
 </ul>
 </div>
 <div class="box links">
@@ -682,27 +696,24 @@ box-shadow:inset 0 0px 0px #000;
 <li><a href="http://www.monginis.net/occasions/adult-birthday-cakes">Birthday Cakes for Elders</a></li>
 <li><a href="http://www.monginis.net/occasions/21st-birthday-cakes">21st Birthday Cakes</a></li>
 <li><a href="http://www.monginis.net/occasions/novelty-birthday-cakes">Novelty Birthday Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/christmas-cakes/">Christmas Cakes</a></li>
-<li><a href="http://www.monginis.net/occasions/new-year-cakes/">New Year Cakes</a></li>
 </ul>
 </div>
 <div class="box links">
 <h2>Cakes for Celebrations</h2>
 <ul>
-<li><a href="http://www.monginis.net/cheese-cakes/">Cheese Cakes</a></li>
-<li><a href="http://www.monginis.net/picture-cakes/">Picture Cakes</a></li>
-<li><a href="http://www.monginis.net/pineapple-cakes/">Pineapple Cake</a></li>
-<li><a href="http://www.monginis.net/strawberry-cakes/">Strawberry Cakes</a></li>
-<li><a href="http://www.monginis.net/fruit-cakes/">Fruit Cake</a></li>
-<li><a href="http://www.monginis.net/chocolate-cakes/">Chocolate Cakes</a></li>
-<li><a href="http://www.monginis.net/hazelnut-cakes/">Hazelnut Cakes</a></li>
-<li><a title="Pistachio" href="http://www.monginis.net/pistachio-cakes/">Pistachio Cakes</a></li>
-<li><a href="http://www.monginis.net/heart-shaped-cakes/">Heart Shape Cake</a></li>
-<li><a href="http://www.monginis.net/popular-cakes/">Popular Cakes</a></li>
-<li><a href="http://www.monginis.net/plum-cakes/">Plum Cakes</a></li>
-<li><a href="http://www.monginis.net/blueberry-cake/">Blueberry Cake</a></li>
-<li><a href="http:/blog.monginis.net/general/monginis-summer-cakes/">Summer Cakes</a></li>
-<li><a href="http://www.monginis.net/100-percent-pure-veg-cakes/">100 Percent Pure Veg Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/wedding-cakes/">Wedding Cakes</a></li>
+<li><a href="http://www.monginis.net/anniversary-day-cakes/">Anniversary Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/engagement-cakes/">Engagement Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/christening-cakes/">Christening Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/kids-birthday-cakes/">Kids Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/new-born-cake/">New Born Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/1st-birthday-cakes/">1st Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/21st-birthday-cakes/">21st Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/birthday-cakes/">Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/best-birthday-cakes/">Best Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/adult-birthday-cakes/">Birthday Cakes for Elders</a></li>
+<li><a href="http://www.monginis.net/occasions/chocolate-birthday-cake/">Chocolate Birthday Cakes</a></li>
+<li><a href="http://www.monginis.net/occasions/novelty-birthday-cakes/">Novelty Birthday Cakes</a></li>
 </ul>
 </div>
 <div class="box links last">
@@ -744,6 +755,8 @@ box-shadow:inset 0 0px 0px #000;
         <div style="background-color:#FFF; height:90px; border-radius: 8px 8px 8px 8px;"> 
 <h3 style="margin-left:20px;"> Our Affiliates</h3>    
 <marquee behavior="scroll" direction="left" style="margin-top:7px;">
+<img src="../images/visahd1.png" width="83" height="53" alt="smile" style="margin-right:20px;">
+<img src="../images/visahd2.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 <img src="/image/product/1.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 <img src="/image/product/2.png" width="83" height="53" alt="smile" style="margin-right:20px;">
 <img src="/image/product/3.png" width="83" height="53" alt="smile" style="margin-right:20px;">
