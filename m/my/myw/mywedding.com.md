@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630233030id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628103625id_/http%3A//www.mywedding.com/privacy) for the most accurate reproduction.*
 
 # mywedding - Wedding Planning Guide and Free Wedding Websites - mywedding.com - mywedding.com
 
@@ -10,7 +10,7 @@ We are committed to protecting personal and financial information disclosed to u
 
 ### Information You Give Us
 
-We require information from you in order for you to be an account holder of mywedding.com or to be an active member or vendor of mywedding.com. When creating an account you will be required to provide your: 
+We require information from you in order for you to be an account holder of mywedding.com or to be an active member or vendor of mywedding.com. When creating an account you may be asked to provide information about yourself including, but not limited to: 
 
   * First and Last Name
   * Email Address
