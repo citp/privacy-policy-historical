@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the j.gs privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926025029id_/http%3A//j.gs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j.gs privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020442id_/http%3A//j.gs/privacy) for the most accurate reproduction.*
 
-# AdFly - Terms & Conditions
+# AdFly - Termos e Condições
 
 _This statement was last updated February 4, 2011._
 
