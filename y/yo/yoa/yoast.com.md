@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214164836id_/http%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021104id_/https%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Yoast
 
@@ -28,4 +28,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [contact form](https://web.archive.org/contact/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [contact form](https://yoast.com/contact/).
