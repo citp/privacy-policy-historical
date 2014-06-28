@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128084320id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020445id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
 
@@ -128,7 +128,7 @@ You have the right to opt out of receiving information from twiends at any time.
 
 You have the right to delete your account on the [settings](https://web.archive.org/settings) page at any time; this will also terminate any future communications.
 
-You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](http://support.twiends.com/) page to terminate communications.
+You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](https://web.archive.org/support) page to terminate communications.
 
 11\. Access to your information
 
