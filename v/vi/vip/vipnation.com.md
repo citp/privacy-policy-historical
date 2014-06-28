@@ -1,138 +1,116 @@
-> *The following text is extracted and transformed from the vipnation.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017170318id_/https%3A//vipnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipnation.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628143513id_/https%3A//vipnation.com/privacy-policy) for the most accurate reproduction.*
 
 # VIP NATION - Privacy Policy | Where True Fans Get Tickets!
 
-This is the privacy statement ("Privacy Statement") for the vipnation.com Web site (the "Site"). The Site is owned, operated, and made available to you by VIP Nation, Inc., a California corporation located at 1100 Glendon Avenue, Suite 2000, Los Angeles, CA 90024 ("VIPN," "we," "our," "us"). This Privacy Statement explains our information practices and the choices you can make about the way we collect and use your personal information. This Privacy Statement covers the information you provide to us by or through this Site. 
+**Effective December 6, 2013 (last updated December 6, 2013)**
 
-The main purpose of this Site is to offer great premium concert packages to you. You can purchase such packages right here, in a safe online environment. To purchase any package **,** you will need to provide us with certain personal information about yourself, including your credit card and/or other billing information. Even though this Site is directed to users who have reached the age of majority in the jurisdiction in which they live, it is possible that some of our users may be minors, including children under the age of 13. We do not knowingly sell premium packages to minors, so we ask all of our users to enter their birth date before they can submit an order so that we can verify their age. PARENTS AND LEGAL GUARDIANS OF MINORS, PLEASE MAKE SURE THAT YOUR MINOR CHILD DOES NOT HAVE ACCESS TO YOUR CREDIT CARD INFORMATION WITHOUT YOUR PERMISSION. 
+****This Privacy Policy applies to the sites and apps where it appears.****
 
-This Privacy Statement sets forth our policies regarding the collection, use **,** and disclosure of certain information relating to your use of this Site. In addition to the general rules that apply to everyone visiting our Site, we have special rules that apply to our collection and use of personally identifiable information from Site visitors who are younger than 13. Those special rules appear in a section entitled COPPA COMPLIANCE that is set forth at the end of this Privacy Statement. 
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us.
 
-YOUR USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND ACCEPTANCE OF THE TERMS OF THIS PRIVACY STATEMENT. This Privacy Statement is incorporated into, and made a part of, the [Terms of Use](https://web.archive.org/terms-of-use), which govern your use of this Site in general. 
+**We collect information from and about you.**
 
-It is possible for you to visit our Site without having to disclose any of your personal information to us. We understand how important your personal information is to you and we respect your privacy. Any information gathered by us about you will be protected in accordance with this Privacy Statement. Unless we have your consent, we will not share your personal information to any non-affiliated third party except as otherwise permitted in this Privacy Statement. We will take special care to protect the privacy and security of your personal information as set forth herein. 
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Below we provide answers to questions that we believe you might find most relevant regarding the manner in which we collect and use your information, and the manner in which we safeguard it. If we have not answered all of your questions, please contact us at [privacy@vipnation.com](mailto:privacy@vipnation.com), and we will get back to you as soon as practicable. 
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-HOW DO WE COLLECT AND USE YOUR INFORMATION?
+**Information you post.** For example, we collect information you post in a public space on our website or on a third-party social media site.
 
-  
+**Demographic information.** We may collect information about events you like or products you buy. We might collect this as part of a survey, for example.
 
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location or your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-Information you provide
+**We collect information in different ways.**
 
-We may collect and use certain personally identifiable information that you provide to us (including, but not limited to, your name, address, phone number, e-mail address, and/or credit card or other billing information), for example, to respond to your request for information, to process your orders for premium packages and any other products or services that we may offer from time to time, and to communicate with you regarding any such orders or requests. When you first provide us the information, or at other times when we ask you for additional or different information, we may ask you if you wish us to send you newsletters and other promotional materials in the future. Unless you tell us that you are not interested in receiving certain materials, in which case we will honor such request, we will be happy to send you information and offers that we think might be of interest to you. 
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
-Optional information
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please click [here](https://web.archive.org/ad-choices).
 
-When you access this Site, we may also give you the option of submitting other general information about you. We may ask for such optional information to help us better understand you. If you have requested that we send you additional information regarding our products, services, and events, or if you have not told us that you do not wish to receive such additional information from us, we may also use the optional information to fulfill your request or provide you with such product, service, and /or event information. 
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-  
+**We use information as disclosed and described here.**
 
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. If you give us your friend's information, we will only use it to provide services you requested.
 
-Technical Information
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-When you visit our Site, we may also collect technical information that does not, by itself, identify you as a specific individual. This information (sometimes referred to as "non-personally identifiable information") may include the address (or "URL") of the Web site that you came from before visiting this Site, which pages you visit on this Site, which browser you used to view this Site, and, if search functionality is available on the Site, any search terms that you may have entered on this Site. This technical data is aggregated and used to measure and improve the effectiveness of this Site. We may also collect your IP (Internet Protocol) address to help diagnose problems with our server, administer our Site, see where our Site traffic is coming from, and identify our users. An IP address is a number that is automatically assigned to your computer so that Web servers can automatically identify individual computers by their IP address. We may also collect other non-personally identifiable information via this Site, such as Site usage activity and preferences, also known as demographic or profile data. We do not intend to combine this technical data with your personally identifiable information, but we reserve the right to do so. 
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-  
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. We may use push notifications and your location information on our mobile apps to send you alerts regarding local events. To learn about your choices for these communications, read the choices section below.
 
-Information in General
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-We use the information collected on and through this Site for a variety of purposes in the course of business as otherwise set forth herein. Generally speaking, the information collected on this Site may be used to send you information about our and our business partners' and affiliates' products and services and other information and materials that may be of interest to you. This information may also be used to evaluate what portions of this Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page or on this Site in general. We may match information collected from you through different means, or at different times, and use such information along with information obtained from other sources, including third parties. 
+**We use information as otherwise permitted by law.**
 
-DO WE USE COOKIES AND WEB BEACONS?
+**We may share information with third parties.**
 
-We may use "cookies" (described in more detail below) and web beacons (clear GIFs) on this Site or in our communications with you to enhance the functionality of the Site and to make your transactions and other activities more convenient and efficient. A "cookie" is a small data file that a Web site may send to your browser and that your browser may then store on your system. We may use cookies to remember your preferences or minimize the need for you to re-enter information. We may use session cookies, for example, to simulate a continuous connection. Cookies let us "remember" information about your preferences and passwords and allow you to move within this Site without reintroducing yourself. Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept cookies, by adjusting the preferences in your browser. If you refuse cookies, there may be some features of this Site that will not be available to you, and some Web pages may not display properly. 
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-DO WE DISCLOSE YOUR PERSONAL INFORMATION TO THIRD PARTIES?
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-Unless we have your consent, we will not share, sell, or rent your personal information to any third party except as set forth in this Privacy Statement. We may contract with other companies to provide services on our behalf such as, for example, to process your orders, or to fulfill prizes that you may win if you participate in promotions that we may offer from time to time. We may share your information with our affiliates, advertisers, and other third parties that provide services for or through this Site or for our business (such as e-mail list hosting and distribution companies that use such information on our behalf consistent with this Privacy Statement). We may also transfer, sell or assign such information to third parties in connection with a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation. From time to time, we may be required to provide your personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. In addition, we reserve for ourselves the right to disclose any information concerning you as necessary or appropriate to satisfy any law, regulation, or other governmental request, to operate this Site properly, or to protect or defend our rights or the rights or wellÃÂ­-being of our users, or if you are involved (or if we in good faith believe that you are involved) in any illegal activity (or any activity that we in good faith believe to be unlawful), even without a subpoena, warrant, or court order. 
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies. You should read those polices to learn how they treat your information.
 
-DO YOU HAVE CHOICES REGARDING HOW YOUR INFORMATION IS USED?
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-At all times, you remain in control of your personal information. We will not share the personal information we collect in ways other than as set forth in this Privacy Statement, without first obtaining your consent. At the time you provide your information, we provide you with the opportunity to opt-out of permitting certain uses of your information and the opportunity to opt-out of receiving further communications about special offers, product information, or other marketing messages. If you choose not to receive certain communications or materials (by choosing, in each case, the "opt-out" option provided to you clearly and conspicuously next to our inquiry of whether you wish to receive any such materials), we will honor your "opt-out" request. Remember, though, that your choice not to receive promotional and marketing materials from us in the future will not preclude us from corresponding with you, by e-mail or otherwise, regarding things such as confirming a prior order, or sending you other information regarding the order or the purchase of the package, a change in the package's features, any venue or date changes, or billing or other status information regarding an order. It also will not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site. 
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-AFTER PROVIDING THE INFORMATION, CAN YOU ACCESS, UPDATE OR DELETE YOUR INFORMATION?
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
 
-We want your information and preferences to be accurate and complete. If you would like to access or update the personal information we maintain about you in our database, please e-mail us at [privacy@vipnation.com](mailto:privacy@vipnation.com). We will endeavor to respond to your request to access, update, or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we will ask you to verify your identity and to provide other details to help us to respond to your request. 
+**You have certain choices about how we use your information.**
 
-CONSENT TO PROCESSING OF THE INFORMATION
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, click [here](https://web.archive.org/account) or follow the instructions in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-You fully understand and unambiguously consent to the collection and processing of your personal information in the United States.
+**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-HOW DOES THIS SITE SECURE YOUR PERSONAL INFORMATION?
+**You can control cookies and tracking tools.** To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click [here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices).
 
-We use a variety of safeguards to protect your sensitive information from loss, misuse, alteration, or destruction. For example, we use Secure Sockets Layer (SSL) technology supporting up to 128-bit encryption to protect your credit card information transmitted to or from us during your session at this Site. Notwithstanding the above, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access. By using this Site, you acknowledge that you understand and agree to assume these risks. Please be careful whenever sending personal information to us via e-mail. E-mail is commonly not a secure means of transferring information. In the unlikely event that we believe that the security of your "personal information" (as such term is defined in California Civil Code 1798.82 ["Section 1798.82"]) that is in our possession or control may have been compromised, we will seek to notify you of that in accordance with the provisions of Section 1798.82. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. If you do not consent to this [please click here](mailto:info@vipnation.com). If you wish to provide a particular e-mail address to receive such notifications, please [click here](mailto:info@vipnation.com).
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
 
-IF YOU SEE PROMOTIONS FROM THIRD PARTY ADVERTISERS ON THE SITE, OR THE SITE LINKS TO OTHER WEB SITES, WILL THIS PRIVACY STATEMENT APPLY TO THEM?
+**Your California Privacy Rights.**
 
-No. The Site may contain advertisements placed by third parties on our Site or links to third party Web sites. Just like we do, the third parties who place advertisements on our Site may use cookies and web beacons to collect information when you view and/or click on their advertisements, and each of the linked third party Web sites have their own information collection and use practices and policies. We have no control over what information such third parties may track or collect, how they conduct their tracking or collection, or how they use the information they track or collect, and we assume no responsibility or liability for any tracking, data collection or other activities of third parties. Before you provide them with your personally identifiable information, please make sure that you have read their privacy policies. This Privacy Statement does not govern any third party's privacy practices. 
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-DOMICILE REQUIREMENT FOR USE OF THIS SITE
+To exercise your rights, you can [email us](mailto:privacy@livenation.com) or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
-You represent and warrant that you are domiciled in the United States of America. 
+**These sites and apps are not intended for children.**
 
-WHO CAN YOU CONTACT IF YOU HAVE QUESTIONS OR CONCERNS?
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." 
 
-Please contact our Chief Privacy Officer to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints. After receiving your inquiry, we will endeavor to respond within five business days. You may contact us by sending us an e-mail to at [privacy@vipnation.com](mailto:privacy@vipnation.com).
+Parents, you can also learn more about how to protect children's privacy online [here.](mailto:privacy@livenation.com)
 
-COULD THIS PRIVACY STATEMENT CHANGE?
+**We use standard security measures.**
 
-We reserve the right to update, change, add to, or subtract from this Privacy Statement at any time at our sole discretion. Any such modifications will be effective as soon as the updated Privacy Statement is posted on this Site, so we urge that you periodically review this Privacy Statement so that you will always know what information we collect from you online, how we use it, and what choices you have. 
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
 
-COPPA COMPLIANCE
+**We are TRUSTe certified.**
 
-  
+TRUSTe has awarded Live Nation the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on Live Nation and Ticketmaster sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements/). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
 
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
 
-IF YOU ARE A VISITOR UNDER THE AGE OF 13, PLEASE ASK YOUR MOM AND DAD (OR LEGAL GUARDIAN) TO REVIEW THE FOLLOWING SECTION BECAUSE THIS IS WHERE WE TELL YOU AND YOUR PARENT (OR LEGAL GUARDIAN) THE SPECIAL RULES THAT APPLY TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION. GENERALLY SPEAKING, YOUR MOM AND DAD (OR LEGAL GUARDIAN) MUST TELL US IF IT'S OKAY FOR YOU TO GIVE US CERTAIN INFORMATION BEFORE WE CAN COLLECT IT FROM YOU, AND THEY HAVE TO TELL US IF IT'S OKAY FOR US TO USE IT OR SHARE IT WITH ANYONE. 
+**We store information both in and outside of the United States.**
 
-The Children's Online Privacy Protection Act ("COPPA") requires us to inform the parents (or legal guardians) of children under the age of 13 about our collection, use, and disclosure practices regarding the personally identifiable information of their children who are under the age of 13 and to obtain their consent before their child is permitted to use certain features of our Site. 
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
 
-In order to be able to comply with this law, we request that all users using certain features of our Site provide us with their birth date, so that we can tell when a user is a child under the age of 13. As soon as a child under 13 inputs his or her birth date on the Site, a screen will appear asking the child to provide us his or her parent's (or legal guardian's) full name, e-mail address, and telephone number so that we can communicate with his or her parent (or legal guardian) in connection with our COPPA obligations. 
+Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit [http://www.export.gov/safeharbor.](http://export.gov/safeharbor/)
 
-  
+**We may link to third party sites or services we don't control.**
 
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
 
-Requirement of Parental Consent
+**Feel free to contact us if you have more questions.**
 
-To receive certain services or products available on our Site (such as for example, the Site's newsletter and other communications and materials) we require users of our Site, including children under the age of 13, to submit their personally identifiable information. With respect to such children, we consider the following information to be personally identifiable: a first and last name; a home or other physical address, including a street name and name of city or town; an e-mail address; a telephone number; and any other personal information that would allow a child to be contacted in person or online. In compliance with the law, if we ask a child to provide his or personally identifiable information in order to receive a service or product, we do not ask the child to provide any more personally identifiable information than is reasonably necessary to enable such child to receive such service or product. Moreover, we do not condition a child's receipt of any such service or product on the child's disclosing more personally identifiable information than is reasonably necessary to obtain the service or product. For example, if a child asks that we send him the Site's newsletter, we will only ask the child to provide us with his or her e-mail address and no other personal information. 
+If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@livenation.com](mailto:privacy@livenation.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at: 
 
-With certain exceptions (one of which is discussed below), we are allowed to collect, use, and/or disclose personally identifiable information from a child under 13 only if we have received the permission of the child's parent (or guardian) in advance of any such collection, use, and/or disclosure. To obtain that consent, we provide direct notice to the child's parent (or legal guardian) and seek the parent's (or legal guardian's) consent. The notice we send to parents (or legal guardians) contains the same information that is contained in this Privacy Statement concerning our collection, use, and disclosure practices regarding the personal information of children under 13. 
+Live Nation Entertainment, Inc.  
+9348 Civic Center Drive  
+Beverly Hills, CA 90210  
+Attention: Privacy Officer, Legal
 
-One exception to the requirement of obtaining parental consent in advance applies when we first respond to a child's request that we subscribe him to the Site's newsletter. Nevertheless, while we can send the child the newsletter the first time, we cannot continue to use the child's e-mail address to send him or her future newsletters without first notifying the parent (or legal guardian) that we will be communicating regularly with the child (at the child's request) and giving the parent (or legal guardian) the opportunity to stop the communication before sending or delivering a second communication to the child. If the parent (or legal guardian) notifies us that he or she does not want us to continue to use the child's personally identifiable information for any reason, we will delete that information from our database. 
+If you are not satisfied with our response, you can contact TRUSTe [here.](https://feedback-form.truste.com/watchdog/request)
 
-  
+**What we will do if there is an update to this policy.**
 
-
-Use of Information
-
-Assuming that we have received any requisite parental consent, we may use information collected from a child under 13, for example, to provide and enable the child to participate in activities that may be available on the Site, to allow the child to obtain services or products requested, to send updates regarding our Site, services or products, to send announcements, to conduct internal market research activities, and to otherwise promote our activities and products. 
-
-  
-
-
-Disclosure
-
-We do not disclose the personally identifiable information of children under the age of 13 to third parties, other than under certain limited situations such as: (a) to a company that provides support for the internal operations of our Site and that does not disclose or use such information for any other purpose, (b) in connection with a sale or acquisition of our Site or assets, or (c) as required by law or court order or in connection with a legal proceeding. 
-
-  
-
-
-Parental Requests for Information
-
-If a child has provided any personal information to us via the Site, his or her parent (or guardian) may request a description of what personal information has been collected from that child, the specific personal information collected about the child, and the parent (or legal guardian) may either limit or restrict any further maintenance, use, disclosure, or sharing of the child's personal information, and/or direct us to delete it. Also, a parent or legal guardian may decline to allow any future collection of personal information from that child. Such requests may be made by contacting us at [privacy@vipnation.com](mailto:privacy@vipnation.com). TO MAKE SURE THAT WE DO NOT INADVERTENTLY DISCLOSE A CHILD'S PERSONALLY-IDENTIFIABLE INFORMATION WITHOUT HIS OR PARENT'S (OR LEGAL GUARDIAN'S) CONSENT, WE WILL TAKE REASONABLE MEASURES TO VERIFY THAT THEREQUESTOR IS, IN FACT, THE PARENT OR LEGAL GUARDIAN OF THE CHILD IN QUESTION, BEFORE WE PROVIDE A CHILD'S PERSONALLY IDENTIFIABLE INFORMATION TO THAT PERSON. 
-
-  
-
-
-The Special Case of a Child's Attempt to Complete an Order for Concert Packages or Other Products
-
-No user of this Site can order a premium package or any other product or service that we offer without submitting his or her credit card information. If a child under the age of 13 attempts to complete an order for one of our packages or other products or services, a boldly colored screen will pop-up that will ask the child to go get his or her parent (or legal guardian) to complete the order. Only the parent or legal guardian may complete the order. To make sure that it was the parent (or legal guardian) the person who completed the order, we endeavor to verify the identity of the person who completed the order by contacting them (using the information provided by the child or by the person completing the order) after the order is submitted. 
-
-If you have any further questions or comments, please e-mail us at [info@vipnation.com](mailto:info@vipnation.com) or give us a call at +1-888-458-8297 toll-free from the U.S., Canada, and Mexico, or 00-800 458-92971 toll-free from the UK, Germany, Ireland, the Netherlands, Spain, Belgium, Switzerland, Australia, New Zealand, Austria, Denmark, Finland, Sweden, Norway, Czech Republic & France.
-
-THANK YOU FOR VISITING OUR SITE!
-
-This Privacy Statement was last revised on October 8, 2012
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
