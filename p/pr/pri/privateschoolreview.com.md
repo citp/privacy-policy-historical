@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227221800id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateschoolreview.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628090941id_/http%3A//www.privateschoolreview.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Private School Review | PrivateSchoolReview.com
+# Privacy Policy - Private School Review
 
 1\. WHAT THIS PRIVACY POLICY COVERS
     
