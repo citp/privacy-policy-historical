@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iracing.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210140312id_/http%3A//www.iracing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iracing.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628233438id_/http%3A//www.iracing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iRacing.com
 
