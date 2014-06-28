@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.co.id privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065229id_/http%3A//www.careerbuilder.co.id/I1/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.co.id privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062606id_/http%3A//www.careerbuilder.co.id/I1/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # CareerBuilder.co.id - Privacy
 
@@ -58,9 +58,9 @@ We do not make your personal information available to other persons so that they
 
 **Correction and Removal**
 
-At any time you may access any of your personal information held by CareerBuilder UK (i.e. not just the information held as part of your account profile) in order to review, correct or update such information. In order to do so, please [click here](http://www.careerbuilder.co.id/INTL/Share/Help/FAQ.aspx). Please note that we may need you to verify your identity before we process your request.
+At any time you may access any of your personal information held by CareerBuilder UK (i.e. not just the information held as part of your account profile) in order to review, correct or update such information. In order to do so, please [click here](http://www.careerbuilder.co.id/intl/share/help/faq.aspx). Please note that we may need you to verify your identity before we process your request.
 
-Further, you may at any time request that we permanently delete all your personal information held by CareerBuilder UK. In order to do so, please [click here](http://www.careerbuilder.co.id/INTL/Share/Help/FAQ.aspx). Following such a request, we will cease to use or make available your personal information (other than where required by law). We will also delete your personal information from our systems with the exception of information that is contained in emails, correspondence and other documents that we may retain as evidence of the terms of the legal relationship between us and you. Please note that we may need you to verify your identity before we process your request.
+Further, you may at any time request that we permanently delete all your personal information held by CareerBuilder UK. In order to do so, please [click here](http://www.careerbuilder.co.id/intl/share/help/faq.aspx). Following such a request, we will cease to use or make available your personal information (other than where required by law). We will also delete your personal information from our systems with the exception of information that is contained in emails, correspondence and other documents that we may retain as evidence of the terms of the legal relationship between us and you. Please note that we may need you to verify your identity before we process your request.
 
 **Summary of your rights under the Data Protection Act 1998**
 
@@ -84,7 +84,7 @@ The website of the Information Commissioner's Office provides information and as
 
 **Dispute Resolution**
 
-If, at any time, you have questions or concerns regarding this Privacy Policy or believe that we have violated this Privacy Policy, please [click here](http://www.careerbuilder.co.id/INTL/Share/Help/FAQ.aspx) and we will attempt to resolve any problem or concern you may have. If we do not adequately address your problem or concern, you should then contact BBB _OnLine_ through the BBB _OnLine_ website at www.bbbonline.org, and they will serve as a third party contact to facilitate resolution of any dispute.
+If, at any time, you have questions or concerns regarding this Privacy Policy or believe that we have violated this Privacy Policy, please [click here](http://www.careerbuilder.co.id/intl/share/help/faq.aspx) and we will attempt to resolve any problem or concern you may have. If we do not adequately address your problem or concern, you should then contact BBB _OnLine_ through the BBB _OnLine_ website at www.bbbonline.org, and they will serve as a third party contact to facilitate resolution of any dispute.
 
 **Making Changes to Your Information or Preferences**
 
