@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cricbuzz.com privacy policy that was archived on 2013-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113215328id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cricbuzz.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628021042id_/http%3A//www.cricbuzz.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en"><head>
 <meta name="google-site-verification" content="google2e1edb806b79b009.html">
@@ -19,40 +19,47 @@
 <meta name="twitter:app:id:iphone" content="360466413">
 <meta name="twitter:app:id:googleplay" content="com.cricbuzz.android">
 <meta name="twitter:app:name:googleplay" content="Cricbuzz">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
 <meta property="og:type" content="">
 <meta property="og:title" content="">
 <meta property="og:url" content="">
 <meta property="twitter:url" content="">
-<meta property="og:image" content="">
-<meta name="twitter:image" content="">
 	<meta property="og:description" content="">
 	<meta name="twitter:description" content="">
 	<meta name="twitter:card" content="summary">	
 
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.cricbuzz.com/l/privacypolicy">
+<link rel="alternate" media="handheld" href="http://m.cricbuzz.com/s/privacypolicy">
 
 
 
 <meta name="p:domain_verify" content="fd560568b43f31382de30f628c8430bd">
 <meta name="msvalidate.01" content="A509FA8BAE50018F9DF2553AEDEDF77B">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="icon" href="/images/coast_cricbuzz_logo.png" sizes="228x228">
+
 <link rel="shortcut icon" type="image/x-icon" href="http://www.cricbuzz.com/images/cric_ball.ico">
 
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
 
 <link href="http://live-feeds.cricbuzz.com/CricbuzzFeed" rel="alternate" type="application/rss+xml" title="Cricbuzz Scores and News RSS Feed">
 
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/opljecakjchbhhikbeifamamnpcdbgem">
 
-<link href="http://www.cricbuzz.com/css/cbz.min.1337593749.css" rel="stylesheet" type="text/css">
-<link href="http://www.cricbuzz.com/css/cbz_defs.1337593759.css" rel="stylesheet" type="text/css">
-<!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.cricbuzz.com/css/cbz_ie.min.1337593749.css" />
+<link href="http://www.cricbuzz.com/css/cbz.min.1389579636.css" rel="stylesheet" type="text/css">
+<link href="http://www.cricbuzz.com/css/cbz_defs.1389579662.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.cricbuzz.com/css/cbz_ie.min.1389579635.css" />
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/jquery-main.min.1337593749.js"></script>
-<script type="text/javascript" src="/js/cbz.min.1337593996.js"></script>
-<script type="text/javascript" src="/js/jquery-ui.min.1337593749.js"></script><style type="text/css">.noscript{display:none}</style>
-<script type="text/javascript" src="/js/hooks.1337593771.js"></script>
-<script type="text/javascript" src="/js/cbz_defs.1337593789.js"></script>
-</head><body style="background: url(&quot;http://www.cricbuzz.com/images/homepage_bg_new.png&quot;) center top repeat-x rgb(187, 187, 187);"><div id="fb-root">&nbsp;</div>
+<script type="text/javascript" src="/js/jquery-main.min.1392619784.js"></script>
+<script type="text/javascript" src="/js/cbz.min.1392619791.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.min.1392619784.js"></script><style type="text/css">.noscript{display:none}</style>
+<script type="text/javascript" src="/js/hooks.1392619784.js"></script>
+<script type="text/javascript" src="/js/cbz_defs.1392619841.js"></script>
+</head><body><div id="fb-root">&nbsp;</div>
+
 
 
 
@@ -60,13 +67,13 @@
 <div id="forChrome"></div>
 <script>
 function targeted_roadblock(){
-	// if($.cbz.ads.isRegion('US|NA') || $.cbz.ads.isRegion('GB|EU') || $.cbz.ads.isRegion('CA|NA') || $.cbz.ads.isRegion('SG|AS') ||  $.cbz.ads.isRegion('HK|AS') ||  $.cbz.ads.isRegion('SE|EU') ||  $.cbz.ads.isRegion('CH|EU') ){
-	if($.cbz.ads.isRegion('US|NA') ){
-		roadblock(24);
-	}
+	if($.cbz.ads.isRegion('US|NA')) {roadblock_session();}
+	if($.cbz.ads.isRegion('CA|NA')) {roadblock_session();}
+	
+	//if($.cbz.ads.isRegion('CA|NA')) {roadblock(12);}
 }
 
-if(cbzads == null || cbzads == ""){
+if(typeof(cbzads) == 'undefined' || cbzads == null || cbzads == ""){
 	set_ads_cookie();
 	setTimeout("targeted_roadblock()",1000);
 }else{
@@ -77,57 +84,25 @@ if(cbzads == null || cbzads == ""){
 
 
 
-	<style>
-		#background_ads, #backgroundClose{display:none;}
-	</style>
-   <a href="" target="_blank" id="background_ads" style="display: none;"> </a>
-  <span class="background_ads_workaround" style="display:none"></span>
-  <div class="page_margins" style="background: none;">
-		<script>
-	function walmart_tracker(){
-		var date = new Date();
-		var curr_time = date.getTime();
-		var us_add_campain = new Image();
-		us_add_campain.src= "http://media.fastclick.net/w/tre?ad_id=28069;evt=20626;cat1=27371;cat2=27373;rand=" + curr_time;
-		var us_add_campain_2 = new Image();
-		us_add_campain_2.src= "http://a.tribalfusion.com/i.cid?c=573983&d=30&page=landingPage";
-		var us_add_campain_3 = new Image();
-		us_add_campain_3.src= "http://20510883p.rfihub.com/ca.gif?rb=1375&ca=20510883&ra=" + curr_time;
-	}
-	var cbzads = $.cookie('cbzads');
-	if(cbzads && ($.cbz.ads.isRegion('US|'))){
-		walmart_tracker();
-		walmart_tracker();
-	}
-	</script>
-				<a href="Javascript:void(0)" onclick="closeBackGround()" id="backgroundClose" style="color:#CCC;width:50px;font:bold 12px Arial;margin-left:1050px;position:fixed;border:1px solid #CCC;padding:2px;display:none">Close X</a>
+
+   <a href="" target="_blank" id="background_ads"> </a>
+  <span class="background_ads_workaround"></span>
+  <div class="page_margins">
+				<a href="Javascript:void(0)" onclick="closeBackGround()" id="backgroundClose" class="backgroundCloseImg"><img src="http://www.cricbuzz.com/includes/ads/images/cricbuzz/closeButton_20x20.png"></a>
     <div class="page">
-		       <div id="nav">
-        <div id="header">
+				<span id="flash_left"></span>
+		<div id="nav">
+			<div id="header">
 	<div class="column_left_25">
 		<div class="top_header">
 				<a href="http://www.cricbuzz.com" class="homeimg_sprite"></a>
 		</div>
-		<div style="padding: 5px 0 0;height:30px;width:240px;clear:both">
-			<table style="width:240px">
-				<tbody><tr>
-					<td>
-		<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fcricbuzz&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=30119633160" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
-		</td>
-					<td>
-	<a href="https://twitter.com/cricbuzz" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-width="152"></a>
-
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-					</td>
-				</tr>
-			</tbody></table>
+		<div id="social"></div>
 	</div>
-	
-	</div>
-	<div class="column_right_75" style="padding-top:7px">
-		<div class="top_header cbzadvert_block" style="display:block;">
-						<div id="leaderboard" class="cbzadvert top_banner_cbzadvert" style="display:block"> 
-															</div>
+	<div class="column_right_75">
+		<div class="top_header cbzadvert_block">
+						<div id="leaderboard" class="cbzadvert top_banner_cbzadvert" style="display:block;height:90px;padding-top:0px;"> 
+																			</div>
 					</div>
 	</div>
 </div>
@@ -135,134 +110,70 @@ if(cbzads == null || cbzads == ""){
 <div class="hlist">
 <ul>
 <li><a href="http://www.cricbuzz.com/" id="menuTag">Home</a></li>
-<li><a href="http://www.cricbuzz.com/specials/events/adieu-sachin/" style="color: yellow" class="">Adieu Sachin</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-news" style=" " class="linked-roadblock"> News</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-schedule/series " style=" " class="linked-roadblock">Schedule</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-news/editorial" style="" class=""> Editorials</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-scorecard-archives" style=" " class="">Archive</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-photo-gallery" style="" class="linked-roadblock"> Photos</a>
-</li>
-<li><a href="http://www.cricbuzz.com/cricket-videos" style="" class="">Videos</a>
-</li>
-<li><a href="http://www.cricbuzz.com/mobileapps" style="" class="nonUKItem">Mobile Apps</a>
-</li>
-<li><a href="https://fantasycricket.dream11.com/?utm_source=Cricbuzz&amp;utm_medium=cpa&amp;utm_campaign=CBNavigation" style="color: yellow" class="fantasy_cricket" target="_blank">Fantasy Cricket</a>
-</li>
-<li><a href="javascript:void(0)" style=" " class="">More</a>
+<li><a href=" javascript:void(0) ">Series ▼</a>
 	<ul class="subnav">
-		<li><a href=" http://www.cricbuzz.com/careers" style=" " class="">Careers</a></li>
-		<li><a href="/info/cricket-feeds" style="" class="">Cricket Feeds</a></li>
-		<li><a href="http://www.cricbuzz.com/info/privacy" style=" " class="">Privacy Policy</a></li>
-		<li><a href="http://www.cricbuzz.com/info/contact" style="" class="">Contact Us</a></li>
-		<li><a href=" http://www.cricbuzz.com/faq" style=" " class=""> FAQ</a></li>
+		<li><a href="http://www.cricbuzz.com/cricket-news/series/2233/india-tour-of-england-2014">England vs India, 2014</a></li>
+		<li><a href="http://www.cricbuzz.com/cricket-news/series/2235/sri-lanka-tour-of-england-and-ireland-2014">England vs Sri Lanka, 2014</a></li>
+		<li><a href="http://www.cricbuzz.com/cricket-news/series/2269/new-zealand-tour-of-west-indies-2014">West Indies vs New Zealand, 2014</a></li>
+	</ul>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-news" class="linked-roadblock"> News</a>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-news/editorial"> Editorials</a>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-schedule/series " class="linked-roadblock">Schedule</a>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-scorecard-archives">Archive</a>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-photo-gallery" class="linked-roadblock"> Photos</a>
+</li>
+<li><a href="http://www.cricbuzz.com/cricket-videos">Videos</a>
+</li>
+<li><a href="http://www.cricbuzz.com/mobileapps" class="nonUKItem">Mobile Apps</a>
+</li>
+<li><a href="https://fantasycricket.dream11.com/IN/?utm_source=CricbuzzInd&amp;utm_medium=cpa&amp;utm_campaign=CBNavigation" style="color:yellow" class="menu_fantasy_links" target="_blank" rel="nofollow">Fantasy Cricket</a>
+</li>
+<li><a href="javascript:void(0)">More ▼</a>
+	<ul class="subnav">
+		<li><a href=" http://www.cricbuzz.com/careers">Careers</a></li>
+		<li><a href="http://www.cricbuzz.com/info/privacy">Privacy Policy</a></li>
+		<li><a href="http://www.cricbuzz.com/info/contact">Contact Us</a></li>
+		<li><a href=" http://www.cricbuzz.com/faq"> FAQ</a></li>
 	</ul>
 </li>
 </ul>
-</div>
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-
-	
-	
-	
-	
-						
-				
-							
-							
-						
-				
-	
-
-
-	
-
-	<div class="hlist"><ul id="match_item"><li><a href="/scores-home" id="menuTag">Matches</a></li><li> <a href="http://live2.cricbuzz.com/live/scorecard/12598/India-vs-Australia-Only-T20I" onclick="return !loadBalance('12598/India-vs-Australia-Only-T20I', 12598,'menu');" style="padding:0 10px 2px;"> IND vs AUS- Preview</a></li><li> <a href="http://live2.cricbuzz.com/live/scorecard/13001/Bangladesh-vs-New-Zealand-1st-Test" onclick="return !loadBalance('13001/Bangladesh-vs-New-Zealand-1st-Test', 13001,'menu');" style="padding:0 10px 2px;"> BAN vs NZ- Stumps</a></li><li> <a href="http://live2.cricbuzz.com/live/scorecard/12992/India-A-vs-West-Indies-A-3rd-unofficial-Test" onclick="return !loadBalance('12992/India-A-vs-West-Indies-A-3rd-unofficial-Test', 12992,'menu');" style="padding:0 10px 2px;"> INDA vs WIA- In Progress</a></li><li> <a href="http://live2.cricbuzz.com/live/scorecard/13047/South-Australia-vs-Tasmania-5th-Match" onclick="return !loadBalance('13047/South-Australia-vs-Tasmania-5th-Match', 13047,'menu');" style="padding:0 10px 2px;"> SAUS vs TAS- Tas Won</a></li></ul></div>
- 
-	<div class="hlist"><ul id="match_item"><li><a href="/scores-home-domestic" id="menuTag" style="padding:0px 3px 2px;width:89px">Other Matches</a></li><li style=""><a href="/scores-home/2220/Duleep-Trophy-2013" style="padding:0 10px 2px;">Duleep Trophy 2013&nbsp;  ▼</a><ul class="subnav"><li> <a href="http://live2.cricbuzz.com/live/scorecard/12844/East-Zone-vs-North-Zone-1st-Semi-final" onclick="return !loadBalance('12844/East-Zone-vs-North-Zone-1st-Semi-final', 12844,'menu');"> EZONE vs NZONE- Start Delayed</a></li><li> <a href="http://live2.cricbuzz.com/live/scorecard/12845/Central-Zone-vs-South-Zone-2nd-Semi-final" onclick="return !loadBalance('12845/Central-Zone-vs-South-Zone-2nd-Semi-final', 12845,'menu');"> CZONE vs SZONE- Rain delay</a></li></ul></li></ul></div>
-
-
-
-<script language="JavaScript" type="text/javascript">
-function loadBalance(url, matchid,source) {
-	if(source == null){
-		source = "flash"
-	}
-	var localServers = ["http://live.cricbuzz.com/live/scorecard/"];
-	var localweightArray  = [0,0,0,0,0,0,0,0,0,0];
-	var localRange = 10;
-	var lb = 0;
-	try {
-		if (hookServers) {
-			localServers = hookServers;
-			if (LBweightArray)
-				localweightArray = LBweightArray;
-			if (LBrange)
-				localRange = LBrange;
-			lb = $.cbz.commons.getRandom() % localRange;
-			lb = localweightArray[lb];
-		}
-	} catch (err) {
-	}
-	var LBurl = localServers[lb];
-	var referrer = window.top.location;
-	/* $.getScript("http://ads.cricbuzz.com/adserver/counter/lb_logger.php?matchid="+ matchid + "&lb=" + LBurl + "&source=" + source + "&referrer=" + referrer); */
-	window.top.location = LBurl + url;
-	return true;
-}
-</script>
-
-
-<style>
-ul#q_links { list-style: none outside none;margin: 0;padding: 0;}
-ul#q_links li {font-size: 11px;float: left;font-weight: bold;}
-.q_links_title {color: #000;font-size: 12px;}
-
-</style>
-<div class="q_links_container">
+</div><div class="hlist"><ul id="match_item"><li><a href="/cricket-match/live-scores" id="menuTag">Live Scores</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13669/wi-vs-nz-3rd-test-new-zealand-tour-of-west-indies-2014" title="West Indies vs New Zealand, 3rd Test, Kensington Oval - Live Score" style="padding:0 10px 2px;"> WI vs NZ - Stumps</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13829/leic-vs-inds-3-day-practice-match-india-tour-of-england-2014-practice-matches" title="Leicestershire vs Indians, 3-day practice match, Grace Road - Live Score" style="padding:0 10px 2px;"> LEIC vs INDS - Stumps</a></li></ul></div>
+<div class="hlist"><ul id="match_item"><li><a href="/scores-home-domestic" id="menuTag" style="padding:0px 3px 2px;width:89px">Other Matches</a></li><li style=""><a href="/scores-home/2252/Natwest-t20-Blast-2014" style="padding:0 10px 2px;">Natwest t20 Blast 2014&nbsp; ▼</a><ul class="subnav"><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13359/derby-vs-warks-north-division-natwest-t20-blast-2014" title="Derbyshire vs Warwickshire, North Division, County Ground - Live Score"> DERBY vs WARKS - Derby Won</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13362/sus-vs-mdx-south-division-natwest-t20-blast-2014" title="Sussex vs Middlesex, South Division, County Ground, Hove - Live Score"> SUS vs MDX - SUS Won</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13360/nor-vs-dur-north-division-natwest-t20-blast-2014" title="Northamptonshire vs Durham, North Division, County Ground - Live Score"> NOR vs DUR - No result</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13361/sur-vs-ham-south-division-natwest-t20-blast-2014" title="Surrey vs Hampshire, South Division, Kennington Oval - Live Score"> SUR vs HAM - Sur Won</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13358/som-vs-ess-south-division-natwest-t20-blast-2014" title="Somerset vs Essex, South Division, County Ground - Live Score"> SOM vs ESS - Ess Won</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13357/gloucs-vs-kent-south-division-natwest-t20-blast-2014" title="Gloucestershire vs Kent, South Division, County Ground - Live Score"> GLOUCS vs KENT - Gloucs Won</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13356/yorks-vs-lancs-north-division-natwest-t20-blast-2014" title="Yorkshire vs Lancashire, North Division, Headingley - Live Score"> YORKS vs LANCS - Abandoned</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13355/worcs-vs-notts-north-division-natwest-t20-blast-2014" title="Worcestershire vs Nottinghamshire, North Division, New Road - Live Score"> WORCS vs NOTTS - Abandoned</a></li><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13363/notts-vs-yorks-north-division-natwest-t20-blast-2014" title="Nottinghamshire vs Yorkshire, North Division, Trent Bridge - Live Score"> NOTTS vs YORKS - Preview</a></li></ul></li><li style=""><a href="/scores-home/2251/County-Championship-Division-Two-2014" style="padding:0 10px 2px;">County Division 2 2014&nbsp; ▼</a><ul class="subnav"><li> <a href="http://www.cricbuzz.com/live-cricket-scores/13261/sur-vs-ham-county-div-2-county-championship-division-two-2014" title="Surrey vs Hampshire, County Div 2, Kennington Oval - Live Score"> SUR vs HAM - Preview</a></li></ul></li></ul></div><div class="q_links_container">
 		<ul id="q_links">
-			<li class="q_links_title">India vs West Indies:</li>
+			<li class="q_links_title">England vs India:</li>
 			<li>
-				<a href="http://www.cricbuzz.com/cricket-news/series/2242/west-indies-in-india-2013">Home</a>
+				<a href="http://www.cricbuzz.com/cricket-news/series/2233/india-tour-of-england-2014" title="England vs India">Home</a>
 			</li>
 			<li>
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2242/west-indies-in-india-2013" class="linked-roadblock">Schedule</a>
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2233/india-tour-of-england-2014" title="England vs India Schedule">Schedule</a>
 			</li>
 			<li>	
-				<a href="http://www.cricbuzz.com/cricket-news/info/231/west-indies-in-india-2013">News</a>
+				<a href="http://www.cricbuzz.com/cricket-news/info/249/india-tour-of-england-2014" title="England vs India News">News</a>
 			</li>
 			<li>	
-				<a href="http://stats.cricbuzz.com/bilateral/2242/west-indies-in-india-2013/matches/" target="_blank">Stats</a>
+				<a href="http://www.cricbuzz.com/series-stats/bilateral/2233/india-tour-of-england-2014/matches/" target="_blank" title="England vs India Series Stats">Stats</a>
+			</li>
+			<li class="q_links_title">|</li>
+			<li class="q_links_title">West Indies vs New Zealand:</li>
+			<li>
+				<a href="http://www.cricbuzz.com/cricket-news/series/2269/new-zealand-tour-of-west-indies-2014" title="West Indies vs New Zealand">Home</a>
+			</li>
+			<li>
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2269/new-zealand-tour-of-west-indies-2014" title="West Indies vs New Zealand Schedule">Schedule</a>
 			</li>
 			<li>	
-				<a href="http://www.cricbuzz.com/specials/events/adieu-sachin/" target="_blank">Adieu Sachin</a>
-			</li>
-			<!--<li>	
-				<a href="http://www.cricbuzz.com/points-table/2216/west-indies-in-india-2013" target="_blank">Standings</a>
+				<a href="http://www.cricbuzz.com/cricket-news/info/248/new-zealand-tour-of-west-indies-2014" title="West Indies vs New Zealand News">News</a>
 			</li>
 			<li>	
-				<a href="http://specials.cricbuzz.com/series/2216/tracker" target="_blank">Boundary Tracker</a>
-			</li>-->
+				<a href="http://www.cricbuzz.com/series-stats/bilateral/2269/new-zealand-tour-of-west-indies-2014/matches/" target="_blank" title="West Indies vs New Zealand Series Stats">Stats</a>
+			</li>
 		</ul>
-</div>      </div>
+</div>		</div>
 				<style type="text/css">
 
 #list{
@@ -270,7 +181,6 @@ padding:3px 0px;
 }
 
 </style>
-
 <div id="main">
 		<div class="column_left_66">
 			<div class="column_content">
@@ -366,7 +276,11 @@ padding:3px 0px;
 </style>
 
 <div class="flashwidget_banner">
-		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="110" width="315"><param name="movie" value="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_oct8_2012.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="allowScriptAccess" value="always"><embed src="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_oct8_2012.swf" quality="best" scale="exactfit" type="application/x-shockwave-flash" wmode="transparent" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" allowscriptaccess="always" height="110" width="315"></object>
+		<!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" height="110" width="315"><param name="movie" value="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_nov14_iocl_2013.swf"><param name="quality" value="high"><param name="allowScriptAccess" value="always"><embed src="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_nov14_iocl_2013.swf" quality="best" scale="exactfit" type="application/x-shockwave-flash" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" allowscriptaccess="always" height="110" width="315"></object>
+		-->
+		
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="110" width="315"><param name="movie" value="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_oct8_2012.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="allowScriptAccess" value="always"><embed src="http://ads.cricbuzz.com/adserver/adverts/315x110_homewidget_oct8_2012.swf" quality="best" scale="exactfit" type="application/x-shockwave-flash" wmode="transparent" pluginspace="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" allowscriptaccess="always" height="110" width="315"></object> 
+		
 </div>
 <script>
 if(document.getElementById("homepage_flash_scorecard")){
@@ -400,21 +314,60 @@ function openPopup(url){
 				  </div>
 
 				<div class="column_content">
-							<!--div id="header_module">
-		<div>Latest News</div>
-	</div-->
-	<table cellspacing="0" width="100%" class="cbz_container_header">
-		<tbody><tr><td class="cbz_container_header_left"></td><td class="cbz_container_header_center">Latest News</td><td class="cbz_container_header_right"></td></tr>
-		<tr><td colspan="3" class="header_divider"></td></tr>
-	</tbody></table>
-	<div id="news_container">
-		<div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59662/i-enjoy-bowling-in-general-steyn">I enjoy bowling in general: Steyn</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59661/proteas-cruise-to-victory">Proteas cruise to victory</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59660/i-want-sachin-to-enjoy-his-200th-dhoni">I want Sachin to enjoy his 200th: Dhoni</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59659/scots-ease-to-routine-win">Scots ease to routine win</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59658/south-africa-overwhelm-pakistan-in-first-twenty20">South Africa overwhelm Pakistan in first Twenty20 </a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59657/pakistan-win-toss-and-bat-in-first-south-africa-t20">Pakistan win toss and bat in first South Africa T20 </a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59656/our-bowlers-vying-for-sachins-wicket-sammy">Our bowlers vying for Sachin's wicket: Sammy</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59655/australias-siddle-signs-for-nottinghamshire">Australia's Siddle signs for Nottinghamshire</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59654/ecb-make-changes-for-2014">ECB make changes for 2014</a></div></div></div><div class="news_row"><div style="padding-left:3px"><div class="link_toggler arrow">&nbsp;</div><div class="news_headline"><a href="/cricket-news/59653/siddle-signs-notts-contract">Siddle signs Notts contract</a></div></div></div>		<div class="widgetsMore"><a href="/cricket-news"> More News..</a></div>
+							<div class="cbz_module_header">Latest News</div>
+	<div class="cbz_module_content">
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64159/pakistan-and-west-indies-part-of-icc-exco">Pakistan and West Indies part of ICC ExCo</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64152/fica-slams-srinivasans-appointment">FICA slams Srinivasan's appointment</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64149/live-cricket-score-leicestershire-vs-indians-3-day-practice-match-day-2-india-tour-of-england-2014-practice-matches">Live cricket score: Leicestershire vs Indians, 3-day practice match, Day 2, India tour of England 2014, Practice matches</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64148/neesham-rues-missed-opportunity">Neesham rues missed opportunity</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64147/warne-attacks-cook-again">Warne attacks Cook again</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64146/new-zealand-hopes-hit-by-benn">New Zealand hopes hit by Benn</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64140/pakistan-india-to-play-six-series-between-2015-23">Pakistan, India to play six series between 2015-23</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64136/the-indestructible-shivnarine-chanderpaul">The Indestructible Shivnarine Chanderpaul</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64134/full-transcript-of-press-conference">Full transcript of press conference</a>					</div>
+			</div>
+					<div class="news_row cbz_module_item">
+				<div class="link_toggler arrow">&nbsp;</div>
+					<div class="news_headline">
+						<a href="/cricket-news/64133/live-cricket-score-leicestershire-leic-vs-indians-inds-3-day-practice-match-india-tour-of-england-2014-practice-matches">Live cricket score: Leicestershire (LEIC) vs Indians (INDS), 3-day practice match, India tour of England 2014, Practice matches</a>					</div>
+			</div>
+				<div class="top_more_news"><a href="/cricket-news"> More News..</a></div>
 	</div>
-	<!--div id="footer_module"></div-->
-		<table cellspacing="0" width="100%" class="cbz_container_footer">
-<tbody><tr><td class="cbz_container_footer_left"></td><td class="cbz_container_footer_center"></td><td class="cbz_container_footer_right"></td></tr>
-</tbody></table>
-
 				</div>
 				   <div class="column_content cbzadvert_block">
 						<table cellspacing="0" width="100%" class="cbz_header_white">
@@ -446,17 +399,17 @@ function openPopup(url){
 		<div id="home-icici" style="display: none;"></div>
 	</div>
 <div id="news_container">
-	<table width="100%"><tbody><tr><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/m/12840/" target="_blank" title="Pakistan vs South Africa, 1st T20I">
-		<div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/13/tmb_20131113_1854_24730.jpg) -7.5px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/m/13039/" target="_blank" title="Sri Lanka vs New Zealand, 2nd ODI">
-		<div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/12/tmb_20131112_1207_24715.jpg) -41.5px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/m/12839/" target="_blank" title="Pakistan vs South Africa, 5th ODI">
-		<div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/11/tmb_20131111_1253_24694.jpg) -10.5px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/865/" target="_blank" title="Pakistan v South Africa, Training Pics">
-		 <div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/11/tmb_20131111_0423_24693.jpg) -4px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/864/" target="_blank" title="Australia A v England XI Practice Match  Day 4 Pics">
-		 <div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/10/tmb_20131110_0631_24673.jpg) -39px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td></tr><tr><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/m/12838/" target="_blank" title="Pakistan vs South Africa, 4th ODI">
-		<div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/8/tmb_20131108_1708_24638.jpg) -5px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/863/" target="_blank" title="India vs West Indies, 1st Test, Day 3">
-		 <div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/8/tmb_20131108_0400_24617.jpg) -3px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/862/" target="_blank" title="India vs West Indies, 1st Test, Day 2">
-		 <div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/7/tmb_20131107_0358_24596.jpg) -36px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/m/12837/" target="_blank" title="Pakistan vs South Africa, 3rd ODI">
-		<div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/6/tmb_20131106_1235_24581.jpg) -30px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/861/" target="_blank" title="Bangladesh v New Zealand, Only T20I">
-		 <div style="background: transparent url(http://74.86.155.244/gallery/images/2013/nov/06//tmb_44fcc_1383732685.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td></tr></tbody></table>		</div>
+	<table width="100%"><tbody><tr><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1170/" target="_blank" title="Indians practice indoors">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/27//tmb_09cd0_1403879971.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1169/" target="_blank" title="Leicestershire vs Indians, Day 1">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/26//tmb_9414a_1403794885.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1168/" target="_blank" title="India Practice Session at Leicester">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/26//tmb_f98de_1403774227.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1167/" target="_blank" title="England v Sri Lanka, Day 5, 2nd Test">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/24//tmb_f3ccd_1403614173.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1166/" target="_blank" title="England v Sri Lanka, Day 4, 2nd Test">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/23//tmb_44c64_1403523632.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td></tr><tr><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1165/" target="_blank" title="England v Sri Lanka, Day 3, 2nd Test">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/22//tmb_a5f24_1403436087.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1164/" target="_blank" title="England v Sri Lanka, Day 2, 2nd Test">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/21//tmb_799ba_1403352299.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1163/" target="_blank" title="England v Sri Lanka, Day 1, 2nd Test">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/20//tmb_15600_1403261672.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1162/" target="_blank" title="Ian Bell  A journey to 100">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/20//tmb_15600_1403260364.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td><td bgcolor="#FFFFFF" align="center" width="60px;" height="60px">			<a href="/cricket-photo-gallery/e/1161/" target="_blank" title="Bangladesh v India, 3rd ODI">
+		 <div style="background: transparent url(http://img.cricketcb.com/gallery/images/2014/jun/19//tmb_d0096_1403181052.jpg) -40px -20px no-repeat; width:50px; height:50px; border:1px solid #BEBCBC;"></div></a></td></tr></tbody></table>		</div>
 
 		<table cellspacing="0" width="100%" class="cbz_container_footer">
 <tbody><tr><td class="cbz_container_footer_left"></td><td class="cbz_container_footer_center"></td><td class="cbz_container_footer_right"></td></tr>
@@ -466,122 +419,110 @@ function openPopup(url){
 			</div>
 		</div>		
 	</div>		<div class="cbzadvert_block">
-			<div id="leaderboard2" class="cbzadvert top_banner_cbzadvert ui-corner-all" style="clear:both;padding-top:20px"> </div>
+			<div id="leaderboard2" class="cbzadvert top_banner_cbzadvert"> </div>
 		</div>
-      <div id="footer"><br>
-<style>
-	.footer_buttons_link{width:50px;padding:0px 0px 0px 0px;text-align:left;}
-	.footer_buttons_link:hover{text-decoration:none;}
-</style>
+		<div id="footer"><br>
+
 <div id="footer-main-container">
 	<div id="footer-container1">
 		<p class="footer-header">Mobile Site &amp; Apps</p>
-		<ul style="height:250px;text-align:left">
+		<ul>
 			<li id="mobilesite">
-				<a href="http://m.cricbuzz.com/" target="_blank" class="footer_buttons_link" style="line-height:29px;padding-left:26px;display:block;width:81%">&nbsp; m.cricbuzz.com</a>
+				<a href="http://m.cricbuzz.com/" target="_blank" class="footer_buttons_link">&nbsp; m.cricbuzz.com</a>
 			</li>
 			<li id="android">
-				<a href="https://market.android.com/details?id=com.cricbuzz.android" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:26px;display:block;width:81%">&nbsp; Android</a>
+				<a href="https://market.android.com/details?id=com.cricbuzz.android" target="_blank" class="footer_buttons_link">&nbsp; Android</a>
 			</li>
 			<li id="iphone">
-				<a href="http://itunes.apple.com/app/id360466413" target="_blank" class="footer_buttons_link" style="line-height:29px;padding-left:26px;display:block;width:81%">&nbsp; iphone</a>
+				<a href="http://itunes.apple.com/app/id360466413" target="_blank" class="footer_buttons_link">&nbsp; iphone</a>
 			</li>
 			<li id="windows">
-				<a href="http://www.windowsphone.com/en-US/apps/d349db5c-d4e9-4498-ba6f-b9059e452965" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:34px;display:block;width:81%">Windows Phone</a>
+				<a href="http://www.windowsphone.com/en-US/apps/d349db5c-d4e9-4498-ba6f-b9059e452965" target="_blank" class="footer_buttons_link">Windows Phone</a>
 			</li>
 			<li id="blackberry">
-				<a href="http://appworld.blackberry.com/webstore/content/64558" target="_blank" class="footer_buttons_link" style="line-height:27px;padding-left:26px;display:block;width:81%">&nbsp; Blackberry</a>
+				<a href="http://appworld.blackberry.com/webstore/content/64558" target="_blank" class="footer_buttons_link">&nbsp; Blackberry</a>
 			</li>
 			<li id="nokiawrt">
-				<a href="http://store.ovi.com/content/232576" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:34px;display:block;width:81%">Nokia</a>
+				<a href="http://store.ovi.com/content/232576" target="_blank" class="footer_buttons_link">Nokia</a>
 			</li>
 			<li id="j2me">
-				<a href="http://www.getjar.com/mobile/38906/cricbuzz---cricket-scores-and-news" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:34px;display:block;width:81%">Basic Phone</a>
+				<a href="http://www.getjar.com/mobile/38906/cricbuzz---cricket-scores-and-news" target="_blank" class="footer_buttons_link">Basic Phone</a>
 			</li>
 			<li id="chromeextension">
-				<a href="https://chrome.google.com/webstore/detail/cricbuzz/opljecakjchbhhikbeifamamnpcdbgem" target="_blank" class="footer_buttons_link" style="line-height:25px;padding-left:35px;display:block;width:81%">Chrome Extension</a>
+				<a href="https://chrome.google.com/webstore/detail/cricbuzz/opljecakjchbhhikbeifamamnpcdbgem" target="_blank" class="footer_buttons_link">Chrome Extension</a>
 			</li>
 		</ul>
 	</div>	
 	
-	<div id="footer-container2" style="width:195px;">
+	<div id="footer-container2">
 		<p class="footer-header">Follow Us Via</p>
-		<ul style="height:150px;text-align:left">
+		<ul>
 			<li id="facebook">
-				<a href="http://www.facebook.com/cricbuzz" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:25px;display:block;width:81%">&nbsp; Facebook</a>
+				<a href="http://www.facebook.com/cricbuzz" target="_blank" class="footer_buttons_link">&nbsp; Facebook</a>
 			</li>
 			<li id="twitter">
-				<a href="http://twitter.com/cricbuzz" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:25px;display:block;width:81%">&nbsp; Twitter</a>
+				<a href="http://twitter.com/cricbuzz" target="_blank" class="footer_buttons_link">&nbsp; Twitter</a>
 			</li>
 			<li id="pinterest">
-				<a href=" http://pinterest.com/cricbuzz/" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:35px;display:block;width:81%">Pinterest</a>
+				<a href=" http://pinterest.com/cricbuzz/" target="_blank" class="footer_buttons_link">Pinterest</a>
 			</li>
 			<li id="googleplus">
-				<a href="https://google.com/+cricbuzz" target="_blank" class="footer_buttons_link" style="line-height:25px;padding-left:35px;display:block;width:81%">google+</a>
+				<a href="https://google.com/+cricbuzz" target="_blank" class="footer_buttons_link">google+</a>
 			</li>
 			<li id="rssfeed">
-				<a href="http://live-feeds.cricbuzz.com/CricbuzzFeed" target="_blank" class="footer_buttons_link" style="line-height:30px;padding-left:27px;display:block;width:81%">&nbsp; RSS Feed </a>
+				<a href="http://live-feeds.cricbuzz.com/CricbuzzFeed" target="_blank" class="footer_buttons_link">&nbsp; RSS Feed </a>
 			</li>
 		</ul>
 	</div>	
 	
-	<div id="footer-container3" style="width:195px;">
+	<div id="footer-container3">
 		<p class="footer-header">Company</p>
-		<ul style="height:150px;text-align:left">
+		<ul>
+		<!--	<li class="more">
+				<a href="http://www.cricbuzz.com/info/cricket-feeds/"  class="footer_buttons_link">Cricket Feeds</a>
+			</li>-->
 			<li class="more">
-				<a href="http://www.cricbuzz.com/info/cricket-feeds/" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Cricket Feeds</a>
+				<a href="http://www.cricbuzz.com/careers" class="footer_buttons_link">Careers</a>
 			</li>
 			<li class="more">
-				<a href="http://www.cricbuzz.com/careers" class="footer_buttons_link" style="color:#1274CE;display:block;width:98%;text-decoration:none;">Careers</a>
-			</li>
-			<li class="more" ;style="color:#1274CE;">
-				<a href="http://www.cricbuzz.com/info/contact/" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Advertise</a>
+				<a href="http://www.cricbuzz.com/info/contact/" class="footer_buttons_link">Advertise</a>
 			</li>
 			<li class="more">
-				<a href="http://www.cricbuzz.com/info/contact/" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Contact Us</a>
-			</li>
-			
-			<li class="more">
-				<a href="http://www.cricbuzz.com/info/privacy" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Privacy Policy</a>
+				<a href="http://www.cricbuzz.com/info/contact/" class="footer_buttons_link">Contact Us</a>
 			</li>
 			
 			<li class="more">
-				<a href="http://www.cricbuzz.com/info/termsofuse" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Terms of Use</a>
+				<a href="http://www.cricbuzz.com/info/privacy" class="footer_buttons_link">Privacy Policy</a>
+			</li>
+			
+			<li class="more">
+				<a href="http://www.cricbuzz.com/info/termsofuse" class="footer_buttons_link">Terms of Use</a>
 			</li>
 			<li class="more" id="copyright">
 				
 			</li>
-			<script language="JavaScript">
-				var copyrightbutton =""; 
-				if($.cbz.ads.isRegion('US|NA')){
-					copyrightbutton+="<a href='http://www.cricbuzz.com/info/copyright' class='footer_buttons_link' style='color:#1274CE;display:block;width:100%;text-decoration:none;'>Copyright Policy</a>";
-				}
-				$('#copyright').html(copyrightbutton);
-			</script>
-		<!--	<li class="more"><a href="http://www.cricbuzz.com/info/privacy" target="_blank" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">Privacy</a></li>
-			<li class="more"><a href="http://www.cricbuzz.com/faq"  target="_blank" class="footer_buttons_link" style="color:#1274CE;display:block;width:100%;text-decoration:none;">FAQ</a></li>-->
-		</ul>	
+					</ul>	
 			
 	</div>
 	
-		<div id="footer-container4" style="width:340px;">
-		<p class="footer-header" style="margin-left:30px">Cricket Schedules</p>
-		<ul style="height:150px;text-align:left">
+		<div id="footer-container4">
+		<p class="footer-header">Cricket Schedules</p>
+		<ul>
 		
-						<li class="more" style="width:300px;margin-left:10px;">
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2218/pakistan-vs-south-africa-in-uae--2013" class="footer_buttons_link" style="color:#1274CE;display:block;width:99%;text-decoration:none;"><h3 style="color:#1274CE;font-size:15px;padding:5px 0px;">Pakistan vs South Africa in UAE, 2013</h3></a>
+						<li class="more">
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2252/natwest-t20-blast-2014" class="footer_buttons_link"><h3>Natwest t20 Blast 2014</h3></a>
 			</li>
-						<li class="more" style="width:300px;margin-left:10px;">
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2242/west-indies-in-india-2013" class="footer_buttons_link" style="color:#1274CE;display:block;width:99%;text-decoration:none;"><h3 style="color:#1274CE;font-size:15px;padding:5px 0px;">West Indies in India 2013</h3></a>
+						<li class="more">
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2269/new-zealand-tour-of-west-indies-2014" class="footer_buttons_link"><h3>New Zealand Tour of West Indies, 2014</h3></a>
 			</li>
-						<li class="more" style="width:300px;margin-left:10px;">
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2238/new-zealand-tour-of-sri-lanka-2013" class="footer_buttons_link" style="color:#1274CE;display:block;width:99%;text-decoration:none;"><h3 style="color:#1274CE;font-size:15px;padding:5px 0px;">New Zealand tour of Sri Lanka 2013</h3></a>
+						<li class="more">
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2268/south-africa-tour-of-sri-lanka-2014" class="footer_buttons_link"><h3>South Africa tour of Sri Lanka, 2014</h3></a>
 			</li>
-						<li class="more" style="width:300px;margin-left:10px;">
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2227/icc-world-twenty20-qualifier-2013" class="footer_buttons_link" style="color:#1274CE;display:block;width:99%;text-decoration:none;"><h3 style="color:#1274CE;font-size:15px;padding:5px 0px;">ICC World Twenty20 Qualifier 2013</h3></a>
+						<li class="more">
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2233/india-tour-of-england-2014" class="footer_buttons_link"><h3>India tour of England 2014</h3></a>
 			</li>
-						<li class="more" style="width:300px;margin-left:10px;">
-				<a href="http://www.cricbuzz.com/cricket-schedule/series/2247/pakistan-in-south-africa-2013" class="footer_buttons_link" style="color:#1274CE;display:block;width:99%;text-decoration:none;"><h3 style="color:#1274CE;font-size:15px;padding:5px 0px;">Pakistan in South Africa 2013</h3></a>
+						<li class="more">
+				<a href="http://www.cricbuzz.com/cricket-schedule/series/2289/pakistan-tour-of-sri-lanka-2014" class="footer_buttons_link"><h3>Pakistan tour of Sri Lanka, 2014</h3></a>
 			</li>
 								</ul>	
 		
@@ -595,60 +536,36 @@ CBZ_CURRENT_PAGE_ACTION = 'page';
 LOCAL_ADS = {
 	leaderboard: { url:'/includes/ads/dfp/dfp.php?bannerType=leaderboard&bannerPage=home',islink:'1',isenabled:'1',zoneid:'leaderboard',width:'728',height:'90' }, mpu: { url:'/includes/ads/dfp/dfp.php?bannerType=mpu&bannerPage=home',islink:'1',isenabled:'1',zoneid:'mpu',width:'300',height:'250' }, mpu_india: { url:'/includes/ads/dfp/dfp.php?bannerType=mpu_india&bannerPage=home',islink:'1',isenabled:'',zoneid:'mpu_india',width:'300',height:'250' }, mpu2: { url:'/includes/ads/dfp/dfp.php?bannerType=mpu2&bannerPage=home',islink:'1',isenabled:'1',zoneid:'mpu2',width:'300',height:'250' }, mpu3: { url:'/includes/ads/dfp/dfp.php?bannerType=mpu3&bannerPage=home',islink:'1',isenabled:'1',zoneid:'mpu3',width:'300',height:'250' } }
 $.extend(CURRENT_PAGE_ADS,LOCAL_ADS);
+
+
+
+
  
-function rollOverBanner(zone,url){
-	if($.cbz.ads.isRegion('IN|AS')){
-		$.extend(CURRENT_PAGE_ADS[zone],{content:url});
+	if($.cbz.ads.isRegion('US|NA')){
+		$.extend(CURRENT_PAGE_ADS["leaderboard"],{isenabled:0});
+		$.extend(CURRENT_PAGE_ADS["mpu"],{isenabled:0});
+		var dfp_target_us = {
+			"leaderboard"	:	{ "id" : "HomePage728x90"		,"size" : [728,90],	"refresh" : 0	},
+			"mpu" 			:	{ "id" : "HomePage300x250_1"	,"size" : [300,250],	"refresh" : 0 }
+		}
+		CB_DFP.load_ads(dfp_target_us);
 	}
-}
-function rollOverBannerSouthIndia(zone,url){
-	if($.cbz.ads.isRegion('IN|AS') && ($.cbz.ads.isRegion('IN|AS|7') || $.cbz.ads.isRegion('IN|AS|7') || $.cbz.ads.isRegion('IN|AS|19') || $.cbz.ads.isRegion('IN|AS|2') || $.cbz.ads.isRegion('IN|AS|13') )){
-		$.extend(CURRENT_PAGE_ADS[zone],{content:url});
+	var random =Math.floor(Math.random()*1100);
+	if(random % 100 < 20){
+		rollOverBanner('leaderboard','/includes/ads/banners/cricbuzz/adda-leaderboard-roll-banner.html');
 	}
-}
-if(!$.cbz.ads.isRegion('IN|AS') && cbzads != null){
-	// change_url = "http://ads.cricbuzz.com/adserver/adclick.php?bannerid=10729&zoneid=&source=&dest=https%3A%2F%2Ffantasycricket.dream11.com%2F%3Futm_source%3DCricbuzz%26utm_medium%3Dcpa%26utm_campaign%3DT20League";
-	change_url = "http://ads.cricbuzz.com/adserver/adclick.php?bannerid=9692&zoneid=&source=&dest=http%3A%2F%2Fwww.cricketinc.com%2F";
-	$(".fantasy_cricket").attr("href",change_url);
-}
  
  
  
- 
- 
- 
- 
+
 </script>
+
  
 
 <div id="cbz_commscore">
 </div>
  
-<script type="text/javascript">
-homeCastrol = '<a href="http://ads.cricbuzz.com/adserver/adclick.php?bannerid=9349&zoneid=&source=&dest=http%3A%2F%2Fwww.rcom.co.in%2FRcom%2Fpersonal%2F3G%2FHTML%2Findex.html" target="_blank"><img src="http://ads.cricbuzz.com/adserver/adverts/132x24_reliance_3g_july20.gif" alt="" title="" height="24" border="0" width="132"></a>';
-$(document).ready(function(){
-	// $("#home-castrol").html(homeCastrol).show();
-	// if(!$.browser.msie){
-		$("#shosh").show();
-	// }
-	showAdsTargetedToIndia();
-	showAdsTargetedToNonIndia();
-	ukitemDisplays();
-	usitemDisplays();
-	caitemDisplays();
-});
-$.cbz.effects.refresh = function(id){
-	if(PAGE_ISFOCUSED){
-		$(id).fadeOut().fadeIn();
-	}
-};
-$(document).focus(function() {
-  PAGE_ISFOCUSED = true;
-});
-$(document).focusout(function() {
-  PAGE_ISFOCUSED = false;
-});
-</script>
+
  <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -664,62 +581,10 @@ $(document).focusout(function() {
 </noscript>
 <!-- End comScore Tag -->
 
-<script>
-var min_active = false;
-function shosh_control(event){  
-		timeDuration = 1000;
-	height = 0;
-	bannerheight = height;	
-	if(event == "minimize_shosh"){
-		height = 50;
-		bannerheight = 40;
-		if($(".shosh")){
-			$(".shosh").css({marginTop:"11px"})
-			if ( $.browser.opera ) {
-				$(".shosh").css({zIndex:"-1"})
-			}
-		}
-		 min_active = true;
-	}
-	if(event == "maximize_shosh"){
-		if($("#shosh > div")){
-			$("#shosh > div").css({"position":"static"})
-		}
-		if(min_active)
-			height = 310;
-		else
-			height = 300;
-		bannerheight = height;
-		//setTimeout('shosh_control("close_shosh")',23000);
-		$("#shosh > div").show()
-	}
-	if(event == "close_shosh"){
-		$("#shosh > div").delay(timeDuration*1).hide("fast")
-	}
-	
-	$(".column_left_33, .column_center_33").animate({
-		marginTop: height
-	},{"queue": false, "duration": timeDuration},"linear",function(){
-		if($("#shosh")){
-			$("#shosh").css({marginTop: height})
-		}
-	});
-	$("#shosh").animate({
-		height: bannerheight +"px"
-	}, {"queue": false, "duration": timeDuration},"linear",function(){
-			if($("#shosh")){
-				$("#shosh").css({height: bannerheight +"px"})
-			}
-	});
-	
-}
-</script>
-
 
 </div>
-	  <p style="text-align:center;margin-bottom:20px;">
-		Copyright © 2013 Cricbuzz.com. All Rights Reserved
-	</p>
+		<p class="copyright">Copyright © 2014 Cricbuzz.com. All Rights Reserved</p>
+		<span id="flash_right"></span>
     </div>
   </div>
  <script type="text/javascript">
@@ -734,130 +599,14 @@ function shosh_control(event){
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-
-	window.onerror = function(message, file, line) {
+		window.onerror = function(message, file, line) {
 	   var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message;
 	   _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, true]);
 	}
 </script>
-  <script>
-		function nielsen_tracker(){
-			$.getScript("http://secure-au.imrworldwide.com/v60.js",function(data){
-				var pvar = { cid: "sportal-au", content: "0", server: "secure-au" };
-				var trac = nol_t(pvar);
-				trac.record().post();				
-				random = Math.floor((Math.random()*10)+1);
-				var nielsen_tracker_log = new Image();
-				nielsen_tracker_log.src= "http://ads.cricbuzz.com/adserver/units/mobile/mobile.adview.php?bannerid=10283&random="+random;	
-			});
-		}
-		if($.cbz.ads.isRegion('AU|OC') || $.cbz.ads.isRegion('AU|AS')){
-			nielsen_tracker();
-		}
-	</script>
 
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-<script>
-var skin_page_array = {"US":[{"link":"http:\/\/ads.cricbuzz.com\/adserver\/adclick.php?bannerid=12442&zoneid=&source=&dest=http%3A%2F%2Fwww.walmart.com%2Fcp%2FChristmas-Ad-Match%2F1159720","freq":1,"img":"http:\/\/www.cricbuzz.com\/includes\/ads\/images\/cricbuzz\/1280x800_walmart_gutterskin_nov8.jpg","backcolor":"#ffffff","close":true,"cookie":"walmart_off","tracker":"","tracker_sec":0}]};
-var background_cookie = "skin_close";
-// var cbzads = "IN|AS|19|Bangalore";
-var cbzads = $.cookie('cbzads');
-var country = "", continent = "", region = "", city = "";
-var rand_num = Math.floor((Math.random()*100000000)+1);
-var random = parseInt(parseInt(rand_num/1000));
-var disable_region_list = [16,25];
-var tracker_id = 0;
-function dissable_skin(){
-        if($(".page_margins")){
-                $(".page_margins").css("background","none")
-        }
-        $("body").css("background" ,"#BBB url(http://www.cricbuzz.com/images/homepage_bg_new.png) top repeat-x");
-        $("#backgroundClose").hide();
-        $("#background_ads").hide();
-}
-
-function skin_tracker(tracker,tracker_sec){
-        clearTimeout(tracker_id);
-        var tracker_log = new Image();
-        tracker_log.src= tracker;
-        func_caller = "skin_tracker('" + tracker + "',"+ tracker_sec + ")";
-        if(tracker_sec > 0){
-                tracker_id = setTimeout(func_caller, tracker_sec);
-        }
-}
-
-function show_skin(link,img,backcolor,close,cookie,tracker,tracker_sec){
-        if(cookie != "" && cookie != null){
-                background_cookie = background_cookie + "_" + cookie;
-        }
-        if(has_user_dissabled_skin()){
-                if(link != "" && link != null)                  {
-                        $("#background_ads").attr("href",link).show();
-                        //width:99%;height:1200px;position:fixed;left:0
-                        $("#background_ads").css({width : "99%",height:"1200px",position:"fixed",left:"0"});
-                        //style='z-index:100px; position:relative;margin:0px auto; width:980px;padding-top:0;
-                        $(".page_margins").css({zIndex : "100",margin:"0px auto",position:"relative",width:"980px",paddingTop:"0px"});
-                }
-                if(backcolor != "" && backcolor != null){       $("body").css('background-color',backcolor);}
-                if(img != "" && img != null){
-                        $("body").css("background-image", "url(" + img + ")").css('background-attachment','fixed').css("background-repeat", "no-repeat");
-                }
-                if(tracker != "" && tracker != null){
-                        skin_tracker(tracker,tracker_sec);
-                }
-                if(close != "" && close != null && close){
-                        $("#backgroundClose").show();
-                }else{
-                        $("#backgroundClose").hide();
-                }
-        }
-}
-
-function closeBackGround(){
-        dissable_skin();
-        $.cookie(background_cookie,"0", { path: '/', domain: '.cricbuzz.com' });
-}
-
-function has_user_dissabled_skin(){
-        is_active = true;
-        backgroundSkin = $.cookie(background_cookie);
-        if(backgroundSkin != null && backgroundSkin == "0"){
-                is_active = false;
-                closeBackGround();
-        }
-        return is_active;
-}
-
-if(cbzads!= null && cbzads!=""){
-        cbzads = cbzads.split("|");
-        country = cbzads[0]; continent = cbzads[1];
-        region = cbzads[2]; city = cbzads[3];
-}
-var country_skin = null;
-if(country_skin == null){       country_skin = skin_page_array[country];        }
-if(country_skin == null){       country_skin = skin_page_array[continent];      }
-if(country_skin == null){       country_skin = skin_page_array["world"];        }
-
-var country_skin_array = [];
-if(country_skin != null){
-        for( var country_count in country_skin ){
-                var calling_ads_freq = country_skin[country_count]['freq'];
-                for(var counter = 0; counter < calling_ads_freq ; counter++ ){
-                        country_skin_array.push(country_skin[country_count]);
-                }
-        }
-
-        var campaign_array_length = country_skin_array.length;
-        if(campaign_array_length == null || campaign_array_length == 0){
-                dissable_skin();
-        }else{
-                var selected_skin = country_skin_array[random % campaign_array_length];
-                show_skin(selected_skin['link'],selected_skin['img'],selected_skin['backcolor'],selected_skin['close'],selected_skin['cookie'],selected_skin['tracker'],selected_skin['tracker_sec'])
-        }
-} else {
-        dissable_skin();
-}
-</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script>
 
 
 </body></html>
