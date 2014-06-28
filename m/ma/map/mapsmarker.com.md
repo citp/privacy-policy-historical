@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227060228id_/http%3A//www.mapsmarker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629002653id_/http%3A//www.mapsmarker.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy » Maps Marker Pro - helping you to share your favorite spots
+# Privacy policy » Maps Marker Pro - helping you to share your favorite spots & tracks
 
 Effective on March 13, 2013
 
