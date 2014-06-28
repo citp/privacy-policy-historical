@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226052127id_/http%3A//www.sweettmakesthree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweettmakesthree.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171245id_/http%3A//www.sweettmakesthree.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Sweet T Makes Three
+
+**0** Flares **0** Flares ×
 
 **Privacy Policy for www.sweettmakesthree.com**  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@sweettmakesthree.com.  
