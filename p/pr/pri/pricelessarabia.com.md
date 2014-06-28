@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricelessarabia.com privacy policy that was archived on 2013-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130801071122id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricelessarabia.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628215204id_/http%3A//www.pricelessarabia.com/content/priceless/arabia/en/cities/arabia/toolbar/global-footer/privacy.html) for the most accurate reproduction.*
 
 # MasterCard Priceless Arabia | Global Privacy Policy
 
@@ -117,7 +117,7 @@ We reserve the right to transfer any data we have about you in the event we sell
 
 The transfer of personal data outside of your country may be subject to restrictions.  If we transfer personal data outside of your country, we take all the necessary steps to ensure compliance with applicable data protection law, in particular, the legal requirements on adequate protection for data transfers to countries outside of your country.  
 
-In the context of this program, MasterCard may transfer, process and store your personal data in a centralized database located at MasterCard International Inc - MasterCard’s headquarters located in the U. S.  MasterCard International Inc is certified under the EU-U.S. Safe Harbor privacy framework as set forth by the U. S.  Department of Commerce, and the European Commission to provide adequate protection to your personal data.  Please visit [www.MasterCard.com](http://www.mastercard.com/) or [click here](http://www.mastercard.com/us/personal/en/general/safe-harbor-privacy-policy.html) to view our Safe Harbor Privacy Policy.
+In the context of this program, MasterCard may transfer, process and store your personal data in a centralized database located at MasterCard International Inc - MasterCard’s headquarters located in the U. S., and in a database in Singapore.  MasterCard International Inc is certified under the EU-U.S. Safe Harbor privacy framework as set forth by the U. S.  Department of Commerce, and the European Commission to provide adequate protection to your personal data.  Please visit [www.MasterCard.com](http://www.mastercard.com/) or [click here](http://www.mastercard.com/us/personal/en/general/safe-harbor-privacy-policy.html) to view our Safe Harbor Privacy Policy.
 
 **5.  Links to Other Websites**
 
