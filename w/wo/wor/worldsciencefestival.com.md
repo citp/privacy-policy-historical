@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229092636id_/http%3A//worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsciencefestival.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628092038id_/http%3A//www.worldsciencefestival.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | World Science Festival
+# World Science Festival Privacy Policy | World Science Festival
 
 The World Science Festival (“WSF”) is owned and organized by the Science Festival Foundation, a 501(c)(3) non-profit organization. For the purposes of this privacy policy, the term “WSF” shall refer to both the Science Festival Foundation and the World Science Festival.
 
@@ -30,4 +30,4 @@ If you have any concerns or questions about how information gathered on our webs
 
 This Privacy Policy may be modified without notice from time to time. The effective date of each version will be noted at the bottom of this page.
 
-EFFECTIVE DATE: October 29, 2008 
+EFFECTIVE DATE: October 29, 2008
