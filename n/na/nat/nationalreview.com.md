@@ -1,85 +1,118 @@
-> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227092959id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalreview.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628060432id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.*
 
 # NRO Contact Us Page | National Review Online
 
 Privacy Policy
 
-To help you understand how information submitted will be treated when you log on to and use our web site, National Review Online (www.nationalreview.com) offers this Privacy Policy. Use of the nationalreview.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting nationalreview.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information nationalreview.com collects, the reasons why such information is collected, how such information is used and who has access to it.
+To help you understand how information submitted will be treated when you log on to and use our website, National Review (www.nationalreview.com) offers this privacy policy. 
 
-GENERAL PRINCIPLES
+This privacy policy applies only to www.nationalreview.com. This policy does not apply to information collected through any other website or to the practices of companies that National Review does not control. Please note that our site may contain links to other websites. For example, if you click on an advertisement on National Review and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
 
-Nationalreview.com’s Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personally identifiable information so that you understand how the information you are submitting will be used. 
+**THE INFORMATION WE COLLECT**
 
-Any changes made to the Privacy Policy will be prospective, not retroactive. 
+**The information you provide directly to us:** You are not required to provide information directly to us in order to view National Review. However, when you use certain functions of the website, such as when you register for certain services, access certain content or features, or directly contact us, we may ask you to provide information, including: 
 
-Nationalreview.com is not responsible for the information practices of third parties, although we take care to engage third party fulfillment processors, ad servers, survey companies and other support services that respect your privacy, preferences and data security needs. 
+> contact information, such as name, email address, postal address, phone number, and mobile number; 
+> 
+> username and password; 
+> 
+> information posted in community discussions and other interactive online features; 
+> 
+> search queries conducted on NRO; and 
+> 
+> correspondence you send to us. 
 
-COLLECTION OF INFORMATION
+**Information automatically collected when you visit and interact with NRO:** When you visit and interact with NRO, certain information may be collected automatically, including: 
 
-Nationalreview.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online. 
+> your computer's Internet Protocol (IP) address; 
+> 
+> your browser type and operating system; 
+> 
+> the web pages you were visiting immediately before and after you came to the Site; 
+> 
+> activities within community discussions; 
+> 
+> web pages and advertisements that you view, and links that you click on; 
+> 
+> your bandwidth speed and information about the software programs that are installed on your computer; 
+> 
+> aggregated data about email click-through rates and user video viewing; 
+> 
+> standard server log information; and 
+> 
+> information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. 
 
-SUBSCRIPTIONS
+**Information we collect from other sources:** We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including: 
 
-You may use the web site to subscribe to the print or digital version of National Review by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine’s fulfillment house, Palm Coast Data. 
+> if you access third-party social networking services (such as Facebook Connect or Twitter) through NRO, your username and connection lists for those services; 
+> 
+> demographic data, such as age range, gender, and interests; 
+> 
+> advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and 
+> 
+> unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
 
-SURVEYS
+Please note that we may combine the information that we collect with information we obtain from third-party sources. 
 
-From time to time nationalreview.com conducts voluntary user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers for various purposes including promotions, contests and offers. We never share any of this survey information about specific individuals with any third party. 
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-COOKIES AND IP ADDRESSES
+**E-mail Communications:** We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to National Review, and promotional messages about our own or our marketing partners’ products and services. If you signed up for one of our e-mail newsletters, we also will send you the newsletter that you requested. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. Nationalreview.com may use data contained in log files to analyze trends, administer the site, track users’ movement and gather broad demographic information for aggregate use. 
+**Advertising:** In order to provide our readers with free access to our content, we display advertisements on the National Review website, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach National Review visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. 
 
-We use advertising to help support our site. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
+Third-party advertisers and advertising platforms also may serve targeted ads on the National Review website. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy. 
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited. 
+**User Accounts:** To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we may delete comments per our comment-moderation guidelines in order to maintain civil and open discussions. 
 
-USE OF THE INFORMATION COLLECTED
+**Request Fulfillment:** We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer-service requests or to enable you to participate in features on the site such as surveys, polls, sweepstakes, and message boards. 
 
-Nationalreview.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because nationalreview.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad. 
+**INFORMATION SHARING**
 
-We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas. 
+National Review values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
 
-CREDIT CARD INFORMATION
+> We may employ third parties to perform NRO-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf. 
+> 
+> If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal **i** nformation in public activities or submissions. 
 
-We comply with generally accepted industry standards in collecting and processing credit card information. However, nationalreview.com does not guarantee the safety of credit card information over the Internet. 
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on NRO. 
 
-INFORMATION SHARING 
+**THIRD-PARTY SERVICES**
 
-When you visit nationalreview.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with nationalreview.com. Nationalreview.com will not disclose the information you submit, except with our third party fulfillment vendors and except as otherwise described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of nationalreview.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services. 
+To customize your experience on the National Review website and to simplify our registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us. 
 
-If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service. 
+In addition, if you connect to a Facebook account, your experience on the site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories. 
 
-NATIONALREVIEW.COM SECURITY MEASURES
+Please note that you may disconnect third-party accounts at any time. To modify your Facebook privacy settings, click here. To modify your Twitter privacy settings, click here. 
 
-Nationalreview.com web site has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information, nationalreview.com cannot warrant the security of information you transmit to us, and you do so at your own risk. 
+Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers. 
 
-CHILDREN’S PRIVACY 
+**YOUR ACCOUNT**
 
-Nationalreview.com is intended for use by individuals over the age of 18. If you are under 18, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone. 
+**Deactivating your account:** You can deactivate your account at any time (please use the service through which you signed in). When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. National Review has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. 
 
-OTHER INFORMATION ABOUT YOUR PRIVACY 
+**Cookies and other technologies** : As discussed above, cookies and other technologies, as well as third-party advertisers, may collect information about you. 
 
-Whenever you voluntarily disclose any information online in any forum, that information can be collected and used by others. In other words, if you post personal information online that may be accessed by the public, you may receive unsolicited messages from other parties. It is important to be responsible and careful whenever you are online. 
+> _Cookies:_ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. 
+> 
+> _NAI:_ In addition, many third-party advertising networks are members of the Network Advertising Initiative. To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please go here. 
+> 
+> _Flash Cookies_ : You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.
 
-UPDATING, CORRECTING AND DELETING PERSONAL INFORMATION
+If you opt out of these technologies, you will continue to see advertising displayed on National Review, but the advertising may not be targeted to your interests. 
 
-Users who subscribe to our print or digital publication, National Review, may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at [nationalreview@emailcustomerservice.com](mailto:nationalreview@emailcustomerservice.com)
+Please remember that we do not have access to, or control over, advertiser or service-provider cookies, and the information practices of third parties are not covered by this privacy policy. 
 
-If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information. 
+**CONFIDENTIALITY & SECURITY**
 
-Currently, nationalreview.com does not offer users a means by which to completely delete personal information submitted while on this site. 
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration. 
 
-ADDITIONAL INFORMATION 
+Please note that no data transmission or storage can be guaranteed to be 100 percent secure. We want you to feel confident using the National Review website, but we cannot ensure or warrant the security of any information you transmit to us. 
 
-By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with Nationalreview.com, you may contact us via mail, email, or the telephone number listed below. 
+**PRIVACY-POLICY CHANGES**
 
-National Review, Inc.  
-Privacy Policy  
-215 Lexington Avenue, 11th Floor  
-New York, NY 10016   
-Phone: 1.212.679.7330  
-E-mail: [nationalreview@emailcustomerservice.com](mailto:nationalreview@emailcustomerservice.com)
+We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the effective date below. We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary e-mail address specified in your account. 
+
+_Effective Date: February 27, 2014_
 
 (Simply insert your e-mail and hit “Sign Up.”)
 
