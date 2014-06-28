@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110107id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overallbeauty.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628064314id_/http%3A//overallbeauty.com/homepage/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice » Overall Beauty
 
-Overall Beauty  
+Overall Beauty/Website/Creator of [**Overall Beauty Minerals**](http://overallbeauty.com/product-category/overall-beauty-minerals-brand-mineral-makeup/ "Overall Beauty Minerals vegan friendly mineral makeup") your vegan friendly mineral makeup line.  
 ATTN: Kim Snyder  
 kim (@)overallbeauty.com  
 5336 Blue Sapphire Ct.  
@@ -57,5 +57,11 @@ _
 
 **Questions about This Policy**  
 We reserve the right to modify, revise, amend, or change this Privacy Policy, Terms of Use Policy, Purchase Agreement, or any other policy by simply making and reposing the policy. By revisiting this site after reposing, you accept the new policy.  
-If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact OverallBeauty directly at: support@overallBeauty.com  
-Updated 4/10/2013
+If you have any questions about this Privacy Policy, or the content or practices of our website, you can contact OverallBeauty directly at: support@overallBeauty.com 
+
+Newest Update 2/12/2014
+
+**Due to the fact we sell skincare, as well as products for your nails etc. It is very important that you are understand this.**  
+The statements for all products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. Results not typical. Individual results may vary.
+
+**Legal Disclaimer:** The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on Overallbeauty.com. Products sold on this site are for personal use and not for resale. All orders placed through this website are subject to Overallbeauty.com’s acceptance, in its sole discretion. This means that Overallbeauty.com may refuse to accept, or may cancel, any order, whether or not it has been confirmed, without liability to you or any third party.
