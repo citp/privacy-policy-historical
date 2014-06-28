@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlineaccount.net privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211133230id_/http%3A//www.tdbank.com/bank/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlineaccount.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023533id_/http%3A//www.tdbank.com/bank/privacy_and_security.html) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
