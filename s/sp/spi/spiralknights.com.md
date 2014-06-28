@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021211623id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628102520id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
 
 # Spiral Knights - Privacy Policy
 
@@ -63,10 +63,10 @@ You may access the information stored on your account (i.e. primarily your accou
 
 You will need your username and password to log on. After logging on, you will be able to review the information stored for your account. You will also be able to reset your account password. However, it is our policy not to directly expose your old/existing password from this or any other page.
 
-Other information about your account (relating to transactions) is available in the Crystal Energy Depot. You can only access the Depot by clicking "Get Energy Now!" from the My Account Page. This button is under the "Purchase Energy - Purchase History" tab on the My Account Page.
+Other information about your account (relating to transactions) is available in the Energy Depot. You can only access the Depot by clicking "Get Energy Now!" from the My Account Page. This button is under the "Purchase Energy - Purchase History" tab on the My Account Page.
 
   * To review the recent purchase history for your account, click "Energy History" at the top of the page.
-  * To review the personal information we have on file for credit card transactions, click "Buy Energy", select Credit Card and an Energy Crystal Package to see the credit card details. You can choose to remove these details from this page.
+  * To review the personal information we have on file for credit card transactions, click "Buy Energy", select Credit Card and an Energy Package to see the credit card details. You can choose to remove these details from this page.
 
 
 
