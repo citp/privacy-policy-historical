@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207164945id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033530id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy & Security
 
@@ -16,7 +16,7 @@ When you order a product from the MoMA Online Store, we need to know your name, 
 
 ### Online Memberships and Donations
 
-When you purchase a MoMA membership or make a donation to MoMA online, we will ask you to provide us with the information we need to process your membership and/or to acknowledge your contribution. This information includes your name, billing and mailing addresses, telephone number, e-mail address, and credit card information. Your credit card information will be stored temporarily on a secured server and used only as needed to process your transaction. We will retain your personally identifiable information for our records, in order to facilitate better customer service. In certain cases, you may be asked for additional information to complete your request, such as the names and birth dates (month/year) of your children if obtaining a Family Membership or any Contributing Membership with children. See Children Twelve and Under.
+When you purchase a MoMA membership or make a donation to MoMA online, we will ask you to provide us with the information we need to process your membership and/or to acknowledge your contribution. This information includes your name, billing and mailing addresses, telephone number, e-mail address, and credit card information. Your credit card information will be stored temporarily on a secured server and used only as needed to process your transaction. We will retain your personally identifiable information for our records, in order to facilitate better customer service. To process payments for members who have selected automatic renewal, MoMA will also retain payment information, in a secure manner, until such time that either the payment information expires (when we will contact you to update it), or the auto-renewal of the membership is canceled by you. In certain cases, you may be asked for additional information to complete your request, such as the names and birth dates (month/year) of your children if obtaining a Family Membership or any Contributing Membership with children. See Children Twelve and Under.
 
 ### Registration
 
@@ -45,6 +45,10 @@ As a service, MoMA offers visitors to the MoMA Website and MoMA Audio+ users the
 ### MoMA E-Cards
 
 MoMA offers its online visitors the opportunity to send e-cards featuring works in the MoMA collection, in the MoMA Online Store or which are otherwise of interest. If you choose to use our e-card service, you will need to provide your name and e-mail address, as well as the recipient's name and e-mail address. E-cards will be stored for pickup for a period of thirty days. We will not share these e-mail addresses with any third party for marketing purposes.
+
+### MoMA App
+
+When you use the MoMA App, you will be given the opportunity to provide us with your e-mail address. If you choose to do so, we will send you an introductory MoMA welcome e-mail, and you will be subscribed to receive MoMA E-News, as described below.
 
 ### MoMA Audio+
 
