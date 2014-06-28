@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103090042id_/http%3A//always-icecream.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091637id_/http%3A//always-icecream.com/help/privacy) for the most accurate reproduction.*
 
 # Always Icecream - Privacy Policy
 
-Effective Date: This policy was last updated on August 27, 2010. 
+Effective Date: This policy was last updated on April 29, 2014. 
 
-Always Icecream is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Always Icecream adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Always Icecream has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (650) 644-7753 or privacy [at] always-icecream [dot] com. If you have further concerns after you have contacted Always Icecream, you can contact Privo directly at privacy@privo.com. 
+Always Icecream is a Member of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Always Icecream adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Always Icecream has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at +1 (650) 644-7753 or privacy@always-icecream.com. If you have further concerns after you have contacted us, you can contact PRIVO directly at privacy@privo.com. 
 
 We will use reasonable efforts to comply with the stated privacy principles and will take prompt corrective action when we learn of any failure to comply with them. We sometimes release alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome user feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, Always Icecream does not guarantee error-free performance under this privacy policy. Always Icecream or Miaplaza, Inc., shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. 
 
@@ -14,7 +14,7 @@ Please read this privacy policy to learn more about:
 3\. Children’s use of the site or app.   
 4\. How the information is used.   
 5\. With whom the information may be shared.   
-6\. How you can access and change your Account information.   
+6\. How you can access and change your account information.   
 7\. What security procedures are in place to protect the loss, misuse or alteration of information collected by Always Icecream.   
 8\. How to contact us. 
 
