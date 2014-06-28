@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122839id_/http%3A//www.edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628190955id_/http%3A//www.edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Edison Nation
 
-[download pdf](http://8b977f5384552d05880f-5012c3fc64c266e0c9529114f7edfc05.r89.cf2.rackcdn.com/privacy-policy-v1.pdf)
-
 Last updated on 1 April 2013 
 
-**EdisonNation.com is committed to protecting information collected through its website. This Privacy Policy outlines how EdisonNation.com collects, uses, and protects personally identifiable user information. Should you choose to provide us with any personally identifiable information, you should feel confident that we will abide by this policy. We reserve the right to change this Privacy Policy from time to time, and you should check this page periodically for changes. When changes are made, we will do our best to notify you. You may contact EdisonNation.com by calling 704-333-5335 or by emailing[info@edisonnation.com](mailto:info@edisonnation.com) should you have any questions regarding this Privacy Policy.**
+**EdisonNation.com is committed to protecting information collected through its website. This Privacy Policy outlines how EdisonNation.com collects, uses, and protects personally identifiable user information. Should you choose to provide us with any personally identifiable information, you should feel confident that we will abide by this policy. We reserve the right to change this Privacy Policy from time to time, and you should check this page periodically for changes. When changes are made, we will do our best to notify you. You may contact EdisonNation.com by calling 704-333-5335 or by emailing info@edisonnation.com should you have any questions regarding this Privacy Policy.**
 
 **What information do we collect?**
 
