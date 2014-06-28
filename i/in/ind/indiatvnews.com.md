@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103062052id_/http%3A//www.indiatvnews.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiatvnews.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628063830id_/http%3A//www.indiatvnews.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Indiatvnews : Latest News Headlines, India Breaking News, Business, Bollywood, Cricket News, Live Videos
 
