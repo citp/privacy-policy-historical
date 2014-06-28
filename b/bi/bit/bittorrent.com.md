@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228075210id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041305id_/http%3A//www.bittorrent.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BitTorrent - Delivering the World's Content
+# Privacy Policy - BitTorrent - Delivering the World’s Content
 
-Date of last revision November 21, 2013. 
+Date of last revision February 12, 2014
 
-[bittorrent.com](http://www.bittorrent.com/) and various software applications and services provided through the bittorrent.com website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
+BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites ("Sites"), applications and services (collectively, the "Services"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
 
-### What information does BitTorrent collect and how does BitTorrent use it?
+### What information does BitTorrent, Inc. collect and how does BitTorrent use it?
 
   * #### How the BitTorrent Client Works
 
@@ -16,7 +16,7 @@ We do not track which files you transfer with the BitTorrent Client. Merely usin
 
   * #### Gathering and Use of Anonymous Information
 
-Each time a visitor comes to one of our websites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
+Each time a visitor comes to one of our Sites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
 
 In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
 
@@ -26,18 +26,31 @@ We also aggregate some data from the BitTorrent Client regarding total traffic f
 
   * #### Gathering and Use of Personally Identifiable Information
 
-You may visit the bittorrent.com website and use the BitTorrent Client without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account or for which you may input e-mail addresses into a feature of the BitTorrent Client (for example, in order to share with others a link to a file). When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
+You may visit the Sites and use the BitTorrent Client and many of the Services without any registration at all. However, from time to time, we may enable certain additional functionality or services whereby you will have to create a user account, and we may collect and process the following information about you:
+
+    * information such as your name, address, phone number and e-mail address, and other demogaphic information (such as date of birth, gender, age, and interests) that you provide by completing forms on the Sites, including if you register as a user of the Services, subscribe to our mailing lists, upload or submit any material through the services, or request any information.
+    * your log-in and password details in connection with the account sign-in process;
+    * details of any requests or transactions made by you throughthe Service;
+    * communications you send to us, for example to report a problem or to submit queries, concerns, or comments regarding the Service or its content;
+    * information that you post to the Site in the form of comments or contributions to discussions; and
+    * IP addresses.
+
+We will use the personal information you provide to:
+
+    * identify you when you sign-in to your account;
+    * enable us to provide you with the Services;
+    * send you information we think you may find useful or which you have requested from us;
+    * present projects to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service;
+    * administer your account with us;
+    * enable us to contact you regarding any question you make through the Service;
+    * analyze the use of the Service and the people visiting to improve our content and Services; and
+    * use for other purposes that we may disclose to you when we request your information.
+
+Publishers of BitTorrent Bundles receive or have access to the e-mail addresses of users who sign up for such Publisher's mailing list through the Services.
+
+We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.
 
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
-
-
-
-
-### Spyware and Adware
-
-  * #### We oppose spyware and adware.
-
-Spyware is software installed on your computer without your consent or control. It can record and transmit your Internet activity and other personal information or change your computer’s security settings. Adware is spyware that sends you unwanted pop-ups or spam. BitTorrent never uses these unwanted and harmful technologies.
 
 
 
@@ -60,15 +73,15 @@ Finally, we may disclose your personally identifiable information upon a transfe
 
 ### BitTorrent’s special note to parents.
 
-In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), bittorrent.com is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
+In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), the Sites are general audience websites, and do not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.
 
 ### How do you change the information we have for you?
 
-To update or modify the information that we have on file for you, if applicable, simply go to the BitTorrent forums, log in, go to the "Profile" section, then modify your details and settings as necessary.
+To update or modify the information that we have on file for your user account, simply go to the applicable Site or Service, log in, go to the user account section, then modify your details and settings as necessary.
 
 ### Third party links and co-brand relationships.
 
-In an attempt to provide increased value to our visitors, we may choose various third party web sites or services to link to, and frame within, the Sites or Services. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. These linked sites are only for your convenience and you therefore access them at your own risk.
+In an attempt to provide increased value to our visitors, we may choose various third party web sites or services to link to, and/or frame within, the Sites or Services. We may also include offers from third parties as part of the installation process for our software. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these third party sites or services, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our Site or Services) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites or services. These linked sites or services are only for your convenience and you therefore access them at your own risk.
 
 ### Notification of changes.
 
@@ -83,6 +96,9 @@ If you have any questions about our privacy practices, please do not hesitate to
     c/o BitTorrent, Inc.
     303 Second St. Suite S600
     San Francisco, California 94107
+
+  
+
 
 ### End User License Agreements and Terms and Conditions.
 
