@@ -1,77 +1,79 @@
-> *The following text is extracted and transformed from the budokin.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807173238id_/http%3A//www.budokin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budokin.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044343id_/http%3A//www.budokin.com/privacy) for the most accurate reproduction.*
 
-# BudoKin: BudoKin.com Privacy Policy
+# BudoKin
 
-BudoKin, Inc. ("BudoKin" or "we") operates BudoKin.com. This Privacy Policy describes BudoKin's use and sharing of personally identifiable information ("PII"-- your full name, email address, mailing address, telephone number, or credit card number) as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") that Members voluntarily provide to BudoKin when they register. The Term "User" refers to a Visitor or a Member. This Privacy Policy applies to the services offered by BudoKin, including any BudoKin branded URL (the "BudoKin Website"), the BudoKin instant messaging service, the BudoKin application developer service and other features (for example, music and video embedded players), BudoKin mobile services, and any other features, content, or applications offered from time to time by BudoKin in connection with the BudoKin Website (collectively, the "BudoKin Services").
+BudoKin is committed to respecting the privacy of your personal information collected from its website. This website Privacy Notice explains our policy for dealing with personal information that we collect through our website under the domain name "budokin.com" (BudoKin Site). 
 
-The BudoKin Website is a general audience site and does not knowingly collect PII or Related Data from children under 13 years of age.
+Throughout this Privacy Notice, we refer to your "personal information" which means information which identifies you as an individual or from which your identity can be reasonably ascertained. Your home address and home telephone number are examples of personal information.  
+We will post any changes to this BudoKin Site Privacy Notice on the BudoKin Site, so we encourage you to check this BudoKin Site Privacy Notice from time to time. 
 
-From time to time BudoKin may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII or Related Data collection and use practices, the features of the BudoKin Services, or technology, and such modifications shall be effective upon posting by BudoKin on the BudoKin Website. Your continued use of the BudoKin Services after BudoKin posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If BudoKin materially changes its practices regarding collection or use of your PII or Related Data, your PII and Related Data will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of, and have not objected to, the change.
+### Information collected on this website
 
-### 
+The information about you which we may collect through the BudoKin Site includes any messages or comments you submit to us via the BudoKin Site. This includes: 
 
-**General.** BudoKin collects your email address, first and last name, postal code, gender, and date of birth from you in order to register you as a Member ("Registration Data"). BudoKin cannot register you as a Member without this information. All other information you provide during the BudoKin registration or that you post on the BudoKin website is voluntary. BudoKin may also collect PII from you if you choose to participate in BudoKin Services activities like sweepstakes, contests, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to BudoKin for review.
+  * any details you provide to us as part of a payment or donation process; 
+  * any messages or comments you email us which may include personal information such as your name and email address; 
+  * information collected when you participate in an online survey; and 
+  * your email address if you subscribe to our newsletters or mailing lists. 
 
-In addition, BudoKin collects other Related Data and non-PII including IP address, aggregate user data, and browser type. This data is used to manage and improve the BudoKin Services, track usage, and for security purposes.
 
-BudoKin Members may also choose to provide or store non-PII information and Related Data in their profiles, including but not limited to date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively "Profile Information"). The Profile Information in a Member's profile is provided at his or her sole discretion. Please be aware that your Profile Information, as well as any information posted to any public forum, can be accessed by the public. Profile Information located on private profiles can be accessed by BudoKin at all times and, in limited cases, by certain third parties authorized by BudoKin for purposes of ensuring compliance with BudoKin's Terms of Use.
 
-BudoKin Members can change their Registration Data and Profile Information at any time and can control how Visitors, other Members and BudoKin communicate with them by controlling their account settings, available within the "Edit Profile" portion of their BudoKin profile. Link to Privacy Settings.
+In common with many websites we may also collect aggregated information which tells us about visitors to the BudoKin Site but not the identity of those visitors. For example, we may collect information about the date, time and duration of visits and which pages of the BudoKin Site are most commonly accessed. This information is used by us to help to administer and improve the BudoKin Site. 
 
-BudoKin determines the purposes of collection, use and disclosure of the Registration Data you provide and, as such, is considered the data controller of this information. Because the Member, not BudoKin, determines the purposes for which Profile Information is collected, used and disclosed, BudoKin is not the data controller of Profile Information that Members provide on their profile. 
+You may browse through information-only areas of the BudoKin Site without providing any personal information to us. However, we may not be able to provide the full range of services through the BudoKin Site if we are not provided with the information outlined above. 
 
-**Cookies.** Cookies are small bits of information that BudoKin places on your computer. BudoKin uses cookies to identify your Internet browser, store Users' preferences, and determine whether you have installed the enabling software needed to access certain material on the BudoKin Services. Data in cookies may be read to authenticate user sessions or provide services.
+BudoKin respects the privacy of all current and prospective supporters. If you do not wish to receive communication from us, please us as set out below. 
 
-Third party advertisements displayed on BudoKin Services may also contain cookies set by Internet advertising companies or advertisers (known as "third party cookies"). BudoKin does not control these third party cookies and Users of the BudoKin Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on customized advertising on BudoKin. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. BudoKin may allow third party pixel tags to be present on BudoKin Services for purposes of advertising, providing services or data and statistics collection.
+### Cookies
 
-You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the BudoKin Services.
+Like many websites, the BudoKin Site may use "cookies" which store some information on computers accessing the BudoKin Site. Cookies may be used by us for a variety of purposes. For example, we may use cookies to recognise a computer which has previously visited this BudoKin Site and customise the BudoKin Site according to previous preferences and site behaviour. Cookies may also be used to manage security and store information about the type of browser being used. With most Internet browsers, users can erase cookies from their computer, block all cookies, or receive a warning before a cookie is stored. However, some parts of this BudoKin Site may not function fully for users that disallow cookies. 
 
-### NOTICE: BUDOKIN WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES
+### Use and disclosure of information
 
-When you voluntarily provide PII to BudoKin, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses BudoKin will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
+In addition to providing our products and services to you, we may use or disclose personal information that we collect about you: 
 
-At the time you provide your PII, BudoKin will notify you of your options regarding our use of your PII (See "Choice" below). Except as described in this Privacy Policy, BudoKin will not share your PII with third parties (excluding those set out in this Privacy Policy) unless you have given BudoKin permission to do so (See "Use" below).
+  * to provide you with promotional information - in accordance with privacy laws - about our products and services; 
+  * for administrative purposes including research, planning, service development, security and risk management; 
+  * where a third party acquires or wishes to acquire, or makes inquiries in relation to acquiring, an interest in BudoKin; or 
+  * to the extent that we are required or authorised by law to do so. 
 
-BudoKin Services may be linked to Internet sites operated by other companies. BudoKin Services may also carry advertisements from other companies. BudoKin may transfer Related Data such as IP addresses to certain advertising partners located in your country of residence or abroad. BudoKin is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the BudoKin Services or for the privacy practices of third party Internet advertising companies. Once you leave BudoKin Services via such a link, access a third party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 
-BudoKin Services may also be linked to sites operated by companies affiliated with BudoKin (i.e., that are part of the News America Group: "Affiliated Companies"). Although all Affiliated Companies adhere to the News America corporate Privacy Principles, Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
-BudoKin may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions (multiple choice questions like "Marital Status," "Education" and "Children") ("Structured Profile Information"), information you add to open-ended profile fields and questions (essay questions like "About Me," "Interests" and "Movies") ("Non-Structured Profile Information") and other non-PII and Related Data about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests we might display an advertisement to make sure you are advised when your favorite band is coming to town. The information used for this feature does not provide your PII or identify you as an individual to third parties, but will involve the processing of certain Related Data such as IP addresses.
+We may also share personal information with our related bodies corporate and with third parties. The types of third parties to whom we may disclose personal information includes: 
 
-Third party applications (such as widgets) created by third party developers may also be available on the BudoKin Services. Third party applications are small bits of software, often with interactivity, that can be installed into Members' profiles or shared with other Users. However, BudoKin does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with BudoKin. BudoKin encourages Members not to provide PII to the third party's application unless the Member knows the party with whom it is interacting. 
+  * service providers including organisations that provide archival, auditing, body corporate, consulting, debt collection, banking, marketing, advertising, mailhouse, delivery, recruitment, call centre, technology, research, utility and security services; 
+  * government bodies including courts and tribunals; 
+  * credit reporting agencies and credit referees, in accordance with privacy laws; 
+  * your executor, administrator, trustee, guardian or attorney; 
+  * your agents, such as financial or legal advisers; and 
+  * other charitable organisations. 
 
-BudoKin and certain copyright holders have signed an agreement pursuant to which copyright holders may utilize BudoKin's Rights Management Tools (collectively, the "Tool") to automatically block the upload of audio and audiovisual content for which the copyright holder has supplied content identifiers in the required format. In addition, from time to time, BudoKin may use the Tool to examine information (including Profile Information located on private profiles) to detect the presence of content that matches content for which copyright holders have supplied content identifiers. If the Tool blocks the upload of such content, and/or otherwise removes content already uploaded to the BudoKin Website, the Member will receive a notice and may have an opportunity respond to the notice through a counter-notice. Copyright holders may have access to certain Related Data and Profile Information when they operate the Tool, but will not have access to any PII unless the Member expressly consents to providing PII to the copyright holder in the context of a counter-notice.
 
-### CHOICE: BUDOKIN WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII
 
-Except as described in this Privacy Policy, BudoKin will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with BudoKin.
+We may use and disclose aggregated non-personally identifying information collected through this BudoKin Site as part of our process of constantly improving the BudoKin Site and BudoKin's services and products. 
 
-### USE: BUDOKIN'S USE OF PII
+### How we handle email and "Contact us" messages
 
-BudoKin will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If BudoKin obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
+BudoKin may preserve the content of any email, or "Contact us" or other electronic message or form, that we receive. Any personal information contained in those messages will only be used or disclosed in ways set out in this BudoKin Site Privacy Statement. The message content may be monitored by our service providers or BudoKin employees for purposes including trouble shooting, compliance, auditing and maintenance, or where email abuse is suspected. 
 
-In order to locate other BudoKin Members that you may already know in the physical world, BudoKin allows Users to search for Members using Registration Data (i.e., full name or email address). BudoKin also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools and/or companies where Users may have attended or worked). BudoKin may also enable Members to publicly display some Registration Data as an element of their Profile Information if they choose to do so via a profile setting under "Edit Profile." Search engines may index the portion of a Member's profile (including the Profile Information it contains) that is publicly displayed.
+### Links
 
-If you have consented to receive promotional materials (e.g., newsletters) or notifications from BudoKin, BudoKin may periodically use your email address to send you such materials related to the BudoKin Services, as applicable. If you want to stop receiving such materials from BudoKin, you can change your profile settings under "Account Settings," or follow the unsubscribe instructions at the bottom of each email. 
+The BudoKin Site may, from time to time, contain links to the websites of other organisations which may be of interest to you. Linked websites are responsible for their own privacy practices and you should check those websites for their respective privacy statements. 
 
-BudoKin employees, agents and contractors must have a business reason to obtain access to your PII and Related Data. BudoKin may share your PII and Related Data with those who help us manage or provide BudoKin Services' information activities (for example., message board administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide BudoKin with a specific service and not for any other purpose. 
+### Security
 
-BudoKin may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. BudoKin also may share your PII with Affiliated Companies if it has a business reason to do so.
+We use a number of mechanisms to protect the security and integrity of your personal information. Unfortunately, no data transmission over the Internet can be guaranteed as completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure. 
 
-As described in "Notice" above, BudoKin may customize the advertising and marketing messages you receive on the BudoKin Website, or may work with outside companies to do so. Your Related Data, non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. BudoKin prohibits these companies from sharing your Related Data, non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with BudoKin's advertisers and business partners.
+### Access to information
 
-There may be instances when BudoKin may access or disclose PII, Related Data, Profile Information or non-PII without providing you a choice in order to: (i) protect or defend the legal rights or property of BudoKin, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the BudoKin Services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if BudoKin sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, BudoKin may transfer your PII to the party or parties involved in the transaction as part of that transaction.
+If you wish to request access to any personal information which we hold about you as a result of our information collection practices outlined in this BudoKin Site Privacy Notice, please contact us using the "Contact details" set out below. Please provide as much detail as you can about the particular information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing the information to you. 
 
-When a Member chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. BudoKin is not responsible under any data protection laws for Member posted information.
+### Contact details
 
-### SECURITY: BUDOKIN PROTECTS THE SECURITY OF PII
+If you have any questions or feedback about privacy, or wish to make a complaint about the way in which we have handled your personal information, you may contact us as set out below: 
 
-BudoKin uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and credit card information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, BudoKin uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.
+### Contact BudoKin
 
-### ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT BUDOKIN ABOUT PRIVACY CONCERNS
+Email: [hello@budokin.com](mailto:hello@budokin.com)
 
-Whenever possible, BudoKin Members may review the Registration Data we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration Data, Member preferences and Profile Information by logging into your account and accessing features such as "Edit Profile" and "Account Settings." 
-
-If you ask BudoKin to stop using your PII, BudoKin will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
-
-If you would like to communicate with us about this Privacy Policy or BudoKin's collection and use of your PII please contact BudoKin at: privacy@budokin.com
+Last modified on 2/17/2014
