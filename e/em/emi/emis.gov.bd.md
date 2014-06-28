@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emis.gov.bd privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107221538id_/http%3A//emis.gov.bd/App_Pages/Client/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emis.gov.bd privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112912id_/http%3A//emis.gov.bd/App_Pages/Client/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
