@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228145442id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020226id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-and-conditions/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Complete University Guide
 
@@ -6,7 +6,7 @@
 
 This policy (together with our [Terms of Use](https://web.archive.org/terms-and-conditions/ "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this policy carefully before you use the site.
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of 55–56 Russell Square, London, WC1B 4HP.
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is The Complete University Guide Ltd ("we" or "us") of Room 301, Hamilton House, Mabledon Place, London WC1H 9BD.
 
 Our nominated representative for the purpose of the Act is Nova J Robinson.
 
@@ -131,6 +131,6 @@ The Act gives you the right to access information held about you. Your right of 
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [www.thecompleteuniversityguide.co.uk/contact/](https://web.archive.org/contact/)[](mailto:nova@thecompleteuniversityguide.co.uk).
 
-The Complete University Guide Ltd, 55–56 Russell Square, London, WC1B 4HP. Registered no. 06644543. 
+The Complete University Guide Ltd, Room 301, Hamilton House, Mabledon Place, London WC1H 9BD. Registered no. 06644543. 
 
 Next page: [Acceptable Use Policy](https://web.archive.org/terms-and-conditions/acceptable-use-policy/)
