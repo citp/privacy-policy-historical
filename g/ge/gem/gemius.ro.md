@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the gemius.ro privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064239id_/http%3A//gemius.com/pl/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemius.ro privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021307id_/https%3A//www.gemius.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy :: Gemius SA
+# Privacy Policy - Gemius SA
 
-_Last update: 19.10.2011_
+_Last update: **17.04.2014**  
+_
 
 Gemius is an international research agency, the leader and forerunner in the field of research of the internet and on the internet in Europe and in the Middle East.
 
-Originating in Poland, Gemius has expanded across the EMEA region and is now currently operating on thirty markets. 
+Originating in Poland, Gemius has expanded across the EMEA region and is now currently operating on thirty markets.
 
 ## **We Respect Your Privacy**
 
@@ -14,14 +15,14 @@ We respect the European Union and Polish Directives and Laws regarding personal 
 
 We have appointed a Data Protection Officer at Gemius, who supervises the compliance of the company’s actions with environmental laws and the principles described in this privacy policy.
 
-We are able to gather research data in various ways and are aware of and dedicated to protection of the privacy of internet users visiting websites monitored by us. 
+We are able to gather research data in various ways and are aware of and dedicated to protection of the privacy of internet users visiting websites monitored by us.
 
-We provide various web-analytics and online measurement services that help our clients to understand how people use and interact with the internet. We do this by gathering research data on the traffic and users on websites administrated by our clients (and related to their advertising campaigns). As an ethical market research agency, Gemius adheres to ICC/ESOMAR international code on market and social research ([www.esomar.org](http://www.gemius.com/www.esomar.org)). **  
+We provide various web-analytics and online measurement services that help our clients to understand how people use and interact with the internet. We do this by gathering research data on the traffic and users on websites administrated by our clients (and related to their advertising campaigns). As an ethical market research agency, Gemius adheres to ICC/ESOMAR international code on market and social research ([www.esomar.org](https://www.esomar.org/)). **  
 **
 
 ## **What information do we collect about internet users?**
 
-We gather statistical information on behavior of internet users. The information in question may include:  
+By using our techniques (see “What technologies do we use to collect the information” part) we gather statistical information on behavior of internet users. The information in question may include:  
 •    The number of visitors to websites of our Clients  
 •    Pages which are visited by the users  
 •    The durations of visits or video views  
@@ -42,11 +43,11 @@ In some of the studies we ask to provide us with contact information, such as e-
 
 There is a piece of code inserted into the websites of our certain clients’ in order to gather statistical site usage information. These pieces of code may also be embedded in client ad campaigns appearing on ad placements across websites.
 
-We use cookies to gather statistical information to help understand what users find interesting and useful on our Clients’ websites, what advertising campaigns are effective and to learn what is the aggregated demographic composition of a website’s visitors or of a specific ad campaign audience. Thanks to the data stored in cookies one can watch ads that are in accordance with his/her interests and simultaneously one does not have to watch ads he/she finds boring. 
+We use cookies and other technologies to gather statistical information to help understand what users find interesting and useful on our Clients’ websites, what advertising campaigns are effective and to learn what is the aggregated demographic composition of a website’s visitors or of a specific ad campaign audience. Thanks to the data stored in cookies one can watch ads that are in accordance with his/her interests and simultaneously one does not have to watch ads he/she finds boring.
 
-One can control cookies through your browser’s settings. However any alterations to these settings may affect the functionality of certain websites. For information about how to assert that you do not agree to participate in researches conducted by Gemius, please see the “Opting Out”part.  
-We use cookie technology for some advanced methods of advertisement delivery on websites, called gemiusDirectEffect ad server ([read more](http://www.adocean-global.com/en/privacy.html)). 
+Everyone can control cookies and other technologies through their browser’s settings. However any alterations to these settings may affect the functionality of certain websites. For information about how to assert that you do not agree to participate in researches conducted by Gemius, please see the “Opting Out”part.
 
+  
 Click [here](http://www.adocean-global.com/) to go to the website of AdOcean, the company developing the ad server on the basis of the Gemius'  methodology. There, you can read some technical information about the opt-out cookie and save one on your computer.
 
 ## **How do we use the information?**
@@ -54,11 +55,11 @@ Click [here](http://www.adocean-global.com/) to go to the website of AdOcean, th
 We use statistical information to provide our clients with detailed reports and analyses of traffic to their websites, possibility of instant evaluation of the page content popularity, the audiences of their websites and advertising campaigns as well as the effectiveness of their advertising campaigns.
 
 We use data from Client’s websites in aggregate to prepare reports. These reports are presented in aggregate form and do not contain personal-identifiable data.  
-We don’t influence the results of any research study - neither at the raw-data level nor at the level of processed data. 
+We don’t influence the results of any research study - neither at the raw-data level nor at the level of processed data.
 
 ## **With whom do we share the information?**
 
-We employ individuals or cooperate with other companies for them to perform certain activities on our behalf. Such companies or individuals may be provided with access to your information when it is needed to perform their functions, but are prohibited from using such information for any other purpose. If your personal data are transferred to them, we ensure that they employ at least an equivalent level of security measures. 
+We employ individuals or cooperate with other companies for them to perform certain activities on our behalf. Such companies or individuals may be provided with access to your information when it is needed to perform their functions, but are prohibited from using such information for any other purpose. If your personal data are transferred to them, we ensure that they employ at least an equivalent level of security measures.
 
 In addition, we may provide this information to third parties when disclosure is required by law or when necessary or desirable to exercise or preserve our legal rights, or to take action regarding potentially illegal activities. If all or part of our company is sold, merged or otherwise transferred to another entity, your information, whether personally identifiable or not, may be transferred as a part of that transaction.
 
@@ -69,16 +70,51 @@ We store the information described in this policy for as long as needed for mark
 Wherever we hold the data, we apply the terms of this policy and any applicable law. Gemius has implemented certain security measures to help protect the security and confidentiality of information while they are in our control.   
 We inform our employees about our policies and procedures regarding confidentiality, security and privacy, and we emphasize the importance of complying with these rules. Our security procedures are consistent with generally accepted commercial standards used to protect personal information.
 
-We limit access to your information to authorized employees who we believe reasonably need to come into contact with that information. All of them are bound by this privacy policy and by Best Practices for Personal Data Handling binding Gemius Group. Access or use of information for any purpose other than those explained in this privacy policy will not be authorized. 
+We limit access to your information to authorized employees who we believe reasonably need to come into contact with that information. All of them are bound by this privacy policy and by Best Practices for Personal Data Handling binding Gemius Group. Access or use of information for any purpose other than those explained in this privacy policy will not be authorized.
 
 ## **Opting Out**
 
-This paragraph describes the method how you may resign from our tracking your online behavior.  
-If you don’t wish us to collect statistical data regarding your behavior, you can   
-•    Accept a special [OPTOUT cookie](http://optout.hit.gemius.pl/removeEN.php)  
-•    Set your browser to “I don’t accept cookies" option.  
-•    Set your browser to clear cookies on browser close.  
-Suggestion: How to change the browser settings it is described by the most popular browsers’ providers in the browser menu (help menu) 
+This paragraph describes the method how you may resign from our tracking your online behavior.
+
+If you don’t wish us to collect statistical data regarding your behavior, you can: 
+
+  * Accept a special [OPTOUT cookie](http://optout.hit.gemius.pl/removeEN.php)
+  * Set your browser to clear cookies on browser close.
+  * Disable cookies and local storage in your browser following the instructions for your browser type:
+
+
+
+**Mozilla Firefox**
+
+  * Press “[Ctrl + Shift + Delete]” keys. You will be shown a list of items to delete. You can select 'Cookies', 'Cache' and 'Offline Website Data' and then click the 'Clear Now' button to remove all of the information we were saving for you.
+  * Select 'Tools' > 'Options' and then open the ‘Privacy’ tab – you can then click the 'remove individual cookies' link to choose whether to accept, block, or prompt for cookies/localstorage.
+  * in the browser bar type: 'about:config' (Accept the security warning). Then filter 'dom.storage.enabled' and change its value from 'true' to 'false'’.
+
+
+
+**Chrome**
+
+  * Press [Ctrl + Shift + Delete] keys. You will be shown a list of items. In the ’Privacy’ section, click on the ‘Clear browsing data…’ button and then check the box for 'Delete cookies and other site data'. Finally, select the time period from the drop-down that you wish to clear and select the ‘Clear browsing data’ button.
+  * Click the Wrench and choose ‘Options’, go to the ‘Under the Hood’ tab, select ‘Content Settings’, and choose the ‘Block any sites from setting data’ option. The LocalStorage will be blocked.
+
+
+
+  **Internet Explorer 11**
+
+  * Select the ‘Tools’ > ‘Internet Options’ menu item and then select the ‘Delete…’ button under the ‘General’ tab. Check the ‘Cookies’ option, check/uncheck other options as required, and select the ‘Delete’ button.
+  * Select the ‘Tools’ > ‘Internet Options’ menu item and then open the ‘Privacy’ tab – you can then adjust the slider to block or allow various types of cookies/localstorage. Alternatively, by clicking the ‘Advanced’ button you can exercise finer control over the browser’s behavior by choosing whether to accept, block, or prompt for cookies/localstorage.
+
+
+
+**Opera:**
+
+  *  Select the ‘Tools’ in the main menu, then go to ‘Preferences’ at the bottom of the File menu (or press Alt+P to access them directly). Select ‘Advanced’, then ‘Storage’, then press ‘Clear all’ button.
+  * Select the ‘Tools’ in the main menu, then go to ‘Preferences’ at the bottom of the File menu (or press Alt+P to access them directly). Click ‘Privacy’ and select one of the available options.
+  * in the browser bar type: ‘opera:config’. Find localStorage’ and set ‘0’ (zero) in the "Domain Quota Exceeded Handling For localStorage", "Domain Quota For localStorage" fields.
+
+
+
+Please note that your recent searches, favorite/saved locations, and log-in information will not be retained if you disable your storage settings.
 
 ## **Policy Changes**
 
@@ -98,11 +134,10 @@ Postępu 18B St.
 02-676 Warsaw, Poland  
 Phone no. + 48 22 390 90 90  
 Fax no. +48 22 874 41 01   
-[www.gemius.com ](http://www.gemius.com/www.gemius.com)
+[www.gemius.com ](https://www.gemius.com/)
 
 The Data Protection Officer  
 Email: dp.officer@gemius.com
 
 For more information about how our clients use the information collected on their websites, please see their privacy policies.   
-_This Privacy Policy was last updated on October 19, 2011._  
-****
+_This Privacy Policy was last updated on April 17, 2014._
