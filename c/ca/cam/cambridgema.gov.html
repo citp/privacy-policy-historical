@@ -1,11 +1,73 @@
-<!--The following is the downloaded HTML source of the cambridgema.gov privacy policy that was archived on 2013-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119233833id_/http%3A//www.cambridgema.gov/privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cambridgema.gov privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628070109id_/http%3A//www.cambridgema.gov/privacystatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head><title>
 	Privacy Statement - City of Cambridge, Massachusetts
-</title><meta name="description" content="City of Cambridge Privacy Statment"><meta name="keywords" content="privacy statement"><meta name="robots" content="index, follow"><meta name="author" content="City of Cambridge, Massachusetts"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/global.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/coc.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/print.css" media="print"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/image-gallery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/translate.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.ext.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/global.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/coc.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/carousel.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tablesorter.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/styleswitcher.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tools.min.js"></script><link href="/Layouts/NewCity/_resources/css/default-txt.css" rel="stylesheet" type="text/css" title="default" disabled=""><link href="/Layouts/NewCity/_resources/css/medium-txt.css" rel="alternate stylesheet" type="text/css" title="medium" disabled=""><link href="/Layouts/NewCity/_resources/css/large-txt.css" rel="alternate stylesheet" type="text/css" title="large" disabled="">
+</title><meta name="description" content="City of Cambridge Privacy Statment"><meta name="keywords" content="privacy statement"><meta name="robots" content="index, follow"><meta name="author" content="City of Cambridge, Massachusetts"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/global.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/coc.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/print.css" media="print"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/image-gallery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/translate.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.ext.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/global.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/coc.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/carousel.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tablesorter.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/styleswitcher.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tools.min.js"></script><link href="/Layouts/NewCity/_resources/css/default-txt.css" rel="stylesheet" type="text/css" title="default" disabled=""><link href="/Layouts/NewCity/_resources/css/medium-txt.css" rel="alternate stylesheet" type="text/css" title="medium" disabled=""><link href="/Layouts/NewCity/_resources/css/large-txt.css" rel="alternate stylesheet" type="text/css" title="large" disabled="">
 	<!-- new city master -->
-	<link rel="shortcut icon" href="/Layouts/NewCity/_resources/favicon.ico"></head>
+	<link rel="shortcut icon" href="/Layouts/NewCity/_resources/favicon.ico">
+	
+	<script>
+		var trackEvent = function(url, category, action, label) {
+		   ga('send', 'event', category, action, label, {'hitCallback':
+			 function () {
+				window.location = url;
+			 }
+		   });
+		};
+		
+		var trackEventNR = function(category, action, label, nonInt) {
+			if (nonInt == undefined)
+			{
+				console.log("Defaulting nonInt");
+				nonInt = false;
+			}
+			
+			console.log("nonInt is " + nonInt);
+			
+			ga('send', 'event', category, action, label, {'nonInteraction': nonInt});
+		};
+		
+		var trackEventNI = function(category, action, label) {
+			ga('send', 'event', category, action, label, {'nonInteraction': 1});
+		};
+		
+		// Set up event tracking on common controls
+		$(document).ready(function() {
+			// Callouts
+			$("DIV#secondary DIV.callout DIV.callout A").each(function(i) {
+				$(this).click(function(e) {
+					trackEvent($(this).attr("href"), "Homepage Callouts", "Click", $(this).attr("href"));
+					e.preventDefault();
+				});
+			});
+			
+			// Quick Links
+			$("DIV.callout > H3:contains('Quick Links') ~ UL A").each(function(i) {
+				$(this).click(function(e) {
+					trackEvent($(this).attr("href"), "Homepage Quick Links", "Click", $(this).text());
+					e.preventDefault();
+				});
+			});
+			
+			// Fat Footer
+			$("DIV#footer-content A").each(function(i) {
+				$(this).click(function(e) {
+					trackEvent($(this).attr("href"), "Homepage Fat Footer", "Click", $(this).text());
+					e.preventDefault();
+				});
+			});
+			
+			// Footer
+			$("DIV#copyright A").each(function(i) {
+				$(this).click(function(e) {
+					trackEvent($(this).attr("href"), "Homepage Footer", "Click", $(this).text());
+					e.preventDefault();
+				});
+			});
+		});
+	</script>
+</head>
 <body class="interior wide">
 	<form name="aspnetForm" method="post" action="/privacystatement.aspx" id="aspnetForm">
 <div>
@@ -18,9 +80,9 @@
             
 			    <div id="header">
 				    <a id="brand" href="/">Welcome to the City of Cambridge</a>
-				    <img src="/~/media/Images/City/bannernew2011/fresh_pond_path.ashx" alt="fresh pond walk way">
+				    <img src="/~/media/Images/City/bannernew2011/North_Point_by_Bob_Coe.ashx" alt="North Point Picture by Bob Coe" title="North Point by Bob Coe">
 				    <div id="header-content">
-					    <ul><li><a href="/citycalendar.aspx">Calendar</a> | </li><li><a href="/jobs.aspx">Jobs</a> | </li><li class="last"><a href="/citynewsandpublications/publications.aspx">City Publications</a></li></ul>
+					    <ul><li><a href="/citycalendar.aspx">Calendar</a> | </li><li><a href="/workingincambridge.aspx">Jobs</a> | </li><li class="last"><a href="/citynewsandpublications/publications.aspx">City Publications</a></li></ul>
 				        <fieldset id="search-form">
 				            <p>
 
@@ -62,27 +124,32 @@
 	Privacy Statement
 </h1>
 		
-		
 		<h3>Introduction </h3>
-    <p>The City of Cambridge is committed to providing web users with convenient and secure e-government services. We are also very dedicated to protecting the privacy of our visitors. The following information will explain why information is collected when you visit our site, how that information is used and if it is shared with any third parties. <br><br>In no event shall the City of Cambridge or its agencies, officers, employees, agents, or representatives be liable for any direct, indirect, special, punitive, incidental, exemplary or consequential damages arising from your accessing or using the web site, including but not limited to any disruption in service, or otherwise arising from the web site or from anything contained in or displayed on the web site. Nothing contained in or displayed on this web site constitutes or is intended to constitute legal advice by the City or any of its agencies, officers, employees, agents, attorneys, or representatives. </p>
-    <h3>Data Collection </h3>
-    <p>The City of Cambridge does collect information about visitors to the site. This information is used for analytical and statistical purposes to help better manage the site. Information that is collected includes the date and the type of browser being used. We use this information to learn how many visitors we have, where they are coming from, which parts of our web site are of most interest to users and other facts that will help us improve the web site and the services we offer. </p>
-    <h3>Use of Cookies </h3>
-    <p>The City of Cambridge uses cookies that are pieces of information generated by our web server and stored on the end user's computer for future access. The City does not store any user's personal identifying information (such as name, address etc…) but keeps track of actions taken on the site. This helps us to avoid presenting repetitive information to users before they access the various e-information applications on The City's web site. We believe that this use of cookies does not compromise the user's privacy and security. At any time, users have the capability to turn off the cookies using their browser settings.&nbsp;&nbsp;</p>
-    <h3>Sending of E-mail </h3>
-    <p>If you send us an electronic mail message, either through your mail program or by using one of the online Contact forms, we will only use the personally identifying information to respond to the request. We may direct your message to another government agency that can help in fulfilling your request. This personally identifying information will not be shared with any third party or other governmental agencies not directly handling your request. </p>
-    <h3>Online Transactions </h3>
-    <p>Every effort is made to protect any sensitive personal information you give online. This site uses a secure server for conducting online financial transactions. All credit cards and other payment information that you transmit will be protected by encryption technology, provided that your browser is properly configured and your computer is operating properly. The encrypted information is shared only with our bank and a third party credit card application service provider, Govolution Inc, who also operate secured servers. Access to these records is limited to a very small number of employees who need it in order to perform a specific job. <br><br>In addition to the preceding terms and conditions the City, its officers, employees, agents, or representatives, shall not be liable for any damages of any kind arising from your use of the online bill-pay service, including any non-authorization of a user's payment by any entity involved in the processing of any online transaction including but not limited to your credit card company, any applicable governmental authority's non-acceptance of a payment from an online bill-pay user, or for any disruptions in service of the online bill-pay service, regardless of the cause. The City further assumes no responsibility for the timeliness, deletion, mis-delivery, or failure to store any user communications or personalization of settings. <br><br>Completion of a payment transaction using the online bill-pay service is contingent upon: 1) the authorization of payment by all entities involved in the processing of any online transaction including your applicable credit card company; 2) the acceptance of your payment by the relevant governmental authority or other entity you are attempting to pay; and 3) payment of the online bill-pay transaction fee. If, for any reason whatsoever your payment is not processed, authorized, or accepted by any entity involved in the processing of any online bill-pay transaction your payment liability shall remain outstanding and unpaid and you may be subject to late fees, interest charges, penalties, shut-off, or other actions where applicable. All outstanding payment obligations shall remain your sole responsibility. You understand, accept, and agree to pay to the City any and all fees and/or penalties associated with the submission of any payment transaction that is returned by any bank or other depository financial institution for insufficient funds or any other error on your part. </p>
-    <h3>Cambridge E-Line Subscription </h3>
-    <p>This new application from the City gives users the opportunity to apply and receive various types of information from the different City departments. The service informs users about weekly happenings in City government. This is an "opt-in" service, meaning that users must indicate their interest by signing up and choosing the information they wish to receive. To use this service the user, at minimum, must provide their e-mail address. For street related information, the user must also provide address information. Should any user wish to "unsubscribe" at any time, this option is sent out at the bottom of each e-mail notification or available via the login and password assigned at time of application. A user name and password must be assigned in order to set up such an account, so that the information becomes easily retrievable and modifiable upon log-in. These passwords are stored on a secured server. You should not divulge this password to anyone and the City will never ask for your password in an unsolicitied phone call or e-mail. When you are finished viewing and changing your personal information, be sure to log-out and exit the page for complete protection. </p>
-    <h3>Sale of Data from the Web Site </h3>
-    <p>The City will not rent, sell or give away any personally identifying information entered into the web site (name, address, phone number, etc…) to third parties for marketing or mailing list purposes without your permission. We will also not disclose credit card information, except for purposes related to your transaction or as required by law. </p>
-    <h3>Links to Other Web Sites </h3>
-    <p>This site provides links to other governmental web sites including those run by the Commonwealth of Massachusetts, the Federal Government and various state authorities. This privacy policy applies only to the www.cambridgema.gov and to the third-party sites that provide Internet-related services for the City under contract. All links are reviewed for appropriateness prior to being included. Non-governmental links are generally not included in the site. Exceptions to this linking policy can be made by the MIS Department when it is determined by the Director that a public need exists. Such examples could include citywide events or public-private partnerships that impact City programs. </p>
-    <h3>Disclosure to third parties </h3>
-    <p>As a governmental agency, the Public Records Law, M.G.L. c. 66, sec. 10 governs our activities. Any information received through use of the site is subject to the same provisions as information provided on paper. Otherwise we do not share any personally identifying information with any third party. For a more complete discussion of the implications of the Public Records Law, please refer to Commonwealth of Massachusetts, Secretary of State's Office that include FAQs as well as the text of the statute. </p>
-    <h3>Security </h3>
-    <p>For site security purposes and to ensure that this service remains available to all users, the City employs commercial software designed to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable by law. </p>
+<p>The City of Cambridge is committed to providing web users with convenient and secure e-government services. We are also very dedicated to protecting the privacy of our visitors. The following information will explain why information is collected when you visit our site, how that information is used and if it is shared with any third parties. <br>
+<br>
+In no event shall the City of Cambridge or its agencies, officers, employees, agents, or representatives be liable for any direct, indirect, special, punitive, incidental, exemplary or consequential damages arising from your accessing or using the web site, including but not limited to any disruption in service, or otherwise arising from the web site or from anything contained in or displayed on the web site. Nothing contained in or displayed on this web site constitutes or is intended to constitute legal advice by the City or any of its agencies, officers, employees, agents, attorneys, or representatives. </p>
+<h3>Data Collection </h3>
+<p>The City of Cambridge does collect information about visitors to the site. This information is used for analytical and statistical purposes to help better manage the site. Information that is collected includes the date and the type of browser being used. We use this information to learn how many visitors we have, where they are coming from, which parts of our web site are of most interest to users and other facts that will help us improve the web site and the services we offer. </p>
+<h3>Use of Cookies </h3>
+<p>The City of Cambridge uses cookies that are pieces of information generated by our web server and stored on the end user's computer for future access. The City does not store any user's personal identifying information (such as name, address etc…) but keeps track of actions taken on the site. This helps us to avoid presenting repetitive information to users before they access the various e-information applications on The City's web site. We believe that this use of cookies does not compromise the user's privacy and security. At any time, users have the capability to turn off the cookies using their browser settings.&nbsp;&nbsp;</p>
+<h3>Sending of E-mail </h3>
+<p>If you send us an electronic mail message, either through your mail program or by using one of the online Contact forms, we will only use the personally identifying information to respond to the request. We may direct your message to another government agency that can help in fulfilling your request. This personally identifying information will not be shared with any third party or other governmental agencies not directly handling your request. </p>
+<h3>Online Transactions </h3>
+<p>Every effort is made to protect any sensitive personal information you give online. This site uses a secure server for conducting online financial transactions. All credit cards and other payment information that you transmit will be protected by encryption technology, provided that your browser is properly configured and your computer is operating properly. The encrypted information is shared only with our bank and a third party credit card application service provider, Govolution Inc, who also operate secured servers. Access to these records is limited to a very small number of employees who need it in order to perform a specific job. <br>
+<br>
+In addition to the preceding terms and conditions the City, its officers, employees, agents, or representatives, shall not be liable for any damages of any kind arising from your use of the online bill-pay service, including any non-authorization of a user's payment by any entity involved in the processing of any online transaction including but not limited to your credit card company, any applicable governmental authority's non-acceptance of a payment from an online bill-pay user, or for any disruptions in service of the online bill-pay service, regardless of the cause. The City further assumes no responsibility for the timeliness, deletion, mis-delivery, or failure to store any user communications or personalization of settings. <br>
+<br>
+Completion of a payment transaction using the online bill-pay service is contingent upon: 1) the authorization of payment by all entities involved in the processing of any online transaction including your applicable credit card company; 2) the acceptance of your payment by the relevant governmental authority or other entity you are attempting to pay; and 3) payment of the online bill-pay transaction fee. If, for any reason whatsoever your payment is not processed, authorized, or accepted by any entity involved in the processing of any online bill-pay transaction your payment liability shall remain outstanding and unpaid and you may be subject to late fees, interest charges, penalties, shut-off, or other actions where applicable. All outstanding payment obligations shall remain your sole responsibility. You understand, accept, and agree to pay to the City any and all fees and/or penalties associated with the submission of any payment transaction that is returned by any bank or other depository financial institution for insufficient funds or any other error on your part. </p>
+<h3>Cambridge E-Line Subscription </h3>
+<p>This new application from the City gives users the opportunity to apply and receive various types of information from the different City departments. The service informs users about weekly happenings in City government. This is an "opt-in" service, meaning that users must indicate their interest by signing up and choosing the information they wish to receive. To use this service the user, at minimum, must provide their e-mail address. For street related information, the user must also provide address information. Should any user wish to "unsubscribe" at any time, this option is sent out at the bottom of each e-mail notification or available via the login and password assigned at time of application. A user name and password must be assigned in order to set up such an account, so that the information becomes easily retrievable and modifiable upon log-in. These passwords are stored on a secured server. You should not divulge this password to anyone and the City will never ask for your password in an unsolicited phone call or e-mail. When you are finished viewing and changing your personal information, be sure to log-out and exit the page for complete protection. </p>
+<h3>Sale of Data from the Web Site </h3>
+<p>The City will not rent, sell or give away any personally identifying information entered into the web site (name, address, phone number, etc…) to third parties for marketing or mailing list purposes without your permission. We will also not disclose credit card information, except for purposes related to your transaction or as required by law. </p>
+<h3>Links to Other Web Sites </h3>
+<p>This site provides links to other governmental web sites including those run by the Commonwealth of Massachusetts, the Federal Government and various state authorities. This privacy policy applies only to the www.cambridgema.gov and to the third-party sites that provide Internet-related services for the City under contract. All links are reviewed for appropriateness prior to being included. Non-governmental links are generally not included in the site. Exceptions to this linking policy can be made by the MIS Department when it is determined by the Director that a public need exists. Such examples could include citywide events or public-private partnerships that impact City programs. </p>
+<h3>Disclosure to third parties </h3>
+<p>As a governmental agency, the Public Records Law, M.G.L. c. 66, sec. 10 governs our activities. Any information received through use of the site is subject to the same provisions as information provided on paper. Otherwise we do not share any personally identifying information with any third party. For a more complete discussion of the implications of the Public Records Law, please refer to Commonwealth of Massachusetts, Secretary of State's Office that include FAQs as well as the text of the statute. </p>
+<h3>Security </h3>
+<p>For site security purposes and to ensure that this service remains available to all users, the City employs commercial software designed to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable by law. </p>
 		
 	</div>
 
@@ -127,25 +194,33 @@
 						<!-- /callout -->
 						<div class="callout">
 							<h3>Quick Links</h3>
-							<ul><li><a href="/pio/citytelephonedirectory/citytelephonedirectory.aspx">City Directory and Directions</a></li><li><a href="/boardsandcommissionsdirectory.aspx">Boards &amp; Commissions</a></li><li><a href="http://www.cambridgebiotech.org/">Biotech in Cambridge</a></li><li><a href="http://library.municode.com/index.aspx?clientId=16889&amp;stateId=21&amp;stateName=Massachusetts&amp;customBanner=16889.jpg&amp;imageclass=L&amp;cl=16889.txt">City Ordinances</a></li><li><a href="/~/media/Files/publicinformationoffice/annualreportarchives/FY12 Annual Report.ashx">FY12 Annual Report</a></li><li><a href="/itd/CPI.aspx">CPI Wifi Access Points</a></li><li><a href="/theworks/cityprojects.aspx">Construction and Traffic</a></li><li><a href="/cpl.aspx">Library</a></li><li><a href="/cmanager/mlkjrschoolconstruction.aspx">MLK School Construction Project</a></li><li><a href="/apps.aspx">Mobile Applications</a></li><li><a href="/theworks.aspx">Public Works</a></li><li><a href="/socialmedia.aspx">Social Media Sites</a></li></ul>
+							<ul><li><a href="/pio/citytelephonedirectory/citytelephonedirectory.aspx">City Directory and Directions</a></li><li><a href="/boardsandcommissionsdirectory.aspx">Boards &amp; Commissions</a></li><li><a href="/theworks/ourservices/engineering/weeklyconstructionhighlights/constructioninteractivemap.aspx">Construction Interactive Map</a></li><li><a href="http://library.municode.com/index.aspx?clientId=16889&amp;stateId=21&amp;stateName=Massachusetts&amp;customBanner=16889.jpg&amp;imageclass=L&amp;cl=16889.txt">City Ordinances</a></li><li><a href="/finance/relatedlinks/thecityofcambridgescholarshipfund.aspx">The City of Cambridge Scholarship Fund</a></li><li><a href="/~/media/Files/publicinformationoffice/annualreportarchives/FY13 Annual Report.ashx">FY13 COC Annual Report</a></li><li><a href="/itd/CPI.aspx">CPI Wifi Access Points</a></li><li><a href="/cpl.aspx">Library</a></li><li><a href="/cmanager/mlkjrschoolconstruction.aspx">MLK School Construction Project</a></li><li><a href="/theworks.aspx">Public Works</a></li><li><a href="/socialmedia.aspx">Social Media Sites</a></li></ul>
 						</div>
 						<!-- /callout -->
-						<div class="callout">
-							
-								<h3>
-									Visiting City Hall</h3>
-								<h4>
-	Hours of Service
-</h4><p>Monday: 8:30am-8pm
+						
+
+                        <div class="callout contact-info">
+                            
+                                    <h3>Visiting City Hall</h3>
+                                    <h4>Cambridge City Hall</h4>
+                                    <p>
+                                        795 Massachusetts Ave<br>
+                                        Cambridge MA, 02139<br>
+                                        Ph: <a href="tel:+16173494000">617-349-4000</a><br>
+                                        TTY: <a href="tel:+16173494242">617-349-4242</a>
+                                    </p>
+
+                                    <h4>Hours of Service</h4>
+                                    <p>Monday: 8:30am-8pm
 <br>Tuesday-Thursday: 8:30am-5pm
 <br>Friday: 8:30am-12pm</p>
-								<p sizset="27" sizcache="11"><a href="~/link.aspx?_id=4BDE8CE65C0A4700BB26D753473A5F6C&amp;_z=z">City Department Directory</a> </p>
+                                    <p></p><p sizset="27" sizcache="11"><a href="~/link.aspx?_id=4BDE8CE65C0A4700BB26D753473A5F6C&amp;_z=z">City Department Directory</a> </p>
 <p><em>Richard C. Rossi</em> <br>
 City Manager</p>
 <p><em>Lisa C. Peterson</em> <br>
-Deputy City Manager</p>
-							
-						</div>
+Deputy City Manager</p><p></p>
+                                
+                        </div>
 						<!-- /callout -->
 					</div>
 					<!-- /secondary -->
@@ -163,13 +238,13 @@ Deputy City Manager</p>
     
 	    <div id="footer">
 		    <div id="footer-content">
-			    <dl><dt>Living in Cambridge</dt><dd><a href="/livingincambridge.aspx">Living Home Page</a></dd><dd><a href="/citycalendar.aspx">City Calendar</a></dd><dd><a href="/externallinks/cambridgeusa/communitycalendar.aspx">Community Calendar</a></dd><dd><a href="/livingincambridge/residentservices1/noisecomplaints.aspx">Resident Services</a></dd><dd><a href="/theworks/ourservices/recyclingandtrash.aspx">Trash and Recycling</a></dd></dl><dl><dt>&nbsp;</dt><dd><a href="/CDD.aspx">Community Development</a></dd><dd><a href="/externallinks/CDD/Housing.aspx">Housing</a></dd><dd><a href="/DHSP.aspx">Human Services</a></dd><dd><a href="/DHSP/programsforfamilies/seniorscouncilonaging.aspx">Seniors</a></dd><dd><a href="/DHSP/programsforkidsandyouth.aspx">Youth and Families</a></dd></dl><dl><dt>Working in Cambridge</dt><dd><a href="/workingincambridge.aspx">Working Home page</a></dd><dd><a href="/externallinks/CDD/cityfactsbrochure.aspx">City Facts Brochure</a></dd><dd><a href="/externallinks/CDD/Workshops.aspx">Business Workshops</a></dd><dd><a href="/externallinks/cambridgelocalfirst.aspx">Cambridge Local First</a></dd></dl><dl><dt>Visiting Cambridge</dt><dd><a href="/externallinks/cambridgeusa/officefortourism.aspx">Cambridge Tourism Office</a></dd><dd><a href="/externallinks/artsandentertainment/cambridgeartscouncil.aspx">Arts and Entertainment</a></dd><dd><a href="/CAC.aspx">Cambridge Arts Council</a></dd><dd><a href="/externallinks/cambridgeusa/thingstodo.aspx">Things to Do</a></dd></dl>
+			    <dl><dt>Living in Cambridge</dt><dd><a href="/livingincambridge.aspx">Living Home Page</a></dd><dd><a href="/citycalendar.aspx">City Calendar</a></dd><dd><a href="/externallinks/cambridgeusa/communitycalendar.aspx">Community Calendar</a></dd><dd><a href="/livingincambridge/residentservices1.aspx">Resident Services</a></dd><dd><a href="/theworks/ourservices/recyclingandtrash.aspx">Trash and Recycling</a></dd></dl><dl><dt>&nbsp;</dt><dd><a href="/CDD.aspx">Community Development</a></dd><dd><a href="/externallinks/CDD/Housing.aspx">Housing</a></dd><dd><a href="/DHSP.aspx">Human Services</a></dd><dd><a href="/DHSP/programsforfamilies/seniorscouncilonaging.aspx">Seniors</a></dd><dd><a href="/DHSP/programsforkidsandyouth.aspx">Youth and Families</a></dd></dl><dl><dt>Working in Cambridge</dt><dd><a href="/workingincambridge.aspx">Working Home page</a></dd><dd><a href="/externallinks/CDD/cityfactsbrochure.aspx">City Facts Brochure</a></dd><dd><a href="/externallinks/CDD/Workshops.aspx">Business Workshops</a></dd><dd><a href="/externallinks/cambridgelocalfirst.aspx">Cambridge Local First</a></dd></dl><dl><dt>Visiting Cambridge</dt><dd><a href="/externallinks/cambridgeusa/officefortourism.aspx">Cambridge Tourism Office</a></dd><dd><a href="/externallinks/artsandentertainment/cambridgeartscouncil.aspx">Arts and Entertainment</a></dd><dd><a href="/arts.aspx">Cambridge Arts Council</a></dd><dd><a href="/externallinks/cambridgeusa/thingstodo.aspx">Things to Do</a></dd></dl>
 		    </div>
 		    <!-- /footer-content -->
 		    <div id="copyright">
-			    <ul><li><a href="/jobs.aspx">Jobs</a> | </li><li><a href="/contactus.aspx">Contact Us</a> | </li><li><a href="/disclaimer.aspx">Disclaimer</a> | </li><li><a href="/privacystatement.aspx">Privacy Statement</a> | </li><li><a href="/~/media/Files/publicinformationoffice/Social-Media-Policy-05-02-13.ashx">Social Media Policy</a></li></ul>
+			    <ul><li><a href="/workingincambridge.aspx">Jobs</a> | </li><li><a href="/contactus.aspx">Contact Us</a> | </li><li><a href="/disclaimer.aspx">Disclaimer</a> | </li><li><a href="/privacystatement.aspx">Privacy Statement</a> | </li><li><a href="/~/media/Files/publicinformationoffice/Social-Media-Policy-05-02-13.ashx">Social Media Policy</a></li></ul>
 			    <ul class="copy">
-				    <li>© 2013 City of Cambridge, MA</li>
+				    <li>© 2014 City of Cambridge, MA</li>
 			    </ul>
 		    </div>
 		    <!-- /copyright -->
@@ -178,16 +253,14 @@ Deputy City Manager</p>
     
 
 	
-		<script type="text/javascript">
-	var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-21761819-1']);
-  _gaq.push(['_trackPageview']);
+		<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+ga('create', 'UA-21761819-1', 'auto');
+ga('send', 'pageview');
 </script>
 	
 	</form>
