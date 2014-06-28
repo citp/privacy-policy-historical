@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831200034id_/http%3A//www.convert2media.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert2media.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105430id_/http%3A//convert2media.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Convert2Media Affiliate Network
 
