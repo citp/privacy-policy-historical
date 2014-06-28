@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everystockphoto.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203170220id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everystockphoto.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628144213id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - everystockphoto - searching free photos
 
-last modified: 01.16.08
+last modified: 12.13.13
 
 Everystockphoto.com respects the privacy and the integrity of any information that you provide us as a user of this Site. Under the Personal Information Protection and Electronic Documents Act, 2000 c.5. (the "Privacy Act") we have created the following Privacy Policy.
 
@@ -18,8 +18,9 @@ We have designated an officer of the company to be accountable for our policies 
 
 **President**  
 everystockphoto.com  
-435 West Hastings St  
-Vancouver, V6B 1L4
+440 West Hastings St  
+Suite 360  
+Vancouver, V6B 1L1
 
 ## collection of information
 
