@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the audible.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629022144id_/http%3A//www.audible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628163255id_/http%3A//www.audible.com/privacy-policy) for the most accurate reproduction.*
 
 # Audible.com Privacy Notice | Audible.com
 
-Last updated: February 10, 2010.
+Last updated: March 19, 2014.
+
+To see what changed [click here.](https://web.archive.org/mt/privacy_notice_changes_03192014)
 
 Audible.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Audible.com, you are accepting the practices described in this Privacy Notice.**
 
@@ -70,7 +72,11 @@ Audible.com does not sell products to children. We sell children's products for 
 
 ### Does Audible.com Participate in the Safe Harbor Program? 
 
-As a subsidiary of Amazon.com, Inc., Audible.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. Amazon has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [ U.S. Department of Commerce's Safe Harbor ](http://www.export.gov/safeharbor/) Web site. If you would like to learn more about the Audible.com Safe Harbor program specifically, please send an e-mail to safeharbor@amazon.com.
+As a subsidiary of Amazon.com, Inc., Audible.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. Amazon has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site.](http://www.export.gov/safeharbor)
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
+
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints ](http://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint. 
 
 ### Conditions of Use, Notices, and Revisions 
 
