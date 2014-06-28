@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213162922id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninewest.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062551id_/http%3A//www.ninewest.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Nine West: Shoes & Handbags for Women
+# Shoes for Women | Handbags for Women | Nine West
 
 This ninewest.com web site is a service of JAG Footwear, Accessories and Retail Corporation.
 
