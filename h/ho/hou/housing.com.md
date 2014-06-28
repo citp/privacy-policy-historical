@@ -1,134 +1,84 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414022704id_/http%3A//www.housing.com/categories/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050629id_/http%3A//housing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at Housing.com
+# Housing
 
-**Housing.com Privacy Policy**
+This Policy tells you how We use information that we collect during Your use of our Website. Your privacy is very important to us and we are committed to ensuring that Your privacy is safeguarded and You are aware of how Your information is being used by Us.
 
-This privacy statement covers the site www.Housing.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 1. What personally identifiable information Housing.com collects. 2. What personally identifiable information third parties collect through the Web site. 3. What organization collects the information. 4. How Housing.com uses the information. 5. With whom Housing.com may share user information. 6. What choices are available to users regarding collection, use and distribution of the information. 7. What types of security procedures are in place to protect the loss, misuse or alteration of information under Housing.com control. 8. How users can correct any inaccuracies in the information. If users have questions or concerns regarding this statement, they should first contact Housing.com Privacy by email at: privacy@Housing.com.
+If you see capitalised terms, these are because the words have be ascribed a particular meaning when used in this Policy. For Your convenience, we have included them below: 
 
-**Information Collection and Use**
+If you see other capitalised terms which are not mentioned above, do take a look Our Terms of Use, as these terms will have same meaning as those defined in the Terms of Use.
 
-**Information Collection**  
-Housing.com is the sole owner of the information collected on http://www.Housing.com. Housing.com collects information from our users at several different points on our Web site.
+We hope that You will use our Website regularly and do request You to go through this Policy carefully. You are free not to agree with our Policy, in which case You should not Use the Website. Your use or access of the Website will constitute Your acceptance of the Policy.
 
-**Registration**  
-A user may or may not complete the registration form. During registration a user is may be required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site.
+* **What This Policy Covers:**
 
-**Order**  
-We may request information from the user on an order form. A user may be required to provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+This Policy applies to the collection, use, processing and access of all information that we collect on the Website. This includes but is not limited to information You upload, emails that You exchange with Us and any information submitted by You to Us.
 
-Information Use  
-**General:** We ask you to provide certain identifying information to us before we supply any of our services. We do this to assure the reliability of our services and to prevent unauthorized access. Therefore, to use our products and services, you will need to register with us.
+The Policy does not apply to, nor do We take any responsibility for, any information that is collected by any third party either using the Website or through any links on the Website or through any of the advertisements.
 
-**Registration:** As part of the registration process, you will be required to provide us with your contact and other personal information.
+* **What Information We Collect And How We Collect It:**
 
-**Housing.com Services:** When you elect to use our services, we will ask for the personal information (including name and address) we need in order to provide the services you requested and/or use the personal information you have provided as part of the registration process in order to provide such services to you.
+As You use, access and navigate through the Website, We collect various information, which may be personally identifiable information or other information which is not personally identifiable. For ease of Your and Our understanding we will put these into three buckets 
 
-**Correspondence:** If you send us personal correspondence, such as e-mails or letters, we may collect such information into a file specific to you.
+  1. “Personal Information” which means personally identifiable information like Your name, Your address, Your age, Your email address and Your Phone Number
+  2. “Sensitive Personal Information” which means your financial information, your passwords, any biometric or medical or health related information.
+  3. “Other Information” which means all other information other than “Personal Information” or “Sensitive Personal Information”. To give examples of this, this could be in the nature of device information, Your usage patterns, Your usage preferences, Your usage patterns, logs which are created when You access and use the Website, local caches on Your browser, Your location, ip address and the like. These are just examples and the list is by no means exhaustive.
 
-**Web Site Usage Information:** Our servers automatically track certain Web site usage information. This information may include the URL of the Web site that you came from and the URL of the Web site you go to next. It may also include the type of browser you are using, your IP address, what pages you viewed on our Web site, and date-time stamp.
 
-**Cookies:** In order to constantly improve your experience on our site, we may use software tools or "cookies" to gather information about site visitors' browsing activities. A "cookie" is information sent from a Web site to a visitor's hard drive while he or she is visiting the site. It may enable the site holder to track how a visitor navigates through its site and the areas in which they show interest. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the site visited just before and just after the site. However, we only identify the site visitor if he or she voluntarily gives us personal identifying information online.
 
-Our site uses cookies to keep track of your session ID. We may use cookies to deliver content specific to your interests or to track specific data that needs to be available on multiple Web pages. Cookies are necessary for the system to work properly.
+This information that We collect could be collected either through user input, i.e, You providing the information to Us or through the use of tracking technologies or the use of Cookies or through any other manual or automated manner. Just so that You and We are clear “Cookies” are files that would be placed in Your system’s hard drive and are intended to improve Your user experience by enabling Us to track Your usage and preference. These cookies may track Your usage of the Website, track advertisements and links that You visit and collect Other Information. Most Cookies We use are limited to a session, which mean they will be automatically deleted when Your session closes but this is not universally applicable. You may decline these Cookies by changing Your browser settings, if permitted. However do note that this may impact certain features of the Website or Your user experience in using the Website.
 
-Most cookies in use by our Web server are temporary and will be removed when the user logs out or is timed out by the server. However, a one-year persistent cookie may be set so that we can identify a referring company and maintain that company's branding and special promotions.
+You also may provide information to be published or displayed or posted on the Website, or transmitted to other users of the Website or third parties. Any such information is posted or transmitted to others at Your own risk. Please be aware that the We cannot control the actions of other users of the Website with whom You may choose to share information with.
 
-In some cases, if a visitor returns to the Web site after receiving a cookie, their browser sends cookie information back to the Web site. This is useful to the visitor if he or she has established a password at a particular Web site and wants to be identified by that site to perform a function or transaction. We may use cookies to evaluate our Web site. Cookies and Web usage information is compiled and analyzed on an aggregated basis and we do not link it to your personal information. We use this information to better develop our Web site to meet our users' needs.
+* **How We will Use the information and when we will disclose it:**
 
-**Children:** Children are not eligible to use our products and services. By using our Web site, you represent to us that you are at least 18 years old. If you are under 18, please do not submit personal information to us.
+Any Personal Information will be used to allow You to login to Your account or to resolve specific service issues, inform You of our new services or features, to communicate with You in relation to Your use of the Website, Any Other Information We collect will used for- 
 
-**Profile**  
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+  * our business purposes and this may include the viewing or advertising of residential or commercial real estate rental properties or to use of associated services;
+  * analytical purposes, data usage;
+  * improving the Website, or Your user experience
+  * providing targeted advertisements to You
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-**Third Party Advertising**  
-The ads appearing on this Web site are delivered to users by our advertising partner. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about Commission Junction, cookies, and how to "opt-out", please click here <http://www.cj.com/privacy.asp>.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We will share all information We collect from You, including the Personal Information with any third party if we in good faith believe it is required for the purposes of Our compliance with any applicable law, regulation, legal process or enforceable governmental request/ action or any manner required for the purposes of protecting Our rights or interests.
 
-This privacy statement covers the use of cookies our advertising partners only and does not cover the use of cookies by any advertisers.
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by emailing us at the address provided below.
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Persons who supply us with their telephone numbers on-line may receive telephone or text message contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls or text messages, please let us know by sending us e-mail at the below address.
 
-**Online Advertising**  
-Housing.com may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Web site. The cookie was placed by us, or by another advertiser who works with our ad partners. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
-**Communications from the Sit** e
+If we need to disclose Your Personal Information to any third party for any business activity other than those we have listed above We will seek your consent. All Other Information will be shared by Us with other business associates of Our’s and other third parties in connection with the operation of the Website on such terms and conditions We may deem fit without the need for any further consent from You or notification to You.
 
-**Special Offers and Updates**  
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+* **Our Security Measures:**
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+The information We collect from You, will be stored in a safe and secure manner in Our data centre. We shall restrict the access to your information unless required to process Your service requests. If at any time You share credit card information with Us, We shall employ industry standard encryption techniques such as the Secure Socket Layer (SSL) to protect the same.
 
-**Service Announcements**  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. Users may opt-out of these communications.
+While we will do our bit for the protection of Your information, as a user of the Website You have a responsibility to ensure data security. You should use the Website in a responsible manner and should not share Your username or password with any person.
 
-**Customer Service**  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+Given the nature of internet transactions, We will not take any responsibility for the transmission of information to or from the Website. Any transmission of information on the internet is done at Your risk.
 
-Sharing and Disclosure to Third Parties  
-  
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+While We will use all reasonable efforts to ensure that Your information is safe and secure, We are not making any representation, warranties or other assurances that the security measures are adequate, safe, fool proof or impenetrable.
 
-Except as otherwise set forth herein, We DO NOT Share Personal Information with Third Parties.
+* **Accessing and Updating Your Information:**
 
-Instances in which Disclosure to third parties may occur:  
-**Third Party Intermediaries:** When we have retained companies to work with or on behalf of Housing.com to provide Products, goods or services that you have requested. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+If You have created a user account on the Website, You can access and update your Personal Information and Personal Sensitive Information at any time by accessing the Website using Your registered username and accessing Your user account.
 
-**Service Providers:** We partner with other third parties to provide specific services. For example, when the user signs up for these particular services, we share names, or other contact information name, address, email address and credit card information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+You may also change and/or delete any of the information you have submitted. Do note however, We reserve the right to save any usage information and You are not entitled to seek the deletion of the same. We may also in certain cases, deny You the ability to change of any information, if we reasonably believe that the same is required to observe applicable laws.
 
-**Business Transitions:** In the event Housing.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+* **Advertisement, Links and Third Party Websites:**
 
-**Suspected violation or law:** If we believe your actions violate any law, regulation, our Terms of Use or any of our guidelines for promotions, Product offerings or any other features or functions of the Site, or if you threaten the rights, property or safety of Housing.com, its suppliers, advertisers, other customers or users, or any other party;
+The Website does have advertisement and links to other websites. If you should view any such links or advertisements or visit any other third page You do so at Your own choice and risk. Please be aware that the advertisements or links on the Website whether provided by Us or by third-party advertisers, may use cookies and other automatic tracking technologies to collect information about You, including web behavioural information and patterns. You should ascertain the policies applicable to the viewing and access of such advertisements and links. We do not control nor do we take any responsibility for such third parties, the links, the advertisement or their collection and use of information or their tracking technologies or how they may be used.
 
-**Use of Co-branded Services:** When you use co-branded services on our site — in which case you are giving us permission to pass any personally identifiable information you provide in the context of our co-branding and marketing relationship, back to our co-branding partner. Their use of your information is subject to their own privacy policies;
+* **Age restrictions**
 
-**With consent:** When we have your consent (you "opt in") to do so, in which case any use of your information is subject to the respective third party’s own privacy policies.
+To use this Website You should be of 18 years of age or older. If You are not of the requisite age You are not to provide any information. If it comes to Our attention that any information pertains to an individual under the age of 18 years, such information will, irrespective of its nature, be deleted without notice to You.
 
-**Chat Rooms, Message Boards, and Public Forums:** Please keep in mind that whenever you voluntarily disclose personal information online — for example on message boards, through e-mail, or in chat areas — that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return.
+* **Amendments to the Privacy Policy**
 
-**At Housing.com’s discretion:** As and when we, in our sole discretion, believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or
+To keep up with the ever changing times, We may make changes to the Policy. We will indicate that the Policy has changed and this will be displayed prominently on the Website. You will need to ascertain for Yourself what changes have been made or whether or not You agree with the changes. If You do not agree to the changes, You should discontinue Your use of the Website, because as We have told your earlier, Your use or access of the Website will constitute Your acceptance of the Policy as then changed.
 
-It is also possible that third parties may unlawfully intercept or access transmissions or private communications.
+* **Terms of Use**
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. We do not sell or market your personally identifiable information to unaffiliated organizations.
-
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@Housing.com.
-
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
-
-**Links**  
-This Web site contains links to other sites. Please be aware that we, Housing.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web.
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Housing.com will automatically send the friend a one-time email inviting them to visit the site. Housing.com stores this information for the sole purpose of sending this one-time email. The friend may contact Housing.com at info@Housing.com to request the removal of this information from our database.
-
-**Security**  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
-
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry — SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just "surfing".
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
-
-If users have any questions about the security at our Web site, users can send an email to info@Housing.com
-
-**Supplementation of Information**  
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support at info@Housing.com.
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email.
-
-**Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please email us at: [info@Housing.com](mailto:info@housing.com). **  
-**
+This Privacy policy shall be read with and form a part of the Terms of Use.
