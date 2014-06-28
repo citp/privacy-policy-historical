@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922202529id_/http%3A//www.joomagic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628040248id_/http%3A//www.joomagic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Joomla Template - Joomagic
 
 JooMagic.com is dedicated to preserving the privacy of all of our customers.  JooMagic recognizes that our customers have valid concerns about how the personal information that they submit online will be used, and we pledge to provide the safest online environment possible. Keep reading to find out how our commitment to privacy benefits you.
 
@@ -30,9 +30,9 @@ JooMagic occasionally sends out emails with special announcements, offers, or up
 
 ## Customers That Have Made a Purchase
 
-When you request information from JooMagic about products or services, you must release a minimal amount of information (such as name, email address, etc.).  This information, along with your original request, is stored in a secure database for use by JooMagic or our affiliates only. Your personal information will never be shared with or sold to a third party. We maintain this information for a number of purposes. 
+When you request information from JooMagic about products or services, you must release a minimal amount of information (such as name, email address, etc.).  This information, along with your original request, is stored in a secure database for use by JooMagic or our affiliates only. Your personal information will never be shared with or sold to a third party. We maintain this information for a number of purposes.
 
-  * In the event that a customer loses his or her username and/or password (where applicable), we will use our database to verify that customer’s purchase and retrieve his or her information. 
+  * In the event that a customer loses his or her username and/or password (where applicable), we will use our database to verify that customer’s purchase and retrieve his or her information.
   * JooMagic occasionally sends out emails with special announcements, offers, or updates.  If you would prefer not to receive these emails, you can have your name removed from our mailing list.
   * JooMagic will also send an email before your license is due to expire to tell you how much you will owe to renew your license (where applicable).
 
