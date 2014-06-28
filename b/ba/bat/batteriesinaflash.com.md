@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114215346id_/http%3A//www.batteriesinaflash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesinaflash.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628034211id_/http%3A//www.batteriesinaflash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Batteries and Chargers for Cars, Solar, Airsoft, Power Tools, Razors, Door Lock
+
+[](http://secure.trust-guard.com/privacy/9389)
 
 Effective 1/1/2004 
 
@@ -24,6 +26,8 @@ Name
 Address  
 Phone Number  
 (etc.) 
+
+**For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Authorize.net, keeps this information encrypted and secure on your behalf.**
 
 **The Way We Use Information:**
 
