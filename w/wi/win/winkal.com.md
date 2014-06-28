@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winkal.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824231329id_/https%3A//winkal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkal.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042458id_/https%3A//winkal.com/privacy) for the most accurate reproduction.*
 
-# Winkal - Comparte la Diversión
+# Winkal - Share the Fun
 
 This Privacy Policy describes how FNBox Ventures Inc. (“FNBox”) collect, use and share personal information of users of the website Winkal.com (the “Site”), which is owned by FNBox, and any products or services available from, or accessible through the Site. 
 
