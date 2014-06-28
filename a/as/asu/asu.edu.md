@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214193158id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628155738id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # ASU's Privacy Statement
 
@@ -62,7 +62,7 @@ ASU does not store any personal information in cookies nor do we link or combine
 
 #### Parental Access 
 
-Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20131214193158id_/http%3A//www.asu.edu/parentalform.pdf). Parents with questions will find contact information below.
+Parents can print out and mail or fax a signed form that allows them to review any identifiable information collected about their underage child, have this information deleted, and/or request that there be no further collection or use of their underage child’s information. ASU will take steps to verify the identity of anyone requesting information about a child and to ensure that the person is in fact the child’s parent or legal guardian. You can link to the form [here](https://web.archive.org/web/20140628155738id_/http%3A//www.asu.edu/parentalform.pdf). Parents with questions will find contact information below.
 
 ## Alternatives to Web site Transactions
 
@@ -93,17 +93,3 @@ ASU takes steps to ensure that personally identifiable information collected is 
 ASU accepts credit card payments online for a variety of goods and services. Unless otherwise noted on the site, all university credit card transactions are encrypted. Confidential information entered to complete a transaction will not be used by ASU for any other purpose unless the purpose is described on the site. 
 
 Under the [Computer, Internet and Electronic Communications Policy](http://www.asu.edu/aad/manuals/acd/acd125.html), university-owned computers and equipment may be examined by authorized individuals to detect illegal software and to evaluate the security of the network.
-
-## **Contact Information**
-
-If you have additional questions about online privacy or security, send an e-mail to [Linda.Pedersen@asu.edu](mailto:Linda.Pedersen@asu.edu).
-
-**If you are a parent** and have questions about what your child has submitted online or would like to review his/her submissions, please send [written requests](https://web.archive.org/web/20131214193158id_/http%3A//www.asu.edu/parentalform.pdf) to the following address or fax number: 
-
-Club ASU   
-Arizona State University   
-P.O. Box 877305   
-Tempe AZ 85287-7305   
-Fax: 480-965-9233 
-
-Parents may also call 480-965-0456 for additional information.
