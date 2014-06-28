@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618134936id_/http%3A//hirewordpressexperts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirewordpressexperts.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628034856id_/http%3A//hirewordpressexperts.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Premium Wordpress Auto Install Themes Designer Plugin Development
+# Hire Wordpress Freelance Developers, Programmers & SEO Experts
 
-## Privacy Policy
+privacy policy Last revised: March , 2014 
 
-Privacy Policy for Hire WordPress Experts
+**Our commitment to privacy.**  
+Your privacy is important to us. To better protect your privacy, we have provided this notice explaining our online information practices and procedures 
 
-This statement applies to all products and services available at the website HireWordpressExperts.com and websites worldwide including content themes and all other services. 
+**Why we collect Personal information**  
+We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you 
 
-* HireWordpressExperts.com collects personal information when you register for a service or use any of the freely available products on this website or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other services or third parties to provide a better user experience, including customizing content for you.And we may use this information for our personal and business purposes.
+**The information we collect**  
+We use the information we collect, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We will not use the information collected to market directly to that person.
 
-* HireWordpressExperts.com uses cookies and other technologies to enhance your online experience and to learn about how you use HireWordpressExperts.com services in order to improve the quality of our services.  
-* HireWordpressExperts.com’s servers automatically record information when you visit our website or use some of our products, additionally once you use or download our products you agree to offer use the following information always, whether or not you use our products or services including the URL, IP address, browser type and language, and the date and time of your request.
+**Cookies and other technologies**  
+As is standard practice on many websites, Hire Wordpress Experts uses “cookies” and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
 
-Uses
+**Changes to this privacy policy**  
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
 
-* We may use personal information to provide the services you’ve requested, including services that display customized content and advertising.
+**Voluntary customer surveys**  
+We may periodically conduct both business and personal customer surveys. We encourage our customers to participate in these surveys because they provide us with valuable information that helps us to improve the quality of our services as well as to develop new services and products. Your response will not be used for any purpose other than evaluating our services and quality of our products.
 
-* We may also use personal information for auditing, research and analysis to operate and improve HireWordpressExperts.com technologies and services.  
-* We may share aggregated non-personal information with third parties outside of HireWordpressExperts.com.  
-* When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.  
-* We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.  
-* HireWordpressExperts.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country.
-
-Your choices
-
-* You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. If you do not want to provide any information, please leave this site now.  
-* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
-
-WEBSITE VISITORS EXPRESSLY AGREE THAT THE USE OF THIS WEBSITE (‘THE SERVICE’) IS AT THEIR SOLE RISK. THE SERVICE IS PROVIDED ON AN ‘AS IS’ AND ‘WHEN AVAILABLE’ BASIS. HIREWORDPRESSEXPERTS.COM EXPRESSLY DISCLAIMS ALL CONDITIONS AND WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED BY LAW, CUSTOM OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF ADVERTISER ABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. HIREWORDPRESSEXPERTS.COM MAKES NO WARRANTY REGARDING ANY THEMES / GOODS / SERVICES PURCHASED OR OBTAINED FOR FREE THROUGH THE WEBSITE, OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICE. 
-
-[](http://secure.hostgator.com/cgi-bin/affiliates/clickthru.cgi?id=cnelindia)
+**Information security and notification.**  
+Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, Service Provider cannot guarantee the security of the information you send to us or the security of our servers or databases, and by using the Website you agree to assume all risk in connection with the information sent to us or collected by us when you use the Website. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you. If notification is appropriate, we may notify you by e-mail (provided we have your e-mail address).
