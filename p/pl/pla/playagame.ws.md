@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806190437id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playagame.ws privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051636id_/http%3A//www.gamesxl.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
@@ -98,5 +98,5 @@ Access and amendments to personal data
 You may amend and/or delete your personal data provided actively on your profile page.  
 You may at all times communicate all your questions about our privacy policy or questions regarding access and amendments to (or removal of) your personal data to Gamesxl.com. You are requested to use our [contact form](http://www.gamesxl.com/help-and-contact/contact/ "Contact form") for that purpose.
 
-We have been registered with the Chamber of Commerce under number:  
+We have been registered with the Chamber of Commerce under number: 08154287  
 This privacy statement was updated most recently on October 25, 2011.
