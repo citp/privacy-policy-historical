@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118053827id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628153730id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
 
 # Customer Service: Privacy & Security
 
@@ -10,7 +10,7 @@ At Drs. Foster & Smith, we are committed to honoring and respecting your individ
 **Personal Information**  
 Drs. Foster & Smith offers three shopping options that allow you to choose how much information you wish to share with us for your shopping convenience. 
 
-  1. **Shop Anonymously** \- None of your personal information is stored and all the information you will be asked for is your shipping, billing and credit card information each time you proceed through our Checkout procedure. 
+  1. **Shop Anonymously** \- None of your personal information is stored and all information you will be asked for your shipping, billing and credit card information each time you proceed through our Checkout procedure. 
   2. **Remember Me** \- We store your billing and shipping information on our secure server for your convenience. Your Bill-To and Ship-To information is pre-filled in the appropriate areas in our Checkout procedure. 
   3. **Express Checkout** \- We store your billing and shipping information, and credit card information on our secure server for your convenience. This is all pre-filled in the appropriate areas in our Checkout procedure.
 
