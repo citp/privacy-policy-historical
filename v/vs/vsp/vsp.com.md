@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517041318id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628235743id_/https%3A//www.vsp.com/privacy.html) for the most accurate reproduction.*
 
 # VSP Privacy Policy
 
 **Notice of Privacy Practices**  
-**_Effective April 14, 2003_**
+**_Effective July 2013_**
 
 * * *  
   
@@ -12,8 +12,8 @@
 
 The purpose of this notice is to:
 
-  * Provide you with notice of VSP’s information protection practices, and
-  * Explain your rights as a VSP member.
+  * provide you with notice of VSP's information protection practices, and
+  * explain your rights as a VSP member.
 
   
 **VSP’s Responsibilities** | 
@@ -21,10 +21,11 @@ The purpose of this notice is to:
 VSP is required to abide by the terms of this notice currently in effect by:
 
   * Maintaining the privacy of your Protected Health Information, and
+  * Notifying you of any breaches of your unsecured Protected Health Information, and
   * Providing you with notice of our legal duties and privacy practices with respect to Protected Health Information.
 
   
-**Notice Revisions** | VSP reserves the right to revise the terms of this notice, and to make the revised terms effective for all Protected Health Information that it maintains. If VSP revises this notice, we will make the revised notice available within sixty (60) days.  
+**Notice Revisions** | VSP reserves the right to revise the terms of this notice, and to make the revised terms effective for all Protected Health Information that it maintains. If VSP revises this notice, we will make the revised notice available on our website and include information about the changes in our next annual mailing.  
   
 **DEFINITIONS
 
@@ -43,7 +44,7 @@ A person or entity that uses Protected Health Information to perform a service f
 **Health Care  
 Operations** | 
 
-Activities related to VSP’s operations, including but not limited to:
+Activities related to VSP operations, including but not limited to:
 
   * quality assessment and improvement
   * doctor performance evaluations
@@ -53,11 +54,11 @@ Activities related to VSP’s operations, including but not limited to:
   * customer issue resolution
 
   
-**Payment** | VSP’s collection of insurance premiums or its determination and payment of claims.  
+**Payment** | VSP collection of insurance premiums or its determination and payment of claims.  
 **Protected Health  
 Information ** | 
 
-Information relating to a VSP patient’s past, present or future health or condition, the provision of health care to a VSP patient, or payment for the provision of health care to a VSP patient. Protected Health Information includes, but is not limited to:
+Information relating to a VSP patient's past, present or future health or condition, the provision of health care to a VSP patient, or payment for the provision of health care to a VSP patient. Protected Health Information includes, but is not limited to:
 
   * patient name
   * Social Security number/member ID
@@ -89,7 +90,8 @@ VSP will only use and disclose your Protected Health Information without your au
 Business Associates** | VSP will only disclose your Protected Health Information to Business Associates who have agreed in writing to maintain the privacy of Protected Health Information as required by law.  
 **Use or Disclosure  
 Requiring  
-Authorization** | VSP will not use or disclose your Protected Health Information for purposes other than those described in this notice. If it becomes necessary to disclose any of your Protected Health Information for other reasons, VSP will request your written authorization. _Revoking Authorization:_ If you provide written authorization, you may revoke it at any time in writing, except to the extent that VSP has relied upon the authorization prior to its being revoked.  
+Authorization** | VSP will not use or disclose your Protected Health Information for purposes other than those described in this notice. If it becomes necessary to disclose any of your Protected Health Information for other reasons, VSP will request your written authorization. VSP will obtain your authorization for any sale of Protected Health Information, or to use or disclose your Protected Health Information for marketing.  
+**Revoking Authorization** | If you provide written authorization, you may revoke it at any time in writing, except to the extent that VSP has relied upon the authorization prior to its being revoked.  
 **Use or Disclosure  
 Required or  
 Permitted by Law** | 
@@ -115,19 +117,24 @@ Examples** |
   * _Payment:_ VSP uses Protected Health Information for payment processing to verify that services provided were covered under the patient’s vision care plan.
   * _Health Care Operations:_ VSP uses and discloses Protected Health Information to audit and review claims payment activity to ensure that claims were paid correctly.
   * _Treatment:_ To coordinate treatment by a health care provider.
+  * _Personal Representative:_ VSP may disclose your Protected Health Information to a person who has legal authority to make health care decisions on your behalf.
 
   
+**Disclosure Requiring  
+Opportunity to Object:** | VSP may disclose your Protected Health Information to a family member, friend, or other person involved in your care or payment if the information is relevant to their involvement and you have agreed or had an opportunity to object.  
+**Genetic Information** | VSP is prohibited from using or disclosing your genetic information for underwriting purposes.  
   
 **KNOW YOUR RIGHTS
 
 * * *
 
 **  
+**Exercising Your Rights** | You may exercise any of your below rights by calling our Member Services Department at 800.877.7195.  
 **Review Your  
 Protected  
 Health Information** | You have a right to inspect and obtain a copy of your Protected Health Information.
 
-_Important:_ If you feel your Protected Health Information is incorrect, you have the right to request that it be amended.  
+_Important:_ If you feel your Protected Health Information is incomplete or incorrect, you have the right to request that it be amended.  
   
 **Request to Restrict  
 Your Protected  
@@ -136,9 +143,9 @@ Health Information** | You can request restrictions on the use and disclosure of
 _Example:_ If a restriction request prevents us from providing service to you or from performing payment related functions, we will not be able to agree to the request.  
   
 **Confidential  
-Communication** | When necessary, VSP mails your Protected Health Information to your home. If you feel receiving a copy of your Protected Health Information at your home could compromise your safety, you may request in writing, an alternate communication method and/or location.
+Communication** | When necessary, VSP may seek to contact you by calling you at your home or by sending mailings containing your Protected Health Information to your home. If you feel that such communications could compromise your safety, you may request in writing an alternate communication method and/or location.
 
-_Important:_ VSP will not ask for an explanation for such requests, but may request payment for this service.
+_Important:_ VSP may require that a request contain a statement that disclosure of all or part of the information to which the request pertains could endanger the individual, and VSP may, if and to the extent that applicable law allows, request payment for this service.
 
 _Examples:_ The patient may decide, for his or her safety, to have correspondence containing his or her Protected Health Information sent somewhere other than to his or her home, or to have the information sent via fax rather than mailed.  
   
@@ -148,36 +155,11 @@ Disclosures** | If a disclosure of your Protected Health Information was made fo
 _Important:_ If the disclosure was made to you, VSP will not provide an accounting.  
   
 **Receive a Copy** | You can view and print a copy of this Notice of Privacy Practices through vsp.com. You may also request a copy from your Benefit Administrator, or you may request a paper copy from VSP.  
-**Complaints** | If you believe that your privacy rights have been violated, you may submit a complaint to VSP or to the U.S. Secretary of Health and Human Services at any time. VSP will not retaliate against you for filing a complaint. 
-
-File complaints with VSP at vsp.com, or by calling our Member Services Department at 800-877-7195, for complaints regarding:
-
-  * restrictions on the use or disclosure of your Protected Health Information
-  * amendments to your Protected Health Information, or
-  * accounting of the use or disclosure of your Protected Health Information.
-
-
-
-File complaints with the U.S. Secretary of Health and Human Services using the [HIPAA Complaint Submission Form](http://www.hhs.gov/ocr/hipaa/), or by mail to: HIPAA Complaint, 7500 Security Blvd., C5-24-04, Baltimore, MD 21244, for complaints regarding:
-
-  * VSP’s business practices, or
-  * the use of your Protected Health Information.
-
-  
+**Complaints** | If you believe that your privacy rights have been violated, you may submit a complaint to VSP or to the U.S. Secretary of Health and Human Services at any time. VSP will not retaliate against you for filing a complaint. You may file a complaint with VSP through [vsp.com](http://www.vsp.com/), or by calling our Member Services Department at 800.877.7195.  
   
 **CONTACT INFORMATION
 
 * * *
 
 **  
-**Contact VSP** | 
-
-Contact us through vsp.com, or call our Member Services Department at 800-877-7195 to request:
-
-  * restrictions on the use or disclosure of your Protected Health Information,
-  * amendments to your Protected Health Information,
-  * revoking authorizations,
-  * accounting of the use or disclosure of your Protected Health Information, or
-  * a copy of your Protected Health Information.
-
-
+**Contact VSP** | For questions about this notice or your privacy, contact our HIPAA Privacy Officer through [vsp.com](http://www.vsp.com/), or call our Member Services Department at 800.877.7195.
