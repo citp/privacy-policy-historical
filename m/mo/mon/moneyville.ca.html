@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the moneyville.ca privacy policy that was archived on 2013-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131223080553id_/http%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moneyville.ca privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628085757id_/http%3A//www.thestar.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="js"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ILWkRCxy"></script><script>var _sf_startpt = (new Date()).getTime();</script>
+    <script type="text/javascript" async="" src="//o2.eyereturn.com/?site=4166&amp;page=generic"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://my.thestar.com/assets/mystar.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ILWkRCxy"></script><script>var _sf_startpt = (new Date()).getTime();</script>
 
     
     <script>
@@ -17,15 +17,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     
-         <title>Privacy Code | Toronto Star</title>
-    
-
+    <title>Privacy Code | Toronto Star</title>
 
     <meta name="keywords" content="">
+    <meta name="news_keyword" content="">
+    <meta name="p:domain_verify" content="81d199f7387bc50974c9e161d71512bb">
     <meta name="description" content="">
     <meta name="baseDomain" content="http://www.thestar.com/">
+    <meta name="pagetype" content="article">
     
-    <meta name="storyId" content="434819b1-e95d-4fc0-8a6b-f129038cf915">
+    <meta name="storyId" content="b882c71c-d9b9-4432-a216-36748b1cd534">
+
+
     
 
     
@@ -42,15 +45,9 @@
     
     <script>
         document.domain = "thestar.com";
-        function resizeMystarModal(w, h) {
-            document.getElementById('modalframe').style.width = w + "px";
-            document.getElementById('modalframe').style.height = h + "px";
-            document.getElementById('modal').style.width = w + "px";
-            document.getElementById('modal').style.height = h + "px";
-        }
     </script>
     
-
+    
     
 
 
@@ -59,8 +56,9 @@
     
     <script>
     
-        var mystarlocation = 'http://my.thestar.com';
-        var mystarsecurelocation = 'https://my.thestar.com';
+        var mystar_domain = 'http://my.thestar.com';
+        var mystar_secure_domain = 'https://my.thestar.com';
+        var mobile_domain = 'm.thestar.com';
         
             var localprefix = "";
         
@@ -72,21 +70,52 @@
 
     <script src="/etc/designs/thestar/mainlib/js/libs/redirection-mobile.js"></script>
 
+    <script type="text/javascript" src="//service.maxymiser.net/cdn/torontostar/js/mmcore.js"></script>
+
     <script>
+
+      function getURLParameter(name) {
+        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search)||[,""])[1].replace(/\+/g, '%20'))||null
+      }
+
     
     var queryString = window.location.search;
+    var mobileDesktopLink = getCookie('deskTop');
     
-    if (queryString.indexOf("app=noRedirect") == -1){
-        if (window.location.pathname === "/" ||  window.location.pathname === "/index.html") {
-            SA.redirection_mobile ({
-                mobile_url : "m.thestar.com"
-            });
-        } else {
-            SA.redirection_mobile ({
-                mobile_url : 'phoenix.polarmobile.com/editorial/v1.1.0/link/redirection?source=' + encodeURIComponent(window.location.href) + '&dest=http%3A%2F%2Fm.thestar.com&app=thestar'
-            });
-        }   
+     
+        
+         if (queryString.indexOf("app=noRedirect") == -1 || !(mobileDesktopLink =='1') ) {
+        var urlhash = window.location.hash;
+        var redirect_url= mobile_domain;
+        if (urlhash.indexOf("#mystars/") >= 0) {
+            var queryParameter=urlhash.substring(urlhash.lastIndexOf('?'));
+            console.log(queryParameter);
+            if (urlhash.indexOf("password")>=0) {
+                hash_path = "password";
+            }
+            else if (urlhash.indexOf("confirm")>=0) {
+                hash_path = "confirm";
+            }
+            redirect_url = mobile_domain + '/#/' + hash_path + queryParameter;
+        }
+        else if (getURLParameter('confirmation_token') || getURLParameter('reset_password_token')) {
+            redirect_url =  mobile_domain + "/#/settings";
+        }
+        else if (window.location.pathname === "/" ||  window.location.pathname === "/index.html") {
+            redirect_url =  mobile_domain;
+        }
+        else  {
+            var path = window.location.pathname;
+             redirect_url= mobile_domain + '/#/article' + path
+        }
+        SA.redirection_mobile ({
+            mobile_url: redirect_url
+        });
+
+        
     }
+    
+    
     </script>
 
 
@@ -132,9 +161,6 @@
     <meta property="og:description" content="">
 
     
-    <meta property="og:image" content="http://www.thestar.com/">
-    
-
     <meta property="og:image" content="http://www.thestar.com/etc/designs/thestar/images/apple-touch.png">
 
     
@@ -144,7 +170,7 @@
 
     
 
-    <link rel="stylesheet" href="/etc/designs/thestar/mainlib.css">
+    <link rel="stylesheet" href="/etc/designs/thestar/mainlib.css?v=3">
 
     <!--[if gte IE 9]>
     <link rel="stylesheet" href="/etc/designs/thestar/mainlib/css/ie/pinable.css"/>
@@ -195,13 +221,16 @@
 
     
     <!-- TODO: additional header content go here -->
-<link type="text/css" rel="stylesheet" href="/etc/clientlibs/foundation/personalization/jcarousel.css"><link type="text/css" rel="stylesheet" href="/etc/clientlibs/foundation/jquery-ui/themes/default.css"><link type="text/css" rel="stylesheet" href="/etc/clientlibs/foundation/personalization/themes/default.css"></head>
+</head>
 
 
-<body class="articlepage type-infopage level1-about">
+<body class="articlepage type-story level1-about">
 <!--
-Begin render at 2013/12/23 03:05:52  Server: pub12.thestar.com
+Begin render at 2014/06/28 04:57:57  Server: pub10.thestar.com
 -->
+
+<script>var paymeterEndpoint="https://www.syncaccess.net/po/tstar/api/svcs/meter/standard?format=json";</script>
+
 
 
 
@@ -218,14 +247,14 @@ Copyright 1997-2009 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
 <script>
-s.pageName = '';
+s.pageName = 'About|privacy';
 s.prop4 = '';
-s.prop7 = s.eVar7 = '';
-s.prop8 = s.eVar8 = '';
-s.prop9 = s.eVar9 = '';
+s.prop7 = s.eVar7 = 'Story';
+s.prop8 = s.eVar8 = 'Privacy Code';
+s.prop9 = s.eVar9 = '|content|thestar|about|privacy';
 s.prop10 = '';
 s.prop11 = '';
-s.prop12 = '';
+s.prop12 = 'Thursday March 27, 2014';
 s.prop14 = s.eVar14 = '';
 s.prop15 = '';
 s.prop17 = '';
@@ -296,7 +325,7 @@ if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + 
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966566;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664483/0/-1/ADTECH;loc=100;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972861;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664483/0/-1/ADTECH;loc=300;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664483/0/-1/ADTECH;loc=300;alias=thestar.com_about_728x90_1;size=728x90;kvcalais=;kvng=;key=;width=728;height=90" alt=""></a>
 </noscript>
@@ -313,7 +342,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966568;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664481/0/-1/ADTECH;loc=100;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972864;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664481/0/-1/ADTECH;loc=300;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664481/0/-1/ADTECH;loc=300;alias=thestar.com_about_237x90_1;size=237x90;kvcalais=;kvng=;key=;width=237;height=90" alt=""></a>
 </noscript>
@@ -329,7 +358,8 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
   
 
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYDVVRXGwIDVFRWBAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
 
 
@@ -346,12 +376,11 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
   <div class="masthead float-clear">
     <div class="date-time">
-      <p class="globalDate">Monday, December 23, 2013</p>
-      <p class="globalTime">3:05 AM EST</p>
+      <p class="globalDate">Saturday, June 28, 2014</p>
+      <p class="globalTime">4:57 AM EDT</p>
       <ul class="social-links float-clear">
-        <li class="facebook"><a href="http://www.facebook.com/torontostar" target="_blank" title="this will open in a new window">Facebook</a></li>
-        <li class="twitter"><a href="http://www.thestar.com/about/twitter.html" title="this will open in a new window">Twitter</a></li>
-        <li class="rss"><a href="http://www.thestar.com/about/rssfeeds.html">RSS</a></li>
+
+        <li id="fb-top-wrap"><iframe id="fb-top-frame" data-omni-source="FBLikeButton" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftorontostar&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" allowtransparency="true" frameborder="0" scrolling="no"></iframe><div class="mask"></div></li>
       </ul>
     </div>
 
@@ -367,8 +396,6 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
     <div class="mystar">
 
-      
-
       <form class="search float-clear" role="search" action="http://www.thestar.com/search.html">
         <div class="float-clear">
           <input class="search-input-text" name="q" type="text" placeholder="Search The Star" title="Search The Star">
@@ -377,23 +404,33 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
         <div class="archives float-clear"><a href="http://pqasb.pqarchiver.com/thestar/search.html">Search the archives</a></div>
       </form>
 
+      <div class="sign-in-link"></div>
+
     </div>
   </div>
 
 </header>
 
 
-<div class="digitalCtaTop">
+
+<div class="parbase digitalaccessbanner">
 
 
 
 
-<div class="digitalAccessTop">
+<div class="digital-access-top">
 
-<p data-type="variant 1" class="hide"><a id="cta_type1" class="ctatop" href="http://misc.thestar.com/digitalaccess/?icid=HPH13082013"><strong>FREE SATURDAY STAR</strong> with a <span class="das">DIGITAL ACCESS SUBSCRIPTION</span><img src="/etc/designs/thestar/images/digitalCTA/cta_findoutmore_orange.gif" alt="Find out more"></a></p>
-<p data-type="variant 2" class="hide"><a id="cta_type2" class="ctatop" href="http://misc.thestar.com/digitalaccess/?icid=HPH13082013"><strong>JUST 99¢ <span>+ TAX FOR</span> 1 MONTH OF</strong> <u>UNLIMITED</u> ACCESS to thestar.com<img src="/etc/designs/thestar/images/digitalCTA/cta_tryitnow_orange.gif" alt="Try it now"></a></p>
-<p data-type="variant 3" class="hide"><a id="cta_type3" class="ctatop" href="http://misc.thestar.com/digitalaccess/?icid=HPH13082013"><strong>GET</strong> thestar.com <strong>DIGITAL ACCESS </strong> JUST <strong>99¢ <span>+ TAX FOR 1 MONTH</span></strong><img src="/etc/designs/thestar/images/digitalCTA/cta_tryitnow_orange.gif" alt="Try it now"></a></p>
-    </div></div>
+	<a href="https://www.syncaccess.net/po/tstar/account/availablesubscriptions?planFilter=15&amp;op=subscribe">
+
+		
+			<img alt="Save 90% off thestar.com DIGITAL ACCESS for the first month. GET IT NOW" class="cq-dd-image" src="/etc/designs/thestar/images/general/blank.gif" data-original="/content/thestar/jcr:content/digitalaccessbanner.img.jpg/1403861176833.jpg">
+
+	</a>
+
+</div>
+
+</div>
+
 
 
 
@@ -424,29 +461,29 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-<nav id="main-nav">
+<nav id="main-nav" class="main-nav">
 	<ul>
-	<li class="collapsed empty"><span><a href="http://www.thestar.com/">Home</a></span></li>
+	<li class="list collapsed empty" data-omni-url="http://www.thestar.com/"><span><a href="http://www.thestar.com/">Home</a></span></li>
 	
 
-		<li class="current expanded">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/news.html">
 			<span><a href="http://www.thestar.com/news.html">News</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/news/gta.html">GTA</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/gta.html"><a href="http://www.thestar.com/news/gta.html">GTA</a></li>
 					
-						<li><a href="http://www.thestar.com/news/queenspark.html">Queen's Park</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/queenspark.html"><a href="http://www.thestar.com/news/queenspark.html">Queen's Park</a></li>
 					
-						<li><a href="http://www.thestar.com/news/canada.html">Canada</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/canada.html"><a href="http://www.thestar.com/news/canada.html">Canada</a></li>
 					
-						<li><a href="http://www.thestar.com/news/world.html">World</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/world.html"><a href="http://www.thestar.com/news/world.html">World</a></li>
 					
-						<li><a href="http://www.thestar.com/news/investigations.html">Investigations</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/investigations.html"><a href="http://www.thestar.com/news/investigations.html">Investigations</a></li>
 					
-						<li><a href="http://www.thestar.com/news/crime.html">Crime</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/news/crime.html"><a href="http://www.thestar.com/news/crime.html">Crime</a></li>
 					
 
 					
@@ -458,20 +495,22 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/yourtoronto.html">
 			<span><a href="http://www.thestar.com/yourtoronto.html">Your Toronto</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/yourtoronto/education.html">Schools</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/citynights.html"><a href="http://www.thestar.com/yourtoronto/citynights.html">City Nights</a></li>
 					
-						<li><a href="http://www.thestar.com/yourtoronto/the_fixer.html">The Fixer</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/education.html"><a href="http://www.thestar.com/yourtoronto/education.html">Schools</a></li>
 					
-						<li><a href="http://www.thestar.com/yourtoronto/reviews.html">Reviews</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/the_fixer.html"><a href="http://www.thestar.com/yourtoronto/the_fixer.html">The Fixer</a></li>
 					
-						<li><a href="http://www.thestar.com/yourtoronto/traffic.html">Traffic</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/reviews.html"><a href="http://www.thestar.com/yourtoronto/reviews.html">Reviews</a></li>
+					
+						<li class="list " data-omni-url="http://www.thestar.com/yourtoronto/traffic.html"><a href="http://www.thestar.com/yourtoronto/traffic.html">Traffic</a></li>
 					
 
 					
@@ -483,24 +522,24 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/opinion.html">
 			<span><a href="http://www.thestar.com/opinion.html">Opinion</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/opinion/editorials.html">Editorials</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/editorials.html"><a href="http://www.thestar.com/opinion/editorials.html">Editorials</a></li>
 					
-						<li><a href="http://www.thestar.com/opinion/commentary.html">Commentary</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/commentary.html"><a href="http://www.thestar.com/opinion/commentary.html">Commentary</a></li>
 					
-						<li><a href="http://www.thestar.com/opinion/letters_to_the_editors.html">Readers' Letters</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/letters_to_the_editors.html"><a href="http://www.thestar.com/opinion/letters_to_the_editors.html">Readers' Letters</a></li>
 					
-						<li><a href="http://www.thestar.com/opinion/public_editor.html">Public Editor</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/public_editor.html"><a href="http://www.thestar.com/opinion/public_editor.html">Public Editor</a></li>
 					
-						<li><a href="http://www.thestar.com/opinion/corrections.html">Corrections</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/corrections.html"><a href="http://www.thestar.com/opinion/corrections.html">Corrections</a></li>
 					
-						<li><a href="http://www.thestar.com/opinion/editorial_cartoon.html">Editorial Cartoon</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/opinion/editorial_cartoon.html"><a href="http://www.thestar.com/opinion/editorial_cartoon.html">Editorial Cartoon</a></li>
 					
 
 					
@@ -512,36 +551,34 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/sports.html">
 			<span><a href="http://www.thestar.com/sports.html">Sports</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/sports/sochi2014.html">Sochi 2014</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/hockey.html"><a href="http://www.thestar.com/sports/hockey.html">Hockey</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/hockey.html">Hockey</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/baseball.html"><a href="http://www.thestar.com/sports/baseball.html">Baseball</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/baseball.html">Baseball</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/basketball.html"><a href="http://www.thestar.com/sports/basketball.html">Basketball</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/basketball.html">Basketball</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/football.html"><a href="http://www.thestar.com/sports/football.html">Football</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/football.html">Football</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/soccer.html"><a href="http://www.thestar.com/sports/soccer.html">Soccer</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/soccer.html">Soccer</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/amateur.html"><a href="http://www.thestar.com/sports/amateur.html">Amateur</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/amateur.html">Amateur</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/tennis.html"><a href="http://www.thestar.com/sports/tennis.html">Tennis</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/tennis.html">Tennis</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/golf.html"><a href="http://www.thestar.com/sports/golf.html">Golf</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/golf.html">Golf</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/skating.html"><a href="http://www.thestar.com/sports/skating.html">Figure Skating</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/skating.html">Figure Skating</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/curling.html"><a href="http://www.thestar.com/sports/curling.html">Curling</a></li>
 					
-						<li><a href="http://www.thestar.com/sports/curling.html">Curling</a></li>
-					
-						<li><a href="http://www.thestar.com/sports/lacrosse.html">Lacrosse</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/sports/lacrosse.html"><a href="http://www.thestar.com/sports/lacrosse.html">Lacrosse</a></li>
 					
 
 					
@@ -553,20 +590,20 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/business.html">
 			<span><a href="http://www.thestar.com/business.html">Business</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/business/economy.html">Economy</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/business/economy.html"><a href="http://www.thestar.com/business/economy.html">Economy</a></li>
 					
-						<li><a href="http://www.thestar.com/business/personal_finance.html">Personal Finance</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/business/personal_finance.html"><a href="http://www.thestar.com/business/personal_finance.html">Personal Finance</a></li>
 					
-						<li><a href="http://www.thestar.com/business/tech_news.html">Tech News</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/business/tech_news.html"><a href="http://www.thestar.com/business/tech_news.html">Tech News</a></li>
 					
-						<li><a href="http://www.thestar.com/business/real_estate.html">Real Estate</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/business/real_estate.html"><a href="http://www.thestar.com/business/real_estate.html">Real Estate</a></li>
 					
 
 					
@@ -578,24 +615,24 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/entertainment.html">
 			<span><a href="http://www.thestar.com/entertainment.html">Entertainment</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/entertainment/television.html">Television</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/television.html"><a href="http://www.thestar.com/entertainment/television.html">Television</a></li>
 					
-						<li><a href="http://www.thestar.com/entertainment/movies.html">Movies</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/movies.html"><a href="http://www.thestar.com/entertainment/movies.html">Movies</a></li>
 					
-						<li><a href="http://www.thestar.com/entertainment/stage.html">Stage</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/stage.html"><a href="http://www.thestar.com/entertainment/stage.html">Stage</a></li>
 					
-						<li><a href="http://www.thestar.com/entertainment/music.html">Music</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/music.html"><a href="http://www.thestar.com/entertainment/music.html">Music</a></li>
 					
-						<li><a href="http://www.thestar.com/entertainment/books.html">Books</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/books.html"><a href="http://www.thestar.com/entertainment/books.html">Books</a></li>
 					
-						<li><a href="http://www.thestar.com/entertainment/visualarts.html">Visual Arts</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/entertainment/visualarts.html"><a href="http://www.thestar.com/entertainment/visualarts.html">Visual Arts</a></li>
 					
 
 					
@@ -607,26 +644,26 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/life.html">
 			<span><a href="http://www.thestar.com/life.html">Life</a></span>
 
 			
 				<ul>
 
 					
-						<li><a href="http://www.thestar.com/life/technology.html">Technology</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/technology.html"><a href="http://www.thestar.com/life/technology.html">Technology</a></li>
 					
-						<li><a href="http://www.thestar.com/life/food_wine.html">Food &amp; Wine</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/food_wine.html"><a href="http://www.thestar.com/life/food_wine.html">Food &amp; Wine</a></li>
 					
-						<li><a href="http://www.thestar.com/life/travel.html">Travel</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/travel.html"><a href="http://www.thestar.com/life/travel.html">Travel</a></li>
 					
-						<li><a href="http://www.thestar.com/life/fashion_style.html">Fashion &amp; Style</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/fashion_style.html"><a href="http://www.thestar.com/life/fashion_style.html">Fashion &amp; Style</a></li>
 					
-						<li><a href="http://www.thestar.com/life/homes.html">Homes</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/homes.html"><a href="http://www.thestar.com/life/homes.html">Homes</a></li>
 					
-						<li><a href="http://www.thestar.com/life/health_wellness.html">Health &amp; Wellness</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/health_wellness.html"><a href="http://www.thestar.com/life/health_wellness.html">Health &amp; Wellness</a></li>
 					
-						<li><a href="http://www.thestar.com/life/parent.html">Parent</a></li>
+						<li class="list " data-omni-url="http://www.thestar.com/life/parent.html"><a href="http://www.thestar.com/life/parent.html">Parent</a></li>
 					
 
 					
@@ -638,7 +675,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/photos.html">
 			<span><a href="http://www.thestar.com/photos.html">Photos</a></span>
 
 			
@@ -647,7 +684,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 	
 
-		<li class="collapsed">
+		<li class="list collapsed" data-omniture-track-click-url="http://www.thestar.com/diversions.html">
 			<span><a href="http://www.thestar.com/diversions.html">Diversions</a></span>
 
 			
@@ -681,43 +718,43 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 	
 	
 
-	<div class="promo inside-thestar" data-comp-path="insidethestar">
+	<div class="inside-thestar" data-comp-path="insidethestar">
 	  <h2 class="heading">Inside thestar.com</h2>
 	  <ul>
 		
 						<li>
 							
-		              				<a href="http://www.thestar.com/news/gta/2013/12/22/ice_storm_2013_readers_share_their_photos.html" class="thumbnail icon-overlay">
+		              				<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="thumbnail icon-overlay">
 		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/gta/2013/12/22/ice_storm_2013_readers_share_their_photos/tree.jpg.size.xsmall.promo.jpg" alt="Readers share their photos from the ice storm">
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/uploads/2014/6/27/1403879709469.jpg.size.xsmall.promo.jpg" alt="The story of an immigrant's future destroyed">
 									</a>
 							 
 							  <p class="headline">
-							  	<a href="http://www.thestar.com/news/gta/2013/12/22/ice_storm_2013_readers_share_their_photos.html">Readers share their photos from the ice storm</a>
+							  	<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">The story of an immigrant's future destroyed</a>
 							  </p> 
 						</li>
 					
 						<li>
 							
-		              				<a href="http://www.thestar.com/news/insight/2013/12/22/is_pedophilia_a_sexual_orientation.html" class="thumbnail icon-overlay">
+		              				<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10.html" class="thumbnail icon-overlay">
 		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/insight/2013/12/22/is_pedophilia_a_sexual_orientation/cantor.jpg.size.xsmall.promo.jpg" alt="Is pedophilia a sexual orientation?">
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10/aaron_ekblad.jpg.size.xsmall.promo.jpg" alt="Kevin McGran mocks the NHL draft top 10">
 									</a>
 							 
 							  <p class="headline">
-							  	<a href="http://www.thestar.com/news/insight/2013/12/22/is_pedophilia_a_sexual_orientation.html">Is pedophilia a sexual orientation?</a>
+							  	<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_kevin_mcgran_mocks_the_top_10.html">Kevin McGran mocks the NHL draft top 10</a>
 							  </p> 
 						</li>
 					
 						<li>
 							
-		              				<a href="http://www.thestar.com/news/insight/2013/12/22/wild_in_the_city.html" class="thumbnail icon-overlay">
+		              				<a href="http://www.thestar.com/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities.html" class="thumbnail icon-overlay">
 		              					
-										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/insight/2013/12/22/wild_in_the_city/preferred_white_squirrel_pose.jpg.size.xsmall.promo.jpg" alt="Encountering Toronto's mythic white squirrel">
+										<img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities/canada_day.jpg.size.xsmall.promo.jpg" alt="Weekend road closures for Canada Day and Pride festivities ">
 									</a>
 							 
 							  <p class="headline">
-							  	<a href="http://www.thestar.com/news/insight/2013/12/22/wild_in_the_city.html">Encountering Toronto's mythic white squirrel</a>
+							  	<a href="http://www.thestar.com/news/gta/2014/06/27/weekend_road_closures_for_canada_day_and_pride_festivities.html">Weekend road closures for Canada Day and Pride festivities </a>
 							  </p> 
 						</li>
 					
@@ -749,358 +786,10 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
       
     </div>
 
-    
-        <div class="articletoolbar">
-
-
-
-
-<div class="article-toolbar float-clear">
-
-	
-	
-
-	 	<div class="text-sizer">
-            <p>Text size: </p>
-            <p class="text-increase" title="Increase">Increase</p>
-            <p class="text-decrease" title="Decrease">Decrease</p>
-            <p class="text-reset">Reset</p>
-	 	</div>
-
-	
-
-	<div class="actions">	 	
-	 	
-	 	<div class="email-print">
-		 	<p class="email-article" data-emailurl="http://www.thestar.com/about/privacy.email.html" title="Share via Email">Share via Email</p>
-		 	
-		 		<p class="print-article" data-printurl="http://www.thestar.com/about/privacy.print.html" title="Print">Print</p>
-		 	
-	 	</div>
-
-	 	<div class="report">
-	 		<span class="error-article" data-errorurl="http://www.thestar.com/about/privacy.error.html" title="Report an Error">
-	 			<span></span>Report an Error
-	 		</span>
-	 	</div>
-
-	 	
-	 	
-		 	<div class="save-mystar">
-		 		<span class="save-button">Save to mystar</span>
-		 	</div>
-		
-
-	</div>
-
-</div></div>
-
-    
+      
 
     <div class="article-artwork">
-      <div class="parsys mainart"><div class="HTML5 section">
-
-
-
-
-	
-
-		<div class="html5-container">
-             
-<div class="privacy-wrapper">
-
-<h2>Our commitment to privacy: </h2>
-<p>Toronto Star Newspapers Limited (the "Star") knows that protecting the privacy and
-confidentiality of your personal information is important to you.&nbsp; This Privacy Code governs the collection,
-use and disclosure of your personal information in any form, whether written or electronic, by the Star and its
-affiliates.&nbsp; The collection, use and disclosure of your personal information is governed by the
-
-<em>Personal Information Protection and Electronic Documents
-    Act</em> (the "Act"), and any applicable provincial legislation. This Privacy Code explains what personal information
-may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express
-concerns about our privacy practices.</p>
-
-<p>This Privacy Code applies only to personal information collected by the Star and its affiliates. Be aware that our
-    websites may contain links to other websites that are maintained by third parties who are not required to comply
-    with this Privacy Code nd for which the Star has no responsibility. Please review the privacy policies on any
-    external websites to determine their information handling practices.</p>
-
-<p>This Privacy Code is available to the public through our websites, and in paper form from the Star. If you have any
-    additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of
-    our ability. <strong>Please read this Privacy Code carefully, and check back periodically as we may update it from
-        time to time. By submitting your personal information to the Star, you signify your agreement to the terms and
-        conditions of this Privacy Code.</strong></p>
-
-<h2>What is personal information? </h2>
-
-<p>Personal information is any information about an identifiable individual.</p>
-<p>The Star is responsible for personal information under its control. The Star has implemented policies and practices
-    to give effect to this Privacy Code, including training and communicating with our employees about the importance of
-    privacy and implementing security procedures that reasonably protect the personal information you provide to us. In
-    addition, Torstar Corporation, the Star's parent company, has appointed a Chief Privacy Officer to oversee personal
-    information-handling practices of the Star and its affiliates.</p>
-
-<h2>What is excluded from privacy protection?</h2>
-    <p>This Privacy Code does not impose restrictions on:&nbsp; business
-    contact information, including the name, title, business address or telephone number of an employee of an
-    organization; information collected, used or disclosed solely for journalistic, literary or artistic purposes;
-    publicly available information, such as an individual's name, telephone number and address when listed in a
-    directory or made available through directory assistance; or information that is aggregated and not associated with
-    a specific individual, including demographic information and statistics.</p>
-    <p><strong>Children: </strong>If you are under the age of 18, be sure to obtain your parent or guardian's permission before you
-    send any personal information to us, or anyone else. We encourage parents to get involved with their children's
-    online usage and to be aware of the activities in which they are participating.</p>
-
-<h2>What personal information do we collect, and why?</h2>
-<ul class="q-details">
-    <li>We collect personal contact information (such as your name, address, email address and telephone numbers) if
-        you: sign up for a newsletter; subscribe to a newspaper; register on an online forum or website, or to attend a
-        paid event; purchase any product or service from the Star; are a classified advertiser or auction participant;
-        or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request
-        for information, products or services, to provide targeted advertising, and to respond to your inquiries. From
-        time to time this information may be used to provide reward points or apply credit, as applicable in the
-        circumstances.</li>
-      <li>We collect personal contact information (such as your name, address, email address and telephone numbers) when
-        you make a charitable donation to the Star's sponsored charities, including the Star Fresh Air Fund and the Star
-        Santa Claus Fund for the purpose of processing your donation and to issue you an income tax receipt.</li>
-    <li>We will retain your subscriber ID and passwords so that upon request by you we may remind you of them.</li>
-    <li>If you enter a contest or other promotion, we use your personal contact information to administer the contest or
-        promotion including contacting, announcing and promoting prizewinners.&nbsp;&nbsp; In addition, sometimes our
-        contest rules provide that we may contact contest entrants with promotions and product information.&nbsp; Those
-        rules will also include a way for you to indicate to us that you do not want to be contacted for this purpose.&nbsp;
-        Some contests may also involve co-sponsors, who have their own privacy practices.&nbsp; In these cases, the
-        contest rules and/or entry forms will indicate that your personal information is being shared with these
-        co-sponsors and will provide you with the ability to opt-out from receiving promotions and product information
-        from them.</li>
-    <li>We collect demographic information, as well as purchase history and a list of promotions offered to you, in
-        order to gain a better understanding of your interests so that we may develop better products and services, and
-        to determine your eligibility for other products and services.</li>
-    <li>We may also use demographic, personal contact and history information to contact you about changes, enhancements
-        or other notices related to products or services you requested from us and which the Star provides. In addition,
-        we may use this information to send you offers or information from us, our affiliates and from selected sponsors
-        or advertisers ("Marketing Offers"). If you do not wish to receive Marketing Offers, you may opt-out at any time
-        by following the opt-out procedure below.</li>
-    <li>We keep notes and special instructions for classified advertisers and subscribers to help us fulfill your
-        request and provide customer service. We may tape or monitor your telephone calls with our customer service
-        representatives for quality assurance purposes.</li>
-    <li>We collect your credit card information if you: subscribe to a newspaper; register on a paid website; enter a
-        paid contest; register to attend a paid event; purchase any product from the Star or through one of our
-        websites; are a classified advertiser or an auction participant. This credit card information is used for the
-        purpose of fulfilling your order.</li>
-    <li>If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will
-        keep your contact information on a list so that your request can be honoured. If you provide a complaint to any
-        of our departments, we will collect your contact information and the nature of your complaint, for the purpose
-        of investigating your concerns and responding to you.</li>
-    <li>If you provide freelance or other services to us, we may collect your social insurance number for tax reporting
-        purposes and your contact information in order to pay you.</li>
-    <li>We may also use or collect additional information from freelancers, other service providers and from
-        advertisers, such as financial information (for example, banking details and credit history) to assess credit
-        risk, sales data to prepare royalty reports and other relevant information to help us evaluate the quality of
-        your services.</li>
-    <li>We use IP (internet protocol) addresses, to gather demographic and statistical information about our users, for
-        systems administration and to diagnose problems with our servers, and to administer our websites.&nbsp; We may
-        also use IP addresses to display or allow our third party advertising providers to display more targeted
-        advertising and content.</li>
-    <li>We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our websites
-        to provide our advertisers with more targeted advertising opportunities and to help users see advertising that
-        is most likely to interest them.</li>
-    <li>We generally use your personal information for the purposes of : managing, administering, collecting or
-        otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally
-        managing and administering our business; and meeting all relevant Canadian and international regulatory, legal,
-        insurance, audit, security and processing requirements.</li>
-    <li>Occasionally, we ask our customers to complete market research surveys. If you choose to participate in these
-        surveys and provide your personal information for that purpose, your information will be aggregated as part of
-        the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify
-        you.</li>
-    <li>Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for
-        purposes that are not contemplated in this Privacy Code, we will identify those purposes at the time of
-        collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.</li>
-</ul>
-
-
-<a id="btarget"></a>
-<h2><a name="behavioural">Behavioural Targeting</a></h2>
-
-
-<ul class="q-details">
-    <li>If you use any of our websites, we may assign an internet cookie. An internet cookie is a small text file that a
-        website stores on your internet browser and that can collect and store information. We use cookies to better
-        understand how you use our websites, to make sure our ads and dynamic content are served correctly and to
-        improve the performance of our websites. For example, a cookie may recall a set of preferences you have set for
-        our website and record items that you have registered for. Storing cookies on your web browser allows us to
-        present you with web pages and other content that are attuned with your preferences. These activities are
-        invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set
-        your preferences so that you will be alerted when a cookie is being stored on your computer, you won't know
-        about it.
-    </li>
-
-    <li>If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The
-        following link has useful information about how to opt out of cookies that are placed by companies who are
-        members of the Network Advertising Initiative: <a href="http://www.networkadvertising.org/choices/" target="_blank" title="this link will open in a new window">NAI (Network Advertising Initiative)
-            Opt-Out</a>.&nbsp;&nbsp; However, please be aware that by disabling cookies, you may not be able to use all
-        portions of our websites, particularly pages requiring registration.
-    </li>
-
-    <li>We may place advertising or other links on our websites that originate from outside advertisers and other third
-        parties.&nbsp; If you view these ads, the advertisers may assign a cookie.&nbsp; The Star does not control these
-        cookies, nor is it responsible for any marketing or other use of your information by these advertisers or other
-        third parties.
-    </li>
-
-    <li>Our websites may use gifs or other technologies to better tailor and manage advertising on our sites.&nbsp;
-        These technologies may be in use on a number of pages across web sites.&nbsp; When you access these pages, a
-        non-identifiable notice of that visit is generated which may be processed by us or by our suppliers.&nbsp; These
-        gifs usually work in conjunction with cookies.&nbsp; If you don't want your cookie information to be associated
-        with your visits to these pages, you can set your browser to turn off cookies.&nbsp; If you turn off cookies,
-        gifs and other technologies will still detect visits to these pages, but the notices they generate cannot be
-        associated with other non-identifiable cookie information and are disregarded.
-    </li>
-
-    <li>Many of our websites use third-party advertising companies to serve ads when you visit the site.&nbsp; These
-        companies may use information (not including your name, address, email address or telephone number) about your
-        visits to this and other websites in order to provide advertisements about goods and services that may be of
-        interest to you.&nbsp; Some ads appearing on our websites are delivered to you by AdTech, which is a web
-        advertising company.&nbsp; These third parties may, from time to time, use information that they collect about
-        your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other
-        personal contact information) to serve additional ads about goods and services that may be of interest to you.&nbsp;
-        If you do not wish to have your information used in this way, please click on the following link: <a href="http://www.adtechus.com/cookie_opt-out/" target="_blank" title="this link will open in a new window">AdTech Opt-Out</a></li>
-</ul>
-
-
-<h2>To whom does the Star disclose personal information, and why?</h2>
-
-<p>The Star may disclose your personal information under the following circumstances:</p>
-<ul class="round">
-    <li>To provide you with Marketing Offers, the Star may disclose your personal contact information to affiliates and
-        selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time
-        by following the opt-out procedure below.
-    </li>
-
-    <li>The Star may transfer your personal information to third party service providers in order to fulfill your order
-        or perform processing and other specialized services (such as credit card processing, prize fulfillment of our
-        contests, collection of overdue accounts, management of customer service requests, and product delivery).
-    </li>
-
-    <li>The Star may provide your name and credit card information on a confidential basis to a third party (which party
-        may be outside of Canada) for the purpose of updating your credit card information to ensure that your ongoing
-        subscription to the Star products and services is not interrupted.
-    </li>
-
-    <li>Your personal information may be processed and stored outside of the province in which you reside and/or outside
-        of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Code
-        and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement
-        agencies or regulatory agencies may be entitled to access your personal information.
-    </li>
-
-    <li>The Star may disclose your personal information to our affiliates for internal audit, management, billing or
-        administrative purposes.
-    </li>
-
-    <li>The Star may disclose your contact information on a confidential basis to our advertisers for the sole purpose
-        of newspaper delivery verification.
-    </li>
-
-    <li>The Star may disclose your personal information to third parties if you have violated our terms of service or
-        conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other
-        legal and regulatory authorities and for other legal reasons.
-    </li>
-
-    <li>The Star may disclose your personal information on a confidential basis to parties connected with the
-        contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or
-        assets, including for the purposes of determining whether to proceed or continue with such transaction or
-        business relationship or fulfilling any records or other reporting requirements to such parties.
-    </li>
-</ul>
-
-<h2>Consent and opt-out policy. </h2>
-
-    <p>In general, the Star seeks consent to use your personal information in accordance
-        with our opt-out policy. Except as set out in this section, the Star obtains your express opt-in consent to use or
-        disclose sensitive personal information.</p>
-
-
-    <p>If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following:</p>
-
-    <ul class="q-details">
-        <li>follow the instructions at the bottom of any email Marketing Offer you receive.</li>
-        <li>inform your telemarketer at the time you are called with a Marketing Offer.</li>
-
-        <li>call Customer Service at 1-800-279-0181 and request that your personal information not be used for Marketing
-            Offers.
-        </li>
-
-        <li>email Customer Service at privacy@thestar.ca&nbsp; and request that your personal information not be used for
-            Marketing Offers.
-        </li>
-    </ul>
-
-
-<p>It may take 2-4 weeks to fully process your opt-out request. &nbsp;</p>
-
-<p>Generally, when you provide us with your personal information, we will assume that you consent to our collection, use
-    and disclosure of such information for the purposes identified or described in this Privacy Code, if applicable, or
-    otherwise at the time of collection. We reserve the right to use and disclose your personal information without your
-    consent where required or permitted by law, for example, if we have reasonable grounds to believe the information
-    could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or
-    defend our legal interests, or to comply with applicable laws and lawful governmental requests.</p>
-
-<h2>Safeguards.</h2>
-    <p>The Star has technical, contractual, administrative and physical security measures to protect your
-    personal information in a manner that is reasonable and appropriate to the nature of the personal information you
-    provide to the Star. For example, when you provide credit card information to us, we work to help protect the
-    security of your credit card information by using industry standard secure sockets layer (SSL) encryption
-    technology.</p>
-
-    <p>Please be aware that email is not a secure medium, and any personal information you send to us by email could be
-        intercepted. If your communication is very sensitive, or includes information such as your credit card number, you
-        should not send it electronically unless the email is encrypted or your browser indicates that the access to our
-        website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure
-        and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in
-        unsolicited messages from other internet users.&nbsp; The Star is not responsible for personal information you
-        choose to post or submit in any online forum on any of its websites.</p>
-
-<h2>How to access and correct your personal information.</h2>
-    <p>Some of our websites provide you with the means to
-        access, update, edit or delete certain subscriber or registration information by going to the appropriate page on
-        the website and changing or deleting such information as desired.&nbsp; Alternatively, or for other information, you
-        may call Customer Service at 1-800-279-0181 and we will make the changes upon receipt of appropriate evidence.</p>
-
-
-    <p>We will give you access to the information we retain about you within a reasonable time, upon written request,
-        satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal
-        information in our possession or control. If we deny your request, we will advise you in writing of the reason for
-        the refusal and you may challenge our decision.</p>
-
-
-<h2>How to address concerns regarding your privacy.</h2>
-    <p>The Star encourages you to contact us with any questions or
-        concerns you have about your privacy or this Privacy Code. If you have a question concerning the Star's Privacy
-        Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-800-279-0181, or email
-        us at <a href="mailto:privacy@thestar.ca">privacy@thestar.ca.</a></p>
-
-
-    <p>Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your
-        concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation's Chief
-        Privacy Officer in writing as follows:</p>
-
-<dl>
-    <dt><strong>Chief Privacy Officer</strong></dt>
-    <dd>Torstar Corporation</dd>
-    <dd>One Yonge Street, 6th floor</dd>
-    <dd>Toronto ON</dd>
-    <dd>M5E 1E6</dd>
-    <dd>Fax: (416) 869-4183</dd>
-</dl>
-
-<p>This Privacy Code was last updated on <strong>July 11, 2012</strong></p>
-
-</div>
-        </div>
-
-	
-
-</div>
-</div>
+      <div class="parsys mainart"></div>
 
     </div>
 
@@ -1108,17 +797,353 @@ concerns about our privacy practices.</p>
 		
 		
       
-      <span class="published-date"> Published on Fri Nov 30 2012</span>
+      <span class="published-date"> Published on Thu Mar 27 2014</span>
       
    	</div>
 
     <div class="article-story float-clear">
-      
+    <div id="policard-modal">
+		<iframe id="policard" frameborder="0" height="0" src=""></iframe>
+	</div>
+
+<div class="policard-wrap">
+            <div class="policard-gallery">
+            </div>
+
+            <div class="policard-nav clearfix">
+                <div id="policard-next">
+                    <img src="/etc/designs/thestar/images/policard/next.png">
+                </div>
+                <div id="policard-back">
+                    <img src="/etc/designs/thestar/images/policard/back.png">
+                </div>
+            </div>
+</div>
+	
       
       
 
       <div class="article-story-body">
-        <div class="body parsys"></div>
+        <div class="body parsys"><div class="articlerelatedphotogallery section">
+
+
+
+	
+</div>
+<div class="articlerelatedvideogallery section">
+
+
+</div>
+<div class="text combinedtext parbase section"><h2>
+  Our commitment to privacy:
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+  Toronto Star Newspapers Limited (the "Star") knows that protecting the privacy and confidentiality of your personal information is important to you.  This Privacy Code governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by the Star and its affiliates.  The collection, use and disclosure of your personal information is governed by the
+  <i>
+    Personal Information Protection and Electronic Documents Act
+  </i>
+  (the "Act"), and any applicable provincial legislation. This Privacy Code explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  This Privacy Code applies only to personal information collected by the Star and its affiliates. Be aware that our websites may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Code nd for which the Star has no responsibility. Please review the privacy policies on any external websites to determine their information handling practices.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  This Privacy Code is available to the public through our websites, and in paper form from the Star. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability.
+  <b>
+    Please read this Privacy Code carefully, and check back periodically as we may update it from time to time. By submitting your personal information to the Star, you signify your agreement to the terms and conditions of this Privacy Code.
+  </b>
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  What is personal information?
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  Personal information is any information about an identifiable individual.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  The Star is responsible for personal information under its control. The Star has implemented policies and practices to give effect to this Privacy Code, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star's parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star and its affiliates.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  What is excluded from privacy protection?
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  This Privacy Code does not impose restrictions on:  business contact information, including the name, title, business address or telephone number of an employee of an organization; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual's name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  <b>
+    Children:
+  </b>
+  If you are under the age of 18, be sure to obtain your parent or guardian's permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  What personal information do we collect, and why?
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><ul>
+  <li>
+    We collect personal contact information (such as your name, address, email address and telephone numbers) if you: sign up for a newsletter; subscribe to a newspaper; register on an online forum or website, or to attend a paid event; purchase any product or service from the Star; are a classified advertiser or auction participant; or provide it to us when you attend a trade or consumer show. This information is used to fulfill your request for information, products or services, to provide targeted advertising, and to respond to your inquiries. From time to time this information may be used to provide reward points or apply credit, as applicable in the circumstances.
+  </li>
+  <li>
+    We collect personal contact information (such as your name, address, email address and telephone numbers) when you make a charitable donation to the Star's sponsored charities, including the Star Fresh Air Fund and the Star Santa Claus Fund for the purpose of processing your donation and to issue you an income tax receipt.
+  </li>
+  <li>
+    We will retain your subscriber ID and passwords so that upon request by you we may remind you of them.
+  </li>
+  <li>
+    If you enter a contest or other promotion, we use your personal contact information to administer the contest or promotion including contacting, announcing and promoting prizewinners.   In addition, sometimes our contest rules provide that we may contact contest entrants with promotions and product information.  Those rules will also include a way for you to indicate to us that you do not want to be contacted for this purpose.  Some contests may also involve co-sponsors, who have their own privacy practices.  In these cases, the contest rules and/or entry forms will indicate that your personal information is being shared with these co-sponsors and will provide you with the ability to opt-out from receiving promotions and product information from them.
+  </li>
+  <li>
+    We collect demographic information, as well as purchase history and a list of promotions offered to you, in order to gain a better understanding of your interests so that we may develop better products and services, and to determine your eligibility for other products and services.
+  </li>
+  <li>
+    We may also use demographic, personal contact and history information to contact you about changes, enhancements or other notices related to products or services you requested from us and which the Star provides. In addition, we may use this information to send you offers or information from us, our affiliates and from selected sponsors or advertisers ("Marketing Offers"). If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
+  </li>
+  <li>
+    We keep notes and special instructions for classified advertisers and subscribers to help us fulfill your request and provide customer service. We may tape or monitor your telephone calls with our customer service representatives for quality assurance purposes.
+  </li>
+  <li>
+    We collect your credit card information if you: subscribe to a newspaper; register on a paid website; enter a paid contest; register to attend a paid event; purchase any product from the Star or through one of our websites; are a classified advertiser or an auction participant. This credit card information is used for the purpose of fulfilling your order.
+  </li>
+  <li>
+    If you choose to opt-out of any use of your personal information in accordance with our opt-out policy, we will keep your contact information on a list so that your request can be honoured. If you provide a complaint to any of our departments, we will collect your contact information and the nature of your complaint, for the purpose of investigating your concerns and responding to you.
+  </li>
+  <li>
+    If you provide freelance or other services to us, we may collect your social insurance number for tax reporting purposes and your contact information in order to pay you.
+  </li>
+  <li>
+    We may also use or collect additional information from freelancers, other service providers and from advertisers, such as financial information (for example, banking details and credit history) to assess credit risk, sales data to prepare royalty reports and other relevant information to help us evaluate the quality of your services.
+  </li>
+  <li>
+    We use IP (internet protocol) addresses, to gather demographic and statistical information about our users, for systems administration and to diagnose problems with our servers, and to administer our websites.  We may also use IP addresses to display or allow our third party advertising providers to display more targeted advertising and content.
+  </li>
+  <li>
+    We may, from time to time, track and analyze anonymous usage and browsing patterns of visitors to our websites to provide our advertisers with more targeted advertising opportunities and to help users see advertising that is most likely to interest them.
+  </li>
+  <li>
+    We generally use your personal information for the purposes of : managing, administering, collecting or otherwise enforcing your accounts; maintaining business records for reasonable periods of time and generally managing and administering our business; and meeting all relevant Canadian and international regulatory, legal, insurance, audit, security and processing requirements.
+  </li>
+  <li>
+    Occasionally, we ask our customers to complete market research surveys. If you choose to participate in these surveys and provide your personal information for that purpose, your information will be aggregated as part of the survey results and shared with our advertisers, sponsors and affiliates in a manner that does not identify you.
+  </li>
+  <li>
+    Other than as permitted or required by law, if we wish to collect, use or disclose your personal information for purposes that are not contemplated in this Privacy Code, we will identify those purposes at the time of collection. You will be given a reasonable opportunity to opt-out of any such additional purposes.
+  </li>
+</ul>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  Behavioural Targeting
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><ul>
+  <li>
+    If you use any of our websites, we may assign an internet cookie. An internet cookie is a small text file that a website stores on your internet browser and that can collect and store information. We use cookies to better understand how you use our websites, to make sure our ads and dynamic content are served correctly and to improve the performance of our websites. For example, a cookie may recall a set of preferences you have set for our website and record items that you have registered for. Storing cookies on your web browser allows us to present you with web pages and other content that are attuned with your preferences. These activities are invisible to you, and are generally intended to improve your internet surfing convenience. Unless you have set your preferences so that you will be alerted when a cookie is being stored on your computer, you won't know about it.
+  </li>
+  <li>
+    If you are concerned about cookies, it is possible to turn them off in your web browser preferences. The following link has useful information about how to opt out of cookies that are placed by companies who are members of the Network Advertising Initiative:
+    <a href="http://www.networkadvertising.org/choices/" target="_blank" title="this link will open in a new window">
+      NAI (Network Advertising Initiative) Opt-Out
+    </a>
+    .   However, please be aware that by disabling cookies, you may not be able to use all portions of our websites, particularly pages requiring registration.
+  </li>
+  <li>
+    We may place advertising or other links on our websites that originate from outside advertisers and other third parties.  If you view these ads, the advertisers may assign a cookie.  The Star does not control these cookies, nor is it responsible for any marketing or other use of your information by these advertisers or other third parties.
+  </li>
+  <li>
+    Our websites may use gifs or other technologies to better tailor and manage advertising on our sites.  These technologies may be in use on a number of pages across web sites.  When you access these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers.  These gifs usually work in conjunction with cookies.  If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies.  If you turn off cookies, gifs and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.
+  </li>
+  <li>
+    Many of our websites use third-party advertising companies to serve ads when you visit the site.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.  Some ads appearing on our websites are delivered to you by AdTech, which is a web advertising company.  These third parties may, from time to time, use information that they collect about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal contact information) to serve additional ads about goods and services that may be of interest to you.  If you do not wish to have your information used in this way, please click on the following link:
+    <a href="http://www.adtechus.com/cookie_opt-out/" target="_blank" title="this link will open in a new window">
+      AdTech Opt-Out
+    </a>
+  </li>
+</ul>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  To whom does the Star disclose personal information, and why?
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  The Star may disclose your personal information under the following circumstances:
+</p>
+</div>
+<div class="text combinedtext parbase section"><ul>
+  <li>
+    To provide you with Marketing Offers, the Star may disclose your personal contact information to affiliates and selected sponsors and advertisers. If you do not wish to receive Marketing Offers, you may opt-out at any time by following the opt-out procedure below.
+  </li>
+  <li>
+    The Star may transfer your personal information to third party service providers in order to fulfill your order or perform processing and other specialized services (such as credit card processing, prize fulfillment of our contests, collection of overdue accounts, management of customer service requests, and product delivery).
+  </li>
+  <li>
+    The Star may provide your name and credit card information on a confidential basis to a third party (which party may be outside of Canada) for the purpose of updating your credit card information to ensure that your ongoing subscription to the Star products and services is not interrupted.
+  </li>
+  <li>
+    Your personal information may be processed and stored outside of the province in which you reside and/or outside of Canada by us, an affiliate or a third party service provider for the purposes set out in this Privacy Code and, under the laws of these other jurisdictions, in certain circumstances foreign courts, law enforcement agencies or regulatory agencies may be entitled to access your personal information.
+  </li>
+  <li>
+    The Star may disclose your personal information to our affiliates for internal audit, management, billing or administrative purposes.
+  </li>
+  <li>
+    The Star may disclose your contact information on a confidential basis to our advertisers for the sole purpose of newspaper delivery verification.
+  </li>
+  <li>
+    The Star may disclose your personal information to third parties if you have violated our terms of service or conditions of purchase, or if we need to comply with applicable laws and lawful governmental requests, other legal and regulatory authorities and for other legal reasons.
+  </li>
+  <li>
+    The Star may disclose your personal information on a confidential basis to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties.
+  </li>
+</ul>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  Consent and opt-out policy.
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  In general, the Star seeks consent to use your personal information in accordance with our opt-out policy. Except as set out in this section, the Star obtains your express opt-in consent to use or disclose sensitive personal information.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  If you do not wish to receive Marketing Offers, you may opt-out at any time by doing any of the following:
+</p>
+</div>
+<div class="text combinedtext parbase section"><ul>
+  <li>
+    follow the instructions at the bottom of any email Marketing Offer you receive.
+  </li>
+  <li>
+    inform your telemarketer at the time you are called with a Marketing Offer.
+  </li>
+  <li>
+    call Customer Service at 1-800-279-0181 and request that your personal information not be used for Marketing Offers.
+  </li>
+  <li>
+    email Customer Service at privacy@thestar.ca  and request that your personal information not be used for Marketing Offers.
+  </li>
+</ul>
+</div>
+<div class="text combinedtext parbase section"><p>
+  It may take 2-4 weeks to fully process your opt-out request.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  Generally, when you provide us with your personal information, we will assume that you consent to our collection, use and disclosure of such information for the purposes identified or described in this Privacy Code, if applicable, or otherwise at the time of collection. We reserve the right to use and disclose your personal information without your consent where required or permitted by law, for example, if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law, in order to protect or defend our legal interests, or to comply with applicable laws and lawful governmental requests.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  Safeguards.
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  The Star has technical, contractual, administrative and physical security measures to protect your personal information in a manner that is reasonable and appropriate to the nature of the personal information you provide to the Star. For example, when you provide credit card information to us, we work to help protect the security of your credit card information by using industry standard secure sockets layer (SSL) encryption technology.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, or includes information such as your credit card number, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure. Materials posted to online forums such as bulletin boards or comment sites are public, not secure and may be viewed by anyone. Any personal information you post may be collected and used by anyone and may result in unsolicited messages from other internet users.  The Star is not responsible for personal information you choose to post or submit in any online forum on any of its websites.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  How to access and correct your personal information.
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  Some of our websites provide you with the means to access, update, edit or delete certain subscriber or registration information by going to the appropriate page on the website and changing or deleting such information as desired.  Alternatively, or for other information, you may call Customer Service at 1-800-279-0181 and we will make the changes upon receipt of appropriate evidence.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  We will give you access to the information we retain about you within a reasonable time, upon written request, satisfactory identification and proof of entitlement. In some cases, we may not provide access to personal information in our possession or control. If we deny your request, we will advise you in writing of the reason for the refusal and you may challenge our decision.
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><h2>
+  How to address concerns regarding your privacy.
+</h2>
+</div>
+<div class="text combinedtext parbase section"><p>
+</p></div>
+<div class="text combinedtext parbase section"><p>
+  The Star encourages you to contact us with any questions or concerns you have about your privacy or this Privacy Code. If you have a question concerning the Star's Privacy Code, would like a copy, or if you have any concerns, please contact Customer Service at: 1-800-279-0181, or email us at
+  <a href="mailto:privacy@thestar.ca">
+    privacy@thestar.ca.
+  </a>
+</p>
+</div>
+<div class="text combinedtext parbase section"><p>
+  Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation's Chief Privacy Officer in writing as follows:
+</p>
+</div>
+<div class="text combinedtext parbase section"><dl>
+  <dt>
+    <b>
+      Chief Privacy Officer
+    </b>
+  </dt>
+  <dd>
+    Torstar Corporation
+  </dd>
+  <dd>
+    One Yonge Street, 6th floor
+  </dd>
+  <dd>
+    Toronto ON
+  </dd>
+  <dd>
+    M5E 1E6
+  </dd>
+  <dd>
+    Fax: (416) 869-4183
+  </dd>
+</dl>
+</div>
+<div class="text combinedtext parbase section"><p>
+  This Privacy Code was last updated on
+  <b>
+    July 11, 2012
+  </b>
+</p>
+</div>
+</div>
 
       </div>
 
@@ -1173,6 +1198,34 @@ concerns about our privacy practices.</p>
 </div><div class="iparys_inherited"><div class="rightrailtop2 parsys iparsys"></div>
 </div></div>
 
+      <div class="parsys iparsys rightrailtop3"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop3"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop4"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop4"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop5"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop5"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop6"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop6"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop7"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop7"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop8"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop8"></div>
+</div></div>
+
+      <div class="parsys iparsys rightrailtop9"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys rightrailtop9"></div>
+</div></div>
+
 
       <div class="parsys iparsys toprightrail"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys toprightrail"><div class="section"><div class="adtech">
@@ -1181,7 +1234,7 @@ concerns about our privacy practices.</p>
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966601;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664482/0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972931;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664482/0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664482/0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_1;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
 </noscript>
@@ -1193,7 +1246,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-	<div class="promo from-the-homepage star-box float-clear" data-comp-path="about/toprightrail/fromthehomepage">
+	<div class="from-the-homepage star-box float-clear" data-comp-path="about/toprightrail/fromthehomepage">
         <div class="star-box-heading float-clear">
             <h2 class="heading">Top News</h2>
         </div>
@@ -1202,59 +1255,59 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 			<ul>
 			
 						<li>
-							<a href="http://www.thestar.com/news/gta/2013/12/22/in_an_icy_crisis_our_warmest_hearts_emerge_hume.html">
+							<a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html" class="with-comment-icon">
 								
 								
-								In an icy crisis, our warmest hearts emerge: Hume</a>
+								Leafs' draft pick Nylander has 'NHL speed, hands and shot right now'</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html">comments</a></span>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/gta/2013/12/22/toronto_ice_storm_live_updates.html">
+							<a href="http://www.thestar.com/news/city_hall/2014/06/27/how_rob_ford_can_get_his_second_chance.html">
 								
 								
-								LIVE ice storm updates: GO train service reduced, TDSB child care centres closed</a>
+								How Toronto Mayor Rob Ford can get his second chance</a>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/insight/2013/12/22/is_pedophilia_a_sexual_orientation.html">
+							<a href="http://www.thestar.com/news/gta/2014/06/27/when_sex_just_isnt_your_cup_of_tea_mallick.html">
 								
 								
-								Is pedophilia a sexual orientation? Yes, says CAMH research</a>
+								When sex just isn’t your cup of tea: Mallick</a>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/canada/2013/12/22/canadian_military_looks_at_video_games_for_training.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html" class="with-comment-icon">
 								
 								
-								Canadian military looks at Call of Duty for training </a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2013/12/22/canadian_military_looks_at_video_games_for_training.html">comments</a></span>
+								Immigration experts say Bill C-24 is discriminatory</a><span class="comment-icon"><a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html">comments</a></span>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/sports/raptors/2013/12/22/raptors_continue_turnaround_with_shocking_win_in_okc.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html" class="with-comment-icon">
 								
 								
-								Raptors continue turnaround with shocking win in OKC</a><span class="comment-icon"><a href="http://www.thestar.com/sports/raptors/2013/12/22/raptors_continue_turnaround_with_shocking_win_in_okc.html">comments</a></span>
+								Why the Sugar Beach umbrellas cost $12,000 each</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html">comments</a></span>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/world/2013/12/22/bangladeshi_garment_factory_owners_charged_in_fatal_tazreen_fashions_ltd_fire.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/gta/2014/06/27/winners_of_the_toronto_star_photo_awards_announced.html" class="with-comment-icon">
 								
 								
-								Bangladeshi garment factory owners charged in fatal fire</a><span class="comment-icon"><a href="http://www.thestar.com/news/world/2013/12/22/bangladeshi_garment_factory_owners_charged_in_fatal_tazreen_fashions_ltd_fire.html">comments</a></span>
+								Winners of the Toronto Star photo awards announced</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/winners_of_the_toronto_star_photo_awards_announced.html">comments</a></span>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/canada/2013/12/22/edgar_bronfman_sr_seagram_co_billionaire_longtime_head_of_world_jewish_congress_dies.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="with-comment-icon">
 								
 								
-								Canadian billionaire Edgar Bronfman Sr. dies</a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2013/12/22/edgar_bronfman_sr_seagram_co_billionaire_longtime_head_of_world_jewish_congress_dies.html">comments</a></span>
+								How a dream dies: The story of an immigrant's future destroyed</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">comments</a></span>
 						</li>
 			      
 						<li>
-							<a href="http://www.thestar.com/news/atkinsonseries/2013/12/22/how_to_put_canada_back_together_again.html" class="with-comment-icon">
+							<a href="http://www.thestar.com/business/2014/06/27/bully_bid_wins_two_tony_toronto_properties.html" class="with-comment-icon">
 								
 								
-								Mandatory voting, a guaranteed basic income: How to put Canada back together</a><span class="comment-icon"><a href="http://www.thestar.com/news/atkinsonseries/2013/12/22/how_to_put_canada_back_together_again.html">comments</a></span>
+								Bully bid wins two tony Toronto properties </a><span class="comment-icon"><a href="http://www.thestar.com/business/2014/06/27/bully_bid_wins_two_tony_toronto_properties.html">comments</a></span>
 						</li>
 			      
 			</ul>
@@ -1276,7 +1329,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-	<div class="promo commercial-promo" data-comp-path="news/toprightrail/scheduledcommercialp" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp">
+	<div class="promo commercial-promo" data-comp-path="RightRailPromos" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp">
     <h2 class="com-promo">commercial promo</h2>
 		<ul class="float-clear">
 
@@ -1301,64 +1354,55 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-	<div class="promo commercial-promo" data-comp-path="news/toprightrail/scheduledcommercialp_2" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp_2">
+	<div class="promo commercial-promo" data-comp-path="RightRailPromos" data-aam-segments="467082,433719,433575,433734,467072,467059,467081,467077,405692,405683,467064,467083,467066,467022,433721,467076,405691,433716,405685,467083,467040,467044,467028,467080,433714,467070,467085,467066,467065,467025,467023" data-aam-count="2" data-aam-path="/news/jcr:content/toprightrail/scheduledcommercialp_2">
     <h2 class="com-promo">commercial promo</h2>
 		<ul class="float-clear">
 
 		
 
-				<li class="top-story">
-
-					<a href="http://www.thestar.com/life/flu/2013/12/02/flu_just_the_facts.html" class="icon-overlay">
-		        <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/flu/2013/12/02/flu_just_the_facts/elderly_flujpg.jpg.size.large.promo.jpg" alt="Flu – just the facts ">
-		        <p class="caption">Flu – just the facts </p>
-					</a>
-
-				</li>
-
-			
-							
-				<li>
-
-					<a href="http://thekit.ca/fashion/accessories/christmas-presents/" class="twin icon-overlay">
-		        <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/thekit/whatthekitcrewishopingtoseeunderthetree.jpg.size.medium2.promo.jpg" alt="The Kit: What The Kit crew is hoping to see under the tree">
-		        <p class="caption">The Kit: What The Kit crew is hoping to see under the tree</p>
-					</a>
-
-				</li>
+			<li class="top-story">
+				<a href="http://www.thestar.com/partner_content/breakingground/2014/05/20/growing-family-finds-a-home-in-markham.html" class="icon-overlay">
+		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/breakingground/MichaelPongan_NickKozak_032614-5.jpg.size.large.promo.jpg" alt="Growing family finds a home in Markham ">
+		            <!--<p class="caption"><span>Partner Content</span>Growing family finds a home in Markham </p>-->
+			        <div class="bottom"><p class="label"><span>Partner Content</span></p><p class="caption">Growing family finds a home in Markham </p></div>
+				</a>
+			</li>
 
 			
-							
-				<li class="last">
-
-					<a href="http://www.thegridto.com/life/food-drink/santa-gets-around/ " class="twin icon-overlay">
-		        <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/thegrid/christmasdessertalternativesfromaroundtheworld.jpg.size.medium2.promo.jpg" alt="The Grid: Christmas-dessert alternatives from around the world">
-		        <p class="caption">The Grid: Christmas-dessert alternatives from around the world</p>
-					</a>
-
-				</li>
+			<li>
+				<a href="http://www.toronto.com/things-to-do/articles/this-weekend-things-to-do-in-toronto/" class="twin icon-overlay">
+		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/torontodotcom/toronto_pride.jpg.size.medium2.promo.jpg" alt="Toronto.com This Weekend: Things to Do in Toronto">
+		            <!--<p class="caption">Toronto.com This Weekend: Things to Do in Toronto</p>-->
+			        <div class="bottom"><p class="caption">Toronto.com This Weekend: Things to Do in Toronto</p></div>
+				</a>
+			</li>
 
 			
-							
-				<li>
-
-					<a href="http://www.thestar.com/life/continuingeducation/2013/11/21/programs_offer_picture_of_success.html" class="twin icon-overlay">
-		        <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/continuingeducation/2013/11/21/programs_offer_picture_of_success/coverjpg.jpg.size.medium2.promo.jpg" alt="Programs offer picture of success ">
-		        <p class="caption">Programs offer picture of success </p>
-					</a>
-
-				</li>
+			<li class="last">
+				<a href="http://www.thestar.com/business/sportonomics/2014/06/12/sportonomics_the_evolution_of_rohan_marley.html" class="twin icon-overlay video">
+		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/business/sportonomics/2014/06/12/sportonomics_the_evolution_of_rohan_marley/3619404913001_videoStillImage.jpg.size.medium2.promo.jpg" alt="Sportonomics: The evolution of Rohan Marley">
+		            <!--<p class="caption">Sportonomics: The evolution of Rohan Marley</p>-->
+			        <div class="bottom"><p class="caption">Sportonomics: The evolution of Rohan Marley</p></div>
+				</a>
+			</li>
 
 			
-							
-				<li class="last">
+			<li>
+				<a href="http://www.thestar.com/sponsored_sections/dailyhealth/2014/06/09/five-healthy-habits-for-summer.html" class="twin icon-overlay">
+		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/dailyhealth/daily_health_photo3_habits.jpg.size.medium2.promo.jpg" alt="Five healthy habits for summer">
+		            <!--<p class="caption">Five healthy habits for summer</p>-->
+			        <div class="bottom"><p class="caption"><span class="icon icon-type-unlock"></span>Five healthy habits for summer</p></div>
+				</a>
+			</li>
 
-					<a href="http://www.thestar.com/life/modernmoney/2013/10/17/infographic--it-s-your-money--a-practical-guide----the-promising.html" class="twin icon-overlay">
-		        <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/static_images/sponsoredsections/modernmoney/info30_545x365.jpg.size.medium2.promo.jpg" alt="Infographic: It's your money (a practical guide) - The Promising Startup">
-		        <p class="caption">Infographic: It's your money (a practical guide) - The Promising Startup</p>
-					</a>
-
-				</li>
+			
+			<li class="last">
+				<a href="http://www.thestar.com/life/food_wine/2014/06/26/butter_tarts_inspire_patriotic_devotion_in_canadians.html" class="twin icon-overlay">
+		            <img src="/etc/designs/thestar/images/general/blank.gif" data-original="http://www.thestar.com/content/dam/thestar/life/food_wine/2014/06/26/butter_tarts_inspire_patriotic_devotion_in_canadians/kyla_eaglesham1.jpg.size.medium2.promo.jpg" alt="Butter tarts inspire patriotic devotion in Canadians">
+		            <!--<p class="caption">Butter tarts inspire patriotic devotion in Canadians</p>-->
+			        <div class="bottom"><p class="caption">Butter tarts inspire patriotic devotion in Canadians</p></div>
+				</a>
+			</li>
 
 			
 
@@ -1374,7 +1418,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966603;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1//0/-1/ADTECH;loc=100;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972943;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1//0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1//0/-1/ADTECH;loc=300;alias=thestar.com_about_300x250_2;size=300x250;kvcalais=;kvng=;key=;width=300;height=250" alt=""></a>
 </noscript>
@@ -1404,7 +1448,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/insight/2013/12/22/is_pedophilia_a_sexual_orientation.html"> Is pedophilia a sexual orientation?</a>
+                				<a href="http://www.thestar.com/news/gta/2014/06/27/why_ontarios_only_venomous_snake_is_more_scared_of_us.html" class="with-comment-icon"> Why Ontario's only venomous snake is more scared of us</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/why_ontarios_only_venomous_snake_is_more_scared_of_us.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1412,7 +1456,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2013/12/22/ice_storm_2013_readers_share_their_photos.html"> Ice storm 2013: Readers share their photos</a>
+                				<a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html" class="with-comment-icon"> Maple Leafs draft William Nylander: ‘NHL speed, NHL hands and an NHL shot right now</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/maple_leafs_draft_william_nylander_nhl_speed_nhl_hands_and_an_nhl_shot_right_now.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1420,7 +1464,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/sports/raptors/2013/12/22/raptors_continue_turnaround_with_shocking_win_in_okc.html" class="with-comment-icon"> Raptors continue turnaround with shocking win in OKC</a><span class="comment-icon"><a href="http://www.thestar.com/sports/raptors/2013/12/22/raptors_continue_turnaround_with_shocking_win_in_okc.html">comments</a></span>
+                				<a href="http://www.thestar.com/sports/hockey/2014/06/27/canucks_trade_ryan_kesler_jason_garrison_in_predraft_flurry.html" class="with-comment-icon"> Canucks trade Ryan Kesler, Jason Garrison in pre-draft flurry</a><span class="comment-icon"><a href="http://www.thestar.com/sports/hockey/2014/06/27/canucks_trade_ryan_kesler_jason_garrison_in_predraft_flurry.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1428,7 +1472,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/atkinsonseries/2013/12/22/how_to_put_canada_back_together_again.html" class="with-comment-icon"> How to put Canada back together again</a><span class="comment-icon"><a href="http://www.thestar.com/news/atkinsonseries/2013/12/22/how_to_put_canada_back_together_again.html">comments</a></span>
+                				<a href="http://www.thestar.com/news/gta/2014/06/27/when_sex_just_isnt_your_cup_of_tea_mallick.html"> When sex just isn’t your cup of tea: Mallick</a>
 											</p>
 									  </li>
 		
@@ -1436,7 +1480,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2013/12/22/bolton_dad_finds_memory_card_wants_to_find_mystery_family_in_photos.html" class="with-comment-icon"> Bolton Dad finds memory card, wants to find mystery family in photos </a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2013/12/22/bolton_dad_finds_memory_card_wants_to_find_mystery_family_in_photos.html">comments</a></span>
+                				<a href="http://www.thestar.com/sports/raptors/2014/06/26/raptors_gamble_on_unknown_project_bruno_caboclo_in_nba_draft.html" class="with-comment-icon"> Raptors gamble on unknown project Bruno Caboclo in NBA draft</a><span class="comment-icon"><a href="http://www.thestar.com/sports/raptors/2014/06/26/raptors_gamble_on_unknown_project_bruno_caboclo_in_nba_draft.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1444,7 +1488,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2013/12/22/a_tree_limb_falls_but_no_one_from_the_citys_around_to_hear_fiorito.html"> A tree limb falls, but no one from the city’s around to hear: Fiorito</a>
+                				<a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html" class="with-comment-icon"> Sugar Beach pink umbrellas deconstructed</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/sugar_beach_pink_umbrellas_deconstructed.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1452,7 +1496,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/gta/2013/12/22/carters_ice_cream_owner_doles_out_15_tubs_worth_to_passersby_after_losing_power.html" class="with-comment-icon"> Carter's Ice Cream owner doles out 15 tubs’ worth to passersby after losing power</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2013/12/22/carters_ice_cream_owner_doles_out_15_tubs_worth_to_passersby_after_losing_power.html">comments</a></span>
+                				<a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_maple_leafs_pick_william_nylander.html" class="with-comment-icon"> NHL draft: Maple Leafs pick William Nylander</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2014/06/27/nhl_draft_maple_leafs_pick_william_nylander.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1460,7 +1504,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/sports/leafs/2013/12/22/maple_leafs_kadris_joust_with_crosby_highlights_247_feschuk.html" class="with-comment-icon"> Maple Leafs: Kadri’s joust with Crosby highlight of 24/7: Feschuk</a><span class="comment-icon"><a href="http://www.thestar.com/sports/leafs/2013/12/22/maple_leafs_kadris_joust_with_crosby_highlights_247_feschuk.html">comments</a></span>
+                				<a href="http://www.thestar.com/news/city_hall/2014/06/27/how_rob_ford_can_get_his_second_chance.html"> Expert advice on how Rob Ford can get his second chance</a>
 											</p>
 									  </li>
 		
@@ -1468,7 +1512,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/canada/2013/12/22/edgar_bronfman_sr_seagram_co_billionaire_longtime_head_of_world_jewish_congress_dies.html" class="with-comment-icon"> Edgar Bronfman Sr., Seagram Co. billionaire, longtime head of World Jewish Congress, dies</a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2013/12/22/edgar_bronfman_sr_seagram_co_billionaire_longtime_head_of_world_jewish_congress_dies.html">comments</a></span>
+                				<a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html" class="with-comment-icon"> Immigration experts say Bill C-24 discriminatory and weakens citizenship</a><span class="comment-icon"><a href="http://www.thestar.com/news/immigration/2014/06/27/immigration_experts_say_bill_c24_discriminatory_and_weakens_citizenship.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1476,7 +1520,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1//0
 		
 										<li class="float-clear"> 
               				<p class="headline">
-                				<a href="http://www.thestar.com/news/canada/2013/12/22/canadian_military_looks_at_video_games_for_training.html" class="with-comment-icon"> Canadian military looks at video games for training</a><span class="comment-icon"><a href="http://www.thestar.com/news/canada/2013/12/22/canadian_military_looks_at_video_games_for_training.html">comments</a></span>
+                				<a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html" class="with-comment-icon"> Construction worker who fell to death was refugee from Iraq</a><span class="comment-icon"><a href="http://www.thestar.com/news/gta/2014/06/27/construction_worker_who_fell_to_death_was_refugee_from_iraq.html">comments</a></span>
 											</p>
 									  </li>
 		
@@ -1557,6 +1601,8 @@ google_ad_height = 250;
 </div>
 </div>
 
+
+
   </div>
 
   
@@ -1566,6 +1612,7 @@ google_ad_height = 250;
 
 
 <footer>
+    <div id="returntomobile" style="display: none">Back to Mobile</div>
 
   
   
@@ -1584,7 +1631,7 @@ google_ad_height = 250;
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966607;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664486/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972947;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664486/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664486/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_1;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1601,7 +1648,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966608;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664485/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972948;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664485/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664485/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_2;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1618,7 +1665,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966609;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664487/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972949;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664487/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664487/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_3;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1635,7 +1682,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966610;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664484/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972951;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664484/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664484/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_4;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1652,7 +1699,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966611;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664488/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972951;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664488/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664488/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_5;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1669,7 +1716,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
                 <script>
 document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam='+kvaam+';kvuid='+kvuid+';target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>');
- </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=72;misc=1580393966612;aduho=0;rdclick="></script>
+ </script><script src="http://adserver.adtechus.com/addyn/3.0/5214.1/2664489/0/-1/ADTECH;loc=100;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;kvaam=;kvuid=;target=_blank;key=;grp=286;misc=1580393972953;aduho=0;rdclick="></script>
 <noscript>
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/2664489/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/2664489/0/-1/ADTECH;loc=300;alias=thestar.com_about_135x168_6;size=135x168;kvcalais=;kvng=;key=;width=135;height=168" alt=""></a>
 </noscript>
@@ -1683,13 +1730,15 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 </div></div>
 
   
-  
 
 
+
   
+
   
       
-      
+
+
 
 
 
@@ -1780,7 +1829,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
     
     <li><a href="https://www.syncaccess.net/po/tstar/account/availablesubscriptions?planFilter=15;16&amp;op=subscribe">Get Digital Access</a></li>
     
-    <li><a href="http://www.thestar.com/about/mysubscription.html">My Subscription</a></li>
+    <li><a href="https://secure.thestar.com/CSSApp/login.jsp">My Subscription</a></li>
     
     <li><a href="http://www.thestar.com/about/contactus.html">Contact Us</a></li>
     
@@ -1792,7 +1841,7 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
     
     <li><a href="http://www.thestar.com/about/starinternships.html">Star Internships</a></li>
     
-    <li><a href="http://ebo.workopolis.com/careers/TORONTO-STAR">Careers @ the Star</a></li>
+    <li><a href="http://www.workopolis.com/jobsearch/jobs-at-star-media-group-/930880">Careers @ the Star</a></li>
     
     </ul>
   </div>
@@ -1803,18 +1852,23 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
     <strong class="heading">Advertise with us</strong>
     <ul>
     
-    <li><a href="http://www.thestar.com/about/termsandconditions.html">Advertising Terms</a></li>
     
-    <li><a href="http://mediakit.thestar.ca">Mediakit</a></li>
-    
-    <li><a href="http://mediakit.thestar.ca/index42368.htm">Online Advertising</a></li>
-    
-    <li><a href="http://mediakit.thestar.ca/index47285.htm">Print Advertising</a></li>
-    
-    <li><a href="http://mediakit.thestar.ca/details25624.htm">Special Sections</a></li>
-    
-    <li><a href="http://www.thestar.com/sponsored_sections.html">Sponsored Sections</a></li>
-    
+        	<li class="list" data-enable-track-click="false" data-source="Advertising Terms" data-url="/content/thestar/about/termsandconditions"><a href="/content/thestar/about/termsandconditions">Advertising Terms</a></li>
+        
+        	<li class="list" data-enable-track-click="true" data-source="Mediakit" data-url="http://mediakit.thestar.ca"><a href="http://mediakit.thestar.ca">Mediakit</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Online Advertising" data-url="http://mediakit.thestar.ca/index42368.htm"><a href="http://mediakit.thestar.ca/index42368.htm">Online Advertising</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Print Advertising" data-url="http://mediakit.thestar.ca/index47285.htm"><a href="http://mediakit.thestar.ca/index47285.htm">Print Advertising</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Special Sections" data-url="http://mediakit.thestar.ca/details25624.htm"><a href="http://mediakit.thestar.ca/details25624.htm">Special Sections</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Sponsored Sections" data-url="/content/thestar/sponsored_sections"><a href="/content/thestar/sponsored_sections">Sponsored Sections</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Partner Content" data-url="/partner_content.html"><a href="/partner_content.html">Partner Content</a></li>
+        
+        	<li class="list" data-enable-track-click="false" data-source="Special Features" data-url="/special_features.html"><a href="/special_features.html">Special Features</a></li>
+        
     </ul>
   </div>
 
@@ -1861,8 +1915,9 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
  
   
+
   <div class="copyright">
-    <p>© Copyright Toronto Star Newspapers Ltd. 1996-2013</p>
+    <p>© Copyright Toronto Star Newspapers Ltd. 1996-2014</p>
     <ul class="legal">
       <li><a href="http://www.thestar.com/about/terms.html">Terms and Conditions</a></li>
       <li class="last"><a href="http://www.thestar.com/about/privacy.html">Privacy Policy</a></li>
@@ -1874,22 +1929,19 @@ document.write('<scr'+'ipt src="http://adserver.adtechus.com/addyn/3.0/5214.1/26
 
 
 
-<div id="mystar">
-  <div id="sidebar" data-mystarurl="http://www.thestar.com/mystar"></div>
-  <div id="modal">
-    <span class="close">Close</span>
-    <span class="triangle"></span>
+<div id="mystar-sidebar-container">
+  <div class="mystar">
+	 <div class="sidebar"></div>
   </div>
 </div>
 
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","9faa45284b","1305432","ZlNVbEcHC0AHBUcMW18ZZV1EEwBAEidHEUZYVEJMUEk1UgEDZxxEVBYaGHwIA1wWB1QA",0,321,new Date().getTime(),"","","","",""]);</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1305432","applicationTime":275,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"9faa45284b","transactionName":"ZlNVbEcHC0AHBUcMW18ZZV1EEwBAEidHEUZYVEJMUEk1UgEDZxxEVBYaGGYSCkEf","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script>
 
 
   <div class="adsettings">
-
-
 
 </div>
 
@@ -1918,22 +1970,21 @@ $(document).ready(exec_star_component_init);
 </script>
 
 
-
-<script type="text/javascript" src="http://o2.eyereturn.com/?site=4166&amp;page=generic"></script>
-
-
-
-<!-- TODO: additional footer scripts go here -->
-
-
-<script src="//cdn.echoenabled.com/clientapps/v2/backplane.js"></script>
-<script>
-  Backplane.init({
-    'serverBaseURL': 'http://api.echoenabled.com/v1',
-    'busName': 'toronto-star'
-  });
-  document.cookie = 'bp_channel_id=' + encodeURIComponent(Backplane.getChannelID()) + ';path=/;domain=.thestar.com';
+<script type="text/javascript">
+(function(w,d) {
+    function l(){
+        var site='4166', page='generic', s, er=d.createElement('script');
+        er.type='text/javascript'; er.async=true;
+        er.src='//o2.eyereturn.com/?site='+site+'&page='+page;
+        s=d.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(er, s);
+    }
+    if (w.addEventListener) {w.addEventListener("load", l, false);}
+    else if (w.attachEvent) {w.attachEvent("onload",l);}
+})(window,document);
 </script>
+
+
 
 
 
@@ -1995,6 +2046,15 @@ window.twttr = (function(d, s, id) {
 
 
 <script>
+  (function() {
+    var ms = document.createElement('script'); ms.type = 'text/javascript'; ms.async = true;
+    ms.src = mystar_secure_domain + '/assets/mystar.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ms, s);
+  })();
+</script>
+
+
+<script>
 (function() {
   var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
   po.src = 'https://apis.google.com/js/plusone.js';
@@ -2039,40 +2099,26 @@ _gaq.push(['_trackPageview']);
 function trackAssetEvent(action, uid) { _gaq.push(['_trackEvent', 'asset', action, '' + uid, 1, true]); }
 </script>
 
-
-
-
-
-<div class="parbase clientcontext"><script type="text/javascript">
-CQURLInfo = {
-    "contextPath": null,
-    "requestPath": '\/content\/thestar\/about\/privacy\/jcr:content\/clientcontext',
-    "selectorString": null,
-    "selectors": [],
-    "extension": 'html',
-    "suffix": null,
-    "systemId": 'ac58a69e-4e96-4e38-8e83-38512b16b054',
-    "runModes": 'publish,prod'
-};</script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/librarymanager.js"></script>
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
 <script type="text/javascript">
-CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]},{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.js","c":[]},{"p":"/etc/clientlibs/foundation/personalization/jcarousel.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization.js","c":[]},{"p":"/etc/clientlibs/foundation/jquery-ui/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/themes/default.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/ie6/themes/default.css","c":["ie6"]}],false);
-</script><script src="/etc/clientlibs/foundation/jquery.js" type="text/javascript"></script>
-<script src="/etc/clientlibs/foundation/shared.js" type="text/javascript"></script>
-<script src="/etc/clientlibs/foundation/jquery-ui.js" type="text/javascript"></script>
-<script src="/etc/clientlibs/foundation/personalization/jcarousel.js" type="text/javascript"></script>
-<script src="/etc/clientlibs/foundation/personalization.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-    $CQ(function() {
-        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
-        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/thestar","/content/thestar/about/privacy");
-        CQ_Analytics.ClientContextUtils.initUI("/etc/clientcontext/thestar","/content/thestar/about/privacy");
-    });
-</script></div>
+var _vrq = _vrq || [];
+_vrq.push(['id', 400]);
+_vrq.push(['automate', (document.body.className.indexOf('homepage')>=0)]);// true for home page
+_vrq.push(['track', function(){}]); (function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
 
 
 
 
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
