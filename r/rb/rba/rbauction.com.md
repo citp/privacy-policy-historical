@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003634id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629003841id_/https%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ritchie Bros. Auctioneers
 
@@ -23,31 +23,25 @@
     * [Forestry & Environmental](https://web.archive.org/forestry-environmental?id=ci&q=Y2l8Tj00Mjk0NzQ4MjU1 "Forestry & Environmental")
   * [Auction Results](https://web.archive.org/heavy-equipment?id=ar&q=YXJ8Tj0w "Auction Results")
   * [Auctions](https://web.archive.org/heavy-equipment-auctions/ "Auctions")
-    * [Upcoming Auctions](https://web.archive.org/heavy-equipment-auctions/ "Upcoming Auctions")
+    * [Upcoming Auctions](https://web.archive.org/heavy-equipment-auctions "Upcoming Auctions")
     * [Past Auctions](https://web.archive.org/heavy-equipment-auctions/past-auctions "Past Auctions")
   * [Buy](https://web.archive.org/buying "Buy")
-    * [About our Auctions](https://web.archive.org/buying/benefits-of-buying "About our Auctions")
-    * [Preparing to Bid](https://web.archive.org/buying/preparing-to-bid "Preparing to Bid")
-    * [Bidding in Person](https://web.archive.org/buying/bidding-in-person "Bidding in Person")
-    * [Online Bidding](https://web.archive.org/buying/bidding-online "Online Bidding")
-    * [Proxy Bidding](https://web.archive.org/buying/proxy-bidding "Proxy Bidding")
-    * [Timed Auctions](https://web.archive.org/buying/timedauctions "Timed Auctions")
-    * [Deposits & Payments](https://web.archive.org/buying/online-payment-service "Deposits & Payments")
+    * [How To Buy](https://web.archive.org/buying/how-to-buy "How To Buy")
+    * [Read Before You Bid](https://web.archive.org/buying/read-before-you-bid "Read Before You Bid")
+    * [Bid Deposits & Payments](https://web.archive.org/buying/bid-deposits-and-payments "Bid Deposits & Payments")
     * [Services](https://web.archive.org/buying/services "Services")
-    * [Financing](https://web.archive.org/financing "Financing")
-    * [Terms and Conditions of Bidding](https://web.archive.org/buying/terms-and-conditions "Terms and Conditions of Bidding")
-    * [FAQ: Bidding & Buying](https://web.archive.org/buying/faq-bidding-and-buying "FAQ: Bidding & Buying")
+    * [Buying Tips](https://web.archive.org/buying/tips-for-buyers "Buying Tips")
+    * [What Buyers Say](https://web.archive.org/buying/what-buyers-say "What Buyers Say")
   * [Sell](https://web.archive.org/selling "Sell")
-    * [Benefits of Selling](https://web.archive.org/selling/benefits-of-selling "Benefits of Selling")
-    * [Our Auction Process](https://web.archive.org/selling/our-auction-process "Our Auction Process")
-    * [Paid Appraisals](https://web.archive.org/selling/paid-appraisals "Paid Appraisals")
-    * [1031 Like-Kind Exchanges](https://web.archive.org/selling/like-kind-exchanges "1031 Like-Kind Exchanges")
-    * [Refurbishing](https://web.archive.org/selling/refurbishing "Refurbishing")
-    * [FAQ: Selling](https://web.archive.org/selling/faq-selling "FAQ: Selling")
+    * [About our auctions](https://web.archive.org/selling/about-our-auctions "About our auctions")
+    * [Our solutions](https://web.archive.org/selling/our-solutions "Our solutions")
+    * [Services for sellers](https://web.archive.org/selling/services-for-sellers "Services for sellers")
+    * [Tips & resources](https://web.archive.org/selling/tips-and-resources-for-sellers "Tips & resources")
+    * [Customer testimonials](https://web.archive.org/selling/customer-testimonials "Customer testimonials")
+    * [Contact us to sell](https://web.archive.org/selling/sell-now "Contact us to sell")
   * [About Us](https://web.archive.org/aboutus "About Us")
-    * [Company Overview](https://web.archive.org/aboutus/company-overview "Company Overview")
     * [History](https://web.archive.org/aboutus/history "History")
-    * [Leadership & Directors](https://web.archive.org/aboutus/management "Leadership & Directors")
+    * [Management](https://web.archive.org/aboutus/management "Management")
     * [Testimonials](https://web.archive.org/aboutus/testimonials "Testimonials")
     * [Health & Safety](https://web.archive.org/aboutus/health-and-safety "Health & Safety")
     * [Environment](https://web.archive.org/aboutus/environment "Environment")
@@ -58,12 +52,10 @@
   * [My Account](https://web.archive.org/myaccount/summary "My Account")
     * [Summary](https://web.archive.org/myaccount/summary "Summary")
     * [Registrations](https://web.archive.org/myaccount/registrations "Registrations")
-    * [Watchlist](https://web.archive.org/myaccount/watchlist "Watchlist")
-    * [Saved Searches](https://web.archive.org/myaccount/saved-searches "Saved Searches")
+    * [My Equipment](https://web.archive.org/myaccount/my-equipment "My Equipment")
+    * [Preferences](https://web.archive.org/myaccount/preferences "Preferences")
     * [Deposits & Payments](https://web.archive.org/myaccount/deposits-and-payments "Deposits & Payments")
     * [Financing](https://web.archive.org/myaccount/financing "Financing")
-    * [Subscriptions](https://web.archive.org/myaccount/subscriptions "Subscriptions")
-    * [Services](https://web.archive.org/myaccount/services "Services")
     * [My Profile](https://web.archive.org/myaccount/profile "My Profile")
     * [Terms and Conditions](https://web.archive.org/myaccount/terms-and-conditions "Terms and Conditions")
   * [Blog](https://web.archive.org/blog "Blog")
@@ -188,4 +180,4 @@ Last Revised: January 9, 2013
 
 Version: 5.0
 
-Node: dc1vplfry05.rbauction.net 
+Node: dc1vplfry06.rbauction.net 
