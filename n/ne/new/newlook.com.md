@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929233930id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlook.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022444id_/http%3A//www.newlook.com/furniture/help_centre_faq.jsp%3FpageName%3DPrivacy%2Bpolicy) for the most accurate reproduction.*
 
 # Help Centre | New Look
 
@@ -226,6 +226,43 @@ Opera
             * Select 'Accept cookies'.
 
 If you are not happy with the way that we use cookies then you should delete New Look cookies having visited the site, or you should browse the site using your browsers anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+
+Close
+
+            *               * ## Account security
+
+                * ### Why do I need a password for my account?
+
+To access your stored data on our site, you will need to input your account and password details (login details). You're responsible for maintaining the confidentially of your login details and any activities that occur under your account. If you have any concerns about your login details or think they have been misused, please contact Customer Services straight away to let us know. We can deactivate your account at any time.
+
+Third party services
+
+We may from time to time make available through our site certain services provided by third parties. To gain access to these services, you must register with these third parties and deal with them direct. We have no control over the content of those third party sites or the performance of these services. Please do note that you use these services at your own risk and that we can't accept any responsibility for them or for any loss or damage that may arise from your use of them. Please check these policies before you submit any personal data to these websites.
+
+Close
+
+                * ### Improving your Password Security
+
+In September 2010 we made the way we handle your passwords even more secure. After this date if you have forgotten your password, want to create a new account or want to update an existing password it now has to be at least 7 characters and contain a mix of letters and numbers. Passwords created before this date will continue to work as normal.  
+Close
+
+                * ### How secure is my payment?
+
+We're working with Visa and MasterCard to make shopping online with a credit card even safer, and to help protect your card against unauthorised use, just like Chip and Pin does. If your bank or card issuer is already part of this scheme, you may have already seen the Verified by Visa or MasterCard SecureCode page when shopping online. If your bank hasn't yet introduced these measures, here's what you need to know: \- Shop online with added security and peace of mind \- Your password will be linked to your card, not your computer \- This will help prevent unauthorised purchases. How it works: When you reach the checkout at newlook.com (or any other participating store), you can register for Verified by Visa or MasterCard SecureCode. Just sign up using the on-screen prompts, create a password, and continue shopping. You only have to sign up once, and can then use your password for any future online purchases. Alternatively, you can contact your bank directly for more information. Please note that if you choose not to register during your order today, we may need to ask you for an alternative payment method to complete your purchase.
+
+Close
+
+                * ### Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us via the contact form.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+Close
+
+                * ### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be sent via the contact form on the [Contact Us](http://www.newlook.com/furniture/contact_us.jsp) page
 
 Close
 
