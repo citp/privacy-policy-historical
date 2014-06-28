@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208035637id_/http%3A//www.ama.ab.ca/general/ama-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628200608id_/http%3A//ama.ab.ca/about-ama/privacy-policy) for the most accurate reproduction.*
 
-# Alberta Motor Association privacy policy
+# Privacy Policy | AMA
 
-_[_Click here for the Alberta Motor Association Internet Privacy Statement._](https://web.archive.org/general/internet-privacy)_
+_[Click here for the Alberta Motor Association Internet Privacy Statement.](https://web.archive.org/about-ama/internet-privacy-statement/)_
 
 ## Introduction
 
@@ -47,25 +47,25 @@ AMA employees are informed and educated on the importance of protecting the priv
 AMA will protect your privacy, and in particular your personal information, in accordance with the 10 Principles of Privacy. These principles have been established by the Government of Canada and the Government of Alberta.
 
   1. **Accountability**  
-AMA is responsible for personal information under its control. AMA will designate one or more persons who are accountable for compliance with the 10 Principles of Privacy. 
+AMA is responsible for personal information under its control. AMA will designate one or more persons who are accountable for compliance with the 10 Principles of Privacy.
   2. **Identifying Purposes  
-**AMA will identify the purposes for which personal information is collected at or before the time the information is collected. 
+**AMA will identify the purposes for which personal information is collected at or before the time the information is collected.
   3. **Consent  
-**Consent is required for AMA’s collection, use or disclosure of personal information, except where required or permitted by law. Consent can be implied, deemed or expressly given. 
+**Consent is required for AMA’s collection, use or disclosure of personal information, except where required or permitted by law. Consent can be implied, deemed or expressly given.
   4. **Limiting Collection**  
-Personal information collected will be limited to that which is necessary for the purposes identified by AMA. 
+Personal information collected will be limited to that which is necessary for the purposes identified by AMA.
   5. **Limiting Use, Disclosure and Retention**  
-AMA will not use or disclose personal information for purposes other than those for which the information was collected, except with your consent or as required by law. AMA will retain personal information only for as long as is necessary to fulfill the purposes for collecting such information. 
+AMA will not use or disclose personal information for purposes other than those for which the information was collected, except with your consent or as required by law. AMA will retain personal information only for as long as is necessary to fulfill the purposes for collecting such information.
   6. **Accuracy  
-**Personal information will be maintained by AMA in an accurate, complete and up-to-date form as is necessary to fulfill the purposes for which the personal information is to be used. 
+**Personal information will be maintained by AMA in an accurate, complete and up-to-date form as is necessary to fulfill the purposes for which the personal information is to be used.
   7. **Safeguards**  
-AMA will protect personal information with security safeguards appropriate to the sensitivity of the information. 
+AMA will protect personal information with security safeguards appropriate to the sensitivity of the information.
   8. **Openness  
-**AMA will make readily available its policies and practices relating to the management of personal information. 
+**AMA will make readily available its policies and practices relating to the management of personal information.
   9. **Customer Access**  
-Upon request AMA will inform you of the existence, use and disclosure of your personal information. We can also provide you access to your personal information, subject to any legal restrictions. You may verify the accuracy and completeness of your personal information, and may request that the information be corrected or updated, if appropriate. 
+Upon request AMA will inform you of the existence, use and disclosure of your personal information. We can also provide you access to your personal information, subject to any legal restrictions. You may verify the accuracy and completeness of your personal information, and may request that the information be corrected or updated, if appropriate.
   10. **Challenging Compliance  
-**You may direct any questions or inquiries concerning our compliance with AMA’s Privacy Policy to the Chief Privacy Officer. The contact information is listed at the bottom of this page. 
+**You may direct any questions or inquiries concerning our compliance with AMA’s Privacy Policy to the Chief Privacy Officer. The contact information is listed at the bottom of this page.
 
 
 
