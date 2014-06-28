@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203035950id_/https%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112038id_/https%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy - EB Games Australia
 
 **Electronics Boutique Australia Pty Ltd. ABN 50 077 681 442** is aware of your concerns about use of your personal information. We collect personal information from our customers in the regular course of doing business.  This notice describes our privacy policy. By visiting ebgames.com.au or ebgames.co.nz, you are accepting the practices described in this privacy notice.
 
-Our privacy policy applies to personal information we collect from customers online who visit ebgames.com.au or ebgames.co.nz; it also applies to any personal information collected at our retail stores and outlets. 
+Our privacy policy applies to personal information we collect from customers online who visit ebgames.com.au or ebgames.co.nz; it also applies to any personal information collected at our retail stores and outlets, or via our EB World loyalty program. 
 
 In this document, the word "computer" means any device used to connect to ebgames.com.au and ebgames.co.nz, including, but not limited to, mobile devices.
 
 ### Your Consent to Collection of Your Personal Information
 
-When you provide us with personal information to complete a transaction, place a pre-order, or return a purchase, we assume you consent to our collecting your personal information and using it for that specific reason.  Please note that our refund policy is prominently displayed in each store location at the point of sale terminal. 
+When you provide us with personal information to complete a transaction, place a pre-order, return a purchase, or sign up to the EB World loyalty program, we assume you consent to our collecting your personal information and using it for that specific reason.  Please note that our refund policy is prominently displayed in each store location at the point of sale terminal. 
 
 If we ask you for personal information for a secondary reason, like contests, we will either ask you directly for your consent or provide you with an opportunity to say no. 
 
@@ -22,7 +22,7 @@ Return to Top
 
 You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure of your information. We will accommodate your request following receipt of such notice, subject to legal and contractual restrictions related to your transactions. 
 
-If you have "opted in" or subscribed to one of our newsletters or mailing lists, you may "opt out" or unsubscribe at any time.  
+If you have signed up to our EB World loyalty program you may "opt out" or unsubscribe from all mailings and other contact options at any time, either via your online profile, the link provided in all mailings, or by contacting our Customer Service team.  
 
 When you choose to provide us with your personal information, you consent to the use and disclosure of your personal information as stated in this Privacy Policy and as may be further stated at the time of collection. 
 
@@ -35,8 +35,9 @@ Information That You Give Us: We receive and store any information you enter on 
 Personal information is information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion.  We may collect personal information including the following: 
 
   * Contact information – your name, postal address, telephone number, and email address; and your Driver’s License or any other applicable piece of identification in accordance with the federal and state statutes
-  * Personal preferences – opinions, interests, hobbies, product wish lists, language preferences, and marketing consent; and 
-  * Financial information and transaction information – products purchased, method of payment, amount paid, and credit or debit card number. 
+  * Personal preferences – opinions, interests, hobbies, product wish lists, language preferences, and marketing consent 
+  * Financial information and transaction information – products purchased, method of payment, amount paid, and credit or debit card number 
+  * Information provided via social media, such as providing your name or contact details via the EB Games Facebook, Twitter or Instagram presences or other social media sites 
 
 
 
@@ -44,7 +45,7 @@ We also collect non-personal information.  Non-personal information does not id
 
 We obtain information about you when you search, participate in a contest or questionnaire, communicate with customer service, or otherwise contact us or post information on the website. For example, you provide information when you search for a product or provide information to update or create your account with us, communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; or create any alerts or other email notification services we may offer now or in the future. The information collected includes any personal information that you provide to us, as described above, or that you post on the website.
 
-We ask for your age to determine what promotions we send. We limit some promotional offers to customers of a certain age or older.
+We ask for your age to determine what promotions we send. We limit some promotional offers and product availability to customers of a certain age or older, as required by Australian and New Zealand video game ratings regulations.
 
 We occasionally run our own email surveys and we ask visitors for contact, demographic and technical information. 
 
@@ -74,13 +75,17 @@ Following a purchase, we may send you a follow-up letter either thanking you for
 
 You can browse our websites anonymously.  However, to order products and services from our websites, or to use special features or functions of our websites, you may be asked to provide personal information, such as your name, email address, postal address, telephone number, or credit or debit card information. We use this information to create your account, contact and correspond with you about your order, respond to your inquiries, and monitor functions or features of our websites that you may use.
 
+#### Social Media
+
+Information that you have provided via social media pages, such as providing your name or contact details via the EB Games Facebook pages, or our Twitter or Instagram accounts for issues or complaints registered via our social channels or other social media sites that we use.
+
 #### Customer Reviews and Posted Content
 
-We may provide you with the ability to rate or review products or services we sell, or otherwise post content on our websites.  Any comments or reviews that you provide are accessible to all visitors to our website, so you should use discretion when posting information, and you should not post personal information.  EB Games has no responsibility if you do post personal information.  Subject to the other provisions of this privacy policy relating to your personal information, you grant a perpetual worldwide non-exclusive license to EB Games to copy, use and/or display any content that you post on any of our websites.
+We may provide you with the ability to rate or review products or services we sell, or otherwise post content on our websites.  Any comments or reviews that you provide are accessible to all visitors to our website, so you should use discretion when posting information and you should not post personal information.  EB Games has no responsibility if you do post personal information.  Subject to the other provisions of this privacy policy relating to your personal information, you grant a perpetual worldwide non-exclusive license to EB Games to copy, use and/or display any content that you post on any of our websites.
 
-#### Newsletters or Updates
+#### Loyalty Program and Other Mailings
 
-EB Games also may offer you the opportunity to sign up for newsletters or other promotional communications.  If you decide to do so, we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”.  We do not rent our subscriber list or offer to sell it to other parties.
+EB Games also may offer you the opportunity to sign up for newsletters or other promotional communications via the EB World loyalty program.  If you decide to do so, we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter, updating your Communications Preferences in your Online Profile, or by contacting our Customer Service team.
 
 #### Contest and Other Promotions
 
@@ -127,7 +132,7 @@ Return to Top
 
   * Customer service
   * As part of extended service agreements
-  * To administer a loyalty program, including but not limited to tracking and analyzing your purchases and preferences to better understand your product and service needs and eligibility
+  * To administer a loyalty program, including but not limited to analysing your purchases and preferences to better understand your product and service needs
   * To tailor our online content or in-store offerings based on your preferences
   * To measure and improve the effectiveness of our websites or our marketing endeavours
   * If you ask us, to offer and promote additional products and services we offer
@@ -138,43 +143,38 @@ Return to Top
 
 Return to Top
 
-### An Explanation of "Cookies"
-
-Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognise your browser when you make future visits to our website, and to store certain information between visits.
-
-You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on.
-
-#### Website Tracking Information
-
-Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. We may use web beacons (sometimes called “clear gifs”, “web bugs” or “pixel tags”) to compile tracking information reports regarding website user demographics, website traffic patterns, and website purchases. We may then provide these reports to advertisers and others. None of the tracking information in these reports can be connected to the identities or other personal information of individual users. In addition, we may use web beacons in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you do not want to receive these emails, please see the “unsubscribe” section below.  For EB Games’ own research purposes we may link tracking information with personal information voluntarily provided by website users. Once such a link is made, all of the linked information is treated as personal information and will be used and disclosed only in accordance with this Privacy Policy.
-
-#### Links to Other Websites
-
-Our website may contain links that permit you to link to other websites or Internet resources. When you click on one of those links you are connecting to another website or Internet resource. EB Games has no responsibility or liability for, or control over, those other websites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other websites before you submit any personal information to them.
-
-#### In-Store Video Surveillance
-
-EB Games retail stores may use video surveillance for safety and loss prevention purposes. The recorded images of our customers, and audio recording of our store premises, may be accessed as part of our security procedures in the store. There also may be occasions where video recording of store activity is used for general demographic or traffic flow analysis.
-
-#### Data on Returned Product
-
-If you return products that may contain stored or recorded personal information, like computers, game consoles, etc., you are responsible for deleting or removing all personal information and media from your product before you return it. EB Games is not responsible for any personal data or media that you do not delete or remove from such product.
-
-#### We May Supplement Information
-
-From time to time we may supplement information you give us with information from other sources, such as information validating your address or other available information you have provided to us. This is to help us maintain the accuracy of the information we collect and to help us provide better service.
-
-Return to Top
-
 ### Sharing of Information
 
-EB Games does not sell or rent our customers’ personal information to any other party. EB Games may share personal information gathered on our websites with EB Games retail stores (and vice versa) and amongst our corporate parents, subsidiaries, affiliates or divisions for internal business purposes in accordance with this Privacy Policy.  If EB Games shares your information within its corporate family, we will ensure that your information continues to be used only in accordance with this Privacy Policy and your expressed choices. Also, in the normal course of business, we may share some of your personal information with third parties acting on our behalf or as permitted or required by law.  If a third party acting on our behalf has different policies than EB Games relating to privacy, then the website pages through which such information is collected from you will state or provide a link to such policies.
+EB Games does not sell or rent our customers’ personal information to any other party. EB Games may share personal information gathered on our websites with EB Games retail stores (and vice versa) and amongst our corporate parents (Gamestop), subsidiaries, affiliates or divisions for internal business purposes in accordance to the Privacy Policy.  If EB Games shares your information within its corporate family, we will ensure that your information continues to be used only in accordance with this Privacy Policy and your expressed choices.  Also, in the normal course of business, we may share some of your personal information with third parties acting on our behalf or as permitted or required by law.  If a third party acting on our behalf has different policies than EB Games relating to privacy, then the website pages through which such information is collected from you will state or provide a link to such policies.
 
 Some of these operations may result in personal information collected by EB Games being stored or processed outside of Australia or New Zealand and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions. 
 
 #### Service Providers
 
-EB Games may use third parties to manage one of more aspects of our business operations, including the processing or handling of personal information.  We may share personal information with such third parties to perform services on our behalf such as e-mail communications, customer lists management, data analysis, fulfilling online orders, processing non-cash payments, sending marketing communications, servicing products, conducting research surveys, verifying and validating information that you have provided to us, delivering products, information systems maintenance, and providing customer support services.  When we do use an outside company, these companies are provided with access to personal information needed to perform their functions, but we use contractual and other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
+EB Games may use third parties to manage one of more aspects of our business operations, including the processing or handling of personal information.  We may share personal information with such third parties to perform services on our behalf – 
+
+Such as:
+
+  * e-mail communications 
+  * customer lists management 
+  * data analysis 
+  * fulfilling online orders 
+  * processing non-cash payments via financial institutions for payment processing 
+  * sending marketing communications 
+  * servicing products 
+  * conducting research surveys 
+  * verifying and validating information that you have provided to us 
+  * delivering products 
+  * information systems maintenance 
+  * providing customer support services 
+
+
+
+When we do use an outside company, these companies are provided with access to personal information needed to perform their functions, but we use contractual and other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
+
+#### Sending Information overseas disclosure
+
+We may disclose personal information to overseas recipients amongst our corporate parents (Gamestop), subsidiaries, affiliates or divisions for internal business, who are located internationally (ie - for example storing data via a cloud service)
 
 #### Promotional Offers May be Sent to You
 
@@ -216,6 +216,12 @@ Return to Top
 You are legally entitled to know what personal information an organisation holds about you and how that information is processed. If you would like to know what information we currently hold about you, please contact us by e-mail at customer.privacy@ebgames.com.au OR customer.privacy@ebgames.co.nz with the subject heading "Information Access". Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it updated or corrected as appropriate. You also may ask us to change your preferences regarding how we use or disclose your information, or let us know that you do not wish to receive any further communication from us.
 
 If you created an account on one of our websites, you can access and change your online account profile yourself. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us as indicated below under the heading “Contacting EB Games”. 
+
+Return to Top
+
+### Correction
+
+If you ask us to correct personal information that we hold about you, or if we are satisfied that the personal information we hold is inaccurate, out of date, incomplete, irrelevant or misleading, we will take reasonable steps to correct that information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.  If we correct personal information about you, and we have previously disclosed that information to another agency or organisation that is subject to the Privacy Act, you may ask us to notify that other entity.  If so, we will take reasonable steps to do so, unless this would be impracticable or unlawful.
 
 Return to Top
 
