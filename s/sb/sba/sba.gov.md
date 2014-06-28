@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628082141id_/http%3A//www.sba.gov/about-sba-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628084705id_/http%3A//www.sba.gov/about-sba/sba_performance/open_government/about_the_sba_gov_website/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | SBA.gov
+# Privacy Policy | The U.S. Small Business Administration | SBA.gov
 
 ###  General Disclaimer
 
@@ -40,7 +40,7 @@ SBA.gov provides interactive forms that let you voluntarily submit personal info
 
 SBA.gov only shares information you voluntarily provide with other government agencies if required by law. SBA.gov never collects information or creates individual profiles for commercial marketing. However, when you join an online community and participate in online discussions, your name and other personal information you provide (except e-mail) are viewable by anyone visiting SBA.gov, unless you choose not share this information with the public on your user profile page. Any personal information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found on the [Freedom of Information Act home page](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm "Freedom of Information Act home page.").
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found on the [Freedom of Information Act home page](http://www.gsa.gov/portal/content/104389 "Freedom of Information Act home page.").
 
 SBA may also use online survey instruments to obtain feedback on your experience with SBA.gov. The survey initiation pops up for a random sample of visitors, is voluntary and does not collect personal information. If you decline the survey you will still have access to the same information and resources of SBA.gov as those who do take the survey. The survey reports are available only to SBA.gov managers and other staff who require this information to perform their duties. The SBA retains the data from the survey results in accordance with its data retention policy.
 
