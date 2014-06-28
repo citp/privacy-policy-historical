@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130150149id_/http%3A//www.totaljobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljobs.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022909id_/http%3A//www.totaljobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ You can remove any of the information that totaljobs.com stores about you, at an
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
-Privacy policy update (Last updated 17 May 2012) 
+Privacy policy update (last updated 28 May 2014) 
 
 ## Registration details
 
@@ -39,6 +39,10 @@ An IP address, or 'internet protocol address', is a unique identifying number gi
 ## Statistical information
 
 We provide aggregate statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals. 
+
+## Online Behavioural Advertising
+
+We partner with third-party advertising networks to either display advertising on our Web site or to manage our advertising on other sites. These ad network partners may utilise cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. They do not collect and do not have access to any personally identifiable information. They may, however, anonymously track your Internet usage across other websites in their networks beyond these Sites. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partners by opting out please visit the Network Advertising Initiative by clicking [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) or visit their privacy statements: [Adtech](http://www.adtech.com/en/bottomnavigation/privacy-policy.html), [Atlas](http://atlassolutions.com/privacy-policy/), [Emediate](http://www.emediate.com/143/), [Criteo](http://www.criteo.com/en/privacy-policy), [Google](http://www.google.co.uk/intl/en/policies/technologies/ads/), [Omniture](http://www.omniture.com/en/privacy), [Krux](http://www.krux.com/krux_privacy/consumer_choice) and [Epsilon](http://www.epsilon.com/privacy-policy).
 
 ## Security
 
