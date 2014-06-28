@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216182406id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020551id_/http%3A//www.proboards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProBoards
 
@@ -18,7 +18,7 @@ Each time You use the Website, the then-current version of this Privacy Policy w
 
 > a. **Traffic Data.** ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** ").
 > 
-> b. " **Cookies** " are text files that are placed on your computer by websites that you visit or certain emails that you open. A Cookie acts as a string of information that a website stores on a users computer, and that the users browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies.
+> b. " **Cookies** " are text files that are placed on your computer by websites that you visit or certain emails that you open. A Cookie acts as a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies.
 > 
 > ProBoards uses cookies on the Website for the following purposes:
 > 
