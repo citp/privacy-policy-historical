@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508082538id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628134413id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Screenleap
 
@@ -6,7 +6,7 @@ Last updated September 28, 2012
 
 Effective November 1, 2011
 
-We at Screenleap that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using our various websites (collectively, the "Website"), API ("API"), or services (collectively, the "Services"), acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+We at Screenleap know that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By visiting or using our various websites (collectively, the "Website"), API ("API"), or services (collectively, the "Services"), acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
 ## I. What Does This Privacy Policy Cover?
 
@@ -18,7 +18,7 @@ The information we gather from customers enables us to personalize and improve o
 
 **A. Personal Information You Provide to Us:**
 
-We receive and store any information you provide to us. The types of Personal Information collected may include your name, phone number, email address, friends names, credit card information, IP address, and browser information. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. We use the Personal Information you provide to enhance your Website experience.
+We receive and store any information you provide to us. The types of Personal Information collected may include your name, phone number, email address, credit card information, IP address, and browser information. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. We use the Personal Information you provide to enhance your Website experience.
 
 **B. Personal Information Collected Automatically:**
 
