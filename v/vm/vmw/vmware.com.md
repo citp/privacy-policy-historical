@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210162145id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmware.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024946id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | United States
 
-Effective Date: May 21, 2013
+Effective Date: March 31, 2014
 
-VMware respects the privacy of our customers, business partners and other visitors to our websites. We recognize the need for appropriate protections and management of your personal information that you provide to us. VMware has therefore established this Privacy Statement to assist you to understand what personal information we collect and how that personal information is used. This Privacy Statement applies to data collected by VMware Inc. and VMware Global ("VMware") through the vmware.com website, the My VMware mobile application, and other webpages which we operate and in which we post a direct link to this statement.
+VMware respects the privacy of our customers, business partners and other visitors to our websites. We recognize the need for appropriate protections and management of your personal information that you provide to us. VMware has therefore established this Privacy Policy to assist you to understand what personal information we collect and how that personal information is used. This Privacy Policy applies to data collected by VMware Inc. and its related entities in your jurisdiction ("VMware") through the vmware.com website, the My VMware mobile application, and other webpages which we operate and in which we post a direct link to this policy.
 
 ##### What personal information does VMware collect?
 
@@ -12,23 +12,25 @@ On VMware web sites you can order products or services, register products, reque
 
 ##### How does VMware use personal information?
 
-VMware will use personal information to provide customers, business partners and website visitors with information and services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to deliver products/services to you, to bill you for products/services you purchased, and to provide ongoing service and support. We may also pass on your information to a third party, such as a partner, if you have asked us to do so. Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes.
+VMware will use personal information to provide customers, business partners and website visitors with information and services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to deliver products/services to you, to bill you for products/services you purchased, and to provide ongoing service and support. If you do not provide us with your personal information, we may be unable to complete these functions. We may also pass on your information to a third party, such as a partner, if you have asked us to do so. Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes.
 
 ##### With whom does VMware share personal information?
 
-VMware contracts with third party service providers and suppliers (including distributors and resellers) to deliver certain products, services and customer solutions. VMware may share personal information with its service providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. Third party service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement. They are required to keep confidential the personal information received from VMware and may not use it for any purpose other than as originally intended.
+VMware contracts with third party service providers and suppliers (including distributors and resellers) to deliver certain products, services and customer solutions. VMware may share personal information with its service providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. Third party service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Policy. They are required to keep confidential the personal information received from VMware and may not use it for any purpose other than as originally intended.
 
 Some VMware services may be co-branded and offered in conjunction with another company. If you register for or use such services, both VMware and the other company may receive information collected in conjunction with the co-branded services.
 
-Except as described in this Privacy Statement, VMware is not in the business of selling or renting your information to others and will not share personally identifiable information with other third parties without your permission, unless required by, or in connection with, law enforcement action, subpoena or other litigation, or applicable law or in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business, or within the group of affiliated VMware companies, if and to the extent legally permissible.
+Except as described in this Privacy Policy, VMware is not in the business of selling or renting your information to others and will not share personally identifiable information with other third parties without your permission, unless required by, or in connection with, law enforcement action, subpoena or other litigation, or applicable law or in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business, or within the group of affiliated VMware companies, if and to the extent legally permissible.
 
 We reserve the right to fully use and disclose any information that is not in personally identifiable form.
 
+##### Transfer of Your Information to Other Countries
+
+In accordance with applicable law, personal information covered by this Privacy Policy may be transferred to, and processed in, the United States or any other country in which VMware or its affiliates, subsidiaries or service providers maintain facilities, even if the level of data privacy required in that country is less than required by the European Union or under the Safe Harbor. By way of example, VMware maintains facilities in Canada, India, and Ireland, among other countries. By submitting your personal information to VMware, you consent to such transfers and to the worldwide processing of your personal information.
+
 ##### Communication Preferences
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@vmware.com](mailto:privacy@vmware.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-If you would like to request access to personal information that we may have collected from you (possibly subject to handling fees), please contact [privacy@vmware.com](mailto:privacy@vmware.com). To protect your privacy and security, we may take steps to verify your identity, such as a password and user ID, before granting access to data.
+If you would like to request access to or have a correction made to personal information that we may have collected from you (possibly subject to handling fees), please contact [privacy@vmware.com](mailto:privacy@vmware.com). To protect your privacy and security, we may take steps to verify your identity, such as a password and user ID, before granting access to data.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@vmware.com](mailto:privacy@vmware.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -38,7 +40,7 @@ VMware is committed to taking reasonable efforts to secure the personal data you
 
 Some of VMware's websites allow our users to publish content via discussion forums, blogs, user-editable documents, and commenting systems. Any information that is disclosed in these forums becomes public information which could be read, collected or used by other users to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should exercise caution when deciding to disclose your personal information.
 
-VMware may, from time to time, send email regarding our products and services to users who have posted to our discussion forums, blogs, user-editable documents, and commenting systems. Each participant's opinion expressed is his or her own and should not be considered as reflecting the opinion of VMware. Note also that your use of these online communication tools is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of California law. Personal information given to VMware may be transferred across state and country borders for data consolidation, storage and simplified information management.
+VMware may, from time to time, send an email regarding our products and services to users who have posted to our discussion forums, blogs, user-editable documents, and commenting systems. Each participant's opinion expressed is his or her own and should not be considered as reflecting the opinion of VMware. Note also that your use of these online communication tools is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of California law. Personal information given to VMware may be transferred across state and country borders for data consolidation, storage and simplified information management.
 
 ##### Cookies, Logging and Spotlight Tags
 
