@@ -1,97 +1,63 @@
-> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202073104id_/http%3A//www.snort.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snort.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171209id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
-# Snort :: Privacy
+# Cisco Online Privacy Statement Highlights - Cisco Systems
 
-### SNORT.ORG PRIVACY POLICY
+## CISCO PRIVACY PORTAL
 
-Snort® is a Registered Trademark owned by Sourcefire, Inc. ("Sourcefire"), a Delaware corporation, and this web site (the **"Web Site"** ) is owned and operated by Sourcefire. Sourcefire knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Snort.org's web site, or using any of our content or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Cisco’s privacy portal is dedicated to sharing our privacy and compliance journey with customers, partners and colleagues. We recognize that a key to our business is building and maintaining trust, reducing risk and simply doing what is right. Fundamental to that concept is our philosophy that “Protecting information is everyone’s responsibility.”
 
-### WHAT DOES THIS PRIVACY POLICY COVER?
+[****Learn More****](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1)
 
-This Privacy Policy covers Sourcefire's treatment of personally identifiable information (" **Personal Information** ") that Sourcefire gathers when you access and use the Web Site and when you use content and/or services on the Web Site. This policy does not apply to any individuals that Sourcefire does not employ or manage.
+_The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco’s websites and our affiliates’ websites that link to the Statement._
 
-### WHAT PERSONAL INFORMATION DOES SOURCEFIRE COLLECT?
+Cisco respects and is committed to protecting your personal information. Our privacy policies reflect current global principles and standards on handling personal information – notice and choice of data use, data access and integrity, security, onward transfer and enforcement/oversight. Below are some of the highlights of our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
-The information we gather from users enables us to personalize and improve our content and services. We currently collect the following types of information from our customers. 
+### Personal Information
 
-### Personal Information You Provide to Us:
-
-We receive and store any information you enter on our Web Site or provide to us in any other way. The types of Personal Information collected includes: company name, company contact name and title, company address, company contact email address, company telephone and facsimile number, company website URL, hardware and software information, total users at main location and company current proxy solutions. Sourcefire has highlighted the fields within the forms located throughout the Web Site that are minimally required for you to complete in order for Sourcefire to provide you with the most complete content and/or service. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain content and services, identifying you, and communicating with you about specials and new products.
-
-Personal Information you provide us may also include other information when needed to provide a service you request. For example, if you choose to become a registered user or a subscriber, we may request other personal information such as: name, address, telephone number, credit card number and shipping information. When you buy or license a new product or service, we may ask you to register your transaction electronically. When you do, we keep this registration information on file with any information you have already given us on previous visits to our Web Site. This is considered your personal profile.
-
-### Personal Information Collected Automatically:
-
-  * We receive and store certain types of information whenever you interact with our Web Site. Sourcefire automatically receives and records information on our server logs from your browser including your IP address, Sourcefire cookie information, and the page you requested.
-  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Sourcefire only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users access parts of the Web Site so that we can make the Web Site appealing to as many users as possible, and improve the content.
-  * Many companies offer programs that help you to visit web sites anonymously. While Sourcefire will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+  * We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, personalizing your experience, or in connection with a job application.
+  * We will inform you of the purpose for collecting personal information when we collect it from you and keep it to fulfill the purposes for which it was collected or as required by applicable laws or for legitimate purposes.
+  * We may combine the information we collect from you with information obtained from other sources to help us improve its overall accuracy and completeness, and to help us better tailor our interactions with you.
+  * We may also collect information relating to your use of our websites through the use of various technologies, including cookies.
 
 
 
-### E-mail Communications:
+### Notice and Your Choices of Data Use
 
-We will send you email communications to inform you about specials, product updates, new products, or provide you with field alerts notices and newsletters only if you specifically elect to receive such correspondence. If you do not affirmatively elect to receive such correspondence, we will not send you any of the above information. If you do elect to receive such correspondence and you later decide that you do not want to receive e-mail or other mail from us, you may (i) follow the‚ "Unsubscribe‚" option located at the end of any newsletter received by you from Sourcefire, (ii) update your settings by logging into Snort.org and updating your preferences and or (iii) simply contact Sourcefire and we will update our records accordingly.
-
-### Personal Information From Other Sources:
-
-For purposes such as improving personalization of our content and/or service, we may receive information about you from other sources and add it to our account information.
-
-### What About Cookies?
-
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Sourcefire cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web Site's most attractive features.
+  * We will use your personal information for the purpose it was collected and will not use it for a different purpose without first asking for your permission.
+  * We will ask your permission before we share your personal information with third parties for any purpose other than the reason you provided it or as otherwise stated in our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
+  * For information relating to your use of our websites, you may turn off cookies in your browser.
 
 
 
-### Will Sourcefire share any of the Personal Information it Receives?
+### Data Access and Integrity
 
-Keeping your Personal Information private is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with those personnel responsible for managing the Web Site.
-
-**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide content or services to you. Examples include sending email/removing repetitive information from user lists/analyzing data/processing credit card payments/and providing user support. Unless we tell you differently, our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
-
-**Business Transfers:** In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Sourcefire, or substantially all of its assets were acquired, or in the unlikely event that Sourcefire goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Sourcefire or its assets may continue to use your Personal Information as set forth in this policy.
-
-**Protection of Sourcefire, Snort.org and Others:** We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Sourcefire, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-
-**With Your Consent:** Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
-
-### Is Personal Information about me secure?
-
-Your Snort.org account Personal Information is protected by a password for your privacy and security. You need to ensure authorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
-
-We use industry-standard Secure Socket Layer (SSL) software to protect the security of your Personal Information during transmission. This software encrypts all of the information you input.
-
-### What Personal Information Can I Access?
-
-Sourcefire allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as our Web Site changes.
-
-You may access "User Preferences" by visiting <https://www.snort.org/account> to view and update your information.
-
-### What Choices Do I Have?
-
-  * As stated previously, you can always opt not to disclose information to use, even though it may be needed to make a purchase or take advantage of certain Snort.org features.
-  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request termination of your Snort.org account by sending an email to [snort-site@sourcefire.com](mailto:snort-site@sourcefire.com). Please note that some information may remain in our records after termination of your account. Such information may include, but not be limited to, company name, company contact name and title, company address, company contact email address, company telephone and facsimile number.
-  * If you do not wish to receive e-mail or other mail from us, please follow the guidelines listed above in "E-mail Communications". Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Snort.org Web Site, and you are responsible for reviewing such legal notices for changes.
+  * To update your personal information and communication preference, contact [privacy@cisco.com](mailto:privacy@cisco.com) or visit the specific product or service web site.
 
 
 
-### Children's Guidelines.
+### Data Security
 
-Sourcefire respects the sensitive nature of children's privacy online. We are a general audience site, and do not direct any of our content specifically at children under thirteen (13) years of age. We have implemented procedures to ensure that if we obtain actual knowledge of a child's personal information we will take steps to delete that information. In addition, if Sourcefire knows that a user is under age 13, we will NOT: (i) deliberately collect online contact information from that user without prior parental consent, except where used to respond directly to the child's request; (ii)deliberately collect personally identifiable offline contact information from that user without prior parental consent; (iii) deliberately give that user the ability to publicly post or otherwise distribute personally identifiable information without prior parental consent; (iv) distribute to third parties any personally identifiable information of that user without prior parental consent; and (v) entice that user by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+  * We are committed to protecting your personal information against unauthorized use or disclosure.
 
-### Changes to this Privacy Policy.
 
-©2009 Sourcefire, Inc. All rights reserved.
 
-### Sourcefire's Trademarks
+### Onward Transfer
 
-SNORT® and SOURCEFIRE™
+  * As a global company, we may transfer your personal information to Cisco in the United States, to any Cisco subsidiary worldwide or to third parties acting on our behalf located outside of the country where the data is collected where data protection standards may be different.
+  * We do not transfer your personal information to third parties unless those third parties promise to give the information the equivalent level of protection that we provide.
 
-### Copyright Notice
 
-Sourcefire may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used/collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Web Site.
 
-### Questions or Concerns
+### Important Information
 
-If you have any questions or concerns regarding Sourcefire's privacy policy, please send us a detailed message to [privacy@snort.org](mailto:privacy@snort.org). We will make every effort to resolve your concerns.
+  * We follow privacy policies and data protection practices not only to comply with the law but to earn the trust and confidence in Cisco.
+  * We address inquiries or complaints regarding personal information promptly and courteously. Cisco is a member of TRUSTe ([www.truste.com](http://www.truste.com/)) so if you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
+  * Cisco participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of the participation in the Safe Harbor, we have agreed to TRUSTe Watchdog dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
+
+
+
+### References
+
+To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](http://www.cisco.com/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
+
+_Last updated: January 2012_
