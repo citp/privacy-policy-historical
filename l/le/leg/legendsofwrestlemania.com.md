@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the legendsofwrestlemania.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529161027id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofwrestlemania.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628233110id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
 
 # Policy
-
-[](http://www.esrb.org/confirm/thq-confirmation.jsp)
 
 **Privacy Policy – updated** **December 28, 2012** ****
 
@@ -36,10 +34,6 @@
 
 THQ Inc. and its subsidiaries and affiliates (collectively " **THQ** ," " **we** ," " **us** ," or " **our** ") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy (" **Privacy Policy** ") to guide how we collect, store, and use the information you provide us online.
 
-This Privacy Statement and the certification seal located on this page confirm that THQ is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.](http://www.esrb.org/) To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online.
-
-Because the website you are currently visiting displays the ESRB Privacy Online certification seal, you can expect to be notified of the following.
-
   * The scope of this Privacy Policy
     * Exactly what information THQ may collect from you through its website(s)
     * How THQ will use the information it collects
@@ -64,7 +58,7 @@ If you have any questions, complaints, or comments regarding our Privacy Policy,
 
 The website you are currently visiting is operated by THQ located at 29903 Agoura Road, Agoura Hills, CA 91301. This Privacy Policy currently applies to the website(s), games, online games, including social games and the online features of games, operated by or at the direction of THQ (collectively referred to as the " **THQ Properties** "). All THQ Properties are covered by this Privacy Policy and THQ shall take reasonable steps to ensure that they provide a link to this Privacy Policy.
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the THQ Properties (as listed above), and does not apply to information that may be collected by THQ offline. In addition, this Privacy Policy does not extend to websites maintained by our international affiliates (e.g., THQ Australia, THQ UK, THQ France, etc.) or other companies or organizations to which we link. If you access the THQ Properties from a third party social network (“ **Social Site** ”) (e.g., Facebook, Google +), you may be required to also read and accept the terms of service and the privacy policy of such Social Site.  Because we cannot guarantee that the privacy policies of such sites meet the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site.  Through some social networking sites’ privacy settings, you can control what data you share.  For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+Please note that this Privacy Policy applies only to information submitted and collected online through the THQ Properties (as listed above), and does not apply to information that may be collected by THQ offline. In addition, this Privacy Policy does not extend to websites maintained by our international affiliates (e.g., THQ Australia, THQ UK, THQ France, etc.) or other companies or organizations to which we link. If you access the THQ Properties from a third party social network (“ **Social Site** ”) (e.g., Facebook, Google +), you may be required to also read and accept the terms of service and the privacy policy of such Social Site.  Because we cannot guarantee the privacy policies of such sites, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site.  Through some social networking sites’ privacy settings, you can control what data you share.  For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
 When you engage with our content on or through third-party Social Sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application.  We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
 
@@ -216,11 +210,3 @@ THQ Inc.
 29903 Agoura Road  
 Agoura Hills, CA 91301  
 [privacypolicy@thq.com](mailto:privacypolicy@thq.com)
-
-You can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or at:
-
-ESRB Privacy Online  
-Attn.: Director, Privacy Online  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)
