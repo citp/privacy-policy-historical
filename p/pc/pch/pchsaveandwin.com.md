@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pchsaveandwin.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217030723id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchsaveandwin.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628140704id_/http%3A//privacy.pch.com) for the most accurate reproduction.*
 
 # PCH Privacy Policy
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Publishers%20Clearing%20House&sealid=101&ctv_group=PCH)
+[](https://privacy.truste.com/privacy-seal/Publishers-Clearing-House/validation?rid=aab593cf-de19-453b-8c08-dec4d4024af3 "TRUSTe online privacy certification")
 
-**Last Updated 10/25/2013**
+**Last Updated March 26, 2014**
 
 This notice provides highlights of the full [Publishers Clearing House Online Privacy Statement ](https://web.archive.org/privacy-policy). Unless otherwise specified, this notice and the full privacy statement apply to those Publishers Clearing House Web sites and services that display or link to this notice.more...
 
