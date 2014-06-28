@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the juno.com privacy policy that was archived on 2013-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130903033322id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juno.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628214317id_/http%3A//www.juno.com/start/landing.do%3Fpage%3Dwww/legal/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Juno - Privacy and Security</title>
+
+
+<link rel="Shortcut Icon" type="image/ico" href="/static/start/view/img/icon/webicon_j.ico"> 
 
 <link rel="stylesheet" type="text/css" href="/static/start/view/common/css/global-n.css">
 
@@ -10,7 +13,6 @@
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
-<link rel="Shortcut Icon" type="image/ico" href="/static/start/view/img/icon/webicon_j.ico">
 
 
 
@@ -239,7 +241,8 @@ In addition to information collected from you during registration, we collect in
 <ul type="disc">
 <li>online surveys; </li>
 <li>contest and sweepstakes entries; </li>
-<li>technical and customer service calls; and </li>
+<li>technical and customer service calls;  </li>
+<li>your voluntary submission of information; and</li>
 <li>email correspondence with us.  </li>
 </ul>
 Note that surveys may be conducted by an independent third party and completion of surveys is voluntary.  If you do not wish to participate in a survey, simply decline to participate when asked, but we would like your feedback in order to improve our Sites and Services.
@@ -387,6 +390,7 @@ The information we collect from users is processed and maintained in the United 
 Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies. 
 <br><br>Digital Advertising Alliance:  <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>
 <br><br>Network Advertising Initiative:  <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>
+<br><br>JumpTap:  <a href="https://opt.jumptap.com/optout/opt" target="_blank">https://opt.jumptap.com/optout/opt</a>
 <br><br>
 <br><br>
 
@@ -410,6 +414,7 @@ Please click on the links below to identify those companies that have placed an 
 <table id="BOTTOM" align="center" width="965" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
  <td colspan="4" align="center">
+
 
 
 
@@ -577,15 +582,13 @@ td.globalfooter { background-color:#FFF; border:1px solid #CCCCCC; padding:0px; 
 	
 
 
-<table class="globalfooter_outside" style="width:auto;">
+<table class="globalfooter_outside">
   <tbody><tr> 
     <td class="globalfooter">
-  <table width="100%" align="center" cellpadding="0" cellspacing="0">
+  <table width="725" align="center" cellpadding="0" cellspacing="0">
    <tbody><tr>
-    <td width="120" height="24" align="center" class="fontstyle" style="border-right-color: #CCCCCC; border-right-width:1px; border-right-style:solid;"><a href="http://www.untd.com" style="color:#004182;font-weight:bold;" target="_blank">United Online</a></td>
-    <td width="80" align="center" class="fontstyle" style="padding:3px 10px;"><a href="http://www.ftd.com" style="color:#004182;font-weight:bold;" target="_blank">FTD Flowers</a></td>
-    <td class="pipestyle">|</td>
-    <td width="90" align="center" class="fontstyle" style="padding:3px 10px;"><a href="http://www.memorylane.com" style="color:#004182;font-weight:bold;" target="_blank">Memory Lane</a></td>
+    <td width="125" height="24" align="center" class="fontstyle" style="border-right-color: #CCCCCC; border-right-width:1px; border-right-style:solid;"><a href="http://www.untd.com" style="color:#004182;font-weight:bold;" target="_blank">United Online</a></td>
+    <td width="95" align="center" class="fontstyle" style="padding:3px 10px;"><a href="http://www.classmates.com" style="color:#004182;font-weight:bold;" target="_blank">Classmates</a></td>
     <td class="pipestyle">|</td>
     <td align="center" class="fontstyle" style="padding:3px 10px;"><a href="http://www.mypoints.com" style="color:#004182;font-weight:bold;" target="_blank">MyPoints</a></td>
     <td class="pipestyle">|</td>
@@ -602,7 +605,7 @@ td.globalfooter { background-color:#FFF; border:1px solid #CCCCCC; padding:0px; 
 
 </center>
   <p class="font-copyright">
-  © 1995-2013 Juno Online Services, Inc. Juno  is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
+  © 1995-2014 Juno Online Services, Inc. Juno  is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
 	</p>
 </div>
 
@@ -700,11 +703,16 @@ var context = '';
 
 
 if(servlet != 'sp'){
-	logPageView(servlet,pname,'BAC0DA23EF1BCE5CAA89C8B392ABC865.DCA-AS03','http://track.juno.com',context);	
+	//logPageView(servlet,pname,'8D18B11B55E3E32136346C356BB30FDB.DCA-AS10','http://track.juno.com',context);
+	try{
+		logPageView(servlet,pname,'8D18B11B55E3E32136346C356BB30FDB.DCA-AS10','http://track.juno.com',context);
+	 }
+	catch(e){		
+	} 
 }
 
 function debug_pv_values(){
-	alert('servlet='+servlet+'\npname='+pname+'\nsID=BAC0DA23EF1BCE5CAA89C8B392ABC865.DCA-AS03\ntrackServer=http://track.juno.com\ncontext='+context)
+	alert('servlet='+servlet+'\npname='+pname+'\nsID=8D18B11B55E3E32136346C356BB30FDB.DCA-AS10\ntrackServer=http://track.juno.com\ncontext='+context)
 }
 </script>	
 	
@@ -742,7 +750,7 @@ pageTracker._setCampNameKey("refcd");
 pageTracker._setCampMediumKey("refcd");
 pageTracker._setCampSourceKey("refcd");
 pageTracker._setCustomVar(1,"MemberType","NonMember",3);
-pageTracker._setCustomVar(2,"referral","default",3);
+pageTracker._setCustomVar(2,"referral","juwww1209",3);
 pageTracker._trackPageview(servlet+":"+pname);
 } catch(err) {
 	var excepImg = (Image ? new Image(1, 1) : undefined);
