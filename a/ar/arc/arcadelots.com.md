@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203083810id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelots.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628212224id_/http%3A//www.arcadelots.com/pages/privacy) for the most accurate reproduction.*
 
 # Arcadelots Privacy Policy
 
 [](http://www.racing-games.org/)
 
-[](http://www.hypegames.com/)
+[](http://www.car-games.co/)
 
 Privacy Policy  
 
