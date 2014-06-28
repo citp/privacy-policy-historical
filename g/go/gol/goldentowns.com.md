@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentowns.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212231540id_/http%3A//www.goldentowns.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentowns.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628202513id_/http%3A//www.goldentowns.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
