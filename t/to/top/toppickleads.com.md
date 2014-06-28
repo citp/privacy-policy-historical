@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209064302id_/http%3A//www.toppickleads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628163040id_/http%3A//www.toppickleads.com/privacy-policy) for the most accurate reproduction.*
 
-# TopPickLeads.com - Privacy Policy
+# Privacy Policy | Top Pick Leads
 
-TopPickLeads.com values the privacy of our visitors. This Privacy Policy is intended to explain what TopPickLeads.com does with your information, and what you can expect from TopPickLeads.com. If you have additional questions or would like further information on this topic, please contact us. TopPickLeads.com may update this policy from time to time. Please check the policy periodically for changes.
+**[Top Pick Leads](http://www.toppickleads.com/tips-for-boosting-your-sales.html)** takes your privacy seriously. [This](http://www.toppickleads.com/become-good-at-email-marketing-with-this-excellent-advice.html) privacy policy describes what [personal](http://www.toppickleads.com/learning-the-ins-and-outs-of-personal-development.html) [information](http://www.toppickleads.com/personal-development-information-that-can-really-help-you.html) we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to [learn](http://www.toppickleads.com/read-these-tips-to-learn-more-about-stress-management.html) more about privacy policies in general.
 
-What type of information does TopPickLeads.com collect and how is it used?
+## Routine Information Collection
 
-TopPickLeads.com gathers only the customer information that we need to administer our website.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can [personally](http://www.toppickleads.com/great-ways-to-help-you-develop-personally.html) identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-We collect non-personally identifiable information. Data such as your IP address, browser type, domain name, specific web pages through which you click, and files you download are gathered in order to gain a better understanding of product, service and site development needs and provide an effective means of security for our website, and it’s visitors. This data is collected automatically and utilized in aggregate to help us look for trends so that we can improve our Website and your user experience.
+## Cookies and Web Beacons
 
-What information do we share and with whom?
+Where necessary, Top Pick [Leads](http://www.toppickleads.com/insurance-leads-can-help-you-with-business-growth.html) uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-TopPickLeads.com does not rent, lease, redistribute or sell customer information to any marketer. In certain circumstances, it may be necessary for TopPickLeads.com's customer information be accessed by third party services to provide operational or other support services for our website. To ensure the confidentiality and security of your information, service providers must agree to safeguard your information in compliance with our policy. In cases of fraud or other types of abuse, we also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it.
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-Does TopPickLeads.com use cookies?
+## Controlling Your Privacy
 
-TopPickLeads.com does use cookies.
+Note that you can [change](http://www.toppickleads.com/follow-these-fantastic-tips-to-change-your-life.html) your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
 
-Can I disable these cookies?
+## Special Note About Google Advertising
 
-Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you disable cookies on your own browser, you will still be able to browse our site.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. [These](http://www.toppickleads.com/ease-stress-in-your-life-by-trying-these-tips.html) cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
-Can I "opt out" of receiving promotional e-mails from TopPickLeads.com?
+## Contact Information
 
-TopPickLeads.com will only send emails to users that subscribe to our mailing list. Every email sent through our mailing list has a clear opt-out option.
+Concerns or questions about this privacy policy can be directed to droneant@yahoo.com for further clarification.
 
-Whom do I contact if I have additional questions or concerns about this policy?If you have any questions or concerns about this policy, please contact us via our contact page.NOTE: This policy may be modified from time to time. You are encouraged to review this policy each time you visit this site.
+This privacy policy was generated by the [Privacy Policy for WordPress](http://cybec.com/privacy-policy-plugin-for-wordpress/) plugin.
