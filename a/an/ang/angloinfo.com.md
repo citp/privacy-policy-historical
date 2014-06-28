@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114145032id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629000303id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AngloINFO Worldwide
 
@@ -20,8 +20,11 @@ AngloINFO takes privacy seriously. Please read the following to learn more about
 ##### Information collection
 
   * AngloINFO collects personally identifiable information when you register as a member, when you use certain AngloINFO products or services, and when you enter promotions. AngloINFO may also receive personally identifiable information from its business partners. 
-  * When you register for an AngloINFO service, you may be asked for your name, e-mail address and other personal details. Once you have registered, you are no longer anonymous to AngloINFO's systems. 
+  * When you register for an AngloINFO service, you may be asked for your name, email address and other personal details. Once you have registered, you are no longer anonymous to AngloINFO's systems. 
   * AngloINFO also automatically receives and may record information on its servers' logs from your browser including your computer's IP address, AngloINFO's cookie information and the identity of any page or pages you request. 
+
+
+  * Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability only. It is not in any way associated with any individual user or their member account. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else. 
 
 
 
@@ -29,12 +32,22 @@ AngloINFO takes privacy seriously. Please read the following to learn more about
 
 AngloINFO uses this information for the following purposes:
 
-  * To customize the content you see on its Web pages. 
-  * To anticipate and fulfill your requests for certain products and services. 
+  * To customise the content you see on its Web pages. 
+  * To anticipate and fulfil your requests for certain products and services. 
 
 
 
-##### Information sharing & disclosure
+##### Protecting your personal information
+
+  * We take appropriate physical, electronic and managerial measures to ensure that we keep your information secure, accurate and up to date, and that we only keep it as long as is reasonable and necessary.
+  * Although we use appropriate security measures once we have received your personal information, the transmission of information over the internet is never completely secure. We do our best to protect personal information, but we cannot guarantee the security of information transmitted to our website, so any transmission is at the user’s own risk. 
+  * AngloINFO treats all the information it holds with the utmost care and security.  Payment details are stored on our system in an encrypted format and can only be accessed when you place an order using your user name or email address and password.
+  * Any payment card details (such as credit or debit cards) are passed securely to our payment processing provider according to the Payment Card Industry Security Standards.
+  * AngloINFO do not share credit card information with third parties.
+
+
+
+##### Information sharing and disclosure
 
 AngloINFO will not sell or rent your personally identifiable information to anyone, anywhere.
 
@@ -53,7 +66,7 @@ AngloINFO will send personally identifiable information about you to other compa
 
 
 
-(A cookie is a piece of data stored on the your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on AngloINFO's World Wide Web site. For instance, by setting a cookie on AngloINFO's site, you would not have to log in a password more than once, thereby saving time while on the site. If you reject the cookie, you may still use the site. The only drawback to this is that you will be limited in some areas of the site. Cookies can also enable us to track and target the interests of our users to enhance the experience of our site.)
+(A cookie is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on AngloINFO's World Wide Web site. For instance, by setting a cookie on AngloINFO's site, you would not have to log in a password more than once, thereby saving time while on the site. If you reject the cookie, you may still use the site. The only drawback to this is that you will be limited in some areas of the site. Cookies can also enable us to track and target the interests of our users to enhance the experience of our site.)
 
 ##### Future changes:
 
@@ -63,4 +76,4 @@ AngloINFO will send personally identifiable information about you to other compa
 
 ##### Questions or Suggestions
 
-If you have questions or suggestions, send an e-mail to [privacy@angloinfo.com](mailto:privacy@angloinfo.com).
+If you have questions or suggestions, send an email to **[privacy@angloinfo.com](mailto:privacy@angloinfo.com)**.
