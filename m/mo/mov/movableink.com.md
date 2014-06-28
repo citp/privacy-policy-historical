@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103184133id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628073852id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
 
-# Movable Ink | Privacy Policy
+# Movable Ink | Agile Email Marketing
 
-## Effective Date: January 8, 2013
+##### Privacy Policy
+
+**Effective Date: January 8, 2013**
 
 This Privacy Policy is incorporated by reference into the Movable Ink Terms of Service (“ **TOS** ”). The term “Movable Ink,” “we,” and “us” includes Movable, Inc. and our affiliates. The Privacy Policy explains how we may collect, use and disclose information we obtain through the Movable Ink website and email distribution service (both, the “ **Service** ”).
 
@@ -12,7 +14,7 @@ This Privacy Policy is incorporated by reference into the Movable Ink Terms of S
 
 **Personal Information Defined.** We consider “Personal Information” to include information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-### THE SERVICE COLLECTS YOUR INFORMATION
+**THE SERVICE COLLECTS YOUR INFORMATION**
 
 We collect Personal Information when:
 
@@ -43,7 +45,7 @@ When you use the Service, we receive and record information on our server logs f
 
 By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
 
-### HOW MOVABLE INK USES YOUR INFORMATION
+**HOW MOVABLE INK USES YOUR INFORMATION**
 
 We may use your information to:
 
@@ -71,7 +73,7 @@ Improve Service. We may retain any data you provide to:
 
 **Aggregate Data.** We may anonymize and aggregate data collected through the Service and use it for any purpose.
 
-### MOVABLE INK MAY DISCLOSE YOUR INFORMATION
+##### MOVABLE INK MAY DISCLOSE YOUR INFORMATION
 
 We may share information we collect:
 
@@ -104,23 +106,23 @@ Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisit
 
 We may also disclose your Personal Information with your permission.
 
-### SECURITY OF YOUR INFORMATION
+##### SECURITY OF YOUR INFORMATION
 
 We take steps to ensure that your information and distribution lists are treated securely and in accordance with this Privacy Policy. We do not sell, rent, steal or market to your distribution lists. We do not share your distribution lists with anyone, except as required by law or in response to a complaint from an individual on one of your lists. Only authorized people may access your distribution lists.
 
 By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at support@movableink.com.
 
-### EMAIL CAMPAIGNS
+##### EMAIL CAMPAIGNS
 
 As an email moves across the Internet, various servers may be able to read what was sent. We occasionally review the content of your email campaigns to verify compliance with the TOS.
 
-### CHILDREN’S PRIVACY
+##### CHILDREN’S PRIVACY
 
 We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
 We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Site is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [support@movableink.com](mailto:support@movableink.com). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
 
-### INTERNATIONAL USERS
+##### INTERNATIONAL USERS
 
 By using the Site, you will transfer data to the United States.
 
@@ -128,11 +130,11 @@ By choosing to visit the Site or otherwise provide information to us, you agree 
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
 
-### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
+##### UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
 If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [support@movableink.com](mailto:support@movableink.com).
 
-### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
+##### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
 We may revise this Privacy Policy, so review it periodically.
 
@@ -140,9 +142,31 @@ Posting of Revised Privacy Policy. We will post any adjustments to the Privacy P
 
 New Uses of Personal Information and Other Information. From time to time, we may use Personal Information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our practices change regarding information previously collected, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
-### Contact Info
+##### SAFE HARBOR
+
+Movable Ink complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Movable Ink has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Movable Ink has chosen The Direct Marketing Association as our organizations independent recourse mechanism. To learn more about the Safe Harbor program, and to view Movable Ink certification, please visit <http://www.export.gov/safeharbor/>.
+
+Should you have any questions on Movable, Inc.'s EU Safe Harbor policies please contact us at: 
+
+##### Contact Info ([support@movableink.com](mailto:support@movableink.com))
 
 Movable, Inc.  
-5 West 19th St  
-6th Floor  
+636 Avenue of the Americas 5th Floor  
 New York, NY 10011 
+
+If your inquiry or complaint is not resolved to your satisfaction, then you may contact the Direct Marketing Association for assistance:
+
+The Direct Marketing Association  
+Attn: Safe Harbor Program  
+1615 L St NW Suite 1100  
+Washington, DC 20036  
+[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
+<http://thedma.org/services/dma-international-safe-harbor/>
+
+#### Something we can help with?
+
+Get in touch with any questions / comments you may have. 
+
+####  Sign up for our newsletter
+
+Get the latest news, product releases, research, and best practices guides from Movable Ink delivered straight to your inbox. 
