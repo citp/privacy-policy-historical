@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mumbai77.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407211825id_/http%3A//www.mumbai77.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbai77.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628111443id_/http%3A//www.mumbai77.com/privacy.php) for the most accurate reproduction.*
 
 # Mumbai77.com Privacy Policy
 
   
 
 
-|  [](http://www.mumbai77.com/) |   
+|  [](http://www.mumbai77.com/) |     
 ---|---  
   
   
