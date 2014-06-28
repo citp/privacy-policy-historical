@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029213521id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628173116id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Unblock-Us - smarter faster VPN
 
@@ -16,7 +16,7 @@ Information about Users that is maintained on our systems is protected using ind
 
 ## Spam Policy
 
-We do not allow using our service for any kind of illegal actions - carding, spam and hacking. We reserve the right to terminate, without warning, any account that violates this policy. Usage of services constutures acceptance and understanding of this policy.
+We do not allow using our service for any kind of illegal actions - carding, spam and hacking. We reserve the right to terminate, without warning, any account that violates this policy. Usage of services constitues acceptance and understanding of this policy.
 
 ## Questions
 
