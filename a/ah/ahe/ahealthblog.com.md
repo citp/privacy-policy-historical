@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905161008id_/http%3A//www.a-health-blog.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahealthblog.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080111id_/http%3A//www.ahealthblog.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
