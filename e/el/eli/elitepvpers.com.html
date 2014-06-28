@@ -1,16 +1,27 @@
-<!--The following is the downloaded HTML source of the elitepvpers.com privacy policy that was archived on 2013-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130901231106id_/http%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elitepvpers.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628221059id_/http%3A//www.elitepvpers.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="robots" content="noindex,follow">
 
 <link rel="canonical" href="http://www.elitepvpers.com/privacypolicy.html">
-<link href="http://www.elitepvpers.com/css/global.css?9" type="text/css" rel="stylesheet">
+<link href="http://www.elitepvpers.com/css/global.css?10" type="text/css" rel="stylesheet">
+
+<link rel="stylesheet" href="http://www.elitepvpers.com/forum/mwmods/bbcodes/css/bbcodes.min.css" type="text/css" media="screen" id="addtional_bbcodes_static">
+<link rel="stylesheet" href="http://www.elitepvpers.com/forum/mwmods/bbcodes/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.elitepvpers.com/forum/mwmods/bbcodes/css/themes/twelve/galleria.twelve.css" type="text/css" media="screen">
+
+
 <link rel="apple-touch-icon" href="http://www.elitepvpers.com/images/apple-touch-icon.png">
 
 <title>Privacy Policy</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/clientscript/vbulletin_global.js"></script>
 <script type="text/javascript" src="http://www.elitepvpers.com/js/jquery-ui.js"></script>
 <script type="text/javascript" src="http://www.elitepvpers.com/js/jquery-form.js"></script>
 <script type="text/javascript" src="http://www.elitepvpers.com/js/swfobject.js"></script>
@@ -19,28 +30,100 @@
 <script type="text/javascript" src="http://www.elitepvpers.com/js/jquery-dimensions.js"></script>
 <script type="text/javascript" src="http://www.elitepvpers.com/js/jquery-tooltip.js"></script>
 <script type="text/javascript" src="http://www.elitepvpers.com/js/jquery-countdown.js"></script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/bbcode.spoiler.min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/jquery.rescale.min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/bbcode.gallery.min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/jquery.fancybox.min.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/bbcode.img.min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/galleria-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/js/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="http://www.elitepvpers.com/forum/mwmods/bbcodes/css/themes/twelve/galleria.twelve.min.js"></script>
+
+
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-9501753994837448");
-GS_googleEnableAllServices();
+<!--
+(function($)
+{
+    // Set spoiler options
+    setSpoilerOptions(JSON.parse('{"disableStyles":false,"animationSpeed":"fast","maxSigHeight":350}'));
+
+    // Init block list for gallery tags
+    $.extend(true, $.fn.initGalleria.options, { 'general':
+    {
+        thumbnails: 'lazy',
+        transition: false,
+        imageCrop: false,
+        imageMargin: 0,
+        fullscreenTransition: false,
+        maxScaleRatio: 1,
+        dummy: 'http://www.elitepvpers.com/forum/mwmods/bbcodes/css/img/dummy_image.jpg',
+        debug: false,
+        wait: true,
+        idleTime: 2000,
+        imageTimeout: 5000,
+
+        // Localized strings
+        _locale: {
+            show_thumbnails: vbphrase.show_thumbnails,
+            hide_thumbnails: vbphrase.hide_thumbnails,
+            play: vbphrase.play_slideshow,
+            pause: vbphrase.pause_slideshow,
+            enter_fullscreen: vbphrase.enter_fullscreen,
+            exit_fullscreen: vbphrase.exit_fullscreen,
+            showing_image: vbphrase.image_x_of_y
+        },
+
+        // Twelve theme options
+        _showPopout: false
+    }}, JSON.parse('{"autoLoadMax":2,"blockList":[2],"blockAccess":false}'));
+
+    // Init defaults for image rescaling
+    $.extend(true, $.fn.rescale.defaults, JSON.parse('{"limits":{"sig":[627,200],"vm":[630,965],"vm_conv":[880,965],"sgm":[950,965],"pm":[600,965],"pc":[880,965],"other":[627,965]},"margins":{"spoiler":10,"quote":27,"internal":12}}'));
+
+    $.extend($.fancybox.defaults, {
+        openEffect: 'none',
+        closeEffect: 'none',
+        nextEffect: 'none',
+        prevEffect: 'none'
+    });
+})(jQuery);
+// -->
 </script>
+
+
+
 <script type="text/javascript">
-GA_googleAddSlot("ca-pub-9501753994837448", "elitepvpers_Portal_Sidebar_300x250");
-GA_googleAddSlot("ca-pub-9501753994837448", "elitepvpers_Wide_Skyscraper_160x600");
-GA_googleAddSlot("ca-pub-9501753994837448", "elitepvpers_Interstitial_1x1");
-</script>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
 <script type="text/javascript">
-GA_googleFetchAds();
+googletag.defineSlot('/1012513/elitepvpers_Interstitial_1x1', [1, 1], 'div-gpt-ad-1392315677135-0').addService(googletag.pubads());
+googletag.defineSlot('/1012513/elitepvpers_Portal_Sidebar_300x250', [300, 250], 'div-gpt-ad-1392315677135-1').addService(googletag.pubads());
+googletag.defineSlot('/1012513/elitepvpers_Wide_Skyscraper_160x600', [160, 600], 'div-gpt-ad-1392315677135-2').addService(googletag.pubads());
+
+googletag.pubads().setTargeting("Portal","1");
+googletag.pubads().setTargeting("Showthread","0");
+googletag.pubads().setTargeting("Alt","0");
+
+googletag.pubads().setTargeting("System","1");
+googletag.pubads().setTargeting("Loggedin","0");
+
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
 </script>
-<script type="text/javascript">
-GA_googleAddAttr("Portal", 1);
-GA_googleAddAttr("Showthread", 0);
-GA_googleAddAttr("Alt", 0);
-GA_googleAddAttr("System", 1);
-GA_googleAddAttr("Loggedin", 0);
+
+<script type="text/javascript" id="loginjsinc">
+<!--
+(function(a){a.loadScript=function(b,c){return $.ajax(a.extend(c||{},{dataType:"script",cache:!0,url:b,dataFilter:function(a){return a.replace("%SCRIPT_OPTIONS%","W251bGwsImh0dHA6XC9cL3d3dy5lbGl0ZXB2cGVycy5jb21cL2ZvcnVtIiwibG9naW50b2tlbiIsImxvZ2ludXVpZHYyIiwibWV0aG9kdXVpZHYyIiwibG9naW51dWlkdjMiLCJtZXRob2R1dWlkdjMiLCI0NmY5NmEwYmQyYTJmMmI3MGZkMWU2MDk2YmY5MWI1YTE3M2I3ZjA1IiwiMS4xIixmYWxzZSxmYWxzZV0=")}}))};a.loadScript("http://www.elitepvpers.com/forum/clientscript/login/main.min.js?v=1.1"); a("script#loginjsinc").remove(); })(jQuery);
+// -->
 </script>
-<script type="text/javascript" src="http://www.elitepvpers.com/forum/clientscript/ncode_imageresizer.js?v=1.0.2"></script>
 </head>
 <body>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -53,10 +136,10 @@ GA_googleAddAttr("Loggedin", 0);
 										<!-- login form -->
 				<form action="http://www.elitepvpers.com/forum/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)" id="cbloginform">
 				<script type="text/javascript" src="http://www.elitepvpers.com/forum/clientscript/vbulletin_md5.js"></script>
-				<label for="navbar_username">User Name:</label> <input type="text" name="vb_login_username" id="navbar_username" size="15" accesskey="u" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';">
-				<label for="navbar_password">Password:</label> <input type="password" name="vb_login_password" id="navbar_password" size="15">
-				<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" accesskey="c" checked="checked">Remember Me?</label>
-				<input type="submit" value="Log in" accesskey="s">
+				<label for="navbar_username">Benutzername:</label> <input type="text" name="vb_login_username" id="navbar_username" size="15" accesskey="u" value="Benutzername" onfocus="if (this.value == 'Benutzername') this.value = '';">
+				<label for="navbar_password">Kennwort:</label> <input type="password" name="vb_login_password" id="navbar_password" size="15">
+				<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" accesskey="c" checked="checked">Angemeldet bleiben?</label>
+				<input type="submit" value="Anmelden" accesskey="s">
 
 				<input type="hidden" name="s" value="">
 				<input type="hidden" name="securitytoken" value="guest">
@@ -64,7 +147,7 @@ GA_googleAddAttr("Loggedin", 0);
 				<input type="hidden" name="do" value="login">
 				<input type="hidden" name="vb_login_md5password">
 				<input type="hidden" name="vb_login_md5password_utf">
-				&nbsp; Not a member yet? <a href="http://www.elitepvpers.com/forum/register.php" rel="nofollow">Register for your free account!</a>
+				&nbsp; Noch kein Mitglied? <a href="http://www.elitepvpers.com/forum/register.php" rel="nofollow">Jetzt kostenlos registrieren!</a>
 				</form>
 				<!-- / login form -->
 									</td>
@@ -77,10 +160,13 @@ GA_googleAddAttr("Loggedin", 0);
   <tbody><tr>
   	<td id="aboveheader">
   	<div style="position:relative">
-<div style="position: absolute; top: 29px; left: 995px">
+<div style="position: absolute; top: 29px; left: 100%; padding-left: 4px">
+<!-- elitepvpers_Wide_Skyscraper_160x600 -->
+<div id="div-gpt-ad-1392315677135-2">
 <script type="text/javascript">
-GA_googleFillSlot("elitepvpers_Wide_Skyscraper_160x600");
+googletag.display('div-gpt-ad-1392315677135-2');
 </script>
+</div>
 </div>
 </div>  	<br>
   	</td>
@@ -263,7 +349,7 @@ This document was last updated on August 23, 2012<br><br>
           <tr>
             <td id="feed">
             <!-- feed content start -->
-            <h3>Forum Categories</h3>
+            <h3>Foren Kategorien</h3>
 			<table border="0" cellspacing="0" cellpadding="0" id="forumcategories">
 			  <tbody><tr>
 			  	<td valign="top">
@@ -275,10 +361,12 @@ This document was last updated on August 23, 2012<br><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/general-gaming/">General Gaming</a><br>
 				  								
-				    <a href="http://www.elitepvpers.com/forum/world-warcraft/">World of Warcraft</a><br>
+				    <a href="http://www.elitepvpers.com/forum/new-arrivals/">New Arrivals</a><br>
 				  								
-				    <a href="http://www.elitepvpers.com/forum/diablo-3/">Diablo 3</a><br>
+				    <a href="http://www.elitepvpers.com/forum/world-warcraft/">World of Warcraft</a><br>
 				  </td><td valign="top">								
+				    <a href="http://www.elitepvpers.com/forum/diablo-3/">Diablo 3</a><br>
+				  								
 				    <a href="http://www.elitepvpers.com/forum/league-legends/">League of Legends</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/guild-wars-2/">Guild Wars 2</a><br>
@@ -286,9 +374,9 @@ This document was last updated on August 23, 2012<br><br>
 				    <a href="http://www.elitepvpers.com/forum/aion/">Aion</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/star-wars-old-republic/">Star Wars: The Old Republic</a><br>
-				  								
-				    <a href="http://www.elitepvpers.com/forum/conquer-online-2/">Conquer Online 2</a><br>
 				  </td><td valign="top">								
+				    <a href="http://www.elitepvpers.com/forum/conquer-online-2/">Conquer Online 2</a><br>
+				  								
 				    <a href="http://www.elitepvpers.com/forum/silkroad-online/">Silkroad Online</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/cabal-online/">Cabal Online</a><br>
@@ -296,9 +384,9 @@ This document was last updated on August 23, 2012<br><br>
 				    <a href="http://www.elitepvpers.com/forum/metin2/">Metin2</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/flyff-fly-fun/">Flyff (Fly For Fun)</a><br>
-				  								
-				    <a href="http://www.elitepvpers.com/forum/black-market/">The Black Market</a><br>
 				  </td><td valign="top">								
+				    <a href="http://www.elitepvpers.com/forum/black-market/">The Black Market</a><br>
+				  								
 				    <a href="http://www.elitepvpers.com/forum/shooter/">Shooter</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/mmorpgs/">MMORPGs</a><br>
@@ -306,9 +394,9 @@ This document was last updated on August 23, 2012<br><br>
 				    <a href="http://www.elitepvpers.com/forum/other-online-games/">Other Online Games</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/mmog-server-developments/">MMOG Server Developments</a><br>
-				  								
-				    <a href="http://www.elitepvpers.com/forum/coders-den/">Coders Den</a><br>
 				  </td><td valign="top">								
+				    <a href="http://www.elitepvpers.com/forum/coders-den/">Coders Den</a><br>
+				  								
 				    <a href="http://www.elitepvpers.com/forum/artists-den/">Artists Den</a><br>
 				  								
 				    <a href="http://www.elitepvpers.com/forum/hardware/">Hardware</a><br>
@@ -333,11 +421,11 @@ This document was last updated on August 23, 2012<br><br>
 		<tbody><tr>
 			<td width="100"><img src="http://www.elitepvpers.com/images/pvp_white.gif" width="85" height="60" alt=""></td>
 			<td>
-						<a href="http://www.elitepvpers.com/support/" rel="nofollow">Support</a> | <a href="http://www.elitepvpers.com/forum/sendmessage.php" rel="nofollow">Contact</a> | <a href="http://www.elitepvpers.com/forum/faq.php" rel="nofollow">FAQ</a> | <a href="http://www.elitepvpers.com/forum/sendmessage.php" rel="nofollow">Advertising</a> | <a href="http://www.elitepvpers.com/privacypolicy.php" rel="nofollow">Privacy Policy</a><br>
-						Copyright ©2013 elitepvpers All Rights Reserved.
+						<a href="http://www.elitepvpers.com/support/" rel="nofollow">Support</a> | <a href="http://www.elitepvpers.com/forum/sendmessage.php" rel="nofollow">Kontakt</a> | <a href="http://www.elitepvpers.com/forum/faq.php" rel="nofollow">FAQ</a> | <a href="http://www.elitepvpers.com/forum/sendmessage.php" rel="nofollow">Werbung</a> | <a href="http://www.elitepvpers.com/privacypolicy.php" rel="nofollow">Datenschutzerklärung</a><br>
+						Copyright ©2014 elitepvpers All Rights Reserved.
 			</td>
 			<td>
-				<a href="http://www.facebook.com/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/facebook.png" width="24" height="24" alt=""></a> <a href="http://twitter.com/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/twitter.png" width="24" height="24" alt=""></a> <a href="http://www.youtube.com/user/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/youtube.png" width="24" height="24" alt=""></a>
+				<a href="http://www.facebook.com/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/facebook.png" width="24" height="24" alt=""></a> <a href="http://twitter.com/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/twitter.png" width="24" height="24" alt=""></a> <a href="http://www.youtube.com/user/elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/youtube.png" width="24" height="24" alt=""></a> <a href="http://google.com/+elitepvpers" target="_blank" rel="nofollow"><img src="http://www.elitepvpers.com/images/socialicon/google.png" width="24" height="24" alt=""></a>
 			</td>
 		</tr>
 		</tbody></table>
@@ -358,9 +446,12 @@ This document was last updated on August 23, 2012<br><br>
     </td>
   </tr>
 </tbody></table>
+<!-- elitepvpers_Interstitial_1x1 -->
+<div id="div-gpt-ad-1392315677135-0" style="width:1px; height:1px;">
 <script type="text/javascript">
-GA_googleFillSlot("elitepvpers_Interstitial_1x1");
+googletag.display('div-gpt-ad-1392315677135-0');
 </script>
+</div>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
