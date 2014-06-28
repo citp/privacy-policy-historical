@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundayworld.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214021933id_/http%3A//www.sundayworld.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundayworld.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171207id_/http%3A//www.sundayworld.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement / Sunday World
 
@@ -82,6 +82,26 @@ _Analytics cookies:_
 
 Every time a user visits our website, web analytics software provided by a third party generates an anonymous analytics cookie. These cookies can tell us whether or not you have visited the site before. Your browser will tell us if you have these cookies, and if you don't, we generate new ones. This allows us to track how many individual unique users we have, and how often they visit the site. Unless you are signed in to Sunday Newspapers Ltd site, these cookies cannot be used to identify individuals; they are used for statistical purposes only. If you are logged in, we will also know the details you gave to us for this, such as username and email address.
 
+_Google - Doubleclick:_
+
+The Google Analytics features we have implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+Click [here ](https://tools.google.com/dlpage/gaoptout/)to see Google Analytics' currently available opt-outs for the web.
+
+Third-party vendors, including Google, may show your ads on sites across the Internet.
+
+Sunday Newspapers, INM and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+
+Sunday Newspapers , INM and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+
+Sunday Newspapers and INM use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to better understand our audience behaviour and interests and serve more appropriate content.
+
+All data collected is anonymous and is not shared with any other 3rd party.
+
+You can opt out [_HERE_](http://www.google.com/settings/ads), using Google Ad settings.
+
 _Registration cookies:_
 
 When you register with the Sunday Newspapers Ltd site, we generate cookies that signal whether you are signed in or not. Our servers use these cookies to work out which account you are signed in with, and if you are allowed access to a particular service. It also allows us to associate any comments you post with your username. If you have not selected 'keep me signed in,' your cookies get deleted when you either close your browser or shut down your computer. While you are signed into this site, we combine information from your registration cookies with analytics cookies, which we could use to identify which pages you have seen on the Sunday Newspaper Ltd site.
@@ -109,6 +129,8 @@ Google Analytics: http://www.google.com/intl/en/analytics/index.html
 FlashTalking: http://www.flashtalking.com  
 Lockerz: http://share.lockerz.com  
 Polldaddy: http://polldaddy.com  
+Cxense: http://cxense.com  
+Outbrain: http://outbrain.com  
 Quantcast: http://www.quantcast.com  
 Tyny Insight: http://www.tynt.com  
 Webtrends: http://www.webtrends.com  
