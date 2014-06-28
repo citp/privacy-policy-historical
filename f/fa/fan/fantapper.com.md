@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantapper.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813034534id_/http%3A//web.brandaffinity.net/terms/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantapper.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629004022id_/http%3A//web.brandaffinity.net/terms/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Brand Affinity Technologies, Inc. Privacy Policy
 
@@ -9,12 +9,13 @@ concern	  to	  our	  users.	  We	  have	  created	  this	  Priva
 commitment	  to	  your	  privacy	  and	  to	  inform	  you	  of	  our	  policies	  and	  procedures	  regarding	  the	  
 collection,	  use	  and	  disclosure	  of	  information	  we	  receive	  from	  users	  of	  the	  Brand	  Affinity	  
 Technologies	  site	  (http://www.brandaffinity.net),	  the	  Fantapper	  site	  
-(http://www.fantapper.com),	  the	  FanPhotos	  site,	  and	  the	  BAT,	  Fantapper	  and	  FanPhotos	  
-platforms	  and	  services,	  including	  mobile	  applications.	  Together,	  we	  refer	  to	  the	  sites,	  platforms,	  
-and	  related	  services	  as	  the	  “Services”.	  This	  Privacy	  Policy	  applies	  only	  to	  information	  that	  is	  
-provided	  to	  us	  through	  the	  Services.	  This	  Privacy	  Policy	  may	  be	  updated	  from	  time	  to	  time.	  You	  
-are	  advised	  to	  consult	  this	  policy	  regularly	  for	  any	  changes.	  By	  using	  or	  accessing	  the	  Services,	  
-you	  agree	  to	  be	  bound	  our	  Privacy	  Policy.	  	  
+(http://www.fantapper.com),	  the	  FanPhotos	  sites	  (http://www.fanphotos.com,	  
+http://www.printroom.com),	  and	  the	  BAT,	  Fantapper	  and	  FanPhotos	  platforms	  and	  services,	  
+including	  mobile	  applications.	  Together,	  we	  refer	  to	  the	  sites,	  platforms,	  and	  related	  services	  as	  
+the	  “Services”.	  This	  Privacy	  Policy	  applies	  only	  to	  information	  that	  is	  provided	  to	  us	  through	  the	  
+Services.	  This	  Privacy	  Policy	  may	  be	  updated	  from	  time	  to	  time.	  You	  are	  advised	  to	  consult	  this	  
+policy	  regularly	  for	  any	  changes.	  By	  using	  or	  accessing	  the	  Services,	  you	  agree	  to	  be	  bound	  our	  
+Privacy	  Policy.	  	  
 	  
 IF	  YOU	  DO	  NOT	  AGREE	  TO	  THIS	  PRIVACY	  POLICY	  YOU	  MAY	  NOT	  ACCESS	  OR	  OTHERWISE	  USE	  THE	  
 WEBSITE(S)	  OR	  SERVICES.	  THE	  USE	  OF	  THE	  WEBSITE	  IS	  SUBJECT	  TO	  THE	  TERMS	  AND	  
@@ -48,59 +49,67 @@ regarding	  your	  use	  of	  the	  Services	  via	  Facebook.	 �
 	  
 In	  addition,	  we	  may	  also	  collect	  other	  information	  that	  you	  provide	  or	  that	  is	  provided	  to	  us	  
 about	  you	  when	  using	  the	  Services,	  such	  as	  pages	  viewed,	  what	  features	  of	  the	  Services	  you	  use,	  
+
+
 your	  individual	  preferences	  and	  other	  data	  (such	  as	  your	  age)	  which	  does	  not	  specifically	  
 identify	  you	  ("Non-­‐Personal	  Information").	  	  
-
-
 	  
 Information	  Usage:	  	  We	  may	  use	  your	  information	  as	  follows:	  
-      • We	  use	  your	  Personal	  Information	  mainly	  to	  provide	  you	  with	  and	  maintain	  the	  features	  
-            and	  functionality	  of	  the	  Services,	  including	  personalization	  of	  the	  Services,	  and	  
-            administer	  your	  inquiries.	  
-      • We	  may	  use	  Personal	  Information	  for	  certain	  services	  to	  process	  and	  fulfill	  your	  order,	  
-            including	  to	  send	  you	  emails	  to	  confirm	  your	  order	  status	  and	  shipment	  and	  to	  contact	  
-            you	  with	  questions	  regarding	  your	  or	  order.	  
-      • We	  may	  use	  Personal	  Information	  and	  Non-­‐Personal	  Information	  to	  improve	  and	  
-            enhance	  your	  experience	  using	  the	  Services	  and	  for	  our	  research	  activities.	  	  
-      • We	  may	  use	  Personal	  Information	  to	  communicate	  with	  you	  and	  to	  send	  you	  
-            information	  by	  email	  or	  other	  means	  about	  our	  products,	  services,	  contests,	  and	  
-            promotions	  and	  any	  notices	  required	  by	  law,	  unless	  you	  have	  directed	  us	  not	  to	  contact	  
-            you	  with	  promotional	  communications.	  
-      • We	  may	  use	  Personal	  Information	  and	  Non-­‐Personal	  Information	  to	  administer	  and	  
-            fulfill	  our	  contests	  and	  other	  promotions.	  
-      • We	  may	  use	  Personal	  Information	  and	  Non-­‐Personal	  Information	  you	  provide	  without	  
-            aggregating	  it	  to	  serve	  you	  specifically;	  for	  instance,	  to	  deliver	  Services	  to	  you	  according	  
-            to	  your	  preferences	  or	  restrictions.	  We	  might	  also	  use	  non-­‐aggregated	  information	  for	  
-            development	  or	  demographic	  profiling	  purposes,	  but	  any	  such	  use	  would	  not	  be	  
-            personally	  identifiable.	  
-      • We	  may	  use	  your	  Personal	  Information,	  Non-­‐Personal	  Information	  and	  other	  content	  
-            that	  you	  provide	  for	  internal	  purposes,	  such	  as	  analyzing	  how	  the	  Services	  are	  used,	  
-            diagnosing	  service	  or	  technical	  problems,	  maintaining	  security,	  and	  personalizing	  
-            content.	  
-      • We	  may	  aggregate	  the	  Non-­‐Personal	  Information	  we	  collect	  with	  the	  same	  kinds	  of	  
-            information	  collected	  from	  other	  users	  of	  the	  Services	  to	  provide	  you	  with	  a	  better	  
-            experience,	  to	  improve	  the	  quality	  and	  value	  of	  the	  Services,	  and	  to	  analyze	  and	  
-            understand	  how	  those	  Services	  are	  used.	  	  	  
-      • We	  will	  not	  rent	  or	  sell	  your	  Personal	  Information	  to	  third	  parties	  to	  promote	  their	  
-            products	  or	  services	  directly	  to	  you	  without	  your	  consent.	  	  If	  you	  decide	  at	  any	  time	  that	  
-            you	  no	  longer	  wish	  to	  receive	  such	  communications	  from	  us,	  please	  follow	  the	  
-            unsubscribe	  instructions	  provided	  in	  any	  of	  the	  communications;	  provided	  that	  you	  may	  
-            not	  opt	  out	  of	  certain	  Services-­‐related	  emails,	  such	  as	  order	  confirmation	  and	  status.	  
+     • We	  use	  your	  Personal	  Information	  mainly	  to	  provide	  you	  with	  and	  maintain	  the	  features	  
+           and	  functionality	  of	  the	  Services,	  including	  personalization	  of	  the	  Services,	  and	  
+           administer	  your	  inquiries.	  
+     • We	  and	  our	  respective	  partners,	  such	  as	  the	  rights	  holders	  of	  the	  brands	  and	  marks	  in	  
+           connection	  with	  the	  services	  provided	  to	  you	  through	  the	  Services	  may	  use	  Personal	  
+           Information	  for	  certain	  services	  to	  process	  and	  fulfill	  your	  order,	  including	  to	  send	  you	  
+           emails	  to	  confirm	  your	  order	  status	  and	  shipment	  and	  to	  contact	  you	  with	  questions	  
+           regarding	  your	  or	  order.	  
+     • We	  may	  use	  Personal	  Information	  and	  Non-­‐Personal	  Information	  to	  improve	  and	  
+           enhance	  your	  experience	  using	  the	  Services	  and	  for	  our	  research	  activities.	  	  
+     • We	  and	  our	  respective	  partners,	  such	  as	  the	  rights	  holders	  of	  the	  brands	  and	  marks	  in	  
+           connection	  with	  the	  services	  provided	  to	  you	  through	  the	  Services	  may	  use	  Personal	  
+           Information	  to	  communicate	  with	  you	  and	  to	  send	  you	  information	  by	  email	  or	  other	  
+           means	  about	  our	  and	  our	  partners’	  products,	  services,	  contests,	  and	  promotions	  and	  
+           any	  notices	  required	  by	  law,	  unless	  you	  have	  directed	  us	  not	  to	  contact	  you	  with	  
+           promotional	  communications.	  
+     • We	  and	  our	  respective	  partners,	  such	  as	  the	  rights	  holders	  of	  the	  brands	  and	  marks	  in	  
+           connection	  with	  the	  services	  provided	  to	  you	  through	  the	  Services	  may	  use	  Personal	  
+           Information	  and	  Non-­‐Personal	  Information	  to	  administer	  and	  fulfill	  our	  and	  our	  
+           partners’	  contests	  and	  other	  promotions.	  
+     • We	  may	  use	  Personal	  Information	  and	  Non-­‐Personal	  Information	  you	  provide	  without	  
+           aggregating	  it	  to	  serve	  you	  specifically;	  for	  instance,	  to	  deliver	  Services	  to	  you	  according	  
+           to	  your	  preferences	  or	  restrictions.	  We	  might	  also	  use	  non-­‐aggregated	  information	  for	  
+           development	  or	  demographic	  profiling	  purposes,	  but	  any	  such	  use	  would	  not	  be	  
+           personally	  identifiable.	  
+     • We	  may	  use	  your	  Personal	  Information,	  Non-­‐Personal	  Information	  and	  other	  content	  
+           that	  you	  provide	  for	  internal	  purposes,	  such	  as	  analyzing	  how	  the	  Services	  are	  used,	  
+           diagnosing	  service	  or	  technical	  problems,	  maintaining	  security,	  and	  personalizing	  
+           content.	  
+     • We	  may	  aggregate	  the	  Non-­‐Personal	  Information	  we	  collect	  with	  the	  same	  kinds	  of	  
+           information	  collected	  from	  other	  users	  of	  the	  Services	  to	  provide	  you	  with	  a	  better	  
+           experience,	  to	  improve	  the	  quality	  and	  value	  of	  the	  Services,	  and	  to	  analyze	  and	  
+           understand	  how	  those	  Services	  are	  used.	  	  	  
+     • We	  and	  our	  respective	  partners,	  such	  as	  the	  rights	  holders	  of	  the	  brands	  and	  marks	  in	  
+           connection	  with	  the	  services	  provided	  to	  you	  through	  the	  Services	  will	  not	  rent	  or	  sell	  
+           your	  Personal	  Information	  to	  third	  parties	  to	  promote	  their	  products	  or	  services	  directly	  
+           to	  you	  without	  your	  consent.	  	  If	  you	  decide	  at	  any	  time	  that	  you	  no	  longer	  wish	  to	  
+           receive	  such	  communications	  from	  either	  of	  us,	  please	  follow	  the	  unsubscribe	  
+           instructions	  provided	  in	  any	  of	  the	  communications;	  provided	  that	  you	  may	  not	  opt	  out	  
+           of	  certain	  Services-­‐related	  emails,	  such	  as	  order	  confirmation	  and	  status.	  
 	  
 Please	  note	  that	  we	  reserve	  the	  right	  to	  access	  and/or	  disclose	  Personal	  Information	  and	  Non-­‐
 Personal	  Information	  we	  gather	  as	  required	  by	  courts	  or	  administrative	  agencies	  and	  to	  the	  
+
+
 extent	  required	  to	  permit	  us	  to	  investigate	  suspected	  fraud,	  harassment	  or	  other	  violations	  of	  
 any	  law,	  rule	  or	  regulation,	  the	  Services’	  respective	  Terms	  and	  Conditions,	  or	  the	  rights	  of	  third	  
 parties,	  or	  to	  investigate	  any	  suspected	  conduct	  which	  we	  deem	  improper.	  
 	  
-Following	  termination	  or	  deactivation	  of	  your	  User	  Account,	  we	  may	  retain	  any	  information	  or	  
-content	  that	  you	  have	  provided	  in	  connection	  with	  the	  Services	  for	  a	  commercially	  reasonable	  
-time	  for	  backup,	  archival	  or	  audit	  purposes.	  	  Notwithstanding	  the	  foregoing,	  all	  information	  that	  
-you	  post	  to	  public	  or	  semi-­‐public	  areas	  of	  the	  Services	  or	  include	  in	  communications	  to	  other	  
-users	  of	  the	  Services	  may	  be	  retained	  and	  used	  by	  BAT	  indefinitely	  after	  such	  termination	  or	  
-deactivation.	  
-
-
+Following	  termination	  or	  deactivation	  of	  your	  User	  Account	  or	  your	  termination	  of	  use	  of	  the	  
+Services,	  we	  may	  retain	  any	  information	  or	  content	  that	  you	  have	  provided	  in	  connection	  with	  
+the	  Services	  for	  a	  commercially	  reasonable	  time	  for	  backup,	  archival	  or	  audit	  purposes.	  	  
+Notwithstanding	  the	  foregoing,	  all	  information	  that	  you	  post	  to	  public	  or	  semi-­‐public	  areas	  of	  
+the	  Services	  or	  include	  in	  communications	  to	  other	  users	  of	  the	  Services	  may	  be	  retained	  and	  
+used	  by	  BAT	  indefinitely	  after	  such	  termination	  or	  deactivation.	  
 	  
 BAT	  reserves	  the	  right,	  but	  is	  in	  no	  way	  obligated,	  to	  monitor	  your	  posted	  information	  or	  User	  
 Generated	  Content,	  as	  defined	  in	  our	  Terms	  of	  Service.	  	  We	  reserve	  the	  right	  to	  remove	  any	  
@@ -112,13 +121,14 @@ Please	  contact	  us	  at	  the	  address	  below	  for	  any	
 use	  of	  information	  you	  provide.	  
 	  
 Information	  Sharing:	  Any	  information,	  including	  Personal	  Information,	  or	  content,	  such	  as	  User	  
-Generated	  Content,	  that	  you	  voluntarily	  disclose	  for	  posting	  to	  and	  via	  the	  Services,	  will	  be	  
-available	  for	  viewing	  by	  the	  public,	  subject	  to	  the	  privacy	  controls	  that	  you	  put	  in	  place	  through	  
-the	  privacy	  settings	  made	  available	  within	  the	  Services.	  Providing	  information	  and	  content	  is	  
-voluntary	  and	  should	  correlate	  with	  the	  degree	  of	  interaction	  you	  want	  to	  have	  with	  other	  users	  
-of	  the	  Services.	  We	  recommend	  that	  you	  guard	  your	  sensitive	  information.	  If	  you	  remove	  
-information	  that	  you	  have	  posted	  to	  and	  via	  the	  Services,	  copies	  may	  remain	  viewable	  in	  cached	  
-and	  archived	  pages	  of	  the	  Services	  or	  if	  other	  User	  have	  copied	  or	  saved	  such	  information.	  
+Generated	  Content,	  that	  you	  voluntarily	  disclose	  for	  posting	  to	  and	  via	  the	  Services,	  may	  be	  
+available	  for	  viewing	  by	  the	  public,	  depending	  on	  the	  service	  used	  and	  subject	  to	  the	  privacy	  
+controls	  that	  you	  put	  in	  place	  through	  the	  privacy	  settings	  made	  available	  within	  the	  Services.	  
+Providing	  information	  and	  content	  is	  voluntary	  and	  should	  correlate	  with	  the	  degree	  of	  
+interaction	  you	  want	  to	  have	  with	  other	  users	  of	  the	  Services.	  We	  recommend	  that	  you	  guard	  
+your	  sensitive	  information.	  If	  you	  remove	  information	  that	  you	  have	  posted	  to	  and	  via	  the	  
+Services,	  copies	  may	  remain	  viewable	  in	  cached	  and	  archived	  pages	  of	  the	  Services	  or	  if	  other	  
+User	  have	  copied	  or	  saved	  such	  information.	  
 	  
 We	  may	  share	  aggregated	  information	  that	  does	  not	  include	  Personal	  Information	  and	  we	  may	  
 otherwise	  disclose	  Non-­‐Personal	  Information	  and	  Log	  Data	  with	  third	  parties	  for	  industry	  
@@ -137,29 +147,32 @@ Information	  independently	  of	  the	  Services)	  and	  are	  o
 other	  purpose.	  
 	  
 The	  Services	  allow	  third-­‐party	  companies	  to	  serve	  ads	  and/or	  collect	  certain	  anonymous	  
-information	  when	  you	  and	  other	  Internet	  users	  use	  the	  Services.	  These	  companies	  may	  use	  Non-­‐
-Personal	  Information	  (e.g.,	  click	  stream	  information,	  browser	  type,	  time	  and	  date,	  subject	  of	  
-advertisements	  clicked	  or	  scrolled	  over)	  during	  your	  use	  of	  the	  Services	  and	  visits	  to	  other	  Web	  
-sites	  in	  order	  to	  provide	  advertisements	  about	  goods	  and	  services	  likely	  to	  be	  of	  greater	  interest	  
-to	  you.	  These	  companies	  typically	  use	  a	  cookie	  or	  third-­‐party	  web	  beacon	  to	  collect	  this	  
-information.	  BAT	  cannot	  control	  the	  activities	  of	  third	  party.	  	  This	  privacy	  notice	  does	  not	  cover	  
-any	  use	  of	  information	  that	  such	  third	  parties	  may	  have	  collected	  from	  you	  or	  the	  methods	  used	  
-by	  the	  third	  parties	  to	  collect	  that	  information.	  Please	  consult	  the	  respective	  privacy	  policies	  of	  
-such	  advertisers	  for	  more	  information.	  	  To	  learn	  more	  about	  this	  behavioral	  advertising	  practice	  
-or	  to	  opt-­‐out	  of	  this	  type	  of	  advertising,	  you	  can	  visit	  networkadvertising.org.	  
+information	  when	  you	  and	  other	  Internet	  users	  use	  certain	  services	  of	  the	  Services.	  These	  
+
+
+companies	  may	  use	  Non-­‐Personal	  Information	  (e.g.,	  click	  stream	  information,	  browser	  type,	  
+time	  and	  date,	  subject	  of	  advertisements	  clicked	  or	  scrolled	  over)	  during	  your	  use	  of	  the	  
+Services	  and	  visits	  to	  other	  Web	  sites	  in	  order	  to	  provide	  advertisements	  about	  goods	  and	  
+services	  likely	  to	  be	  of	  greater	  interest	  to	  you.	  These	  companies	  typically	  use	  a	  cookie	  or	  third-­‐
+party	  web	  beacon	  to	  collect	  this	  information.	  BAT	  cannot	  control	  the	  activities	  of	  third	  party.	  	  
+This	  privacy	  notice	  does	  not	  cover	  any	  use	  of	  information	  that	  such	  third	  parties	  may	  have	  
+collected	  from	  you	  or	  the	  methods	  used	  by	  the	  third	  parties	  to	  collect	  that	  information.	  Please	  
+consult	  the	  respective	  privacy	  policies	  of	  such	  advertisers	  for	  more	  information.	  	  To	  learn	  more	  
+about	  this	  behavioral	  advertising	  practice	  or	  to	  opt-­‐out	  of	  this	  type	  of	  advertising,	  you	  can	  visit	  
+networkadvertising.org.	  
 	  
-
-
 Unless	  disclosed	  otherwise	  at	  the	  time	  of	  collection	  or	  in	  this	  privacy	  policy,	  we	  do	  not	  share	  any	  
-Personal	  Information	  you	  submit	  through	  the	  Services	  with	  any	  third	  party,	  unless	  you	  have	  
-specifically	  opted-­‐in	  to	  such	  sharing	  or	  it	  is	  necessary	  to	  (i)	  respond	  to	  your	  questions,	  (ii)	  
-provide	  the	  specific	  service	  you	  have	  requested,	  (iii)	  exercise	  or	  protect	  the	  rights,	  property,	  or	  
-personal	  safety	  of	  BAT,	  users	  of	  the	  Services	  or	  other	  third	  parties;	  or	  (iv)	  comply	  with	  applicable	  
-law.	  We	  may	  provide	  your	  Personal	  Information	  to	  our	  contractors	  who	  are	  performing	  Services-­‐
-related	  services	  on	  our	  behalf,	  but	  solely	  in	  connection	  with	  their	  performance	  of	  services	  for	  
-BAT	  and	  under	  obligation	  to	  not	  disclose	  or	  use	  it	  for	  any	  other	  purpose.	  We	  will	  never	  sell	  your	  
-Personal	  Information	  to	  any	  third	  party	  without	  your	  consent	  except	  in	  connection	  with	  the	  sale	  
-or	  merger,	  in	  whole	  or	  in	  part,	  of	  BAT,	  its	  assets	  or	  the	  division	  responsible	  for	  such	  services.	  
+Personal	  Information	  you	  submit	  through	  the	  Services	  with	  any	  third	  party	  other	  than	  our	  
+respective	  partners,	  such	  as	  the	  rights	  holders	  of	  the	  brands	  and	  marks	  in	  connection	  with	  the	  
+services	  provided	  to	  you	  through	  the	  Services,	  unless	  you	  have	  specifically	  opted-­‐in	  to	  such	  
+sharing	  or	  it	  is	  necessary	  to	  (i)	  respond	  to	  your	  questions,	  (ii)	  provide	  the	  specific	  service	  you	  
+have	  requested,	  (iii)	  exercise	  or	  protect	  the	  rights,	  property,	  or	  personal	  safety	  of	  BAT,	  users	  of	  
+the	  Services	  or	  other	  third	  parties;	  or	  (iv)	  comply	  with	  applicable	  law.	  We	  may	  provide	  your	  
+Personal	  Information	  to	  our	  contractors	  who	  are	  performing	  Services-­‐related	  services	  on	  our	  
+behalf,	  but	  solely	  in	  connection	  with	  their	  performance	  of	  services	  for	  BAT	  and	  under	  obligation	  
+to	  not	  disclose	  or	  use	  it	  for	  any	  other	  purpose.	  We	  will	  never	  sell	  your	  Personal	  Information	  to	  
+any	  third	  party	  without	  your	  consent	  except	  in	  connection	  with	  the	  sale	  or	  merger,	  in	  whole	  or	  
+in	  part,	  of	  BAT,	  its	  assets	  or	  the	  division	  responsible	  for	  such	  services.	  
 	  
 Cookies:	  	  "Cookies"	  are	  pieces	  of	  information	  that	  may	  be	  placed	  on	  your	  computer	  or	  mobile	  
 device	  for	  the	  purpose	  of	  facilitating	  and	  enhancing	  your	  communication	  and	  interaction	  with	  
@@ -185,6 +198,8 @@ it	  to	  users’	  needs.	  
 Clear	  Gifs:	  When	  you	  use	  the	  Services,	  we	  may	  employ	  clear	  gifs	  (also	  known	  as	  web	  beacons	  or	  
 1x1	  tracking	  pixels)	  which	  are	  used	  to	  track	  the	  online	  usage	  patterns	  of	  our	  users	  anonymously.	  
 In	  addition,	  we	  may	  also	  use	  clear	  gifs	  in	  HTML-­‐based	  emails	  sent	  to	  our	  users	  to	  track	  which	  
+
+
 emails	  are	  opened	  by	  recipients.	  The	  information	  is	  used	  to	  enable	  more	  accurate	  reporting,	  
 improve	  the	  effectiveness	  of	  our	  marketing,	  and	  make	  the	  Services	  better	  for	  our	  users.	  
 	  
@@ -198,8 +213,6 @@ will	  be	  directed	  to	  such	  third	  party’s	  website.	 
 sites	  and	  are	  not	  responsible	  for	  the	  privacy	  practices	  of	  other	  sites	  and	  we	  encourage	  you	  to	  
 review	  the	  privacy	  policies	  of	  other	  web	  sites.	  
 	  
-
-
 Security	  Practices:	  	  The	  security	  of	  your	  Personal	  Information	  is	  very	  important	  to	  us.	  We	  take	  
 appropriate	  security	  measures	  to	  protect	  against	  unauthorized	  access	  to	  or	  unauthorized	  
 alteration,	  disclosure	  or	  destruction	  of	  data.	  These	  include	  internal	  reviews	  of	  our	  data	  
@@ -235,6 +248,8 @@ we	  may	  retain	  those	  communications	  in	  order	  to	  p
 requests	  and	  improve	  our	  services.	  	  When	  you	  send	  and	  receive	  SMS	  messages	  to	  or	  from	  one	  
 of	  our	  Services	  that	  provides	  SMS	  functionality,	  we	  may	  collect	  and	  maintain	  information	  
 associated	  with	  those	  messages,	  such	  as	  the	  phone	  number,	  the	  wireless	  carrier	  associated	  with	  
+
+
 the	  phone	  number,	  the	  content	  of	  the	  message,	  and	  the	  date	  and	  time	  of	  the	  transaction.	  	  Any	  
 communication	  or	  material	  you	  transmit	  to	  us	  by	  email	  or	  otherwise,	  including	  any	  content,	  
 data,	  questions,	  comments,	  suggestions,	  or	  the	  like	  is,	  and	  will	  be	  treated	  as,	  nonconfidential	  
@@ -242,14 +257,12 @@ and	  nonproprietary.	  We	  may	  use	  your	  email	  address	 
 Services.	  
 	  
 No	  Children	  Under	  Age	  13:	  	  The	  Services	  are	  not	  intended	  for	  persons	  under	  the	  age	  of	  13	  and	  
-we	  do	  not	  knowingly	  allow	  such	  persons	  to	  register	  for	  User	  Accounts.	  	  We	  do	  not	  intentionally	  
-collect	  Personal	  Information	  from	  children	  under	  the	  age	  of	  13.	  When	  we	  become	  aware	  that	  
-Personal	  Information	  from	  a	  child	  under	  13	  has	  been	  collected	  without	  the	  consent	  of	  such	  
-child's	  parent	  or	  legal	  guardian,	  we	  will	  use	  all	  reasonable	  efforts	  to	  delete	  such	  information	  
-from	  our	  database.	  	  If	  you	  believe	  that	  we	  might	  have	  Personal	  Information	  from	  or	  about	  any	  
-person	  under	  the	  age	  of	  13,	  please	  contact	  us	  at	  privacy@fantapper.com.	  
-
-
+we	  do	  not	  knowingly	  allow	  such	  persons	  to	  register	  to	  use	  the	  Services	  or	  for	  User	  Accounts	  .	  	  
+We	  do	  not	  intentionally	  collect	  Personal	  Information	  from	  children	  under	  the	  age	  of	  13.	  When	  
+we	  become	  aware	  that	  Personal	  Information	  from	  a	  child	  under	  13	  has	  been	  collected	  without	  
+the	  consent	  of	  such	  child's	  parent	  or	  legal	  guardian,	  we	  will	  use	  all	  reasonable	  efforts	  to	  delete	  
+such	  information	  from	  our	  database.	  	  If	  you	  believe	  that	  we	  might	  have	  Personal	  Information	  
+from	  or	  about	  any	  person	  under	  the	  age	  of	  13,	  please	  contact	  us	  at	  privacy@fantapper.com.	  
 	  
 Changes	  to	  Policy;	  Opt-­‐Out	  Process:	  	  We	  reserve	  the	  right,	  at	  our	  discretion,	  to	  change,	  modify,	  
 add,	  or	  remove	  portions	  from	  this	  policy	  at	  any	  time.	  	  We	  will	  post	  any	  Privacy	  Policy	  changes	  on	  
@@ -275,4 +288,4 @@ c/o	  Brand	  Affinity	  Technologies,	  Inc.	  
 Irvine,	  California,	  92617	  
 USA	  
 	  
-Effective	  Date:	  	  This	  privacy	  policy	  was	  last	  updated	  on	  May	  2,	  2013.	  
+Effective	  Date:	  	  This	  privacy	  policy	  was	  last	  updated	  on	  March	  5,	  2014.	  
