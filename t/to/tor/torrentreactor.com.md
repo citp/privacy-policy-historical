@@ -1,34 +1,21 @@
-> *The following text is extracted and transformed from the torrentreactor.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213084122id_/http%3A//joox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrentreactor.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050606id_/http%3A//www.torrentreactor.net/privacy.php) for the most accurate reproduction.*
 
-# TV Central
+# Torrent Reactor
 
-  | 
+**Your Privacy**
 
-**Our Commitment to Privacy**
+Torrentreactor.net is committed to protecting your privacy. Torrentreactor.net does not sell, trade or rent your personal information to other companies. Torrentreactor.net will not collect any personal information about you except when you specifically and knowingly provide such information.
 
-* * *
+By using our Web site, you consent to the collection and use of this information by Torrentreactor.net. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Torrentreactor.net may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. The Information We Collect: First Name, Last Name, Address, Zip/Postal, City, State, Country, Email, membership typeThis notice applies to all information collected or submitted on ultimatemoviedownload website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+**Third Party Advertising**
 
-Name:   
-Address:   
-Email address:   
-Phone number: 
+We use MediaShakers and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**The Way We Use Information:**
+**Third Party Cookies**
 
-All information is stored in a secure database. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-**Our Commitment To Data Security**
+**Modification of Privacy Policy**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**How You Can Access Or Correct Your Information**
-
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support ](https://web.archive.org/web/20101213084122id_/http%3A//joox.com/support.php). 
-
-|  
+Torrentreactor.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
