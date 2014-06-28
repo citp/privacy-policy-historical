@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231193128id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041248id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Veoh Video Network
 
@@ -62,5 +62,6 @@ FC2
 101 Convention Center Drive  
 Suite 700  
 Las Vegas, NV 89019  
-Tel: 310-770-4880  
+Tel: (310) 409-8217  
+Fax: (310) 496-2823  
 Email: [info@veoh.com](mailto:info@veoh.com)
