@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020161245id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628220004id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
 
@@ -81,4 +81,4 @@ This privacy policy is governed by and construed in accordance with the law of t
 
 ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
 
-Last update: Amsterdam, 3 June 2013
+Last update: Amsterdam, 11 June 2014
