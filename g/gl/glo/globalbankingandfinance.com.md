@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226223533id_/http%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbankingandfinance.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045641id_/http%3A//www.globalbankingandfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Business, Financial, Trading News Articles – Global Banking and Finance Review
 
 By using this site, You consent to the use of Cookies. For more information read our [Privacy & Cookie Policy.](http://www.globalbankingandfinance.com/privacy-cookies/) OK
 
