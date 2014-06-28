@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229092912id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628172353id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.*
 
-# Prada Gucci Fendi Tod's Hogan Designer Shoes Handbags and Apparel Made in Italy
+# Prada Gucci Tod's Hogan Shoes Handbags and Clothing Made in Italy
 
 **Styledrops is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors.**
 
