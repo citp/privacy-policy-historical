@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811062410id_/http%3A//help.yellow.co.nz/yellow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628211813id_/http%3A//help.yellow.co.nz/yellow/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yellow® New Zealand
 
@@ -9,7 +9,7 @@ We are committed to protecting the privacy of personal information you might pro
 You acknowledge and agree that we may collect information about you. This may be:
 
   * provided voluntarily by you;
-  * obtained or derived from website usage information (whether through tracking your click behaviour or otherwise);;
+  * obtained or derived from website usage information (whether through tracking your click behaviour or otherwise);
   * obtained or derived from aggregated data not relating to you personally, such as the measuring of traffic to our websites; and/or
   * provided by third parties.
 
