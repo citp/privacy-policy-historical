@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgearcapital.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208234329id_/http%3A//www.nextgearcapital.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgearcapital.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023930id_/http%3A//www.nextgearcapital.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Notice
 
