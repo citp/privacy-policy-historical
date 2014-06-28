@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2013-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131003053433id_/http%3A//www.selfridges.com/en/StaticPage/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfridges.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629000122id_/http%3A//www.selfridges.com/en/StaticPage/Privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy & cookie policy - Selfridges | Shop Online
 
@@ -56,6 +56,6 @@ When you register at Selfridges.com you will be asked to provide certain informa
 
 We will use internal and external validation and fraud checking systems to verify your identity. We may share some of your data with carefully-selected and monitored third parties for marketing purposes but promise never to do so without obtaining your consent beforehand.
 
-If you have any questions, please feel free to contact us by email at: [customerservices@selfridges.com](mailto:customerservices@selfridges.com). Alternatively, you may call our team on 0800 123 400 (+44 113 369 8040 from overseas), Monday to Saturday: 9am - 10pm and Sundays: 10am - 6pm.
+If you have any questions, please contact us [here](https://web.archive.org/en/StaticPage/ContactUs/) or by calling 0800 123 400 (+044 113 369 8040 from overseas), Monday to Saturday: 9am-10pm and Sundays: 10am-6pm.
 
 Selfridges Retail Limited Registered in England with company number 97117 Registered Office: 400 Oxford Street London W1A 1AB.
