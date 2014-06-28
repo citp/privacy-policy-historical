@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215205046id_/http%3A//www.hotdeals.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628181752id_/http%3A//www.hotdeals.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - HotDeals
+
+[Home](https://web.archive.org/ "Home") »  Privacy Policy
 
 HotDeals.com takes your privacy seriously. Please read this Privacy Policy carefully, as it explains what information we collect from you and how we keep that information secure. By using our website, you consent to this policy. If you do not agree with the terms of our Privacy Policy, please do not use HotDeals.com.
 
