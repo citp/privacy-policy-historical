@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the shoecarnival.com privacy policy that was archived on 2013-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131211181958id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoecarnival.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628105238id_/http%3A//www.shoecarnival.com/company/privacy.jsp%3Fselpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/331348009.js"></script>
 			<!-- SHOECARNIVAL -->
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta name="google-site-verification" content="QIGH8k0C3FeUNyYM-kzjXZJGQKGxC_DF8GBaRFLkhOM">
 			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+			<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 			<link rel="stylesheet" href="/static/css/base.css" type="text/css">
 	<!-- 		<link rel="stylesheet" href="/static/css/site.css" type="text/css" />
 			<link rel="stylesheet" href="/static/css/menu.css" type="text/css" />
@@ -78,14 +80,27 @@
 
 	<script type="text/javascript" src="/static/js/base.js"></script>
 	<script type="text/javascript" src="/static/js/scripts.js"></script>
-	
-	<!-- begin redirect to mobile or tablet site -->		
+	<script type="text/javascript" src="/static/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/static/js/showEmailSignUpModal.js"></script>
+		<!-- begin redirect to mobile or tablet site -->		
 	<script>
 		var website = "shoecarnival.com";
 		var mobilesite = "m.shoecarnival.com";
 		var tabletsite = "t.shoecarnival.com";
 	</script>
-	<script type="text/javascript" src="http://s3.amazonaws.com/mobileredirect/tabletredirect.js"></script>
+	
+	
+	<script type="text/javascript">
+		if (window.location.protocol === "https:") {
+			document.writeln('<scr'+'ipt type = "text/javascript" src="https://s3.amazonaws.com/mobileredirect/tabletredirect.js"></scr'+'ipt>');
+		} else {
+			document.writeln('<scr'+'ipt type = "text/javascript" src="http://s3.amazonaws.com/mobileredirect/tabletredirect.js"></scr'+'ipt>');
+		}
+	</script><script type="text/javascript" src="https://s3.amazonaws.com/mobileredirect/tabletredirect.js"></script>
+
+	
+	
+	
 	<!--  end redirect to mobile site -->
 
 	<script type="text/javascript">
@@ -135,15 +150,29 @@
 
 	<!-- Begin 22viewthru Tag -->
 	<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/06f548e2ad46195c924c74041235b40393fa0a99/satelliteLib-0fd60cea98cee7a0902d556dba9fa255f4f7f1e7.js"></script>
-		<script type="text/javascript" src="http://shoecarnival.hawksearch.info/sites/shoecarnival/includes/hawksuggester.js"></script>
+		<script type="text/javascript">
+	var hawkResourcesURL = 'http://shoecarnival.hawksearch.info/sites/shoecarnival';
+	var secureHawkResourcesURL = 'https://shoecarnival.hawksearch.info/sites/shoecarnival';
+    var url = '';
+    
+    if (window.location.protocol === "https:") {
+    	url = secureHawkResourcesURL+ "/includes/hawksuggester.js";
+    	
+	} else {
+		url = hawkResourcesURL+ "/includes/hawksuggester.js";
+	}
+    var scriptUrl = '<scr'+'ipt type="text/javascript" src="'+url+'"></scr'+'ipt>';
+    document.writeln(scriptUrl);
+	</script><script type="text/javascript" src="https://shoecarnival.hawksearch.info/sites/shoecarnival/includes/hawksuggester.js"></script>
+
 	<script>
 		StageURL = 'http://shoecarnival.hawksearch.info/sites/shoecarnival/';
 // 		var HawkSearch = {};
-		//HawkSearch.BaseUrl = 'http://staging.hawksearch.com/sites/shoecarnival/';
- 		HawkSearch.BaseUrl = 'http://www.shoecarnival.com/hawkproxy';
+		HawkSearch.BaseUrl = 'http://www.shoecarnival.com/hawkproxy';
+		HawkSearch.TrackingUrl = 'http://shoecarnival.hawksearch.info/sites/shoecarnival';
 	</script>
-<meta name="google-site-verification" content="QIGH8k0C3FeUNyYM-kzjXZJGQKGxC_DF8GBaRFLkhOM">
-		</head>
+	
+</head>
 
 		<body class="wk"><div id="wrapper">
 			<div id="header">
@@ -159,7 +188,7 @@
 			<li id="miniCart" class="header-cart hoverdelay">
 			<a href="/cart/cart.jsp" class="header-cart-link">
 			<span class="header-cart-icon">Shopping Cart:</span>
-	    0 Items • <strong>$0.00</strong>
+	    <span id="commerceItemsTotal">0</span> Items • <span id="cartTotal"><strong>$0.00</strong></span>
     </a>
    <div class="header-cart-flyout" id="minicart-flyout">
        <div class="minicart-empty">
@@ -215,7 +244,7 @@
 </div>
 
 </div>
-	<form id="logoutForm" action="/?_DARGS=/navigation/gadgets/welcome.jsp.logoutForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-649484645600345497" type="hidden"> </div><input name="/atg/userprofiling/B2CProfileFormHandler.logout" value="true" type="hidden"><input name="_D:/atg/userprofiling/B2CProfileFormHandler.logout" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/navigation/gadgets/welcome.jsp.logoutForm" type="hidden"> </div></form><ul class="nav hoverdelay" id="navigation">
+	<form id="logoutForm" action="/?_DARGS=/navigation/gadgets/welcome.jsp.logoutForm" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="1027302768683856085" type="hidden"> </div><input name="/atg/userprofiling/B2CProfileFormHandler.logout" value="true" type="hidden"><input name="_D:/atg/userprofiling/B2CProfileFormHandler.logout" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/navigation/gadgets/welcome.jsp.logoutForm" type="hidden"> </div></form><ul class="nav hoverdelay" id="navigation">
 				<li class="">
 
       <a class="topCatLinks" href="/new-arrivals-shoes/cat320002.scc">New Arrivals</a><div class="subNavContainer">
@@ -242,7 +271,10 @@
      <ul class="sub_category">
         <li>
 
-          <a href="/womens-boots/scvl90026cat.scc">Boots</a></li>
+          <a href="/womens-sandals/scvl90025cat.scc">Sandals</a></li>
+        <li>
+
+          <a href="/womens-wedges/cat640037.scc">Wedges</a></li>
         <li>
 
           <a href="/womens-flats-loafers/cat640020.scc">Flats &amp; Loafers</a></li>
@@ -251,13 +283,13 @@
           <a href="/womens-athletics-shoes/scvl90027cat.scc">Athletics</a></li>
         <li>
 
+          <a href="/womens-boat-shoes/cat640043.scc">Boat Shoes</a></li>
+        <li>
+
           <a href="/womens-pumps-heels/cat640014.scc">Pumps &amp; Heels</a></li>
         <li>
 
           <a href="/womens-sneakers/cat640044.scc">Sneakers</a></li>
-        <li>
-
-          <a href="/womens-boat-shoes/cat640043.scc">Boat Shoes</a></li>
         <li>
 
           <a href="/womens-special-occasion-bridal-shoes/cat640033.scc">Special Occasion &amp; Bridal</a></li>
@@ -269,10 +301,7 @@
           <a href="/womens-comfort-shoes/cat640025.scc">Comfort</a></li>
         <li>
 
-          <a href="/womens-wedges/cat640037.scc">Wedges</a></li>
-        <li>
-
-          <a href="/womens-sandals/scvl90025cat.scc">Sandals</a></li>
+          <a href="/womens-boots/scvl90026cat.scc">Boots</a></li>
         <li>
 
           <a href="/womens-work-safety-shoes/scvl90028cat.scc">Work &amp; Safety</a></li>
@@ -461,18 +490,24 @@
               <a href="/brands" class="topCatLinks">Brands</a>
               <div class="subNavContainer">
                 <ul class="sub_category">
-					<li><a style="text-transform: capitalize" href="/nike/700236.scb">nike</a></li>
-					<li><a style="text-transform: capitalize" href="/sperry/400001.scb">sperry</a></li>
-					<li><a style="text-transform: capitalize" href="/new-balance/300062.scb">new balance</a></li>
-					<li><a style="text-transform: capitalize" href="/vans/700275.scb">vans</a></li>
-					<li><a style="text-transform: capitalize" href="/aerology/700146.scb">aerology</a></li>
-					<li><a style="text-transform: capitalize" href="/converse/200009.scb">converse</a></li>
-					<li><a style="text-transform: capitalize" href="/adidas/300002.scb">adidas</a></li>
-					<li><a style="text-transform: capitalize" href="/puma/300067.scb">puma</a></li>
-					<li><a style="text-transform: capitalize" href="/clarks/200013.scb">clarks</a></li>
-					<li><a href="/brands"><strong>see all</strong></a></li>
+					<li><a style="text-transform: capitalize" href="/converse/200009.scb">Converse</a></li>
+										<li><a style="text-transform: capitalize" href="/vans/700275.scb">Vans</a></li>
+										<li><a style="text-transform: capitalize" href="/nike/700236.scb">Nike</a></li>
+										<li><a style="text-transform: capitalize" href="/sperry/400001.scb">Sperry</a></li>
+										<li><a style="text-transform: capitalize" href="/crocs/400007.scb">Crocs</a></li>
+										<li><a style="text-transform: capitalize" href="/keds/700210.scb">Keds</a></li>
+										<li><a style="text-transform: capitalize" href="/skechers/300082.scb">Skechers</a></li>
+										<li><a style="text-transform: capitalize" href="/bobs/300011.scb">BOBS</a></li>
+										<li><a style="text-transform: capitalize" href="/teva/200012.scb">Teva</a></li>
+										<li><a style="text-transform: capitalize" href="/puma/300067.scb">Puma</a></li>
+										<li><a href="/brands"><strong>see all</strong></a></li>
 </ul>
               </div>
+            </li>
+			
+			
+			<li class="nav-right">
+              <a href="https://www.youtube.com/watch?v=YTmpP3Bj2zM&amp;feature=youtu.be" class="topCatLinks" target="_blank" title="Shoe Carnival TV Commercial">TV Commercial</a>
             </li>
 			</ul>
 			
@@ -623,8 +658,8 @@
         	<h4>About Us</h4>
             
             <ul>
-            	<li><a href="http://locator.shoecarnival.com/Investors/default.aspx?selpage=corpSite&amp;selpage=privacy">Investors</a></li>
-                <li><a href="/careers">Careers</a></li>
+				<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=89461&amp;p=irol-IRHome">Investors</a></li>
+		        <li><a href="/careers">Careers</a></li>
                 <li><a href="/company/privacy.jsp?selpage=privacy">Privacy Policy</a></li>
                 <li><a href="/company/terms.jsp?selpage=terms">Terms &amp; Conditions</a></li>
                 <li><a href="/company/privacy_california.jsp?selpage=privacycali">Your California Privacy Rights</a></li>
@@ -635,25 +670,26 @@
         	<h4>Connect</h4>
             <p>Sign up for product &amp; promotion info:</p>
             <div class="global-form">
-                <form id="atg_store_promoNewsLetter" action="/navigation/gadgets/promoNewsLetterSignUp.jsp?_DARGS=/navigation/gadgets/tertiaryNavigation.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-649484645600345497" type="hidden"> </div><input id="promoEmailSuccessURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value=" " type="hidden"><input id="promoEmailErrorURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value=" " type="hidden"><input id="promoEmail" name="/atg/userprofiling/ProfileFormHandler.promoEmail" value="Enter Email" class="global-form-input" type="text"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmail" value=" " type="hidden"><input id="promoEmailSignUp" name="/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value="Sign Up" class="global-form-submit" type="submit"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/navigation/gadgets/tertiaryNavigation.jsp" type="hidden"> </div></form></div>
+                <form id="atg_store_promoNewsLetter" action="/navigation/gadgets/promoNewsLetterSignUp.jsp?_DARGS=/navigation/gadgets/tertiaryNavigation.jsp" method="post"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="1027302768683856085" type="hidden"> </div><input id="promoEmailSuccessURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSuccessURL" value=" " type="hidden"><input id="promoEmailErrorURL" name="/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value="/company/thankYou.jsp" type="hidden"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailErrorURL" value=" " type="hidden"><input id="promoEmail" name="/atg/userprofiling/ProfileFormHandler.promoEmail" value="Enter Email" class="global-form-input" type="text"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmail" value=" " type="hidden"><input id="promoEmailSignUp" name="/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value="Sign Up" class="global-form-submit" type="submit"><input name="_D:/atg/userprofiling/ProfileFormHandler.promoEmailSignUp" value=" " type="hidden"><div style="display:none"><input name="_DARGS" value="/navigation/gadgets/tertiaryNavigation.jsp" type="hidden"> </div></form></div>
             
             <ul class="footer-connect-social">
-            	<li><a href="http://www.facebook.com/ShoeCarnival" target="_blank"><img src="/static/img/site/footer/icon-social-facebook.png"></a></li>
-            	<li><a href="http://www.twitter.com/shoe_carnival" target="_blank"><img src="/static/img/site/footer/icon-social-twitter.png"></a></li>
-            	<li><a href="http://pinterest.com/ShoeCarnival/" target="_blank"><img src="/static/img/site/footer/icon-social-pinterest.png"></a></li>
+            	<li><a href="http://www.facebook.com/ShoeCarnival" target="_blank"><img src="/static/img/site/footer/icon-social-facebook.jpg"></a></li>
+            	<li><a href="http://www.twitter.com/ShoeCarnival" target="_blank"><img src="/static/img/site/footer/icon-social-twitter.jpg"></a></li>
+            	<li><a href="http://pinterest.com/ShoeCarnival/" target="_blank"><img src="/static/img/site/footer/icon-social-pinterest.jpg"></a></li>
+				<li><a href="https://plus.google.com/114572204859180933525/posts" target="_blank"><img src="/static/img/site/footer/icon-social-google-plus.jpg"></a></li>
             </ul>
         </li>
         
-        <li class="footer-copy">Copyright © 2013 Shoe Carnival Inc.  All rights reserved.</li>
+        <li class="footer-copy">Copyright © 2014 Shoe Carnival Inc.  All rights reserved.</li>
     </ul>
 	
 	
 	</div>
 <!--
-        Profile Profile[130275231]
+        Profile Profile[162410598]
         Profile Catalog catalog:masterCatalog
         login no login>
-        Order Order[type:default; id:o158152289; state:INCOMPLETE; transient:true; profileId:130275231; ]
+        Order Order[type:default; id:o194350595; state:INCOMPLETE; transient:true; profileId:162410598; ]
 		Server Name: w219374apss2002:10150
 	-->
 	
@@ -696,6 +732,6 @@
 	<!-- Begin 22viewthru Tag -->
 	<script type="text/javascript">_satellite.pageBottom();</script>
 	<!-- End 22viewthru Tag -->
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","67f7daa877","2671560","YgRaN0oHChFTUxVYWltOcjBoSQcNX0AAX0waEUoKTgcHGxxaEkE=",0,94,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","67f7daa877","2671560","YgRaN0oHChFTUxVYWltOcjBoSQcNX0AAX0waEUoKTgcHGxxaEkE=",0,692,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<div id="simplemodal-overlay" class="simplemodal-overlay" style="opacity: 0.5; height: 768px; width: 1366px; position: fixed; left: 0px; top: 0px; z-index: 1001;"></div><div id="simplemodal-container" class="simplemodal-container" style="position: fixed; z-index: 1002; height: 419px; width: 960px; left: 203px; top: 174.5px;"><div tabindex="-1" class="simplemodal-wrap" style="height: 100%; outline: 0px; width: 100%; overflow: visible;"><div id="simplemodal-data" class="simplemodal-data" style=""><iframe src="/navigation/gadgets/email_modal.jsp" height="419" width="960" scrolling="no" id="atb"></iframe></div></div></div><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
