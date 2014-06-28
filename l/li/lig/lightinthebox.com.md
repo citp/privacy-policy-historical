@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014164116id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628214926id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.LightInTheBox.com
 
@@ -44,6 +44,8 @@ We collect information from Site users in several different ways, with the goal 
 
 **Email Addresses:** Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by LightInTheBox.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
 
+ **Phone Number:** Several locations on the Site allow you to enter your phone number for purposes including but not limited to: SMS verification, registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our SMS newsletter.
+
 **Log Files:** Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)   
 **       
 Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site. 
@@ -68,7 +70,7 @@ How does LightInTheBox.com use my personal information?
 
 ** **Internal Use:** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
-**Communication with You:** We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with LightInTheBox.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
+**Communication with You:** We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with LightInTheBox.com regarding orders placed. We may send you a confirmation email or a SMS verification after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address or phone number to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter, SMS newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails or SMS messages related to your orders.
 
 Does LightInTheBox.com ever give out my personal information?
 
@@ -99,9 +101,12 @@ This Site incorporates physical, electronic, and administrative procedures to sa
 You can choose to:   
      * Correct or update your personal information   
      * Stop receiving mail to your email address   
+     * Stop receiving SMS messages to your phones   
      * Disable your account to prevent any future purchases through that account   
 **To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.   
 **To unsubscribe from emails** you receive from LightInTheBox.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you. 
+
+**To unsubscribe SMS messages** you receive from LightInTheBox.com, log in to My Accounts and select the option appropriate for you. 
 
 #### Are children allowed to use LightInTheBox.com?
 
