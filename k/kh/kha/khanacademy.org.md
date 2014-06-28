@@ -1,95 +1,205 @@
-> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020028id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629013219id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Khan Academy
+# Privacy Notice | Khan Academy
 
-### Khan Academy's mission is to provide a free, world-class education for anyone, anywhere. We are a not-for-profit 501c3 entity, and our purpose of establishing ourselves as a non-profit entity is so that our mission of education and trust with the user never comes in conflict with a for-profit motive. We believe that this is necessary for us to be trusted with your private data.
+#### Last Updated: May 8, 2014
+
+_Our mission at Khan Academy is to provide a free, world-class education for anyone, anywhere._
 
 * * *
 
-## Khan Academy Privacy Policy
+###  Our Privacy Notice is fueled by our commitment to the following Privacy Principles: 
 
-Last Updated: March 11, 2013
-
-Welcome to the web site and online services (the " **Website** ") operated by Khan Academy, Inc., a 501(c)(3) organization (" **Khan Academy** "). Khan Academy values the privacy of our members and others who visit and use the Website (individually, " **You** " or collectively, " **Users** "). We take your privacy seriously and make it a priority to protect personally identifiable information that we obtain from and about individuals both online and off-line.
-
-This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Website (whether or not you are a registered member), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Website.
-
-This Privacy Policy is incorporated into and is subject to the Khan Academy [Terms of Service](https://web.archive.org/about/tos). Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and Khan Academy's [Terms of Service](https://web.archive.org/about/tos). Any capitalized terms used but not defined herein shall have the meaning set forth in the Terms of Service.
-
-### Our Commitment to Children's Privacy:
-
-Protecting the privacy of young children is especially important. For that reason, Khan Academy puts in place certain features designed to help protect the personally identifiable information of children less than 13 years of age. Khan Academy does not knowingly permit any person less than 13 years of age to register directly for the Website unless Khan Academy reasonably believes, or has received assurances from a Coach, that the child's parent has consented to such registration and use of the Website. If Khan Academy learns that personally-identifiable information of persons less than 13 years of age has been collected on the Website without parental consent, then Khan Academy will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website without your consent, then you may alert Khan Academy at [privacy@khanacademy.org](mailto:privacy@khanacademy.org) and request that Khan Academy delete that child's personal information from its systems.
-
-### Child Registration:
-
-When a child under the age of 13 (" **Child Member** ") requests to register for the Website, Khan Academy first seeks consent from the child's identified parent or guardian (" **Parent** "). During the initial registration process, we may collect from a potential Child Member their email address and birth date, along with an email address for a Parent. In some cases, a Coach may be able to directly register a Child Member for the Website by the Coach providing to us during such registration process a username and password for the Child Member account, the child’s birth date and an email address of the child’s parent. Khan Academy attempts to inform the child's Parent, using the email address provided by the child or the Coach, of the request for a Child Member account and directs the Parent to this Privacy Policy. Please note that, although Khan Academy will make reasonable efforts to inform the Parent following the creation of a Child Member account by a Coach, the Child Member account will be immediately active and ready for use by the Child Member upon registration by the Coach. If you are a Parent and wish to consent to your child's registration on the Website, you must first register for the Website under an adult account. If you are a registered Parent on the Website, you may create a child account, or request an existing child account to be assigned to your parent account, for each Child Member for whom you are a parent or legal guardian. A Parent may additionally revoke a child's permission to use the Website at any time by either contacting Khan Academy at [privacy@khanacademy.org](mailto:privacy@khanacademy.org) or by changing the password for the child's account using the features provided for a parent account. If you are a Parent and register your child for a Child Member account or have the Child Member account assigned to your parent account, you agree and acknowledge that you permit the Child Member to use the Website and all features made available on the Website as fully contemplated by Khan Academy. As a Parent, you understand that any personally identifiable information of your child that you or a Coach provide in connection with registration or otherwise may be used by Khan Academy as provided in this Privacy Policy. Except where the context indicates otherwise, the remainder of this Privacy Policy (including any discussion of the personally identifiable information that Khan Academy may collect, use or disclose) shall apply equally to a Child Member account and a Parent account. The Website does not condition a Child Member's participation in an online activity on the Child Member providing more personal information than is reasonably necessary for that activity. 
-
-### The Information Khan Academy Collects
-
-  * **User-provided Information** : When you register for, browse and use the Website, you may provide to Khan Academy what is generally called "personally identifiable information" (such as your full name, email address, postal mailing address, and/or home/mobile telephone number). You may also be able to add a picture of yourself. If you decide to register through or otherwise grant access to a third party social networking or integrated service that we may make available (" **Integrated Service** "), such as Facebook Connect or Google, Khan Academy may also collect any such "personally identifiable information" that you have provided to the Integrated Service from the account you have with the Integrated Service. You may revoke Khan Academy's access to your account on the Integrated Service at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Website. From time to time, Khan Academy may also ask you optionally to provide other information. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use and store it consistent with this policy. Therefore, please understand that when you sign in with Khan Academy, you are not anonymous to us.
-  * **Information from other Users** : We may make available certain features in the Website that allow other Users of the Website to provide us information that may include your personally identifiable information. For example, we may permit a Coach to register an account for you on your behalf in which the Coach pre-populates certain profile information about you.
-  * **"Cookies" Information** : When you visit the Website, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website. Khan Academy may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website. Third party advertisements displayed in connection with the Website may also contain cookies set by internet advertisers. We do not control these cookies and users of the Website should check the privacy policy of the advertiser to see whether and how it uses cookies.
-  * **"Automatically Collected" Information:** When you use the Website, we may automatically record certain information from your browser by using different types of technology, including standard log files, "clear gifs" or "web beacons." This "automatically collected" information may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system and the dates and times that you visit the Website. Additionally, we may record certain information regarding your use of features that Khan Academy may make available on the Website, such as the number of problems you have attempted, the number of videos you have viewed and the amount of time spent to complete a problem.
-  * **Third Party Web Beacons:** We may also implement third party content, such as advertising, on the Website that uses "clear gifs," "web beacons," or other similar techniques, which allow the third party content provider to read and write cookies to your browser, or implement similar tracking mechanisms, in connection with your viewing of that third party content displayed on the Website. This information is collected directly by the third party, and Khan Academy does not participate in that data transmission. Information collected by third parties in this manner is subject to that third party's own data collection, use, and disclosure policies.
-  * **Location Information:** We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
-  * **Information from Other Sources:** We may also obtain information, including personally identifiable information, from third parties and sources other than the Website. If we combine or associate information from other sources with personally identifiable information that we collect through the Website, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.
+  1. We’re deeply committed to creating a safe and secure online environment for you. 
+  2. We do not sell your personal information to third parties. We established ourselves as a not-for-profit organization so that our mission of education and your trust will not be in conflict with a for-profit motive. 
+  3. We strive to provide you with access to and control over the information you give us, and we take the protection of your information very seriously. 
+  4. We take extra precautions for our younger learners under the age of 13, including restricting child accounts to automatically block features that would allow a child to post or disclose personal information. 
+  5. We do not advertise on Khan Academy. We use your information to provide you with a better learning experience, not to sell you products. 
 
 
 
-### The Way Khan Academy Uses Information
+* * *
 
-  * Khan Academy uses the information that you provide or that we collect in order to establish and enhance our relationship with you. Khan Academy generally uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Website. If you have given Khan Academy consent, we may use your personally identifiable information to provide you with information about Khan Academy's features, services and other offerings that may be of interest to you. We may also send information or offers to groups of users on behalf of other businesses. Under certain circumstances (for example if you win a contest) we may post your personally identifiable information on the Website. However, we will notify you of this possibility when collecting personally identifiable information or we will obtain your consent. We may share your personally identifiable information with certain other websites that we link to (and that you click upon) in order to enhance your experience in connection with the Website.
-  * Khan Academy uses all of the information that you provide or that we collect from Users to understand and analyze the usage trends and preferences of our Users, to improve the way the Website works and looks, and to create new features and functionality.
-  * Khan Academy may use "cookies" information to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit the Website; (b) provide customized third-party advertisements, content, and information; (c) monitor the effectiveness of third-party marketing campaigns; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions or other activities. 
-  * If you have registered as a member and given Khan Academy consent, we may share your personally identifiable information with advertisers, business partners, and other entities that are not affiliated with Khan Academy who would like to send you information about their products and services. We do not share personally identifiable information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
-  * Khan Academy's employees, agents and contractors must have a legitimate business reason to obtain access to the personally identifiable information you may provide to register as a member of Khan Academy. We may share your personally identifiable information with companies that provide services to us, including outside contractors or agents who help us manage our information activities (for example, contest and sweepstakes administration), but they may only use your personally identifiable information to provide us with a specific service and not for any other purpose.
+##  About Khan Academy and our Privacy Notice 
 
+Khan Academy, Inc. feels strongly about protecting your privacy. We understand how important privacy is to you, and we are committed to creating a safe and secure environment for learners of all ages on our web site, application programming interface (our “API”), and online services (collectively, our “Website”). As a not-for-profit, 501(c)(3) organization, we use the data we collect to provide you with a better experience and fulfill our mission of providing a free, world-class education for anyone, anywhere. We established ourselves as a not-for-profit organization so that a for-profit motive will not interfere with our mission of providing a trusted educational resource. 
 
+Our Privacy Notice describes what information we gather from our members and others who visit and use the Website, how we use that information, and what we do to protect it. By visiting or using our Website, you expressly consent to the information handling practices described in this Privacy Notice. 
 
-### When Khan Academy Discloses Information
+Your use of the Website and any information you provide on the Website are subject to the terms of this Privacy Notice, which is incorporated into and subject to our [Terms of Service](https://web.archive.org/about/tos). Any capitalized terms used but not defined within this Privacy Notice have the meaning given to them in our Terms of Service. 
 
-  * **Aggregate Information:** Khan Academy discloses automatically collected and other aggregate non-personally-identifiable information to interested third parties to assist such parties in understanding the usage, viewing, and demographic patterns for certain programs, content, services, advertisements, promotions, and/or functionality on the Website.
-  * **User Postings on the Website:** Khan Academy enables you to share your User Postings with other Users of the Website, such as Users of the Website that you choose to register as your Coach and Users associated with your Educational Organization. Khan Academy may also permit you to share your User Postings publicly on the Website. If your User Postings are shared with other Users, any personally identifiable information that you choose to include in, or is associated with, such User Postings will be accessible by such Users. Once you make your personally identifiable information available to others in any of these ways, _it may be collected and used by the recipients without restriction_. Khan Academy enables Users to share information and resources. If you are a User subscribing to the Website and you consent, Khan Academy may disclose certain personally identifiable information to other Users of the Website, such as Users registered as Coaches and Users associated with your Educational Organization. If you consent, Khan Academy may also share information about your use of certain Website features with other Users of the Website, such as sharing your activity history with your Coach or Users associated with your Educational Organization.
-  * **Child Member Information:** Although Khan Academy makes available certain features that allow a User to disclose personal information to other Users, we attempt to restrict a Child Member's access to certain features that could result in disclosure by the Child Member of personally identifiable information. For example, a Child Member account is not normally permitted to post public comments on the Website for any videos or exercises. However, some features of the Website may permit a Child Member to enter free-form text through which the Child Member could include personally identifiable information that could be visible to other Users (such as when a Child Member enters personal information in answering an exercise problem or creating other projects on the Website). Further, certain features of the Website may allow the Child Member to communicate with other Users, such as when a Child Member communicates with a Coach through the Website or through third party services accessing the Khan Academy API. If the Child Member chooses to include personally identifiable information in such communications, the recipient may be able to collect and use such information without restriction. For example, a Coach may receive personally identifiable information that is made available by a Child Member and may be able to use such information without restriction.
-  * **Social Networks:** Khan Academy will disclose your personal information if you have explicitly agreed that we may do so. In particular, we will disclose personal information where you have elected to connect your account on our Website to a social network or other similar service (e.g., Facebook or Google), or have elected to have your activity on our Website published to a social network or other similar service (e.g., Facebook or Google). To control the information that you share, you should review and, if appropriate, modify your privacy settings on such services.
-  * **Required by Law:** Khan Academy may also disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant. In some cases, we may make such disclosures without first providing notice to Users. 
-  * **Merger or Acquisition:** In the event that Khan Academy is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control.
-  * **Other Purposes:** Khan Academy also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Khan Academy from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of Khan Academy, our Users, or others.
+* * *
 
+##  How we collect and use data 
 
+We take the information you provide to us very seriously, and we strive to put you in control of decisions around your information. 
 
-### Your Choices:
+#### Khan Academy collects the following information about you and your use of our Website:
 
-You may, of course, decline to share your personally-identifiable information with Khan Academy, in which case Khan Academy will not be able to provide to you some of the features and functionality found on the Website. If you register as a member of Khan Academy, you may update, correct, or delete your profile information and preferences at any time by going to your account settings page.
+#####  Personal Information. 
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times. 
+When you register for, browse and use the Website, you may provide to Khan Academy what is generally called “personally identifiable information” or “personal data” (such as your full name, email address, or a photograph of yourself) that can be used to identify you. At Khan Academy, we call this data “Personal Information.” 
 
-### Third Party Applications
+#####  Information from Integrated Services like Facebook or Google. 
 
-Khan Academy endeavors to make the educational videos and content available through Website as broadly available as possible. To encourage this, Khan Academy makes available to third party application developers and service providers (" **App Developers** ") an application programming interface (" **API** ") for use in creating complementary or additional services for users (such as creating mobile applications that provide access to Khan Academy content). Through the API, Khan Academy may allow App Developers to access a variety of personal information related to your use of the Website and related services, including your username or other unique identifier, messages, comments, browsing history on the Website, exercise history and other information related to your use of the Website. When you use, download or access an application or service from such App Developers, we may give them access to such personal information you have provided or we have collected. The first time an App Developer wishes to access your information through the API for a particular service or application, you will first be given the option to approve such access to your information by such service or application. You understand that you may not have access to certain features or services if you choose to not provide such access to your information to App Developers. 
+If you decide to register through or otherwise grant access to a third-party social networking or integrated service (what we call an “Integrated Service”), such as Facebook Connect or Google, Khan Academy may also collect Personal Information that is already associated with your Integrated Service account. You may also have the option of sharing additional information with Khan Academy through an Integrated Service. If you choose to provide such information, during registration or otherwise, you are giving Khan Academy the permission to use, share, and store it consistent with this Privacy Notice. 
 
-You understand and agree that such App Developers may use this information for its internal business purposes in operating its services and may also disclose such information to its other customers and users. You should consult the respective privacy policies of these third-party services and application. Khan Academy's privacy policy does not apply to, and we cannot control the activities of, such App Developers.
+#####  Information about your use of the Website and other User-provided Information 
 
-### Third-Party Advertisers, Links to Other Sites
+We may collect information about your use of certain Website features, such as the number of problems you have attempted, the number of videos you have viewed, and the amount of time spent to complete a problem. This enables us to better tailor educational experiences that are most appropriate for you. 
 
-The Website may be linked to internet websites operated by other companies. Some of these websites may be co-branded with our name or logo, even though they are not operated or maintained by us. Khan Academy may also permit other companies, called third-party ad servers or ad networks, to serve advertisements within the Website. These third-party ad servers or ad networks may use technology to send, directly to your browser, some of the advertisements and links that appear on the Website. These advertisers may automatically receive your IP address if this happens. These advertisers may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+#####  Information obtained from other Users. 
 
-You should consult the respective privacy policies of these third-party websites and third party ad servers or ad networks. Khan Academy's privacy policy does not apply to, and we cannot control the activities of, such other third party advertisers or web sites. Please be aware that Khan Academy does not warn you when you have chosen to link through to another website from the Website.
+We may make available certain features on the Website that allow other Users to provide us information. This information may include Personal Information. For example, a parent may register an account for their child and provide us with certain information, such as the child’s username and birthday. 
 
-### Our Commitment to Data Security
+#####  Technical Information. 
 
-Khan Academy uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Khan Academy, and you do so at your own risk. Once we receive your transmission of information, Khan Academy makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+To provide a personalized learning and high-quality experience for our Users, we may use various technologies that automatically record certain technical information from your browser or device, including standard log files, web beacons, or pixel tags. This technical information may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system, and the dates and times that you visit the Website and assists us in understanding how our Users are using our Website. 
 
-If Khan Academy learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Khan Academy may post a notice on the Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
+Like most websites, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website and enable us to provide you with a more personalized learning experience. Khan Academy may use both session cookies and persistent cookies. A session cookie disappears automatically after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. You can, however, remove a persistent cookie at any time. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website. 
 
-### International Visitors
+Khan Academy may use a variety of third-party service providers, such as YouTube to host our videos or [Google Analytics](https://www.google.com/policies/privacy/partners/) to understand our Website usage. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This information is collected directly and automatically by these third parties, and Khan Academy does not participate in these data transmissions. Khan Academy will, wherever feasible, contractually obligate our third-party service providers to abide by the terms of this Privacy Notice. 
 
-The Website is intended solely for visitors located within the United States. If you nonetheless choose to use the Website from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personally identifiable information outside of those regions to the United States and by providing your personally identifiable information on the Website you consent to that transfer.
+#####  Location Information. 
 
-### Changes and Updates to this Privacy Policy
+We may collect and store information about your location to provide you with tailored educational experiences for your region. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information. 
 
-We reserve the right to change the privacy policy at our sole discretion. Khan Academy users will be informed of any such change by us posting a new privacy policy on the Website and the effective date of any change of privacy policy will be clearly marked. We will not use any personally identifiable information of yours in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our Website.
+#####  Information from Other Sources. 
 
-### Contact Information
+In certain situations, we may obtain information, including Personal Information, from third parties or sources other than the Website. For example, if you donate to Khan Academy via PayPal, we may obtain your name and mailing address to send a thank you note. If we combine or associate information from other sources with Personal Information that we collect through the Website, we will treat the combined information as Personal Information in accordance with this Privacy Notice. 
 
-Please contact Khan Academy with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [privacy@khanacademy.org](mailto:privacy@khanacademy.org) or by mail at: Khan Academy, PO Box 1630, Mountain View, CA 94042.
+####  Khan Academy uses this information in the following ways: 
+
+#####  To enhance our Website and the services we provide. 
+
+Khan Academy uses the information you provide or that we collect to enhance our relationship with you and to operate, maintain, enhance, and provide all of the features and services found on the Website. Khan Academy may, for instance, remember your recent activity so we can recommend the most appropriate content for you on your next visit. If you have given Khan Academy consent, we may use your Personal Information to provide you with information about Khan Academy’s features, services and other offerings that may be of interest to you. Under certain circumstances, if we obtain your consent (for example, if you submit a testimonial and agree to make it public), we may post your Personal Information on the Website. 
+
+#####  To understand how you and other Users use our Website. 
+
+Khan Academy uses all of the information that you provide or that we collect from Users to understand and analyze the usage trends, learning behaviors, and preferences of our Users, to improve the way the Website works and looks, and to create new features and functionality. 
+
+#####  To enable your participation in Khan Academy partnership arrangements. 
+
+Khan Academy will not share Personal Information with other third-party organizations for their marketing or promotional use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. You may ask or authorize us to share your Personal Information with authorized partners, not-for-profit organizations, and other entities that are not affiliated with Khan Academy. In these cases, we will provide to these third parties only the information you have authorized or asked us to share. Khan Academy may send information or offers to you on behalf of these third parties. For example, we may partner with a not-for-profit organization running a contest in your region and send you an email notifying you of the partnership; if you opt-in to the program and indicate your approval, we may share your information with the third party to facilitate your participation in the program and enable you to redeem your prize. 
+
+#####  Limitations on Access to your Personal Information by Employees and Authorized Parties 
+
+Khan Academy’s employees, agents and contractors must have a legitimate business reason to access Personal Information you provide to Khan Academy. We may share your Personal Information with third-party service providers, including outside contractors or agents who help us manage our information activities, but they may only use your Personal Information to provide us with a specific service and not for any other purpose. Where feasible, Khan Academy will require our third-party service providers to comply with this Privacy Notice. 
+
+* * *
+
+##  How we share or transfer data 
+
+Khan Academy takes great care to protect the information you provide us. We do not rent or sell Personal Information that we collect from Users with third parties. We also take great measures to restrict any collection or disclosure of Personal Information from children less than 13 years of age. 
+
+####  Khan Academy will disclose User information only as described below: 
+
+#####  If you want information shared with other Users, we’ll share it for you. 
+
+We provide certain features that may allow you to share information with other Users. For example, you may choose to populate your profile with your name, short biography, and location. Or you may ask questions that are visible to other Users of Khan Academy. Whenever you share information with other Users of the Website, any Personal Information that you choose to include in, or is associated with, such User Postings will be accessible by such Users. As with most online services, once you make your Personal Information available to others in any of these ways, it may be collected and used by the recipients without restriction. 
+
+#####  We may share data with social networks at your request. 
+
+Some of our Users choose to connect their Khan Academy account with social networks. This functionality is entirely optional. If you have explicitly agreed that we may do so, Khan Academy may disclose your Personal Information through a social network or similar service (like Facebook or Google). To control the information that you share, you have the option of modifying your Khan Academy or social network settings or disconnecting your social network account from your Khan Academy account. 
+
+#####  We may share data with third-party applications that you authorize. 
+
+third-party application developers and service providers (commonly known as “App Developers“) may build complementary services for our platform, such as [a mobile application for visually-impaired learners to access our resources](https://play.google.com/store/apps/details?id=org.khanacademy.videos). You may request we share your information with App Developers by connecting to the application or service and approving access to your Khan Academy account. Khan Academy has taken steps to try to ensure the safety of information accessed by App Developers and requires App Developers to comply with our [API Terms of Service](https://web.archive.org/about/api-tos) and this Privacy Notice. 
+
+#####  We may share anonymous or aggregate data to improve our services and learn more about our Users. 
+
+In certain occasions, Khan Academy may work with business partners to improve our services or offerings. We may disclose automatically collected and other aggregate non-Personal Information to authorized business partners to conduct research on online education or assist in understanding the usage, viewing, and demographic patterns for certain programs, content, services, promotions, and/or functionality on the Website. 
+
+#####  We will share data when required by law. 
+
+Khan Academy may also disclose User information if required to do so by law, or if we have a good-faith belief that such action is necessary to comply with local, state, federal, international, or other applicable laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant, or administrative request. In some cases, we may make such disclosures without first providing notice to Users. 
+
+#####  We may share data in the context of a change of business, including a merger or acquisition. 
+
+In the event that Khan Academy is acquired by or merged with a third-party entity, we may transfer or assign the information that we have collected from Users as part of such merger, acquisition, sale, or other change of control. 
+
+#####  We may share data when necessary or appropriate to protect Khan Academy or others. 
+
+Khan Academy may disclose information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Khan Academy from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against any third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Website; or to protect the rights, property, or personal safety of Khan Academy, our Users, or others. 
+
+* * *
+
+##  Your choice and options in our data collection, use, and transfer 
+
+#####  You can choose to not provide us with Personal Information 
+
+You may always decline to share your Personal Information with Khan Academy. If you do so, however, Khan Academy will not be able to provide to you certain features and functionalities found on our Website. You may later enable or access those features by providing Khan Academy with the necessary Personal Information. 
+
+#####  You can edit or delete Personal Information in our records 
+
+We want you to have access to your information, so that you can help keep it as accurate as possible. If you register and provide Khan Academy with Personal Information, you may update, correct, or delete it at any time by reviewing your profile information and preferences on your account settings page. If you experience any difficulties in this process, please contact us as described below. 
+
+#####  You can disconnect us from Integrated Services 
+
+You may revoke Khan Academy’s access to your account on any Integrated Service, such as Google or Facebook, at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Website. 
+
+* * *
+
+##  Children users 
+
+#####  Khan Academy is committed to children’s privacy. 
+
+Protecting the privacy of young children is especially important to Khan Academy. For that reason, we created certain features designed to help protect Personal Information relating to children who are less than 13 years of age. Khan Academy does not knowingly permit any person less than 13 years of age to register directly for the Website unless Khan Academy reasonably believes, or has received assurances from a Coach, that the child’s parent has consented to such registration and use of the Website. If Khan Academy learns that Personal Information of persons less than 13 years of age has been collected on the Website without parental consent, then Khan Academy will take appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has a registered account with the Website without your consent, please alert Khan Academy at [privacy@khanacademy.org](mailto:privacy@khanacademy.org) and request that Khan Academy delete that child’s personal information from its systems. 
+
+#####  How children may register for and use our Website: 
+
+When a child under the age of 13 (“Child User”) requests to register for the Website, Khan Academy will seek consent from the child’s identified parent or guardian (“Parent”). During the initial registration process, if we detect the User is under the age of 13, we do not retain or use information collected from the Child User except the email address for a Parent. In some cases, basic information about a Child User may be provided to Khan Academy by a Coach who has undertaken steps to obtain the appropriate consent from a Parent of the Child User. 
+
+If you are a Parent and wish to provide direct consent for your child’s registration on the Website, you must first register for the Website under an adult account. Once registered, you may create a child account, request an existing child account to be assigned to the Parent account, monitor the data on a child account, or revoke a child’s permission to use the Website by deleting the account. 
+
+#####  Restrictions on Child Users: 
+
+Khan Academy attempts to restrict a Child User’s access to certain features that could result in disclosure by the Child User of Personal Information. For example, a Child User is not normally permitted to post public comments on the Website and may only do so with parental consent. 
+
+Some other features of the Website may, however, permit a Child User to enter free-form text through which the Child User could enter Personal Information that would be visible to other Users. This may occur, for instance, if a Child User enters personal information in answering an exercise problem or creating other projects on the Website. If you are the Parent of a Child User, please advise your Child User of the risks of posting Personal information on this Website or other online services, and that any information posted may be used by others without restriction. 
+
+* * *
+
+##  Our approach to data security 
+
+#####  Website security is important to you, and to us. 
+
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. We may ask you to provide certain Personal Information to confirm your identity, and may require that you create and use a password to access certain parts of the Website. You should create and maintain a strong password to help ensure the security of your account. 
+
+#####  We try to ensure that our Website and information sent to us are safe, but no security measures are perfect. 
+
+Khan Academy uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with the Website. We cannot, however, ensure or warrant the security of any or all of the information you transmit to Khan Academy, and you do so at your own risk. Once we receive your transmission of information, Khan Academy makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+
+#####  We will notify you electronically or via the Website if Khan Academy experiences a data security incident that could affect you. 
+
+If we learn of a data security incident that compromises or appears to compromise your Personal Information, then we will attempt to notify you electronically so that you can take appropriate protective steps. We may also post a notice on the Website if a data security incident occurs. 
+
+* * *
+
+##  How we maintain data integrity 
+
+At Khan Academy, we only use Personal Information as needed for the purposes for which it was collected or where you have consented to our use of Personal Information relating to you. We take reasonable steps to ensure that the Personal Information we store and use is accurate, complete, and up-to-date. If you discover that Personal Information or other data pertaining to you is inaccurate, incomplete, or out-of-date, please update your account information or contact us as outlined below. 
+
+* * *
+
+##  Links to other sites 
+
+The Website may be linked to websites operated by other entities or individuals. Some of these websites, such as our Facebook page, may be co-branded with our name or logo. This Privacy Notice does not apply to, and we cannot always control the activities of, such other third-party websites. You should consult the respective privacy policies of these third-party websites. 
+
+* * *
+
+##  International visitors 
+
+Our Website is operated and managed on servers located within the United States. If you choose to use our Website from the European Union or other regions of the world with laws governing data collection and use that differ from U.S. law, then you acknowledge and agree that you are transferring your Personal Information outside of those regions to the United States and that, by providing your Personal Information on the Website, you consent to that transfer. 
+
+* * *
+
+##  Changes and updates to this Privacy Notice 
+
+Khan Academy may modify or revise this Privacy Notice from time to time. Khan Academy will notify Users of any change to our Privacy Notice by posting the revised Privacy Notice with an updated date of revision on our Website, along with a short notice of the revision posted on the Website homepage. We will not change how we use any Personal Information in any material way without also providing notice of the change via email, through this website, or through other means, and obtaining consent to any new uses. 
+
+* * *
+
+##  Contacting Khan Academy 
+
+Please contact Khan Academy with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices by email at [privacy@khanacademy.org](mailto:privacy@khanacademy.org) or by mail at: Khan Academy, PO Box 1630, Mountain View, CA 94042. 
