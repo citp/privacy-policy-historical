@@ -1,25 +1,28 @@
-<!--The following is the downloaded HTML source of the planninggroup.com privacy policy that was archived on 2013-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130806061348id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planninggroup.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628041229id_/http%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<link rel="shortcut icon" type="image/png" href="/bin/img/fav-dns.png?1370728413">
+<link rel="shortcut icon" type="image/png" href="//static.domainnamesales.com/bin/img/fav-dns.png?1370728413">
 
 <meta charset="utf-8">
 
 <title>DomainNameSales.com</title>
 
-<link rel="stylesheet" href="/bin/css/globalStyles.css?1375228742" type="text/css" media="all">
-<link rel="stylesheet" href="/bin/css/DNSMain.css?1372888292" type="text/css" media="all">
-<link rel="stylesheet" href="/bin/type/typestyle.css?1370728414" type="text/css" media="all">
-<link rel="stylesheet" href="/bin/js/poshytip-1.2/tip-yellowsimple/tip-yellowsimple.css?1370728414" type="text/css" media="all">
-<link rel="stylesheet" href="/bin/js/jquery/themes/base/jquery-ui.css?1370728414" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/css/globalStyles.css?1382711921" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/css/DNSMain.css?1396551566" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/type/typestyle.css?1379725181" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/js/poshytip-1.2/tip-yellowsimple/tip-yellowsimple.css?1382120890" type="text/css" media="all">
+<link rel="stylesheet" href="/bin/js/jquery/themes/base/jquery-ui.css?1381934900" type="text/css" media="all">
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/bin/js/jquery/jquery-1.9.1.min.js?1370728414"></script>
+<script type="text/javascript" src="/bin/js/jquery/jquery-migrate-1.1.1.min.js?1387568805" charset="utf-8"></script>
 <script src="/bin/js/jquery/jquery.animate-enhanced.min.js?1370728414"></script>
 <script src="/bin/js/jquery/ui/jquery-ui.js?1370728414"></script>
+<script src="/bin/js/touch-punch.js?1381934900" charset="utf-8"></script>
 <script src="/bin/js/poshytip-1.2/jquery.poshytip.min.js?1370728414" charset="utf-8"></script>
-<script src="/bin/js/dns-helper.js?1375228742"></script>
+<script src="/bin/js/dns-helper.js?1381934900"></script>
+<script src="/bin/js/respond.min.js?1379984962"></script>
 
 
 <script type="text/javascript">
@@ -36,34 +39,36 @@
 
 </script>
 
-<script type="text/javascript">    
+<script type="text/javascript">
 $( function(){
-    if ($('.splash > video').length){
-        $('.splash > video').get(0).play();
-    }
-    var clearHeight = $('div.splash').outerHeight()+$('div.quote-container').outerHeight(),
-        topHeight   = $('#page-header').outerHeight(),
-        setTop      = $('.splash img').css("top");
+    var isMobile = 0;
 
-    $('#fixed-spacer').css('height',topHeight+'px');
+    if(!isMobile) {
+        $('.button.phone').addClass('disabled').removeAttr('href');
+    }
+
+    if ($('.splash-wrapper > video').length){
+        $('.splash-wrapper > video').get(0).play();
+    }
+    var splashImg   = $('#splash-img'),
+        setTop      = $(splashImg).css("top"),
+        scrolling   = false;
 
     $(window).scroll( function() {
-        if ($('.splash img').height() > 350) {
-            $('.splash img').css("top",-($(this).scrollTop() / 5) - 130 + "%");
-        }
-        else {
-            $('.splash img').css("top", setTop);
-        }
-        if (($(this).scrollTop())>clearHeight) {
-            $('div.fixWrap').addClass('fixed').css('top', topHeight);
-            var fixHeight = $('div.fixWrap').outerHeight();
-            $('#fixed-spacer').css('height',fixHeight+topHeight+'px');
-        }
-        else {
-            $('div.fixWrap').removeClass('fixed').css('top', 0);
-            $('#fixed-spacer').css('height',topHeight);
-        }
+        scrolling = true;
     });
+
+    setInterval( function(){ 
+        if ( scrolling ) {
+            if ($(splashImg).height() > 350) {
+                $(splashImg).css("top",-($(this).scrollTop() / 10) - 50 + "%");
+            }
+            else {
+                $(splashImg).css("top", setTop);
+            }
+            scrolling = false;
+        }
+    },100);
 
 });
 </script>
@@ -72,33 +77,97 @@ $( function(){
 </head>
 
 <body class="mpf">    
-    <div id="page-header" class="header">
-        <div class="member-container">      
-                <div>            
-            <a href="/login">Sign in</a>
-            <span>//</span>
-            <a href="/signup">Join</a>                
-        </div>
+    <script type="text/javascript">
+    var DNSBASE = '';
+</script>
+
+    <div class="header-fixed-container">
+                <div class="member-container">
+            <div>
+                <span class="site-name">DomainNameSales.com</span><span class="member-links">
+                    <span>Welcome&nbsp;</span>
+                                            
+                        <span>[&nbsp;&nbsp;<a href="/login">DNS Sign in</a>&nbsp;//&nbsp;<a href="/signup">Register</a>&nbsp;&nbsp;]</span>
+                        
+
+                                    </span>
             </div>
-        <div class="nav-container">
-        <a href="/"><img src="/bin/img/dns-logo-t.png?1370728413"></a>
-        <div class="link-container">
-            <a class="rounded-corner" href="/brokerage">Brokerage</a>
-            <a class="rounded-corner" href="/about-us">About DNS</a>
-            <a class="rounded-corner" href="/buyers-guide">Buyer's Guide</a>
-            <a class="rounded-corner" href="/contact">Contact</a>
         </div>
+                <div id="page-header" class="header">
+            <div class="nav-container">
+                <a class="nav-button button gray"></a>
+                <a href="/" class="logo"><img style="height: 25px" src="//static.domainnamesales.com/bin/img/dns-logo.png?1376516647"></a>
+                <div class="link-container">
+                    <a class="mpf" href="/contact"><div class="nav-link phone ease01S">1-800-818-1828</div></a>
+                    <a class="mpf" href="/buy-domains"><div class="nav-link ease01S">Buy Domain Names</div></a>
+                    <a class="mpf" href="/sell-domains"><div class="nav-link ease01S">Sell Domain Names</div></a>
+                    <a class="mpf" href="/domain-news"><div class="nav-link ease01S">Domain News</div></a>
+                    <a class="mpf" href="http://dev.domainnamesales.com/blog"><div class="nav-link ease01S">Dev Blog</div></a>
+                    <a class="mpf" href="/about-us"><div class="nav-link ease01S">About DNS</div></a>
+                </div>
+            </div>
+        </div>
+
+        
     </div>
-</div><!-- End header -->
+
+                    <div class="member-push"></div>
+                <div class="header-push"></div>
+    <!-- End header -->
     
     <div id="wrapper">
-        <div id="fixed-spacer" class="mpf" style="height: 54px;"></div>
-        
-        <div class="sec-container splash small full">
-            <h1 class="page-name">Privacy Policy</h1>
-            <img src="/bin/img/photos/couple-beach.jpg?1370728414">
+                <div class="splash-wrapper small">
+            <div class="sec-container splash small">
+                <div class="tstripe">
+                    <div class="content">
+                        <h1 class="page-name">Privacy Policy</h1>
+                    </div>
+                </div>
+            </div>
+            <img id="splash-img" src="//static.domainnamesales.com/bin/img/photos/couple-beach.jpg?1370728414">
         </div>
-        
+                
+        	<script type="text/javascript">
+		$(function(){
+
+			var curKin     = 0,
+				curScroll  = 0,
+				oldScroll  = 0,
+				origTop	   = parseFloat($('#name-return').css('top')),
+				scrolling  = false;
+
+			$('.return-to').addClass('active');
+
+			setTimeout( function(){
+				$('.return-to').removeClass('active');
+			},5000)
+			
+			$(window).scroll( function() {
+				curScroll = $(this).scrollTop();
+		        scrolling = true;
+    		});
+
+			setInterval( function(){
+				if ( curKin < 1 ) { curKin = 0; }
+
+				curKin = curKin*2;
+				$('#name-return').css('top', origTop+curKin);
+
+		        if ( scrolling ) {
+		        	$('#name-return').css('top', origTop + (oldScroll - curScroll)/4);
+		        	oldScroll = curScroll;
+		        	scrolling = false;
+		        }
+		    },100);
+		});
+	</script>
+
+	<a href="/domain/freesms.com"><div id="name-return" class="name-return">
+		<div class="broker">
+					</div>
+		<!--<div class="new-message">3</div>-->
+	    <div class="return-to ease1S active">Click here to return to your inquiry on FreeSMS.com.</div>
+	</div></a>
         <div class="sec-container full">
     <div class="content main text">
 
@@ -164,50 +233,53 @@ $( function(){
         <p>This document was last updated on April 03, 2012</p>
 
     </div>
-</div>                            <div class="footer-push"></div>
-                </div>
+</div>                <div class="footer-push"></div>
+            </div>
     <div class="page-footer">
     <div>
         <div>
-            <img src="/bin/img/dns-logo-bare.png?1370728413">
+            <img src="//static.domainnamesales.com/bin/img/dns-logo-bare.png?1370728413">
         </div>
         <div class="even-space">
             <ul class="even-space-child">
+                <li><a href="/contact">Contact us</a></li>
+                <li><a href="/contact#section=phone">Phone us</a></li>
+                <li><a href="/contact#section=email">Email us</a></li>
+                <li><a href="/contact#section=brokers">Contact a broker</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/domains-101">Learn More</a></li>
+                <li><a href="/domains-101">Domains 101</a></li>
+                <li><a href="/buyers-guide#section=better">Buying a domain name</a></li>
+                <li><a href="/buyers-guide#section=inquiry">Submitting an inquiry</a></li>
+                <li><a href="/buyers-guide#section=agreement">Agreeing to a price</a></li>
+                <li><a href="/buyers-guide#section=congratulations">Transferring ownership</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/buy-domains">Buy Domain Names</a></li>
+                <li><a href="/inquire">Ask about a name</a></li>
+                <li><a href="/search">Search for a name</a></li>
+                <li><a href="/contact#section=brokers">Contact a broker</a></li>
+                <li><a href="/sales-terms">Sales terms</a></li>
+            </ul>
+            <ul class="even-space-child">
+                <li><a href="/sell-domains">Sell Domain Names</a></li>
+                <li><a href="/sell-domains#section=app">DNS iPhone App</a></li>
+                <li><a href="/signup">Join the DNS Platform</a></li>
                 <li><a href="/brokerage">Brokerage</a></li>
-                <li><a href="/brokerage#section=team">The Brokers</a></li>
-                <li><a href="/brokerage#section=sell">Sell your names</a></li>
+                <li><a href="/brokerage#section=compare">Benefits of using DNS</a></li>
+                <li><a href="/brokerage#section=team">The brokers</a></li>
             </ul>
             <ul class="even-space-child">
                 <li><a href="/about-us">About DNS</a></li>
-                <li><a href="/about-us#section=history">Our History</a></li>
-                <li><a href="/about-us#section=team">Our Team</a></li>
-                <li><a href="/privacy-policy">Privacy Policy</a></li>
-                <li><a href="/sales-terms">Sales Terms</a></li>
-            </ul>
-            <ul class="even-space-child">
-                <li><a href="/buyers-guide">Buyer's Guide</a></li>
-                <li><a href="/buyers-guide#section=buying">Buying A Domain Name</a></li>
-                <li><a href="/buyers-guide#section=inquiry">Step 1: Submit an Inquiry</a></li>
-                <li><a href="/buyers-guide#section=negotiation">Step 2: Negotiate a Price</a></li>
-                <li><a href="/buyers-guide#section=completion">Step 3: Completion</a></li>
-            </ul>
-            <ul class="even-space-child">
-                <li><a href="/domains-101">Learn</a></li>
-                <li><a href="/domains-101">Domains 101</a></li>
-                <li><a href="/why-a-premium-domain-name">Why A Premium Domain?</a></li>
-            </ul>
-            <ul class="even-space-child">
-                <li><a href="/contact">Contact Us</a></li>
-                <li><a href="/contact#section=mail-us">Mail Us</a></li>
-                <li><a href="/contact#section=phone-us">Phone Us</a></li>
-                <li><a href="/contact#section=email-us">Email Us</a></li>   
-                <li><a href="/sales/login">Sign in</a></li>
-                <li><a href="/signup">Join</a></li>    
+                <li><a href="/about-us#section=history">Our history</a></li>
+                <li><a href="/about-us#section=people">Our team</a></li>
+                <li><a href="/careers">Careers with DNS</a></li>
+                <li><a href="/privacy-policy">Privacy policy</a></li>
             </ul>
         </div>
-        <p>All content © 2013 DomainNameSales.com™. All rights reserved.</p>
+        <p class="copyright">All content © 2013 DomainNameSales.com™. All rights reserved.</p>
     </div>
-</div>    
-
+</div>
 
 </body></html>
