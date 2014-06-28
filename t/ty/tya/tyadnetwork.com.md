@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229080953id_/http%3A//tyadnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170132id_/http%3A//tyadnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # The Thank You Ad Network! Free Integration Marketing Traffic Exchange | Free Advertising Free Web Traffic
 
@@ -36,10 +36,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 "Start Getting Hands-Free Traffic Today!"
 
-Copyright (c) TY Ad Network All Rights Reserved 
+Copyright (c) TY Ad Network All Rights Reserved - Part of the [_Trax Web_](http://www.traxhelpdesk.com/sites/)
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](https://web.archive.org/recommends.php) | [_Founding Members_](https://web.archive.org/founders.php)   
-
-
-[_Contact Us_](http://salinas-help.com/)   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](https://web.archive.org/recommends.php) | [_Founding Members_](https://web.archive.org/founders.php) | [_Help Desk_](http://www.traxhelpdesk.com/index.php?a=add&category=149&custom1=na)   
 
