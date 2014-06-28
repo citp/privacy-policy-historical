@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the mobilescommunity.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218215102id_/http%3A//www.mobilescommunity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilescommunity.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628160138id_/http%3A//www.mobilescommunity.com/privacy.php) for the most accurate reproduction.*
 
-# MobilesCommunity.com - SIS APK IPA XAP GPS Forum - Mobiles Community Privacy Policy
+# MobilesCommunity - Mobile Forum, Android Apk Forum, Symbian, iPhone, Windows Phone & GPS Forum - Mobiles Community Privacy Policy
 
   * [](http://www.mobilescommunity.com/)
-** Privacy Policy ** 
+
+  * Privacy Policy
+
+
 
 
 * * *
@@ -50,9 +53,3 @@
 
 
 
-
-Copyright © 2013 vBulletin Solutions, Inc. All rights reserved. 
-
-Copyright ©2013 MobilesCommunity. Powered by [Searchlight](http://www.axivo.com/searchlight/) © 2013 Axivo Inc. 
-
-Mobiles Community Forum For Android, Symbian, Windows Phone, MeeGO, iPhone, Blackberry, Bada, Palm Apps Games Themes and Modding, GPS Navigation Maps Free Problem Discussing, Reviewing, Sharing & Downloading Place. 
