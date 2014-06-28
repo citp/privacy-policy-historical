@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022050106id_/http%3A//www.nintendoworldreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoworldreport.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021823id_/http%3A//www.nintendoworldreport.com/privacy) for the most accurate reproduction.*
 
-# Nintendo World Report Privacy Policy - Information - Nintendo World Report
+# Nintendo World Report Privacy Policy - - Nintendo World Report
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following discloses our Privacy Policy.
 
