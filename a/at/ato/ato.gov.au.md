@@ -1,97 +1,46 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410013606id_/http%3A//ato.gov.au/content/corporate/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628054541id_/http%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/Your-privacy) for the most accurate reproduction.*
 
-# Privacy statement
+# Your privacy | Australian Taxation Office
 
-On this page go to: 
+In administering the taxation laws, we collect information about you. We may get this information from you or from other parties. We respect your privacy and keep your information confidential.
 
-  * Privacy statement
-  * Site visit data
-  * Collection of personal information
-  * Security of information
-  * Need further information?
+Privacy refers to the right of an individual to have their personal information protected, and know how their personal information may be used and for what purposes. It also refers to the obligations of those who receive the personal information and how this information is handled.
 
+Personal information is any information that can identify a living person. This may include names, addresses, date of birth, gender, phone numbers or employment details.
 
+In general terms, the _Privacy Act 1988_ protects the personal information of individuals. It protects an individual against unauthorised disclosures of personally identifiable information. Taxpayer confidentiality protects information about a taxpayer's affairs obtained under the taxation laws.
 
-## Privacy statement
+We comply with the _Privacy Act 1988_ , which contains provisions designed to safeguard personal information about you. The Privacy Act requires us to comply with privacy principles set out in that Act.
 
-This site is operated by the ATO using both Commonwealth and commercial web hosting facilities. When visiting this site, a record of your visit is logged. The following information is recorded for statistical purposes and is used by the ATO to help improve the site. This information is supplied by your browser: 
+As of 12 March 2014, the amended principles of the Privacy Act become effective. As an individual, the Privacy Act gives you greater control over the way that your personal information is handled. The Privacy Act allows you to:
 
-  * the user's server address 
-  * the user's operating system (for example Windows, Mac etc) 
-  * the user's top level domain name (for example .com, .gov, .au, .uk etc) 
-  * the date and time of the visit to the site 
-  * the pages accessed and the documents downloaded 
-  * the previous site visited 
-  * the type of browser used. 
+  * know why your personal information is being collected, how it will be used and who it will be disclosed to
+  * ask for access to your records (including your sensitive information about you)
+  * correct inaccurate information about you
+  * make a complaint, if you think we have mishandled your personal information.
 
 
 
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet web server logs.
+[Secure and private information](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Secure-and-private-information/ "Secure and private information")  
 
-## Collection of personal information
+We create and maintain a secure environment for the protection of your personal information and records. When we collect this information from you, this is kept safe and secure. We use security safeguards to protect information from loss, unauthorised access, use or disclosure.
 
-**When you e-mail us:**
+[Privacy notices for individuals](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-for-individuals/ "Privacy notices for individuals")  
 
-  * we will record your e-mail address 
-  * we will only use your e-mail address for the purpose for which you provided it 
-  * it will not be added to a mailing list unless you have specifically requested this
-  * we will not use your e-mail address for any other purpose 
-  * we will not disclose it without your consent. 
+We collect personal information from you when you complete our forms. Our privacy notices give you important information about how we manage the personal information you provide to us on our forms.
 
+[Privacy notices for business](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-for-business/ "Privacy notices for business")  
 
+You complete many forms for us when you run a business. These forms may collect personal information about you. Our privacy notices for these forms inform you about how we manage this information.
 
-**Other personal information collected by us, for example through the use of an online form, will only:**
+[Privacy notices for non-profits](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-for-non-profits/ "Privacy notices for non-profits")  
 
-  * be collected by lawful and fair means 
-  * be used for a lawful purpose 
-  * be collected with your consent, and 
-  * the purpose for collection should be clear and explicit. 
+The privacy principles protect any personal information we collect on our forms designed to be used by non-profit organisations. Our privacy notices explain how personal information collected on these forms is managed.
 
+[Privacy notices about superannuation](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-about-superannuation/ "Privacy notices about superannuation")
 
+We collect information from you about super either directly from you or through a third party. Either way, your privacy is protected.
 
-**
+[Privacy notices for tax practitioners](https://web.archive.org/About-ATO/Access,-accountability-and-reporting/Your-privacy/Privacy-notices-for-tax-professionals/ "Privacy notices for tax practitioners")  
 
-Cookies
-
-**
-
-Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make websites easier to use by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes. ATO _assist_ uses cookies in two very limited ways. 
-
-The first time you visit ATO _assist_ one cookie will be stored on your computer. On each visit to ATO _assist_ the system checks whether there is an ATO _assist_ cookie on your computer. If so, it simply notes its presence and records your visit to ATO _assist_ as a 'previous user'. If not, it will store one and record your visit as a 'first time visitor'. This cookie will be stored permanently unless you choose to delete it. The information is used by the ATO to help it improve ATO _assist_ by understanding how it is used. There is no attempt made to identify individual users in any way. 
-
-On each use a 'session cookie' is temporarily placed on your computer, which is used to maintain navigation information during your site visit. These session cookies are deleted from your computer at the end of each Internet session.
-
-The Legal Database saves cookies to your hard drive so that they are available next time you use it. These cookies record details of search results and viewed documents to make your navigation easier on subsequent visits to the Legal Database. The ATO does not record this information.
-
-Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used.
-
-Advice about the Internet and personal information can be found on the Privacy Commissioner’s web site, [www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au)
-
-## Security of information
-
-Taxation Acts have secrecy provisions that prohibit any officer of the ATO (or any other government department) from accessing, recording or disclosing anyone's taxation information except in performing their duties or in specific situations permitted by taxation laws. There are severe penalties for breaking these provisions. 
-
-Your personal information will not be released unless the law permits it or your permission is given. We provide a secure environment and a reliable system but you should be aware that there may be inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, the ATO provides alternative ways of obtaining and providing information. In some circumstances, the ATO security guidelines may also require us to send particular information by non-electronic means. 
-
-## Need further information?
-
-If you have privacy concerns please contact your nearest Taxation Office for advice. You can also obtain further information from the Privacy Commissioner’s web site, [www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au), or through direct contact.
-
-On this page go to: 
-
-  * Privacy statement
-  * Site visit data
-  * Collection of personal information
-  * Security of information
-  * Need further information?
-
-
-
-* * *
-
-For other important information, go to: 
-
-  * [ATO main page](https://web.archive.org/)
-  * [Feedback about this site](https://web.archive.org/feedback/feedback.asp)
-
-
+This link contains a consolidation of major forms and their privacy notices for tax practitioners, to inform you and your clients about how we manage your clients’ personal information that we collect on our forms.
