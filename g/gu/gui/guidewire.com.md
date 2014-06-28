@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110125104id_/http%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628154913id_/http%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective: June 21, 2012
 
-[We self-certify compliance with:](http://www.guidewire.com/privacy-policy/#https://safeharbor.export.gov/list.aspx)
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
 [](http://www.export.gov/safeharbor)
 
-[](http://privacy.truste.com/privacy-seal/Guidewire-Software-Inc-/validation?rid=f6bff0db-9982-4157-9ae9-2086546c9854 "TRUSTe European Safe Harbor certification")
+[](http://privacy.truste.com/privacy-seal/Guidewire-Software-Inc-/validation?rid=97d16369-a05a-403e-9122-fb3436309964 "TRUSTe European Safe Harbor certification")
 
 This Privacy Policy explains our policies and practices regarding the collection, use, storage, and disclosure of your personal information by Guidewire Software, Inc. (also called “Guidewire,” Guidewire Software,” and “We” in this Privacy Policy). We want you to feel secure when visiting our web site and are committed to maintaining your privacy when doing so. The Guidewire Software site may contain links to other web sites. Guidewire Software is not responsible for the privacy practices or the content of such web sites. The information below provides an overview of how we protect your privacy.
 
