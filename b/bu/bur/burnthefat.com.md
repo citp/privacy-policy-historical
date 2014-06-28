@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901210534id_/http%3A//burnthefat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnthefat.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628053704id_/http%3A//www.burnthefat.com/privacy.php) for the most accurate reproduction.*
 
-# Burn the Fat Feed the Muscle, Fat Loss
+# Burn The Fat Body Transformation System - Tom Venuto
 
-Burn The Fat, Feed The Muscle  
+### Burn The Fat Website  
 Privacy Policy
-
-Last Updated: Friday, January 31, 2020 
 
 Burnthefat.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We hate spam as much as you do and we will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -59,4 +57,10 @@ Burnthefat.com
 C/O Fitness Renaissance, LLC  
 PO Box 5097  
 Hoboken, NJ 07030  
-[Click here to Email us](https://web.archive.org/web/20130901210534id_/http%3A//burnthefat.com/?doc=contact)
+
+
+### **Programs and Resources:**
+
+[_CLICK HERE_](http://www.burnthefat.com/) to learn more about the Burn The Fat ONLINE Body Transformation program and "Inner Circle" ****
+
+[ _CLICK HERE_](http://www.amazon.com/gp/product/0804137846/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0804137846&linkCode=as2&tag=fitnessrenaissan) to get the new Burn the Fat, Feed the Muscle book, or visit a bookstore near you. ****
