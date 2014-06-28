@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807143246id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malleries.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231848id_/http%3A//www.malleries.com/security-privacy-p-4.html) for the most accurate reproduction.*
 
 # Security & Privacy Guarantee
 
 SHOP BY DESIGNER
 
 **Customer Testimonials**  
-Aboltuley wonderful to work with. The Chanel briefcase I purchased was also of the highest quality. I give him 10 stars!!! 
+I just purchased a special gift for MY birthday through Malleries, and it was a wonderful experience. I was able to find a perfect vintage Burberry clutch bag. The check out, communication and shipping was top notch. I didn't have any of the gut turning 'what if' thoughts that I have with eBay. I know that I was dealing with people who truly love genuine bags. Malleries is a fabulous site.
 
-_Pam_
+ _Jennie, Philli_
 
-[](https://web.archive.org/web/20130807143246id_/http%3A//www.malleries.com/contact.php)
+[](https://web.archive.org/web/20140628231848id_/http%3A//www.malleries.com/contact.php)
 
 [](http://www.malleries.com/)
 
