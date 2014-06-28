@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231103542id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171209id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Highlights - Cisco Systems
 
