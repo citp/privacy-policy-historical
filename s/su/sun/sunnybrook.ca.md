@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211193029id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628214649id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
 
 # Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
 
@@ -50,7 +50,7 @@ SHSC Privacy Office
 2075 Bayview Avenue  
 Toronto, Ontario M4K 3G9  
 416-480-6100 ext. 1236  
-[privacy@sunnybrook.ca](mailto:privacy@sunnybrook.ca)
+privacy[at]sunnybrook.ca
 
 You also have the right to complain to the Information and Privacy Commissioner of Ontario if you think we have violated your rights. The Commissioner can be reached as follows:
 
@@ -62,7 +62,7 @@ Toronto, Ontario M4W 1A8
 [commissioner@ipc.on.ca](mailto:commissioner@ipc.on.ca)  
 [www.ipc.on.ca](http://www.ipc.on.ca/)
 
-## Download this page as a PDF in the following languages: 
+## Download this page as a PDF in the following languages:
 
 _(will open a PDF file in a new window)_
 
