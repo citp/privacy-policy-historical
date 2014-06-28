@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119113439id_/http%3A//www.neowin.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neowin.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628025834id_/http%3A//www.neowin.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  Privacy Policy
+##  Privacy Policy 
 
   1. ####  Visitor Notice
 
@@ -44,3 +44,5 @@ Changes to this document may be made any time without warning. neowin.net may or
 
 
 **Notice to Parents or Guardians:** We want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
+
+View our [DMCA Policy](http://www.neowin.net/dmca).
