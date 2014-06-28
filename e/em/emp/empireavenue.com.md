@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531030144id_/http%3A//empireavenue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628032953id_/http%3A//empireavenue.com/legal/privacy) for the most accurate reproduction.*
 
-# Empire Avenue
+# Empire Avenue - Grow your Social Audience
 
 ## Privacy Policy
 
