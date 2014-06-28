@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2013-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130822171035id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedompop.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629010738id_/http%3A//www.freedompop.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
@@ -57,10 +57,12 @@
            
                 
             
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
             var basePath = "/";
             funnelName = ("organic".length > 0) ? "organic" : "organic";
+            experience = "";
             console.log("per the controller/default, the funnelName is "+funnelName);
+            console.log("Experience is " + experience);
         </script>
     	<link rel="stylesheet" href="/static/css/webfonts.css">
         <link href="http://fonts.googleapis.com/css?family=Lekton:700" rel="stylesheet" type="text/css">
@@ -72,9 +74,9 @@
 
     
     
-        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=3104"><!--<![endif]-->
+        <!--[if gt IE 8]><!--><link rel="stylesheet" href="/static/css/account.css?v=5626"><!--<![endif]-->
         <!--[if lte IE 8]>
-        <link rel="stylesheet"  href="/static/css/ie-account.css?v=3104" />
+        <link rel="stylesheet"  href="/static/css/ie-account.css?v=5626" />
         <![endif]-->
     
 
@@ -114,26 +116,29 @@
         
             
             
-                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=3104"></script>
+                <script type="text/javascript" src="/static/js/freedompop_scripts.min.js?v=5626"></script>
             
         
         <script type="text/javascript">
 
+
             var _gaq = _gaq || [];
+            _gaq.push(['_setCustomVar', 1, 'User_Type','',2]);
             _gaq.push(['_setAccount', 'UA-26895500-4']);
             _gaq.push(['_setDomainName', 'freedompop.com']);
             _gaq.push(['_trackPageview']);
 
+
             (function() {
                 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
         </script>
         
         <script type="text/javascript">
             $(document).ready(function(){
-	        	 
+
                 //modal dialog
                 var t = $('#modal .modalContent');
                 
@@ -174,16 +179,27 @@
                 $('.modalWideTrigger').click(function(){
                     $('#modal').addClass('modalWide');
                 });
+                $('.vasModalTrigger').click(function(){
+                    $('#modal').addClass('vasModal');
+                });
+                $('.helpModalTrigger').click(function(){
+                    $('#modal').addClass('helpModal');
+                });
+                $('.modalClose').click(function(){
+                    $('#modal').removeClass('helpModal vasModal modalWide');
+                })
             });
                 
             $(document).ready(function(){
 
                 
                 
+
+                
             });
         </script>
         
-<script type="text/javascript">
+        <script type="text/javascript">
    
     thisPageCookie = (typeof thisPageCookie === "string") ? thisPageCookie : "";
     checkAttemptCookies(thisPageCookie, funnelName);  
@@ -209,8 +225,15 @@
 
 
 
+
+
+
+
+
+
 </head>
 <body class="account">
+
 
 
 
@@ -242,13 +265,22 @@
     <div class="contentWidth">
     	
 		
-            <a class="logo" href="/home.htm"><img src="/static/img/logo.png"></a>
+            <a class="logo" href="/home.htm"><img src="/static/img/logo.png" width="145"></a>
             
                 
                     
                     <ul class="loggedOutNav">
-                        <li>
-                            <a href="/support.htm"><strong>?</strong> Support</a>
+                        <li class="support">
+                            <a href="#">Support</a>
+                            <div id="supportNavMenu">
+                                <ul>
+                                    <li><a href="/coverage">Coverage</a></li>
+                                    <li><a href="http://support.freedompop.com">Help</a></li>
+                                </ul>
+                                <ul class="forums">
+                                    <li><a href="http://forums.freedompop.com" target="_blank">Forums</a></li>
+                                </ul>
+                            </div>
                         </li>
                         <li class="logIn">
                             <a href="https://www.freedompop.com/login.htm" class="signin">Log in</a>
@@ -269,12 +301,11 @@
                                 <fieldset id="signin_submit_menu">
                                     <a href="password_request.htm" id="resend_password_link">Forgot Password?</a>
                                     <div style="display:none"><input type="submit" id="submit_signin"></div>
-                                    <a class="signin_submit btn submit" id="signin-submit" data-for="signin" tabindex="6" href="#">Login</a>
+                                    <a class="signin_submit btn submit allowReturnKeySubmit" id="signin-submit" data-for="signin" tabindex="6" href="#">Login</a>
                                 </fieldset>
                             </form>
                         </li>
                     </ul>
-                
                 
                 
             
@@ -682,7 +713,8 @@
 	<h3>Legal Links</h3>
 	<ul>
 		<li id="acceptableUseNavLink"><a href="acceptable_use.htm">Acceptable Use Policy</a></li>
-		<li id="privacyNavLink"><a href="privacy.htm">Privacy Policy</a></li>
+        <li id="fairUseNavLink"><a href="fair_usage_policy.htm">Fair Usage Policy</a></li>
+        <li id="privacyNavLink"><a href="privacy.htm">Privacy Policy</a></li>
 		<li id="servicePlanNavLink"><a href="service_plan_terms.htm">Service Plan, Equipment, and Payment Terms</a></li>
 		<li id="termsNavLink"><a href="terms.htm">Terms of Service</a></li>
 	</ul>
@@ -697,14 +729,18 @@
 <footer>
 	<div id="footerContent">
             <ul id="company"> 
-                <li class="copyright">© 2012 FreedomPop</li>
+                <li class="copyright">© 2014</li>
                 
                     
+                        <li><a href="/retail-partners">Retail</a></li>
                         <li><a id="wirelessChoice" href="/wireless-internet">Wireless</a></li>
                         <li><a id="homeChoice" href="/home-internet">Home</a></li>
                     
-                        <li><a href="/coverage/internet">Internet Coverage</a></li>
-                        <li><a href="/support.htm">Support</a></li>
+                        <li><a href="/coverage/internet">Coverage</a></li>
+                        <li><a href="/products">Products</a></li>
+                        <li><a href="/freedompop-review">Reviews</a></li>
+                        <li><a href="http://support.freedompop.com">Support</a></li>
+                        <li><a href="http://forums.freedompop.com" target="_blank">Forum</a></li>
                         <li><a href="http://blog.freedompop.com/" target="_blank">Blog</a></li>
                         <li><a href="/about.htm">About</a></li>
                         <li><a href="/terms.htm">Terms</a></li>
@@ -715,7 +751,7 @@
                             
                                 
                                 
-                                    <a href="/contact.htm?searchBar=true">Contact Us</a>
+                                    <a href="/contact.htm?searchBar=true">Contact</a>
                                 
                             
                         </li>
@@ -724,7 +760,6 @@
             </ul>
             
                 <ul id="socialLinks">
-                    <li>Follow Us</li>
                     <li><a href="http://twitter.com/freedompop4g" class="twitter" target="_blank"></a></li>
                     <li><a href="http://www.facebook.com/FreedomPop" class="facebook" target="_blank"></a></li>
                 </ul>
