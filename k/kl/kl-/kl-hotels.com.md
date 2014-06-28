@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229123745id_/http%3A//www.asiawebdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kl-hotels.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091920id_/http%3A//www.asiawebdirect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
