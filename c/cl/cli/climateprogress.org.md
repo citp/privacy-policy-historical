@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182937id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateprogress.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628174557id_/http%3A//www.americanprogressaction.org/about/c4-privacy-policy) for the most accurate reproduction.*
 
-# C4 Privacy Policy | Center for American Progress Action Fund
+# CAPAF Privacy Policy | Center for American Progress Action Fund
 
 June, 2011
 
 **Privacy Policy Simply Stated**
 
-The Center for American Progress Action Fund believes in transparency, and we want you to know how we use online information collected from you and what choices you have. We have a detailed [Privacy Policy](https://web.archive.org/wp-content/uploads/aboutus/CAPAF-Privacy-Policy-2011.pdf) for you to review here. We know that reading detailed privacy policies takes time, so we are providing a series of short statements below about our online privacy practices with links to the corresponding full-length sections of our Privacy Policy.
+The Center for American Progress Action Fund believes in transparency, and we want you to know how we use online information collected from you and what choices you have. We have a detailed [Privacy Policy](http://cdn.americanprogress.org/wp-content/uploads/aboutus/CAPAF-Privacy-Policy-2011.pdf) for you to review here. We know that reading detailed privacy policies takes time, so we are providing a series of short statements below about our online privacy practices with links to the corresponding full-length sections of our Privacy Policy.
 
   * **Information We Collect Automatically**  – We collect some information automatically when you visit our websites. This is non-personally identifiable information and we generally only use it for administrative purposes. We may sometimes use automatically collected data in conjunction with other data we have about you, including personally identifiable information you have voluntarily provided us, to help facilitate our advocacy and fundraising efforts.
   * **Cookies and Clear GIFs**  – Cookies and clear GIFs are technologies that allow websites to track certain usage information and “remember” users when they return to a website. This section describes these technologies and how we use them.
