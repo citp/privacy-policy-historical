@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006052121id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024119id_/https%3A//www.udemy.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -47,7 +47,7 @@ If you believe that Udemy has incorrect Site Information or Course Information t
 By mail:   
 Udemy, Inc.   
 Attn: Privacy Policy   
-425 2nd Street, Suite 250 
+640 2nd Street , 2nd Floor 
 
 San Francisco, CA 94107 
 
@@ -71,6 +71,6 @@ We welcome your comments or questions concerning our Privacy Policy. If you woul
 
 Udemy, Inc.   
 Attn: Privacy Policy   
-425 2nd Street, Suite 250 
+640 2nd Street , 2nd Floor 
 
 San Francisco, CA 94107 
