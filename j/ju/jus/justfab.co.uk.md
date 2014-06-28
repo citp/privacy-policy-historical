@@ -1,50 +1,112 @@
-> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202302id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628200213id_/http%3A//www.justfab.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
-This privacy policy addresses the use of information we collect from you. By visiting www.JustFab.co.uk (this "Site"), or providing your information to us, you agree to accept the practices described in this privacy policy.
+This privacy policy addresses the use of information we collect from you. By visiting www.JustFab.co.uk (this "Website"), or providing your information to us, you agree to accept the practices described in this privacy policy.
 
-How We Use Your Information  
-When you register to become a member of JustFab, we request certain personally identifiable information from you, including contact information (such as name, email and delivery address) and financial information (such as credit card number and expiry date). We use this information for billing purposes and to fill your orders. If we have any questions or concerns regarding your order, we will use this information to contact you.
+## 1\. Controller
 
-We collect personal information not only to fulfil your order, but also to make our services more rewarding for you to use. We usually use this information for internal purposes, such as studying our customers' preferences and improving the customers' experiences. We may also use your information to contact you for promotional purposes. We may combine information about you with information from other sources in order to improve the quality of our services.
-
-  * We may share information about you with trusted third parties in order to improve your consumer experience. These third parties may contact you about products, services or promotions you may be interested in, or to otherwise improve your customer experience with this Site.
-  * Your information may be transferred in connection with the sale, merger or business acquisition of JustFab.
-  * When we believe that disclosure is necessary to protect the rights, property and safety of JustFab, its users or the public.
-  * As required by law, to comply with a judicial proceeding or court order, to exercise our rights, or to defend against any claims.
-
-
-
-Cookies and Web Beacons  
-We also gather aggregated, non-personally identifiable information from you (such as usage patterns) when you access this Site through the use of cookies and web beacons. Such information may be shared with trusted third-parties but the information will not personally identify you. As we develop this Site, we may gather additional information from you through the use of other technologies.
-
-Cookie  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies to collect anonymous information about how you use this Site by setting and accessing cookies on your computer. These cookies track information such as how often you visit our Site, what pages you view, and where you go after you leave our Site. The cookies are not connected to your personal information. You can find out more about the way cookies work, including how to manage or delete them at www.allaboutcookies.org.
-
-Web Beacon  
-Web beacons, or clear gifs, are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages. Web beacons help us better manage content on our Site by informing us what content is effective. We do not tie the information gathered by web beacons to your personal information.
-
-Security  
-The security of your personal information is important to us. When you provide sensitive information (such as a credit card number), we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
-
-However, no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee the absolute security of such information. If you have any questions about security on our Site, please contact us as indicated below.
-
-Opting Out  
-We may occasionally send you newsletters and emails regarding special offers, promotions, features and/or product updates. We may also communicate with you on behalf of third parties about special offers, promotions, features and/or product updates we think may be of interest to you, , or you may have opted-in to receive newsletters or special promotions from one of our trusted third party providers. If you decide you do not wish to receive these communications, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication.
-
-Links to Other Sites  
-This Site may contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies only to information collected by this Site. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personally identifiable information.
-
-Children Under 13  
-Children under 13 may view this Site, but they cannot make a purchase or provide any personal information. This Site is not designed for children and we do not wish to collect personal information from children under 13. If you register with us and we discover that you are under 13, we will delete your account. You must be 18 or over to purchase any products from this Site.
-
-Changes to the Privacy Policy  
-We reserve the right to amend this policy at any time. Notice of any change will be posted on this Site. Please check this page periodically for changes.
-
-Contact Us  
-If you have any questions regarding the use of our site or privacy policy, please contact us at:
+The Controller for the collecting, processing and using of personal data on www.justfab.co.uk (“Website” or “our Website”) is: 
 
 JustFab UK Ltd  
-2nd Floor, 201 Haverstock Hill  
-London, NW3 4QG
+8-10 Dryden Street  
+London, WC2E 9NA  
+Email: support@justfab.co.uk
+
+## 2\. Use of JustFab
+
+**2.1.**  
+As a visitor without a JustFab membership: By visiting a website, log files are sent from your browser to the respective website to enable the transfer of information. 
+
+**2.2.**  
+As a JustFab member: We install password-protected direct access to your member account. Your personal information will be collected on a secure server by using a coding system called Secure Socket Layer (SSL). The collected data is kept secure from any potential abuse to the best of our ability and we do our utmost to provide a high level of security. Handle your account details with care – do not share it with anyone else. Always remember to log out completely when using computers with public access. You are solely responsible for maintaining the confidentiality of your account.
+
+## 3\. Collecting, processing and using of personal data
+
+**3.1.**  
+Personal data means any information relating to an identified or identifiable natural person, such as name, birth date, bank account details.
+
+**3.2.**  
+We collect, process and store your personal data for the purposes of maintaining your membership and purchases at JustFab, as well as providing you with more rewarding services and customer experiences (see para. 4) .
+
+**3.3.**  
+Without your explicit permission, we only disclose your personal data to third parties to fulfil our contractual obligations (e.g. delivery of our products by transport and logistics companies) and for accounting purposes (e.g. bank and department collection companies). These service providers explicitly use your data only for the purpose of the contract.
+
+**3.4.**  
+Where the legitimate purpose of the data processing becomes void or where the applicable data law requires, your personal data will be deleted accordingly. 
+
+I hereby give my permission to JustFab to collect, process and use my personal data in accordance to this privacy policy. 
+
+## 4\. Email Newsletters
+
+With your prior consent, we collect and process your email address for the purpose of sending you email newsletters. You can unsubscribe at any time by clicking the ‘Unsubscribe’ link in any email newsletter or by visiting your Account on the Website to manage your Email Preferences.
+
+## 5\. Cookies
+
+**5.1.What are cookies?**  
+Cookies and flash cookies (“Cookies”) are pieces of data that are used in network communication storing certain information needed when navigating with your browser. “Session Cookies” identify a session and are deleted after closing the session and “Permanent Cookies” permanently store browsing history on your data medium.
+
+You may remove browsing history data or stop it from being collected (see para. 5.4).
+
+**5.2. What kind of Cookies do we use?**  
+JustFab uses Session Cookies and Permanent Cookies. The cookies are necessary for easy and convenient navigation of our Website. Session Cookies help us update your shopping bag according to your wishes during your visit on our Website and the Permanent Cookies help us display products which you may prefer. The information provided is anonymous without any link to personal data.
+
+**5.3. How do third parties use Cookies?**  
+We also use third party Cookies on our Website to improve our products and services. In particular, we use the following third party Cookies:
+
+\- We use Google Analytics, a web analytics service provided by Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google“). Google uses Cookies to obtain information about our users’ access to our Website. The information about your use of our Website generated by the Cookie will be normally transferred to a Google server in the US where it will be saved. Google will anonymise your IP address within EU member states or other contracting countries of the agreement of the European Economic area. Only in exceptional cases the full IP address will be transferred to the Google server in the US to be anonymised abroad. Google will use this information to evaluate your use of the Website and compile reports about your activity. The IP address of your browser transferred by Google Analytics will not pool with other Google files. You may refuse the storage of cookies by setting appropriate adjustments on your browser software (see para 5.4). Furthermore, if you wish to prevent the processing of your data (including your IP address) generated by the Cookie to Google, you can download and install the browser-plugin: <https://tools.google.com/dlpage/gaoptout?hl=en>. 
+
+\- We use DoubleClick DART (Dynamic Advertising Reporting & Targeting)- Cookies of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States ("Google"), to process information about your visit on our and other websites for marketing purposes. The technology provides targeted internet ad serving services. You can block the use of DoubleClick Cookies (refer to 5.4). 
+
+\- We use ChartBeat, a web analytics service provided by Chartbeat Inc. 826 Broadway, 6th Floor New York, NY 1000. ChartBeat generates pseudonym user profiles by using the processed and saved data. This helps us to analyse user attitudes to improve our products and services. Without explicit permission of the person concerned, the pseudo-anonymised user profiles will never pool with the personal data of the owner of the pseudonym. You may refuse the processing and storing of your personal information for marketing purpose at any time by following the details as outlined in para 5.4.
+
+**5.4. How can I prevent the use of Cookies?**  
+You can prevent the storage of Cookies by making appropriate adjustments in your browser software. This could result in limited functionality of our Website. 
+
+If you wish to disable the processing of your data (including your IP address) generated by Google’s Cookies, you can download and install the browser-plugin: <http://tools.google.com/dlpage/gaoptout?hl=en>.  
+You can also deactivate the use of DoubleClick DART Cookies by visiting Google’s Privacy Policy page: <http://www.google.com/ads/preferences/html/opt-out.html>.
+
+I hereby give JustFab and third operating partners permission to insert Cookies. I may withdraw my permission by changing my browser settings to block Cookies.
+
+## 6\. Log Files
+
+**6.1.**  
+Every time you visit JustFab, your user information is sent from your browser to our server and will be saved as protocol files (server log files). The transferred data contains: date, time of the visit, names of the website, IP address, referred URL, transferred data volume, product and version information of the used browser.
+
+**6.2.**  
+Subject to any legal obligation of storage, user IP addresses will be deleted or anonymised after termination of use.
+
+## 7\. Use of Social Plugins
+
+**7.1. Use of Facebook Plugins**
+
+We use Social Plugins (“Plugins“) from social network Facebook, provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook“). The Plugins are marked by the Facebook logo or with the addition “Social Plug-in of Facebook” or “Facebook Social Plugin”. Find an overview of Facebook Plugins here: <http://developers.facebook.com/plugins>.  
+When you open a JustFab page which includes such a Plugin, your browser will establish a direct connection to Facebook’s server. The content of the Plugin will be transferred directly to your browser and integrated within the Website. Through this integration, Facebook receives information about your visits to appropriate parts of our Website, even if you don’t have a Facebook profile or aren’t logged into your profile. This information (including your IP address) will directly be transferred to the Facebook server in the US where it is also saved. If you are logged into Facebook, Facebook can immediately track your visit on JustFab with your Facebook profile.   
+If you interact with Plugins, e.g. by clicking the “like” button or commenting on something, this information will also be transferred to and saved on the Facebook server. Information can also be published on your Facebook profile.   
+For more information regarding the purpose and volume of the data collection, the further processing and using of Facebook and your rights and profile settings regarding your protection of privacy policy, please check Facebook’s privacy policy regulations, <http://www.facebook.com/policy.php>. If you wish to prevent the transfer of the collected information to your Facebook profile, then log out of your Facebook profile before visiting our Website. You can also prevent the loading of Facebook Plugins by installing “Facebook Blocker“ (<http://webgraph.com/resources/facebookblocker/>).
+
+**7.2.** **Use of Google+ Plugins (e.g. “+1“)**
+
+We use Plugins fom social network Google+, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“). The Plugins are identifiable e.g. on buttons with the sign “+1” on a white or coloured background. You can find an overview of Google Plugins here: <https://developers.google.com/+/plugins>.  
+When you open a page of our Website which includes such a Plugin, your browser will establish a direct connection to the server of Google. The content of the Plugin will be transferred directly to your browser and integrated within the Website. Through this integration, Google receives information about your visits to appropriate parts of our Website, even if you don’t have a Google profile or aren’t logged into your profile. This information (including your IP address) will directly be transferred to and saved on the Google server in the US. If you are logged in to Google, Google can track your visit on JustFab with your Google+ profile. If you interact with Plugins e.g. by clicking the “like” button or comment on something, this information will also be transferred to and saved on the Google+ server. This information will also be published on your Google+ profile. For more information regarding the purpose and volume of data collection, the further processing and using of Google+ and your rights and profile settings regarding your protection of privacy policy, please check Google’s privacy policy regulations <http://www.google.com/intl/de/+/policy/+1button.html>. If you wish to prevent the transfer of the collected information to your Google+ profile, then log out of your Google+ profile before visiting our Website. You can also prevent the loading of Google Plugins by installing Script-Blocker “NoScript” (<http://noscript.net/>).).
+
+**7.3. Use of Twitter Plugins (e.g. “Twitter“ Button)**
+
+JustFab uses Plugins from microblogging service Twitter, provided by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter“). The Plugins are marked by the Twitter logo, e.g. the blue shape of a bird. Find an overview of Twitter Plugins here <https://twitter.com/about/resources/buttons>.  
+If you visit a JustFab page which includes such a Plugin, your browser will establish a direct connection to Twitter’s server. The content of the Plugin will be transferred directly to your browser and integrated within the Website. Through this integration, Twitter receives information about your visits to appropriate parts of our Website, even if you don’t have a Twitter profile or aren’t logged into your profile. This information (including your IP address) will directly be transferred to and saved on the Twitter server in the US. If you are logged in to Twitter, Twitter can track your visit to JustFab with your Twitter profile. If you interact with Plugins e.g. by clicking the “like” button or comment on something, this information will be also transferred to and saved on Twitter’s server. Information will be also published on your Twitter profile. For more information regarding the purpose and volume of data collection, the further processing and using of Twitter and your rights and profile settings regarding your protection of privacy policy, please check the Twitter’s privacy policy <https://twitter.com/privacy>. If you wish to prevent the transfer of the collected information to your Twitter profile, log out of your Twitter profile before visiting JustFab. You can also prevent the loading of Twitter Plugins by installing Script-Blocker “NoScript” (<http://noscript.net/>).).
+
+## 8\. Data Processing in the US
+
+JustFab.co.uk is operated on a technical platform of our parent company, JustFabulous, Inc., 2301 Rosecrans Avenue, Suite 4100, El Segundo, California in the United States of America (USA). Information collected on European websites will be transferred from our server to the US server. JustFabulous, Inc. deals with the technical operations of JustFab.co.uk. We have ensured that the data transfer and processing in the US is compliant with European law.
+
+I hereby give permission to the processing of my data on JustFabulous, Inc’s server, the parent company of JustFab, and that for this purpose my personal data may be transferred to the US. 
+
+## 9\. Information, Correction, Blocking and Deletion of Data; Right of Withdrawal 
+
+**9.1.**  
+According to European law, you may request stored data information in relation to you and to the correction, blocking and deletion of this data. You can contact us at any time (see para 1) for contact details. In such cases, please provide us with proof of identification (e.g. a copy of your identity card or passport).
+
+**9.2.**  
+According to European law, you can also completely or partially withdraw from the collecting, processing, or using of your data by JustFab (see para. 1 for contact details). Please note that in such a case, the functionality of our Website will be limited or eliminated. 
+
+_Updated: 05/2014_
