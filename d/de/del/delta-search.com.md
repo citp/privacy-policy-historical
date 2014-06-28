@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delta-search.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229105833id_/http%3A//info.delta-search.com/uninstall/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delta-search.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628234418id_/http%3A//info.delta-search.com/uninstall/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
