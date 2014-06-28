@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoftanks.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516165701id_/http%3A//worldoftanks.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftanks.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628221839id_/http%3A//worldoftanks.com/en/content/docs/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Tanks
 
