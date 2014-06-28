@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118081628id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postloop.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232631id_/http%3A//www.postloop.com/pages/terms%23privacy) for the most accurate reproduction.*
 
 # Terms & Conditions | Postloop Forum Post Exchange and Blog Comment Exchange
 
