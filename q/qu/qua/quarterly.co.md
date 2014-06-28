@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quarterly.co privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127162024id_/http%3A//quarterly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quarterly.co privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091123id_/https%3A//quarterly.co/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Quarterly.co
 
 ## Quarterly Privacy Policy
 
@@ -8,7 +8,7 @@ Effective as of September 9, 2011
 
 1: INTRODUCTION 
 
-At Quarterly, Inc., we take the privacy of our Quarterly website members very seriously. Please read this Privacy Policy to learn more about how Quarterly, Inc. (“Quarterly,” “we,” our,” or “us”), treats information, including personally identifiable information, in connection with the [http://quarterly.co](http://quarterly.co/) website (the “Quarterly Service” or the “Service”). We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@quarterly.co](mailto:privacy@quarterly.co) or in writing at: P.O. Box 69307, West Hollywood, CA, 90069. 
+At Quarterly, Inc., we take the privacy of our Quarterly website members very seriously. Please read this Privacy Policy to learn more about how Quarterly, Inc. (“Quarterly,” “we,” our,” or “us”), treats information, including personally identifiable information, in connection with the [http://quarterly.co](http://quarterly.co/) website (the “Quarterly Service” or the “Service”). We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@quarterly.co](mailto:privacy@quarterly.co) or in writing at: P.O. Box 27397 Los Angeles, CA 90027. 
 
 Online Privacy Standards. We follow the principles supported by the Federal Trade Commission’s Fair Information Practices Principles, currently available at <http://www.ftc.gov/reports/privacy3/fairinfo.shtm>. 
 
@@ -90,7 +90,7 @@ Management Procedures. Our partners maintain standard physical and electronic pr
 
 Receiving Communications. If you subscribe to any optional promotional communications, you will be able to unsubscribe from these communications through your account management options or through the emails we send you. 
 
-Editing / Deleting Your Account Information. Any member who establishes a Quarterly Service account can view the personally identifiable information we have collected from that member. That information is available at the member’s account page, where members can add, edit, or delete such personally identifiable information as the member sees fit. To completely delete your account and accompanying personal information, or to delete information about you we may have received from a third party in connection with our Gift Subscription Program, please contact us at [support@quarterly.co](https://web.archive.org/web/20131127162024id_/http%3A//quarterly.co/support@quarterly.co). As noted above, though Quarterly does not store payment information for any users, we are able to delete your payment information from our third-party payment provider at your request. 
+Editing / Deleting Your Account Information. Any member who establishes a Quarterly Service account can view the personally identifiable information we have collected from that member. That information is available at the member’s account page, where members can add, edit, or delete such personally identifiable information as the member sees fit. To completely delete your account and accompanying personal information, or to delete information about you we may have received from a third party in connection with our Gift Subscription Program, please contact us at [support@quarterly.co](https://web.archive.org/web/20140628091123id_/https%3A//quarterly.co/support@quarterly.co). As noted above, though Quarterly does not store payment information for any users, we are able to delete your payment information from our third-party payment provider at your request. 
 
 7: UPDATES TO OUR PRIVACY POLICY 
 
