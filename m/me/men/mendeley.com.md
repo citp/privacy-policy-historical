@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228103821id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091051id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -80,7 +80,7 @@ We use information held about you in the following ways:
 
 
 
-We may also use aggregate statistical information regarding users' interests, habits and reading patterns, broken down in some cases on an institutional level or other relevant segmenting. This statistical data does not contain any personally identifiable information and some of it is made available to the Mendeley community and other interested third parties (such as institutions and publishers) on an anonymous and aggregated basis. For example, the Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers. 
+We may also use aggregate statistical information regarding users' interests, habits and reading patterns, broken down in some cases on an institutional level or other relevant segmenting. This statistical data does not contain any personally identifiable information and some of it is made available to the Mendeley community and other interested third parties (such as institutions and publishers) on an anonymous and aggregated basis. For example, the Mendeley community will be able to see that a certain paper had 7,153 readers and was the most popular paper in Biology last week. However, nobody except you will know whether you were one of these 7,153 readers. Where required by contractual agreements, we will furnish periodic institutional usage data reports to publishers and other content providers but without revealing information about individual users. 
 
 We also use snippets of information extracted from your imported files to help improve the discovery of published research on the Service and to form part of and enhance the search and recommendation results. 
 
@@ -146,4 +146,4 @@ White Bear Yard
 London, EC1R 5DF  
 United Kingdom
 
-This privacy policy was last updated on 5 December 2013
+This privacy policy was last updated on 6 February 2014
