@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610223158id_/http%3A//www.newsnow.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnow.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628095842id_/http%3A//www.newsnow.co.uk/privacy) for the most accurate reproduction.*
 
 # NewsNow: Privacy and Cookie Notice
 
@@ -8,4 +8,4 @@ For example, we may use such information to respond to your enquiries (where app
 
 We also use certain types of cookie to identify you and to personalise your experience when using our websites.
 
-For further details on how we use your information, and how to contact us about such use, please see our [Privacy Policy](https://web.archive.org/privacy/policy.html). For further details on how we set cookies, please see our [Cookie Policy](https://web.archive.org/privacy/cookies/).
+For further details on how we use your information, and how to contact us about such use, please see our [Privacy Policy](http://www.newsnow.co.uk/privacy/policy.html). For further details on how we set cookies, please see our [Cookie Policy](http://www.newsnow.co.uk/privacy/cookies/).
