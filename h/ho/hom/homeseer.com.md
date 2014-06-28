@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225215807id_/http%3A//www.homeseer.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeseer.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091319id_/http%3A//www.homeseer.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Home Automation - Homeseer: Privacy Policy
 
