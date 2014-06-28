@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017115838id_/http%3A//nus.edu.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.edu.sg privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628194521id_/http%3A//nus.edu.sg/privacy) for the most accurate reproduction.*
 
 # NUS Singapore University | College Degree Courses In Singapore - Privacy
 
 ##  Privacy Statement 
 
-  * [](http://www.nus.edu.sg/privacy?tmpl=component&print=1&page= "Print")
+  * [](http://nus.edu.sg/privacy?tmpl=component&print=1&page= "Print")
 
 
 
