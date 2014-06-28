@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226140820id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628052956id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pathfinder Software
 
