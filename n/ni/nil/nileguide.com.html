@@ -1,0 +1,368 @@
+<!--The following is the downloaded HTML source of the nileguide.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628171137id_/http%3A//www.nileguide.com/pages/info/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head><title>Privacy Policy</title>
+<meta name="googlebot" content="noindex">
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script src="http://edge.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEVVdACwAAVllWBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta name="title" content="Privacy Policy">
+<meta name="description" content="NileGuide Privacy Policy.">
+<link rel="stylesheet" href="http://www.nileguide.com/inc/style.css" type="text/css">
+<link rel="shortcut icon" href="http://www.nileguide.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.nileguide.com/favicon.ico" type="image/x-icon">
+<link rel="publisher" href="https://plus.google.com/106885311446724522661/">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1757925-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = 'http://stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript" id="inspectletjs">
+	window.__insp = window.__insp || [];
+	__insp.push(['wid', 1631262507]);
+	(function() {
+		function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+		if (window.attachEvent){
+			window.attachEvent('onload', __ldinsp);
+		}else{
+			window.addEventListener('load', __ldinsp, false);
+		}
+	})();
+</script>
+</head>
+<body>
+<div id="doc4">
+<a href="http://www.nileguide.com/"><img id="nileLogo" src="http://www.nileguide.com/img/NileGuide.png" alt="NileGuide" title="For Travelers, By Locals" width="246" height="70"></a>
+<div id="hd">
+<div id="adContainerTop"><script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3918339743647452" data-ad-slot="9006071899"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+</div>
+<div id="bd">
+<div style="margin:15px">
+<h1 style="margin:0px">PRIVACY POLICY</h1>
+<div class="hr"></div>
+At Nileguide.com ("Company"), we know that you care about
+how your personal information is used and shared, and we take your
+privacy seriously. Please read the following to learn more about our
+privacy policy. By accessing the Company website and using the
+services, you are accepting the practices outlined in this Privacy
+Policy.
+<br>
+<br>
+<strong>What Does This Privacy Policy Cover?</strong>
+<br>
+This Privacy Policy covers Company´s treatment of personally
+identifiable information ("Personal Information") that
+Company gathers when you are on the Nileguide.com website and when you
+use the services, including registration based features. The types of
+Personal Information collected may include your full name, street
+address, email address, birth year, gender, city, state, zip code,
+country, and travel destinations.
+<br>
+<br>
+Also, this Policy covers the Company´s treatment of any Personal
+Information that the Company´s business partners share with the
+Company. This Policy does not apply to the practices of third party
+service providers with which Company may partner but does not own or
+control, or to individuals that Company does not employ or manage.
+<br>
+<br>
+<strong>What Personal Information About Customers Does Company
+Collect?</strong>
+<br>
+Our primary goal in collecting Personal Information is to provide you
+with a friendly, customized, and efficient experience. We may collect
+the following types of information from our customers:
+<br>
+<br>
+<strong>Information You Provide to Us:</strong>
+<br>
+We receive and store any information you enter on our website or
+provide to us in any other way. You can choose not to provide us with
+certain information, but then you may not be able to take advantage of
+many of our special features. The Personal Information you provide is
+used for such purposes as responding to your requests for certain
+features and services, customizing the advertising and content you
+see, and communicating with you about specials and new services.
+<br>
+<br>
+Registration: In order for you to use our registration-based services,
+you must complete a registration form. We require your contact
+information (such as screen name and email address).  We may also
+request demographic information and unique identifiers in order to
+provide you with a more personalized service.
+<br>
+<br>
+<strong>Automatic Information:</strong>
+<br>
+We receive and store certain types of information whenever you
+interact with us via our website.  The Company automatically receives
+and records certain "traffic data" on our server logs
+including your IP address, cookie information, the page you requested,
+and your communications and interactions with other site registrants.
+The Company uses this traffic data to help diagnose problems with its
+server, analyze trends and administer the service.
+<br>
+<br>
+The Company´s service automatically collects usage information,
+such as the numbers and frequency of visitors to our site and use of
+the service components, similar to TV ratings that indicate how many
+people watched a particular show. This data is only used in the
+aggregate.  This type of collective data enables us to figure out how
+often customers use parts of the service, so we can make the service
+appealing to as many customers as possible.  In addition, we may
+provide statistical information to our partners about how our
+customers, collectively, use our service. We share this type of
+statistical data so that our partners also understand how often people
+use their areas and our service, so that they, too, may provide you
+with an optimal experience.
+<br>
+<br>
+We also collect and use information for internal purposes. For
+example, if you are a registered user of the Company´s
+registration based services, we may keep records in your account
+history of your use of the registration based features, and any
+reported violation of our Terms of Service that you or someone
+on your account may have committed.
+<br>
+<br>
+Many companies offer programs that help you to visit web sites
+anonymously. While Company will not be able to provide you with
+a personalized experience if we cannot recognize you, we want
+you to be aware that these programs are available.
+<br>
+<br>
+<strong>E-mail Communications:</strong>
+<br>
+We may receive a confirmation when you open an e-mail from the Company
+if your computer supports this type of program, in order to help us
+make e-mails more interesting and helpful. We may also send out emails
+with news or promotions. If you are a registered user of the
+Company´s registration-based services and do not want to receive
+e-mail from us, please do not opt in to receive these emails. However,
+if you do opt-in, you may later unsubscribe by following the
+Company´s procedures listed at the bottom of such email.
+<br>
+<br>
+<strong>Information From Other Sources:</strong>
+<br>
+For purposes such as improving personalization of our service, we may
+receive information about you from other sources and add it to our
+account information.  
+<br>
+<br>
+<strong>What about Cookies?</strong>
+<br>
+Cookies are alphanumeric identifiers that we transfer to your
+computer´s hard drive through your Web browser to enable our
+systems to recognize your browser and tell us how and when pages in
+our site are visited and by how many people.  Company cookies do not
+collect Personal Information, and we do not combine information
+collected through cookies with other Personal Information to tell us
+who you are or what your account name or email address is.
+<br>
+<br>
+The "help" portion of the toolbar on the majority of
+browsers will direct you on how to prevent your browser from accepting
+new cookies, how to command the browser to tell you when you receive a
+new cookie, or how to fully disable cookies.  We strongly recommend
+that you leave the cookies activated, however, because cookies enable
+you to take advantage of some of Company´s most attractive
+features.
+<br>
+<br>
+Some of our business partners may use cookies on our site (for
+example, advertisers). However, we have no access to or control over
+these cookies.
+<br>
+<br>
+<strong>Will Company Share Any of the Information it
+Receives?</strong>
+<br>
+We neither rent nor sell your Personal Information to anyone. We share
+your Personal Information only with the entities that are controlled
+by or control the Company and as described below.
+<br>
+<br>
+<strong>Affiliated Business We Do Not Control:</strong>
+<br>
+We are affiliated with a variety of businesses and work closely with
+them. In certain situations, these businesses operate within the
+Company´s service or sell items or services to you within the
+Company´s service. In other situations, the Company provides
+services, or sells products jointly with affiliated businesses. You
+can easily recognize when an affiliated business is associated with
+your transaction, and we will share customer information that is
+related to such transactions with that affiliated business only when
+necessary.
+<br>
+<br>
+<strong>Agents:</strong>
+<br>
+We employ other companies and people to perform tasks on our behalf
+and may need to share your information with them to provide products
+or services to you.  Examples may include, sending e-mail, removing
+repetitive information from customer lists, analyzing data, providing
+marketing assistance, and providing customer service.
+<br>
+<br>
+<strong>Promotional Offers:</strong>
+<br>
+We may send offers to certain customers on behalf of other businesses.
+However, when we do so, we do not give the other business your name
+and address. If you are a registered user of the Company´s
+subscription based services and do not wish to receive these offers,
+please do not opt in to receive these emails. However, if you do
+opt-in, you may later unsubscribe by following the Company´s
+procedures listed at the bottom of such email.
+<br>
+<br>
+<strong>Business Transfers:</strong>
+<br>
+In some cases, we may choose to buy or sell assets or businesses. In
+these types of transactions, customer information is typically one of
+the business assets that are transferred.  Moreover, if Company, or
+substantially all of its assets, were acquired, customer information
+would be one of the assets that are transferred.
+<br>
+<br>
+<strong>Protection of Company and Others:</strong>
+<br>
+We may release Personal Information when we believe in good faith that
+release is necessary to comply with that law; enforce or apply our
+conditions of use and other agreements; or protect the rights,
+property, or safety of Company, our employees, our users, or others.
+This includes exchanging information with other companies and
+organizations for fraud protection and credit risk reduction.
+<br>
+<br>
+<strong>With Your Consent:</strong>
+<br>
+Except as set forth above, you will be notified when your Personal
+Information may be shared with third parties.
+<br>
+<br>
+<strong>Is Information About Me Secure?</strong>
+<br>
+If you are a registered user, your account is protected by a password
+for your privacy and security. You need to work to protect against
+unauthorized access to your password and to your computer by signing
+off once you have finished using a shared computer.
+<br>
+<br>
+Only employees who need Personal Information to perform a specific job
+(for example, a customer service representative) are granted access to
+it.  All of our employees are kept up to date on our privacy and
+security practices.
+<br>
+<br>
+<strong>What Choices Do I Have?</strong>
+<br>
+As stated previously, you can always opt not to disclose information,
+even though it may be needed to take advantage of certain Company
+features.
+<br>
+<br>
+If you add or update certain information on pages, we may maintain a
+copy of the unrevised information in our records.
+<br>
+<br>
+If you are a registered user of Company´s services, you may
+request deletion of your Company account by <a href="http://www.nileguide.com/contact/">contacting us</a>. Please note that some
+ information may remain in our records after deletion of your account.
+<br>
+<br>
+Please note that if you do not want to receive legal notices from us,
+such as revisions to this Privacy Policy, those legal notices will
+still govern your use of the Company website, and you are responsible
+for reviewing such legal notices for changes.
+<br>
+<br>
+As explained earlier, the "help" portion of the toolbar on
+the majority of browsers will direct you on how to prevent your
+browser from accepting new cookies, how to command the browser to tell
+you when you receive a new cookie, or how to fully disable cookies.
+Please note, however, that if you do not enable cookies, you will not
+be able to take advantage of some of our attractive features.
+<br>
+<br>
+<strong>Can Children Use Company´s Services?</strong>
+<br>
+Our site and the services available through the Company are not
+intended for children under the age of 13. Company does not knowingly
+or specifically collect information about children under the age of 13
+and believes that children of any age should get their parents´
+consent before giving out any Personal Information. We encourage you
+to participate in your child´s web experience. Company
+recommends that parents use Web filtering technology to supervise
+their kids´ access to the Web.
+<br>
+<br>
+<strong>Conditions of Use</strong>
+<br>
+If you decide to visit Company´s site, your visit and any
+possible dispute over privacy is subject to this Privacy Policy and
+our Terms of Service, including limitations on damages and liability.
+<br>
+<br>
+<strong>Third Party Sites</strong>
+<br>
+The service may permit you to link to other websites on the Internet,
+and other websites may contain links to the Company site. In addition,
+Company has partnered with third party business to provide certain
+services to you, which may be integrated into the Company service.
+These other websites and third party service providers are not under
+Company control, and such links do not constitute an endorsement by
+Company of those other websites, the services offered through them, or
+their privacy practices. The privacy and security practices of
+websites linked to or from the Company site are not covered by this
+Privacy Statement, and Company is not responsible for the privacy or
+security practices or the content of such websites.  Company
+recommends that you carefully review any third party terms of use and
+privacy policies prior to submitting your Personal Information to such
+third party websites.
+<br>
+<br>
+<strong>Changes to this Privacy Policy</strong>
+<br>
+Company may amend this Privacy Policy at any time. You are responsible
+for ensuring that you are aware of what information we collect, how we
+use it, and under what circumstances if any, it is disclosed.
+<br>
+<br>
+<strong>Questions or Concerns</strong>
+<br>
+If you have any questions or concerns regarding privacy at Company
+site, please <a href="http://www.nileguide.com/contact/">contact us</a>.
+Your privacy is important to us and we will make every effort to
+resolve your concerns.
+</div>
+</div>
+<div id="ft">
+© 2014 NileGuide.com &nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.nileguide.com/blog/">Blog</a>
+&nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.facebook.com/NileGuide">Facebook</a>
+&nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.nileguide.com/contact/">Contact Us</a>
+&nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.nileguide.com/blog/mission/">About Us</a>
+&nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.nileguide.com/pages/info/privacy_policy.html">Privacy Policy</a>
+&nbsp; · &nbsp;
+<a class="bottomLink" href="http://www.nileguide.com/pages/info/terms_and_conditions.html">Terms &amp; Conditions</a></div>
+<script type="text/javascript">var _qevents = _qevents || [];
+(function() { var elem = document.createElement('script');
+elem.src = "http://edge.quantserve.com/quant.js";
+elem.async = true; elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt); })();
+_qevents.push({ qacct:"p-db4MRErFf4FQk" });</script>
+<noscript><div style="display:none;"><img src="http://pixel.quantserve.com/pixel/p-db4MRErFf4FQk.gif" border="0" height="1" width="1" /></div></noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"7643ea0a8f","applicationID":"3302840","transactionName":"ZgZXbRMCW0UDARYMWF9MYEsITEVXBQcRSl5fBVoWERFcQAMBGzpHXg9cWhhNXUIPDg==","queueTime":0,"applicationTime":7,"ttGuid":"","agentToken":"","atts":"SkFUG1sYSEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+</div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
