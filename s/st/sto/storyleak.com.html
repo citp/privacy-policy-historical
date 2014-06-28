@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the storyleak.com privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227204904id_/http%3A//www.storyleak.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the storyleak.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628205613id_/http%3A//www.storyleak.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -37,7 +37,7 @@
 
 
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.15 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Privacy Policy - Storyleak</title>
 <meta name="robots" content="noindex,follow">
 <meta name="description" content="At Storyleak, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines.">
@@ -65,19 +65,19 @@
 <!--[if IE]>
 <link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.storyleak.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.6' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://www.storyleak.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.6" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://www.storyleak.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=2.3.7" type="text/css" media="all">
 <link rel="stylesheet" id="contact-form-7-css" href="http://www.storyleak.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="hupso_css-css" href="http://www.storyleak.com/wp-content/plugins/hupso-share-buttons-for-twitter-facebook-google/style.css?ver=3.6" type="text/css" media="all">
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://www.storyleak.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
 <script type="text/javascript" src="http://www.storyleak.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.2.14"></script>
+<script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.40.0-2013.08.13"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var mailchimpSF = {"ajax_url":"http:\/\/www.storyleak.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.14"></script>
+<script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1"></script>
 <script type="text/javascript" src="http://www.storyleak.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
 <script type="text/javascript" src="http://www.storyleak.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.6"></script>
 <script type="text/javascript" src="http://www.storyleak.com/wp-content/themes/wp-clear321/js/external.js?ver=3.6"></script>
@@ -88,27 +88,34 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.storyleak.com\/"};
 <meta name="generator" content="WordPress 3.6">
 	<script type="text/javascript">
 		jQuery(function($) {
-			$('.date-pick').datepicker({
-				autoFocusNextInput: true,
-				constrainInput: false,
-				changeMonth: true,
-				changeYear: true,
-				beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
-				dateFormat: 'yy/mm/dd',
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
 			});
-
 			d = new Date();
-			$('.birthdate-pick').datepicker({
-				autoFocusNextInput: true,
-				constrainInput: false,
-				changeMonth: true,
-				changeYear: false,
-				minDate: new Date(d.getFullYear(), 1-1, 1),
-				maxDate: new Date(d.getFullYear(), 12-1, 31),
-				beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
-				dateFormat: 'mm/dd',
-			});
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
 
+			});
 
 		});
 	</script>
@@ -154,14 +161,7 @@ a.comment-reply-link:hover,a.comment-reply-link:active,#commentform input#submit
 	<!--[if lt IE 9]>
 		<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 	<![endif]-->
-<!-- Wordpress Popular Posts v2.3.2 -->
-<script type="text/javascript">
-    /* <![CDATA[ */				
-	jQuery.post('http://www.storyleak.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'f31fd4ad6c', id: 1565}, function(data){/*alert(data);*/});
-    /* ]]> */
-</script>
-<!-- End Wordpress Popular Posts v2.3.2 -->
-            
+
 <!-- BEGIN Tynt Script -->
 <script type="text/javascript">
 if(document.location.protocol=='http:'){
@@ -455,7 +455,7 @@ Google Adsense</p>
 
 					<div class="entry clearfix">
 
-						<p class="post-title"><a href="http://www.storyleak.com/obama-unapologetic-drone-massacre-yemen-wedding-party/" rel="bookmark" title="Permanent Link to Obama Unapologetic About Drone Massacre Of Yemen Wedding Party">Drone Assassinations: Unlawful &amp; Barbaric</a></p>
+						<p class="post-title"><a href="http://www.storyleak.com/nsa-2-billion-data-center-in-utah-paid-a-surprise-visit/" rel="bookmark" title="Permanent Link to NSA $2 BILLION Data Center In Utah Paid A Surprise Visit">Blimp Visits NSA</a></p>
 
 						By Michael Thomas
 					</div>
@@ -467,10 +467,10 @@ Google Adsense</p>
 	</span> 
 
 	<span class="meta-date">
-		December 26, 2013	</span> 
+		June 28, 2014	</span> 
 
 		<span class="meta-comments">
-		 | <a href="http://www.storyleak.com/obama-unapologetic-drone-massacre-yemen-wedding-party/#comments" rel="bookmark" title="Comments for Obama Unapologetic About Drone Massacre Of Yemen Wedding Party"><span class="IDCommentsReplace" style="display:none">4724</span>18 Comments<span style="display:none" id="IDCommentPostInfoPermalink4724">http%3A%2F%2Fwww.storyleak.com%2Fobama-unapologetic-drone-massacre-yemen-wedding-party%2F</span><span style="display:none" id="IDCommentPostInfoTitle4724">Obama+Unapologetic+About+Drone+Massacre+Of+Yemen+Wedding+Party</span><span style="display:none" id="IDCommentPostInfoTime4724">2013-12-26+13%3A40%3A43</span><span style="display:none" id="IDCommentPostInfoAuthor4724">Michael+Thomas</span><span style="display:none" id="IDCommentPostInfoGuid4724">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D4724</span></a>
+		 | <a href="http://www.storyleak.com/nsa-2-billion-data-center-in-utah-paid-a-surprise-visit/#comments" rel="bookmark" title="Comments for NSA $2 BILLION Data Center In Utah Paid A Surprise Visit"><span class="IDCommentsReplace" style="display:none">7061</span>1 Comment<span style="display:none" id="IDCommentPostInfoPermalink7061">http%3A%2F%2Fwww.storyleak.com%2Fnsa-2-billion-data-center-in-utah-paid-a-surprise-visit%2F</span><span style="display:none" id="IDCommentPostInfoTitle7061">NSA+%242+BILLION+Data+Center+In+Utah+Paid+A+Surprise+Visit</span><span style="display:none" id="IDCommentPostInfoTime7061">2014-06-28+20%3A51%3A57</span><span style="display:none" id="IDCommentPostInfoAuthor7061">Michael+Thomas</span><span style="display:none" id="IDCommentPostInfoGuid7061">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D7061</span></a>
 	</span>
 	 
 
@@ -484,36 +484,7 @@ Google Adsense</p>
 
 					<div class="entry clearfix">
 
-						<p class="post-title"><a href="http://www.storyleak.com/censorship-google-displays-christmas-tree-millions/" rel="bookmark" title="Permanent Link to Amid Censorship, Google Prominently Displays Christmas Tree to Millions">Google Defends Christmas?</a></p>
-
-						By Anthony Gucciardi
-					</div>
-
-					<div class="meta">
-
-	<span class="meta-author">
-		<a href="http://www.storyleak.com/author/anthony/" title="Posts by Anthony Gucciardi" rel="author">Anthony Gucciardi</a> | 
-	</span> 
-
-	<span class="meta-date">
-		December 25, 2013	</span> 
-
-		<span class="meta-comments">
-		 | <a href="http://www.storyleak.com/censorship-google-displays-christmas-tree-millions/#comments" rel="bookmark" title="Comments for Amid Censorship, Google Prominently Displays Christmas Tree to Millions"><span class="IDCommentsReplace" style="display:none">4717</span>38 Comments<span style="display:none" id="IDCommentPostInfoPermalink4717">http%3A%2F%2Fwww.storyleak.com%2Fcensorship-google-displays-christmas-tree-millions%2F</span><span style="display:none" id="IDCommentPostInfoTitle4717">Amid+Censorship%2C+Google+Prominently+Displays+Christmas+Tree+to+Millions</span><span style="display:none" id="IDCommentPostInfoTime4717">2013-12-26+01%3A09%3A20</span><span style="display:none" id="IDCommentPostInfoAuthor4717">Anthony+Gucciardi</span><span style="display:none" id="IDCommentPostInfoGuid4717">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D4717</span></a>
-	</span>
-	 
-
-</div>
-					<div style="clear:both;"></div>
-
-				</div>
-
-		
-				<div class="post">
-
-					<div class="entry clearfix">
-
-						<p class="post-title"><a href="http://www.storyleak.com/journalist-investigating-police-brutality-case-harassed-georgia-law-enforcement/" rel="bookmark" title="Permanent Link to Journalist Harassed By Georgia Law Enforcement For Photographing Sheriff’s Building">Journalist Harassed By Cops</a></p>
+						<p class="post-title"><a href="http://www.storyleak.com/father-faces-child-endangerment-charges-after-son-skips-church/" rel="bookmark" title="Permanent Link to Father Faces Child Endangerment Charges After Son Skips Church">Father Faces Child Endangerment Charges After Son Skips Church</a></p>
 
 						By Mikael Thalen
 					</div>
@@ -525,10 +496,10 @@ Google Adsense</p>
 	</span> 
 
 	<span class="meta-date">
-		December 24, 2013	</span> 
+		June 27, 2014	</span> 
 
 		<span class="meta-comments">
-		 | <a href="http://www.storyleak.com/journalist-investigating-police-brutality-case-harassed-georgia-law-enforcement/#comments" rel="bookmark" title="Comments for Journalist Harassed By Georgia Law Enforcement For Photographing Sheriff’s Building"><span class="IDCommentsReplace" style="display:none">4697</span>12 Comments<span style="display:none" id="IDCommentPostInfoPermalink4697">http%3A%2F%2Fwww.storyleak.com%2Fjournalist-investigating-police-brutality-case-harassed-georgia-law-enforcement%2F</span><span style="display:none" id="IDCommentPostInfoTitle4697">Journalist+Harassed+By+Georgia+Law+Enforcement+For+Photographing+Sheriff%27s+Building</span><span style="display:none" id="IDCommentPostInfoTime4697">2013-12-24+07%3A34%3A21</span><span style="display:none" id="IDCommentPostInfoAuthor4697">Mikael+Thalen</span><span style="display:none" id="IDCommentPostInfoGuid4697">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D4697</span></a>
+		 | <a href="http://www.storyleak.com/father-faces-child-endangerment-charges-after-son-skips-church/#comments" rel="bookmark" title="Comments for Father Faces Child Endangerment Charges After Son Skips Church"><span class="IDCommentsReplace" style="display:none">7052</span>48 Comments<span style="display:none" id="IDCommentPostInfoPermalink7052">http%3A%2F%2Fwww.storyleak.com%2Ffather-faces-child-endangerment-charges-after-son-skips-church%2F</span><span style="display:none" id="IDCommentPostInfoTitle7052">Father+Faces+Child+Endangerment+Charges+After+Son+Skips+Church</span><span style="display:none" id="IDCommentPostInfoTime7052">2014-06-27+20%3A53%3A30</span><span style="display:none" id="IDCommentPostInfoAuthor7052">Mikael+Thalen</span><span style="display:none" id="IDCommentPostInfoGuid7052">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D7052</span></a>
 	</span>
 	 
 
@@ -542,7 +513,7 @@ Google Adsense</p>
 
 					<div class="entry clearfix">
 
-						<p class="post-title"><a href="http://www.storyleak.com/phil-robertsons-suspension-scariest-message-ever-sent-america/" rel="bookmark" title="Permanent Link to Phil Robertson’s Suspension: Chilling Effect on Freedom of Speech">Duck Dynasty Firing: Trashes Free Speech</a></p>
+						<p class="post-title"><a href="http://www.storyleak.com/critical-phase-of-orange-county-child-abuse-court-proceedings/" rel="bookmark" title="Permanent Link to Critical Phase Of Orange County Child Abuse Court Proceedings">Critical CA Court Proceeding</a></p>
 
 						By Michael Thomas
 					</div>
@@ -554,10 +525,10 @@ Google Adsense</p>
 	</span> 
 
 	<span class="meta-date">
-		December 19, 2013	</span> 
+		June 26, 2014	</span> 
 
 		<span class="meta-comments">
-		 | <a href="http://www.storyleak.com/phil-robertsons-suspension-scariest-message-ever-sent-america/#comments" rel="bookmark" title="Comments for Phil Robertson’s Suspension: Chilling Effect on Freedom of Speech"><span class="IDCommentsReplace" style="display:none">4622</span>165 Comments<span style="display:none" id="IDCommentPostInfoPermalink4622">http%3A%2F%2Fwww.storyleak.com%2Fphil-robertsons-suspension-scariest-message-ever-sent-america%2F</span><span style="display:none" id="IDCommentPostInfoTitle4622">Phil+Robertson%27s+Suspension%3A+Chilling+Effect+on+Freedom+of+Speech</span><span style="display:none" id="IDCommentPostInfoTime4622">2013-12-20+02%3A01%3A49</span><span style="display:none" id="IDCommentPostInfoAuthor4622">Michael+Thomas</span><span style="display:none" id="IDCommentPostInfoGuid4622">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D4622</span></a>
+		 | <a href="http://www.storyleak.com/critical-phase-of-orange-county-child-abuse-court-proceedings/#comments" rel="bookmark" title="Comments for Critical Phase Of Orange County Child Abuse Court Proceedings"><span class="IDCommentsReplace" style="display:none">7027</span>29 Comments<span style="display:none" id="IDCommentPostInfoPermalink7027">http%3A%2F%2Fwww.storyleak.com%2Fcritical-phase-of-orange-county-child-abuse-court-proceedings%2F</span><span style="display:none" id="IDCommentPostInfoTitle7027">Critical+Phase+Of+Orange+County+Child+Abuse+Court+Proceedings</span><span style="display:none" id="IDCommentPostInfoTime7027">2014-06-26+20%3A59%3A13</span><span style="display:none" id="IDCommentPostInfoAuthor7027">Michael+Thomas</span><span style="display:none" id="IDCommentPostInfoGuid7027">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D7027</span></a>
 	</span>
 	 
 
@@ -571,7 +542,36 @@ Google Adsense</p>
 
 					<div class="entry clearfix">
 
-						<p class="post-title"><a href="http://www.storyleak.com/coroner-claims-ohio-man-murdered-police-custody-police-say-suicide/" rel="bookmark" title="Permanent Link to Coroner Claims Ohio Man Murdered In Police Custody, Police Say Suicide">Man Murdered In Police Custody</a></p>
+						<p class="post-title"><a href="http://www.storyleak.com/us-southwestern-borders-are-flung-wide-open-cui-bono/" rel="bookmark" title="Permanent Link to US Southwestern Borders Are Flung Wide Open: Cui Bono?">Border Collapse</a></p>
+
+						By Michael Thomas
+					</div>
+
+					<div class="meta">
+
+	<span class="meta-author">
+		<a href="http://www.storyleak.com/author/michaelthomas/" title="Posts by Michael Thomas" rel="author">Michael Thomas</a> | 
+	</span> 
+
+	<span class="meta-date">
+		June 26, 2014	</span> 
+
+		<span class="meta-comments">
+		 | <a href="http://www.storyleak.com/us-southwestern-borders-are-flung-wide-open-cui-bono/#comments" rel="bookmark" title="Comments for US Southwestern Borders Are Flung Wide Open: Cui Bono?"><span class="IDCommentsReplace" style="display:none">6976</span>77 Comments<span style="display:none" id="IDCommentPostInfoPermalink6976">http%3A%2F%2Fwww.storyleak.com%2Fus-southwestern-borders-are-flung-wide-open-cui-bono%2F</span><span style="display:none" id="IDCommentPostInfoTitle6976">US+Southwestern+Borders+Are+Flung+Wide+Open%3A+Cui+Bono%3F</span><span style="display:none" id="IDCommentPostInfoTime6976">2014-06-26+14%3A59%3A02</span><span style="display:none" id="IDCommentPostInfoAuthor6976">Michael+Thomas</span><span style="display:none" id="IDCommentPostInfoGuid6976">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D6976</span></a>
+	</span>
+	 
+
+</div>
+					<div style="clear:both;"></div>
+
+				</div>
+
+		
+				<div class="post">
+
+					<div class="entry clearfix">
+
+						<p class="post-title"><a href="http://www.storyleak.com/swat-team-refuses-public-records-request-says-were-not-a-government-agency/" rel="bookmark" title="Permanent Link to SWAT Team Refuses Public Records Request, Says ‘We’re Not a Government Agency’">SWAT Vs ACLU</a></p>
 
 						By Mikael Thalen
 					</div>
@@ -583,10 +583,10 @@ Google Adsense</p>
 	</span> 
 
 	<span class="meta-date">
-		December 19, 2013	</span> 
+		June 26, 2014	</span> 
 
 		<span class="meta-comments">
-		 | <a href="http://www.storyleak.com/coroner-claims-ohio-man-murdered-police-custody-police-say-suicide/#comments" rel="bookmark" title="Comments for Coroner Claims Ohio Man Murdered In Police Custody, Police Say Suicide"><span class="IDCommentsReplace" style="display:none">4604</span>72 Comments<span style="display:none" id="IDCommentPostInfoPermalink4604">http%3A%2F%2Fwww.storyleak.com%2Fcoroner-claims-ohio-man-murdered-police-custody-police-say-suicide%2F</span><span style="display:none" id="IDCommentPostInfoTitle4604">Coroner+Claims+Ohio+Man+Murdered+In+Police+Custody%2C+Police+Say+Suicide</span><span style="display:none" id="IDCommentPostInfoTime4604">2013-12-19+08%3A05%3A27</span><span style="display:none" id="IDCommentPostInfoAuthor4604">Mikael+Thalen</span><span style="display:none" id="IDCommentPostInfoGuid4604">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D4604</span></a>
+		 | <a href="http://www.storyleak.com/swat-team-refuses-public-records-request-says-were-not-a-government-agency/#comments" rel="bookmark" title="Comments for SWAT Team Refuses Public Records Request, Says ‘We’re Not a Government Agency’"><span class="IDCommentsReplace" style="display:none">6959</span>20 Comments<span style="display:none" id="IDCommentPostInfoPermalink6959">http%3A%2F%2Fwww.storyleak.com%2Fswat-team-refuses-public-records-request-says-were-not-a-government-agency%2F</span><span style="display:none" id="IDCommentPostInfoTitle6959">SWAT+Team+Refuses+Public+Records+Request%2C+Says+%27We%27re+Not+a+Government+Agency%27</span><span style="display:none" id="IDCommentPostInfoTime6959">2014-06-26+11%3A26%3A56</span><span style="display:none" id="IDCommentPostInfoAuthor6959">Mikael+Thalen</span><span style="display:none" id="IDCommentPostInfoGuid6959">http%3A%2F%2Fwww.storyleak.com%2F%3Fp%3D6959</span></a>
 	</span>
 	 
 
@@ -620,7 +620,7 @@ Google Adsense</p>
 
 					<div class="feature-video">
 						<div class="video">
-							<iframe width="300" height="250" src="http://www.youtube.com/embed/j3crAihdZ4A" frameborder="0"></iframe>
+							<iframe width="300" height="250" src="http://www.youtube.com/embed/A-itztD8myU" frameborder="0"></iframe>
 						</div>
 					</div>
 
@@ -629,7 +629,7 @@ Google Adsense</p>
 
 					<div class="feature-video">
 						<div class="video">
-							<iframe width="300" height="250" src="http://www.youtube.com/embed/q2czIwfF3Rk" frameborder="0"></iframe>
+							<iframe width="300" height="250" src="http://www.youtube.com/embed/bClE6-yAngg" frameborder="0"></iframe>
 						</div>
 					</div>
 
@@ -638,7 +638,7 @@ Google Adsense</p>
 
 					<div class="feature-video">
 						<div class="video">
-							<iframe width="300" height="250" src="http://www.youtube.com/embed/eFxbnSvlhBM" frameborder="0"></iframe>
+							<iframe width="300" height="250" src="http://www.youtube.com/embed/_84wKIJ758Y" frameborder="0"></iframe>
 						</div>
 					</div>
 
@@ -650,21 +650,21 @@ Google Adsense</p>
 			<ul class="flexslide-custom-controls youtube-custom-controls clearfix">
 
 				<li class="clearfix">
-					<a class="clearfix" href="#" title="Drug Companies Profiting From Mind Numbing Drugs">
-						<img class="yt-thumb" src="http://img.youtube.com/vi/j3crAihdZ4A/default.jpg" alt="Drug Companies Profiting From Mind Numbing Drugs" title="Drug Companies Profiting From Mind Numbing Drugs">
-						<span class="yt-title">Drug Companies Profiting From Mind Numbing Drugs</span>
+					<a class="clearfix" href="#" title="Unbelievable True Face of Anti-Gun Protesters">
+						<img class="yt-thumb" src="http://img.youtube.com/vi/A-itztD8myU/default.jpg" alt="Unbelievable True Face of Anti-Gun Protesters" title="Unbelievable True Face of Anti-Gun Protesters">
+						<span class="yt-title">Unbelievable True Face of Anti-Gun Protesters</span>
 					</a>
 				</li>
 				<li class="clearfix">
-					<a class="clearfix" href="#" title="Govt Attacks Churches Feeding Homeless">
-						<img class="yt-thumb" src="http://img.youtube.com/vi/q2czIwfF3Rk/default.jpg" alt="Govt Attacks Churches Feeding Homeless" title="Govt Attacks Churches Feeding Homeless">
-						<span class="yt-title">Govt Attacks Churches Feeding Homeless</span>
+					<a class="clearfix" href="#" title="Home Gun Confiscation Halted By Journalists">
+						<img class="yt-thumb" src="http://img.youtube.com/vi/bClE6-yAngg/default.jpg" alt="Home Gun Confiscation Halted By Journalists" title="Home Gun Confiscation Halted By Journalists">
+						<span class="yt-title">Home Gun Confiscation Halted By Journalists</span>
 					</a>
 				</li>
 				<li class="clearfix">
-					<a class="clearfix" href="#" title="Obama to Expand Presidential Limits?">
-						<img class="yt-thumb" src="http://img.youtube.com/vi/eFxbnSvlhBM/default.jpg" alt="Obama to Expand Presidential Limits?" title="Obama to Expand Presidential Limits?">
-						<span class="yt-title">Obama to Expand Presidential Limits?</span>
+					<a class="clearfix" href="#" title="The Medical Establishment's Number One Secret">
+						<img class="yt-thumb" src="http://img.youtube.com/vi/_84wKIJ758Y/default.jpg" alt="The Medical Establishment's Number One Secret" title="The Medical Establishment's Number One Secret">
+						<span class="yt-title">The Medical Establishment's Number One Secret</span>
 					</a>
 				</li>
 			</ul>
@@ -672,7 +672,7 @@ Google Adsense</p>
 
 	</div>
 
-</div></div></div><div id="text-7" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Daily Verse</span></h3>			<div class="textwidget">"As free, and not using your liberty for a cloke of maliciousness..." - 1 Peter 2:16</div>
+</div></div></div><div id="text-7" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>Daily Verse</span></h3>			<div class="textwidget">He gives strength to the weary and increases the power of the weak. - Isaiah 40:29</div>
 		</div></div><div id="text-11" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- StoryLeak/160x600_HP -->
 <div id="div-gpt-ad-1377733882721-0" style="width:160px; height:600px;">
 <script type="text/javascript">
@@ -716,18 +716,17 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1377733882721-0');
 <a href="http://www.youtube.com/user/Storyleak"> <img src="http://www.storyleak.com/wp-content/uploads/2013/02/youtube-button.png"></a>
 
 <a href="https://plus.google.com/u/0/b/116096468604149162635/116096468604149162635/posts"> <img src="http://www.storyleak.com/wp-content/uploads/2013/02/gplus-button.png"></a></div>
-		</div></div><!-- Wordpress Popular Posts Plugin v2.3.2 [W] [monthly] [regular] -->
+		</div></div><!-- Wordpress Popular Posts Plugin v2.3.7 [W] [monthly] [views] [regular] -->
 <div id="wpp-2" class="widget popular-posts"><div class="widget-wrap">
-<h3 class="widgettitle"><span>Popular Stories</span></h3><!-- Wordpress Popular Posts Plugin v2.3.2 [Widget] [monthly] [regular] -->
-<ul>
-<li><a href="http://www.storyleak.com/church-group-kicked-public-park-handing-thanksgiving-dinners-homeless/" title="Church Group Kicked Out Of Public Park For Handing Out Thanksgiving Dinners To Homeless" class="wpp-post-title">Church Group Kicked Out Of Public Park For Handing Out Thanksgiving Dinners To Homeless</a> <span class="post-stats"><span class="wpp-author">by Mikael Thalen</span> | <span class="wpp-date">posted on November 29, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/dhs-constitution-free-zones-us/" title="DHS ‘Constitution Free’ Zones Inside US Ignored By Media" class="wpp-post-title">DHS ‘Constitution Free’ Zones Inside US Ignored By Media</a> <span class="post-stats"><span class="wpp-author">by Anthony Gucciardi</span> | <span class="wpp-date">posted on August 5, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/obama-birth-certificate-confirmed-forgery-according-top-experts/" title="Obama Birth Certificate: Confirmed Forgery According To Top Experts" class="wpp-post-title">Obama Birth Certificate: Confirmed Forgery According To Top Experts</a> <span class="post-stats"><span class="wpp-author">by Michael Thomas</span> | <span class="wpp-date">posted on December 15, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/coroner-claims-ohio-man-murdered-police-custody-police-say-suicide/" title="Coroner Claims Ohio Man Murdered In Police Custody, Police Say Suicide" class="wpp-post-title">Coroner Claims Ohio Man Murdered In Police Custody, Police Say Suicide</a> <span class="post-stats"><span class="wpp-author">by Mikael Thalen</span> | <span class="wpp-date">posted on December 19, 2013</span></span></li>
+<h3 class="widgettitle"><span>Popular Stories</span></h3><ul class="wpp-list">
+<li><a href="http://www.storyleak.com/warrantless-surveillance-senate-four-years-fisa/" title="Warrantless Surveillance Renewed by Senate for Four More Years via FISA" class="wpp-post-title" target="_self">Warrantless Surveillance Renewed by Senate for Four More Years via FISA</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthonygucciardi/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on February 16, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/obama-promises-gun-control-legislation-priority-2013/" title="Obama Promises Gun Control Legislation 'Priority' for 2013" class="wpp-post-title" target="_self">Obama Promises Gun Control Legislation 'Priority' for 2013</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthonygucciardi/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on February 16, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/obama-signs-fisa-warrantless-wiretapping-legislation-extension/" title="Obama Signs FISA Warrantless Wiretapping Legislation Extension" class="wpp-post-title" target="_self">Obama Signs FISA Warrantless Wiretapping Legislation Extension</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthonygucciardi/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on February 16, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/fiscal-cliff-bill-raises-taxes-spends-330-billion-more/" title="Ridiculous 'Fiscal Cliff' Bill Actually Raises Taxes, Spends $330 Billion More" class="wpp-post-title" target="_self">Ridiculous 'Fiscal Cliff' Bill Actually Raises Taxes, Spends $330 Billion More</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/nirwin/">Nash Irwin</a></span> | <span class="wpp-date">posted on February 16, 2013</span></span></li>
 
 </ul>
 </div></div>
-<!-- End Wordpress Popular Posts Plugin v2.3.2 -->
+<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
 <div id="text-15" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><script type="text/javascript"><!--
 google_ad_client = "ca-pub-1587480397679187";
 /* SL */
@@ -739,30 +738,29 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div>
 		</div></div><div id="text-10" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="http://www.storyleak.com/interviews/"> <img src="http://www.storyleak.com/wp-content/uploads/2013/07/interviews.jpg"></a></div>
-		</div></div><!-- Wordpress Popular Posts Plugin v2.3.2 [W] [all] [regular] -->
+		</div></div><div id="text-17" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle"><span>We Support</span></h3>			<div class="textwidget"><a href="http://www.indiegogo.com/projects/patriot-badge"> <img src="http://www.storyleak.com/wp-content/uploads/2014/03/StoryleakAd.png"></a></div>
+		</div></div><!-- Wordpress Popular Posts Plugin v2.3.7 [W] [all] [avg] [regular] -->
 <div id="wpp-3" class="widget popular-posts"><div class="widget-wrap">
-<h3 class="widgettitle"><span>Constitution</span></h3><!-- Wordpress Popular Posts Plugin v2.3.2 [Widget] [all] [regular] -->
-<ul>
-<li><a href="http://www.storyleak.com/obama-birth-certificate-confirmed-forgery-according-top-experts/" title="Obama Birth Certificate: Confirmed Forgery According To Top Experts" class="wpp-post-title">Obama Birth Certificate: Confirmed Forgery According To Top Experts</a> <span class="post-stats"><span class="wpp-author">by Michael Thomas</span> | <span class="wpp-date">posted on December 15, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/massachusetts-policy-maker-proposes-mandatory-home-gun-safety-inspections/" title="Massachusetts Policy Maker Proposes Mandatory Home ‘Gun Safety’ Inspections" class="wpp-post-title">Massachusetts Policy Maker Proposes Mandatory Home ‘Gun Safety’ Inspections</a> <span class="post-stats"><span class="wpp-author">by Mikael Thalen</span> | <span class="wpp-date">posted on November 10, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/journalist-investigating-police-brutality-case-harassed-georgia-law-enforcement/" title="Journalist Harassed By Georgia Law Enforcement For Photographing Sheriff’s Building" class="wpp-post-title">Journalist Harassed By Georgia Law Enforcement For Photographing Sheriff’s Building</a> <span class="post-stats"><span class="wpp-author">by Mikael Thalen</span> | <span class="wpp-date">posted on December 24, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/are-you-living-in-fourth-amendment-exclusion-zone/" title="Are You Living in a Fourth Amendment Exclusion Zone?" class="wpp-post-title">Are You Living in a Fourth Amendment Exclusion Zone?</a> <span class="post-stats"><span class="wpp-author">by Anthony Gucciardi</span> | <span class="wpp-date">posted on February 24, 2013</span></span></li>
+<h3 class="widgettitle"><span>Constitution</span></h3><ul class="wpp-list">
+<li><a href="http://www.storyleak.com/cop-pulls-gun-elementary-school-kids-building-tree-fort/" title="Cop Pulls Gun On Fifth Graders Building Tree Fort" class="wpp-post-title" target="_self">Cop Pulls Gun On Fifth Graders Building Tree Fort</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/mikaelthalen/">Mikael Thalen</a></span> | <span class="wpp-date">posted on April 4, 2014</span></span></li>
+<li><a href="http://www.storyleak.com/conn-cop-gun-owning-veteran-wait-get-order-kick-door/" title="Conn. Cop: I Will Kick Down Doors To Confiscate Guns" class="wpp-post-title" target="_self">Conn. Cop: I Will Kick Down Doors To Confiscate Guns</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/mikaelthalen/">Mikael Thalen</a></span> | <span class="wpp-date">posted on March 10, 2014</span></span></li>
+<li><a href="http://www.storyleak.com/are-you-living-in-fourth-amendment-exclusion-zone/" title="Are You Living in a Fourth Amendment Exclusion Zone?" class="wpp-post-title" target="_self">Are You Living in a Fourth Amendment Exclusion Zone?</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthonygucciardi/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on February 24, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/obama-birth-certificate-confirmed-forgery-according-top-experts/" title="Obama Birth Certificate: Confirmed Forgery According To Top Experts" class="wpp-post-title" target="_self">Obama Birth Certificate: Confirmed Forgery According To Top Experts</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/michaelthomas/">Michael Thomas</a></span> | <span class="wpp-date">posted on December 15, 2013</span></span></li>
 
 </ul>
 </div></div>
-<!-- End Wordpress Popular Posts Plugin v2.3.2 -->
-<!-- Wordpress Popular Posts Plugin v2.3.2 [W] [all] [regular] -->
+<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
+<!-- Wordpress Popular Posts Plugin v2.3.7 [W] [all] [views] [regular] -->
 <div id="wpp-4" class="widget popular-posts"><div class="widget-wrap">
-<h3 class="widgettitle"><span>Money</span></h3><!-- Wordpress Popular Posts Plugin v2.3.2 [Widget] [all] [regular] -->
-<ul>
-<li><a href="http://www.storyleak.com/pentagon-prepping-large-scale-economic-breakdown/" title="Pentagon Prepping for ‘Large Scale Economic Breakdown’" class="wpp-post-title">Pentagon Prepping for ‘Large Scale Economic Breakdown’</a> <span class="post-stats"><span class="wpp-author">by Anthony Gucciardi</span> | <span class="wpp-date">posted on August 26, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/world-trade-center-owner-larry-silverstein-sues-airlines-billions-911/" title="World Trade Center Owner Larry Silverstein Sues Airlines for Billions Over 9/11 After $5 Billion Insurance Payment" class="wpp-post-title">World Trade Center Owner Larry Silverstein Sues Airlines for Billions Over 9/11 After $5 Billion Insurance Payment</a> <span class="post-stats"><span class="wpp-author">by Anthony Gucciardi</span> | <span class="wpp-date">posted on July 17, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/12-year-old-idaho-tax-commission-raspberry-stand/" title="12-Year-Old Targeted By Idaho Tax Commission For Raspberry Stand" class="wpp-post-title">12-Year-Old Targeted By Idaho Tax Commission For Raspberry Stand</a> <span class="post-stats"><span class="wpp-author">by Mikael Thalen</span> | <span class="wpp-date">posted on September 3, 2013</span></span></li>
-<li><a href="http://www.storyleak.com/how-to-buy-silver/" title="How to Buy Silver in 2013 and Beyond Without Getting Scammed" class="wpp-post-title">How to Buy Silver in 2013 and Beyond Without Getting Scammed</a> <span class="post-stats"><span class="wpp-author">by Anthony Gucciardi</span> | <span class="wpp-date">posted on July 29, 2013</span></span></li>
+<h3 class="widgettitle"><span>Money</span></h3><ul class="wpp-list">
+<li><a href="http://www.storyleak.com/pentagon-prepping-large-scale-economic-breakdown/" title="Pentagon Prepping for 'Large Scale Economic Breakdown'" class="wpp-post-title" target="_self">Pentagon Prepping for 'Large Scale Economic Breakdown'</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthony/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on August 26, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/how-to-buy-silver/" title="How to Buy Silver in 2013 and Beyond Without Getting Scammed" class="wpp-post-title" target="_self">How to Buy Silver in 2013 and Beyond Without Getting Scammed</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/anthonygucciardi/">Anthony Gucciardi</a></span> | <span class="wpp-date">posted on July 29, 2013</span></span></li>
+<li><a href="http://www.storyleak.com/dash-cam-footage-shows-nevada-deputy-extorting-50000-innocent-motorist/" title="Dash Cam Footage Shows Nevada Deputy Extorting $50,000 from Innocent Motorist" class="wpp-post-title" target="_self">Dash Cam Footage Shows Nevada Deputy Extorting $50,000 from Innocent Motorist</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/mikaelthalen/">Mikael Thalen</a></span> | <span class="wpp-date">posted on April 30, 2014</span></span></li>
+<li><a href="http://www.storyleak.com/drug-smuggling-dea-calls-marijuana-legalization-reckless-irresponsible/" title="Drug Smuggling DEA calls Marijuana Legalization 'Reckless and Irresponsible'" class="wpp-post-title" target="_self">Drug Smuggling DEA calls Marijuana Legalization 'Reckless and Irresponsible'</a> <span class="post-stats"><span class="wpp-author">by <a href="http://www.storyleak.com/author/mikaelthalen/">Mikael Thalen</a></span> | <span class="wpp-date">posted on January 16, 2014</span></span></li>
 
 </ul>
 </div></div>
-<!-- End Wordpress Popular Posts Plugin v2.3.2 -->
+<!-- End Wordpress Popular Posts Plugin v2.3.7 -->
 			</div>
 			
 
@@ -798,7 +796,7 @@ google_ad_height = 250;
 <li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1565 current_page_item menu-item-1568"><a href="http://www.storyleak.com/privacy-policy/">Privacy Policy</a></li>
 					</ul>
 				</div>
-						©  2013 Storyleak. All rights reserved. <a href="http://www.solostream.com" rel="nofollow">Theme by Solostream</a>.
+						©  2014 Storyleak. All rights reserved. <a href="http://www.solostream.com" rel="nofollow">Theme by Solostream</a>.
 		</div>
 	</div> <!-- End #footer div -->
 
