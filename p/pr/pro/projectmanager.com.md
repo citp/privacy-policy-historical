@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211070254id_/http%3A//www.projectmanager.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanager.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051854id_/http%3A//www.projectmanager.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Project Manager Online Ltd is committed to protecting the privacy of the personal information of individuals and companies we deal with.
+[Project Manager](https://web.archive.org/) Online Ltd is committed to protecting the privacy of the personal information of individuals and companies we deal with.
 
 ### Information gathered on this website
 
