@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815213449id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdegree.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628122742id_/http%3A//www.yourdegree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,6 +12,8 @@ Before you submit any information to Our Website, please read this Privacy Polic
 
 Individuals under the age of eighteen (18) should not send any information to Us. Each time you access Our Website, purchase a product or service from Us or provide information about yourself or anyone else, you are representing to Us that you are eighteen (18) years or older.
 
+I acknowledge that by providing my phone number  and submitting this form I may be contacted by YourDegree.com and/or 3rd party partners you choose on this site, via email, telephone, and/or text to the number provided using automated technology. I understand that consent is not a condition of purchase.
+
 Please review this Privacy Policy and contact Us with any questions at [Privacy@yourdegree.com](mailto:Privacy@yourdegree.com "Privacy@yourdegree.com").
 
 ## DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
@@ -24,13 +26,13 @@ Please review this Privacy Policy and contact Us with any questions at [Privacy@
 
 We are committed to providing valuable and efficient services. Part of that commitment includes the collection of information from the access and use of Our website. We keep this information for an indefinite amount of time to improve the operation of our site and to provide better services to our users. This Privacy Policy shall serve as notice of our intent to collect information including but not limited to:
 
-  1. We gather personally identifiable information that you expressly provide when you enter information into a form on Our Website including, without limitation, your name, mailing address, e-mail address, and other unique personal identifiers (e.g., date of birth) (“Personal Information”)..
-  2. We also collect anonymous information, which includes but is not limited to any information that is not tied to your Personal Information, such as your IP address (“Anonymous Information”).
-  3. We may receive information about you from other sources including, but not limited to, service providers for tracking and marketing purposes (“Source Information”). Source Information may consist of referral data or the Website you were previously visiting prior to visiting Our Website and information related to the browser and/or platform you are using to access Our Website. Personal Information, Anonymous Information, and Source Information are collectively referred hereinafter as “Information.”
+  1. We gather personally identifiable information that you expressly provide when you enter information into a form on Our Website including, without limitation, your name, mailing address, e-mail address, and other unique personal identifiers (e.g., date of birth) ("Personal Information")..
+  2. We also collect anonymous information, which includes but is not limited to any information that is not tied to your Personal Information, such as your IP address ("Anonymous Information").
+  3. We may receive information about you from other sources including, but not limited to, service providers for tracking and marketing purposes ("Source Information"). Source Information may consist of referral data or the Website you were previously visiting prior to visiting Our Website and information related to the browser and/or platform you are using to access Our Website. Personal Information, Anonymous Information, and Source Information are collectively referred hereinafter as "Information."
   4. In addition to the Information that you provide to Us or that We obtain about you, We will also collect certain information arising out of your use of Our Website, or augment the data We collect with other information from other online or offline sources.. 
-    1. We use “cookies" and the Information to enhance your experience and present you with personalized offers. We use cookies to provide usage statistics about our website, and to understand where visitors learn about our web site. We also may use cookies to simplify the re-entering of your data. Further We may set and access cookies on your computer to provide you with customized content and to assist in providing the services that you have requested.
+    1. We use "cookies" and the Information to enhance your experience and present you with personalized offers. We use cookies to provide usage statistics about our website, and to understand where visitors learn about our web site. We also may use cookies to simplify the re-entering of your data. Further We may set and access cookies on your computer to provide you with customized content and to assist in providing the services that you have requested.
     2. We may use third-party advertising companies to serve and track advertisements appearing on Our Website.
-  5. We collect Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings and content presented to you by Us and Our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings and content from Us, Our parent or sister companies and partners; (f) provide product improvement; (g) “pre-populate” forms; and (h) help offer you other products, programs, or services that may be of interest to you..
+  5. We collect Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings and content presented to you by Us and Our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings and content from Us, Our parent or sister companies and partners; (f) provide product improvement; (g) "pre-populate" forms; and (h) help offer you other products, programs, or services that may be of interest to you..
   6. We also reserve the right to collect and reuse Information about you for marketing purposes.
   7. We reserve the right to collect Information about you and store it in connection with other online or offline information We may possess or obtain about you. Such information may include, without limitation, information about the different sites that you visit on the Internet, the time and frequency at which you visit them, and the content that you transmit or post on other Websites.
 
@@ -51,14 +53,14 @@ We may in our sole discretion share Information and any and all collected inform
 
 Our business partners may contact you by telephone, e-mail, or mail based on the Information you provided to Us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of Our business partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.
 
-In the event You wish Us not to share you information as set forth in ii) or iii) above please see “Offering You Opt-Out Options” below for information on how to opt-out of sharing your Information. Notwithstanding the foregoing We reserve the right to share your information as described in i), iv), v) and vi) in our sole discretion.
+In the event You wish Us not to share you information as set forth in ii) or iii) above please see "Offering You Opt-Out Options" below for information on how to opt-out of sharing your Information. Notwithstanding the foregoing We reserve the right to share your information as described in i), iv), v) and vi) in our sole discretion.
 
 ## OFFERING YOU OPT-OUT OPTIONS
 
 You have choices when it comes to the use of Our Website, its Services and learning about new offers or services. When you use Our Website or Services and provide Us with your e-mail address, you consent to Our sending you certain information including newsletters and other material containing offers of products or services from Us, Our sister companies, or partners. If you do not wish to receive such communications from Us, Our sister companies or partners, you must follow one of the below methods to select an Opt-Out option whereby we will discontinue to send you information. By accessing and using Our website or Services, providing Us with your e-mail address and not selecting an Opt-out Option you agree neither US nor Our subsidiaries shall be liable for any damages whatsoever arising out of the use of collected information or providing and making contacts with You or Your company. You further agree and waive any rights you may have in contract or tort to seek or file a claim seeking recovery based upon our use or sharing of your information.
 
-  1. **E-mail Opt-out Options:** Each marketing e-mail We send includes instructions and an opt-out link.
-  2. **Refusing Cookies:** Subject to the section below pertaining to cookies and web bugs, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser’s instructions to perform this task.
+  1. **E-mail Opt-out Options:** Each marketing e-mail We send includes instructions and an opt-out link.  [You can also opt-out right here](http://unsubscribe.yourdegree.com/).
+  2. **Refusing Cookies:** Subject to the section below pertaining to cookies and web bugs, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task.
 
 The National Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. You can visit the NAI opt-out page and opt-out of this cookie tracking. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp>.
 
@@ -94,7 +96,7 @@ Any material you download from this site or its links is downloaded at your own 
 
 ## JURISDICTION
 
-By using this site, you irrevocably consent to the jurisdiction of the Swedish courts in any action taken to enforce these policies since the laws of Sweden govern them.
+By using this site, you irrevocably consent to the jurisdiction of Illinois courts in any action to enforce these policies. 
 
 ## OTHER
 
