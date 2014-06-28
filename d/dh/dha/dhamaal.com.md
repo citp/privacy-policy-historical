@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the dhamaal.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820140614id_/http%3A//www.dhamaal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhamaal.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628142535id_/http%3A//www.dhamaal.com/privacy_policy) for the most accurate reproduction.*
 
-# Dhamaal.com - Best Deals and Online Shopping for Mobiles, Tablets, Laptops, Watches, Clothes, Books and Cameras. Easy online Mobile/DTH recharge coupon codes
-
-## Privacy Policy
+# dhamaal
 
 **Salient Points**
 
-By visiting dhamaal.com you are accepting and agree to be bound by the terms and conditions of this Privacy Policy. 
-
-By using or continuing to use the site you agree to our use of your information (including sensitive personal information) in accordance with this Privacy Policy, as may be amended from time to time by dhamaal.com in its discretion. You also agree and consent to us collecting, storing, processing, transferring and sharing information (including sensitive personal information) related to you with third parties or service providers for the purposes as set out in this Privacy Policy.
+By visiting dhamaal.com you are accepting and agree to be bound by the terms and conditions of this Privacy Policy. By using or continuing to use the site you agree to our use of your information (including sensitive personal information) in accordance with this Privacy Policy, as may be amended from time to time by dhamaal.com in its discretion. You also agree and consent to us collecting, storing, processing, transferring and sharing information (including sensitive personal information) related to you with third parties or service providers for the purposes as set out in this Privacy Policy.
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
@@ -35,9 +31,13 @@ We do not share, sell, trade or rent your personal information to third parties 
 
 From time to time, we may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies certain features of the site may not function property or at all as a result. 
 
+**Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of** **cookies by third parties.**
+
 **Links**
 
 Our website contains links to other sites. Such other sites may use information about your visit to this website. Our Privacy Policy does not apply to practices of such sites that we do not own or control or to people we do not employ. Therefore, we are not responsible for the privacy practices or the accuracy or the integrity of the content included on such other sites. We encourage you to read the individual privacy statements of such websites.
+
+**We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.**
 
 **Security**
 
