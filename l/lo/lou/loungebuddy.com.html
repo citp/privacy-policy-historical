@@ -1,0 +1,860 @@
+<!--The following is the downloaded HTML source of the loungebuddy.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628172641id_/http%3A//www.loungebuddy.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 
+ 
+<meta name="p:domain_verify" content="70cf0cc44fe06d1eb2cc9dc62176dbcd">
+ 
+<meta name="msvalidate.01" content="CFED897BC9CC365F39D06605D1D47F3E">
+ 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=564416230300561"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NBMZC4"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+ 
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($) {
+    var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
+    var baseHref = '';
+    if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+ 
+    jQuery('a').on('click', function(event) {
+      var el = jQuery(this);
+      var track = true;
+      var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
+      var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+      if (!href.match(/^javascript:/i)) {
+        var elEv = []; elEv.value=0, elEv.non_i=false;
+        if (href.match(/^mailto\:/i)) {
+          elEv.category = "email";
+          elEv.action = "click";
+          elEv.label = href.replace(/^mailto\:/i, '');
+          elEv.loc = href;
+        }
+        else if (href.match(filetypes)) {
+          var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+          elEv.category = "download";
+          elEv.action = "click-" + extension[0];
+          elEv.label = href.replace(/ /g,"-");
+          elEv.loc = baseHref + href;
+        }
+        else if (href.match(/^https?\:/i) && !isThisDomain) {
+          elEv.category = "external";
+          elEv.action = "click";
+          elEv.label = href.replace(/^https?\:\/\//i, '');
+          elEv.non_i = true;
+          elEv.loc = href;
+        }
+        else if (href.match(/^tel\:/i)) {
+          elEv.category = "telephone";
+          elEv.action = "click";
+          elEv.label = href.replace(/^tel\:/i, '');
+          elEv.loc = href;
+        }
+        else track = false;
+ 
+        if (track) {
+          ga('send', 'event', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i);
+          if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+            setTimeout(function() { location.href = elEv.loc; }, 400);
+            return false;
+      }
+    }
+      }
+    });
+  });
+}
+</script>
+ 
+ 
+<script type="text/javascript">
+	
+	// http://www.javascriptobfuscator.com/Default.aspx
+	
+	jQuery(document).ready(function(){
+	
+		if((navigator.userAgent.match(/iPhone/i))||(navigator.userAgent.match(/iPod/i))||(navigator.userAgent.match(/iPad/i))||(navigator.userAgent.match(/Android/i))){
+			return;
+		}
+	
+		$(".download-link").attr("href", "#email-app-link");
+		$(".footer-cta-button a").attr("href", "#email-app-link");
+		$(".content-slider a").attr("href", "#email-app-link");
+			
+		$('a[href$="email-app-link"]').each(function(){
+            $(this).attr("onclick", "ga('send', 'pageview', {'page': '/email-app-link','title':'Email App Link'});" );
+        });	
+
+		$('a[href$="email-app-link-cancel"]').each(function(){
+            $(this).attr("onclick", "ga('send', 'pageview', {'page': '/email-app-link/cancel','title':'Email App Link Cancel'});" );
+        });	
+		
+		var submitForm = function() {
+			var email = $("#email-app-link-email").val();
+			
+			if (!email || email.length < 6) {
+				$("#email-app-link-error").text("Please enter a valid email address.");
+				$("#email-app-link-error").show();
+				return;
+			} else {
+				
+				var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				var validEmail = regex.test(email);
+				if (validEmail) {
+					$("#email-app-link-error").hide();				
+				} else {
+					$("#email-app-link-error").text("Please enter a valid email address.");
+					$("#email-app-link-error").show();
+					return;
+				}
+				
+			}
+
+			$("#email-app-link-content-loading").show();
+			$("#email-app-link-email").hide();
+			$("#email-app-link-content-submit").hide();
+			
+			$.ajax({
+				type: "POST",
+				url: "https://mandrillapp.com/api/1.0/messages/send.json",
+				data: {
+					'key': 'XlvwDUO6dC6KiSyUjJNsqA',
+					'message': {
+						'from_email': 'team@loungebuddy.com',
+						'to': [
+							{
+								'email': email,
+								'type': 'to'
+							}
+						],
+						'autotext': 'true',
+						'subject': 'Get the LoungeBuddy App',
+						'html': '<p>Hi,</p><p>Download the app here: http://www.loungebuddy.com/app</p><p>- Team LoungeBuddy.</p>'
+					}
+				}
+			}).done(function(response) {
+				
+				$("#email-app-link-content-loading").hide();
+				
+				var status = response[0].status
+				
+				if (status == "sent") {
+					ga('send', 'pageview', {'page': '/email-app-link/success','title':'Email App Link Success'});
+					$("#email-app-link-success").show();
+					$("#email-app-link-content-primary").hide();
+				} else {
+					$("#email-app-link-error").text("Error sending download link. Please try again.");
+					$("#email-app-link-error").show();
+					$("#email-app-link-email").show();
+					$("#email-app-link-content-submit").show();
+				}
+
+			});
+		};
+		
+		$('#email-app-link-form input').keydown(function(e) {
+		    if (e.keyCode == 13) {
+			    event.preventDefault();
+		    	submitForm();
+		    }
+		});
+		$("#email-app-link-link").click(function(){submitForm();});
+	});
+	
+</script>
+ 
+<script>(function(){
+  window._fbds = window._fbds || {};
+  _fbds.pixelId = 246905482147840;
+  var fbds = document.createElement('script');
+  fbds.async = true;
+  fbds.src = '//connect.facebook.net/en_US/fbds.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(fbds, s);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=246905482147840&amp;ev=NoScript"/></noscript>
+ 
+ 
+<title>Privacy Policy | LoungeBuddy</title>
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+ 
+<link rel="alternate" type="application/rss+xml" title="LoungeBuddy RSS" href="http://www.loungebuddy.com/feed/">
+<link rel="pingback" href="http://www.loungebuddy.com/xmlrpc.php">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.loungebuddy.com/wp-content/uploads/2013/11/favicon-32.ico">
+ 
+<link rel="canonical" href="http://www.loungebuddy.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - LoungeBuddy">
+<meta property="og:description" content="Effective date: June 19, 2013 Welcome to LoungeBuddy (“LoungeBuddy,” “we,” “us” or “our”). LoungeBuddy provides a fast, easy way to [...]">
+<meta property="og:url" content="http://www.loungebuddy.com/privacy-policy/">
+<meta property="og:site_name" content="LoungeBuddy">
+<meta property="article:published_time" content="2013-04-10T08:47:46+00:00">
+<meta property="article:modified_time" content="2013-09-17T16:52:53+00:00">
+ 
+<link rel="alternate" type="application/rss+xml" title="LoungeBuddy » Feed" href="http://www.loungebuddy.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="LoungeBuddy » Comments Feed" href="http://www.loungebuddy.com/comments/feed/">
+<link rel="stylesheet" id="flick-css" href="http://www.loungebuddy.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://www.loungebuddy.com/?mcsf_action=main_css&amp;ver=3.9" type="text/css" media="all">
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.loungebuddy.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.9' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="wpfb-css" href="http://www.loungebuddy.com/wp-content/plugins/wp-filebase/wp-filebase_css.php?rp=wp-content%2Fuploads%2Ffilebase&amp;ver=0.2.9.37" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.loungebuddy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="digg-digg-css" href="http://www.loungebuddy.com/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6" type="text/css" media="screen">
+<link rel="stylesheet" id="rs-settings-css" href="http://www.loungebuddy.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="rs-captions-css" href="http://www.loungebuddy.com/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="scroll-triggered-boxes-css" href="http://www.loungebuddy.com/wp-content/plugins/scroll-triggered-boxes/assets/css/styles.css?ver=1.1.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="prefix-style-css" href="http://www.loungebuddy.com/wp-content/plugins/spider-faq/elements/style.css?ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-font-0-css" href="http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-pretty-photo-css" href="http://www.loungebuddy.com/wp-content/themes/mineral/css/prettyPhoto.css?ver=1.4.0" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-stylesheet-css" href="http://www.loungebuddy.com/wp-content/themes/mineral/style.css?ver=1.4.0" type="text/css" media="all">
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='pexeto-ie8-css'  href='http://www.loungebuddy.com/wp-content/themes/mineral/css/style_ie8.css?ver=1.4.0' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="tablepress-default-css" href="http://www.loungebuddy.com/wp-content/tablepress-combined.min.css?ver=26" type="text/css" media="all">
+<link rel="stylesheet" id="tiptipcss-css" href="http://www.loungebuddy.com/wp-content/plugins/pricing-table/css/site/tipTip.css?ver=3.9" type="text/css" media="all">
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.2.14"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.32.0-2013.04.03"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/www.loungebuddy.com\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.14"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/spider-faq/elements/effects.core.packed.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/spider-faq/elements/jquery.scrollTo.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/spider-faq/elements/loewy_blog.js?ver=3.9"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/pricing-table/js/site/jquery.tipTip.minified.js?ver=3.9"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.loungebuddy.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.loungebuddy.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="http://www.loungebuddy.com/?p=24">
+<link rel="stylesheet" type="text/css" href="http://www.loungebuddy.com/wp-content/plugins/confident-captcha/confidentCaptcha.css"><meta property="fb:app_id" content="564416230300561">
+<meta property="fb:admins" content="820550522">
+<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').datepicker({
+				autoFocusNextInput: true,
+				constrainInput: false,
+				changeMonth: true,
+				changeYear: true,
+				beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+				dateFormat: 'yy/mm/dd',
+			});
+
+			d = new Date();
+			$('.birthdate-pick').datepicker({
+				autoFocusNextInput: true,
+				constrainInput: false,
+				changeMonth: true,
+				changeYear: false,
+				minDate: new Date(d.getFullYear(), 1-1, 1),
+				maxDate: new Date(d.getFullYear(), 12-1, 31),
+				beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+				dateFormat: 'mm/dd',
+			});
+
+
+		});
+	</script>
+<meta name="robots" content="index, follow">
+ 
+<style type="text/css">#logo-container img{width:203px;}#logo-container img{height:50px;}button,.button,input[type="submit"],input[type="button"],#submit,.page-title,#menu>ul>li>a:hover:after,.scroll-to-top:hover,.nivo-nextNav:hover,.nivo-prevNav:hover,.pg-navigation,.pc-next,.pc-prev,.nivo-prevNav:hover,.nivo-nextNav:hover,.left-arrow:hover,.right-arrow:hover,.ps-left-arrow:hover,.ps-right-arrow:hover,.cs-next-arrow:hover,.cs-prev-arrow:hover,.ps-left-arrow:hover,.ps-right-arrow:hover{background-color:#25ae6a;}a:hover,.tabs .current a,.read-more,.footer-widgets a:hover,.comment-info .reply,.comment-info .reply a,.comment-info,#menu ul li a:hover,#wp-calendar tbody td a,.widget_nav_menu li.current-menu-item>a,.post-title a:hover,.post-tags a,.services-list .services-title,.sl-icons li:hover .sl-title,.archive-page a:hover,.pg-pagination a.current,.pg-pagination a:hover,#content-container .wp-pagenavi span.current,#content-container .wp-pagenavi a:hover,.carousel-title .link-title,.testimonials-details a,.lp-title a:hover,#menu ul ul li.current-menu-item a{color:#25ae6a;}.accordion-title.current,.read-more:hover,.more-arrow,.sticky,.social-icons li:hover,.format-quote,.format-aside,.nivo-nextNav:hover,.nivo-prevNav:hover,.nivo-prevNav:hover,.nivo-nextNav:hover,.left-arrow:hover,.right-arrow:hover,.ps-left-arrow:hover,.ps-right-arrow:hover,.cs-next-arrow:hover,.cs-prev-arrow:hover,.ps-left-arrow:hover,.ps-right-arrow:hover{border-color:#25ae6a;}.pg-info,.services-circle .services-content,.qg-overlay{background-color:rgba(37,174,106,0.82);}a,body,#content-container .wp-pagenavi a,#content-container .wp-pagenavi span.pages,#content-container .wp-pagenavi span.current,#content-container .wp-pagenavi span.extend,input[type="text"],input[type="password"],textarea,input[type="search"],#menu ul li a,.services-title-box,.services-box,.no-caps,.small-title span,.pg-item h2,.pg-pagination a,.comment-date,.lp-title a,.qg-title,.archive-page a,.sidebar-box .recentcomments a,#menu .current-menu-parent a,#menu .current-menu-ancestor a,#menu li:hover a,#menu .current-menu-parent a,#menu .current-menu-ancestor a,#menu ul .current-menu-item a,.post-info,.post-info a,.sidebar-box li>a{color:#555555;}.footer-bottom{display:none!important;}#footer{background-color:#fff;}#slider-container .full-bg-image{background-attachment:local!important;}#slider-container h1{color:#fff;font-size:2.5em;font-weight:100;letter-spacing:-0.01em}#home-page .infoblock{display:block;border-top:1px solid #ddd;height:500px;background:url("http://www.loungebuddy.com/wp-content/uploads/2013/04/shadow-50.png") top repeat-x;}#home-page .inner-content{display:table;height:450px}#home-page .inner-content div{display:table-cell;vertical-align:middle;}#home-page img{width:320px;height:380px;display:block;background:#25ae6a;display:table-cell;margin:60px 140px 60px 140px;}#home-page h2{clear:none;color:#25ae6a!important;font-size:2.2em;font-weight:100;}#home-page .image-left{float:left;}#home-page .image-right{float:right;}#slider-container a{font-size:2.2em;line-height:1.8em;letter-spacing:0.0em;text-transform:none;font-weight:300;width:12em;}#home-page a,.footer-cta-button a{font-size:1.4em;line-height:1.6em;letter-spacing:0.15em;text-transform:none;font-weight:300;width:12em;}#home-page p{font-weight:200;font-size:1.1em;}#slider-container{height:590px;}@-webkit-keyframes bluranimation {
+	from {    
+		-webkit-filter: blur(0px);
+		-moz-filter: blur(0px);
+		-o-filter: blur(0px);
+		-ms-filter: blur(0px);
+		filter: blur(0px);
+	}to{-webkit-filter:blur(15px);-moz-filter:blur(10px);-o-filter:blur(10px);-ms-filter:blur(10px);filter:blur(10px);}
+}
+
+/* Standard syntax */
+@keyframes bluranimation {
+	from {    
+		-webkit-filter: blur(0px);
+		-moz-filter: blur(0px);
+		-o-filter: blur(0px);
+		-ms-filter: blur(0px);
+		filter: blur(0px);
+	}
+	to {    
+		-webkit-filter: blur(15px);
+	    -moz-filter: blur(10px);
+	    -o-filter: blur(10px);
+	    -ms-filter: blur(10px);
+	    filter: blur(10px);
+	}
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes blackanimation {to {background-color: rgba(0,0,0,0.9);}}
+
+/* Standard syntax */
+@keyframes blackanimation {to {background-color: rgba(0,0,0,0.9);}}
+
+
+@-webkit-keyframes fadeIn {to { opacity:1; } }
+@-moz-keyframes fadeIn {to { opacity:1; } }
+@-o-keyframes fadeIn {to { opacity:1; } }
+@keyframes fadeIn {to { opacity:1; } }
+
+#email-app-link {
+	display: none;
+	position: fixed;
+	z-index: 9999999;
+	width: 100%;
+	height: 100%;
+	
+}
+
+#email-app-link:target {
+	display: block;
+	-webkit-animation: blackanimation 0.5s 0s forwards; /* Chrome, Safari, Opera */
+	animation: blackanimation 0.5s 0s forwards;
+}
+
+#email-app-link-content {
+	opacity: 0;
+}
+
+#email-app-link:target #email-app-link-content {
+   -moz-animation: fadeIn 0.5s 0.5s forwards;
+	-webkit-animation: fadeIn 0.5s 0.5s forwards; /* Chrome, Safari, Opera */
+	animation: fadeIn 0.5s 0.5s forwards;
+}
+
+#email-app-link #email-app-link-content #email-app-link-content-primary {
+	font-weight: 100;
+	font-size: 2em;
+	padding: 1em 0;
+}
+
+#email-app-link #email-app-link-content #email-app-link-content-submit {
+	padding: 1em 0;
+	font-weight: 600;
+}
+
+#email-app-link #email-app-link-content input {
+	line-height: 1.1em;
+	font-size: 2em;
+	letter-spacing: 0.1em;
+	background: transparent;
+	border: 2px #0dc069 solid;
+	color: #0dc069;
+	padding: 0.5em;
+	width:80%;
+	max-width: 600px;
+	text-align: center;
+}
+
+#email-app-link #email-app-link-link {
+	line-height: 1.4em;
+	font-size: 2em;
+	letter-spacing: 0.1em;
+	color: #0dc069;
+}
+
+#email-app-link-link {
+	background: none;
+border  : 0px;
+margin      : 0px;
+padding     : 0px;
+}
+
+#email-app-link-content-loading, #email-app-link-error, #email-app-link-success {
+	display: none;
+}
+
+#email-app-link-error {
+	color:#c8404c;
+	font-weight: 600;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	margin-top: 0.5em;
+}
+
+#email-app-link-success {
+	color:#29a9f3;
+	font-weight: 600;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	margin-top: 2.5em;
+}
+
+#email-app-link-content-loader {
+	width: 24px;
+	height: 24px;
+	margin: auto;
+}
+
+#email-app-link-content-loading {
+	text-align: center;
+}
+
+#email-app-link #email-app-link-content hr {
+	height: 1px;
+	border-color:rgba(255,255,255,0.3);
+	background-color:rgba(255,255,255,0.3);
+	color:rgba(255,255,255,0.3);
+	max-width: 600px;
+	border:0;
+		margin: 2em auto;
+/* 	text-align:center; */
+
+}
+
+#email-app-link-content-appstore img {
+	height: 40px;
+	padding: 1em;
+}
+
+#email-app-link #email-app-link-content {
+	margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  height: 600px;
+  width:80%;
+  text-align: center;
+  color: #fff;
+  }
+  
+#email-app-link-logo { 
+	width: 80%;
+	max-width: 600px;
+}
+
+#email-app-link-close {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+#email-app-link-close img {
+	width: 32px;
+	height: 32px;
+}
+
+
+
+#email-app-link #email-app-link-inner {
+
+	display: block;
+	width: 100%;
+	height: 100%;
+	
+}
+</style><meta name="apple-itunes-app" content="app-id=674176920">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40878260-1', 'loungebuddy.com');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 987060154;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987060154/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NBMZC4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBMZC4');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+<body class="page page-id-24 page-template-default">
+
+<!-- Begin LB Changes -->
+<style type="text/css"><!--
+#email-app-link-content-appstore img {
+height: 100%;
+}
+.iosstore {
+float: none !important;
+}
+--></style>
+<div id="email-app-link">
+			<a href="#email-app-link-cancel" title="Close" id="email-app-link-close"><img src="http://www.loungebuddy.com/wp-content/uploads/2014/05/cancel.png"></a>
+	<div id="email-app-link-inner">
+		<div id="email-app-link-content">
+			<p>
+			<img src="http://www.loungebuddy.com/wp-content/uploads/2014/04/loungebuddy-white-trans-241.png" id="email-app-link-logo">
+			</p>
+
+			<p id="email-app-link-content-primary">
+				Enter your email and we'll send you a link:
+			</p>
+
+			<p id="email-app-link-content-loading">
+				<img src="http://www.loungebuddy.com/wp-content/uploads/2014/05/image_647479.gif" id="email-app-link-content-loader">
+			</p>
+			<form action="" id="email-app-link-form">
+  			<input type="email" placeholder="Enter your email..." id="email-app-link-email">
+
+			<div id="email-app-link-error">Error Message</div>
+			<div id="email-app-link-success">You'll receive an email shortly. Open the link on your device to download LoungeBuddy.</div>
+			
+			<p id="email-app-link-content-submit">		
+				<button type="submit" id="email-app-link-link">Email me a link ›</button>
+			</p>
+			
+			</form>
+			<hr>
+			<p id="email-app-link-content-appstore"><a href="https://itunes.apple.com/us/app/loungebuddy-find-airport-lounges/id674176920?mt=8">
+<img data-cfsrc="http://i.imgur.com/yP13E0B.png" alt="app-store-badge" width="255" class="iosstore" src="http://i.imgur.com/yP13E0B.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.loungebuddy.playstore"><img data-cfsrc="http://i.imgur.com/xTmQKDw.png" alt="google-play-button" width="255" src="http://www.loungebuddy.com/wp-content/uploads/2014/04/google-play-button.png"></a></p>
+			
+		</div>
+	</div>
+</div>
+
+<!-- End LB Changes -->
+
+<div id="main-container">
+	<div class="page-wrapper">
+		<!--HEADER -->
+		<div id="header">
+			<div class="section-boxed section-header">
+			<div id="logo-container">
+								<a href="http://www.loungebuddy.com"><img src="http://www.loungebuddy.com/wp-content/uploads/2013/09/lb-website1.png"></a>
+			</div>	
+				<div id="social-profiles"><ul class="social-icons">
+		<li>
+		<a href="http://www.facebook.com/loungebuddy" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/facebook.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="http://www.twitter.com/loungebuddy" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/twitter.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="https://plus.google.com/+Loungebuddy/" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/googleplus.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="http://instagram.com/loungebuddy" target="_blank" title="LoungeBuddy\'s Instagram">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/instagram.png" alt="">
+			</div>
+		</a>
+	</li>
+		</ul></div>
+		
+	        <div class="mobile-nav">
+				<span class="mob-nav-btn">Menu</span>
+			</div>
+	 		<div id="navigation-container">
+				<div id="menu-container">
+		        	<div id="menu">
+					<ul id="menu-main-menu" class="menu"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.loungebuddy.com/">About</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="http://www.loungebuddy.com/about/team/">Team</a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a href="http://www.loungebuddy.com/android/">Android</a></li>
+<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://www.loungebuddy.com/support/">Support</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://www.loungebuddy.com/blog/">Blog</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.loungebuddy.com/contact/">Contact</a></li>
+<li id="menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212"><a href="http://www.loungebuddy.com/press/">Press</a></li>
+</ul>					</div>
+		        </div> 
+	  	 	</div> 
+	 
+		    <div class="clear"></div>       
+		    <div id="navigation-line"></div>
+		</div>
+		</div><!-- end #header -->
+	<div class="page-title">
+		<div class="content-boxed">
+			<h1>Privacy Policy</h1>
+					</div>
+	</div>
+
+<div id="content-container" class="content-boxed layout-full">
+<div id="full-width">
+<p dir="ltr">Effective date: June 19, 2013</p>
+<p dir="ltr">Welcome to LoungeBuddy (“LoungeBuddy,” “we,” “us” or “our”). LoungeBuddy provides a fast, easy way to find airport lounges, explore amenities, understand access requirements, and share your airport lounge experiences with photos, reviews, and ratings.</p>
+<p dir="ltr">§ &nbsp;Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with LoungeBuddy services (collectively, the “Service”), and your choices about the collection and use of your information.</p>
+<p dir="ltr">§ &nbsp;By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials (“User Content”), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use.</p>
+<p dir="ltr">§ &nbsp;Our Policy applies to all visitors, users, and others who access the Service (“Users”).</p>
+<p dir="ltr">Click on the links below to jump to each section of this Policy:</p>
+<p dir="ltr">
+</p><p dir="ltr">INFORMATION WE COLLECT</p>
+<p dir="ltr">We collect the following types of information.</p>
+<p dir="ltr">Information you provide us directly:</p>
+<p dir="ltr">§ &nbsp;Your username, password and e-mail address when you register for a LoungeBuddy account.</p>
+<p dir="ltr">§ &nbsp;Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows us to help you or others be “found” on LoungeBuddy.</p>
+<p dir="ltr">§ &nbsp;User Content (e.g., photos, comments, and other materials) that you post to the Service.</p>
+<p dir="ltr">§ &nbsp;Communications between you and LoungeBuddy. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note: you may not opt out of Service-related e-mails.</p>
+<p dir="ltr">Finding your friends on LoungeBuddy:</p>
+<p dir="ltr">§ &nbsp;Note about “Invite Friends” feature: If you choose to invite someone to the Service, you may select a person directly from the contacts list on your device and send a text or email from your personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your personal account, LoungeBuddy does not have access to or control this communication.</p>
+<p dir="ltr">Analytics information:</p>
+<p dir="ltr">§ &nbsp;We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.</p>
+<p dir="ltr">Cookies and similar technologies:</p>
+<p dir="ltr">§ &nbsp;When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use LoungeBuddy and provide features to you.</p>
+<p dir="ltr">§ &nbsp;We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.</p>
+<p dir="ltr">Log file information:</p>
+<p dir="ltr">§ &nbsp;Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.</p>
+<p dir="ltr">§ &nbsp;When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.</p>
+<p dir="ltr">Device identifiers:</p>
+<p dir="ltr">§ &nbsp;When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by LoungeBuddy.</p>
+<p dir="ltr">§ &nbsp;A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.</p>
+<p dir="ltr">Metadata:</p>
+<p dir="ltr">§ &nbsp;Metadata is usually technical data that is associated with User Content. For example, Metadata can describe how, when and by whom a piece of User Content was collected and how that content is formatted.</p>
+<p dir="ltr">§ &nbsp;We may add or may have Metadata added to User Content including a hashtag, geotag (e.g., to mark your location to a photo), comments or other data. This makes your User Content more searchable by others and more interactive. If your image has a geotag your photo, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature).</p>
+<p dir="ltr">2. HOW WE USE YOUR INFORMATION</p>
+<p dir="ltr">In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:</p>
+<p dir="ltr">§ &nbsp;help you efficiently access your information after you sign in</p>
+<p dir="ltr">§ &nbsp;remember information so you will not have to re-enter it during your visit or the next time you visit the Service;</p>
+<p dir="ltr">§ &nbsp;provide personalized content and information to you and others, which could include online ads or other forms of marketing</p>
+<p dir="ltr">§ &nbsp;provide, improve, test, and monitor the effectiveness of our Service</p>
+<p dir="ltr">§ &nbsp;develop and test new products and features</p>
+<p dir="ltr">§ &nbsp;monitor metrics such as total number of visitors, traffic, and demographic patterns</p>
+<p dir="ltr">§ &nbsp;diagnose or fix technology problems</p>
+<p dir="ltr">§ &nbsp;automatically update the LoungeBuddy application on your device. LoungeBuddy or other Users may run contests, special offers or other events or activities (“Events”) on the Service. If you do not want to participate in an Event, send an email to support@loungebuddy.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script> with your username and/or email address associated with your account.</p>
+<p dir="ltr">3. SHARING OF YOUR INFORMATION</p>
+<p dir="ltr">We will not rent or sell your information to third parties outside LoungeBuddy without your consent, except as noted in this Policy.</p>
+<p dir="ltr">Parties with whom we may share your information:</p>
+<p dir="ltr">§ &nbsp;We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that LoungeBuddy is part of, or that become part of that group (“Affiliates”). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates’ own services (including by providing you with better and more relevant experiences).</p>
+<p dir="ltr">§ &nbsp;We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you (“Service Providers”). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.</p>
+<p dir="ltr">§ &nbsp;We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.</p>
+<p dir="ltr">§ &nbsp;We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.</p>
+<p dir="ltr">Parties with whom you may choose to share your User Content:</p>
+<p dir="ltr">§ &nbsp;Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. Once you have shared User Content or made it public, that User Content may be re-shared by others.</p>
+<p dir="ltr">§ &nbsp;Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users.</p>
+<p dir="ltr">§ &nbsp;If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service.</p>
+<p dir="ltr">What happens in the event of a change of control:</p>
+<p dir="ltr">§ &nbsp;If we sell or otherwise transfer part or the whole of LoungeBuddy or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.</p>
+<p dir="ltr">Responding to legal requests and preventing harm:</p>
+<p dir="ltr">§ &nbsp;We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.</p>
+<p dir="ltr">4. HOW WE STORE YOUR INFORMATION</p>
+<p dir="ltr">Storage and Processing:</p>
+<p dir="ltr">§ &nbsp;Your information collected through the Service may be stored and processed in the United States or any other country in which LoungeBuddy, its Affiliates or Service Providers maintain facilities.</p>
+<p dir="ltr">§ &nbsp;LoungeBuddy, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.</p>
+<p dir="ltr">§ &nbsp;By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which LoungeBuddy, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.</p>
+<p dir="ltr">§ &nbsp;We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, LoungeBuddy cannot ensure the security of any information you transmit to LoungeBuddy or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.</p>
+<p dir="ltr">§ &nbsp;Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and LoungeBuddy, at all times. Your privacy settings may also be affected by changes the social media services you connect to LoungeBuddy make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.</p>
+<p dir="ltr">5. YOUR CHOICES ABOUT YOUR INFORMATION</p>
+<p dir="ltr">Your account information and profile/privacy settings:</p>
+<p dir="ltr">§ &nbsp;Update your account at any time by logging in and changing your profile settings.</p>
+<p dir="ltr">§ &nbsp;Unsubscribe from email communications from us by clicking on the “unsubscribe link” provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).</p>
+<p dir="ltr">§ &nbsp;If you have any questions about reviewing or modifying your account information, please contact us directly at support@loungebuddy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></p>
+<p dir="ltr">How long we keep your User Content:</p>
+<p dir="ltr">§ &nbsp;Following termination or deactivation of your account, LoungeBuddy, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.</p>
+<p dir="ltr">§ &nbsp;Any photos you publically submit to the Service will be kept and displayed on the Service (or displayed in the future) unless you specifically request to have these images removed. &nbsp;To request image removal, you must send an email to support@loungebuddy.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script> along with the email address you provided when you submitted the image(s).</p>
+<p dir="ltr">§ &nbsp;If you have any questions about termination or deactivation of your account, please contact us directly at support@loungebuddy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></p>
+<p dir="ltr">6. CHILDREN’S PRIVACY</p>
+<p dir="ltr">LoungeBuddy does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@loungebuddy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></p>
+<p dir="ltr">7. OTHER WEB SITES AND SERVICES</p>
+<p dir="ltr">We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and you allow them to access your User Content you do so at your own risk.</p>
+<p dir="ltr">8. HOW TO CONTACT US ABOUT A DECEASED USER</p>
+<p dir="ltr">In the event of the death of an LoungeBuddy User, please send us an email to the following email address: support@loungebuddy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script> We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.</p>
+<p dir="ltr">9. HOW TO CONTACT US</p>
+<p dir="ltr">If you have any questions about this Privacy Policy or the Service, please contact us at support@loungebuddy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></p>
+<p dir="ltr">10. CHANGES TO OUR PRIVACY POLICY</p>
+<p dir="ltr">LoungeBuddy may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of LoungeBuddy or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.</p>
+</div> <!-- end main content holder (#content/#full-width) -->
+<div class="clear"></div>
+</div> <!-- end #content-container -->
+</div>
+<div id="footer" class="center">
+		<div class="scroll-to-top"><span></span></div>
+	
+		<div id="footer-cta">
+		<div class="section-boxed">
+		<div class="footer-cta-first"><h5>Available for the iPhone &amp; Android</h5></div>
+		<div class="footer-cta-disc"><p>LoungeBuddy is available in the App Store for your iPhone and Play store for Android. Create a profile and manage your reviews, photos, and access methods.</p></div>
+				<div class="footer-cta-button">
+			<a href="http://www.loungebuddy.com/app" class="button">Get the App</a>
+		</div>
+				<div class="clear"></div>
+	</div>
+	</div>
+		<div class="cols-wrapper footer-widgets section-boxed cols-1">
+	<div class="col nomargin"><div class="footer-box widget_xyz_insert_html_widget" id="xyz_insert_html_widget-4"><style type="text/css">
+	
+	#footer-links {
+		color:#777;
+		font-weight: 600;
+	}
+	
+	#footer-links a {
+		color:#777;
+		font-weight: 600;
+		padding:0 7px 0 7px;
+		line-height: 3em;
+	}
+	
+	#footer-links a:hover {
+		text-decoration: underline !important;
+	}
+	
+	#footer-menu-links {
+		float: right;
+	}
+	
+</style>
+
+<hr>
+<div id="footer-links">
+	<div id="footer-menu-links">
+		<a href="http://www.loungebuddy.com/" title="What is LoungeBuddy?">About</a>
+		<a href="http://www.loungebuddy.com/android/" title="LoungeBuddy on Android">Android</a>
+		<a href="http://www.loungebuddy.com/about/team/" title="Who's behind LoungeBuddy?">Team</a>
+		<a href="http://www.loungebuddy.com/support/" title="LoungeBuddy Help and Support" rel="nofollow">Support</a>  
+		<a href="http://www.loungebuddy.com/blog/" title="LoungeBuddy Blog">Blog</a>  
+		<a href="http://www.loungebuddy.com/contact/" title="Contact LoungeBuddy" rel="nofollow">Contact</a>  
+	</div>
+
+	<div id="footer-terms-links">
+		© 2014 LoungeBuddy, Inc.
+		<a href="http://www.loungebuddy.com/privacy-policy/" title="LoungeBuddy Privacy Policy" rel="nofollow">Privacy</a>  
+		<a href="http://www.loungebuddy.com/terms-of-use/" title="LoungeBuddy Terms of Use" rel="nofollow">Terms</a>  
+	</div>
+</div>
+<hr></div></div>	</div>
+	<div class="footer-bottom">
+	<div class="section-boxed">
+<span class="copyrights">
+© Copyright LoungeBuddy</span>
+<div class="footer-nav">
+</div>
+
+	<div id="social-profiles"><ul class="social-icons">
+		<li>
+		<a href="http://www.facebook.com/loungebuddy" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/facebook.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="http://www.twitter.com/loungebuddy" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/twitter.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="https://plus.google.com/+Loungebuddy/" target="_blank">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/googleplus.png" alt="">
+			</div>
+		</a>
+	</li>
+		<li>
+		<a href="http://instagram.com/loungebuddy" target="_blank" title="LoungeBuddy\'s Instagram">
+			<div>
+				<img src="http://www.loungebuddy.com/wp-content/themes/mineral/images/icons/instagram.png" alt="">
+			</div>
+		</a>
+	</li>
+		</ul></div>
+	
+</div>
+</div>
+</div> <!-- end #footer-->
+</div> <!-- end #main-container -->
+
+
+<!-- FOOTER ENDS -->
+
+        <script language="JavaScript"> 
+          jQuery(function(){
+                        jQuery(".wppttip").tipTip({defaultPosition:'right'});
+                    });
+         
+        </script>
+    <script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.loungebuddy.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.1"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
+<script type="text/javascript" src="http://www.loungebuddy.com/wp-content/themes/mineral/js/main.js?ver=1.4.0"></script>
+<script type="text/javascript">var PEXETO = PEXETO || {};PEXETO.ajaxurl="http://www.loungebuddy.com/wp-admin/admin-ajax.php";PEXETO.lightboxOptions = {"theme":"pp_default","animation_speed":"normal","overlay_gallery":false,"allow_resize":true};PEXETO.disableRightClick=false;PEXETO.stickyHeader=false;jQuery(document).ready(function($){
+					PEXETO.init.initSite();$(".pexeto-contact-form").each(function(){
+			$(this).pexetoContactForm({"wrongCaptchaText":"The text you have entered did not match the text on the image. Please try again.","failText":"An error occurred. Message not sent.","validationErrorText":"Please complete all the fields correctly","messageSentText":"Message sent"});
+		});});</script><!-- Facebook Comments for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=564416230300561";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body></html>
