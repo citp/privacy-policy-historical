@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231233013id_/http%3A//www2.schneider-electric.com/sites/corporate/en/general/legal-information/legal-information.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628194638id_/http%3A//www2.schneider-electric.com/sites/corporate/en/general/legal-information/legal-information.page) for the most accurate reproduction.*
 
 # Data Privacy Statement-Schneider Electric
 
