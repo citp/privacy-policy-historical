@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204204338id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050531id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
@@ -21,7 +21,7 @@
 
 ## GameFly Online Privacy Policy
 
-GameFly, Inc. and GameFly Digital, Inc. (collectively, "GameFly," "we" or "us") respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this "Privacy Policy") provides information about how we collect, store, disclose and use information. Please also review our online Terms of Use, which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites ([www.gamefly.com](http://www.gamefly.com/), [www.gamefly.co.uk](http://www.gamefly.com/), [www.shacknews.com](http://www.shacknews.com/), [www.cheatfreak.com](http://www.cheatfreak.com/), [www.mobygames.com](http://www.mobygames.com/)) and services.
+GameFly, Inc. and GameFly Digital, Inc. (collectively, "GameFly," "we" or "us") respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this "Privacy Policy") provides information about how we collect, store, disclose and use information. Please also review our online Terms of Use, which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites ([www.gamefly.com](http://www.gamefly.com/), [www.gamefly.co.uk](http://www.gamefly.com/), [www.cheatfreak.com](http://www.cheatfreak.com/)) and services.
 
 By reading this Privacy Policy, you can expect to be informed about the following:
 
@@ -38,11 +38,11 @@ By reading this Privacy Policy, you can expect to be informed about the followin
 
 ### What does this Privacy Policy apply to?
 
-This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk, shacknews.com, mobygames.com and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the "Websites") and the GameFly mobile application and associated services (the "GameFly App," "Application," or "App"). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services.
+This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the "Websites") and the GameFly mobile application and associated services (the "GameFly App," "Application," or "App"). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services.
 
 * Review the privacy policy of any third party website, application or service linked to or accessible from our site before you submit any personal information to such parties.
 
-GameFly has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at support@gamefly.com. If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+GameFly has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at support@gamefly.com. If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php%3Fpage=complaint).
 
 GameFly complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from individuals located in European Union member countries and Switzerland. GameFly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GameFly's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -227,8 +227,8 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 
 Attn: Vice President, Customer Service   
 GameFly, Inc.   
-P.O. Box 200533   
-Austin, Texas 78720   
+PO Box 80924   
+Austin, Texas 78708   
 1-888-986-6400 - M - F, 12 p.m. - 4 p.m. CST   
 [support@gamefly.com](mailto:support@gamefly.com) \- 7 days a week
 
