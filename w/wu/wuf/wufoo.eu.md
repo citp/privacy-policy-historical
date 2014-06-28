@@ -1,78 +1,80 @@
-> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214073651id_/http%3A//wufoo.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628182219id_/http%3A//www.wufoo.com/privacy) for the most accurate reproduction.*
 
-# Wufoo · Privacy Policy
+# Privacy Statement | Wufoo
 
-### Your Data
+Last updated: March 18, 2014
 
-We respect the privacy of our Account holders and the privacy of their client data. All user information contained within the forms you may use or build on the Wufoo Site are governed by our [Terms of Service](http://wufoo.com/terms/ "Wufoo Terms of Service"). Although Infinity Box owns the data storage, databases and the Wufoo Site, _you retain all rights to your data._ We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any other means of profit.
+* * *
 
-### What We Collect
+Wufoo is an online form builder that strives to provide the easiest way for you to collect information over the internet. Wufoo is used by people who are interested in creating forms to collect information or perform a variety of other tasks (" **Form Creators** "), and by people who fill out these forms (" **Form Respondents** "). Wufoo is a service provided by SurveyMonkey.
 
-We collect the e-mail addresses and certain personally identifiable information of those who communicate with us via e-mail or register with us to open an “Account”. We also collect certain aggregate information regarding which pages users access or visit, and information volunteered by the users (such as any surveys Infinity Box might conduct and/or site registrations).
+This privacy statement describes privacy practices which are specific to Wufoo and should be read in conjunction with [SurveyMonkey’s main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/), which also applies to Wufoo to the extent that it is applicable and does not conflict with this privacy statement. In the event of any conflict between this Wufoo Privacy Statement and SurveyMonkey’s main Privacy Policy, this Wufoo Privacy Statement shall prevail only with respect to the terms that are specific to Wufoo, and SurveyMonkey’s main Privacy Policy shall otherwise govern.
 
-When you register on the Wufoo Site we ask for the following information: your name, email address, billing address and credit card information. Those who sign up for the free account are not required to enter a name, billing address or credit card, only email information. Users of the Wufoo Site also have the option to provide their company’s name and the time zone they are located in to further personalize their Account.
+This privacy statement is split into two sections: one for **Form Creators** , and one for **Form Respondents**.
 
-When you submit information, you are transferring such information into the United States and you here by consent to such transfer.
+### PRIVACY FOR FORM CREATORS
 
-Infinity Box may also collect and analyze from visitors and users certain information regarding the use of the Wufoo Site and services available therein. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc.
+**1\. What information does SurveyMonkey collect?**
 
-### Use of Information
-
-We may use personal information to provide the Services you’ve requested, including services that display customized forms. We may also use personal information for auditing, research and analysis to operate and improve the Wufoo Site. We may use third parties to assist us in processing your personal information, and we require that such third parties comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may use certain other information collected from you to help diagnose technical problems, administer the Wufoo Site, and improve the quality and types of services delivered. We may provide non-identifying and aggregate usage and volume statistical information derived from the actions of our visitors and Account holders to third parties in order to demonstrate the value we deliver to users.
-
-The information we collect is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
-
-  * if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, or as otherwise required by law; or
-
-  * if Infinity Box or Wufoo is acquired by or merged with another company. In this event, Infinity Box will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * **Registration information.** You need a Wufoo account before you can create forms on Wufoo. When you register for an account, we collect your username, email address and password. We also collect your name if you supply it in the account management section. Some Wufoo account plans permit you to create accounts for other Form Creators under your own account. When you create accounts for these additional Form Creators, we collect their name and email address.
+  * **Form data.** We store your form data (form content and responses) for you.
 
 
 
+**2\. How does SurveyMonkey use the information we collect?**
 
-### Safe Harbor
+We use the information we collect in accordance with [SurveyMonkey’s main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/) for survey creators (except that references to survey data should be read as references to form data in the context of Wufoo). We would like to emphasize that we will not use your form data to compete with you, market to your clients, or contact them for any other means of profit. We will not sell your form data.
 
-Infinity Box complies with the U.S.-EU and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Infinity Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more by visiting the [Safe Harbor Program Website](http://www.export.gov/safeharbor/) and checking out our [certification page](http://safeharbor.export.gov/companyinfo.aspx?id=13613).
+**3\. With whom do we share or disclose your information?**
 
-Our computer systems are currently based in the United States, so your personal data will be processed by us in the United States. As a visitor from outside the United States, by using the Site you agree to this privacy policy and you consent to the transfer of all such information to the United States and to the processing of that information as described in this privacy policy.
+We disclose the information we collect in accordance with [SurveyMonkey’s main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/) for survey creators (except that references to survey data should be read as references to form data in the context of Wufoo). 
 
-### Privacy Complaints by European Union Citizens
+**4\. What are your rights to your information?**
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Infinity Box commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Infinity Box at [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at:
+You can:
 
-**Stuart Loh , Attorney**  
-285 Hamilton Avenue, Suite 500  
-Palo Alto, CA 94301
+  * **Update your account details.** You can update your registration and other account information on your account management page. Information is updated immediately.
+  * **Download/backup your form data.** We provide you with the ability to export, share and publish your form data in a variety of formats. This allows you to create your own backups or work with your data offline. [See here for data exporting instructions](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/Entry-Manager#export).
+  * **Delete your form data.** You can delete your form data (including parts of forms, entire forms and responses to forms) through your account’s user interface. [See here for how to delete form entries](http://help.wufoo.com/articles/en_US/SurveyMonkeyArticleType/Entry-Manager#delete).
+  * **Cancel your Wufoo account.** You can cancel your Wufoo account at any time through your account management page. Any cancellation of your Wufoo account will result in the deletion of your account and all form data stored in it. This data cannot be recovered once your account is cancelled. Please be aware that SurveyMonkey may for a time retain residual information in our backup and/or archival copies of our database which takes up to about 12 months to disappear.
 
-Infinity Box has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Infinity Box, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
-### Cookies
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive. Cookies are required to use the Wufoo Site. We use cookies to assist in delivering the Service and to provide a positive and personalized user experience. Our persistent and session ID cookies are used to identify unique visitors to our sites and to provide you with easy access to your files. If you have your browser set to reject cookies, your usage of the Service and Wufoo Site is likely to be interrupted.
+**5\. Security, cookies and other important information**
 
-### Security
+  * **Security.** Each Form Creator is assigned a unique username and password which is required to access their Wufoo account. It is each Form Creator’s responsibility to protect the security of his or her login information. Regardless of the security protections and precautions we undertake, there is always a risk that your personal data may be viewed and used by unauthorized third parties as a result of collecting and transmitting your data over the internet.
+  * **Cookies.** See SurveyMonkey’s main Privacy Policy for general information about cookies. Click here for information on specific cookies used by Wufoo.
+  * **Changes to this privacy statement.** This privacy statement may be changed in the same manner as changes that are made to SurveyMonkey’s main Privacy Policy.
+  * **Online tracking.** We currently do not process or comply with any web browser's "do not track" signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit the Wufoo website or use the Wufoo services.
 
-Infinity Box has implemented processes intended to protect user information and maintain security of data. Each Account holder is assigned a unique user name and password, which is required to access their Account. It is each user’s responsibility to protect the security of his or her login information. We have attempted to protect the Infinity Box’s servers by locating them areas with security procedures, using of firewalls and implementing other generally available security technologies.
 
-These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but NO GUARANTY CAN BE MADE THAT YOUR INFORMATION AND DATA WILL BE SECURE FROM INTRUSIONS AND UNAUTHORIZED RELEASE TO THIRD PARTIES.
 
-### Cancellation or Termination of the Account
+### PRIVACY FOR FORM RESPONDENTS
 
-If you choose to cancel your Account and leave the Wufoo Service or your Account is terminated because of your breach of the Terms of Service, please be aware that Infinity Box may for a time retain residual information in our backup and/or archival copies of our database. We will make reasonable commercial efforts to delete your information as soon as reasonably practical.
+**1\. What information does SurveyMonkey collect?**
 
-### Compliance with Children’s Online Privacy Protection Act
+  * **Responses to forms.** We collect and store the responses that you submit to forms. Form Creators are responsible for this data and manage it. A form may ask you to provide personal information or data. If you have any questions about a form you are completing, please contact the Form Creator who created the form directly as SurveyMonkey is not responsible for the content of that form. The creator of the form is usually the same person that invited you to complete the form and sometimes they have their own privacy policy. SurveyMonkey is not liable for any actions or inactions a Form Creator takes with respect to any data or information that they may collect from a Form Respondent.
 
-As a business service, Infinity Box does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age.
 
-### Accessing and Updating Personal Information
 
-When you use the Wufoo Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You may update your Account information by logging into your Account. When requests come to Infinity Box with regard to personal information, we ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort.
+**2\. How does SurveyMonkey use the information we collect?**
 
-### Changes to this Policy
+We disclose the information we collect in accordance with [SurveyMonkey’s main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/) for survey respondents (except that references to surveys and survey data should be read as references to forms and form data in the context of Wufoo).
 
-Infinity Box may periodically update this policy. We will notify you about significant changes in the way we treat personal information by posting a prominent notice on the Wufoo Site and possibly sending a notice to the primary email address specified in your Account. We do not intend to reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Each version of this Policy will be identified at the bottom of the page by its effective date.
+**3\. With whom do we share or disclose your information?**
 
-### Questions
+We disclose the information we collect in accordance with [SurveyMonkey’s main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/) for survey respondents (except that references to surveys and survey data should be read as references to forms and form data in the context of Wufoo).
 
-Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: **Stuart Loh , Attorney** 285 Hamilton Avenue, Suite 500, Palo Alto, CA 94301
+**4\. What are your rights to your information?**
 
-**Updated :** June 18th, 2012 
+  * **Contact the relevant Form Creator to access your responses.** Because we collect form responses on behalf of Form Creators, you will need to contact the Form Creator if you have any questions about the form, or if you want to access, update, or delete anything in your responses. We provide Form Creators with tools to maintain the responses they collect through their forms. SurveyMonkey cannot provide you with this access since form responses are the Form Creator’s private information.
+
+
+
+**5\. Security, cookies and other important information**
+
+See section 5 of the “Privacy for Form Creators” section above.
+
+* * *
+
+### You can view current and archived versions here:
