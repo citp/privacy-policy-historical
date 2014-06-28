@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technavio.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227224953id_/http%3A//www.technavio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technavio.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044212id_/http%3A//www.technavio.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.technavio.com
 
@@ -6,9 +6,9 @@ The below sets out the practices of Infiniti Research Limited as of July 1, 2007
 
 **With respect to information collected:** For each visitor to the website, our server does not recognize any information regarding your domain or e-mail address. Sessions of visitors to the website are monitored, but the user remains anonymous. 
 
-**With respect to the type of information that the website collects:** The website collects only that information which is volunteered by the visitor, such as site registrations and the e-mail addresses of those who communicate with us via e-mail. 
+**With respect to the type of information that the website collects:** The website collects only that information which is volunteered by the visitor, such as site registrations and the e-mail addresses of those who communicate with us via e-mail.
 
-****With respect to use of the information collected:**** The very limited information collected is not shared with other organizations for commercial purposes and is used solely for the benefit of our visitors in the following manner: 
+ ** **With respect to use of the information collected:**** The very limited information collected is not shared with other organizations for commercial purposes and is used solely for the benefit of our visitors in the following manner: 
 
   * for internal review, after which the information is discarded;
   * to improve the content of the website;
