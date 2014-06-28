@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the maltatoday.com.mt privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119223737id_/http%3A//maltatoday.com.mt/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maltatoday.com.mt privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045323id_/http%3A//www.maltatoday.com.mt/privacy-policy) for the most accurate reproduction.*
 
-# MaltaToday.com.mt – Malta’s news portal
-
-##  Privacy Policy
+# MaltaToday.com.mt - Privacy Policy
 
 maltatoday.com.mt may use anonymous data about users to sell advertising space: this means showing advertisers how many users frequent our site, but not sharing an individual's details with an advertiser. We will not share an individual's information with a third party, including an advertiser, without that user's explicit permission.
 
