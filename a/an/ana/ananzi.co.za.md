@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921160714id_/http%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ananzi.co.za privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628133936id_/http%3A//www.ananzi.co.za/Privacy_Policy) for the most accurate reproduction.*
 
-# South Africa | Ananzi
+# Ananzi's Privacy Policy
 
 Welcome to Ananzi. Please read the Privacy Policy and our notices regarding Copyright. By continuing to use Ananzi, you agree to abide by the terms of these documents.
 
