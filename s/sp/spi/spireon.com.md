@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416022921id_/http%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628191339id_/http%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spireon
+# Privacy Policy - Spireon
 
 Spireon is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Spireon, Inc. web site and governs data collection and usage. By using the Spireon, Inc. web site, you consent to the data practices described in this statement.
 
