@@ -1,75 +1,97 @@
-> *The following text is extracted and transformed from the theopenskyproject.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023073746id_/http%3A//www.theopenskyproject.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theopenskyproject.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628154427id_/http%3A//www.opensky.com/content/general/policies-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OpenSky
+# Shop Opensky
 
-Privacy Policy
+[Back to Policies](https://web.archive.org/web/20140628154427id_/http%3A//www.opensky.com/content/general/policies)
 
-**What information do we collect?**
+This Privacy Policy covers the use of the website located at [http://opensky.com](http://opensky.com/) (the "Site") and the services provided by The OpenSky Project, Inc. ("OpenSky", "we" or "us"), including how OpenSky treats personal information that OpenSky collects and receives. Pursuant to OpenSky's [Terms & Conditions](https://web.archive.org/web/20140628154427id_/http%3A//www.opensky.com/content/general/policies-terms), you must be 18 years and older to use this Site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that OpenSky does not own or control, or individuals that OpenSky does not employ or manage.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+#### What information do we collect?
+
+  * We collect information from you when you register on the Site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another Site feature. 
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our Site anonymously. 
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our Site. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * When you create an OpenSky account, you will provide information that could be personally identifiable information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Site and providing personal information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our services, but only in accordance with your contact preferences (which may be modified as described below). Regardless of your contact preferences, we reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.
+  * In conjunction with your OpenSky account, we also display your OpenSky profile on the Site. Your profile displays your name and other content you contribute to the Site, such as the items you "Love" on the Site (with the exception of all Sexual Wellbeing items, which are not displayed on any user's profile, even if such user "Loved" that item). All content submitted by you to the Site may be retained by us indefinitely, even after you terminate your OpenSky account. We may continue to disclose such content to third parties in a manner that does not reveal personally identifiable information, as described in this Privacy Policy. 
+  * We automatically receive and record information from your web browser when you interact with the Site, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Site (e.g., what links you have clicked on).
+  * Generally, the Site automatically collects usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them. 
+  * We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by our third party payment processing company (the "Payment Processor"), and use and storage of that information is governed by the Payment Processor's applicable terms of service and privacy policy.
 
 
 
-**How do we use your information?**
+#### How do we use your information?
 
-  * We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the Site, or use certain other Site features in the following ways:
+
+  * To personalize your Site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
+  * To allow us to better service you in responding to your customer service requests. 
+  * To quickly process your transactions. 
+  * To administer a contest, promotion, survey or other Site feature. 
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other Site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
 
 
-**How do we protect visitor information?**  
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. 
+#### How do we protect visitor information?
 
-**Do we use "cookies"?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we use a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+#### Public Information about Your Activity on the Site
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at [customerservice@theopenskyproject.com](mailto:customerservice@theopenskyproject.com).
+Some of your activity on and through the Site is public by default. This may include, but is not limited to, content you have posted publicly on your OpenSky profile or otherwise on or through the Site. Users may have some of this information associated with their OpenSky accounts. 
 
-  
-The information we collect through the use of cookies is used to improve the usefulness and efficiency of your use of the site, and is sometimes used to enhance the reliability and performance of the site. Examples include maintaining lists of products that you have placed in your shopping cart during a visit to the site, and IP addresses of site visitors. In no case does OpenSky collect personally-identifiable information through cookies or any other tracking technology.
+Please also remember that if you choose to provide any personally identifiable information using certain public features of the Site, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore urge you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Site.
 
-**Do we disclose the information we collect to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include the OpenSky project. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+#### Do we use "cookies"?
 
-We routinely share the names, e-mail addresses, and purchases of customers who have made purchases at OpenSky with the Host websites with whom we are affiliated. Our Hosts - who as our partners maintain various content web   
-sites leading to OpenSky - maintain your personally-identifiable information under standards that are consistent with our standards.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current Site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future.
 
-Non--personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may contract with third-party service providers to assist us in better understanding our Site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**How can you opt-out, remove or modify information you have provided to us?**  
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production. 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your Site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service at [help@opensky.com](mailto:help@opensky.com).
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.  
-If you have particular concerns about reviewing or updating any of your personal information that we maintain, you may contact us at [customerservice@theopenskyproject.com](mailto:customerservice@theopenskyproject.com). You may also contact us at The OpenSky Project, Inc., 44 East 30 th Street , 11 th Floor, New York , NY 10016.
+The information we collect through the use of cookies is used to improve the usefulness and efficiency of your use of the Site, and is sometimes used to enhance the reliability and performance of the Site. Examples include maintaining lists of products that you have placed in your shopping cart during a visit to the Site, and IP addresses of Site visitors. In no case does OpenSky collect personally-identifiable information through cookies or any other tracking technology.
 
-**Third party links**  
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). 
+#### Do we disclose the information we collect to outside parties?
 
-**Changes to our policy**  
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on August 3, 2009. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include OpenSky suppliers. It also does not include website hosting partners and other parties who assist us in operating the Site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.
 
-**Questions and feedback**  
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue to [customerservice@theopenskyproject.com](mailto:customerservice@theopenskyproject.com). 
+We routinely share the names, e-mail addresses, and purchases of customers who have made purchases at OpenSky with the suppliers with whom we are affiliated. Our suppliers - who as our partners maintain various content websites leading to OpenSky - maintain your personally-identifiable information under standards that are consistent with our standards.
 
-**Online Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Terms and Conditions**  
-Please also visit our [Terms & Conditions](https://web.archive.org/corporate/terms-of-use/) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+#### How can you opt-out, remove or modify information you have provided to us?
 
-**TRUSTe**  
-The OpenSky Project is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the website [http://theopenskyproject.com](http://www.theopenskyproject.com/) . As this Web site demonstrates its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "[My Account](https://opensky.com/account)" section. Please note that due to email production schedules you may receive any emails already in production.
 
-If you have questions or concerns regarding this statement, you should first contact us at [customerservice@theopenskyproject.com](mailto:customerservice@theopenskyproject.com) . If you do not receive acknowledgement of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/consumers/watchdog complaint.php](http://www.truste.org/consumers/watchdogcomplaint.php) . TRUSTe will then serve as a liaison with the Web site to resolve your concern.
+To delete all of your online account information from our database, sign into the "My Account" section of our Site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-**Your consent**  
-By using our site, you consent to our privacy policy
+If you have particular concerns about reviewing or updating any of your personal information that we maintain, you may contact us at [help@opensky.com](mailto:help@opensky.com). You may also contact us at The OpenSky Project, Inc., 18 West 18th Street, 9th Floor, New York , NY 10011.
+
+#### Third party links
+
+In an attempt to provide you with increased value, we may include third party links on our Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Our service may also incorporate content from third party websites, such as Facebook. One such service may include the ability for you to automatically transmit information (such as items you "Love" on OpenSky) from your OpenSky account to an account on a third party website or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies. In order to link your OpenSky account with any third party account, we may ask you for account information for those services. If you provide your third party account credentials to us, you understand that content and/or information in those accounts may be transmitted into your account with us, and that third party account information transmitted to our Site is covered by this Privacy Policy. We don't actually store your passwords for those third party accounts. Instead, we just use an authentication token to verify your user name. 
+
+#### Changes to our policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on October 10, 2012.
+
+#### Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue to [help@opensky.com](mailto:help@opensky.com).
+
+#### Online Policy Only
+
+This online privacy policy applies only to information collected through our Site and not to information collected offline.
+
+#### Terms and Conditions
+
+Please also visit our [Terms & Conditions](https://web.archive.org/web/20140628154427id_/http%3A//www.opensky.com/content/general/policies-terms) section establishing the use, disclaimers, and limitations of liability governing the use of our Site.
+
+#### Your consent
+
+By using our Site, you consent to our privacy policy.
+
+Back to Top
