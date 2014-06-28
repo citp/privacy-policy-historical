@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bossthemes.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810054502id_/http%3A//bossthemes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bossthemes.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628090048id_/http%3A//bossthemes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Boss Themes
 
