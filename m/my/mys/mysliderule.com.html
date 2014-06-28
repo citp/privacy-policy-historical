@@ -1,0 +1,823 @@
+<!--The following is the downloaded HTML source of the mysliderule.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629015154id_/http%3A//www.mysliderule.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+		<title>Privacy Policy | SlideRule</title><meta name="description" content=""><meta name="fragment" content="!">	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="/css/final.93ddaf9a.css" media="screen, projection">
+	<!-- google fonts -->
+
+
+	<link href="http://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,400italic,600italic" rel="stylesheet" type="text/css">
+
+	<!--[if IE]>
+	    <link href="css/ie.94964730.css" media="screen, projection" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+	  <!-- Scripts -->
+	<!--[if lt IE 9]>
+		<script src="js/libs/html5shiv.59067cb6.js"></script>
+	<![endif]-->
+	<!--<script src="/js/libs/jquery2.1.0.min.69356969.js"></script>-->
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6590.js?439027" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="/js/libs/modernizr.77f62a53.js"></script>
+	<script src="/js/libs/typeahead.65667315.js"></script>
+	<script src="/js/libs/history.d09f4e42.js"></script>
+	<script src="/js/libs/mustache.2c2d654f.js"></script>
+	<script src="/js/libs/jquery.raty.min.a8f4a811.js"></script>
+	<script src="/js/libs/jquery.url.d8752906.js"></script>
+	<script src="/js/libs/modal.17fae7ad.js"></script>
+
+	<style type="text/css">
+
+.learning_path_content .container{
+	margin-top: 8px;
+}
+
+.twitter-typeahead{
+	width: 100%;
+}
+
+.typeahead {
+  background-color: #fff;
+}
+
+.typeahead:focus {
+  border: 2px solid #0097cf;
+}
+
+.tt-query {
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+  color: #999
+}
+
+.tt-dropdown-menu {
+  width: 422px;
+  margin-top: -8px;
+  padding: 8px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  /*-webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;*/
+  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+  padding: 3px 20px;
+  font-size: 18px;
+  line-height: 24px;
+  cursor: pointer;
+}
+
+.tt-suggestion p{
+  padding: 0;
+  color: black;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #0097cf;
+
+}
+
+.tt-suggestion p {
+  margin: 0;
+}
+
+.gist {
+  font-size: 14px;
+}
+	</style>
+
+    <script type="text/javascript">
+
+	    var name = "";
+	    var username = "";
+	    var is_social = "";
+	    var image="";
+	    var header_user_id=0;
+	    var csrftoken_api="";
+				$(document).ready(function(){
+
+					$.get('/learned/token/',{ "_": $.now() }, function(data) {
+						csrftoken_api=data.token;
+						$('input[name="csrfmiddlewaretoken"]').val(csrftoken_api);
+					})
+					$.get('/learned/user/',{ "_": $.now() }, function(data) {
+
+						  if(data.code==500) {
+						  	//$('.non_login_state').remove();
+						  	$(document).trigger('login-check-completed');
+						  }
+						  else {
+						  	$('.non_login_state').remove();
+						  	name = data.firstname;
+						  	username = data.username;
+						  	is_social = data.social;
+						  	header_user_id = data.id;
+
+						  	$('.user-id-'+data.id).show();
+						  	if($('.user-id-'+data.id).length){
+						  		$('.write_review_action').html('<i class="sricon-write"></i> Edit Review').addClass('edit_review_link').removeAttr('href');
+						  		$('.user-id-'+data.id).closest('.review').before('<a id="edit_link_position"></a>');
+						  	}
+						  	var userData = {
+						  		user_name : data.firstname,
+						  		pic_url :data.picture,
+						  	}
+							/*$('.user-id-'+header_user_id).show();
+						  	if (data.picture != "") {
+						  		image=window.location.origin+"/"+data.picture;
+						  	};*/
+
+						  	var template = $('#template_user_info').html();
+							var html_block = Mustache.to_html(template, userData);
+						  	$('#secondary_nav_list').append(html_block);
+						  	$(document).trigger('login-check-completed');
+						  	//hide user name on mobile
+						  	$(document).trigger('check_mobile_login');
+
+						  }
+					});
+				});
+	</script>
+
+
+<!-- Googe Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43924544-1', 'mysliderule.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Googe Analytics Tracking Code -->
+
+</head>
+<body>
+	<script type="text/javascript">
+		(function(window,undefined){
+		    // Bind to StateChange Event
+		    History.Adapter.bind(window,'statechange',function(){ // Note: We are using statechange instead of popstate
+		        var State = History.getState(); // Note: We are using History.getState() instead of event.state
+			});
+		    // Change our States
+		})(window);
+	</script>
+
+	<div class="bg"></div>
+		<header role="banner">
+			<div class="container" style="background: #fff;">
+				<div class="nav_containers">
+					<a href="/" class="logo">SlideRule</a>
+					<nav class="primary">
+						<ul>
+							<li class="">
+								<div class="top_search_container">
+									<div class="">
+										<form id="header_search_form" name="input" action="/search" method="post">
+											<input type="search" name="keyword" value="" placeholder="search for courses" autocomplete="off" dir="auto" spellcheck="false" class="typeahead tt-query" id="navbar_search_box">
+											<button class="btn simple" style="outline:none;top: 11px;"><i class="sricon-magnifier"></i></button>
+											<input id="tokeninsert" type="hidden" name="csrfmiddlewaretoken" value="qg8QGUWq9vRnlSfHbGRCWwiSWfWwFtsI">
+										</form>
+									</div>
+								</div>
+							</li>
+						</ul>						<!-- <ul>
+							<li class="">
+								<div class="top_search_container">
+									<div class="">
+										<form name="input" action="/search" method="post" >
+											<input type="search" name="keyword" value="" placeholder="Find online courses, e.g. Python, ..." autocomplete="off" id="navbar_search_box"/>
+											<button class="btn simple" style="outline:none;"><i class="sricon-magnifier"></i></button>
+											<input id="tokeninsert" type="hidden" name="csrfmiddlewaretoken"
+											value="qg8QGUWq9vRnlSfHbGRCWwiSWfWwFtsI" />
+										</form>
+									</div>
+								</div>
+							</li>
+						</ul> -->
+					</nav>
+					<nav class="secondary">
+						<ul id="secondary_nav_list">
+						<!--	<li><span class="label">Courses</span></li> -->
+							<li class="nav_item">
+								<a class="nav_link top_header_drop" href="#" id="available_subjects" data-toggle="dropdown">Subjects
+									<span class="arrow"></span>
+								</a>
+								<div aria-labelledby="available_subjects" class="dropdown">
+									<div class="container multi_cols">
+										<ul id="h-subj-col1" class="h-sortedlist"></ul>
+        								<ul id="h-subj-col2" class="h-sortedlist"></ul>
+        								<ul id="h-subj-col3" class="h-sortedlist"></ul>
+        								<ul id="h-subj-col4" class="h-sortedlist"></ul>
+									</div>
+								</div>
+							</li>
+							<li class="nav_item">
+								<a class="nav_link top_header_drop" id="available_providers" data-toggle="dropdown" href="#">Providers
+									<span class="arrow"></span>
+								</a>
+								<div id="" aria-labelledby="available_providers" class="dropdown">
+									<div class="container multi_cols">
+										<ul id="h-prov-col1" class="f-sortedlist"></ul>
+							            <ul id="h-prov-col2" class="f-sortedlist"></ul>
+							            <ul id="h-prov-col3" class="f-sortedlist"></ul>
+							            <ul id="h-prov-col4" class="f-sortedlist"></ul>
+									</div>
+								</div>
+							</li>
+							<li class="nav_item">
+								<a class="nav_link top_header_drop" href="#" id="available_subjects" data-toggle="dropdown">Universities
+									<span class="arrow"></span>
+								</a>
+								<div aria-labelledby="available_subjects" class="dropdown">
+									<div class="container multi_cols">
+										<ul id="h-univ-col1" class=""></ul>
+        								<ul id="h-univ-col2" class=""></ul>
+        								<ul id="h-univ-col3" class=""></ul>
+        								<ul id="h-univ-col4" class="university_last_column"></ul>
+									</div>
+								</div>
+							</li>
+							<!-- <li class="nav_item">
+								<a class="nav_link top_header_drop" href="#" id="available_subjects" data-toggle="dropdown">Universities
+									<span class="arrow"></span>
+								</a>
+								<div aria-labelledby="available_subjects" class="dropdown">
+									<div class="container multi_cols">
+										<ul id="h-univ-col1" class=""></ul>
+        								<ul id="h-univ-col2" class=""></ul>
+        								<ul id="h-univ-col3" class=""></ul>
+        								<ul><li>See more university</li></ul>
+									</div>
+								</div>
+							</li> -->
+							<li class="nav_item"><a class="lp nav_link" href="/learning-paths">Learning Paths</a></li>
+							<!-- <li class="nav_item"><a class="blog nav_link" href="http://www.mysliderule.com/blog">Blog</a></li>
+
+
+							<li class="nav_item non_login_state">
+								<a href="#" class="btn nav_link" id="signup_btn" data-target="#sign_in" data-toggle="modal">Sign Up</a>
+							</li> -->
+							<li class="nav_item non_login_state"><a href="#" data-target="#login" id="login_btn" data-toggle="modal" class="login nav_link">LOG IN</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</header>
+
+
+
+
+
+<script type="text/javascript">
+	$(function(){
+
+		var csrftoken = getCookie('csrftoken');
+
+		$('input[name="csrfmiddlewaretoken"]').val(csrftoken);
+
+		$('.sign_up_form').attr('action','/learned/accounts/signup/?next='+(encodeURIComponent(window.location.pathname+window.location.search)));
+
+		$('.sign_in_form').attr('action','/learned/accounts/login/?next='+(encodeURIComponent(window.location.pathname+window.location.search)));
+
+		$('.fb_sign_in').attr('href','/learned/accounts/facebook/login/?process=login&next='+(encodeURIComponent(window.location.pathname+window.location.search)));
+
+
+		if(window.mobilecheck()){
+			var path = (encodeURIComponent(window.location.pathname+window.location.search));
+    		//window.location.assign('/signIn-review?next='+path);
+    		$('#login_btn').removeAttr('data-toggle').attr('href', '/signIn?next='+path);
+    		$('#signup_btn').removeAttr('data-toggle').attr('href', '/signUp?next='+path);
+		}
+
+
+	});
+
+
+	function getCookie(name) {
+	    var cookieValue = null;
+	    if (document.cookie && document.cookie != '') {
+	        var cookies = document.cookie.split(';');
+	        for (var i = 0; i < cookies.length; i++) {
+	            var cookie = jQuery.trim(cookies[i]);
+	            // Does this cookie string begin with the name we want?
+	            if (cookie.substring(0, name.length + 1) == (name + '=')) {
+	                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+	                break;
+	            }
+	        }
+	    }
+	    return cookieValue;
+	}
+
+
+	</script>
+
+<div id="template-subjects-available" style="display:none">
+      <li><a href="/Subject/{{subject}}">{{subject}}</a></li>
+</div>
+
+<div id="template-providers-available" style="display:none">
+      <li><a href="/{{provider}}">{{provider}}</a></li>
+</div>
+<div id="template-university-available" style="display:none">
+      <li><a href="/University/{{university}}">{{university}}</a></li>
+</div>
+
+
+<div class="modal fade" id="sign_in" aria-hidden="true" aria-labelledby="signin" role="dialog" tabindex="-1">
+		<div class="modal-dialog">
+			<div class="modal_header">
+				<a href="#" data-dismiss="modal" aria-hidden="true" class="close">×</a>
+				<div class="marketing">
+					<h2 id="sign_up_title">Everything you want to learn, online. Sign up to track your learning and save your favorites. </h2>
+				</div>
+			</div>
+			<div class="modal_content">
+				<div class="left_col unit">
+					<div class="social_login">
+
+						<a href="#" class="btn fb fb_sign_in">SIGN UP WITH Facebook</a>
+						<!-- <a href="#" class="btn google">Sign-Up using Google</a>
+						<a href="#" class="btn linkedin">Sign-Up using LinkedIn</a> -->
+						<p>Recommended. We will never post anything without your permission</p>
+					</div>
+
+				</div>
+				<div class="right_col lastunit">
+					<form method="POST" class="stacked sign_up_form" id="" action="/learned/accounts/signup/">
+						<input id="signup_csrf" type="hidden" name="csrfmiddlewaretoken" value="qg8QGUWq9vRnlSfHbGRCWwiSWfWwFtsI">
+		            	<h5>Sign up with Email</h5>
+						<div class="control">
+		                	<label class="label">Email address</label>
+		                	<input type="text" name="email" placeholder="albert@einstein.com">
+		                </div>
+		                <div class="control">
+		                	<label class="label">Password</label>
+		                	<input type="password" name="password1" placeholder="Minimum 6 characters">
+		                </div>
+		                <input id="id_confirmation_key" name="confirmation_key" type="hidden">
+		                <div class="form_submit block">
+		                    <input type="submit" value="JOIN SLIDERULE" class="btn signup block">
+		                </div>
+		                <div class="control">
+							<p class="help_text">Already a Member? <a data-dismiss="modal" data-target="#login" data-toggle="modal" href="#">Log in</a></p>
+		                </div>
+		            </form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal fade" id="login" aria-hidden="true" aria-labelledby="login" role="dialog" tabindex="-1">
+		<div class="modal-dialog">
+			<div class="modal_header">
+				<h3><strong id="dialog_title">Log Into SlideRule</strong></h3>
+				<a href="#" data-dismiss="modal" aria-hidden="true" class="close">×</a>
+			</div>
+			<div class="modal_content">
+				<div class="left_col unit">
+		            <div class="social_login">
+		            	<a href="#" class="btn fb fb_sign_in" id="">Login using Facebook</a>
+		            	<!-- <a href="#" class="btn google">Sign-Up using Google</a>
+		            	<a href="#" class="btn linkedin">Sign-Up using LinkedIn</a> -->
+		            </div>
+				</div>
+				<div class="right_col lastunit">
+					<form method="POST" class="stacked signin_form sign_in_form" id="" action="/accounts/login/?">
+						<input id="signin_csrf" type="hidden" name="csrfmiddlewaretoken" value="qg8QGUWq9vRnlSfHbGRCWwiSWfWwFtsI">
+		            	<h5> Log In with Email </h5>
+						<div class="control">
+		                	<label class="label">Email address</label>
+		                	<input type="text" name="login" placeholder="albert@einstein.com">
+		                </div>
+		                <div class="control">
+		                	<label class="label">Password</label>
+		                	<input type="password" name="password" placeholder="password">
+		                </div>
+		                <div class="control">
+			               	<label for="" class="checkbox login-checkbox">
+			                	<input name="remember" type="checkbox">
+								Remember Me
+			                </label>
+			            </div>
+		                <div class="form_submit cf">
+		                    <input type="submit" value="Log in" class="btn signup block">
+							<p class="help_text">
+								<a href="/accounts/password/reset/">Forgot Password?</a>
+							</p>
+		                </div>
+		                <div class="control">
+							<p class="help_text">Need an account? <a data-dismiss="modal" data-target="#sign_in" data-toggle="modal" href="#">Sign Up</a></p>
+		                </div>
+		            </form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script id="template_user_info" type="text/html">
+	<li class="nav_item">
+
+		{{#pic_url}}
+		<a href="/profile" class="avatar"><img src="{{pic_url}}" alt="" width="40px" height="40px">
+		{{/pic_url}}
+		{{^pic_url}}
+		<a href="/profile" class="avatar"><img src="/images/mascot.82fbb83f.png" alt="">
+		{{/pic_url}}
+		<span class="name user_name">{{user_name}}</span>
+		</a>
+	</li>
+	<li class="nav_item">
+		<a class="nav_link" href="/learned/accounts/logout/">Sign Out</a>
+	</li>
+</script>
+
+<script type="text/javascript">
+	$(function(){
+
+		// instantiate the bloodhound suggestion engine
+		var movies = new Bloodhound({
+		    datumTokenizer: function (d) {
+		        return Bloodhound.tokenizers.whitespace(d.value);
+		    },
+		    queryTokenizer: Bloodhound.tokenizers.whitespace,
+		    remote: {
+		        url: '/learned/courses/autocomplete?q=%QUERY',
+		        filter: function(list) {
+			      return $.map(list, function(course) { return { name: course }; });
+			    }
+		    }
+		});
+
+		// initialize the bloodhound suggestion engine
+		movies.initialize();
+
+		$('#navbar_search_box').typeahead(null, {
+			hint: true,
+  			highlight: true,
+			name: 'movies',
+  			displayKey: 'name',
+		    source: movies.ttAdapter()
+		}).on('typeahead:selected typeahead:autocompleted', function(e, datum) {
+            console.log('event');
+
+            $('#header_search_form').submit();
+        });
+
+	});
+
+</script>
+<div class="container sr_main_body">
+	<div class="main_title"> 
+		<span>SlideRule Labs, Inc.</span><br>
+		<span>PRIVACY POLICY</span>
+	</div>
+
+	<p>	
+		This privacy policy (<b>“Policy”</b>) describes how SlideRule Labs, Inc. and its related companies (<b>“Company”</b>) collect,
+		use and share personal information of consumer users of this website, www.mysliderule.com (the <b>“Site”</b>).
+		This Policy also applies to any of our other websites that post this Policy. 
+		This Policy does not apply to websites that post different statements.
+	</p>
+
+	<h5>WHAT WE COLLECT</h5>
+	<span>We get information about you in a range of ways. </span><br>
+	<ul>
+		<li>
+			<span>Information You Give Us- </span>We collect your‎ name,‎ email address,‎ username,‎ password,
+		  	and other information you directly give us on our Site.
+		</li>
+		<li>
+			<span>Information We Get from Others- </span> We may get information about you from other sources.
+			 We may add this to information we get from this Site.
+		</li>
+		<li>
+			<span>Information Automatically Collected- </span> We automatically log information about you and your computer. 
+			For example, when visiting our Site, we log‎ your computer operating system type,‎
+			browser type,‎ browser language,‎ pages you viewed,‎ how long you spent on a page,‎
+			access times,‎ Internet protocol (IP) address, and information about your use of
+			and actions on our Site. 
+
+			<ul>
+				<li>
+				<span>Cookies- </span> We may log information using "cookies." Cookies are small data files stored on 
+				your hard drive by a website. Cookies help us make our Site and your visit better.
+				We use cookies to see which parts of our Site people use and like and to count visits to our Site. 
+				</li>
+				<li>
+					<span>Web Beacons-</span> We may log information using digital images called Web beacons on our Site
+					 or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing
+					  works and what does not.  We also use Web Beacons to tell if you open or act on our emails.
+				</li>
+			</ul>	 
+		</li>
+	</ul>
+	<h5>USE OF PERSONAL INFORMATION</h5>
+	We use your personal information as follows:
+
+	<ul>
+		<li>
+			We use your personal information to operate, maintain, and improve our sites, products, and services.
+		</li>
+		<li>
+			We use your personal information to process and deliver contest entries and rewards.
+		</li>
+		<li>
+			We use your personal information to respond to comments and questions and provide customer service.
+		</li>
+		<li>
+			We use your personal information to send information including confirmations, invoices, technical notices, 
+			updates, security alerts, and support and administrative messages.  
+		</li>
+		<li>
+			We use your personal information to communicate about promotions, upcoming events, 
+			and other newsabout products and services offered by us and our selected partners.
+		</li>
+		<li>
+			We use your personal information to provide and deliver products and services customers request.  
+		</li>
+	</ul>
+
+	<h5>SHARING OF PERSONAL INFORMATION</h5>
+		We may share personal information as follows:
+	<ul>
+		<li>
+			We may share personal information with your consent. For example, you may let us share personal information with others for their own marketing uses. Those uses will be subject to their privacy policies.
+		</li>
+		<li>
+			We may share personal information when we do a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, or bankruptcy transaction or proceeding. 
+		</li>
+		<li>
+			We may share personal information for legal, protection, and safety purposes.
+			<ul>
+				<li>
+					We may share information to comply with laws.
+				</li>
+				<li>
+					We may share information to respond to lawful requests and legal processes.
+				</li>
+				<li>
+					We may share information to protect the rights and property of SlideRule Labs, Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+				</li>
+				<li>
+					We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
+				</li>	
+			</ul>
+		</li>
+		<li>
+			We may share information with those who need it to do work for us.
+		</li>
+	</ul>
+	We may also share aggregated and/or anonymized data with others for their own uses.
+
+	<h5>INFORMATION CHOICES AND CHANGES</h5>
+	<ul>
+		<li>
+			Our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+		</li>
+		<li>
+			You may send requests about personal information to our Contact Information below.  You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
+		</li>
+		<li>
+			You can typically remove and reject cookies from our Site with your browser settings. Many browsers are set to accept cookies until you change your settings. If you remove or reject our cookies, it could affect how our Site works for you.
+		</li>	
+	</ul>
+
+	<h5>SECURITY OF YOUR PERSONAL INFORMATION</h5>
+	<p>
+		 We take steps to help protect personal information. No company can fully prevent security risks, however.  Mistakes may happen. Bad actors may defeat even the best safeguards.
+	</p>
+
+	<h5>CONTACT INFORMATION</h5>
+	<p>
+		We welcome your comments or questions about this privacy policy.  You may also contact us at our address: privacy[at]mysliderule.com
+	</p>
+
+	<h5>CHANGES TO THIS PRIVACY POLICY</h5>
+	<p>
+		We may change this privacy policy. If we make any changes, we will change the Last Updated date below.  
+    </p>
+    <h6>This privacy policy was last Updated on December 17, 2013. </h6>
+
+</div>
+
+	<footer role="contentinfo">
+			<nav>
+				<div class="container">
+					<ul class="horizontal">
+						<li><a href="/about">About</a></li>
+						<li><a href="http://www.mysliderule.com/blog">Blog</a></li>
+						<li><a href="/contact">Contact</a></li>
+						<li><a href="/suggest">Suggest Courses</a></li>
+						<li><a href="/privacy">Privacy Policy</a></li>
+						<li><a href="/terms">Terms Of Service</a></li>
+					</ul>
+					<div class="social_network">
+						<a href="https://www.facebook.com/pages/Slide-Rule/147834515407652" class="fb" target="_blank">Facebook</a>
+						<a href="https://twitter.com/mysliderule" class="tweet" target="_blank">Twitter</a>
+						<a href="https://plus.google.com/+Mysliderule" class="google" target="_blank">G+</a>
+					</div>
+				</div>
+			</nav>
+			<div class="container">
+				<div class="course_list multi_cols">
+					<h4>Subjects</h4>
+					<ul id="f-subj-col1" class="f-sortedlist"></ul>
+		            <ul id="f-subj-col2" class="f-sortedlist"></ul>
+		            <ul id="f-subj-col3" class="f-sortedlist"></ul>
+		            <ul id="f-subj-col4" class="f-sortedlist"></ul>
+				</div>
+				<div class="provider_list multi_cols">
+					<h4>Providers</h4>
+					<ul id="f-prov-col1" class="f-sortedlist"></ul>
+		            <ul id="f-prov-col2" class="f-sortedlist"></ul>
+		            <ul id="f-prov-col3" class="f-sortedlist"></ul>
+		            <ul id="f-prov-col4" class="f-sortedlist"></ul>
+				</div>
+			</div>
+			
+			
+	</footer>
+
+
+
+
+	<script type="text/javascript">
+
+
+	//$.fn.raty.defaults.readOnly = true;
+		$('.star').raty({
+		  readOnly: true,
+		  cancel   : false,
+		  width    :114,
+		  cancelOff: '/js/img/cancel-off.png',
+		  cancelOn : '/js/img/cancel-on.png',
+		  half     : false,
+		  size     : 12,
+		  starHalf : '/js/img/star-half.png',
+		  starOff  : '/js/img/star-off.png',
+		  starOn   : '/js/img/star-on.png',
+		  number: function() {
+		    return $(this).attr('data-number');
+		  }
+		});
+	</script>
+
+	<script src="/js/final.79d74258.js"></script>
+
+<!-- Kissmetrics tracking code -->
+<script type="text/javascript">var _kmq = _kmq || [];
+// var _kmk = _kmk || '17d184f0ee0501862076dd9c21692be7b7b9f25a';
+// function _kms(u){
+//   setTimeout(function(){
+//     var d = document, f = d.getElementsByTagName('script')[0],
+//     s = d.createElement('script');
+//     s.type = 'text/javascript'; s.async = true; s.src = u;
+//     f.parentNode.insertBefore(s, f);
+//   }, 1);
+// }
+// _kms('//i.kissmetrics.com/i.js');
+// _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+<!-- Crazyegg tracking code -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6590.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!--WEB ENGAGE PLUGIN SCRIPT-->
+<!--
+<script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = '14507c8b0';
+  _weq['webengage.widgetVersion'] = "4.0";
+
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "//ssl.widgets.webengage.com" : "//cdn.widgets.webengage.com") +
+              "/js/widget/webengage-min-v-3.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>-->
+<script type="text/javascript">
+  
+    $(document).ready(function () {
+     
+        //load the default subjects in nav
+        fetchJSON('/learned/courses/homepage_info', api_course_data);
+
+        function api_course_data(data) {
+         	data.universities.push({ university: "university" });
+			var subjTemplate = $('#template-subjects-available').html();
+			var provTemplate = $('#template-providers-available').html();
+			var univTemplate = $('#template-university-available').html();
+			
+			createNavigationList(data.subjects,subjTemplate,"#h-subj-col",4);
+			createNavigationList(data.providers,provTemplate,"#h-prov-col",4);
+			createNavigationList(data.subjects,subjTemplate,"#f-subj-col",4);
+			createNavigationList(data.providers,provTemplate,"#f-prov-col",4);
+			createNavigationList(data.universities,univTemplate,"#h-univ-col",4);
+
+			$('.university_last_column li:last a')
+				.html('Show All Universities')
+				.attr({
+					id: 'show_all_university_link',
+					href: '/University'
+				});
+			
+			$('#total_no_courses').text(data.num_courses);
+
+			
+        }
+
+        function generatePattern(column ,totalitems){
+        	
+        	var min_items = Math.ceil(totalitems/column);
+        	var rem = (min_items*column) - totalitems;
+        	var pattern = new Array();
+        	
+        	for(var i = column-1; i >= 0; i--){
+        		pattern[i] = min_items;
+        		if(rem !== 0){
+        			pattern[i] = min_items - rem;
+        			rem = 0;
+        		}
+        	}
+        	return pattern;
+        }
+        function createNavigationList(data,template,htmlRefrence,column){
+        	var total = data.length;
+        	var html = "";
+        	var j = 0 ;
+        	var k = 1 ;
+        	var pattern = generatePattern(column ,total);
+        	var l = pattern[0]-1;
+        	for(var i=0; i<total; i++){
+        		 html += Mustache.to_html(template, data[i]);
+        		 if(i == l){
+        		 	$(htmlRefrence+k).prepend(html);
+        		 	j++;
+        		 	k++;
+        		 	l += pattern[j];
+        		 	html = "";
+        		 }
+        	}
+        }
+
+    });
+</script>
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+	$('body').click(function(event) {
+		/* Act on the event */
+		
+		$(".nav_item").removeClass('open');
+	});
+	
+	$('.top_header_drop').on('click',function(event){
+	
+		event.stopPropagation();
+		var self = $(this);
+		var parent = self.closest('.nav_item');
+		$(".top_filters .filter").removeClass('open');
+		if (self.hasClass('nav_link')){
+			event.preventDefault();
+		}
+		if(parent.hasClass('open')){
+			parent.removeClass('open');
+		}else{
+			$('.nav_item').removeClass('open');
+			parent.addClass('open');
+		}
+	});
+});
+
+</script>
+
+<iframe src="http://cdn.shieldsquare.net/ss2.html?pid=ccece2d2-322a-713a-77ae-985605093ab1" width="0" height="0" tabindex="-1" title="empty" style="visibility:hidden;display:none">
+</html>
+
+</iframe></body></html>
