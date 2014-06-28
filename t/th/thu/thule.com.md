@@ -1,41 +1,80 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2012-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120808085515id_/http%3A//www.thule.com/en/Global/Support/Legal-and-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628222147id_/https%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
-# Thule - Legal and Privacy Policy
+# Legal and Privacy Policy - Thule
 
-Thule takes user privacy seriously; we believe people should be able to contact us without fear of being tracked or overloaded with SPAM. Because we understand how important it is that you know what will happen to any personal information you give us, our mission is to adhere to policies that prevent unauthorized use of your personal information, to maintain the accuracy of the information provided, and to protect the privacy of your information. We have created this policy to explain how we collect data on our website, and to educate users about what we do with this data. Our goal is to create the world’s best website for the world’s best rack system – and allow people to get information, browse and have fun on our site.
+**  
+What information does THULE Group collect and how is it used?**  
+Thule Group will not collect any personally-identifiable information about you (e.g. your name, address, telephone number or email address) through our website without your knowledge and permission unless you have provided it to us voluntarily.
 
-**What information does THULE collect and how is it used?**
+In order to respond to your questions or fulfill your requests or provide you with our e-newsletter or special offers, it may be necessary to ask for personal information such as your name, address, e-mail address and telephone number. We may use this information to respond to your requests, or to contact you via mail, e-mail or telephone to fulfil your request or provide you with e-newsletter or any other information. Also if you submit personally identifiable information when applying for employment, this information will be collected.
 
-E-mail Request for Information - We use links throughout our site so that you can contact us via e-mail to ask questions, request information and materials or send comments and suggestions. We may also ask to have one of our representatives contact you personally to provide additional information about our products or services. In this case, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+Under the Swedish Personal Data Act (PuL) you have rights of access and rectification in relation to your personal information. Such rights will be adhered to by Thule Group as far as possible to fulfill all of our legal obligations. 
 
-Enrollment - If you choose to signup for our e-newsletter and special offers, we will request certain information from you. You may be asked to provide personal details, such as your name, address, telephone number, e-mail address or credit card number. Other promotions may require different or supplemental information from you in order to apply.
+If you don't want to receive any further e-mail communication from Thule Group, please go to [My account](https://web.archive.org/en-us/global/my-account/login) and change your settings there. 
 
-In addition to the information we get directly from you, we also gather information such as general usage of our website, viewing and traffic patterns, customer behaviour and other similar information that is not specific to any one person. We use this compiled information solely for the improvement of our website, our product and service offerings, our operations, and our customer service.
+**Does THULE GROUP disclose the stored information to third parties?**  
+Thule Group will only store personal information as required to meet legal and regulatory requirements or as needed to provide personalized services to you.
 
-**Does THULE disclose the information it collects to outside parties?**
+If you provide personally identifiable information to us, we will not disclose your personally identifiable information to any third party without your consent, unless required to do so by law, or unless we in good faith believe such action is necessary to (i) perform a task carried out in the public interest, or (ii) to defend our rights or property or those of any other Thule Group entity or affiliate. However, in order to respond to your questions, fulfil your requests, provide you with specific information, your personally identifiable information may be shared with other Thule Group entities. Any such other Thule Group entity may be located within or outside the European Economic Area. In accordance with the above, if you submit personally identifiable information, you voluntarily consent to transfer of such information to other countries, including countries within or outside of the European Economic Area. 
 
-No! THULE does not resell any confidential customer information that is obtained or derived in its marketing efforts. However, we must cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
+We do not now or in the future intend to sell, rent or market personal data about you to third parties. 
 
-**Why do you need my e-mail address?**
+**W** **hat are cookies?**  
+When visiting our website some information may be stored on your computer in the form of a "cookie". A "cookie" is a small text that contains information and is stored on your computer. Cookies are used purely for technical purposes to facilitate use of the web page. One type of cookie saves a file permanently on your computer. It may then be used to personalize a web page according to the user’s choices and interests. The main type of cookie is called a "session cookie". While you are visiting a web page, session cookies are sent between your computer and the server to access information. Session cookies disappear when you turn off your web browser.  A "permanent cookie" is saved to the disk and remains after the browser is closed.
 
-We may contact you by e-mail to confirm enrolment, check the accuracy of supplied information or send you notices about special offers, new products, services, promotions and other similar information. If you don’t want to receive e-mails from us, please advise us by e-mail. We will respect your wishes regarding the methods we use to communicate with you.
+Thule Group uses cookies to gather visitor statistics and to record information about your preferences as you navigate through the web sites. In this way, we hope to be able to better target relevant information to our visitors.
 
-**What are cookies?**
+Unless particularly stated elsewhere, cookies are never used by Thule Group with the aim to gather personal data. 
 
-"Cookies" are helpful pieces of information about you that a website stores on your hard disk to make your return visits to the website more convenient. For example, THULE uses cookies to help identify you so that you can access your member benefits quickly and easily. We do not use cookies to collect personal information or to retrieve information from your computer for purposes that are unrelated to the website or your interaction with the website.
+If you do not accept the Thule Group's use of cookies on our web site, it is possible for you to configure your browser to reject cookies by modifying your browser settings. However, this means that we cannot guarantee that all functions of our web site will function as intended. The procedure for rejecting cookies will depend on what web browser you are using. Please consult the information provided with your browser for more information. 
 
-**How does THULE protect customer information?**
+**W** **hat is AddThis?**  
+AddThis buttons allows website owners to easily share content with other people either via social networks, e-mail or by bookmarking a page. The buttons provide statistics about bookmarking and sharing activity of users and helps visitors create buzz for sites to increase popularity and ranking. 
 
-Our website is designed to protect your personal information. When you submit sensitive information via the website, your information is protected both online and off-line.
+**What is Social media?**  
+The website might use social media widgets to enable users to engage with content from our websites on various social platforms (Facebook, YouTube, Twitter, LinkedIn etc). To understand how and what information is collected and what cookies are set by these third parties, please refer to the privacy policy of the appropriate social platform.  
 
-When our registration/order form asks you to enter sensitive information, such as a credit card number, that information is encrypted and protected with advanced encryption software known as “SSL”. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just “surfing”.
+**How does THULE GROUP protect customer information?**  
+Thule Group maintains high standards to safeguard your personal information at all times, and will carefully protect all such information.
 
-While we use SSL encryption to protect sensitive information online, we take additional steps to protect your personal information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.
+All passwords are encrypted and our servers are protected by secure fire walls.  
 
-**Do these same policies apply to non-THULE websites that I access through THULE?**
+**D** **** **oes the Privacy Policy of Thule Group apply on linked external websites?**  
+Our website may contain links to other websites such as benefit providers. These Third party websites are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect your personal information. Please ensure that you are satisfied with the Privacy Policy of these Third Parties before you submit any personal information.  
 
-We cannot be responsible for the privacy and security practices of non-THULE websites. You will notice that our websites may contain links to other sites such as our benefit providers. While we believe these sites share a similar commitment to consumer privacy and security, you should review that site’s privacy and security policies when linking to their site.
+**Extranet user handling**  
+Logins to Thule group Extranets are personal and a personal email address is used for identification. A user that is connected to a dealer/point of sales will get the information settings chosen for that dealer/point of sales. It is the responsibility of the Extranet Administrator for a specific dealer/point of sales to remove any rights for a user that should no longer have access to the Extranet on behalf of the dealer/point of sales.
 
-**How does THULE update its Privacy and Security Policy?**
+Other Thule Group brands may use the same user data and this is also the case for the Thule group Extranet. The extranet spans all brands.  
 
-Any changes to our Privacy and Security Policy will be posted on this page so that you always know what information we collect and how we use it and the latest updates on how we maintain the secure portions of our websites. By using our website, you consent to the collection and use of information as it is disclosed in this Privacy and Security Policy Statement.
+**How does Thule Group update this Privacy Policy?**  
+Thule Group may at any time without any notice revise the terms of this Private Policy by updating it. We recommend that visitors to our website re-visit the Privacy policy of Thule Group on occasion to learn of new Privacy practices or changes to our policy. 
+
+**Trademark and copyright**  
+A trademark is a word, logotype, slogan, colour or shape that identifies and distinguishes the source or origin of a product or service.  All trademarks belonging to Thule Group are important and valuable assets of the company.
+
+The Thule Group respects the Intellectual Property rights of others, and we ask the same of others. 
+
+Unless otherwise indicated on this site, all trademarks, brand names and corporate logos are the property of Thule Group or its affiliates and protected by Intellectual Property Rights Law.
+
+Trademarks, brand names and corporate logos belonging to Thule Group may not be used in any way without the prior written permission from Thule Group. 
+
+The copyright of this website, including without limitation, all documents, files, text, images, graphics, devices, sound, audio-visual elements, is owned by Thule Group and is protected by Swedish and international copyright laws. (All Rights Reserved)
+
+The website or any part of it may not, apart from what is stated below, be reproduced, duplicated, copied, transferred, distributed, stored or otherwise exploited for any commercial use without prior written permission by Thule Group. No links to this website may be included in any other website without the prior written permission by Thule Group. Modifications to the contents on this website are expressly prohibited. 
+
+You are authorized to view, print and copy any document published on this website for your personal non-commercial use and provided that any such copy or print retains all copyright or other proprietary notices. 
+
+You are authorized to use information from this website if it is only used for information purposes, provided the source of information is mentioned. You may copy and print press releases and other documents classified as public. 
+
+The content of the information may not be modified and the information should be used in a way that does not harm the reputation of Thule Group. 
+
+The website may contain images that are subject to copyright of third parties.  
+
+**Contact**  
+In case you have any questions about our Privacy Policy, please don't hesitate to contact customer support through this web site.
+
+**D** **isclaimer**  
+Although every care has been taken to assure the accuracy of the information on the website of Thule Group, we provide this information "as is" and disclaims all warranties, expressed or implied. You acknowledge that your use of the website is at your sole risk. All material, including but not limited to, text, photographs, graphics and figures on any Thule Group website may contain technical errors or typing inaccuracies or other types of errors or inaccuracies. Thule Group assumes no responsibility whatsoever for any such errors or inaccuracies. Further, Thule Group explicitly disclaims any warranty the any website of Thule Group is free from infection by virus or anything else that has contaminating or destructive properties or that the information on any Thule Group website will be uninterruptible or error free. 
+
+Neither Thule Group nor any person or company associated with Thule Group shall be liable for any damages whatsoever resulting from your use or inability to use this site or any content, services, or materials provided by or on this site
