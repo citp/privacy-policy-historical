@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222051520id_/http%3A//www.bizo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628061259id_/http%3A//www.bizo.com/privacy-policy) for the most accurate reproduction.*
 
-# Get to the Right People | Bizo
+# Privacy Policy — Bizo
 
 Bizo, Inc. ("Bizo") is a provider of business targeting technologies and services to online marketers and Web sites and considers the protection of your privacy and full disclosure of the use of your information to be of utmost importance. We operate services relating to the Bizographic Targeting Network (BTN), an online advertising network for business marketers and Web sites. This Privacy Policy has been created to describe and disclose how we use and collect user data in order to provide these services. While reading this document, if you have any questions, or become hopelessly bored and are unable to continue, please feel free to contact us at [privacy@bizo.com](mailto:privacy@bizo.com) or at the address listed below.
 
@@ -51,7 +51,7 @@ We have implemented a strict cookie data policy and process around data retentio
 
 You are always free to decline cookies, and by doing so you may not be able to use certain features on certain Web sites or take full advantage of all the offerings and targeted advertising on such Web sites. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set.
 
-Bizo is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (“NAI”) and complies with all NAI standards.  To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Bizo or other ad networks, click [here](http://www.networkadvertising.org/managing/opt_out.asp).  Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo only](http://www.bizo.com/business_audience/opt_out.html).  This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
+Bizo is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (“NAI”) and complies with all NAI standards.  To learn more about the use of cookies for targeting and to opt out of data collection and targeting cookies from Bizo or other ad networks, click [here](http://www.networkadvertising.org/managing/opt_out.asp).  Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo only](http://www.bizo.com/opt-out/).  This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat the opt-out process for each computer and each browser.
 
  ** _Disclosure of Information_**
 
