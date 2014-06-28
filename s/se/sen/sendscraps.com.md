@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928033101id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendscraps.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628191909id_/http%3A//www.sendscraps.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SendScraps.com
 
@@ -10,7 +10,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 Cookies  
 A cookie is a piece of data stored on the userнs computer tied to information about the user. Our site does not use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. If you wish to disable cookies, you may do so through your individual browser options.
 
-We use outside ad companies to display ads on our site. These ads may use cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the following advertising companies: Google Adsense, AzoogleAds, CPX Interactive, Komli. Please check their websites for respective privacy policy documents.
+We use outside ad companies to display ads on our site. These ads may use cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the following advertising companies: Google Adsense, CPX Interactive, Epic Direct, Glispa. Please check their websites for respective privacy policy documents.
 
 DoubleClick DART cookies  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting London, you may see London hotel advertisements when viewing a non-related site, such as on a site about music). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting: [www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)
