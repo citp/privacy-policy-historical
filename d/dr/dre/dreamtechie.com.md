@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228110215id_/http%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtechie.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628225300id_/http%3A//www.dreamtechie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dream Techie
+# Privacy Policy
 
 Just like our readers, their privacy is also so important to us. This Privacy Policy governs the manner in which Dream Techie collects, uses, maintains and discloses information collected from users of the [Dreamtechie.com](http://www.dreamtechie.com/) website. This privacy policy applies to the Site and all products and services offered by Dream Techie.
 
