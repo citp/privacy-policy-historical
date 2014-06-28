@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112225814id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628224313id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is important to us. We provide this policy to better protect you, and to explain our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+This privacy policy applies to all Team Liquid website properties, including teamliquid.net and liquidhearth.com.
 
 ## The Information We Collect
 
@@ -14,7 +16,7 @@ IP address
 Birthday  
 Country (optional)
 
-The username you supply will be used as an identifier when posting content to our website. An email address is required to register for the forums as your login details will be sent to it. Your email address will not be publicly displayed on any part of the website, but it will be visible to Team Liquid staff. Your birthday is required to ensure our compliance with the Children's Online Privacy Protection Act and will be displayed in your Team Liquid profile. Your IP address is recorded to monitor abuse resulting from multiple registrations under the same IP address.
+The username you supply will be used as an identifier when posting content to our website. An email address is required to register for the forums as your login details will be sent to it. Your email address will not be publicly displayed on any part of the website, but it will be visible to Team Liquid staff. Your birthday is required to ensure our compliance with the Children's Online Privacy Protection Act and the full date will not be displayed anywhere. On the day of your birthday your icon will reflect the fact that it is your birthday. Your IP address is recorded to monitor abuse resulting from multiple registrations under the same IP address, spam bots, link farmers, etc.
 
 As part of our site features, we offer a forum and other features on which you can freely post any text. If you choose to disclose personally identifying information, be aware that Team Liquid is a public web site and anyone is able to read your posts, so there is no expectation of privacy for user-generated content. Where applicable, we will moderate any posts that violate US law in regards to information disclosed about other individuals.
 
@@ -28,7 +30,7 @@ We use third-party advertising companies to serve ads when you visit our site. T
 
 ## The Way We Use Information
 
-We use the information you provide to better identify yourself to other users. Your username, country and birthday can be viewed by anyone visiting our website. Your username will identify you in any posts you make to the website forums.
+We use the information you provide to better identify yourself to other users. Your username and country can be viewed by anyone visiting our website. Your username will identify you in any posts you make to the website forums.
 
 Your email address will not be shared with third parties for marketing, spam, or promotional activities. We may use your email address to identify you in moderation actions, for instance when a user creates multiple accounts and uses them maliciously. Your email address will also be used to reset your password, though if you lose access to that particular email, we can change it or reset your password manually. From time to time, we may use your email address to send low-volume important site announcements. If you do not wish to receive these announcements, an opt-out link will be provided in each email and you may disable the emails at any time through your profile settings.
 
@@ -44,7 +46,7 @@ We use cookies to store visitors preferences and record session information, suc
 
 ## Data Security
 
-Team Liquid runs on dedicated hosting servers which only a few trusted site staff have access to. These servers are housed in a professionally managed and secure data center in New York, USA.
+Team Liquid runs on dedicated hosting servers which only a few trusted senior site staff have access to. These servers are located in a professionally managed and secure data center in New York, USA.
 
 ## Children's Privacy
 
