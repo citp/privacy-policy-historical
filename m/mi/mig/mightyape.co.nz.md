@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029054047id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628130523id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape NZ
 
