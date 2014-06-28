@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019171323id_/http%3A//crowdin.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093337id_/https%3A//crowdin.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Your privacy matters - Crowdin
 
@@ -12,17 +12,17 @@ Crowdin.net may collect two types of information from users: "personally identif
 
 Crowdin.net may use the personally identifiable information a user submits for any purposes related to Crowdin.net business, including, but not limited to: 
 
-  * To understand the user's needs and create content that is relevant to the user; 
-  * To generate statistical studies; 
-  * To conduct market research and planning by sending user surveys; 
-  * To improve services, information, and products; 
-  * To help a user complete a transaction, or provide services or customer support; 
-  * To communicate back to the user; 
-  * To update the user on services, information, and products; 
-  * To personalize the Site for the user; 
-  * To notify the user of any changes with the Site which may affect the user; 
-  * To enforce terms of use on a Site; and 
-  * To allow the user to access services or otherwise engage in activities the user selects. 
+  * understand the user's needs and create content that is relevant to the user; 
+  * generate statistical studies; 
+  * conduct market research and planning by sending user surveys; 
+  * improve services, information, and products; 
+  * help a user complete a transaction, or provide services or customer support; 
+  * communicate back to the user; 
+  * update the user on services, information, and products; 
+  * personalize the Site for the user; 
+  * notify the user of any changes with the Site which may affect the user; 
+  * enforce terms of use on a Site; 
+  * allow the user to access services or otherwise engage in activities the user selects. 
 
 
 
@@ -32,8 +32,14 @@ Except as described in this statement, we will not disclose your personal inform
 
 #### Changes to the Privacy Policy
 
-We will occasionally update the privacy policy to reflect customers' feedback and changes in our service. When we will post changes to the Policy, we will revise the "last updated" date at the top of it. In case of any changes we will notify you either by posting a prominent notice of changes prior to their implementation or by sending you a notification directly. We encourage you to periodically review this statement to be informed about how Crowdin.net is protecting your information.
+We will occasionally update the privacy policy to reflect customers' feedback and changes in our service. When we will post changes to the Policy, we will revise the "last updated" date at the top of it. In case of any changes we will notify you either by posting a prominent notice of changes prior to their implementation or by sending you a notification directly. We encourage you to periodically review this statement to be informed about how Crowdin.net is protecting your information. 
 
 #### Contact Us
 
-Crowdin.net welcomes your comments regarding privacy policy. Should you have any questions concerning privacy policy or believe that we have not adhered to it, please contact us 
+Crowdin.net welcomes your comments regarding privacy policy. Should you have any questions concerning privacy policy or believe that we have not adhered to it, please [contact us](https://web.archive.org/contacts). 
+
+#### Notice
+
+Children under the age of 13 are not eligible to use our service and must not attempt to register and/or submit any personal information. 
+
+Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including us) without asking their parents/legal guardians for permission beforehand 
