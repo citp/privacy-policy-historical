@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matomymarket.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830113911id_/http%3A//www.matomymarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matomymarket.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022358id_/http%3A//www.matomy.com/assets/global-privacy-policy) for the most accurate reproduction.*
 
-# Global Privacy Policy | Matomy – Global Performance Network
+# Global Privacy Policy | Matomy Media Group: Global Performance MarketingMatomy Media Group: Global Performance Marketing
 
 Matomy Media Group (the “Company” or “We”) is committed to protect the privacy of users who access its Website (the “Site”). This Privacy Policy Statement (the “Privacy Policy”) explains the types of information We gather and what We do with it. By using the Site, you agree to the terms and policies described in this Privacy Policy.
 
