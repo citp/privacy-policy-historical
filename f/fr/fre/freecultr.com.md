@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecultr.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525212249id_/http%3A//www.freecultr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecultr.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628125102id_/http%3A//www.freecultr.com/privacy-policy) for the most accurate reproduction.*
 
 # FREECULTR- Privacy Policy
 
