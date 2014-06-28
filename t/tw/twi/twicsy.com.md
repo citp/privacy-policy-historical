@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208181414id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024801id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
 
-# Twicsy Privacy Policy | Twicsy, the Twitter Pics Engine
+# Twicsy Privacy Policy | Twicsy - Twitter Picture Discovery
 
 **What information do we collect from visitors to Twicsy.com?**
 
@@ -52,7 +52,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Opting Out of Twicsy**
 
-If you would like your content removed from Twicsy please use this [removal form](https://web.archive.org/auth?remove=true). 
+If you would like your content removed from Twicsy please use this [removal form](https://web.archive.org/remove). 
 
 **Contacting Us**
 
