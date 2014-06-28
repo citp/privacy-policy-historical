@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purahala.net privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228134141id_/http%3A//purahala.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purahala.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045434id_/http%3A//purahala.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purahala.net | Live Shows | Live Musical Shows | Sinhala Songs | Sinhala Music Videos | Free Sinhala Song Downloads | Free Sinhala MP3 | Online Songs | Sinhala Mp3 | Sinhala Mp3 | sinhala mp3 | Video Song | Sinhala Video Song | Sinhala All Albums | Albums| : Purahala.net | Live Shows | Live Musical Shows | Sinhala Songs | Sinhala Music Videos | Free Sinhala Song Downloads | Free Sinhala MP3 | Online Songs | Sinhala Mp3 | Sinhala Mp3 | sinhala mp3 | Video Song | Sinhala Video Song | Sinhala All Albums | Albums|
 
