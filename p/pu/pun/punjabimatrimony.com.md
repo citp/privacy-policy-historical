@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806150803id_/http%3A//www.punjabimatrimony.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punjabimatrimony.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628140141id_/http%3A//www.punjabimatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPPUNJABI) for the most accurate reproduction.*
 
 # www.punjabimatrimony.com
 
@@ -18,7 +18,8 @@ BharatMatrimony collects information from our users primarily to ensure that we 
 
 With whom the site shares the information it collects/tracks?
 
-The information collected from any of our users is not shared with any individual or organisation without the former's approval.  
+The information collected from any of our users is not shared with any individual or organisation without the former's approval.
+
 BharatMatrimony.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
 Do all visitors have to pay?
@@ -38,3 +39,6 @@ Notice
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company.
 
 If you have any questions regarding our Privacy Statement, please write in to [privacy@bharatmatrimony.com](mailto:privacy@bharatmatrimony.com)
+
+  
+
