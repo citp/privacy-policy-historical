@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215002251id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillnews.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628090309id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheHill
 
@@ -22,7 +22,7 @@ In each of the instances above, we typically ask for some or all of the followin
 
 The personally identifiable information you provide to us when using the Site may be used to provide products and services to you, to enhance your experience at the Site, and, if applicable, to enhance your experience as a subscriber to The Hill's products and services.
 
-We may from time to time use your personally identifiable information to notify you of special offers and products and services from The Hill and/or from third parties that we think may be of interest to you. It is possible that we may rent, sell or otherwise transfer to third parties personally identifiable information about you. At any time, you can contact The Hill to request that we not share your personally identifiable information with third parties, as set forth in greater detail below.
+We may from time to time use your personally identifiable information to notify you of special offers and products and services from The Hill and/or from third parties that we think may be of interest to you. It is possible that we may rent, sell or otherwise transfer to third parties personally identifiable information about you. This might include third parties such as service providers that analyze data, process transactions; advertisers; sponsors or other third parties that participate in or administer our promotions, sweepstakes, surveys or provide marketing or promotional assistance or similar such services. At any time, you can contact The Hill to request that we not share your personally identifiable information with third parties, as set forth in greater detail below.
 
 We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to The Hill and the Site, such as providing credit card processing and fraud screening, order fulfillment and shipment, mailing of The Hill publications and other materials, hosting and maintaining the Site, and developing applications for the Site. These Outside Contractors may sometimes have limited access to information collected from you, including your personally identifiable information, in the course of providing products or services to us. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary in order for these Outside Contractors to perform their limited function for us. We also require that these contractors (i) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (ii) not use or disclose your personally identifiable information for any purpose other than providing us with products or services for which we contracted.
 
@@ -62,8 +62,8 @@ e-mail: [help@thehill.com](mailto:help@thehill.com)
 
  **Changes To The Privacy Policy**
 
-This Privacy Policy is effective as of March 21, 2005. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
+This Privacy Policy is effective as of February 26th, 2014. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
 
 What If You Do Not Agree To The Terms Of This Privacy Policy?
 
-As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
+As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site..
