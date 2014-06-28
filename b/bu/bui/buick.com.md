@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223235916id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124847id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
 **General Motors Company U.S. Consumer Privacy Statement**
 
-Last modified: December 19, 2013
+Last modified: May 28, 2014
 
 Your privacy is important to General Motors Company (“GM” or “we”) as is your trust in GM’s products and services. We want you to know that the information you share with us will be treated with care. This Privacy Statement addresses what personal information we collect and how we handle the personal information shared with us. 
 
@@ -31,7 +31,7 @@ The types of information that GM collects about you may include, but are not lim
   * vehicle performance data (such as engine and transmission performance, airbag deployment conditions or crash or near crash information about how a vehicle’s systems performed)
   * demographic information (such as age range, marital status and household composition)
   * non-credit-related marketing profile information (such as when you plan to purchase or lease; the vehicle in which you're interested)
-  * relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Card or OnStar)
+  * relationships you have with GM in addition to the purchase and servicing of your vehicle (such as through a GM Rewards Card or OnStar)
   * incentive eligibility verification information (such as college name, branch of service or credit union name for vehicle purchase programs)
   * Social Security Number (in limited circumstances GM may collect SSN, for example if you win a sweepstakes or receive compensation that must be reported for government tax purposes)
   * investor information (name, address, phone number and email address)
@@ -101,7 +101,7 @@ GM uses administrative, technical and physical security to protect the personal 
 
 **_Cookies/Tracking Technologies_**
 
-GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer.
+GM websites use “cookies” to remember user preferences and to maximize the performance of our website and services. Using cookies on our websites provides benefits to you, such as allowing you to maintain your account login information or contact information on Request a Quote forms between visits, or locating a nearby dealer. In addition, we use information gathered from cookies to autofill fields on forms such as the city, state or zip code associated with your IP address. This information can be corrected by you before submitting any form or inquiry or you can disable the cookie as discussed below and the information will not be collected.
 
 Similarly, we may also place Web beacons in our emails to measure the effectiveness of our email campaigns by identifying the individuals who open or act upon an email message, when an email message is opened, how many times an email message is forwarded, the type of software, device, operating system and browser used to deliver the email and any URL accessed through our email message.
 
@@ -160,21 +160,16 @@ Pontiac:       1-800-762-2737
 
 For inquiries about how the information you submit to the Investor Information portion of GM’s website or to GM Stockholder Services is handled, please call 313-667-1432. 
 
-You may correct GM credit cardmember information, such as name, address, phone number and email address, by logging onto [gmcard.com](https://www.gmcard.com/?s_cid=G5IM099AAX1303002542XXHHX&evar25=gm), [gmflexcard.com](https://www.gmcard.com/flex/about-the-card), [gmextendedfamily.com](https://www.gmcard.com/efc/about-the-card) or [gmbusinesscard.com](https://www.gmcard.com/business/about-the-card) and going to the “Account” or “Online Banking” portion of the website. You can also call the Customer Center for your Account.
+You may correct GM Rewards Cards contact information, such as name, address, phone number and email address, by logging onto the Account portion of the website listed on the back of your card. You can also call the Customer Center for your Account.
 
-  * GM Card 800-771-7363
+  * BuyPower Card 888-316-2390
   * GM Flexible Earnings Card 800-388-9107
   * GM Extended Family Card 800-419-6698
   * GM Business Card 800-446-5347
 
 
 
-  
-You may change your GM Vehicle Preferences and email address by logging into the “Earnings” portion of the site and clicking on “GM Vehicle Preferences” or “GM Profile.” 
-
-You may correct the contact information (name, address, phone number and email address) you provide on the GM Cardmember Services website by using My Profile.
-
-If you have a question or concern about the privacy practices of the GM Cardmember Services website, please contact us by sending an email from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265. 
+If you have a question or concern about the privacy practices of the BuyPower Card or the GM Card websites, please contact us by sending an email from the Contact Us page or by writing to us at: GM Rewards Card, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265. 
 
 For GM Family First participants, you may correct your information by contacting your Human Resources representative or updating your information via Socrates. For Vehicle Purchase Plan (“VPP”) participants, you may correct your personal information by visiting the following VPP websites.
 
@@ -192,7 +187,7 @@ We may update this Privacy Statement from time to time. We will do so by posting
 
 Effective date: September 1, 2011
 
-Last modified: December 19, 2013  
+Last modified: May 28, 2014  
  
 
 **Frequently Asked Questions**
