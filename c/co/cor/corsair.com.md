@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426182735id_/http%3A//www.corsair.com/us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsair.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628203746id_/http%3A//www.corsair.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ We may release information on customers and visitors to our website when we beli
 
 #### Changes to Privacy Policy
 
-Corsair reserves the right to change this Privacy Policy. Any changes in the policy will be posted directly on the Corsair website at http://www.corsair.com/privacy_policy.aspx. In the event of a material change in Corsair’s data collection and handling practices, Corsair will inform those users who have provided an e-mail address via e-mail and will post a prominent notice on the website for 30 days.
+Corsair reserves the right to change this Privacy Policy. Any changes in the policy will be posted directly on the Corsair website at [http://www.corsair.com/privacy-policy](https://web.archive.org/privacy-policy). In the event of a material change in Corsair’s data collection and handling practices, Corsair will inform those users who have provided an e-mail address via e-mail and will post a prominent notice on the website for 30 days.
