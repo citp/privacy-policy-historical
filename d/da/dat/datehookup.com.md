@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805142337id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020708id_/http%3A//datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
@@ -121,7 +121,8 @@ _Privacy Officer
 DateHookup.com   
 8300 Douglas Avenue, Suite 800   
 Dallas, Texas 75225   
-privacy@match.com _
+privacy@match.com   
+(347) 903-3283 _
 
 © IAC/InterActiveCorp. All rights reserved. 
 
