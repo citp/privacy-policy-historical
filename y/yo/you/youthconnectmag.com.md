@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youthconnectmag.com privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215043234id_/http%3A//youthconnectmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthconnectmag.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033951id_/http%3A//www.youthconnectmag.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Youth Connect
+# Privacy Policy - Youth Connect
 
-******Updated: September 20, 2013**
+**Updated: September 20, 2013**
 
 At Youth Connect, we take privacy of the information you share with us very seriously. We respect the personal nature of the information that you provide to us on our website www.youthconnectmag.com or any of its subsidiary sites hosted on www.youthconnectmag.com or www.yc-m.in or any of the sub-domains of these primary domains. This policy document governs the use of your information by us or our partners, associates or subsidiaries. This privacy policy document may be changed wholly or to a part, at any time, and we encourage you to check this document often to ensure that you are familiar with our Privacy Policy.
 
