@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschool.com.ng privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230065353id_/http%3A//myschool.com.ng/school/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.com.ng privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628101125id_/http%3A//myschool.com.ng/school/docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Document | Myschool.com.ng
 
