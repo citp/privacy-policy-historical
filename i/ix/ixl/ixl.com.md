@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixl.com privacy policy that was archived on 2013-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130716175551id_/http%3A//www.ixl.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixl.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628061631id_/http%3A//www.ixl.com/privacypolicy) for the most accurate reproduction.*
 
 # IXL - Privacy Policy
 
