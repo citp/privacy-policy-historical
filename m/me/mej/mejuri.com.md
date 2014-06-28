@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mejuri.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142325id_/http%3A//mejuri.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mejuri.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628072012id_/http%3A//mejuri.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mejuri :: Fine Crowdsourcing Jewelry
+# Privacy Policy | Unique Jewelry | Fine and Custom Jewelry online
 
 Mejuri Inc (“Mejuri”) recognizes that your business is no one else's. Customers, visitors and users (collectively, the “Users”) who use www.mejuri.com (the “Site”) will have their privacy protected. To protect your privacy, Mejuri follows different principles in accordance with world-wide practices for customer privacy and data protection. This Privacy Policy sets out how Mejuri uses and protects any information that you give when you use this Site. By accessing this Site, using features of this Site and submitting information to Mejuri you are bound by all terms and conditions in the Terms of Use and this Privacy Policy. 
 
