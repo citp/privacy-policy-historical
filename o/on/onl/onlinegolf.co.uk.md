@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010084717id_/http%3A//www.onlinegolf.co.uk/null/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628160306id_/http%3A//www.onlinegolf.co.uk/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # Sites-OnlineGolf-GB-Site
 
@@ -44,6 +44,8 @@ This website contains hyperlinks to other pages on this website. Technology may 
 Such anonymous data is used to improve the content and functionality of this website and e-mail updates, to better understand clients and markets, and to improve services.
 
 In order to collect the anonymous data described in the preceding paragraph, in the future temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this website may be used. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
+
+As part of our efforts to provide you with a more personalised experience, we may occasionally email you offers or reminders based on your shopping preferences. If you would like to opt-out of this service, please follow the instructions on [this page](http://webservices.sub2tech.com/optout/optout.aspx). 
 
 IP address may also be used to help diagnose problems with this website's server and to administer this website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many visitors are from outside of the UK.
 
