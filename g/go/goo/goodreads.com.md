@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601025949id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodreads.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628135351id_/http%3A//www.goodreads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,8 +117,8 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/about/contact_us), or send mail to:
 
 Goodreads, Inc  
-1444 9th Street, Suite B  
-Santa Monica, CA 90401
+188 Spear Street, 3rd Floor  
+San Francisco, CA 94105
 
 ## Updates
 
