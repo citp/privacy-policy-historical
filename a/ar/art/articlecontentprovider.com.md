@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104054412id_/http%3A//www.articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628180327id_/http%3A//www.articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
 
 # Article Writing Service - 800.977.4355
 
