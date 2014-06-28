@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101185812id_/http%3A//www.stata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628202010id_/http%3A//www.stata.com/privacy-policy) for the most accurate reproduction.*
 
 # Stata | Privacy policy
 
