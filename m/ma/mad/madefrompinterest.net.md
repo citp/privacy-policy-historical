@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222180855id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232210id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Made From Pinterest
+# Privacy Policy - Made From Pinterest
 
 Protecting your private information is our priority. This Statement of Privacy applies to MadeFromPinterest.net and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Made From Pinterest  include www.madefrompinterest.net.  The Made From Pinterest website is a recipes and informational site. By using the Made From Pinterest website, you consent to the data practices described in this statement.
 
