@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030064720id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112821id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Crate and Barrel
 
@@ -22,6 +22,7 @@ By using crateandbarrel.com, cb2.com, or landofnod.com (collectively, “Website
   * Links to Websites and Services
   * Compliance With Laws and Law Enforcement
   * Information Security
+  * Your Responsibilities
   * A Privacy Promise
   * Processing in the United States
   * Privacy Policy Updates
@@ -45,7 +46,7 @@ Back to Top
 
 ## Cookies Are Served
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here.
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them and other tracking technologies to provide enhanced online marketing based on your interests and preferences. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Websites enable you to opt out of this type of advertising. To opt out of these ads, please click here. Please also see the “Third Party Service Providers” section of this Privacy Policy for additional information about and options for opting out of this type of advertising. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. Please see the “Your Information Sharing Choices” section and the “Remove Your Name From Our Lists at Any Time” section of this Privacy Policy for more information.
 
 Back to Top
 
@@ -145,6 +146,12 @@ When you make a purchase online, either a solid key or a locked padlock icon wil
 
 Back to Top
 
+## Your Responsibilities
+
+You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all activities that occur under your account or password. As a result, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a computer that others may have access to.
+
+Back to Top
+
 ## A Privacy Promise
 
 We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
@@ -183,4 +190,4 @@ Customer Service Department
 1860 W. Jefferson Avenue  
 Naperville, IL 60540-3918 
 
-_Last Updated, September 4th 2013_
+_Last Updated, December 13th 2013_
