@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102090210id_/http%3A//www.sigmasport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmasport.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628132735id_/http%3A//www.sigmasport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sigma Sport
 
@@ -76,6 +76,26 @@ KT1 4DA
 [websales@sigmasport.co.uk](mailto:websales@sigmasport.co.uk)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
+
+  
+
+
+## Product Reviews
+
+* * *
+
+Around 2 weeks after receiving your product, we may send you an email inviting you to review and rate the product that you purchased.
+
+Please also be aware that: 
+
+  * Your review may be shared in our shop. 
+  * Once submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our publishing guidelines. 
+  * Your review can be submitted anonymously or if you prefer you can leave a ratings only review. 
+  * It is not possible for you to edit/remove your review after submission. 
+
+
+
+If you require any further information on this service or wish to have your review removed, you can contact [customer services](mailto:websales@sigmasport.co.uk).
 
   
 
