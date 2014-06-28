@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roempire.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014061322id_/http%3A//www.roempire.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roempire.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628030306id_/http%3A//roempire.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # :: RO Empire - Privacy Policy :: A Ragnarok Online Official Fansite ::
 
