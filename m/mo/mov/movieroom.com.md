@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223033447id_/http%3A//movieroom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieroom.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628185955id_/http%3A//www.movieroom.com/privacy.php) for the most accurate reproduction.*
 
 # Movie Room - Porn Scenes DVD
 
