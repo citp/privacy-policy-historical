@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805214802id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonbond.co privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093440id_/https%3A//commonbond.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonBond
 
@@ -68,7 +68,7 @@ By using our website, you consent to the collection, processing and storage of i
 
 Customers may access, review and/or correct all their personally identifiable information that we collect online by sending an email to [info@commonbond.co](mailto:info@commonbond.co).
 
-CommonBond, LLC  
+CommonBond, Inc.  
 183 State Street, 6th Floor  
 Brooklyn, NY, 11201  
 United States of America
