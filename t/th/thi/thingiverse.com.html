@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the thingiverse.com privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208131852id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thingiverse.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629000345id_/http%3A//www.thingiverse.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js canvas geolocation video audio localstorage sessionstorage texttrackapi track details"><head>
-					<title>Privacy Policy - Thingiverse</title>
-				<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html lang="en" class=" js canvas geolocation video audio localstorage sessionstorage texttrackapi track details"><head>
+		<title>Privacy Policy - Thingiverse</title>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Language" content="EN">
 		<meta http-equiv="imagetoolbar" content="no">
@@ -14,6 +14,9 @@
 		<meta name="revisit-after" content="1 days">
 		<meta name="robots" content="follow,index">
 		<meta name="description" content="Thingiverse is a universe of things. Download our files and build them with your lasercutter, 3D printer, or CNC.">
+		
+							<meta property="og:image" content="www.thingiverse.com/img/thingiverse-avatar.jpg">
+				
 				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		
 				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery-1.8.3.min.js"></script>
@@ -33,9 +36,8 @@
 
 						<link rel="stylesheet" type="text/css" href="/js/jstree/source/tree_component.css">
 				<link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
-				<link rel="stylesheet" type="text/css" href="/css/flexslider.css?v=grue">
-							<link rel="stylesheet" type="text/css" href="/css/screen_grids.css?v=irony">
-				
+				<link rel="stylesheet" type="text/css" href="/css/screen_grids.css?v=narf">
+		
 		<!--[if lte IE 8]>
 			<script src="/js/respond.min.js"></script>
 		<![endif]-->
@@ -45,32 +47,39 @@
 
 		
 		<script type="text/javascript">
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-247838-14']);
-		  _gaq.push(['_trackPageview']);
+			var _gaq = _gaq || [];
+			
+			if(typeof(mwThingiverse) !== 'undefined' && !mwThingiverse.canHazTracking) {
+			  	_gaq = null;
+			}
+			else {				
+				_gaq.push(['_setAccount', 'UA-247838-14']);
+				_gaq.push(['_trackPageview']);
 
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
+				(function() {
+				  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			}
 		</script>
 
 	</head>
-	<body class="loggedout">
-			<div id="off-canvas">
-			<div class="login-box">
+
+		<body class="thingiverse loggedout">
+	<div id="off-canvas">
+		<div class="login-box">
 	<div class="login-options">
 		
-			<a href="/login/" class="sign-in">
+			<a href="//accounts.makerbot.com/?theme=thingiverse&amp;redirect=YToyOntzOjQ6InR5cGUiO3M6ODoicmVkaXJlY3QiO3M6NDoiZGF0YSI7czo0MToiaHR0cHM6Ly93d3cudGhpbmdpdmVyc2UuY29tL2xlZ2FsL3ByaXZhY3kiO30=" class="sign-in">
 				<span>
 					<img src="/img/profile-placeholder.jpg">
 					<div class="username">Sign In</div>
 				</span>
 			</a>
-	
+
 			<div class="register">
-				<a href="/register" class="register-link button">Join Thingiverse!</a>
+				<a href="//accounts.makerbot.com/register?theme=thingiverse&amp;redirect=YToyOntzOjQ6InR5cGUiO3M6ODoicmVkaXJlY3QiO3M6NDoiZGF0YSI7czo0MToiaHR0cHM6Ly93d3cudGhpbmdpdmVyc2UuY29tL2xlZ2FsL3ByaXZhY3kiO30=" class="register-link button">Join Thingiverse!</a>
 			</div>	
 			</div>
 </div>
@@ -81,95 +90,74 @@
 	</form>
 </div>
 <ul class="nav nav-pills">
-	<li><a href="/dashboard">						
+	<li><a href="http://www.thingiverse.com/dashboard">
 			Dashboard
 							<span class="badge badge-important" style="display:none"></span>
 				</a></li>
-	<li><a href="/explore/">Explore</a></li>
-	<li><a href="/challenges">Challenges</a></li>
+	<li><a href="http://www.thingiverse.com/explore/">Explore</a></li>
+	<li><a href="http://www.thingiverse.com/challenges">Challenges</a></li>
 	</ul>
-		</div>
-		<div class="loading-screen"></div>
-	<div id="wrapper">
+
+	</div>
+	<div class="loading-screen">
+				<img src="/img/loading.gif" alt="Loading" width="50" height="50"><span class="message"></span>
+	</div>
+		<div id="wrapper">
 	<div class="page-container">
 		<div id="push-wrap"><div id="push-main">
 			<div id="ajax_loader" style="display:none;">
 				<img src="/img/ajax-loader.gif" alt="Loading...">
 			</div>
 			<a name="top" class="nodisplay"></a>
-							<div class="header">
-					<div class="navbar">
-						<a href="/"><img src="/img/thingiverse-logo-2013.png" alt="Thingiverse"></a>
-						<ul class="nav nav-pills">
-							<li><a href="/dashboard">
-																			<span class="badge badge-important" style="display:none"></span>
-																		Dashboard
-							</a></li>
-							<li class="dropdown">
-								<a class="dropdown-toggle" data-toggle="dropdown" href="#">Explore</a>
-								<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-									<li><a href="/newest">Things</a></li>
-									<li><a href="/customizable">Customizable Things</a></li>
-									<li><a href="/collections">Collections</a></li>
-									<li><a href="/categories">Categories</a></li>
-									<li><a href="/challenges">Challenges</a></li>
-									<li><a href="/apps">Apps</a></li>
-								</ul>
-							</li>
-							<li class="dropdown">
-								<a class="dropdown-toggle" data-toggle="dropdown" href="#">Create</a>
-								<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-									<li><a href="/thing:0/edit" class="track" data-track-category="thing" data-track-action="create">Upload a Thing!</a></li>
-									<li><a href="/apps/customizer">Customize a Thing</a></li>
-									<li><a href="/developers">Create an App</a></li>
-								</ul>
-							</li>
-						</ul>
-						<div class="input-prepend pull-left search">
-							<form class="form-search" action="http://www.thingiverse.com/search">
-								<input type="text" class="span2 search-query" name="q" placeholder="Enter a search term">
-								<button type="submit" name="sa" class="icon"><i class="icon-search"></i></button>
-							</form>
-						</div>
-
-						<div class="login">
-							<div class="login-box">
-			<div class="login-options dropdown">
-			<span class="login-join">Sign in / Join</span>
-			<div class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-				<form id="ajax-login-form" method="post" action="/login" class="login-form">
-					<fieldset class="login-fields">
-						<input type="text" name="username" id="usr" placeholder="username">
-						<input type="password" name="password" id="pwd" placeholder="password">
-					</fieldset>
-
-					<div class="remember-me">
-						<input type="checkbox" id="rememberme" name="rememberme" value="1" checked="true">
-						<label for="rememberme">Remember Me</label>
-					</div>
-
-					<button type="submit" class="button" name="submit">Sign In</button>
-
-					<a class="forgot-pass" href="/forgotpass">Forgot Password?</a>
-
-					<div id="ajax-login-error">Login failed. Please check your username and password and try again.</div>
-				</form>
-
-				<a href="/register" class="register-link button">Join Thingiverse!</a>
-			</div>
+				<div class="header thingiverse">
+	<div class="navbar">
+		<a href="http://www.thingiverse.com"><img src="/img/thingiverse-logo-2013.png" alt="Thingiverse"></a>
+		<ul class="nav nav-pills">
+			<li><a href="http://www.thingiverse.com/dashboard">
+											<span class="badge badge-important" style="display:none"></span>
+										Dashboard
+			</a></li>
+			<li class="dropdown">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Explore</a>
+				<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					<li><a href="http://www.thingiverse.com/newest">Things</a></li>
+					<li><a href="http://www.thingiverse.com/customizable">Customizable Things</a></li>
+					<li><a href="http://www.thingiverse.com/collections">Collections</a></li>
+					<li><a href="http://www.thingiverse.com/categories">Categories</a></li>
+					<li><a href="http://www.thingiverse.com/challenges">Challenges</a></li>
+					<li><a href="http://www.thingiverse.com/apps">Apps</a></li>
+				</ul>
+			</li>
+			<li class="dropdown">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#">Create</a>
+				<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+					<li><a href="http://www.thingiverse.com/thing:0/edit" class="track" data-track-category="thing" data-track-action="create">Upload a Thing!</a></li>
+					<li><a href="http://www.thingiverse.com/apps/customizer">Customize a Thing</a></li>
+					<li><a href="http://www.thingiverse.com/developers">Create an App</a></li>
+				</ul>
+			</li>
+		</ul>
+		<div class="input-prepend pull-left search">
+			<form class="form-search" action="http://www.thingiverse.com/search">
+				<input type="text" class="span2 search-query" name="q" placeholder="Enter a search term">
+				<button type="submit" name="sa" class="icon"><i class="icon-search"></i></button>
+			</form>
 		</div>
-	</div>
-						</div>
 
-						<div id="off-canvas-toggle" class="login"><img src="/img/icon-menu.png" alt="Toggle menu" width="34" height="25"></div>
-					</div>
-				</div>
-			 			<div id="main">
+				<div class="login">
+			<div class="login-box">
+			<a href="//accounts.makerbot.com?redirect=YToyOntzOjQ6InR5cGUiO3M6ODoicmVkaXJlY3QiO3M6NDoiZGF0YSI7czo0MToiaHR0cHM6Ly93d3cudGhpbmdpdmVyc2UuY29tL2xlZ2FsL3ByaXZhY3kiO30="><span class="login-join">Sign in / Join</span></a>
+	</div>
+		</div>
 		
-<div id="privacy-policy">
-  <h2>Thingiverse Privacy Policy</h2>
+		<div id="off-canvas-toggle" class="login"><img src="/img/icon-menu.png" alt="Toggle menu" width="34" height="25"></div>
+	</div>
+</div>
+			<div id="main">
+		<div id="privacy-policy">
+  <h2>MakerBot Privacy Policy</h2>
   <br>
-  Thingiverse LLC ("<strong>Company</strong>") is committed to protecting your privacy.  We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.thingiverse.com, ("<strong>Site</strong>") and Services.  Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located <a href="/legal/">here</a>.<br>
+  MakerBot Industries, LLC ("<strong>Company</strong>") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at www.makerbot.com and www.thingiverse.com, (together the "<strong>Site</strong>") and Services. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located&nbsp;<a href="/legal/">here</a>.<br>
   <ul>
     <li><strong>1. User Consent.</strong>  By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.</li>
     <li><strong>2. A Note About Children.</strong>  We do not intentionally gather Personal Data from visitors who are under the age of 13. <br>
@@ -251,15 +239,17 @@
 							<li><a href="/about">About Thingiverse ®</a></li>
 							<li><a href="/legal/privacy">Privacy Policy</a></li>
 							<li><a href="/legal">Terms of Use</a></li>
-							<li><a href="http://support.thingiverse.com/discussion/new">Contact Us</a></li>
+							<li><a href="http://support.thingiverse.com" onclick="document.to_support_form.submit(); return false;">Contact Us</a></li>
 							<li><a href="/developers">Thingiverse ® API</a></li>
 						</ul>
 						<div class="copy-notice">
-							<span class="copyright">© 2013 <a href="http://www.makerbot.com">MakerBot® Industries, LLC</a></span>
+							<span class="copyright">© 2014 <a href="http://www.makerbot.com">MakerBot® Industries, LLC</a></span>
 							One MetroTech Center, 21st Floor, Brooklyn, NY 11201
 						</div>
 											</div>
 				</div>
+				<form id="to-support-form" name="to_support_form" action="//support.thingiverse.com" method="POST">
+									</form>
 			</div>
 				</div>        		<script type="text/javascript" src="/js/jstree/combined-min.js"></script>
 
@@ -267,7 +257,7 @@
 
 				<script src="/js/underscore-min.js"></script>
 
-				<script type="text/javascript" src="/js/thingiverse.js?ver=irony"></script>
+				<script type="text/javascript" src="/js/thingiverse.js?ver=kinder"></script>
 			<script type="text/template" id="event_template">
 				<a href="<%= target_url %>" class="event">
 			<img src="<%= target_thumb %>" class="<%= target_type %>-type"/>
@@ -304,19 +294,21 @@
   </div>
 </div>
 	</script>
-	<script type="text/javascript" src="/js/thingiverse/libs/uploadify.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/libs/ffbttn.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/libs/browser_combat.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/event/Event.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/user/User.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/user_controller.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/uploads.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/Thing.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/Comment.js?ver=irony"></script>
-	<script type="text/javascript" src="/js/thingiverse/spotlight.js?ver=irony"></script>
-		<script type="text/javascript">
-			init_login_form();
-		</script>
+	<script type="text/javascript" src="/js/thingiverse/libs/uploadify.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/libs/ffbttn.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/libs/browser_combat.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/event/Event.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/user/User.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/addressform.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/user_controller.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/uploads.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/Thing.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/Comment.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/makerbot_nav.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/Search.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/sso.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/spotlight.js?ver=narf"></script>
+	<script type="text/javascript" src="/js/thingiverse/Printshop.js?ver=narf"></script>
 
         						<script>
 			$(document).ready(function(){
