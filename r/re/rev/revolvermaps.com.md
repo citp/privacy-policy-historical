@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231210313id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628031056id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | RevolverMaps - Free 3D Visitor Maps
 
