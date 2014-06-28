@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228063010id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628210112id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Life with Captain Fussybuckets
 
@@ -93,4 +93,4 @@ The following two tabs change content below.
 
 
 
-Gena is the mom of three boys, ages 5, 2, and brand new! She is the wife of a great man, a Christian, blogger, and former kindergarten teacher turned stay-at-home mom. They live in the Dallas/ Ft. Worth, Texas area.
+Gena is the mom of three boys, ages 5, 3, and brand new! She is the wife of a great man, a Christian, blogger, and former kindergarten teacher turned stay-at-home mom. They live in the Dallas/ Ft. Worth, Texas area.
