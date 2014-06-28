@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009202025id_/http%3A//ragingbull.com/terms%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragingbull.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628074020id_/http%3A//ragingbull.com/terms%23privacypolicy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -93,8 +93,8 @@ If you believe that materials posted on our Websites infringe your rights under 
 
 Email:  [ LEGAL](mailto:info@RagingBull.com)   
 RagingBull.com  
-1910 ESE Loop 323 #168  
-Tyler, TX 75701  
+835 E. Lamar Blvd. #222  
+Arlington, TX 76011  
 Attn: Customer Service 
 
 ** 14.2. Content of Notice**: Your notice to our Designated Agent should contain the following information:   
@@ -235,8 +235,8 @@ By using the Websites, you consent to our collection and use of your information
 You may contact us by email or traditional mail at the following addresses:   
 By postal mail:   
 RagingBull.com  
-1910 ESE Loop 323 #168  
-Tyler, TX 75701  
+835 E. Lamar Blvd. #222  
+Arlington, TX 76011  
 Attention: Customer Relations   
 By email:  [ info@RagingBull.com  ](mailto:info@RagingBull.com) **
 
@@ -278,13 +278,12 @@ Our obligations with respect to your use of the RagingBull.com Websites are refl
 **12.7 Contact Us**   
 For matters relating to RagingBull.com you may contact us for any reason by email or traditional mail at the following addresses, provided, however, if you wish to provide us with formal notice under our RagingBull.com Website Terms and Conditions or our Privacy Policy, you must provide your notice in writing, and mail it to the address set forth below: 
 
-**By mail:**   
-RagingBull.com   
-1910 ESE Loop 323 #168   
-Tyler, TX 75701   
+**By mail:** RagingBull.com  
+835 E. Lamar Blvd. #222  
+Arlington, TX 76011  
 Attention: Customer Service 
 
 **By email:**
 
-[ Customer Service](mailto:info@RagingBull.com)   
+[ Customer Service](mailto:info@ragingbull.com)   
 Effective date: June 30, 2011 
