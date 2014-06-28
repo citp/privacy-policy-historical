@@ -1,18 +1,11 @@
-> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111234711id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628190756id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy for Eventective
 
-|  | 
-
-[](https://web.archive.org/)
-
-|   
----|---  
-  
   
 Eventective.com ("Website") is strongly committed to your right to privacy and to taking steps designed to secure your personal and financial information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy. 
 
-The Eventective.com website is owned and operated by Eventective, Inc., which is located at 480 Congress Street, Portland, ME 04101. The website refers visitors to hotels, restaurants, and other Venues that have meeting and event rooms, as well as to event- and meeting-related service providers or vendors.
+The Eventective.com website is owned and operated by Eventective, Inc., which is located at 10 Plaza Drive, Suite 105, Scarborough, ME 04074. The website refers visitors to hotels, restaurants, and other Venues that have meeting and event rooms, as well as to event- and meeting-related service providers or vendors.
 
 In some instances, when you provide personal information to this website, you are providing it to both Eventective.com and to one of the companies featured on the site. For example, if you create an account with Eventective.com and then search for a Venue in which to hold your event, or a Vendor for your event, you may request that information about your event be sent to certain Venues and Vendors. In this case, your information will be provided to both Eventective.com and the Venues or Vendors you have chosen.
 
@@ -64,6 +57,6 @@ Please be aware that on our site we have advertisements and links to other websi
 
 Our address  
 Eventective, Inc.  
-480 Congress Street  
-Portland, ME 04101  
+10 Plaza Drive, Suite 105  
+Scarborough, ME 04074  
 http://www.eventective.com
