@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020259id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oovoo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232232id_/http%3A//www.oovoo.com/TermsAndPolicies.aspx%3Fpname%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Video & Chat with ooVoo
 
