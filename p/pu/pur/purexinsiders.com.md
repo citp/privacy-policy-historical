@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purexinsiders.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219231444id_/http%3A//www.purexinsiders.com%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purexinsiders.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628091053id_/http%3A//www.purexinsiders.com%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purex Insiders
 
