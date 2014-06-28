@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424071412id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628134728id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
-# AppLovin - Privacy Policy
+# AppLovin - Privacy
 
-AppLovin Corporation (“we,” “us,” “our” or “AppLovin”) is a mobile advertising company that provides application developers with an innovative platform to deliver more targeted advertising to their consumers. Our unique technology enables our partners to show mobile application users more relevant advertising that is based on a users’ interests and behaviors. In order to provide these services, we collect and use certain information about user activity and preferences.
+AppLovin Corporation (“we,” “us,” “our” or “AppLovin”) is a mobile advertising company that provides application developers with a platform to deliver more targeted advertising to their consumers. Our technology enables our partners to show mobile application users more relevant advertising that is based on users’ interests and behaviors. In order to provide these services, we collect and use certain information about user activity and preferences.
 
 AppLovin recognizes the importance of consumer privacy and we take this issue very seriously. To this end, we have designed the AppLovin Privacy Policy (this “Policy”) in a format that is easy to navigate and read so that you can clearly understand our privacy practices. We are committed to treating your personal information with care and respect.
 
-_Effective Date:_ November 15, 2012
+AppLovin has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your information. The TRUSTe program does not cover information that may be collected through this website. The TRUSTe program covers only information that is collected by AppLovin’s technology on mobile devices.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+
+_Effective Date:_ December 28, 2013
 
 This Policy describes the treatment of information provided or collected on or through (i) our U.S. website, which is currently located at [www.AppLovin.com](http://applovin.com/) (the “Site”); (ii) the network of application publishers and developers (the “AppLovin Apps”); and (iii) our other online services (together with the Site and the AppLovin Apps, the “Services”).
 
@@ -31,60 +35,53 @@ If you have any questions about this Policy or our privacy practices, please do 
 
 ## 1\. Types of Information We Collect
 
-We collect two main types of information through the Services - personal information and anonymous information. AppLovin may also use personal information and anonymous information to generate a third type of information, aggregate information. Descriptions of these terms are available in the Definitions section of the Policy.
+We collect two main types of information through the Services - personal information and anonymous information and we may also generate a third type of information, aggregate information, as set forth in more detail below. Descriptions of these terms are available in the Definitions section of the Policy.
 
 Please note that we may collect different categories of personal, anonymous and aggregate information from you depending on the nature of your interaction with the Services.
 
 ## 2\. Information We Collect From Business Partners
 
-If you are a visitor to the Site or one of our Business Partner, we may collect the following categories of information from you:
+If you are one of our Business Partner, we may collect the following categories of information from you:
 
   * Registration information that you provide when you create an AppLovin account. For example, in order to register for the Services we require all Business Partners to create a username and password, and provide us with basic contact information (such as first and last name, email address and company name).
-  * Transaction information that you provide when you request information from AppLovin,submit a payment to us in connection with your use of the Services, or receive a payment from us in connection with your use of the Services. Examples of transaction information may include basic contact information, bank or financial account information, credit card or debit card numbers and similar details required to process your payments or respond to your request.
-  * Technical, viewing and usage information that relates to your interaction with the Site, such as your physical location, the unique device identifier (“UDID”) or Internet Protocol address (“IP Address”) of the device that you use to access the Site and the amount of time you spend viewing certain portions of the Site.
+  * Transaction information that you provide when you request information from AppLovin, submit a payment to us in connection with your use of the Services, or receive a payment from us in connection with your use of the Services. Examples of transaction information may include basic contact information, bank or financial account information, credit card or debit card numbers and similar details required to process your payments or respond to your request.
+  * Technical, viewing and usage information that relates to your interaction with the Site, such as your physical location, the unique identifier or Internet Protocol address (“IP Address”) of the device that you use to access the Site and the amount of time you spend viewing certain portions of the Site.
 
 
 
 ## 3\. Information We Collect From Consumers
 
-If you are a Consumer that downloads and uses an AppLovin App or otherwise interacts with the Services, our Software Development Kit (“SDK”) automatically collects the device information identified below and transmits it to AppLovin so that we can provide social features on behalf of the developer who owns that specific AppLovin App. We may collect and transmit such device information as either raw or hashed data, depending on the sensitivity of the information in question.
+If you are a Consumer that downloads and uses an AppLovin App or otherwise interacts with the Services, we may collect the device information identified below so that we can provide our services. We may collect and transmit such device information as either raw or hashed data, depending on the sensitivity of the information in question. AppLovin does not automatically collect any personal information directly from Consumers but may obtain such personal information from its Business Partners in connection with the Services or when Consumers submit such personal information to AppLovin via the Site.
 
 ### Raw Data.
 
-The SDK may collect and transfer non-sensitive device information as raw data, such as:
+The SDK may collect and transfer non-sensitive device information as raw data, such as:
 
-  * Geographic location;
+  * Generic geographic location, such as the city you are located in;
   * Carrier;
   * Device make and manufacturer;
-  * Operating System version installed on device;
+  * Operating System;
   * Name of mobile application through which a Consumer interacts with the Services;
   * Language settings;
-  * Birth year;
-  * Whether WiFi has been enabled (y/n);
-  * Whether unknown sources download permission has been enabled (y/n);
-  * Computer speed;
+  * Connection speed;
   * IP Address;
+  * Android ID;
   * Internet browser used to access the Services; and
-  * Whether the Consumer has installed certain social networking services on his or her device (y/n).
+  * Identifier for advertisers (IDFA).
 
 
+
+You can enable or disable geolocation services when you use our services at anytime, through your mobile device settings (though the modalities may vary depending on the specific mobile device you are using).
 
 ### Hashed Data.
 
-Our SDK also collects device information that includes personal information and certain types of anonymous information that AppLovin views as being particularly sensitive. Because we understand the importance of protecting Consumer privacy, we are committed to storing the following device information as hashed data to help prevent its unauthorized disclosure or use:
+We may also collect device information that AppLovin views as being particularly sensitive. Because we understand the importance of protecting consumer privacy, we are committed to storing the following device information as hashed data to help prevent its unauthorized disclosure or use:
 
-  * UDID (IMEI);
-  * Android ID;
-  * Identifier for advertisers (IDFA);
-  * Consumer’s email addresses associated with the device;
-  * Consumer’s telephone number;
-  * Mac address;
-  * Serial number of device; and
   * Names of the mobile applications downloaded on the Consumer’s device.
 
 
 
-For additional information regarding the steps we take to safeguard your personal information, please refer to the Data Security, Integrity and Retention section of the Policy.
+For additional information regarding the steps we take to safeguard your information, please refer to the Data Security, Integrity and Retention section of the Policy.
 
 ## 4\. How We Collect Information
 
@@ -98,7 +95,7 @@ We may also collect certain types of information automatically, including throug
 
 ### Consumers.
 
-AppLovin primarily collects information from Consumers through our SDK, which is integrated into each AppLovin App. By downloading and using an AppLovin App, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver personalized advertisements through the Services.
+AppLovin primarily collects information from Consumers when an application developer or website publisher requests AppLovin to serve an advertisement to a consumer. By downloading and using a partner Application, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver advertisements through the Services. In addition, AppLovin may collect information from Consumers through use of a Cookie, Web Beacon or similar tracking technologies if the Consumer accesses advertisements from a browser or is redirected to a browser by advertisements provided through the Services. Certain advertisements may redirect you to a browser where AppLovin may use a Cookie to track Consumer activities.
 
 ## 5\. Use of Your Information by AppLovin
 
@@ -109,7 +106,7 @@ AppLovin uses the information we collect about you to provide the Services and t
   * Provide you with requested services;
   * Communicate with you about your AppLovin account, your interactions with the Services or your contacts’ interactions with the Services;
   * Protect the rights or property of AppLovin or third parties; and
-  * Deliver personalized advertisements and social content on behalf of our Business Partners.
+  * Deliver targeted advertisements on behalf of our Business Partners. You may opt-out of receiving such targeted advertisements as set forth below.
 
 
 
@@ -126,7 +123,7 @@ AppLovin will not share your personal information with other companies, except u
   * We may disclose your personal information to third parties when you consent to a particular disclosure of your personal information. Please note that once we share your information with another company, that information becomes subject to the other company’s privacy practices. 
   * ### Compelled Disclosures:
 
-On rare occasions, we may share your personal information when compelled to do so by government authorities or as otherwise required or permitted by applicable laws and regulations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders). AppLovin may also share your personal information with third parties if we believe in good faith that disclosure is appropriate to protect our rights, property or safety (including the enforcement of the [AppLovin Terms of Use](https://web.archive.org/terms), or to protect the rights, property or safety of third parties. 
+On rare occasions, we may share your personal information when compelled to do so by government authorities or as otherwise required or permitted by applicable laws and regulations (e.g., pursuant to law enforcement inquiries, subpoenas or court orders). AppLovin may also share your personal information with third parties if we believe in good faith that disclosure is appropriate to protect our rights, property or safety (including the enforcement of the [AppLovin Terms of Use](https://web.archive.org/terms), or to protect the rights, property or safety of third parties. 
   * ### Agents / Service Providers:
 
 AppLovin may disclose personal information to our trusted agents and service providers so that they can perform requested services on our behalf. For example, we may share payment information with a third party service provider in order to assist us with processing credit card payments. These entities are prohibited from using your personal information for any purposes other than providing AppLovin with requested services. 
@@ -145,30 +142,33 @@ AppLovin provides you with the ability to exercise certain choices and controls 
 
   * Requesting access to the personal information about you that we hold;
   * Correcting, updating or deleting the information associated with your AppLovin account;
-  * Changing your preferences regarding receiving notifications or other communications from AppLovin (e.g., emails and “push notifications”); and
-  * Opting-out of interest-based advertising delivered by AppLovin.
+  * Opting-out of targeted advertising delivered by AppLovin.
 
 
 
 If you would like additional information about the choices and controls that may be available to you, or you would like to access your personal information, please [contact us](https://web.archive.org/contact).
 
-We make it easy to opt-out of our interest-based advertising services. In order to do so, simply complete the [Opt Out form](https://web.archive.org/optout) on the Site. Please note that even if you opt-out, you may still receive content and advertising from AppLovin. Opting-out just means that the advertisements you do receive from us will not be based on your interests, preferences or behavior.
+### Opt-Out:
+
+We make it easy to opt-out of our targeted advertising services. In order to do so, simply visit the [Opt Out section](https://web.archive.org/optout) on the Site. Please note that even if you opt-out, you may still receive content and advertising from AppLovin. Opting-out just means that the advertisements you do receive from us will not be targeted in any sort of way.
 
 ## 8\. Children’s Privacy
 
-We do not use the Services to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide personal information through the Services. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should promptly [contact us](https://web.archive.org/contact) and we take reasonable steps to ensure that such information is deleted from our files.
+We do not use the Services to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide personal information through the Services. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should promptly [contact us](https://web.archive.org/contact) and we take reasonable steps to ensure that such information is deleted from our files.
 
 ## 9\. Data Security, Integrity and Retention
 
 Your privacy is very important to AppLovin and we are committed to protecting your personal information from unauthorized access, use or disclosure. We have implemented physical, technical and administrative security measures for the Services that comply with applicable laws and industry standards. For example, we use firewalls, encryption technology and other automated software designed to protect against fraud and identity theft.
 
-In addition, we take steps to ensure that sensitive information is stored in an anonymous format through a technique known as “hashing”. When a Consumer downloads and uses an AppLovin App, our SDK helps to collect and process information locally on the Consumer’s mobile device. This allows us to identify the sensitivity level of certain device information prior to transferring it to our servers for storage. Rather than sending sensitive device information as raw data that can be easily associated with the relevant Consumer, the SDK only transfers anonymous hashed representations of certain types of information back to AppLovin. Our servers then associate the hashed representations with a unique anonymous identifier assigned to each Consumer by AppLovin. When a Consumer subsequently interacts with the Services, this process allows us to identify that Consumer and provide social content and personalized advertising without storing his or her sensitive information in a form that would be easily readable to unauthorized third parties.
+In addition, we take steps to ensure that information is stored in an anonymous format through a technique known as “hashing”. When a Consumer downloads and uses an App or website that requests AppLovin to serve advertisements, we may collect and process information locally on the Consumer’s mobile device. This allows us to identify the sensitivity level of certain device information prior to transferring it to our servers for storage. Rather than sending sensitive device information as raw data that can be easily associated with the relevant Consumer, we only transfers anonymous hashed representations of certain types of information back to AppLovin. Our servers then associate the hashed representations with a unique anonymous identifier assigned to each Consumer by AppLovin. When a Consumer subsequently interacts with the Services, this process allows us targeted advertising without storing any sensitive information in a form that would be easily readable to unauthorized third parties.
 
-AppLovin also protects Consumer privacy by seeking to minimize the amount of sensitive data that we store on our servers in the first place. For additional information regarding how we store data, please refer to the [Consumer Privacy](https://web.archive.org/yourprivacy) portion of the Site. You may also [contact us](https://web.archive.org/contact) anytime with your questions or concerns.
+AppLovin also protects Consumer privacy by seeking to minimize the amount of sensitive data that we store on our servers in the first place. For additional information regarding how we store data, please refer to the [Consumer Privacy](https://web.archive.org/yourprivacy) portion of the Site. You may also [contact us](https://web.archive.org/contact) anytime with your questions or concerns.
+
+AppLovin retains the raw data it collects from Consumers for up to 2 years. The information received from Business Partners is retained for as long as needed to provide you services. We will retain and use the information we receive for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 10\. Changes to the Policy
 
-We may, in our sole discretion, make changes to the Policy from time to time in order to accommodate new technologies, industry practices, regulatory requirements or for other purposes. The most recent version of the Policy will always be posted on the Site. If we do make any changes, we will also update the “Effective Date” posted at the top of the Policy and we may provide you with other forms of notice, such as email. We encourage you to review the Policy periodically to ensure that you understand how we collect, use and share information through the Services.
+We may, in our sole discretion, make changes to the Policy from time to time in order to accommodate new technologies, industry practices, regulatory requirements or for other purposes. The most recent version of the Policy will always be posted on the Site. If we do make any changes, we will also update the “Effective Date” posted at the top of the Policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review the Policy periodically to ensure that you understand how we collect, use and share information through the Services.
 
 Any changes to the Policy will become effective when the revised Policy is posted on the Site. By continuing to use the Services following such changes, you are agreeing to accept the terms of the revised Policy.
 
@@ -180,9 +180,9 @@ AppLovin Corporation
 849 High St.  
 Palo Alto, CA 94301 
 
-You can also contact us via email at [care@AppLovin.com](mailto:care@AppLovin.com) (customer service) or [legal@AppLovin.com](mailto:legal@AppLovin.com) (legal), as well as via facsimile at (650) 644-0581.
+You can also contact us via email at [care@AppLovin.com](mailto:care@AppLovin.com) (customer service) or [legal@AppLovin.com](mailto:legal@AppLovin.com) (legal).
 
-Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner.
+Please be sure to include your name, address and email address in any correspondence to us so that we can respond to your inquiry in a timely manner. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ## 12\. Definitions
 
@@ -192,7 +192,7 @@ Aggregate information refers to de-identified information about groups or partic
 
 ### Anonymous Information.
 
-Anonymous information refers to information that does not (and cannot reasonably be used to) directly or indirectly identify you as an individual, such as the UDID and/or IP Address of the device that you use to access the Services. If anonymous information is ever directly or indirectly associated with personal information, AppLovin will also treat the anonymous information as personal information.
+Anonymous information refers to information that does not (and cannot reasonably be used to) directly or indirectly identify you as an individual, such as the IDFA and/or IP Address of the device that you use to access the Services. If anonymous information is ever directly or indirectly associated with personal information, AppLovin will also treat the combination of data as personal information.
 
 ### AppLovin Apps.
 
@@ -208,15 +208,15 @@ Consumers are those individuals who download, use or otherwise interact with an 
 
 ### Cookies.
 
-Cookies are small pieces of information that your internet browser places on the hard drive of your device when you visit a website. We use cookies to identify your device when you return to the Site. Cookies allow AppLovin to associate your device with other information that resides in our database, which helps us to remember your preferences and personalize your experience with the Services. You can configure the settings of most internet browsers to warn you each time a cookie is being sent, or to reject cookies entirely. If you disable cookies, however, you will not have access to many features that make your interaction with the Services more efficient and some of the Services may not function properly. You can find additional information about cookies at [http://cookiecentral.com](http://cookiecentral.com/).
+Cookies are small pieces of information that your internet browser places on the hard drive of your device when you visit a website. We use cookies to identify your device when you return to the Site. Cookies allow AppLovin to associate your device with other information that resides in our database, which helps us to remember your preferences and personalize your experience with the Services. You can configure the settings of most internet browsers to warn you each time a cookie is being sent, or to reject cookies entirely. If you disable cookies, however, you will not have access to many features that make your interaction with the Services more efficient and some of the Services may not function properly. You can find additional information about cookies at [http://cookiecentral.com](http://cookiecentral.com/).
 
 ### Device Information.
 
-Device information refers to the information automatically collected from a Consumer’s device by our SDK. Such information may be processed locally, or transferred to AppLovin for processing and/or storage. AppLovin may collect and/or store device information as raw or hashed data. For a complete list of the device information we collect from Consumers, please refer to the Information We Collect From Consumers section of the Policy.
+Device information refers to the information automatically collected from a Consumer’s device by our SDK. Such information may be processed locally, or transferred to AppLovin for processing and/or storage. AppLovin may collect and/or store device information as raw or hashed data. For a complete list of the device information we collect from Consumers, please refer to the Information We Collect From Consumers section of the Policy.
 
 ### Hashed Data.
 
-Hashing is a technique that anonymizes data.  Storing information as hashed data allows AppLovin to associate certain information with a Consumer without directly affiliating him or her with personal information.  AppLovin stores sensitive information in hashed form to help protect the privacy of such Consumers while providing the Services. Please refer to the Data Security, Integrity and Retention of the Policy or the [Consumer Privacy](https://web.archive.org/yourprivacy) portion of the Site for additional information about how we use “hashing” to safeguard Consumer information.
+Hashing is a technique that anonymizes data. Storing information as hashed data allows AppLovin to associate certain information with a Consumer without directly affiliating him or her with personal information. AppLovin stores sensitive information in hashed form to help protect the privacy of such Consumers while providing the Services. Please refer to the Data Security, Integrity and Retention of the Policy or the [Consumer Privacy](https://web.archive.org/yourprivacy) portion of the Site for additional information about how we use “hashing” to safeguard Consumer information.
 
 ### Personal Information.
 
@@ -228,7 +228,7 @@ Raw data refers to data that has not been processed for a particular use or othe
 
 ### Software Development Kit (SDK).
 
-AppLovin’s SDK, which is integrated into each AppLovin App, is software that allows our Business Partners to provide you with social and personalized content. By downloading and using an AppLovin App, Consumers grant the application developer with permission to collect such device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver personalized advertisements through the Services.
+AppLovin’s SDK, which is integrated into each AppLovin App, is software that allows our Business Partners to provide you with social and personalized content. By downloading and using an AppLovin App, Consumers grant the application developer with permission to collect such device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver targeted advertisements through the Services.
 
 ### Web Beacons.
 
