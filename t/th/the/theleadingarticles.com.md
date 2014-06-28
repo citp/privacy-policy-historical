@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817014245id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628152310id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Leading Articles
 
@@ -68,7 +68,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.theleadingarticles.com/terms-and-conditions](https://web.archive.org/web/20130817014245id_/http%3A//terms-and-conditions) ****
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.theleadingarticles.com/terms-and-conditions](https://web.archive.org/web/20140628152310id_/http%3A//terms-and-conditions) ****
 
 **Contact TheLeadingArticles.com**
 
