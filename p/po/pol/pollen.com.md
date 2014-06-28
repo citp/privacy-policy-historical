@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628065047id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
 
 # Free 4-day Allergy Forecasts and Allergy Alerts by Pollen.com
 
@@ -39,6 +39,12 @@ We will never share or sell your personal information, including your email addr
 **5\. Delete/Deactivate Policy**  
 If you would like your information to be deleted or deactivated from our site, please contact us by e-mail using the contact information near the bottom of this statement.
 
+#### Thrid Party Vendors.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
 Questions regarding this statement should be directed to:
 
 Pollen.com  
@@ -47,6 +53,6 @@ c/o IMS Health Incorporated
 Plymouth Meeting, PA 19462
 
 Phone: (610) 834-0800  
-Or send us a message by clicking [here](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/contact.asp). 
+Or send us a message by clicking [here](https://web.archive.org/web/20140628065047id_/http%3A//www.pollen.com/contact.asp). 
 
-[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20130905123943id_/http%3A//www.pollen.com/cookies.asp)
+[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20140628065047id_/http%3A//www.pollen.com/cookies.asp)
