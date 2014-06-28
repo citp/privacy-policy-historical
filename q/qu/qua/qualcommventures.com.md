@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualcommventures.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922044345id_/http%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcommventures.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628094447id_/http%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Information | Qualcomm
 
@@ -10,7 +10,7 @@ This Policy covers only data collected through the Site and not any other data c
 
 We comply with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
 
-_Information you submit._ When you request information, subscribe for a service, register as a user, respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), mailing address(es), telephone number(s), and certain information related to the business you represent. In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information). In each such instance, you will know what data we collect through the site, because you actively submit it.
+_Information you submit._ When you request information, subscribe to or order a product or service, register as a user, respond to an online survey or otherwise actively send us data, we usually collect data such as your name, email address(es), mailing address(es), telephone number(s), and certain information related to the business you represent. In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification information), phone number, and billing and shipping addresses. In each such instance, you will know what data we collect through the site, because you actively submit it.
 
 _Information we automatically collect._ As part of the standard operation of the Site, we may collect information from your computer or mobile device, including but not limited to your browser type, operating system, IP address and the domain name from which you accessed the site, and if you are accessing our site with your mobile device, type of mobile device. In addition, we may collect information about how you use our Site, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data.
 
@@ -24,7 +24,7 @@ For further information, please see our [Cookie Policy](http://www.qualcomm.com/
 
 We use the data we collect for the following general purposes:
 
-  * To respond to the request that you sent us such as your request for information, or your request to subscribe to a service we offer;
+  * To respond to the request that you sent us such as your request for information, or your request to subscribe to a service or purchase a product;
   * To administer, protect and improve our Site and our systems;
   * To better understand the preferences of our Site visitors;
   * To identify server problems;
@@ -43,9 +43,13 @@ We keep data in California and the Qualcomm group of companies also has servers,
 
 We do not share your personally identifiable information with others, except as follows: We freely share your information within the Qualcomm group of companies, except for personal data transferred from the European Economic Area and Switzerland, which we only share with our subsidiaries that process data on our behalf unless we transfer the personal data using other legal mechanisms (e.g., consent). We also share your information with third parties who process the data on our behalf for the purposes set forth in this Policy. Portions of our Site may offer services or information specific to identified partners or customers (such as training services for customers) and in such cases, we may share your personal information and activities on our Site with the identified partners or customers for their business use. We may also share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Finally, we may also share your personal information where you have granted us permission, and we reserve the right to fully use and disclose any information collected via the Site that is not in personally identifiable form.
 
-In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial email or to unsubscribe from services, please notify us through <http://www.qualcomm.com/feedback.htm>. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests.
+_Opt-Out._ In connection with promotions or other projects, we may ask you specifically whether you have objections against a certain kind of data use or sharing. If you opt-out under such circumstances, we will respect your decision. To opt-out of receiving further commercial email or to unsubscribe from services, please notify us through <http://www.qualcomm.com/feedback.htm>. Please note that our affiliates and other data recipients have their own data privacy policies, which may differ from ours and you would have to contact them separately with respect to opt-out requests.
 
-If personal information you have submitted through the Site is no longer accurate, current, or complete, and you wish to update it, please submit your changes at <http://www.qualcomm.com/feedback.htm>. Upon appropriate request we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate.
+_Access._ If personal information you have submitted through the Site is no longer accurate, current, or complete, and you wish to update it, please submit your changes at <http://www.qualcomm.com/feedback.htm>. Upon appropriate request we will usually be glad to update or amend your information, but we reserve the right to use information obtained previously to verify your identity or take other actions that we believe are appropriate.
+
+_Do Not Track._ We do not currently use a mechanism to act upon "Do Not Track" instructions. We are investigating such mechanisms, however.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Transmissions over the Internet are never 100% secure or error-free. However, we take reasonable steps to protect your personal information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. It is your responsibility to safeguard any password and User ID you use to access the site and to notify us through <http://www.qualcomm.com/feedback.htm> if you ever suspect that this password or User ID has been compromised. You are solely responsible for any unauthorized use of the site conducted via your password and User ID.
 
@@ -57,4 +61,4 @@ We reserve the right to change this Policy from time to time and in our sole dis
 
 Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this Policy. Click here to access our [Privacy Policy Inquiry](https://web.archive.org/site/privacy-policy-inquiry) form, or write to us at Qualcomm Incorporated, 5775 Morehouse Drive, San Diego, CA 92121.
 
-Effective date: March 27, 2013
+Effective date: January 1, 2014
